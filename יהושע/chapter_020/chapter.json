@@ -4,18 +4,18 @@
   "book_chapters": 24,
   "chapter": 20,
   "title": "יהושע פרק 20",
-  "english_translation": "KJV",
-  "audio_en_url": "https://www.audiotreasure.com/content/KJV_FF/06_Joshua_20.mp3",
+  "english_translation": "BSB",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/20-5ffae5c81c9d4a92d44fd52e94e8164a.mp3?version_id=3034",
   "english": [
-    "The Lord also spake unto Joshua, saying,",
-    "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:",
-    "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.",
-    "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.",
-    "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.",
-    "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
-    "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.",
-    "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
-    "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation."
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
   ],
   "ai_explanation": [
     "הפסוק מציין שה' פונה ומדבר אל יהושע.",
@@ -104,7 +104,17 @@
       "image_prompt": "Panoramic view of multiple refuge towns with diverse groups of Israelites and resident foreigners finding shelter, peaceful atmosphere, ancient clothing and architecture, respectful, no modern objects or text"
     }
   ],
-  "times_en": [],
+  "times_en": [
+    3.06,
+    5.94,
+    12.52,
+    22.14,
+    36.44,
+    48.28,
+    63.68,
+    76.8,
+    91.8
+  ],
   "did_you_know": [
     {
       "verse": 3,
@@ -124,5 +134,31 @@
       "text_he": "הערים בצר, רמת וגולן הוקמו מעבר לירדן, כך שלא רק תושבי הארץ המערבית יכולים היו למצוא מקלט. למעשה היו שלוש ערי מקלט בכל צד של הירדן, מפוזרות כדי לאפשר גישה מאזורי הארץ השונים.",
       "text_en": "The cities Bezer, Ramoth and Golan were set up east of the Jordan so people on that side could also find refuge. In effect there were three refuge cities on each side of the Jordan, spread out to provide access across the land."
     }
+  ],
+  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
+  "english_audio_version_id": 3034,
+  "english_audio_id": 1804,
+  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_end": [
+    5.94,
+    12.52,
+    22.14,
+    36.44,
+    48.28,
+    63.68,
+    76.8,
+    91.8,
+    109.16
+  ],
+  "times_en_usfm": [
+    "JOS.20.1",
+    "JOS.20.2",
+    "JOS.20.3",
+    "JOS.20.4",
+    "JOS.20.5",
+    "JOS.20.6",
+    "JOS.20.7",
+    "JOS.20.8",
+    "JOS.20.9"
   ]
 }

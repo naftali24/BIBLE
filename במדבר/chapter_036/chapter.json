@@ -4,22 +4,22 @@
   "book_chapters": 36,
   "chapter": 36,
   "title": "במדבר פרק 36",
-  "english_translation": "KJV",
-  "audio_en_url": "https://www.audiotreasure.com/content/KJV_FF/04_Numbers_36.mp3",
+  "english_translation": "BSB",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/36-976ed9d92095cf1aad78d3bbf56fcd55.mp3?version_id=3034",
   "english": [
-    "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:",
-    "And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother unto his daughters.",
-    "And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.",
-    "And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.",
-    "And Moses commanded the children of Israel according to the word of the Lord, saying, The tribe of the sons of Joseph hath said well.",
-    "This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.",
-    "So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.",
-    "And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.",
-    "Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.",
-    "Even as the Lord commanded Moses, so did the daughters of Zelophehad:",
-    "For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their fathers brothers' sons:",
-    "And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.",
-    "These are the commandments and the judgments, which the Lord commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho."
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13"
   ],
   "ai_explanation": [
     "גם בסוף הספר מופיעה מצווה שקשורה להתנחלות, אך כאן הדברים מתחילים לא בציווי ה' אלא בפניית ראשי בני גלעד אל משה; הם חששו שנחלתם תעבור לשבט אחר אם בנות צלפחד יתחתנו מחוץ לשבט. פנייתן של הבנות מקבילה לפניית בני השבט, ויש דמיון בין שתי תגובות ה' לעניין.",
@@ -89,7 +89,21 @@
       "image_prompt": "Wide landscape of the plains of Moab overlooking the Jordan valley toward Jericho at dawn, Moses standing on a rise addressing the people below with the camp spread out, a sense of law and assembly in an ancient Near Eastern setting, respectful, landscape, no written text, no modern objects"
     }
   ],
-  "times_en": [],
+  "times_en": [
+    3.52,
+    16.8,
+    30.0,
+    45.36,
+    55.72,
+    63.8,
+    75.48,
+    86.48,
+    99.3,
+    107.66,
+    112.5,
+    121.72,
+    131.02
+  ],
   "did_you_know": [
     {
       "verse": 1,
@@ -115,5 +129,39 @@
       "text_he": "שמות הבנות נרשמו (מחלה, תרצה, חגלה, מילכה ונועה); חלק מהשמות האלה מופיעים גם במקומות אחרים בתנ\"ך — למשל 'תרצה' נכנסה לשורש שם מקום.",
       "text_en": "The daughters’ names are recorded (Mahlah, Tirzah, Hoglah, Milcah and Noah); some of these names appear elsewhere in the Bible — for example, 'Tirzah' is also used as a place-name."
     }
+  ],
+  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
+  "english_audio_version_id": 3034,
+  "english_audio_id": 1804,
+  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_end": [
+    16.8,
+    30.0,
+    45.36,
+    55.72,
+    63.8,
+    75.48,
+    86.48,
+    99.3,
+    107.66,
+    112.5,
+    121.72,
+    131.02,
+    142.2
+  ],
+  "times_en_usfm": [
+    "NUM.36.1",
+    "NUM.36.2",
+    "NUM.36.3",
+    "NUM.36.4",
+    "NUM.36.5",
+    "NUM.36.6",
+    "NUM.36.7",
+    "NUM.36.8",
+    "NUM.36.9",
+    "NUM.36.10",
+    "NUM.36.11",
+    "NUM.36.12",
+    "NUM.36.13"
   ]
 }

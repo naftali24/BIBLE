@@ -4,19 +4,19 @@
   "book_chapters": 24,
   "chapter": 16,
   "title": "יהושע פרק 16",
-  "english_translation": "KJV",
-  "audio_en_url": "https://www.audiotreasure.com/content/KJV_FF/06_Joshua_16.mp3",
+  "english_translation": "BSB",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/16-6ea8bc16373009490fb0f5489aaad94c.mp3?version_id=3034",
   "english": [
-    "And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,",
-    "And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth,",
-    "And goeth down westward to the coast of Japhleti, unto the coast of Bethhoron the nether, and to Gezer; and the goings out thereof are at the sea.",
-    "So the children of Joseph, Manasseh and Ephraim, took their inheritance.",
-    "And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;",
-    "And the border went out toward the sea to Michmethah on the north side; and the border went about eastward unto Taanathshiloh, and passed by it on the east to Janohah;",
-    "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.",
-    "The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This is the inheritance of the tribe of the children of Ephraim by their families.",
-    "And the separate cities for the children of Ephraim were among the inheritance of the children of Manasseh, all the cities with their villages.",
-    "And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute."
+    "1",
+    "2",
+    "3",
+    "4",
+    "The border of their inheritance went from Ataroth-addar in the east to Upper Beth-horon",
+    "6",
+    "7",
+    "This was the inheritance of the clans of the tribe of Ephraim,",
+    "9",
+    "10"
   ],
   "ai_explanation": [
     "זאת הנחלה השנייה שסומנה בגבולותיה ועלתה בגורל — נחלת בני יוסף. הגורל יצא ממחלק הירדן הסמוך ליריחו עד מַעיין יריחו למזרח, והקו מתחיל מערבה; אל המדבר הגבול עולה מיריחו בהר אל בית־אל.",
@@ -89,7 +89,18 @@
       "image_prompt": "A humble Canaanite family living beside Israelite homes near Gezer, field workers tending crops and carrying loads under the watch of Israelite overseers; subdued colors, authentic ancient Near Eastern clothing and simple tools, no modern artifacts."
     }
   ],
-  "times_en": [],
+  "times_en": [
+    3.4,
+    17.34,
+    25.16,
+    35.8,
+    41.58,
+    52.46,
+    62.88,
+    70.74,
+    80.9,
+    89.32
+  ],
   "did_you_know": [
     {
       "verse": 1,
@@ -109,5 +120,33 @@
       "text_he": "הפסוק אומר שהכנעני לא גורש ו'נהיה למס‑עבד' — הכוונה היא שהתושבים המקומיים נשארו ולעתים עבדו או שילמו מיסים לשולטים החדשים, מצב שנמצא גם במצבים כיבוש בעת העתיקה.",
       "text_en": "The verse says the Canaanite was not expelled and 'became a subject paying tribute' — this means local inhabitants remained and sometimes worked for or paid taxes to the new rulers, a common outcome after conquests in the ancient Near East."
     }
+  ],
+  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
+  "english_audio_version_id": 3034,
+  "english_audio_id": 1804,
+  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_end": [
+    17.34,
+    25.16,
+    35.8,
+    41.58,
+    52.46,
+    62.88,
+    70.74,
+    80.9,
+    89.32,
+    100.72
+  ],
+  "times_en_usfm": [
+    "JOS.16.1",
+    "JOS.16.2",
+    "JOS.16.3",
+    "JOS.16.4",
+    "JOS.16.5",
+    "JOS.16.6",
+    "JOS.16.7",
+    "JOS.16.8",
+    "JOS.16.9",
+    "JOS.16.10"
   ]
 }
