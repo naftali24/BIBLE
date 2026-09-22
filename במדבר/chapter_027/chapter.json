@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 27,
   "title": "במדבר פרק 27",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/27-fb3632c2e4dc9bfa215f8b1a51a14b1c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/27-d4e52b9a2cec5c63f1d110120b53fc26.mp3?version_id=1",
   "english": [
     "Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.",
     "And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,",
@@ -111,29 +111,121 @@
     }
   ],
   "times_en": [
-    3.42,
-    24.48,
-    33.56,
-    46.62,
-    55.54,
-    58.76,
-    60.56,
-    72.92,
-    83.0,
-    87.38,
-    92.34,
-    108.46,
-    117.26,
-    123.6,
-    139.16,
-    142.22,
-    148.38,
-    159.96,
-    168.84,
-    176.38,
-    183.66,
-    200.78,
-    210.38
+    {
+      "start": 2.88,
+      "end": 19.72,
+      "usfm": "NUM.27.1"
+    },
+    {
+      "start": 19.72,
+      "end": 29.52,
+      "usfm": "NUM.27.2"
+    },
+    {
+      "start": 29.52,
+      "end": 41.16,
+      "usfm": "NUM.27.3"
+    },
+    {
+      "start": 41.16,
+      "end": 50.64,
+      "usfm": "NUM.27.4"
+    },
+    {
+      "start": 50.64,
+      "end": 54.02,
+      "usfm": "NUM.27.5"
+    },
+    {
+      "start": 54.02,
+      "end": 56.7,
+      "usfm": "NUM.27.6"
+    },
+    {
+      "start": 56.7,
+      "end": 69.5,
+      "usfm": "NUM.27.7"
+    },
+    {
+      "start": 69.5,
+      "end": 80.78,
+      "usfm": "NUM.27.8"
+    },
+    {
+      "start": 80.78,
+      "end": 86.4,
+      "usfm": "NUM.27.9"
+    },
+    {
+      "start": 86.4,
+      "end": 92.4,
+      "usfm": "NUM.27.10"
+    },
+    {
+      "start": 92.4,
+      "end": 109.74,
+      "usfm": "NUM.27.11"
+    },
+    {
+      "start": 109.74,
+      "end": 118.66,
+      "usfm": "NUM.27.12"
+    },
+    {
+      "start": 118.66,
+      "end": 126.04,
+      "usfm": "NUM.27.13"
+    },
+    {
+      "start": 126.04,
+      "end": 138.54,
+      "usfm": "NUM.27.14"
+    },
+    {
+      "start": 138.54,
+      "end": 141.44,
+      "usfm": "NUM.27.15"
+    },
+    {
+      "start": 141.44,
+      "end": 147.92,
+      "usfm": "NUM.27.16"
+    },
+    {
+      "start": 147.92,
+      "end": 159.46,
+      "usfm": "NUM.27.17"
+    },
+    {
+      "start": 159.46,
+      "end": 169.6,
+      "usfm": "NUM.27.18"
+    },
+    {
+      "start": 169.6,
+      "end": 177.64,
+      "usfm": "NUM.27.19"
+    },
+    {
+      "start": 177.64,
+      "end": 186.14,
+      "usfm": "NUM.27.20"
+    },
+    {
+      "start": 186.14,
+      "end": 204.16,
+      "usfm": "NUM.27.21"
+    },
+    {
+      "start": 204.16,
+      "end": 213.46,
+      "usfm": "NUM.27.22"
+    },
+    {
+      "start": 213.46,
+      "end": 228.12,
+      "usfm": "NUM.27.23"
+    }
   ],
   "did_you_know": [
     {
@@ -185,8 +277,8 @@
       "text_en": "Unlike Moses, who spoke directly with God, Joshua would receive divine guidance through the 'judgment of the Urim' performed by Eleazar the priest, which changed the nature of spiritual leadership."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

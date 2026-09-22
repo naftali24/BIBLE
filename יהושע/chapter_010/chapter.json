@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 10,
   "title": "יהושע פרק 10",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/10-e28876472e6f3c19ef2667f0f5099015.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/10-279fa6e3060b2feb1f060bb6d42cdc5d.mp3?version_id=1",
   "english": [
     "Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;",
     "That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty.",
@@ -261,49 +261,221 @@
     }
   ],
   "times_en": [
-    3.24,
-    24.44,
-    38.84,
-    52.22,
-    60.88,
-    75.0,
-    91.64,
-    98.02,
-    108.36,
-    113.16,
-    127.28,
-    142.08,
-    156.68,
-    172.1,
-    181.52,
-    187.0,
-    191.92,
-    198.48,
-    205.96,
-    218.16,
-    229.14,
-    238.96,
-    245.32,
-    253.76,
-    270.24,
-    280.44,
-    290.28,
-    304.56,
-    321.8,
-    328.72,
-    344.44,
-    352.96,
-    364.2,
-    373.86,
-    382.64,
-    393.64,
-    400.22,
-    415.86,
-    422.16,
-    441.12,
-    458.52,
-    465.92,
-    475.04
+    {
+      "start": 2.88,
+      "end": 21.88,
+      "usfm": "JOS.10.1"
+    },
+    {
+      "start": 21.88,
+      "end": 30.88,
+      "usfm": "JOS.10.2"
+    },
+    {
+      "start": 30.88,
+      "end": 45.86,
+      "usfm": "JOS.10.3"
+    },
+    {
+      "start": 45.86,
+      "end": 54.22,
+      "usfm": "JOS.10.4"
+    },
+    {
+      "start": 54.22,
+      "end": 70.74,
+      "usfm": "JOS.10.5"
+    },
+    {
+      "start": 70.74,
+      "end": 87.16,
+      "usfm": "JOS.10.6"
+    },
+    {
+      "start": 87.16,
+      "end": 93.22,
+      "usfm": "JOS.10.7"
+    },
+    {
+      "start": 93.22,
+      "end": 102.82,
+      "usfm": "JOS.10.8"
+    },
+    {
+      "start": 102.82,
+      "end": 108.36,
+      "usfm": "JOS.10.9"
+    },
+    {
+      "start": 108.36,
+      "end": 121.58,
+      "usfm": "JOS.10.10"
+    },
+    {
+      "start": 121.58,
+      "end": 139.78,
+      "usfm": "JOS.10.11"
+    },
+    {
+      "start": 139.78,
+      "end": 155.84,
+      "usfm": "JOS.10.12"
+    },
+    {
+      "start": 155.84,
+      "end": 172.42,
+      "usfm": "JOS.10.13"
+    },
+    {
+      "start": 172.42,
+      "end": 181.82,
+      "usfm": "JOS.10.14"
+    },
+    {
+      "start": 181.82,
+      "end": 186.9,
+      "usfm": "JOS.10.15"
+    },
+    {
+      "start": 186.9,
+      "end": 191.74,
+      "usfm": "JOS.10.16"
+    },
+    {
+      "start": 191.74,
+      "end": 198.52,
+      "usfm": "JOS.10.17"
+    },
+    {
+      "start": 198.52,
+      "end": 206.1,
+      "usfm": "JOS.10.18"
+    },
+    {
+      "start": 206.1,
+      "end": 220.18,
+      "usfm": "JOS.10.19"
+    },
+    {
+      "start": 220.18,
+      "end": 233.42,
+      "usfm": "JOS.10.20"
+    },
+    {
+      "start": 233.42,
+      "end": 242.1,
+      "usfm": "JOS.10.21"
+    },
+    {
+      "start": 242.1,
+      "end": 249.9,
+      "usfm": "JOS.10.22"
+    },
+    {
+      "start": 249.9,
+      "end": 262.02,
+      "usfm": "JOS.10.23"
+    },
+    {
+      "start": 262.02,
+      "end": 280.92,
+      "usfm": "JOS.10.24"
+    },
+    {
+      "start": 280.92,
+      "end": 292.86,
+      "usfm": "JOS.10.25"
+    },
+    {
+      "start": 292.86,
+      "end": 302.68,
+      "usfm": "JOS.10.26"
+    },
+    {
+      "start": 302.68,
+      "end": 317.34,
+      "usfm": "JOS.10.27"
+    },
+    {
+      "start": 317.34,
+      "end": 333.7,
+      "usfm": "JOS.10.28"
+    },
+    {
+      "start": 333.7,
+      "end": 340.96,
+      "usfm": "JOS.10.29"
+    },
+    {
+      "start": 340.96,
+      "end": 356.8,
+      "usfm": "JOS.10.30"
+    },
+    {
+      "start": 356.8,
+      "end": 366.18,
+      "usfm": "JOS.10.31"
+    },
+    {
+      "start": 366.18,
+      "end": 378.14,
+      "usfm": "JOS.10.32"
+    },
+    {
+      "start": 378.14,
+      "end": 387.5,
+      "usfm": "JOS.10.33"
+    },
+    {
+      "start": 387.5,
+      "end": 396.32,
+      "usfm": "JOS.10.34"
+    },
+    {
+      "start": 396.32,
+      "end": 406.8,
+      "usfm": "JOS.10.35"
+    },
+    {
+      "start": 406.8,
+      "end": 413.8,
+      "usfm": "JOS.10.36"
+    },
+    {
+      "start": 413.8,
+      "end": 431.64,
+      "usfm": "JOS.10.37"
+    },
+    {
+      "start": 431.64,
+      "end": 436.76,
+      "usfm": "JOS.10.38"
+    },
+    {
+      "start": 436.76,
+      "end": 454.44,
+      "usfm": "JOS.10.39"
+    },
+    {
+      "start": 454.44,
+      "end": 468.2,
+      "usfm": "JOS.10.40"
+    },
+    {
+      "start": 468.2,
+      "end": 476.44,
+      "usfm": "JOS.10.41"
+    },
+    {
+      "start": 476.44,
+      "end": 483.9,
+      "usfm": "JOS.10.42"
+    },
+    {
+      "start": 483.9,
+      "end": 498.64,
+      "usfm": "JOS.10.43"
+    }
   ],
   "did_you_know": [
     {
@@ -391,8 +563,8 @@
       "text_en": "Joshua's victories cover 'the hill country, the Negev, the lowlands and the Shephelah'—the text says the kings and their lands were taken 'at one time', suggesting a single decisive campaign."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

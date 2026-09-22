@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 16,
   "title": "ויקרא פרק 16",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/16-9c0819308d1434f0c95291d068ce6f7e.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/16-9b0af6fdea4b510e1e3368707bfe7fde.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses after the death of the two sons of Aaron, when they offered before the Lord, and died;",
     "And the Lord said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
@@ -225,40 +225,176 @@
     }
   ],
   "times_en": [
-    3.52,
-    10.66,
-    26.16,
-    34.1,
-    49.28,
-    56.54,
-    63.22,
-    69.6,
-    76.12,
-    82.02,
-    92.74,
-    101.98,
-    112.92,
-    122.8,
-    134.3,
-    148.9,
-    166.52,
-    179.76,
-    192.36,
-    201.56,
-    209.48,
-    227.76,
-    236.62,
-    245.72,
-    260.16,
-    264.22,
-    273.14,
-    286.32,
-    294.18,
-    306.38,
-    315.04,
-    322.04,
-    331.2,
-    339.4
+    {
+      "start": 2.88,
+      "end": 9.9,
+      "usfm": "LEV.16.1"
+    },
+    {
+      "start": 9.9,
+      "end": 26.26,
+      "usfm": "LEV.16.2"
+    },
+    {
+      "start": 26.26,
+      "end": 33.02,
+      "usfm": "LEV.16.3"
+    },
+    {
+      "start": 33.02,
+      "end": 51.5,
+      "usfm": "LEV.16.4"
+    },
+    {
+      "start": 51.5,
+      "end": 59.72,
+      "usfm": "LEV.16.5"
+    },
+    {
+      "start": 59.72,
+      "end": 68.34,
+      "usfm": "LEV.16.6"
+    },
+    {
+      "start": 68.34,
+      "end": 74.2,
+      "usfm": "LEV.16.7"
+    },
+    {
+      "start": 74.2,
+      "end": 80.86,
+      "usfm": "LEV.16.8"
+    },
+    {
+      "start": 80.86,
+      "end": 86.44,
+      "usfm": "LEV.16.9"
+    },
+    {
+      "start": 86.44,
+      "end": 98.06,
+      "usfm": "LEV.16.10"
+    },
+    {
+      "start": 98.06,
+      "end": 109.6,
+      "usfm": "LEV.16.11"
+    },
+    {
+      "start": 109.6,
+      "end": 120.32,
+      "usfm": "LEV.16.12"
+    },
+    {
+      "start": 120.32,
+      "end": 129.82,
+      "usfm": "LEV.16.13"
+    },
+    {
+      "start": 129.82,
+      "end": 140.38,
+      "usfm": "LEV.16.14"
+    },
+    {
+      "start": 140.38,
+      "end": 153.22,
+      "usfm": "LEV.16.15"
+    },
+    {
+      "start": 153.22,
+      "end": 167.5,
+      "usfm": "LEV.16.16"
+    },
+    {
+      "start": 167.5,
+      "end": 183.28,
+      "usfm": "LEV.16.17"
+    },
+    {
+      "start": 183.28,
+      "end": 197.26,
+      "usfm": "LEV.16.18"
+    },
+    {
+      "start": 197.26,
+      "end": 206.88,
+      "usfm": "LEV.16.19"
+    },
+    {
+      "start": 206.88,
+      "end": 217.24,
+      "usfm": "LEV.16.20"
+    },
+    {
+      "start": 217.24,
+      "end": 236.08,
+      "usfm": "LEV.16.21"
+    },
+    {
+      "start": 236.08,
+      "end": 245.04,
+      "usfm": "LEV.16.22"
+    },
+    {
+      "start": 245.04,
+      "end": 255.68,
+      "usfm": "LEV.16.23"
+    },
+    {
+      "start": 255.68,
+      "end": 269.7,
+      "usfm": "LEV.16.24"
+    },
+    {
+      "start": 269.7,
+      "end": 273.52,
+      "usfm": "LEV.16.25"
+    },
+    {
+      "start": 273.52,
+      "end": 282.62,
+      "usfm": "LEV.16.26"
+    },
+    {
+      "start": 282.62,
+      "end": 297.96,
+      "usfm": "LEV.16.27"
+    },
+    {
+      "start": 297.96,
+      "end": 306.06,
+      "usfm": "LEV.16.28"
+    },
+    {
+      "start": 306.06,
+      "end": 320.68,
+      "usfm": "LEV.16.29"
+    },
+    {
+      "start": 320.68,
+      "end": 328.78,
+      "usfm": "LEV.16.30"
+    },
+    {
+      "start": 328.78,
+      "end": 336.1,
+      "usfm": "LEV.16.31"
+    },
+    {
+      "start": 336.1,
+      "end": 352.24,
+      "usfm": "LEV.16.32"
+    },
+    {
+      "start": 352.24,
+      "end": 366.7,
+      "usfm": "LEV.16.33"
+    },
+    {
+      "start": 366.7,
+      "end": 388.12,
+      "usfm": "LEV.16.34"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -329,8 +465,8 @@
       "text_en": "The service described here was not a daily ritual but an annual one, allowing the entire community to begin a new cycle of purification and renewal."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

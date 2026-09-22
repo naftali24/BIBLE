@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 19,
   "title": "שמות פרק 19",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/19-c276f389e2a7a44dbe4560cbbb37ea0f.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/19-1b1a8b211cab34139e25deba863a4eb5.mp3?version_id=1",
   "english": [
     "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.",
     "For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.",
@@ -162,31 +162,131 @@
     }
   ],
   "times_en": [
-    3.16,
-    11.78,
-    20.12,
-    30.38,
-    38.96,
-    50.08,
-    59.84,
-    67.66,
-    77.8,
-    94.1,
-    102.4,
-    111.6,
-    124.9,
-    139.5,
-    146.34,
-    152.46,
-    166.62,
-    173.38,
-    186.86,
-    194.96,
-    202.06,
-    210.62,
-    217.78,
-    229.02,
-    240.78
+    {
+      "start": 2.88,
+      "end": 12.28,
+      "usfm": "EXO.19.1"
+    },
+    {
+      "start": 12.28,
+      "end": 22.6,
+      "usfm": "EXO.19.2"
+    },
+    {
+      "start": 22.6,
+      "end": 33.26,
+      "usfm": "EXO.19.3"
+    },
+    {
+      "start": 33.26,
+      "end": 40.22,
+      "usfm": "EXO.19.4"
+    },
+    {
+      "start": 40.22,
+      "end": 51.76,
+      "usfm": "EXO.19.5"
+    },
+    {
+      "start": 51.76,
+      "end": 61.02,
+      "usfm": "EXO.19.6"
+    },
+    {
+      "start": 61.02,
+      "end": 68.96,
+      "usfm": "EXO.19.7"
+    },
+    {
+      "start": 68.96,
+      "end": 78.7,
+      "usfm": "EXO.19.8"
+    },
+    {
+      "start": 78.7,
+      "end": 92.48,
+      "usfm": "EXO.19.9"
+    },
+    {
+      "start": 92.48,
+      "end": 100.6,
+      "usfm": "EXO.19.10"
+    },
+    {
+      "start": 100.6,
+      "end": 108.4,
+      "usfm": "EXO.19.11"
+    },
+    {
+      "start": 108.4,
+      "end": 122.94,
+      "usfm": "EXO.19.12"
+    },
+    {
+      "start": 122.94,
+      "end": 138.14,
+      "usfm": "EXO.19.13"
+    },
+    {
+      "start": 138.14,
+      "end": 145.7,
+      "usfm": "EXO.19.14"
+    },
+    {
+      "start": 145.7,
+      "end": 152.38,
+      "usfm": "EXO.19.15"
+    },
+    {
+      "start": 152.38,
+      "end": 165.76,
+      "usfm": "EXO.19.16"
+    },
+    {
+      "start": 165.76,
+      "end": 173.22,
+      "usfm": "EXO.19.17"
+    },
+    {
+      "start": 173.22,
+      "end": 186.7,
+      "usfm": "EXO.19.18"
+    },
+    {
+      "start": 186.7,
+      "end": 196.16,
+      "usfm": "EXO.19.19"
+    },
+    {
+      "start": 196.16,
+      "end": 206.24,
+      "usfm": "EXO.19.20"
+    },
+    {
+      "start": 206.24,
+      "end": 214.2,
+      "usfm": "EXO.19.21"
+    },
+    {
+      "start": 214.2,
+      "end": 221.4,
+      "usfm": "EXO.19.22"
+    },
+    {
+      "start": 221.4,
+      "end": 230.8,
+      "usfm": "EXO.19.23"
+    },
+    {
+      "start": 230.8,
+      "end": 243.34,
+      "usfm": "EXO.19.24"
+    },
+    {
+      "start": 243.34,
+      "end": 254.48,
+      "usfm": "EXO.19.25"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -239,8 +339,8 @@
       "text_en": "The warning not to break through toward the mountain teaches that even curiosity needs limits. Clear boundaries can protect people in a dangerous or sacred place."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

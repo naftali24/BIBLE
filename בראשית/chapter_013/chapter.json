@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 13,
   "title": "בראשית פרק 13",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/13-0a09bb185c561904fba13551cce1dec0.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/13-26ca5693d4a5d1ab453dae0b0a55c6b1.mp3?version_id=1",
   "english": [
     "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
     "And Abram was very rich in cattle, in silver, and in gold.",
@@ -231,24 +231,96 @@
     }
   ],
   "times_en": [
-    3.26,
-    12.08,
-    17.48,
-    27.06,
-    33.54,
-    39.38,
-    48.56,
-    58.88,
-    69.44,
-    80.7,
-    94.96,
-    103.9,
-    111.72,
-    116.96,
-    128.28,
-    133.74,
-    142.82,
-    149.42
+    {
+      "start": 2.88,
+      "end": 9.78,
+      "usfm": "GEN.13.1"
+    },
+    {
+      "start": 9.78,
+      "end": 14.44,
+      "usfm": "GEN.13.2"
+    },
+    {
+      "start": 14.44,
+      "end": 22.16,
+      "usfm": "GEN.13.3"
+    },
+    {
+      "start": 22.16,
+      "end": 29.6,
+      "usfm": "GEN.13.4"
+    },
+    {
+      "start": 29.6,
+      "end": 34.2,
+      "usfm": "GEN.13.5"
+    },
+    {
+      "start": 34.2,
+      "end": 41.88,
+      "usfm": "GEN.13.6"
+    },
+    {
+      "start": 41.88,
+      "end": 51.06,
+      "usfm": "GEN.13.7"
+    },
+    {
+      "start": 51.06,
+      "end": 60.66,
+      "usfm": "GEN.13.8"
+    },
+    {
+      "start": 60.66,
+      "end": 73.24,
+      "usfm": "GEN.13.9"
+    },
+    {
+      "start": 73.24,
+      "end": 88.34,
+      "usfm": "GEN.13.10"
+    },
+    {
+      "start": 88.34,
+      "end": 96.44,
+      "usfm": "GEN.13.11"
+    },
+    {
+      "start": 96.44,
+      "end": 104.3,
+      "usfm": "GEN.13.12"
+    },
+    {
+      "start": 104.3,
+      "end": 109.02,
+      "usfm": "GEN.13.13"
+    },
+    {
+      "start": 109.02,
+      "end": 120.92,
+      "usfm": "GEN.13.14"
+    },
+    {
+      "start": 120.92,
+      "end": 127.14,
+      "usfm": "GEN.13.15"
+    },
+    {
+      "start": 127.14,
+      "end": 136.56,
+      "usfm": "GEN.13.16"
+    },
+    {
+      "start": 136.56,
+      "end": 144.04,
+      "usfm": "GEN.13.17"
+    },
+    {
+      "start": 144.04,
+      "end": 159.96,
+      "usfm": "GEN.13.18"
+    }
   ],
   "sync_anchor_en_word_index": 2,
   "did_you_know": [
@@ -291,8 +363,8 @@
   ],
   "audio_start_offset": 2.06,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

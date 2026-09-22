@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 10,
   "title": "שמות פרק 10",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/10-78de4988d64b0f53662975d0df31cf80.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/10-afe7bae9e0a29f5c4174ba26f7fb5e9b.mp3?version_id=1",
   "english": [
     "And the Lord said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:",
     "And that thou mayest tell in the ears of thy son, and of thy son's son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the Lord.",
@@ -174,35 +174,151 @@
     }
   ],
   "times_en": [
-    3.0,
-    14.7,
-    28.16,
-    43.38,
-    49.82,
-    60.46,
-    76.64,
-    89.68,
-    99.08,
-    110.94,
-    119.78,
-    130.56,
-    143.82,
-    157.6,
-    169.82,
-    186.52,
-    194.72,
-    202.66,
-    207.16,
-    219.42,
-    225.26,
-    235.48,
-    243.32,
-    253.58,
-    264.5,
-    272.6,
-    285.86,
-    291.16,
-    303.16
+    {
+      "start": 2.88,
+      "end": 13.24,
+      "usfm": "EXO.10.1"
+    },
+    {
+      "start": 13.24,
+      "end": 26.62,
+      "usfm": "EXO.10.2"
+    },
+    {
+      "start": 26.62,
+      "end": 39.62,
+      "usfm": "EXO.10.3"
+    },
+    {
+      "start": 39.62,
+      "end": 46.66,
+      "usfm": "EXO.10.4"
+    },
+    {
+      "start": 46.66,
+      "end": 60.16,
+      "usfm": "EXO.10.5"
+    },
+    {
+      "start": 60.16,
+      "end": 77.6,
+      "usfm": "EXO.10.6"
+    },
+    {
+      "start": 77.6,
+      "end": 90.82,
+      "usfm": "EXO.10.7"
+    },
+    {
+      "start": 90.82,
+      "end": 98.78,
+      "usfm": "EXO.10.8"
+    },
+    {
+      "start": 98.78,
+      "end": 110.32,
+      "usfm": "EXO.10.9"
+    },
+    {
+      "start": 110.32,
+      "end": 118.14,
+      "usfm": "EXO.10.10"
+    },
+    {
+      "start": 118.14,
+      "end": 126.76,
+      "usfm": "EXO.10.11"
+    },
+    {
+      "start": 126.76,
+      "end": 138.86,
+      "usfm": "EXO.10.12"
+    },
+    {
+      "start": 138.86,
+      "end": 151.58,
+      "usfm": "EXO.10.13"
+    },
+    {
+      "start": 151.58,
+      "end": 164.4,
+      "usfm": "EXO.10.14"
+    },
+    {
+      "start": 164.4,
+      "end": 182.14,
+      "usfm": "EXO.10.15"
+    },
+    {
+      "start": 182.14,
+      "end": 189.52,
+      "usfm": "EXO.10.16"
+    },
+    {
+      "start": 189.52,
+      "end": 198.72,
+      "usfm": "EXO.10.17"
+    },
+    {
+      "start": 198.72,
+      "end": 202.12,
+      "usfm": "EXO.10.18"
+    },
+    {
+      "start": 202.12,
+      "end": 215.08,
+      "usfm": "EXO.10.19"
+    },
+    {
+      "start": 215.08,
+      "end": 221.04,
+      "usfm": "EXO.10.20"
+    },
+    {
+      "start": 221.04,
+      "end": 230.74,
+      "usfm": "EXO.10.21"
+    },
+    {
+      "start": 230.74,
+      "end": 238.0,
+      "usfm": "EXO.10.22"
+    },
+    {
+      "start": 238.0,
+      "end": 247.34,
+      "usfm": "EXO.10.23"
+    },
+    {
+      "start": 247.34,
+      "end": 256.64,
+      "usfm": "EXO.10.24"
+    },
+    {
+      "start": 256.64,
+      "end": 264.24,
+      "usfm": "EXO.10.25"
+    },
+    {
+      "start": 264.24,
+      "end": 277.18,
+      "usfm": "EXO.10.26"
+    },
+    {
+      "start": 277.18,
+      "end": 282.0,
+      "usfm": "EXO.10.27"
+    },
+    {
+      "start": 282.0,
+      "end": 294.06,
+      "usfm": "EXO.10.28"
+    },
+    {
+      "start": 294.06,
+      "end": 309.28,
+      "usfm": "EXO.10.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -267,8 +383,8 @@
       "text_en": "“Not a single hoof will remain” is an expression of completeness: all the livestock will leave, with nothing left behind. Moses also explains that they do not yet know what will be needed for worship."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

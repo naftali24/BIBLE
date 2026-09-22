@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 19,
   "title": "דברים פרק 19",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/19-5df3082a996c27d1e5fe59a41109efad.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/19-339f9a7fcdff4b26e015def9c555040c.mp3?version_id=1",
   "english": [
     "When the Lord thy God hath cut off the nations, whose land the Lord thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
     "Thou shalt separate three cities for thee in the midst of thy land, which the Lord thy God giveth thee to possess it.",
@@ -159,27 +159,111 @@
     }
   ],
   "times_en": [
-    3.52,
-    13.72,
-    22.08,
-    35.2,
-    47.32,
-    62.74,
-    78.0,
-    83.12,
-    92.16,
-    105.84,
-    116.62,
-    126.28,
-    135.04,
-    144.8,
-    157.34,
-    173.24,
-    178.44,
-    187.6,
-    195.84,
-    203.28,
-    212.12
+    {
+      "start": 2.88,
+      "end": 13.2,
+      "usfm": "DEU.19.1"
+    },
+    {
+      "start": 13.2,
+      "end": 20.18,
+      "usfm": "DEU.19.2"
+    },
+    {
+      "start": 20.18,
+      "end": 31.42,
+      "usfm": "DEU.19.3"
+    },
+    {
+      "start": 31.42,
+      "end": 40.36,
+      "usfm": "DEU.19.4"
+    },
+    {
+      "start": 40.36,
+      "end": 55.2,
+      "usfm": "DEU.19.5"
+    },
+    {
+      "start": 55.2,
+      "end": 68.46,
+      "usfm": "DEU.19.6"
+    },
+    {
+      "start": 68.46,
+      "end": 73.54,
+      "usfm": "DEU.19.7"
+    },
+    {
+      "start": 73.54,
+      "end": 82.2,
+      "usfm": "DEU.19.8"
+    },
+    {
+      "start": 82.2,
+      "end": 96.9,
+      "usfm": "DEU.19.9"
+    },
+    {
+      "start": 96.9,
+      "end": 105.64,
+      "usfm": "DEU.19.10"
+    },
+    {
+      "start": 105.64,
+      "end": 116.86,
+      "usfm": "DEU.19.11"
+    },
+    {
+      "start": 116.86,
+      "end": 124.32,
+      "usfm": "DEU.19.12"
+    },
+    {
+      "start": 124.32,
+      "end": 132.22,
+      "usfm": "DEU.19.13"
+    },
+    {
+      "start": 132.22,
+      "end": 144.74,
+      "usfm": "DEU.19.14"
+    },
+    {
+      "start": 144.74,
+      "end": 158.76,
+      "usfm": "DEU.19.15"
+    },
+    {
+      "start": 158.76,
+      "end": 164.46,
+      "usfm": "DEU.19.16"
+    },
+    {
+      "start": 164.46,
+      "end": 173.94,
+      "usfm": "DEU.19.17"
+    },
+    {
+      "start": 173.94,
+      "end": 182.54,
+      "usfm": "DEU.19.18"
+    },
+    {
+      "start": 182.54,
+      "end": 191.56,
+      "usfm": "DEU.19.19"
+    },
+    {
+      "start": 191.56,
+      "end": 199.1,
+      "usfm": "DEU.19.20"
+    },
+    {
+      "start": 199.1,
+      "end": 217.44,
+      "usfm": "DEU.19.21"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -226,8 +310,8 @@
       "text_en": "The phrase “an eye for an eye” sounds like physical retaliation, but the Sages interpreted it as financial compensation for the injury. In this way, the principle became a measure of damages rather than an encouragement of revenge."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

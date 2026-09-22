@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 27,
   "title": "שמות פרק 27",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/27-c0daf049f27c3c18187116205bd9af09.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/27-47dee86c91dc86495244e7791e33946d.mp3?version_id=1",
   "english": [
     "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
     "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass.",
@@ -141,27 +141,111 @@
     }
   ],
   "times_en": [
-    3.38,
-    14.52,
-    22.1,
-    32.56,
-    39.82,
-    46.28,
-    52.6,
-    59.88,
-    67.94,
-    79.88,
-    86.3,
-    98.34,
-    106.24,
-    111.86,
-    118.2,
-    124.72,
-    137.88,
-    144.84,
-    156.92,
-    166.62,
-    175.54
+    {
+      "start": 2.88,
+      "end": 13.68,
+      "usfm": "EXO.27.1"
+    },
+    {
+      "start": 13.68,
+      "end": 21.0,
+      "usfm": "EXO.27.2"
+    },
+    {
+      "start": 21.0,
+      "end": 30.66,
+      "usfm": "EXO.27.3"
+    },
+    {
+      "start": 30.66,
+      "end": 38.12,
+      "usfm": "EXO.27.4"
+    },
+    {
+      "start": 38.12,
+      "end": 44.18,
+      "usfm": "EXO.27.5"
+    },
+    {
+      "start": 44.18,
+      "end": 49.22,
+      "usfm": "EXO.27.6"
+    },
+    {
+      "start": 49.22,
+      "end": 55.78,
+      "usfm": "EXO.27.7"
+    },
+    {
+      "start": 55.78,
+      "end": 62.06,
+      "usfm": "EXO.27.8"
+    },
+    {
+      "start": 62.06,
+      "end": 72.44,
+      "usfm": "EXO.27.9"
+    },
+    {
+      "start": 72.44,
+      "end": 80.74,
+      "usfm": "EXO.27.10"
+    },
+    {
+      "start": 80.74,
+      "end": 91.8,
+      "usfm": "EXO.27.11"
+    },
+    {
+      "start": 91.8,
+      "end": 99.02,
+      "usfm": "EXO.27.12"
+    },
+    {
+      "start": 99.02,
+      "end": 102.8,
+      "usfm": "EXO.27.13"
+    },
+    {
+      "start": 102.8,
+      "end": 108.9,
+      "usfm": "EXO.27.14"
+    },
+    {
+      "start": 108.9,
+      "end": 114.74,
+      "usfm": "EXO.27.15"
+    },
+    {
+      "start": 114.74,
+      "end": 126.46,
+      "usfm": "EXO.27.16"
+    },
+    {
+      "start": 126.46,
+      "end": 134.12,
+      "usfm": "EXO.27.17"
+    },
+    {
+      "start": 134.12,
+      "end": 143.12,
+      "usfm": "EXO.27.18"
+    },
+    {
+      "start": 143.12,
+      "end": 150.68,
+      "usfm": "EXO.27.19"
+    },
+    {
+      "start": 150.68,
+      "end": 159.18,
+      "usfm": "EXO.27.20"
+    },
+    {
+      "start": 159.18,
+      "end": 181.48,
+      "usfm": "EXO.27.21"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -208,8 +292,8 @@
       "text_en": "The word “tamid” does not necessarily mean that the lamp burned without interruption every moment; it can describe a regular, ongoing practice. The next verse explains that the lamp was tended from evening until morning as part of a fixed daily routine."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

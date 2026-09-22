@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 15,
   "title": "דברים פרק 15",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/15-daf09353b1d6a60b27add1a9264951f1.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/15-1625f7b4d87454f69412b8252c43bbfc.mp3?version_id=1",
   "english": [
     "At the end of every seven years thou shalt make a release.",
     "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the Lord's release.",
@@ -147,29 +147,121 @@
     }
   ],
   "times_en": [
-    3.5,
-    9.16,
-    23.96,
-    29.42,
-    40.24,
-    47.82,
-    60.58,
-    73.24,
-    81.08,
-    99.0,
-    112.9,
-    125.04,
-    135.48,
-    139.92,
-    150.72,
-    160.84,
-    169.66,
-    180.4,
-    194.68,
-    210.06,
-    218.32,
-    227.88,
-    237.68
+    {
+      "start": 2.88,
+      "end": 7.58,
+      "usfm": "DEU.15.1"
+    },
+    {
+      "start": 7.58,
+      "end": 20.5,
+      "usfm": "DEU.15.2"
+    },
+    {
+      "start": 20.5,
+      "end": 26.94,
+      "usfm": "DEU.15.3"
+    },
+    {
+      "start": 26.94,
+      "end": 35.36,
+      "usfm": "DEU.15.4"
+    },
+    {
+      "start": 35.36,
+      "end": 42.64,
+      "usfm": "DEU.15.5"
+    },
+    {
+      "start": 42.64,
+      "end": 57.02,
+      "usfm": "DEU.15.6"
+    },
+    {
+      "start": 57.02,
+      "end": 71.68,
+      "usfm": "DEU.15.7"
+    },
+    {
+      "start": 71.68,
+      "end": 80.04,
+      "usfm": "DEU.15.8"
+    },
+    {
+      "start": 80.04,
+      "end": 97.6,
+      "usfm": "DEU.15.9"
+    },
+    {
+      "start": 97.6,
+      "end": 110.72,
+      "usfm": "DEU.15.10"
+    },
+    {
+      "start": 110.72,
+      "end": 122.6,
+      "usfm": "DEU.15.11"
+    },
+    {
+      "start": 122.6,
+      "end": 132.92,
+      "usfm": "DEU.15.12"
+    },
+    {
+      "start": 132.92,
+      "end": 137.68,
+      "usfm": "DEU.15.13"
+    },
+    {
+      "start": 137.68,
+      "end": 148.28,
+      "usfm": "DEU.15.14"
+    },
+    {
+      "start": 148.28,
+      "end": 156.78,
+      "usfm": "DEU.15.15"
+    },
+    {
+      "start": 156.78,
+      "end": 165.54,
+      "usfm": "DEU.15.16"
+    },
+    {
+      "start": 165.54,
+      "end": 177.02,
+      "usfm": "DEU.15.17"
+    },
+    {
+      "start": 177.02,
+      "end": 189.4,
+      "usfm": "DEU.15.18"
+    },
+    {
+      "start": 189.4,
+      "end": 202.52,
+      "usfm": "DEU.15.19"
+    },
+    {
+      "start": 202.52,
+      "end": 209.3,
+      "usfm": "DEU.15.20"
+    },
+    {
+      "start": 209.3,
+      "end": 219.38,
+      "usfm": "DEU.15.21"
+    },
+    {
+      "start": 219.38,
+      "end": 228.1,
+      "usfm": "DEU.15.22"
+    },
+    {
+      "start": 228.1,
+      "end": 240.88,
+      "usfm": "DEU.15.23"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -222,8 +314,8 @@
       "text_en": "The prohibition against eating blood appears elsewhere in the Torah because blood is treated as a symbol of life. That is why it must be poured onto the ground rather than used as food."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

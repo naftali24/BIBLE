@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 3,
   "title": "בראשית פרק 3",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/3-8bbcf362e6f182e94c6f278e87173f50.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/3-172e41e94c487d6b198516444f54d610.mp3?version_id=1",
   "english": [
     "Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?",
     "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:",
@@ -152,30 +152,126 @@
     }
   ],
   "times_en": [
-    3.26,
-    16.34,
-    21.24,
-    29.84,
-    33.44,
-    42.3,
-    59.04,
-    68.7,
-    80.82,
-    85.52,
-    93.94,
-    103.18,
-    111.9,
-    121.76,
-    137.06,
-    148.46,
-    161.82,
-    178.34,
-    184.82,
-    197.26,
-    203.46,
-    210.26,
-    225.18,
-    232.76
+    {
+      "start": 2.88,
+      "end": 18.6,
+      "usfm": "GEN.3.1"
+    },
+    {
+      "start": 18.6,
+      "end": 24.18,
+      "usfm": "GEN.3.2"
+    },
+    {
+      "start": 24.18,
+      "end": 34.26,
+      "usfm": "GEN.3.3"
+    },
+    {
+      "start": 34.26,
+      "end": 39.76,
+      "usfm": "GEN.3.4"
+    },
+    {
+      "start": 39.76,
+      "end": 50.36,
+      "usfm": "GEN.3.5"
+    },
+    {
+      "start": 50.36,
+      "end": 69.48,
+      "usfm": "GEN.3.6"
+    },
+    {
+      "start": 69.48,
+      "end": 79.58,
+      "usfm": "GEN.3.7"
+    },
+    {
+      "start": 79.58,
+      "end": 89.0,
+      "usfm": "GEN.3.8"
+    },
+    {
+      "start": 89.0,
+      "end": 94.74,
+      "usfm": "GEN.3.9"
+    },
+    {
+      "start": 94.74,
+      "end": 101.36,
+      "usfm": "GEN.3.10"
+    },
+    {
+      "start": 101.36,
+      "end": 111.66,
+      "usfm": "GEN.3.11"
+    },
+    {
+      "start": 111.66,
+      "end": 122.58,
+      "usfm": "GEN.3.12"
+    },
+    {
+      "start": 122.58,
+      "end": 133.64,
+      "usfm": "GEN.3.13"
+    },
+    {
+      "start": 133.64,
+      "end": 151.34,
+      "usfm": "GEN.3.14"
+    },
+    {
+      "start": 151.34,
+      "end": 163.48,
+      "usfm": "GEN.3.15"
+    },
+    {
+      "start": 163.48,
+      "end": 181.48,
+      "usfm": "GEN.3.16"
+    },
+    {
+      "start": 181.48,
+      "end": 201.88,
+      "usfm": "GEN.3.17"
+    },
+    {
+      "start": 201.88,
+      "end": 209.98,
+      "usfm": "GEN.3.18"
+    },
+    {
+      "start": 209.98,
+      "end": 223.66,
+      "usfm": "GEN.3.19"
+    },
+    {
+      "start": 223.66,
+      "end": 232.12,
+      "usfm": "GEN.3.20"
+    },
+    {
+      "start": 232.12,
+      "end": 239.48,
+      "usfm": "GEN.3.21"
+    },
+    {
+      "start": 239.48,
+      "end": 254.34,
+      "usfm": "GEN.3.22"
+    },
+    {
+      "start": 254.34,
+      "end": 261.36,
+      "usfm": "GEN.3.23"
+    },
+    {
+      "start": 261.36,
+      "end": 284.8,
+      "usfm": "GEN.3.24"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -230,8 +326,8 @@
   ],
   "audio_start_offset": 0.62,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

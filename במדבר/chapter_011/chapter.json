@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 11,
   "title": "במדבר פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/11-6542858cb7fde171071cf4f2502148da.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/11-dfa07fd6547374364c4ae9a2611290ea.mp3?version_id=1",
   "english": [
     "And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.",
     "And the people cried unto Moses; and when Moses prayed unto the Lord, the fire was quenched.",
@@ -174,41 +174,181 @@
     }
   ],
   "times_en": [
-    3.06,
-    17.74,
-    23.66,
-    29.78,
-    39.66,
-    47.42,
-    53.32,
-    59.64,
-    72.54,
-    77.14,
-    89.72,
-    101.36,
-    113.7,
-    120.9,
-    126.78,
-    137.16,
-    150.04,
-    165.1,
-    182.9,
-    189.08,
-    203.44,
-    213.7,
-    223.08,
-    232.46,
-    242.68,
-    258.86,
-    274.18,
-    280.5,
-    288.32,
-    298.08,
-    303.04,
-    317.4,
-    329.64,
-    340.24,
-    348.0
+    {
+      "start": 2.88,
+      "end": 17.66,
+      "usfm": "NUM.11.1"
+    },
+    {
+      "start": 17.66,
+      "end": 23.6,
+      "usfm": "NUM.11.2"
+    },
+    {
+      "start": 23.6,
+      "end": 28.92,
+      "usfm": "NUM.11.3"
+    },
+    {
+      "start": 28.92,
+      "end": 37.76,
+      "usfm": "NUM.11.4"
+    },
+    {
+      "start": 37.76,
+      "end": 46.76,
+      "usfm": "NUM.11.5"
+    },
+    {
+      "start": 46.76,
+      "end": 54.32,
+      "usfm": "NUM.11.6"
+    },
+    {
+      "start": 54.32,
+      "end": 60.34,
+      "usfm": "NUM.11.7"
+    },
+    {
+      "start": 60.34,
+      "end": 73.04,
+      "usfm": "NUM.11.8"
+    },
+    {
+      "start": 73.04,
+      "end": 77.86,
+      "usfm": "NUM.11.9"
+    },
+    {
+      "start": 77.86,
+      "end": 88.44,
+      "usfm": "NUM.11.10"
+    },
+    {
+      "start": 88.44,
+      "end": 99.9,
+      "usfm": "NUM.11.11"
+    },
+    {
+      "start": 99.9,
+      "end": 112.42,
+      "usfm": "NUM.11.12"
+    },
+    {
+      "start": 112.42,
+      "end": 119.64,
+      "usfm": "NUM.11.13"
+    },
+    {
+      "start": 119.64,
+      "end": 124.36,
+      "usfm": "NUM.11.14"
+    },
+    {
+      "start": 124.36,
+      "end": 132.44,
+      "usfm": "NUM.11.15"
+    },
+    {
+      "start": 132.44,
+      "end": 147.38,
+      "usfm": "NUM.11.16"
+    },
+    {
+      "start": 147.38,
+      "end": 159.8,
+      "usfm": "NUM.11.17"
+    },
+    {
+      "start": 159.8,
+      "end": 176.38,
+      "usfm": "NUM.11.18"
+    },
+    {
+      "start": 176.38,
+      "end": 182.32,
+      "usfm": "NUM.11.19"
+    },
+    {
+      "start": 182.32,
+      "end": 196.56,
+      "usfm": "NUM.11.20"
+    },
+    {
+      "start": 196.56,
+      "end": 207.82,
+      "usfm": "NUM.11.21"
+    },
+    {
+      "start": 207.82,
+      "end": 215.6,
+      "usfm": "NUM.11.22"
+    },
+    {
+      "start": 215.6,
+      "end": 225.5,
+      "usfm": "NUM.11.23"
+    },
+    {
+      "start": 225.5,
+      "end": 234.18,
+      "usfm": "NUM.11.24"
+    },
+    {
+      "start": 234.18,
+      "end": 248.28,
+      "usfm": "NUM.11.25"
+    },
+    {
+      "start": 248.28,
+      "end": 264.48,
+      "usfm": "NUM.11.26"
+    },
+    {
+      "start": 264.48,
+      "end": 271.66,
+      "usfm": "NUM.11.27"
+    },
+    {
+      "start": 271.66,
+      "end": 280.34,
+      "usfm": "NUM.11.28"
+    },
+    {
+      "start": 280.34,
+      "end": 290.38,
+      "usfm": "NUM.11.29"
+    },
+    {
+      "start": 290.38,
+      "end": 294.84,
+      "usfm": "NUM.11.30"
+    },
+    {
+      "start": 294.84,
+      "end": 312.2,
+      "usfm": "NUM.11.31"
+    },
+    {
+      "start": 312.2,
+      "end": 326.44,
+      "usfm": "NUM.11.32"
+    },
+    {
+      "start": 326.44,
+      "end": 337.28,
+      "usfm": "NUM.11.33"
+    },
+    {
+      "start": 337.28,
+      "end": 344.1,
+      "usfm": "NUM.11.34"
+    },
+    {
+      "start": 344.1,
+      "end": 358.4,
+      "usfm": "NUM.11.35"
+    }
   ],
   "did_you_know": [
     {
@@ -284,8 +424,8 @@
       "text_en": "The name 'Kibroth-hattaavah' literally means 'graves of craving' or 'graves of lust,' indicating that the people's excessive desire for meat led directly to their demise."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

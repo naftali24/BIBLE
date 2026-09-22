@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 9,
   "title": "דברים פרק 9",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/9-b42c14f2e39fae94dffe894fa1eff133.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/9-60e562167f988350c5ff848c2a438576.mp3?version_id=1",
   "english": [
     "Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,",
     "A people great and tall, the children of the Anakims, whom thou knowest, and of whom thou hast heard say, Who can stand before the children of Anak!",
@@ -174,35 +174,151 @@
     }
   ],
   "times_en": [
-    3.34,
-    16.72,
-    27.66,
-    44.76,
-    61.56,
-    81.58,
-    93.92,
-    107.7,
-    113.16,
-    127.74,
-    141.04,
-    148.68,
-    166.98,
-    174.68,
-    185.4,
-    192.96,
-    205.32,
-    212.32,
-    230.84,
-    241.18,
-    248.76,
-    263.44,
-    269.04,
-    284.08,
-    289.84,
-    298.02,
-    312.24,
-    321.48,
-    336.06
+    {
+      "start": 2.88,
+      "end": 16.28,
+      "usfm": "DEU.9.1"
+    },
+    {
+      "start": 16.28,
+      "end": 26.02,
+      "usfm": "DEU.9.2"
+    },
+    {
+      "start": 26.02,
+      "end": 44.72,
+      "usfm": "DEU.9.3"
+    },
+    {
+      "start": 44.72,
+      "end": 62.0,
+      "usfm": "DEU.9.4"
+    },
+    {
+      "start": 62.0,
+      "end": 80.82,
+      "usfm": "DEU.9.5"
+    },
+    {
+      "start": 80.82,
+      "end": 89.86,
+      "usfm": "DEU.9.6"
+    },
+    {
+      "start": 89.86,
+      "end": 105.06,
+      "usfm": "DEU.9.7"
+    },
+    {
+      "start": 105.06,
+      "end": 112.14,
+      "usfm": "DEU.9.8"
+    },
+    {
+      "start": 112.14,
+      "end": 126.34,
+      "usfm": "DEU.9.9"
+    },
+    {
+      "start": 126.34,
+      "end": 139.5,
+      "usfm": "DEU.9.10"
+    },
+    {
+      "start": 139.5,
+      "end": 147.92,
+      "usfm": "DEU.9.11"
+    },
+    {
+      "start": 147.92,
+      "end": 165.26,
+      "usfm": "DEU.9.12"
+    },
+    {
+      "start": 165.26,
+      "end": 173.18,
+      "usfm": "DEU.9.13"
+    },
+    {
+      "start": 173.18,
+      "end": 183.08,
+      "usfm": "DEU.9.14"
+    },
+    {
+      "start": 183.08,
+      "end": 193.46,
+      "usfm": "DEU.9.15"
+    },
+    {
+      "start": 193.46,
+      "end": 205.5,
+      "usfm": "DEU.9.16"
+    },
+    {
+      "start": 205.5,
+      "end": 212.1,
+      "usfm": "DEU.9.17"
+    },
+    {
+      "start": 212.1,
+      "end": 226.86,
+      "usfm": "DEU.9.18"
+    },
+    {
+      "start": 226.86,
+      "end": 236.9,
+      "usfm": "DEU.9.19"
+    },
+    {
+      "start": 236.9,
+      "end": 243.4,
+      "usfm": "DEU.9.20"
+    },
+    {
+      "start": 243.4,
+      "end": 259.18,
+      "usfm": "DEU.9.21"
+    },
+    {
+      "start": 259.18,
+      "end": 265.38,
+      "usfm": "DEU.9.22"
+    },
+    {
+      "start": 265.38,
+      "end": 278.62,
+      "usfm": "DEU.9.23"
+    },
+    {
+      "start": 278.62,
+      "end": 282.18,
+      "usfm": "DEU.9.24"
+    },
+    {
+      "start": 282.18,
+      "end": 290.32,
+      "usfm": "DEU.9.25"
+    },
+    {
+      "start": 290.32,
+      "end": 303.08,
+      "usfm": "DEU.9.26"
+    },
+    {
+      "start": 303.08,
+      "end": 313.18,
+      "usfm": "DEU.9.27"
+    },
+    {
+      "start": 313.18,
+      "end": 325.7,
+      "usfm": "DEU.9.28"
+    },
+    {
+      "start": 325.7,
+      "end": 343.92,
+      "usfm": "DEU.9.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -267,8 +383,8 @@
       "text_en": "The giant people called the Anakim also appear in the spy stories and in the account of the conquest of Hebron. Their name is therefore part of a broader tradition about giant peoples in Canaan, not an isolated detail."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

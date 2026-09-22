@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 11,
   "title": "דברים פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/11-a03b78cc65b01178d8374a5e83fe2612.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/11-50b90d1612b7da185f7e76a62434cc7b.mp3?version_id=1",
   "english": [
     "Therefore thou shalt love the Lord thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.",
     "And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the Lord your God, his greatness, his mighty hand, and his stretched out arm,",
@@ -192,38 +192,166 @@
     }
   ],
   "times_en": [
-    3.28,
-    12.82,
-    24.28,
-    30.4,
-    43.36,
-    47.8,
-    62.88,
-    68.62,
-    80.36,
-    90.14,
-    101.42,
-    110.32,
-    120.44,
-    130.6,
-    140.36,
-    147.64,
-    154.44,
-    170.36,
-    178.98,
-    189.84,
-    194.32,
-    204.98,
-    215.46,
-    224.32,
-    237.44,
-    249.2,
-    254.36,
-    260.28,
-    271.9,
-    282.82,
-    295.04,
-    305.06
+    {
+      "start": 2.88,
+      "end": 14.84,
+      "usfm": "DEU.11.1"
+    },
+    {
+      "start": 14.84,
+      "end": 28.82,
+      "usfm": "DEU.11.2"
+    },
+    {
+      "start": 28.82,
+      "end": 37.06,
+      "usfm": "DEU.11.3"
+    },
+    {
+      "start": 37.06,
+      "end": 50.54,
+      "usfm": "DEU.11.4"
+    },
+    {
+      "start": 50.54,
+      "end": 55.42,
+      "usfm": "DEU.11.5"
+    },
+    {
+      "start": 55.42,
+      "end": 70.92,
+      "usfm": "DEU.11.6"
+    },
+    {
+      "start": 70.92,
+      "end": 75.02,
+      "usfm": "DEU.11.7"
+    },
+    {
+      "start": 75.02,
+      "end": 85.02,
+      "usfm": "DEU.11.8"
+    },
+    {
+      "start": 85.02,
+      "end": 95.88,
+      "usfm": "DEU.11.9"
+    },
+    {
+      "start": 95.88,
+      "end": 109.6,
+      "usfm": "DEU.11.10"
+    },
+    {
+      "start": 109.6,
+      "end": 116.96,
+      "usfm": "DEU.11.11"
+    },
+    {
+      "start": 116.96,
+      "end": 126.48,
+      "usfm": "DEU.11.12"
+    },
+    {
+      "start": 126.48,
+      "end": 138.22,
+      "usfm": "DEU.11.13"
+    },
+    {
+      "start": 138.22,
+      "end": 149.94,
+      "usfm": "DEU.11.14"
+    },
+    {
+      "start": 149.94,
+      "end": 156.0,
+      "usfm": "DEU.11.15"
+    },
+    {
+      "start": 156.0,
+      "end": 164.94,
+      "usfm": "DEU.11.16"
+    },
+    {
+      "start": 164.94,
+      "end": 177.8,
+      "usfm": "DEU.11.17"
+    },
+    {
+      "start": 177.8,
+      "end": 188.36,
+      "usfm": "DEU.11.18"
+    },
+    {
+      "start": 188.36,
+      "end": 200.72,
+      "usfm": "DEU.11.19"
+    },
+    {
+      "start": 200.72,
+      "end": 206.64,
+      "usfm": "DEU.11.20"
+    },
+    {
+      "start": 206.64,
+      "end": 217.3,
+      "usfm": "DEU.11.21"
+    },
+    {
+      "start": 217.3,
+      "end": 227.7,
+      "usfm": "DEU.11.22"
+    },
+    {
+      "start": 227.7,
+      "end": 236.02,
+      "usfm": "DEU.11.23"
+    },
+    {
+      "start": 236.02,
+      "end": 249.06,
+      "usfm": "DEU.11.24"
+    },
+    {
+      "start": 249.06,
+      "end": 261.08,
+      "usfm": "DEU.11.25"
+    },
+    {
+      "start": 261.08,
+      "end": 267.16,
+      "usfm": "DEU.11.26"
+    },
+    {
+      "start": 267.16,
+      "end": 272.98,
+      "usfm": "DEU.11.27"
+    },
+    {
+      "start": 272.98,
+      "end": 285.34,
+      "usfm": "DEU.11.28"
+    },
+    {
+      "start": 285.34,
+      "end": 298.96,
+      "usfm": "DEU.11.29"
+    },
+    {
+      "start": 298.96,
+      "end": 310.92,
+      "usfm": "DEU.11.30"
+    },
+    {
+      "start": 310.92,
+      "end": 319.36,
+      "usfm": "DEU.11.31"
+    },
+    {
+      "start": 319.36,
+      "end": 332.84,
+      "usfm": "DEU.11.32"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -294,8 +422,8 @@
       "text_en": "Mount Gerizim and Mount Ebal are near Shechem, in the hills of Samaria. Gerizim lies south of the valley and Ebal north of it, making the site suitable for a ceremony proclaiming blessing and curse together."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 1,
   "title": "דברים פרק 1",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/1-404bcd3923060a745679246c5ad1b0eb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/1-628b6f08a9c3a4d03a483cbd76023ea9.mp3?version_id=1",
   "english": [
     "These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.",
     "(There are eleven days' journey from Horeb by the way of mount Seir unto Kadeshbarnea.)",
@@ -270,52 +270,236 @@
     }
   ],
   "times_en": [
-    3.1,
-    17.64,
-    23.68,
-    34.36,
-    46.76,
-    53.18,
-    59.84,
-    79.18,
-    91.82,
-    97.06,
-    104.44,
-    111.58,
-    117.16,
-    125.94,
-    130.96,
-    145.84,
-    156.0,
-    171.96,
-    177.08,
-    190.64,
-    197.64,
-    210.52,
-    220.98,
-    228.4,
-    235.4,
-    245.76,
-    251.42,
-    263.0,
-    278.26,
-    282.72,
-    289.24,
-    300.26,
-    304.62,
-    315.52,
-    321.08,
-    328.24,
-    340.62,
-    348.28,
-    357.34,
-    369.96,
-    375.8,
-    389.8,
-    398.76,
-    408.4,
-    419.48,
-    426.38
+    {
+      "start": 4.6,
+      "end": 19.84,
+      "usfm": "DEU.1.1"
+    },
+    {
+      "start": 19.84,
+      "end": 26.6,
+      "usfm": "DEU.1.2"
+    },
+    {
+      "start": 26.6,
+      "end": 39.02,
+      "usfm": "DEU.1.3"
+    },
+    {
+      "start": 39.02,
+      "end": 47.96,
+      "usfm": "DEU.1.4"
+    },
+    {
+      "start": 47.96,
+      "end": 55.0,
+      "usfm": "DEU.1.5"
+    },
+    {
+      "start": 55.0,
+      "end": 61.38,
+      "usfm": "DEU.1.6"
+    },
+    {
+      "start": 61.38,
+      "end": 83.32,
+      "usfm": "DEU.1.7"
+    },
+    {
+      "start": 83.32,
+      "end": 94.34,
+      "usfm": "DEU.1.8"
+    },
+    {
+      "start": 94.34,
+      "end": 100.28,
+      "usfm": "DEU.1.9"
+    },
+    {
+      "start": 100.28,
+      "end": 108.04,
+      "usfm": "DEU.1.10"
+    },
+    {
+      "start": 108.04,
+      "end": 116.38,
+      "usfm": "DEU.1.11"
+    },
+    {
+      "start": 116.38,
+      "end": 122.08,
+      "usfm": "DEU.1.12"
+    },
+    {
+      "start": 122.08,
+      "end": 129.08,
+      "usfm": "DEU.1.13"
+    },
+    {
+      "start": 129.08,
+      "end": 135.06,
+      "usfm": "DEU.1.14"
+    },
+    {
+      "start": 135.06,
+      "end": 149.48,
+      "usfm": "DEU.1.15"
+    },
+    {
+      "start": 149.48,
+      "end": 160.64,
+      "usfm": "DEU.1.16"
+    },
+    {
+      "start": 160.64,
+      "end": 176.18,
+      "usfm": "DEU.1.17"
+    },
+    {
+      "start": 176.18,
+      "end": 179.9,
+      "usfm": "DEU.1.18"
+    },
+    {
+      "start": 179.9,
+      "end": 192.38,
+      "usfm": "DEU.1.19"
+    },
+    {
+      "start": 192.38,
+      "end": 199.18,
+      "usfm": "DEU.1.20"
+    },
+    {
+      "start": 199.18,
+      "end": 210.92,
+      "usfm": "DEU.1.21"
+    },
+    {
+      "start": 210.92,
+      "end": 223.9,
+      "usfm": "DEU.1.22"
+    },
+    {
+      "start": 223.9,
+      "end": 229.16,
+      "usfm": "DEU.1.23"
+    },
+    {
+      "start": 229.16,
+      "end": 234.3,
+      "usfm": "DEU.1.24"
+    },
+    {
+      "start": 234.3,
+      "end": 244.46,
+      "usfm": "DEU.1.25"
+    },
+    {
+      "start": 244.46,
+      "end": 250.08,
+      "usfm": "DEU.1.26"
+    },
+    {
+      "start": 250.08,
+      "end": 260.92,
+      "usfm": "DEU.1.27"
+    },
+    {
+      "start": 260.92,
+      "end": 274.04,
+      "usfm": "DEU.1.28"
+    },
+    {
+      "start": 274.04,
+      "end": 278.44,
+      "usfm": "DEU.1.29"
+    },
+    {
+      "start": 278.44,
+      "end": 285.88,
+      "usfm": "DEU.1.30"
+    },
+    {
+      "start": 285.88,
+      "end": 297.54,
+      "usfm": "DEU.1.31"
+    },
+    {
+      "start": 297.54,
+      "end": 301.02,
+      "usfm": "DEU.1.32"
+    },
+    {
+      "start": 301.02,
+      "end": 310.86,
+      "usfm": "DEU.1.33"
+    },
+    {
+      "start": 310.86,
+      "end": 315.36,
+      "usfm": "DEU.1.34"
+    },
+    {
+      "start": 315.36,
+      "end": 323.74,
+      "usfm": "DEU.1.35"
+    },
+    {
+      "start": 323.74,
+      "end": 333.64,
+      "usfm": "DEU.1.36"
+    },
+    {
+      "start": 333.64,
+      "end": 341.34,
+      "usfm": "DEU.1.37"
+    },
+    {
+      "start": 341.34,
+      "end": 351.08,
+      "usfm": "DEU.1.38"
+    },
+    {
+      "start": 351.08,
+      "end": 365.16,
+      "usfm": "DEU.1.39"
+    },
+    {
+      "start": 365.16,
+      "end": 370.54,
+      "usfm": "DEU.1.40"
+    },
+    {
+      "start": 370.54,
+      "end": 385.62,
+      "usfm": "DEU.1.41"
+    },
+    {
+      "start": 385.62,
+      "end": 395.5,
+      "usfm": "DEU.1.42"
+    },
+    {
+      "start": 395.5,
+      "end": 404.6,
+      "usfm": "DEU.1.43"
+    },
+    {
+      "start": 404.6,
+      "end": 413.58,
+      "usfm": "DEU.1.44"
+    },
+    {
+      "start": 413.58,
+      "end": 420.36,
+      "usfm": "DEU.1.45"
+    },
+    {
+      "start": 420.36,
+      "end": 433.68,
+      "usfm": "DEU.1.46"
+    }
   ],
   "sync_anchor_en_word_index": 2,
   "did_you_know": [
@@ -410,8 +594,8 @@
       "text_en": "The verse highlights an important difference between regret and correction: the people admitted their sin but acted after they had been told not to go. Even a brave action can be wrong when its timing is wrong."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

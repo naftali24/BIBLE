@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 50,
   "title": "בראשית פרק 50",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/50-620cb3c7100bbc7975065d2edbc4e6af.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/50-f7b59cd02d941ed4ee7e17e41c2bd348.mp3?version_id=1",
   "english": [
     "And Joseph fell upon his father's face, and wept upon him, and kissed him.",
     "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.",
@@ -156,32 +156,136 @@
     }
   ],
   "times_en": [
-    3.16,
-    9.76,
-    16.24,
-    23.48,
-    32.04,
-    46.38,
-    52.2,
-    62.58,
-    72.56,
-    78.84,
-    89.32,
-    103.26,
-    106.88,
-    118.02,
-    126.76,
-    137.92,
-    143.06,
-    161.72,
-    168.22,
-    173.82,
-    185.32,
-    195.08,
-    202.68,
-    212.92,
-    225.94,
-    236.78
+    {
+      "start": 2.88,
+      "end": 8.72,
+      "usfm": "GEN.50.1"
+    },
+    {
+      "start": 8.72,
+      "end": 15.64,
+      "usfm": "GEN.50.2"
+    },
+    {
+      "start": 15.64,
+      "end": 25.02,
+      "usfm": "GEN.50.3"
+    },
+    {
+      "start": 25.02,
+      "end": 35.84,
+      "usfm": "GEN.50.4"
+    },
+    {
+      "start": 35.84,
+      "end": 50.12,
+      "usfm": "GEN.50.5"
+    },
+    {
+      "start": 50.12,
+      "end": 55.36,
+      "usfm": "GEN.50.6"
+    },
+    {
+      "start": 55.36,
+      "end": 64.5,
+      "usfm": "GEN.50.7"
+    },
+    {
+      "start": 64.5,
+      "end": 74.0,
+      "usfm": "GEN.50.8"
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "usfm": "GEN.50.9"
+    },
+    {
+      "start": 79.0,
+      "end": 89.9,
+      "usfm": "GEN.50.10"
+    },
+    {
+      "start": 89.9,
+      "end": 103.42,
+      "usfm": "GEN.50.11"
+    },
+    {
+      "start": 103.42,
+      "end": 106.96,
+      "usfm": "GEN.50.12"
+    },
+    {
+      "start": 106.96,
+      "end": 120.12,
+      "usfm": "GEN.50.13"
+    },
+    {
+      "start": 120.12,
+      "end": 128.82,
+      "usfm": "GEN.50.14"
+    },
+    {
+      "start": 128.82,
+      "end": 139.24,
+      "usfm": "GEN.50.15"
+    },
+    {
+      "start": 139.24,
+      "end": 145.36,
+      "usfm": "GEN.50.16"
+    },
+    {
+      "start": 145.36,
+      "end": 163.82,
+      "usfm": "GEN.50.17"
+    },
+    {
+      "start": 163.82,
+      "end": 171.02,
+      "usfm": "GEN.50.18"
+    },
+    {
+      "start": 171.02,
+      "end": 176.14,
+      "usfm": "GEN.50.19"
+    },
+    {
+      "start": 176.14,
+      "end": 187.74,
+      "usfm": "GEN.50.20"
+    },
+    {
+      "start": 187.74,
+      "end": 196.56,
+      "usfm": "GEN.50.21"
+    },
+    {
+      "start": 196.56,
+      "end": 204.3,
+      "usfm": "GEN.50.22"
+    },
+    {
+      "start": 204.3,
+      "end": 213.94,
+      "usfm": "GEN.50.23"
+    },
+    {
+      "start": 213.94,
+      "end": 225.46,
+      "usfm": "GEN.50.24"
+    },
+    {
+      "start": 225.46,
+      "end": 233.54,
+      "usfm": "GEN.50.25"
+    },
+    {
+      "start": 233.54,
+      "end": 249.92,
+      "usfm": "GEN.50.26"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -242,8 +346,8 @@
   ],
   "audio_start_offset": 2.92,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 20,
   "title": "במדבר פרק 20",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/20-3ebb4e973665aa2f6eb1346a1dd7cfba.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/20-a090dabdc0c65fa671b6621fd03cd2ba.mp3?version_id=1",
   "english": [
     "Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.",
     "And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.",
@@ -138,35 +138,151 @@
     }
   ],
   "times_en": [
-    2.98,
-    14.04,
-    19.48,
-    25.46,
-    32.0,
-    44.46,
-    55.28,
-    57.52,
-    73.8,
-    78.96,
-    90.44,
-    101.8,
-    114.06,
-    122.24,
-    133.0,
-    140.84,
-    152.92,
-    169.06,
-    176.96,
-    190.24,
-    199.36,
-    206.74,
-    213.4,
-    219.34,
-    230.82,
-    236.44,
-    245.78,
-    253.12,
-    265.8
+    {
+      "start": 2.88,
+      "end": 14.94,
+      "usfm": "NUM.20.1"
+    },
+    {
+      "start": 14.94,
+      "end": 21.66,
+      "usfm": "NUM.20.2"
+    },
+    {
+      "start": 21.66,
+      "end": 29.26,
+      "usfm": "NUM.20.3"
+    },
+    {
+      "start": 29.26,
+      "end": 35.5,
+      "usfm": "NUM.20.4"
+    },
+    {
+      "start": 35.5,
+      "end": 48.0,
+      "usfm": "NUM.20.5"
+    },
+    {
+      "start": 48.0,
+      "end": 58.2,
+      "usfm": "NUM.20.6"
+    },
+    {
+      "start": 58.2,
+      "end": 60.76,
+      "usfm": "NUM.20.7"
+    },
+    {
+      "start": 60.76,
+      "end": 79.26,
+      "usfm": "NUM.20.8"
+    },
+    {
+      "start": 79.26,
+      "end": 83.54,
+      "usfm": "NUM.20.9"
+    },
+    {
+      "start": 83.54,
+      "end": 93.42,
+      "usfm": "NUM.20.10"
+    },
+    {
+      "start": 93.42,
+      "end": 104.88,
+      "usfm": "NUM.20.11"
+    },
+    {
+      "start": 104.88,
+      "end": 119.56,
+      "usfm": "NUM.20.12"
+    },
+    {
+      "start": 119.56,
+      "end": 128.12,
+      "usfm": "NUM.20.13"
+    },
+    {
+      "start": 128.12,
+      "end": 138.52,
+      "usfm": "NUM.20.14"
+    },
+    {
+      "start": 138.52,
+      "end": 147.3,
+      "usfm": "NUM.20.15"
+    },
+    {
+      "start": 147.3,
+      "end": 159.44,
+      "usfm": "NUM.20.16"
+    },
+    {
+      "start": 159.44,
+      "end": 177.52,
+      "usfm": "NUM.20.17"
+    },
+    {
+      "start": 177.52,
+      "end": 184.88,
+      "usfm": "NUM.20.18"
+    },
+    {
+      "start": 184.88,
+      "end": 197.98,
+      "usfm": "NUM.20.19"
+    },
+    {
+      "start": 197.98,
+      "end": 206.06,
+      "usfm": "NUM.20.20"
+    },
+    {
+      "start": 206.06,
+      "end": 212.48,
+      "usfm": "NUM.20.21"
+    },
+    {
+      "start": 212.48,
+      "end": 219.06,
+      "usfm": "NUM.20.22"
+    },
+    {
+      "start": 219.06,
+      "end": 225.18,
+      "usfm": "NUM.20.23"
+    },
+    {
+      "start": 225.18,
+      "end": 236.62,
+      "usfm": "NUM.20.24"
+    },
+    {
+      "start": 236.62,
+      "end": 242.0,
+      "usfm": "NUM.20.25"
+    },
+    {
+      "start": 242.0,
+      "end": 251.68,
+      "usfm": "NUM.20.26"
+    },
+    {
+      "start": 251.68,
+      "end": 258.36,
+      "usfm": "NUM.20.27"
+    },
+    {
+      "start": 258.36,
+      "end": 270.58,
+      "usfm": "NUM.20.28"
+    },
+    {
+      "start": 270.58,
+      "end": 288.28,
+      "usfm": "NUM.20.29"
+    }
   ],
   "did_you_know": [
     {
@@ -230,8 +346,8 @@
       "text_en": "Did you know that all of Israel mourned Aaron for thirty days, similar to the mourning period for Moses at the end of Deuteronomy, which highlights his status and importance?"
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

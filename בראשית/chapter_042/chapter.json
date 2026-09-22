@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 42,
   "title": "בראשית פרק 42",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/42-54176e6d3e1c6c1944b4b21d750a68ba.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/42-9a668b38733595751179a0fc6a36bd92.mp3?version_id=1",
   "english": [
     "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
     "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
@@ -228,44 +228,196 @@
     }
   ],
   "times_en": [
-    3.22,
-    10.4,
-    19.76,
-    24.4,
-    32.18,
-    39.68,
-    51.1,
-    65.54,
-    70.18,
-    78.34,
-    83.2,
-    88.92,
-    93.76,
-    104.94,
-    110.12,
-    119.06,
-    132.44,
-    135.68,
-    142.96,
-    151.48,
-    161.0,
-    174.4,
-    183.42,
-    189.48,
-    199.6,
-    210.42,
-    214.14,
-    223.0,
-    236.36,
-    242.74,
-    249.08,
-    252.72,
-    260.82,
-    272.6,
-    283.46,
-    294.62,
-    307.16,
-    317.48
+    {
+      "start": 2.88,
+      "end": 10.7,
+      "usfm": "GEN.42.1"
+    },
+    {
+      "start": 10.7,
+      "end": 19.38,
+      "usfm": "GEN.42.2"
+    },
+    {
+      "start": 19.38,
+      "end": 23.18,
+      "usfm": "GEN.42.3"
+    },
+    {
+      "start": 23.18,
+      "end": 30.92,
+      "usfm": "GEN.42.4"
+    },
+    {
+      "start": 30.92,
+      "end": 36.46,
+      "usfm": "GEN.42.5"
+    },
+    {
+      "start": 36.46,
+      "end": 48.66,
+      "usfm": "GEN.42.6"
+    },
+    {
+      "start": 48.66,
+      "end": 61.84,
+      "usfm": "GEN.42.7"
+    },
+    {
+      "start": 61.84,
+      "end": 65.84,
+      "usfm": "GEN.42.8"
+    },
+    {
+      "start": 65.84,
+      "end": 75.26,
+      "usfm": "GEN.42.9"
+    },
+    {
+      "start": 75.26,
+      "end": 80.38,
+      "usfm": "GEN.42.10"
+    },
+    {
+      "start": 80.38,
+      "end": 86.46,
+      "usfm": "GEN.42.11"
+    },
+    {
+      "start": 86.46,
+      "end": 91.96,
+      "usfm": "GEN.42.12"
+    },
+    {
+      "start": 91.96,
+      "end": 103.16,
+      "usfm": "GEN.42.13"
+    },
+    {
+      "start": 103.16,
+      "end": 109.62,
+      "usfm": "GEN.42.14"
+    },
+    {
+      "start": 109.62,
+      "end": 118.8,
+      "usfm": "GEN.42.15"
+    },
+    {
+      "start": 118.8,
+      "end": 132.02,
+      "usfm": "GEN.42.16"
+    },
+    {
+      "start": 132.02,
+      "end": 135.44,
+      "usfm": "GEN.42.17"
+    },
+    {
+      "start": 135.44,
+      "end": 141.46,
+      "usfm": "GEN.42.18"
+    },
+    {
+      "start": 141.46,
+      "end": 150.8,
+      "usfm": "GEN.42.19"
+    },
+    {
+      "start": 150.8,
+      "end": 158.98,
+      "usfm": "GEN.42.20"
+    },
+    {
+      "start": 158.98,
+      "end": 172.74,
+      "usfm": "GEN.42.21"
+    },
+    {
+      "start": 172.74,
+      "end": 182.88,
+      "usfm": "GEN.42.22"
+    },
+    {
+      "start": 182.88,
+      "end": 189.38,
+      "usfm": "GEN.42.23"
+    },
+    {
+      "start": 189.38,
+      "end": 200.64,
+      "usfm": "GEN.42.24"
+    },
+    {
+      "start": 200.64,
+      "end": 210.9,
+      "usfm": "GEN.42.25"
+    },
+    {
+      "start": 210.9,
+      "end": 215.24,
+      "usfm": "GEN.42.26"
+    },
+    {
+      "start": 215.24,
+      "end": 224.68,
+      "usfm": "GEN.42.27"
+    },
+    {
+      "start": 224.68,
+      "end": 238.98,
+      "usfm": "GEN.42.28"
+    },
+    {
+      "start": 238.98,
+      "end": 244.54,
+      "usfm": "GEN.42.29"
+    },
+    {
+      "start": 244.54,
+      "end": 250.18,
+      "usfm": "GEN.42.30"
+    },
+    {
+      "start": 250.18,
+      "end": 254.04,
+      "usfm": "GEN.42.31"
+    },
+    {
+      "start": 254.04,
+      "end": 261.42,
+      "usfm": "GEN.42.32"
+    },
+    {
+      "start": 261.42,
+      "end": 273.78,
+      "usfm": "GEN.42.33"
+    },
+    {
+      "start": 273.78,
+      "end": 285.3,
+      "usfm": "GEN.42.34"
+    },
+    {
+      "start": 285.3,
+      "end": 296.64,
+      "usfm": "GEN.42.35"
+    },
+    {
+      "start": 296.64,
+      "end": 309.44,
+      "usfm": "GEN.42.36"
+    },
+    {
+      "start": 309.44,
+      "end": 319.42,
+      "usfm": "GEN.42.37"
+    },
+    {
+      "start": 319.42,
+      "end": 342.44,
+      "usfm": "GEN.42.38"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -350,8 +502,8 @@
   ],
   "audio_start_offset": 1.83,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 18,
   "title": "בראשית פרק 18",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/18-bd6022d849b0190f62751e13ba0f6510.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/18-f0cb8d526535aee4a55c6149366d18e9.mp3?version_id=1",
   "english": [
     "And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;",
     "And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,",
@@ -396,39 +396,171 @@
     }
   ],
   "times_en": [
-    3.26,
-    11.64,
-    22.96,
-    30.22,
-    36.4,
-    50.26,
-    58.72,
-    67.18,
-    77.46,
-    83.28,
-    95.9,
-    103.34,
-    111.52,
-    120.08,
-    130.24,
-    138.84,
-    146.7,
-    152.18,
-    160.28,
-    175.54,
-    183.52,
-    191.86,
-    199.24,
-    206.02,
-    216.18,
-    230.14,
-    240.4,
-    247.54,
-    260.14,
-    269.62,
-    282.94,
-    294.66,
-    308.98
+    {
+      "start": 2.88,
+      "end": 11.36,
+      "usfm": "GEN.18.1"
+    },
+    {
+      "start": 11.36,
+      "end": 23.36,
+      "usfm": "GEN.18.2"
+    },
+    {
+      "start": 23.36,
+      "end": 31.98,
+      "usfm": "GEN.18.3"
+    },
+    {
+      "start": 31.98,
+      "end": 39.0,
+      "usfm": "GEN.18.4"
+    },
+    {
+      "start": 39.0,
+      "end": 51.92,
+      "usfm": "GEN.18.5"
+    },
+    {
+      "start": 51.92,
+      "end": 62.34,
+      "usfm": "GEN.18.6"
+    },
+    {
+      "start": 62.34,
+      "end": 70.96,
+      "usfm": "GEN.18.7"
+    },
+    {
+      "start": 70.96,
+      "end": 80.96,
+      "usfm": "GEN.18.8"
+    },
+    {
+      "start": 80.96,
+      "end": 87.88,
+      "usfm": "GEN.18.9"
+    },
+    {
+      "start": 87.88,
+      "end": 102.4,
+      "usfm": "GEN.18.10"
+    },
+    {
+      "start": 102.4,
+      "end": 110.88,
+      "usfm": "GEN.18.11"
+    },
+    {
+      "start": 110.88,
+      "end": 119.82,
+      "usfm": "GEN.18.12"
+    },
+    {
+      "start": 119.82,
+      "end": 128.9,
+      "usfm": "GEN.18.13"
+    },
+    {
+      "start": 128.9,
+      "end": 140.98,
+      "usfm": "GEN.18.14"
+    },
+    {
+      "start": 140.98,
+      "end": 152.16,
+      "usfm": "GEN.18.15"
+    },
+    {
+      "start": 152.16,
+      "end": 159.76,
+      "usfm": "GEN.18.16"
+    },
+    {
+      "start": 159.76,
+      "end": 165.68,
+      "usfm": "GEN.18.17"
+    },
+    {
+      "start": 165.68,
+      "end": 174.52,
+      "usfm": "GEN.18.18"
+    },
+    {
+      "start": 174.52,
+      "end": 189.54,
+      "usfm": "GEN.18.19"
+    },
+    {
+      "start": 189.54,
+      "end": 198.22,
+      "usfm": "GEN.18.20"
+    },
+    {
+      "start": 198.22,
+      "end": 209.28,
+      "usfm": "GEN.18.21"
+    },
+    {
+      "start": 209.28,
+      "end": 217.06,
+      "usfm": "GEN.18.22"
+    },
+    {
+      "start": 217.06,
+      "end": 223.3,
+      "usfm": "GEN.18.23"
+    },
+    {
+      "start": 223.3,
+      "end": 233.46,
+      "usfm": "GEN.18.24"
+    },
+    {
+      "start": 233.46,
+      "end": 245.96,
+      "usfm": "GEN.18.25"
+    },
+    {
+      "start": 245.96,
+      "end": 254.94,
+      "usfm": "GEN.18.26"
+    },
+    {
+      "start": 254.94,
+      "end": 264.12,
+      "usfm": "GEN.18.27"
+    },
+    {
+      "start": 264.12,
+      "end": 276.22,
+      "usfm": "GEN.18.28"
+    },
+    {
+      "start": 276.22,
+      "end": 288.0,
+      "usfm": "GEN.18.29"
+    },
+    {
+      "start": 288.0,
+      "end": 303.82,
+      "usfm": "GEN.18.30"
+    },
+    {
+      "start": 303.82,
+      "end": 318.88,
+      "usfm": "GEN.18.31"
+    },
+    {
+      "start": 318.88,
+      "end": 336.1,
+      "usfm": "GEN.18.32"
+    },
+    {
+      "start": 336.1,
+      "end": 352.84,
+      "usfm": "GEN.18.33"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -501,8 +633,8 @@
   ],
   "audio_start_offset": 6.32,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

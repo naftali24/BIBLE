@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 1,
   "title": "בראשית פרק 1",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/1-c0e8ee2f928bd7fcf63612b92c3d94a6.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/1-b5969203ff27ab059b850b2210ae90b7.mp3?version_id=1",
   "english": [
     "In the beginning God created the heaven and the earth.",
     "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
@@ -207,37 +207,161 @@
     }
   ],
   "times_en": [
-    3.16,
-    7.76,
-    18.08,
-    23.08,
-    28.82,
-    38.98,
-    46.58,
-    54.12,
-    62.4,
-    72.26,
-    82.06,
-    94.62,
-    106.52,
-    111.24,
-    123.94,
-    130.96,
-    141.74,
-    147.3,
-    156.1,
-    160.44,
-    169.32,
-    184.1,
-    193.76,
-    198.58,
-    211.3,
-    224.34,
-    240.64,
-    250.64,
-    265.02,
-    278.08,
-    292.76
+    {
+      "start": 4.6,
+      "end": 8.96,
+      "usfm": "GEN.1.1"
+    },
+    {
+      "start": 8.96,
+      "end": 19.26,
+      "usfm": "GEN.1.2"
+    },
+    {
+      "start": 19.26,
+      "end": 24.8,
+      "usfm": "GEN.1.3"
+    },
+    {
+      "start": 24.8,
+      "end": 31.72,
+      "usfm": "GEN.1.4"
+    },
+    {
+      "start": 31.72,
+      "end": 41.94,
+      "usfm": "GEN.1.5"
+    },
+    {
+      "start": 41.94,
+      "end": 51.04,
+      "usfm": "GEN.1.6"
+    },
+    {
+      "start": 51.04,
+      "end": 59.7,
+      "usfm": "GEN.1.7"
+    },
+    {
+      "start": 59.7,
+      "end": 66.62,
+      "usfm": "GEN.1.8"
+    },
+    {
+      "start": 66.62,
+      "end": 75.88,
+      "usfm": "GEN.1.9"
+    },
+    {
+      "start": 75.88,
+      "end": 84.74,
+      "usfm": "GEN.1.10"
+    },
+    {
+      "start": 84.74,
+      "end": 97.54,
+      "usfm": "GEN.1.11"
+    },
+    {
+      "start": 97.54,
+      "end": 109.12,
+      "usfm": "GEN.1.12"
+    },
+    {
+      "start": 109.12,
+      "end": 113.84,
+      "usfm": "GEN.1.13"
+    },
+    {
+      "start": 113.84,
+      "end": 125.22,
+      "usfm": "GEN.1.14"
+    },
+    {
+      "start": 125.22,
+      "end": 133.0,
+      "usfm": "GEN.1.15"
+    },
+    {
+      "start": 133.0,
+      "end": 142.98,
+      "usfm": "GEN.1.16"
+    },
+    {
+      "start": 142.98,
+      "end": 147.68,
+      "usfm": "GEN.1.17"
+    },
+    {
+      "start": 147.68,
+      "end": 155.0,
+      "usfm": "GEN.1.18"
+    },
+    {
+      "start": 155.0,
+      "end": 159.82,
+      "usfm": "GEN.1.19"
+    },
+    {
+      "start": 159.82,
+      "end": 171.1,
+      "usfm": "GEN.1.20"
+    },
+    {
+      "start": 171.1,
+      "end": 184.76,
+      "usfm": "GEN.1.21"
+    },
+    {
+      "start": 184.76,
+      "end": 195.34,
+      "usfm": "GEN.1.22"
+    },
+    {
+      "start": 195.34,
+      "end": 200.42,
+      "usfm": "GEN.1.23"
+    },
+    {
+      "start": 200.42,
+      "end": 213.32,
+      "usfm": "GEN.1.24"
+    },
+    {
+      "start": 213.32,
+      "end": 224.6,
+      "usfm": "GEN.1.25"
+    },
+    {
+      "start": 224.6,
+      "end": 247.34,
+      "usfm": "GEN.1.26"
+    },
+    {
+      "start": 247.34,
+      "end": 259.74,
+      "usfm": "GEN.1.27"
+    },
+    {
+      "start": 259.74,
+      "end": 275.64,
+      "usfm": "GEN.1.28"
+    },
+    {
+      "start": 275.64,
+      "end": 290.62,
+      "usfm": "GEN.1.29"
+    },
+    {
+      "start": 290.62,
+      "end": 304.24,
+      "usfm": "GEN.1.30"
+    },
+    {
+      "start": 304.24,
+      "end": 323.36,
+      "usfm": "GEN.1.31"
+    }
   ],
   "sync_anchor_en_word_index": 2,
   "did_you_know": [
@@ -304,8 +428,8 @@
   ],
   "audio_start_offset": 12.01,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 24,
   "title": "במדבר פרק 24",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/24-88285a53662b1579f716f25593d49975.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/24-c53bf66ab465c9aed07ede900744f3ca.mp3?version_id=1",
   "english": [
     "And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
     "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.",
@@ -144,31 +144,131 @@
     }
   ],
   "times_en": [
-    3.34,
-    14.82,
-    22.42,
-    31.94,
-    41.26,
-    46.46,
-    56.48,
-    67.08,
-    77.88,
-    89.66,
-    103.8,
-    113.04,
-    118.4,
-    133.56,
-    142.52,
-    152.06,
-    164.12,
-    180.34,
-    187.4,
-    192.78,
-    202.46,
-    211.58,
-    215.94,
-    223.4,
-    231.86
+    {
+      "start": 2.88,
+      "end": 13.0,
+      "usfm": "NUM.24.1"
+    },
+    {
+      "start": 13.0,
+      "end": 21.56,
+      "usfm": "NUM.24.2"
+    },
+    {
+      "start": 21.56,
+      "end": 29.24,
+      "usfm": "NUM.24.3"
+    },
+    {
+      "start": 29.24,
+      "end": 37.9,
+      "usfm": "NUM.24.4"
+    },
+    {
+      "start": 37.9,
+      "end": 42.98,
+      "usfm": "NUM.24.5"
+    },
+    {
+      "start": 42.98,
+      "end": 54.96,
+      "usfm": "NUM.24.6"
+    },
+    {
+      "start": 54.96,
+      "end": 66.08,
+      "usfm": "NUM.24.7"
+    },
+    {
+      "start": 66.08,
+      "end": 78.14,
+      "usfm": "NUM.24.8"
+    },
+    {
+      "start": 78.14,
+      "end": 89.64,
+      "usfm": "NUM.24.9"
+    },
+    {
+      "start": 89.64,
+      "end": 104.6,
+      "usfm": "NUM.24.10"
+    },
+    {
+      "start": 104.6,
+      "end": 113.08,
+      "usfm": "NUM.24.11"
+    },
+    {
+      "start": 113.08,
+      "end": 119.98,
+      "usfm": "NUM.24.12"
+    },
+    {
+      "start": 119.98,
+      "end": 133.7,
+      "usfm": "NUM.24.13"
+    },
+    {
+      "start": 133.7,
+      "end": 143.96,
+      "usfm": "NUM.24.14"
+    },
+    {
+      "start": 143.96,
+      "end": 151.42,
+      "usfm": "NUM.24.15"
+    },
+    {
+      "start": 151.42,
+      "end": 163.62,
+      "usfm": "NUM.24.16"
+    },
+    {
+      "start": 163.62,
+      "end": 181.82,
+      "usfm": "NUM.24.17"
+    },
+    {
+      "start": 181.82,
+      "end": 190.6,
+      "usfm": "NUM.24.18"
+    },
+    {
+      "start": 190.6,
+      "end": 197.88,
+      "usfm": "NUM.24.19"
+    },
+    {
+      "start": 197.88,
+      "end": 208.92,
+      "usfm": "NUM.24.20"
+    },
+    {
+      "start": 208.92,
+      "end": 218.52,
+      "usfm": "NUM.24.21"
+    },
+    {
+      "start": 218.52,
+      "end": 226.28,
+      "usfm": "NUM.24.22"
+    },
+    {
+      "start": 226.28,
+      "end": 232.46,
+      "usfm": "NUM.24.23"
+    },
+    {
+      "start": 232.46,
+      "end": 243.6,
+      "usfm": "NUM.24.24"
+    },
+    {
+      "start": 243.6,
+      "end": 259.16,
+      "usfm": "NUM.24.25"
+    }
   ],
   "did_you_know": [
     {
@@ -220,8 +320,8 @@
       "text_en": "Did you know? The Kenites were a nomadic tribe, likely metalworkers (their name \"Kain\" is related to \"smith\"), and often allied with Israel, like Jethro, Moses' father-in-law."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 7,
   "title": "דברים פרק 7",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/7-655d2dd0f030900716b0e63a3be36e6d.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/7-4d04692344fb30f56fff9caee49d35d3.mp3?version_id=1",
   "english": [
     "When the Lord thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;",
     "And when the Lord thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:",
@@ -156,32 +156,136 @@
     }
   ],
   "times_en": [
-    3.18,
-    23.3,
-    36.28,
-    44.32,
-    56.96,
-    70.12,
-    82.76,
-    92.4,
-    106.72,
-    119.88,
-    130.72,
-    137.48,
-    148.06,
-    166.04,
-    174.3,
-    187.36,
-    199.34,
-    206.34,
-    214.6,
-    230.3,
-    238.24,
-    246.68,
-    258.34,
-    266.48,
-    278.48,
-    292.7
+    {
+      "start": 2.88,
+      "end": 19.04,
+      "usfm": "DEU.7.1"
+    },
+    {
+      "start": 19.04,
+      "end": 29.26,
+      "usfm": "DEU.7.2"
+    },
+    {
+      "start": 29.26,
+      "end": 37.94,
+      "usfm": "DEU.7.3"
+    },
+    {
+      "start": 37.94,
+      "end": 48.76,
+      "usfm": "DEU.7.4"
+    },
+    {
+      "start": 48.76,
+      "end": 60.12,
+      "usfm": "DEU.7.5"
+    },
+    {
+      "start": 60.12,
+      "end": 70.8,
+      "usfm": "DEU.7.6"
+    },
+    {
+      "start": 70.8,
+      "end": 80.6,
+      "usfm": "DEU.7.7"
+    },
+    {
+      "start": 80.6,
+      "end": 94.0,
+      "usfm": "DEU.7.8"
+    },
+    {
+      "start": 94.0,
+      "end": 104.64,
+      "usfm": "DEU.7.9"
+    },
+    {
+      "start": 104.64,
+      "end": 113.44,
+      "usfm": "DEU.7.10"
+    },
+    {
+      "start": 113.44,
+      "end": 119.3,
+      "usfm": "DEU.7.11"
+    },
+    {
+      "start": 119.3,
+      "end": 133.18,
+      "usfm": "DEU.7.12"
+    },
+    {
+      "start": 133.18,
+      "end": 149.92,
+      "usfm": "DEU.7.13"
+    },
+    {
+      "start": 149.92,
+      "end": 157.12,
+      "usfm": "DEU.7.14"
+    },
+    {
+      "start": 157.12,
+      "end": 168.08,
+      "usfm": "DEU.7.15"
+    },
+    {
+      "start": 168.08,
+      "end": 179.58,
+      "usfm": "DEU.7.16"
+    },
+    {
+      "start": 179.58,
+      "end": 186.0,
+      "usfm": "DEU.7.17"
+    },
+    {
+      "start": 186.0,
+      "end": 193.74,
+      "usfm": "DEU.7.18"
+    },
+    {
+      "start": 193.74,
+      "end": 208.3,
+      "usfm": "DEU.7.19"
+    },
+    {
+      "start": 208.3,
+      "end": 215.92,
+      "usfm": "DEU.7.20"
+    },
+    {
+      "start": 215.92,
+      "end": 222.78,
+      "usfm": "DEU.7.21"
+    },
+    {
+      "start": 222.78,
+      "end": 233.3,
+      "usfm": "DEU.7.22"
+    },
+    {
+      "start": 233.3,
+      "end": 240.24,
+      "usfm": "DEU.7.23"
+    },
+    {
+      "start": 240.24,
+      "end": 251.0,
+      "usfm": "DEU.7.24"
+    },
+    {
+      "start": 251.0,
+      "end": 265.84,
+      "usfm": "DEU.7.25"
+    },
+    {
+      "start": 265.84,
+      "end": 286.72,
+      "usfm": "DEU.7.26"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -240,8 +344,8 @@
       "text_en": "Did you know? The command does not stop at destroying the idols; it also warns against taking their gold and silver. Even a valuable material can become a “snare” when connected with idolatry."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

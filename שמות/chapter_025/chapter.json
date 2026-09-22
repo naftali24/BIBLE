@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 25,
   "title": "שמות פרק 25",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/25-3f4ba43f77a0d5a4c33852de170c0094.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/25-19c83884ad26f1a59020e1b82f01afa4.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.",
@@ -252,46 +252,206 @@
     }
   ],
   "times_en": [
-    3.42,
-    5.98,
-    13.58,
-    19.24,
-    24.44,
-    28.58,
-    35.08,
-    40.9,
-    46.44,
-    52.9,
-    62.66,
-    69.72,
-    77.84,
-    82.48,
-    87.5,
-    92.8,
-    97.48,
-    105.56,
-    110.02,
-    116.42,
-    127.28,
-    133.8,
-    147.62,
-    155.5,
-    160.48,
-    166.12,
-    172.52,
-    179.66,
-    186.68,
-    196.34,
-    201.88,
-    213.72,
-    221.0,
-    235.1,
-    242.24,
-    253.04,
-    259.68,
-    266.38,
-    270.6,
-    276.36
+    {
+      "start": 2.88,
+      "end": 6.32,
+      "usfm": "EXO.25.1"
+    },
+    {
+      "start": 6.32,
+      "end": 14.92,
+      "usfm": "EXO.25.2"
+    },
+    {
+      "start": 14.92,
+      "end": 20.18,
+      "usfm": "EXO.25.3"
+    },
+    {
+      "start": 20.18,
+      "end": 26.04,
+      "usfm": "EXO.25.4"
+    },
+    {
+      "start": 26.04,
+      "end": 32.08,
+      "usfm": "EXO.25.5"
+    },
+    {
+      "start": 32.08,
+      "end": 37.54,
+      "usfm": "EXO.25.6"
+    },
+    {
+      "start": 37.54,
+      "end": 43.04,
+      "usfm": "EXO.25.7"
+    },
+    {
+      "start": 43.04,
+      "end": 46.56,
+      "usfm": "EXO.25.8"
+    },
+    {
+      "start": 46.56,
+      "end": 55.24,
+      "usfm": "EXO.25.9"
+    },
+    {
+      "start": 55.24,
+      "end": 66.04,
+      "usfm": "EXO.25.10"
+    },
+    {
+      "start": 66.04,
+      "end": 74.44,
+      "usfm": "EXO.25.11"
+    },
+    {
+      "start": 74.44,
+      "end": 85.44,
+      "usfm": "EXO.25.12"
+    },
+    {
+      "start": 85.44,
+      "end": 90.68,
+      "usfm": "EXO.25.13"
+    },
+    {
+      "start": 90.68,
+      "end": 97.06,
+      "usfm": "EXO.25.14"
+    },
+    {
+      "start": 97.06,
+      "end": 101.46,
+      "usfm": "EXO.25.15"
+    },
+    {
+      "start": 101.46,
+      "end": 105.42,
+      "usfm": "EXO.25.16"
+    },
+    {
+      "start": 105.42,
+      "end": 113.32,
+      "usfm": "EXO.25.17"
+    },
+    {
+      "start": 113.32,
+      "end": 120.74,
+      "usfm": "EXO.25.18"
+    },
+    {
+      "start": 120.74,
+      "end": 129.9,
+      "usfm": "EXO.25.19"
+    },
+    {
+      "start": 129.9,
+      "end": 142.56,
+      "usfm": "EXO.25.20"
+    },
+    {
+      "start": 142.56,
+      "end": 150.34,
+      "usfm": "EXO.25.21"
+    },
+    {
+      "start": 150.34,
+      "end": 164.62,
+      "usfm": "EXO.25.22"
+    },
+    {
+      "start": 164.62,
+      "end": 174.46,
+      "usfm": "EXO.25.23"
+    },
+    {
+      "start": 174.46,
+      "end": 180.04,
+      "usfm": "EXO.25.24"
+    },
+    {
+      "start": 180.04,
+      "end": 188.58,
+      "usfm": "EXO.25.25"
+    },
+    {
+      "start": 188.58,
+      "end": 195.42,
+      "usfm": "EXO.25.26"
+    },
+    {
+      "start": 195.42,
+      "end": 200.36,
+      "usfm": "EXO.25.27"
+    },
+    {
+      "start": 200.36,
+      "end": 207.48,
+      "usfm": "EXO.25.28"
+    },
+    {
+      "start": 207.48,
+      "end": 217.16,
+      "usfm": "EXO.25.29"
+    },
+    {
+      "start": 217.16,
+      "end": 220.4,
+      "usfm": "EXO.25.30"
+    },
+    {
+      "start": 220.4,
+      "end": 232.0,
+      "usfm": "EXO.25.31"
+    },
+    {
+      "start": 232.0,
+      "end": 240.2,
+      "usfm": "EXO.25.32"
+    },
+    {
+      "start": 240.2,
+      "end": 252.1,
+      "usfm": "EXO.25.33"
+    },
+    {
+      "start": 252.1,
+      "end": 257.72,
+      "usfm": "EXO.25.34"
+    },
+    {
+      "start": 257.72,
+      "end": 270.44,
+      "usfm": "EXO.25.35"
+    },
+    {
+      "start": 270.44,
+      "end": 277.06,
+      "usfm": "EXO.25.36"
+    },
+    {
+      "start": 277.06,
+      "end": 283.38,
+      "usfm": "EXO.25.37"
+    },
+    {
+      "start": 283.38,
+      "end": 288.24,
+      "usfm": "EXO.25.38"
+    },
+    {
+      "start": 288.24,
+      "end": 292.48,
+      "usfm": "EXO.25.39"
+    },
+    {
+      "start": 292.48,
+      "end": 304.84,
+      "usfm": "EXO.25.40"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -374,8 +534,8 @@
       "text_en": "A talent of gold was a very large unit of weight; common estimates place it at roughly thirty to thirty-five kilograms."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 34,
   "title": "דברים פרק 34",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/34-aa610ae37df27da62c30e2d8b1a01884.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/34-32d6fd8fc55581a3dde5a9003618ce3e.mp3?version_id=1",
   "english": [
     "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the Lord shewed him all the land of Gilead, unto Dan,",
     "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,",
@@ -105,18 +105,66 @@
     }
   ],
   "times_en": [
-    3.64,
-    17.72,
-    25.74,
-    32.9,
-    49.36,
-    55.92,
-    65.76,
-    75.24,
-    85.68,
-    99.12,
-    106.44,
-    117.72
+    {
+      "start": 2.88,
+      "end": 15.94,
+      "usfm": "DEU.34.1"
+    },
+    {
+      "start": 15.94,
+      "end": 22.7,
+      "usfm": "DEU.34.2"
+    },
+    {
+      "start": 22.7,
+      "end": 29.48,
+      "usfm": "DEU.34.3"
+    },
+    {
+      "start": 29.48,
+      "end": 45.34,
+      "usfm": "DEU.34.4"
+    },
+    {
+      "start": 45.34,
+      "end": 52.08,
+      "usfm": "DEU.34.5"
+    },
+    {
+      "start": 52.08,
+      "end": 61.78,
+      "usfm": "DEU.34.6"
+    },
+    {
+      "start": 61.78,
+      "end": 70.44,
+      "usfm": "DEU.34.7"
+    },
+    {
+      "start": 70.44,
+      "end": 78.94,
+      "usfm": "DEU.34.8"
+    },
+    {
+      "start": 78.94,
+      "end": 92.92,
+      "usfm": "DEU.34.9"
+    },
+    {
+      "start": 92.92,
+      "end": 101.42,
+      "usfm": "DEU.34.10"
+    },
+    {
+      "start": 101.42,
+      "end": 109.92,
+      "usfm": "DEU.34.11"
+    },
+    {
+      "start": 109.92,
+      "end": 122.6,
+      "usfm": "DEU.34.12"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -145,8 +193,8 @@
       "text_en": "The phrase “face to face” describes an especially direct and close relationship, not necessarily an ordinary physical meeting. It emphasizes the unique nature of Moses’ relationship with God."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

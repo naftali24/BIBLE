@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 24,
   "title": "דברים פרק 24",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/24-6449f5610408c9e04d5b7d1aae3674bb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/24-e05c5b14f39b310c4f46e4771b4ab73f.mp3?version_id=1",
   "english": [
     "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.",
     "And when she is departed out of his house, she may go and be another man's wife.",
@@ -171,28 +171,116 @@
     }
   ],
   "times_en": [
-    3.7,
-    19.76,
-    25.0,
-    35.04,
-    51.32,
-    65.54,
-    76.92,
-    89.8,
-    102.0,
-    108.64,
-    115.16,
-    122.08,
-    127.88,
-    139.94,
-    149.14,
-    162.58,
-    171.76,
-    179.54,
-    190.72,
-    206.08,
-    216.62,
-    226.22
+    {
+      "start": 2.88,
+      "end": 20.64,
+      "usfm": "DEU.24.1"
+    },
+    {
+      "start": 20.64,
+      "end": 25.52,
+      "usfm": "DEU.24.2"
+    },
+    {
+      "start": 25.52,
+      "end": 38.16,
+      "usfm": "DEU.24.3"
+    },
+    {
+      "start": 38.16,
+      "end": 53.88,
+      "usfm": "DEU.24.4"
+    },
+    {
+      "start": 53.88,
+      "end": 67.46,
+      "usfm": "DEU.24.5"
+    },
+    {
+      "start": 67.46,
+      "end": 74.72,
+      "usfm": "DEU.24.6"
+    },
+    {
+      "start": 74.72,
+      "end": 87.7,
+      "usfm": "DEU.24.7"
+    },
+    {
+      "start": 87.7,
+      "end": 100.88,
+      "usfm": "DEU.24.8"
+    },
+    {
+      "start": 100.88,
+      "end": 107.2,
+      "usfm": "DEU.24.9"
+    },
+    {
+      "start": 107.2,
+      "end": 112.72,
+      "usfm": "DEU.24.10"
+    },
+    {
+      "start": 112.72,
+      "end": 118.74,
+      "usfm": "DEU.24.11"
+    },
+    {
+      "start": 118.74,
+      "end": 122.8,
+      "usfm": "DEU.24.12"
+    },
+    {
+      "start": 122.8,
+      "end": 134.52,
+      "usfm": "DEU.24.13"
+    },
+    {
+      "start": 134.52,
+      "end": 144.08,
+      "usfm": "DEU.24.14"
+    },
+    {
+      "start": 144.08,
+      "end": 157.1,
+      "usfm": "DEU.24.15"
+    },
+    {
+      "start": 157.1,
+      "end": 166.68,
+      "usfm": "DEU.24.16"
+    },
+    {
+      "start": 166.68,
+      "end": 173.68,
+      "usfm": "DEU.24.17"
+    },
+    {
+      "start": 173.68,
+      "end": 182.1,
+      "usfm": "DEU.24.18"
+    },
+    {
+      "start": 182.1,
+      "end": 197.46,
+      "usfm": "DEU.24.19"
+    },
+    {
+      "start": 197.46,
+      "end": 206.96,
+      "usfm": "DEU.24.20"
+    },
+    {
+      "start": 206.96,
+      "end": 215.9,
+      "usfm": "DEU.24.21"
+    },
+    {
+      "start": 215.9,
+      "end": 229.36,
+      "usfm": "DEU.24.22"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -239,8 +327,8 @@
       "text_en": "During the grape harvest, a farmer was not to go over every vine repeatedly to collect every last grape. The Torah required leaving part of the crop for people without land, creating a dignified way to support them."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

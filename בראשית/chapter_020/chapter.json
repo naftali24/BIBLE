@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 20,
   "title": "בראשית פרק 20",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/20-660df867e0395e37fc4c82873176baa5.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/20-dca3cc4c6457b8012eb391c01f914584.mp3?version_id=1",
   "english": [
     "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
     "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.",
@@ -246,24 +246,96 @@
     }
   ],
   "times_en": [
-    3.02,
-    12.52,
-    20.84,
-    31.94,
-    39.88,
-    51.4,
-    64.28,
-    78.26,
-    88.32,
-    103.76,
-    108.32,
-    117.72,
-    126.2,
-    137.66,
-    146.62,
-    152.84,
-    163.64,
-    172.62
+    {
+      "start": 2.88,
+      "end": 11.56,
+      "usfm": "GEN.20.1"
+    },
+    {
+      "start": 11.56,
+      "end": 19.22,
+      "usfm": "GEN.20.2"
+    },
+    {
+      "start": 19.22,
+      "end": 32.72,
+      "usfm": "GEN.20.3"
+    },
+    {
+      "start": 32.72,
+      "end": 39.88,
+      "usfm": "GEN.20.4"
+    },
+    {
+      "start": 39.88,
+      "end": 52.52,
+      "usfm": "GEN.20.5"
+    },
+    {
+      "start": 52.52,
+      "end": 65.8,
+      "usfm": "GEN.20.6"
+    },
+    {
+      "start": 65.8,
+      "end": 82.14,
+      "usfm": "GEN.20.7"
+    },
+    {
+      "start": 82.14,
+      "end": 92.74,
+      "usfm": "GEN.20.8"
+    },
+    {
+      "start": 92.74,
+      "end": 107.74,
+      "usfm": "GEN.20.9"
+    },
+    {
+      "start": 107.74,
+      "end": 113.78,
+      "usfm": "GEN.20.10"
+    },
+    {
+      "start": 113.78,
+      "end": 122.28,
+      "usfm": "GEN.20.11"
+    },
+    {
+      "start": 122.28,
+      "end": 130.16,
+      "usfm": "GEN.20.12"
+    },
+    {
+      "start": 130.16,
+      "end": 144.5,
+      "usfm": "GEN.20.13"
+    },
+    {
+      "start": 144.5,
+      "end": 154.92,
+      "usfm": "GEN.20.14"
+    },
+    {
+      "start": 154.92,
+      "end": 162.06,
+      "usfm": "GEN.20.15"
+    },
+    {
+      "start": 162.06,
+      "end": 177.44,
+      "usfm": "GEN.20.16"
+    },
+    {
+      "start": 177.44,
+      "end": 185.22,
+      "usfm": "GEN.20.17"
+    },
+    {
+      "start": 185.22,
+      "end": 199.8,
+      "usfm": "GEN.20.18"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -306,8 +378,8 @@
   ],
   "audio_start_offset": 1.14,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

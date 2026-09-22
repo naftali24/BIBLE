@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 40,
   "title": "בראשית פרק 40",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/40-4525864c31f0281e7b66f25fec6d3028.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/40-0f1e4afa25869c949ff05cda3ba4039d.mp3?version_id=1",
   "english": [
     "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.",
     "And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.",
@@ -138,29 +138,121 @@
     }
   ],
   "times_en": [
-    2.98,
-    9.46,
-    14.9,
-    21.18,
-    29.3,
-    40.16,
-    44.72,
-    52.66,
-    64.54,
-    70.86,
-    78.86,
-    86.7,
-    93.28,
-    104.02,
-    112.84,
-    120.5,
-    131.08,
-    139.1,
-    145.38,
-    154.02,
-    165.88,
-    173.0,
-    179.42
+    {
+      "start": 2.88,
+      "end": 13.02,
+      "usfm": "GEN.40.1"
+    },
+    {
+      "start": 13.02,
+      "end": 20.28,
+      "usfm": "GEN.40.2"
+    },
+    {
+      "start": 20.28,
+      "end": 27.8,
+      "usfm": "GEN.40.3"
+    },
+    {
+      "start": 27.8,
+      "end": 36.52,
+      "usfm": "GEN.40.4"
+    },
+    {
+      "start": 36.52,
+      "end": 48.44,
+      "usfm": "GEN.40.5"
+    },
+    {
+      "start": 48.44,
+      "end": 54.9,
+      "usfm": "GEN.40.6"
+    },
+    {
+      "start": 54.9,
+      "end": 62.8,
+      "usfm": "GEN.40.7"
+    },
+    {
+      "start": 62.8,
+      "end": 75.52,
+      "usfm": "GEN.40.8"
+    },
+    {
+      "start": 75.52,
+      "end": 83.06,
+      "usfm": "GEN.40.9"
+    },
+    {
+      "start": 83.06,
+      "end": 92.86,
+      "usfm": "GEN.40.10"
+    },
+    {
+      "start": 92.86,
+      "end": 103.34,
+      "usfm": "GEN.40.11"
+    },
+    {
+      "start": 103.34,
+      "end": 110.54,
+      "usfm": "GEN.40.12"
+    },
+    {
+      "start": 110.54,
+      "end": 124.18,
+      "usfm": "GEN.40.13"
+    },
+    {
+      "start": 124.18,
+      "end": 134.46,
+      "usfm": "GEN.40.14"
+    },
+    {
+      "start": 134.46,
+      "end": 144.16,
+      "usfm": "GEN.40.15"
+    },
+    {
+      "start": 144.16,
+      "end": 156.42,
+      "usfm": "GEN.40.16"
+    },
+    {
+      "start": 156.42,
+      "end": 166.96,
+      "usfm": "GEN.40.17"
+    },
+    {
+      "start": 166.96,
+      "end": 174.86,
+      "usfm": "GEN.40.18"
+    },
+    {
+      "start": 174.86,
+      "end": 185.3,
+      "usfm": "GEN.40.19"
+    },
+    {
+      "start": 185.3,
+      "end": 197.48,
+      "usfm": "GEN.40.20"
+    },
+    {
+      "start": 197.48,
+      "end": 205.32,
+      "usfm": "GEN.40.21"
+    },
+    {
+      "start": 205.32,
+      "end": 210.6,
+      "usfm": "GEN.40.22"
+    },
+    {
+      "start": 210.6,
+      "end": 223.0,
+      "usfm": "GEN.40.23"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -215,8 +307,8 @@
   ],
   "audio_start_offset": 3.27,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

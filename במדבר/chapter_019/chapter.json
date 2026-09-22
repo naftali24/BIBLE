@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 19,
   "title": "במדבר פרק 19",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/19-92c95a633543650367143fbe3c612702.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/19-a1132ce6bb7251d435c3b3743404a661.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and unto Aaron, saying,",
     "This is the ordinance of the law which the Lord hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:",
@@ -135,28 +135,116 @@
     }
   ],
   "times_en": [
-    3.36,
-    6.86,
-    19.02,
-    26.6,
-    34.3,
-    43.2,
-    50.26,
-    60.96,
-    71.78,
-    90.28,
-    105.26,
-    110.18,
-    123.38,
-    143.02,
-    153.66,
-    158.58,
-    172.98,
-    182.88,
-    200.28,
-    218.68,
-    234.7,
-    247.78
+    {
+      "start": 2.88,
+      "end": 6.44,
+      "usfm": "NUM.19.1"
+    },
+    {
+      "start": 6.44,
+      "end": 20.28,
+      "usfm": "NUM.19.2"
+    },
+    {
+      "start": 20.28,
+      "end": 29.0,
+      "usfm": "NUM.19.3"
+    },
+    {
+      "start": 29.0,
+      "end": 38.32,
+      "usfm": "NUM.19.4"
+    },
+    {
+      "start": 38.32,
+      "end": 44.6,
+      "usfm": "NUM.19.5"
+    },
+    {
+      "start": 44.6,
+      "end": 52.12,
+      "usfm": "NUM.19.6"
+    },
+    {
+      "start": 52.12,
+      "end": 63.28,
+      "usfm": "NUM.19.7"
+    },
+    {
+      "start": 63.28,
+      "end": 71.66,
+      "usfm": "NUM.19.8"
+    },
+    {
+      "start": 71.66,
+      "end": 86.24,
+      "usfm": "NUM.19.9"
+    },
+    {
+      "start": 86.24,
+      "end": 99.56,
+      "usfm": "NUM.19.10"
+    },
+    {
+      "start": 99.56,
+      "end": 104.38,
+      "usfm": "NUM.19.11"
+    },
+    {
+      "start": 104.38,
+      "end": 116.88,
+      "usfm": "NUM.19.12"
+    },
+    {
+      "start": 116.88,
+      "end": 136.48,
+      "usfm": "NUM.19.13"
+    },
+    {
+      "start": 136.48,
+      "end": 146.54,
+      "usfm": "NUM.19.14"
+    },
+    {
+      "start": 146.54,
+      "end": 151.94,
+      "usfm": "NUM.19.15"
+    },
+    {
+      "start": 151.94,
+      "end": 163.9,
+      "usfm": "NUM.19.16"
+    },
+    {
+      "start": 163.9,
+      "end": 174.08,
+      "usfm": "NUM.19.17"
+    },
+    {
+      "start": 174.08,
+      "end": 189.08,
+      "usfm": "NUM.19.18"
+    },
+    {
+      "start": 189.08,
+      "end": 203.22,
+      "usfm": "NUM.19.19"
+    },
+    {
+      "start": 203.22,
+      "end": 220.38,
+      "usfm": "NUM.19.20"
+    },
+    {
+      "start": 220.38,
+      "end": 233.58,
+      "usfm": "NUM.19.21"
+    },
+    {
+      "start": 233.58,
+      "end": 250.0,
+      "usfm": "NUM.19.22"
+    }
   ],
   "did_you_know": [
     {
@@ -202,8 +290,8 @@
       "text_en": "Did you know? Failure to purify oneself from corpse impurity was such a severe offense that a person who did not purify themselves would face the punishment of *karet* (being cut off from the community), because they defiled God's sanctuary."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

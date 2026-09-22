@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 1,
   "title": "יהושע פרק 1",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/1-bd608123ed164e77ff4a0e646dbe9e11.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/1-b6dbd9ca8ada248f9aa7ddfe1b61092f.mp3?version_id=1",
   "english": [
     "Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses' minister, saying,",
     "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.",
@@ -132,24 +132,96 @@
     }
   ],
   "times_en": [
-    2.92,
-    11.2,
-    23.64,
-    31.2,
-    42.44,
-    54.04,
-    62.66,
-    77.86,
-    93.12,
-    103.6,
-    107.32,
-    121.16,
-    127.48,
-    136.44,
-    151.82,
-    172.48,
-    180.72,
-    190.14
+    {
+      "start": 4.6,
+      "end": 13.74,
+      "usfm": "JOS.1.1"
+    },
+    {
+      "start": 13.74,
+      "end": 25.44,
+      "usfm": "JOS.1.2"
+    },
+    {
+      "start": 25.44,
+      "end": 32.0,
+      "usfm": "JOS.1.3"
+    },
+    {
+      "start": 32.0,
+      "end": 43.9,
+      "usfm": "JOS.1.4"
+    },
+    {
+      "start": 43.9,
+      "end": 54.7,
+      "usfm": "JOS.1.5"
+    },
+    {
+      "start": 54.7,
+      "end": 64.16,
+      "usfm": "JOS.1.6"
+    },
+    {
+      "start": 64.16,
+      "end": 80.34,
+      "usfm": "JOS.1.7"
+    },
+    {
+      "start": 80.34,
+      "end": 99.2,
+      "usfm": "JOS.1.8"
+    },
+    {
+      "start": 99.2,
+      "end": 111.82,
+      "usfm": "JOS.1.9"
+    },
+    {
+      "start": 111.82,
+      "end": 115.18,
+      "usfm": "JOS.1.10"
+    },
+    {
+      "start": 115.18,
+      "end": 129.34,
+      "usfm": "JOS.1.11"
+    },
+    {
+      "start": 129.34,
+      "end": 136.02,
+      "usfm": "JOS.1.12"
+    },
+    {
+      "start": 136.02,
+      "end": 145.08,
+      "usfm": "JOS.1.13"
+    },
+    {
+      "start": 145.08,
+      "end": 157.62,
+      "usfm": "JOS.1.14"
+    },
+    {
+      "start": 157.62,
+      "end": 175.8,
+      "usfm": "JOS.1.15"
+    },
+    {
+      "start": 175.8,
+      "end": 185.64,
+      "usfm": "JOS.1.16"
+    },
+    {
+      "start": 185.64,
+      "end": 195.3,
+      "usfm": "JOS.1.17"
+    },
+    {
+      "start": 195.3,
+      "end": 214.72,
+      "usfm": "JOS.1.18"
+    }
   ],
   "did_you_know": [
     {
@@ -189,8 +261,8 @@
       "text_en": "The tribes Reuben, Gad and half of Manasseh lived east of the Jordan with their families and livestock — so only the warriors crossed to support their brothers in the west."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

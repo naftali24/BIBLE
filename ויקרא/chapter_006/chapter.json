@@ -5,7 +5,7 @@
   "chapter": 6,
   "title": "ויקרא פרק 6",
   "english_translation": "KJV",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/6-1ea6a72b17fe6f2612612aefee951068.mp3?version_id=3034",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/6-b281a6166abf537ca1167c38c8560962.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "If a soul sin, and commit a trespass against the Lord, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;",
@@ -138,36 +138,156 @@
     }
   ],
   "times_en": [
-    3.16,
-    5.68,
-    18.36,
-    27.0,
-    37.92,
-    50.84,
-    58.28,
-    67.36,
-    69.52,
-    82.82,
-    95.28,
-    104.14,
-    118.4,
-    124.36,
-    131.68,
-    144.9,
-    155.44,
-    166.98,
-    181.18,
-    183.52,
-    197.48,
-    208.24,
-    219.4,
-    225.9,
-    228.04,
-    239.94,
-    247.68,
-    257.22,
-    267.32,
-    271.34
+    {
+      "start": 2.88,
+      "end": 5.46,
+      "usfm": "LEV.6.1"
+    },
+    {
+      "start": 5.46,
+      "end": 18.88,
+      "usfm": "LEV.6.2"
+    },
+    {
+      "start": 18.88,
+      "end": 27.36,
+      "usfm": "LEV.6.3"
+    },
+    {
+      "start": 27.36,
+      "end": 40.76,
+      "usfm": "LEV.6.4"
+    },
+    {
+      "start": 40.76,
+      "end": 55.12,
+      "usfm": "LEV.6.5"
+    },
+    {
+      "start": 55.12,
+      "end": 64.42,
+      "usfm": "LEV.6.6"
+    },
+    {
+      "start": 64.42,
+      "end": 73.84,
+      "usfm": "LEV.6.7"
+    },
+    {
+      "start": 73.84,
+      "end": 76.84,
+      "usfm": "LEV.6.8"
+    },
+    {
+      "start": 76.84,
+      "end": 90.22,
+      "usfm": "LEV.6.9"
+    },
+    {
+      "start": 90.22,
+      "end": 103.48,
+      "usfm": "LEV.6.10"
+    },
+    {
+      "start": 103.48,
+      "end": 111.42,
+      "usfm": "LEV.6.11"
+    },
+    {
+      "start": 111.42,
+      "end": 126.34,
+      "usfm": "LEV.6.12"
+    },
+    {
+      "start": 126.34,
+      "end": 131.84,
+      "usfm": "LEV.6.13"
+    },
+    {
+      "start": 131.84,
+      "end": 138.7,
+      "usfm": "LEV.6.14"
+    },
+    {
+      "start": 138.7,
+      "end": 154.98,
+      "usfm": "LEV.6.15"
+    },
+    {
+      "start": 154.98,
+      "end": 165.48,
+      "usfm": "LEV.6.16"
+    },
+    {
+      "start": 165.48,
+      "end": 177.24,
+      "usfm": "LEV.6.17"
+    },
+    {
+      "start": 177.24,
+      "end": 190.4,
+      "usfm": "LEV.6.18"
+    },
+    {
+      "start": 190.4,
+      "end": 193.28,
+      "usfm": "LEV.6.19"
+    },
+    {
+      "start": 193.28,
+      "end": 207.62,
+      "usfm": "LEV.6.20"
+    },
+    {
+      "start": 207.62,
+      "end": 218.86,
+      "usfm": "LEV.6.21"
+    },
+    {
+      "start": 218.86,
+      "end": 229.04,
+      "usfm": "LEV.6.22"
+    },
+    {
+      "start": 229.04,
+      "end": 235.3,
+      "usfm": "LEV.6.23"
+    },
+    {
+      "start": 235.3,
+      "end": 238.24,
+      "usfm": "LEV.6.24"
+    },
+    {
+      "start": 238.24,
+      "end": 248.7,
+      "usfm": "LEV.6.25"
+    },
+    {
+      "start": 248.7,
+      "end": 257.14,
+      "usfm": "LEV.6.26"
+    },
+    {
+      "start": 257.14,
+      "end": 268.92,
+      "usfm": "LEV.6.27"
+    },
+    {
+      "start": 268.92,
+      "end": 278.7,
+      "usfm": "LEV.6.28"
+    },
+    {
+      "start": 278.7,
+      "end": 284.3,
+      "usfm": "LEV.6.29"
+    },
+    {
+      "start": 284.3,
+      "end": 303.44,
+      "usfm": "LEV.6.30"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -284,8 +404,8 @@
     "LEV.6.29",
     "LEV.6.30"
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "english_text_source": "restored from pre-BSB backup"

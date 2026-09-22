@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 48,
   "title": "בראשית פרק 48",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/48-900dd85a6cb1cfa3064da080402685bb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/48-991c44b549d38abf9911a6a4a23172fc.mp3?version_id=1",
   "english": [
     "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.",
     "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
@@ -135,28 +135,116 @@
     }
   ],
   "times_en": [
-    3.38,
-    12.62,
-    20.26,
-    28.16,
-    41.06,
-    54.04,
-    63.12,
-    78.2,
-    83.46,
-    93.94,
-    104.76,
-    113.58,
-    119.48,
-    131.36,
-    143.96,
-    155.32,
-    170.44,
-    181.78,
-    188.72,
-    206.56,
-    220.2,
-    229.48
+    {
+      "start": 2.88,
+      "end": 12.34,
+      "usfm": "GEN.48.1"
+    },
+    {
+      "start": 12.34,
+      "end": 20.34,
+      "usfm": "GEN.48.2"
+    },
+    {
+      "start": 20.34,
+      "end": 27.38,
+      "usfm": "GEN.48.3"
+    },
+    {
+      "start": 27.38,
+      "end": 39.22,
+      "usfm": "GEN.48.4"
+    },
+    {
+      "start": 39.22,
+      "end": 49.28,
+      "usfm": "GEN.48.5"
+    },
+    {
+      "start": 49.28,
+      "end": 57.0,
+      "usfm": "GEN.48.6"
+    },
+    {
+      "start": 57.0,
+      "end": 70.48,
+      "usfm": "GEN.48.7"
+    },
+    {
+      "start": 70.48,
+      "end": 75.14,
+      "usfm": "GEN.48.8"
+    },
+    {
+      "start": 75.14,
+      "end": 84.64,
+      "usfm": "GEN.48.9"
+    },
+    {
+      "start": 84.64,
+      "end": 93.9,
+      "usfm": "GEN.48.10"
+    },
+    {
+      "start": 93.9,
+      "end": 101.06,
+      "usfm": "GEN.48.11"
+    },
+    {
+      "start": 101.06,
+      "end": 107.26,
+      "usfm": "GEN.48.12"
+    },
+    {
+      "start": 107.26,
+      "end": 117.62,
+      "usfm": "GEN.48.13"
+    },
+    {
+      "start": 117.62,
+      "end": 130.16,
+      "usfm": "GEN.48.14"
+    },
+    {
+      "start": 130.16,
+      "end": 139.42,
+      "usfm": "GEN.48.15"
+    },
+    {
+      "start": 139.42,
+      "end": 153.66,
+      "usfm": "GEN.48.16"
+    },
+    {
+      "start": 153.66,
+      "end": 164.0,
+      "usfm": "GEN.48.17"
+    },
+    {
+      "start": 164.0,
+      "end": 170.66,
+      "usfm": "GEN.48.18"
+    },
+    {
+      "start": 170.66,
+      "end": 185.64,
+      "usfm": "GEN.48.19"
+    },
+    {
+      "start": 185.64,
+      "end": 196.14,
+      "usfm": "GEN.48.20"
+    },
+    {
+      "start": 196.14,
+      "end": 205.44,
+      "usfm": "GEN.48.21"
+    },
+    {
+      "start": 205.44,
+      "end": 220.8,
+      "usfm": "GEN.48.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -205,8 +293,8 @@
   ],
   "audio_start_offset": 0.62,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

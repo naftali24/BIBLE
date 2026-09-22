@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 47,
   "title": "בראשית פרק 47",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/47-272f049cd792b852ff363343eb0873e9.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/47-b8e61944031134383cdba934901e5c0f.mp3?version_id=1",
   "english": [
     "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.",
     "And he took some of his brethren, even five men, and presented them unto Pharaoh.",
@@ -180,37 +180,161 @@
     }
   ],
   "times_en": [
-    3.26,
-    14.84,
-    18.78,
-    28.48,
-    43.82,
-    48.4,
-    63.8,
-    71.22,
-    74.74,
-    86.48,
-    90.84,
-    102.36,
-    109.78,
-    119.94,
-    130.76,
-    143.32,
-    151.94,
-    166.38,
-    181.66,
-    200.74,
-    212.76,
-    217.84,
-    229.84,
-    239.32,
-    250.68,
-    259.08,
-    272.42,
-    282.78,
-    290.78,
-    307.88,
-    317.76
+    {
+      "start": 2.88,
+      "end": 17.7,
+      "usfm": "GEN.47.1"
+    },
+    {
+      "start": 17.7,
+      "end": 22.16,
+      "usfm": "GEN.47.2"
+    },
+    {
+      "start": 22.16,
+      "end": 32.3,
+      "usfm": "GEN.47.3"
+    },
+    {
+      "start": 32.3,
+      "end": 46.36,
+      "usfm": "GEN.47.4"
+    },
+    {
+      "start": 46.36,
+      "end": 51.7,
+      "usfm": "GEN.47.5"
+    },
+    {
+      "start": 51.7,
+      "end": 65.48,
+      "usfm": "GEN.47.6"
+    },
+    {
+      "start": 65.48,
+      "end": 71.86,
+      "usfm": "GEN.47.7"
+    },
+    {
+      "start": 71.86,
+      "end": 75.24,
+      "usfm": "GEN.47.8"
+    },
+    {
+      "start": 75.24,
+      "end": 91.04,
+      "usfm": "GEN.47.9"
+    },
+    {
+      "start": 91.04,
+      "end": 94.88,
+      "usfm": "GEN.47.10"
+    },
+    {
+      "start": 94.88,
+      "end": 104.58,
+      "usfm": "GEN.47.11"
+    },
+    {
+      "start": 104.58,
+      "end": 111.32,
+      "usfm": "GEN.47.12"
+    },
+    {
+      "start": 111.32,
+      "end": 120.26,
+      "usfm": "GEN.47.13"
+    },
+    {
+      "start": 120.26,
+      "end": 130.12,
+      "usfm": "GEN.47.14"
+    },
+    {
+      "start": 130.12,
+      "end": 141.18,
+      "usfm": "GEN.47.15"
+    },
+    {
+      "start": 141.18,
+      "end": 146.18,
+      "usfm": "GEN.47.16"
+    },
+    {
+      "start": 146.18,
+      "end": 158.16,
+      "usfm": "GEN.47.17"
+    },
+    {
+      "start": 158.16,
+      "end": 174.06,
+      "usfm": "GEN.47.18"
+    },
+    {
+      "start": 174.06,
+      "end": 188.64,
+      "usfm": "GEN.47.19"
+    },
+    {
+      "start": 188.64,
+      "end": 199.96,
+      "usfm": "GEN.47.20"
+    },
+    {
+      "start": 199.96,
+      "end": 206.84,
+      "usfm": "GEN.47.21"
+    },
+    {
+      "start": 206.84,
+      "end": 217.64,
+      "usfm": "GEN.47.22"
+    },
+    {
+      "start": 217.64,
+      "end": 227.1,
+      "usfm": "GEN.47.23"
+    },
+    {
+      "start": 227.1,
+      "end": 240.06,
+      "usfm": "GEN.47.24"
+    },
+    {
+      "start": 240.06,
+      "end": 248.84,
+      "usfm": "GEN.47.25"
+    },
+    {
+      "start": 248.84,
+      "end": 258.84,
+      "usfm": "GEN.47.26"
+    },
+    {
+      "start": 258.84,
+      "end": 266.46,
+      "usfm": "GEN.47.27"
+    },
+    {
+      "start": 266.46,
+      "end": 273.48,
+      "usfm": "GEN.47.28"
+    },
+    {
+      "start": 273.48,
+      "end": 290.68,
+      "usfm": "GEN.47.29"
+    },
+    {
+      "start": 290.68,
+      "end": 300.12,
+      "usfm": "GEN.47.30"
+    },
+    {
+      "start": 300.12,
+      "end": 315.76,
+      "usfm": "GEN.47.31"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -277,8 +401,8 @@
   ],
   "audio_start_offset": 2.05,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

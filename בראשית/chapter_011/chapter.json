@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 11,
   "title": "בראשית פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/11-2362f20f00e13d39ed685b9d8563f433.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/11-0eb64f0216ba05dbaa3f1e2256158cd5.mp3?version_id=1",
   "english": [
     "And the whole earth was of one language, and of one speech.",
     "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.",
@@ -389,38 +389,166 @@
     }
   ],
   "times_en": [
-    3.1,
-    8.48,
-    15.08,
-    25.4,
-    38.88,
-    45.2,
-    54.72,
-    62.34,
-    68.92,
-    81.08,
-    92.36,
-    99.92,
-    104.96,
-    113.06,
-    117.76,
-    125.9,
-    131.0,
-    139.22,
-    143.78,
-    151.98,
-    157.36,
-    165.46,
-    170.32,
-    178.28,
-    183.26,
-    191.86,
-    198.74,
-    208.16,
-    215.98,
-    231.08,
-    235.26,
-    253.64
+    {
+      "start": 2.88,
+      "end": 7.32,
+      "usfm": "GEN.11.1"
+    },
+    {
+      "start": 7.32,
+      "end": 13.78,
+      "usfm": "GEN.11.2"
+    },
+    {
+      "start": 13.78,
+      "end": 23.6,
+      "usfm": "GEN.11.3"
+    },
+    {
+      "start": 23.6,
+      "end": 36.5,
+      "usfm": "GEN.11.4"
+    },
+    {
+      "start": 36.5,
+      "end": 41.28,
+      "usfm": "GEN.11.5"
+    },
+    {
+      "start": 41.28,
+      "end": 54.2,
+      "usfm": "GEN.11.6"
+    },
+    {
+      "start": 54.2,
+      "end": 61.34,
+      "usfm": "GEN.11.7"
+    },
+    {
+      "start": 61.34,
+      "end": 68.62,
+      "usfm": "GEN.11.8"
+    },
+    {
+      "start": 68.62,
+      "end": 80.38,
+      "usfm": "GEN.11.9"
+    },
+    {
+      "start": 80.38,
+      "end": 87.86,
+      "usfm": "GEN.11.10"
+    },
+    {
+      "start": 87.86,
+      "end": 93.24,
+      "usfm": "GEN.11.11"
+    },
+    {
+      "start": 93.24,
+      "end": 97.12,
+      "usfm": "GEN.11.12"
+    },
+    {
+      "start": 97.12,
+      "end": 102.8,
+      "usfm": "GEN.11.13"
+    },
+    {
+      "start": 102.8,
+      "end": 105.74,
+      "usfm": "GEN.11.14"
+    },
+    {
+      "start": 105.74,
+      "end": 110.92,
+      "usfm": "GEN.11.15"
+    },
+    {
+      "start": 110.92,
+      "end": 114.24,
+      "usfm": "GEN.11.16"
+    },
+    {
+      "start": 114.24,
+      "end": 120.02,
+      "usfm": "GEN.11.17"
+    },
+    {
+      "start": 120.02,
+      "end": 123.12,
+      "usfm": "GEN.11.18"
+    },
+    {
+      "start": 123.12,
+      "end": 129.26,
+      "usfm": "GEN.11.19"
+    },
+    {
+      "start": 129.26,
+      "end": 132.56,
+      "usfm": "GEN.11.20"
+    },
+    {
+      "start": 132.56,
+      "end": 137.36,
+      "usfm": "GEN.11.21"
+    },
+    {
+      "start": 137.36,
+      "end": 140.46,
+      "usfm": "GEN.11.22"
+    },
+    {
+      "start": 140.46,
+      "end": 145.72,
+      "usfm": "GEN.11.23"
+    },
+    {
+      "start": 145.72,
+      "end": 149.72,
+      "usfm": "GEN.11.24"
+    },
+    {
+      "start": 149.72,
+      "end": 156.4,
+      "usfm": "GEN.11.25"
+    },
+    {
+      "start": 156.4,
+      "end": 163.22,
+      "usfm": "GEN.11.26"
+    },
+    {
+      "start": 163.22,
+      "end": 170.46,
+      "usfm": "GEN.11.27"
+    },
+    {
+      "start": 170.46,
+      "end": 176.58,
+      "usfm": "GEN.11.28"
+    },
+    {
+      "start": 176.58,
+      "end": 188.42,
+      "usfm": "GEN.11.29"
+    },
+    {
+      "start": 188.42,
+      "end": 192.08,
+      "usfm": "GEN.11.30"
+    },
+    {
+      "start": 192.08,
+      "end": 208.94,
+      "usfm": "GEN.11.31"
+    },
+    {
+      "start": 208.94,
+      "end": 222.72,
+      "usfm": "GEN.11.32"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -493,8 +621,8 @@
   ],
   "audio_start_offset": 3.07,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

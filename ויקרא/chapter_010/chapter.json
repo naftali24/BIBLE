@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 10,
   "title": "ויקרא פרק 10",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/10-ca930b5c5ba90935f2b77b4143c02d81.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/10-068ea2857cbaff28d25b221fd6d0480c.mp3?version_id=1",
   "english": [
     "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the Lord, which he commanded them not.",
     "And there went out fire from the Lord, and devoured them, and they died before the Lord.",
@@ -129,26 +129,106 @@
     }
   ],
   "times_en": [
-    3.12,
-    16.76,
-    24.04,
-    40.16,
-    53.76,
-    60.86,
-    82.74,
-    93.8,
-    96.04,
-    108.2,
-    114.64,
-    120.88,
-    136.1,
-    148.12,
-    163.58,
-    180.92,
-    193.56,
-    205.48,
-    213.14,
-    229.3
+    {
+      "start": 2.88,
+      "end": 15.5,
+      "usfm": "LEV.10.1"
+    },
+    {
+      "start": 15.5,
+      "end": 22.82,
+      "usfm": "LEV.10.2"
+    },
+    {
+      "start": 22.82,
+      "end": 37.2,
+      "usfm": "LEV.10.3"
+    },
+    {
+      "start": 37.2,
+      "end": 48.32,
+      "usfm": "LEV.10.4"
+    },
+    {
+      "start": 48.32,
+      "end": 54.04,
+      "usfm": "LEV.10.5"
+    },
+    {
+      "start": 54.04,
+      "end": 72.68,
+      "usfm": "LEV.10.6"
+    },
+    {
+      "start": 72.68,
+      "end": 83.88,
+      "usfm": "LEV.10.7"
+    },
+    {
+      "start": 83.88,
+      "end": 86.42,
+      "usfm": "LEV.10.8"
+    },
+    {
+      "start": 86.42,
+      "end": 98.36,
+      "usfm": "LEV.10.9"
+    },
+    {
+      "start": 98.36,
+      "end": 103.58,
+      "usfm": "LEV.10.10"
+    },
+    {
+      "start": 103.58,
+      "end": 110.98,
+      "usfm": "LEV.10.11"
+    },
+    {
+      "start": 110.98,
+      "end": 125.66,
+      "usfm": "LEV.10.12"
+    },
+    {
+      "start": 125.66,
+      "end": 135.68,
+      "usfm": "LEV.10.13"
+    },
+    {
+      "start": 135.68,
+      "end": 151.84,
+      "usfm": "LEV.10.14"
+    },
+    {
+      "start": 151.84,
+      "end": 167.92,
+      "usfm": "LEV.10.15"
+    },
+    {
+      "start": 167.92,
+      "end": 177.92,
+      "usfm": "LEV.10.16"
+    },
+    {
+      "start": 177.92,
+      "end": 188.92,
+      "usfm": "LEV.10.17"
+    },
+    {
+      "start": 188.92,
+      "end": 196.98,
+      "usfm": "LEV.10.18"
+    },
+    {
+      "start": 196.98,
+      "end": 211.3,
+      "usfm": "LEV.10.19"
+    },
+    {
+      "start": 211.3,
+      "end": 222.24,
+      "usfm": "LEV.10.20"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -195,8 +275,8 @@
       "text_en": "Aaron explains why he did not eat the sin offering that day, and Moses accepts his explanation. The ending suggests that unusual circumstances may call for judgment, not merely mechanical obedience to a rule."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 11,
   "title": "יהושע פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/11-506a10875164699569c4182605600b33.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/11-d7b200641e2ec9ca7573b6813bee21aa.mp3?version_id=1",
   "english": [
     "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,",
     "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,",
@@ -165,29 +165,121 @@
     }
   ],
   "times_en": [
-    3.22,
-    13.68,
-    22.52,
-    35.56,
-    46.8,
-    53.54,
-    68.48,
-    75.38,
-    92.6,
-    99.88,
-    111.6,
-    124.04,
-    134.92,
-    142.92,
-    157.2,
-    169.84,
-    182.66,
-    196.56,
-    202.2,
-    211.0,
-    225.72,
-    241.76,
-    251.2
+    {
+      "start": 2.88,
+      "end": 14.16,
+      "usfm": "JOS.11.1"
+    },
+    {
+      "start": 14.16,
+      "end": 22.94,
+      "usfm": "JOS.11.2"
+    },
+    {
+      "start": 22.94,
+      "end": 33.44,
+      "usfm": "JOS.11.3"
+    },
+    {
+      "start": 33.44,
+      "end": 43.98,
+      "usfm": "JOS.11.4"
+    },
+    {
+      "start": 43.98,
+      "end": 50.72,
+      "usfm": "JOS.11.5"
+    },
+    {
+      "start": 50.72,
+      "end": 63.86,
+      "usfm": "JOS.11.6"
+    },
+    {
+      "start": 63.86,
+      "end": 71.34,
+      "usfm": "JOS.11.7"
+    },
+    {
+      "start": 71.34,
+      "end": 86.14,
+      "usfm": "JOS.11.8"
+    },
+    {
+      "start": 86.14,
+      "end": 93.14,
+      "usfm": "JOS.11.9"
+    },
+    {
+      "start": 93.14,
+      "end": 102.04,
+      "usfm": "JOS.11.10"
+    },
+    {
+      "start": 102.04,
+      "end": 111.98,
+      "usfm": "JOS.11.11"
+    },
+    {
+      "start": 111.98,
+      "end": 123.42,
+      "usfm": "JOS.11.12"
+    },
+    {
+      "start": 123.42,
+      "end": 131.94,
+      "usfm": "JOS.11.13"
+    },
+    {
+      "start": 131.94,
+      "end": 146.02,
+      "usfm": "JOS.11.14"
+    },
+    {
+      "start": 146.02,
+      "end": 156.5,
+      "usfm": "JOS.11.15"
+    },
+    {
+      "start": 156.5,
+      "end": 165.82,
+      "usfm": "JOS.11.16"
+    },
+    {
+      "start": 165.82,
+      "end": 177.76,
+      "usfm": "JOS.11.17"
+    },
+    {
+      "start": 177.76,
+      "end": 181.7,
+      "usfm": "JOS.11.18"
+    },
+    {
+      "start": 181.7,
+      "end": 189.78,
+      "usfm": "JOS.11.19"
+    },
+    {
+      "start": 189.78,
+      "end": 203.24,
+      "usfm": "JOS.11.20"
+    },
+    {
+      "start": 203.24,
+      "end": 219.26,
+      "usfm": "JOS.11.21"
+    },
+    {
+      "start": 219.26,
+      "end": 226.6,
+      "usfm": "JOS.11.22"
+    },
+    {
+      "start": 226.6,
+      "end": 247.76,
+      "usfm": "JOS.11.23"
+    }
   ],
   "did_you_know": [
     {
@@ -239,8 +331,8 @@
       "text_en": "The Anakim are portrayed in the Bible as very tall people; here it says some remained in Philistine cities such as Gaza, Gath and Ashdod."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

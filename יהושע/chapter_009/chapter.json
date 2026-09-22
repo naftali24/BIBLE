@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 9,
   "title": "יהושע פרק 9",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/9-89fd63a77c687fefb1aff9fcb77dbb1d.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/9-fff7cc50287b1af2adb4489fe25212c3.mp3?version_id=1",
   "english": [
     "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;",
     "That they gathered themselves together, to fight with Joshua and with Israel, with one accord.",
@@ -159,33 +159,141 @@
     }
   ],
   "times_en": [
-    3.02,
-    19.64,
-    24.04,
-    29.82,
-    39.9,
-    50.0,
-    60.82,
-    68.06,
-    76.04,
-    88.32,
-    99.08,
-    110.7,
-    120.44,
-    130.32,
-    137.04,
-    145.16,
-    153.48,
-    162.36,
-    175.66,
-    184.34,
-    192.72,
-    202.84,
-    212.72,
-    221.14,
-    239.84,
-    245.84,
-    253.2
+    {
+      "start": 2.88,
+      "end": 18.96,
+      "usfm": "JOS.9.1"
+    },
+    {
+      "start": 18.96,
+      "end": 24.38,
+      "usfm": "JOS.9.2"
+    },
+    {
+      "start": 24.38,
+      "end": 30.54,
+      "usfm": "JOS.9.3"
+    },
+    {
+      "start": 30.54,
+      "end": 40.38,
+      "usfm": "JOS.9.4"
+    },
+    {
+      "start": 40.38,
+      "end": 48.62,
+      "usfm": "JOS.9.5"
+    },
+    {
+      "start": 48.62,
+      "end": 59.82,
+      "usfm": "JOS.9.6"
+    },
+    {
+      "start": 59.82,
+      "end": 66.7,
+      "usfm": "JOS.9.7"
+    },
+    {
+      "start": 66.7,
+      "end": 75.6,
+      "usfm": "JOS.9.8"
+    },
+    {
+      "start": 75.6,
+      "end": 86.54,
+      "usfm": "JOS.9.9"
+    },
+    {
+      "start": 86.54,
+      "end": 97.44,
+      "usfm": "JOS.9.10"
+    },
+    {
+      "start": 97.44,
+      "end": 109.48,
+      "usfm": "JOS.9.11"
+    },
+    {
+      "start": 109.48,
+      "end": 118.98,
+      "usfm": "JOS.9.12"
+    },
+    {
+      "start": 118.98,
+      "end": 128.36,
+      "usfm": "JOS.9.13"
+    },
+    {
+      "start": 128.36,
+      "end": 133.26,
+      "usfm": "JOS.9.14"
+    },
+    {
+      "start": 133.26,
+      "end": 140.34,
+      "usfm": "JOS.9.15"
+    },
+    {
+      "start": 140.34,
+      "end": 148.3,
+      "usfm": "JOS.9.16"
+    },
+    {
+      "start": 148.3,
+      "end": 158.8,
+      "usfm": "JOS.9.17"
+    },
+    {
+      "start": 158.8,
+      "end": 169.0,
+      "usfm": "JOS.9.18"
+    },
+    {
+      "start": 169.0,
+      "end": 177.3,
+      "usfm": "JOS.9.19"
+    },
+    {
+      "start": 177.3,
+      "end": 185.86,
+      "usfm": "JOS.9.20"
+    },
+    {
+      "start": 185.86,
+      "end": 196.66,
+      "usfm": "JOS.9.21"
+    },
+    {
+      "start": 196.66,
+      "end": 205.66,
+      "usfm": "JOS.9.22"
+    },
+    {
+      "start": 205.66,
+      "end": 214.1,
+      "usfm": "JOS.9.23"
+    },
+    {
+      "start": 214.1,
+      "end": 230.1,
+      "usfm": "JOS.9.24"
+    },
+    {
+      "start": 230.1,
+      "end": 236.46,
+      "usfm": "JOS.9.25"
+    },
+    {
+      "start": 236.46,
+      "end": 245.16,
+      "usfm": "JOS.9.26"
+    },
+    {
+      "start": 245.16,
+      "end": 263.36,
+      "usfm": "JOS.9.27"
+    }
   ],
   "did_you_know": [
     {
@@ -243,8 +351,8 @@
       "text_en": "The phrase 'to this day' is a biblical formula indicating that an institution or situation continued into the writer's own time."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

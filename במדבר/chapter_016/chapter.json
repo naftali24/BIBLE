@@ -5,7 +5,7 @@
   "chapter": 16,
   "title": "במדבר פרק 16",
   "english_translation": "KJV",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/16-d0caf6eb3489fe4a47f7d561ea7fd65a.mp3?version_id=3034",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/16-ade5aeb4ce7d140f2b8b6e0927b79a15.mp3?version_id=1",
   "english": [
     "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:",
     "And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:",
@@ -219,56 +219,256 @@
     }
   ],
   "times_en": [
-    3.36,
-    16.36,
-    26.26,
-    44.3,
-    47.72,
-    64.4,
-    70.68,
-    86.1,
-    91.12,
-    106.52,
-    113.82,
-    124.28,
-    131.28,
-    142.48,
-    156.36,
-    168.52,
-    177.72,
-    190.36,
-    199.38,
-    209.22,
-    212.04,
-    218.2,
-    230.98,
-    233.24,
-    239.72,
-    246.2,
-    258.96,
-    272.86,
-    281.64,
-    289.52,
-    306.38,
-    312.18,
-    319.98,
-    328.94,
-    337.18,
-    344.96,
-    347.2,
-    357.46,
-    374.02,
-    383.34,
-    400.16,
-    409.04,
-    420.4,
-    424.16,
-    426.14,
-    434.66,
-    450.42,
-    464.0,
-    468.94,
-    477.78
+    {
+      "start": 2.88,
+      "end": 14.26,
+      "usfm": "NUM.16.1"
+    },
+    {
+      "start": 14.26,
+      "end": 23.24,
+      "usfm": "NUM.16.2"
+    },
+    {
+      "start": 23.24,
+      "end": 39.8,
+      "usfm": "NUM.16.3"
+    },
+    {
+      "start": 39.8,
+      "end": 43.76,
+      "usfm": "NUM.16.4"
+    },
+    {
+      "start": 43.76,
+      "end": 60.22,
+      "usfm": "NUM.16.5"
+    },
+    {
+      "start": 60.22,
+      "end": 65.6,
+      "usfm": "NUM.16.6"
+    },
+    {
+      "start": 65.6,
+      "end": 79.16,
+      "usfm": "NUM.16.7"
+    },
+    {
+      "start": 79.16,
+      "end": 83.7,
+      "usfm": "NUM.16.8"
+    },
+    {
+      "start": 83.7,
+      "end": 97.74,
+      "usfm": "NUM.16.9"
+    },
+    {
+      "start": 97.74,
+      "end": 106.0,
+      "usfm": "NUM.16.10"
+    },
+    {
+      "start": 106.0,
+      "end": 115.1,
+      "usfm": "NUM.16.11"
+    },
+    {
+      "start": 115.1,
+      "end": 121.72,
+      "usfm": "NUM.16.12"
+    },
+    {
+      "start": 121.72,
+      "end": 132.76,
+      "usfm": "NUM.16.13"
+    },
+    {
+      "start": 132.76,
+      "end": 145.78,
+      "usfm": "NUM.16.14"
+    },
+    {
+      "start": 145.78,
+      "end": 156.36,
+      "usfm": "NUM.16.15"
+    },
+    {
+      "start": 156.36,
+      "end": 164.08,
+      "usfm": "NUM.16.16"
+    },
+    {
+      "start": 164.08,
+      "end": 177.52,
+      "usfm": "NUM.16.17"
+    },
+    {
+      "start": 177.52,
+      "end": 188.04,
+      "usfm": "NUM.16.18"
+    },
+    {
+      "start": 188.04,
+      "end": 198.26,
+      "usfm": "NUM.16.19"
+    },
+    {
+      "start": 198.26,
+      "end": 202.2,
+      "usfm": "NUM.16.20"
+    },
+    {
+      "start": 202.2,
+      "end": 209.06,
+      "usfm": "NUM.16.21"
+    },
+    {
+      "start": 209.06,
+      "end": 220.52,
+      "usfm": "NUM.16.22"
+    },
+    {
+      "start": 220.52,
+      "end": 223.14,
+      "usfm": "NUM.16.23"
+    },
+    {
+      "start": 223.14,
+      "end": 230.7,
+      "usfm": "NUM.16.24"
+    },
+    {
+      "start": 230.7,
+      "end": 237.6,
+      "usfm": "NUM.16.25"
+    },
+    {
+      "start": 237.6,
+      "end": 249.14,
+      "usfm": "NUM.16.26"
+    },
+    {
+      "start": 249.14,
+      "end": 262.44,
+      "usfm": "NUM.16.27"
+    },
+    {
+      "start": 262.44,
+      "end": 272.16,
+      "usfm": "NUM.16.28"
+    },
+    {
+      "start": 272.16,
+      "end": 280.48,
+      "usfm": "NUM.16.29"
+    },
+    {
+      "start": 280.48,
+      "end": 295.0,
+      "usfm": "NUM.16.30"
+    },
+    {
+      "start": 295.0,
+      "end": 303.24,
+      "usfm": "NUM.16.31"
+    },
+    {
+      "start": 303.24,
+      "end": 312.38,
+      "usfm": "NUM.16.32"
+    },
+    {
+      "start": 312.38,
+      "end": 322.88,
+      "usfm": "NUM.16.33"
+    },
+    {
+      "start": 322.88,
+      "end": 331.06,
+      "usfm": "NUM.16.34"
+    },
+    {
+      "start": 331.06,
+      "end": 337.06,
+      "usfm": "NUM.16.35"
+    },
+    {
+      "start": 337.06,
+      "end": 339.58,
+      "usfm": "NUM.16.36"
+    },
+    {
+      "start": 339.58,
+      "end": 349.8,
+      "usfm": "NUM.16.37"
+    },
+    {
+      "start": 349.8,
+      "end": 363.02,
+      "usfm": "NUM.16.38"
+    },
+    {
+      "start": 363.02,
+      "end": 371.92,
+      "usfm": "NUM.16.39"
+    },
+    {
+      "start": 371.92,
+      "end": 386.44,
+      "usfm": "NUM.16.40"
+    },
+    {
+      "start": 386.44,
+      "end": 395.56,
+      "usfm": "NUM.16.41"
+    },
+    {
+      "start": 395.56,
+      "end": 407.44,
+      "usfm": "NUM.16.42"
+    },
+    {
+      "start": 407.44,
+      "end": 411.2,
+      "usfm": "NUM.16.43"
+    },
+    {
+      "start": 411.2,
+      "end": 413.98,
+      "usfm": "NUM.16.44"
+    },
+    {
+      "start": 413.98,
+      "end": 421.72,
+      "usfm": "NUM.16.45"
+    },
+    {
+      "start": 421.72,
+      "end": 438.62,
+      "usfm": "NUM.16.46"
+    },
+    {
+      "start": 438.62,
+      "end": 451.46,
+      "usfm": "NUM.16.47"
+    },
+    {
+      "start": 451.46,
+      "end": 455.86,
+      "usfm": "NUM.16.48"
+    },
+    {
+      "start": 455.86,
+      "end": 463.72,
+      "usfm": "NUM.16.49"
+    },
+    {
+      "start": 463.72,
+      "end": 478.52,
+      "usfm": "NUM.16.50"
+    }
   ],
   "did_you_know": [
     {
@@ -448,8 +648,8 @@
     "NUM.16.49",
     "NUM.16.50"
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "english_text_source": "restored from pre-BSB backup"

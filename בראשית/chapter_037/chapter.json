@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 37,
   "title": "בראשית פרק 37",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/37-e895b27bae588b42b017b6b3acfda84d.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/37-3dea4fc31c3b941be6b9c6765eb6682a.mp3?version_id=1",
   "english": [
     "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.",
     "These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.",
@@ -249,42 +249,186 @@
     }
   ],
   "times_en": [
-    3.34,
-    9.04,
-    23.94,
-    34.6,
-    44.04,
-    50.2,
-    53.48,
-    64.12,
-    75.6,
-    87.54,
-    101.08,
-    107.36,
-    113.12,
-    123.2,
-    135.76,
-    140.32,
-    146.78,
-    157.26,
-    163.72,
-    166.58,
-    177.82,
-    185.24,
-    198.4,
-    205.38,
-    212.28,
-    225.66,
-    232.42,
-    242.56,
-    253.7,
-    259.4,
-    264.26,
-    270.92,
-    280.02,
-    290.42,
-    298.32,
-    312.82
+    {
+      "start": 2.88,
+      "end": 7.54,
+      "usfm": "GEN.37.1"
+    },
+    {
+      "start": 7.54,
+      "end": 23.28,
+      "usfm": "GEN.37.2"
+    },
+    {
+      "start": 23.28,
+      "end": 31.98,
+      "usfm": "GEN.37.3"
+    },
+    {
+      "start": 31.98,
+      "end": 39.86,
+      "usfm": "GEN.37.4"
+    },
+    {
+      "start": 39.86,
+      "end": 45.82,
+      "usfm": "GEN.37.5"
+    },
+    {
+      "start": 45.82,
+      "end": 50.24,
+      "usfm": "GEN.37.6"
+    },
+    {
+      "start": 50.24,
+      "end": 62.34,
+      "usfm": "GEN.37.7"
+    },
+    {
+      "start": 62.34,
+      "end": 75.62,
+      "usfm": "GEN.37.8"
+    },
+    {
+      "start": 75.62,
+      "end": 88.82,
+      "usfm": "GEN.37.9"
+    },
+    {
+      "start": 88.82,
+      "end": 103.82,
+      "usfm": "GEN.37.10"
+    },
+    {
+      "start": 103.82,
+      "end": 108.82,
+      "usfm": "GEN.37.11"
+    },
+    {
+      "start": 108.82,
+      "end": 112.5,
+      "usfm": "GEN.37.12"
+    },
+    {
+      "start": 112.5,
+      "end": 121.54,
+      "usfm": "GEN.37.13"
+    },
+    {
+      "start": 121.54,
+      "end": 133.62,
+      "usfm": "GEN.37.14"
+    },
+    {
+      "start": 133.62,
+      "end": 142.32,
+      "usfm": "GEN.37.15"
+    },
+    {
+      "start": 142.32,
+      "end": 148.02,
+      "usfm": "GEN.37.16"
+    },
+    {
+      "start": 148.02,
+      "end": 157.16,
+      "usfm": "GEN.37.17"
+    },
+    {
+      "start": 157.16,
+      "end": 164.02,
+      "usfm": "GEN.37.18"
+    },
+    {
+      "start": 164.02,
+      "end": 168.02,
+      "usfm": "GEN.37.19"
+    },
+    {
+      "start": 168.02,
+      "end": 180.3,
+      "usfm": "GEN.37.20"
+    },
+    {
+      "start": 180.3,
+      "end": 185.42,
+      "usfm": "GEN.37.21"
+    },
+    {
+      "start": 185.42,
+      "end": 197.6,
+      "usfm": "GEN.37.22"
+    },
+    {
+      "start": 197.6,
+      "end": 206.44,
+      "usfm": "GEN.37.23"
+    },
+    {
+      "start": 206.44,
+      "end": 214.02,
+      "usfm": "GEN.37.24"
+    },
+    {
+      "start": 214.02,
+      "end": 227.64,
+      "usfm": "GEN.37.25"
+    },
+    {
+      "start": 227.64,
+      "end": 233.36,
+      "usfm": "GEN.37.26"
+    },
+    {
+      "start": 233.36,
+      "end": 244.64,
+      "usfm": "GEN.37.27"
+    },
+    {
+      "start": 244.64,
+      "end": 258.1,
+      "usfm": "GEN.37.28"
+    },
+    {
+      "start": 258.1,
+      "end": 264.38,
+      "usfm": "GEN.37.29"
+    },
+    {
+      "start": 264.38,
+      "end": 270.4,
+      "usfm": "GEN.37.30"
+    },
+    {
+      "start": 270.4,
+      "end": 276.76,
+      "usfm": "GEN.37.31"
+    },
+    {
+      "start": 276.76,
+      "end": 288.08,
+      "usfm": "GEN.37.32"
+    },
+    {
+      "start": 288.08,
+      "end": 299.7,
+      "usfm": "GEN.37.33"
+    },
+    {
+      "start": 299.7,
+      "end": 308.02,
+      "usfm": "GEN.37.34"
+    },
+    {
+      "start": 308.02,
+      "end": 323.74,
+      "usfm": "GEN.37.35"
+    },
+    {
+      "start": 323.74,
+      "end": 338.64,
+      "usfm": "GEN.37.36"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -363,8 +507,8 @@
   ],
   "audio_start_offset": 3.57,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

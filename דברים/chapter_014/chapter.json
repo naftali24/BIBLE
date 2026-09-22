@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 14,
   "title": "דברים פרק 14",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/14-095692daf2af6b1b4eb2702a2f5e0db5.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/14-364be3abf56b2c209ea966064eb4e52a.mp3?version_id=1",
   "english": [
     "Ye are the children of the Lord your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
     "For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
@@ -174,35 +174,151 @@
     }
   ],
   "times_en": [
-    3.48,
-    12.48,
-    25.2,
-    28.44,
-    34.08,
-    43.2,
-    49.56,
-    66.96,
-    79.44,
-    85.48,
-    92.54,
-    95.4,
-    101.88,
-    106.14,
-    108.04,
-    113.52,
-    117.44,
-    120.88,
-    125.8,
-    131.16,
-    134.48,
-    152.88,
-    160.4,
-    179.56,
-    190.86,
-    198.64,
-    214.48,
-    222.32,
-    230.12
+    {
+      "start": 2.88,
+      "end": 11.14,
+      "usfm": "DEU.14.1"
+    },
+    {
+      "start": 11.14,
+      "end": 21.1,
+      "usfm": "DEU.14.2"
+    },
+    {
+      "start": 21.1,
+      "end": 24.98,
+      "usfm": "DEU.14.3"
+    },
+    {
+      "start": 24.98,
+      "end": 30.66,
+      "usfm": "DEU.14.4"
+    },
+    {
+      "start": 30.66,
+      "end": 40.42,
+      "usfm": "DEU.14.5"
+    },
+    {
+      "start": 40.42,
+      "end": 49.62,
+      "usfm": "DEU.14.6"
+    },
+    {
+      "start": 49.62,
+      "end": 63.8,
+      "usfm": "DEU.14.7"
+    },
+    {
+      "start": 63.8,
+      "end": 74.2,
+      "usfm": "DEU.14.8"
+    },
+    {
+      "start": 74.2,
+      "end": 81.66,
+      "usfm": "DEU.14.9"
+    },
+    {
+      "start": 81.66,
+      "end": 87.28,
+      "usfm": "DEU.14.10"
+    },
+    {
+      "start": 87.28,
+      "end": 90.2,
+      "usfm": "DEU.14.11"
+    },
+    {
+      "start": 90.2,
+      "end": 97.76,
+      "usfm": "DEU.14.12"
+    },
+    {
+      "start": 97.76,
+      "end": 102.44,
+      "usfm": "DEU.14.13"
+    },
+    {
+      "start": 102.44,
+      "end": 104.62,
+      "usfm": "DEU.14.14"
+    },
+    {
+      "start": 104.62,
+      "end": 110.12,
+      "usfm": "DEU.14.15"
+    },
+    {
+      "start": 110.12,
+      "end": 113.66,
+      "usfm": "DEU.14.16"
+    },
+    {
+      "start": 113.66,
+      "end": 117.74,
+      "usfm": "DEU.14.17"
+    },
+    {
+      "start": 117.74,
+      "end": 122.94,
+      "usfm": "DEU.14.18"
+    },
+    {
+      "start": 122.94,
+      "end": 128.1,
+      "usfm": "DEU.14.19"
+    },
+    {
+      "start": 128.1,
+      "end": 130.88,
+      "usfm": "DEU.14.20"
+    },
+    {
+      "start": 130.88,
+      "end": 148.4,
+      "usfm": "DEU.14.21"
+    },
+    {
+      "start": 148.4,
+      "end": 154.58,
+      "usfm": "DEU.14.22"
+    },
+    {
+      "start": 154.58,
+      "end": 169.7,
+      "usfm": "DEU.14.23"
+    },
+    {
+      "start": 169.7,
+      "end": 183.0,
+      "usfm": "DEU.14.24"
+    },
+    {
+      "start": 183.0,
+      "end": 191.36,
+      "usfm": "DEU.14.25"
+    },
+    {
+      "start": 191.36,
+      "end": 209.76,
+      "usfm": "DEU.14.26"
+    },
+    {
+      "start": 209.76,
+      "end": 218.4,
+      "usfm": "DEU.14.27"
+    },
+    {
+      "start": 218.4,
+      "end": 226.66,
+      "usfm": "DEU.14.28"
+    },
+    {
+      "start": 226.66,
+      "end": 250.12,
+      "usfm": "DEU.14.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -267,8 +383,8 @@
       "text_en": "When the journey to Jerusalem was too long to carry the produce, the Torah allowed it to be exchanged for money. The money could then be spent in Jerusalem on food and drink."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 2,
   "title": "דברים פרק 2",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/2-014743a432f675f9295b0c979931f3d4.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/2-d6df9c93f6fe4c2ac8bd9567cad8ddb0.mp3?version_id=1",
   "english": [
     "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the Lord spake unto me: and we compassed mount Seir many days.",
     "And the Lord spake unto me, saying,",
@@ -225,43 +225,191 @@
     }
   ],
   "times_en": [
-    3.2,
-    15.28,
-    17.24,
-    22.58,
-    34.42,
-    45.14,
-    50.72,
-    65.48,
-    80.76,
-    94.58,
-    101.32,
-    107.6,
-    123.0,
-    130.22,
-    145.28,
-    153.26,
-    156.68,
-    158.32,
-    162.52,
-    175.54,
-    183.72,
-    194.64,
-    206.5,
-    216.12,
-    231.1,
-    243.34,
-    251.56,
-    259.52,
-    267.24,
-    279.36,
-    293.92,
-    304.0,
-    309.62,
-    317.68,
-    328.84,
-    334.54,
-    349.24
+    {
+      "start": 2.88,
+      "end": 12.24,
+      "usfm": "DEU.2.1"
+    },
+    {
+      "start": 12.24,
+      "end": 14.96,
+      "usfm": "DEU.2.2"
+    },
+    {
+      "start": 14.96,
+      "end": 19.24,
+      "usfm": "DEU.2.3"
+    },
+    {
+      "start": 19.24,
+      "end": 31.94,
+      "usfm": "DEU.2.4"
+    },
+    {
+      "start": 31.94,
+      "end": 42.0,
+      "usfm": "DEU.2.5"
+    },
+    {
+      "start": 42.0,
+      "end": 50.18,
+      "usfm": "DEU.2.6"
+    },
+    {
+      "start": 50.18,
+      "end": 61.58,
+      "usfm": "DEU.2.7"
+    },
+    {
+      "start": 61.58,
+      "end": 73.94,
+      "usfm": "DEU.2.8"
+    },
+    {
+      "start": 73.94,
+      "end": 87.4,
+      "usfm": "DEU.2.9"
+    },
+    {
+      "start": 87.4,
+      "end": 94.38,
+      "usfm": "DEU.2.10"
+    },
+    {
+      "start": 94.38,
+      "end": 100.96,
+      "usfm": "DEU.2.11"
+    },
+    {
+      "start": 100.96,
+      "end": 115.14,
+      "usfm": "DEU.2.12"
+    },
+    {
+      "start": 115.14,
+      "end": 121.16,
+      "usfm": "DEU.2.13"
+    },
+    {
+      "start": 121.16,
+      "end": 135.18,
+      "usfm": "DEU.2.14"
+    },
+    {
+      "start": 135.18,
+      "end": 142.74,
+      "usfm": "DEU.2.15"
+    },
+    {
+      "start": 142.74,
+      "end": 148.14,
+      "usfm": "DEU.2.16"
+    },
+    {
+      "start": 148.14,
+      "end": 150.6,
+      "usfm": "DEU.2.17"
+    },
+    {
+      "start": 150.6,
+      "end": 155.38,
+      "usfm": "DEU.2.18"
+    },
+    {
+      "start": 155.38,
+      "end": 169.54,
+      "usfm": "DEU.2.19"
+    },
+    {
+      "start": 169.54,
+      "end": 178.5,
+      "usfm": "DEU.2.20"
+    },
+    {
+      "start": 178.5,
+      "end": 187.24,
+      "usfm": "DEU.2.21"
+    },
+    {
+      "start": 187.24,
+      "end": 198.06,
+      "usfm": "DEU.2.22"
+    },
+    {
+      "start": 198.06,
+      "end": 208.84,
+      "usfm": "DEU.2.23"
+    },
+    {
+      "start": 208.84,
+      "end": 224.48,
+      "usfm": "DEU.2.24"
+    },
+    {
+      "start": 224.48,
+      "end": 236.68,
+      "usfm": "DEU.2.25"
+    },
+    {
+      "start": 236.68,
+      "end": 243.8,
+      "usfm": "DEU.2.26"
+    },
+    {
+      "start": 243.8,
+      "end": 251.74,
+      "usfm": "DEU.2.27"
+    },
+    {
+      "start": 251.74,
+      "end": 261.04,
+      "usfm": "DEU.2.28"
+    },
+    {
+      "start": 261.04,
+      "end": 272.08,
+      "usfm": "DEU.2.29"
+    },
+    {
+      "start": 272.08,
+      "end": 285.1,
+      "usfm": "DEU.2.30"
+    },
+    {
+      "start": 285.1,
+      "end": 295.22,
+      "usfm": "DEU.2.31"
+    },
+    {
+      "start": 295.22,
+      "end": 300.6,
+      "usfm": "DEU.2.32"
+    },
+    {
+      "start": 300.6,
+      "end": 306.12,
+      "usfm": "DEU.2.33"
+    },
+    {
+      "start": 306.12,
+      "end": 315.28,
+      "usfm": "DEU.2.34"
+    },
+    {
+      "start": 315.28,
+      "end": 321.48,
+      "usfm": "DEU.2.35"
+    },
+    {
+      "start": 321.48,
+      "end": 334.64,
+      "usfm": "DEU.2.36"
+    },
+    {
+      "start": 334.64,
+      "end": 355.08,
+      "usfm": "DEU.2.37"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -338,8 +486,8 @@
       "text_en": "The area described stretches from Aroer on the bank of the Arnon to Gilead. Gilead is a mountainous region east of the Jordan, so this refers to a broad part of Transjordan."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

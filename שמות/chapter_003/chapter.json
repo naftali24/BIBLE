@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 3,
   "title": "שמות פרק 3",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/3-faaa94a15c32de6b33cca50acba68125.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/3-5a922db8b1c3e465d0274b919269bd28.mp3?version_id=1",
   "english": [
     "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.",
     "And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
@@ -153,28 +153,116 @@
     }
   ],
   "times_en": [
-    2.98,
-    16.0,
-    26.6,
-    33.82,
-    44.9,
-    54.28,
-    67.18,
-    79.4,
-    97.64,
-    105.44,
-    113.16,
-    121.56,
-    133.92,
-    147.36,
-    157.82,
-    176.54,
-    193.58,
-    207.68,
-    226.42,
-    233.8,
-    243.92,
-    252.4
+    {
+      "start": 2.88,
+      "end": 14.42,
+      "usfm": "EXO.3.1"
+    },
+    {
+      "start": 14.42,
+      "end": 27.56,
+      "usfm": "EXO.3.2"
+    },
+    {
+      "start": 27.56,
+      "end": 35.34,
+      "usfm": "EXO.3.3"
+    },
+    {
+      "start": 35.34,
+      "end": 47.84,
+      "usfm": "EXO.3.4"
+    },
+    {
+      "start": 47.84,
+      "end": 58.52,
+      "usfm": "EXO.3.5"
+    },
+    {
+      "start": 58.52,
+      "end": 71.76,
+      "usfm": "EXO.3.6"
+    },
+    {
+      "start": 71.76,
+      "end": 83.88,
+      "usfm": "EXO.3.7"
+    },
+    {
+      "start": 83.88,
+      "end": 103.18,
+      "usfm": "EXO.3.8"
+    },
+    {
+      "start": 103.18,
+      "end": 113.08,
+      "usfm": "EXO.3.9"
+    },
+    {
+      "start": 113.08,
+      "end": 122.0,
+      "usfm": "EXO.3.10"
+    },
+    {
+      "start": 122.0,
+      "end": 130.66,
+      "usfm": "EXO.3.11"
+    },
+    {
+      "start": 130.66,
+      "end": 144.16,
+      "usfm": "EXO.3.12"
+    },
+    {
+      "start": 144.16,
+      "end": 157.32,
+      "usfm": "EXO.3.13"
+    },
+    {
+      "start": 157.32,
+      "end": 169.54,
+      "usfm": "EXO.3.14"
+    },
+    {
+      "start": 169.54,
+      "end": 187.38,
+      "usfm": "EXO.3.15"
+    },
+    {
+      "start": 187.38,
+      "end": 201.98,
+      "usfm": "EXO.3.16"
+    },
+    {
+      "start": 201.98,
+      "end": 217.98,
+      "usfm": "EXO.3.17"
+    },
+    {
+      "start": 217.98,
+      "end": 237.66,
+      "usfm": "EXO.3.18"
+    },
+    {
+      "start": 237.66,
+      "end": 243.7,
+      "usfm": "EXO.3.19"
+    },
+    {
+      "start": 243.7,
+      "end": 253.26,
+      "usfm": "EXO.3.20"
+    },
+    {
+      "start": 253.26,
+      "end": 261.74,
+      "usfm": "EXO.3.21"
+    },
+    {
+      "start": 261.74,
+      "end": 284.44,
+      "usfm": "EXO.3.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -221,8 +309,8 @@
       "text_en": "In the ancient world, metal objects and clothing were valuable possessions that could be carried easily. The Israelites’ departure is therefore described as leaving with property, not empty-handed."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

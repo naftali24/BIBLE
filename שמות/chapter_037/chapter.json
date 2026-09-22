@@ -5,7 +5,7 @@
   "chapter": 37,
   "title": "שמות פרק 37",
   "english_translation": "KJV",
-  "audio_en_url": "https://www.audiotreasure.com/content/KJV_FF/02_Exodus_37.mp3",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/37-c2e8ccf3ac1c0e8a72d8ae2ca3c4d85f.mp3?version_id=1",
   "english": [
     "And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:",
     "And he overlaid it with pure gold within and without, and made a crown of gold to it round about.",
@@ -156,35 +156,151 @@
     }
   ],
   "times_en": [
-    1.28,
-    10.42,
-    16.02,
-    24.54,
-    28.18,
-    32.36,
-    39.84,
-    46.6,
-    55.98,
-    66.96,
-    75.1,
-    80.2,
-    87.72,
-    94.04,
-    98.3,
-    103.14,
-    110.6,
-    120.34,
-    130.38,
-    142.22,
-    147.84,
-    157.2,
-    162.86,
-    167.3,
-    171.64,
-    182.04,
-    191.26,
-    200.74,
-    204.58
+    {
+      "start": 2.88,
+      "end": 11.36,
+      "usfm": "EXO.37.1"
+    },
+    {
+      "start": 11.36,
+      "end": 17.06,
+      "usfm": "EXO.37.2"
+    },
+    {
+      "start": 17.06,
+      "end": 25.44,
+      "usfm": "EXO.37.3"
+    },
+    {
+      "start": 25.44,
+      "end": 29.5,
+      "usfm": "EXO.37.4"
+    },
+    {
+      "start": 29.5,
+      "end": 34.46,
+      "usfm": "EXO.37.5"
+    },
+    {
+      "start": 34.46,
+      "end": 41.28,
+      "usfm": "EXO.37.6"
+    },
+    {
+      "start": 41.28,
+      "end": 47.54,
+      "usfm": "EXO.37.7"
+    },
+    {
+      "start": 47.54,
+      "end": 57.4,
+      "usfm": "EXO.37.8"
+    },
+    {
+      "start": 57.4,
+      "end": 68.6,
+      "usfm": "EXO.37.9"
+    },
+    {
+      "start": 68.6,
+      "end": 76.18,
+      "usfm": "EXO.37.10"
+    },
+    {
+      "start": 76.18,
+      "end": 81.24,
+      "usfm": "EXO.37.11"
+    },
+    {
+      "start": 81.24,
+      "end": 88.7,
+      "usfm": "EXO.37.12"
+    },
+    {
+      "start": 88.7,
+      "end": 95.44,
+      "usfm": "EXO.37.13"
+    },
+    {
+      "start": 95.44,
+      "end": 100.16,
+      "usfm": "EXO.37.14"
+    },
+    {
+      "start": 100.16,
+      "end": 104.72,
+      "usfm": "EXO.37.15"
+    },
+    {
+      "start": 104.72,
+      "end": 113.76,
+      "usfm": "EXO.37.16"
+    },
+    {
+      "start": 113.76,
+      "end": 123.44,
+      "usfm": "EXO.37.17"
+    },
+    {
+      "start": 123.44,
+      "end": 132.12,
+      "usfm": "EXO.37.18"
+    },
+    {
+      "start": 132.12,
+      "end": 143.98,
+      "usfm": "EXO.37.19"
+    },
+    {
+      "start": 143.98,
+      "end": 149.28,
+      "usfm": "EXO.37.20"
+    },
+    {
+      "start": 149.28,
+      "end": 158.82,
+      "usfm": "EXO.37.21"
+    },
+    {
+      "start": 158.82,
+      "end": 164.48,
+      "usfm": "EXO.37.22"
+    },
+    {
+      "start": 164.48,
+      "end": 169.24,
+      "usfm": "EXO.37.23"
+    },
+    {
+      "start": 169.24,
+      "end": 173.2,
+      "usfm": "EXO.37.24"
+    },
+    {
+      "start": 173.2,
+      "end": 184.1,
+      "usfm": "EXO.37.25"
+    },
+    {
+      "start": 184.1,
+      "end": 192.56,
+      "usfm": "EXO.37.26"
+    },
+    {
+      "start": 192.56,
+      "end": 201.18,
+      "usfm": "EXO.37.27"
+    },
+    {
+      "start": 201.18,
+      "end": 205.16,
+      "usfm": "EXO.37.28"
+    },
+    {
+      "start": 205.16,
+      "end": 217.52,
+      "usfm": "EXO.37.29"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -248,5 +364,7 @@
       "text_he": "הידעת? המילה ״רוקח״ קשורה להכנת תערובות ריחניות; בעולם העתיק היה זה מקצוע שדרש שילוב מדויק של שמנים, בשמים ותבלינים.",
       "text_en": "Did you know? The word “roḳe’aḥ” is connected with preparing fragrant mixtures; in the ancient world, this required carefully combining oils, perfumes, and spices."
     }
-  ]
+  ],
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1
 }

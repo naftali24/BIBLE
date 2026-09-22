@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 13,
   "title": "יהושע פרק 13",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/13-6ef58efe0ea453b058faad88c4c4a4c2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/13-6b23da8a26ccb50a1c29b4af18442629.mp3?version_id=1",
   "english": [
     "Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.",
     "This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,",
@@ -204,39 +204,171 @@
     }
   ],
   "times_en": [
-    3.4,
-    16.48,
-    22.48,
-    39.98,
-    48.92,
-    57.96,
-    74.56,
-    82.36,
-    96.52,
-    106.08,
-    114.48,
-    123.56,
-    135.96,
-    146.06,
-    160.08,
-    164.48,
-    173.86,
-    181.68,
-    184.54,
-    189.96,
-    194.64,
-    212.86,
-    220.66,
-    231.2,
-    235.92,
-    244.88,
-    252.64,
-    267.36,
-    273.64,
-    281.78,
-    294.04,
-    308.76,
-    315.58
+    {
+      "start": 2.88,
+      "end": 13.62,
+      "usfm": "JOS.13.1"
+    },
+    {
+      "start": 13.62,
+      "end": 20.44,
+      "usfm": "JOS.13.2"
+    },
+    {
+      "start": 20.44,
+      "end": 38.48,
+      "usfm": "JOS.13.3"
+    },
+    {
+      "start": 38.48,
+      "end": 46.8,
+      "usfm": "JOS.13.4"
+    },
+    {
+      "start": 46.8,
+      "end": 55.36,
+      "usfm": "JOS.13.5"
+    },
+    {
+      "start": 55.36,
+      "end": 72.12,
+      "usfm": "JOS.13.6"
+    },
+    {
+      "start": 72.12,
+      "end": 78.72,
+      "usfm": "JOS.13.7"
+    },
+    {
+      "start": 78.72,
+      "end": 88.16,
+      "usfm": "JOS.13.8"
+    },
+    {
+      "start": 88.16,
+      "end": 96.88,
+      "usfm": "JOS.13.9"
+    },
+    {
+      "start": 96.88,
+      "end": 103.4,
+      "usfm": "JOS.13.10"
+    },
+    {
+      "start": 103.4,
+      "end": 110.88,
+      "usfm": "JOS.13.11"
+    },
+    {
+      "start": 110.88,
+      "end": 122.6,
+      "usfm": "JOS.13.12"
+    },
+    {
+      "start": 122.6,
+      "end": 133.04,
+      "usfm": "JOS.13.13"
+    },
+    {
+      "start": 133.04,
+      "end": 142.9,
+      "usfm": "JOS.13.14"
+    },
+    {
+      "start": 142.9,
+      "end": 148.9,
+      "usfm": "JOS.13.15"
+    },
+    {
+      "start": 148.9,
+      "end": 158.82,
+      "usfm": "JOS.13.16"
+    },
+    {
+      "start": 158.82,
+      "end": 165.52,
+      "usfm": "JOS.13.17"
+    },
+    {
+      "start": 165.52,
+      "end": 168.94,
+      "usfm": "JOS.13.18"
+    },
+    {
+      "start": 168.94,
+      "end": 174.78,
+      "usfm": "JOS.13.19"
+    },
+    {
+      "start": 174.78,
+      "end": 179.6,
+      "usfm": "JOS.13.20"
+    },
+    {
+      "start": 179.6,
+      "end": 195.0,
+      "usfm": "JOS.13.21"
+    },
+    {
+      "start": 195.0,
+      "end": 202.4,
+      "usfm": "JOS.13.22"
+    },
+    {
+      "start": 202.4,
+      "end": 213.72,
+      "usfm": "JOS.13.23"
+    },
+    {
+      "start": 213.72,
+      "end": 219.86,
+      "usfm": "JOS.13.24"
+    },
+    {
+      "start": 219.86,
+      "end": 229.62,
+      "usfm": "JOS.13.25"
+    },
+    {
+      "start": 229.62,
+      "end": 237.12,
+      "usfm": "JOS.13.26"
+    },
+    {
+      "start": 237.12,
+      "end": 250.84,
+      "usfm": "JOS.13.27"
+    },
+    {
+      "start": 250.84,
+      "end": 255.9,
+      "usfm": "JOS.13.28"
+    },
+    {
+      "start": 255.9,
+      "end": 264.54,
+      "usfm": "JOS.13.29"
+    },
+    {
+      "start": 264.54,
+      "end": 275.72,
+      "usfm": "JOS.13.30"
+    },
+    {
+      "start": 275.72,
+      "end": 289.88,
+      "usfm": "JOS.13.31"
+    },
+    {
+      "start": 289.88,
+      "end": 298.4,
+      "usfm": "JOS.13.32"
+    },
+    {
+      "start": 298.4,
+      "end": 314.48,
+      "usfm": "JOS.13.33"
+    }
   ],
   "did_you_know": [
     {
@@ -306,8 +438,8 @@
       "text_en": "In Bashan sixty towns are named as Jair’s settlements — indicating a cluster of local villages or towns that bore the name of a local leader (Jair)."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

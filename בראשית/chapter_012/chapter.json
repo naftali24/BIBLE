@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 12,
   "title": "בראשית פרק 12",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/12-fb080a3544fb66d4bcb57ae22b4ec5f7.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/12-0337100d2a8ef9241962813652d39734.mp3?version_id=1",
   "english": [
     "Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:",
     "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:",
@@ -275,26 +275,106 @@
     }
   ],
   "times_en": [
-    3.24,
-    11.84,
-    19.6,
-    28.26,
-    37.24,
-    49.36,
-    58.62,
-    69.64,
-    83.14,
-    86.42,
-    95.32,
-    102.32,
-    109.68,
-    118.04,
-    123.76,
-    130.74,
-    141.5,
-    148.64,
-    156.18,
-    165.4
+    {
+      "start": 2.88,
+      "end": 14.12,
+      "usfm": "GEN.12.1"
+    },
+    {
+      "start": 14.12,
+      "end": 22.78,
+      "usfm": "GEN.12.2"
+    },
+    {
+      "start": 22.78,
+      "end": 32.58,
+      "usfm": "GEN.12.3"
+    },
+    {
+      "start": 32.58,
+      "end": 42.28,
+      "usfm": "GEN.12.4"
+    },
+    {
+      "start": 42.28,
+      "end": 57.24,
+      "usfm": "GEN.12.5"
+    },
+    {
+      "start": 57.24,
+      "end": 64.76,
+      "usfm": "GEN.12.6"
+    },
+    {
+      "start": 64.76,
+      "end": 75.96,
+      "usfm": "GEN.12.7"
+    },
+    {
+      "start": 75.96,
+      "end": 90.84,
+      "usfm": "GEN.12.8"
+    },
+    {
+      "start": 90.84,
+      "end": 94.14,
+      "usfm": "GEN.12.9"
+    },
+    {
+      "start": 94.14,
+      "end": 101.46,
+      "usfm": "GEN.12.10"
+    },
+    {
+      "start": 101.46,
+      "end": 112.4,
+      "usfm": "GEN.12.11"
+    },
+    {
+      "start": 112.4,
+      "end": 122.26,
+      "usfm": "GEN.12.12"
+    },
+    {
+      "start": 122.26,
+      "end": 131.38,
+      "usfm": "GEN.12.13"
+    },
+    {
+      "start": 131.38,
+      "end": 139.34,
+      "usfm": "GEN.12.14"
+    },
+    {
+      "start": 139.34,
+      "end": 146.56,
+      "usfm": "GEN.12.15"
+    },
+    {
+      "start": 146.56,
+      "end": 157.2,
+      "usfm": "GEN.12.16"
+    },
+    {
+      "start": 157.2,
+      "end": 163.4,
+      "usfm": "GEN.12.17"
+    },
+    {
+      "start": 163.4,
+      "end": 171.82,
+      "usfm": "GEN.12.18"
+    },
+    {
+      "start": 171.82,
+      "end": 182.14,
+      "usfm": "GEN.12.19"
+    },
+    {
+      "start": 182.14,
+      "end": 195.76,
+      "usfm": "GEN.12.20"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -343,8 +423,8 @@
   ],
   "audio_start_offset": 4.41,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

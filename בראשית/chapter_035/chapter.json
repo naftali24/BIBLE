@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 35,
   "title": "בראשית פרק 35",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/35-80cf5d348825e99fdb86e3c88ffcff13.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/35-7c8e4134caac9b1a3579e25b7db119d7.mp3?version_id=1",
   "english": [
     "And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.",
     "Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments:",
@@ -165,35 +165,151 @@
     }
   ],
   "times_en": [
-    3.3,
-    14.68,
-    24.3,
-    35.38,
-    43.46,
-    51.64,
-    57.86,
-    68.78,
-    77.38,
-    83.6,
-    93.98,
-    106.64,
-    114.82,
-    118.72,
-    128.92,
-    132.78,
-    142.02,
-    149.06,
-    156.72,
-    162.24,
-    168.52,
-    173.66,
-    185.06,
-    193.58,
-    197.22,
-    202.54,
-    211.84,
-    220.9,
-    224.24
+    {
+      "start": 2.88,
+      "end": 16.46,
+      "usfm": "GEN.35.1"
+    },
+    {
+      "start": 16.46,
+      "end": 26.66,
+      "usfm": "GEN.35.2"
+    },
+    {
+      "start": 26.66,
+      "end": 39.74,
+      "usfm": "GEN.35.3"
+    },
+    {
+      "start": 39.74,
+      "end": 50.36,
+      "usfm": "GEN.35.4"
+    },
+    {
+      "start": 50.36,
+      "end": 60.08,
+      "usfm": "GEN.35.5"
+    },
+    {
+      "start": 60.08,
+      "end": 68.52,
+      "usfm": "GEN.35.6"
+    },
+    {
+      "start": 68.52,
+      "end": 77.52,
+      "usfm": "GEN.35.7"
+    },
+    {
+      "start": 77.52,
+      "end": 87.3,
+      "usfm": "GEN.35.8"
+    },
+    {
+      "start": 87.3,
+      "end": 93.8,
+      "usfm": "GEN.35.9"
+    },
+    {
+      "start": 93.8,
+      "end": 105.04,
+      "usfm": "GEN.35.10"
+    },
+    {
+      "start": 105.04,
+      "end": 118.88,
+      "usfm": "GEN.35.11"
+    },
+    {
+      "start": 118.88,
+      "end": 125.92,
+      "usfm": "GEN.35.12"
+    },
+    {
+      "start": 125.92,
+      "end": 131.58,
+      "usfm": "GEN.35.13"
+    },
+    {
+      "start": 131.58,
+      "end": 142.46,
+      "usfm": "GEN.35.14"
+    },
+    {
+      "start": 142.46,
+      "end": 147.5,
+      "usfm": "GEN.35.15"
+    },
+    {
+      "start": 147.5,
+      "end": 158.52,
+      "usfm": "GEN.35.16"
+    },
+    {
+      "start": 158.52,
+      "end": 166.94,
+      "usfm": "GEN.35.17"
+    },
+    {
+      "start": 166.94,
+      "end": 178.46,
+      "usfm": "GEN.35.18"
+    },
+    {
+      "start": 178.46,
+      "end": 184.1,
+      "usfm": "GEN.35.19"
+    },
+    {
+      "start": 184.1,
+      "end": 190.7,
+      "usfm": "GEN.35.20"
+    },
+    {
+      "start": 190.7,
+      "end": 195.78,
+      "usfm": "GEN.35.21"
+    },
+    {
+      "start": 195.78,
+      "end": 209.2,
+      "usfm": "GEN.35.22"
+    },
+    {
+      "start": 209.2,
+      "end": 219.12,
+      "usfm": "GEN.35.23"
+    },
+    {
+      "start": 219.12,
+      "end": 222.3,
+      "usfm": "GEN.35.24"
+    },
+    {
+      "start": 222.3,
+      "end": 226.72,
+      "usfm": "GEN.35.25"
+    },
+    {
+      "start": 226.72,
+      "end": 235.32,
+      "usfm": "GEN.35.26"
+    },
+    {
+      "start": 235.32,
+      "end": 244.4,
+      "usfm": "GEN.35.27"
+    },
+    {
+      "start": 244.4,
+      "end": 249.0,
+      "usfm": "GEN.35.28"
+    },
+    {
+      "start": 249.0,
+      "end": 267.96,
+      "usfm": "GEN.35.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -260,8 +376,8 @@
   ],
   "audio_start_offset": 1.99,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

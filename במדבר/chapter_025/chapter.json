@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 25,
   "title": "במדבר פרק 25",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/25-2b4833ea6cb7f194e927b8745c0eb76b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/25-14a29d49739d5803e313f0a83f15b33c.mp3?version_id=1",
   "english": [
     "And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.",
     "And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.",
@@ -123,24 +123,96 @@
     }
   ],
   "times_en": [
-    3.32,
-    11.54,
-    19.44,
-    26.3,
-    38.1,
-    46.46,
-    58.72,
-    67.7,
-    80.0,
-    84.64,
-    86.96,
-    100.84,
-    105.96,
-    116.62,
-    124.9,
-    132.88,
-    134.92,
-    137.84
+    {
+      "start": 2.88,
+      "end": 9.6,
+      "usfm": "NUM.25.1"
+    },
+    {
+      "start": 9.6,
+      "end": 17.04,
+      "usfm": "NUM.25.2"
+    },
+    {
+      "start": 17.04,
+      "end": 24.0,
+      "usfm": "NUM.25.3"
+    },
+    {
+      "start": 24.0,
+      "end": 35.38,
+      "usfm": "NUM.25.4"
+    },
+    {
+      "start": 35.38,
+      "end": 43.24,
+      "usfm": "NUM.25.5"
+    },
+    {
+      "start": 43.24,
+      "end": 58.6,
+      "usfm": "NUM.25.6"
+    },
+    {
+      "start": 58.6,
+      "end": 67.86,
+      "usfm": "NUM.25.7"
+    },
+    {
+      "start": 67.86,
+      "end": 79.88,
+      "usfm": "NUM.25.8"
+    },
+    {
+      "start": 79.88,
+      "end": 84.58,
+      "usfm": "NUM.25.9"
+    },
+    {
+      "start": 84.58,
+      "end": 87.38,
+      "usfm": "NUM.25.10"
+    },
+    {
+      "start": 87.38,
+      "end": 102.24,
+      "usfm": "NUM.25.11"
+    },
+    {
+      "start": 102.24,
+      "end": 108.3,
+      "usfm": "NUM.25.12"
+    },
+    {
+      "start": 108.3,
+      "end": 119.78,
+      "usfm": "NUM.25.13"
+    },
+    {
+      "start": 119.78,
+      "end": 131.86,
+      "usfm": "NUM.25.14"
+    },
+    {
+      "start": 131.86,
+      "end": 142.14,
+      "usfm": "NUM.25.15"
+    },
+    {
+      "start": 142.14,
+      "end": 144.72,
+      "usfm": "NUM.25.16"
+    },
+    {
+      "start": 144.72,
+      "end": 147.54,
+      "usfm": "NUM.25.17"
+    },
+    {
+      "start": 147.54,
+      "end": 168.04,
+      "usfm": "NUM.25.18"
+    }
   ],
   "did_you_know": [
     {
@@ -180,8 +252,8 @@
       "text_en": "Did you know that the Midianites' involvement in tempting the Israelites to sin was the direct reason for God's later command to attack Midian and take revenge on them for their deceitful schemes?"
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

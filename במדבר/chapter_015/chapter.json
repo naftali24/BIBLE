@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 15,
   "title": "במדבר פרק 15",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/15-0a0a6ccfb3e3035c50c1f17fe545a42b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/15-a7a2687d1250c951278773cade059646.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,",
@@ -201,47 +201,211 @@
     }
   ],
   "times_en": [
-    3.3,
-    6.14,
-    12.62,
-    27.36,
-    38.98,
-    47.06,
-    56.92,
-    62.9,
-    71.28,
-    79.94,
-    89.54,
-    94.3,
-    98.82,
-    109.14,
-    123.7,
-    137.5,
-    144.6,
-    147.0,
-    152.56,
-    157.5,
-    166.02,
-    172.22,
-    179.66,
-    187.26,
-    207.56,
-    224.7,
-    234.7,
-    243.04,
-    254.44,
-    263.28,
-    273.28,
-    282.8,
-    289.36,
-    295.52,
-    301.42,
-    310.24,
-    318.48,
-    321.1,
-    333.36,
-    347.3,
-    353.52
+    {
+      "start": 2.88,
+      "end": 6.02,
+      "usfm": "NUM.15.1"
+    },
+    {
+      "start": 6.02,
+      "end": 15.02,
+      "usfm": "NUM.15.2"
+    },
+    {
+      "start": 15.02,
+      "end": 31.08,
+      "usfm": "NUM.15.3"
+    },
+    {
+      "start": 31.08,
+      "end": 41.06,
+      "usfm": "NUM.15.4"
+    },
+    {
+      "start": 41.06,
+      "end": 49.26,
+      "usfm": "NUM.15.5"
+    },
+    {
+      "start": 49.26,
+      "end": 58.06,
+      "usfm": "NUM.15.6"
+    },
+    {
+      "start": 58.06,
+      "end": 65.72,
+      "usfm": "NUM.15.7"
+    },
+    {
+      "start": 65.72,
+      "end": 74.2,
+      "usfm": "NUM.15.8"
+    },
+    {
+      "start": 74.2,
+      "end": 81.48,
+      "usfm": "NUM.15.9"
+    },
+    {
+      "start": 81.48,
+      "end": 90.7,
+      "usfm": "NUM.15.10"
+    },
+    {
+      "start": 90.7,
+      "end": 97.38,
+      "usfm": "NUM.15.11"
+    },
+    {
+      "start": 97.38,
+      "end": 104.58,
+      "usfm": "NUM.15.12"
+    },
+    {
+      "start": 104.58,
+      "end": 114.48,
+      "usfm": "NUM.15.13"
+    },
+    {
+      "start": 114.48,
+      "end": 128.06,
+      "usfm": "NUM.15.14"
+    },
+    {
+      "start": 128.06,
+      "end": 142.06,
+      "usfm": "NUM.15.15"
+    },
+    {
+      "start": 142.06,
+      "end": 148.8,
+      "usfm": "NUM.15.16"
+    },
+    {
+      "start": 148.8,
+      "end": 151.46,
+      "usfm": "NUM.15.17"
+    },
+    {
+      "start": 151.46,
+      "end": 157.9,
+      "usfm": "NUM.15.18"
+    },
+    {
+      "start": 157.9,
+      "end": 164.9,
+      "usfm": "NUM.15.19"
+    },
+    {
+      "start": 164.9,
+      "end": 174.48,
+      "usfm": "NUM.15.20"
+    },
+    {
+      "start": 174.48,
+      "end": 180.22,
+      "usfm": "NUM.15.21"
+    },
+    {
+      "start": 180.22,
+      "end": 186.68,
+      "usfm": "NUM.15.22"
+    },
+    {
+      "start": 186.68,
+      "end": 196.08,
+      "usfm": "NUM.15.23"
+    },
+    {
+      "start": 196.08,
+      "end": 216.56,
+      "usfm": "NUM.15.24"
+    },
+    {
+      "start": 216.56,
+      "end": 234.08,
+      "usfm": "NUM.15.25"
+    },
+    {
+      "start": 234.08,
+      "end": 243.42,
+      "usfm": "NUM.15.26"
+    },
+    {
+      "start": 243.42,
+      "end": 250.88,
+      "usfm": "NUM.15.27"
+    },
+    {
+      "start": 250.88,
+      "end": 261.16,
+      "usfm": "NUM.15.28"
+    },
+    {
+      "start": 261.16,
+      "end": 271.32,
+      "usfm": "NUM.15.29"
+    },
+    {
+      "start": 271.32,
+      "end": 284.18,
+      "usfm": "NUM.15.30"
+    },
+    {
+      "start": 284.18,
+      "end": 295.18,
+      "usfm": "NUM.15.31"
+    },
+    {
+      "start": 295.18,
+      "end": 302.06,
+      "usfm": "NUM.15.32"
+    },
+    {
+      "start": 302.06,
+      "end": 308.24,
+      "usfm": "NUM.15.33"
+    },
+    {
+      "start": 308.24,
+      "end": 313.1,
+      "usfm": "NUM.15.34"
+    },
+    {
+      "start": 313.1,
+      "end": 323.74,
+      "usfm": "NUM.15.35"
+    },
+    {
+      "start": 323.74,
+      "end": 333.42,
+      "usfm": "NUM.15.36"
+    },
+    {
+      "start": 333.42,
+      "end": 336.44,
+      "usfm": "NUM.15.37"
+    },
+    {
+      "start": 336.44,
+      "end": 349.7,
+      "usfm": "NUM.15.38"
+    },
+    {
+      "start": 349.7,
+      "end": 365.48,
+      "usfm": "NUM.15.39"
+    },
+    {
+      "start": 365.48,
+      "end": 372.4,
+      "usfm": "NUM.15.40"
+    },
+    {
+      "start": 372.4,
+      "end": 389.64,
+      "usfm": "NUM.15.41"
+    }
   ],
   "did_you_know": [
     {
@@ -329,8 +493,8 @@
       "text_en": "Did you know that the command concludes by linking God's identity as the redeemer from Egypt (\"asher hotzeti etchem me'eretz Mitzrayim,\" who brought you out of the land of Egypt) to the imperative of observing His commandments, making the Exodus a foundational reason for Jewish observance?"
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

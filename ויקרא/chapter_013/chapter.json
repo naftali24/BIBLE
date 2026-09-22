@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 13,
   "title": "ויקרא פרק 13",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/13-325876982d76a4e6b3b6119542583d53.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/13-c8389a91c075a5d56e97c853d8d1fcfa.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and Aaron, saying,",
     "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
@@ -336,65 +336,301 @@
     }
   ],
   "times_en": [
-    3.32,
-    6.8,
-    18.86,
-    34.48,
-    47.52,
-    59.3,
-    73.32,
-    82.92,
-    92.42,
-    96.94,
-    105.7,
-    114.54,
-    125.34,
-    136.6,
-    141.52,
-    150.08,
-    154.96,
-    164.48,
-    168.12,
-    175.42,
-    188.66,
-    198.82,
-    205.44,
-    213.82,
-    220.72,
-    236.22,
-    246.5,
-    257.3,
-    269.4,
-    273.4,
-    288.06,
-    299.82,
-    311.0,
-    319.18,
-    333.88,
-    338.92,
-    348.66,
-    360.5,
-    364.6,
-    374.64,
-    379.2,
-    384.9,
-    392.44,
-    401.18,
-    409.1,
-    418.86,
-    426.34,
-    431.78,
-    436.36,
-    447.08,
-    453.12,
-    466.9,
-    478.14,
-    485.84,
-    492.58,
-    507.68,
-    517.64,
-    527.04,
-    537.14
+    {
+      "start": 2.88,
+      "end": 6.38,
+      "usfm": "LEV.13.1"
+    },
+    {
+      "start": 6.38,
+      "end": 21.36,
+      "usfm": "LEV.13.2"
+    },
+    {
+      "start": 21.36,
+      "end": 37.64,
+      "usfm": "LEV.13.3"
+    },
+    {
+      "start": 37.64,
+      "end": 50.36,
+      "usfm": "LEV.13.4"
+    },
+    {
+      "start": 50.36,
+      "end": 62.3,
+      "usfm": "LEV.13.5"
+    },
+    {
+      "start": 62.3,
+      "end": 77.72,
+      "usfm": "LEV.13.6"
+    },
+    {
+      "start": 77.72,
+      "end": 86.4,
+      "usfm": "LEV.13.7"
+    },
+    {
+      "start": 86.4,
+      "end": 95.36,
+      "usfm": "LEV.13.8"
+    },
+    {
+      "start": 95.36,
+      "end": 100.18,
+      "usfm": "LEV.13.9"
+    },
+    {
+      "start": 100.18,
+      "end": 109.08,
+      "usfm": "LEV.13.10"
+    },
+    {
+      "start": 109.08,
+      "end": 118.24,
+      "usfm": "LEV.13.11"
+    },
+    {
+      "start": 118.24,
+      "end": 127.9,
+      "usfm": "LEV.13.12"
+    },
+    {
+      "start": 127.9,
+      "end": 139.58,
+      "usfm": "LEV.13.13"
+    },
+    {
+      "start": 139.58,
+      "end": 144.0,
+      "usfm": "LEV.13.14"
+    },
+    {
+      "start": 144.0,
+      "end": 151.8,
+      "usfm": "LEV.13.15"
+    },
+    {
+      "start": 151.8,
+      "end": 158.28,
+      "usfm": "LEV.13.16"
+    },
+    {
+      "start": 158.28,
+      "end": 169.2,
+      "usfm": "LEV.13.17"
+    },
+    {
+      "start": 169.2,
+      "end": 174.36,
+      "usfm": "LEV.13.18"
+    },
+    {
+      "start": 174.36,
+      "end": 182.52,
+      "usfm": "LEV.13.19"
+    },
+    {
+      "start": 182.52,
+      "end": 196.36,
+      "usfm": "LEV.13.20"
+    },
+    {
+      "start": 196.36,
+      "end": 207.52,
+      "usfm": "LEV.13.21"
+    },
+    {
+      "start": 207.52,
+      "end": 214.6,
+      "usfm": "LEV.13.22"
+    },
+    {
+      "start": 214.6,
+      "end": 222.88,
+      "usfm": "LEV.13.23"
+    },
+    {
+      "start": 222.88,
+      "end": 231.92,
+      "usfm": "LEV.13.24"
+    },
+    {
+      "start": 231.92,
+      "end": 249.36,
+      "usfm": "LEV.13.25"
+    },
+    {
+      "start": 249.36,
+      "end": 264.8,
+      "usfm": "LEV.13.26"
+    },
+    {
+      "start": 264.8,
+      "end": 276.84,
+      "usfm": "LEV.13.27"
+    },
+    {
+      "start": 276.84,
+      "end": 291.22,
+      "usfm": "LEV.13.28"
+    },
+    {
+      "start": 291.22,
+      "end": 294.76,
+      "usfm": "LEV.13.29"
+    },
+    {
+      "start": 294.76,
+      "end": 311.34,
+      "usfm": "LEV.13.30"
+    },
+    {
+      "start": 311.34,
+      "end": 325.5,
+      "usfm": "LEV.13.31"
+    },
+    {
+      "start": 325.5,
+      "end": 336.64,
+      "usfm": "LEV.13.32"
+    },
+    {
+      "start": 336.64,
+      "end": 345.6,
+      "usfm": "LEV.13.33"
+    },
+    {
+      "start": 345.6,
+      "end": 360.5,
+      "usfm": "LEV.13.34"
+    },
+    {
+      "start": 360.5,
+      "end": 364.38,
+      "usfm": "LEV.13.35"
+    },
+    {
+      "start": 364.38,
+      "end": 373.24,
+      "usfm": "LEV.13.36"
+    },
+    {
+      "start": 373.24,
+      "end": 384.3,
+      "usfm": "LEV.13.37"
+    },
+    {
+      "start": 384.3,
+      "end": 390.52,
+      "usfm": "LEV.13.38"
+    },
+    {
+      "start": 390.52,
+      "end": 401.22,
+      "usfm": "LEV.13.39"
+    },
+    {
+      "start": 401.22,
+      "end": 406.8,
+      "usfm": "LEV.13.40"
+    },
+    {
+      "start": 406.8,
+      "end": 415.3,
+      "usfm": "LEV.13.41"
+    },
+    {
+      "start": 415.3,
+      "end": 425.94,
+      "usfm": "LEV.13.42"
+    },
+    {
+      "start": 425.94,
+      "end": 435.86,
+      "usfm": "LEV.13.43"
+    },
+    {
+      "start": 435.86,
+      "end": 444.2,
+      "usfm": "LEV.13.44"
+    },
+    {
+      "start": 444.2,
+      "end": 454.54,
+      "usfm": "LEV.13.45"
+    },
+    {
+      "start": 454.54,
+      "end": 464.64,
+      "usfm": "LEV.13.46"
+    },
+    {
+      "start": 464.64,
+      "end": 470.04,
+      "usfm": "LEV.13.47"
+    },
+    {
+      "start": 470.04,
+      "end": 477.34,
+      "usfm": "LEV.13.48"
+    },
+    {
+      "start": 477.34,
+      "end": 488.98,
+      "usfm": "LEV.13.49"
+    },
+    {
+      "start": 488.98,
+      "end": 494.4,
+      "usfm": "LEV.13.50"
+    },
+    {
+      "start": 494.4,
+      "end": 508.16,
+      "usfm": "LEV.13.51"
+    },
+    {
+      "start": 508.16,
+      "end": 520.88,
+      "usfm": "LEV.13.52"
+    },
+    {
+      "start": 520.88,
+      "end": 529.92,
+      "usfm": "LEV.13.53"
+    },
+    {
+      "start": 529.92,
+      "end": 537.76,
+      "usfm": "LEV.13.54"
+    },
+    {
+      "start": 537.76,
+      "end": 555.54,
+      "usfm": "LEV.13.55"
+    },
+    {
+      "start": 555.54,
+      "end": 566.68,
+      "usfm": "LEV.13.56"
+    },
+    {
+      "start": 566.68,
+      "end": 578.64,
+      "usfm": "LEV.13.57"
+    },
+    {
+      "start": 578.64,
+      "end": 592.58,
+      "usfm": "LEV.13.58"
+    },
+    {
+      "start": 592.58,
+      "end": 613.96,
+      "usfm": "LEV.13.59"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -519,8 +755,8 @@
       "text_en": "When the mark spreads through a garment and is considered persistent, the Torah commands that the garment or leather item be burned."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

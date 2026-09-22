@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 15,
   "title": "שמות פרק 15",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/15-37d85f327e96d84de5acdb0ae8eec0ce.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/15-7860d846d04bf93efb4bbf626c73d939.mp3?version_id=1",
   "english": [
     "Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.",
     "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
@@ -159,33 +159,141 @@
     }
   ],
   "times_en": [
-    3.22,
-    16.3,
-    29.08,
-    33.38,
-    42.3,
-    47.04,
-    55.2,
-    63.44,
-    73.62,
-    87.12,
-    94.68,
-    104.68,
-    108.94,
-    118.02,
-    123.98,
-    133.48,
-    147.98,
-    159.94,
-    162.96,
-    174.76,
-    183.74,
-    193.26,
-    203.36,
-    211.04,
-    216.16,
-    230.16,
-    250.22
+    {
+      "start": 2.88,
+      "end": 16.72,
+      "usfm": "EXO.15.1"
+    },
+    {
+      "start": 16.72,
+      "end": 28.86,
+      "usfm": "EXO.15.2"
+    },
+    {
+      "start": 28.86,
+      "end": 32.46,
+      "usfm": "EXO.15.3"
+    },
+    {
+      "start": 32.46,
+      "end": 40.22,
+      "usfm": "EXO.15.4"
+    },
+    {
+      "start": 40.22,
+      "end": 44.46,
+      "usfm": "EXO.15.5"
+    },
+    {
+      "start": 44.46,
+      "end": 51.64,
+      "usfm": "EXO.15.6"
+    },
+    {
+      "start": 51.64,
+      "end": 61.1,
+      "usfm": "EXO.15.7"
+    },
+    {
+      "start": 61.1,
+      "end": 70.64,
+      "usfm": "EXO.15.8"
+    },
+    {
+      "start": 70.64,
+      "end": 81.08,
+      "usfm": "EXO.15.9"
+    },
+    {
+      "start": 81.08,
+      "end": 88.06,
+      "usfm": "EXO.15.10"
+    },
+    {
+      "start": 88.06,
+      "end": 96.48,
+      "usfm": "EXO.15.11"
+    },
+    {
+      "start": 96.48,
+      "end": 100.58,
+      "usfm": "EXO.15.12"
+    },
+    {
+      "start": 100.58,
+      "end": 109.4,
+      "usfm": "EXO.15.13"
+    },
+    {
+      "start": 109.4,
+      "end": 115.0,
+      "usfm": "EXO.15.14"
+    },
+    {
+      "start": 115.0,
+      "end": 124.38,
+      "usfm": "EXO.15.15"
+    },
+    {
+      "start": 124.38,
+      "end": 138.38,
+      "usfm": "EXO.15.16"
+    },
+    {
+      "start": 138.38,
+      "end": 150.4,
+      "usfm": "EXO.15.17"
+    },
+    {
+      "start": 150.4,
+      "end": 153.4,
+      "usfm": "EXO.15.18"
+    },
+    {
+      "start": 153.4,
+      "end": 164.86,
+      "usfm": "EXO.15.19"
+    },
+    {
+      "start": 164.86,
+      "end": 173.36,
+      "usfm": "EXO.15.20"
+    },
+    {
+      "start": 173.36,
+      "end": 181.6,
+      "usfm": "EXO.15.21"
+    },
+    {
+      "start": 181.6,
+      "end": 191.48,
+      "usfm": "EXO.15.22"
+    },
+    {
+      "start": 191.48,
+      "end": 198.76,
+      "usfm": "EXO.15.23"
+    },
+    {
+      "start": 198.76,
+      "end": 203.54,
+      "usfm": "EXO.15.24"
+    },
+    {
+      "start": 203.54,
+      "end": 215.52,
+      "usfm": "EXO.15.25"
+    },
+    {
+      "start": 215.52,
+      "end": 235.66,
+      "usfm": "EXO.15.26"
+    },
+    {
+      "start": 235.66,
+      "end": 252.8,
+      "usfm": "EXO.15.27"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -244,8 +352,8 @@
       "text_en": "At the end of the verse, God is called “your healer.” Medical language is used to describe God’s relationship to the people’s health and protection."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

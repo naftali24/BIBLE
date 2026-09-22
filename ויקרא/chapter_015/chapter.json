@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 15,
   "title": "ויקרא פרק 15",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/15-b6128d5876318b002e45ab003d941797.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/15-b63eff635a9c2cdb6826dcf64e3eb066.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and to Aaron, saying,",
     "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.",
@@ -204,39 +204,171 @@
     }
   ],
   "times_en": [
-    3.4,
-    6.74,
-    13.6,
-    23.46,
-    31.86,
-    39.92,
-    50.36,
-    58.68,
-    69.56,
-    74.12,
-    87.8,
-    100.24,
-    108.06,
-    119.02,
-    128.88,
-    141.46,
-    149.08,
-    157.62,
-    166.44,
-    179.2,
-    184.94,
-    192.66,
-    201.56,
-    209.0,
-    219.6,
-    235.64,
-    245.68,
-    255.22,
-    263.92,
-    271.8,
-    283.92,
-    293.6,
-    299.9
+    {
+      "start": 2.88,
+      "end": 6.4,
+      "usfm": "LEV.15.1"
+    },
+    {
+      "start": 6.4,
+      "end": 16.54,
+      "usfm": "LEV.15.2"
+    },
+    {
+      "start": 16.54,
+      "end": 26.12,
+      "usfm": "LEV.15.3"
+    },
+    {
+      "start": 26.12,
+      "end": 35.36,
+      "usfm": "LEV.15.4"
+    },
+    {
+      "start": 35.36,
+      "end": 44.74,
+      "usfm": "LEV.15.5"
+    },
+    {
+      "start": 44.74,
+      "end": 56.74,
+      "usfm": "LEV.15.6"
+    },
+    {
+      "start": 56.74,
+      "end": 66.82,
+      "usfm": "LEV.15.7"
+    },
+    {
+      "start": 66.82,
+      "end": 77.66,
+      "usfm": "LEV.15.8"
+    },
+    {
+      "start": 77.66,
+      "end": 83.2,
+      "usfm": "LEV.15.9"
+    },
+    {
+      "start": 83.2,
+      "end": 97.38,
+      "usfm": "LEV.15.10"
+    },
+    {
+      "start": 97.38,
+      "end": 110.76,
+      "usfm": "LEV.15.11"
+    },
+    {
+      "start": 110.76,
+      "end": 120.34,
+      "usfm": "LEV.15.12"
+    },
+    {
+      "start": 120.34,
+      "end": 133.98,
+      "usfm": "LEV.15.13"
+    },
+    {
+      "start": 133.98,
+      "end": 146.16,
+      "usfm": "LEV.15.14"
+    },
+    {
+      "start": 146.16,
+      "end": 156.74,
+      "usfm": "LEV.15.15"
+    },
+    {
+      "start": 156.74,
+      "end": 166.06,
+      "usfm": "LEV.15.16"
+    },
+    {
+      "start": 166.06,
+      "end": 175.24,
+      "usfm": "LEV.15.17"
+    },
+    {
+      "start": 175.24,
+      "end": 185.04,
+      "usfm": "LEV.15.18"
+    },
+    {
+      "start": 185.04,
+      "end": 197.44,
+      "usfm": "LEV.15.19"
+    },
+    {
+      "start": 197.44,
+      "end": 204.84,
+      "usfm": "LEV.15.20"
+    },
+    {
+      "start": 204.84,
+      "end": 212.84,
+      "usfm": "LEV.15.21"
+    },
+    {
+      "start": 212.84,
+      "end": 221.84,
+      "usfm": "LEV.15.22"
+    },
+    {
+      "start": 221.84,
+      "end": 231.3,
+      "usfm": "LEV.15.23"
+    },
+    {
+      "start": 231.3,
+      "end": 244.04,
+      "usfm": "LEV.15.24"
+    },
+    {
+      "start": 244.04,
+      "end": 259.2,
+      "usfm": "LEV.15.25"
+    },
+    {
+      "start": 259.2,
+      "end": 273.76,
+      "usfm": "LEV.15.26"
+    },
+    {
+      "start": 273.76,
+      "end": 286.16,
+      "usfm": "LEV.15.27"
+    },
+    {
+      "start": 286.16,
+      "end": 296.24,
+      "usfm": "LEV.15.28"
+    },
+    {
+      "start": 296.24,
+      "end": 307.76,
+      "usfm": "LEV.15.29"
+    },
+    {
+      "start": 307.76,
+      "end": 318.56,
+      "usfm": "LEV.15.30"
+    },
+    {
+      "start": 318.56,
+      "end": 328.7,
+      "usfm": "LEV.15.31"
+    },
+    {
+      "start": 328.7,
+      "end": 337.02,
+      "usfm": "LEV.15.32"
+    },
+    {
+      "start": 337.02,
+      "end": 355.6,
+      "usfm": "LEV.15.33"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -307,8 +439,8 @@
       "text_en": "The stated purpose of separating from impurity is to protect the sanctuary located among the people. Impurity is presented as a concern for the whole community, not only for the individual."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

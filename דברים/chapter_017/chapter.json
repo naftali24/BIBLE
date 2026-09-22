@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 17,
   "title": "דברים פרק 17",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/17-835c0cb032ec93807bb76fe814463ca2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/17-be36b2e6f7f31d86943a828e974ff0e9.mp3?version_id=1",
   "english": [
     "Thou shalt not sacrifice unto the Lord thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the Lord thy God.",
     "If there be found among you, within any of thy gates which the Lord thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the Lord thy God, in transgressing his covenant,",
@@ -138,26 +138,106 @@
     }
   ],
   "times_en": [
-    3.68,
-    15.4,
-    26.84,
-    36.68,
-    48.04,
-    57.48,
-    67.48,
-    78.6,
-    92.6,
-    103.08,
-    111.52,
-    121.92,
-    135.74,
-    142.56,
-    155.14,
-    169.4,
-    182.4,
-    193.3,
-    204.72,
-    219.12
+    {
+      "start": 2.88,
+      "end": 15.26,
+      "usfm": "DEU.17.1"
+    },
+    {
+      "start": 15.26,
+      "end": 27.14,
+      "usfm": "DEU.17.2"
+    },
+    {
+      "start": 27.14,
+      "end": 36.24,
+      "usfm": "DEU.17.3"
+    },
+    {
+      "start": 36.24,
+      "end": 47.34,
+      "usfm": "DEU.17.4"
+    },
+    {
+      "start": 47.34,
+      "end": 58.62,
+      "usfm": "DEU.17.5"
+    },
+    {
+      "start": 58.62,
+      "end": 68.74,
+      "usfm": "DEU.17.6"
+    },
+    {
+      "start": 68.74,
+      "end": 79.22,
+      "usfm": "DEU.17.7"
+    },
+    {
+      "start": 79.22,
+      "end": 96.28,
+      "usfm": "DEU.17.8"
+    },
+    {
+      "start": 96.28,
+      "end": 106.48,
+      "usfm": "DEU.17.9"
+    },
+    {
+      "start": 106.48,
+      "end": 117.26,
+      "usfm": "DEU.17.10"
+    },
+    {
+      "start": 117.26,
+      "end": 132.3,
+      "usfm": "DEU.17.11"
+    },
+    {
+      "start": 132.3,
+      "end": 146.8,
+      "usfm": "DEU.17.12"
+    },
+    {
+      "start": 146.8,
+      "end": 152.56,
+      "usfm": "DEU.17.13"
+    },
+    {
+      "start": 152.56,
+      "end": 165.72,
+      "usfm": "DEU.17.14"
+    },
+    {
+      "start": 165.72,
+      "end": 179.86,
+      "usfm": "DEU.17.15"
+    },
+    {
+      "start": 179.86,
+      "end": 193.56,
+      "usfm": "DEU.17.16"
+    },
+    {
+      "start": 193.56,
+      "end": 201.94,
+      "usfm": "DEU.17.17"
+    },
+    {
+      "start": 201.94,
+      "end": 211.3,
+      "usfm": "DEU.17.18"
+    },
+    {
+      "start": 211.3,
+      "end": 222.52,
+      "usfm": "DEU.17.19"
+    },
+    {
+      "start": 222.52,
+      "end": 245.56,
+      "usfm": "DEU.17.20"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -204,8 +284,8 @@
       "text_en": "The verse gives the king a test of character: he must lead without feeling superior to his fellow citizens. This remains an important idea today—authority should not make a person arrogant."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 5,
   "title": "יהושע פרק 5",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/5-164954c7da34b412a25de6fabfd71774.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/5-f55c50d87a761eb1db15f7f04c80eef8.mp3?version_id=1",
   "english": [
     "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.",
     "At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.",
@@ -123,21 +123,81 @@
     }
   ],
   "times_en": [
-    3.24,
-    23.08,
-    31.32,
-    37.76,
-    50.68,
-    59.04,
-    80.32,
-    94.04,
-    100.18,
-    111.36,
-    120.48,
-    129.88,
-    143.44,
-    157.6,
-    171.34
+    {
+      "start": 2.88,
+      "end": 22.32,
+      "usfm": "JOS.5.1"
+    },
+    {
+      "start": 22.32,
+      "end": 31.18,
+      "usfm": "JOS.5.2"
+    },
+    {
+      "start": 31.18,
+      "end": 38.7,
+      "usfm": "JOS.5.3"
+    },
+    {
+      "start": 38.7,
+      "end": 50.3,
+      "usfm": "JOS.5.4"
+    },
+    {
+      "start": 50.3,
+      "end": 60.44,
+      "usfm": "JOS.5.5"
+    },
+    {
+      "start": 60.44,
+      "end": 79.26,
+      "usfm": "JOS.5.6"
+    },
+    {
+      "start": 79.26,
+      "end": 89.88,
+      "usfm": "JOS.5.7"
+    },
+    {
+      "start": 89.88,
+      "end": 97.68,
+      "usfm": "JOS.5.8"
+    },
+    {
+      "start": 97.68,
+      "end": 107.7,
+      "usfm": "JOS.5.9"
+    },
+    {
+      "start": 107.7,
+      "end": 115.94,
+      "usfm": "JOS.5.10"
+    },
+    {
+      "start": 115.94,
+      "end": 123.72,
+      "usfm": "JOS.5.11"
+    },
+    {
+      "start": 123.72,
+      "end": 134.86,
+      "usfm": "JOS.5.12"
+    },
+    {
+      "start": 134.86,
+      "end": 150.7,
+      "usfm": "JOS.5.13"
+    },
+    {
+      "start": 150.7,
+      "end": 164.8,
+      "usfm": "JOS.5.14"
+    },
+    {
+      "start": 164.8,
+      "end": 183.12,
+      "usfm": "JOS.5.15"
+    }
   ],
   "did_you_know": [
     {
@@ -171,8 +231,8 @@
       "text_en": "The title \"commander of the LORD's host\" is a subject of traditional debate: some read it as a warrior-angel, others interpret it as a theophany (an appearance of God)."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

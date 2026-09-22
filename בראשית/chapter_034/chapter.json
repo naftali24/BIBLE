@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 34,
   "title": "בראשית פרק 34",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/34-41cc9fc0db24a9877ab98ea1a245b52e.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/34-6bf363ee615b8849c9bfdddeb41d0b11.mp3?version_id=1",
   "english": [
     "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
     "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.",
@@ -189,37 +189,161 @@
     }
   ],
   "times_en": [
-    3.4,
-    10.0,
-    17.84,
-    24.72,
-    29.72,
-    40.3,
-    45.16,
-    59.62,
-    67.06,
-    72.82,
-    80.7,
-    87.84,
-    96.86,
-    105.16,
-    113.44,
-    121.12,
-    128.66,
-    134.14,
-    137.9,
-    148.3,
-    154.72,
-    167.1,
-    176.08,
-    186.42,
-    194.78,
-    207.6,
-    214.6,
-    222.16,
-    228.16,
-    235.32,
-    253.08
+    {
+      "start": 2.88,
+      "end": 10.78,
+      "usfm": "GEN.34.1"
+    },
+    {
+      "start": 10.78,
+      "end": 20.18,
+      "usfm": "GEN.34.2"
+    },
+    {
+      "start": 20.18,
+      "end": 29.4,
+      "usfm": "GEN.34.3"
+    },
+    {
+      "start": 29.4,
+      "end": 35.98,
+      "usfm": "GEN.34.4"
+    },
+    {
+      "start": 35.98,
+      "end": 45.52,
+      "usfm": "GEN.34.5"
+    },
+    {
+      "start": 45.52,
+      "end": 49.72,
+      "usfm": "GEN.34.6"
+    },
+    {
+      "start": 49.72,
+      "end": 62.86,
+      "usfm": "GEN.34.7"
+    },
+    {
+      "start": 62.86,
+      "end": 71.76,
+      "usfm": "GEN.34.8"
+    },
+    {
+      "start": 71.76,
+      "end": 78.66,
+      "usfm": "GEN.34.9"
+    },
+    {
+      "start": 78.66,
+      "end": 88.72,
+      "usfm": "GEN.34.10"
+    },
+    {
+      "start": 88.72,
+      "end": 97.38,
+      "usfm": "GEN.34.11"
+    },
+    {
+      "start": 97.38,
+      "end": 106.26,
+      "usfm": "GEN.34.12"
+    },
+    {
+      "start": 106.26,
+      "end": 113.46,
+      "usfm": "GEN.34.13"
+    },
+    {
+      "start": 113.46,
+      "end": 120.88,
+      "usfm": "GEN.34.14"
+    },
+    {
+      "start": 120.88,
+      "end": 129.66,
+      "usfm": "GEN.34.15"
+    },
+    {
+      "start": 129.66,
+      "end": 138.4,
+      "usfm": "GEN.34.16"
+    },
+    {
+      "start": 138.4,
+      "end": 146.02,
+      "usfm": "GEN.34.17"
+    },
+    {
+      "start": 146.02,
+      "end": 150.18,
+      "usfm": "GEN.34.18"
+    },
+    {
+      "start": 150.18,
+      "end": 158.28,
+      "usfm": "GEN.34.19"
+    },
+    {
+      "start": 158.28,
+      "end": 165.4,
+      "usfm": "GEN.34.20"
+    },
+    {
+      "start": 165.4,
+      "end": 180.24,
+      "usfm": "GEN.34.21"
+    },
+    {
+      "start": 180.24,
+      "end": 190.02,
+      "usfm": "GEN.34.22"
+    },
+    {
+      "start": 190.02,
+      "end": 199.58,
+      "usfm": "GEN.34.23"
+    },
+    {
+      "start": 199.58,
+      "end": 209.38,
+      "usfm": "GEN.34.24"
+    },
+    {
+      "start": 209.38,
+      "end": 223.52,
+      "usfm": "GEN.34.25"
+    },
+    {
+      "start": 223.52,
+      "end": 232.02,
+      "usfm": "GEN.34.26"
+    },
+    {
+      "start": 232.02,
+      "end": 237.5,
+      "usfm": "GEN.34.27"
+    },
+    {
+      "start": 237.5,
+      "end": 244.18,
+      "usfm": "GEN.34.28"
+    },
+    {
+      "start": 244.18,
+      "end": 251.24,
+      "usfm": "GEN.34.29"
+    },
+    {
+      "start": 251.24,
+      "end": 270.64,
+      "usfm": "GEN.34.30"
+    },
+    {
+      "start": 270.64,
+      "end": 283.96,
+      "usfm": "GEN.34.31"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -286,8 +410,8 @@
   ],
   "audio_start_offset": 2.37,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

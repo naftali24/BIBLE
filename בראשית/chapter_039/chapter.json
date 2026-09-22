@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 39,
   "title": "בראשית פרק 39",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/39-da9fa02347d9211483e9cd92ecabcdd3.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/39-eddac7a9f21a1858b484ef3626be6af3.mp3?version_id=1",
   "english": [
     "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.",
     "And the Lord was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.",
@@ -138,29 +138,121 @@
     }
   ],
   "times_en": [
-    3.24,
-    15.3,
-    23.2,
-    28.08,
-    37.96,
-    52.28,
-    62.88,
-    69.34,
-    81.44,
-    94.52,
-    102.12,
-    109.74,
-    118.68,
-    123.68,
-    134.9,
-    140.4,
-    145.64,
-    151.7,
-    157.28,
-    164.74,
-    173.54,
-    180.48,
-    187.64
+    {
+      "start": 2.88,
+      "end": 13.94,
+      "usfm": "GEN.39.1"
+    },
+    {
+      "start": 13.94,
+      "end": 20.46,
+      "usfm": "GEN.39.2"
+    },
+    {
+      "start": 20.46,
+      "end": 26.16,
+      "usfm": "GEN.39.3"
+    },
+    {
+      "start": 26.16,
+      "end": 35.66,
+      "usfm": "GEN.39.4"
+    },
+    {
+      "start": 35.66,
+      "end": 50.7,
+      "usfm": "GEN.39.5"
+    },
+    {
+      "start": 50.7,
+      "end": 61.46,
+      "usfm": "GEN.39.6"
+    },
+    {
+      "start": 61.46,
+      "end": 68.98,
+      "usfm": "GEN.39.7"
+    },
+    {
+      "start": 68.98,
+      "end": 79.64,
+      "usfm": "GEN.39.8"
+    },
+    {
+      "start": 79.64,
+      "end": 91.2,
+      "usfm": "GEN.39.9"
+    },
+    {
+      "start": 91.2,
+      "end": 100.3,
+      "usfm": "GEN.39.10"
+    },
+    {
+      "start": 100.3,
+      "end": 110.56,
+      "usfm": "GEN.39.11"
+    },
+    {
+      "start": 110.56,
+      "end": 119.56,
+      "usfm": "GEN.39.12"
+    },
+    {
+      "start": 119.56,
+      "end": 125.76,
+      "usfm": "GEN.39.13"
+    },
+    {
+      "start": 125.76,
+      "end": 137.44,
+      "usfm": "GEN.39.14"
+    },
+    {
+      "start": 137.44,
+      "end": 145.2,
+      "usfm": "GEN.39.15"
+    },
+    {
+      "start": 145.2,
+      "end": 149.74,
+      "usfm": "GEN.39.16"
+    },
+    {
+      "start": 149.74,
+      "end": 157.7,
+      "usfm": "GEN.39.17"
+    },
+    {
+      "start": 157.7,
+      "end": 165.0,
+      "usfm": "GEN.39.18"
+    },
+    {
+      "start": 165.0,
+      "end": 176.1,
+      "usfm": "GEN.39.19"
+    },
+    {
+      "start": 176.1,
+      "end": 185.06,
+      "usfm": "GEN.39.20"
+    },
+    {
+      "start": 185.06,
+      "end": 192.18,
+      "usfm": "GEN.39.21"
+    },
+    {
+      "start": 192.18,
+      "end": 202.62,
+      "usfm": "GEN.39.22"
+    },
+    {
+      "start": 202.62,
+      "end": 219.6,
+      "usfm": "GEN.39.23"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -215,8 +307,8 @@
   ],
   "audio_start_offset": 2.12,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

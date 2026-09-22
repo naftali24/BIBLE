@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 6,
   "title": "דברים פרק 6",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/6-d2886f339bdf971d8f2ea0466f90ba6d.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/6-7e0c2e983c825894ef9afa3f9a1ae6ad.mp3?version_id=1",
   "english": [
     "Now these are the commandments, the statutes, and the judgments, which the Lord your God commanded to teach you, that ye might do them in the land whither ye go to possess it:",
     "That thou mightest fear the Lord thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged.",
@@ -162,31 +162,131 @@
     }
   ],
   "times_en": [
-    3.38,
-    15.8,
-    30.26,
-    44.86,
-    50.96,
-    58.42,
-    63.3,
-    75.44,
-    80.6,
-    85.24,
-    98.36,
-    112.14,
-    119.8,
-    126.32,
-    131.44,
-    144.6,
-    149.62,
-    157.74,
-    170.54,
-    175.4,
-    185.34,
-    194.92,
-    203.98,
-    211.34,
-    223.96
+    {
+      "start": 2.88,
+      "end": 12.24,
+      "usfm": "DEU.6.1"
+    },
+    {
+      "start": 12.24,
+      "end": 26.12,
+      "usfm": "DEU.6.2"
+    },
+    {
+      "start": 26.12,
+      "end": 38.18,
+      "usfm": "DEU.6.3"
+    },
+    {
+      "start": 38.18,
+      "end": 43.0,
+      "usfm": "DEU.6.4"
+    },
+    {
+      "start": 43.0,
+      "end": 48.74,
+      "usfm": "DEU.6.5"
+    },
+    {
+      "start": 48.74,
+      "end": 53.46,
+      "usfm": "DEU.6.6"
+    },
+    {
+      "start": 53.46,
+      "end": 66.02,
+      "usfm": "DEU.6.7"
+    },
+    {
+      "start": 66.02,
+      "end": 72.58,
+      "usfm": "DEU.6.8"
+    },
+    {
+      "start": 72.58,
+      "end": 77.12,
+      "usfm": "DEU.6.9"
+    },
+    {
+      "start": 77.12,
+      "end": 88.64,
+      "usfm": "DEU.6.10"
+    },
+    {
+      "start": 88.64,
+      "end": 101.82,
+      "usfm": "DEU.6.11"
+    },
+    {
+      "start": 101.82,
+      "end": 108.12,
+      "usfm": "DEU.6.12"
+    },
+    {
+      "start": 108.12,
+      "end": 113.88,
+      "usfm": "DEU.6.13"
+    },
+    {
+      "start": 113.88,
+      "end": 119.3,
+      "usfm": "DEU.6.14"
+    },
+    {
+      "start": 119.3,
+      "end": 128.3,
+      "usfm": "DEU.6.15"
+    },
+    {
+      "start": 128.3,
+      "end": 132.92,
+      "usfm": "DEU.6.16"
+    },
+    {
+      "start": 132.92,
+      "end": 139.96,
+      "usfm": "DEU.6.17"
+    },
+    {
+      "start": 139.96,
+      "end": 149.46,
+      "usfm": "DEU.6.18"
+    },
+    {
+      "start": 149.46,
+      "end": 154.52,
+      "usfm": "DEU.6.19"
+    },
+    {
+      "start": 154.52,
+      "end": 163.6,
+      "usfm": "DEU.6.20"
+    },
+    {
+      "start": 163.6,
+      "end": 172.12,
+      "usfm": "DEU.6.21"
+    },
+    {
+      "start": 172.12,
+      "end": 179.12,
+      "usfm": "DEU.6.22"
+    },
+    {
+      "start": 179.12,
+      "end": 185.82,
+      "usfm": "DEU.6.23"
+    },
+    {
+      "start": 185.82,
+      "end": 195.16,
+      "usfm": "DEU.6.24"
+    },
+    {
+      "start": 195.16,
+      "end": 208.0,
+      "usfm": "DEU.6.25"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -239,8 +339,8 @@
       "text_en": "The name “Massah” is connected with the Hebrew root meaning “to test” or “to try.” According to Exodus, the place received this name after the people quarreled over the lack of water and tested God."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

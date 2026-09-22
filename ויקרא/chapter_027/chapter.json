@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 27,
   "title": "ויקרא פרק 27",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/27-7419a82038389a4358cc37c494dc861c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/27-47c322406f103d6b211a0d1db6df896c.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation.",
@@ -234,40 +234,176 @@
     }
   ],
   "times_en": [
-    3.46,
-    6.26,
-    14.2,
-    25.04,
-    29.88,
-    40.46,
-    52.2,
-    61.8,
-    73.64,
-    81.72,
-    94.1,
-    103.94,
-    110.96,
-    117.22,
-    129.68,
-    138.0,
-    151.48,
-    158.04,
-    170.72,
-    180.2,
-    188.24,
-    197.72,
-    204.62,
-    215.18,
-    222.6,
-    229.22,
-    240.24,
-    253.48,
-    267.52,
-    273.82,
-    283.72,
-    289.36,
-    297.24,
-    311.4
+    {
+      "start": 2.88,
+      "end": 5.34,
+      "usfm": "LEV.27.1"
+    },
+    {
+      "start": 5.34,
+      "end": 15.16,
+      "usfm": "LEV.27.2"
+    },
+    {
+      "start": 15.16,
+      "end": 25.5,
+      "usfm": "LEV.27.3"
+    },
+    {
+      "start": 25.5,
+      "end": 30.38,
+      "usfm": "LEV.27.4"
+    },
+    {
+      "start": 30.38,
+      "end": 39.34,
+      "usfm": "LEV.27.5"
+    },
+    {
+      "start": 39.34,
+      "end": 51.3,
+      "usfm": "LEV.27.6"
+    },
+    {
+      "start": 51.3,
+      "end": 61.86,
+      "usfm": "LEV.27.7"
+    },
+    {
+      "start": 61.86,
+      "end": 73.48,
+      "usfm": "LEV.27.8"
+    },
+    {
+      "start": 73.48,
+      "end": 81.88,
+      "usfm": "LEV.27.9"
+    },
+    {
+      "start": 81.88,
+      "end": 93.98,
+      "usfm": "LEV.27.10"
+    },
+    {
+      "start": 93.98,
+      "end": 102.44,
+      "usfm": "LEV.27.11"
+    },
+    {
+      "start": 102.44,
+      "end": 109.74,
+      "usfm": "LEV.27.12"
+    },
+    {
+      "start": 109.74,
+      "end": 116.24,
+      "usfm": "LEV.27.13"
+    },
+    {
+      "start": 116.24,
+      "end": 126.82,
+      "usfm": "LEV.27.14"
+    },
+    {
+      "start": 126.82,
+      "end": 135.82,
+      "usfm": "LEV.27.15"
+    },
+    {
+      "start": 135.82,
+      "end": 147.88,
+      "usfm": "LEV.27.16"
+    },
+    {
+      "start": 147.88,
+      "end": 153.28,
+      "usfm": "LEV.27.17"
+    },
+    {
+      "start": 153.28,
+      "end": 166.2,
+      "usfm": "LEV.27.18"
+    },
+    {
+      "start": 166.2,
+      "end": 178.14,
+      "usfm": "LEV.27.19"
+    },
+    {
+      "start": 178.14,
+      "end": 185.4,
+      "usfm": "LEV.27.20"
+    },
+    {
+      "start": 185.4,
+      "end": 194.62,
+      "usfm": "LEV.27.21"
+    },
+    {
+      "start": 194.62,
+      "end": 200.6,
+      "usfm": "LEV.27.22"
+    },
+    {
+      "start": 200.6,
+      "end": 211.36,
+      "usfm": "LEV.27.23"
+    },
+    {
+      "start": 211.36,
+      "end": 220.42,
+      "usfm": "LEV.27.24"
+    },
+    {
+      "start": 220.42,
+      "end": 226.72,
+      "usfm": "LEV.27.25"
+    },
+    {
+      "start": 226.72,
+      "end": 236.46,
+      "usfm": "LEV.27.26"
+    },
+    {
+      "start": 236.46,
+      "end": 249.74,
+      "usfm": "LEV.27.27"
+    },
+    {
+      "start": 249.74,
+      "end": 265.24,
+      "usfm": "LEV.27.28"
+    },
+    {
+      "start": 265.24,
+      "end": 272.22,
+      "usfm": "LEV.27.29"
+    },
+    {
+      "start": 272.22,
+      "end": 281.72,
+      "usfm": "LEV.27.30"
+    },
+    {
+      "start": 281.72,
+      "end": 287.98,
+      "usfm": "LEV.27.31"
+    },
+    {
+      "start": 287.98,
+      "end": 296.38,
+      "usfm": "LEV.27.32"
+    },
+    {
+      "start": 296.38,
+      "end": 308.56,
+      "usfm": "LEV.27.33"
+    },
+    {
+      "start": 308.56,
+      "end": 322.6,
+      "usfm": "LEV.27.34"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -338,8 +474,8 @@
       "text_en": "The tithe of cattle and sheep was counted as the herd passed one by one under a staff, and every tenth animal was dedicated. This prevented people from deliberately choosing which animals would be given."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 2,
   "title": "בראשית פרק 2",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/2-1af967edd865366d7ce21d6a768957d4.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/2-e7404531a3e84e887f8d3b86ce7bcba1.mp3?version_id=1",
   "english": [
     "Thus the heavens and the earth were finished, and all the host of them.",
     "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
@@ -164,31 +164,131 @@
     }
   ],
   "times_en": [
-    3.14,
-    8.24,
-    16.54,
-    26.4,
-    33.8,
-    47.42,
-    52.78,
-    62.78,
-    69.62,
-    83.68,
-    91.06,
-    97.86,
-    103.52,
-    109.44,
-    119.56,
-    126.2,
-    131.4,
-    139.9,
-    148.32,
-    163.68,
-    174.24,
-    184.58,
-    191.56,
-    203.26,
-    212.1
+    {
+      "start": 2.88,
+      "end": 7.42,
+      "usfm": "GEN.2.1"
+    },
+    {
+      "start": 7.42,
+      "end": 15.68,
+      "usfm": "GEN.2.2"
+    },
+    {
+      "start": 15.68,
+      "end": 27.84,
+      "usfm": "GEN.2.3"
+    },
+    {
+      "start": 27.84,
+      "end": 36.22,
+      "usfm": "GEN.2.4"
+    },
+    {
+      "start": 36.22,
+      "end": 47.7,
+      "usfm": "GEN.2.5"
+    },
+    {
+      "start": 47.7,
+      "end": 52.78,
+      "usfm": "GEN.2.6"
+    },
+    {
+      "start": 52.78,
+      "end": 66.6,
+      "usfm": "GEN.2.7"
+    },
+    {
+      "start": 66.6,
+      "end": 73.18,
+      "usfm": "GEN.2.8"
+    },
+    {
+      "start": 73.18,
+      "end": 89.62,
+      "usfm": "GEN.2.9"
+    },
+    {
+      "start": 89.62,
+      "end": 96.86,
+      "usfm": "GEN.2.10"
+    },
+    {
+      "start": 96.86,
+      "end": 103.78,
+      "usfm": "GEN.2.11"
+    },
+    {
+      "start": 103.78,
+      "end": 109.06,
+      "usfm": "GEN.2.12"
+    },
+    {
+      "start": 109.06,
+      "end": 115.02,
+      "usfm": "GEN.2.13"
+    },
+    {
+      "start": 115.02,
+      "end": 124.66,
+      "usfm": "GEN.2.14"
+    },
+    {
+      "start": 124.66,
+      "end": 131.82,
+      "usfm": "GEN.2.15"
+    },
+    {
+      "start": 131.82,
+      "end": 139.56,
+      "usfm": "GEN.2.16"
+    },
+    {
+      "start": 139.56,
+      "end": 151.96,
+      "usfm": "GEN.2.17"
+    },
+    {
+      "start": 151.96,
+      "end": 161.58,
+      "usfm": "GEN.2.18"
+    },
+    {
+      "start": 161.58,
+      "end": 175.04,
+      "usfm": "GEN.2.19"
+    },
+    {
+      "start": 175.04,
+      "end": 186.68,
+      "usfm": "GEN.2.20"
+    },
+    {
+      "start": 186.68,
+      "end": 197.52,
+      "usfm": "GEN.2.21"
+    },
+    {
+      "start": 197.52,
+      "end": 205.24,
+      "usfm": "GEN.2.22"
+    },
+    {
+      "start": 205.24,
+      "end": 221.94,
+      "usfm": "GEN.2.23"
+    },
+    {
+      "start": 221.94,
+      "end": 230.9,
+      "usfm": "GEN.2.24"
+    },
+    {
+      "start": 230.9,
+      "end": 245.84,
+      "usfm": "GEN.2.25"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -243,8 +343,8 @@
   ],
   "audio_start_offset": 0.85,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

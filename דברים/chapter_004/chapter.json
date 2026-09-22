@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 4,
   "title": "דברים פרק 4",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/4-416b6f127fa6d0a53bde6b19fd24240e.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/4-f73b40cd6c088cef0b21c42207d8ed6e.mp3?version_id=1",
   "english": [
     "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the Lord God of your fathers giveth you.",
     "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the Lord your God which I command you.",
@@ -360,55 +360,251 @@
     }
   ],
   "times_en": [
-    3.22,
-    17.1,
-    27.46,
-    36.04,
-    43.92,
-    56.16,
-    71.0,
-    80.76,
-    89.8,
-    105.28,
-    122.6,
-    131.94,
-    141.3,
-    151.2,
-    160.82,
-    168.8,
-    178.24,
-    183.28,
-    189.06,
-    203.94,
-    214.7,
-    227.8,
-    238.42,
-    249.6,
-    254.92,
-    269.8,
-    285.06,
-    294.72,
-    303.6,
-    312.72,
-    323.08,
-    334.74,
-    350.8,
-    357.52,
-    376.68,
-    384.36,
-    394.6,
-    403.42,
-    415.44,
-    425.66,
-    440.4,
-    445.48,
-    457.08,
-    469.54,
-    473.62,
-    481.6,
-    495.86,
-    505.82,
-    512.9
+    {
+      "start": 2.88,
+      "end": 16.9,
+      "usfm": "DEU.4.1"
+    },
+    {
+      "start": 16.9,
+      "end": 27.0,
+      "usfm": "DEU.4.2"
+    },
+    {
+      "start": 27.0,
+      "end": 37.34,
+      "usfm": "DEU.4.3"
+    },
+    {
+      "start": 37.34,
+      "end": 42.18,
+      "usfm": "DEU.4.4"
+    },
+    {
+      "start": 42.18,
+      "end": 52.68,
+      "usfm": "DEU.4.5"
+    },
+    {
+      "start": 52.68,
+      "end": 66.28,
+      "usfm": "DEU.4.6"
+    },
+    {
+      "start": 66.28,
+      "end": 74.94,
+      "usfm": "DEU.4.7"
+    },
+    {
+      "start": 74.94,
+      "end": 84.24,
+      "usfm": "DEU.4.8"
+    },
+    {
+      "start": 84.24,
+      "end": 100.36,
+      "usfm": "DEU.4.9"
+    },
+    {
+      "start": 100.36,
+      "end": 117.54,
+      "usfm": "DEU.4.10"
+    },
+    {
+      "start": 117.54,
+      "end": 127.04,
+      "usfm": "DEU.4.11"
+    },
+    {
+      "start": 127.04,
+      "end": 138.88,
+      "usfm": "DEU.4.12"
+    },
+    {
+      "start": 138.88,
+      "end": 148.04,
+      "usfm": "DEU.4.13"
+    },
+    {
+      "start": 148.04,
+      "end": 156.82,
+      "usfm": "DEU.4.14"
+    },
+    {
+      "start": 156.82,
+      "end": 166.66,
+      "usfm": "DEU.4.15"
+    },
+    {
+      "start": 166.66,
+      "end": 175.32,
+      "usfm": "DEU.4.16"
+    },
+    {
+      "start": 175.32,
+      "end": 181.28,
+      "usfm": "DEU.4.17"
+    },
+    {
+      "start": 181.28,
+      "end": 188.04,
+      "usfm": "DEU.4.18"
+    },
+    {
+      "start": 188.04,
+      "end": 205.36,
+      "usfm": "DEU.4.19"
+    },
+    {
+      "start": 205.36,
+      "end": 216.5,
+      "usfm": "DEU.4.20"
+    },
+    {
+      "start": 216.5,
+      "end": 228.72,
+      "usfm": "DEU.4.21"
+    },
+    {
+      "start": 228.72,
+      "end": 236.32,
+      "usfm": "DEU.4.22"
+    },
+    {
+      "start": 236.32,
+      "end": 249.5,
+      "usfm": "DEU.4.23"
+    },
+    {
+      "start": 249.5,
+      "end": 254.8,
+      "usfm": "DEU.4.24"
+    },
+    {
+      "start": 254.8,
+      "end": 271.26,
+      "usfm": "DEU.4.25"
+    },
+    {
+      "start": 271.26,
+      "end": 286.86,
+      "usfm": "DEU.4.26"
+    },
+    {
+      "start": 286.86,
+      "end": 294.76,
+      "usfm": "DEU.4.27"
+    },
+    {
+      "start": 294.76,
+      "end": 303.74,
+      "usfm": "DEU.4.28"
+    },
+    {
+      "start": 303.74,
+      "end": 313.18,
+      "usfm": "DEU.4.29"
+    },
+    {
+      "start": 313.18,
+      "end": 325.22,
+      "usfm": "DEU.4.30"
+    },
+    {
+      "start": 325.22,
+      "end": 335.52,
+      "usfm": "DEU.4.31"
+    },
+    {
+      "start": 335.52,
+      "end": 350.62,
+      "usfm": "DEU.4.32"
+    },
+    {
+      "start": 350.62,
+      "end": 356.86,
+      "usfm": "DEU.4.33"
+    },
+    {
+      "start": 356.86,
+      "end": 374.66,
+      "usfm": "DEU.4.34"
+    },
+    {
+      "start": 374.66,
+      "end": 381.9,
+      "usfm": "DEU.4.35"
+    },
+    {
+      "start": 381.9,
+      "end": 393.08,
+      "usfm": "DEU.4.36"
+    },
+    {
+      "start": 393.08,
+      "end": 401.82,
+      "usfm": "DEU.4.37"
+    },
+    {
+      "start": 401.82,
+      "end": 412.7,
+      "usfm": "DEU.4.38"
+    },
+    {
+      "start": 412.7,
+      "end": 423.6,
+      "usfm": "DEU.4.39"
+    },
+    {
+      "start": 423.6,
+      "end": 440.8,
+      "usfm": "DEU.4.40"
+    },
+    {
+      "start": 440.8,
+      "end": 446.34,
+      "usfm": "DEU.4.41"
+    },
+    {
+      "start": 446.34,
+      "end": 456.94,
+      "usfm": "DEU.4.42"
+    },
+    {
+      "start": 456.94,
+      "end": 467.36,
+      "usfm": "DEU.4.43"
+    },
+    {
+      "start": 467.36,
+      "end": 471.06,
+      "usfm": "DEU.4.44"
+    },
+    {
+      "start": 471.06,
+      "end": 480.06,
+      "usfm": "DEU.4.45"
+    },
+    {
+      "start": 480.06,
+      "end": 493.86,
+      "usfm": "DEU.4.46"
+    },
+    {
+      "start": 493.86,
+      "end": 503.26,
+      "usfm": "DEU.4.47"
+    },
+    {
+      "start": 503.26,
+      "end": 509.7,
+      "usfm": "DEU.4.48"
+    },
+    {
+      "start": 509.7,
+      "end": 526.88,
+      "usfm": "DEU.4.49"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -509,8 +705,8 @@
       "text_en": "Mount Hermon is one of the highest mountains in the Levant, and its snow helps supply springs and streams in the surrounding region."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 11,
   "title": "ויקרא פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/11-01f846f651ad851e12f8e228fad89b71.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/11-27991d6bfd753ea6813c915c248e82da.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and to Aaron, saying unto them,",
     "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.",
@@ -291,53 +291,241 @@
     }
   ],
   "times_en": [
-    3.34,
-    7.76,
-    13.22,
-    19.16,
-    32.22,
-    39.26,
-    46.44,
-    54.6,
-    60.22,
-    68.92,
-    80.4,
-    87.2,
-    92.86,
-    104.28,
-    107.1,
-    109.12,
-    113.4,
-    116.8,
-    120.44,
-    125.3,
-    130.24,
-    140.64,
-    146.76,
-    151.76,
-    158.42,
-    165.62,
-    176.12,
-    185.8,
-    194.84,
-    203.68,
-    208.98,
-    218.96,
-    236.52,
-    243.94,
-    252.78,
-    266.16,
-    275.06,
-    279.96,
-    286.42,
-    293.28,
-    304.9,
-    310.74,
-    321.46,
-    328.58,
-    342.18,
-    352.48,
-    360.96
+    {
+      "start": 2.88,
+      "end": 6.26,
+      "usfm": "LEV.11.1"
+    },
+    {
+      "start": 6.26,
+      "end": 13.44,
+      "usfm": "LEV.11.2"
+    },
+    {
+      "start": 13.44,
+      "end": 21.38,
+      "usfm": "LEV.11.3"
+    },
+    {
+      "start": 21.38,
+      "end": 33.02,
+      "usfm": "LEV.11.4"
+    },
+    {
+      "start": 33.02,
+      "end": 38.56,
+      "usfm": "LEV.11.5"
+    },
+    {
+      "start": 38.56,
+      "end": 44.92,
+      "usfm": "LEV.11.6"
+    },
+    {
+      "start": 44.92,
+      "end": 52.52,
+      "usfm": "LEV.11.7"
+    },
+    {
+      "start": 52.52,
+      "end": 59.88,
+      "usfm": "LEV.11.8"
+    },
+    {
+      "start": 59.88,
+      "end": 69.22,
+      "usfm": "LEV.11.9"
+    },
+    {
+      "start": 69.22,
+      "end": 79.48,
+      "usfm": "LEV.11.10"
+    },
+    {
+      "start": 79.48,
+      "end": 88.22,
+      "usfm": "LEV.11.11"
+    },
+    {
+      "start": 88.22,
+      "end": 94.2,
+      "usfm": "LEV.11.12"
+    },
+    {
+      "start": 94.2,
+      "end": 105.24,
+      "usfm": "LEV.11.13"
+    },
+    {
+      "start": 105.24,
+      "end": 108.22,
+      "usfm": "LEV.11.14"
+    },
+    {
+      "start": 108.22,
+      "end": 110.32,
+      "usfm": "LEV.11.15"
+    },
+    {
+      "start": 110.32,
+      "end": 114.96,
+      "usfm": "LEV.11.16"
+    },
+    {
+      "start": 114.96,
+      "end": 118.74,
+      "usfm": "LEV.11.17"
+    },
+    {
+      "start": 118.74,
+      "end": 122.42,
+      "usfm": "LEV.11.18"
+    },
+    {
+      "start": 122.42,
+      "end": 127.68,
+      "usfm": "LEV.11.19"
+    },
+    {
+      "start": 127.68,
+      "end": 133.16,
+      "usfm": "LEV.11.20"
+    },
+    {
+      "start": 133.16,
+      "end": 141.42,
+      "usfm": "LEV.11.21"
+    },
+    {
+      "start": 141.42,
+      "end": 153.58,
+      "usfm": "LEV.11.22"
+    },
+    {
+      "start": 153.58,
+      "end": 158.44,
+      "usfm": "LEV.11.23"
+    },
+    {
+      "start": 158.44,
+      "end": 166.1,
+      "usfm": "LEV.11.24"
+    },
+    {
+      "start": 166.1,
+      "end": 172.88,
+      "usfm": "LEV.11.25"
+    },
+    {
+      "start": 172.88,
+      "end": 184.12,
+      "usfm": "LEV.11.26"
+    },
+    {
+      "start": 184.12,
+      "end": 196.92,
+      "usfm": "LEV.11.27"
+    },
+    {
+      "start": 196.92,
+      "end": 204.96,
+      "usfm": "LEV.11.28"
+    },
+    {
+      "start": 204.96,
+      "end": 214.4,
+      "usfm": "LEV.11.29"
+    },
+    {
+      "start": 214.4,
+      "end": 219.44,
+      "usfm": "LEV.11.30"
+    },
+    {
+      "start": 219.44,
+      "end": 227.08,
+      "usfm": "LEV.11.31"
+    },
+    {
+      "start": 227.08,
+      "end": 245.86,
+      "usfm": "LEV.11.32"
+    },
+    {
+      "start": 245.86,
+      "end": 253.1,
+      "usfm": "LEV.11.33"
+    },
+    {
+      "start": 253.1,
+      "end": 263.06,
+      "usfm": "LEV.11.34"
+    },
+    {
+      "start": 263.06,
+      "end": 276.64,
+      "usfm": "LEV.11.35"
+    },
+    {
+      "start": 276.64,
+      "end": 286.0,
+      "usfm": "LEV.11.36"
+    },
+    {
+      "start": 286.0,
+      "end": 292.6,
+      "usfm": "LEV.11.37"
+    },
+    {
+      "start": 292.6,
+      "end": 300.32,
+      "usfm": "LEV.11.38"
+    },
+    {
+      "start": 300.32,
+      "end": 308.06,
+      "usfm": "LEV.11.39"
+    },
+    {
+      "start": 308.06,
+      "end": 319.18,
+      "usfm": "LEV.11.40"
+    },
+    {
+      "start": 319.18,
+      "end": 325.22,
+      "usfm": "LEV.11.41"
+    },
+    {
+      "start": 325.22,
+      "end": 338.14,
+      "usfm": "LEV.11.42"
+    },
+    {
+      "start": 338.14,
+      "end": 348.82,
+      "usfm": "LEV.11.43"
+    },
+    {
+      "start": 348.82,
+      "end": 362.54,
+      "usfm": "LEV.11.44"
+    },
+    {
+      "start": 362.54,
+      "end": 371.82,
+      "usfm": "LEV.11.45"
+    },
+    {
+      "start": 371.82,
+      "end": 382.24,
+      "usfm": "LEV.11.46"
+    },
+    {
+      "start": 382.24,
+      "end": 397.84,
+      "usfm": "LEV.11.47"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -438,8 +626,8 @@
       "text_en": "The chapter presents the dietary laws as part of a call to holiness, not merely as rules of health or hygiene. The stated reason is to be holy, in relation to God’s holiness."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 13,
   "title": "שמות פרק 13",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/13-2a0bbaba5098ac8b5dab3b2724f838fa.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/13-43b4be2463c44969a8cfcc503d4cb636.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.",
@@ -153,28 +153,116 @@
     }
   ],
   "times_en": [
-    3.24,
-    5.8,
-    16.3,
-    30.26,
-    34.08,
-    49.54,
-    57.12,
-    67.8,
-    75.9,
-    88.46,
-    94.2,
-    101.36,
-    110.5,
-    121.9,
-    133.76,
-    153.08,
-    162.08,
-    176.38,
-    186.02,
-    200.66,
-    205.6,
-    217.14
+    {
+      "start": 2.88,
+      "end": 5.76,
+      "usfm": "EXO.13.1"
+    },
+    {
+      "start": 5.76,
+      "end": 15.08,
+      "usfm": "EXO.13.2"
+    },
+    {
+      "start": 15.08,
+      "end": 29.92,
+      "usfm": "EXO.13.3"
+    },
+    {
+      "start": 29.92,
+      "end": 33.5,
+      "usfm": "EXO.13.4"
+    },
+    {
+      "start": 33.5,
+      "end": 49.96,
+      "usfm": "EXO.13.5"
+    },
+    {
+      "start": 49.96,
+      "end": 57.28,
+      "usfm": "EXO.13.6"
+    },
+    {
+      "start": 57.28,
+      "end": 67.84,
+      "usfm": "EXO.13.7"
+    },
+    {
+      "start": 67.84,
+      "end": 78.0,
+      "usfm": "EXO.13.8"
+    },
+    {
+      "start": 78.0,
+      "end": 91.6,
+      "usfm": "EXO.13.9"
+    },
+    {
+      "start": 91.6,
+      "end": 98.02,
+      "usfm": "EXO.13.10"
+    },
+    {
+      "start": 98.02,
+      "end": 106.34,
+      "usfm": "EXO.13.11"
+    },
+    {
+      "start": 106.34,
+      "end": 117.54,
+      "usfm": "EXO.13.12"
+    },
+    {
+      "start": 117.54,
+      "end": 133.0,
+      "usfm": "EXO.13.13"
+    },
+    {
+      "start": 133.0,
+      "end": 146.9,
+      "usfm": "EXO.13.14"
+    },
+    {
+      "start": 146.9,
+      "end": 169.9,
+      "usfm": "EXO.13.15"
+    },
+    {
+      "start": 169.9,
+      "end": 180.62,
+      "usfm": "EXO.13.16"
+    },
+    {
+      "start": 180.62,
+      "end": 196.84,
+      "usfm": "EXO.13.17"
+    },
+    {
+      "start": 196.84,
+      "end": 206.12,
+      "usfm": "EXO.13.18"
+    },
+    {
+      "start": 206.12,
+      "end": 217.92,
+      "usfm": "EXO.13.19"
+    },
+    {
+      "start": 217.92,
+      "end": 223.98,
+      "usfm": "EXO.13.20"
+    },
+    {
+      "start": 223.98,
+      "end": 235.88,
+      "usfm": "EXO.13.21"
+    },
+    {
+      "start": 235.88,
+      "end": 248.64,
+      "usfm": "EXO.13.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -221,8 +309,8 @@
       "text_en": "Joseph had made the Israelites swear that they would carry his bones with them when they left Egypt, and Moses fulfills that oath here. The story thus connects Joseph’s generation with the Exodus."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 26,
   "title": "דברים פרק 26",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/26-ddd66dfb378c08b674378989e5b0c115.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/26-16f2ce8d6a519abb61ffabb4d278d0d3.mp3?version_id=1",
   "english": [
     "And it shall be, when thou art come in unto the land which the Lord thy God giveth thee for an inheritance, and possessest it, and dwellest therein;",
     "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the Lord thy God giveth thee, and shalt put it in a basket, and shalt go unto the place which the Lord thy God shall choose to place his name there.",
@@ -135,25 +135,101 @@
     }
   ],
   "times_en": [
-    5.08,
-    12.96,
-    27.76,
-    40.38,
-    47.84,
-    62.64,
-    68.24,
-    77.64,
-    87.2,
-    94.36,
-    106.42,
-    118.32,
-    135.04,
-    154.88,
-    172.08,
-    185.48,
-    197.44,
-    210.14,
-    220.24
+    {
+      "start": 2.88,
+      "end": 12.82,
+      "usfm": "DEU.26.1"
+    },
+    {
+      "start": 12.82,
+      "end": 27.14,
+      "usfm": "DEU.26.2"
+    },
+    {
+      "start": 27.14,
+      "end": 41.28,
+      "usfm": "DEU.26.3"
+    },
+    {
+      "start": 41.28,
+      "end": 47.76,
+      "usfm": "DEU.26.4"
+    },
+    {
+      "start": 47.76,
+      "end": 62.02,
+      "usfm": "DEU.26.5"
+    },
+    {
+      "start": 62.02,
+      "end": 68.5,
+      "usfm": "DEU.26.6"
+    },
+    {
+      "start": 68.5,
+      "end": 77.86,
+      "usfm": "DEU.26.7"
+    },
+    {
+      "start": 77.86,
+      "end": 87.66,
+      "usfm": "DEU.26.8"
+    },
+    {
+      "start": 87.66,
+      "end": 94.5,
+      "usfm": "DEU.26.9"
+    },
+    {
+      "start": 94.5,
+      "end": 105.74,
+      "usfm": "DEU.26.10"
+    },
+    {
+      "start": 105.74,
+      "end": 116.78,
+      "usfm": "DEU.26.11"
+    },
+    {
+      "start": 116.78,
+      "end": 132.44,
+      "usfm": "DEU.26.12"
+    },
+    {
+      "start": 132.44,
+      "end": 153.1,
+      "usfm": "DEU.26.13"
+    },
+    {
+      "start": 153.1,
+      "end": 168.66,
+      "usfm": "DEU.26.14"
+    },
+    {
+      "start": 168.66,
+      "end": 182.4,
+      "usfm": "DEU.26.15"
+    },
+    {
+      "start": 182.4,
+      "end": 191.56,
+      "usfm": "DEU.26.16"
+    },
+    {
+      "start": 191.56,
+      "end": 202.28,
+      "usfm": "DEU.26.17"
+    },
+    {
+      "start": 202.28,
+      "end": 210.8,
+      "usfm": "DEU.26.18"
+    },
+    {
+      "start": 210.8,
+      "end": 229.6,
+      "usfm": "DEU.26.19"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -194,8 +270,8 @@
       "text_en": "In Biblical Hebrew, segulah means a treasured possession or special treasure, not magical power. This special status is presented together with the responsibility to be a holy people and keep the commandments."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 4,
   "title": "יהושע פרק 4",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/4-3a1c61e5af846c8adb3dda213d6839b2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/4-eea30f3464065e72ff3a09df3475f511.mp3?version_id=1",
   "english": [
     "And it came to pass, when all the people were clean passed over Jordan, that the Lord spake unto Joshua, saying,",
     "Take you twelve men out of the people, out of every tribe a man,",
@@ -159,30 +159,126 @@
     }
   ],
   "times_en": [
-    3.16,
-    9.18,
-    13.8,
-    26.68,
-    32.58,
-    45.64,
-    53.2,
-    68.0,
-    85.48,
-    97.16,
-    112.28,
-    119.72,
-    129.36,
-    137.48,
-    147.48,
-    150.06,
-    155.48,
-    160.02,
-    174.9,
-    184.4,
-    190.54,
-    199.4,
-    204.1,
-    217.8
+    {
+      "start": 2.88,
+      "end": 9.54,
+      "usfm": "JOS.4.1"
+    },
+    {
+      "start": 9.54,
+      "end": 13.58,
+      "usfm": "JOS.4.2"
+    },
+    {
+      "start": 13.58,
+      "end": 27.96,
+      "usfm": "JOS.4.3"
+    },
+    {
+      "start": 27.96,
+      "end": 33.9,
+      "usfm": "JOS.4.4"
+    },
+    {
+      "start": 33.9,
+      "end": 46.78,
+      "usfm": "JOS.4.5"
+    },
+    {
+      "start": 46.78,
+      "end": 54.86,
+      "usfm": "JOS.4.6"
+    },
+    {
+      "start": 54.86,
+      "end": 68.72,
+      "usfm": "JOS.4.7"
+    },
+    {
+      "start": 68.72,
+      "end": 85.52,
+      "usfm": "JOS.4.8"
+    },
+    {
+      "start": 85.52,
+      "end": 95.24,
+      "usfm": "JOS.4.9"
+    },
+    {
+      "start": 95.24,
+      "end": 108.38,
+      "usfm": "JOS.4.10"
+    },
+    {
+      "start": 108.38,
+      "end": 116.96,
+      "usfm": "JOS.4.11"
+    },
+    {
+      "start": 116.96,
+      "end": 127.14,
+      "usfm": "JOS.4.12"
+    },
+    {
+      "start": 127.14,
+      "end": 133.52,
+      "usfm": "JOS.4.13"
+    },
+    {
+      "start": 133.52,
+      "end": 141.86,
+      "usfm": "JOS.4.14"
+    },
+    {
+      "start": 141.86,
+      "end": 144.68,
+      "usfm": "JOS.4.15"
+    },
+    {
+      "start": 144.68,
+      "end": 150.0,
+      "usfm": "JOS.4.16"
+    },
+    {
+      "start": 150.0,
+      "end": 154.76,
+      "usfm": "JOS.4.17"
+    },
+    {
+      "start": 154.76,
+      "end": 174.64,
+      "usfm": "JOS.4.18"
+    },
+    {
+      "start": 174.64,
+      "end": 183.46,
+      "usfm": "JOS.4.19"
+    },
+    {
+      "start": 183.46,
+      "end": 188.6,
+      "usfm": "JOS.4.20"
+    },
+    {
+      "start": 188.6,
+      "end": 196.92,
+      "usfm": "JOS.4.21"
+    },
+    {
+      "start": 196.92,
+      "end": 202.68,
+      "usfm": "JOS.4.22"
+    },
+    {
+      "start": 202.68,
+      "end": 213.98,
+      "usfm": "JOS.4.23"
+    },
+    {
+      "start": 213.98,
+      "end": 228.84,
+      "usfm": "JOS.4.24"
+    }
   ],
   "did_you_know": [
     {
@@ -234,8 +330,8 @@
       "text_en": "Linking the drying of the Jordan with the Red Sea establishes a pattern: two water openings that emphasize a continuity of God's acts to deliver the people."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

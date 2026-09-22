@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 29,
   "title": "בראשית פרק 29",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/29-0bdc846940b53dd1198a467a3ed98ee2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/29-b04c183535574a3217386206c9f23228.mp3?version_id=1",
   "english": [
     "Then Jacob went on his journey, and came into the land of the people of the east.",
     "And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well's mouth.",
@@ -228,41 +228,181 @@
     }
   ],
   "times_en": [
-    3.36,
-    8.54,
-    19.62,
-    31.54,
-    38.22,
-    44.48,
-    51.62,
-    60.76,
-    70.12,
-    76.58,
-    87.4,
-    90.92,
-    97.8,
-    109.76,
-    117.04,
-    124.3,
-    131.24,
-    135.68,
-    142.44,
-    148.1,
-    155.22,
-    162.86,
-    167.42,
-    174.7,
-    180.24,
-    190.6,
-    197.36,
-    204.16,
-    212.26,
-    217.98,
-    227.4,
-    233.66,
-    244.9,
-    257.14,
-    270.58
+    {
+      "start": 2.88,
+      "end": 8.7,
+      "usfm": "GEN.29.1"
+    },
+    {
+      "start": 8.7,
+      "end": 20.32,
+      "usfm": "GEN.29.2"
+    },
+    {
+      "start": 20.32,
+      "end": 31.78,
+      "usfm": "GEN.29.3"
+    },
+    {
+      "start": 31.78,
+      "end": 38.9,
+      "usfm": "GEN.29.4"
+    },
+    {
+      "start": 38.9,
+      "end": 45.32,
+      "usfm": "GEN.29.5"
+    },
+    {
+      "start": 45.32,
+      "end": 54.22,
+      "usfm": "GEN.29.6"
+    },
+    {
+      "start": 54.22,
+      "end": 63.22,
+      "usfm": "GEN.29.7"
+    },
+    {
+      "start": 63.22,
+      "end": 71.84,
+      "usfm": "GEN.29.8"
+    },
+    {
+      "start": 71.84,
+      "end": 77.72,
+      "usfm": "GEN.29.9"
+    },
+    {
+      "start": 77.72,
+      "end": 92.14,
+      "usfm": "GEN.29.10"
+    },
+    {
+      "start": 92.14,
+      "end": 96.72,
+      "usfm": "GEN.29.11"
+    },
+    {
+      "start": 96.72,
+      "end": 107.64,
+      "usfm": "GEN.29.12"
+    },
+    {
+      "start": 107.64,
+      "end": 118.48,
+      "usfm": "GEN.29.13"
+    },
+    {
+      "start": 118.48,
+      "end": 127.48,
+      "usfm": "GEN.29.14"
+    },
+    {
+      "start": 127.48,
+      "end": 137.48,
+      "usfm": "GEN.29.15"
+    },
+    {
+      "start": 137.48,
+      "end": 143.06,
+      "usfm": "GEN.29.16"
+    },
+    {
+      "start": 143.06,
+      "end": 148.22,
+      "usfm": "GEN.29.17"
+    },
+    {
+      "start": 148.22,
+      "end": 154.86,
+      "usfm": "GEN.29.18"
+    },
+    {
+      "start": 154.86,
+      "end": 162.34,
+      "usfm": "GEN.29.19"
+    },
+    {
+      "start": 162.34,
+      "end": 171.96,
+      "usfm": "GEN.29.20"
+    },
+    {
+      "start": 171.96,
+      "end": 179.24,
+      "usfm": "GEN.29.21"
+    },
+    {
+      "start": 179.24,
+      "end": 183.7,
+      "usfm": "GEN.29.22"
+    },
+    {
+      "start": 183.7,
+      "end": 194.04,
+      "usfm": "GEN.29.23"
+    },
+    {
+      "start": 194.04,
+      "end": 198.88,
+      "usfm": "GEN.29.24"
+    },
+    {
+      "start": 198.88,
+      "end": 214.48,
+      "usfm": "GEN.29.25"
+    },
+    {
+      "start": 214.48,
+      "end": 221.72,
+      "usfm": "GEN.29.26"
+    },
+    {
+      "start": 221.72,
+      "end": 232.48,
+      "usfm": "GEN.29.27"
+    },
+    {
+      "start": 232.48,
+      "end": 240.02,
+      "usfm": "GEN.29.28"
+    },
+    {
+      "start": 240.02,
+      "end": 245.02,
+      "usfm": "GEN.29.29"
+    },
+    {
+      "start": 245.02,
+      "end": 254.28,
+      "usfm": "GEN.29.30"
+    },
+    {
+      "start": 254.28,
+      "end": 261.16,
+      "usfm": "GEN.29.31"
+    },
+    {
+      "start": 261.16,
+      "end": 272.16,
+      "usfm": "GEN.29.32"
+    },
+    {
+      "start": 272.16,
+      "end": 284.58,
+      "usfm": "GEN.29.33"
+    },
+    {
+      "start": 284.58,
+      "end": 299.06,
+      "usfm": "GEN.29.34"
+    },
+    {
+      "start": 299.06,
+      "end": 319.52,
+      "usfm": "GEN.29.35"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -341,8 +481,8 @@
   ],
   "audio_start_offset": 1.81,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

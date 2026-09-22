@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 22,
   "title": "בראשית פרק 22",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/22-a0d80275948ccd8036406daebd561007.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/22-09fdd60f95822517e17757fc46960121.mp3?version_id=1",
   "english": [
     "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
     "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.",
@@ -186,30 +186,126 @@
     }
   ],
   "times_en": [
-    3.34,
-    12.64,
-    26.86,
-    42.0,
-    47.64,
-    57.14,
-    70.48,
-    84.86,
-    94.68,
-    107.28,
-    112.82,
-    121.96,
-    134.7,
-    147.92,
-    158.0,
-    162.54,
-    171.42,
-    183.48,
-    191.64,
-    200.88,
-    208.44,
-    213.54,
-    218.8,
-    226.36
+    {
+      "start": 2.88,
+      "end": 15.12,
+      "usfm": "GEN.22.1"
+    },
+    {
+      "start": 15.12,
+      "end": 32.56,
+      "usfm": "GEN.22.2"
+    },
+    {
+      "start": 32.56,
+      "end": 49.8,
+      "usfm": "GEN.22.3"
+    },
+    {
+      "start": 49.8,
+      "end": 55.76,
+      "usfm": "GEN.22.4"
+    },
+    {
+      "start": 55.76,
+      "end": 66.94,
+      "usfm": "GEN.22.5"
+    },
+    {
+      "start": 66.94,
+      "end": 78.48,
+      "usfm": "GEN.22.6"
+    },
+    {
+      "start": 78.48,
+      "end": 95.34,
+      "usfm": "GEN.22.7"
+    },
+    {
+      "start": 95.34,
+      "end": 107.82,
+      "usfm": "GEN.22.8"
+    },
+    {
+      "start": 107.82,
+      "end": 119.98,
+      "usfm": "GEN.22.9"
+    },
+    {
+      "start": 119.98,
+      "end": 125.42,
+      "usfm": "GEN.22.10"
+    },
+    {
+      "start": 125.42,
+      "end": 132.84,
+      "usfm": "GEN.22.11"
+    },
+    {
+      "start": 132.84,
+      "end": 152.44,
+      "usfm": "GEN.22.12"
+    },
+    {
+      "start": 152.44,
+      "end": 168.74,
+      "usfm": "GEN.22.13"
+    },
+    {
+      "start": 168.74,
+      "end": 183.22,
+      "usfm": "GEN.22.14"
+    },
+    {
+      "start": 183.22,
+      "end": 187.6,
+      "usfm": "GEN.22.15"
+    },
+    {
+      "start": 187.6,
+      "end": 198.28,
+      "usfm": "GEN.22.16"
+    },
+    {
+      "start": 198.28,
+      "end": 211.4,
+      "usfm": "GEN.22.17"
+    },
+    {
+      "start": 211.4,
+      "end": 220.56,
+      "usfm": "GEN.22.18"
+    },
+    {
+      "start": 220.56,
+      "end": 231.24,
+      "usfm": "GEN.22.19"
+    },
+    {
+      "start": 231.24,
+      "end": 241.74,
+      "usfm": "GEN.22.20"
+    },
+    {
+      "start": 241.74,
+      "end": 247.38,
+      "usfm": "GEN.22.21"
+    },
+    {
+      "start": 247.38,
+      "end": 253.86,
+      "usfm": "GEN.22.22"
+    },
+    {
+      "start": 253.86,
+      "end": 261.18,
+      "usfm": "GEN.22.23"
+    },
+    {
+      "start": 261.18,
+      "end": 277.52,
+      "usfm": "GEN.22.24"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -264,8 +360,8 @@
   ],
   "audio_start_offset": 1.76,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

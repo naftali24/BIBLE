@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 12,
   "title": "שמות פרק 12",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/12-79b68b041af6b74f450e025e05dddaef.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/12-954d46a79f8dec51e758c9815a5f220d.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and Aaron in the land of Egypt saying,",
     "This month shall be unto you the beginning of months: it shall be the first month of the year to you.",
@@ -294,57 +294,261 @@
     }
   ],
   "times_en": [
-    3.16,
-    7.64,
-    13.56,
-    23.28,
-    33.52,
-    40.76,
-    49.64,
-    57.66,
-    65.32,
-    75.44,
-    82.92,
-    95.52,
-    111.18,
-    125.48,
-    135.32,
-    149.96,
-    163.78,
-    177.88,
-    185.92,
-    200.28,
-    205.92,
-    216.8,
-    228.76,
-    243.58,
-    249.44,
-    255.44,
-    259.6,
-    274.9,
-    280.36,
-    295.84,
-    308.14,
-    319.26,
-    327.16,
-    336.5,
-    344.06,
-    352.1,
-    361.64,
-    369.9,
-    377.76,
-    391.52,
-    397.2,
-    404.5,
-    416.86,
-    424.76,
-    429.8,
-    434.78,
-    443.92,
-    447.8,
-    464.88,
-    470.24,
-    476.6
+    {
+      "start": 2.88,
+      "end": 7.82,
+      "usfm": "EXO.12.1"
+    },
+    {
+      "start": 7.82,
+      "end": 13.74,
+      "usfm": "EXO.12.2"
+    },
+    {
+      "start": 13.74,
+      "end": 25.64,
+      "usfm": "EXO.12.3"
+    },
+    {
+      "start": 25.64,
+      "end": 37.24,
+      "usfm": "EXO.12.4"
+    },
+    {
+      "start": 37.24,
+      "end": 44.28,
+      "usfm": "EXO.12.5"
+    },
+    {
+      "start": 44.28,
+      "end": 52.86,
+      "usfm": "EXO.12.6"
+    },
+    {
+      "start": 52.86,
+      "end": 60.76,
+      "usfm": "EXO.12.7"
+    },
+    {
+      "start": 60.76,
+      "end": 67.94,
+      "usfm": "EXO.12.8"
+    },
+    {
+      "start": 67.94,
+      "end": 77.08,
+      "usfm": "EXO.12.9"
+    },
+    {
+      "start": 77.08,
+      "end": 84.32,
+      "usfm": "EXO.12.10"
+    },
+    {
+      "start": 84.32,
+      "end": 96.08,
+      "usfm": "EXO.12.11"
+    },
+    {
+      "start": 96.08,
+      "end": 109.24,
+      "usfm": "EXO.12.12"
+    },
+    {
+      "start": 109.24,
+      "end": 124.12,
+      "usfm": "EXO.12.13"
+    },
+    {
+      "start": 124.12,
+      "end": 135.82,
+      "usfm": "EXO.12.14"
+    },
+    {
+      "start": 135.82,
+      "end": 150.38,
+      "usfm": "EXO.12.15"
+    },
+    {
+      "start": 150.38,
+      "end": 164.96,
+      "usfm": "EXO.12.16"
+    },
+    {
+      "start": 164.96,
+      "end": 178.06,
+      "usfm": "EXO.12.17"
+    },
+    {
+      "start": 178.06,
+      "end": 187.5,
+      "usfm": "EXO.12.18"
+    },
+    {
+      "start": 187.5,
+      "end": 201.6,
+      "usfm": "EXO.12.19"
+    },
+    {
+      "start": 201.6,
+      "end": 208.76,
+      "usfm": "EXO.12.20"
+    },
+    {
+      "start": 208.76,
+      "end": 219.26,
+      "usfm": "EXO.12.21"
+    },
+    {
+      "start": 219.26,
+      "end": 233.28,
+      "usfm": "EXO.12.22"
+    },
+    {
+      "start": 233.28,
+      "end": 248.7,
+      "usfm": "EXO.12.23"
+    },
+    {
+      "start": 248.7,
+      "end": 254.7,
+      "usfm": "EXO.12.24"
+    },
+    {
+      "start": 254.7,
+      "end": 263.9,
+      "usfm": "EXO.12.25"
+    },
+    {
+      "start": 263.9,
+      "end": 269.86,
+      "usfm": "EXO.12.26"
+    },
+    {
+      "start": 269.86,
+      "end": 286.72,
+      "usfm": "EXO.12.27"
+    },
+    {
+      "start": 286.72,
+      "end": 294.96,
+      "usfm": "EXO.12.28"
+    },
+    {
+      "start": 294.96,
+      "end": 310.78,
+      "usfm": "EXO.12.29"
+    },
+    {
+      "start": 310.78,
+      "end": 321.96,
+      "usfm": "EXO.12.30"
+    },
+    {
+      "start": 321.96,
+      "end": 333.1,
+      "usfm": "EXO.12.31"
+    },
+    {
+      "start": 333.1,
+      "end": 340.26,
+      "usfm": "EXO.12.32"
+    },
+    {
+      "start": 340.26,
+      "end": 349.1,
+      "usfm": "EXO.12.33"
+    },
+    {
+      "start": 349.1,
+      "end": 356.16,
+      "usfm": "EXO.12.34"
+    },
+    {
+      "start": 356.16,
+      "end": 365.02,
+      "usfm": "EXO.12.35"
+    },
+    {
+      "start": 365.02,
+      "end": 375.02,
+      "usfm": "EXO.12.36"
+    },
+    {
+      "start": 375.02,
+      "end": 383.72,
+      "usfm": "EXO.12.37"
+    },
+    {
+      "start": 383.72,
+      "end": 389.72,
+      "usfm": "EXO.12.38"
+    },
+    {
+      "start": 389.72,
+      "end": 402.02,
+      "usfm": "EXO.12.39"
+    },
+    {
+      "start": 402.02,
+      "end": 408.94,
+      "usfm": "EXO.12.40"
+    },
+    {
+      "start": 408.94,
+      "end": 419.22,
+      "usfm": "EXO.12.41"
+    },
+    {
+      "start": 419.22,
+      "end": 430.84,
+      "usfm": "EXO.12.42"
+    },
+    {
+      "start": 430.84,
+      "end": 438.62,
+      "usfm": "EXO.12.43"
+    },
+    {
+      "start": 438.62,
+      "end": 446.24,
+      "usfm": "EXO.12.44"
+    },
+    {
+      "start": 446.24,
+      "end": 450.28,
+      "usfm": "EXO.12.45"
+    },
+    {
+      "start": 450.28,
+      "end": 459.5,
+      "usfm": "EXO.12.46"
+    },
+    {
+      "start": 459.5,
+      "end": 462.78,
+      "usfm": "EXO.12.47"
+    },
+    {
+      "start": 462.78,
+      "end": 481.6,
+      "usfm": "EXO.12.48"
+    },
+    {
+      "start": 481.6,
+      "end": 487.58,
+      "usfm": "EXO.12.49"
+    },
+    {
+      "start": 487.58,
+      "end": 494.16,
+      "usfm": "EXO.12.50"
+    },
+    {
+      "start": 494.16,
+      "end": 511.44,
+      "usfm": "EXO.12.51"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -451,8 +655,8 @@
       "text_en": "In the Bible, the word “ger” usually means a foreign resident living within Israelite society. Here such a person may join Passover, but must accept the covenantal condition stated in the verse."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

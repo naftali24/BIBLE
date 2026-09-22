@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 5,
   "title": "בראשית פרק 5",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/5-c86c3a7c3d7e848c939a34ae3f0fdc22.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/5-d161e992cff27bc7baf2287c48fec3ba.mp3?version_id=1",
   "english": [
     "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
     "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
@@ -201,38 +201,166 @@
     }
   ],
   "times_en": [
-    3.24,
-    12.36,
-    21.64,
-    31.34,
-    39.68,
-    45.06,
-    50.62,
-    58.94,
-    65.48,
-    70.32,
-    78.78,
-    85.54,
-    91.22,
-    99.54,
-    105.76,
-    111.18,
-    119.88,
-    126.86,
-    132.68,
-    140.44,
-    146.94,
-    152.58,
-    161.66,
-    166.1,
-    173.96,
-    180.18,
-    189.22,
-    196.4,
-    201.28,
-    211.22,
-    220.0,
-    227.08
+    {
+      "start": 2.88,
+      "end": 12.4,
+      "usfm": "GEN.5.1"
+    },
+    {
+      "start": 12.4,
+      "end": 20.74,
+      "usfm": "GEN.5.2"
+    },
+    {
+      "start": 20.74,
+      "end": 29.0,
+      "usfm": "GEN.5.3"
+    },
+    {
+      "start": 29.0,
+      "end": 35.18,
+      "usfm": "GEN.5.4"
+    },
+    {
+      "start": 35.18,
+      "end": 40.56,
+      "usfm": "GEN.5.5"
+    },
+    {
+      "start": 40.56,
+      "end": 44.48,
+      "usfm": "GEN.5.6"
+    },
+    {
+      "start": 44.48,
+      "end": 49.78,
+      "usfm": "GEN.5.7"
+    },
+    {
+      "start": 49.78,
+      "end": 54.56,
+      "usfm": "GEN.5.8"
+    },
+    {
+      "start": 54.56,
+      "end": 58.18,
+      "usfm": "GEN.5.9"
+    },
+    {
+      "start": 58.18,
+      "end": 64.46,
+      "usfm": "GEN.5.10"
+    },
+    {
+      "start": 64.46,
+      "end": 70.08,
+      "usfm": "GEN.5.11"
+    },
+    {
+      "start": 70.08,
+      "end": 74.1,
+      "usfm": "GEN.5.12"
+    },
+    {
+      "start": 74.1,
+      "end": 79.96,
+      "usfm": "GEN.5.13"
+    },
+    {
+      "start": 79.96,
+      "end": 84.9,
+      "usfm": "GEN.5.14"
+    },
+    {
+      "start": 84.9,
+      "end": 88.9,
+      "usfm": "GEN.5.15"
+    },
+    {
+      "start": 88.9,
+      "end": 95.64,
+      "usfm": "GEN.5.16"
+    },
+    {
+      "start": 95.64,
+      "end": 101.32,
+      "usfm": "GEN.5.17"
+    },
+    {
+      "start": 101.32,
+      "end": 106.14,
+      "usfm": "GEN.5.18"
+    },
+    {
+      "start": 106.14,
+      "end": 111.48,
+      "usfm": "GEN.5.19"
+    },
+    {
+      "start": 111.48,
+      "end": 117.5,
+      "usfm": "GEN.5.20"
+    },
+    {
+      "start": 117.5,
+      "end": 121.34,
+      "usfm": "GEN.5.21"
+    },
+    {
+      "start": 121.34,
+      "end": 127.44,
+      "usfm": "GEN.5.22"
+    },
+    {
+      "start": 127.44,
+      "end": 131.36,
+      "usfm": "GEN.5.23"
+    },
+    {
+      "start": 131.36,
+      "end": 137.66,
+      "usfm": "GEN.5.24"
+    },
+    {
+      "start": 137.66,
+      "end": 143.32,
+      "usfm": "GEN.5.25"
+    },
+    {
+      "start": 143.32,
+      "end": 150.3,
+      "usfm": "GEN.5.26"
+    },
+    {
+      "start": 150.3,
+      "end": 157.24,
+      "usfm": "GEN.5.27"
+    },
+    {
+      "start": 157.24,
+      "end": 161.36,
+      "usfm": "GEN.5.28"
+    },
+    {
+      "start": 161.36,
+      "end": 173.36,
+      "usfm": "GEN.5.29"
+    },
+    {
+      "start": 173.36,
+      "end": 180.12,
+      "usfm": "GEN.5.30"
+    },
+    {
+      "start": 180.12,
+      "end": 186.24,
+      "usfm": "GEN.5.31"
+    },
+    {
+      "start": 186.24,
+      "end": 199.6,
+      "usfm": "GEN.5.32"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -305,8 +433,8 @@
   ],
   "audio_start_offset": 2.57,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

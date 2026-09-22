@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 14,
   "title": "במדבר פרק 14",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/14-e7afd3f5716608d92797d5237182e35b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/14-e452243866bb3b3182b7a83a8128e015.mp3?version_id=1",
   "english": [
     "And all the congregation lifted up their voice, and cried; and the people wept that night.",
     "And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!",
@@ -222,51 +222,231 @@
     }
   ],
   "times_en": [
-    3.48,
-    10.8,
-    23.18,
-    34.6,
-    39.72,
-    45.82,
-    54.16,
-    61.9,
-    70.36,
-    84.94,
-    95.06,
-    107.64,
-    115.42,
-    123.0,
-    144.08,
-    149.58,
-    157.62,
-    164.1,
-    180.54,
-    191.78,
-    195.96,
-    202.5,
-    213.34,
-    222.44,
-    233.7,
-    243.44,
-    246.26,
-    254.66,
-    263.1,
-    274.46,
-    283.66,
-    292.32,
-    296.6,
-    307.34,
-    319.32,
-    334.16,
-    344.78,
-    351.82,
-    360.56,
-    366.92,
-    378.3,
-    384.86,
-    391.34,
-    402.1,
-    410.5
+    {
+      "start": 2.88,
+      "end": 7.92,
+      "usfm": "NUM.14.1"
+    },
+    {
+      "start": 7.92,
+      "end": 22.1,
+      "usfm": "NUM.14.2"
+    },
+    {
+      "start": 22.1,
+      "end": 33.46,
+      "usfm": "NUM.14.3"
+    },
+    {
+      "start": 33.46,
+      "end": 40.5,
+      "usfm": "NUM.14.4"
+    },
+    {
+      "start": 40.5,
+      "end": 46.1,
+      "usfm": "NUM.14.5"
+    },
+    {
+      "start": 46.1,
+      "end": 54.84,
+      "usfm": "NUM.14.6"
+    },
+    {
+      "start": 54.84,
+      "end": 64.44,
+      "usfm": "NUM.14.7"
+    },
+    {
+      "start": 64.44,
+      "end": 72.92,
+      "usfm": "NUM.14.8"
+    },
+    {
+      "start": 72.92,
+      "end": 85.66,
+      "usfm": "NUM.14.9"
+    },
+    {
+      "start": 85.66,
+      "end": 94.56,
+      "usfm": "NUM.14.10"
+    },
+    {
+      "start": 94.56,
+      "end": 105.12,
+      "usfm": "NUM.14.11"
+    },
+    {
+      "start": 105.12,
+      "end": 113.32,
+      "usfm": "NUM.14.12"
+    },
+    {
+      "start": 113.32,
+      "end": 121.38,
+      "usfm": "NUM.14.13"
+    },
+    {
+      "start": 121.38,
+      "end": 140.12,
+      "usfm": "NUM.14.14"
+    },
+    {
+      "start": 140.12,
+      "end": 148.0,
+      "usfm": "NUM.14.15"
+    },
+    {
+      "start": 148.0,
+      "end": 155.5,
+      "usfm": "NUM.14.16"
+    },
+    {
+      "start": 155.5,
+      "end": 162.22,
+      "usfm": "NUM.14.17"
+    },
+    {
+      "start": 162.22,
+      "end": 176.16,
+      "usfm": "NUM.14.18"
+    },
+    {
+      "start": 176.16,
+      "end": 186.78,
+      "usfm": "NUM.14.19"
+    },
+    {
+      "start": 186.78,
+      "end": 191.7,
+      "usfm": "NUM.14.20"
+    },
+    {
+      "start": 191.7,
+      "end": 197.3,
+      "usfm": "NUM.14.21"
+    },
+    {
+      "start": 197.3,
+      "end": 209.84,
+      "usfm": "NUM.14.22"
+    },
+    {
+      "start": 209.84,
+      "end": 218.12,
+      "usfm": "NUM.14.23"
+    },
+    {
+      "start": 218.12,
+      "end": 230.18,
+      "usfm": "NUM.14.24"
+    },
+    {
+      "start": 230.18,
+      "end": 240.6,
+      "usfm": "NUM.14.25"
+    },
+    {
+      "start": 240.6,
+      "end": 244.66,
+      "usfm": "NUM.14.26"
+    },
+    {
+      "start": 244.66,
+      "end": 254.62,
+      "usfm": "NUM.14.27"
+    },
+    {
+      "start": 254.62,
+      "end": 262.36,
+      "usfm": "NUM.14.28"
+    },
+    {
+      "start": 262.36,
+      "end": 273.64,
+      "usfm": "NUM.14.29"
+    },
+    {
+      "start": 273.64,
+      "end": 285.28,
+      "usfm": "NUM.14.30"
+    },
+    {
+      "start": 285.28,
+      "end": 294.7,
+      "usfm": "NUM.14.31"
+    },
+    {
+      "start": 294.7,
+      "end": 300.2,
+      "usfm": "NUM.14.32"
+    },
+    {
+      "start": 300.2,
+      "end": 309.14,
+      "usfm": "NUM.14.33"
+    },
+    {
+      "start": 309.14,
+      "end": 323.64,
+      "usfm": "NUM.14.34"
+    },
+    {
+      "start": 323.64,
+      "end": 338.78,
+      "usfm": "NUM.14.35"
+    },
+    {
+      "start": 338.78,
+      "end": 349.64,
+      "usfm": "NUM.14.36"
+    },
+    {
+      "start": 349.64,
+      "end": 357.12,
+      "usfm": "NUM.14.37"
+    },
+    {
+      "start": 357.12,
+      "end": 366.98,
+      "usfm": "NUM.14.38"
+    },
+    {
+      "start": 366.98,
+      "end": 373.84,
+      "usfm": "NUM.14.39"
+    },
+    {
+      "start": 373.84,
+      "end": 387.22,
+      "usfm": "NUM.14.40"
+    },
+    {
+      "start": 387.22,
+      "end": 396.08,
+      "usfm": "NUM.14.41"
+    },
+    {
+      "start": 396.08,
+      "end": 403.1,
+      "usfm": "NUM.14.42"
+    },
+    {
+      "start": 403.1,
+      "end": 415.26,
+      "usfm": "NUM.14.43"
+    },
+    {
+      "start": 415.26,
+      "end": 425.42,
+      "usfm": "NUM.14.44"
+    },
+    {
+      "start": 425.42,
+      "end": 444.08,
+      "usfm": "NUM.14.45"
+    }
   ],
   "did_you_know": [
     {
@@ -360,8 +540,8 @@
       "text_en": "Did you know? The Ark of the Covenant and Moses did not go to battle with the people who decided to ascend the mountain, symbolizing that God was not with them in this reckless initiative."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

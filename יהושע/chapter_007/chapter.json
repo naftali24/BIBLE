@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 7,
   "title": "יהושע פרק 7",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/7-a97284867dec0d5dd41e5cf783892157.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/7-00a0e208d4c24e74fefcc1d874c8b736.mp3?version_id=1",
   "english": [
     "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.",
     "And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.",
@@ -156,32 +156,136 @@
     }
   ],
   "times_en": [
-    3.06,
-    22.92,
-    36.66,
-    52.64,
-    58.06,
-    72.52,
-    84.6,
-    99.92,
-    106.8,
-    118.8,
-    125.2,
-    141.8,
-    161.76,
-    180.86,
-    201.48,
-    215.32,
-    225.04,
-    236.92,
-    250.28,
-    264.44,
-    273.0,
-    291.92,
-    300.36,
-    309.0,
-    326.92,
-    341.54
+    {
+      "start": 2.88,
+      "end": 16.82,
+      "usfm": "JOS.7.1"
+    },
+    {
+      "start": 16.82,
+      "end": 29.46,
+      "usfm": "JOS.7.2"
+    },
+    {
+      "start": 29.46,
+      "end": 42.16,
+      "usfm": "JOS.7.3"
+    },
+    {
+      "start": 42.16,
+      "end": 48.68,
+      "usfm": "JOS.7.4"
+    },
+    {
+      "start": 48.68,
+      "end": 62.08,
+      "usfm": "JOS.7.5"
+    },
+    {
+      "start": 62.08,
+      "end": 72.34,
+      "usfm": "JOS.7.6"
+    },
+    {
+      "start": 72.34,
+      "end": 85.98,
+      "usfm": "JOS.7.7"
+    },
+    {
+      "start": 85.98,
+      "end": 90.26,
+      "usfm": "JOS.7.8"
+    },
+    {
+      "start": 90.26,
+      "end": 99.64,
+      "usfm": "JOS.7.9"
+    },
+    {
+      "start": 99.64,
+      "end": 105.6,
+      "usfm": "JOS.7.10"
+    },
+    {
+      "start": 105.6,
+      "end": 118.98,
+      "usfm": "JOS.7.11"
+    },
+    {
+      "start": 118.98,
+      "end": 130.92,
+      "usfm": "JOS.7.12"
+    },
+    {
+      "start": 130.92,
+      "end": 147.2,
+      "usfm": "JOS.7.13"
+    },
+    {
+      "start": 147.2,
+      "end": 165.32,
+      "usfm": "JOS.7.14"
+    },
+    {
+      "start": 165.32,
+      "end": 177.96,
+      "usfm": "JOS.7.15"
+    },
+    {
+      "start": 177.96,
+      "end": 184.76,
+      "usfm": "JOS.7.16"
+    },
+    {
+      "start": 184.76,
+      "end": 193.92,
+      "usfm": "JOS.7.17"
+    },
+    {
+      "start": 193.92,
+      "end": 203.34,
+      "usfm": "JOS.7.18"
+    },
+    {
+      "start": 203.34,
+      "end": 216.18,
+      "usfm": "JOS.7.19"
+    },
+    {
+      "start": 216.18,
+      "end": 225.84,
+      "usfm": "JOS.7.20"
+    },
+    {
+      "start": 225.84,
+      "end": 242.64,
+      "usfm": "JOS.7.21"
+    },
+    {
+      "start": 242.64,
+      "end": 249.84,
+      "usfm": "JOS.7.22"
+    },
+    {
+      "start": 249.84,
+      "end": 258.76,
+      "usfm": "JOS.7.23"
+    },
+    {
+      "start": 258.76,
+      "end": 277.04,
+      "usfm": "JOS.7.24"
+    },
+    {
+      "start": 277.04,
+      "end": 290.26,
+      "usfm": "JOS.7.25"
+    },
+    {
+      "start": 290.26,
+      "end": 311.08,
+      "usfm": "JOS.7.26"
+    }
   ],
   "did_you_know": [
     {
@@ -239,8 +343,8 @@
       "text_en": "The 'Valley of Achor' is named in an etiology that links the place to Achan's act — a biblical way of connecting a name to a moral event."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 21,
   "title": "בראשית פרק 21",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/21-6db8003f2018c0e141f6c9efabf428ce.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/21-6250ba4806f604314f198ddc5d531a9d.mp3?version_id=1",
   "english": [
     "And the Lord visited Sarah as he had said, and the Lord did unto Sarah as he had spoken.",
     "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.",
@@ -225,40 +225,176 @@
     }
   ],
   "times_en": [
-    3.28,
-    10.64,
-    18.6,
-    22.86,
-    29.72,
-    34.64,
-    41.92,
-    50.42,
-    57.56,
-    63.92,
-    74.28,
-    80.22,
-    91.52,
-    97.4,
-    110.7,
-    115.62,
-    128.72,
-    141.42,
-    147.72,
-    156.72,
-    163.3,
-    169.44,
-    177.52,
-    191.88,
-    195.28,
-    201.28,
-    209.28,
-    216.4,
-    220.28,
-    224.98,
-    232.34,
-    238.44,
-    248.1,
-    255.98
+    {
+      "start": 2.88,
+      "end": 10.38,
+      "usfm": "GEN.21.1"
+    },
+    {
+      "start": 10.38,
+      "end": 18.08,
+      "usfm": "GEN.21.2"
+    },
+    {
+      "start": 18.08,
+      "end": 23.84,
+      "usfm": "GEN.21.3"
+    },
+    {
+      "start": 23.84,
+      "end": 29.46,
+      "usfm": "GEN.21.4"
+    },
+    {
+      "start": 29.46,
+      "end": 34.1,
+      "usfm": "GEN.21.5"
+    },
+    {
+      "start": 34.1,
+      "end": 41.98,
+      "usfm": "GEN.21.6"
+    },
+    {
+      "start": 41.98,
+      "end": 52.32,
+      "usfm": "GEN.21.7"
+    },
+    {
+      "start": 52.32,
+      "end": 60.06,
+      "usfm": "GEN.21.8"
+    },
+    {
+      "start": 60.06,
+      "end": 66.3,
+      "usfm": "GEN.21.9"
+    },
+    {
+      "start": 66.3,
+      "end": 77.28,
+      "usfm": "GEN.21.10"
+    },
+    {
+      "start": 77.28,
+      "end": 81.9,
+      "usfm": "GEN.21.11"
+    },
+    {
+      "start": 81.9,
+      "end": 97.74,
+      "usfm": "GEN.21.12"
+    },
+    {
+      "start": 97.74,
+      "end": 104.02,
+      "usfm": "GEN.21.13"
+    },
+    {
+      "start": 104.02,
+      "end": 118.88,
+      "usfm": "GEN.21.14"
+    },
+    {
+      "start": 118.88,
+      "end": 123.8,
+      "usfm": "GEN.21.15"
+    },
+    {
+      "start": 123.8,
+      "end": 137.62,
+      "usfm": "GEN.21.16"
+    },
+    {
+      "start": 137.62,
+      "end": 150.14,
+      "usfm": "GEN.21.17"
+    },
+    {
+      "start": 150.14,
+      "end": 158.48,
+      "usfm": "GEN.21.18"
+    },
+    {
+      "start": 158.48,
+      "end": 166.12,
+      "usfm": "GEN.21.19"
+    },
+    {
+      "start": 166.12,
+      "end": 173.18,
+      "usfm": "GEN.21.20"
+    },
+    {
+      "start": 173.18,
+      "end": 180.02,
+      "usfm": "GEN.21.21"
+    },
+    {
+      "start": 180.02,
+      "end": 190.2,
+      "usfm": "GEN.21.22"
+    },
+    {
+      "start": 190.2,
+      "end": 207.62,
+      "usfm": "GEN.21.23"
+    },
+    {
+      "start": 207.62,
+      "end": 210.82,
+      "usfm": "GEN.21.24"
+    },
+    {
+      "start": 210.82,
+      "end": 217.64,
+      "usfm": "GEN.21.25"
+    },
+    {
+      "start": 217.64,
+      "end": 227.76,
+      "usfm": "GEN.21.26"
+    },
+    {
+      "start": 227.76,
+      "end": 233.7,
+      "usfm": "GEN.21.27"
+    },
+    {
+      "start": 233.7,
+      "end": 237.68,
+      "usfm": "GEN.21.28"
+    },
+    {
+      "start": 237.68,
+      "end": 243.86,
+      "usfm": "GEN.21.29"
+    },
+    {
+      "start": 243.86,
+      "end": 253.38,
+      "usfm": "GEN.21.30"
+    },
+    {
+      "start": 253.38,
+      "end": 259.56,
+      "usfm": "GEN.21.31"
+    },
+    {
+      "start": 259.56,
+      "end": 270.84,
+      "usfm": "GEN.21.32"
+    },
+    {
+      "start": 270.84,
+      "end": 279.1,
+      "usfm": "GEN.21.33"
+    },
+    {
+      "start": 279.1,
+      "end": 291.28,
+      "usfm": "GEN.21.34"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -331,8 +467,8 @@
   ],
   "audio_start_offset": 3.35,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

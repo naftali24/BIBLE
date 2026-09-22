@@ -5,7 +5,7 @@
   "chapter": 20,
   "title": "שמות פרק 20",
   "english_translation": "KJV",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/20-06d4088a40653d66a562aea3ce73e56e.mp3?version_id=3034",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/20-e3d9eee9ff2c88915ace08b76e23889d.mp3?version_id=1",
   "english": [
     "And God spake all these words, saying,",
     "I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.",
@@ -171,32 +171,136 @@
     }
   ],
   "times_en": [
-    3.0,
-    6.54,
-    13.44,
-    16.7,
-    25.48,
-    40.16,
-    47.42,
-    56.9,
-    60.72,
-    64.34,
-    78.7,
-    93.28,
-    100.6,
-    102.68,
-    105.04,
-    107.08,
-    110.86,
-    123.2,
-    133.8,
-    141.94,
-    151.78,
-    158.4,
-    168.46,
-    176.22,
-    192.08,
-    202.98
+    {
+      "start": 2.88,
+      "end": 5.84,
+      "usfm": "EXO.20.1"
+    },
+    {
+      "start": 5.84,
+      "end": 12.38,
+      "usfm": "EXO.20.2"
+    },
+    {
+      "start": 12.38,
+      "end": 15.48,
+      "usfm": "EXO.20.3"
+    },
+    {
+      "start": 15.48,
+      "end": 26.94,
+      "usfm": "EXO.20.4"
+    },
+    {
+      "start": 26.94,
+      "end": 40.64,
+      "usfm": "EXO.20.5"
+    },
+    {
+      "start": 40.64,
+      "end": 46.18,
+      "usfm": "EXO.20.6"
+    },
+    {
+      "start": 46.18,
+      "end": 54.58,
+      "usfm": "EXO.20.7"
+    },
+    {
+      "start": 54.58,
+      "end": 58.16,
+      "usfm": "EXO.20.8"
+    },
+    {
+      "start": 58.16,
+      "end": 61.78,
+      "usfm": "EXO.20.9"
+    },
+    {
+      "start": 61.78,
+      "end": 78.86,
+      "usfm": "EXO.20.10"
+    },
+    {
+      "start": 78.86,
+      "end": 90.76,
+      "usfm": "EXO.20.11"
+    },
+    {
+      "start": 90.76,
+      "end": 96.54,
+      "usfm": "EXO.20.12"
+    },
+    {
+      "start": 96.54,
+      "end": 99.06,
+      "usfm": "EXO.20.13"
+    },
+    {
+      "start": 99.06,
+      "end": 102.04,
+      "usfm": "EXO.20.14"
+    },
+    {
+      "start": 102.04,
+      "end": 104.42,
+      "usfm": "EXO.20.15"
+    },
+    {
+      "start": 104.42,
+      "end": 108.48,
+      "usfm": "EXO.20.16"
+    },
+    {
+      "start": 108.48,
+      "end": 123.28,
+      "usfm": "EXO.20.17"
+    },
+    {
+      "start": 123.28,
+      "end": 136.58,
+      "usfm": "EXO.20.18"
+    },
+    {
+      "start": 136.58,
+      "end": 144.76,
+      "usfm": "EXO.20.19"
+    },
+    {
+      "start": 144.76,
+      "end": 155.02,
+      "usfm": "EXO.20.20"
+    },
+    {
+      "start": 155.02,
+      "end": 161.92,
+      "usfm": "EXO.20.21"
+    },
+    {
+      "start": 161.92,
+      "end": 170.86,
+      "usfm": "EXO.20.22"
+    },
+    {
+      "start": 170.86,
+      "end": 177.66,
+      "usfm": "EXO.20.23"
+    },
+    {
+      "start": 177.66,
+      "end": 192.76,
+      "usfm": "EXO.20.24"
+    },
+    {
+      "start": 192.76,
+      "end": 203.6,
+      "usfm": "EXO.20.25"
+    },
+    {
+      "start": 203.6,
+      "end": 217.24,
+      "usfm": "EXO.20.26"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -299,8 +403,8 @@
     "EXO.20.25",
     "EXO.20.26"
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "english_text_source": "restored from pre-BSB backup"

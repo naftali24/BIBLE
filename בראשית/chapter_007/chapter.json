@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 7,
   "title": "בראשית פרק 7",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/7-ea714e6577a99811b172aee806b3245b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/7-e1ec88143c19ae542ccbcf531c71509e.mp3?version_id=1",
   "english": [
     "And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
     "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.",
@@ -132,30 +132,126 @@
     }
   ],
   "times_en": [
-    3.1,
-    13.04,
-    25.48,
-    34.8,
-    47.02,
-    50.96,
-    56.6,
-    64.02,
-    70.32,
-    78.38,
-    82.82,
-    95.36,
-    100.32,
-    111.06,
-    118.6,
-    124.88,
-    134.74,
-    142.94,
-    151.5,
-    160.2,
-    166.18,
-    177.48,
-    184.44,
-    199.62
+    {
+      "start": 2.88,
+      "end": 9.7,
+      "usfm": "GEN.7.1"
+    },
+    {
+      "start": 9.7,
+      "end": 19.26,
+      "usfm": "GEN.7.2"
+    },
+    {
+      "start": 19.26,
+      "end": 26.66,
+      "usfm": "GEN.7.3"
+    },
+    {
+      "start": 26.66,
+      "end": 36.74,
+      "usfm": "GEN.7.4"
+    },
+    {
+      "start": 36.74,
+      "end": 40.58,
+      "usfm": "GEN.7.5"
+    },
+    {
+      "start": 40.58,
+      "end": 44.9,
+      "usfm": "GEN.7.6"
+    },
+    {
+      "start": 44.9,
+      "end": 52.2,
+      "usfm": "GEN.7.7"
+    },
+    {
+      "start": 52.2,
+      "end": 59.22,
+      "usfm": "GEN.7.8"
+    },
+    {
+      "start": 59.22,
+      "end": 66.42,
+      "usfm": "GEN.7.9"
+    },
+    {
+      "start": 66.42,
+      "end": 72.74,
+      "usfm": "GEN.7.10"
+    },
+    {
+      "start": 72.74,
+      "end": 87.46,
+      "usfm": "GEN.7.11"
+    },
+    {
+      "start": 87.46,
+      "end": 91.84,
+      "usfm": "GEN.7.12"
+    },
+    {
+      "start": 91.84,
+      "end": 102.48,
+      "usfm": "GEN.7.13"
+    },
+    {
+      "start": 102.48,
+      "end": 113.38,
+      "usfm": "GEN.7.14"
+    },
+    {
+      "start": 113.38,
+      "end": 119.98,
+      "usfm": "GEN.7.15"
+    },
+    {
+      "start": 119.98,
+      "end": 128.06,
+      "usfm": "GEN.7.16"
+    },
+    {
+      "start": 128.06,
+      "end": 136.3,
+      "usfm": "GEN.7.17"
+    },
+    {
+      "start": 136.3,
+      "end": 142.0,
+      "usfm": "GEN.7.18"
+    },
+    {
+      "start": 142.0,
+      "end": 149.48,
+      "usfm": "GEN.7.19"
+    },
+    {
+      "start": 149.48,
+      "end": 154.56,
+      "usfm": "GEN.7.20"
+    },
+    {
+      "start": 154.56,
+      "end": 164.82,
+      "usfm": "GEN.7.21"
+    },
+    {
+      "start": 164.82,
+      "end": 171.66,
+      "usfm": "GEN.7.22"
+    },
+    {
+      "start": 171.66,
+      "end": 194.46,
+      "usfm": "GEN.7.23"
+    },
+    {
+      "start": 194.46,
+      "end": 206.44,
+      "usfm": "GEN.7.24"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -210,8 +306,8 @@
   ],
   "audio_start_offset": 3.15,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 10,
   "title": "במדבר פרק 10",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/10-ba4b07b50c268f181394354bf4ecc0d8.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/10-68b576ce2fcde0ff60a32deecf50742f.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.",
@@ -231,42 +231,186 @@
     }
   ],
   "times_en": [
-    3.0,
-    5.92,
-    12.98,
-    19.58,
-    26.66,
-    32.22,
-    41.54,
-    46.88,
-    55.76,
-    68.32,
-    85.02,
-    92.82,
-    101.9,
-    107.0,
-    114.82,
-    120.28,
-    124.46,
-    131.0,
-    138.48,
-    143.52,
-    148.22,
-    156.28,
-    164.24,
-    169.26,
-    174.38,
-    185.62,
-    190.18,
-    195.26,
-    200.48,
-    217.06,
-    224.1,
-    232.1,
-    237.38,
-    248.86,
-    254.06,
-    264.24
+    {
+      "start": 2.88,
+      "end": 5.5,
+      "usfm": "NUM.10.1"
+    },
+    {
+      "start": 5.5,
+      "end": 16.28,
+      "usfm": "NUM.10.2"
+    },
+    {
+      "start": 16.28,
+      "end": 22.98,
+      "usfm": "NUM.10.3"
+    },
+    {
+      "start": 22.98,
+      "end": 31.26,
+      "usfm": "NUM.10.4"
+    },
+    {
+      "start": 31.26,
+      "end": 36.84,
+      "usfm": "NUM.10.5"
+    },
+    {
+      "start": 36.84,
+      "end": 45.5,
+      "usfm": "NUM.10.6"
+    },
+    {
+      "start": 45.5,
+      "end": 52.4,
+      "usfm": "NUM.10.7"
+    },
+    {
+      "start": 52.4,
+      "end": 60.3,
+      "usfm": "NUM.10.8"
+    },
+    {
+      "start": 60.3,
+      "end": 72.44,
+      "usfm": "NUM.10.9"
+    },
+    {
+      "start": 72.44,
+      "end": 90.4,
+      "usfm": "NUM.10.10"
+    },
+    {
+      "start": 90.4,
+      "end": 98.9,
+      "usfm": "NUM.10.11"
+    },
+    {
+      "start": 98.9,
+      "end": 106.02,
+      "usfm": "NUM.10.12"
+    },
+    {
+      "start": 106.02,
+      "end": 111.72,
+      "usfm": "NUM.10.13"
+    },
+    {
+      "start": 111.72,
+      "end": 119.44,
+      "usfm": "NUM.10.14"
+    },
+    {
+      "start": 119.44,
+      "end": 125.0,
+      "usfm": "NUM.10.15"
+    },
+    {
+      "start": 125.0,
+      "end": 130.34,
+      "usfm": "NUM.10.16"
+    },
+    {
+      "start": 130.34,
+      "end": 138.1,
+      "usfm": "NUM.10.17"
+    },
+    {
+      "start": 138.1,
+      "end": 146.66,
+      "usfm": "NUM.10.18"
+    },
+    {
+      "start": 146.66,
+      "end": 152.96,
+      "usfm": "NUM.10.19"
+    },
+    {
+      "start": 152.96,
+      "end": 158.24,
+      "usfm": "NUM.10.20"
+    },
+    {
+      "start": 158.24,
+      "end": 165.62,
+      "usfm": "NUM.10.21"
+    },
+    {
+      "start": 165.62,
+      "end": 173.64,
+      "usfm": "NUM.10.22"
+    },
+    {
+      "start": 173.64,
+      "end": 178.8,
+      "usfm": "NUM.10.23"
+    },
+    {
+      "start": 178.8,
+      "end": 184.64,
+      "usfm": "NUM.10.24"
+    },
+    {
+      "start": 184.64,
+      "end": 197.32,
+      "usfm": "NUM.10.25"
+    },
+    {
+      "start": 197.32,
+      "end": 202.28,
+      "usfm": "NUM.10.26"
+    },
+    {
+      "start": 202.28,
+      "end": 206.86,
+      "usfm": "NUM.10.27"
+    },
+    {
+      "start": 206.86,
+      "end": 212.58,
+      "usfm": "NUM.10.28"
+    },
+    {
+      "start": 212.58,
+      "end": 229.94,
+      "usfm": "NUM.10.29"
+    },
+    {
+      "start": 229.94,
+      "end": 238.3,
+      "usfm": "NUM.10.30"
+    },
+    {
+      "start": 238.3,
+      "end": 248.62,
+      "usfm": "NUM.10.31"
+    },
+    {
+      "start": 248.62,
+      "end": 256.94,
+      "usfm": "NUM.10.32"
+    },
+    {
+      "start": 256.94,
+      "end": 267.12,
+      "usfm": "NUM.10.33"
+    },
+    {
+      "start": 267.12,
+      "end": 271.74,
+      "usfm": "NUM.10.34"
+    },
+    {
+      "start": 271.74,
+      "end": 283.08,
+      "usfm": "NUM.10.35"
+    },
+    {
+      "start": 283.08,
+      "end": 297.68,
+      "usfm": "NUM.10.36"
+    }
   ],
   "did_you_know": [
     {
@@ -336,8 +480,8 @@
       "text_en": "The ark traveling ahead of the people, accompanied by ritual blows and spoken commands, shows that the religious dimension and divine guidance were integrated with the practical logistics of travel."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

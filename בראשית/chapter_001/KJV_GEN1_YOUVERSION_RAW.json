@@ -1,0 +1,176 @@
+{
+  "response": {
+    "code": 200,
+    "data": [
+      {
+        "download_urls": {
+          "format_mp3_32k": "//audio-bible-cdn.youversionapi.com/8/32k/GEN/1-b5969203ff27ab059b850b2210ae90b7.mp3?version_id=1",
+          "format_hls": "//audio-hls.youversionapi.com/8/m4a/32k/GEN/1-b5969203ff27ab059b850b2210ae90b7.m3u8?version_id=1"
+        },
+        "id": 8,
+        "version_id": 1,
+        "title": "The Listener’s Bible®: KJV Edition",
+        "timing": [
+          {
+            "start": 4.6,
+            "usfm": "GEN.1.1",
+            "end": 8.96
+          },
+          {
+            "start": 8.96,
+            "usfm": "GEN.1.2",
+            "end": 19.26
+          },
+          {
+            "start": 19.26,
+            "usfm": "GEN.1.3",
+            "end": 24.8
+          },
+          {
+            "start": 24.8,
+            "usfm": "GEN.1.4",
+            "end": 31.72
+          },
+          {
+            "start": 31.72,
+            "usfm": "GEN.1.5",
+            "end": 41.94
+          },
+          {
+            "start": 41.94,
+            "usfm": "GEN.1.6",
+            "end": 51.04
+          },
+          {
+            "start": 51.04,
+            "usfm": "GEN.1.7",
+            "end": 59.7
+          },
+          {
+            "start": 59.7,
+            "usfm": "GEN.1.8",
+            "end": 66.62
+          },
+          {
+            "start": 66.62,
+            "usfm": "GEN.1.9",
+            "end": 75.88
+          },
+          {
+            "start": 75.88,
+            "usfm": "GEN.1.10",
+            "end": 84.74
+          },
+          {
+            "start": 84.74,
+            "usfm": "GEN.1.11",
+            "end": 97.54
+          },
+          {
+            "start": 97.54,
+            "usfm": "GEN.1.12",
+            "end": 109.12
+          },
+          {
+            "start": 109.12,
+            "usfm": "GEN.1.13",
+            "end": 113.84
+          },
+          {
+            "start": 113.84,
+            "usfm": "GEN.1.14",
+            "end": 125.22
+          },
+          {
+            "start": 125.22,
+            "usfm": "GEN.1.15",
+            "end": 133.0
+          },
+          {
+            "start": 133.0,
+            "usfm": "GEN.1.16",
+            "end": 142.98
+          },
+          {
+            "start": 142.98,
+            "usfm": "GEN.1.17",
+            "end": 147.68
+          },
+          {
+            "start": 147.68,
+            "usfm": "GEN.1.18",
+            "end": 155.0
+          },
+          {
+            "start": 155.0,
+            "usfm": "GEN.1.19",
+            "end": 159.82
+          },
+          {
+            "start": 159.82,
+            "usfm": "GEN.1.20",
+            "end": 171.1
+          },
+          {
+            "start": 171.1,
+            "usfm": "GEN.1.21",
+            "end": 184.76
+          },
+          {
+            "start": 184.76,
+            "usfm": "GEN.1.22",
+            "end": 195.34
+          },
+          {
+            "start": 195.34,
+            "usfm": "GEN.1.23",
+            "end": 200.42
+          },
+          {
+            "start": 200.42,
+            "usfm": "GEN.1.24",
+            "end": 213.32
+          },
+          {
+            "start": 213.32,
+            "usfm": "GEN.1.25",
+            "end": 224.6
+          },
+          {
+            "start": 224.6,
+            "usfm": "GEN.1.26",
+            "end": 247.34
+          },
+          {
+            "start": 247.34,
+            "usfm": "GEN.1.27",
+            "end": 259.74
+          },
+          {
+            "start": 259.74,
+            "usfm": "GEN.1.28",
+            "end": 275.64
+          },
+          {
+            "start": 275.64,
+            "usfm": "GEN.1.29",
+            "end": 290.62
+          },
+          {
+            "start": 290.62,
+            "usfm": "GEN.1.30",
+            "end": 304.24
+          },
+          {
+            "start": 304.24,
+            "usfm": "GEN.1.31",
+            "end": 323.36
+          }
+        ],
+        "dramatized": false,
+        "default": true
+      }
+    ],
+    "buildtime": "2026-09-22T23:25:08.062180+00:00"
+  }
+}

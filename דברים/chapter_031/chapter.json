@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 31,
   "title": "דברים פרק 31",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/31-4f978b8570660c8ed26ef2b08bc5457a.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/31-5e25f0e8f0b3db0df389713f2fe87cd1.mp3?version_id=1",
   "english": [
     "And Moses went and spake these words unto all Israel.",
     "And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the Lord hath said unto me, Thou shalt not go over this Jordan.",
@@ -177,36 +177,156 @@
     }
   ],
   "times_en": [
-    3.5,
-    8.34,
-    20.16,
-    34.56,
-    44.22,
-    51.7,
-    64.48,
-    83.0,
-    93.66,
-    104.78,
-    115.76,
-    126.08,
-    140.2,
-    153.16,
-    170.64,
-    178.44,
-    196.88,
-    219.02,
-    228.88,
-    240.68,
-    257.96,
-    277.54,
-    284.26,
-    298.76,
-    304.88,
-    310.26,
-    321.2,
-    333.62,
-    347.24,
-    367.18
+    {
+      "start": 2.88,
+      "end": 6.6,
+      "usfm": "DEU.31.1"
+    },
+    {
+      "start": 6.6,
+      "end": 18.4,
+      "usfm": "DEU.31.2"
+    },
+    {
+      "start": 18.4,
+      "end": 31.14,
+      "usfm": "DEU.31.3"
+    },
+    {
+      "start": 31.14,
+      "end": 39.08,
+      "usfm": "DEU.31.4"
+    },
+    {
+      "start": 39.08,
+      "end": 45.92,
+      "usfm": "DEU.31.5"
+    },
+    {
+      "start": 45.92,
+      "end": 57.86,
+      "usfm": "DEU.31.6"
+    },
+    {
+      "start": 57.86,
+      "end": 74.32,
+      "usfm": "DEU.31.7"
+    },
+    {
+      "start": 74.32,
+      "end": 86.18,
+      "usfm": "DEU.31.8"
+    },
+    {
+      "start": 86.18,
+      "end": 96.58,
+      "usfm": "DEU.31.9"
+    },
+    {
+      "start": 96.58,
+      "end": 105.46,
+      "usfm": "DEU.31.10"
+    },
+    {
+      "start": 105.46,
+      "end": 114.72,
+      "usfm": "DEU.31.11"
+    },
+    {
+      "start": 114.72,
+      "end": 128.9,
+      "usfm": "DEU.31.12"
+    },
+    {
+      "start": 128.9,
+      "end": 140.38,
+      "usfm": "DEU.31.13"
+    },
+    {
+      "start": 140.38,
+      "end": 158.98,
+      "usfm": "DEU.31.14"
+    },
+    {
+      "start": 158.98,
+      "end": 166.36,
+      "usfm": "DEU.31.15"
+    },
+    {
+      "start": 166.36,
+      "end": 185.48,
+      "usfm": "DEU.31.16"
+    },
+    {
+      "start": 185.48,
+      "end": 205.54,
+      "usfm": "DEU.31.17"
+    },
+    {
+      "start": 205.54,
+      "end": 214.78,
+      "usfm": "DEU.31.18"
+    },
+    {
+      "start": 214.78,
+      "end": 224.98,
+      "usfm": "DEU.31.19"
+    },
+    {
+      "start": 224.98,
+      "end": 241.7,
+      "usfm": "DEU.31.20"
+    },
+    {
+      "start": 241.7,
+      "end": 260.76,
+      "usfm": "DEU.31.21"
+    },
+    {
+      "start": 260.76,
+      "end": 266.58,
+      "usfm": "DEU.31.22"
+    },
+    {
+      "start": 266.58,
+      "end": 279.28,
+      "usfm": "DEU.31.23"
+    },
+    {
+      "start": 279.28,
+      "end": 286.52,
+      "usfm": "DEU.31.24"
+    },
+    {
+      "start": 286.52,
+      "end": 291.22,
+      "usfm": "DEU.31.25"
+    },
+    {
+      "start": 291.22,
+      "end": 300.42,
+      "usfm": "DEU.31.26"
+    },
+    {
+      "start": 300.42,
+      "end": 312.94,
+      "usfm": "DEU.31.27"
+    },
+    {
+      "start": 312.94,
+      "end": 322.08,
+      "usfm": "DEU.31.28"
+    },
+    {
+      "start": 322.08,
+      "end": 338.04,
+      "usfm": "DEU.31.29"
+    },
+    {
+      "start": 338.04,
+      "end": 353.32,
+      "usfm": "DEU.31.30"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -271,8 +391,8 @@
       "text_en": "The chapter ends with a song, and the next chapter immediately continues with the Song of Moses. In this way, the Torah connects a spoken message with one preserved in poetic form."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

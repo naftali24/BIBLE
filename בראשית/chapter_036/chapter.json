@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 36,
   "title": "בראשית פרק 36",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/36-2405b21e876dea50cec4c47a6f1bba29.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/36-8d8c259077b7f12ef7443e62cced573f.mp3?version_id=1",
   "english": [
     "Now these are the generations of Esau, who is Edom.",
     "Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;",
@@ -252,49 +252,221 @@
     }
   ],
   "times_en": [
-    3.52,
-    8.08,
-    18.44,
-    22.9,
-    27.98,
-    37.22,
-    52.1,
-    60.0,
-    65.2,
-    70.92,
-    79.9,
-    85.8,
-    95.66,
-    104.52,
-    115.4,
-    125.66,
-    134.74,
-    150.66,
-    163.18,
-    168.86,
-    176.3,
-    184.16,
-    189.74,
-    196.12,
-    207.54,
-    213.66,
-    219.4,
-    225.32,
-    229.14,
-    235.3,
-    243.64,
-    250.6,
-    255.94,
-    261.74,
-    267.54,
-    277.78,
-    283.1,
-    289.1,
-    294.4,
-    307.62,
-    316.8,
-    319.34,
-    321.66
+    {
+      "start": 2.88,
+      "end": 6.48,
+      "usfm": "GEN.36.1"
+    },
+    {
+      "start": 6.48,
+      "end": 15.64,
+      "usfm": "GEN.36.2"
+    },
+    {
+      "start": 15.64,
+      "end": 20.88,
+      "usfm": "GEN.36.3"
+    },
+    {
+      "start": 20.88,
+      "end": 26.56,
+      "usfm": "GEN.36.4"
+    },
+    {
+      "start": 26.56,
+      "end": 35.1,
+      "usfm": "GEN.36.5"
+    },
+    {
+      "start": 35.1,
+      "end": 49.44,
+      "usfm": "GEN.36.6"
+    },
+    {
+      "start": 49.44,
+      "end": 57.22,
+      "usfm": "GEN.36.7"
+    },
+    {
+      "start": 57.22,
+      "end": 62.0,
+      "usfm": "GEN.36.8"
+    },
+    {
+      "start": 62.0,
+      "end": 66.3,
+      "usfm": "GEN.36.9"
+    },
+    {
+      "start": 66.3,
+      "end": 75.38,
+      "usfm": "GEN.36.10"
+    },
+    {
+      "start": 75.38,
+      "end": 81.18,
+      "usfm": "GEN.36.11"
+    },
+    {
+      "start": 81.18,
+      "end": 91.04,
+      "usfm": "GEN.36.12"
+    },
+    {
+      "start": 91.04,
+      "end": 98.8,
+      "usfm": "GEN.36.13"
+    },
+    {
+      "start": 98.8,
+      "end": 108.66,
+      "usfm": "GEN.36.14"
+    },
+    {
+      "start": 108.66,
+      "end": 119.54,
+      "usfm": "GEN.36.15"
+    },
+    {
+      "start": 119.54,
+      "end": 128.68,
+      "usfm": "GEN.36.16"
+    },
+    {
+      "start": 128.68,
+      "end": 143.32,
+      "usfm": "GEN.36.17"
+    },
+    {
+      "start": 143.32,
+      "end": 156.88,
+      "usfm": "GEN.36.18"
+    },
+    {
+      "start": 156.88,
+      "end": 161.74,
+      "usfm": "GEN.36.19"
+    },
+    {
+      "start": 161.74,
+      "end": 169.58,
+      "usfm": "GEN.36.20"
+    },
+    {
+      "start": 169.58,
+      "end": 176.58,
+      "usfm": "GEN.36.21"
+    },
+    {
+      "start": 176.58,
+      "end": 182.52,
+      "usfm": "GEN.36.22"
+    },
+    {
+      "start": 182.52,
+      "end": 189.16,
+      "usfm": "GEN.36.23"
+    },
+    {
+      "start": 189.16,
+      "end": 199.96,
+      "usfm": "GEN.36.24"
+    },
+    {
+      "start": 199.96,
+      "end": 204.44,
+      "usfm": "GEN.36.25"
+    },
+    {
+      "start": 204.44,
+      "end": 210.48,
+      "usfm": "GEN.36.26"
+    },
+    {
+      "start": 210.48,
+      "end": 216.1,
+      "usfm": "GEN.36.27"
+    },
+    {
+      "start": 216.1,
+      "end": 219.82,
+      "usfm": "GEN.36.28"
+    },
+    {
+      "start": 219.82,
+      "end": 226.84,
+      "usfm": "GEN.36.29"
+    },
+    {
+      "start": 226.84,
+      "end": 234.6,
+      "usfm": "GEN.36.30"
+    },
+    {
+      "start": 234.6,
+      "end": 240.58,
+      "usfm": "GEN.36.31"
+    },
+    {
+      "start": 240.58,
+      "end": 246.0,
+      "usfm": "GEN.36.32"
+    },
+    {
+      "start": 246.0,
+      "end": 251.92,
+      "usfm": "GEN.36.33"
+    },
+    {
+      "start": 251.92,
+      "end": 258.4,
+      "usfm": "GEN.36.34"
+    },
+    {
+      "start": 258.4,
+      "end": 268.88,
+      "usfm": "GEN.36.35"
+    },
+    {
+      "start": 268.88,
+      "end": 273.66,
+      "usfm": "GEN.36.36"
+    },
+    {
+      "start": 273.66,
+      "end": 278.56,
+      "usfm": "GEN.36.37"
+    },
+    {
+      "start": 278.56,
+      "end": 283.66,
+      "usfm": "GEN.36.38"
+    },
+    {
+      "start": 283.66,
+      "end": 296.96,
+      "usfm": "GEN.36.39"
+    },
+    {
+      "start": 296.96,
+      "end": 306.8,
+      "usfm": "GEN.36.40"
+    },
+    {
+      "start": 306.8,
+      "end": 310.84,
+      "usfm": "GEN.36.41"
+    },
+    {
+      "start": 310.84,
+      "end": 314.94,
+      "usfm": "GEN.36.42"
+    },
+    {
+      "start": 314.94,
+      "end": 333.16,
+      "usfm": "GEN.36.43"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -385,8 +557,8 @@
   ],
   "audio_start_offset": 2.61,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

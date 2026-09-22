@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 8,
   "title": "יהושע פרק 8",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/8-c5971366ef919146dd7e3cb69dba6a56.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/8-13cf4318de402fef32cc92a9795a7678.mp3?version_id=1",
   "english": [
     "And the Lord said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:",
     "And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.",
@@ -237,41 +237,181 @@
     }
   ],
   "times_en": [
-    3.26,
-    20.14,
-    34.92,
-    44.92,
-    54.22,
-    64.44,
-    76.08,
-    83.42,
-    92.96,
-    106.04,
-    115.3,
-    128.0,
-    137.0,
-    147.98,
-    165.72,
-    173.4,
-    180.64,
-    190.72,
-    203.2,
-    215.04,
-    229.72,
-    241.16,
-    256.64,
-    261.52,
-    276.96,
-    284.0,
-    293.16,
-    300.8,
-    308.08,
-    326.04,
-    332.4,
-    354.46,
-    363.92,
-    390.28,
-    400.68
+    {
+      "start": 2.88,
+      "end": 19.56,
+      "usfm": "JOS.8.1"
+    },
+    {
+      "start": 19.56,
+      "end": 34.16,
+      "usfm": "JOS.8.2"
+    },
+    {
+      "start": 34.16,
+      "end": 45.96,
+      "usfm": "JOS.8.3"
+    },
+    {
+      "start": 45.96,
+      "end": 56.74,
+      "usfm": "JOS.8.4"
+    },
+    {
+      "start": 56.74,
+      "end": 68.34,
+      "usfm": "JOS.8.5"
+    },
+    {
+      "start": 68.34,
+      "end": 78.74,
+      "usfm": "JOS.8.6"
+    },
+    {
+      "start": 78.74,
+      "end": 85.48,
+      "usfm": "JOS.8.7"
+    },
+    {
+      "start": 85.48,
+      "end": 94.66,
+      "usfm": "JOS.8.8"
+    },
+    {
+      "start": 94.66,
+      "end": 105.82,
+      "usfm": "JOS.8.9"
+    },
+    {
+      "start": 105.82,
+      "end": 112.54,
+      "usfm": "JOS.8.10"
+    },
+    {
+      "start": 112.54,
+      "end": 123.94,
+      "usfm": "JOS.8.11"
+    },
+    {
+      "start": 123.94,
+      "end": 132.08,
+      "usfm": "JOS.8.12"
+    },
+    {
+      "start": 132.08,
+      "end": 143.5,
+      "usfm": "JOS.8.13"
+    },
+    {
+      "start": 143.5,
+      "end": 160.0,
+      "usfm": "JOS.8.14"
+    },
+    {
+      "start": 160.0,
+      "end": 166.24,
+      "usfm": "JOS.8.15"
+    },
+    {
+      "start": 166.24,
+      "end": 174.28,
+      "usfm": "JOS.8.16"
+    },
+    {
+      "start": 174.28,
+      "end": 183.48,
+      "usfm": "JOS.8.17"
+    },
+    {
+      "start": 183.48,
+      "end": 196.58,
+      "usfm": "JOS.8.18"
+    },
+    {
+      "start": 196.58,
+      "end": 208.98,
+      "usfm": "JOS.8.19"
+    },
+    {
+      "start": 208.98,
+      "end": 222.64,
+      "usfm": "JOS.8.20"
+    },
+    {
+      "start": 222.64,
+      "end": 232.14,
+      "usfm": "JOS.8.21"
+    },
+    {
+      "start": 232.14,
+      "end": 243.9,
+      "usfm": "JOS.8.22"
+    },
+    {
+      "start": 243.9,
+      "end": 248.22,
+      "usfm": "JOS.8.23"
+    },
+    {
+      "start": 248.22,
+      "end": 264.34,
+      "usfm": "JOS.8.24"
+    },
+    {
+      "start": 264.34,
+      "end": 271.66,
+      "usfm": "JOS.8.25"
+    },
+    {
+      "start": 271.66,
+      "end": 279.42,
+      "usfm": "JOS.8.26"
+    },
+    {
+      "start": 279.42,
+      "end": 288.24,
+      "usfm": "JOS.8.27"
+    },
+    {
+      "start": 288.24,
+      "end": 295.3,
+      "usfm": "JOS.8.28"
+    },
+    {
+      "start": 295.3,
+      "end": 314.04,
+      "usfm": "JOS.8.29"
+    },
+    {
+      "start": 314.04,
+      "end": 319.24,
+      "usfm": "JOS.8.30"
+    },
+    {
+      "start": 319.24,
+      "end": 335.68,
+      "usfm": "JOS.8.31"
+    },
+    {
+      "start": 335.68,
+      "end": 342.1,
+      "usfm": "JOS.8.32"
+    },
+    {
+      "start": 342.1,
+      "end": 366.8,
+      "usfm": "JOS.8.33"
+    },
+    {
+      "start": 366.8,
+      "end": 374.5,
+      "usfm": "JOS.8.34"
+    },
+    {
+      "start": 374.5,
+      "end": 393.64,
+      "usfm": "JOS.8.35"
+    }
   ],
   "did_you_know": [
     {
@@ -347,8 +487,8 @@
       "text_en": "The public reading of the whole law before the entire assembly — including women, children, and resident aliens — emphasizes that the covenant applied to the whole community."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

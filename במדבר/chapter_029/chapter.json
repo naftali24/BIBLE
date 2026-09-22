@@ -5,7 +5,7 @@
   "chapter": 29,
   "title": "במדבר פרק 29",
   "english_translation": "KJV",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/29-bf77c12b14c4f6144b64dc0d443914d2.mp3?version_id=3034",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/29-f83b8586b608fb8e258a39843ef1f6f8.mp3?version_id=1",
   "english": [
     "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.",
     "And ye shall offer a burnt offering for a sweet savour unto the Lord; one young bullock, one ram, and seven lambs of the first year without blemish:",
@@ -204,46 +204,206 @@
     }
   ],
   "times_en": [
-    4.64,
-    15.76,
-    27.62,
-    37.38,
-    41.76,
-    46.56,
-    59.8,
-    69.84,
-    81.14,
-    91.18,
-    95.1,
-    106.7,
-    119.14,
-    134.04,
-    146.06,
-    150.14,
-    159.04,
-    169.06,
-    176.54,
-    185.26,
-    194.2,
-    201.72,
-    211.48,
-    220.3,
-    227.74,
-    237.04,
-    246.46,
-    254.04,
-    262.98,
-    272.22,
-    279.8,
-    288.9,
-    298.12,
-    305.7,
-    314.8,
-    321.94,
-    335.74,
-    343.16,
-    352.36,
-    366.48
+    {
+      "start": 2.88,
+      "end": 13.38,
+      "usfm": "NUM.29.1"
+    },
+    {
+      "start": 13.38,
+      "end": 22.68,
+      "usfm": "NUM.29.2"
+    },
+    {
+      "start": 22.68,
+      "end": 30.62,
+      "usfm": "NUM.29.3"
+    },
+    {
+      "start": 30.62,
+      "end": 34.18,
+      "usfm": "NUM.29.4"
+    },
+    {
+      "start": 34.18,
+      "end": 38.66,
+      "usfm": "NUM.29.5"
+    },
+    {
+      "start": 38.66,
+      "end": 53.8,
+      "usfm": "NUM.29.6"
+    },
+    {
+      "start": 53.8,
+      "end": 64.74,
+      "usfm": "NUM.29.7"
+    },
+    {
+      "start": 64.74,
+      "end": 76.9,
+      "usfm": "NUM.29.8"
+    },
+    {
+      "start": 76.9,
+      "end": 86.3,
+      "usfm": "NUM.29.9"
+    },
+    {
+      "start": 86.3,
+      "end": 90.92,
+      "usfm": "NUM.29.10"
+    },
+    {
+      "start": 90.92,
+      "end": 102.38,
+      "usfm": "NUM.29.11"
+    },
+    {
+      "start": 102.38,
+      "end": 113.2,
+      "usfm": "NUM.29.12"
+    },
+    {
+      "start": 113.2,
+      "end": 126.22,
+      "usfm": "NUM.29.13"
+    },
+    {
+      "start": 126.22,
+      "end": 138.46,
+      "usfm": "NUM.29.14"
+    },
+    {
+      "start": 138.46,
+      "end": 142.84,
+      "usfm": "NUM.29.15"
+    },
+    {
+      "start": 142.84,
+      "end": 151.34,
+      "usfm": "NUM.29.16"
+    },
+    {
+      "start": 151.34,
+      "end": 159.1,
+      "usfm": "NUM.29.17"
+    },
+    {
+      "start": 159.1,
+      "end": 168.02,
+      "usfm": "NUM.29.18"
+    },
+    {
+      "start": 168.02,
+      "end": 176.92,
+      "usfm": "NUM.29.19"
+    },
+    {
+      "start": 176.92,
+      "end": 182.4,
+      "usfm": "NUM.29.20"
+    },
+    {
+      "start": 182.4,
+      "end": 190.3,
+      "usfm": "NUM.29.21"
+    },
+    {
+      "start": 190.3,
+      "end": 197.78,
+      "usfm": "NUM.29.22"
+    },
+    {
+      "start": 197.78,
+      "end": 203.52,
+      "usfm": "NUM.29.23"
+    },
+    {
+      "start": 203.52,
+      "end": 212.06,
+      "usfm": "NUM.29.24"
+    },
+    {
+      "start": 212.06,
+      "end": 220.58,
+      "usfm": "NUM.29.25"
+    },
+    {
+      "start": 220.58,
+      "end": 226.92,
+      "usfm": "NUM.29.26"
+    },
+    {
+      "start": 226.92,
+      "end": 235.84,
+      "usfm": "NUM.29.27"
+    },
+    {
+      "start": 235.84,
+      "end": 242.16,
+      "usfm": "NUM.29.28"
+    },
+    {
+      "start": 242.16,
+      "end": 248.24,
+      "usfm": "NUM.29.29"
+    },
+    {
+      "start": 248.24,
+      "end": 255.84,
+      "usfm": "NUM.29.30"
+    },
+    {
+      "start": 255.84,
+      "end": 262.56,
+      "usfm": "NUM.29.31"
+    },
+    {
+      "start": 262.56,
+      "end": 268.96,
+      "usfm": "NUM.29.32"
+    },
+    {
+      "start": 268.96,
+      "end": 276.78,
+      "usfm": "NUM.29.33"
+    },
+    {
+      "start": 276.78,
+      "end": 284.02,
+      "usfm": "NUM.29.34"
+    },
+    {
+      "start": 284.02,
+      "end": 290.86,
+      "usfm": "NUM.29.35"
+    },
+    {
+      "start": 290.86,
+      "end": 301.18,
+      "usfm": "NUM.29.36"
+    },
+    {
+      "start": 301.18,
+      "end": 308.72,
+      "usfm": "NUM.29.37"
+    },
+    {
+      "start": 308.72,
+      "end": 316.0,
+      "usfm": "NUM.29.38"
+    },
+    {
+      "start": 316.0,
+      "end": 331.92,
+      "usfm": "NUM.29.39"
+    },
+    {
+      "start": 331.92,
+      "end": 344.52,
+      "usfm": "NUM.29.40"
+    }
   ],
   "did_you_know": [
     {
@@ -409,8 +569,8 @@
     "NUM.29.39",
     "NUM.29.40"
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "english_text_source": "restored from pre-BSB backup"

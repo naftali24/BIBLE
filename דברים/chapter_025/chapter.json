@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 25,
   "title": "דברים פרק 25",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/25-94a6bb2bc4cf40fdfb8846fdc84f7cc9.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/25-cd162046163a9a0255a4cfb6e7b371b5.mp3?version_id=1",
   "english": [
     "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.",
     "And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.",
@@ -126,25 +126,101 @@
     }
   ],
   "times_en": [
-    3.7,
-    13.98,
-    25.0,
-    33.28,
-    38.04,
-    53.76,
-    62.8,
-    79.84,
-    88.34,
-    101.9,
-    108.08,
-    119.44,
-    124.74,
-    130.42,
-    137.32,
-    145.86,
-    153.9,
-    158.36,
-    168.6
+    {
+      "start": 2.88,
+      "end": 13.52,
+      "usfm": "DEU.25.1"
+    },
+    {
+      "start": 13.52,
+      "end": 24.82,
+      "usfm": "DEU.25.2"
+    },
+    {
+      "start": 24.82,
+      "end": 35.06,
+      "usfm": "DEU.25.3"
+    },
+    {
+      "start": 35.06,
+      "end": 39.6,
+      "usfm": "DEU.25.4"
+    },
+    {
+      "start": 39.6,
+      "end": 55.64,
+      "usfm": "DEU.25.5"
+    },
+    {
+      "start": 55.64,
+      "end": 65.62,
+      "usfm": "DEU.25.6"
+    },
+    {
+      "start": 65.62,
+      "end": 80.96,
+      "usfm": "DEU.25.7"
+    },
+    {
+      "start": 80.96,
+      "end": 89.18,
+      "usfm": "DEU.25.8"
+    },
+    {
+      "start": 89.18,
+      "end": 103.84,
+      "usfm": "DEU.25.9"
+    },
+    {
+      "start": 103.84,
+      "end": 109.92,
+      "usfm": "DEU.25.10"
+    },
+    {
+      "start": 109.92,
+      "end": 122.36,
+      "usfm": "DEU.25.11"
+    },
+    {
+      "start": 122.36,
+      "end": 127.62,
+      "usfm": "DEU.25.12"
+    },
+    {
+      "start": 127.62,
+      "end": 132.78,
+      "usfm": "DEU.25.13"
+    },
+    {
+      "start": 132.78,
+      "end": 138.08,
+      "usfm": "DEU.25.14"
+    },
+    {
+      "start": 138.08,
+      "end": 148.98,
+      "usfm": "DEU.25.15"
+    },
+    {
+      "start": 148.98,
+      "end": 155.54,
+      "usfm": "DEU.25.16"
+    },
+    {
+      "start": 155.54,
+      "end": 160.7,
+      "usfm": "DEU.25.17"
+    },
+    {
+      "start": 160.7,
+      "end": 171.3,
+      "usfm": "DEU.25.18"
+    },
+    {
+      "start": 171.3,
+      "end": 193.36,
+      "usfm": "DEU.25.19"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -185,8 +261,8 @@
       "text_en": "Did you know? The verb “vayezanev” is related to the word “tail” and describes attacking the rear of a group. That is usually where the slowest and most vulnerable people are."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

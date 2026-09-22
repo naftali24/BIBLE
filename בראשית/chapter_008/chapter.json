@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 8,
   "title": "בראשית פרק 8",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/8-7a0d7556d593613bba3bb9a1efe388fb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/8-babf5ab77c3d971d72c29f47956cf400.mp3?version_id=1",
   "english": [
     "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;",
     "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
@@ -153,28 +153,116 @@
     }
   ],
   "times_en": [
-    3.26,
-    15.04,
-    21.46,
-    29.12,
-    36.08,
-    45.52,
-    50.08,
-    57.5,
-    63.18,
-    77.7,
-    82.68,
-    93.84,
-    101.94,
-    116.28,
-    121.88,
-    123.96,
-    129.18,
-    142.28,
-    148.52,
-    158.86,
-    169.5,
-    188.28
+    {
+      "start": 2.88,
+      "end": 15.32,
+      "usfm": "GEN.8.1"
+    },
+    {
+      "start": 15.32,
+      "end": 23.1,
+      "usfm": "GEN.8.2"
+    },
+    {
+      "start": 23.1,
+      "end": 31.26,
+      "usfm": "GEN.8.3"
+    },
+    {
+      "start": 31.26,
+      "end": 38.28,
+      "usfm": "GEN.8.4"
+    },
+    {
+      "start": 38.28,
+      "end": 49.44,
+      "usfm": "GEN.8.5"
+    },
+    {
+      "start": 49.44,
+      "end": 56.48,
+      "usfm": "GEN.8.6"
+    },
+    {
+      "start": 56.48,
+      "end": 63.42,
+      "usfm": "GEN.8.7"
+    },
+    {
+      "start": 63.42,
+      "end": 69.68,
+      "usfm": "GEN.8.8"
+    },
+    {
+      "start": 69.68,
+      "end": 84.56,
+      "usfm": "GEN.8.9"
+    },
+    {
+      "start": 84.56,
+      "end": 89.56,
+      "usfm": "GEN.8.10"
+    },
+    {
+      "start": 89.56,
+      "end": 101.88,
+      "usfm": "GEN.8.11"
+    },
+    {
+      "start": 101.88,
+      "end": 110.5,
+      "usfm": "GEN.8.12"
+    },
+    {
+      "start": 110.5,
+      "end": 127.7,
+      "usfm": "GEN.8.13"
+    },
+    {
+      "start": 127.7,
+      "end": 133.2,
+      "usfm": "GEN.8.14"
+    },
+    {
+      "start": 133.2,
+      "end": 136.56,
+      "usfm": "GEN.8.15"
+    },
+    {
+      "start": 136.56,
+      "end": 144.46,
+      "usfm": "GEN.8.16"
+    },
+    {
+      "start": 144.46,
+      "end": 160.78,
+      "usfm": "GEN.8.17"
+    },
+    {
+      "start": 160.78,
+      "end": 166.58,
+      "usfm": "GEN.8.18"
+    },
+    {
+      "start": 166.58,
+      "end": 178.88,
+      "usfm": "GEN.8.19"
+    },
+    {
+      "start": 178.88,
+      "end": 189.5,
+      "usfm": "GEN.8.20"
+    },
+    {
+      "start": 189.5,
+      "end": 209.28,
+      "usfm": "GEN.8.21"
+    },
+    {
+      "start": 209.28,
+      "end": 228.4,
+      "usfm": "GEN.8.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -223,8 +311,8 @@
   ],
   "audio_start_offset": 2.09,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

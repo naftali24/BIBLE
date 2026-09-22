@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 45,
   "title": "בראשית פרק 45",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/45-05423e18aa37b4094829ed9a943648ad.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/45-55d58c5d683c572a8723f9b07688852a.mp3?version_id=1",
   "english": [
     "Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.",
     "And he wept aloud: and the Egyptians and the house of Pharaoh heard.",
@@ -171,34 +171,146 @@
     }
   ],
   "times_en": [
-    3.32,
-    16.76,
-    23.36,
-    34.36,
-    45.58,
-    55.26,
-    62.72,
-    70.64,
-    82.74,
-    94.62,
-    103.7,
-    115.48,
-    121.86,
-    130.56,
-    138.4,
-    144.98,
-    152.64,
-    159.54,
-    169.8,
-    178.68,
-    185.0,
-    194.82,
-    203.78,
-    215.8,
-    223.32,
-    229.14,
-    239.42,
-    250.54
+    {
+      "start": 2.88,
+      "end": 16.28,
+      "usfm": "GEN.45.1"
+    },
+    {
+      "start": 16.28,
+      "end": 22.8,
+      "usfm": "GEN.45.2"
+    },
+    {
+      "start": 22.8,
+      "end": 35.9,
+      "usfm": "GEN.45.3"
+    },
+    {
+      "start": 35.9,
+      "end": 49.7,
+      "usfm": "GEN.45.4"
+    },
+    {
+      "start": 49.7,
+      "end": 59.7,
+      "usfm": "GEN.45.5"
+    },
+    {
+      "start": 59.7,
+      "end": 69.76,
+      "usfm": "GEN.45.6"
+    },
+    {
+      "start": 69.76,
+      "end": 77.82,
+      "usfm": "GEN.45.7"
+    },
+    {
+      "start": 77.82,
+      "end": 90.02,
+      "usfm": "GEN.45.8"
+    },
+    {
+      "start": 90.02,
+      "end": 103.04,
+      "usfm": "GEN.45.9"
+    },
+    {
+      "start": 103.04,
+      "end": 115.76,
+      "usfm": "GEN.45.10"
+    },
+    {
+      "start": 115.76,
+      "end": 126.4,
+      "usfm": "GEN.45.11"
+    },
+    {
+      "start": 126.4,
+      "end": 134.62,
+      "usfm": "GEN.45.12"
+    },
+    {
+      "start": 134.62,
+      "end": 144.06,
+      "usfm": "GEN.45.13"
+    },
+    {
+      "start": 144.06,
+      "end": 151.2,
+      "usfm": "GEN.45.14"
+    },
+    {
+      "start": 151.2,
+      "end": 158.16,
+      "usfm": "GEN.45.15"
+    },
+    {
+      "start": 158.16,
+      "end": 167.12,
+      "usfm": "GEN.45.16"
+    },
+    {
+      "start": 167.12,
+      "end": 176.52,
+      "usfm": "GEN.45.17"
+    },
+    {
+      "start": 176.52,
+      "end": 186.34,
+      "usfm": "GEN.45.18"
+    },
+    {
+      "start": 186.34,
+      "end": 196.98,
+      "usfm": "GEN.45.19"
+    },
+    {
+      "start": 196.98,
+      "end": 202.36,
+      "usfm": "GEN.45.20"
+    },
+    {
+      "start": 202.36,
+      "end": 210.76,
+      "usfm": "GEN.45.21"
+    },
+    {
+      "start": 210.76,
+      "end": 220.34,
+      "usfm": "GEN.45.22"
+    },
+    {
+      "start": 220.34,
+      "end": 232.94,
+      "usfm": "GEN.45.23"
+    },
+    {
+      "start": 232.94,
+      "end": 240.16,
+      "usfm": "GEN.45.24"
+    },
+    {
+      "start": 240.16,
+      "end": 244.64,
+      "usfm": "GEN.45.25"
+    },
+    {
+      "start": 244.64,
+      "end": 256.0,
+      "usfm": "GEN.45.26"
+    },
+    {
+      "start": 256.0,
+      "end": 266.26,
+      "usfm": "GEN.45.27"
+    },
+    {
+      "start": 266.26,
+      "end": 282.64,
+      "usfm": "GEN.45.28"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -259,8 +371,8 @@
   ],
   "audio_start_offset": 2.27,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

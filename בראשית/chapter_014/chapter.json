@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 14,
   "title": "בראשית פרק 14",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/14-1720d71d9367bffaea182e652a89df29.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/14-a2eb270c860221a93f85f860dead72c8.mp3?version_id=1",
   "english": [
     "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
     "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
@@ -303,30 +303,126 @@
     }
   ],
   "times_en": [
-    3.26,
-    13.1,
-    24.7,
-    30.24,
-    36.78,
-    48.98,
-    54.82,
-    65.86,
-    77.64,
-    87.46,
-    98.22,
-    104.8,
-    111.42,
-    124.4,
-    135.86,
-    144.7,
-    152.82,
-    163.7,
-    171.32,
-    178.68,
-    188.02,
-    193.84,
-    201.88,
-    212.5
+    {
+      "start": 2.88,
+      "end": 13.72,
+      "usfm": "GEN.14.1"
+    },
+    {
+      "start": 13.72,
+      "end": 26.6,
+      "usfm": "GEN.14.2"
+    },
+    {
+      "start": 26.6,
+      "end": 31.9,
+      "usfm": "GEN.14.3"
+    },
+    {
+      "start": 31.9,
+      "end": 37.28,
+      "usfm": "GEN.14.4"
+    },
+    {
+      "start": 37.28,
+      "end": 50.64,
+      "usfm": "GEN.14.5"
+    },
+    {
+      "start": 50.64,
+      "end": 57.0,
+      "usfm": "GEN.14.6"
+    },
+    {
+      "start": 57.0,
+      "end": 69.14,
+      "usfm": "GEN.14.7"
+    },
+    {
+      "start": 69.14,
+      "end": 81.2,
+      "usfm": "GEN.14.8"
+    },
+    {
+      "start": 81.2,
+      "end": 91.88,
+      "usfm": "GEN.14.9"
+    },
+    {
+      "start": 91.88,
+      "end": 102.08,
+      "usfm": "GEN.14.10"
+    },
+    {
+      "start": 102.08,
+      "end": 107.64,
+      "usfm": "GEN.14.11"
+    },
+    {
+      "start": 107.64,
+      "end": 114.5,
+      "usfm": "GEN.14.12"
+    },
+    {
+      "start": 114.5,
+      "end": 128.16,
+      "usfm": "GEN.14.13"
+    },
+    {
+      "start": 128.16,
+      "end": 139.46,
+      "usfm": "GEN.14.14"
+    },
+    {
+      "start": 139.46,
+      "end": 150.24,
+      "usfm": "GEN.14.15"
+    },
+    {
+      "start": 150.24,
+      "end": 159.08,
+      "usfm": "GEN.14.16"
+    },
+    {
+      "start": 159.08,
+      "end": 169.32,
+      "usfm": "GEN.14.17"
+    },
+    {
+      "start": 169.32,
+      "end": 178.18,
+      "usfm": "GEN.14.18"
+    },
+    {
+      "start": 178.18,
+      "end": 187.1,
+      "usfm": "GEN.14.19"
+    },
+    {
+      "start": 187.1,
+      "end": 198.56,
+      "usfm": "GEN.14.20"
+    },
+    {
+      "start": 198.56,
+      "end": 205.64,
+      "usfm": "GEN.14.21"
+    },
+    {
+      "start": 205.64,
+      "end": 215.16,
+      "usfm": "GEN.14.22"
+    },
+    {
+      "start": 215.16,
+      "end": 226.24,
+      "usfm": "GEN.14.23"
+    },
+    {
+      "start": 226.24,
+      "end": 241.92,
+      "usfm": "GEN.14.24"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -381,8 +477,8 @@
   ],
   "audio_start_offset": 2.58,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 12,
   "title": "במדבר פרק 12",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/12-41e4a7b83d42f544080fd4022bf9b73f.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/12-6f4dd8e42958a1a6ca53af5b2a9c152d.mp3?version_id=1",
   "english": [
     "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.",
     "And they said, Hath the Lord indeed spoken only by Moses? hath he not spoken also by us? And the Lord heard it.",
@@ -117,22 +117,86 @@
     }
   ],
   "times_en": [
-    3.24,
-    12.38,
-    20.88,
-    26.92,
-    36.4,
-    46.26,
-    57.6,
-    64.64,
-    77.16,
-    81.78,
-    92.36,
-    99.22,
-    107.44,
-    112.94,
-    129.1,
-    138.3
+    {
+      "start": 2.88,
+      "end": 11.22,
+      "usfm": "NUM.12.1"
+    },
+    {
+      "start": 11.22,
+      "end": 20.44,
+      "usfm": "NUM.12.2"
+    },
+    {
+      "start": 20.44,
+      "end": 25.76,
+      "usfm": "NUM.12.3"
+    },
+    {
+      "start": 25.76,
+      "end": 35.5,
+      "usfm": "NUM.12.4"
+    },
+    {
+      "start": 35.5,
+      "end": 43.9,
+      "usfm": "NUM.12.5"
+    },
+    {
+      "start": 43.9,
+      "end": 54.98,
+      "usfm": "NUM.12.6"
+    },
+    {
+      "start": 54.98,
+      "end": 60.02,
+      "usfm": "NUM.12.7"
+    },
+    {
+      "start": 60.02,
+      "end": 73.94,
+      "usfm": "NUM.12.8"
+    },
+    {
+      "start": 73.94,
+      "end": 78.44,
+      "usfm": "NUM.12.9"
+    },
+    {
+      "start": 78.44,
+      "end": 91.16,
+      "usfm": "NUM.12.10"
+    },
+    {
+      "start": 91.16,
+      "end": 101.88,
+      "usfm": "NUM.12.11"
+    },
+    {
+      "start": 101.88,
+      "end": 108.62,
+      "usfm": "NUM.12.12"
+    },
+    {
+      "start": 108.62,
+      "end": 114.26,
+      "usfm": "NUM.12.13"
+    },
+    {
+      "start": 114.26,
+      "end": 129.52,
+      "usfm": "NUM.12.14"
+    },
+    {
+      "start": 129.52,
+      "end": 136.78,
+      "usfm": "NUM.12.15"
+    },
+    {
+      "start": 136.78,
+      "end": 149.68,
+      "usfm": "NUM.12.16"
+    }
   ],
   "did_you_know": [
     {
@@ -166,8 +230,8 @@
       "text_en": "The fact that the entire nation of Israel, a camp of hundreds of thousands of people, halted its journey and waited seven days until Miriam returned to the camp, underscores her importance and honor in the eyes of the people."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

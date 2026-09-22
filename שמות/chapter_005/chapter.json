@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 5,
   "title": "שמות פרק 5",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/5-c688612389ca07fe7868854fb589c317.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/5-f4770cb1e1ac394eb139c7f23a20cc6c.mp3?version_id=1",
   "english": [
     "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the Lord God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.",
     "And Pharaoh said, Who is the Lord, that I should obey his voice to let Israel go? I know not the Lord, neither will I let Israel go.",
@@ -138,29 +138,121 @@
     }
   ],
   "times_en": [
-    3.0,
-    15.42,
-    26.34,
-    39.74,
-    48.66,
-    56.2,
-    61.36,
-    68.32,
-    80.48,
-    86.66,
-    95.58,
-    102.06,
-    107.14,
-    114.92,
-    126.98,
-    134.0,
-    143.42,
-    152.06,
-    158.64,
-    166.18,
-    171.98,
-    184.34,
-    192.56
+    {
+      "start": 2.88,
+      "end": 14.92,
+      "usfm": "EXO.5.1"
+    },
+    {
+      "start": 14.92,
+      "end": 25.64,
+      "usfm": "EXO.5.2"
+    },
+    {
+      "start": 25.64,
+      "end": 40.54,
+      "usfm": "EXO.5.3"
+    },
+    {
+      "start": 40.54,
+      "end": 49.56,
+      "usfm": "EXO.5.4"
+    },
+    {
+      "start": 49.56,
+      "end": 57.06,
+      "usfm": "EXO.5.5"
+    },
+    {
+      "start": 57.06,
+      "end": 63.02,
+      "usfm": "EXO.5.6"
+    },
+    {
+      "start": 63.02,
+      "end": 70.9,
+      "usfm": "EXO.5.7"
+    },
+    {
+      "start": 70.9,
+      "end": 84.46,
+      "usfm": "EXO.5.8"
+    },
+    {
+      "start": 84.46,
+      "end": 92.74,
+      "usfm": "EXO.5.9"
+    },
+    {
+      "start": 92.74,
+      "end": 102.84,
+      "usfm": "EXO.5.10"
+    },
+    {
+      "start": 102.84,
+      "end": 108.44,
+      "usfm": "EXO.5.11"
+    },
+    {
+      "start": 108.44,
+      "end": 113.78,
+      "usfm": "EXO.5.12"
+    },
+    {
+      "start": 113.78,
+      "end": 121.3,
+      "usfm": "EXO.5.13"
+    },
+    {
+      "start": 121.3,
+      "end": 135.3,
+      "usfm": "EXO.5.14"
+    },
+    {
+      "start": 135.3,
+      "end": 142.56,
+      "usfm": "EXO.5.15"
+    },
+    {
+      "start": 142.56,
+      "end": 151.94,
+      "usfm": "EXO.5.16"
+    },
+    {
+      "start": 151.94,
+      "end": 158.8,
+      "usfm": "EXO.5.17"
+    },
+    {
+      "start": 158.8,
+      "end": 166.4,
+      "usfm": "EXO.5.18"
+    },
+    {
+      "start": 166.4,
+      "end": 176.5,
+      "usfm": "EXO.5.19"
+    },
+    {
+      "start": 176.5,
+      "end": 181.3,
+      "usfm": "EXO.5.20"
+    },
+    {
+      "start": 181.3,
+      "end": 194.36,
+      "usfm": "EXO.5.21"
+    },
+    {
+      "start": 194.36,
+      "end": 203.14,
+      "usfm": "EXO.5.22"
+    },
+    {
+      "start": 203.14,
+      "end": 217.12,
+      "usfm": "EXO.5.23"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -213,8 +305,8 @@
       "text_en": "Moses does not hide his difficult question; he brings it directly to God. In the Bible, prayer can include complaint, pain, and a demand for understanding—not only praise and thanks."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

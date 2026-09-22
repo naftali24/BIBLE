@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 7,
   "title": "ויקרא פרק 7",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/7-56214c11707922e9ee75d5dc22219ca2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/7-cff6040d5baa594ad8e72588724e8308.mp3?version_id=1",
   "english": [
     "Likewise this is the law of the trespass offering: it is most holy.",
     "In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.",
@@ -219,44 +219,196 @@
     }
   ],
   "times_en": [
-    2.98,
-    7.76,
-    16.92,
-    23.38,
-    30.72,
-    38.14,
-    45.7,
-    54.76,
-    61.3,
-    70.34,
-    77.54,
-    83.0,
-    97.84,
-    104.6,
-    115.92,
-    125.22,
-    137.46,
-    143.76,
-    158.9,
-    170.26,
-    179.54,
-    196.66,
-    198.84,
-    206.6,
-    214.42,
-    225.04,
-    230.68,
-    235.4,
-    237.68,
-    246.2,
-    258.36,
-    265.2,
-    270.68,
-    277.36,
-    292.4,
-    301.76,
-    311.74,
-    321.24
+    {
+      "start": 2.88,
+      "end": 7.62,
+      "usfm": "LEV.7.1"
+    },
+    {
+      "start": 7.62,
+      "end": 15.94,
+      "usfm": "LEV.7.2"
+    },
+    {
+      "start": 15.94,
+      "end": 21.34,
+      "usfm": "LEV.7.3"
+    },
+    {
+      "start": 21.34,
+      "end": 30.9,
+      "usfm": "LEV.7.4"
+    },
+    {
+      "start": 30.9,
+      "end": 38.54,
+      "usfm": "LEV.7.5"
+    },
+    {
+      "start": 38.54,
+      "end": 46.0,
+      "usfm": "LEV.7.6"
+    },
+    {
+      "start": 46.0,
+      "end": 55.52,
+      "usfm": "LEV.7.7"
+    },
+    {
+      "start": 55.52,
+      "end": 63.6,
+      "usfm": "LEV.7.8"
+    },
+    {
+      "start": 63.6,
+      "end": 73.52,
+      "usfm": "LEV.7.9"
+    },
+    {
+      "start": 73.52,
+      "end": 81.78,
+      "usfm": "LEV.7.10"
+    },
+    {
+      "start": 81.78,
+      "end": 86.54,
+      "usfm": "LEV.7.11"
+    },
+    {
+      "start": 86.54,
+      "end": 98.46,
+      "usfm": "LEV.7.12"
+    },
+    {
+      "start": 98.46,
+      "end": 106.56,
+      "usfm": "LEV.7.13"
+    },
+    {
+      "start": 106.56,
+      "end": 116.02,
+      "usfm": "LEV.7.14"
+    },
+    {
+      "start": 116.02,
+      "end": 125.86,
+      "usfm": "LEV.7.15"
+    },
+    {
+      "start": 125.86,
+      "end": 137.62,
+      "usfm": "LEV.7.16"
+    },
+    {
+      "start": 137.62,
+      "end": 143.02,
+      "usfm": "LEV.7.17"
+    },
+    {
+      "start": 143.02,
+      "end": 159.18,
+      "usfm": "LEV.7.18"
+    },
+    {
+      "start": 159.18,
+      "end": 170.28,
+      "usfm": "LEV.7.19"
+    },
+    {
+      "start": 170.28,
+      "end": 182.44,
+      "usfm": "LEV.7.20"
+    },
+    {
+      "start": 182.44,
+      "end": 202.52,
+      "usfm": "LEV.7.21"
+    },
+    {
+      "start": 202.52,
+      "end": 205.48,
+      "usfm": "LEV.7.22"
+    },
+    {
+      "start": 205.48,
+      "end": 215.62,
+      "usfm": "LEV.7.23"
+    },
+    {
+      "start": 215.62,
+      "end": 229.12,
+      "usfm": "LEV.7.24"
+    },
+    {
+      "start": 229.12,
+      "end": 238.58,
+      "usfm": "LEV.7.25"
+    },
+    {
+      "start": 238.58,
+      "end": 246.16,
+      "usfm": "LEV.7.26"
+    },
+    {
+      "start": 246.16,
+      "end": 252.82,
+      "usfm": "LEV.7.27"
+    },
+    {
+      "start": 252.82,
+      "end": 255.84,
+      "usfm": "LEV.7.28"
+    },
+    {
+      "start": 255.84,
+      "end": 267.5,
+      "usfm": "LEV.7.29"
+    },
+    {
+      "start": 267.5,
+      "end": 280.12,
+      "usfm": "LEV.7.30"
+    },
+    {
+      "start": 280.12,
+      "end": 287.62,
+      "usfm": "LEV.7.31"
+    },
+    {
+      "start": 287.62,
+      "end": 293.74,
+      "usfm": "LEV.7.32"
+    },
+    {
+      "start": 293.74,
+      "end": 302.78,
+      "usfm": "LEV.7.33"
+    },
+    {
+      "start": 302.78,
+      "end": 320.78,
+      "usfm": "LEV.7.34"
+    },
+    {
+      "start": 320.78,
+      "end": 334.28,
+      "usfm": "LEV.7.35"
+    },
+    {
+      "start": 334.28,
+      "end": 344.24,
+      "usfm": "LEV.7.36"
+    },
+    {
+      "start": 344.24,
+      "end": 357.92,
+      "usfm": "LEV.7.37"
+    },
+    {
+      "start": 357.92,
+      "end": 378.32,
+      "usfm": "LEV.7.38"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -339,8 +491,8 @@
       "text_en": "The chapter ends by naming six types of offerings: burnt, grain, sin, guilt, ordination, and well-being offerings. The list summarizes the system discussed in the opening chapters of Leviticus."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

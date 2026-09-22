@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 32,
   "title": "במדבר פרק 32",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/32-a3e75a6f20cfc7ed7760f28f11249f1e.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/32-4ce2594cb5e2eb780a04facaabd2e534.mp3?version_id=1",
   "english": [
     "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;",
     "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,",
@@ -222,48 +222,216 @@
     }
   ],
   "times_en": [
-    3.2,
-    15.4,
-    23.16,
-    30.52,
-    38.48,
-    48.16,
-    55.24,
-    61.08,
-    67.18,
-    76.44,
-    81.94,
-    94.34,
-    104.36,
-    115.58,
-    125.5,
-    135.12,
-    145.2,
-    160.04,
-    167.4,
-    177.84,
-    184.86,
-    193.04,
-    206.12,
-    215.0,
-    221.54,
-    228.18,
-    235.66,
-    244.84,
-    254.5,
-    269.92,
-    278.46,
-    285.6,
-    294.66,
-    312.36,
-    316.72,
-    319.86,
-    326.32,
-    330.9,
-    339.3,
-    347.0,
-    353.38,
-    360.64
+    {
+      "start": 2.88,
+      "end": 15.94,
+      "usfm": "NUM.32.1"
+    },
+    {
+      "start": 15.94,
+      "end": 25.16,
+      "usfm": "NUM.32.2"
+    },
+    {
+      "start": 25.16,
+      "end": 33.6,
+      "usfm": "NUM.32.3"
+    },
+    {
+      "start": 33.6,
+      "end": 41.0,
+      "usfm": "NUM.32.4"
+    },
+    {
+      "start": 41.0,
+      "end": 51.56,
+      "usfm": "NUM.32.5"
+    },
+    {
+      "start": 51.56,
+      "end": 59.92,
+      "usfm": "NUM.32.6"
+    },
+    {
+      "start": 59.92,
+      "end": 66.22,
+      "usfm": "NUM.32.7"
+    },
+    {
+      "start": 66.22,
+      "end": 71.36,
+      "usfm": "NUM.32.8"
+    },
+    {
+      "start": 71.36,
+      "end": 80.96,
+      "usfm": "NUM.32.9"
+    },
+    {
+      "start": 80.96,
+      "end": 85.02,
+      "usfm": "NUM.32.10"
+    },
+    {
+      "start": 85.02,
+      "end": 97.58,
+      "usfm": "NUM.32.11"
+    },
+    {
+      "start": 97.58,
+      "end": 105.76,
+      "usfm": "NUM.32.12"
+    },
+    {
+      "start": 105.76,
+      "end": 116.56,
+      "usfm": "NUM.32.13"
+    },
+    {
+      "start": 116.56,
+      "end": 126.22,
+      "usfm": "NUM.32.14"
+    },
+    {
+      "start": 126.22,
+      "end": 133.94,
+      "usfm": "NUM.32.15"
+    },
+    {
+      "start": 133.94,
+      "end": 141.68,
+      "usfm": "NUM.32.16"
+    },
+    {
+      "start": 141.68,
+      "end": 154.02,
+      "usfm": "NUM.32.17"
+    },
+    {
+      "start": 154.02,
+      "end": 161.58,
+      "usfm": "NUM.32.18"
+    },
+    {
+      "start": 161.58,
+      "end": 170.44,
+      "usfm": "NUM.32.19"
+    },
+    {
+      "start": 170.44,
+      "end": 177.9,
+      "usfm": "NUM.32.20"
+    },
+    {
+      "start": 177.9,
+      "end": 184.38,
+      "usfm": "NUM.32.21"
+    },
+    {
+      "start": 184.38,
+      "end": 196.76,
+      "usfm": "NUM.32.22"
+    },
+    {
+      "start": 196.76,
+      "end": 206.18,
+      "usfm": "NUM.32.23"
+    },
+    {
+      "start": 206.18,
+      "end": 214.28,
+      "usfm": "NUM.32.24"
+    },
+    {
+      "start": 214.28,
+      "end": 222.54,
+      "usfm": "NUM.32.25"
+    },
+    {
+      "start": 222.54,
+      "end": 229.5,
+      "usfm": "NUM.32.26"
+    },
+    {
+      "start": 229.5,
+      "end": 237.34,
+      "usfm": "NUM.32.27"
+    },
+    {
+      "start": 237.34,
+      "end": 246.54,
+      "usfm": "NUM.32.28"
+    },
+    {
+      "start": 246.54,
+      "end": 262.58,
+      "usfm": "NUM.32.29"
+    },
+    {
+      "start": 262.58,
+      "end": 268.94,
+      "usfm": "NUM.32.30"
+    },
+    {
+      "start": 268.94,
+      "end": 276.88,
+      "usfm": "NUM.32.31"
+    },
+    {
+      "start": 276.88,
+      "end": 286.8,
+      "usfm": "NUM.32.32"
+    },
+    {
+      "start": 286.8,
+      "end": 306.46,
+      "usfm": "NUM.32.33"
+    },
+    {
+      "start": 306.46,
+      "end": 310.96,
+      "usfm": "NUM.32.34"
+    },
+    {
+      "start": 310.96,
+      "end": 315.52,
+      "usfm": "NUM.32.35"
+    },
+    {
+      "start": 315.52,
+      "end": 321.74,
+      "usfm": "NUM.32.36"
+    },
+    {
+      "start": 321.74,
+      "end": 328.06,
+      "usfm": "NUM.32.37"
+    },
+    {
+      "start": 328.06,
+      "end": 336.64,
+      "usfm": "NUM.32.38"
+    },
+    {
+      "start": 336.64,
+      "end": 344.82,
+      "usfm": "NUM.32.39"
+    },
+    {
+      "start": 344.82,
+      "end": 350.56,
+      "usfm": "NUM.32.40"
+    },
+    {
+      "start": 350.56,
+      "end": 356.84,
+      "usfm": "NUM.32.41"
+    },
+    {
+      "start": 356.84,
+      "end": 371.32,
+      "usfm": "NUM.32.42"
+    }
   ],
   "did_you_know": [
     {
@@ -351,8 +519,8 @@
       "text_en": "Did you know? The renaming of the city Kenath to Nobah by Nobah himself illustrates a common practice of asserting Israelite dominion and cultural identity over conquered territories by changing their original Canaanite names."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

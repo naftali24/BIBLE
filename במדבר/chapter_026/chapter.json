@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 26,
   "title": "במדבר פרק 26",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/26-2b8f996e86788e88b6f65bf99947ff60.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/26-34799746bb94f153a8f8e592790d4c28.mp3?version_id=1",
   "english": [
     "And it came to pass after the plague, that the Lord spake unto Moses and unto Eleazar the son of Aaron the priest, saying,",
     "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel.",
@@ -336,75 +336,335 @@
     }
   ],
   "times_en": [
-    3.5,
-    10.54,
-    22.16,
-    30.44,
-    41.36,
-    52.06,
-    57.08,
-    63.66,
-    66.6,
-    80.78,
-    92.16,
-    95.8,
-    107.3,
-    112.34,
-    118.1,
-    129.66,
-    134.62,
-    139.96,
-    146.22,
-    152.14,
-    163.52,
-    171.74,
-    178.68,
-    187.64,
-    192.88,
-    199.76,
-    211.74,
-    218.4,
-    223.3,
-    232.72,
-    240.98,
-    246.22,
-    251.78,
-    263.86,
-    271.02,
-    282.54,
-    287.34,
-    297.2,
-    308.78,
-    313.8,
-    322.24,
-    328.98,
-    337.6,
-    344.52,
-    355.96,
-    363.8,
-    367.0,
-    373.8,
-    382.92,
-    387.82,
-    394.42,
-    401.2,
-    403.6,
-    409.92,
-    420.84,
-    429.4,
-    435.8,
-    447.32,
-    460.58,
-    473.9,
-    479.02,
-    485.14,
-    500.3,
-    511.16,
-    521.26
+    {
+      "start": 2.88,
+      "end": 9.64,
+      "usfm": "NUM.26.1"
+    },
+    {
+      "start": 9.64,
+      "end": 19.76,
+      "usfm": "NUM.26.2"
+    },
+    {
+      "start": 19.76,
+      "end": 26.24,
+      "usfm": "NUM.26.3"
+    },
+    {
+      "start": 26.24,
+      "end": 34.36,
+      "usfm": "NUM.26.4"
+    },
+    {
+      "start": 34.36,
+      "end": 44.28,
+      "usfm": "NUM.26.5"
+    },
+    {
+      "start": 44.28,
+      "end": 49.48,
+      "usfm": "NUM.26.6"
+    },
+    {
+      "start": 49.48,
+      "end": 57.48,
+      "usfm": "NUM.26.7"
+    },
+    {
+      "start": 57.48,
+      "end": 60.08,
+      "usfm": "NUM.26.8"
+    },
+    {
+      "start": 60.08,
+      "end": 74.76,
+      "usfm": "NUM.26.9"
+    },
+    {
+      "start": 74.76,
+      "end": 85.94,
+      "usfm": "NUM.26.10"
+    },
+    {
+      "start": 85.94,
+      "end": 89.28,
+      "usfm": "NUM.26.11"
+    },
+    {
+      "start": 89.28,
+      "end": 99.44,
+      "usfm": "NUM.26.12"
+    },
+    {
+      "start": 99.44,
+      "end": 104.68,
+      "usfm": "NUM.26.13"
+    },
+    {
+      "start": 104.68,
+      "end": 109.1,
+      "usfm": "NUM.26.14"
+    },
+    {
+      "start": 109.1,
+      "end": 117.82,
+      "usfm": "NUM.26.15"
+    },
+    {
+      "start": 117.82,
+      "end": 122.1,
+      "usfm": "NUM.26.16"
+    },
+    {
+      "start": 122.1,
+      "end": 127.52,
+      "usfm": "NUM.26.17"
+    },
+    {
+      "start": 127.52,
+      "end": 134.28,
+      "usfm": "NUM.26.18"
+    },
+    {
+      "start": 134.28,
+      "end": 140.86,
+      "usfm": "NUM.26.19"
+    },
+    {
+      "start": 140.86,
+      "end": 151.38,
+      "usfm": "NUM.26.20"
+    },
+    {
+      "start": 151.38,
+      "end": 158.12,
+      "usfm": "NUM.26.21"
+    },
+    {
+      "start": 158.12,
+      "end": 164.7,
+      "usfm": "NUM.26.22"
+    },
+    {
+      "start": 164.7,
+      "end": 172.08,
+      "usfm": "NUM.26.23"
+    },
+    {
+      "start": 172.08,
+      "end": 177.06,
+      "usfm": "NUM.26.24"
+    },
+    {
+      "start": 177.06,
+      "end": 183.72,
+      "usfm": "NUM.26.25"
+    },
+    {
+      "start": 183.72,
+      "end": 193.78,
+      "usfm": "NUM.26.26"
+    },
+    {
+      "start": 193.78,
+      "end": 201.2,
+      "usfm": "NUM.26.27"
+    },
+    {
+      "start": 201.2,
+      "end": 205.78,
+      "usfm": "NUM.26.28"
+    },
+    {
+      "start": 205.78,
+      "end": 214.78,
+      "usfm": "NUM.26.29"
+    },
+    {
+      "start": 214.78,
+      "end": 220.8,
+      "usfm": "NUM.26.30"
+    },
+    {
+      "start": 220.8,
+      "end": 226.58,
+      "usfm": "NUM.26.31"
+    },
+    {
+      "start": 226.58,
+      "end": 232.04,
+      "usfm": "NUM.26.32"
+    },
+    {
+      "start": 232.04,
+      "end": 243.68,
+      "usfm": "NUM.26.33"
+    },
+    {
+      "start": 243.68,
+      "end": 250.38,
+      "usfm": "NUM.26.34"
+    },
+    {
+      "start": 250.38,
+      "end": 260.96,
+      "usfm": "NUM.26.35"
+    },
+    {
+      "start": 260.96,
+      "end": 265.22,
+      "usfm": "NUM.26.36"
+    },
+    {
+      "start": 265.22,
+      "end": 275.46,
+      "usfm": "NUM.26.37"
+    },
+    {
+      "start": 275.46,
+      "end": 285.26,
+      "usfm": "NUM.26.38"
+    },
+    {
+      "start": 285.26,
+      "end": 291.02,
+      "usfm": "NUM.26.39"
+    },
+    {
+      "start": 291.02,
+      "end": 298.42,
+      "usfm": "NUM.26.40"
+    },
+    {
+      "start": 298.42,
+      "end": 305.26,
+      "usfm": "NUM.26.41"
+    },
+    {
+      "start": 305.26,
+      "end": 313.9,
+      "usfm": "NUM.26.42"
+    },
+    {
+      "start": 313.9,
+      "end": 320.86,
+      "usfm": "NUM.26.43"
+    },
+    {
+      "start": 320.86,
+      "end": 331.34,
+      "usfm": "NUM.26.44"
+    },
+    {
+      "start": 331.34,
+      "end": 337.96,
+      "usfm": "NUM.26.45"
+    },
+    {
+      "start": 337.96,
+      "end": 340.58,
+      "usfm": "NUM.26.46"
+    },
+    {
+      "start": 340.58,
+      "end": 347.98,
+      "usfm": "NUM.26.47"
+    },
+    {
+      "start": 347.98,
+      "end": 355.02,
+      "usfm": "NUM.26.48"
+    },
+    {
+      "start": 355.02,
+      "end": 359.48,
+      "usfm": "NUM.26.49"
+    },
+    {
+      "start": 359.48,
+      "end": 367.4,
+      "usfm": "NUM.26.50"
+    },
+    {
+      "start": 367.4,
+      "end": 375.38,
+      "usfm": "NUM.26.51"
+    },
+    {
+      "start": 375.38,
+      "end": 378.32,
+      "usfm": "NUM.26.52"
+    },
+    {
+      "start": 378.32,
+      "end": 383.64,
+      "usfm": "NUM.26.53"
+    },
+    {
+      "start": 383.64,
+      "end": 394.44,
+      "usfm": "NUM.26.54"
+    },
+    {
+      "start": 394.44,
+      "end": 401.62,
+      "usfm": "NUM.26.55"
+    },
+    {
+      "start": 401.62,
+      "end": 407.16,
+      "usfm": "NUM.26.56"
+    },
+    {
+      "start": 407.16,
+      "end": 418.0,
+      "usfm": "NUM.26.57"
+    },
+    {
+      "start": 418.0,
+      "end": 429.4,
+      "usfm": "NUM.26.58"
+    },
+    {
+      "start": 429.4,
+      "end": 441.74,
+      "usfm": "NUM.26.59"
+    },
+    {
+      "start": 441.74,
+      "end": 446.52,
+      "usfm": "NUM.26.60"
+    },
+    {
+      "start": 446.52,
+      "end": 451.72,
+      "usfm": "NUM.26.61"
+    },
+    {
+      "start": 451.72,
+      "end": 464.32,
+      "usfm": "NUM.26.62"
+    },
+    {
+      "start": 464.32,
+      "end": 473.78,
+      "usfm": "NUM.26.63"
+    },
+    {
+      "start": 473.78,
+      "end": 483.34,
+      "usfm": "NUM.26.64"
+    },
+    {
+      "start": 483.34,
+      "end": 502.88,
+      "usfm": "NUM.26.65"
+    }
   ],
   "did_you_know": [],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

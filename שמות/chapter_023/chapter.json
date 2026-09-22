@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 23,
   "title": "שמות פרק 23",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/23-4d88c3d566030bcfdff05d808ec7e137.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/23-94d72fc2955480c7085c305daae22ed3.mp3?version_id=1",
   "english": [
     "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
     "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:",
@@ -222,39 +222,171 @@
     }
   ],
   "times_en": [
-    3.32,
-    11.2,
-    19.92,
-    24.42,
-    30.08,
-    37.88,
-    42.0,
-    51.08,
-    58.52,
-    68.08,
-    73.08,
-    87.3,
-    101.28,
-    111.14,
-    115.28,
-    132.24,
-    145.82,
-    151.3,
-    159.58,
-    168.86,
-    177.4,
-    187.48,
-    197.7,
-    209.72,
-    221.8,
-    230.4,
-    237.42,
-    247.34,
-    254.74,
-    265.24,
-    272.56,
-    286.44,
-    290.9
+    {
+      "start": 2.88,
+      "end": 10.56,
+      "usfm": "EXO.23.1"
+    },
+    {
+      "start": 10.56,
+      "end": 19.2,
+      "usfm": "EXO.23.2"
+    },
+    {
+      "start": 19.2,
+      "end": 23.06,
+      "usfm": "EXO.23.3"
+    },
+    {
+      "start": 23.06,
+      "end": 30.34,
+      "usfm": "EXO.23.4"
+    },
+    {
+      "start": 30.34,
+      "end": 39.74,
+      "usfm": "EXO.23.5"
+    },
+    {
+      "start": 39.74,
+      "end": 44.24,
+      "usfm": "EXO.23.6"
+    },
+    {
+      "start": 44.24,
+      "end": 52.44,
+      "usfm": "EXO.23.7"
+    },
+    {
+      "start": 52.44,
+      "end": 59.2,
+      "usfm": "EXO.23.8"
+    },
+    {
+      "start": 59.2,
+      "end": 68.66,
+      "usfm": "EXO.23.9"
+    },
+    {
+      "start": 68.66,
+      "end": 74.78,
+      "usfm": "EXO.23.10"
+    },
+    {
+      "start": 74.78,
+      "end": 88.72,
+      "usfm": "EXO.23.11"
+    },
+    {
+      "start": 88.72,
+      "end": 100.82,
+      "usfm": "EXO.23.12"
+    },
+    {
+      "start": 100.82,
+      "end": 109.94,
+      "usfm": "EXO.23.13"
+    },
+    {
+      "start": 109.94,
+      "end": 114.34,
+      "usfm": "EXO.23.14"
+    },
+    {
+      "start": 114.34,
+      "end": 129.56,
+      "usfm": "EXO.23.15"
+    },
+    {
+      "start": 129.56,
+      "end": 143.54,
+      "usfm": "EXO.23.16"
+    },
+    {
+      "start": 143.54,
+      "end": 147.9,
+      "usfm": "EXO.23.17"
+    },
+    {
+      "start": 147.9,
+      "end": 156.6,
+      "usfm": "EXO.23.18"
+    },
+    {
+      "start": 156.6,
+      "end": 167.7,
+      "usfm": "EXO.23.19"
+    },
+    {
+      "start": 167.7,
+      "end": 176.32,
+      "usfm": "EXO.23.20"
+    },
+    {
+      "start": 176.32,
+      "end": 186.0,
+      "usfm": "EXO.23.21"
+    },
+    {
+      "start": 186.0,
+      "end": 199.46,
+      "usfm": "EXO.23.22"
+    },
+    {
+      "start": 199.46,
+      "end": 211.8,
+      "usfm": "EXO.23.23"
+    },
+    {
+      "start": 211.8,
+      "end": 223.02,
+      "usfm": "EXO.23.24"
+    },
+    {
+      "start": 223.02,
+      "end": 231.94,
+      "usfm": "EXO.23.25"
+    },
+    {
+      "start": 231.94,
+      "end": 240.04,
+      "usfm": "EXO.23.26"
+    },
+    {
+      "start": 240.04,
+      "end": 250.04,
+      "usfm": "EXO.23.27"
+    },
+    {
+      "start": 250.04,
+      "end": 257.84,
+      "usfm": "EXO.23.28"
+    },
+    {
+      "start": 257.84,
+      "end": 265.64,
+      "usfm": "EXO.23.29"
+    },
+    {
+      "start": 265.64,
+      "end": 271.96,
+      "usfm": "EXO.23.30"
+    },
+    {
+      "start": 271.96,
+      "end": 285.22,
+      "usfm": "EXO.23.31"
+    },
+    {
+      "start": 285.22,
+      "end": 289.72,
+      "usfm": "EXO.23.32"
+    },
+    {
+      "start": 289.72,
+      "end": 306.4,
+      "usfm": "EXO.23.33"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -325,8 +457,8 @@
       "text_en": "The verse presents gradual settlement as an environmental consideration: a population that is too small could not cultivate the land, and wild animals might multiply there. It is an example of thinking about the unintended effects of sudden change."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

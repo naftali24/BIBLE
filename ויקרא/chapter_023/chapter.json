@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 23,
   "title": "ויקרא פרק 23",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/23-dcb651aa5709eb0398f1f17af15b4b7d.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/23-74865f4d58d3155965af39cdaf54d72d.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, and say unto them, Concerning the feasts of the Lord, which ye shall proclaim to be holy convocations, even these are my feasts.",
@@ -255,50 +255,226 @@
     }
   ],
   "times_en": [
-    3.32,
-    6.08,
-    14.96,
-    28.46,
-    35.56,
-    41.72,
-    50.52,
-    57.04,
-    67.84,
-    70.0,
-    80.6,
-    89.72,
-    96.92,
-    110.6,
-    123.66,
-    131.4,
-    139.58,
-    150.76,
-    169.44,
-    177.14,
-    189.04,
-    201.34,
-    214.92,
-    217.24,
-    227.58,
-    234.06,
-    236.42,
-    247.68,
-    256.16,
-    262.26,
-    268.14,
-    276.02,
-    287.9,
-    290.06,
-    300.74,
-    306.58,
-    322.9,
-    338.34,
-    350.64,
-    365.08,
-    379.34,
-    391.44,
-    398.7,
-    408.18
+    {
+      "start": 2.88,
+      "end": 5.5,
+      "usfm": "LEV.23.1"
+    },
+    {
+      "start": 5.5,
+      "end": 16.44,
+      "usfm": "LEV.23.2"
+    },
+    {
+      "start": 16.44,
+      "end": 29.5,
+      "usfm": "LEV.23.3"
+    },
+    {
+      "start": 29.5,
+      "end": 35.38,
+      "usfm": "LEV.23.4"
+    },
+    {
+      "start": 35.38,
+      "end": 39.4,
+      "usfm": "LEV.23.5"
+    },
+    {
+      "start": 39.4,
+      "end": 47.48,
+      "usfm": "LEV.23.6"
+    },
+    {
+      "start": 47.48,
+      "end": 53.94,
+      "usfm": "LEV.23.7"
+    },
+    {
+      "start": 53.94,
+      "end": 64.68,
+      "usfm": "LEV.23.8"
+    },
+    {
+      "start": 64.68,
+      "end": 67.32,
+      "usfm": "LEV.23.9"
+    },
+    {
+      "start": 67.32,
+      "end": 80.26,
+      "usfm": "LEV.23.10"
+    },
+    {
+      "start": 80.26,
+      "end": 87.64,
+      "usfm": "LEV.23.11"
+    },
+    {
+      "start": 87.64,
+      "end": 95.6,
+      "usfm": "LEV.23.12"
+    },
+    {
+      "start": 95.6,
+      "end": 109.32,
+      "usfm": "LEV.23.13"
+    },
+    {
+      "start": 109.32,
+      "end": 123.24,
+      "usfm": "LEV.23.14"
+    },
+    {
+      "start": 123.24,
+      "end": 131.88,
+      "usfm": "LEV.23.15"
+    },
+    {
+      "start": 131.88,
+      "end": 141.2,
+      "usfm": "LEV.23.16"
+    },
+    {
+      "start": 141.2,
+      "end": 154.76,
+      "usfm": "LEV.23.17"
+    },
+    {
+      "start": 154.76,
+      "end": 172.4,
+      "usfm": "LEV.23.18"
+    },
+    {
+      "start": 172.4,
+      "end": 180.18,
+      "usfm": "LEV.23.19"
+    },
+    {
+      "start": 180.18,
+      "end": 189.54,
+      "usfm": "LEV.23.20"
+    },
+    {
+      "start": 189.54,
+      "end": 203.1,
+      "usfm": "LEV.23.21"
+    },
+    {
+      "start": 203.1,
+      "end": 221.12,
+      "usfm": "LEV.23.22"
+    },
+    {
+      "start": 221.12,
+      "end": 223.9,
+      "usfm": "LEV.23.23"
+    },
+    {
+      "start": 223.9,
+      "end": 235.18,
+      "usfm": "LEV.23.24"
+    },
+    {
+      "start": 235.18,
+      "end": 242.24,
+      "usfm": "LEV.23.25"
+    },
+    {
+      "start": 242.24,
+      "end": 244.9,
+      "usfm": "LEV.23.26"
+    },
+    {
+      "start": 244.9,
+      "end": 257.86,
+      "usfm": "LEV.23.27"
+    },
+    {
+      "start": 257.86,
+      "end": 266.82,
+      "usfm": "LEV.23.28"
+    },
+    {
+      "start": 266.82,
+      "end": 275.52,
+      "usfm": "LEV.23.29"
+    },
+    {
+      "start": 275.52,
+      "end": 284.2,
+      "usfm": "LEV.23.30"
+    },
+    {
+      "start": 284.2,
+      "end": 291.5,
+      "usfm": "LEV.23.31"
+    },
+    {
+      "start": 291.5,
+      "end": 302.3,
+      "usfm": "LEV.23.32"
+    },
+    {
+      "start": 302.3,
+      "end": 305.6,
+      "usfm": "LEV.23.33"
+    },
+    {
+      "start": 305.6,
+      "end": 315.18,
+      "usfm": "LEV.23.34"
+    },
+    {
+      "start": 315.18,
+      "end": 321.4,
+      "usfm": "LEV.23.35"
+    },
+    {
+      "start": 321.4,
+      "end": 338.6,
+      "usfm": "LEV.23.36"
+    },
+    {
+      "start": 338.6,
+      "end": 353.44,
+      "usfm": "LEV.23.37"
+    },
+    {
+      "start": 353.44,
+      "end": 362.9,
+      "usfm": "LEV.23.38"
+    },
+    {
+      "start": 362.9,
+      "end": 376.98,
+      "usfm": "LEV.23.39"
+    },
+    {
+      "start": 376.98,
+      "end": 390.1,
+      "usfm": "LEV.23.40"
+    },
+    {
+      "start": 390.1,
+      "end": 399.56,
+      "usfm": "LEV.23.41"
+    },
+    {
+      "start": 399.56,
+      "end": 406.3,
+      "usfm": "LEV.23.42"
+    },
+    {
+      "start": 406.3,
+      "end": 416.38,
+      "usfm": "LEV.23.43"
+    },
+    {
+      "start": 416.38,
+      "end": 429.0,
+      "usfm": "LEV.23.44"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -393,8 +569,8 @@
       "text_en": "The sukkah recalls the Israelites’ temporary life in the wilderness, so it is built as a temporary structure rather than a permanent home. Each year, the festival invites people to leave their comfort zone and live simply for a short time."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

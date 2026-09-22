@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 28,
   "title": "בראשית פרק 28",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/28-be4b418f1ac5e6cb07078382fd90f8eb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/28-d04f9e45cb702f05f832c54b08436e4a.mp3?version_id=1",
   "english": [
     "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
     "Arise, go to Padanaram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughers of Laban thy mother's brother.",
@@ -144,28 +144,116 @@
     }
   ],
   "times_en": [
-    3.32,
-    10.64,
-    19.46,
-    26.96,
-    37.66,
-    48.32,
-    57.76,
-    62.24,
-    66.54,
-    76.96,
-    81.64,
-    92.78,
-    103.12,
-    117.52,
-    130.68,
-    142.98,
-    150.08,
-    159.68,
-    168.56,
-    174.2,
-    184.6,
-    190.56
+    {
+      "start": 2.88,
+      "end": 12.4,
+      "usfm": "GEN.28.1"
+    },
+    {
+      "start": 12.4,
+      "end": 23.34,
+      "usfm": "GEN.28.2"
+    },
+    {
+      "start": 23.34,
+      "end": 31.9,
+      "usfm": "GEN.28.3"
+    },
+    {
+      "start": 31.9,
+      "end": 43.4,
+      "usfm": "GEN.28.4"
+    },
+    {
+      "start": 43.4,
+      "end": 54.24,
+      "usfm": "GEN.28.5"
+    },
+    {
+      "start": 54.24,
+      "end": 66.6,
+      "usfm": "GEN.28.6"
+    },
+    {
+      "start": 66.6,
+      "end": 71.44,
+      "usfm": "GEN.28.7"
+    },
+    {
+      "start": 71.44,
+      "end": 76.42,
+      "usfm": "GEN.28.8"
+    },
+    {
+      "start": 76.42,
+      "end": 87.54,
+      "usfm": "GEN.28.9"
+    },
+    {
+      "start": 87.54,
+      "end": 92.3,
+      "usfm": "GEN.28.10"
+    },
+    {
+      "start": 92.3,
+      "end": 107.06,
+      "usfm": "GEN.28.11"
+    },
+    {
+      "start": 107.06,
+      "end": 120.34,
+      "usfm": "GEN.28.12"
+    },
+    {
+      "start": 120.34,
+      "end": 137.54,
+      "usfm": "GEN.28.13"
+    },
+    {
+      "start": 137.54,
+      "end": 154.64,
+      "usfm": "GEN.28.14"
+    },
+    {
+      "start": 154.64,
+      "end": 173.6,
+      "usfm": "GEN.28.15"
+    },
+    {
+      "start": 173.6,
+      "end": 182.28,
+      "usfm": "GEN.28.16"
+    },
+    {
+      "start": 182.28,
+      "end": 194.22,
+      "usfm": "GEN.28.17"
+    },
+    {
+      "start": 194.22,
+      "end": 204.78,
+      "usfm": "GEN.28.18"
+    },
+    {
+      "start": 204.78,
+      "end": 212.16,
+      "usfm": "GEN.28.19"
+    },
+    {
+      "start": 212.16,
+      "end": 225.76,
+      "usfm": "GEN.28.20"
+    },
+    {
+      "start": 225.76,
+      "end": 233.2,
+      "usfm": "GEN.28.21"
+    },
+    {
+      "start": 233.2,
+      "end": 252.48,
+      "usfm": "GEN.28.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -214,8 +302,8 @@
   ],
   "audio_start_offset": 1.44,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

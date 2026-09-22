@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 4,
   "title": "במדבר פרק 4",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/4-974461c9f26f693e8de18b5fc2a15751.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/4-1e9b2fb24a1e870fd13f2596881a44a6.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses and unto Aaron, saying,",
     "Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,",
@@ -261,55 +261,251 @@
     }
   ],
   "times_en": [
-    3.08,
-    6.42,
-    11.72,
-    19.04,
-    24.84,
-    33.88,
-    41.52,
-    54.92,
-    61.8,
-    73.36,
-    80.94,
-    88.08,
-    97.86,
-    103.72,
-    119.06,
-    139.52,
-    157.78,
-    160.44,
-    165.82,
-    178.76,
-    185.96,
-    188.02,
-    192.88,
-    199.54,
-    204.46,
-    213.6,
-    229.82,
-    241.86,
-    252.2,
-    257.08,
-    263.48,
-    272.6,
-    287.3,
-    297.44,
-    304.26,
-    310.1,
-    315.1,
-    326.4,
-    330.22,
-    336.28,
-    342.02,
-    350.6,
-    354.8,
-    361.16,
-    366.0,
-    373.44,
-    380.32,
-    386.54,
-    390.4
+    {
+      "start": 2.88,
+      "end": 6.26,
+      "usfm": "NUM.4.1"
+    },
+    {
+      "start": 6.26,
+      "end": 13.16,
+      "usfm": "NUM.4.2"
+    },
+    {
+      "start": 13.16,
+      "end": 21.2,
+      "usfm": "NUM.4.3"
+    },
+    {
+      "start": 21.2,
+      "end": 28.74,
+      "usfm": "NUM.4.4"
+    },
+    {
+      "start": 28.74,
+      "end": 38.14,
+      "usfm": "NUM.4.5"
+    },
+    {
+      "start": 38.14,
+      "end": 47.8,
+      "usfm": "NUM.4.6"
+    },
+    {
+      "start": 47.8,
+      "end": 61.54,
+      "usfm": "NUM.4.7"
+    },
+    {
+      "start": 61.54,
+      "end": 70.56,
+      "usfm": "NUM.4.8"
+    },
+    {
+      "start": 70.56,
+      "end": 80.68,
+      "usfm": "NUM.4.9"
+    },
+    {
+      "start": 80.68,
+      "end": 86.88,
+      "usfm": "NUM.4.10"
+    },
+    {
+      "start": 86.88,
+      "end": 95.82,
+      "usfm": "NUM.4.11"
+    },
+    {
+      "start": 95.82,
+      "end": 107.62,
+      "usfm": "NUM.4.12"
+    },
+    {
+      "start": 107.62,
+      "end": 112.7,
+      "usfm": "NUM.4.13"
+    },
+    {
+      "start": 112.7,
+      "end": 131.0,
+      "usfm": "NUM.4.14"
+    },
+    {
+      "start": 131.0,
+      "end": 149.94,
+      "usfm": "NUM.4.15"
+    },
+    {
+      "start": 149.94,
+      "end": 167.54,
+      "usfm": "NUM.4.16"
+    },
+    {
+      "start": 167.54,
+      "end": 171.26,
+      "usfm": "NUM.4.17"
+    },
+    {
+      "start": 171.26,
+      "end": 176.74,
+      "usfm": "NUM.4.18"
+    },
+    {
+      "start": 176.74,
+      "end": 189.56,
+      "usfm": "NUM.4.19"
+    },
+    {
+      "start": 189.56,
+      "end": 194.62,
+      "usfm": "NUM.4.20"
+    },
+    {
+      "start": 194.62,
+      "end": 197.3,
+      "usfm": "NUM.4.21"
+    },
+    {
+      "start": 197.3,
+      "end": 203.86,
+      "usfm": "NUM.4.22"
+    },
+    {
+      "start": 203.86,
+      "end": 213.8,
+      "usfm": "NUM.4.23"
+    },
+    {
+      "start": 213.8,
+      "end": 218.98,
+      "usfm": "NUM.4.24"
+    },
+    {
+      "start": 218.98,
+      "end": 232.18,
+      "usfm": "NUM.4.25"
+    },
+    {
+      "start": 232.18,
+      "end": 247.66,
+      "usfm": "NUM.4.26"
+    },
+    {
+      "start": 247.66,
+      "end": 260.0,
+      "usfm": "NUM.4.27"
+    },
+    {
+      "start": 260.0,
+      "end": 271.22,
+      "usfm": "NUM.4.28"
+    },
+    {
+      "start": 271.22,
+      "end": 277.56,
+      "usfm": "NUM.4.29"
+    },
+    {
+      "start": 277.56,
+      "end": 288.92,
+      "usfm": "NUM.4.30"
+    },
+    {
+      "start": 288.92,
+      "end": 301.3,
+      "usfm": "NUM.4.31"
+    },
+    {
+      "start": 301.3,
+      "end": 314.52,
+      "usfm": "NUM.4.32"
+    },
+    {
+      "start": 314.52,
+      "end": 325.72,
+      "usfm": "NUM.4.33"
+    },
+    {
+      "start": 325.72,
+      "end": 334.2,
+      "usfm": "NUM.4.34"
+    },
+    {
+      "start": 334.2,
+      "end": 342.22,
+      "usfm": "NUM.4.35"
+    },
+    {
+      "start": 342.22,
+      "end": 346.98,
+      "usfm": "NUM.4.36"
+    },
+    {
+      "start": 346.98,
+      "end": 360.22,
+      "usfm": "NUM.4.37"
+    },
+    {
+      "start": 360.22,
+      "end": 365.86,
+      "usfm": "NUM.4.38"
+    },
+    {
+      "start": 365.86,
+      "end": 373.86,
+      "usfm": "NUM.4.39"
+    },
+    {
+      "start": 373.86,
+      "end": 381.36,
+      "usfm": "NUM.4.40"
+    },
+    {
+      "start": 381.36,
+      "end": 392.44,
+      "usfm": "NUM.4.41"
+    },
+    {
+      "start": 392.44,
+      "end": 398.6,
+      "usfm": "NUM.4.42"
+    },
+    {
+      "start": 398.6,
+      "end": 406.32,
+      "usfm": "NUM.4.43"
+    },
+    {
+      "start": 406.32,
+      "end": 411.4,
+      "usfm": "NUM.4.44"
+    },
+    {
+      "start": 411.4,
+      "end": 420.2,
+      "usfm": "NUM.4.45"
+    },
+    {
+      "start": 420.2,
+      "end": 429.16,
+      "usfm": "NUM.4.46"
+    },
+    {
+      "start": 429.16,
+      "end": 439.36,
+      "usfm": "NUM.4.47"
+    },
+    {
+      "start": 439.36,
+      "end": 444.48,
+      "usfm": "NUM.4.48"
+    },
+    {
+      "start": 444.48,
+      "end": 466.08,
+      "usfm": "NUM.4.49"
+    }
   ],
   "did_you_know": [
     {
@@ -409,8 +605,8 @@
       "text_en": "Did you know? Each Levite received a specific task and a defined burden 'by the mouth of the Lord,' ensuring perfect order and maximum efficiency in assembling and disassembling the Tabernacle."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

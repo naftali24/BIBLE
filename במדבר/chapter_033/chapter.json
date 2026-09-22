@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 33,
   "title": "במדבר פרק 33",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/33-74f01f6b2bce020d8512b526dc97d15a.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/33-70a01bda0830575db835bc95cf88a44d.mp3?version_id=1",
   "english": [
     "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
     "And Moses wrote their goings out according to their journeys by the commandment of the Lord: and these are their journeys according to their goings out.",
@@ -273,62 +273,286 @@
     }
   ],
   "times_en": [
-    3.3,
-    12.94,
-    22.38,
-    34.38,
-    43.96,
-    48.56,
-    54.0,
-    62.18,
-    73.26,
-    81.74,
-    85.84,
-    90.3,
-    94.62,
-    98.38,
-    105.08,
-    109.88,
-    115.06,
-    119.92,
-    123.68,
-    127.86,
-    131.88,
-    135.68,
-    139.9,
-    144.08,
-    148.04,
-    152.0,
-    155.8,
-    159.64,
-    163.62,
-    167.68,
-    171.76,
-    176.08,
-    180.94,
-    185.5,
-    189.48,
-    193.82,
-    199.86,
-    206.54,
-    219.44,
-    224.86,
-    232.86,
-    237.92,
-    241.72,
-    245.4,
-    250.86,
-    255.08,
-    260.04,
-    266.32,
-    273.92,
-    281.3,
-    287.6,
-    293.72,
-    304.48,
-    311.22,
-    331.24,
-    344.76
+    {
+      "start": 2.88,
+      "end": 11.46,
+      "usfm": "NUM.33.1"
+    },
+    {
+      "start": 11.46,
+      "end": 20.24,
+      "usfm": "NUM.33.2"
+    },
+    {
+      "start": 20.24,
+      "end": 32.1,
+      "usfm": "NUM.33.3"
+    },
+    {
+      "start": 32.1,
+      "end": 40.2,
+      "usfm": "NUM.33.4"
+    },
+    {
+      "start": 40.2,
+      "end": 45.0,
+      "usfm": "NUM.33.5"
+    },
+    {
+      "start": 45.0,
+      "end": 50.58,
+      "usfm": "NUM.33.6"
+    },
+    {
+      "start": 50.58,
+      "end": 59.66,
+      "usfm": "NUM.33.7"
+    },
+    {
+      "start": 59.66,
+      "end": 70.34,
+      "usfm": "NUM.33.8"
+    },
+    {
+      "start": 70.34,
+      "end": 80.92,
+      "usfm": "NUM.33.9"
+    },
+    {
+      "start": 80.92,
+      "end": 84.72,
+      "usfm": "NUM.33.10"
+    },
+    {
+      "start": 84.72,
+      "end": 89.56,
+      "usfm": "NUM.33.11"
+    },
+    {
+      "start": 89.56,
+      "end": 95.02,
+      "usfm": "NUM.33.12"
+    },
+    {
+      "start": 95.02,
+      "end": 98.82,
+      "usfm": "NUM.33.13"
+    },
+    {
+      "start": 98.82,
+      "end": 106.86,
+      "usfm": "NUM.33.14"
+    },
+    {
+      "start": 106.86,
+      "end": 111.56,
+      "usfm": "NUM.33.15"
+    },
+    {
+      "start": 111.56,
+      "end": 115.78,
+      "usfm": "NUM.33.16"
+    },
+    {
+      "start": 115.78,
+      "end": 120.38,
+      "usfm": "NUM.33.17"
+    },
+    {
+      "start": 120.38,
+      "end": 124.44,
+      "usfm": "NUM.33.18"
+    },
+    {
+      "start": 124.44,
+      "end": 128.96,
+      "usfm": "NUM.33.19"
+    },
+    {
+      "start": 128.96,
+      "end": 132.92,
+      "usfm": "NUM.33.20"
+    },
+    {
+      "start": 132.92,
+      "end": 136.58,
+      "usfm": "NUM.33.21"
+    },
+    {
+      "start": 136.58,
+      "end": 140.28,
+      "usfm": "NUM.33.22"
+    },
+    {
+      "start": 140.28,
+      "end": 144.66,
+      "usfm": "NUM.33.23"
+    },
+    {
+      "start": 144.66,
+      "end": 148.7,
+      "usfm": "NUM.33.24"
+    },
+    {
+      "start": 148.7,
+      "end": 153.48,
+      "usfm": "NUM.33.25"
+    },
+    {
+      "start": 153.48,
+      "end": 157.6,
+      "usfm": "NUM.33.26"
+    },
+    {
+      "start": 157.6,
+      "end": 161.62,
+      "usfm": "NUM.33.27"
+    },
+    {
+      "start": 161.62,
+      "end": 165.9,
+      "usfm": "NUM.33.28"
+    },
+    {
+      "start": 165.9,
+      "end": 169.74,
+      "usfm": "NUM.33.29"
+    },
+    {
+      "start": 169.74,
+      "end": 173.66,
+      "usfm": "NUM.33.30"
+    },
+    {
+      "start": 173.66,
+      "end": 178.32,
+      "usfm": "NUM.33.31"
+    },
+    {
+      "start": 178.32,
+      "end": 182.64,
+      "usfm": "NUM.33.32"
+    },
+    {
+      "start": 182.64,
+      "end": 186.78,
+      "usfm": "NUM.33.33"
+    },
+    {
+      "start": 186.78,
+      "end": 190.74,
+      "usfm": "NUM.33.34"
+    },
+    {
+      "start": 190.74,
+      "end": 195.2,
+      "usfm": "NUM.33.35"
+    },
+    {
+      "start": 195.2,
+      "end": 200.52,
+      "usfm": "NUM.33.36"
+    },
+    {
+      "start": 200.52,
+      "end": 206.7,
+      "usfm": "NUM.33.37"
+    },
+    {
+      "start": 206.7,
+      "end": 220.48,
+      "usfm": "NUM.33.38"
+    },
+    {
+      "start": 220.48,
+      "end": 226.46,
+      "usfm": "NUM.33.39"
+    },
+    {
+      "start": 226.46,
+      "end": 234.4,
+      "usfm": "NUM.33.40"
+    },
+    {
+      "start": 234.4,
+      "end": 238.22,
+      "usfm": "NUM.33.41"
+    },
+    {
+      "start": 238.22,
+      "end": 242.12,
+      "usfm": "NUM.33.42"
+    },
+    {
+      "start": 242.12,
+      "end": 246.06,
+      "usfm": "NUM.33.43"
+    },
+    {
+      "start": 246.06,
+      "end": 251.26,
+      "usfm": "NUM.33.44"
+    },
+    {
+      "start": 251.26,
+      "end": 255.16,
+      "usfm": "NUM.33.45"
+    },
+    {
+      "start": 255.16,
+      "end": 260.3,
+      "usfm": "NUM.33.46"
+    },
+    {
+      "start": 260.3,
+      "end": 266.36,
+      "usfm": "NUM.33.47"
+    },
+    {
+      "start": 266.36,
+      "end": 272.88,
+      "usfm": "NUM.33.48"
+    },
+    {
+      "start": 272.88,
+      "end": 280.3,
+      "usfm": "NUM.33.49"
+    },
+    {
+      "start": 280.3,
+      "end": 285.92,
+      "usfm": "NUM.33.50"
+    },
+    {
+      "start": 285.92,
+      "end": 293.44,
+      "usfm": "NUM.33.51"
+    },
+    {
+      "start": 293.44,
+      "end": 305.8,
+      "usfm": "NUM.33.52"
+    },
+    {
+      "start": 305.8,
+      "end": 313.68,
+      "usfm": "NUM.33.53"
+    },
+    {
+      "start": 313.68,
+      "end": 333.08,
+      "usfm": "NUM.33.54"
+    },
+    {
+      "start": 333.08,
+      "end": 350.18,
+      "usfm": "NUM.33.55"
+    },
+    {
+      "start": 350.18,
+      "end": 365.52,
+      "usfm": "NUM.33.56"
+    }
   ],
   "did_you_know": [
     {
@@ -446,8 +670,8 @@
       "text_en": "The warning not to leave the inhabitants is meant to prevent their religious and cultural influence on Israel — a concern repeated elsewhere in the biblical literature."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

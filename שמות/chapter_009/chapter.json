@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 9,
   "title": "שמות פרק 9",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/9-37cc56a0948c5f8278298b1eba6de546.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/9-c2a9626d63ebe0c9945cafd1d797b348.mp3?version_id=1",
   "english": [
     "Then the Lord said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the Lord God of the Hebrews, Let my people go, that they may serve me.",
     "For if thou refuse to let them go, and wilt hold them still,",
@@ -219,41 +219,181 @@
     }
   ],
   "times_en": [
-    3.06,
-    14.58,
-    18.88,
-    28.62,
-    38.3,
-    44.04,
-    54.56,
-    64.94,
-    74.68,
-    83.74,
-    94.28,
-    101.84,
-    109.12,
-    122.9,
-    133.1,
-    141.26,
-    151.76,
-    157.24,
-    167.28,
-    180.2,
-    188.04,
-    193.34,
-    206.46,
-    218.8,
-    230.9,
-    242.26,
-    248.72,
-    259.42,
-    268.8,
-    282.34,
-    289.0,
-    295.6,
-    300.8,
-    312.62,
-    322.04
+    {
+      "start": 2.88,
+      "end": 14.12,
+      "usfm": "EXO.9.1"
+    },
+    {
+      "start": 14.12,
+      "end": 18.0,
+      "usfm": "EXO.9.2"
+    },
+    {
+      "start": 18.0,
+      "end": 30.88,
+      "usfm": "EXO.9.3"
+    },
+    {
+      "start": 30.88,
+      "end": 39.6,
+      "usfm": "EXO.9.4"
+    },
+    {
+      "start": 39.6,
+      "end": 44.94,
+      "usfm": "EXO.9.5"
+    },
+    {
+      "start": 44.94,
+      "end": 53.64,
+      "usfm": "EXO.9.6"
+    },
+    {
+      "start": 53.64,
+      "end": 63.48,
+      "usfm": "EXO.9.7"
+    },
+    {
+      "start": 63.48,
+      "end": 73.22,
+      "usfm": "EXO.9.8"
+    },
+    {
+      "start": 73.22,
+      "end": 82.74,
+      "usfm": "EXO.9.9"
+    },
+    {
+      "start": 82.74,
+      "end": 94.88,
+      "usfm": "EXO.9.10"
+    },
+    {
+      "start": 94.88,
+      "end": 102.58,
+      "usfm": "EXO.9.11"
+    },
+    {
+      "start": 102.58,
+      "end": 109.82,
+      "usfm": "EXO.9.12"
+    },
+    {
+      "start": 109.82,
+      "end": 122.04,
+      "usfm": "EXO.9.13"
+    },
+    {
+      "start": 122.04,
+      "end": 132.44,
+      "usfm": "EXO.9.14"
+    },
+    {
+      "start": 132.44,
+      "end": 140.3,
+      "usfm": "EXO.9.15"
+    },
+    {
+      "start": 140.3,
+      "end": 149.58,
+      "usfm": "EXO.9.16"
+    },
+    {
+      "start": 149.58,
+      "end": 155.74,
+      "usfm": "EXO.9.17"
+    },
+    {
+      "start": 155.74,
+      "end": 165.64,
+      "usfm": "EXO.9.18"
+    },
+    {
+      "start": 165.64,
+      "end": 179.78,
+      "usfm": "EXO.9.19"
+    },
+    {
+      "start": 179.78,
+      "end": 187.24,
+      "usfm": "EXO.9.20"
+    },
+    {
+      "start": 187.24,
+      "end": 192.84,
+      "usfm": "EXO.9.21"
+    },
+    {
+      "start": 192.84,
+      "end": 205.52,
+      "usfm": "EXO.9.22"
+    },
+    {
+      "start": 205.52,
+      "end": 216.82,
+      "usfm": "EXO.9.23"
+    },
+    {
+      "start": 216.82,
+      "end": 225.66,
+      "usfm": "EXO.9.24"
+    },
+    {
+      "start": 225.66,
+      "end": 235.96,
+      "usfm": "EXO.9.25"
+    },
+    {
+      "start": 235.96,
+      "end": 241.04,
+      "usfm": "EXO.9.26"
+    },
+    {
+      "start": 241.04,
+      "end": 251.74,
+      "usfm": "EXO.9.27"
+    },
+    {
+      "start": 251.74,
+      "end": 260.7,
+      "usfm": "EXO.9.28"
+    },
+    {
+      "start": 260.7,
+      "end": 275.94,
+      "usfm": "EXO.9.29"
+    },
+    {
+      "start": 275.94,
+      "end": 281.06,
+      "usfm": "EXO.9.30"
+    },
+    {
+      "start": 281.06,
+      "end": 287.48,
+      "usfm": "EXO.9.31"
+    },
+    {
+      "start": 287.48,
+      "end": 291.58,
+      "usfm": "EXO.9.32"
+    },
+    {
+      "start": 291.58,
+      "end": 301.98,
+      "usfm": "EXO.9.33"
+    },
+    {
+      "start": 301.98,
+      "end": 311.42,
+      "usfm": "EXO.9.34"
+    },
+    {
+      "start": 311.42,
+      "end": 326.6,
+      "usfm": "EXO.9.35"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -330,8 +470,8 @@
       "text_en": "The rain and hail stop, but the relief leads Pharaoh to change his mind again. It is a familiar human pattern: during a crisis people promise to change, then return to old habits afterward."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

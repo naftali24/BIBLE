@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 24,
   "title": "בראשית פרק 24",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/24-7e2aeab211c57ba3ce01ca5dffbb0a72.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/24-b6cfbd025feb7277d4b37d7a5e7fbb26.mp3?version_id=1",
   "english": [
     "And Abraham was old, and well stricken in age: and the Lord had blessed Abraham in all things.",
     "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:",
@@ -378,73 +378,341 @@
     }
   ],
   "times_en": [
-    3.38,
-    10.42,
-    18.64,
-    29.1,
-    34.48,
-    43.64,
-    48.58,
-    66.18,
-    74.78,
-    82.4,
-    94.14,
-    102.96,
-    112.14,
-    119.26,
-    138.38,
-    149.94,
-    160.14,
-    166.06,
-    172.58,
-    180.62,
-    190.04,
-    196.42,
-    206.0,
-    212.94,
-    218.94,
-    225.18,
-    228.22,
-    242.2,
-    246.46,
-    252.22,
-    264.88,
-    274.92,
-    285.02,
-    295.64,
-    298.72,
-    310.62,
-    318.04,
-    326.48,
-    332.46,
-    337.06,
-    349.92,
-    356.08,
-    365.16,
-    374.9,
-    383.72,
-    395.8,
-    406.12,
-    419.78,
-    431.26,
-    439.86,
-    445.82,
-    455.38,
-    461.26,
-    471.54,
-    481.96,
-    489.48,
-    499.16,
-    503.68,
-    510.64,
-    517.44,
-    529.06,
-    537.98,
-    543.7,
-    551.22,
-    555.84,
-    566.74,
-    570.06
+    {
+      "start": 2.88,
+      "end": 10.04,
+      "usfm": "GEN.24.1"
+    },
+    {
+      "start": 10.04,
+      "end": 19.06,
+      "usfm": "GEN.24.2"
+    },
+    {
+      "start": 19.06,
+      "end": 29.0,
+      "usfm": "GEN.24.3"
+    },
+    {
+      "start": 29.0,
+      "end": 35.82,
+      "usfm": "GEN.24.4"
+    },
+    {
+      "start": 35.82,
+      "end": 45.76,
+      "usfm": "GEN.24.5"
+    },
+    {
+      "start": 45.76,
+      "end": 51.96,
+      "usfm": "GEN.24.6"
+    },
+    {
+      "start": 51.96,
+      "end": 69.9,
+      "usfm": "GEN.24.7"
+    },
+    {
+      "start": 69.9,
+      "end": 79.16,
+      "usfm": "GEN.24.8"
+    },
+    {
+      "start": 79.16,
+      "end": 85.94,
+      "usfm": "GEN.24.9"
+    },
+    {
+      "start": 85.94,
+      "end": 98.4,
+      "usfm": "GEN.24.10"
+    },
+    {
+      "start": 98.4,
+      "end": 106.96,
+      "usfm": "GEN.24.11"
+    },
+    {
+      "start": 106.96,
+      "end": 116.98,
+      "usfm": "GEN.24.12"
+    },
+    {
+      "start": 116.98,
+      "end": 123.8,
+      "usfm": "GEN.24.13"
+    },
+    {
+      "start": 123.8,
+      "end": 147.16,
+      "usfm": "GEN.24.14"
+    },
+    {
+      "start": 147.16,
+      "end": 161.06,
+      "usfm": "GEN.24.15"
+    },
+    {
+      "start": 161.06,
+      "end": 172.02,
+      "usfm": "GEN.24.16"
+    },
+    {
+      "start": 172.02,
+      "end": 177.3,
+      "usfm": "GEN.24.17"
+    },
+    {
+      "start": 177.3,
+      "end": 184.82,
+      "usfm": "GEN.24.18"
+    },
+    {
+      "start": 184.82,
+      "end": 192.86,
+      "usfm": "GEN.24.19"
+    },
+    {
+      "start": 192.86,
+      "end": 201.0,
+      "usfm": "GEN.24.20"
+    },
+    {
+      "start": 201.0,
+      "end": 208.14,
+      "usfm": "GEN.24.21"
+    },
+    {
+      "start": 208.14,
+      "end": 219.04,
+      "usfm": "GEN.24.22"
+    },
+    {
+      "start": 219.04,
+      "end": 226.94,
+      "usfm": "GEN.24.23"
+    },
+    {
+      "start": 226.94,
+      "end": 234.72,
+      "usfm": "GEN.24.24"
+    },
+    {
+      "start": 234.72,
+      "end": 241.78,
+      "usfm": "GEN.24.25"
+    },
+    {
+      "start": 241.78,
+      "end": 246.04,
+      "usfm": "GEN.24.26"
+    },
+    {
+      "start": 246.04,
+      "end": 261.48,
+      "usfm": "GEN.24.27"
+    },
+    {
+      "start": 261.48,
+      "end": 266.2,
+      "usfm": "GEN.24.28"
+    },
+    {
+      "start": 266.2,
+      "end": 272.38,
+      "usfm": "GEN.24.29"
+    },
+    {
+      "start": 272.38,
+      "end": 286.94,
+      "usfm": "GEN.24.30"
+    },
+    {
+      "start": 286.94,
+      "end": 295.86,
+      "usfm": "GEN.24.31"
+    },
+    {
+      "start": 295.86,
+      "end": 306.48,
+      "usfm": "GEN.24.32"
+    },
+    {
+      "start": 306.48,
+      "end": 315.24,
+      "usfm": "GEN.24.33"
+    },
+    {
+      "start": 315.24,
+      "end": 319.06,
+      "usfm": "GEN.24.34"
+    },
+    {
+      "start": 319.06,
+      "end": 330.84,
+      "usfm": "GEN.24.35"
+    },
+    {
+      "start": 330.84,
+      "end": 337.94,
+      "usfm": "GEN.24.36"
+    },
+    {
+      "start": 337.94,
+      "end": 345.3,
+      "usfm": "GEN.24.37"
+    },
+    {
+      "start": 345.3,
+      "end": 350.8,
+      "usfm": "GEN.24.38"
+    },
+    {
+      "start": 350.8,
+      "end": 355.42,
+      "usfm": "GEN.24.39"
+    },
+    {
+      "start": 355.42,
+      "end": 367.26,
+      "usfm": "GEN.24.40"
+    },
+    {
+      "start": 367.26,
+      "end": 377.02,
+      "usfm": "GEN.24.41"
+    },
+    {
+      "start": 377.02,
+      "end": 384.04,
+      "usfm": "GEN.24.42"
+    },
+    {
+      "start": 384.04,
+      "end": 394.96,
+      "usfm": "GEN.24.43"
+    },
+    {
+      "start": 394.96,
+      "end": 405.82,
+      "usfm": "GEN.24.44"
+    },
+    {
+      "start": 405.82,
+      "end": 418.7,
+      "usfm": "GEN.24.45"
+    },
+    {
+      "start": 418.7,
+      "end": 429.46,
+      "usfm": "GEN.24.46"
+    },
+    {
+      "start": 429.46,
+      "end": 442.92,
+      "usfm": "GEN.24.47"
+    },
+    {
+      "start": 442.92,
+      "end": 452.94,
+      "usfm": "GEN.24.48"
+    },
+    {
+      "start": 452.94,
+      "end": 463.22,
+      "usfm": "GEN.24.49"
+    },
+    {
+      "start": 463.22,
+      "end": 471.82,
+      "usfm": "GEN.24.50"
+    },
+    {
+      "start": 471.82,
+      "end": 481.8,
+      "usfm": "GEN.24.51"
+    },
+    {
+      "start": 481.8,
+      "end": 489.32,
+      "usfm": "GEN.24.52"
+    },
+    {
+      "start": 489.32,
+      "end": 500.04,
+      "usfm": "GEN.24.53"
+    },
+    {
+      "start": 500.04,
+      "end": 510.16,
+      "usfm": "GEN.24.54"
+    },
+    {
+      "start": 510.16,
+      "end": 519.36,
+      "usfm": "GEN.24.55"
+    },
+    {
+      "start": 519.36,
+      "end": 527.64,
+      "usfm": "GEN.24.56"
+    },
+    {
+      "start": 527.64,
+      "end": 532.02,
+      "usfm": "GEN.24.57"
+    },
+    {
+      "start": 532.02,
+      "end": 539.42,
+      "usfm": "GEN.24.58"
+    },
+    {
+      "start": 539.42,
+      "end": 546.9,
+      "usfm": "GEN.24.59"
+    },
+    {
+      "start": 546.9,
+      "end": 561.94,
+      "usfm": "GEN.24.60"
+    },
+    {
+      "start": 561.94,
+      "end": 572.12,
+      "usfm": "GEN.24.61"
+    },
+    {
+      "start": 572.12,
+      "end": 579.34,
+      "usfm": "GEN.24.62"
+    },
+    {
+      "start": 579.34,
+      "end": 588.24,
+      "usfm": "GEN.24.63"
+    },
+    {
+      "start": 588.24,
+      "end": 594.18,
+      "usfm": "GEN.24.64"
+    },
+    {
+      "start": 594.18,
+      "end": 608.72,
+      "usfm": "GEN.24.65"
+    },
+    {
+      "start": 608.72,
+      "end": 612.42,
+      "usfm": "GEN.24.66"
+    },
+    {
+      "start": 612.42,
+      "end": 636.44,
+      "usfm": "GEN.24.67"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -583,8 +851,8 @@
   ],
   "audio_start_offset": 1.83,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

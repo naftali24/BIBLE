@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 31,
   "title": "במדבר פרק 31",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/31-3bd8fe72cbea6e9b0f62656683ddc110.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/31-68e86913f2589898b38515149d8372de.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.",
@@ -267,60 +267,276 @@
     }
   ],
   "times_en": [
-    3.18,
-    5.96,
-    12.92,
-    22.6,
-    27.28,
-    34.16,
-    46.44,
-    53.78,
-    65.8,
-    73.46,
-    79.62,
-    84.66,
-    97.58,
-    105.12,
-    114.14,
-    117.42,
-    129.24,
-    135.64,
-    141.2,
-    155.08,
-    162.0,
-    171.36,
-    176.24,
-    191.84,
-    199.94,
-    202.08,
-    211.28,
-    217.64,
-    229.24,
-    235.26,
-    248.98,
-    254.42,
-    261.82,
-    264.08,
-    266.52,
-    270.72,
-    278.2,
-    282.46,
-    287.98,
-    293.72,
-    299.42,
-    307.24,
-    312.82,
-    319.46,
-    321.62,
-    324.08,
-    326.52,
-    339.6,
-    347.36,
-    354.24,
-    367.8,
-    374.4,
-    384.66,
-    388.28
+    {
+      "start": 2.88,
+      "end": 5.9,
+      "usfm": "NUM.31.1"
+    },
+    {
+      "start": 5.9,
+      "end": 12.9,
+      "usfm": "NUM.31.2"
+    },
+    {
+      "start": 12.9,
+      "end": 23.0,
+      "usfm": "NUM.31.3"
+    },
+    {
+      "start": 23.0,
+      "end": 29.28,
+      "usfm": "NUM.31.4"
+    },
+    {
+      "start": 29.28,
+      "end": 36.58,
+      "usfm": "NUM.31.5"
+    },
+    {
+      "start": 36.58,
+      "end": 49.24,
+      "usfm": "NUM.31.6"
+    },
+    {
+      "start": 49.24,
+      "end": 56.04,
+      "usfm": "NUM.31.7"
+    },
+    {
+      "start": 56.04,
+      "end": 72.28,
+      "usfm": "NUM.31.8"
+    },
+    {
+      "start": 72.28,
+      "end": 82.1,
+      "usfm": "NUM.31.9"
+    },
+    {
+      "start": 82.1,
+      "end": 87.62,
+      "usfm": "NUM.31.10"
+    },
+    {
+      "start": 87.62,
+      "end": 92.28,
+      "usfm": "NUM.31.11"
+    },
+    {
+      "start": 92.28,
+      "end": 105.42,
+      "usfm": "NUM.31.12"
+    },
+    {
+      "start": 105.42,
+      "end": 111.92,
+      "usfm": "NUM.31.13"
+    },
+    {
+      "start": 111.92,
+      "end": 120.62,
+      "usfm": "NUM.31.14"
+    },
+    {
+      "start": 120.62,
+      "end": 125.52,
+      "usfm": "NUM.31.15"
+    },
+    {
+      "start": 125.52,
+      "end": 137.6,
+      "usfm": "NUM.31.16"
+    },
+    {
+      "start": 137.6,
+      "end": 144.98,
+      "usfm": "NUM.31.17"
+    },
+    {
+      "start": 144.98,
+      "end": 151.28,
+      "usfm": "NUM.31.18"
+    },
+    {
+      "start": 151.28,
+      "end": 163.92,
+      "usfm": "NUM.31.19"
+    },
+    {
+      "start": 163.92,
+      "end": 171.98,
+      "usfm": "NUM.31.20"
+    },
+    {
+      "start": 171.98,
+      "end": 179.96,
+      "usfm": "NUM.31.21"
+    },
+    {
+      "start": 179.96,
+      "end": 183.86,
+      "usfm": "NUM.31.22"
+    },
+    {
+      "start": 183.86,
+      "end": 198.86,
+      "usfm": "NUM.31.23"
+    },
+    {
+      "start": 198.86,
+      "end": 205.92,
+      "usfm": "NUM.31.24"
+    },
+    {
+      "start": 205.92,
+      "end": 208.5,
+      "usfm": "NUM.31.25"
+    },
+    {
+      "start": 208.5,
+      "end": 216.88,
+      "usfm": "NUM.31.26"
+    },
+    {
+      "start": 216.88,
+      "end": 224.34,
+      "usfm": "NUM.31.27"
+    },
+    {
+      "start": 224.34,
+      "end": 235.22,
+      "usfm": "NUM.31.28"
+    },
+    {
+      "start": 235.22,
+      "end": 240.64,
+      "usfm": "NUM.31.29"
+    },
+    {
+      "start": 240.64,
+      "end": 254.56,
+      "usfm": "NUM.31.30"
+    },
+    {
+      "start": 254.56,
+      "end": 259.46,
+      "usfm": "NUM.31.31"
+    },
+    {
+      "start": 259.46,
+      "end": 268.92,
+      "usfm": "NUM.31.32"
+    },
+    {
+      "start": 268.92,
+      "end": 271.58,
+      "usfm": "NUM.31.33"
+    },
+    {
+      "start": 271.58,
+      "end": 274.02,
+      "usfm": "NUM.31.34"
+    },
+    {
+      "start": 274.02,
+      "end": 280.12,
+      "usfm": "NUM.31.35"
+    },
+    {
+      "start": 280.12,
+      "end": 288.58,
+      "usfm": "NUM.31.36"
+    },
+    {
+      "start": 288.58,
+      "end": 292.82,
+      "usfm": "NUM.31.37"
+    },
+    {
+      "start": 292.82,
+      "end": 298.24,
+      "usfm": "NUM.31.38"
+    },
+    {
+      "start": 298.24,
+      "end": 304.08,
+      "usfm": "NUM.31.39"
+    },
+    {
+      "start": 304.08,
+      "end": 309.46,
+      "usfm": "NUM.31.40"
+    },
+    {
+      "start": 309.46,
+      "end": 316.48,
+      "usfm": "NUM.31.41"
+    },
+    {
+      "start": 316.48,
+      "end": 320.84,
+      "usfm": "NUM.31.42"
+    },
+    {
+      "start": 320.84,
+      "end": 327.08,
+      "usfm": "NUM.31.43"
+    },
+    {
+      "start": 327.08,
+      "end": 329.36,
+      "usfm": "NUM.31.44"
+    },
+    {
+      "start": 329.36,
+      "end": 331.78,
+      "usfm": "NUM.31.45"
+    },
+    {
+      "start": 331.78,
+      "end": 334.12,
+      "usfm": "NUM.31.46"
+    },
+    {
+      "start": 334.12,
+      "end": 346.14,
+      "usfm": "NUM.31.47"
+    },
+    {
+      "start": 346.14,
+      "end": 353.56,
+      "usfm": "NUM.31.48"
+    },
+    {
+      "start": 353.56,
+      "end": 361.66,
+      "usfm": "NUM.31.49"
+    },
+    {
+      "start": 361.66,
+      "end": 373.66,
+      "usfm": "NUM.31.50"
+    },
+    {
+      "start": 373.66,
+      "end": 379.3,
+      "usfm": "NUM.31.51"
+    },
+    {
+      "start": 379.3,
+      "end": 389.54,
+      "usfm": "NUM.31.52"
+    },
+    {
+      "start": 389.54,
+      "end": 393.6,
+      "usfm": "NUM.31.53"
+    },
+    {
+      "start": 393.6,
+      "end": 413.04,
+      "usfm": "NUM.31.54"
+    }
   ],
   "did_you_know": [
     {
@@ -432,8 +648,8 @@
       "text_en": "Did you know? Even though there were no casualties, the army commanders brought an expensive gold offering to God 'to make atonement for our souls,' perhaps for the very act of warfare or for initially sparing the women."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

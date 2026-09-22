@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 24,
   "title": "שמות פרק 24",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/24-aa698f64e328a025f50917672a95c40c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/24-38fe77e00170816719bfdf5812bbc91d.mp3?version_id=1",
   "english": [
     "And he said unto Moses, Come up unto the Lord, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.",
     "And Moses alone shall come near the Lord: but they shall not come nigh; neither shall the people go up with him.",
@@ -141,24 +141,96 @@
     }
   ],
   "times_en": [
-    3.46,
-    16.36,
-    24.76,
-    37.0,
-    50.9,
-    60.0,
-    67.24,
-    78.16,
-    89.36,
-    96.32,
-    106.28,
-    113.26,
-    126.22,
-    132.64,
-    143.18,
-    147.36,
-    158.6,
-    166.58
+    {
+      "start": 2.88,
+      "end": 14.18,
+      "usfm": "EXO.24.1"
+    },
+    {
+      "start": 14.18,
+      "end": 21.24,
+      "usfm": "EXO.24.2"
+    },
+    {
+      "start": 21.24,
+      "end": 33.6,
+      "usfm": "EXO.24.3"
+    },
+    {
+      "start": 33.6,
+      "end": 43.9,
+      "usfm": "EXO.24.4"
+    },
+    {
+      "start": 43.9,
+      "end": 51.84,
+      "usfm": "EXO.24.5"
+    },
+    {
+      "start": 51.84,
+      "end": 57.92,
+      "usfm": "EXO.24.6"
+    },
+    {
+      "start": 57.92,
+      "end": 67.96,
+      "usfm": "EXO.24.7"
+    },
+    {
+      "start": 67.96,
+      "end": 79.48,
+      "usfm": "EXO.24.8"
+    },
+    {
+      "start": 79.48,
+      "end": 85.82,
+      "usfm": "EXO.24.9"
+    },
+    {
+      "start": 85.82,
+      "end": 97.48,
+      "usfm": "EXO.24.10"
+    },
+    {
+      "start": 97.48,
+      "end": 106.02,
+      "usfm": "EXO.24.11"
+    },
+    {
+      "start": 106.02,
+      "end": 118.36,
+      "usfm": "EXO.24.12"
+    },
+    {
+      "start": 118.36,
+      "end": 125.4,
+      "usfm": "EXO.24.13"
+    },
+    {
+      "start": 125.4,
+      "end": 138.72,
+      "usfm": "EXO.24.14"
+    },
+    {
+      "start": 138.72,
+      "end": 143.54,
+      "usfm": "EXO.24.15"
+    },
+    {
+      "start": 143.54,
+      "end": 154.06,
+      "usfm": "EXO.24.16"
+    },
+    {
+      "start": 154.06,
+      "end": 161.28,
+      "usfm": "EXO.24.17"
+    },
+    {
+      "start": 161.28,
+      "end": 179.28,
+      "usfm": "EXO.24.18"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -199,8 +271,8 @@
       "text_en": "The number forty also appears in other extended biblical periods, such as the forty days of the Flood and the forty days the spies explored the land. It often marks a long period of transition, preparation, or testing."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -5,7 +5,7 @@
   "chapter": 29,
   "title": "דברים פרק 29",
   "english_translation": "KJV",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/29-59ecb3a31984403e38e0b88630847429.mp3?version_id=3034",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/29-a1b04aacd93905a96e4aa43fc00fa87e.mp3?version_id=1",
   "english": [
     "These are the words of the covenant, which the Lord commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.",
     "And Moses called unto all Israel, and said unto them, Ye have seen all that the Lord did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;",
@@ -153,35 +153,151 @@
     }
   ],
   "times_en": [
-    3.6,
-    15.76,
-    28.8,
-    34.88,
-    43.4,
-    49.96,
-    58.68,
-    68.6,
-    76.56,
-    83.08,
-    92.68,
-    99.88,
-    107.56,
-    119.74,
-    124.54,
-    135.08,
-    143.24,
-    151.08,
-    169.52,
-    187.4,
-    204.16,
-    214.6,
-    228.2,
-    246.64,
-    254.84,
-    266.72,
-    275.48,
-    283.84,
-    294.4
+    {
+      "start": 2.88,
+      "end": 12.76,
+      "usfm": "DEU.29.1"
+    },
+    {
+      "start": 12.76,
+      "end": 24.78,
+      "usfm": "DEU.29.2"
+    },
+    {
+      "start": 24.78,
+      "end": 30.82,
+      "usfm": "DEU.29.3"
+    },
+    {
+      "start": 30.82,
+      "end": 39.0,
+      "usfm": "DEU.29.4"
+    },
+    {
+      "start": 39.0,
+      "end": 48.34,
+      "usfm": "DEU.29.5"
+    },
+    {
+      "start": 48.34,
+      "end": 55.14,
+      "usfm": "DEU.29.6"
+    },
+    {
+      "start": 55.14,
+      "end": 64.2,
+      "usfm": "DEU.29.7"
+    },
+    {
+      "start": 64.2,
+      "end": 72.3,
+      "usfm": "DEU.29.8"
+    },
+    {
+      "start": 72.3,
+      "end": 77.58,
+      "usfm": "DEU.29.9"
+    },
+    {
+      "start": 77.58,
+      "end": 86.52,
+      "usfm": "DEU.29.10"
+    },
+    {
+      "start": 86.52,
+      "end": 94.64,
+      "usfm": "DEU.29.11"
+    },
+    {
+      "start": 94.64,
+      "end": 102.08,
+      "usfm": "DEU.29.12"
+    },
+    {
+      "start": 102.08,
+      "end": 116.32,
+      "usfm": "DEU.29.13"
+    },
+    {
+      "start": 116.32,
+      "end": 120.46,
+      "usfm": "DEU.29.14"
+    },
+    {
+      "start": 120.46,
+      "end": 127.62,
+      "usfm": "DEU.29.15"
+    },
+    {
+      "start": 127.62,
+      "end": 134.16,
+      "usfm": "DEU.29.16"
+    },
+    {
+      "start": 134.16,
+      "end": 141.62,
+      "usfm": "DEU.29.17"
+    },
+    {
+      "start": 141.62,
+      "end": 156.8,
+      "usfm": "DEU.29.18"
+    },
+    {
+      "start": 156.8,
+      "end": 170.16,
+      "usfm": "DEU.29.19"
+    },
+    {
+      "start": 170.16,
+      "end": 183.76,
+      "usfm": "DEU.29.20"
+    },
+    {
+      "start": 183.76,
+      "end": 193.22,
+      "usfm": "DEU.29.21"
+    },
+    {
+      "start": 193.22,
+      "end": 206.86,
+      "usfm": "DEU.29.22"
+    },
+    {
+      "start": 206.86,
+      "end": 222.92,
+      "usfm": "DEU.29.23"
+    },
+    {
+      "start": 222.92,
+      "end": 230.8,
+      "usfm": "DEU.29.24"
+    },
+    {
+      "start": 230.8,
+      "end": 239.5,
+      "usfm": "DEU.29.25"
+    },
+    {
+      "start": 239.5,
+      "end": 246.88,
+      "usfm": "DEU.29.26"
+    },
+    {
+      "start": 246.88,
+      "end": 253.16,
+      "usfm": "DEU.29.27"
+    },
+    {
+      "start": 253.16,
+      "end": 262.88,
+      "usfm": "DEU.29.28"
+    },
+    {
+      "start": 262.88,
+      "end": 280.6,
+      "usfm": "DEU.29.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -302,8 +418,8 @@
     "DEU.29.28",
     "DEU.29.29"
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "english_text_source": "restored from pre-BSB backup"

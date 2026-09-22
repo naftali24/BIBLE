@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 4,
   "title": "ויקרא פרק 4",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/4-7c516498f81ffc51d1c5534494563d79.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/4-17c2dd9b677ccd2c0bd09d560c6f1184.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the Lord concerning things which ought not to be done, and shall do against any of them:",
@@ -201,41 +201,181 @@
     }
   ],
   "times_en": [
-    3.08,
-    5.72,
-    15.16,
-    26.76,
-    36.36,
-    42.2,
-    50.94,
-    67.02,
-    75.4,
-    82.88,
-    90.34,
-    97.16,
-    109.98,
-    124.04,
-    133.1,
-    141.34,
-    146.84,
-    154.44,
-    168.2,
-    172.46,
-    183.02,
-    191.98,
-    201.44,
-    208.32,
-    217.96,
-    228.72,
-    239.44,
-    248.7,
-    256.42,
-    262.84,
-    273.44,
-    288.74,
-    295.44,
-    303.56,
-    314.98
+    {
+      "start": 2.88,
+      "end": 5.5,
+      "usfm": "LEV.4.1"
+    },
+    {
+      "start": 5.5,
+      "end": 17.54,
+      "usfm": "LEV.4.2"
+    },
+    {
+      "start": 17.54,
+      "end": 29.98,
+      "usfm": "LEV.4.3"
+    },
+    {
+      "start": 29.98,
+      "end": 40.4,
+      "usfm": "LEV.4.4"
+    },
+    {
+      "start": 40.4,
+      "end": 47.44,
+      "usfm": "LEV.4.5"
+    },
+    {
+      "start": 47.44,
+      "end": 56.52,
+      "usfm": "LEV.4.6"
+    },
+    {
+      "start": 56.52,
+      "end": 73.94,
+      "usfm": "LEV.4.7"
+    },
+    {
+      "start": 73.94,
+      "end": 83.26,
+      "usfm": "LEV.4.8"
+    },
+    {
+      "start": 83.26,
+      "end": 91.88,
+      "usfm": "LEV.4.9"
+    },
+    {
+      "start": 91.88,
+      "end": 100.56,
+      "usfm": "LEV.4.10"
+    },
+    {
+      "start": 100.56,
+      "end": 107.82,
+      "usfm": "LEV.4.11"
+    },
+    {
+      "start": 107.82,
+      "end": 120.34,
+      "usfm": "LEV.4.12"
+    },
+    {
+      "start": 120.34,
+      "end": 133.38,
+      "usfm": "LEV.4.13"
+    },
+    {
+      "start": 133.38,
+      "end": 144.58,
+      "usfm": "LEV.4.14"
+    },
+    {
+      "start": 144.58,
+      "end": 152.46,
+      "usfm": "LEV.4.15"
+    },
+    {
+      "start": 152.46,
+      "end": 157.82,
+      "usfm": "LEV.4.16"
+    },
+    {
+      "start": 157.82,
+      "end": 166.24,
+      "usfm": "LEV.4.17"
+    },
+    {
+      "start": 166.24,
+      "end": 181.48,
+      "usfm": "LEV.4.18"
+    },
+    {
+      "start": 181.48,
+      "end": 186.38,
+      "usfm": "LEV.4.19"
+    },
+    {
+      "start": 186.38,
+      "end": 197.44,
+      "usfm": "LEV.4.20"
+    },
+    {
+      "start": 197.44,
+      "end": 206.36,
+      "usfm": "LEV.4.21"
+    },
+    {
+      "start": 206.36,
+      "end": 217.12,
+      "usfm": "LEV.4.22"
+    },
+    {
+      "start": 217.12,
+      "end": 227.34,
+      "usfm": "LEV.4.23"
+    },
+    {
+      "start": 227.34,
+      "end": 235.3,
+      "usfm": "LEV.4.24"
+    },
+    {
+      "start": 235.3,
+      "end": 246.7,
+      "usfm": "LEV.4.25"
+    },
+    {
+      "start": 246.7,
+      "end": 259.94,
+      "usfm": "LEV.4.26"
+    },
+    {
+      "start": 259.94,
+      "end": 269.5,
+      "usfm": "LEV.4.27"
+    },
+    {
+      "start": 269.5,
+      "end": 283.06,
+      "usfm": "LEV.4.28"
+    },
+    {
+      "start": 283.06,
+      "end": 289.64,
+      "usfm": "LEV.4.29"
+    },
+    {
+      "start": 289.64,
+      "end": 300.46,
+      "usfm": "LEV.4.30"
+    },
+    {
+      "start": 300.46,
+      "end": 316.64,
+      "usfm": "LEV.4.31"
+    },
+    {
+      "start": 316.64,
+      "end": 322.18,
+      "usfm": "LEV.4.32"
+    },
+    {
+      "start": 322.18,
+      "end": 328.7,
+      "usfm": "LEV.4.33"
+    },
+    {
+      "start": 328.7,
+      "end": 340.04,
+      "usfm": "LEV.4.34"
+    },
+    {
+      "start": 340.04,
+      "end": 368.0,
+      "usfm": "LEV.4.35"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -312,8 +452,8 @@
       "text_en": "The verse repeats the formula “the priest shall make atonement for him, and he shall be forgiven,” ending with a promise of forgiveness. The chapter therefore presents the offering not merely as a ritual, but also as a way to restore the relationship with God."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

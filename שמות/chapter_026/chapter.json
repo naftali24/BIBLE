@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 26,
   "title": "שמות פרק 26",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/26-99448312baef5642df4461457935ba7e.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/26-e5ebc8d072e92efb6c69742e9d7931e8.mp3?version_id=1",
   "english": [
     "Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.",
     "The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.",
@@ -216,43 +216,191 @@
     }
   ],
   "times_en": [
-    3.52,
-    16.22,
-    24.0,
-    29.96,
-    38.92,
-    48.2,
-    56.44,
-    62.96,
-    70.02,
-    79.64,
-    89.34,
-    96.64,
-    105.4,
-    113.8,
-    121.24,
-    126.08,
-    130.86,
-    138.42,
-    142.76,
-    150.36,
-    155.48,
-    159.74,
-    164.52,
-    168.28,
-    175.82,
-    181.96,
-    188.6,
-    195.5,
-    201.36,
-    210.36,
-    215.9,
-    224.88,
-    233.42,
-    245.36,
-    250.84,
-    259.94,
-    268.16
+    {
+      "start": 2.88,
+      "end": 14.26,
+      "usfm": "EXO.26.1"
+    },
+    {
+      "start": 14.26,
+      "end": 22.3,
+      "usfm": "EXO.26.2"
+    },
+    {
+      "start": 22.3,
+      "end": 29.54,
+      "usfm": "EXO.26.3"
+    },
+    {
+      "start": 29.54,
+      "end": 42.38,
+      "usfm": "EXO.26.4"
+    },
+    {
+      "start": 42.38,
+      "end": 54.78,
+      "usfm": "EXO.26.5"
+    },
+    {
+      "start": 54.78,
+      "end": 62.72,
+      "usfm": "EXO.26.6"
+    },
+    {
+      "start": 62.72,
+      "end": 69.16,
+      "usfm": "EXO.26.7"
+    },
+    {
+      "start": 69.16,
+      "end": 77.58,
+      "usfm": "EXO.26.8"
+    },
+    {
+      "start": 77.58,
+      "end": 87.54,
+      "usfm": "EXO.26.9"
+    },
+    {
+      "start": 87.54,
+      "end": 97.78,
+      "usfm": "EXO.26.10"
+    },
+    {
+      "start": 97.78,
+      "end": 106.24,
+      "usfm": "EXO.26.11"
+    },
+    {
+      "start": 106.24,
+      "end": 113.8,
+      "usfm": "EXO.26.12"
+    },
+    {
+      "start": 113.8,
+      "end": 127.12,
+      "usfm": "EXO.26.13"
+    },
+    {
+      "start": 127.12,
+      "end": 134.86,
+      "usfm": "EXO.26.14"
+    },
+    {
+      "start": 134.86,
+      "end": 139.14,
+      "usfm": "EXO.26.15"
+    },
+    {
+      "start": 139.14,
+      "end": 145.84,
+      "usfm": "EXO.26.16"
+    },
+    {
+      "start": 145.84,
+      "end": 154.36,
+      "usfm": "EXO.26.17"
+    },
+    {
+      "start": 154.36,
+      "end": 159.56,
+      "usfm": "EXO.26.18"
+    },
+    {
+      "start": 159.56,
+      "end": 170.12,
+      "usfm": "EXO.26.19"
+    },
+    {
+      "start": 170.12,
+      "end": 175.24,
+      "usfm": "EXO.26.20"
+    },
+    {
+      "start": 175.24,
+      "end": 181.32,
+      "usfm": "EXO.26.21"
+    },
+    {
+      "start": 181.32,
+      "end": 185.7,
+      "usfm": "EXO.26.22"
+    },
+    {
+      "start": 185.7,
+      "end": 190.44,
+      "usfm": "EXO.26.23"
+    },
+    {
+      "start": 190.44,
+      "end": 201.62,
+      "usfm": "EXO.26.24"
+    },
+    {
+      "start": 201.62,
+      "end": 210.82,
+      "usfm": "EXO.26.25"
+    },
+    {
+      "start": 210.82,
+      "end": 216.44,
+      "usfm": "EXO.26.26"
+    },
+    {
+      "start": 216.44,
+      "end": 227.08,
+      "usfm": "EXO.26.27"
+    },
+    {
+      "start": 227.08,
+      "end": 232.38,
+      "usfm": "EXO.26.28"
+    },
+    {
+      "start": 232.38,
+      "end": 242.16,
+      "usfm": "EXO.26.29"
+    },
+    {
+      "start": 242.16,
+      "end": 247.6,
+      "usfm": "EXO.26.30"
+    },
+    {
+      "start": 247.6,
+      "end": 255.9,
+      "usfm": "EXO.26.31"
+    },
+    {
+      "start": 255.9,
+      "end": 264.28,
+      "usfm": "EXO.26.32"
+    },
+    {
+      "start": 264.28,
+      "end": 277.52,
+      "usfm": "EXO.26.33"
+    },
+    {
+      "start": 277.52,
+      "end": 283.56,
+      "usfm": "EXO.26.34"
+    },
+    {
+      "start": 283.56,
+      "end": 295.42,
+      "usfm": "EXO.26.35"
+    },
+    {
+      "start": 295.42,
+      "end": 304.52,
+      "usfm": "EXO.26.36"
+    },
+    {
+      "start": 304.52,
+      "end": 322.84,
+      "usfm": "EXO.26.37"
+    }
   ],
   "sync_anchor_en_word_index": 3,
   "did_you_know": [
@@ -329,8 +477,8 @@
       "text_en": "The terms “skilled work” and “embroidered work” probably refer to two different textile techniques, though their exact meanings are not completely certain. This shows that the Tabernacle required several kinds of craftsmanship, not just simple sewing."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 18,
   "title": "דברים פרק 18",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/18-b84cb7e9e92f68c659759482e6480ded.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/18-8190d38eee7a059c93d10e88dcd06e9e.mp3?version_id=1",
   "english": [
     "The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the Lord made by fire, and his inheritance.",
     "Therefore shall they have no inheritance among their brethren: the Lord is their inheritance, as he hath said unto them.",
@@ -144,28 +144,116 @@
     }
   ],
   "times_en": [
-    3.46,
-    18.64,
-    26.08,
-    37.52,
-    44.96,
-    56.08,
-    65.08,
-    73.08,
-    80.14,
-    88.06,
-    100.4,
-    106.88,
-    117.86,
-    122.04,
-    131.86,
-    140.28,
-    155.08,
-    158.36,
-    169.26,
-    177.2,
-    189.46,
-    195.7
+    {
+      "start": 2.88,
+      "end": 17.48,
+      "usfm": "DEU.18.1"
+    },
+    {
+      "start": 17.48,
+      "end": 24.88,
+      "usfm": "DEU.18.2"
+    },
+    {
+      "start": 24.88,
+      "end": 37.28,
+      "usfm": "DEU.18.3"
+    },
+    {
+      "start": 37.28,
+      "end": 45.72,
+      "usfm": "DEU.18.4"
+    },
+    {
+      "start": 45.72,
+      "end": 54.9,
+      "usfm": "DEU.18.5"
+    },
+    {
+      "start": 54.9,
+      "end": 65.5,
+      "usfm": "DEU.18.6"
+    },
+    {
+      "start": 65.5,
+      "end": 72.98,
+      "usfm": "DEU.18.7"
+    },
+    {
+      "start": 72.98,
+      "end": 78.46,
+      "usfm": "DEU.18.8"
+    },
+    {
+      "start": 78.46,
+      "end": 85.66,
+      "usfm": "DEU.18.9"
+    },
+    {
+      "start": 85.66,
+      "end": 98.18,
+      "usfm": "DEU.18.10"
+    },
+    {
+      "start": 98.18,
+      "end": 105.16,
+      "usfm": "DEU.18.11"
+    },
+    {
+      "start": 105.16,
+      "end": 114.56,
+      "usfm": "DEU.18.12"
+    },
+    {
+      "start": 114.56,
+      "end": 117.96,
+      "usfm": "DEU.18.13"
+    },
+    {
+      "start": 117.96,
+      "end": 129.62,
+      "usfm": "DEU.18.14"
+    },
+    {
+      "start": 129.62,
+      "end": 138.86,
+      "usfm": "DEU.18.15"
+    },
+    {
+      "start": 138.86,
+      "end": 151.84,
+      "usfm": "DEU.18.16"
+    },
+    {
+      "start": 151.84,
+      "end": 156.82,
+      "usfm": "DEU.18.17"
+    },
+    {
+      "start": 156.82,
+      "end": 167.94,
+      "usfm": "DEU.18.18"
+    },
+    {
+      "start": 167.94,
+      "end": 176.64,
+      "usfm": "DEU.18.19"
+    },
+    {
+      "start": 176.64,
+      "end": 188.12,
+      "usfm": "DEU.18.20"
+    },
+    {
+      "start": 188.12,
+      "end": 194.74,
+      "usfm": "DEU.18.21"
+    },
+    {
+      "start": 194.74,
+      "end": 215.76,
+      "usfm": "DEU.18.22"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -212,8 +300,8 @@
       "text_en": "The verse gives a practical test for a prophet’s words: if the prediction does not come true, it should not be attributed to God. The ending, “do not fear him,” reminds us not to be automatically intimidated by someone claiming prophetic authority."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

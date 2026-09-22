@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 18,
   "title": "שמות פרק 18",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/18-3e7b85566824ba7636b85bc5d3798836.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/18-a300f3510502409e14cf0736da2b74c3.mp3?version_id=1",
   "english": [
     "When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;",
     "Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back,",
@@ -159,33 +159,141 @@
     }
   ],
   "times_en": [
-    3.3,
-    15.22,
-    21.2,
-    29.82,
-    39.42,
-    48.04,
-    55.62,
-    63.48,
-    76.46,
-    84.88,
-    94.92,
-    102.48,
-    114.8,
-    121.94,
-    135.76,
-    140.6,
-    149.88,
-    154.94,
-    164.18,
-    174.86,
-    180.88,
-    196.04,
-    209.28,
-    218.72,
-    223.18,
-    233.22,
-    242.82
+    {
+      "start": 2.88,
+      "end": 13.62,
+      "usfm": "EXO.18.1"
+    },
+    {
+      "start": 13.62,
+      "end": 19.76,
+      "usfm": "EXO.18.2"
+    },
+    {
+      "start": 19.76,
+      "end": 27.22,
+      "usfm": "EXO.18.3"
+    },
+    {
+      "start": 27.22,
+      "end": 35.82,
+      "usfm": "EXO.18.4"
+    },
+    {
+      "start": 35.82,
+      "end": 44.36,
+      "usfm": "EXO.18.5"
+    },
+    {
+      "start": 44.36,
+      "end": 51.16,
+      "usfm": "EXO.18.6"
+    },
+    {
+      "start": 51.16,
+      "end": 61.22,
+      "usfm": "EXO.18.7"
+    },
+    {
+      "start": 61.22,
+      "end": 73.54,
+      "usfm": "EXO.18.8"
+    },
+    {
+      "start": 73.54,
+      "end": 80.64,
+      "usfm": "EXO.18.9"
+    },
+    {
+      "start": 80.64,
+      "end": 91.96,
+      "usfm": "EXO.18.10"
+    },
+    {
+      "start": 91.96,
+      "end": 99.12,
+      "usfm": "EXO.18.11"
+    },
+    {
+      "start": 99.12,
+      "end": 110.28,
+      "usfm": "EXO.18.12"
+    },
+    {
+      "start": 110.28,
+      "end": 118.56,
+      "usfm": "EXO.18.13"
+    },
+    {
+      "start": 118.56,
+      "end": 131.44,
+      "usfm": "EXO.18.14"
+    },
+    {
+      "start": 131.44,
+      "end": 136.82,
+      "usfm": "EXO.18.15"
+    },
+    {
+      "start": 136.82,
+      "end": 145.16,
+      "usfm": "EXO.18.16"
+    },
+    {
+      "start": 145.16,
+      "end": 150.44,
+      "usfm": "EXO.18.17"
+    },
+    {
+      "start": 150.44,
+      "end": 161.02,
+      "usfm": "EXO.18.18"
+    },
+    {
+      "start": 161.02,
+      "end": 172.04,
+      "usfm": "EXO.18.19"
+    },
+    {
+      "start": 172.04,
+      "end": 180.2,
+      "usfm": "EXO.18.20"
+    },
+    {
+      "start": 180.2,
+      "end": 197.38,
+      "usfm": "EXO.18.21"
+    },
+    {
+      "start": 197.38,
+      "end": 212.7,
+      "usfm": "EXO.18.22"
+    },
+    {
+      "start": 212.7,
+      "end": 222.32,
+      "usfm": "EXO.18.23"
+    },
+    {
+      "start": 222.32,
+      "end": 228.2,
+      "usfm": "EXO.18.24"
+    },
+    {
+      "start": 228.2,
+      "end": 241.26,
+      "usfm": "EXO.18.25"
+    },
+    {
+      "start": 241.26,
+      "end": 251.12,
+      "usfm": "EXO.18.26"
+    },
+    {
+      "start": 251.12,
+      "end": 264.28,
+      "usfm": "EXO.18.27"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -244,8 +352,8 @@
       "text_en": "The system proposed to Moses resembles a division of authority: most matters are handled close to the people, while only difficult cases reach the main leader. This saves time and reduces pressure without removing the possibility of appeal."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

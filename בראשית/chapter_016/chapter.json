@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 16,
   "title": "בראשית פרק 16",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/16-784a1ebf6a4619dbec9329b8afd130a2.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/16-2ba17bf83cd8c315a759dc25e4462447.mp3?version_id=1",
   "english": [
     "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
     "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
@@ -247,22 +247,86 @@
     }
   ],
   "times_en": [
-    3.46,
-    12.08,
-    26.8,
-    36.48,
-    45.44,
-    61.84,
-    72.96,
-    80.72,
-    91.66,
-    98.36,
-    106.0,
-    117.96,
-    130.1,
-    141.6,
-    148.68,
-    155.68
+    {
+      "start": 2.88,
+      "end": 12.62,
+      "usfm": "GEN.16.1"
+    },
+    {
+      "start": 12.62,
+      "end": 30.26,
+      "usfm": "GEN.16.2"
+    },
+    {
+      "start": 30.26,
+      "end": 42.82,
+      "usfm": "GEN.16.3"
+    },
+    {
+      "start": 42.82,
+      "end": 51.9,
+      "usfm": "GEN.16.4"
+    },
+    {
+      "start": 51.9,
+      "end": 67.82,
+      "usfm": "GEN.16.5"
+    },
+    {
+      "start": 67.82,
+      "end": 80.72,
+      "usfm": "GEN.16.6"
+    },
+    {
+      "start": 80.72,
+      "end": 87.44,
+      "usfm": "GEN.16.7"
+    },
+    {
+      "start": 87.44,
+      "end": 100.14,
+      "usfm": "GEN.16.8"
+    },
+    {
+      "start": 100.14,
+      "end": 107.58,
+      "usfm": "GEN.16.9"
+    },
+    {
+      "start": 107.58,
+      "end": 115.78,
+      "usfm": "GEN.16.10"
+    },
+    {
+      "start": 115.78,
+      "end": 128.56,
+      "usfm": "GEN.16.11"
+    },
+    {
+      "start": 128.56,
+      "end": 140.56,
+      "usfm": "GEN.16.12"
+    },
+    {
+      "start": 140.56,
+      "end": 152.68,
+      "usfm": "GEN.16.13"
+    },
+    {
+      "start": 152.68,
+      "end": 162.52,
+      "usfm": "GEN.16.14"
+    },
+    {
+      "start": 162.52,
+      "end": 169.88,
+      "usfm": "GEN.16.15"
+    },
+    {
+      "start": 169.88,
+      "end": 183.64,
+      "usfm": "GEN.16.16"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -299,8 +363,8 @@
   ],
   "audio_start_offset": 2.35,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

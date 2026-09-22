@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 6,
   "title": "בראשית פרק 6",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/6-8473365a3365cfc2ac1d5311c414fc85.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/6-db3cf9645ca5caa8942e055690d4219a.mp3?version_id=1",
   "english": [
     "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
     "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.",
@@ -144,28 +144,116 @@
     }
   ],
   "times_en": [
-    3.38,
-    9.46,
-    16.72,
-    27.64,
-    43.52,
-    54.82,
-    61.66,
-    76.92,
-    81.8,
-    90.96,
-    96.18,
-    100.88,
-    109.62,
-    123.84,
-    132.32,
-    141.86,
-    154.08,
-    165.6,
-    175.84,
-    183.84,
-    191.5,
-    200.72
+    {
+      "start": 2.88,
+      "end": 8.88,
+      "usfm": "GEN.6.1"
+    },
+    {
+      "start": 8.88,
+      "end": 16.1,
+      "usfm": "GEN.6.2"
+    },
+    {
+      "start": 16.1,
+      "end": 27.18,
+      "usfm": "GEN.6.3"
+    },
+    {
+      "start": 27.18,
+      "end": 40.26,
+      "usfm": "GEN.6.4"
+    },
+    {
+      "start": 40.26,
+      "end": 50.72,
+      "usfm": "GEN.6.5"
+    },
+    {
+      "start": 50.72,
+      "end": 56.02,
+      "usfm": "GEN.6.6"
+    },
+    {
+      "start": 56.02,
+      "end": 68.24,
+      "usfm": "GEN.6.7"
+    },
+    {
+      "start": 68.24,
+      "end": 72.18,
+      "usfm": "GEN.6.8"
+    },
+    {
+      "start": 72.18,
+      "end": 80.68,
+      "usfm": "GEN.6.9"
+    },
+    {
+      "start": 80.68,
+      "end": 85.0,
+      "usfm": "GEN.6.10"
+    },
+    {
+      "start": 85.0,
+      "end": 90.6,
+      "usfm": "GEN.6.11"
+    },
+    {
+      "start": 90.6,
+      "end": 96.66,
+      "usfm": "GEN.6.12"
+    },
+    {
+      "start": 96.66,
+      "end": 107.64,
+      "usfm": "GEN.6.13"
+    },
+    {
+      "start": 107.64,
+      "end": 116.6,
+      "usfm": "GEN.6.14"
+    },
+    {
+      "start": 116.6,
+      "end": 127.72,
+      "usfm": "GEN.6.15"
+    },
+    {
+      "start": 127.72,
+      "end": 141.1,
+      "usfm": "GEN.6.16"
+    },
+    {
+      "start": 141.1,
+      "end": 153.66,
+      "usfm": "GEN.6.17"
+    },
+    {
+      "start": 153.66,
+      "end": 163.32,
+      "usfm": "GEN.6.18"
+    },
+    {
+      "start": 163.32,
+      "end": 172.52,
+      "usfm": "GEN.6.19"
+    },
+    {
+      "start": 172.52,
+      "end": 182.94,
+      "usfm": "GEN.6.20"
+    },
+    {
+      "start": 182.94,
+      "end": 190.94,
+      "usfm": "GEN.6.21"
+    },
+    {
+      "start": 190.94,
+      "end": 202.6,
+      "usfm": "GEN.6.22"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -214,8 +302,8 @@
   ],
   "audio_start_offset": 5.02,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

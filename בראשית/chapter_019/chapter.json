@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 19,
   "title": "בראשית פרק 19",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/19-0d11a31d68d63b3d8f2e17e26c5f9615.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/19-206164718f9ac65dca92b1a76f2aaff4.mp3?version_id=1",
   "english": [
     "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;",
     "And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night.",
@@ -476,44 +476,196 @@
     }
   ],
   "times_en": [
-    3.3,
-    14.64,
-    28.8,
-    38.26,
-    45.52,
-    54.38,
-    58.86,
-    63.62,
-    77.34,
-    94.06,
-    100.08,
-    108.22,
-    119.72,
-    129.46,
-    144.08,
-    154.86,
-    166.58,
-    179.54,
-    183.02,
-    195.02,
-    206.54,
-    213.42,
-    221.92,
-    227.4,
-    234.4,
-    243.72,
-    249.02,
-    255.48,
-    265.08,
-    275.16,
-    284.98,
-    295.18,
-    301.72,
-    313.28,
-    327.48,
-    338.06,
-    342.3,
-    349.48
+    {
+      "start": 2.88,
+      "end": 16.16,
+      "usfm": "GEN.19.1"
+    },
+    {
+      "start": 16.16,
+      "end": 32.72,
+      "usfm": "GEN.19.2"
+    },
+    {
+      "start": 32.72,
+      "end": 43.56,
+      "usfm": "GEN.19.3"
+    },
+    {
+      "start": 43.56,
+      "end": 55.48,
+      "usfm": "GEN.19.4"
+    },
+    {
+      "start": 55.48,
+      "end": 65.14,
+      "usfm": "GEN.19.5"
+    },
+    {
+      "start": 65.14,
+      "end": 69.98,
+      "usfm": "GEN.19.6"
+    },
+    {
+      "start": 69.98,
+      "end": 75.26,
+      "usfm": "GEN.19.7"
+    },
+    {
+      "start": 75.26,
+      "end": 93.36,
+      "usfm": "GEN.19.8"
+    },
+    {
+      "start": 93.36,
+      "end": 111.8,
+      "usfm": "GEN.19.9"
+    },
+    {
+      "start": 111.8,
+      "end": 117.84,
+      "usfm": "GEN.19.10"
+    },
+    {
+      "start": 117.84,
+      "end": 128.2,
+      "usfm": "GEN.19.11"
+    },
+    {
+      "start": 128.2,
+      "end": 139.1,
+      "usfm": "GEN.19.12"
+    },
+    {
+      "start": 139.1,
+      "end": 148.38,
+      "usfm": "GEN.19.13"
+    },
+    {
+      "start": 148.38,
+      "end": 163.96,
+      "usfm": "GEN.19.14"
+    },
+    {
+      "start": 163.96,
+      "end": 175.54,
+      "usfm": "GEN.19.15"
+    },
+    {
+      "start": 175.54,
+      "end": 188.8,
+      "usfm": "GEN.19.16"
+    },
+    {
+      "start": 188.8,
+      "end": 201.34,
+      "usfm": "GEN.19.17"
+    },
+    {
+      "start": 201.34,
+      "end": 205.16,
+      "usfm": "GEN.19.18"
+    },
+    {
+      "start": 205.16,
+      "end": 219.56,
+      "usfm": "GEN.19.19"
+    },
+    {
+      "start": 219.56,
+      "end": 230.12,
+      "usfm": "GEN.19.20"
+    },
+    {
+      "start": 230.12,
+      "end": 239.82,
+      "usfm": "GEN.19.21"
+    },
+    {
+      "start": 239.82,
+      "end": 248.44,
+      "usfm": "GEN.19.22"
+    },
+    {
+      "start": 248.44,
+      "end": 254.4,
+      "usfm": "GEN.19.23"
+    },
+    {
+      "start": 254.4,
+      "end": 264.46,
+      "usfm": "GEN.19.24"
+    },
+    {
+      "start": 264.46,
+      "end": 273.56,
+      "usfm": "GEN.19.25"
+    },
+    {
+      "start": 273.56,
+      "end": 281.78,
+      "usfm": "GEN.19.26"
+    },
+    {
+      "start": 281.78,
+      "end": 286.84,
+      "usfm": "GEN.19.27"
+    },
+    {
+      "start": 286.84,
+      "end": 300.6,
+      "usfm": "GEN.19.28"
+    },
+    {
+      "start": 300.6,
+      "end": 317.88,
+      "usfm": "GEN.19.29"
+    },
+    {
+      "start": 317.88,
+      "end": 331.48,
+      "usfm": "GEN.19.30"
+    },
+    {
+      "start": 331.48,
+      "end": 340.0,
+      "usfm": "GEN.19.31"
+    },
+    {
+      "start": 340.0,
+      "end": 347.72,
+      "usfm": "GEN.19.32"
+    },
+    {
+      "start": 347.72,
+      "end": 360.0,
+      "usfm": "GEN.19.33"
+    },
+    {
+      "start": 360.0,
+      "end": 377.96,
+      "usfm": "GEN.19.34"
+    },
+    {
+      "start": 377.96,
+      "end": 389.38,
+      "usfm": "GEN.19.35"
+    },
+    {
+      "start": 389.38,
+      "end": 394.14,
+      "usfm": "GEN.19.36"
+    },
+    {
+      "start": 394.14,
+      "end": 403.68,
+      "usfm": "GEN.19.37"
+    },
+    {
+      "start": 403.68,
+      "end": 421.76,
+      "usfm": "GEN.19.38"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -598,8 +750,8 @@
   ],
   "audio_start_offset": 1.95,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

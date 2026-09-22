@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 8,
   "title": "דברים פרק 8",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/8-10f8ceb950d3589e1ae3e63c5b49b36a.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/8-5a504c0dab868eb3b8ed6e7fc9f89050.mp3?version_id=1",
   "english": [
     "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the Lord sware unto your fathers.",
     "And thou shalt remember all the way which the Lord thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.",
@@ -120,26 +120,106 @@
     }
   ],
   "times_en": [
-    3.24,
-    15.16,
-    29.5,
-    46.32,
-    52.24,
-    59.42,
-    66.52,
-    76.44,
-    83.72,
-    95.72,
-    102.6,
-    113.04,
-    119.16,
-    127.08,
-    136.96,
-    148.62,
-    159.7,
-    165.98,
-    178.12,
-    190.0
+    {
+      "start": 2.88,
+      "end": 14.3,
+      "usfm": "DEU.8.1"
+    },
+    {
+      "start": 14.3,
+      "end": 27.88,
+      "usfm": "DEU.8.2"
+    },
+    {
+      "start": 27.88,
+      "end": 45.62,
+      "usfm": "DEU.8.3"
+    },
+    {
+      "start": 45.62,
+      "end": 51.84,
+      "usfm": "DEU.8.4"
+    },
+    {
+      "start": 51.84,
+      "end": 59.48,
+      "usfm": "DEU.8.5"
+    },
+    {
+      "start": 59.48,
+      "end": 64.84,
+      "usfm": "DEU.8.6"
+    },
+    {
+      "start": 64.84,
+      "end": 73.56,
+      "usfm": "DEU.8.7"
+    },
+    {
+      "start": 73.56,
+      "end": 79.78,
+      "usfm": "DEU.8.8"
+    },
+    {
+      "start": 79.78,
+      "end": 90.46,
+      "usfm": "DEU.8.9"
+    },
+    {
+      "start": 90.46,
+      "end": 97.64,
+      "usfm": "DEU.8.10"
+    },
+    {
+      "start": 97.64,
+      "end": 105.9,
+      "usfm": "DEU.8.11"
+    },
+    {
+      "start": 105.9,
+      "end": 111.96,
+      "usfm": "DEU.8.12"
+    },
+    {
+      "start": 111.96,
+      "end": 120.16,
+      "usfm": "DEU.8.13"
+    },
+    {
+      "start": 120.16,
+      "end": 128.74,
+      "usfm": "DEU.8.14"
+    },
+    {
+      "start": 128.74,
+      "end": 140.48,
+      "usfm": "DEU.8.15"
+    },
+    {
+      "start": 140.48,
+      "end": 150.64,
+      "usfm": "DEU.8.16"
+    },
+    {
+      "start": 150.64,
+      "end": 158.72,
+      "usfm": "DEU.8.17"
+    },
+    {
+      "start": 158.72,
+      "end": 170.44,
+      "usfm": "DEU.8.18"
+    },
+    {
+      "start": 170.44,
+      "end": 185.14,
+      "usfm": "DEU.8.19"
+    },
+    {
+      "start": 185.14,
+      "end": 203.0,
+      "usfm": "DEU.8.20"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -186,8 +266,8 @@
       "text_en": "The word chayil does not refer only to physical or military strength. In the Bible, it can also mean wealth, resources, or the ability to accomplish things."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

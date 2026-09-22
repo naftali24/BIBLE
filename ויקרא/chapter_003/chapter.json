@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 3,
   "title": "ויקרא פרק 3",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/3-24084fe88f21406c81d25ea0a221fadb.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/3-efd5b6f13d606d0a3be1352d24a7a2a5.mp3?version_id=1",
   "english": [
     "And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the Lord.",
     "And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron's sons the priests shall sprinkle the blood upon the altar round about.",
@@ -102,23 +102,91 @@
     }
   ],
   "times_en": [
-    3.02,
-    13.44,
-    25.88,
-    34.96,
-    42.58,
-    53.5,
-    61.26,
-    66.24,
-    77.18,
-    92.16,
-    99.66,
-    106.3,
-    110.88,
-    120.72,
-    129.82,
-    137.66,
-    147.76
+    {
+      "start": 2.88,
+      "end": 12.74,
+      "usfm": "LEV.3.1"
+    },
+    {
+      "start": 12.74,
+      "end": 24.34,
+      "usfm": "LEV.3.2"
+    },
+    {
+      "start": 24.34,
+      "end": 34.38,
+      "usfm": "LEV.3.3"
+    },
+    {
+      "start": 34.38,
+      "end": 42.92,
+      "usfm": "LEV.3.4"
+    },
+    {
+      "start": 42.92,
+      "end": 53.96,
+      "usfm": "LEV.3.5"
+    },
+    {
+      "start": 53.96,
+      "end": 61.66,
+      "usfm": "LEV.3.6"
+    },
+    {
+      "start": 61.66,
+      "end": 66.6,
+      "usfm": "LEV.3.7"
+    },
+    {
+      "start": 66.6,
+      "end": 77.08,
+      "usfm": "LEV.3.8"
+    },
+    {
+      "start": 77.08,
+      "end": 90.88,
+      "usfm": "LEV.3.9"
+    },
+    {
+      "start": 90.88,
+      "end": 98.84,
+      "usfm": "LEV.3.10"
+    },
+    {
+      "start": 98.84,
+      "end": 104.8,
+      "usfm": "LEV.3.11"
+    },
+    {
+      "start": 104.8,
+      "end": 109.22,
+      "usfm": "LEV.3.12"
+    },
+    {
+      "start": 109.22,
+      "end": 118.84,
+      "usfm": "LEV.3.13"
+    },
+    {
+      "start": 118.84,
+      "end": 127.58,
+      "usfm": "LEV.3.14"
+    },
+    {
+      "start": 127.58,
+      "end": 135.48,
+      "usfm": "LEV.3.15"
+    },
+    {
+      "start": 135.48,
+      "end": 143.78,
+      "usfm": "LEV.3.16"
+    },
+    {
+      "start": 143.78,
+      "end": 158.12,
+      "usfm": "LEV.3.17"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -159,8 +227,8 @@
       "text_en": "The ban on eating blood is connected with the idea that blood represents an animal’s life, stated explicitly in Leviticus 17:11. Treating blood with care is therefore not only a dietary rule but also a statement about the sanctity of life."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

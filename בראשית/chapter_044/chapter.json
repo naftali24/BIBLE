@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 44,
   "title": "בראשית פרק 44",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/44-d03a91a59bf6617fd8d07edfb460114c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/44-1d3426a6e921eff8f6b2df8047ccb2fd.mp3?version_id=1",
   "english": [
     "And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.",
     "And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.",
@@ -234,40 +234,176 @@
     }
   ],
   "times_en": [
-    3.5,
-    13.44,
-    23.4,
-    27.66,
-    38.52,
-    45.58,
-    49.86,
-    56.5,
-    67.52,
-    73.96,
-    83.18,
-    87.82,
-    95.28,
-    101.08,
-    108.56,
-    116.66,
-    133.92,
-    145.5,
-    157.34,
-    162.06,
-    175.52,
-    180.92,
-    187.64,
-    194.54,
-    200.1,
-    204.46,
-    214.6,
-    220.18,
-    227.2,
-    235.6,
-    243.92,
-    254.12,
-    265.12,
-    273.32
+    {
+      "start": 2.88,
+      "end": 14.22,
+      "usfm": "GEN.44.1"
+    },
+    {
+      "start": 14.22,
+      "end": 24.06,
+      "usfm": "GEN.44.2"
+    },
+    {
+      "start": 24.06,
+      "end": 28.88,
+      "usfm": "GEN.44.3"
+    },
+    {
+      "start": 28.88,
+      "end": 43.62,
+      "usfm": "GEN.44.4"
+    },
+    {
+      "start": 43.62,
+      "end": 52.4,
+      "usfm": "GEN.44.5"
+    },
+    {
+      "start": 52.4,
+      "end": 57.5,
+      "usfm": "GEN.44.6"
+    },
+    {
+      "start": 57.5,
+      "end": 66.0,
+      "usfm": "GEN.44.7"
+    },
+    {
+      "start": 66.0,
+      "end": 76.02,
+      "usfm": "GEN.44.8"
+    },
+    {
+      "start": 76.02,
+      "end": 83.48,
+      "usfm": "GEN.44.9"
+    },
+    {
+      "start": 83.48,
+      "end": 93.32,
+      "usfm": "GEN.44.10"
+    },
+    {
+      "start": 93.32,
+      "end": 99.06,
+      "usfm": "GEN.44.11"
+    },
+    {
+      "start": 99.06,
+      "end": 108.3,
+      "usfm": "GEN.44.12"
+    },
+    {
+      "start": 108.3,
+      "end": 115.66,
+      "usfm": "GEN.44.13"
+    },
+    {
+      "start": 115.66,
+      "end": 123.32,
+      "usfm": "GEN.44.14"
+    },
+    {
+      "start": 123.32,
+      "end": 133.82,
+      "usfm": "GEN.44.15"
+    },
+    {
+      "start": 133.82,
+      "end": 151.14,
+      "usfm": "GEN.44.16"
+    },
+    {
+      "start": 151.14,
+      "end": 163.9,
+      "usfm": "GEN.44.17"
+    },
+    {
+      "start": 163.9,
+      "end": 177.6,
+      "usfm": "GEN.44.18"
+    },
+    {
+      "start": 177.6,
+      "end": 182.12,
+      "usfm": "GEN.44.19"
+    },
+    {
+      "start": 182.12,
+      "end": 194.68,
+      "usfm": "GEN.44.20"
+    },
+    {
+      "start": 194.68,
+      "end": 202.34,
+      "usfm": "GEN.44.21"
+    },
+    {
+      "start": 202.34,
+      "end": 211.04,
+      "usfm": "GEN.44.22"
+    },
+    {
+      "start": 211.04,
+      "end": 218.98,
+      "usfm": "GEN.44.23"
+    },
+    {
+      "start": 218.98,
+      "end": 224.88,
+      "usfm": "GEN.44.24"
+    },
+    {
+      "start": 224.88,
+      "end": 228.44,
+      "usfm": "GEN.44.25"
+    },
+    {
+      "start": 228.44,
+      "end": 237.84,
+      "usfm": "GEN.44.26"
+    },
+    {
+      "start": 237.84,
+      "end": 242.94,
+      "usfm": "GEN.44.27"
+    },
+    {
+      "start": 242.94,
+      "end": 249.32,
+      "usfm": "GEN.44.28"
+    },
+    {
+      "start": 249.32,
+      "end": 257.64,
+      "usfm": "GEN.44.29"
+    },
+    {
+      "start": 257.64,
+      "end": 265.78,
+      "usfm": "GEN.44.30"
+    },
+    {
+      "start": 265.78,
+      "end": 277.84,
+      "usfm": "GEN.44.31"
+    },
+    {
+      "start": 277.84,
+      "end": 289.12,
+      "usfm": "GEN.44.32"
+    },
+    {
+      "start": 289.12,
+      "end": 298.82,
+      "usfm": "GEN.44.33"
+    },
+    {
+      "start": 298.82,
+      "end": 314.8,
+      "usfm": "GEN.44.34"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -340,8 +476,8 @@
   ],
   "audio_start_offset": 1.86,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

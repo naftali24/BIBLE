@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 11,
   "title": "שמות פרק 11",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/11-c9ac7724178a56fd9c9bebd98bf9f7b3.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/11-6bca67dafe7c283880f60978ef2bdf7f.mp3?version_id=1",
   "english": [
     "And the Lord said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.",
     "Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver and jewels of gold.",
@@ -90,16 +90,56 @@
     }
   ],
   "times_en": [
-    3.1,
-    18.36,
-    25.16,
-    36.3,
-    44.16,
-    59.02,
-    69.7,
-    81.24,
-    96.74,
-    105.5
+    {
+      "start": 2.88,
+      "end": 18.72,
+      "usfm": "EXO.11.1"
+    },
+    {
+      "start": 18.72,
+      "end": 27.84,
+      "usfm": "EXO.11.2"
+    },
+    {
+      "start": 27.84,
+      "end": 39.74,
+      "usfm": "EXO.11.3"
+    },
+    {
+      "start": 39.74,
+      "end": 47.2,
+      "usfm": "EXO.11.4"
+    },
+    {
+      "start": 47.2,
+      "end": 59.44,
+      "usfm": "EXO.11.5"
+    },
+    {
+      "start": 59.44,
+      "end": 68.04,
+      "usfm": "EXO.11.6"
+    },
+    {
+      "start": 68.04,
+      "end": 81.7,
+      "usfm": "EXO.11.7"
+    },
+    {
+      "start": 81.7,
+      "end": 95.5,
+      "usfm": "EXO.11.8"
+    },
+    {
+      "start": 95.5,
+      "end": 104.18,
+      "usfm": "EXO.11.9"
+    },
+    {
+      "start": 104.18,
+      "end": 121.36,
+      "usfm": "EXO.11.10"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -122,8 +162,8 @@
       "text_en": "The phrase “not a dog will sharpen its tongue” is a vivid way of saying that no dog will bark. In biblical Hebrew, “sharpening the tongue” can describe a dog’s bark."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

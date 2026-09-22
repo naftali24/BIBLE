@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 33,
   "title": "דברים פרק 33",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/33-7b93ea10f97ca094117067bb765527b3.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/33-4f297940b482e34c55a2426589f6894d.mp3?version_id=1",
   "english": [
     "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
     "And he said, The Lord came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.",
@@ -228,35 +228,151 @@
     }
   ],
   "times_en": [
-    3.22,
-    10.1,
-    24.08,
-    33.56,
-    38.48,
-    47.2,
-    52.56,
-    65.96,
-    78.32,
-    90.64,
-    101.2,
-    113.12,
-    125.4,
-    135.56,
-    140.64,
-    146.08,
-    159.88,
-    177.66,
-    184.86,
-    197.04,
-    209.56,
-    223.28,
-    229.68,
-    240.68,
-    251.92,
-    258.32,
-    267.16,
-    279.24,
-    290.76
+    {
+      "start": 2.88,
+      "end": 9.18,
+      "usfm": "DEU.33.1"
+    },
+    {
+      "start": 9.18,
+      "end": 22.94,
+      "usfm": "DEU.33.2"
+    },
+    {
+      "start": 22.94,
+      "end": 33.46,
+      "usfm": "DEU.33.3"
+    },
+    {
+      "start": 33.46,
+      "end": 39.08,
+      "usfm": "DEU.33.4"
+    },
+    {
+      "start": 39.08,
+      "end": 46.34,
+      "usfm": "DEU.33.5"
+    },
+    {
+      "start": 46.34,
+      "end": 52.06,
+      "usfm": "DEU.33.6"
+    },
+    {
+      "start": 52.06,
+      "end": 66.7,
+      "usfm": "DEU.33.7"
+    },
+    {
+      "start": 66.7,
+      "end": 79.46,
+      "usfm": "DEU.33.8"
+    },
+    {
+      "start": 79.46,
+      "end": 93.3,
+      "usfm": "DEU.33.9"
+    },
+    {
+      "start": 93.3,
+      "end": 104.08,
+      "usfm": "DEU.33.10"
+    },
+    {
+      "start": 104.08,
+      "end": 115.74,
+      "usfm": "DEU.33.11"
+    },
+    {
+      "start": 115.74,
+      "end": 126.34,
+      "usfm": "DEU.33.12"
+    },
+    {
+      "start": 126.34,
+      "end": 135.96,
+      "usfm": "DEU.33.13"
+    },
+    {
+      "start": 135.96,
+      "end": 142.04,
+      "usfm": "DEU.33.14"
+    },
+    {
+      "start": 142.04,
+      "end": 148.24,
+      "usfm": "DEU.33.15"
+    },
+    {
+      "start": 148.24,
+      "end": 162.48,
+      "usfm": "DEU.33.16"
+    },
+    {
+      "start": 162.48,
+      "end": 179.46,
+      "usfm": "DEU.33.17"
+    },
+    {
+      "start": 179.46,
+      "end": 185.96,
+      "usfm": "DEU.33.18"
+    },
+    {
+      "start": 185.96,
+      "end": 198.06,
+      "usfm": "DEU.33.19"
+    },
+    {
+      "start": 198.06,
+      "end": 207.9,
+      "usfm": "DEU.33.20"
+    },
+    {
+      "start": 207.9,
+      "end": 221.96,
+      "usfm": "DEU.33.21"
+    },
+    {
+      "start": 221.96,
+      "end": 227.9,
+      "usfm": "DEU.33.22"
+    },
+    {
+      "start": 227.9,
+      "end": 238.14,
+      "usfm": "DEU.33.23"
+    },
+    {
+      "start": 238.14,
+      "end": 247.9,
+      "usfm": "DEU.33.24"
+    },
+    {
+      "start": 247.9,
+      "end": 255.58,
+      "usfm": "DEU.33.25"
+    },
+    {
+      "start": 255.58,
+      "end": 265.1,
+      "usfm": "DEU.33.26"
+    },
+    {
+      "start": 265.1,
+      "end": 276.26,
+      "usfm": "DEU.33.27"
+    },
+    {
+      "start": 276.26,
+      "end": 290.46,
+      "usfm": "DEU.33.28"
+    },
+    {
+      "start": 290.46,
+      "end": 317.12,
+      "usfm": "DEU.33.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -321,8 +437,8 @@
       "text_en": "Did you know? At the end of the blessings, Moses moves from addressing individual tribes to addressing all Israel, ending the chapter with an image of one people. The phrase “Happy are you, Israel” is a solemn declaration of national well-being and divine help."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

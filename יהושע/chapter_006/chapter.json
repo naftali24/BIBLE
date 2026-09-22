@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 6,
   "title": "יהושע פרק 6",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/6-7ce40928773fa77a8f5ee70dc6a62eea.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/6-ed12142fc6709e2da7b0f3050291b506.mp3?version_id=1",
   "english": [
     "Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.",
     "And the Lord said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour.",
@@ -195,33 +195,141 @@
     }
   ],
   "times_en": [
-    3.32,
-    11.7,
-    22.12,
-    30.28,
-    42.26,
-    57.58,
-    70.24,
-    78.92,
-    91.58,
-    100.56,
-    115.66,
-    125.44,
-    130.52,
-    147.04,
-    155.68,
-    167.76,
-    178.16,
-    192.24,
-    206.8,
-    216.22,
-    231.04,
-    241.6,
-    253.24,
-    267.48,
-    279.88,
-    295.48,
-    314.32
+    {
+      "start": 2.88,
+      "end": 9.24,
+      "usfm": "JOS.6.1"
+    },
+    {
+      "start": 9.24,
+      "end": 18.58,
+      "usfm": "JOS.6.2"
+    },
+    {
+      "start": 18.58,
+      "end": 27.02,
+      "usfm": "JOS.6.3"
+    },
+    {
+      "start": 27.02,
+      "end": 36.9,
+      "usfm": "JOS.6.4"
+    },
+    {
+      "start": 36.9,
+      "end": 54.66,
+      "usfm": "JOS.6.5"
+    },
+    {
+      "start": 54.66,
+      "end": 66.64,
+      "usfm": "JOS.6.6"
+    },
+    {
+      "start": 66.64,
+      "end": 75.46,
+      "usfm": "JOS.6.7"
+    },
+    {
+      "start": 75.46,
+      "end": 87.44,
+      "usfm": "JOS.6.8"
+    },
+    {
+      "start": 87.44,
+      "end": 97.6,
+      "usfm": "JOS.6.9"
+    },
+    {
+      "start": 97.6,
+      "end": 110.34,
+      "usfm": "JOS.6.10"
+    },
+    {
+      "start": 110.34,
+      "end": 118.44,
+      "usfm": "JOS.6.11"
+    },
+    {
+      "start": 118.44,
+      "end": 123.34,
+      "usfm": "JOS.6.12"
+    },
+    {
+      "start": 123.34,
+      "end": 139.52,
+      "usfm": "JOS.6.13"
+    },
+    {
+      "start": 139.52,
+      "end": 146.16,
+      "usfm": "JOS.6.14"
+    },
+    {
+      "start": 146.16,
+      "end": 158.82,
+      "usfm": "JOS.6.15"
+    },
+    {
+      "start": 158.82,
+      "end": 169.08,
+      "usfm": "JOS.6.16"
+    },
+    {
+      "start": 169.08,
+      "end": 180.68,
+      "usfm": "JOS.6.17"
+    },
+    {
+      "start": 180.68,
+      "end": 193.1,
+      "usfm": "JOS.6.18"
+    },
+    {
+      "start": 193.1,
+      "end": 201.2,
+      "usfm": "JOS.6.19"
+    },
+    {
+      "start": 201.2,
+      "end": 218.12,
+      "usfm": "JOS.6.20"
+    },
+    {
+      "start": 218.12,
+      "end": 226.16,
+      "usfm": "JOS.6.21"
+    },
+    {
+      "start": 226.16,
+      "end": 237.32,
+      "usfm": "JOS.6.22"
+    },
+    {
+      "start": 237.32,
+      "end": 250.18,
+      "usfm": "JOS.6.23"
+    },
+    {
+      "start": 250.18,
+      "end": 260.64,
+      "usfm": "JOS.6.24"
+    },
+    {
+      "start": 260.64,
+      "end": 273.64,
+      "usfm": "JOS.6.25"
+    },
+    {
+      "start": 273.64,
+      "end": 288.1,
+      "usfm": "JOS.6.26"
+    },
+    {
+      "start": 288.1,
+      "end": 301.32,
+      "usfm": "JOS.6.27"
+    }
   ],
   "did_you_know": [
     {
@@ -279,8 +387,8 @@
       "text_en": "Rahab, who was spared after hiding the spies, is later remembered in tradition as joining Israel — she is also mentioned in the New Testament in contexts of genealogy and faith."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

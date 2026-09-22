@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 36,
   "title": "במדבר פרק 36",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/36-976ed9d92095cf1aad78d3bbf56fcd55.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/36-77ef0ea4be9ccc8189360acb0ba9ef7e.mp3?version_id=1",
   "english": [
     "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:",
     "And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother unto his daughters.",
@@ -90,19 +90,71 @@
     }
   ],
   "times_en": [
-    3.52,
-    16.8,
-    30.0,
-    45.36,
-    55.72,
-    63.8,
-    75.48,
-    86.48,
-    99.3,
-    107.66,
-    112.5,
-    121.72,
-    131.02
+    {
+      "start": 2.88,
+      "end": 17.52,
+      "usfm": "NUM.36.1"
+    },
+    {
+      "start": 17.52,
+      "end": 30.98,
+      "usfm": "NUM.36.2"
+    },
+    {
+      "start": 30.98,
+      "end": 47.22,
+      "usfm": "NUM.36.3"
+    },
+    {
+      "start": 47.22,
+      "end": 61.12,
+      "usfm": "NUM.36.4"
+    },
+    {
+      "start": 61.12,
+      "end": 69.78,
+      "usfm": "NUM.36.5"
+    },
+    {
+      "start": 69.78,
+      "end": 81.14,
+      "usfm": "NUM.36.6"
+    },
+    {
+      "start": 81.14,
+      "end": 92.12,
+      "usfm": "NUM.36.7"
+    },
+    {
+      "start": 92.12,
+      "end": 107.02,
+      "usfm": "NUM.36.8"
+    },
+    {
+      "start": 107.02,
+      "end": 116.88,
+      "usfm": "NUM.36.9"
+    },
+    {
+      "start": 116.88,
+      "end": 121.86,
+      "usfm": "NUM.36.10"
+    },
+    {
+      "start": 121.86,
+      "end": 130.72,
+      "usfm": "NUM.36.11"
+    },
+    {
+      "start": 130.72,
+      "end": 140.62,
+      "usfm": "NUM.36.12"
+    },
+    {
+      "start": 140.62,
+      "end": 157.8,
+      "usfm": "NUM.36.13"
+    }
   ],
   "did_you_know": [
     {
@@ -130,8 +182,8 @@
       "text_en": "The daughters’ names are recorded (Mahlah, Tirzah, Hoglah, Milcah and Noah); some of these names appear elsewhere in the Bible — for example, 'Tirzah' is also used as a place-name."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

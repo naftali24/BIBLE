@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 17,
   "title": "ויקרא פרק 17",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/17-02828ff00c252af581dcc302bfd51891.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/17-0c80884615b893ce59081b999e3d027d.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the Lord hath commanded, saying,",
@@ -108,22 +108,86 @@
     }
   ],
   "times_en": [
-    3.44,
-    6.24,
-    13.0,
-    20.16,
-    34.92,
-    49.16,
-    58.62,
-    69.88,
-    78.44,
-    86.24,
-    97.1,
-    108.76,
-    116.3,
-    127.2,
-    141.76,
-    156.96
+    {
+      "start": 2.88,
+      "end": 6.56,
+      "usfm": "LEV.17.1"
+    },
+    {
+      "start": 6.56,
+      "end": 16.38,
+      "usfm": "LEV.17.2"
+    },
+    {
+      "start": 16.38,
+      "end": 25.2,
+      "usfm": "LEV.17.3"
+    },
+    {
+      "start": 25.2,
+      "end": 40.98,
+      "usfm": "LEV.17.4"
+    },
+    {
+      "start": 40.98,
+      "end": 56.34,
+      "usfm": "LEV.17.5"
+    },
+    {
+      "start": 56.34,
+      "end": 66.32,
+      "usfm": "LEV.17.6"
+    },
+    {
+      "start": 66.32,
+      "end": 76.74,
+      "usfm": "LEV.17.7"
+    },
+    {
+      "start": 76.74,
+      "end": 86.5,
+      "usfm": "LEV.17.8"
+    },
+    {
+      "start": 86.5,
+      "end": 96.64,
+      "usfm": "LEV.17.9"
+    },
+    {
+      "start": 96.64,
+      "end": 111.2,
+      "usfm": "LEV.17.10"
+    },
+    {
+      "start": 111.2,
+      "end": 124.38,
+      "usfm": "LEV.17.11"
+    },
+    {
+      "start": 124.38,
+      "end": 134.62,
+      "usfm": "LEV.17.12"
+    },
+    {
+      "start": 134.62,
+      "end": 148.8,
+      "usfm": "LEV.17.13"
+    },
+    {
+      "start": 148.8,
+      "end": 168.96,
+      "usfm": "LEV.17.14"
+    },
+    {
+      "start": 168.96,
+      "end": 187.4,
+      "usfm": "LEV.17.15"
+    },
+    {
+      "start": 187.4,
+      "end": 201.16,
+      "usfm": "LEV.17.16"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -158,8 +222,8 @@
       "text_en": "Did you know? Impurity caused by eating an animal carcass or a torn animal was temporary, lasting until evening; washing the body and clothes allowed the person to return to a state of purity afterward."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

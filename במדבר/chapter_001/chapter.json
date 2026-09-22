@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 1,
   "title": "במדבר פרק 1",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/1-718d2ce75a42cdc79ba1eecc3037c688.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/1-3276d6eb661731332f5278763b0a30b4.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,",
     "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;",
@@ -294,60 +294,276 @@
     }
   ],
   "times_en": [
-    2.94,
-    16.48,
-    25.66,
-    35.32,
-    41.16,
-    48.28,
-    51.86,
-    55.12,
-    58.38,
-    61.56,
-    69.98,
-    73.48,
-    77.34,
-    80.88,
-    84.42,
-    88.18,
-    96.62,
-    101.96,
-    115.96,
-    122.44,
-    136.12,
-    141.5,
-    153.38,
-    158.96,
-    169.46,
-    175.12,
-    185.8,
-    191.32,
-    202.08,
-    207.42,
-    218.24,
-    224.02,
-    236.84,
-    242.26,
-    253.24,
-    258.76,
-    269.7,
-    275.16,
-    286.06,
-    291.66,
-    302.56,
-    308.32,
-    319.62,
-    324.92,
-    334.34,
-    343.32,
-    348.92,
-    354.54,
-    356.78,
-    361.88,
-    376.62,
-    389.36,
-    396.74,
-    410.14
+    {
+      "start": 4.6,
+      "end": 16.82,
+      "usfm": "NUM.1.1"
+    },
+    {
+      "start": 16.82,
+      "end": 27.1,
+      "usfm": "NUM.1.2"
+    },
+    {
+      "start": 27.1,
+      "end": 34.9,
+      "usfm": "NUM.1.3"
+    },
+    {
+      "start": 34.9,
+      "end": 41.04,
+      "usfm": "NUM.1.4"
+    },
+    {
+      "start": 41.04,
+      "end": 47.88,
+      "usfm": "NUM.1.5"
+    },
+    {
+      "start": 47.88,
+      "end": 51.34,
+      "usfm": "NUM.1.6"
+    },
+    {
+      "start": 51.34,
+      "end": 54.2,
+      "usfm": "NUM.1.7"
+    },
+    {
+      "start": 54.2,
+      "end": 57.6,
+      "usfm": "NUM.1.8"
+    },
+    {
+      "start": 57.6,
+      "end": 60.22,
+      "usfm": "NUM.1.9"
+    },
+    {
+      "start": 60.22,
+      "end": 68.22,
+      "usfm": "NUM.1.10"
+    },
+    {
+      "start": 68.22,
+      "end": 71.94,
+      "usfm": "NUM.1.11"
+    },
+    {
+      "start": 71.94,
+      "end": 75.28,
+      "usfm": "NUM.1.12"
+    },
+    {
+      "start": 75.28,
+      "end": 78.36,
+      "usfm": "NUM.1.13"
+    },
+    {
+      "start": 78.36,
+      "end": 81.14,
+      "usfm": "NUM.1.14"
+    },
+    {
+      "start": 81.14,
+      "end": 84.56,
+      "usfm": "NUM.1.15"
+    },
+    {
+      "start": 84.56,
+      "end": 91.58,
+      "usfm": "NUM.1.16"
+    },
+    {
+      "start": 91.58,
+      "end": 95.84,
+      "usfm": "NUM.1.17"
+    },
+    {
+      "start": 95.84,
+      "end": 109.04,
+      "usfm": "NUM.1.18"
+    },
+    {
+      "start": 109.04,
+      "end": 114.82,
+      "usfm": "NUM.1.19"
+    },
+    {
+      "start": 114.82,
+      "end": 130.32,
+      "usfm": "NUM.1.20"
+    },
+    {
+      "start": 130.32,
+      "end": 137.54,
+      "usfm": "NUM.1.21"
+    },
+    {
+      "start": 137.54,
+      "end": 153.66,
+      "usfm": "NUM.1.22"
+    },
+    {
+      "start": 153.66,
+      "end": 160.34,
+      "usfm": "NUM.1.23"
+    },
+    {
+      "start": 160.34,
+      "end": 172.98,
+      "usfm": "NUM.1.24"
+    },
+    {
+      "start": 172.98,
+      "end": 179.98,
+      "usfm": "NUM.1.25"
+    },
+    {
+      "start": 179.98,
+      "end": 191.6,
+      "usfm": "NUM.1.26"
+    },
+    {
+      "start": 191.6,
+      "end": 198.68,
+      "usfm": "NUM.1.27"
+    },
+    {
+      "start": 198.68,
+      "end": 210.16,
+      "usfm": "NUM.1.28"
+    },
+    {
+      "start": 210.16,
+      "end": 217.28,
+      "usfm": "NUM.1.29"
+    },
+    {
+      "start": 217.28,
+      "end": 228.7,
+      "usfm": "NUM.1.30"
+    },
+    {
+      "start": 228.7,
+      "end": 235.26,
+      "usfm": "NUM.1.31"
+    },
+    {
+      "start": 235.26,
+      "end": 248.32,
+      "usfm": "NUM.1.32"
+    },
+    {
+      "start": 248.32,
+      "end": 254.82,
+      "usfm": "NUM.1.33"
+    },
+    {
+      "start": 254.82,
+      "end": 267.0,
+      "usfm": "NUM.1.34"
+    },
+    {
+      "start": 267.0,
+      "end": 274.16,
+      "usfm": "NUM.1.35"
+    },
+    {
+      "start": 274.16,
+      "end": 287.4,
+      "usfm": "NUM.1.36"
+    },
+    {
+      "start": 287.4,
+      "end": 294.7,
+      "usfm": "NUM.1.37"
+    },
+    {
+      "start": 294.7,
+      "end": 307.0,
+      "usfm": "NUM.1.38"
+    },
+    {
+      "start": 307.0,
+      "end": 313.76,
+      "usfm": "NUM.1.39"
+    },
+    {
+      "start": 313.76,
+      "end": 325.0,
+      "usfm": "NUM.1.40"
+    },
+    {
+      "start": 325.0,
+      "end": 331.58,
+      "usfm": "NUM.1.41"
+    },
+    {
+      "start": 331.58,
+      "end": 342.36,
+      "usfm": "NUM.1.42"
+    },
+    {
+      "start": 342.36,
+      "end": 348.86,
+      "usfm": "NUM.1.43"
+    },
+    {
+      "start": 348.86,
+      "end": 358.06,
+      "usfm": "NUM.1.44"
+    },
+    {
+      "start": 358.06,
+      "end": 367.32,
+      "usfm": "NUM.1.45"
+    },
+    {
+      "start": 367.32,
+      "end": 374.54,
+      "usfm": "NUM.1.46"
+    },
+    {
+      "start": 374.54,
+      "end": 378.68,
+      "usfm": "NUM.1.47"
+    },
+    {
+      "start": 378.68,
+      "end": 381.46,
+      "usfm": "NUM.1.48"
+    },
+    {
+      "start": 381.46,
+      "end": 388.64,
+      "usfm": "NUM.1.49"
+    },
+    {
+      "start": 388.64,
+      "end": 406.76,
+      "usfm": "NUM.1.50"
+    },
+    {
+      "start": 406.76,
+      "end": 420.2,
+      "usfm": "NUM.1.51"
+    },
+    {
+      "start": 420.2,
+      "end": 428.38,
+      "usfm": "NUM.1.52"
+    },
+    {
+      "start": 428.38,
+      "end": 441.76,
+      "usfm": "NUM.1.53"
+    },
+    {
+      "start": 441.76,
+      "end": 456.12,
+      "usfm": "NUM.1.54"
+    }
   ],
   "did_you_know": [
     {
@@ -459,8 +675,8 @@
       "text_en": "The concluding verse of the chapter emphasizes the complete obedience of the Israelites to God's instructions: 'According to all that the Lord commanded Moses, so they did.'"
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

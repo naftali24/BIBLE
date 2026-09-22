@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 26,
   "title": "בראשית פרק 26",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/26-466cc46fdcd16f091f6088740a6e4481.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/26-f6da20606755e93e74221d0564ff56e5.mp3?version_id=1",
   "english": [
     "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
     "And the Lord appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
@@ -210,41 +210,181 @@
     }
   ],
   "times_en": [
-    3.62,
-    14.78,
-    21.84,
-    34.46,
-    46.1,
-    54.32,
-    56.86,
-    72.82,
-    83.04,
-    94.96,
-    104.0,
-    111.44,
-    119.28,
-    123.72,
-    129.26,
-    137.48,
-    143.94,
-    149.82,
-    163.06,
-    168.68,
-    179.5,
-    185.74,
-    199.08,
-    202.1,
-    216.34,
-    225.74,
-    233.26,
-    238.98,
-    249.92,
-    260.82,
-    265.22,
-    274.18,
-    281.98,
-    287.86,
-    297.56
+    {
+      "start": 2.88,
+      "end": 12.16,
+      "usfm": "GEN.26.1"
+    },
+    {
+      "start": 12.16,
+      "end": 19.98,
+      "usfm": "GEN.26.2"
+    },
+    {
+      "start": 19.98,
+      "end": 34.0,
+      "usfm": "GEN.26.3"
+    },
+    {
+      "start": 34.0,
+      "end": 45.1,
+      "usfm": "GEN.26.4"
+    },
+    {
+      "start": 45.1,
+      "end": 53.76,
+      "usfm": "GEN.26.5"
+    },
+    {
+      "start": 53.76,
+      "end": 56.4,
+      "usfm": "GEN.26.6"
+    },
+    {
+      "start": 56.4,
+      "end": 69.26,
+      "usfm": "GEN.26.7"
+    },
+    {
+      "start": 69.26,
+      "end": 80.38,
+      "usfm": "GEN.26.8"
+    },
+    {
+      "start": 80.38,
+      "end": 93.78,
+      "usfm": "GEN.26.9"
+    },
+    {
+      "start": 93.78,
+      "end": 103.86,
+      "usfm": "GEN.26.10"
+    },
+    {
+      "start": 103.86,
+      "end": 111.5,
+      "usfm": "GEN.26.11"
+    },
+    {
+      "start": 111.5,
+      "end": 118.5,
+      "usfm": "GEN.26.12"
+    },
+    {
+      "start": 118.5,
+      "end": 124.0,
+      "usfm": "GEN.26.13"
+    },
+    {
+      "start": 124.0,
+      "end": 131.68,
+      "usfm": "GEN.26.14"
+    },
+    {
+      "start": 131.68,
+      "end": 141.4,
+      "usfm": "GEN.26.15"
+    },
+    {
+      "start": 141.4,
+      "end": 147.2,
+      "usfm": "GEN.26.16"
+    },
+    {
+      "start": 147.2,
+      "end": 153.54,
+      "usfm": "GEN.26.17"
+    },
+    {
+      "start": 153.54,
+      "end": 166.46,
+      "usfm": "GEN.26.18"
+    },
+    {
+      "start": 166.46,
+      "end": 172.7,
+      "usfm": "GEN.26.19"
+    },
+    {
+      "start": 172.7,
+      "end": 183.04,
+      "usfm": "GEN.26.20"
+    },
+    {
+      "start": 183.04,
+      "end": 189.46,
+      "usfm": "GEN.26.21"
+    },
+    {
+      "start": 189.46,
+      "end": 205.32,
+      "usfm": "GEN.26.22"
+    },
+    {
+      "start": 205.32,
+      "end": 208.84,
+      "usfm": "GEN.26.23"
+    },
+    {
+      "start": 208.84,
+      "end": 222.9,
+      "usfm": "GEN.26.24"
+    },
+    {
+      "start": 222.9,
+      "end": 232.18,
+      "usfm": "GEN.26.25"
+    },
+    {
+      "start": 232.18,
+      "end": 240.74,
+      "usfm": "GEN.26.26"
+    },
+    {
+      "start": 240.74,
+      "end": 247.94,
+      "usfm": "GEN.26.27"
+    },
+    {
+      "start": 247.94,
+      "end": 259.96,
+      "usfm": "GEN.26.28"
+    },
+    {
+      "start": 259.96,
+      "end": 272.1,
+      "usfm": "GEN.26.29"
+    },
+    {
+      "start": 272.1,
+      "end": 275.92,
+      "usfm": "GEN.26.30"
+    },
+    {
+      "start": 275.92,
+      "end": 285.2,
+      "usfm": "GEN.26.31"
+    },
+    {
+      "start": 285.2,
+      "end": 296.0,
+      "usfm": "GEN.26.32"
+    },
+    {
+      "start": 296.0,
+      "end": 302.44,
+      "usfm": "GEN.26.33"
+    },
+    {
+      "start": 302.44,
+      "end": 312.44,
+      "usfm": "GEN.26.34"
+    },
+    {
+      "start": 312.44,
+      "end": 328.04,
+      "usfm": "GEN.26.35"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -323,8 +463,8 @@
   ],
   "audio_start_offset": 1.85,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 8,
   "title": "ויקרא פרק 8",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/8-0c23f9bf38765a79a9cd9bcb3d23aa9f.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/8-3a7a0ebef23aac44c12a08c322e0d5a3.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;",
@@ -231,42 +231,186 @@
     }
   ],
   "times_en": [
-    3.3,
-    5.9,
-    15.12,
-    19.1,
-    26.32,
-    30.6,
-    35.56,
-    47.52,
-    52.9,
-    62.38,
-    71.04,
-    80.64,
-    87.2,
-    97.56,
-    104.8,
-    120.76,
-    130.0,
-    137.26,
-    144.86,
-    150.32,
-    155.52,
-    169.56,
-    178.06,
-    188.52,
-    203.08,
-    214.08,
-    228.16,
-    234.48,
-    246.84,
-    256.02,
-    272.92,
-    288.08,
-    291.32,
-    302.66,
-    309.14,
-    321.22
+    {
+      "start": 2.88,
+      "end": 5.88,
+      "usfm": "LEV.8.1"
+    },
+    {
+      "start": 5.88,
+      "end": 14.68,
+      "usfm": "LEV.8.2"
+    },
+    {
+      "start": 14.68,
+      "end": 20.6,
+      "usfm": "LEV.8.3"
+    },
+    {
+      "start": 20.6,
+      "end": 28.32,
+      "usfm": "LEV.8.4"
+    },
+    {
+      "start": 28.32,
+      "end": 35.0,
+      "usfm": "LEV.8.5"
+    },
+    {
+      "start": 35.0,
+      "end": 39.78,
+      "usfm": "LEV.8.6"
+    },
+    {
+      "start": 39.78,
+      "end": 52.54,
+      "usfm": "LEV.8.7"
+    },
+    {
+      "start": 52.54,
+      "end": 59.06,
+      "usfm": "LEV.8.8"
+    },
+    {
+      "start": 59.06,
+      "end": 69.74,
+      "usfm": "LEV.8.9"
+    },
+    {
+      "start": 69.74,
+      "end": 76.92,
+      "usfm": "LEV.8.10"
+    },
+    {
+      "start": 76.92,
+      "end": 85.44,
+      "usfm": "LEV.8.11"
+    },
+    {
+      "start": 85.44,
+      "end": 91.42,
+      "usfm": "LEV.8.12"
+    },
+    {
+      "start": 91.42,
+      "end": 101.36,
+      "usfm": "LEV.8.13"
+    },
+    {
+      "start": 101.36,
+      "end": 107.94,
+      "usfm": "LEV.8.14"
+    },
+    {
+      "start": 107.94,
+      "end": 124.2,
+      "usfm": "LEV.8.15"
+    },
+    {
+      "start": 124.2,
+      "end": 132.92,
+      "usfm": "LEV.8.16"
+    },
+    {
+      "start": 132.92,
+      "end": 141.72,
+      "usfm": "LEV.8.17"
+    },
+    {
+      "start": 141.72,
+      "end": 148.0,
+      "usfm": "LEV.8.18"
+    },
+    {
+      "start": 148.0,
+      "end": 152.08,
+      "usfm": "LEV.8.19"
+    },
+    {
+      "start": 152.08,
+      "end": 160.06,
+      "usfm": "LEV.8.20"
+    },
+    {
+      "start": 160.06,
+      "end": 175.08,
+      "usfm": "LEV.8.21"
+    },
+    {
+      "start": 175.08,
+      "end": 182.46,
+      "usfm": "LEV.8.22"
+    },
+    {
+      "start": 182.46,
+      "end": 193.02,
+      "usfm": "LEV.8.23"
+    },
+    {
+      "start": 193.02,
+      "end": 207.36,
+      "usfm": "LEV.8.24"
+    },
+    {
+      "start": 207.36,
+      "end": 218.26,
+      "usfm": "LEV.8.25"
+    },
+    {
+      "start": 218.26,
+      "end": 232.9,
+      "usfm": "LEV.8.26"
+    },
+    {
+      "start": 232.9,
+      "end": 241.16,
+      "usfm": "LEV.8.27"
+    },
+    {
+      "start": 241.16,
+      "end": 253.72,
+      "usfm": "LEV.8.28"
+    },
+    {
+      "start": 253.72,
+      "end": 264.0,
+      "usfm": "LEV.8.29"
+    },
+    {
+      "start": 264.0,
+      "end": 282.46,
+      "usfm": "LEV.8.30"
+    },
+    {
+      "start": 282.46,
+      "end": 298.0,
+      "usfm": "LEV.8.31"
+    },
+    {
+      "start": 298.0,
+      "end": 302.62,
+      "usfm": "LEV.8.32"
+    },
+    {
+      "start": 302.62,
+      "end": 313.18,
+      "usfm": "LEV.8.33"
+    },
+    {
+      "start": 313.18,
+      "end": 319.18,
+      "usfm": "LEV.8.34"
+    },
+    {
+      "start": 319.18,
+      "end": 331.58,
+      "usfm": "LEV.8.35"
+    },
+    {
+      "start": 331.58,
+      "end": 345.0,
+      "usfm": "LEV.8.36"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -343,8 +487,8 @@
       "text_en": "Did you know? Aaron and his sons were not ordained in a single day: they had to remain at the entrance of the Tent of Meeting for seven days, like a period of training and preparation for their role."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 30,
   "title": "דברים פרק 30",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/30-9313117e8fac66ccb672cbafffa75aca.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/30-157c57fffafb934e94402a3049c3aed8.mp3?version_id=1",
   "english": [
     "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the Lord thy God hath driven thee,",
     "And shalt return unto the Lord thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;",
@@ -138,26 +138,106 @@
     }
   ],
   "times_en": [
-    3.28,
-    15.42,
-    27.92,
-    39.76,
-    46.7,
-    59.38,
-    72.24,
-    79.84,
-    88.08,
-    106.54,
-    119.94,
-    127.16,
-    136.48,
-    146.08,
-    153.82,
-    161.52,
-    181.16,
-    189.96,
-    199.94,
-    216.52
+    {
+      "start": 2.88,
+      "end": 14.3,
+      "usfm": "DEU.30.1"
+    },
+    {
+      "start": 14.3,
+      "end": 25.98,
+      "usfm": "DEU.30.2"
+    },
+    {
+      "start": 25.98,
+      "end": 36.32,
+      "usfm": "DEU.30.3"
+    },
+    {
+      "start": 36.32,
+      "end": 45.02,
+      "usfm": "DEU.30.4"
+    },
+    {
+      "start": 45.02,
+      "end": 54.76,
+      "usfm": "DEU.30.5"
+    },
+    {
+      "start": 54.76,
+      "end": 65.96,
+      "usfm": "DEU.30.6"
+    },
+    {
+      "start": 65.96,
+      "end": 73.82,
+      "usfm": "DEU.30.7"
+    },
+    {
+      "start": 73.82,
+      "end": 80.72,
+      "usfm": "DEU.30.8"
+    },
+    {
+      "start": 80.72,
+      "end": 95.58,
+      "usfm": "DEU.30.9"
+    },
+    {
+      "start": 95.58,
+      "end": 108.36,
+      "usfm": "DEU.30.10"
+    },
+    {
+      "start": 108.36,
+      "end": 114.74,
+      "usfm": "DEU.30.11"
+    },
+    {
+      "start": 114.74,
+      "end": 123.34,
+      "usfm": "DEU.30.12"
+    },
+    {
+      "start": 123.34,
+      "end": 131.64,
+      "usfm": "DEU.30.13"
+    },
+    {
+      "start": 131.64,
+      "end": 138.38,
+      "usfm": "DEU.30.14"
+    },
+    {
+      "start": 138.38,
+      "end": 145.88,
+      "usfm": "DEU.30.15"
+    },
+    {
+      "start": 145.88,
+      "end": 161.88,
+      "usfm": "DEU.30.16"
+    },
+    {
+      "start": 161.88,
+      "end": 171.78,
+      "usfm": "DEU.30.17"
+    },
+    {
+      "start": 171.78,
+      "end": 183.3,
+      "usfm": "DEU.30.18"
+    },
+    {
+      "start": 183.3,
+      "end": 197.78,
+      "usfm": "DEU.30.19"
+    },
+    {
+      "start": 197.78,
+      "end": 224.36,
+      "usfm": "DEU.30.20"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -204,8 +284,8 @@
       "text_en": "The verb “to cling” comes from the root דבק, meaning to attach or hold fast. Here it describes loyalty and a close bond, not merely physical contact."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

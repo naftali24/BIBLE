@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 41,
   "title": "בראשית פרק 41",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/41-9d2a937cbe1be66a9f2d38517b139eac.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/41-c001378da34a2170d5ecd97660c104ac.mp3?version_id=1",
   "english": [
     "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
     "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.",
@@ -330,63 +330,291 @@
     }
   ],
   "times_en": [
-    3.08,
-    9.76,
-    16.58,
-    26.02,
-    34.28,
-    42.72,
-    49.4,
-    57.68,
-    69.68,
-    74.86,
-    82.74,
-    89.24,
-    98.64,
-    106.18,
-    115.18,
-    125.88,
-    131.96,
-    137.92,
-    144.36,
-    154.04,
-    160.34,
-    170.2,
-    177.8,
-    185.04,
-    193.74,
-    203.24,
-    212.0,
-    225.08,
-    231.5,
-    236.76,
-    247.32,
-    253.42,
-    262.52,
-    269.22,
-    277.98,
-    288.92,
-    298.2,
-    302.16,
-    309.04,
-    317.5,
-    327.34,
-    333.3,
-    343.58,
-    353.66,
-    363.58,
-    376.66,
-    386.36,
-    391.22,
-    402.8,
-    411.88,
-    420.02,
-    428.96,
-    435.96,
-    440.28,
-    450.98,
-    462.22,
-    473.34
+    {
+      "start": 2.88,
+      "end": 9.64,
+      "usfm": "GEN.41.1"
+    },
+    {
+      "start": 9.64,
+      "end": 16.74,
+      "usfm": "GEN.41.2"
+    },
+    {
+      "start": 16.74,
+      "end": 27.46,
+      "usfm": "GEN.41.3"
+    },
+    {
+      "start": 27.46,
+      "end": 37.9,
+      "usfm": "GEN.41.4"
+    },
+    {
+      "start": 37.9,
+      "end": 46.22,
+      "usfm": "GEN.41.5"
+    },
+    {
+      "start": 46.22,
+      "end": 53.12,
+      "usfm": "GEN.41.6"
+    },
+    {
+      "start": 53.12,
+      "end": 62.6,
+      "usfm": "GEN.41.7"
+    },
+    {
+      "start": 62.6,
+      "end": 80.16,
+      "usfm": "GEN.41.8"
+    },
+    {
+      "start": 80.16,
+      "end": 86.64,
+      "usfm": "GEN.41.9"
+    },
+    {
+      "start": 86.64,
+      "end": 94.16,
+      "usfm": "GEN.41.10"
+    },
+    {
+      "start": 94.16,
+      "end": 102.02,
+      "usfm": "GEN.41.11"
+    },
+    {
+      "start": 102.02,
+      "end": 113.96,
+      "usfm": "GEN.41.12"
+    },
+    {
+      "start": 113.96,
+      "end": 122.06,
+      "usfm": "GEN.41.13"
+    },
+    {
+      "start": 122.06,
+      "end": 132.62,
+      "usfm": "GEN.41.14"
+    },
+    {
+      "start": 132.62,
+      "end": 145.58,
+      "usfm": "GEN.41.15"
+    },
+    {
+      "start": 145.58,
+      "end": 153.96,
+      "usfm": "GEN.41.16"
+    },
+    {
+      "start": 153.96,
+      "end": 160.2,
+      "usfm": "GEN.41.17"
+    },
+    {
+      "start": 160.2,
+      "end": 169.34,
+      "usfm": "GEN.41.18"
+    },
+    {
+      "start": 169.34,
+      "end": 181.56,
+      "usfm": "GEN.41.19"
+    },
+    {
+      "start": 181.56,
+      "end": 187.2,
+      "usfm": "GEN.41.20"
+    },
+    {
+      "start": 187.2,
+      "end": 198.78,
+      "usfm": "GEN.41.21"
+    },
+    {
+      "start": 198.78,
+      "end": 204.06,
+      "usfm": "GEN.41.22"
+    },
+    {
+      "start": 204.06,
+      "end": 210.82,
+      "usfm": "GEN.41.23"
+    },
+    {
+      "start": 210.82,
+      "end": 219.56,
+      "usfm": "GEN.41.24"
+    },
+    {
+      "start": 219.56,
+      "end": 227.68,
+      "usfm": "GEN.41.25"
+    },
+    {
+      "start": 227.68,
+      "end": 234.4,
+      "usfm": "GEN.41.26"
+    },
+    {
+      "start": 234.4,
+      "end": 244.32,
+      "usfm": "GEN.41.27"
+    },
+    {
+      "start": 244.32,
+      "end": 250.8,
+      "usfm": "GEN.41.28"
+    },
+    {
+      "start": 250.8,
+      "end": 255.68,
+      "usfm": "GEN.41.29"
+    },
+    {
+      "start": 255.68,
+      "end": 265.52,
+      "usfm": "GEN.41.30"
+    },
+    {
+      "start": 265.52,
+      "end": 272.24,
+      "usfm": "GEN.41.31"
+    },
+    {
+      "start": 272.24,
+      "end": 281.38,
+      "usfm": "GEN.41.32"
+    },
+    {
+      "start": 281.38,
+      "end": 288.1,
+      "usfm": "GEN.41.33"
+    },
+    {
+      "start": 288.1,
+      "end": 296.22,
+      "usfm": "GEN.41.34"
+    },
+    {
+      "start": 296.22,
+      "end": 304.42,
+      "usfm": "GEN.41.35"
+    },
+    {
+      "start": 304.42,
+      "end": 313.22,
+      "usfm": "GEN.41.36"
+    },
+    {
+      "start": 313.22,
+      "end": 318.18,
+      "usfm": "GEN.41.37"
+    },
+    {
+      "start": 318.18,
+      "end": 325.12,
+      "usfm": "GEN.41.38"
+    },
+    {
+      "start": 325.12,
+      "end": 335.14,
+      "usfm": "GEN.41.39"
+    },
+    {
+      "start": 335.14,
+      "end": 345.9,
+      "usfm": "GEN.41.40"
+    },
+    {
+      "start": 345.9,
+      "end": 351.76,
+      "usfm": "GEN.41.41"
+    },
+    {
+      "start": 351.76,
+      "end": 362.4,
+      "usfm": "GEN.41.42"
+    },
+    {
+      "start": 362.4,
+      "end": 373.52,
+      "usfm": "GEN.41.43"
+    },
+    {
+      "start": 373.52,
+      "end": 384.5,
+      "usfm": "GEN.41.44"
+    },
+    {
+      "start": 384.5,
+      "end": 399.22,
+      "usfm": "GEN.41.45"
+    },
+    {
+      "start": 399.22,
+      "end": 409.18,
+      "usfm": "GEN.41.46"
+    },
+    {
+      "start": 409.18,
+      "end": 413.76,
+      "usfm": "GEN.41.47"
+    },
+    {
+      "start": 413.76,
+      "end": 426.08,
+      "usfm": "GEN.41.48"
+    },
+    {
+      "start": 426.08,
+      "end": 435.02,
+      "usfm": "GEN.41.49"
+    },
+    {
+      "start": 435.02,
+      "end": 444.36,
+      "usfm": "GEN.41.50"
+    },
+    {
+      "start": 444.36,
+      "end": 453.34,
+      "usfm": "GEN.41.51"
+    },
+    {
+      "start": 453.34,
+      "end": 461.74,
+      "usfm": "GEN.41.52"
+    },
+    {
+      "start": 461.74,
+      "end": 466.7,
+      "usfm": "GEN.41.53"
+    },
+    {
+      "start": 466.7,
+      "end": 479.8,
+      "usfm": "GEN.41.54"
+    },
+    {
+      "start": 479.8,
+      "end": 494.1,
+      "usfm": "GEN.41.55"
+    },
+    {
+      "start": 494.1,
+      "end": 507.54,
+      "usfm": "GEN.41.56"
+    },
+    {
+      "start": 507.54,
+      "end": 527.2,
+      "usfm": "GEN.41.57"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -507,8 +735,8 @@
   ],
   "audio_start_offset": 4.84,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

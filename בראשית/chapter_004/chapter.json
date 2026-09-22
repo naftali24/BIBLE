@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 4,
   "title": "בראשית פרק 4",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/4-42ec2b6f11fa3cc09eb61a2f0f85bc63.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/4-8e9865f5ac3fa5f52147bd1f4ba20aae.mp3?version_id=1",
   "english": [
     "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.",
     "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
@@ -176,32 +176,136 @@
     }
   ],
   "times_en": [
-    3.24,
-    14.34,
-    24.02,
-    30.38,
-    39.3,
-    48.42,
-    54.74,
-    68.18,
-    79.44,
-    88.92,
-    96.98,
-    105.14,
-    114.36,
-    119.34,
-    133.28,
-    148.74,
-    156.52,
-    167.44,
-    180.34,
-    186.48,
-    193.4,
-    199.86,
-    210.3,
-    225.0,
-    231.26,
-    245.56
+    {
+      "start": 2.88,
+      "end": 12.02,
+      "usfm": "GEN.4.1"
+    },
+    {
+      "start": 12.02,
+      "end": 19.4,
+      "usfm": "GEN.4.2"
+    },
+    {
+      "start": 19.4,
+      "end": 27.04,
+      "usfm": "GEN.4.3"
+    },
+    {
+      "start": 27.04,
+      "end": 36.48,
+      "usfm": "GEN.4.4"
+    },
+    {
+      "start": 36.48,
+      "end": 45.36,
+      "usfm": "GEN.4.5"
+    },
+    {
+      "start": 45.36,
+      "end": 52.74,
+      "usfm": "GEN.4.6"
+    },
+    {
+      "start": 52.74,
+      "end": 68.88,
+      "usfm": "GEN.4.7"
+    },
+    {
+      "start": 68.88,
+      "end": 80.98,
+      "usfm": "GEN.4.8"
+    },
+    {
+      "start": 80.98,
+      "end": 91.06,
+      "usfm": "GEN.4.9"
+    },
+    {
+      "start": 91.06,
+      "end": 99.4,
+      "usfm": "GEN.4.10"
+    },
+    {
+      "start": 99.4,
+      "end": 107.32,
+      "usfm": "GEN.4.11"
+    },
+    {
+      "start": 107.32,
+      "end": 118.4,
+      "usfm": "GEN.4.12"
+    },
+    {
+      "start": 118.4,
+      "end": 124.02,
+      "usfm": "GEN.4.13"
+    },
+    {
+      "start": 124.02,
+      "end": 140.52,
+      "usfm": "GEN.4.14"
+    },
+    {
+      "start": 140.52,
+      "end": 155.32,
+      "usfm": "GEN.4.15"
+    },
+    {
+      "start": 155.32,
+      "end": 162.94,
+      "usfm": "GEN.4.16"
+    },
+    {
+      "start": 162.94,
+      "end": 174.8,
+      "usfm": "GEN.4.17"
+    },
+    {
+      "start": 174.8,
+      "end": 183.92,
+      "usfm": "GEN.4.18"
+    },
+    {
+      "start": 183.92,
+      "end": 192.86,
+      "usfm": "GEN.4.19"
+    },
+    {
+      "start": 192.86,
+      "end": 200.9,
+      "usfm": "GEN.4.20"
+    },
+    {
+      "start": 200.9,
+      "end": 207.98,
+      "usfm": "GEN.4.21"
+    },
+    {
+      "start": 207.98,
+      "end": 220.12,
+      "usfm": "GEN.4.22"
+    },
+    {
+      "start": 220.12,
+      "end": 234.94,
+      "usfm": "GEN.4.23"
+    },
+    {
+      "start": 234.94,
+      "end": 242.38,
+      "usfm": "GEN.4.24"
+    },
+    {
+      "start": 242.38,
+      "end": 257.8,
+      "usfm": "GEN.4.25"
+    },
+    {
+      "start": 257.8,
+      "end": 277.68,
+      "usfm": "GEN.4.26"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -260,8 +364,8 @@
       "text_en": "The phrase “to call on the name of the Lord” is often understood as the beginning of public prayer or worship. Scholars also note that the Hebrew may mean proclaiming or invoking God’s name."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

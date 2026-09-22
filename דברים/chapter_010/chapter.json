@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 10,
   "title": "דברים פרק 10",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/10-6fbfabc190df5fa5a39d0d9f88836d70.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/10-fa86ac78b51ace532d180f1bdd153aa8.mp3?version_id=1",
   "english": [
     "At that time the Lord said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.",
     "And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.",
@@ -144,28 +144,116 @@
     }
   ],
   "times_en": [
-    4.56,
-    14.26,
-    23.0,
-    33.0,
-    46.24,
-    56.22,
-    67.14,
-    75.0,
-    89.48,
-    99.56,
-    110.04,
-    121.02,
-    137.64,
-    144.88,
-    152.96,
-    164.56,
-    169.52,
-    182.04,
-    189.96,
-    197.32,
-    205.32,
-    214.12
+    {
+      "start": 2.88,
+      "end": 14.16,
+      "usfm": "DEU.10.1"
+    },
+    {
+      "start": 14.16,
+      "end": 21.74,
+      "usfm": "DEU.10.2"
+    },
+    {
+      "start": 21.74,
+      "end": 31.94,
+      "usfm": "DEU.10.3"
+    },
+    {
+      "start": 31.94,
+      "end": 45.2,
+      "usfm": "DEU.10.4"
+    },
+    {
+      "start": 45.2,
+      "end": 54.36,
+      "usfm": "DEU.10.5"
+    },
+    {
+      "start": 54.36,
+      "end": 68.68,
+      "usfm": "DEU.10.6"
+    },
+    {
+      "start": 68.68,
+      "end": 77.26,
+      "usfm": "DEU.10.7"
+    },
+    {
+      "start": 77.26,
+      "end": 88.76,
+      "usfm": "DEU.10.8"
+    },
+    {
+      "start": 88.76,
+      "end": 97.34,
+      "usfm": "DEU.10.9"
+    },
+    {
+      "start": 97.34,
+      "end": 108.74,
+      "usfm": "DEU.10.10"
+    },
+    {
+      "start": 108.74,
+      "end": 117.54,
+      "usfm": "DEU.10.11"
+    },
+    {
+      "start": 117.54,
+      "end": 133.86,
+      "usfm": "DEU.10.12"
+    },
+    {
+      "start": 133.86,
+      "end": 139.94,
+      "usfm": "DEU.10.13"
+    },
+    {
+      "start": 139.94,
+      "end": 148.8,
+      "usfm": "DEU.10.14"
+    },
+    {
+      "start": 148.8,
+      "end": 157.94,
+      "usfm": "DEU.10.15"
+    },
+    {
+      "start": 157.94,
+      "end": 163.74,
+      "usfm": "DEU.10.16"
+    },
+    {
+      "start": 163.74,
+      "end": 174.96,
+      "usfm": "DEU.10.17"
+    },
+    {
+      "start": 174.96,
+      "end": 183.14,
+      "usfm": "DEU.10.18"
+    },
+    {
+      "start": 183.14,
+      "end": 188.56,
+      "usfm": "DEU.10.19"
+    },
+    {
+      "start": 188.56,
+      "end": 197.68,
+      "usfm": "DEU.10.20"
+    },
+    {
+      "start": 197.68,
+      "end": 207.06,
+      "usfm": "DEU.10.21"
+    },
+    {
+      "start": 207.06,
+      "end": 225.96,
+      "usfm": "DEU.10.22"
+    }
   ],
   "sync_anchor_en_word_index": 1,
   "did_you_know": [
@@ -212,8 +300,8 @@
       "text_en": "The image of Israel becoming like “the stars of heaven” echoes the promise given to Abraham in Genesis 15. It connects the promise to a small family with the growth of a great nation."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

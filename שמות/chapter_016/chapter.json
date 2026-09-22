@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 16,
   "title": "שמות פרק 16",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/16-aa3e24ab4cf4b71a1e578b4514460b9b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/16-11460291b70c92464ba6932c09c13787.mp3?version_id=1",
   "english": [
     "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
     "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
@@ -231,42 +231,186 @@
     }
   ],
   "times_en": [
-    3.32,
-    16.9,
-    21.32,
-    37.02,
-    52.76,
-    59.86,
-    68.64,
-    78.7,
-    93.86,
-    102.56,
-    111.96,
-    114.16,
-    127.94,
-    135.82,
-    144.04,
-    156.08,
-    164.92,
-    170.44,
-    181.7,
-    186.8,
-    199.06,
-    206.3,
-    216.6,
-    234.74,
-    242.56,
-    251.32,
-    257.68,
-    264.02,
-    270.72,
-    284.82,
-    288.22,
-    297.12,
-    310.64,
-    320.8,
-    328.0,
-    337.62
+    {
+      "start": 2.88,
+      "end": 18.38,
+      "usfm": "EXO.16.1"
+    },
+    {
+      "start": 18.38,
+      "end": 25.08,
+      "usfm": "EXO.16.2"
+    },
+    {
+      "start": 25.08,
+      "end": 41.24,
+      "usfm": "EXO.16.3"
+    },
+    {
+      "start": 41.24,
+      "end": 55.72,
+      "usfm": "EXO.16.4"
+    },
+    {
+      "start": 55.72,
+      "end": 64.0,
+      "usfm": "EXO.16.5"
+    },
+    {
+      "start": 64.0,
+      "end": 72.88,
+      "usfm": "EXO.16.6"
+    },
+    {
+      "start": 72.88,
+      "end": 83.26,
+      "usfm": "EXO.16.7"
+    },
+    {
+      "start": 83.26,
+      "end": 100.34,
+      "usfm": "EXO.16.8"
+    },
+    {
+      "start": 100.34,
+      "end": 109.78,
+      "usfm": "EXO.16.9"
+    },
+    {
+      "start": 109.78,
+      "end": 120.08,
+      "usfm": "EXO.16.10"
+    },
+    {
+      "start": 120.08,
+      "end": 122.68,
+      "usfm": "EXO.16.11"
+    },
+    {
+      "start": 122.68,
+      "end": 135.82,
+      "usfm": "EXO.16.12"
+    },
+    {
+      "start": 135.82,
+      "end": 144.46,
+      "usfm": "EXO.16.13"
+    },
+    {
+      "start": 144.46,
+      "end": 154.62,
+      "usfm": "EXO.16.14"
+    },
+    {
+      "start": 154.62,
+      "end": 165.92,
+      "usfm": "EXO.16.15"
+    },
+    {
+      "start": 165.92,
+      "end": 178.28,
+      "usfm": "EXO.16.16"
+    },
+    {
+      "start": 178.28,
+      "end": 182.92,
+      "usfm": "EXO.16.17"
+    },
+    {
+      "start": 182.92,
+      "end": 192.88,
+      "usfm": "EXO.16.18"
+    },
+    {
+      "start": 192.88,
+      "end": 197.06,
+      "usfm": "EXO.16.19"
+    },
+    {
+      "start": 197.06,
+      "end": 207.74,
+      "usfm": "EXO.16.20"
+    },
+    {
+      "start": 207.74,
+      "end": 215.26,
+      "usfm": "EXO.16.21"
+    },
+    {
+      "start": 215.26,
+      "end": 227.3,
+      "usfm": "EXO.16.22"
+    },
+    {
+      "start": 227.3,
+      "end": 245.28,
+      "usfm": "EXO.16.23"
+    },
+    {
+      "start": 245.28,
+      "end": 254.42,
+      "usfm": "EXO.16.24"
+    },
+    {
+      "start": 254.42,
+      "end": 263.62,
+      "usfm": "EXO.16.25"
+    },
+    {
+      "start": 263.62,
+      "end": 271.2,
+      "usfm": "EXO.16.26"
+    },
+    {
+      "start": 271.2,
+      "end": 277.72,
+      "usfm": "EXO.16.27"
+    },
+    {
+      "start": 277.72,
+      "end": 284.02,
+      "usfm": "EXO.16.28"
+    },
+    {
+      "start": 284.02,
+      "end": 298.12,
+      "usfm": "EXO.16.29"
+    },
+    {
+      "start": 298.12,
+      "end": 301.48,
+      "usfm": "EXO.16.30"
+    },
+    {
+      "start": 301.48,
+      "end": 311.36,
+      "usfm": "EXO.16.31"
+    },
+    {
+      "start": 311.36,
+      "end": 324.52,
+      "usfm": "EXO.16.32"
+    },
+    {
+      "start": 324.52,
+      "end": 333.3,
+      "usfm": "EXO.16.33"
+    },
+    {
+      "start": 333.3,
+      "end": 338.16,
+      "usfm": "EXO.16.34"
+    },
+    {
+      "start": 338.16,
+      "end": 347.76,
+      "usfm": "EXO.16.35"
+    },
+    {
+      "start": 347.76,
+      "end": 359.84,
+      "usfm": "EXO.16.36"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -343,8 +487,8 @@
       "text_en": "Did you know? According to the Book of Joshua, the manna stopped after the Israelites entered the land and began eating its produce. In this way, manna marks the transition from wilderness life to settled life."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

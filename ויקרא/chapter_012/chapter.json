@@ -4,8 +4,8 @@
   "book_chapters": 27,
   "chapter": 12,
   "title": "ויקרא פרק 12",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/LEV/12-cec2d6fe740a5de1047ebf6919ace859.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/12-8ca602ffe5eda786ee1cce39507b5c91.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
@@ -84,14 +84,46 @@
     }
   ],
   "times_en": [
-    3.28,
-    5.96,
-    16.66,
-    21.7,
-    34.86,
-    48.78,
-    64.6,
-    79.52
+    {
+      "start": 2.88,
+      "end": 5.9,
+      "usfm": "LEV.12.1"
+    },
+    {
+      "start": 5.9,
+      "end": 20.92,
+      "usfm": "LEV.12.2"
+    },
+    {
+      "start": 20.92,
+      "end": 25.38,
+      "usfm": "LEV.12.3"
+    },
+    {
+      "start": 25.38,
+      "end": 36.92,
+      "usfm": "LEV.12.4"
+    },
+    {
+      "start": 36.92,
+      "end": 47.74,
+      "usfm": "LEV.12.5"
+    },
+    {
+      "start": 47.74,
+      "end": 62.3,
+      "usfm": "LEV.12.6"
+    },
+    {
+      "start": 62.3,
+      "end": 74.06,
+      "usfm": "LEV.12.7"
+    },
+    {
+      "start": 74.06,
+      "end": 94.04,
+      "usfm": "LEV.12.8"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -114,8 +146,8 @@
       "text_en": "Allowing two birds instead of a lamb reflects an important social principle: even a poor family could take part in Temple rituals."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

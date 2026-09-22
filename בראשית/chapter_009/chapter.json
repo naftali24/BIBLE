@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 9,
   "title": "בראשית פרק 9",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/9-1d8dae8d0b3e83f7b2ab853a8378e029.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/9-f3e7fa8b9df7863b8a597ff78a140d1b.mp3?version_id=1",
   "english": [
     "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
     "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.",
@@ -174,35 +174,151 @@
     }
   ],
   "times_en": [
-    3.3,
-    11.76,
-    26.4,
-    35.98,
-    40.24,
-    53.68,
-    63.48,
-    71.02,
-    74.56,
-    80.14,
-    89.86,
-    102.34,
-    113.56,
-    121.66,
-    127.44,
-    138.78,
-    150.9,
-    160.18,
-    168.76,
-    175.42,
-    180.0,
-    186.9,
-    194.28,
-    209.36,
-    215.14,
-    222.2,
-    229.68,
-    238.54,
-    242.86
+    {
+      "start": 2.88,
+      "end": 11.76,
+      "usfm": "GEN.9.1"
+    },
+    {
+      "start": 11.76,
+      "end": 25.64,
+      "usfm": "GEN.9.2"
+    },
+    {
+      "start": 25.64,
+      "end": 34.2,
+      "usfm": "GEN.9.3"
+    },
+    {
+      "start": 34.2,
+      "end": 40.56,
+      "usfm": "GEN.9.4"
+    },
+    {
+      "start": 40.56,
+      "end": 51.42,
+      "usfm": "GEN.9.5"
+    },
+    {
+      "start": 51.42,
+      "end": 60.38,
+      "usfm": "GEN.9.6"
+    },
+    {
+      "start": 60.38,
+      "end": 68.56,
+      "usfm": "GEN.9.7"
+    },
+    {
+      "start": 68.56,
+      "end": 73.02,
+      "usfm": "GEN.9.8"
+    },
+    {
+      "start": 73.02,
+      "end": 79.82,
+      "usfm": "GEN.9.9"
+    },
+    {
+      "start": 79.82,
+      "end": 90.14,
+      "usfm": "GEN.9.10"
+    },
+    {
+      "start": 90.14,
+      "end": 102.12,
+      "usfm": "GEN.9.11"
+    },
+    {
+      "start": 102.12,
+      "end": 112.86,
+      "usfm": "GEN.9.12"
+    },
+    {
+      "start": 112.86,
+      "end": 120.02,
+      "usfm": "GEN.9.13"
+    },
+    {
+      "start": 120.02,
+      "end": 126.34,
+      "usfm": "GEN.9.14"
+    },
+    {
+      "start": 126.34,
+      "end": 137.82,
+      "usfm": "GEN.9.15"
+    },
+    {
+      "start": 137.82,
+      "end": 149.7,
+      "usfm": "GEN.9.16"
+    },
+    {
+      "start": 149.7,
+      "end": 159.46,
+      "usfm": "GEN.9.17"
+    },
+    {
+      "start": 159.46,
+      "end": 170.38,
+      "usfm": "GEN.9.18"
+    },
+    {
+      "start": 170.38,
+      "end": 176.84,
+      "usfm": "GEN.9.19"
+    },
+    {
+      "start": 176.84,
+      "end": 181.14,
+      "usfm": "GEN.9.20"
+    },
+    {
+      "start": 181.14,
+      "end": 186.92,
+      "usfm": "GEN.9.21"
+    },
+    {
+      "start": 186.92,
+      "end": 193.5,
+      "usfm": "GEN.9.22"
+    },
+    {
+      "start": 193.5,
+      "end": 206.12,
+      "usfm": "GEN.9.23"
+    },
+    {
+      "start": 206.12,
+      "end": 210.98,
+      "usfm": "GEN.9.24"
+    },
+    {
+      "start": 210.98,
+      "end": 217.74,
+      "usfm": "GEN.9.25"
+    },
+    {
+      "start": 217.74,
+      "end": 224.34,
+      "usfm": "GEN.9.26"
+    },
+    {
+      "start": 224.34,
+      "end": 232.7,
+      "usfm": "GEN.9.27"
+    },
+    {
+      "start": 232.7,
+      "end": 236.44,
+      "usfm": "GEN.9.28"
+    },
+    {
+      "start": 236.44,
+      "end": 251.68,
+      "usfm": "GEN.9.29"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -269,8 +385,8 @@
   ],
   "audio_start_offset": 1.86,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

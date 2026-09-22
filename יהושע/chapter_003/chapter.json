@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 3,
   "title": "יהושע פרק 3",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/3-67d8b79b7b3110ad9306c68cac2e4bf3.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/3-0718b10c456de95c153553a9992dfc7d.mp3?version_id=1",
   "english": [
     "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.",
     "And it came to pass after three days, that the officers went through the host;",
@@ -120,23 +120,91 @@
     }
   ],
   "times_en": [
-    3.04,
-    14.6,
-    17.8,
-    29.96,
-    42.84,
-    50.6,
-    60.68,
-    72.6,
-    80.28,
-    86.72,
-    102.08,
-    109.2,
-    114.8,
-    128.28,
-    134.88,
-    146.08,
-    163.52
+    {
+      "start": 2.88,
+      "end": 13.22,
+      "usfm": "JOS.3.1"
+    },
+    {
+      "start": 13.22,
+      "end": 17.28,
+      "usfm": "JOS.3.2"
+    },
+    {
+      "start": 17.28,
+      "end": 28.48,
+      "usfm": "JOS.3.3"
+    },
+    {
+      "start": 28.48,
+      "end": 40.84,
+      "usfm": "JOS.3.4"
+    },
+    {
+      "start": 40.84,
+      "end": 47.56,
+      "usfm": "JOS.3.5"
+    },
+    {
+      "start": 47.56,
+      "end": 58.94,
+      "usfm": "JOS.3.6"
+    },
+    {
+      "start": 58.94,
+      "end": 69.88,
+      "usfm": "JOS.3.7"
+    },
+    {
+      "start": 69.88,
+      "end": 80.02,
+      "usfm": "JOS.3.8"
+    },
+    {
+      "start": 80.02,
+      "end": 86.24,
+      "usfm": "JOS.3.9"
+    },
+    {
+      "start": 86.24,
+      "end": 102.16,
+      "usfm": "JOS.3.10"
+    },
+    {
+      "start": 102.16,
+      "end": 108.76,
+      "usfm": "JOS.3.11"
+    },
+    {
+      "start": 108.76,
+      "end": 114.18,
+      "usfm": "JOS.3.12"
+    },
+    {
+      "start": 114.18,
+      "end": 129.24,
+      "usfm": "JOS.3.13"
+    },
+    {
+      "start": 129.24,
+      "end": 138.28,
+      "usfm": "JOS.3.14"
+    },
+    {
+      "start": 138.28,
+      "end": 151.0,
+      "usfm": "JOS.3.15"
+    },
+    {
+      "start": 151.0,
+      "end": 168.8,
+      "usfm": "JOS.3.16"
+    },
+    {
+      "start": 168.8,
+      "end": 188.08,
+      "usfm": "JOS.3.17"
+    }
   ],
   "did_you_know": [
     {
@@ -176,8 +244,8 @@
       "text_en": "The text notes the Jordan was 'full on all its banks' at harvest — a time when the river runs strong; crossing under such conditions was dangerous, which makes the sense of divine intervention more striking."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

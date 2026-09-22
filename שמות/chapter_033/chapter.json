@@ -5,7 +5,7 @@
   "chapter": 33,
   "title": "שמות פרק 33",
   "english_translation": "KJV",
-  "audio_en_url": "https://www.audiotreasure.com/content/KJV_FF/02_Exodus_33.mp3",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/33-fc492c9861cd6158fd76c4c9b0e16b6e.mp3?version_id=1",
   "english": [
     "And the Lord said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
     "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:",
@@ -138,29 +138,121 @@
     }
   ],
   "times_en": [
-    1.52,
-    16.08,
-    24.74,
-    34.44,
-    40.46,
-    55.24,
-    60.62,
-    75,
-    85.4,
-    94.2,
-    102.04,
-    114.56,
-    128.9,
-    140.44,
-    144.92,
-    150.38,
-    163.34,
-    172.48,
-    175.86,
-    187.78,
-    194.14,
-    199.7,
-    208.56
+    {
+      "start": 2.88,
+      "end": 18.68,
+      "usfm": "EXO.33.1"
+    },
+    {
+      "start": 18.68,
+      "end": 28.04,
+      "usfm": "EXO.33.2"
+    },
+    {
+      "start": 28.04,
+      "end": 40.34,
+      "usfm": "EXO.33.3"
+    },
+    {
+      "start": 40.34,
+      "end": 46.74,
+      "usfm": "EXO.33.4"
+    },
+    {
+      "start": 46.74,
+      "end": 63.84,
+      "usfm": "EXO.33.5"
+    },
+    {
+      "start": 63.84,
+      "end": 68.88,
+      "usfm": "EXO.33.6"
+    },
+    {
+      "start": 68.88,
+      "end": 85.66,
+      "usfm": "EXO.33.7"
+    },
+    {
+      "start": 85.66,
+      "end": 97.52,
+      "usfm": "EXO.33.8"
+    },
+    {
+      "start": 97.52,
+      "end": 108.18,
+      "usfm": "EXO.33.9"
+    },
+    {
+      "start": 108.18,
+      "end": 117.26,
+      "usfm": "EXO.33.10"
+    },
+    {
+      "start": 117.26,
+      "end": 132.34,
+      "usfm": "EXO.33.11"
+    },
+    {
+      "start": 132.34,
+      "end": 148.56,
+      "usfm": "EXO.33.12"
+    },
+    {
+      "start": 148.56,
+      "end": 163.22,
+      "usfm": "EXO.33.13"
+    },
+    {
+      "start": 163.22,
+      "end": 170.26,
+      "usfm": "EXO.33.14"
+    },
+    {
+      "start": 170.26,
+      "end": 177.26,
+      "usfm": "EXO.33.15"
+    },
+    {
+      "start": 177.26,
+      "end": 190.9,
+      "usfm": "EXO.33.16"
+    },
+    {
+      "start": 190.9,
+      "end": 201.5,
+      "usfm": "EXO.33.17"
+    },
+    {
+      "start": 201.5,
+      "end": 207.52,
+      "usfm": "EXO.33.18"
+    },
+    {
+      "start": 207.52,
+      "end": 224.12,
+      "usfm": "EXO.33.19"
+    },
+    {
+      "start": 224.12,
+      "end": 232.1,
+      "usfm": "EXO.33.20"
+    },
+    {
+      "start": 232.1,
+      "end": 239.58,
+      "usfm": "EXO.33.21"
+    },
+    {
+      "start": 239.58,
+      "end": 250.9,
+      "usfm": "EXO.33.22"
+    },
+    {
+      "start": 250.9,
+      "end": 266.92,
+      "usfm": "EXO.33.23"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -212,5 +304,7 @@
       "text_he": "המילים \"פנים\" ו\"אחור\" משתמשות בשפה אנושית כדי לתאר מפגש מוגבל עם האל, ולא כדי לטעון שלאל יש גוף אנושי.",
       "text_en": "The words “face” and “back” use human language to describe a limited encounter with God; they are not meant to claim that God has a human body."
     }
-  ]
+  ],
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1
 }

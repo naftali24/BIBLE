@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 17,
   "title": "בראשית פרק 17",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/17-6fbd64af0dff4967baaf9d887f8224f5.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/17-cf3181a6b9003dc581ad0967bb7a7d66.mp3?version_id=1",
   "english": [
     "And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.",
     "And I will make my covenant between me and thee, and will multiply thee exceedingly.",
@@ -309,33 +309,141 @@
     }
   ],
   "times_en": [
-    3.42,
-    14.72,
-    21.58,
-    25.76,
-    32.16,
-    41.26,
-    48.8,
-    61.36,
-    73.1,
-    80.94,
-    90.32,
-    98.26,
-    113.06,
-    123.48,
-    131.56,
-    140.74,
-    153.68,
-    167.14,
-    173.52,
-    189.16,
-    204.64,
-    212.34,
-    217.38,
-    233.7,
-    238.8,
-    241.56,
-    247.24
+    {
+      "start": 2.88,
+      "end": 17.26,
+      "usfm": "GEN.17.1"
+    },
+    {
+      "start": 17.26,
+      "end": 23.9,
+      "usfm": "GEN.17.2"
+    },
+    {
+      "start": 23.9,
+      "end": 28.82,
+      "usfm": "GEN.17.3"
+    },
+    {
+      "start": 28.82,
+      "end": 36.22,
+      "usfm": "GEN.17.4"
+    },
+    {
+      "start": 36.22,
+      "end": 45.94,
+      "usfm": "GEN.17.5"
+    },
+    {
+      "start": 45.94,
+      "end": 53.46,
+      "usfm": "GEN.17.6"
+    },
+    {
+      "start": 53.46,
+      "end": 65.2,
+      "usfm": "GEN.17.7"
+    },
+    {
+      "start": 65.2,
+      "end": 76.34,
+      "usfm": "GEN.17.8"
+    },
+    {
+      "start": 76.34,
+      "end": 85.18,
+      "usfm": "GEN.17.9"
+    },
+    {
+      "start": 85.18,
+      "end": 94.9,
+      "usfm": "GEN.17.10"
+    },
+    {
+      "start": 94.9,
+      "end": 102.58,
+      "usfm": "GEN.17.11"
+    },
+    {
+      "start": 102.58,
+      "end": 115.1,
+      "usfm": "GEN.17.12"
+    },
+    {
+      "start": 115.1,
+      "end": 127.66,
+      "usfm": "GEN.17.13"
+    },
+    {
+      "start": 127.66,
+      "end": 139.82,
+      "usfm": "GEN.17.14"
+    },
+    {
+      "start": 139.82,
+      "end": 150.8,
+      "usfm": "GEN.17.15"
+    },
+    {
+      "start": 150.8,
+      "end": 161.8,
+      "usfm": "GEN.17.16"
+    },
+    {
+      "start": 161.8,
+      "end": 176.62,
+      "usfm": "GEN.17.17"
+    },
+    {
+      "start": 176.62,
+      "end": 182.06,
+      "usfm": "GEN.17.18"
+    },
+    {
+      "start": 182.06,
+      "end": 197.04,
+      "usfm": "GEN.17.19"
+    },
+    {
+      "start": 197.04,
+      "end": 211.8,
+      "usfm": "GEN.17.20"
+    },
+    {
+      "start": 211.8,
+      "end": 221.32,
+      "usfm": "GEN.17.21"
+    },
+    {
+      "start": 221.32,
+      "end": 227.08,
+      "usfm": "GEN.17.22"
+    },
+    {
+      "start": 227.08,
+      "end": 244.3,
+      "usfm": "GEN.17.23"
+    },
+    {
+      "start": 244.3,
+      "end": 251.14,
+      "usfm": "GEN.17.24"
+    },
+    {
+      "start": 251.14,
+      "end": 258.84,
+      "usfm": "GEN.17.25"
+    },
+    {
+      "start": 258.84,
+      "end": 265.08,
+      "usfm": "GEN.17.26"
+    },
+    {
+      "start": 265.08,
+      "end": 279.64,
+      "usfm": "GEN.17.27"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -396,8 +504,8 @@
   ],
   "audio_start_offset": 1.82,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

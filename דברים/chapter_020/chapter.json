@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 20,
   "title": "דברים פרק 20",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/20-0c65f35a5745166213f849e1bc0275e9.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/20-e612b3ea15445f22f09336b8c0353ca3.mp3?version_id=1",
   "english": [
     "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the Lord thy God is with thee, which brought thee up out of the land of Egypt.",
     "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,",
@@ -245,26 +245,106 @@
     }
   ],
   "times_en": [
-    3.14,
-    19.32,
-    25.28,
-    37.68,
-    45.04,
-    59.4,
-    70.56,
-    81.2,
-    94.28,
-    100.64,
-    105.92,
-    115.2,
-    122.06,
-    128.88,
-    142.6,
-    150.44,
-    160.42,
-    172.24,
-    183.32,
-    202.54
+    {
+      "start": 2.88,
+      "end": 16.26,
+      "usfm": "DEU.20.1"
+    },
+    {
+      "start": 16.26,
+      "end": 24.7,
+      "usfm": "DEU.20.2"
+    },
+    {
+      "start": 24.7,
+      "end": 39.8,
+      "usfm": "DEU.20.3"
+    },
+    {
+      "start": 39.8,
+      "end": 46.26,
+      "usfm": "DEU.20.4"
+    },
+    {
+      "start": 46.26,
+      "end": 60.28,
+      "usfm": "DEU.20.5"
+    },
+    {
+      "start": 60.28,
+      "end": 72.04,
+      "usfm": "DEU.20.6"
+    },
+    {
+      "start": 72.04,
+      "end": 83.1,
+      "usfm": "DEU.20.7"
+    },
+    {
+      "start": 83.1,
+      "end": 98.4,
+      "usfm": "DEU.20.8"
+    },
+    {
+      "start": 98.4,
+      "end": 106.66,
+      "usfm": "DEU.20.9"
+    },
+    {
+      "start": 106.66,
+      "end": 112.06,
+      "usfm": "DEU.20.10"
+    },
+    {
+      "start": 112.06,
+      "end": 123.26,
+      "usfm": "DEU.20.11"
+    },
+    {
+      "start": 123.26,
+      "end": 129.64,
+      "usfm": "DEU.20.12"
+    },
+    {
+      "start": 129.64,
+      "end": 137.1,
+      "usfm": "DEU.20.13"
+    },
+    {
+      "start": 137.1,
+      "end": 150.12,
+      "usfm": "DEU.20.14"
+    },
+    {
+      "start": 150.12,
+      "end": 156.72,
+      "usfm": "DEU.20.15"
+    },
+    {
+      "start": 156.72,
+      "end": 164.82,
+      "usfm": "DEU.20.16"
+    },
+    {
+      "start": 164.82,
+      "end": 175.34,
+      "usfm": "DEU.20.17"
+    },
+    {
+      "start": 175.34,
+      "end": 184.34,
+      "usfm": "DEU.20.18"
+    },
+    {
+      "start": 184.34,
+      "end": 203.32,
+      "usfm": "DEU.20.19"
+    },
+    {
+      "start": 203.32,
+      "end": 222.48,
+      "usfm": "DEU.20.20"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -311,8 +391,8 @@
       "text_en": "From the prohibition against destroying fruit trees during a siege, the rabbis developed the principle of bal tashchit, which forbids needless waste and destruction even outside wartime."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

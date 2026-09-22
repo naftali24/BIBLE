@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 2,
   "title": "שמות פרק 2",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/2-1a4ae025b88a8845f41c4421e438ea85.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/2-8a404ea2c7dffbb559210a23398121de.mp3?version_id=1",
   "english": [
     "And there went a man of the house of Levi, and took to wife a daughter of Levi.",
     "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.",
@@ -162,31 +162,131 @@
     }
   ],
   "times_en": [
-    3.02,
-    7.92,
-    16.34,
-    30.28,
-    34.58,
-    47.44,
-    58.8,
-    66.32,
-    72.3,
-    83.02,
-    95.26,
-    107.08,
-    115.68,
-    124.7,
-    139.56,
-    150.4,
-    158.0,
-    165.46,
-    172.0,
-    178.82,
-    186.1,
-    193.0,
-    201.74,
-    214.64,
-    221.72
+    {
+      "start": 2.88,
+      "end": 7.2,
+      "usfm": "EXO.2.1"
+    },
+    {
+      "start": 7.2,
+      "end": 15.54,
+      "usfm": "EXO.2.2"
+    },
+    {
+      "start": 15.54,
+      "end": 28.74,
+      "usfm": "EXO.2.3"
+    },
+    {
+      "start": 28.74,
+      "end": 32.36,
+      "usfm": "EXO.2.4"
+    },
+    {
+      "start": 32.36,
+      "end": 45.88,
+      "usfm": "EXO.2.5"
+    },
+    {
+      "start": 45.88,
+      "end": 57.54,
+      "usfm": "EXO.2.6"
+    },
+    {
+      "start": 57.54,
+      "end": 65.14,
+      "usfm": "EXO.2.7"
+    },
+    {
+      "start": 65.14,
+      "end": 71.06,
+      "usfm": "EXO.2.8"
+    },
+    {
+      "start": 71.06,
+      "end": 81.16,
+      "usfm": "EXO.2.9"
+    },
+    {
+      "start": 81.16,
+      "end": 93.46,
+      "usfm": "EXO.2.10"
+    },
+    {
+      "start": 93.46,
+      "end": 104.96,
+      "usfm": "EXO.2.11"
+    },
+    {
+      "start": 104.96,
+      "end": 112.7,
+      "usfm": "EXO.2.12"
+    },
+    {
+      "start": 112.7,
+      "end": 122.5,
+      "usfm": "EXO.2.13"
+    },
+    {
+      "start": 122.5,
+      "end": 134.46,
+      "usfm": "EXO.2.14"
+    },
+    {
+      "start": 134.46,
+      "end": 145.44,
+      "usfm": "EXO.2.15"
+    },
+    {
+      "start": 145.44,
+      "end": 153.48,
+      "usfm": "EXO.2.16"
+    },
+    {
+      "start": 153.48,
+      "end": 160.12,
+      "usfm": "EXO.2.17"
+    },
+    {
+      "start": 160.12,
+      "end": 167.06,
+      "usfm": "EXO.2.18"
+    },
+    {
+      "start": 167.06,
+      "end": 174.46,
+      "usfm": "EXO.2.19"
+    },
+    {
+      "start": 174.46,
+      "end": 182.28,
+      "usfm": "EXO.2.20"
+    },
+    {
+      "start": 182.28,
+      "end": 188.76,
+      "usfm": "EXO.2.21"
+    },
+    {
+      "start": 188.76,
+      "end": 197.8,
+      "usfm": "EXO.2.22"
+    },
+    {
+      "start": 197.8,
+      "end": 213.1,
+      "usfm": "EXO.2.23"
+    },
+    {
+      "start": 213.1,
+      "end": 219.98,
+      "usfm": "EXO.2.24"
+    },
+    {
+      "start": 219.98,
+      "end": 233.16,
+      "usfm": "EXO.2.25"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -239,8 +339,8 @@
       "text_en": "In the Bible, the verb “to know” can mean more than having information; it can also describe deep attention and recognition of someone’s situation. The verse therefore emphasizes that God notices the Israelites’ suffering and responds to it."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

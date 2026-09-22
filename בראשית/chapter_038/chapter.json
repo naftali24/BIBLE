@@ -4,8 +4,8 @@
   "book_chapters": 50,
   "chapter": 38,
   "title": "בראשית פרק 38",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/GEN/38-49ad9dce8b1fefa65dba494a38f61428.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/38-e649e5e57ea44ee69943bcf1473b7992.mp3?version_id=1",
   "english": [
     "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.",
     "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.",
@@ -168,36 +168,156 @@
     }
   ],
   "times_en": [
-    3.32,
-    10.56,
-    18.68,
-    23.54,
-    29.12,
-    36.36,
-    42.5,
-    49.52,
-    58.7,
-    70.9,
-    77.6,
-    92.36,
-    104.48,
-    109.78,
-    124.88,
-    130.64,
-    141.12,
-    150.58,
-    163.58,
-    170.6,
-    178.96,
-    189.16,
-    198.76,
-    209.86,
-    223.74,
-    239.74,
-    251.3,
-    257.08,
-    267.9,
-    276.96
+    {
+      "start": 2.88,
+      "end": 13.64,
+      "usfm": "GEN.38.1"
+    },
+    {
+      "start": 13.64,
+      "end": 22.5,
+      "usfm": "GEN.38.2"
+    },
+    {
+      "start": 22.5,
+      "end": 27.64,
+      "usfm": "GEN.38.3"
+    },
+    {
+      "start": 27.64,
+      "end": 32.44,
+      "usfm": "GEN.38.4"
+    },
+    {
+      "start": 32.44,
+      "end": 41.64,
+      "usfm": "GEN.38.5"
+    },
+    {
+      "start": 41.64,
+      "end": 45.46,
+      "usfm": "GEN.38.6"
+    },
+    {
+      "start": 45.46,
+      "end": 50.58,
+      "usfm": "GEN.38.7"
+    },
+    {
+      "start": 50.58,
+      "end": 58.08,
+      "usfm": "GEN.38.8"
+    },
+    {
+      "start": 58.08,
+      "end": 72.02,
+      "usfm": "GEN.38.9"
+    },
+    {
+      "start": 72.02,
+      "end": 77.78,
+      "usfm": "GEN.38.10"
+    },
+    {
+      "start": 77.78,
+      "end": 94.7,
+      "usfm": "GEN.38.11"
+    },
+    {
+      "start": 94.7,
+      "end": 106.42,
+      "usfm": "GEN.38.12"
+    },
+    {
+      "start": 106.42,
+      "end": 113.46,
+      "usfm": "GEN.38.13"
+    },
+    {
+      "start": 113.46,
+      "end": 130.52,
+      "usfm": "GEN.38.14"
+    },
+    {
+      "start": 130.52,
+      "end": 135.36,
+      "usfm": "GEN.38.15"
+    },
+    {
+      "start": 135.36,
+      "end": 150.16,
+      "usfm": "GEN.38.16"
+    },
+    {
+      "start": 150.16,
+      "end": 158.24,
+      "usfm": "GEN.38.17"
+    },
+    {
+      "start": 158.24,
+      "end": 172.74,
+      "usfm": "GEN.38.18"
+    },
+    {
+      "start": 172.74,
+      "end": 179.34,
+      "usfm": "GEN.38.19"
+    },
+    {
+      "start": 179.34,
+      "end": 186.64,
+      "usfm": "GEN.38.20"
+    },
+    {
+      "start": 186.64,
+      "end": 194.48,
+      "usfm": "GEN.38.21"
+    },
+    {
+      "start": 194.48,
+      "end": 201.52,
+      "usfm": "GEN.38.22"
+    },
+    {
+      "start": 201.52,
+      "end": 208.7,
+      "usfm": "GEN.38.23"
+    },
+    {
+      "start": 208.7,
+      "end": 222.3,
+      "usfm": "GEN.38.24"
+    },
+    {
+      "start": 222.3,
+      "end": 238.64,
+      "usfm": "GEN.38.25"
+    },
+    {
+      "start": 238.64,
+      "end": 250.78,
+      "usfm": "GEN.38.26"
+    },
+    {
+      "start": 250.78,
+      "end": 256.06,
+      "usfm": "GEN.38.27"
+    },
+    {
+      "start": 256.06,
+      "end": 266.08,
+      "usfm": "GEN.38.28"
+    },
+    {
+      "start": 266.08,
+      "end": 279.04,
+      "usfm": "GEN.38.29"
+    },
+    {
+      "start": 279.04,
+      "end": 292.8,
+      "usfm": "GEN.38.30"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -264,8 +384,8 @@
   ],
   "audio_start_offset": 1.65,
   "timings_offset_applied": true,
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 9,
   "title": "במדבר פרק 9",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/9-46964fadfc4cde7a75d30f81454e1240.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/9-923aee4d8e9b2341e9ea7fc52f7cd85f.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,",
     "Let the children of Israel also keep the passover at his appointed season.",
@@ -111,29 +111,121 @@
     }
   ],
   "times_en": [
-    3.0,
-    12.54,
-    17.06,
-    26.84,
-    30.7,
-    43.06,
-    54.1,
-    65.56,
-    71.24,
-    73.42,
-    84.76,
-    95.58,
-    104.94,
-    122.86,
-    138.58,
-    149.82,
-    158.92,
-    168.38,
-    179.94,
-    188.32,
-    198.24,
-    212.68,
-    225.88
+    {
+      "start": 2.88,
+      "end": 10.86,
+      "usfm": "NUM.9.1"
+    },
+    {
+      "start": 10.86,
+      "end": 15.08,
+      "usfm": "NUM.9.2"
+    },
+    {
+      "start": 15.08,
+      "end": 26.22,
+      "usfm": "NUM.9.3"
+    },
+    {
+      "start": 26.22,
+      "end": 31.04,
+      "usfm": "NUM.9.4"
+    },
+    {
+      "start": 31.04,
+      "end": 42.74,
+      "usfm": "NUM.9.5"
+    },
+    {
+      "start": 42.74,
+      "end": 52.82,
+      "usfm": "NUM.9.6"
+    },
+    {
+      "start": 52.82,
+      "end": 64.12,
+      "usfm": "NUM.9.7"
+    },
+    {
+      "start": 64.12,
+      "end": 70.16,
+      "usfm": "NUM.9.8"
+    },
+    {
+      "start": 70.16,
+      "end": 72.66,
+      "usfm": "NUM.9.9"
+    },
+    {
+      "start": 72.66,
+      "end": 87.08,
+      "usfm": "NUM.9.10"
+    },
+    {
+      "start": 87.08,
+      "end": 94.2,
+      "usfm": "NUM.9.11"
+    },
+    {
+      "start": 94.2,
+      "end": 101.22,
+      "usfm": "NUM.9.12"
+    },
+    {
+      "start": 101.22,
+      "end": 117.86,
+      "usfm": "NUM.9.13"
+    },
+    {
+      "start": 117.86,
+      "end": 134.42,
+      "usfm": "NUM.9.14"
+    },
+    {
+      "start": 134.42,
+      "end": 147.92,
+      "usfm": "NUM.9.15"
+    },
+    {
+      "start": 147.92,
+      "end": 154.5,
+      "usfm": "NUM.9.16"
+    },
+    {
+      "start": 154.5,
+      "end": 165.1,
+      "usfm": "NUM.9.17"
+    },
+    {
+      "start": 165.1,
+      "end": 175.0,
+      "usfm": "NUM.9.18"
+    },
+    {
+      "start": 175.0,
+      "end": 183.0,
+      "usfm": "NUM.9.19"
+    },
+    {
+      "start": 183.0,
+      "end": 194.04,
+      "usfm": "NUM.9.20"
+    },
+    {
+      "start": 194.04,
+      "end": 208.94,
+      "usfm": "NUM.9.21"
+    },
+    {
+      "start": 208.94,
+      "end": 223.98,
+      "usfm": "NUM.9.22"
+    },
+    {
+      "start": 223.98,
+      "end": 243.28,
+      "usfm": "NUM.9.23"
+    }
   ],
   "did_you_know": [
     {
@@ -185,8 +277,8 @@
       "text_en": "Did you know? The phrase \"they kept the charge of the Lord\" emphasizes that the Israelites not only traveled and camped according to God's will, but also maintained full commitment to divine guidance in all aspects of their lives."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

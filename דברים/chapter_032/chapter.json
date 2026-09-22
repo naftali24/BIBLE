@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 32,
   "title": "דברים פרק 32",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/32-a8b88bc29c80c6759609a35222a24b41.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/32-44ef78f1719b5833392f8d5aaf62fabe.mp3?version_id=1",
   "english": [
     "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
     "My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:",
@@ -306,58 +306,266 @@
     }
   ],
   "times_en": [
-    3.66,
-    11.28,
-    21.64,
-    27.52,
-    39.3,
-    50.04,
-    61.56,
-    71.84,
-    83.24,
-    89.96,
-    101.4,
-    110.4,
-    115.72,
-    126.76,
-    141.56,
-    152.84,
-    159.68,
-    169.56,
-    175.44,
-    182.4,
-    193.02,
-    210.36,
-    221.8,
-    227.44,
-    240.74,
-    251.14,
-    257.48,
-    269.58,
-    275.44,
-    282.0,
-    293.16,
-    298.44,
-    307.66,
-    313.16,
-    317.88,
-    329.2,
-    340.92,
-    346.02,
-    356.68,
-    371.04,
-    377.08,
-    387.54,
-    399.04,
-    420.46,
-    428.82,
-    433.8,
-    446.0,
-    457.28,
-    460.54,
-    473.3,
-    484.76,
-    496.98
+    {
+      "start": 2.88,
+      "end": 10.58,
+      "usfm": "DEU.32.1"
+    },
+    {
+      "start": 10.58,
+      "end": 21.2,
+      "usfm": "DEU.32.2"
+    },
+    {
+      "start": 21.2,
+      "end": 27.7,
+      "usfm": "DEU.32.3"
+    },
+    {
+      "start": 27.7,
+      "end": 38.56,
+      "usfm": "DEU.32.4"
+    },
+    {
+      "start": 38.56,
+      "end": 47.1,
+      "usfm": "DEU.32.5"
+    },
+    {
+      "start": 47.1,
+      "end": 57.64,
+      "usfm": "DEU.32.6"
+    },
+    {
+      "start": 57.64,
+      "end": 67.68,
+      "usfm": "DEU.32.7"
+    },
+    {
+      "start": 67.68,
+      "end": 78.48,
+      "usfm": "DEU.32.8"
+    },
+    {
+      "start": 78.48,
+      "end": 84.7,
+      "usfm": "DEU.32.9"
+    },
+    {
+      "start": 84.7,
+      "end": 94.26,
+      "usfm": "DEU.32.10"
+    },
+    {
+      "start": 94.26,
+      "end": 103.32,
+      "usfm": "DEU.32.11"
+    },
+    {
+      "start": 103.32,
+      "end": 108.28,
+      "usfm": "DEU.32.12"
+    },
+    {
+      "start": 108.28,
+      "end": 119.7,
+      "usfm": "DEU.32.13"
+    },
+    {
+      "start": 119.7,
+      "end": 133.5,
+      "usfm": "DEU.32.14"
+    },
+    {
+      "start": 133.5,
+      "end": 149.96,
+      "usfm": "DEU.32.15"
+    },
+    {
+      "start": 149.96,
+      "end": 156.5,
+      "usfm": "DEU.32.16"
+    },
+    {
+      "start": 156.5,
+      "end": 165.92,
+      "usfm": "DEU.32.17"
+    },
+    {
+      "start": 165.92,
+      "end": 172.18,
+      "usfm": "DEU.32.18"
+    },
+    {
+      "start": 172.18,
+      "end": 178.0,
+      "usfm": "DEU.32.19"
+    },
+    {
+      "start": 178.0,
+      "end": 189.52,
+      "usfm": "DEU.32.20"
+    },
+    {
+      "start": 189.52,
+      "end": 202.98,
+      "usfm": "DEU.32.21"
+    },
+    {
+      "start": 202.98,
+      "end": 215.18,
+      "usfm": "DEU.32.22"
+    },
+    {
+      "start": 215.18,
+      "end": 220.74,
+      "usfm": "DEU.32.23"
+    },
+    {
+      "start": 220.74,
+      "end": 234.4,
+      "usfm": "DEU.32.24"
+    },
+    {
+      "start": 234.4,
+      "end": 243.94,
+      "usfm": "DEU.32.25"
+    },
+    {
+      "start": 243.94,
+      "end": 251.82,
+      "usfm": "DEU.32.26"
+    },
+    {
+      "start": 251.82,
+      "end": 263.88,
+      "usfm": "DEU.32.27"
+    },
+    {
+      "start": 263.88,
+      "end": 269.48,
+      "usfm": "DEU.32.28"
+    },
+    {
+      "start": 269.48,
+      "end": 275.98,
+      "usfm": "DEU.32.29"
+    },
+    {
+      "start": 275.98,
+      "end": 286.68,
+      "usfm": "DEU.32.30"
+    },
+    {
+      "start": 286.68,
+      "end": 292.6,
+      "usfm": "DEU.32.31"
+    },
+    {
+      "start": 292.6,
+      "end": 300.86,
+      "usfm": "DEU.32.32"
+    },
+    {
+      "start": 300.86,
+      "end": 305.94,
+      "usfm": "DEU.32.33"
+    },
+    {
+      "start": 305.94,
+      "end": 310.9,
+      "usfm": "DEU.32.34"
+    },
+    {
+      "start": 310.9,
+      "end": 323.56,
+      "usfm": "DEU.32.35"
+    },
+    {
+      "start": 323.56,
+      "end": 334.5,
+      "usfm": "DEU.32.36"
+    },
+    {
+      "start": 334.5,
+      "end": 340.22,
+      "usfm": "DEU.32.37"
+    },
+    {
+      "start": 340.22,
+      "end": 349.3,
+      "usfm": "DEU.32.38"
+    },
+    {
+      "start": 349.3,
+      "end": 363.62,
+      "usfm": "DEU.32.39"
+    },
+    {
+      "start": 363.62,
+      "end": 368.76,
+      "usfm": "DEU.32.40"
+    },
+    {
+      "start": 368.76,
+      "end": 379.64,
+      "usfm": "DEU.32.41"
+    },
+    {
+      "start": 379.64,
+      "end": 392.0,
+      "usfm": "DEU.32.42"
+    },
+    {
+      "start": 392.0,
+      "end": 405.2,
+      "usfm": "DEU.32.43"
+    },
+    {
+      "start": 405.2,
+      "end": 412.22,
+      "usfm": "DEU.32.44"
+    },
+    {
+      "start": 412.22,
+      "end": 416.0,
+      "usfm": "DEU.32.45"
+    },
+    {
+      "start": 416.0,
+      "end": 427.66,
+      "usfm": "DEU.32.46"
+    },
+    {
+      "start": 427.66,
+      "end": 438.24,
+      "usfm": "DEU.32.47"
+    },
+    {
+      "start": 438.24,
+      "end": 442.18,
+      "usfm": "DEU.32.48"
+    },
+    {
+      "start": 442.18,
+      "end": 456.02,
+      "usfm": "DEU.32.49"
+    },
+    {
+      "start": 456.02,
+      "end": 466.42,
+      "usfm": "DEU.32.50"
+    },
+    {
+      "start": 466.42,
+      "end": 478.46,
+      "usfm": "DEU.32.51"
+    },
+    {
+      "start": 478.46,
+      "end": 494.28,
+      "usfm": "DEU.32.52"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -464,8 +672,8 @@
       "text_en": "Mount Nebo lies in the land of Moab, east of the Dead Sea. It belongs to a mountain ridge from which one can look west toward the Jordan region and the land of Canaan."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

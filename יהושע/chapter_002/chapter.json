@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 2,
   "title": "יהושע פרק 2",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/2-55488efc4fc109923acf25b370034e1a.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/2-74b626cb5dbaa38b041c7b6c7c0ee39a.mp3?version_id=1",
   "english": [
     "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.",
     "And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.",
@@ -177,30 +177,126 @@
     }
   ],
   "times_en": [
-    3.06,
-    19.52,
-    27.56,
-    37.82,
-    48.32,
-    58.04,
-    66.0,
-    76.36,
-    80.68,
-    92.6,
-    108.0,
-    119.64,
-    130.84,
-    141.56,
-    151.7,
-    159.68,
-    171.38,
-    176.72,
-    190.64,
-    205.26,
-    211.22,
-    221.24,
-    232.48,
-    243.34
+    {
+      "start": 2.88,
+      "end": 16.66,
+      "usfm": "JOS.2.1"
+    },
+    {
+      "start": 16.66,
+      "end": 25.5,
+      "usfm": "JOS.2.2"
+    },
+    {
+      "start": 25.5,
+      "end": 35.42,
+      "usfm": "JOS.2.3"
+    },
+    {
+      "start": 35.42,
+      "end": 42.66,
+      "usfm": "JOS.2.4"
+    },
+    {
+      "start": 42.66,
+      "end": 53.8,
+      "usfm": "JOS.2.5"
+    },
+    {
+      "start": 53.8,
+      "end": 62.9,
+      "usfm": "JOS.2.6"
+    },
+    {
+      "start": 62.9,
+      "end": 72.7,
+      "usfm": "JOS.2.7"
+    },
+    {
+      "start": 72.7,
+      "end": 77.0,
+      "usfm": "JOS.2.8"
+    },
+    {
+      "start": 77.0,
+      "end": 87.88,
+      "usfm": "JOS.2.9"
+    },
+    {
+      "start": 87.88,
+      "end": 101.22,
+      "usfm": "JOS.2.10"
+    },
+    {
+      "start": 101.22,
+      "end": 115.32,
+      "usfm": "JOS.2.11"
+    },
+    {
+      "start": 115.32,
+      "end": 126.16,
+      "usfm": "JOS.2.12"
+    },
+    {
+      "start": 126.16,
+      "end": 135.66,
+      "usfm": "JOS.2.13"
+    },
+    {
+      "start": 135.66,
+      "end": 148.88,
+      "usfm": "JOS.2.14"
+    },
+    {
+      "start": 148.88,
+      "end": 158.1,
+      "usfm": "JOS.2.15"
+    },
+    {
+      "start": 158.1,
+      "end": 171.86,
+      "usfm": "JOS.2.16"
+    },
+    {
+      "start": 171.86,
+      "end": 178.44,
+      "usfm": "JOS.2.17"
+    },
+    {
+      "start": 178.44,
+      "end": 193.58,
+      "usfm": "JOS.2.18"
+    },
+    {
+      "start": 193.58,
+      "end": 211.06,
+      "usfm": "JOS.2.19"
+    },
+    {
+      "start": 211.06,
+      "end": 218.82,
+      "usfm": "JOS.2.20"
+    },
+    {
+      "start": 218.82,
+      "end": 229.16,
+      "usfm": "JOS.2.21"
+    },
+    {
+      "start": 229.16,
+      "end": 239.68,
+      "usfm": "JOS.2.22"
+    },
+    {
+      "start": 239.68,
+      "end": 248.42,
+      "usfm": "JOS.2.23"
+    },
+    {
+      "start": 248.42,
+      "end": 265.08,
+      "usfm": "JOS.2.24"
+    }
   ],
   "did_you_know": [
     {
@@ -252,8 +348,8 @@
       "text_en": "The scarlet cord left in the window acted as a clear sign for the troops to recognize the house to be spared; a bright red marker is easy to spot."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

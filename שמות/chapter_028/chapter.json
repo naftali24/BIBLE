@@ -4,8 +4,8 @@
   "book_chapters": 40,
   "chapter": 28,
   "title": "שמות פרק 28",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/EXO/28-a4036e68768ba847dd1100cf2c6d82c9.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/28-b3f97277f9deb9f266b7abef4fdf0d08.mp3?version_id=1",
   "english": [
     "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.",
     "And thou shalt make holy garments for Aaron thy brother for glory and for beauty.",
@@ -252,49 +252,221 @@
     }
   ],
   "times_en": [
-    3.38,
-    15.32,
-    20.58,
-    32.32,
-    48.72,
-    54.62,
-    62.6,
-    68.26,
-    80.64,
-    86.72,
-    92.96,
-    104.06,
-    117.28,
-    120.04,
-    127.22,
-    139.28,
-    145.38,
-    155.14,
-    159.52,
-    164.0,
-    171.82,
-    180.96,
-    186.22,
-    192.46,
-    198.72,
-    207.22,
-    216.72,
-    228.14,
-    241.0,
-    252.66,
-    269.28,
-    273.8,
-    283.5,
-    292.06,
-    297.56,
-    308.4,
-    315.96,
-    322.68,
-    339.42,
-    347.76,
-    354.22,
-    364.88,
-    371.18
+    {
+      "start": 2.88,
+      "end": 19.48,
+      "usfm": "EXO.28.1"
+    },
+    {
+      "start": 19.48,
+      "end": 24.82,
+      "usfm": "EXO.28.2"
+    },
+    {
+      "start": 24.82,
+      "end": 37.82,
+      "usfm": "EXO.28.3"
+    },
+    {
+      "start": 37.82,
+      "end": 54.0,
+      "usfm": "EXO.28.4"
+    },
+    {
+      "start": 54.0,
+      "end": 58.6,
+      "usfm": "EXO.28.5"
+    },
+    {
+      "start": 58.6,
+      "end": 65.78,
+      "usfm": "EXO.28.6"
+    },
+    {
+      "start": 65.78,
+      "end": 72.32,
+      "usfm": "EXO.28.7"
+    },
+    {
+      "start": 72.32,
+      "end": 81.78,
+      "usfm": "EXO.28.8"
+    },
+    {
+      "start": 81.78,
+      "end": 86.84,
+      "usfm": "EXO.28.9"
+    },
+    {
+      "start": 86.84,
+      "end": 93.06,
+      "usfm": "EXO.28.10"
+    },
+    {
+      "start": 93.06,
+      "end": 105.58,
+      "usfm": "EXO.28.11"
+    },
+    {
+      "start": 105.58,
+      "end": 116.58,
+      "usfm": "EXO.28.12"
+    },
+    {
+      "start": 116.58,
+      "end": 119.04,
+      "usfm": "EXO.28.13"
+    },
+    {
+      "start": 119.04,
+      "end": 126.34,
+      "usfm": "EXO.28.14"
+    },
+    {
+      "start": 126.34,
+      "end": 137.72,
+      "usfm": "EXO.28.15"
+    },
+    {
+      "start": 137.72,
+      "end": 147.0,
+      "usfm": "EXO.28.16"
+    },
+    {
+      "start": 147.0,
+      "end": 158.06,
+      "usfm": "EXO.28.17"
+    },
+    {
+      "start": 158.06,
+      "end": 162.56,
+      "usfm": "EXO.28.18"
+    },
+    {
+      "start": 162.56,
+      "end": 166.62,
+      "usfm": "EXO.28.19"
+    },
+    {
+      "start": 166.62,
+      "end": 173.32,
+      "usfm": "EXO.28.20"
+    },
+    {
+      "start": 173.32,
+      "end": 183.74,
+      "usfm": "EXO.28.21"
+    },
+    {
+      "start": 183.74,
+      "end": 190.04,
+      "usfm": "EXO.28.22"
+    },
+    {
+      "start": 190.04,
+      "end": 196.72,
+      "usfm": "EXO.28.23"
+    },
+    {
+      "start": 196.72,
+      "end": 202.5,
+      "usfm": "EXO.28.24"
+    },
+    {
+      "start": 202.5,
+      "end": 210.22,
+      "usfm": "EXO.28.25"
+    },
+    {
+      "start": 210.22,
+      "end": 219.3,
+      "usfm": "EXO.28.26"
+    },
+    {
+      "start": 219.3,
+      "end": 231.66,
+      "usfm": "EXO.28.27"
+    },
+    {
+      "start": 231.66,
+      "end": 243.42,
+      "usfm": "EXO.28.28"
+    },
+    {
+      "start": 243.42,
+      "end": 254.74,
+      "usfm": "EXO.28.29"
+    },
+    {
+      "start": 254.74,
+      "end": 270.08,
+      "usfm": "EXO.28.30"
+    },
+    {
+      "start": 270.08,
+      "end": 274.06,
+      "usfm": "EXO.28.31"
+    },
+    {
+      "start": 274.06,
+      "end": 285.5,
+      "usfm": "EXO.28.32"
+    },
+    {
+      "start": 285.5,
+      "end": 295.28,
+      "usfm": "EXO.28.33"
+    },
+    {
+      "start": 295.28,
+      "end": 301.76,
+      "usfm": "EXO.28.34"
+    },
+    {
+      "start": 301.76,
+      "end": 311.5,
+      "usfm": "EXO.28.35"
+    },
+    {
+      "start": 311.5,
+      "end": 318.68,
+      "usfm": "EXO.28.36"
+    },
+    {
+      "start": 318.68,
+      "end": 326.08,
+      "usfm": "EXO.28.37"
+    },
+    {
+      "start": 326.08,
+      "end": 339.42,
+      "usfm": "EXO.28.38"
+    },
+    {
+      "start": 339.42,
+      "end": 348.02,
+      "usfm": "EXO.28.39"
+    },
+    {
+      "start": 348.02,
+      "end": 357.62,
+      "usfm": "EXO.28.40"
+    },
+    {
+      "start": 357.62,
+      "end": 369.48,
+      "usfm": "EXO.28.41"
+    },
+    {
+      "start": 369.48,
+      "end": 376.16,
+      "usfm": "EXO.28.42"
+    },
+    {
+      "start": 376.16,
+      "end": 400.56,
+      "usfm": "EXO.28.43"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -383,8 +555,8 @@
       "text_en": "Did you know? Even within this elaborate ceremonial clothing, the Torah includes a practical garment meant to preserve modesty. The biblical word for these garments is related to the modern Hebrew word for trousers."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

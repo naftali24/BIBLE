@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 7,
   "title": "במדבר פרק 7",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/7-942734b6ae10963a6fa5321c9bde7212.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/7-e50d548fd45075be17195140c6a8de59.mp3?version_id=1",
   "english": [
     "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;",
     "That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:",
@@ -453,95 +453,451 @@
     }
   ],
   "times_en": [
-    3.02,
-    14.04,
-    23.46,
-    36.46,
-    38.72,
-    48.6,
-    53.28,
-    59.04,
-    69.36,
-    78.26,
-    86.06,
-    93.7,
-    100.58,
-    116.24,
-    120.92,
-    127.3,
-    130.18,
-    142.92,
-    148.84,
-    165.14,
-    169.82,
-    176.38,
-    179.3,
-    191.62,
-    197.82,
-    213.44,
-    218.1,
-    224.36,
-    227.36,
-    239.5,
-    245.68,
-    261.42,
-    266.12,
-    272.5,
-    275.32,
-    287.88,
-    294.52,
-    310.04,
-    314.56,
-    320.98,
-    323.96,
-    336.8,
-    342.78,
-    358.62,
-    363.52,
-    369.76,
-    372.84,
-    385.22,
-    391.64,
-    407.4,
-    412.24,
-    418.64,
-    421.96,
-    434.42,
-    440.5,
-    456.08,
-    460.86,
-    467.38,
-    470.38,
-    483.5,
-    489.8,
-    505.96,
-    510.74,
-    517.22,
-    520.2,
-    532.8,
-    539.42,
-    555.26,
-    560.1,
-    566.7,
-    569.7,
-    582.92,
-    589.32,
-    605.38,
-    610.04,
-    616.6,
-    619.5,
-    632.16,
-    638.68,
-    654.38,
-    659.32,
-    665.82,
-    668.7,
-    681.2,
-    694.1,
-    708.8,
-    721.48,
-    735.76,
-    751.86
+    {
+      "start": 2.88,
+      "end": 16.22,
+      "usfm": "NUM.7.1"
+    },
+    {
+      "start": 16.22,
+      "end": 24.08,
+      "usfm": "NUM.7.2"
+    },
+    {
+      "start": 24.08,
+      "end": 36.48,
+      "usfm": "NUM.7.3"
+    },
+    {
+      "start": 36.48,
+      "end": 39.06,
+      "usfm": "NUM.7.4"
+    },
+    {
+      "start": 39.06,
+      "end": 48.74,
+      "usfm": "NUM.7.5"
+    },
+    {
+      "start": 48.74,
+      "end": 53.54,
+      "usfm": "NUM.7.6"
+    },
+    {
+      "start": 53.54,
+      "end": 59.48,
+      "usfm": "NUM.7.7"
+    },
+    {
+      "start": 59.48,
+      "end": 67.98,
+      "usfm": "NUM.7.8"
+    },
+    {
+      "start": 67.98,
+      "end": 76.24,
+      "usfm": "NUM.7.9"
+    },
+    {
+      "start": 76.24,
+      "end": 83.22,
+      "usfm": "NUM.7.10"
+    },
+    {
+      "start": 83.22,
+      "end": 90.98,
+      "usfm": "NUM.7.11"
+    },
+    {
+      "start": 90.98,
+      "end": 96.52,
+      "usfm": "NUM.7.12"
+    },
+    {
+      "start": 96.52,
+      "end": 109.54,
+      "usfm": "NUM.7.13"
+    },
+    {
+      "start": 109.54,
+      "end": 112.98,
+      "usfm": "NUM.7.14"
+    },
+    {
+      "start": 112.98,
+      "end": 117.84,
+      "usfm": "NUM.7.15"
+    },
+    {
+      "start": 117.84,
+      "end": 120.22,
+      "usfm": "NUM.7.16"
+    },
+    {
+      "start": 120.22,
+      "end": 129.8,
+      "usfm": "NUM.7.17"
+    },
+    {
+      "start": 129.8,
+      "end": 135.04,
+      "usfm": "NUM.7.18"
+    },
+    {
+      "start": 135.04,
+      "end": 148.02,
+      "usfm": "NUM.7.19"
+    },
+    {
+      "start": 148.02,
+      "end": 151.28,
+      "usfm": "NUM.7.20"
+    },
+    {
+      "start": 151.28,
+      "end": 155.64,
+      "usfm": "NUM.7.21"
+    },
+    {
+      "start": 155.64,
+      "end": 158.44,
+      "usfm": "NUM.7.22"
+    },
+    {
+      "start": 158.44,
+      "end": 167.74,
+      "usfm": "NUM.7.23"
+    },
+    {
+      "start": 167.74,
+      "end": 172.32,
+      "usfm": "NUM.7.24"
+    },
+    {
+      "start": 172.32,
+      "end": 184.7,
+      "usfm": "NUM.7.25"
+    },
+    {
+      "start": 184.7,
+      "end": 188.1,
+      "usfm": "NUM.7.26"
+    },
+    {
+      "start": 188.1,
+      "end": 192.54,
+      "usfm": "NUM.7.27"
+    },
+    {
+      "start": 192.54,
+      "end": 195.0,
+      "usfm": "NUM.7.28"
+    },
+    {
+      "start": 195.0,
+      "end": 205.36,
+      "usfm": "NUM.7.29"
+    },
+    {
+      "start": 205.36,
+      "end": 210.62,
+      "usfm": "NUM.7.30"
+    },
+    {
+      "start": 210.62,
+      "end": 222.46,
+      "usfm": "NUM.7.31"
+    },
+    {
+      "start": 222.46,
+      "end": 225.76,
+      "usfm": "NUM.7.32"
+    },
+    {
+      "start": 225.76,
+      "end": 230.7,
+      "usfm": "NUM.7.33"
+    },
+    {
+      "start": 230.7,
+      "end": 233.0,
+      "usfm": "NUM.7.34"
+    },
+    {
+      "start": 233.0,
+      "end": 242.28,
+      "usfm": "NUM.7.35"
+    },
+    {
+      "start": 242.28,
+      "end": 248.4,
+      "usfm": "NUM.7.36"
+    },
+    {
+      "start": 248.4,
+      "end": 260.36,
+      "usfm": "NUM.7.37"
+    },
+    {
+      "start": 260.36,
+      "end": 263.18,
+      "usfm": "NUM.7.38"
+    },
+    {
+      "start": 263.18,
+      "end": 267.28,
+      "usfm": "NUM.7.39"
+    },
+    {
+      "start": 267.28,
+      "end": 269.44,
+      "usfm": "NUM.7.40"
+    },
+    {
+      "start": 269.44,
+      "end": 278.38,
+      "usfm": "NUM.7.41"
+    },
+    {
+      "start": 278.38,
+      "end": 283.42,
+      "usfm": "NUM.7.42"
+    },
+    {
+      "start": 283.42,
+      "end": 295.02,
+      "usfm": "NUM.7.43"
+    },
+    {
+      "start": 295.02,
+      "end": 298.02,
+      "usfm": "NUM.7.44"
+    },
+    {
+      "start": 298.02,
+      "end": 302.04,
+      "usfm": "NUM.7.45"
+    },
+    {
+      "start": 302.04,
+      "end": 304.14,
+      "usfm": "NUM.7.46"
+    },
+    {
+      "start": 304.14,
+      "end": 313.24,
+      "usfm": "NUM.7.47"
+    },
+    {
+      "start": 313.24,
+      "end": 318.08,
+      "usfm": "NUM.7.48"
+    },
+    {
+      "start": 318.08,
+      "end": 329.16,
+      "usfm": "NUM.7.49"
+    },
+    {
+      "start": 329.16,
+      "end": 332.12,
+      "usfm": "NUM.7.50"
+    },
+    {
+      "start": 332.12,
+      "end": 336.7,
+      "usfm": "NUM.7.51"
+    },
+    {
+      "start": 336.7,
+      "end": 339.0,
+      "usfm": "NUM.7.52"
+    },
+    {
+      "start": 339.0,
+      "end": 347.64,
+      "usfm": "NUM.7.53"
+    },
+    {
+      "start": 347.64,
+      "end": 353.24,
+      "usfm": "NUM.7.54"
+    },
+    {
+      "start": 353.24,
+      "end": 365.28,
+      "usfm": "NUM.7.55"
+    },
+    {
+      "start": 365.28,
+      "end": 368.44,
+      "usfm": "NUM.7.56"
+    },
+    {
+      "start": 368.44,
+      "end": 373.8,
+      "usfm": "NUM.7.57"
+    },
+    {
+      "start": 373.8,
+      "end": 376.02,
+      "usfm": "NUM.7.58"
+    },
+    {
+      "start": 376.02,
+      "end": 385.4,
+      "usfm": "NUM.7.59"
+    },
+    {
+      "start": 385.4,
+      "end": 391.16,
+      "usfm": "NUM.7.60"
+    },
+    {
+      "start": 391.16,
+      "end": 402.58,
+      "usfm": "NUM.7.61"
+    },
+    {
+      "start": 402.58,
+      "end": 405.68,
+      "usfm": "NUM.7.62"
+    },
+    {
+      "start": 405.68,
+      "end": 409.54,
+      "usfm": "NUM.7.63"
+    },
+    {
+      "start": 409.54,
+      "end": 411.64,
+      "usfm": "NUM.7.64"
+    },
+    {
+      "start": 411.64,
+      "end": 421.36,
+      "usfm": "NUM.7.65"
+    },
+    {
+      "start": 421.36,
+      "end": 426.22,
+      "usfm": "NUM.7.66"
+    },
+    {
+      "start": 426.22,
+      "end": 438.26,
+      "usfm": "NUM.7.67"
+    },
+    {
+      "start": 438.26,
+      "end": 441.44,
+      "usfm": "NUM.7.68"
+    },
+    {
+      "start": 441.44,
+      "end": 446.26,
+      "usfm": "NUM.7.69"
+    },
+    {
+      "start": 446.26,
+      "end": 448.68,
+      "usfm": "NUM.7.70"
+    },
+    {
+      "start": 448.68,
+      "end": 457.78,
+      "usfm": "NUM.7.71"
+    },
+    {
+      "start": 457.78,
+      "end": 462.8,
+      "usfm": "NUM.7.72"
+    },
+    {
+      "start": 462.8,
+      "end": 474.08,
+      "usfm": "NUM.7.73"
+    },
+    {
+      "start": 474.08,
+      "end": 477.08,
+      "usfm": "NUM.7.74"
+    },
+    {
+      "start": 477.08,
+      "end": 480.96,
+      "usfm": "NUM.7.75"
+    },
+    {
+      "start": 480.96,
+      "end": 483.1,
+      "usfm": "NUM.7.76"
+    },
+    {
+      "start": 483.1,
+      "end": 491.72,
+      "usfm": "NUM.7.77"
+    },
+    {
+      "start": 491.72,
+      "end": 496.78,
+      "usfm": "NUM.7.78"
+    },
+    {
+      "start": 496.78,
+      "end": 508.6,
+      "usfm": "NUM.7.79"
+    },
+    {
+      "start": 508.6,
+      "end": 511.54,
+      "usfm": "NUM.7.80"
+    },
+    {
+      "start": 511.54,
+      "end": 515.96,
+      "usfm": "NUM.7.81"
+    },
+    {
+      "start": 515.96,
+      "end": 518.12,
+      "usfm": "NUM.7.82"
+    },
+    {
+      "start": 518.12,
+      "end": 527.48,
+      "usfm": "NUM.7.83"
+    },
+    {
+      "start": 527.48,
+      "end": 537.5,
+      "usfm": "NUM.7.84"
+    },
+    {
+      "start": 537.5,
+      "end": 547.94,
+      "usfm": "NUM.7.85"
+    },
+    {
+      "start": 547.94,
+      "end": 557.86,
+      "usfm": "NUM.7.86"
+    },
+    {
+      "start": 557.86,
+      "end": 568.58,
+      "usfm": "NUM.7.87"
+    },
+    {
+      "start": 568.58,
+      "end": 584.16,
+      "usfm": "NUM.7.88"
+    },
+    {
+      "start": 584.16,
+      "end": 608.92,
+      "usfm": "NUM.7.89"
+    }
   ],
   "did_you_know": [
     {
@@ -725,8 +1081,8 @@
       "text_en": "Did you know? The recurring number 'twelve' (12 bulls, 12 rams, 12 lambs, 12 goats) throughout the offerings strongly symbolizes the unity and totality of the twelve tribes of Israel."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

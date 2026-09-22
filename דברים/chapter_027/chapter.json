@@ -4,8 +4,8 @@
   "book_chapters": 34,
   "chapter": 27,
   "title": "דברים פרק 27",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/DEU/27-eecc55d733ec0cdb4e99298ee858ff0c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/27-195394298720d0ccf0915b49a244eba4.mp3?version_id=1",
   "english": [
     "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.",
     "And it shall be on the day when ye shall pass over Jordan unto the land which the Lord thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:",
@@ -165,32 +165,136 @@
     }
   ],
   "times_en": [
-    3.56,
-    12.4,
-    21.28,
-    36.9,
-    48.2,
-    58.48,
-    68.12,
-    75.62,
-    82.48,
-    95.0,
-    103.6,
-    107.56,
-    120.12,
-    129.94,
-    135.18,
-    150.92,
-    158.72,
-    166.2,
-    174.56,
-    184.12,
-    195.0,
-    202.18,
-    212.16,
-    219.26,
-    226.66,
-    235.44
+    {
+      "start": 2.88,
+      "end": 10.74,
+      "usfm": "DEU.27.1"
+    },
+    {
+      "start": 10.74,
+      "end": 21.36,
+      "usfm": "DEU.27.2"
+    },
+    {
+      "start": 21.36,
+      "end": 36.1,
+      "usfm": "DEU.27.3"
+    },
+    {
+      "start": 36.1,
+      "end": 46.76,
+      "usfm": "DEU.27.4"
+    },
+    {
+      "start": 46.76,
+      "end": 55.8,
+      "usfm": "DEU.27.5"
+    },
+    {
+      "start": 55.8,
+      "end": 64.1,
+      "usfm": "DEU.27.6"
+    },
+    {
+      "start": 64.1,
+      "end": 70.2,
+      "usfm": "DEU.27.7"
+    },
+    {
+      "start": 70.2,
+      "end": 75.0,
+      "usfm": "DEU.27.8"
+    },
+    {
+      "start": 75.0,
+      "end": 87.06,
+      "usfm": "DEU.27.9"
+    },
+    {
+      "start": 87.06,
+      "end": 95.66,
+      "usfm": "DEU.27.10"
+    },
+    {
+      "start": 95.66,
+      "end": 99.16,
+      "usfm": "DEU.27.11"
+    },
+    {
+      "start": 99.16,
+      "end": 110.76,
+      "usfm": "DEU.27.12"
+    },
+    {
+      "start": 110.76,
+      "end": 120.48,
+      "usfm": "DEU.27.13"
+    },
+    {
+      "start": 120.48,
+      "end": 124.94,
+      "usfm": "DEU.27.14"
+    },
+    {
+      "start": 124.94,
+      "end": 139.5,
+      "usfm": "DEU.27.15"
+    },
+    {
+      "start": 139.5,
+      "end": 148.1,
+      "usfm": "DEU.27.16"
+    },
+    {
+      "start": 148.1,
+      "end": 155.22,
+      "usfm": "DEU.27.17"
+    },
+    {
+      "start": 155.22,
+      "end": 162.6,
+      "usfm": "DEU.27.18"
+    },
+    {
+      "start": 162.6,
+      "end": 171.52,
+      "usfm": "DEU.27.19"
+    },
+    {
+      "start": 171.52,
+      "end": 181.98,
+      "usfm": "DEU.27.20"
+    },
+    {
+      "start": 181.98,
+      "end": 188.98,
+      "usfm": "DEU.27.21"
+    },
+    {
+      "start": 188.98,
+      "end": 198.28,
+      "usfm": "DEU.27.22"
+    },
+    {
+      "start": 198.28,
+      "end": 205.12,
+      "usfm": "DEU.27.23"
+    },
+    {
+      "start": 205.12,
+      "end": 212.16,
+      "usfm": "DEU.27.24"
+    },
+    {
+      "start": 212.16,
+      "end": 221.0,
+      "usfm": "DEU.27.25"
+    },
+    {
+      "start": 221.0,
+      "end": 238.52,
+      "usfm": "DEU.27.26"
+    }
   ],
   "sync_anchor_en_word_index": 0,
   "did_you_know": [
@@ -249,8 +353,8 @@
       "text_en": "The word amen is related to the Hebrew root א־מ־ן, expressing firmness and trustworthiness. Saying amen here is a public affirmation and acceptance of responsibility, not merely a momentary agreement."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [

@@ -4,8 +4,8 @@
   "book_chapters": 36,
   "chapter": 6,
   "title": "במדבר פרק 6",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/NUM/6-3199f30a7a5edc6237842d9099cd9002.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/6-fafa0e414eb8d31139b805e02fa5def8.mp3?version_id=1",
   "english": [
     "And the Lord spake unto Moses, saying,",
     "Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the Lord:",
@@ -150,33 +150,141 @@
     }
   ],
   "times_en": [
-    3.22,
-    6.04,
-    15.62,
-    29.02,
-    37.96,
-    53.16,
-    59.18,
-    71.2,
-    76.06,
-    87.08,
-    95.38,
-    111.44,
-    125.16,
-    134.48,
-    148.48,
-    160.84,
-    167.48,
-    179.68,
-    190.26,
-    204.28,
-    219.94,
-    235.24,
-    237.68,
-    244.56,
-    247.4,
-    252.6,
-    257.5
+    {
+      "start": 2.88,
+      "end": 5.68,
+      "usfm": "NUM.6.1"
+    },
+    {
+      "start": 5.68,
+      "end": 16.86,
+      "usfm": "NUM.6.2"
+    },
+    {
+      "start": 16.86,
+      "end": 30.64,
+      "usfm": "NUM.6.3"
+    },
+    {
+      "start": 30.64,
+      "end": 37.94,
+      "usfm": "NUM.6.4"
+    },
+    {
+      "start": 37.94,
+      "end": 53.28,
+      "usfm": "NUM.6.5"
+    },
+    {
+      "start": 53.28,
+      "end": 59.7,
+      "usfm": "NUM.6.6"
+    },
+    {
+      "start": 59.7,
+      "end": 69.36,
+      "usfm": "NUM.6.7"
+    },
+    {
+      "start": 69.36,
+      "end": 73.22,
+      "usfm": "NUM.6.8"
+    },
+    {
+      "start": 73.22,
+      "end": 85.06,
+      "usfm": "NUM.6.9"
+    },
+    {
+      "start": 85.06,
+      "end": 93.4,
+      "usfm": "NUM.6.10"
+    },
+    {
+      "start": 93.4,
+      "end": 106.58,
+      "usfm": "NUM.6.11"
+    },
+    {
+      "start": 106.58,
+      "end": 120.78,
+      "usfm": "NUM.6.12"
+    },
+    {
+      "start": 120.78,
+      "end": 130.96,
+      "usfm": "NUM.6.13"
+    },
+    {
+      "start": 130.96,
+      "end": 145.72,
+      "usfm": "NUM.6.14"
+    },
+    {
+      "start": 145.72,
+      "end": 156.38,
+      "usfm": "NUM.6.15"
+    },
+    {
+      "start": 156.38,
+      "end": 161.94,
+      "usfm": "NUM.6.16"
+    },
+    {
+      "start": 161.94,
+      "end": 172.5,
+      "usfm": "NUM.6.17"
+    },
+    {
+      "start": 172.5,
+      "end": 186.48,
+      "usfm": "NUM.6.18"
+    },
+    {
+      "start": 186.48,
+      "end": 200.88,
+      "usfm": "NUM.6.19"
+    },
+    {
+      "start": 200.88,
+      "end": 213.04,
+      "usfm": "NUM.6.20"
+    },
+    {
+      "start": 213.04,
+      "end": 227.2,
+      "usfm": "NUM.6.21"
+    },
+    {
+      "start": 227.2,
+      "end": 229.96,
+      "usfm": "NUM.6.22"
+    },
+    {
+      "start": 229.96,
+      "end": 237.66,
+      "usfm": "NUM.6.23"
+    },
+    {
+      "start": 237.66,
+      "end": 240.78,
+      "usfm": "NUM.6.24"
+    },
+    {
+      "start": 240.78,
+      "end": 246.08,
+      "usfm": "NUM.6.25"
+    },
+    {
+      "start": 246.08,
+      "end": 251.44,
+      "usfm": "NUM.6.26"
+    },
+    {
+      "start": 251.44,
+      "end": 263.96,
+      "usfm": "NUM.6.27"
+    }
   ],
   "did_you_know": [
     {
@@ -234,8 +342,8 @@
       "text_en": "Did you know? The biblical blessing emphasizes that while the priests are the ones who recite it, the true power of the blessing comes directly from God Himself, \"and I will bless them.\""
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [
