@@ -1,0 +1,946 @@
+{
+  "book": "Joshua",
+  "book_he": "יהושע",
+  "chapter": 9,
+  "question_count": 63,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 3,
+      "title": "Gathering of the Kings",
+      "easy": [
+        {
+          "question": "Where were the kings mentioned in verse 1 located?",
+          "answers": [
+            "On this side of the Jordan — in the hills, in the lowlands and along the great sea coast toward Lebanon",
+            "Only in the kingdom of Egypt",
+            "Only in the southern desert region"
+          ],
+          "correct": 0,
+          "explanation": "The verse lists 'on this side Jordan, in the hill country, in the valley, and in all the coast of the great sea toward Lebanon' — those regions."
+        },
+        {
+          "question": "Which people-group appears in the list in verse 1?",
+          "answers": [
+            "The Hittites",
+            "The Philistines",
+            "The Egyptians"
+          ],
+          "correct": 0,
+          "explanation": "The Hittite is explicitly named in the verse. The Philistines and Egyptians are not listed there."
+        },
+        {
+          "question": "What did the kings do in verse 2?",
+          "answers": [
+            "Made a peace treaty with Israel",
+            "Fled and scattered their guards",
+            "Gathered together to fight against Joshua and Israel"
+          ],
+          "correct": 2,
+          "explanation": "Verse 2 states they 'gathered themselves together to fight with Joshua and with Israel' — they assembled for battle."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the phrase 'one accord' mean in the context 'they gathered ... with one accord'?",
+          "answers": [
+            "In agreement and with one voice (united)",
+            "With an empty mouth, without speaking",
+            "Quickly and suddenly"
+          ],
+          "correct": 0,
+          "explanation": "'One accord' means with one voice and united purpose; here it indicates they assembled in unity for war."
+        },
+        {
+          "question": "What is the reasonable connection between verses 1–2 and verse 3 (the hearing of the inhabitants of Gibeon)?",
+          "answers": [
+            "Gibeon’s inhabitants were unrelated and heard nothing of the events",
+            "News of Joshua’s victories at Jericho and Ai caused alarm and led to the kings uniting against him",
+            "Gibeon’s hearing announced a peace treaty with Joshua"
+          ],
+          "correct": 1,
+          "explanation": "Verse 3 says the people of Gibeon heard about what Joshua had done at Jericho and Ai; it's likely those victories alarmed others and prompted the kings and cities to organize opposition."
+        },
+        {
+          "question": "According to a logical sequence of events in the verses, what happened first?",
+          "answers": [
+            "The kings assembled to fight",
+            "The inhabitants of Gibeon heard about Joshua’s actions",
+            "Joshua’s actions at Jericho and Ai (the victories) occurred first"
+          ],
+          "correct": 2,
+          "explanation": "The text implies Joshua's victories at Jericho and Ai had already occurred, and then the kings and Gibeon heard about them — so the victories come first."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Which group below is not in the list of peoples in verse 1?",
+          "answers": [
+            "The Philistines",
+            "The Hivites",
+            "The Canaanites"
+          ],
+          "correct": 0,
+          "explanation": "The verse names Hittite, Amorite, Canaanite, Perizzite, Hivite and Jebusite; the Philistines are not mentioned here."
+        },
+        {
+          "question": "What does the phrase 'on this side of the Jordan' mean in this verse's context?",
+          "answers": [
+            "On the eastern side of the Jordan, beyond the Jordan from the west",
+            "On the western side of the Jordan — the land of Canaan facing the great sea toward Lebanon",
+            "In the riverbed itself"
+          ],
+          "correct": 1,
+          "explanation": "The geographic context (hills, lowlands, sea coast toward Lebanon) indicates the western side of the Jordan — the land of Canaan the Israelites were entering."
+        },
+        {
+          "question": "Why is the fact that the inhabitants of Gibeon heard about Joshua’s deeds important to the plot?",
+          "answers": [
+            "Because Gibeon was remote and irrelevant",
+            "Because Gibeon immediately sent envoys to Joshua to propose a peace treaty",
+            "Because Gibeon was a significant city in the lowland and its reaction affected local alliances and power struggles"
+          ],
+          "correct": 2,
+          "explanation": "Gibeon was a key city in the lowlands; news of Joshua’s victories could influence the city’s and its neighbors' decisions, so their hearing is significant to what follows."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which group below is not in the list of peoples in verse 1?",
+          "answers": [
+            "The Philistines",
+            "The Hivites",
+            "The Canaanites"
+          ],
+          "correct": 0,
+          "explanation": "The verse names Hittite, Amorite, Canaanite, Perizzite, Hivite and Jebusite; the Philistines are not mentioned here."
+        },
+        {
+          "question": "What does the phrase 'on this side of the Jordan' mean in this verse's context?",
+          "answers": [
+            "On the eastern side of the Jordan, beyond the Jordan from the west",
+            "On the western side of the Jordan — the land of Canaan facing the great sea toward Lebanon",
+            "In the riverbed itself"
+          ],
+          "correct": 1,
+          "explanation": "The geographic context (hills, lowlands, sea coast toward Lebanon) indicates the western side of the Jordan — the land of Canaan the Israelites were entering."
+        },
+        {
+          "question": "Why is the fact that the inhabitants of Gibeon heard about Joshua’s deeds important to the plot?",
+          "answers": [
+            "Because Gibeon was remote and irrelevant",
+            "Because Gibeon immediately sent envoys to Joshua to propose a peace treaty",
+            "Because Gibeon was a significant city in the lowland and its reaction affected local alliances and power struggles"
+          ],
+          "correct": 2,
+          "explanation": "Gibeon was a key city in the lowlands; news of Joshua’s victories could influence the city’s and its neighbors' decisions, so their hearing is significant to what follows."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 4,
+      "end_verse": 6,
+      "title": "Gibeon's Ruse",
+      "easy": [
+        {
+          "question": "What did these men carry on their donkeys according to the verses?",
+          "answers": [
+            "Worn sacks",
+            "New and full sacks",
+            "A chariot loaded with gold"
+          ],
+          "correct": 0,
+          "explanation": "Verse 4 explicitly mentions 'old sacks upon their asses' — travel-worn sacks, not new ones."
+        },
+        {
+          "question": "Where did these men go before they spoke with Joshua?",
+          "answers": [
+            "To Joshua at the camp at Gilgal",
+            "To Jerusalem",
+            "To the sea"
+          ],
+          "correct": 0,
+          "explanation": "Verse 6 says they came to Joshua at the camp in Gilgal — the Israelite camp."
+        },
+        {
+          "question": "What did the men ask the guard and the people when they approached?",
+          "answers": [
+            "To fight them",
+            "To make a league (a covenant) with them",
+            "To buy food from them"
+          ],
+          "correct": 1,
+          "explanation": "Verse 6 records they requested a covenant: 'Now therefore make ye a league with us.' They asked for a treaty, not to buy food."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the phrase 'wine bottles, old, and rent' imply about their containers? (verse 4)",
+          "answers": [
+            "They were new and intact",
+            "They were cracked/damaged (torn or broken)",
+            "They were filled to the brim"
+          ],
+          "correct": 1,
+          "explanation": "The wording indicates the wine bottles were old and torn — damaged, not new or full."
+        },
+        {
+          "question": "Why did the travelers present themselves in worn clothes and worn-out sandals (old garments, old shoes)?",
+          "answers": [
+            "To show they had greater influence",
+            "To appear as if they had come from a far country and so deceive Israel",
+            "To mark a festival or tradition"
+          ],
+          "correct": 1,
+          "explanation": "Their worn clothes, sandals and spoiled food were a deliberate ruse to create the impression of a long journey from a distant land to obtain a treaty."
+        },
+        {
+          "question": "What does the fact that they also addressed 'a man of Israel' and not only Joshua suggest?",
+          "answers": [
+            "They wanted the covenant accepted by the whole people, not just the leader",
+            "They planned to fight each Israelite individually",
+            "They only wanted to receive some food from random individuals"
+          ],
+          "correct": 0,
+          "explanation": "Addressing a man of Israel as well shows they sought broader acceptance — the covenant was intended to be accepted by the people, not solely by Joshua."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What was their most likely purpose in dressing and appearing worn-out according to the verses?",
+          "answers": [
+            "To appear to come from afar and obtain a covenant by deception",
+            "To protect themselves from the cold",
+            "To display wealth and impress others"
+          ],
+          "correct": 0,
+          "explanation": "The verses list details (worn clothing, dry bread, broken bottles) meant to convince Israel they had traveled a long way — clearly a deceptive tactic to secure a treaty."
+        },
+        {
+          "question": "Which of the following features of their provisions is stated in the verses?",
+          "answers": [
+            "The wine bottles were full of new wine",
+            "The wine bottles were old and rent (worn and broken)",
+            "Their wine bottles were made of gold"
+          ],
+          "correct": 1,
+          "explanation": "Verse 4 explicitly reads that the wine bottles were 'old, and rent' — worn and damaged."
+        },
+        {
+          "question": "Why was claiming to be from a 'very far country' significant culturally and geographically to this ruse?",
+          "answers": [
+            "Because great distance alone made people more likely to form a mercy treaty",
+            "Because claiming distance made people believe there was a real external threat approaching",
+            "Because the claim of distance explained why their clothing and food were worn — a long journey made the appearance believable and urged quick treaty-making"
+          ],
+          "correct": 2,
+          "explanation": "Culturally, worn clothing and spoiled provisions were evidence of a long trip. Claiming to come from afar supported that appearance and made the Israelites more likely to agree to a quick covenant."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What was their most likely purpose in dressing and appearing worn-out according to the verses?",
+          "answers": [
+            "To appear to come from afar and obtain a covenant by deception",
+            "To protect themselves from the cold",
+            "To display wealth and impress others"
+          ],
+          "correct": 0,
+          "explanation": "The verses list details (worn clothing, dry bread, broken bottles) meant to convince Israel they had traveled a long way — clearly a deceptive tactic to secure a treaty."
+        },
+        {
+          "question": "Which of the following features of their provisions is stated in the verses?",
+          "answers": [
+            "The wine bottles were full of new wine",
+            "The wine bottles were old and rent (worn and broken)",
+            "Their wine bottles were made of gold"
+          ],
+          "correct": 1,
+          "explanation": "Verse 4 explicitly reads that the wine bottles were 'old, and rent' — worn and damaged."
+        },
+        {
+          "question": "Why was claiming to be from a 'very far country' significant culturally and geographically to this ruse?",
+          "answers": [
+            "Because great distance alone made people more likely to form a mercy treaty",
+            "Because claiming distance made people believe there was a real external threat approaching",
+            "Because the claim of distance explained why their clothing and food were worn — a long journey made the appearance believable and urged quick treaty-making"
+          ],
+          "correct": 2,
+          "explanation": "Culturally, worn clothing and spoiled provisions were evidence of a long trip. Claiming to come from afar supported that appearance and made the Israelites more likely to agree to a quick covenant."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 7,
+      "end_verse": 14,
+      "title": "Deception Before Joshua",
+      "easy": [
+        {
+          "question": "Who addressed the Hivite and said 'Peradventure ye dwell among us' (v.7)?",
+          "answers": [
+            "A man of Israel",
+            "An angel",
+            "Joshua"
+          ],
+          "correct": 0,
+          "explanation": "The text explicitly says a 'man of Israel' spoke to the Hivite."
+        },
+        {
+          "question": "From where did the city’s men claim they had come (v.9)?",
+          "answers": [
+            "From a nearby land",
+            "From a very far country",
+            "From Egypt"
+          ],
+          "correct": 1,
+          "explanation": "They declared 'from a very far country thy servants are come' — they claimed to be far away."
+        },
+        {
+          "question": "What did they say about their shoes and garments (vv.12–13)?",
+          "answers": [
+            "That they were new and clean",
+            "That they had been burned in fire",
+            "That they were much worn from the long journey"
+          ],
+          "correct": 2,
+          "explanation": "They said 'our garments and our shoes are become old by reason of the very long journey' — heavily worn."
+        }
+      ],
+      "medium": [
+        {
+          "question": "In 'This our bread... but now, behold, it is dry, and it is mouldy' (v.12), what does 'mouldy' indicate?",
+          "answers": [
+            "It became hard and dry",
+            "It was spoiled/grew mold",
+            "It was wet and swollen"
+          ],
+          "correct": 1,
+          "explanation": "The phrase indicates the bread had spoiled or grown mold, supporting the claim it was taken from their homes while still hot and had since gone bad."
+        },
+        {
+          "question": "Why did the elders tell them to 'take victuals for the journey' and to meet the Israelites (v.11)?",
+          "answers": [
+            "To deceive the people and then defeat them in battle",
+            "To meet the people with humility and prepare to ask for a covenant",
+            "To send a trading mission"
+          ],
+          "correct": 1,
+          "explanation": "The elders counseled taking provisions and meeting Israel in order to present themselves humbly and request a covenant."
+        },
+        {
+          "question": "What did the city men claim they had heard about the LORD, and how did that affect them (vv.9–10)?",
+          "answers": [
+            "They heard about his acts in Egypt and the defeats of Sihon and Og, so they came to judge him",
+            "They heard of the LORD’s deeds in Egypt and across the Jordan, so they sought to make a covenant and approach him in humility",
+            "They heard he was weak and planned revolt"
+          ],
+          "correct": 1,
+          "explanation": "They said they had heard of all that the LORD did in Egypt and to the two Amorite kings, and therefore they came to request a treaty and act humbly."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why does Joshua ask 'Who are ye? and from whence come ye?' (v.8)?",
+          "answers": [
+            "To check if they were local inhabitants and possible enemies",
+            "To determine whether they were foreigners or envoys who could be trusted",
+            "To offer them jobs in the camp"
+          ],
+          "correct": 1,
+          "explanation": "Joshua’s question aims to learn their identity and origin — whether they were strangers coming in peace or locals and potential adversaries, i.e., to judge their trustworthiness."
+        },
+        {
+          "question": "What notable contradiction appears between the men’s words and the action in verse 14?",
+          "answers": [
+            "They claimed to be honest but proved to be liars",
+            "They invoked the name of the LORD yet did not consult His counsel — they did not 'ask counsel at the mouth of the LORD'",
+            "They offered payment but did not pay"
+          ],
+          "correct": 1,
+          "explanation": "They said they came because of the LORD and sought a covenant, but verse 14 notes 'they asked not counsel at the mouth of the LORD' — a mismatch between piety claimed and lack of seeking God’s guidance."
+        },
+        {
+          "question": "The mention of the two kings Sihon and Og (v.10) points to which geographic-historical theater of events?",
+          "answers": [
+            "Events beyond the Jordan — on the east side (where Sihon and Og ruled)",
+            "Events that took place only in Egypt",
+            "Kings of Canaan on the Mediterranean coast"
+          ],
+          "correct": 0,
+          "explanation": "The verse refers to the two Amorite kings beyond the Jordan, Sihon and Og, linking those events to the Transjordan region (east of the Jordan)."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why does Joshua ask 'Who are ye? and from whence come ye?' (v.8)?",
+          "answers": [
+            "To check if they were local inhabitants and possible enemies",
+            "To determine whether they were foreigners or envoys who could be trusted",
+            "To offer them jobs in the camp"
+          ],
+          "correct": 1,
+          "explanation": "Joshua’s question aims to learn their identity and origin — whether they were strangers coming in peace or locals and potential adversaries, i.e., to judge their trustworthiness."
+        },
+        {
+          "question": "What notable contradiction appears between the men’s words and the action in verse 14?",
+          "answers": [
+            "They claimed to be honest but proved to be liars",
+            "They invoked the name of the LORD yet did not consult His counsel — they did not 'ask counsel at the mouth of the LORD'",
+            "They offered payment but did not pay"
+          ],
+          "correct": 1,
+          "explanation": "They said they came because of the LORD and sought a covenant, but verse 14 notes 'they asked not counsel at the mouth of the LORD' — a mismatch between piety claimed and lack of seeking God’s guidance."
+        },
+        {
+          "question": "The mention of the two kings Sihon and Og (v.10) points to which geographic-historical theater of events?",
+          "answers": [
+            "Events beyond the Jordan — on the east side (where Sihon and Og ruled)",
+            "Events that took place only in Egypt",
+            "Kings of Canaan on the Mediterranean coast"
+          ],
+          "correct": 0,
+          "explanation": "The verse refers to the two Amorite kings beyond the Jordan, Sihon and Og, linking those events to the Transjordan region (east of the Jordan)."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 15,
+      "end_verse": 18,
+      "title": "Covenant and Persuasion",
+      "easy": [
+        {
+          "question": "Who made peace with them and made a covenant according to verse 15?",
+          "answers": [
+            "Joshua",
+            "The tribal leaders",
+            "All the Israelites"
+          ],
+          "correct": 0,
+          "explanation": "Verse 15 states 'And Joshua made peace with them, and made a league with them' — Joshua acted to make the treaty."
+        },
+        {
+          "question": "How many days passed from the making of the treaty until the Israelites heard the Gibeonites were their neighbors?",
+          "answers": [
+            "One day",
+            "Three days",
+            "Seven days"
+          ],
+          "correct": 1,
+          "explanation": "Verse 16 says 'And it came to pass at the end of three days' — three days passed."
+        },
+        {
+          "question": "Which city appears among the towns named in verse 17?",
+          "answers": [
+            "Samaria",
+            "Jerusalem",
+            "Gibeon"
+          ],
+          "correct": 2,
+          "explanation": "Verse 17 lists 'Gibeon, and Chephirah, and Beeroth, and Kirjathjearim' — Gibeon is named."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why did the Israelites not attack the Gibeonites as stated in verse 18?",
+          "answers": [
+            "Because the princes had sworn to them by the LORD",
+            "Because the Gibeonites were too strong",
+            "Because they did not know where the Gibeonites lived"
+          ],
+          "correct": 0,
+          "explanation": "The verse explains 'the children of Israel smote them not, because the princes had sworn unto them by the LORD God of Israel' — the oath prevented attack."
+        },
+        {
+          "question": "In 'the princes sware unto them by the LORD' (v.15), what does 'sware' mean in this context?",
+          "answers": [
+            "They hid from them",
+            "They made a promise by oath",
+            "They fought against them"
+          ],
+          "correct": 1,
+          "explanation": "'Sware' here means they bound themselves by an oath in the name of the LORD — a serious commitment."
+        },
+        {
+          "question": "What did the people do after they did not strike the Gibeonites, according to verse 18?",
+          "answers": [
+            "They sent envoys to negotiate",
+            "They complained about the leaders",
+            "They celebrated with the Gibeonites"
+          ],
+          "correct": 1,
+          "explanation": "Verse 18 records 'and all the congregation murmured against the princes' — the people complained to their leaders."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What occurred first in the sequence described in verses 15–18?",
+          "answers": [
+            "The covenant with the Gibeonites was made",
+            "The Israelites entered the Gibeonite cities",
+            "The people’s complaint against the princes"
+          ],
+          "correct": 0,
+          "explanation": "The sequence is: Joshua made the covenant (v.15), three days later they discovered their neighbors (v.16–17), then the people complained (v.18)."
+        },
+        {
+          "question": "Who gave the oath that affected the Israelites’ decision not to strike the Gibeonites?",
+          "answers": [
+            "The princes of the congregation",
+            "The entire nation together",
+            "The priests"
+          ],
+          "correct": 0,
+          "explanation": "Verse 15 states 'the princes of the congregation sware unto them by the LORD' — the leaders took the oath."
+        },
+        {
+          "question": "What is the social-religious meaning of the princes swearing 'by the LORD' in verse 18?",
+          "answers": [
+            "The oath is not considered valid",
+            "The oath is morally and communally binding, so it must not be broken",
+            "The oath gives people complete freedom to act as they wish"
+          ],
+          "correct": 1,
+          "explanation": "An oath made in the name of the LORD carried binding religious and communal force, so breaking it was not permitted despite possible disadvantages."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What occurred first in the sequence described in verses 15–18?",
+          "answers": [
+            "The covenant with the Gibeonites was made",
+            "The Israelites entered the Gibeonite cities",
+            "The people’s complaint against the princes"
+          ],
+          "correct": 0,
+          "explanation": "The sequence is: Joshua made the covenant (v.15), three days later they discovered their neighbors (v.16–17), then the people complained (v.18)."
+        },
+        {
+          "question": "Who gave the oath that affected the Israelites’ decision not to strike the Gibeonites?",
+          "answers": [
+            "The princes of the congregation",
+            "The entire nation together",
+            "The priests"
+          ],
+          "correct": 0,
+          "explanation": "Verse 15 states 'the princes of the congregation sware unto them by the LORD' — the leaders took the oath."
+        },
+        {
+          "question": "What is the social-religious meaning of the princes swearing 'by the LORD' in verse 18?",
+          "answers": [
+            "The oath is not considered valid",
+            "The oath is morally and communally binding, so it must not be broken",
+            "The oath gives people complete freedom to act as they wish"
+          ],
+          "correct": 1,
+          "explanation": "An oath made in the name of the LORD carried binding religious and communal force, so breaking it was not permitted despite possible disadvantages."
+        }
+      ]
+    },
+    {
+      "paragraph": 5,
+      "start_verse": 19,
+      "end_verse": 21,
+      "title": "The Oath and Its Weight",
+      "easy": [
+        {
+          "question": "What did the princes say they could not do to the Gibeonites in verse 19?",
+          "answers": [
+            "Kill them",
+            "Touch (harm) them",
+            "Release them"
+          ],
+          "correct": 1,
+          "explanation": "Verse 19 says 'now therefore we may not touch them' — they said they could not harm them."
+        },
+        {
+          "question": "What did they decide to do with the men instead of harming them?",
+          "answers": [
+            "Kill them later",
+            "Send them back to their homes",
+            "Let them live (spare them)"
+          ],
+          "correct": 2,
+          "explanation": "Verse 20: 'This we will do to them; we will even let them live' — they spared their lives."
+        },
+        {
+          "question": "What roles were assigned to these men in verse 21?",
+          "answers": [
+            "Hewers of wood and drawers of water",
+            "Priests and Levites",
+            "Merchants and foreign servants"
+          ],
+          "correct": 0,
+          "explanation": "Verse 21 states 'and they were hewers of wood and drawers of water' — those were their appointed duties."
+        }
+      ],
+      "medium": [
+        {
+          "question": "In 'lest wrath be upon us' (v.20), what does the word 'wrath' mean in this context?",
+          "answers": [
+            "A short punishment",
+            "Joy and celebration",
+            "Anger or divine punishment"
+          ],
+          "correct": 2,
+          "explanation": "'Wrath' here denotes anger or punishment — specifically fear of divine displeasure or retribution for breaking an oath."
+        },
+        {
+          "question": "Why did the princes say they could not harm the men, according to the verses?",
+          "answers": [
+            "Because they had sworn to them by the LORD God of Israel",
+            "Because they did not know who they were",
+            "Because they wanted to take their land"
+          ],
+          "correct": 0,
+          "explanation": "The princes state they had sworn an oath by the LORD, which prevented them from attacking the Gibeonites."
+        },
+        {
+          "question": "What is the correct order of events in verses 19–21?",
+          "answers": [
+            "The princes swore -> the people received labor roles -> the congregation complained",
+            "The princes said they had sworn -> they decided to spare them -> the men were assigned to be hewers of wood and drawers of water",
+            "The princes captured them -> the oath was made -> the people fought"
+          ],
+          "correct": 1,
+          "explanation": "Verses show: the princes explained the oath, then decided to spare them, and finally assigned them to menial tasks."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Who gives the order 'Let them live' in verse 21?",
+          "answers": [
+            "The princes",
+            "The whole congregation",
+            "The priests"
+          ],
+          "correct": 0,
+          "explanation": "Verse 21 begins 'And the princes said unto them, Let them live' — it is the princes who give the order."
+        },
+        {
+          "question": "What does the decision to keep the oath despite them being enemies indicate?",
+          "answers": [
+            "The main goal was immediate military advantage",
+            "That loyalty to the oath and reverence for the LORD outweighed immediate military gain",
+            "That the oath had no importance"
+          ],
+          "correct": 1,
+          "explanation": "The princes placed the binding value of an oath sworn by the LORD above short-term military benefit."
+        },
+        {
+          "question": "What is the social status of these people according to verse 21?",
+          "answers": [
+            "Full priests with religious rights",
+            "Equal citizens in Israelite society",
+            "Manual workers serving the assembly (menial servants)"
+          ],
+          "correct": 2,
+          "explanation": "Being made 'hewers of wood and drawers of water for all the congregation' indicates a status of service/labor rather than priesthood or full citizenship."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Who gives the order 'Let them live' in verse 21?",
+          "answers": [
+            "The princes",
+            "The whole congregation",
+            "The priests"
+          ],
+          "correct": 0,
+          "explanation": "Verse 21 begins 'And the princes said unto them, Let them live' — it is the princes who give the order."
+        },
+        {
+          "question": "What does the decision to keep the oath despite them being enemies indicate?",
+          "answers": [
+            "The main goal was immediate military advantage",
+            "That loyalty to the oath and reverence for the LORD outweighed immediate military gain",
+            "That the oath had no importance"
+          ],
+          "correct": 1,
+          "explanation": "The princes placed the binding value of an oath sworn by the LORD above short-term military benefit."
+        },
+        {
+          "question": "What is the social status of these people according to verse 21?",
+          "answers": [
+            "Full priests with religious rights",
+            "Equal citizens in Israelite society",
+            "Manual workers serving the assembly (menial servants)"
+          ],
+          "correct": 2,
+          "explanation": "Being made 'hewers of wood and drawers of water for all the congregation' indicates a status of service/labor rather than priesthood or full citizenship."
+        }
+      ]
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 22,
+      "end_verse": 26,
+      "title": "Confrontation and Deliverance",
+      "easy": [
+        {
+          "question": "Who called for them in verse 22?",
+          "answers": [
+            "Joshua",
+            "Moses",
+            "The people"
+          ],
+          "correct": 0,
+          "explanation": "Verse 22 opens 'And Joshua called for them' — Joshua addressed them."
+        },
+        {
+          "question": "What accusation does Joshua make in verse 22?",
+          "answers": [
+            "That they revealed secrets about the nations",
+            "That they deceived by saying 'we are very far from you'",
+            "That they disregarded commands"
+          ],
+          "correct": 1,
+          "explanation": "He accuses them of deception: 'Wherefore have ye beguiled us, saying, We are very far from you, when ye dwell among us?'"
+        },
+        {
+          "question": "What punishment is pronounced in verse 23?",
+          "answers": [
+            "Exile from the land",
+            "Execution",
+            "They will not be freed but shall be bondmen, hewers of wood and drawers of water for the house of my God"
+          ],
+          "correct": 2,
+          "explanation": "Verse 23 describes their curse: none shall be freed but shall remain bondmen and serve as woodcutters and water-drawers for God’s house."
+        }
+      ],
+      "medium": [
+        {
+          "question": "In 'Now therefore ye are cursed' (v.20–22), what does 'cursed' imply here?",
+          "answers": [
+            "They were blessed",
+            "They were under a curse/accursed",
+            "They were made perfect"
+          ],
+          "correct": 1,
+          "explanation": "'Cursed' means under condemnation or ban; the text immediately lists the resulting binding servitude."
+        },
+        {
+          "question": "According to their reply in verse 24, why did they act deceitfully?",
+          "answers": [
+            "Because it had been told to them that the LORD commanded Moses to give the land and destroy its inhabitants, and they were very afraid",
+            "Because they wanted to seize the land by trickery",
+            "Because they sought to become Israelite priests"
+          ],
+          "correct": 0,
+          "explanation": "They say they were told of the LORD’s command to destroy the inhabitants and were terribly afraid for their lives, so they resorted to deception."
+        },
+        {
+          "question": "What did the Gibeonites ask Joshua in verse 25 when they said 'behold, we are in thine hand'?",
+          "answers": [
+            "To put them to death according to law",
+            "To do to them as seems good and right to Joshua",
+            "To send them to another city"
+          ],
+          "correct": 1,
+          "explanation": "They placed themselves in Joshua’s hands and asked him to act as seemed good and right toward them — essentially to show mercy or render judgment as he chose."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why did Joshua not order their execution despite pronouncing a curse (vv.25–26)?",
+          "answers": [
+            "Because he accepted their explanation and placed them in servitude for the house of God",
+            "Because they were powerful military allies",
+            "Because they immediately repented and praised the LORD"
+          ],
+          "correct": 0,
+          "explanation": "The narrative shows Joshua spared them from death, instead delivering them into servitude for the LORD’s house."
+        },
+        {
+          "question": "What does the phrase 'there shall none of you be freed from being bondmen' logically mean in context?",
+          "answers": [
+            "They will not be expelled from the land",
+            "They shall not be killed but remain as workers under bondage",
+            "They shall be forbidden to have children"
+          ],
+          "correct": 1,
+          "explanation": "In context the statement is followed by duties (woodcutting, drawing water), indicating they are not to be executed but to remain as laborers."
+        },
+        {
+          "question": "What kind of work was imposed on them and what is its cultural implication?",
+          "answers": [
+            "Allocation to study and priesthood",
+            "Menial physical labor — woodcutting and water-drawing for the house of God",
+            "Military and judicial roles"
+          ],
+          "correct": 1,
+          "explanation": "Verse 26 specifies they were to be woodcutters and water-drawers for the sanctuary — menial support work, not priestly or military roles."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why did Joshua not order their execution despite pronouncing a curse (vv.25–26)?",
+          "answers": [
+            "Because he accepted their explanation and placed them in servitude for the house of God",
+            "Because they were powerful military allies",
+            "Because they immediately repented and praised the LORD"
+          ],
+          "correct": 0,
+          "explanation": "The narrative shows Joshua spared them from death, instead delivering them into servitude for the LORD’s house."
+        },
+        {
+          "question": "What does the phrase 'there shall none of you be freed from being bondmen' logically mean in context?",
+          "answers": [
+            "They will not be expelled from the land",
+            "They shall not be killed but remain as workers under bondage",
+            "They shall be forbidden to have children"
+          ],
+          "correct": 1,
+          "explanation": "In context the statement is followed by duties (woodcutting, drawing water), indicating they are not to be executed but to remain as laborers."
+        },
+        {
+          "question": "What kind of work was imposed on them and what is its cultural implication?",
+          "answers": [
+            "Allocation to study and priesthood",
+            "Menial physical labor — woodcutting and water-drawing for the house of God",
+            "Military and judicial roles"
+          ],
+          "correct": 1,
+          "explanation": "Verse 26 specifies they were to be woodcutters and water-drawers for the sanctuary — menial support work, not priestly or military roles."
+        }
+      ]
+    },
+    {
+      "paragraph": 7,
+      "start_verse": 27,
+      "end_verse": 27,
+      "title": "Servants for the Sanctuary",
+      "easy": [
+        {
+          "question": "What did Joshua assign on that day according to the verse?",
+          "answers": [
+            "Hewers of wood and drawers of water to the congregation and to the altar",
+            "Priests and other temple officers",
+            "Judges of Israel and chosen leaders"
+          ],
+          "correct": 0,
+          "explanation": "The verse reads 'And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD'."
+        },
+        {
+          "question": "To whom were the woodcutters and water-drawers assigned?",
+          "answers": [
+            "For military purposes only",
+            "To the congregation and to the altar of the LORD",
+            "To the city administration and the king"
+          ],
+          "correct": 1,
+          "explanation": "The verse specifies these roles served 'the congregation and the altar of the LORD' — public and sacred service."
+        },
+        {
+          "question": "Until when did this service continue, as the verse states?",
+          "answers": [
+            "For only one day",
+            "Only for that immediate time",
+            "Until this day (i.e., through the time of writing)"
+          ],
+          "correct": 2,
+          "explanation": "The phrase 'even unto this day' indicates the appointment continued up to the time the text was written."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the phrase 'unto this day' indicate about their service?",
+          "answers": [
+            "They continued in this role for a long time up to the time of writing",
+            "They only served on the appointed day",
+            "They were immediately replaced"
+          ],
+          "correct": 0,
+          "explanation": "'Unto this day' denotes ongoing continuity of their assigned duties through the narrator’s present."
+        },
+        {
+          "question": "In 'the place which he should choose' (v.27), what does 'choose' imply in context?",
+          "answers": [
+            "That humans would select the place",
+            "That the place would be chosen by the LORD (God)",
+            "That the priests alone would name the place"
+          ],
+          "correct": 1,
+          "explanation": "The phrase refers to 'the altar of the LORD' and implies a divinely chosen location — the place 'which he should choose' denotes God’s choice."
+        },
+        {
+          "question": "What can be inferred about the importance of the woodcutters' and water-drawers' work for religious practice?",
+          "answers": [
+            "Their tasks were purely civic and unrelated to worship",
+            "They only helped the fighting tribes",
+            "Their work supported the functioning and maintenance of the altar and worship, so it was important for temple service"
+          ],
+          "correct": 2,
+          "explanation": "Since they served the congregation and the altar, their provision of wood and water was necessary for sacrificial and ritual practices."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why are woodcutters and water-drawers specified separately in the verse?",
+          "answers": [
+            "Because the upkeep of the altar required both wood for fires and water for purifications and offerings",
+            "Because they were high social classes",
+            "Because they were employed only for non-religious construction"
+          ],
+          "correct": 0,
+          "explanation": "The altar’s maintenance required wood for sacrifice and water for ritual uses, so both functions are named distinctly."
+        },
+        {
+          "question": "What does the phrase 'the place which he should choose' suggest about Israel’s later religious development?",
+          "answers": [
+            "It suggests a pattern of many unsystematic local shrines",
+            "It anticipates a single central chosen place of worship selected by the LORD (a later concept like a central temple)",
+            "It means each tribe would have its own separate sanctuary"
+          ],
+          "correct": 1,
+          "explanation": "The wording points toward the idea of a single divinely chosen cultic center, consistent with later development toward one central sanctuary."
+        },
+        {
+          "question": "Who actually assigned the woodcutters and water-drawers according to the verse 'And Joshua gave them'?",
+          "answers": [
+            "The local civic council or elders",
+            "The priests",
+            "Joshua himself"
+          ],
+          "correct": 2,
+          "explanation": "The verse begins 'And Joshua made them that day...' indicating Joshua personally assigned those duties."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why are woodcutters and water-drawers specified separately in the verse?",
+          "answers": [
+            "Because the upkeep of the altar required both wood for fires and water for purifications and offerings",
+            "Because they were high social classes",
+            "Because they were employed only for non-religious construction"
+          ],
+          "correct": 0,
+          "explanation": "The altar’s maintenance required wood for sacrifice and water for ritual uses, so both functions are named distinctly."
+        },
+        {
+          "question": "What does the phrase 'the place which he should choose' suggest about Israel’s later religious development?",
+          "answers": [
+            "It suggests a pattern of many unsystematic local shrines",
+            "It anticipates a single central chosen place of worship selected by the LORD (a later concept like a central temple)",
+            "It means each tribe would have its own separate sanctuary"
+          ],
+          "correct": 1,
+          "explanation": "The wording points toward the idea of a single divinely chosen cultic center, consistent with later development toward one central sanctuary."
+        },
+        {
+          "question": "Who actually assigned the woodcutters and water-drawers according to the verse 'And Joshua gave them'?",
+          "answers": [
+            "The local civic council or elders",
+            "The priests",
+            "Joshua himself"
+          ],
+          "correct": 2,
+          "explanation": "The verse begins 'And Joshua made them that day...' indicating Joshua personally assigned those duties."
+        }
+      ]
+    }
+  ]
+}

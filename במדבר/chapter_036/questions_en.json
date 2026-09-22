@@ -1,0 +1,544 @@
+{
+  "book": "Numbers",
+  "book_he": "במדבר",
+  "chapter": 36,
+  "question_count": 36,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 5,
+      "title": "Request of the chiefs of Gilead",
+      "easy": [
+        {
+          "question": "Who came to Moses at the beginning of the chapter?",
+          "answers": [
+            "The chief fathers of the families of the sons of Gilead",
+            "All the people of Israel",
+            "Only the tribe of Levi"
+          ],
+          "correct": 0,
+          "explanation": "Verse 1 explicitly says the chief fathers of the families of the sons of Gilead came near to Moses."
+        },
+        {
+          "question": "How is it said the land should be given according to verse 2?",
+          "answers": [
+            "By the decision of each family",
+            "By lot (by drawing lots)",
+            "Only according to the will of the Lord"
+          ],
+          "correct": 1,
+          "explanation": "Verse 2 says the land is to be given 'by lot' — the distribution is by lot, not by private decision."
+        },
+        {
+          "question": "According to what is said in verse 2 — to whom was Zelophehad's inheritance given?",
+          "answers": [
+            "To his sons only",
+            "To another tribe",
+            "To his daughters"
+          ],
+          "correct": 2,
+          "explanation": "Verse 2 states the inheritance of Zelophehad our brother was given to his daughters."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What did the chiefs fear about the marriages of Zelophehad's daughters?",
+          "answers": [
+            "That it would cause their tribe's inheritance to be reduced if a portion passed into another tribe",
+            "That it would cancel the commandments",
+            "That it would enlarge the inheritance of their tribes"
+          ],
+          "correct": 0,
+          "explanation": "In verse 3 they express concern that their portion would be 'taken from the lot of our inheritance' if the daughters married into another tribe — i.e., the inheritance could pass to another tribe through marriage."
+        },
+        {
+          "question": "In the phrase 'be taken from the lot of our inheritance', what does 'be taken from' mean in context?",
+          "answers": [
+            "Be added to the inheritance",
+            "Be diminished/removed from the inheritance",
+            "Remain unchanged"
+          ],
+          "correct": 1,
+          "explanation": "The context shows the fear that the inheritance would be removed or diminished from their lot if it passed to another tribe."
+        },
+        {
+          "question": "Who are the 'families of the sons of Joseph' mentioned in verse 5?",
+          "answers": [
+            "The tribes of Simeon and Levi",
+            "The tribes of Judah and Simeon",
+            "The tribes of the sons of Joseph (Ephraim and Manasseh)"
+          ],
+          "correct": 2,
+          "explanation": "The traditional reading identifies the families of Joseph as the two tribes descended from Joseph: Ephraim and Manasseh."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "According to the leaders' logic in the chapter — what happens if the daughters marry within their father's tribe?",
+          "answers": [
+            "The inheritance remains within the tribe and is not diminished",
+            "The inheritance passes to another tribe",
+            "The inheritance becomes the property of the whole people"
+          ],
+          "correct": 0,
+          "explanation": "The leaders were only worried about marriages into other tribes; if the daughters married within their father's tribe the inheritance would stay in the tribe."
+        },
+        {
+          "question": "In verse 4 the phrase reads 'and when the jubilee of the children of Israel shall be'. What does 'the jubilee' refer to here?",
+          "answers": [
+            "A new festival observed by Israel",
+            "The year of Jubilee when property is to return to original owners",
+            "The name of a new leader"
+          ],
+          "correct": 1,
+          "explanation": "The term 'jubilee' refers to the Jubilee year in which inheritances could revert to original owners — a legal concept affecting land distribution."
+        },
+        {
+          "question": "Why did the leaders address 'before Moses and before the princes, the chief fathers' instead of only Moses?",
+          "answers": [
+            "So Moses wouldn't hear and their words would be forgotten",
+            "Because it was a private matter only about the daughters",
+            "So the ruling would be public and agreed on by the princes and all Israel"
+          ],
+          "correct": 2,
+          "explanation": "They brought the matter before the princes and chief fathers so the decision would be public and binding for the tribes, not a private ruling by one person."
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to the leaders' logic in the chapter — what happens if the daughters marry within their father's tribe?",
+          "answers": [
+            "The inheritance remains within the tribe and is not diminished",
+            "The inheritance passes to another tribe",
+            "The inheritance becomes the property of the whole people"
+          ],
+          "correct": 0,
+          "explanation": "The leaders were only worried about marriages into other tribes; if the daughters married within their father's tribe the inheritance would stay in the tribe."
+        },
+        {
+          "question": "In verse 4 the phrase reads 'and when the jubilee of the children of Israel shall be'. What does 'the jubilee' refer to here?",
+          "answers": [
+            "A new festival observed by Israel",
+            "The year of Jubilee when property is to return to original owners",
+            "The name of a new leader"
+          ],
+          "correct": 1,
+          "explanation": "The term 'jubilee' refers to the Jubilee year in which inheritances could revert to original owners — a legal concept affecting land distribution."
+        },
+        {
+          "question": "Why did the leaders address 'before Moses and before the princes, the chief fathers' instead of only Moses?",
+          "answers": [
+            "So Moses wouldn't hear and their words would be forgotten",
+            "Because it was a private matter only about the daughters",
+            "So the ruling would be public and agreed on by the princes and all Israel"
+          ],
+          "correct": 2,
+          "explanation": "They brought the matter before the princes and chief fathers so the decision would be public and binding for the tribes, not a private ruling by one person."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 6,
+      "end_verse": 9,
+      "title": "The LORD's ruling concerning the daughters",
+      "easy": [
+        {
+          "question": "Who issued the law described in these verses?",
+          "answers": [
+            "Moses",
+            "The LORD",
+            "Aaron"
+          ],
+          "correct": 1,
+          "explanation": "The passage begins 'This is the thing which the LORD commanded...' — the command comes from the LORD."
+        },
+        {
+          "question": "What is said in verse 6 about the marriages of Zelophehad's daughters?",
+          "answers": [
+            "They may marry whoever they like",
+            "They must remain unmarried within the family",
+            "They shall marry and be part of the family of their father's tribe"
+          ],
+          "correct": 2,
+          "explanation": "The verse allows them to marry but stipulates they 'shall be to the family of the tribe of their father' — meaning marriages within their father's tribe."
+        },
+        {
+          "question": "What is the repeated prohibition in verses 7 and 9?",
+          "answers": [
+            "That an inheritance be transferred from tribe to tribe",
+            "That one can inherit from grandchildren",
+            "That land be sold to a foreigner"
+          ],
+          "correct": 0,
+          "explanation": "Both verses explicitly state the prohibition that an inheritance shall not be transferred from one tribe to another."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why does the law prohibit transferring an inheritance from one tribe to another as stated in the verses?",
+          "answers": [
+            "So the tribes of Israel will inherit the land of their fathers",
+            "Because daughters are not allowed to inherit at all",
+            "To allow exchange of inheritance between tribes"
+          ],
+          "correct": 0,
+          "explanation": "The text states the aim is 'that each of the children of Israel may keep himself to the inheritance of his fathers' — preserving tribal inheritances."
+        },
+        {
+          "question": "In the phrase 'shall keep himself to the inheritance of the tribe of his fathers', what does 'keep himself to the inheritance' mean?",
+          "answers": [
+            "To stick physically",
+            "To be stuck at a job",
+            "To remain belonging and loyal to their inheritance/tribe"
+          ],
+          "correct": 2,
+          "explanation": "Here it means to remain attached to one’s tribal inheritance — to belong to and stay with the inheritance of one’s fathers."
+        },
+        {
+          "question": "According to verse 8, why must a daughter who inherits 'be wife to one of the family of the tribe of her father'?",
+          "answers": [
+            "So that the children of Israel may each inherit the possession of their fathers",
+            "To make the inheritance common to the whole people",
+            "To deprive daughters of inheritance rights"
+          ],
+          "correct": 0,
+          "explanation": "The verse states the purpose: so that each man among Israel may retain the inheritance of his fathers."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does the repetition of the phrase 'neither shall the inheritance remove' in verses 7 and 9 emphasize?",
+          "answers": [
+            "A strong warning meant to prevent inheritance moving between tribes",
+            "That the law applies only to Zelophehad's family",
+            "That the intent is to broaden the distribution to more descendants"
+          ],
+          "correct": 0,
+          "explanation": "The repeated wording functions as legal emphasis: the prohibition on moving inheritance between tribes is strong and binding."
+        },
+        {
+          "question": "What does the wording 'they shall be to the families of the tribe of their father' imply about the daughters' status?",
+          "answers": [
+            "Daughters receive independent inheritance outside the tribe",
+            "Daughters lose all inheritance rights",
+            "Daughters remain, for inheritance purposes, members of their father's tribe"
+          ],
+          "correct": 2,
+          "explanation": "The phrase indicates they marry within their father's tribal family, so regarding inheritance they remain part of their father's tribe."
+        },
+        {
+          "question": "How was this law expected to affect tribal land distribution over generations?",
+          "answers": [
+            "Prevent transfer of land between tribes and preserve tribal boundaries",
+            "Encourage sale of land to neighboring tribes",
+            "Lead to merging of tribes and wide transfers of land"
+          ],
+          "correct": 0,
+          "explanation": "By forbidding inheritance to pass from tribe to tribe, the law maintains stability of tribal land holdings across generations."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does the repetition of the phrase 'neither shall the inheritance remove' in verses 7 and 9 emphasize?",
+          "answers": [
+            "A strong warning meant to prevent inheritance moving between tribes",
+            "That the law applies only to Zelophehad's family",
+            "That the intent is to broaden the distribution to more descendants"
+          ],
+          "correct": 0,
+          "explanation": "The repeated wording functions as legal emphasis: the prohibition on moving inheritance between tribes is strong and binding."
+        },
+        {
+          "question": "What does the wording 'they shall be to the families of the tribe of their father' imply about the daughters' status?",
+          "answers": [
+            "Daughters receive independent inheritance outside the tribe",
+            "Daughters lose all inheritance rights",
+            "Daughters remain, for inheritance purposes, members of their father's tribe"
+          ],
+          "correct": 2,
+          "explanation": "The phrase indicates they marry within their father's tribal family, so regarding inheritance they remain part of their father's tribe."
+        },
+        {
+          "question": "How was this law expected to affect tribal land distribution over generations?",
+          "answers": [
+            "Prevent transfer of land between tribes and preserve tribal boundaries",
+            "Encourage sale of land to neighboring tribes",
+            "Lead to merging of tribes and wide transfers of land"
+          ],
+          "correct": 0,
+          "explanation": "By forbidding inheritance to pass from tribe to tribe, the law maintains stability of tribal land holdings across generations."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 10,
+      "end_verse": 12,
+      "title": "Implementation of the ruling — marriages and inheritance",
+      "easy": [
+        {
+          "question": "Who did as the LORD commanded Moses in verse 10?",
+          "answers": [
+            "The daughters of Zelophehad",
+            "The men of Manasseh",
+            "The tribe of Levi"
+          ],
+          "correct": 0,
+          "explanation": "Verse 10 explicitly says the daughters of Zelophehad did as the LORD commanded Moses."
+        },
+        {
+          "question": "How many names of Zelophehad's daughters are listed in verse 11?",
+          "answers": [
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "correct": 1,
+          "explanation": "Five names are listed: Mahlah, Tirzah, Hoglah, Milcah, and Noah."
+        },
+        {
+          "question": "Whose son is Manasseh according to verse 12?",
+          "answers": [
+            "Moses",
+            "Aaron",
+            "Joseph"
+          ],
+          "correct": 2,
+          "explanation": "Verse 12 calls them 'the families of the sons of Manasseh the son of Joseph' — Manasseh is Joseph's son."
+        }
+      ],
+      "medium": [
+        {
+          "question": "In 'their inheritance remained in the tribe of the family of their father', what does 'their inheritance' refer to?",
+          "answers": [
+            "Their parcel of land / hereditary rights",
+            "Their wages for work",
+            "A family name"
+          ],
+          "correct": 0,
+          "explanation": "In context 'their inheritance' denotes the land or hereditary rights the daughters received; the verse states these stayed in their father's tribal family."
+        },
+        {
+          "question": "Why is it specified that they married 'into the families of the sons of Manasseh'?",
+          "answers": [
+            "To move their inheritance to a different tribe",
+            "To ensure their inheritance remained in their father's tribe",
+            "To show that they left the land"
+          ],
+          "correct": 1,
+          "explanation": "They married within families of Manasseh so that their inheritance would remain with their father's tribe, as required."
+        },
+        {
+          "question": "What does the phrase 'as the LORD commanded Moses' in verse 10 express?",
+          "answers": [
+            "That this was only Moses' opinion",
+            "That they disobeyed the command",
+            "That they acted according to a divine command"
+          ],
+          "correct": 2,
+          "explanation": "The phrase indicates they acted in accordance with a command given by the LORD to Moses."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "How can the phrase 'to their fathers' brothers' sons' be understood?",
+          "answers": [
+            "They married their paternal cousins (their fathers' brothers' sons)",
+            "They married men from a completely different tribe",
+            "They took their father's family name"
+          ],
+          "correct": 0,
+          "explanation": "'Their fathers' brothers' sons' refers to paternal relatives — i.e., cousins — so they married within their extended paternal family."
+        },
+        {
+          "question": "The fact the verse uses the plural 'families' regarding the sons of Manasseh suggests that:",
+          "answers": [
+            "They married all the families of Israel",
+            "They married into different families within the tribe of Manasseh",
+            "They married outside the tribe of Manasseh"
+          ],
+          "correct": 1,
+          "explanation": "The plural indicates marriages into more than one family or clan within the tribe of Manasseh, not a single family."
+        },
+        {
+          "question": "What cultural/legal conclusion follows from verse 12: 'and their inheritance remained in the tribe of the family of their father'?",
+          "answers": [
+            "Women lost inheritance rights when they married",
+            "Their inheritance passed to their husbands at marriage",
+            "The law allowed women to retain inheritance within their father's tribe"
+          ],
+          "correct": 2,
+          "explanation": "The verse states their inheritance stayed in their father's tribe, indicating the law permitted women to keep their inheritance within their paternal tribe rather than transferring it to their husband's tribe."
+        }
+      ],
+      "questions": [
+        {
+          "question": "How can the phrase 'to their fathers' brothers' sons' be understood?",
+          "answers": [
+            "They married their paternal cousins (their fathers' brothers' sons)",
+            "They married men from a completely different tribe",
+            "They took their father's family name"
+          ],
+          "correct": 0,
+          "explanation": "'Their fathers' brothers' sons' refers to paternal relatives — i.e., cousins — so they married within their extended paternal family."
+        },
+        {
+          "question": "The fact the verse uses the plural 'families' regarding the sons of Manasseh suggests that:",
+          "answers": [
+            "They married all the families of Israel",
+            "They married into different families within the tribe of Manasseh",
+            "They married outside the tribe of Manasseh"
+          ],
+          "correct": 1,
+          "explanation": "The plural indicates marriages into more than one family or clan within the tribe of Manasseh, not a single family."
+        },
+        {
+          "question": "What cultural/legal conclusion follows from verse 12: 'and their inheritance remained in the tribe of the family of their father'?",
+          "answers": [
+            "Women lost inheritance rights when they married",
+            "Their inheritance passed to their husbands at marriage",
+            "The law allowed women to retain inheritance within their father's tribe"
+          ],
+          "correct": 2,
+          "explanation": "The verse states their inheritance stayed in their father's tribe, indicating the law permitted women to keep their inheritance within their paternal tribe rather than transferring it to their husband's tribe."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 13,
+      "end_verse": 13,
+      "title": "Place and giving of the commandments",
+      "easy": [
+        {
+          "question": "What does the phrase 'These are the commandments and the judgments' in the verse indicate?",
+          "answers": [
+            "A list of instructions and laws",
+            "A list of people",
+            "A description of the landscape"
+          ],
+          "correct": 0,
+          "explanation": "The verse introduces 'commandments and judgments' — that is, instructions and laws given to the people."
+        },
+        {
+          "question": "According to the verse, through whom were these commandments and judgments given?",
+          "answers": [
+            "The people",
+            "Moses",
+            "The LORD"
+          ],
+          "correct": 1,
+          "explanation": "The verse says these were commanded by the LORD 'by the hand of Moses' — Moses is the mediator through whom the commandments were given."
+        },
+        {
+          "question": "To which people were these commandments given according to the verse?",
+          "answers": [
+            "The children of Moab",
+            "Only the priests",
+            "The children of Israel"
+          ],
+          "correct": 2,
+          "explanation": "The verse states these commandments were given by Moses to the children of Israel."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Where were the commandments and judgments given, as stated in the verse?",
+          "answers": [
+            "In the plains of Moab by Jordan near Jericho",
+            "At Sinai",
+            "In the land of Canaan after entry"
+          ],
+          "correct": 0,
+          "explanation": "The verse specifies the location: 'in the plains of Moab by Jordan near Jericho.'"
+        },
+        {
+          "question": "What does the word 'judgments' mean in the phrase 'the commandments and the judgments'?",
+          "answers": [
+            "Names of people",
+            "Laws and rulings; legal and social directives",
+            "Geographical places"
+          ],
+          "correct": 1,
+          "explanation": "'Judgments' here refers to legal rulings or regulations; together with 'commandments' it denotes a body of law."
+        },
+        {
+          "question": "What does the verse imply about how the commandments were delivered?",
+          "answers": [
+            "They were given directly to each person without a mediator",
+            "They were given through Moses as mediator between the LORD and Israel",
+            "They were invented by the leaders of Moab"
+          ],
+          "correct": 1,
+          "explanation": "It states the LORD commanded by the hand of Moses — indicating Moses served as the mediator who communicated the divine commandments to Israel."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from the choice of the place 'in the plains of Moab by Jordan near Jericho' about the timing of these commandments?",
+          "answers": [
+            "They were given just before entering the Promised Land, near the border",
+            "They refer to the much later period of the Judges",
+            "They relate to the Exodus from Egypt"
+          ],
+          "correct": 0,
+          "explanation": "The geographic reference near the Jordan and Jericho places the event just before the people entered Canaan, i.e., on the edge of the Promised Land."
+        },
+        {
+          "question": "What historical-geographic information can be learned from mentioning 'Moab' and 'Jericho' in the verse?",
+          "answers": [
+            "That Moab is the name of a central priest",
+            "That the location is specific, marking a border area by the Jordan and toward Jericho",
+            "That it refers to an area not identifiable in translation"
+          ],
+          "correct": 1,
+          "explanation": "Mentioning Moab and Jericho identifies a specific area east of the Jordan near the border of the Promised Land."
+        },
+        {
+          "question": "What is the linguistic and legal significance of the pairing 'the commandments and the judgments' in the context of the Torah?",
+          "answers": [
+            "It refers only to ritual commandments without social aspects",
+            "It indicates a full legal system that includes civil and social laws as well as religious commands",
+            "It refers to mere statements without binding force"
+          ],
+          "correct": 1,
+          "explanation": "The phrase denotes a comprehensive set of rules: 'commandments' (often ritual duties) and 'judgments' (legal/social ordinances), implying binding legislation for the community."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from the choice of the place 'in the plains of Moab by Jordan near Jericho' about the timing of these commandments?",
+          "answers": [
+            "They were given just before entering the Promised Land, near the border",
+            "They refer to the much later period of the Judges",
+            "They relate to the Exodus from Egypt"
+          ],
+          "correct": 0,
+          "explanation": "The geographic reference near the Jordan and Jericho places the event just before the people entered Canaan, i.e., on the edge of the Promised Land."
+        },
+        {
+          "question": "What historical-geographic information can be learned from mentioning 'Moab' and 'Jericho' in the verse?",
+          "answers": [
+            "That Moab is the name of a central priest",
+            "That the location is specific, marking a border area by the Jordan and toward Jericho",
+            "That it refers to an area not identifiable in translation"
+          ],
+          "correct": 1,
+          "explanation": "Mentioning Moab and Jericho identifies a specific area east of the Jordan near the border of the Promised Land."
+        },
+        {
+          "question": "What is the linguistic and legal significance of the pairing 'the commandments and the judgments' in the context of the Torah?",
+          "answers": [
+            "It refers only to ritual commandments without social aspects",
+            "It indicates a full legal system that includes civil and social laws as well as religious commands",
+            "It refers to mere statements without binding force"
+          ],
+          "correct": 1,
+          "explanation": "The phrase denotes a comprehensive set of rules: 'commandments' (often ritual duties) and 'judgments' (legal/social ordinances), implying binding legislation for the community."
+        }
+      ]
+    }
+  ]
+}

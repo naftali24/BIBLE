@@ -1,0 +1,946 @@
+{
+  "book": "Joshua",
+  "book_he": "יהושע",
+  "chapter": 7,
+  "question_count": 63,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 1,
+      "title": "Achan's sin and the Lord's anger",
+      "easy": [
+        {
+          "question": "Who violated the 'accursed thing' according to the verse?",
+          "answers": [
+            "The children of Israel",
+            "Joshua",
+            "the Canaanites"
+          ],
+          "correct": 0,
+          "explanation": "The verse begins 'But the children of Israel committed a trespass in the accursed thing' — it identifies Israel as the ones who broke the ban."
+        },
+        {
+          "question": "Who took of the accursed thing according to the verse?",
+          "answers": [
+            "the whole tribe of Judah",
+            "Achan son of Carmi",
+            "the entire people"
+          ],
+          "correct": 1,
+          "explanation": "The verse explicitly names 'Achan son of Carmi' as the one who took the accursed thing."
+        },
+        {
+          "question": "What was the LORD's reaction to Israel in this verse?",
+          "answers": [
+            "The LORD blessed them",
+            "The LORD ignored them",
+            "The LORD's anger was kindled"
+          ],
+          "correct": 2,
+          "explanation": "The verse says 'and the anger of the Lord was kindled' — the LORD was angry with the people."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why is this theft described as a serious offense that provokes the LORD's anger?",
+          "answers": [
+            "Because they broke a divine ban — a command that forbids taking certain items",
+            "Because they did not observe the Sabbath",
+            "Because they lost a military battle"
+          ],
+          "correct": 0,
+          "explanation": "The verse emphasizes 'committed a trespass in the accursed thing' — they violated a divine ban (herem), and breaking a divine command provokes God's anger."
+        },
+        {
+          "question": "What does the term 'the accursed thing' mean in this context (verse uses the phrase 'the accursed thing')?",
+          "answers": [
+            "An area of land forbidden for use",
+            "An object or property devoted for destruction or reserved for God — forbidden for ordinary use",
+            "A local family name"
+          ],
+          "correct": 1,
+          "explanation": "In context 'the accursed thing' refers to property set aside by divine command (often to be destroyed or dedicated to God), and Achan taking it shows he took what was forbidden."
+        },
+        {
+          "question": "From which tribe was Achan according to the verse?",
+          "answers": [
+            "the tribe of Levi",
+            "the tribe of Reuben",
+            "the tribe of Judah"
+          ],
+          "correct": 2,
+          "explanation": "The verse specifies 'of the tribe of Judah' — Achan belonged to Judah."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does the expression 'the children of Israel committed a trespass in the accursed thing' signify socially and morally?",
+          "answers": [
+            "That this was a private offense with no effect on others",
+            "That the sin was considered a collective harm and had consequences for the whole people",
+            "That the ban was transferred to the enemies"
+          ],
+          "correct": 1,
+          "explanation": "The wording treats the act as a communal offense (by 'the children of Israel'), and the wider narrative shows that one person's sin exposed the whole nation to punishment — a collective responsibility."
+        },
+        {
+          "question": "Why does the verse list Achan's genealogy ('son of Carmi son of Zabdi son of Zerah')?",
+          "answers": [
+            "To praise his family",
+            "To conceal his real identity",
+            "To identify the person precisely and place him within his family and tribe"
+          ],
+          "correct": 2,
+          "explanation": "The genealogy serves to identify the individual precisely and show his family and tribal affiliation — important for investigation and public responsibility in that period."
+        },
+        {
+          "question": "In the cultural-religious context of conquest stories, what is the role of a 'herem' (ban) as seen here?",
+          "answers": [
+            "A sacred command to set aside or devote items or people to the LORD, sometimes by destruction",
+            "A kind of tax the people must pay",
+            "An agricultural custom for distributing the harvest"
+          ],
+          "correct": 0,
+          "explanation": "In biblical tradition a 'herem' is a divine command to devote items or peoples — often to destruction — as a holy act; violating it is a grave religious offense."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does the expression 'the children of Israel committed a trespass in the accursed thing' signify socially and morally?",
+          "answers": [
+            "That this was a private offense with no effect on others",
+            "That the sin was considered a collective harm and had consequences for the whole people",
+            "That the ban was transferred to the enemies"
+          ],
+          "correct": 1,
+          "explanation": "The wording treats the act as a communal offense (by 'the children of Israel'), and the wider narrative shows that one person's sin exposed the whole nation to punishment — a collective responsibility."
+        },
+        {
+          "question": "Why does the verse list Achan's genealogy ('son of Carmi son of Zabdi son of Zerah')?",
+          "answers": [
+            "To praise his family",
+            "To conceal his real identity",
+            "To identify the person precisely and place him within his family and tribe"
+          ],
+          "correct": 2,
+          "explanation": "The genealogy serves to identify the individual precisely and show his family and tribal affiliation — important for investigation and public responsibility in that period."
+        },
+        {
+          "question": "In the cultural-religious context of conquest stories, what is the role of a 'herem' (ban) as seen here?",
+          "answers": [
+            "A sacred command to set aside or devote items or people to the LORD, sometimes by destruction",
+            "A kind of tax the people must pay",
+            "An agricultural custom for distributing the harvest"
+          ],
+          "correct": 0,
+          "explanation": "In biblical tradition a 'herem' is a divine command to devote items or peoples — often to destruction — as a holy act; violating it is a grave religious offense."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 2,
+      "end_verse": 5,
+      "title": "Spies and a partial defeat",
+      "easy": [
+        {
+          "question": "To which city did Joshua send men to scout the land?",
+          "answers": [
+            "Jericho",
+            "Ai",
+            "Bethel"
+          ],
+          "correct": 1,
+          "explanation": "The text says Joshua sent men from Jericho to Ai to spy out the city — Ai was the scouting target."
+        },
+        {
+          "question": "What did the scouts advise about how many men should go up to take Ai?",
+          "answers": [
+            "About two or three thousand would suffice",
+            "All the people should go up",
+            "They should not attack at all"
+          ],
+          "correct": 0,
+          "explanation": "They said 'not all the people should go up... about two or three thousand' — recommending 2–3 thousand men."
+        },
+        {
+          "question": "How many men actually went up to fight Ai?",
+          "answers": [
+            "One thousand",
+            "Six thousand",
+            "About three thousand"
+          ],
+          "correct": 2,
+          "explanation": "The verse reports 'about three thousand men' went up."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What was the scouts' recommendation regarding sending forces against Ai?",
+          "answers": [
+            "Send only a few thousand, not the whole nation",
+            "Send the entire nation to ensure victory",
+            "Avoid battle and negotiate"
+          ],
+          "correct": 0,
+          "explanation": "The spies recommended 'not all the people... about two or three thousand' — a limited force of 2–3 thousand."
+        },
+        {
+          "question": "What does the phrase 'their hearts melted' mean in this context (the verse uses 'became as water')?",
+          "answers": [
+            "Their hearts grew weak/they were terrified and demoralized",
+            "Their hearts were filled with joy",
+            "Their hearts were strengthened and became firm"
+          ],
+          "correct": 0,
+          "explanation": "The image 'became as water' is metaphorical: it means the people's courage melted away — they were frightened and demoralized after the rout."
+        },
+        {
+          "question": "Why did our soldiers flee before the men of Ai?",
+          "answers": [
+            "They were defeated in battle and some were killed, causing a rout and panic",
+            "They had decided to withdraw the night before the battle",
+            "They were ordered to return and not fight"
+          ],
+          "correct": 0,
+          "explanation": "They were routed and pursued; the text describes them fleeing and being chased, producing panic and a collapse in morale."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "The verse describes Ai as 'on the east of Bethel.' What does that geographical phrase indicate?",
+          "answers": [
+            "That Ai was west of Bethel",
+            "That Ai lay to the east of Bethel",
+            "That Ai was north of Bethel"
+          ],
+          "correct": 1,
+          "explanation": "The phrase places Ai relative to Bethel: 'on the east of Bethel' indicates it was east of/beyond Bethel."
+        },
+        {
+          "question": "What is the figurative suggestion of the phrase 'became as water' at the end of the verse?",
+          "answers": [
+            "They became numerous like water",
+            "The people's resolve dissolved — their hearts melted and they faded in fear",
+            "They flowed down like water in a valley"
+          ],
+          "correct": 1,
+          "explanation": "The expression conveys moral/spiritual collapse: their courage dissolved and they melted away in fear — a common biblical metaphor for collapse."
+        },
+        {
+          "question": "Why does the verse emphasize the relatively small number killed (36) although the rout affected about 3,000 who went up?",
+          "answers": [
+            "To show that psychological defeat and the ensuing rout had broad consequences beyond the raw casualty count",
+            "Because the number 36 carried secret ritual significance",
+            "To stress that each death was singled out and emphasized"
+          ],
+          "correct": 0,
+          "explanation": "Although only 36 were killed, the psychological impact of the defeat and pursuit caused a wider collapse of morale and a large-scale rout, so the small death toll did not lessen the overall disaster."
+        }
+      ],
+      "questions": [
+        {
+          "question": "The verse describes Ai as 'on the east of Bethel.' What does that geographical phrase indicate?",
+          "answers": [
+            "That Ai was west of Bethel",
+            "That Ai lay to the east of Bethel",
+            "That Ai was north of Bethel"
+          ],
+          "correct": 1,
+          "explanation": "The phrase places Ai relative to Bethel: 'on the east of Bethel' indicates it was east of/beyond Bethel."
+        },
+        {
+          "question": "What is the figurative suggestion of the phrase 'became as water' at the end of the verse?",
+          "answers": [
+            "They became numerous like water",
+            "The people's resolve dissolved — their hearts melted and they faded in fear",
+            "They flowed down like water in a valley"
+          ],
+          "correct": 1,
+          "explanation": "The expression conveys moral/spiritual collapse: their courage dissolved and they melted away in fear — a common biblical metaphor for collapse."
+        },
+        {
+          "question": "Why does the verse emphasize the relatively small number killed (36) although the rout affected about 3,000 who went up?",
+          "answers": [
+            "To show that psychological defeat and the ensuing rout had broad consequences beyond the raw casualty count",
+            "Because the number 36 carried secret ritual significance",
+            "To stress that each death was singled out and emphasized"
+          ],
+          "correct": 0,
+          "explanation": "Although only 36 were killed, the psychological impact of the defeat and pursuit caused a wider collapse of morale and a large-scale rout, so the small death toll did not lessen the overall disaster."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 6,
+      "end_verse": 9,
+      "title": "Joshua's anguish and prayer",
+      "easy": [
+        {
+          "question": "Who tore his clothes and fell on his face according to the verses?",
+          "answers": [
+            "Moses",
+            "Joshua",
+            "Aaron"
+          ],
+          "correct": 1,
+          "explanation": "Verse 6 explicitly says Joshua rent his clothes and fell on his face before the ark of the LORD."
+        },
+        {
+          "question": "Where did Joshua fall on his face?",
+          "answers": [
+            "Before the ark of the LORD",
+            "outside the camp",
+            "on the banks of the Jordan"
+          ],
+          "correct": 0,
+          "explanation": "The verse states he fell 'before the ark of the LORD' — that is the location."
+        },
+        {
+          "question": "What did the elders of Israel do in verse 6?",
+          "answers": [
+            "Offer a sacrifice",
+            "Sing liturgical songs",
+            "Put dust on their heads"
+          ],
+          "correct": 2,
+          "explanation": "The verse reports 'they put dust upon their heads' — a sign of mourning and repentance."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why does Joshua say, 'Wherefore hast thou brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us?'",
+          "answers": [
+            "Because he fears the crossing has led them to destruction by the Amorites",
+            "Because he is glad about the crossing and wants to bless them",
+            "Because he desires to return to exile"
+          ],
+          "correct": 0,
+          "explanation": "Joshua expresses anguish that crossing the Jordan might have led them into disaster at the hands of the Amorites, as he says in verse 7."
+        },
+        {
+          "question": "What does the phrase 'turned their backs' mean in the context 'when Israel turneth their backs before their enemies' (v.8)?",
+          "answers": [
+            "To turn the neck — to flee or retreat from the enemy",
+            "To face the enemy and attack",
+            "An internal change of heart"
+          ],
+          "correct": 0,
+          "explanation": "Here 'turn their backs' describes retreating or fleeing from the enemy rather than standing to fight."
+        },
+        {
+          "question": "What central concern does Joshua express regarding the LORD's reputation in verse 9?",
+          "answers": [
+            "That people will build a new temple for the LORD",
+            "That the LORD's name will be dishonored if the people are cut off from the land",
+            "That the LORD will lose kingship"
+          ],
+          "correct": 1,
+          "explanation": "Joshua fears that if Israel is destroyed and their name wiped out, the LORD's great name will be blemished among the nations — he worries about God's reputation."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does Joshua's tearing of garments and falling on his face until evening suggest about his leadership style?",
+          "answers": [
+            "That he was indifferent to the crisis",
+            "That he took responsibility, mourned, and entreated the LORD",
+            "That he was planning a tactical retreat"
+          ],
+          "correct": 1,
+          "explanation": "Those actions are signs of mourning and prayer — Joshua accepts responsibility, laments the situation, and petitions God rather than merely issuing military orders."
+        },
+        {
+          "question": "What is the cultural meaning of 'putting dust on their heads' by the elders of Israel?",
+          "answers": [
+            "A sign of royal coronation",
+            "A sign of celebration and thanksgiving",
+            "A sign of grief, repentance, and seeking forgiveness"
+          ],
+          "correct": 2,
+          "explanation": "In biblical practice, throwing dust on one's head is a sign of mourning and penitence; here the elders express sorrow and awe over the situation."
+        },
+        {
+          "question": "What does the passage warn will happen if Israel turns their backs and the Canaanites and all who live in the land hear of it?",
+          "answers": [
+            "They will make peace with Israel and live securely",
+            "They will surround Israel, attack them, and cut off their name from the land",
+            "They will come to Israel's aid against the Amorites"
+          ],
+          "correct": 1,
+          "explanation": "The text warns that the Canaanites and inhabitants will hear and surround Israel, leading to their destruction or erasure from the land — 'cut off our name from the earth'."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does Joshua's tearing of garments and falling on his face until evening suggest about his leadership style?",
+          "answers": [
+            "That he was indifferent to the crisis",
+            "That he took responsibility, mourned, and entreated the LORD",
+            "That he was planning a tactical retreat"
+          ],
+          "correct": 1,
+          "explanation": "Those actions are signs of mourning and prayer — Joshua accepts responsibility, laments the situation, and petitions God rather than merely issuing military orders."
+        },
+        {
+          "question": "What is the cultural meaning of 'putting dust on their heads' by the elders of Israel?",
+          "answers": [
+            "A sign of royal coronation",
+            "A sign of celebration and thanksgiving",
+            "A sign of grief, repentance, and seeking forgiveness"
+          ],
+          "correct": 2,
+          "explanation": "In biblical practice, throwing dust on one's head is a sign of mourning and penitence; here the elders express sorrow and awe over the situation."
+        },
+        {
+          "question": "What does the passage warn will happen if Israel turns their backs and the Canaanites and all who live in the land hear of it?",
+          "answers": [
+            "They will make peace with Israel and live securely",
+            "They will surround Israel, attack them, and cut off their name from the land",
+            "They will come to Israel's aid against the Amorites"
+          ],
+          "correct": 1,
+          "explanation": "The text warns that the Canaanites and inhabitants will hear and surround Israel, leading to their destruction or erasure from the land — 'cut off our name from the earth'."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 10,
+      "end_verse": 15,
+      "title": "Revelation of the guilt and instructions for purification",
+      "easy": [
+        {
+          "question": "Who spoke to Joshua in verse 10?",
+          "answers": [
+            "Moses",
+            "the LORD",
+            "Aaron"
+          ],
+          "correct": 1,
+          "explanation": "Verse 10 explicitly says 'And the LORD said unto Joshua' — the speaker is the LORD."
+        },
+        {
+          "question": "What had Israel done according to verses 11–12?",
+          "answers": [
+            "They sinned, broke the covenant, and took of the accursed thing",
+            "They won a decisive victory over their enemies",
+            "They erected foreign altars"
+          ],
+          "correct": 0,
+          "explanation": "The passage states 'Israel hath sinned... and they have taken of the accursed thing' — they violated the covenant and took the herem."
+        },
+        {
+          "question": "What will happen to the person who is found 'taken with the accursed thing' according to verse 15?",
+          "answers": [
+            "He will be exiled",
+            "He will be tried only by a court",
+            "He shall be burnt with fire"
+          ],
+          "correct": 2,
+          "explanation": "Verse 15 declares 'he that is taken with the accursed thing shall be burnt with fire' — the punishment is burning."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why, according to these verses, could the Israelites not stand before their enemies?",
+          "answers": [
+            "Because they lacked sufficient weapons",
+            "Because Joshua feared to fight",
+            "Because the accursed thing was among them and the LORD would not be with them until it was destroyed"
+          ],
+          "correct": 2,
+          "explanation": "The text says Israelites could not stand because of the accursed thing among them; God's presence and help were withheld until the accursed thing was removed."
+        },
+        {
+          "question": "What is the order of the inspection the people should undergo to find the guilty party (verse 14)?",
+          "answers": [
+            "They will be brought according to tribes; the tribe according to families; the family according to households; the household man by man",
+            "They will be called by personal names",
+            "Leaders will inspect each family randomly"
+          ],
+          "correct": 0,
+          "explanation": "Verse 14 describes a stepwise process: tribes, then families, then households, then individuals — a hierarchical selection for identification."
+        },
+        {
+          "question": "What does the term 'the accursed thing' mean here (the verse says 'There is an accursed thing in the midst of thee')?",
+          "answers": [
+            "A gift reserved exclusively for the priests",
+            "An item devoted to destruction or dedicated to God (forbidden to use)",
+            "Ordinary booty from war"
+          ],
+          "correct": 1,
+          "explanation": "The context — commands to destroy the accursed thing and the penalty — shows it is property devoted to God or destruction, not a regular item to be used."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What theological meaning is conveyed by 'I will no more be with you' unless you destroy the accursed thing?",
+          "answers": [
+            "That military success depends on ritual purity and covenant faithfulness: God's presence is conditional on obedience to the covenant",
+            "That God will remain with them regardless of their actions",
+            "That it is merely a tactical threat to intimidate the people"
+          ],
+          "correct": 0,
+          "explanation": "The statement indicates God's presence and support are conditional on the people's obedience; the removal of the offense is necessary for God's continued aid."
+        },
+        {
+          "question": "What does the punishment 'shall be burnt with fire, he and all that he hath' imply about the gravity of the offense?",
+          "answers": [
+            "That the punishment is mild and local",
+            "That it is the same as ordinary civil penalties",
+            "That it is severe and includes forfeiture of possessions — the offense is a serious breach of the covenant"
+          ],
+          "correct": 2,
+          "explanation": "Burning the person and all his possessions signals a severe sanction and complete removal of the offense from the community, indicating the gravity of violating the covenant."
+        },
+        {
+          "question": "What does the use of a lottery-like selection order (tribe → family → household → man) indicate about Israelite social structure at that time?",
+          "answers": [
+            "That tribe and family were important units of responsibility and social connection",
+            "That society functioned entirely as unrelated individuals",
+            "That this is a modern democratic election method"
+          ],
+          "correct": 0,
+          "explanation": "The stepwise process highlights the centrality of tribe and family as social and legal units — responsibility and identity were organized around these groups."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What theological meaning is conveyed by 'I will no more be with you' unless you destroy the accursed thing?",
+          "answers": [
+            "That military success depends on ritual purity and covenant faithfulness: God's presence is conditional on obedience to the covenant",
+            "That God will remain with them regardless of their actions",
+            "That it is merely a tactical threat to intimidate the people"
+          ],
+          "correct": 0,
+          "explanation": "The statement indicates God's presence and support are conditional on the people's obedience; the removal of the offense is necessary for God's continued aid."
+        },
+        {
+          "question": "What does the punishment 'shall be burnt with fire, he and all that he hath' imply about the gravity of the offense?",
+          "answers": [
+            "That the punishment is mild and local",
+            "That it is the same as ordinary civil penalties",
+            "That it is severe and includes forfeiture of possessions — the offense is a serious breach of the covenant"
+          ],
+          "correct": 2,
+          "explanation": "Burning the person and all his possessions signals a severe sanction and complete removal of the offense from the community, indicating the gravity of violating the covenant."
+        },
+        {
+          "question": "What does the use of a lottery-like selection order (tribe → family → household → man) indicate about Israelite social structure at that time?",
+          "answers": [
+            "That tribe and family were important units of responsibility and social connection",
+            "That society functioned entirely as unrelated individuals",
+            "That this is a modern democratic election method"
+          ],
+          "correct": 0,
+          "explanation": "The stepwise process highlights the centrality of tribe and family as social and legal units — responsibility and identity were organized around these groups."
+        }
+      ]
+    },
+    {
+      "paragraph": 5,
+      "start_verse": 16,
+      "end_verse": 19,
+      "title": "Casting lots and identifying Achan",
+      "easy": [
+        {
+          "question": "Which tribe was selected when Joshua brought Israel by their tribes (v.16)?",
+          "answers": [
+            "the tribe of Judah",
+            "the tribe of Ephraim",
+            "the tribe of Benjamin"
+          ],
+          "correct": 0,
+          "explanation": "Verse 16 states the tribe of Judah was taken — Judah was selected."
+        },
+        {
+          "question": "Which family within that tribe was picked (v.17)?",
+          "answers": [
+            "Achan",
+            "Zabdi",
+            "Carmi"
+          ],
+          "correct": 1,
+          "explanation": "Verse 17 names Zabdi as the one taken from the family of the Zarhites."
+        },
+        {
+          "question": "What did Joshua ask Achan to do in verse 19?",
+          "answers": [
+            "To praise himself",
+            "To flee from the place",
+            "Give glory to the LORD, make confession, and tell me what you have done"
+          ],
+          "correct": 2,
+          "explanation": "Joshua said 'give, I pray thee, glory to the LORD... and tell me now what thou hast done' — he asked for confession and honor to God."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What sequence of inspection does Joshua follow until he reaches the guilty man (vv.16–18)?",
+          "answers": [
+            "Tribes → families → family of the Zarhites → households → individual",
+            "Houses → tribes → families → individual",
+            "Tribes → families → yards/households → individual"
+          ],
+          "correct": 0,
+          "explanation": "The passage shows a hierarchical process: tribes, then families, then households/men — tribes → families → households → individuals."
+        },
+        {
+          "question": "In the phrase 'give glory to the LORD' (v.19), what does 'glory' mean in this context?",
+          "answers": [
+            "Honor, praise, and recognition",
+            "A heavy weight",
+            "A tax/payment"
+          ],
+          "correct": 0,
+          "explanation": "Joshua asks Achan to give honor and praise to the LORD and to confess — 'glory' indicates honor/tribute to God."
+        },
+        {
+          "question": "What does the listing 'Achan son of Carmi son of Zabdi son of Zerah' indicate (vv.18–19)?",
+          "answers": [
+            "Cities where Achan lived",
+            "A list of enemies who fought Judah",
+            "Achan's family/lineage within the tribe of Judah"
+          ],
+          "correct": 2,
+          "explanation": "The names show his genealogy — identifying his family line and tribal affiliation within Judah."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why likely did Joshua rise early and assemble the people by their tribes (inferred from v.16 and context)?",
+          "answers": [
+            "To perform a morning sacrifice",
+            "To discover who had sinned and mete out responsibility",
+            "To organize another military sortie the same day"
+          ],
+          "correct": 1,
+          "explanation": "Gathering by tribes and the subsequent questioning indicate the aim was to identify the offender responsible for the failure."
+        },
+        {
+          "question": "What does the phrase 'and make confession unto him' (v.19) likely represent in a ritual-historical sense?",
+          "answers": [
+            "A thank-offering or formal confession before the LORD",
+            "A financial tax payment to the tribal treasury",
+            "An order to pay a fine to an enemy altar"
+          ],
+          "correct": 0,
+          "explanation": "In biblical usage 'confession' can mean a formal acknowledgment before God — here a public admission or offering before the LORD."
+        },
+        {
+          "question": "To which tribe did Achan belong according to these verses?",
+          "answers": [
+            "All Israel generally, without tribal identification",
+            "the tribe of Judah",
+            "the tribe of Ephraim"
+          ],
+          "correct": 1,
+          "explanation": "Verses 18–19 identify Achan 'of the tribe of Judah' — he belonged to Judah."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why likely did Joshua rise early and assemble the people by their tribes (inferred from v.16 and context)?",
+          "answers": [
+            "To perform a morning sacrifice",
+            "To discover who had sinned and mete out responsibility",
+            "To organize another military sortie the same day"
+          ],
+          "correct": 1,
+          "explanation": "Gathering by tribes and the subsequent questioning indicate the aim was to identify the offender responsible for the failure."
+        },
+        {
+          "question": "What does the phrase 'and make confession unto him' (v.19) likely represent in a ritual-historical sense?",
+          "answers": [
+            "A thank-offering or formal confession before the LORD",
+            "A financial tax payment to the tribal treasury",
+            "An order to pay a fine to an enemy altar"
+          ],
+          "correct": 0,
+          "explanation": "In biblical usage 'confession' can mean a formal acknowledgment before God — here a public admission or offering before the LORD."
+        },
+        {
+          "question": "To which tribe did Achan belong according to these verses?",
+          "answers": [
+            "All Israel generally, without tribal identification",
+            "the tribe of Judah",
+            "the tribe of Ephraim"
+          ],
+          "correct": 1,
+          "explanation": "Verses 18–19 identify Achan 'of the tribe of Judah' — he belonged to Judah."
+        }
+      ]
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 20,
+      "end_verse": 24,
+      "title": "Confession and the discovery of the spoil",
+      "easy": [
+        {
+          "question": "Who confessed the offense in verse 20?",
+          "answers": [
+            "Achan",
+            "Joshua",
+            "all Israel"
+          ],
+          "correct": 0,
+          "explanation": "The verse begins 'And Achan answered Joshua...' — Achan confessed."
+        },
+        {
+          "question": "Which items did Achan report that he had taken in verse 21?",
+          "answers": [
+            "Only a garment",
+            "A Babylonish garment, two hundred shekels of silver, and a wedge of gold",
+            "Only small change"
+          ],
+          "correct": 1,
+          "explanation": "He names 'a goodly Babylonish garment, two hundred shekels of silver, and a wedge of gold' — those are the items."
+        },
+        {
+          "question": "Where were the items found according to the verses?",
+          "answers": [
+            "In a pit outside the camp",
+            "In the king's courtyard",
+            "Hidden in his tent and the silver under it"
+          ],
+          "correct": 2,
+          "explanation": "He said they were 'hid in the earth in the midst of my tent, and the silver under it' — hidden in his tent with the silver beneath."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why did Joshua send messengers to the tent?",
+          "answers": [
+            "To bless the family",
+            "To recover what Achan confessed to having taken",
+            "To guard the camp at night"
+          ],
+          "correct": 1,
+          "explanation": "After Achan's confession, Joshua sent messengers to check the tent and recover the confessed items."
+        },
+        {
+          "question": "In the phrase 'I coveted them, and took them' (v.21), what does 'coveted' mean in this context?",
+          "answers": [
+            "I hid them",
+            "I destroyed them",
+            "I desired them and longed to take them"
+          ],
+          "correct": 2,
+          "explanation": "'Coveted' means he strongly desired the items and therefore stole them; it expresses wrongful desire leading to action."
+        },
+        {
+          "question": "What did the Israelites do with the recovered items after they found them?",
+          "answers": [
+            "They returned them to Achan and kept silent",
+            "They laid them out before Joshua and before the LORD",
+            "They re-hidden them in the camp"
+          ],
+          "correct": 1,
+          "explanation": "They took the items out, brought them to Joshua and all Israel, and laid them out before the LORD."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why was Achan brought with his possessions to the Valley of Achor according to the context?",
+          "answers": [
+            "For honor and celebration",
+            "To return him home",
+            "To remove him from the camp and present him for judgment and punishment"
+          ],
+          "correct": 2,
+          "explanation": "He and all his goods were taken out to the valley as part of public judgment and to remove the offense from the community."
+        },
+        {
+          "question": "What does the mention of a 'Babylonish garment' among the spoils suggest about the nature of the booty?",
+          "answers": [
+            "That the spoil included items from distant regions like Shinar/Babylon",
+            "That 'Babylonish' is simply a local family name",
+            "That the garment was actually currency rather than clothing"
+          ],
+          "correct": 0,
+          "explanation": "'Babylonish' (or Shinar) indicates foreign origin; the spoil included luxury items from distant lands, not only local goods."
+        },
+        {
+          "question": "What did Joshua take from Achan at the end of the account in these verses?",
+          "answers": [
+            "Only the silver and the garment",
+            "Achan himself, the silver, the garment, the wedge of gold, his sons and daughters, his oxen and other possessions, and his tent",
+            "Only his children"
+          ],
+          "correct": 1,
+          "explanation": "The text lists that Joshua took Achan, his silver, garment, wedge of gold, his sons and daughters, his oxen, donkeys, sheep, tent, and all he had."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why was Achan brought with his possessions to the Valley of Achor according to the context?",
+          "answers": [
+            "For honor and celebration",
+            "To return him home",
+            "To remove him from the camp and present him for judgment and punishment"
+          ],
+          "correct": 2,
+          "explanation": "He and all his goods were taken out to the valley as part of public judgment and to remove the offense from the community."
+        },
+        {
+          "question": "What does the mention of a 'Babylonish garment' among the spoils suggest about the nature of the booty?",
+          "answers": [
+            "That the spoil included items from distant regions like Shinar/Babylon",
+            "That 'Babylonish' is simply a local family name",
+            "That the garment was actually currency rather than clothing"
+          ],
+          "correct": 0,
+          "explanation": "'Babylonish' (or Shinar) indicates foreign origin; the spoil included luxury items from distant lands, not only local goods."
+        },
+        {
+          "question": "What did Joshua take from Achan at the end of the account in these verses?",
+          "answers": [
+            "Only the silver and the garment",
+            "Achan himself, the silver, the garment, the wedge of gold, his sons and daughters, his oxen and other possessions, and his tent",
+            "Only his children"
+          ],
+          "correct": 1,
+          "explanation": "The text lists that Joshua took Achan, his silver, garment, wedge of gold, his sons and daughters, his oxen, donkeys, sheep, tent, and all he had."
+        }
+      ]
+    },
+    {
+      "paragraph": 7,
+      "start_verse": 25,
+      "end_verse": 26,
+      "title": "The punishment and a memorial",
+      "easy": [
+        {
+          "question": "What did all Israel do to the man who was found guilty (v.25)?",
+          "answers": [
+            "They stoned him and burned him with fire",
+            "They embraced him and forgave him",
+            "They only exiled him"
+          ],
+          "correct": 0,
+          "explanation": "The verse describes that they stoned him and burned them with fire after stoning — the people executed the punishment."
+        },
+        {
+          "question": "What did they raise over him after executing the sentence (v.26)?",
+          "answers": [
+            "A personal monument in his honor",
+            "A great heap of stones",
+            "An altar on which to sacrifice"
+          ],
+          "correct": 1,
+          "explanation": "They 'raised over him a great heap of stones' — a large pile (a mound) of stones was erected."
+        },
+        {
+          "question": "What happened to the LORD's fierce anger after they carried out the punishment and set up the heap of stones?",
+          "answers": [
+            "The LORD became more furious",
+            "The people were immediately exiled",
+            "The LORD turned from his fierceness of anger"
+          ],
+          "correct": 2,
+          "explanation": "Verse 26 says 'So the LORD turned from the fierceness of his anger' — God's anger ceased after the act."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the sequence of events in verses 25–26?",
+          "answers": [
+            "They stoned, burned, and then raised the heap of stones over him",
+            "They raised the heap of stones first, then stoned and burned",
+            "They burned him first, then raised the heap, but did not stone him"
+          ],
+          "correct": 0,
+          "explanation": "The passage describes the execution (stoning and burning) and then says they raised a great heap of stones over him."
+        },
+        {
+          "question": "What does the question 'Why hast thou troubled us?' (Joshua's address to Achan) mean in this context (paraphrase)?",
+          "answers": [
+            "Moving something from one place to another",
+            "You have caused us harm/profanation and brought disaster on the community",
+            "Wearing special clothes"
+          ],
+          "correct": 1,
+          "explanation": "Joshua's complaint means 'what harm have you caused us?' — that is, how have you brought trouble and defilement upon the people."
+        },
+        {
+          "question": "Who was the punishment in these verses directed at?",
+          "answers": [
+            "The whole tribe of Israel",
+            "The man who sinned (Achan) alone",
+            "Joshua's counselors"
+          ],
+          "correct": 1,
+          "explanation": "The narrative shows the punishment was carried out on the individual offender, Achan, while the people executed the sentence upon him."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Why might the text record both stoning and burning of the body?",
+          "answers": [
+            "To indicate complete destruction and removal of the defilement from the camp",
+            "Because the two events happened many years apart",
+            "To show legal equivalence between different groups"
+          ],
+          "correct": 0,
+          "explanation": "Combining stoning and burning stresses total destruction and removal of the polluting offense, emphasizing community purification."
+        },
+        {
+          "question": "What social/cultural purpose did erecting a 'great heap of stones' at that place serve?",
+          "answers": [
+            "A sign of honor and elevated status",
+            "A public memorial of the sin and its punishment — a warning to others",
+            "A marker of a private property boundary"
+          ],
+          "correct": 1,
+          "explanation": "In the biblical context such heaps often served as public memorials; here it memorialized the event and served as a cautionary sign for the future."
+        },
+        {
+          "question": "What does the phrase 'unto this day' at the end of the passage express?",
+          "answers": [
+            "That the event happened briefly and was then forgotten",
+            "That the name and memory endured as a lasting reminder up to the time the narrative was written",
+            "That the verse is a future prophecy that has not yet occurred"
+          ],
+          "correct": 1,
+          "explanation": "'Unto this day' indicates the name (the Valley of Achor) and the memory of the event continued as a lasting reminder through the generations up to the time of writing."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why might the text record both stoning and burning of the body?",
+          "answers": [
+            "To indicate complete destruction and removal of the defilement from the camp",
+            "Because the two events happened many years apart",
+            "To show legal equivalence between different groups"
+          ],
+          "correct": 0,
+          "explanation": "Combining stoning and burning stresses total destruction and removal of the polluting offense, emphasizing community purification."
+        },
+        {
+          "question": "What social/cultural purpose did erecting a 'great heap of stones' at that place serve?",
+          "answers": [
+            "A sign of honor and elevated status",
+            "A public memorial of the sin and its punishment — a warning to others",
+            "A marker of a private property boundary"
+          ],
+          "correct": 1,
+          "explanation": "In the biblical context such heaps often served as public memorials; here it memorialized the event and served as a cautionary sign for the future."
+        },
+        {
+          "question": "What does the phrase 'unto this day' at the end of the passage express?",
+          "answers": [
+            "That the event happened briefly and was then forgotten",
+            "That the name and memory endured as a lasting reminder up to the time the narrative was written",
+            "That the verse is a future prophecy that has not yet occurred"
+          ],
+          "correct": 1,
+          "explanation": "'Unto this day' indicates the name (the Valley of Achor) and the memory of the event continued as a lasting reminder through the generations up to the time of writing."
+        }
+      ]
+    }
+  ]
+}

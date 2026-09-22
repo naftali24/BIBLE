@@ -1,0 +1,1080 @@
+{
+  "book": "Numbers",
+  "book_he": "במדבר",
+  "chapter": 23,
+  "question_count": 72,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 2,
+      "title": "Preparations for the First Curse",
+      "easy": [
+        {
+          "question": "Who asked Balak to build altars?",
+          "answers": [
+            "Balaam",
+            "Moses",
+            "The people"
+          ],
+          "correct": 0,
+          "explanation": "Verse 1 states: \"And Balaam said unto Balak, Build me here seven altars,\" meaning Balaam was the one who asked Balak."
+        },
+        {
+          "question": "How many altars did Balaam ask Balak to build?",
+          "answers": [
+            "Five",
+            "Seven",
+            "Three"
+          ],
+          "correct": 1,
+          "explanation": "In verse 1, Balaam asks Balak: \"Build me here seven altars.\""
+        },
+        {
+          "question": "What animals did Balaam ask to prepare for sacrifices?",
+          "answers": [
+            "Sheep and goats",
+            "Cows and lambs",
+            "Bulls and rams"
+          ],
+          "correct": 2,
+          "explanation": "In verse 1, Balaam specifies: \"and prepare me here seven oxen and seven rams.\""
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does Balaam ask Balak to 'prepare' in Numbers 23:1?",
+          "answers": [
+            "altars",
+            "animals for sacrifice",
+            "a meeting place"
+          ],
+          "correct": 1,
+          "explanation": "In Numbers 23:1, Balaam says: \"and prepare me here seven oxen and seven rams,\" referring to animals for sacrifice."
+        },
+        {
+          "question": "How did Balak respond to Balaam's request?",
+          "answers": [
+            "He refused the request",
+            "He did exactly as Balaam said",
+            "He asked for more time to prepare"
+          ],
+          "correct": 1,
+          "explanation": "Verse 2 states: \"And Balak did as Balaam had spoken,\" meaning Balak precisely fulfilled Balaam's request."
+        },
+        {
+          "question": "What was actually offered on the altar in the second verse, as opposed to the general request in the first verse?",
+          "answers": [
+            "One bullock and one ram",
+            "Seven bulls and seven rams",
+            "Only bulls"
+          ],
+          "correct": 0,
+          "explanation": "Verse 2 states: \"and Balak and Balaam offered on every altar a bullock and a ram,\" meaning they offered a single bullock and a ram, likely as the beginning of the sacrifice process on one of the altars."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "In verse 2, 'the altar' (בַּמִּזְבֵּֽחַ) is mentioned in the singular, even though in verse 1 Balaam requested 'seven altars' (שִׁבְעָה מִזְבְּחֹ֑ת) in the plural. What can be inferred from this?",
+          "answers": [
+            "They offered only one sacrifice on one of the many altars built",
+            "Balaam only intended one altar from the start",
+            "The additional altars were built for other purposes"
+          ],
+          "correct": 0,
+          "explanation": "The mention of 'the altar' (singular) in verse 2, after the request for seven altars in verse 1, suggests that they performed the first sacrifice on one of the many altars built, as part of a process that might include further sacrifices on the other altars. This indicates a beginning rather than an end of the process."
+        },
+        {
+          "question": "What is reflected in the relationship between Balaam and Balak from these two verses?",
+          "answers": [
+            "Balak is the sole ruler and Balaam is his advisor",
+            "Balaam is the one giving instructions and Balak carries them out",
+            "They are equal in status and act in full cooperation"
+          ],
+          "correct": 1,
+          "explanation": "Balaam is the one telling Balak what to do ('Build me,' 'prepare me'), and Balak, for his part, carries out the instructions without question ('And Balak did as Balaam had spoken'), which indicates a relationship of authority where Balaam is the initiator and director."
+        },
+        {
+          "question": "Balaam requested seven bulls and seven rams, but in verse 2 it is described that they offered only 'a bullock and a ram.' What is the most reasonable understanding of this discrepancy?",
+          "answers": [
+            "Balak was unable to prepare all the animals",
+            "Balaam changed his mind and decided to settle for one sacrifice",
+            "The description in verse 2 refers to the first sacrifice out of a series of sacrifices"
+          ],
+          "correct": 2,
+          "explanation": "Since Balaam requested a large quantity of animals and only 'a bullock and a ram' were offered, the logical conclusion is that the description in verse 2 describes the beginning of the process, a single sacrifice on one of the altars, and it can be inferred that there would be additional sacrifices on the other altars."
+        }
+      ],
+      "questions": [
+        {
+          "question": "In verse 2, 'the altar' (בַּמִּזְבֵּֽחַ) is mentioned in the singular, even though in verse 1 Balaam requested 'seven altars' (שִׁבְעָה מִזְבְּחֹ֑ת) in the plural. What can be inferred from this?",
+          "answers": [
+            "They offered only one sacrifice on one of the many altars built",
+            "Balaam only intended one altar from the start",
+            "The additional altars were built for other purposes"
+          ],
+          "correct": 0,
+          "explanation": "The mention of 'the altar' (singular) in verse 2, after the request for seven altars in verse 1, suggests that they performed the first sacrifice on one of the many altars built, as part of a process that might include further sacrifices on the other altars. This indicates a beginning rather than an end of the process."
+        },
+        {
+          "question": "What is reflected in the relationship between Balaam and Balak from these two verses?",
+          "answers": [
+            "Balak is the sole ruler and Balaam is his advisor",
+            "Balaam is the one giving instructions and Balak carries them out",
+            "They are equal in status and act in full cooperation"
+          ],
+          "correct": 1,
+          "explanation": "Balaam is the one telling Balak what to do ('Build me,' 'prepare me'), and Balak, for his part, carries out the instructions without question ('And Balak did as Balaam had spoken'), which indicates a relationship of authority where Balaam is the initiator and director."
+        },
+        {
+          "question": "Balaam requested seven bulls and seven rams, but in verse 2 it is described that they offered only 'a bullock and a ram.' What is the most reasonable understanding of this discrepancy?",
+          "answers": [
+            "Balak was unable to prepare all the animals",
+            "Balaam changed his mind and decided to settle for one sacrifice",
+            "The description in verse 2 refers to the first sacrifice out of a series of sacrifices"
+          ],
+          "correct": 2,
+          "explanation": "Since Balaam requested a large quantity of animals and only 'a bullock and a ram' were offered, the logical conclusion is that the description in verse 2 describes the beginning of the process, a single sacrifice on one of the altars, and it can be inferred that there would be additional sacrifices on the other altars."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 3,
+      "end_verse": 7,
+      "title": "The First Encounter and Balaam's Prophecy",
+      "easy": [
+        {
+          "question": "What did Balaam ask Balak to do when he went to meet the Lord?",
+          "answers": [
+            "Stand by his burnt offering",
+            "Wait for him in the tent",
+            "Go with him"
+          ],
+          "correct": 0,
+          "explanation": "In verse 3, Balaam says to Balak: 'Stand by thy burnt offering.'"
+        },
+        {
+          "question": "Who met Balaam when he went to seek the word of the Lord?",
+          "answers": [
+            "The commander of Moab's army",
+            "God",
+            "King Balak"
+          ],
+          "correct": 1,
+          "explanation": "Verse 4 says: 'And God met Balaam.'"
+        },
+        {
+          "question": "What did the Lord put in Balaam's mouth?",
+          "answers": [
+            "A curse for the people of Israel",
+            "A blessing for the sons of Moab",
+            "A word (message)"
+          ],
+          "correct": 2,
+          "explanation": "Verse 5 states: 'And the Lord put a word in Balaam's mouth.'"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What action did Balaam take before going to seek the word of the Lord, according to Balak's request?",
+          "answers": [
+            "He sacrificed a bullock and a ram on seven altars.",
+            "He prayed to the Lord at one altar.",
+            "He set up seven new tents."
+          ],
+          "correct": 0,
+          "explanation": "In verse 4, Balaam says: 'I have prepared seven altars, and I have offered upon every altar a bullock and a ram' – meaning on each altar."
+        },
+        {
+          "question": "To what kind of place did Balaam go when he said 'I will go: peradventure the Lord will come to meet me'?",
+          "answers": [
+            "A valley",
+            "A high and exposed place",
+            "A bustling city"
+          ],
+          "correct": 1,
+          "explanation": "Numbers 23:3 states 'And he went to an high place,' indicating a raised, isolated location."
+        },
+        {
+          "question": "Why does Balaam mention Balak's request to him in verse 7?",
+          "answers": [
+            "To complain about the long journey he made.",
+            "To show that he didn't want to come in the first place.",
+            "To present the reason for which he was called and brought to the place."
+          ],
+          "correct": 2,
+          "explanation": "Balaam quotes Balak: 'Come, curse me Jacob, and come, defy Israel,' to clarify the mission for which he came and what Balak's expectation was of him, before he delivers the word of the Lord."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be learned from the fact that Balaam says to the Lord in verse 4, 'I have prepared seven altars, and I have offered upon every altar a bullock and a ram'?",
+          "answers": [
+            "He is trying to impress the Lord with the number of altars and sacrifices.",
+            "He hints that he expects to receive high compensation from Balak.",
+            "He is asking the Lord to approve his actions."
+          ],
+          "correct": 0,
+          "explanation": "Balaam details his preparations and sacrifices to the Lord, likely in an attempt to present himself as one who fulfills His will and adheres to rituals, thereby hoping to influence the Lord's response or justify his actions before Him, believing his actions would earn him a desired answer."
+        },
+        {
+          "question": "The phrase 'And he took up his parable, and said' (verse 7) implies that Balaam:",
+          "answers": [
+            "Began to speak in riddles and mysteriously.",
+            "Began a prophecy or a poetic utterance.",
+            "Began to carry a heavy burden and speak harsh words."
+          ],
+          "correct": 1,
+          "explanation": "The expression 'took up his parable' in the Bible refers to the initiation of a prophecy, lament, or a poetic, wise, or specially significant statement, not everyday speech."
+        },
+        {
+          "question": "What geographical or historical fact is hinted at in verse 7 regarding Balaam's origin?",
+          "answers": [
+            "Balaam was of Egyptian origin.",
+            "Balaam was born in Moab and only wandered to Aram.",
+            "Balaam came from the region of Aram, mountains in the east."
+          ],
+          "correct": 2,
+          "explanation": "The verse states: 'Balak the king of Moab hath brought me from Aram, out of the mountains of the east.' This indicates that Balaam was brought from Aram, a region known to be northeast of the land of Israel, and 'mountains of the east' reinforces this eastern location, consistent with his origin from the Euphrates river region."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be learned from the fact that Balaam says to the Lord in verse 4, 'I have prepared seven altars, and I have offered upon every altar a bullock and a ram'?",
+          "answers": [
+            "He is trying to impress the Lord with the number of altars and sacrifices.",
+            "He hints that he expects to receive high compensation from Balak.",
+            "He is asking the Lord to approve his actions."
+          ],
+          "correct": 0,
+          "explanation": "Balaam details his preparations and sacrifices to the Lord, likely in an attempt to present himself as one who fulfills His will and adheres to rituals, thereby hoping to influence the Lord's response or justify his actions before Him, believing his actions would earn him a desired answer."
+        },
+        {
+          "question": "The phrase 'And he took up his parable, and said' (verse 7) implies that Balaam:",
+          "answers": [
+            "Began to speak in riddles and mysteriously.",
+            "Began a prophecy or a poetic utterance.",
+            "Began to carry a heavy burden and speak harsh words."
+          ],
+          "correct": 1,
+          "explanation": "The expression 'took up his parable' in the Bible refers to the initiation of a prophecy, lament, or a poetic, wise, or specially significant statement, not everyday speech."
+        },
+        {
+          "question": "What geographical or historical fact is hinted at in verse 7 regarding Balaam's origin?",
+          "answers": [
+            "Balaam was of Egyptian origin.",
+            "Balaam was born in Moab and only wandered to Aram.",
+            "Balaam came from the region of Aram, mountains in the east."
+          ],
+          "correct": 2,
+          "explanation": "The verse states: 'Balak the king of Moab hath brought me from Aram, out of the mountains of the east.' This indicates that Balaam was brought from Aram, a region known to be northeast of the land of Israel, and 'mountains of the east' reinforces this eastern location, consistent with his origin from the Euphrates river region."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 8,
+      "end_verse": 10,
+      "title": "Balaam's First Parable: The Blessing of Israel",
+      "easy": [
+        {
+          "question": "Why cannot Balaam curse the people of Israel, according to the first verse?",
+          "answers": [
+            "Because God has not cursed them.",
+            "Because they are too strong and will not be affected by the curse.",
+            "Because they are too far from Balaam's location."
+          ],
+          "correct": 0,
+          "explanation": "The verse says: 'How shall I curse, whom God hath not cursed? or how shall I defy, whom the Lord hath not defied?' meaning Balaam understands he has no authority to curse if God has not cursed."
+        },
+        {
+          "question": "How is the people of Israel described in relation to other nations in verse 9?",
+          "answers": [
+            "It lives among them and mixes with them.",
+            "It is a people that dwells alone and shall not be reckoned among the nations.",
+            "It is a people that pursues and conquers the nations."
+          ],
+          "correct": 1,
+          "explanation": "The verse states: 'lo, the people shall dwell alone, and shall not be reckoned among the nations,' meaning it is a distinct and unique people."
+        },
+        {
+          "question": "What wish does Balaam express regarding his own end in verse 10?",
+          "answers": [
+            "That he may die as a legendary war hero.",
+            "That he may eventually succeed in cursing Israel.",
+            "That his soul may die the death of the righteous, and his last end be like theirs."
+          ],
+          "correct": 2,
+          "explanation": "The verse explicitly states: 'Let me die the death of the righteous, and let my last end be like his!'"
+        }
+      ],
+      "medium": [
+        {
+          "question": "From what geographical location does Balaam describe his view of the people of Israel?",
+          "answers": [
+            "From the top of the rocks and from the hills.",
+            "From a low and humble valley.",
+            "From wide plains stretching to the horizon."
+          ],
+          "correct": 0,
+          "explanation": "The verse says: 'For from the top of the rocks I see him, and from the hills I behold him.'"
+        },
+        {
+          "question": "What characteristic of the people of Israel does the rhetorical question 'Who can count the dust of Jacob' in verse 10 emphasize?",
+          "answers": [
+            "Their desire to return to the dust of the earth.",
+            "Their immense multitude, which cannot be counted.",
+            "Their humility and modesty."
+          ],
+          "correct": 1,
+          "explanation": "Comparing the people of Jacob to the dust of the earth, which cannot be counted, emphasizes the immense size of the people, similar to the promise made to Abraham."
+        },
+        {
+          "question": "What does the phrase 'shall not be reckoned' mean in the context of 'and shall not be reckoned among the nations' (Numbers 23:9)?",
+          "answers": [
+            "Will not be considered, meaning worthless.",
+            "Will not fight, meaning a people of peace.",
+            "Will not be counted or included among the nations, but considered a special and separate people."
+          ],
+          "correct": 2,
+          "explanation": "In this context, 'shall not be reckoned' means that the people of Israel are not counted as part of the ordinary nations, but stand apart as a people with a unique and distinct status. The context of 'shall dwell alone' reinforces the idea of uniqueness and separation."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What is the main meaning of the contrast between 'How shall I curse' and 'whom God hath not cursed' and 'how shall I defy' and 'whom the Lord hath not defied' in verse 8?",
+          "answers": [
+            "That Balaam was determined to curse Israel at all costs.",
+            "That Balaam believed he was stronger than God.",
+            "That Balaam understands his power is limited by the will of the Lord, and he cannot act against His will."
+          ],
+          "correct": 2,
+          "explanation": "The contrast emphasizes Balaam's helplessness to act against the divine will. He declares that he cannot curse whom God has not cursed, thereby acknowledging God's supremacy over his magical abilities."
+        },
+        {
+          "question": "The phrase 'lo, the people shall dwell alone' in verse 9, in addition to its plain meaning, can also allude to:",
+          "answers": [
+            "Geographical isolation of the people of Israel in the desert.",
+            "Spiritual, cultural, and destined uniqueness, and that this people is separate and does not integrate with the nations of the world.",
+            "The preference of the Israelites to live separately for social reasons only."
+          ],
+          "correct": 1,
+          "explanation": "Beyond the simple meaning of physical distance, the phrase points to the unique essence of the people of Israel, who do not mingle with the nations and whose destiny is distinct from theirs."
+        },
+        {
+          "question": "Why does Balaam mention 'the number of the fourth part of Israel' as something uncountable, rather than just all of Israel?",
+          "answers": [
+            "Because Balaam could only count a quarter of the people due to distance.",
+            "To emphasize the image: if even a quarter of the people cannot be counted, how much more so is the entire nation immense in size, highlighting the blessing of multitude.",
+            "To suggest that only a small part of the people is the true and important people."
+          ],
+          "correct": 1,
+          "explanation": "The mention of 'the fourth part of Israel' as uncountable is a rhetorical device to magnify the idea. If even such a small portion of the people is immense and countless, then the entire nation is immeasurably large, emphasizing the blessing of multitude given to the patriarchs."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the main meaning of the contrast between 'How shall I curse' and 'whom God hath not cursed' and 'how shall I defy' and 'whom the Lord hath not defied' in verse 8?",
+          "answers": [
+            "That Balaam was determined to curse Israel at all costs.",
+            "That Balaam believed he was stronger than God.",
+            "That Balaam understands his power is limited by the will of the Lord, and he cannot act against His will."
+          ],
+          "correct": 2,
+          "explanation": "The contrast emphasizes Balaam's helplessness to act against the divine will. He declares that he cannot curse whom God has not cursed, thereby acknowledging God's supremacy over his magical abilities."
+        },
+        {
+          "question": "The phrase 'lo, the people shall dwell alone' in verse 9, in addition to its plain meaning, can also allude to:",
+          "answers": [
+            "Geographical isolation of the people of Israel in the desert.",
+            "Spiritual, cultural, and destined uniqueness, and that this people is separate and does not integrate with the nations of the world.",
+            "The preference of the Israelites to live separately for social reasons only."
+          ],
+          "correct": 1,
+          "explanation": "Beyond the simple meaning of physical distance, the phrase points to the unique essence of the people of Israel, who do not mingle with the nations and whose destiny is distinct from theirs."
+        },
+        {
+          "question": "Why does Balaam mention 'the number of the fourth part of Israel' as something uncountable, rather than just all of Israel?",
+          "answers": [
+            "Because Balaam could only count a quarter of the people due to distance.",
+            "To emphasize the image: if even a quarter of the people cannot be counted, how much more so is the entire nation immense in size, highlighting the blessing of multitude.",
+            "To suggest that only a small part of the people is the true and important people."
+          ],
+          "correct": 1,
+          "explanation": "The mention of 'the fourth part of Israel' as uncountable is a rhetorical device to magnify the idea. If even such a small portion of the people is immense and countless, then the entire nation is immeasurably large, emphasizing the blessing of multitude given to the patriarchs."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 11,
+      "end_verse": 12,
+      "title": "Balak's Frustration and Balaam's Response",
+      "easy": [
+        {
+          "question": "Who speaks to Balaam in verse 11?",
+          "answers": [
+            "Balaam",
+            "Balak",
+            "The Lord"
+          ],
+          "correct": 1,
+          "explanation": "Verse 11 states: 'And Balak said unto Balaam,' indicating that Balak is the speaker."
+        },
+        {
+          "question": "What did Balak want Balaam to do to his enemies?",
+          "answers": [
+            "Bless them",
+            "Curse them",
+            "Fight them"
+          ],
+          "correct": 1,
+          "explanation": "Balak said to Balaam: 'I took thee to curse mine enemies,' meaning to curse his enemies."
+        },
+        {
+          "question": "What did Balaam actually do instead of what Balak expected?",
+          "answers": [
+            "Did nothing",
+            "Fought for Balak",
+            "Blessed Balak's enemies"
+          ],
+          "correct": 2,
+          "explanation": "Balak complains: 'and, behold, thou hast blessed them altogether,' meaning Balaam blessed the people instead of cursing them."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the word 'curse' mean in the context of 'I took thee to curse mine enemies' (Numbers 23:11)?",
+          "answers": [
+            "To count",
+            "To bless",
+            "To utter evil upon"
+          ],
+          "correct": 2,
+          "explanation": "In the context of Balak wanting Balaam to harm his enemies, the word 'curse' means to utter evil upon them. The contrast with 'blessed' in the verse reinforces this meaning."
+        },
+        {
+          "question": "Why did Balak express anger and frustration towards Balaam?",
+          "answers": [
+            "Because Balaam took his money and did nothing",
+            "Because Balaam did exactly the opposite of what Balak wanted",
+            "Because Balaam fled before completing the task"
+          ],
+          "correct": 1,
+          "explanation": "Balak said: 'I took thee to curse mine enemies, and, behold, thou hast blessed them altogether,' which shows that Balaam did the exact opposite of the purpose for which he was hired."
+        },
+        {
+          "question": "On what did Balaam rely in his answer to explain his actions?",
+          "answers": [
+            "On his personal will",
+            "On the words of God spoken through his mouth",
+            "On the laws of the land"
+          ],
+          "correct": 1,
+          "explanation": "Balaam answered: 'Must I not take heed to speak that which the Lord hath put in my mouth?', meaning he speaks only what the Lord has put in his mouth."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from Balaam's response regarding the extent of his control over his words?",
+          "answers": [
+            "He is completely free to say what he wishes",
+            "He must adhere precisely to what God tells him to say",
+            "He can choose whether to bless or curse according to his will"
+          ],
+          "correct": 1,
+          "explanation": "Balaam clarifies 'Must I not take heed to speak that which the Lord hath put in my mouth?', which indicates an inability or unwillingness to deviate from the word of the Lord."
+        },
+        {
+          "question": "What prominent linguistic and conceptual contrast appears in Balak's complaint to Balaam?",
+          "answers": [
+            "Contrast between war and peace",
+            "Contrast between taking and giving",
+            "Contrast between cursing and blessing"
+          ],
+          "correct": 2,
+          "explanation": "Balak says: 'I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.' The prominent contrast is between 'to curse' and 'thou hast blessed.'"
+        },
+        {
+          "question": "What does Balaam's response teach about his understanding of his role as a prophet/sorcerer in the context of God's words?",
+          "answers": [
+            "He sees himself as someone who can manipulate God's will",
+            "He understands that he is only a channel for transmitting God's words, without the ability to change them",
+            "He believes he can choose the final outcome of his words"
+          ],
+          "correct": 1,
+          "explanation": "The answer 'Must I not take heed to speak that which the Lord hath put in my mouth?' shows that Balaam perceives himself as someone who must maintain absolute accuracy in God's words, and has no freedom to alter them."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from Balaam's response regarding the extent of his control over his words?",
+          "answers": [
+            "He is completely free to say what he wishes",
+            "He must adhere precisely to what God tells him to say",
+            "He can choose whether to bless or curse according to his will"
+          ],
+          "correct": 1,
+          "explanation": "Balaam clarifies 'Must I not take heed to speak that which the Lord hath put in my mouth?', which indicates an inability or unwillingness to deviate from the word of the Lord."
+        },
+        {
+          "question": "What prominent linguistic and conceptual contrast appears in Balak's complaint to Balaam?",
+          "answers": [
+            "Contrast between war and peace",
+            "Contrast between taking and giving",
+            "Contrast between cursing and blessing"
+          ],
+          "correct": 2,
+          "explanation": "Balak says: 'I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.' The prominent contrast is between 'to curse' and 'thou hast blessed.'"
+        },
+        {
+          "question": "What does Balaam's response teach about his understanding of his role as a prophet/sorcerer in the context of God's words?",
+          "answers": [
+            "He sees himself as someone who can manipulate God's will",
+            "He understands that he is only a channel for transmitting God's words, without the ability to change them",
+            "He believes he can choose the final outcome of his words"
+          ],
+          "correct": 1,
+          "explanation": "The answer 'Must I not take heed to speak that which the Lord hath put in my mouth?' shows that Balaam perceives himself as someone who must maintain absolute accuracy in God's words, and has no freedom to alter them."
+        }
+      ]
+    },
+    {
+      "paragraph": 5,
+      "start_verse": 13,
+      "end_verse": 14,
+      "title": "Second Attempt: Change of Location and Altars",
+      "easy": [
+        {
+          "question": "What did Balak ask Balaam to do to the people of Israel from the new location?",
+          "answers": [
+            "Curse them.",
+            "Bless them.",
+            "Teach them."
+          ],
+          "correct": 0,
+          "explanation": "Balak says to Balaam in verse 13: 'and curse me them from thence,' meaning to curse the people."
+        },
+        {
+          "question": "To what place did Balak take Balaam in verse 14?",
+          "answers": [
+            "To the Sinai Desert.",
+            "To the field of Zophim, to the top of Pisgah.",
+            "To the Mount of the Hebrews."
+          ],
+          "correct": 1,
+          "explanation": "The verse explicitly states: 'And he brought him into the field of Zophim, to the top of Pisgah.'"
+        },
+        {
+          "question": "How many altars did Balak build in the new place?",
+          "answers": [
+            "Three altars.",
+            "Five altars.",
+            "Seven altars."
+          ],
+          "correct": 2,
+          "explanation": "The verse says: 'and built seven altars.'"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the word 'but' mean in the context of 'thou shalt see but the utmost part of them' (Numbers 23:13)?",
+          "answers": [
+            "At the end.",
+            "Only, solely.",
+            "Beginning."
+          ],
+          "correct": 1,
+          "explanation": "The context 'thou shalt see but the utmost part of them, and shalt not see them all' clarifies that the meaning is 'only' or 'solely,' implying that he would see only a limited part of the people and not all of them."
+        },
+        {
+          "question": "Why did Balak take Balaam to a new place where he would see 'only the utmost part' of the people of Israel and not all of them?",
+          "answers": [
+            "Hoping that if he saw only part of the people, the outcome of the curse would change in his favor.",
+            "So that Balaam would not get tired of seeing all the people.",
+            "Because there was no wider place from which to see all the people."
+          ],
+          "correct": 0,
+          "explanation": "Balak tries to change the conditions and location (seeing only a partial view) to change the outcome, perhaps thinking that if Balaam saw only a part, he would be able to curse and not bless."
+        },
+        {
+          "question": "What types of animals did Balak sacrifice on the altars he built?",
+          "answers": [
+            "Sheep and goats.",
+            "Donkeys and horses.",
+            "Bulls and rams."
+          ],
+          "correct": 2,
+          "explanation": "The verse clearly specifies: 'and offered a bullock and a ram on every altar.'"
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from Balak choosing to show Balaam only 'the utmost part' of the people of Israel in the new place?",
+          "answers": [
+            "Balak wanted to prevent Balaam from seeing the impressive strength and size of the people.",
+            "Balak believed that in a narrower place, the curse would be more effective.",
+            "Balak wanted to make it easier for Balaam to identify the enemies."
+          ],
+          "correct": 0,
+          "explanation": "Balak feared the power of the people of Israel and seemed to want to limit Balaam's view, hoping that a restricted scope of vision would allow Balaam to curse, in contrast to the blessing that came from his mouth when he saw all the people earlier."
+        },
+        {
+          "question": "The name 'field of Zophim' (verse 14) hints at the nature of the place. What is most likely implied by the name?",
+          "answers": [
+            "It was a special agricultural field.",
+            "It was a high place suitable for observation and viewing from afar.",
+            "It was an ancient place of worship for certain gods."
+          ],
+          "correct": 1,
+          "explanation": "The root 'tz.f.h' is related to seeing and observing. The name 'field of Zophim' together with 'the top of Pisgah' (a high point) implies a good vantage point, which fits Balak's desire to show Balaam the people of Israel."
+        },
+        {
+          "question": "What significance might Balak's actions of building seven altars again and sacrificing on them, after a previous failed attempt, have?",
+          "answers": [
+            "Balak wanted to waste many resources to show his power.",
+            "Balak tried to precisely replicate the previous sacrifice ritual, without learning from the failure.",
+            "The number seven and the double offering of sacrifices indicate determination, ritual completeness, and a strong attempt to influence the outcome after the first failure."
+          ],
+          "correct": 2,
+          "explanation": "The number seven in the Bible often symbolizes completeness and holiness. Building seven altars and sacrificing on them again, after the first attempt failed, shows strong determination on Balak's part and an attempt to create a more ritually perfect ceremony, hoping for a different outcome."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from Balak choosing to show Balaam only 'the utmost part' of the people of Israel in the new place?",
+          "answers": [
+            "Balak wanted to prevent Balaam from seeing the impressive strength and size of the people.",
+            "Balak believed that in a narrower place, the curse would be more effective.",
+            "Balak wanted to make it easier for Balaam to identify the enemies."
+          ],
+          "correct": 0,
+          "explanation": "Balak feared the power of the people of Israel and seemed to want to limit Balaam's view, hoping that a restricted scope of vision would allow Balaam to curse, in contrast to the blessing that came from his mouth when he saw all the people earlier."
+        },
+        {
+          "question": "The name 'field of Zophim' (verse 14) hints at the nature of the place. What is most likely implied by the name?",
+          "answers": [
+            "It was a special agricultural field.",
+            "It was a high place suitable for observation and viewing from afar.",
+            "It was an ancient place of worship for certain gods."
+          ],
+          "correct": 1,
+          "explanation": "The root 'tz.f.h' is related to seeing and observing. The name 'field of Zophim' together with 'the top of Pisgah' (a high point) implies a good vantage point, which fits Balak's desire to show Balaam the people of Israel."
+        },
+        {
+          "question": "What significance might Balak's actions of building seven altars again and sacrificing on them, after a previous failed attempt, have?",
+          "answers": [
+            "Balak wanted to waste many resources to show his power.",
+            "Balak tried to precisely replicate the previous sacrifice ritual, without learning from the failure.",
+            "The number seven and the double offering of sacrifices indicate determination, ritual completeness, and a strong attempt to influence the outcome after the first failure."
+          ],
+          "correct": 2,
+          "explanation": "The number seven in the Bible often symbolizes completeness and holiness. Building seven altars and sacrificing on them again, after the first attempt failed, shows strong determination on Balak's part and an attempt to create a more ritually perfect ceremony, hoping for a different outcome."
+        }
+      ]
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 15,
+      "end_verse": 17,
+      "title": "Second Encounter and Return to Balak",
+      "easy": [
+        {
+          "question": "Who told Balak to stand by his burnt offering?",
+          "answers": [
+            "Balaam",
+            "The Lord",
+            "Princes of Moab"
+          ],
+          "correct": 0,
+          "explanation": "Balaam told Balak in verse 15: 'Stand here by thy burnt offering.'"
+        },
+        {
+          "question": "What did the Lord put in Balaam's mouth?",
+          "answers": [
+            "A blessing",
+            "A word",
+            "A curse"
+          ],
+          "correct": 1,
+          "explanation": "Verse 16 states 'and put a word in his mouth,' meaning a message or statement."
+        },
+        {
+          "question": "Who was with Balak when Balaam returned to him?",
+          "answers": [
+            "Only the Lord",
+            "Only Balaam",
+            "The princes of Moab"
+          ],
+          "correct": 2,
+          "explanation": "Verse 17 describes that when Balaam returned, 'and the princes of Moab with him.'"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the word 'meet' mean in the context of 'while I meet the Lord yonder' (Numbers 23:15)?",
+          "answers": [
+            "I will shout",
+            "I will encounter (the Lord)",
+            "I will wait"
+          ],
+          "correct": 1,
+          "explanation": "The root k.r.h. in this context means 'to meet' or 'to encounter'. Balaam went to a separate place to meet the Lord and receive a message, which makes 'I will encounter' the most suitable option."
+        },
+        {
+          "question": "What commandment did Balaam receive from the Lord immediately after He put a word in his mouth?",
+          "answers": [
+            "Return to Balak and speak",
+            "Bless Israel",
+            "Build another altar"
+          ],
+          "correct": 0,
+          "explanation": "Verse 16 states: 'Go again unto Balak, and say thus.'"
+        },
+        {
+          "question": "Why did Balaam ask Balak 'Stand here by thy burnt offering'?",
+          "answers": [
+            "So Balak could continue to sacrifice",
+            "So Balaam could go alone to inquire of the Lord",
+            "So Balak would not interfere"
+          ],
+          "correct": 1,
+          "explanation": "Balaam said this so he could go to another place alone ('while I meet the Lord yonder') and meet the Lord there, without Balak accompanying him."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does Balak's question 'What hath the Lord spoken?' indicate about his state?",
+          "answers": [
+            "He was indifferent to the outcome.",
+            "He was eager and tense to hear the divine message.",
+            "He was tired of waiting."
+          ],
+          "correct": 1,
+          "explanation": "Balak's immediate and direct question upon Balaam's return indicates high anticipation and great urgency to receive the divine message, hoping it would be a curse upon Israel."
+        },
+        {
+          "question": "The word 'thus' appears in verses 15 and 16 in two different contexts ('Stand here,' 'I will meet yonder,' 'say thus'). What is the difference in its meaning in the two main contexts?",
+          "answers": [
+            "In verse 15, 'thus' refers to a physical place, while in verse 16 it means 'in this manner' or 'in this way'.",
+            "In both cases, 'thus' refers to a specific time.",
+            "In verse 15, 'thus' implies a secret, while in verse 16 it implies a revelation."
+          ],
+          "correct": 0,
+          "explanation": "In verse 15, 'here' ('koh' in Hebrew) indicates a physical location – 'Stand here,' 'I will meet yonder.' In verse 16, 'thus' ('koh' in Hebrew) means 'and thus you shall speak' or 'in this manner you shall speak,' referring to the manner of speech or the content of the message."
+        },
+        {
+          "question": "When the scripture states 'and put a word in his mouth,' what is the meaning of this regarding Balaam's prophecy?",
+          "answers": [
+            "Balaam could choose his own words for the prophecy.",
+            "Balaam was merely a vessel; the entire message came from the Lord.",
+            "Balaam was given a general idea, but the specific wording was his own."
+          ],
+          "correct": 1,
+          "explanation": "This expression emphasizes that the message Balaam conveyed was not his own words or ideas, but was delivered to him entirely by the Lord, which removes his personal choice or will in the content of the prophecy and highlights the Lord's control over the message."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does Balak's question 'What hath the Lord spoken?' indicate about his state?",
+          "answers": [
+            "He was indifferent to the outcome.",
+            "He was eager and tense to hear the divine message.",
+            "He was tired of waiting."
+          ],
+          "correct": 1,
+          "explanation": "Balak's immediate and direct question upon Balaam's return indicates high anticipation and great urgency to receive the divine message, hoping it would be a curse upon Israel."
+        },
+        {
+          "question": "The word 'thus' appears in verses 15 and 16 in two different contexts ('Stand here,' 'I will meet yonder,' 'say thus'). What is the difference in its meaning in the two main contexts?",
+          "answers": [
+            "In verse 15, 'thus' refers to a physical place, while in verse 16 it means 'in this manner' or 'in this way'.",
+            "In both cases, 'thus' refers to a specific time.",
+            "In verse 15, 'thus' implies a secret, while in verse 16 it implies a revelation."
+          ],
+          "correct": 0,
+          "explanation": "In verse 15, 'here' ('koh' in Hebrew) indicates a physical location – 'Stand here,' 'I will meet yonder.' In verse 16, 'thus' ('koh' in Hebrew) means 'and thus you shall speak' or 'in this manner you shall speak,' referring to the manner of speech or the content of the message."
+        },
+        {
+          "question": "When the scripture states 'and put a word in his mouth,' what is the meaning of this regarding Balaam's prophecy?",
+          "answers": [
+            "Balaam could choose his own words for the prophecy.",
+            "Balaam was merely a vessel; the entire message came from the Lord.",
+            "Balaam was given a general idea, but the specific wording was his own."
+          ],
+          "correct": 1,
+          "explanation": "This expression emphasizes that the message Balaam conveyed was not his own words or ideas, but was delivered to him entirely by the Lord, which removes his personal choice or will in the content of the prophecy and highlights the Lord's control over the message."
+        }
+      ]
+    },
+    {
+      "paragraph": 7,
+      "start_verse": 18,
+      "end_verse": 24,
+      "title": "Balaam's Second Parable: God's Faithfulness",
+      "easy": [
+        {
+          "question": "What is one important attribute of God emphasized in verse 19?",
+          "answers": [
+            "He changes His mind often",
+            "He does not lie or repent",
+            "He promises but does not always keep His word"
+          ],
+          "correct": 1,
+          "explanation": "Verse 19 states: 'God is not a man, that he should lie; neither the son of man, that he should repent,' meaning that God does not lie and does not go back on His word."
+        },
+        {
+          "question": "From whom does Balaam ask 'Rise up, Balak, and hear' in verse 18?",
+          "answers": [
+            "From Moses",
+            "From Balak",
+            "From the people of Israel"
+          ],
+          "correct": 1,
+          "explanation": "In verse 18, Balaam addresses Balak directly, telling him to rise up and hear his words."
+        },
+        {
+          "question": "Which important past exodus of the people of Israel does Balaam mention in verse 22?",
+          "answers": [
+            "Their departure from the land of Canaan",
+            "Their departure from the wilderness",
+            "Their departure from Egypt"
+          ],
+          "correct": 2,
+          "explanation": "Verse 22 states: 'God brought them out of Egypt,' which recalls the great miracle of the exodus from Egypt."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the word 'iniquity' mean in Numbers 23:21, in the context of 'He hath not beheld iniquity in Jacob'?",
+          "answers": [
+            "Wickedness or sin",
+            "Happiness",
+            "Joy"
+          ],
+          "correct": 0,
+          "explanation": "The word 'iniquity' means wickedness, sin, or injustice. In the context of 'He hath not beheld iniquity in Jacob,' it means that God does not see sins or wickedness in the people of Israel in a way that would cause Him to curse or abandon them."
+        },
+        {
+          "question": "Why does Balaam claim he cannot reverse the blessing, as stated in verse 20?",
+          "answers": [
+            "Because Balaam has already given his word",
+            "Because the Lord has blessed and will not go back on His word",
+            "Because the people have already blessed themselves"
+          ],
+          "correct": 1,
+          "explanation": "Verse 20 states: 'Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it,' and verse 19 explains that God does not lie and does not go back on His word, therefore if He has blessed, the blessing stands and cannot be revoked."
+        },
+        {
+          "question": "What types of mystical powers or sorceries cannot work against Jacob and Israel, according to verse 23?",
+          "answers": [
+            "Only magic",
+            "Neither enchantment nor divination",
+            "Only false prophecies"
+          ],
+          "correct": 1,
+          "explanation": "Verse 23 states: 'Surely there is no enchantment against Jacob, neither is there any divination against Israel,' meaning there is no place for the powers of augury (enchantment) or sorcery (divination) among Israel."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "The phrase 'and the shout of a king is among them' (verse 21) implies:",
+          "answers": [
+            "Joy over a human king who will soon rise",
+            "Royal divine presence and power of victory",
+            "Preparations for an imminent war by the king"
+          ],
+          "correct": 1,
+          "explanation": "'The shout of a king' in this context and in proximity to 'the Lord his God is with him' refers to the royal divine presence among Israel, ensuring victory, power, and protection from enemies."
+        },
+        {
+          "question": "In verse 24, the comparison to the people rising up 'as a great lion, and lift up himself as a young lion' and not resting 'until he eat of the prey' symbolizes:",
+          "answers": [
+            "Their love for hunting animals",
+            "Their bravery and uncompromising nature in conquest",
+            "Their wild and unrestrained nature"
+          ],
+          "correct": 1,
+          "explanation": "The imagery of the lion and young lion symbolizes strength, bravery, determination, and not receding until the goal is achieved – usually in the context of conquering enemies and overcoming them."
+        },
+        {
+          "question": "What is the deep meaning of the statement 'according to this time it shall be said of Jacob and of Israel, What hath God wrought!' (verse 23)?",
+          "answers": [
+            "The people will have to tell about their deeds",
+            "God's deeds for Israel will be revealed and publicly proclaimed",
+            "God will ask for an account of the people's deeds"
+          ],
+          "correct": 1,
+          "explanation": "The meaning is that the whole world will see and recognize the deeds of valor and grace that God has done and continues to do for the people of Israel, especially in light of the attempts to curse them, which will highlight the hidden hand of the Lord and His providence."
+        }
+      ],
+      "questions": [
+        {
+          "question": "The phrase 'and the shout of a king is among them' (verse 21) implies:",
+          "answers": [
+            "Joy over a human king who will soon rise",
+            "Royal divine presence and power of victory",
+            "Preparations for an imminent war by the king"
+          ],
+          "correct": 1,
+          "explanation": "'The shout of a king' in this context and in proximity to 'the Lord his God is with him' refers to the royal divine presence among Israel, ensuring victory, power, and protection from enemies."
+        },
+        {
+          "question": "In verse 24, the comparison to the people rising up 'as a great lion, and lift up himself as a young lion' and not resting 'until he eat of the prey' symbolizes:",
+          "answers": [
+            "Their love for hunting animals",
+            "Their bravery and uncompromising nature in conquest",
+            "Their wild and unrestrained nature"
+          ],
+          "correct": 1,
+          "explanation": "The imagery of the lion and young lion symbolizes strength, bravery, determination, and not receding until the goal is achieved – usually in the context of conquering enemies and overcoming them."
+        },
+        {
+          "question": "What is the deep meaning of the statement 'according to this time it shall be said of Jacob and of Israel, What hath God wrought!' (verse 23)?",
+          "answers": [
+            "The people will have to tell about their deeds",
+            "God's deeds for Israel will be revealed and publicly proclaimed",
+            "God will ask for an account of the people's deeds"
+          ],
+          "correct": 1,
+          "explanation": "The meaning is that the whole world will see and recognize the deeds of valor and grace that God has done and continues to do for the people of Israel, especially in light of the attempts to curse them, which will highlight the hidden hand of the Lord and His providence."
+        }
+      ]
+    },
+    {
+      "paragraph": 8,
+      "start_verse": 25,
+      "end_verse": 26,
+      "title": "Balak Desperate, Balaam Stubborn",
+      "easy": [
+        {
+          "question": "What did Balak ask Balaam not to do?",
+          "answers": [
+            "Neither curse nor bless.",
+            "Not to sing nor dance.",
+            "Not to speak with the children of Israel."
+          ],
+          "correct": 0,
+          "explanation": "Verse 25 states: 'Neither curse them at all, nor bless them at all,' meaning Balak told Balaam neither to curse nor to bless."
+        },
+        {
+          "question": "Who spoke first of the two in these verses?",
+          "answers": [
+            "God",
+            "Balaam",
+            "Balak"
+          ],
+          "correct": 2,
+          "explanation": "Verse 25 begins with 'And Balak said unto Balaam,' meaning Balak was the first to speak."
+        },
+        {
+          "question": "What did Balaam say he would do, according to his words to Balak?",
+          "answers": [
+            "Everything Balak asks of him.",
+            "Everything God tells him.",
+            "Whatever he himself wishes."
+          ],
+          "correct": 1,
+          "explanation": "Verse 26 Balaam answers: 'All that the Lord speaketh, that I must do?', meaning he will only do the words of the Lord."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does the phrase 'curse them' mean in the context of 'Neither curse them at all' (Numbers 23:25)?",
+          "answers": [
+            "See them",
+            "Utter evil upon them",
+            "Count them"
+          ],
+          "correct": 1,
+          "explanation": "The root k.b.b. means to curse. In the context of Balak's request to Balaam not to curse the people (after Balaam failed to curse them), it is clear that the intention is cursing."
+        },
+        {
+          "question": "Why did Balak instruct Balaam 'Neither curse them at all, nor bless them at all'?",
+          "answers": [
+            "Because Balak wanted Balaam to be completely silent.",
+            "Because Balaam had harshly cursed the children of Israel.",
+            "Because Balaam had blessed the children of Israel instead of cursing them."
+          ],
+          "correct": 2,
+          "explanation": "Balak invited Balaam to curse the children of Israel, but Balaam blessed them repeatedly. Balak's reaction in this verse shows his desperation, and since Balaam failed to curse, Balak requests that he at least stop blessing."
+        },
+        {
+          "question": "What is the main point Balaam tries to clarify to Balak in his response?",
+          "answers": [
+            "That Balaam needs more time to prepare the curse.",
+            "That Balaam acts only according to what God tells him.",
+            "That Balaam does not understand why Balak wants to curse the people."
+          ],
+          "correct": 1,
+          "explanation": "Balaam reminds Balak again and again (as stated in previous chapters) that he cannot speak on his own but only the words of the Lord. He is merely a messenger."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What conclusion can be drawn from Balak's words 'nor bless them at all' regarding what Balaam had done previously?",
+          "answers": [
+            "That Balaam tried to bribe Balak with blessings.",
+            "That Balaam had blessed the children of Israel at least once before.",
+            "That Balaam refused to speak with the children of Israel at all."
+          ],
+          "correct": 1,
+          "explanation": "Balak's demand that Balaam not bless came after Balaam's failures to curse. The logic is that if Balaam would not curse, he should at least not bless. This means Balaam had already blessed in practice, contrary to Balak's will."
+        },
+        {
+          "question": "What is the meaning of Balak's demand to Balaam: 'Neither curse them at all, nor bless them at all'?",
+          "answers": [
+            "Balak gave up on his attempts for Balaam to curse, and asks him at least to stop doing the opposite.",
+            "Balak wants Balaam to bless his own people instead of Israel.",
+            "Balak offers Balaam a third option, neither to curse nor to bless, as a preferred alternative."
+          ],
+          "correct": 0,
+          "explanation": "After several failed attempts by Balaam to curse Israel (and instead he blessed them), Balak reaches complete desperation. His demand 'Neither curse them at all, nor bless them at all' expresses his giving up on the curse and his desire to prevent further blessings."
+        },
+        {
+          "question": "What deep theological concept is reflected in Balaam's answer to Balak: 'All that the Lord speaketh, that I must do?'",
+          "answers": [
+            "Balaam tries to evade responsibility by blaming God.",
+            "Balaam emphasizes his role as a mere instrument for God's will, without independent agency in this matter.",
+            "Balaam claims he must obey only kings, and no one else."
+          ],
+          "correct": 1,
+          "explanation": "Balaam presents himself as a prophet who has no control over the content of his words. He must deliver exactly what God puts in his mouth, and cannot change it to suit a man's will (like Balak's), and this is an expression of the concept of prophecy as an instrument in the hand of God."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What conclusion can be drawn from Balak's words 'nor bless them at all' regarding what Balaam had done previously?",
+          "answers": [
+            "That Balaam tried to bribe Balak with blessings.",
+            "That Balaam had blessed the children of Israel at least once before.",
+            "That Balaam refused to speak with the children of Israel at all."
+          ],
+          "correct": 1,
+          "explanation": "Balak's demand that Balaam not bless came after Balaam's failures to curse. The logic is that if Balaam would not curse, he should at least not bless. This means Balaam had already blessed in practice, contrary to Balak's will."
+        },
+        {
+          "question": "What is the meaning of Balak's demand to Balaam: 'Neither curse them at all, nor bless them at all'?",
+          "answers": [
+            "Balak gave up on his attempts for Balaam to curse, and asks him at least to stop doing the opposite.",
+            "Balak wants Balaam to bless his own people instead of Israel.",
+            "Balak offers Balaam a third option, neither to curse nor to bless, as a preferred alternative."
+          ],
+          "correct": 0,
+          "explanation": "After several failed attempts by Balaam to curse Israel (and instead he blessed them), Balak reaches complete desperation. His demand 'Neither curse them at all, nor bless them at all' expresses his giving up on the curse and his desire to prevent further blessings."
+        },
+        {
+          "question": "What deep theological concept is reflected in Balaam's answer to Balak: 'All that the Lord speaketh, that I must do?'",
+          "answers": [
+            "Balaam tries to evade responsibility by blaming God.",
+            "Balaam emphasizes his role as a mere instrument for God's will, without independent agency in this matter.",
+            "Balaam claims he must obey only kings, and no one else."
+          ],
+          "correct": 1,
+          "explanation": "Balaam presents himself as a prophet who has no control over the content of his words. He must deliver exactly what God puts in his mouth, and cannot change it to suit a man's will (like Balak's), and this is an expression of the concept of prophecy as an instrument in the hand of God."
+        }
+      ]
+    }
+  ]
+}

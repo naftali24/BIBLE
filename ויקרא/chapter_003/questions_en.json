@@ -1,0 +1,544 @@
+{
+  "book": "Leviticus",
+  "book_he": "ויקרא",
+  "chapter": 3,
+  "question_count": 36,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 5,
+      "title": "Peace Offerings from the Herd",
+      "easy": [
+        {
+          "question": "What type of offering is described in these verses?",
+          "answers": [
+            "A peace offering",
+            "A sin offering",
+            "A guilt offering"
+          ],
+          "correct": 0,
+          "explanation": "The first verse begins, “If his oblation be a sacrifice of peace offering.”"
+        },
+        {
+          "question": "What kind of animal from the herd may be offered?",
+          "answers": [
+            "Only a male",
+            "A male or a female",
+            "Only a female"
+          ],
+          "correct": 1,
+          "explanation": "The verse explicitly says, “whether it be a male or female.”"
+        },
+        {
+          "question": "Who sprinkled the blood on the altar?",
+          "answers": [
+            "The Israelites",
+            "The person bringing the offering",
+            "The sons of Aaron, the priests"
+          ],
+          "correct": 2,
+          "explanation": "Aaron’s sons, the priests, were instructed to sprinkle the blood on the altar."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What order of events is described in these verses?",
+          "answers": [
+            "Sprinkling the blood, killing the animal, laying on hands",
+            "Laying on hands, killing the animal, sprinkling the blood",
+            "Killing the animal, burning the offering, laying on hands"
+          ],
+          "correct": 1,
+          "explanation": "First the person laid a hand on the offering, then it was killed, and finally the priests sprinkled the blood."
+        },
+        {
+          "question": "What does “without blemish” mean in the phrase “he shall offer it without blemish before the Lord”?",
+          "answers": [
+            "Without defect",
+            "Very large",
+            "Young only"
+          ],
+          "correct": 0,
+          "explanation": "The phrase describes an acceptable offering: it had to be whole and free from defect."
+        },
+        {
+          "question": "Which parts of the offering were burned for the Lord?",
+          "answers": [
+            "Only the blood",
+            "All the meat and the skin",
+            "The fat, the kidneys, and the caul above the liver"
+          ],
+          "correct": 2,
+          "explanation": "The verses list the fat, the two kidneys, and the caul above the liver as the parts to be offered."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be understood from the phrase “upon the burnt sacrifice, which is upon the wood that is on the fire”?",
+          "answers": [
+            "The parts were burned on top of the burnt offering already on the altar",
+            "The offering was made outside the tabernacle",
+            "The wood was offered instead of the animal"
+          ],
+          "correct": 0,
+          "explanation": "The phrase describes burning the parts of the peace offering on the burnt offering already placed on the wood and fire."
+        },
+        {
+          "question": "What difference between the roles of the offerer and the priests stands out in these verses?",
+          "answers": [
+            "The offerer sprinkled the blood, and the priests killed the animal",
+            "The offerer laid on a hand and killed the animal, while the priests sprinkled the blood and burned the offering",
+            "The offerer burned the offering, and the priests only brought the animal"
+          ],
+          "correct": 1,
+          "explanation": "The offerer laid a hand on the animal and killed it, while Aaron’s sons sprinkled the blood and burned the offering."
+        },
+        {
+          "question": "What does the phrase “round about” indicate about the sprinkling of the blood?",
+          "answers": [
+            "The blood was sprinkled only inside the tabernacle",
+            "The blood was poured only on the ground",
+            "The blood was applied around the altar"
+          ],
+          "correct": 2,
+          "explanation": "The verse says that the priests sprinkled the blood “round about upon the altar,” meaning around its sides."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be understood from the phrase “upon the burnt sacrifice, which is upon the wood that is on the fire”?",
+          "answers": [
+            "The parts were burned on top of the burnt offering already on the altar",
+            "The offering was made outside the tabernacle",
+            "The wood was offered instead of the animal"
+          ],
+          "correct": 0,
+          "explanation": "The phrase describes burning the parts of the peace offering on the burnt offering already placed on the wood and fire."
+        },
+        {
+          "question": "What difference between the roles of the offerer and the priests stands out in these verses?",
+          "answers": [
+            "The offerer sprinkled the blood, and the priests killed the animal",
+            "The offerer laid on a hand and killed the animal, while the priests sprinkled the blood and burned the offering",
+            "The offerer burned the offering, and the priests only brought the animal"
+          ],
+          "correct": 1,
+          "explanation": "The offerer laid a hand on the animal and killed it, while Aaron’s sons sprinkled the blood and burned the offering."
+        },
+        {
+          "question": "What does the phrase “round about” indicate about the sprinkling of the blood?",
+          "answers": [
+            "The blood was sprinkled only inside the tabernacle",
+            "The blood was poured only on the ground",
+            "The blood was applied around the altar"
+          ],
+          "correct": 2,
+          "explanation": "The verse says that the priests sprinkled the blood “round about upon the altar,” meaning around its sides."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 6,
+      "end_verse": 11,
+      "title": "Peace Offerings from the Flock",
+      "easy": [
+        {
+          "question": "What kind of animal is brought as the offering in these verses?",
+          "answers": [
+            "An animal from the flock",
+            "A bird",
+            "A fish"
+          ],
+          "correct": 0,
+          "explanation": "The verses begin, “If his offering for a sacrifice of peace offering unto the Lord be of the flock.”"
+        },
+        {
+          "question": "Who sprinkled the offering’s blood on the altar?",
+          "answers": [
+            "The person bringing the offering",
+            "Aaron’s sons",
+            "The elders of the people"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “Aaron’s sons shall sprinkle the blood thereof round about upon the altar.”"
+        },
+        {
+          "question": "What did the priest do with the offering’s parts at the end of the process?",
+          "answers": [
+            "Returned them to the offerer",
+            "Buried them outside the camp",
+            "Burned them on the altar"
+          ],
+          "correct": 2,
+          "explanation": "Verse 11 says, “The priest shall burn it upon the altar.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What was required of the offering regarding its kind and condition?",
+          "answers": [
+            "It could be male or female, but it had to be without blemish",
+            "It had to be a wounded male",
+            "It had to be a female only"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “male or female, he shall offer it without blemish.”"
+        },
+        {
+          "question": "In the phrase “the whole rump,” what does “rump” refer to?",
+          "answers": [
+            "The kidney",
+            "The liver",
+            "The fatty tail or rear portion"
+          ],
+          "correct": 2,
+          "explanation": "The verse lists the whole rump among the fatty parts removed from the animal."
+        },
+        {
+          "question": "What happened after the offerer laid his hand on the animal’s head?",
+          "answers": [
+            "He killed it before the tabernacle",
+            "He took it back home",
+            "The priest immediately ate it"
+          ],
+          "correct": 0,
+          "explanation": "The sequence is laying on a hand and then killing the offering before the tabernacle."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Which detail distinguishes the offerer’s role from the role of Aaron’s sons?",
+          "answers": [
+            "The offerer killed the animal, and Aaron’s sons sprinkled the blood",
+            "The offerer sprinkled the blood, and Aaron’s sons killed the animal",
+            "The offerer burned the offering, and Aaron’s sons laid on hands"
+          ],
+          "correct": 0,
+          "explanation": "The offerer laid a hand on the animal and killed it, while Aaron’s sons sprinkled its blood on the altar."
+        },
+        {
+          "question": "Which combination of parts is explicitly mentioned as part of the offering?",
+          "answers": [
+            "The head, skin, and legs",
+            "The two kidneys and the fat upon them",
+            "The blood, meat, and bones"
+          ],
+          "correct": 1,
+          "explanation": "Verse 10 specifically mentions “the two kidneys, and the fat that is upon them.”"
+        },
+        {
+          "question": "What can be understood from the phrase “the food of the offering made by fire unto the Lord”?",
+          "answers": [
+            "Ordinary bread was prepared for people to eat",
+            "The offerer received bread in exchange for the offering",
+            "It refers to the portion burned by fire on the altar for the Lord"
+          ],
+          "correct": 2,
+          "explanation": "The phrase follows the command to burn the offering on the altar, so it refers to an offering burned by fire, not ordinary food."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which detail distinguishes the offerer’s role from the role of Aaron’s sons?",
+          "answers": [
+            "The offerer killed the animal, and Aaron’s sons sprinkled the blood",
+            "The offerer sprinkled the blood, and Aaron’s sons killed the animal",
+            "The offerer burned the offering, and Aaron’s sons laid on hands"
+          ],
+          "correct": 0,
+          "explanation": "The offerer laid a hand on the animal and killed it, while Aaron’s sons sprinkled its blood on the altar."
+        },
+        {
+          "question": "Which combination of parts is explicitly mentioned as part of the offering?",
+          "answers": [
+            "The head, skin, and legs",
+            "The two kidneys and the fat upon them",
+            "The blood, meat, and bones"
+          ],
+          "correct": 1,
+          "explanation": "Verse 10 specifically mentions “the two kidneys, and the fat that is upon them.”"
+        },
+        {
+          "question": "What can be understood from the phrase “the food of the offering made by fire unto the Lord”?",
+          "answers": [
+            "Ordinary bread was prepared for people to eat",
+            "The offerer received bread in exchange for the offering",
+            "It refers to the portion burned by fire on the altar for the Lord"
+          ],
+          "correct": 2,
+          "explanation": "The phrase follows the command to burn the offering on the altar, so it refers to an offering burned by fire, not ordinary food."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 12,
+      "end_verse": 16,
+      "title": "Peace Offerings from the Goats",
+      "easy": [
+        {
+          "question": "What animal is described as the offering in verse 12?",
+          "answers": [
+            "A goat",
+            "A lamb",
+            "An ox"
+          ],
+          "correct": 0,
+          "explanation": "The verse begins, “And if his offering be a goat.”"
+        },
+        {
+          "question": "Who sprinkled the blood on the altar?",
+          "answers": [
+            "The Israelites",
+            "Aaron’s sons",
+            "The Levites"
+          ],
+          "correct": 1,
+          "explanation": "Verse 13 says, “the sons of Aaron shall sprinkle the blood thereof upon the altar round about.”"
+        },
+        {
+          "question": "What did the priests do with the fat?",
+          "answers": [
+            "Buried it",
+            "Gave it to the poor",
+            "Burned it on the altar"
+          ],
+          "correct": 2,
+          "explanation": "Verse 16 says, “the priest shall burn them upon the altar.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What happened after the goat was killed before the tabernacle?",
+          "answers": [
+            "It was taken outside the camp",
+            "Its blood was sprinkled around the altar",
+            "Its meat was distributed among the people"
+          ],
+          "correct": 1,
+          "explanation": "According to the sequence, after the animal was killed, Aaron’s sons sprinkled its blood around the altar."
+        },
+        {
+          "question": "In the phrase “the fat that covereth the inwards,” what does “covereth” indicate?",
+          "answers": [
+            "The fat surrounds or covers the internal organs",
+            "The fat is found on the skin",
+            "The fat was poured on the ground"
+          ],
+          "correct": 0,
+          "explanation": "The phrase refers to the fat covering or surrounding the animal’s internal organs."
+        },
+        {
+          "question": "Which sequence of events matches these verses?",
+          "answers": [
+            "Burning the offering, killing it, laying on hands",
+            "Sprinkling the blood, laying on hands, killing it",
+            "Laying on hands, killing the animal, sprinkling the blood"
+          ],
+          "correct": 2,
+          "explanation": "The verses describe laying on hands first, then killing the animal, followed by sprinkling its blood."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from the verses’ listing of the fat, kidneys, and caul above the liver?",
+          "answers": [
+            "The offering consisted only of the animal’s skin",
+            "The blood was not part of the offering ritual",
+            "Certain internal parts were selected for burning"
+          ],
+          "correct": 2,
+          "explanation": "The verses identify particular organs and fatty parts, showing that selected parts—not every part of the animal—were burned."
+        },
+        {
+          "question": "What difference between the blood and the fat is described?",
+          "answers": [
+            "The blood was sprinkled on the altar, and the fat was burned on it",
+            "The blood was eaten, and the fat was poured out",
+            "The blood was buried, and the fat was given to the offerer"
+          ],
+          "correct": 0,
+          "explanation": "Verse 13 describes sprinkling the blood around the altar, while verses 14–16 describe burning the fat on it."
+        },
+        {
+          "question": "What can be understood from the closing phrase “all the fat is the Lord’s”?",
+          "answers": [
+            "All the fat may be eaten",
+            "The fat is regarded as a portion dedicated to the Lord",
+            "The fat belongs only to Aaron’s sons"
+          ],
+          "correct": 1,
+          "explanation": "The ending emphasizes that all the fat mentioned belongs to the Lord and is burned on the altar."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from the verses’ listing of the fat, kidneys, and caul above the liver?",
+          "answers": [
+            "The offering consisted only of the animal’s skin",
+            "The blood was not part of the offering ritual",
+            "Certain internal parts were selected for burning"
+          ],
+          "correct": 2,
+          "explanation": "The verses identify particular organs and fatty parts, showing that selected parts—not every part of the animal—were burned."
+        },
+        {
+          "question": "What difference between the blood and the fat is described?",
+          "answers": [
+            "The blood was sprinkled on the altar, and the fat was burned on it",
+            "The blood was eaten, and the fat was poured out",
+            "The blood was buried, and the fat was given to the offerer"
+          ],
+          "correct": 0,
+          "explanation": "Verse 13 describes sprinkling the blood around the altar, while verses 14–16 describe burning the fat on it."
+        },
+        {
+          "question": "What can be understood from the closing phrase “all the fat is the Lord’s”?",
+          "answers": [
+            "All the fat may be eaten",
+            "The fat is regarded as a portion dedicated to the Lord",
+            "The fat belongs only to Aaron’s sons"
+          ],
+          "correct": 1,
+          "explanation": "The ending emphasizes that all the fat mentioned belongs to the Lord and is burned on the altar."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 17,
+      "end_verse": 17,
+      "title": "The Prohibition against Eating Fat and Blood",
+      "easy": [
+        {
+          "question": "What was forbidden to eat according to the verse?",
+          "answers": [
+            "Any fat or blood",
+            "Only meat",
+            "Only bread"
+          ],
+          "correct": 0,
+          "explanation": "The verse says explicitly, “ye eat neither fat nor blood.”"
+        },
+        {
+          "question": "For whom was this statute intended?",
+          "answers": [
+            "The priests only",
+            "Your generations",
+            "The wilderness generation only"
+          ],
+          "correct": 1,
+          "explanation": "The verse calls it “a perpetual statute for your generations,” meaning it was intended for future generations."
+        },
+        {
+          "question": "Where was this prohibition to be observed?",
+          "answers": [
+            "Only at the temple",
+            "Only in the wilderness",
+            "Throughout all your dwellings"
+          ],
+          "correct": 2,
+          "explanation": "The verse says it applies “throughout all your dwellings,” wherever the people lived."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What can be understood from the phrase “a perpetual statute for your generations”?",
+          "answers": [
+            "The prohibition was to continue through the generations",
+            "The prohibition was a one-time rule",
+            "The prohibition applied to only one generation"
+          ],
+          "correct": 0,
+          "explanation": "The words “perpetual statute” and “for your generations” show that the command was ongoing."
+        },
+        {
+          "question": "What does “your dwellings” mean in the phrase “throughout all your dwellings”?",
+          "answers": [
+            "Your offerings",
+            "The places where you live",
+            "Your festivals"
+          ],
+          "correct": 1,
+          "explanation": "“Your dwellings” refers to the places where the people live, showing that the prohibition applied everywhere."
+        },
+        {
+          "question": "What follows from the wording “neither fat nor blood”?",
+          "answers": [
+            "Blood may be eaten, but fat may not",
+            "The prohibition applies only during an offering",
+            "Both fat and blood are included in the prohibition"
+          ],
+          "correct": 2,
+          "explanation": "The phrase names both fat and blood as forbidden foods."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does the wording “neither fat nor blood” emphasize?",
+          "answers": [
+            "That the prohibition is comprehensive and includes both fat and blood",
+            "That only a small amount of fat is forbidden",
+            "That the prohibition applies only to the blood of offerings"
+          ],
+          "correct": 0,
+          "explanation": "The wording makes clear that both categories—fat and blood—are included in the prohibition."
+        },
+        {
+          "question": "Why is it important that the verse says “throughout all your dwellings”?",
+          "answers": [
+            "To limit the prohibition to the temple",
+            "To clarify that the prohibition does not depend on a particular place",
+            "To say that the prohibition applies only in one land"
+          ],
+          "correct": 1,
+          "explanation": "The phrase extends the prohibition to every place where the people live, not just a sacred or designated location."
+        },
+        {
+          "question": "What connection is there between “a perpetual statute” and “for your generations”?",
+          "answers": [
+            "They cancel each other out",
+            "One concerns place and the other concerns food",
+            "Both reinforce the idea that the command is fixed and continuing"
+          ],
+          "correct": 2,
+          "explanation": "“Perpetual statute” indicates permanence, while “for your generations” indicates continuation through future generations."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does the wording “neither fat nor blood” emphasize?",
+          "answers": [
+            "That the prohibition is comprehensive and includes both fat and blood",
+            "That only a small amount of fat is forbidden",
+            "That the prohibition applies only to the blood of offerings"
+          ],
+          "correct": 0,
+          "explanation": "The wording makes clear that both categories—fat and blood—are included in the prohibition."
+        },
+        {
+          "question": "Why is it important that the verse says “throughout all your dwellings”?",
+          "answers": [
+            "To limit the prohibition to the temple",
+            "To clarify that the prohibition does not depend on a particular place",
+            "To say that the prohibition applies only in one land"
+          ],
+          "correct": 1,
+          "explanation": "The phrase extends the prohibition to every place where the people live, not just a sacred or designated location."
+        },
+        {
+          "question": "What connection is there between “a perpetual statute” and “for your generations”?",
+          "answers": [
+            "They cancel each other out",
+            "One concerns place and the other concerns food",
+            "Both reinforce the idea that the command is fixed and continuing"
+          ],
+          "correct": 2,
+          "explanation": "“Perpetual statute” indicates permanence, while “for your generations” indicates continuation through future generations."
+        }
+      ]
+    }
+  ]
+}
