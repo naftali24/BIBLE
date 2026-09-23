@@ -1,0 +1,2267 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>תנ״ך — עברית + English</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:#120b04;color:#fff;font-family:Arial,sans-serif}body{height:100dvh;overflow:hidden;display:flex;flex-direction:column}
+header{background:#0d0803;padding:7px;border-bottom:1px solid #805b17;flex:0 0 auto}h1{margin:0 0 6px;text-align:center;color:#ffd95e;text-shadow:0 2px #6d3d00;font-size:28px}
+#chapterCounter{font-size:16px;color:#ffe99b;margin-right:8px;vertical-align:middle}
+#topControls{flex-wrap:nowrap;gap:4px;overflow-x:auto;justify-content:center}
+#topControls button,#topControls select{font-size:13px;padding:6px 8px;min-width:auto;white-space:nowrap}
+#sel{width:74px;max-width:74px;background:linear-gradient(#fff1a6,#d99a16);border:1px solid #8b5d00}
+#speedSel{width:66px;max-width:66px;min-width:66px;padding:6px 4px}
+#audioRow{display:none!important}
+.controls{display:flex;gap:7px;justify-content:center;align-items:center;flex-wrap:wrap}select,button,input{font-size:15px;font-weight:700;border:0;border-radius:10px;padding:8px 10px}select,button{background:linear-gradient(#ffe788,#d99a16);color:#241300}
+#endpoint{width:min(720px,94vw);background:#21170d;color:#fff;border:1px solid #7b5b25}#status{color:#ffe58a;font-weight:700}audio{width:min(720px,96vw)}
+main{flex:1;min-height:0;overflow-y:auto;padding:8px 7px calc(36vh + 18px);scroll-behavior:smooth}.card{margin:8px auto;padding:11px 12px;border-radius:17px;border:1px solid rgba(255,214,79,.22);background:rgba(0,0,0,.34)}.card.active{background:linear-gradient(135deg,rgba(123,75,0,.58),rgba(20,10,0,.86));border-color:#ffe778;box-shadow:0 0 22px rgba(255,207,70,.38)}
+.num{color:#ffd85b;font-size:14px;font-weight:800}.verse{text-align:center;font-size:clamp(23px,4vw,35px);font-weight:900;line-height:1.34;color:#e5b843;text-shadow:0 1px #fff0a0,0 3px #875100,0 7px 10px #000}.active .verse{color:#fff3a9}.perush{text-align:center;margin-top:7px;padding-top:7px;border-top:1px solid rgba(255,255,255,.13);font-size:clamp(18px,3vw,25px);color:#ddd4c1}
+#imageSection{position:fixed;left:0;right:0;bottom:0;height:36vh;background:#080502;border-top:2px solid #8e661c}#imageBox{height:100%;max-width:760px;margin:auto;position:relative;background:#111}#img{width:100%;height:100%;object-fit:cover}#cap{position:absolute;left:0;right:0;bottom:0;padding:7px;background:rgba(0,0,0,.68);text-align:center;color:#ffe58a;font-weight:800}.hidden{display:none!important}#empty{text-align:center;color:#d8c596;padding:35px 10px}
+
+#hebrewOnImage{position:absolute;right:8px;top:8px;z-index:3;background:linear-gradient(#82e89a,#27964a);color:#071b0d;display:none}
+#hebrewLine{position:absolute;left:6px;right:6px;bottom:42px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:8px 10px;border-radius:8px;font-size:18px;line-height:1.35;text-align:center;display:none}
+#stopBtn{background:linear-gradient(#ff9d8f,#d83f2f);color:#fff}
+#langBtn{background:linear-gradient(#9fd2ff,#3e8ed0);color:#071626}
+#speedSel{min-width:88px}
+
+#chapterCounter{font-size:22px!important;font-weight:900;color:#fff0a3;margin-right:10px;vertical-align:middle}
+#chapterMenuWrap{position:relative}
+#chapterMenuBtn{background:linear-gradient(#fff0a3,#d79a17);color:#241300;font-size:22px;padding:4px 9px;min-width:46px;line-height:1.1}
+#chapterMenu{
+  position:absolute;top:calc(100% + 6px);right:0;z-index:60;
+  width:min(94vw,640px);background:rgba(8,5,2,.98);
+  border:2px solid #8c641e;border-radius:14px;padding:8px;
+  box-shadow:0 10px 30px rgba(0,0,0,.65);
+  display:none;
+}
+#chapterMenu.open{display:grid;grid-template-columns:repeat(7,1fr);gap:5px}
+.chapterGold{
+  background:linear-gradient(#ffe77c,#d99500);
+  color:#1e1200;border:1px solid #7e5200;border-radius:8px;
+  padding:5px 0;font-size:13px;font-weight:900;box-shadow:0 2px 0 #6c4300;
+}
+.chapterGold.active{outline:2px solid #fff2a4;background:linear-gradient(#fff5b4,#efb726)}
+@media(max-width:600px){
+  #chapterMenu.open{grid-template-columns:repeat(7,1fr);gap:4px}
+  .chapterGold{font-size:12px;padding:5px 0}
+  #chapterCounter{font-size:20px!important}
+}
+#img{border:4px solid var(--ideaFrame,#d89b18);border-radius:14px}
+.ideaFrame0{--ideaFrame:#d89b18}
+.ideaFrame1{--ideaFrame:#39a66f}
+.ideaFrame2{--ideaFrame:#497fd1}
+.ideaFrame3{--ideaFrame:#bd5db0}
+.ideaFrame4{--ideaFrame:#c56c3f}
+.ideaFrame5{--ideaFrame:#7a9f2b}
+.ideaFrame6{--ideaFrame:#b78d35}
+.ideaFrame7{--ideaFrame:#6e63c7}
+.perush{font-size:clamp(20px,3.3vw,28px)!important}
+
+
+/* Chapter menu: fixed 400x400 box, always visible above content, top-right */
+#chapterMenu{
+  position:fixed !important;
+  top:8px !important;
+  right:8px !important;
+  left:auto !important;
+  width:400px !important;
+  height:400px !important;
+  max-width:calc(100vw - 16px) !important;
+  max-height:calc(100vh - 16px) !important;
+  z-index:99999 !important;
+  background:#090602 !important;
+  border:3px solid #d89b18 !important;
+  border-radius:14px !important;
+  padding:10px !important;
+  box-shadow:0 12px 35px rgba(0,0,0,.85) !important;
+  overflow:auto !important;
+}
+#chapterMenu.open{
+  display:grid !important;
+  grid-template-columns:repeat(7,1fr) !important;
+  grid-auto-rows:minmax(42px,1fr) !important;
+  gap:6px !important;
+}
+.chapterGold{
+  min-width:0 !important;
+  width:100% !important;
+  height:100% !important;
+  padding:4px !important;
+  font-size:14px !important;
+}
+
+#sequenceBtn{background:linear-gradient(#9ff0aa,#2f9d4b);color:#08210d}
+#ttsBtn{background:linear-gradient(#b9b2ff,#6657d8);color:#0b0620}
+#ttsBtn.on{outline:3px solid #fff3a3;box-shadow:0 0 16px rgba(255,240,140,.65)}
+#loadProgressWrap{position:relative;height:24px;margin:6px auto 0;max-width:720px;border:1px solid #8e661c;border-radius:12px;overflow:hidden;background:#21170d}
+#loadProgressBar{height:100%;width:0%;background:linear-gradient(90deg,#d99a16,#ffe788);transition:width .18s linear}
+#loadProgressText{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:13px;font-weight:900;text-shadow:0 1px 2px #000}
+#chapterMenu.bookMode.open{grid-template-columns:repeat(3,1fr)!important;grid-auto-rows:minmax(44px,1fr)!important}
+#chapterMenu.chapterMode.open{grid-template-columns:repeat(7,1fr)!important}
+.bookGold{background:linear-gradient(#ffe77c,#d99500);color:#1e1200;border:1px solid #7e5200;border-radius:8px;padding:7px 4px;font-size:13px;font-weight:900;box-shadow:0 2px 0 #6c4300;min-width:0}
+.bookGold.active{outline:2px solid #fff2a4;background:linear-gradient(#fff5b4,#efb726)}
+#chapterBack{grid-column:1/-1;background:linear-gradient(#d8d8d8,#8f8f8f);color:#111;border-radius:8px;padding:6px;font-weight:900}
+
+
+.steinsaltz{color:#f1e5c8!important}
+.aiExplain{color:#bfe7ff!important;border-top-color:rgba(120,190,255,.28)!important}
+.steinsaltz b{color:#ffd85b}.aiExplain b{color:#86cfff}
+
+.englishText,.enText,.verse.en,.verseText.en,[data-lang="en"]{
+  font-family:Arial,Helvetica,sans-serif!important;
+  font-weight:300!important;
+}
+/* English verse: gold, medium-weight, cleaner than Hebrew */
+.verse.englishVerse{
+  text-transform:none!important;
+  font-family:"Segoe UI",Arial,Helvetica,sans-serif!important;
+  font-weight:700!important;
+  font-size:1.28em!important;
+  text-shadow:none!important;
+  letter-spacing:0!important;
+  color:#f4c84a!important;
+  line-height:1.15!important;
+}
+.active .verse.englishVerse{
+  color:#ffd95a!important;
+  font-weight:700!important;
+}
+
+/* v21: commentary is intentionally not shown on the player page */
+.steinsaltz{display:none!important}.aiExplain{display:block!important}
+
+.verse.englishVerse{
+  text-align:left!important;
+  direction:ltr!important;
+}
+
+/* English verse heading ("Verse …") follows the English reading direction. */
+.num.englishNum{
+  text-align:left!important;
+  direction:ltr!important;
+}
+
+.englishExplanationPlaceholder{
+  text-align:left!important;
+  direction:ltr!important;
+}
+
+/* v42: compact owl/stop icons, same visual scale as the other controls */
+#chapterMenuBtn,#stopBtn{
+  width:40px!important;height:34px!important;min-width:40px!important;
+  padding:0!important;display:inline-flex!important;align-items:center!important;
+  justify-content:center!important;overflow:hidden!important;
+}
+.iconWithLabel{
+  position:relative;display:flex;width:38px;height:32px;
+  align-items:center;justify-content:center;
+}
+#chapterMenuBtn .menuIcon,#stopBtn .stopIcon{
+  display:block!important;font-size:25px!important;line-height:29px!important;
+  width:auto!important;text-align:center!important;
+}
+.iconLabel{
+  position:absolute;left:50%;bottom:1px;transform:translateX(-50%);
+  font-size:7px!important;line-height:8px!important;font-weight:800!important;
+  color:#fff!important;text-shadow:0 1px 2px #000,0 0 2px #000;
+  white-space:nowrap;pointer-events:none;
+}
+.stopLabel{font-size:6px!important;bottom:7px!important;}
+/* Fullscreen: browser UI/status bar can be hidden after a user tap */
+html,body{min-height:100%;overscroll-behavior:none;}
+
+/* v43: opening screen - image fills all space below the controls */
+body.introMode main{display:none!important}
+body.introMode #imageSection{
+  position:relative!important;
+  left:auto!important;right:auto!important;bottom:auto!important;
+  width:100%!important;height:auto!important;flex:1 1 auto!important;
+  min-height:0!important;border-top:2px solid #8e661c;
+}
+body.introMode #imageBox{width:100%!important;max-width:none!important;height:100%!important}
+body.introMode #img{width:100%!important;height:100%!important;object-fit:cover!important}
+
+/* fullscreen viewport only */
+html,body{width:100%!important;height:100%!important;min-height:100dvh!important;margin:0!important;}
+
+#ttsBtn{display:none!important;}
+
+/* v44 — idea beside verse + questions on image */
+.ideaBesideVerse{
+  font-weight:900!important;text-decoration:underline!important;
+  text-decoration-thickness:3px!important;text-underline-offset:4px!important;
+  margin:0 0 7px;text-align:center;font-size:clamp(18px,3vw,24px)
+}
+#quizBox{
+  position:absolute;left:10px;right:10px;top:10px;z-index:20;
+  background:rgba(7,5,2,.93);border:2px solid #d89b18;border-radius:14px;
+  padding:10px 42px 10px 10px;text-align:center;box-shadow:0 5px 18px rgba(0,0,0,.7);
+  display:none
+}
+#quizBox.open{display:block}
+#quizToggle{
+  position:absolute;right:7px;top:7px;z-index:22;width:30px;height:30px;min-width:30px;
+  padding:0;border-radius:50%;font-size:21px;line-height:30px;font-weight:900;
+  background:linear-gradient(#ffe788,#d99a16);color:#241300
+}
+#quizMeta{color:#ffd85b;font-size:13px;font-weight:900;margin-bottom:4px}
+#quizQuestion{font-size:clamp(18px,3vw,25px);font-weight:900;color:#fff;margin:4px 0 9px}
+#quizAnswers{display:flex;gap:7px;justify-content:center;flex-wrap:wrap}
+.quizAnswer{font-size:16px!important;padding:7px 12px!important}
+.quizAnswer.correct{background:linear-gradient(#9cf0a9,#2e9c4a)!important;color:#071b0d!important}
+.quizAnswer.wrong{background:linear-gradient(#ff9d8f,#d83f2f)!important;color:#fff!important}
+#quizNext{margin-top:8px;font-size:13px;padding:5px 10px;display:none}
+
+
+#quizClose{
+  position:absolute;left:7px;top:6px;z-index:25;width:34px;height:34px;min-width:34px;
+  padding:0!important;border-radius:50%;font-size:27px!important;line-height:30px;font-weight:900;
+  background:#8b1e1e!important;color:#fff!important;border:2px solid #ffb0a8!important
+}
+
+#quizExplanation{
+  display:none;
+  margin:10px 6px 4px;
+  padding:10px 12px;
+  border-radius:12px;
+  background:#fff7cf;
+  border:2px solid #d89b18;
+  color:#241800;
+  font-size:17px;
+  font-weight:800;
+  line-height:1.45;
+  text-align:right;
+}
+
+#quizLevels{display:flex;justify-content:center;gap:8px;margin:0 38px 8px}
+#quizLevels button{font-size:15px!important;font-weight:900;padding:5px 15px!important;border-radius:10px}
+#quizLevels button.active{outline:3px solid #fff;box-shadow:0 0 0 2px #d89b18}
+#quizEasy{background:linear-gradient(#baf6c4,#43ad60)!important;color:#092514!important}
+#quizMedium{background:linear-gradient(#b9dcff,#4d8ed1)!important;color:#071a2d!important}
+#quizChallenge{background:linear-gradient(#ffe78b,#d99a16)!important;color:#241300!important}
+
+/* === QUIZ COMPACT LAYOUT === */
+#quizQuestion{font-size:17px!important;line-height:1.10!important;margin:5px 0!important}
+#quizAnswers{gap:4px!important;margin:4px 0!important}
+.quizAnswer{
+  font-size:14px!important;
+  line-height:1.1!important;
+  padding:4px 10px!important;
+  min-height:28px!important;
+  border-radius:9px!important;
+}
+#quizExplanation{
+  font-size:13px!important;
+  line-height:1.25!important;
+  padding:6px 8px!important;
+  margin:5px 4px 2px!important;
+}
+#quizLevels{
+  gap:5px!important;
+  margin:0 38px 5px!important;
+  align-items:center!important;
+}
+#quizLevels button{
+  font-size:13px!important;
+  padding:4px 10px!important;
+  min-height:27px!important;
+}
+#quizNext{
+  font-size:13px!important;
+  padding:4px 10px!important;
+  min-height:27px!important;
+  margin:0!important;
+}
+
+
+#quizLevels{direction:rtl!important}
+#quizEasy{order:2}
+#quizNext{order:1}
+#quizMedium{order:3}
+#quizChallenge{order:4}
+
+
+/* === QUIZ FINE TUNING === */
+.quizAnswer{
+  font-size:15px!important;
+}
+#quizExplanation{
+  font-size:15px!important;
+  text-align:center!important;
+}
+#quizNext{
+  transform:translateX(16px)!important;
+}
+
+
+#quizQuestion{
+  text-align:right!important;
+  direction:rtl!important;
+}
+
+.ideaInline{
+  font-weight:900;
+  font-size:.92em;
+  margin-right:5px;
+}
+
+#quizBox{
+  transform:translateY(-100px)!important;
+}
+
+#quizBox.open{
+  bottom:0!important;
+  max-height:none!important;
+}
+
+#quizBox.open{
+  bottom:-60px!important;
+}
+
+/* === ANDROID TRUE FULL SCREEN / EDGE TO EDGE === */
+html,body{
+  width:100%!important;
+  height:100dvh!important;
+  min-height:100dvh!important;
+  max-height:100dvh!important;
+  margin:0!important;
+  padding:0!important;
+  overflow:hidden!important;
+}
+body{
+  position:fixed!important;
+  inset:0!important;
+}
+@supports(height:100svh){
+  html,body{height:100svh!important;min-height:100svh!important;max-height:100svh!important}
+}
+@media (display-mode:fullscreen){
+  html,body{height:100dvh!important;min-height:100dvh!important;max-height:100dvh!important}
+}
+
+
+/* ? button beside the X button */
+#quizBox.open ~ #img{} /* keep cascade stable */
+#quizBox.open + #img{}
+#quizToggle{
+  left:48px!important;
+  right:auto!important;
+  top:6px!important;
+}
+#quizClose{
+  left:7px!important;
+  top:6px!important;
+}
+
+
+/* ? position adjustment: 20px up, 10px right */
+#quizToggle{
+  top:-14px!important;
+  left:58px!important;
+  right:auto!important;
+}
+
+/* "Did you know?" pilot — Genesis 11 only */
+#didYouKnowBtn{
+  position:absolute;right:10px;bottom:42px;z-index:31;
+  display:none;padding:7px 13px!important;border-radius:18px!important;
+  background:linear-gradient(#fff4a8,#e2a51e)!important;color:#281800!important;
+  border:2px solid #fff1a0!important;box-shadow:0 3px 12px rgba(0,0,0,.65);
+  font-size:16px!important;font-weight:900!important;
+}
+#didYouKnowBtn.available{display:block;animation:didYouKnowPulse 1.1s ease-out 1}
+@keyframes didYouKnowPulse{0%,100%{transform:scale(1)}45%{transform:scale(1.09)}}
+#didYouKnowBox{
+  position:absolute;left:9px;right:9px;bottom:9px;z-index:32;
+  display:none;background:rgba(12,8,3,.96);color:#fff7d0;
+  border:2px solid #efb72e;border-radius:14px;padding:12px 44px 12px 14px;
+  text-align:right;direction:rtl;box-shadow:0 5px 22px rgba(0,0,0,.82);
+}
+#didYouKnowBox.open{display:block}
+#didYouKnowBox[dir="ltr"]{text-align:left!important;direction:ltr!important;padding:12px 14px 12px 44px}
+#didYouKnowBox[dir="ltr"] #didYouKnowTitle,
+#didYouKnowBox[dir="ltr"] #didYouKnowText{text-align:left!important;direction:ltr!important}
+#didYouKnowBox[dir="ltr"] #didYouKnowText{font-size:18px!important;line-height:1.34!important}
+#didYouKnowBox[dir="ltr"] #didYouKnowClose{left:7px!important;right:auto!important}
+#didYouKnowTitle{color:#ffd95e;font-size:19px;font-weight:900;margin-bottom:5px}
+#didYouKnowText{font-size:17px;font-weight:700;line-height:1.4}
+#didYouKnowClose{
+  position:absolute;right:7px;top:7px;width:30px;height:30px;min-width:30px;
+  padding:0!important;border-radius:50%!important;background:#8b1e1e!important;
+  color:#fff!important;border:2px solid #ffb0a8!important;font-size:20px!important;
+  line-height:25px!important;
+}
+.didYouKnowMarker{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:22px;height:22px;margin-right:7px;padding:0!important;
+  border-radius:50%!important;background:#f2b72a!important;color:#251600!important;
+  border:1px solid #fff0a0!important;font-size:13px!important;line-height:20px!important;
+  vertical-align:middle;box-shadow:0 1px 5px rgba(0,0,0,.5);cursor:pointer;
+}
+
+
+/* Embedded ReadAlong word-by-word karaoke */
+.verse .karaokeWord{display:inline;transition:background .08s,color .08s,box-shadow .08s;border-radius:5px;padding:0 1px}
+.verse .karaokeWord.karaokeActive{background:#ffe600;color:#111;box-shadow:0 0 0 2px rgba(255,230,0,.28)}
+.verse .karaokeWord.wordSelected,.verse .englishWord.wordSelected{background:#7dd3fc;color:#07111f;box-shadow:0 0 0 3px rgba(14,165,233,.45)}
+.verse .englishWord{cursor:pointer;border-radius:5px;padding:0 1px}
+
+
+.verseAudioBtn{
+  display:inline-flex;align-items:center;justify-content:center;
+  height:24px;min-width:28px;padding:0 5px;margin-inline-start:5px;
+  border:1px solid #777;border-radius:6px;background:#f4f4f4;
+  font-size:15px;line-height:1;cursor:pointer;vertical-align:middle;
+}
+.verseAudioBtn.playing{background:#ffd54f;border-color:#9a7600}
+
+
+#speedSel.miniSpeed{
+  width:48px!important;min-width:48px!important;max-width:48px!important;
+  height:30px!important;padding:1px 2px!important;margin:0 2px!important;
+  border-radius:6px!important;font-size:12px!important;
+}
+#wordTranslation{
+  display:none;align-items:center;justify-content:center;
+  min-height:30px;padding:2px 8px;border-radius:7px;
+  background:linear-gradient(#287b45,#12552c);color:#ffd85b;font-weight:900;font-size:16px;border:1px solid #d6a72a;
+  direction:ltr;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  max-width:260px;
+}
+#wordTranslation.show{display:inline-flex}
+
+
+#langBtn{width:40px!important;min-width:40px!important;padding:0!important;font-size:21px!important}
+
+.verse .englishWord{cursor:pointer;margin:0 2px}
+.englishWord{cursor:pointer;border-radius:5px;padding:0 1px}
+.englishWord.karaokeActive{background:#ffe600!important;color:#111!important}
+.englishWord.wordSelected{background:#7dd3fc!important;color:#07111f!important;box-shadow:0 0 0 3px rgba(14,165,233,.45)!important}
+
+#langBtn svg{display:block;width:30px;height:20px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+</style><style>
+/* Consolidated final overrides */
+#quizToggle{display:none!important}
+#quizBox{transform:translateY(-90px)!important}
+#quizBox.open{bottom:-63px!important}
+#quizClose{
+  position:absolute!important;
+  left:7px!important;
+  top:7px!important;
+  z-index:30!important;
+  background:linear-gradient(#ffe788,#d99a16)!important;
+  color:#241300!important;
+  border:2px solid #fff0a0!important;
+  opacity:.55!important;
+}
+#imageBox:has(#quizBox.open) #quizClose{
+  left:22px!important;
+  top:-74px!important;
+}
+#quizBox[dir="ltr"] #quizQuestion{direction:ltr!important;text-align:left!important}
+#quizBox[dir="ltr"] #quizAnswers{direction:ltr!important}
+#quizBox[dir="ltr"] #quizLevels{direction:ltr!important}
+#quizBox[dir="ltr"] #quizExplanation{direction:ltr!important;text-align:center!important}
+#quizQuestion{
+  font-size:17px!important;
+  line-height:1.18!important;
+  margin:3px 0!important;
+}
+#quizAnswers{
+  gap:8px!important;
+  margin:5px 0!important;
+}
+.quizAnswer{
+  font-size:17px!important;
+  line-height:1.1!important;
+  padding:5px 11px!important;
+  min-height:25px!important;
+}
+#quizExplanation{
+  font-size:17px!important;
+  line-height:1.18!important;
+  padding:4px 7px!important;
+  margin:3px 4px 1px!important;
+}
+#quizLevels{
+  gap:4px!important;
+  margin-bottom:3px!important;
+}
+#quizLevels button{
+  font-size:12px!important;
+  padding:3px 9px!important;
+  min-height:25px!important;
+}
+#quizMeta{
+  line-height:1.05!important;
+  margin-bottom:2px!important;
+}
+#quizBox[dir="ltr"] #quizQuestion{
+  font-size:19px!important;
+  line-height:1.18!important;
+}
+#quizBox[dir="ltr"] #quizExplanation{
+  font-size:18px!important;
+  line-height:1.18!important;
+}
+#quizBox[dir="ltr"] .quizAnswer{
+  font-size:18px!important;
+}
+#quizNext{transform:translateX(1px)!important}
+.ideaBesideVerse{font-size:clamp(21px,3.4vw,28px)!important}
+.didYouKnowMarker{width:29px!important;height:29px!important;min-width:29px!important;font-size:17px!important;line-height:27px!important;margin-right:8px!important}
+.ideaInline{font-size:1.25em!important;line-height:1.25!important}
+body.introMode #imageBox{background:#080502!important}
+body.introMode #img{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center center!important}
+#imageLoading{
+  position:absolute;
+  left:50%; top:50%;
+  transform:translate(-50%,-50%);
+  z-index:8;
+  display:none;
+  color:#ffe58a;
+  font-size:25px;
+  font-weight:900;
+  text-shadow:0 2px 5px #000;
+  pointer-events:none;
+}
+#bookMenu, #chapterMenu, .bookMenu, .chapterMenu{
+  max-height:none!important;
+  height:auto!important;
+  bottom:0!important;
+  overflow-y:auto!important;
+}
+#chapterMenu button,
+.chapterMenu button,
+.chapterBtn{
+  height:42px!important;
+  min-height:42px!important;
+  max-height:42px!important;
+  font-size:18px!important;
+  padding:0!important;
+  line-height:42px!important;
+}
+.bibleBooksIcon{
+  display:inline-block;
+  font-size:22px!important;
+  line-height:1!important;
+  filter:sepia(1) saturate(5) hue-rotate(355deg) brightness(1.15);
+}
+#chapterMenu,
+.chapterMenu{
+  box-sizing:border-box!important;
+}
+#chapterMenu .chaptersGrid,
+.chapterMenu .chaptersGrid,
+#chapterMenu .chapterGrid,
+.chapterMenu .chapterGrid{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  gap:4px!important;
+  width:100%!important;
+}
+#chapterMenu button:not(#backToBooks),
+.chapterMenu button:not(.backToBooks),
+.chapterBtn{
+  width:100%!important;
+  min-width:0!important;
+  max-width:none!important;
+  flex:none!important;
+  box-sizing:border-box!important;
+}
+#backToBooks,
+.backToBooks{
+  display:flex!important;
+  position:relative!important;
+  visibility:visible!important;
+  opacity:1!important;
+  width:100%!important;
+  min-width:100%!important;
+  max-width:100%!important;
+  height:38px!important;
+  min-height:38px!important;
+  margin:0 0 5px 0!important;
+  padding:0!important;
+  align-items:center!important;
+  justify-content:center!important;
+  box-sizing:border-box!important;
+  z-index:50!important;
+  font-size:0!important;
+}
+#backToBooks .bibleBooksIcon,
+.backToBooks .bibleBooksIcon{
+  display:inline-block!important;
+  visibility:visible!important;
+  opacity:1!important;
+  font-size:25px!important;
+  line-height:1!important;
+}
+#chapterMenu:has(> .chapterBtn),
+.chapterMenu:has(> .chapterBtn){
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  gap:4px!important;
+}
+#chapterMenu:has(> .chapterBtn) #backToBooks,
+.chapterMenu:has(> .chapterBtn) .backToBooks{
+  grid-column:1 / -1!important;
+}
+
+/* Final display adjustments */
+#chapterMenu.chapterMode.open{
+  grid-template-columns:repeat(8,minmax(0,1fr))!important;
+  grid-auto-rows:40px!important;
+  align-content:start!important;
+  row-gap:3px!important;
+  column-gap:3px!important;
+  padding:6px!important;
+  bottom:auto!important;
+  height:auto!important;
+  max-height:calc(100vh - 16px)!important;
+}
+#chapterMenu.chapterMode .chapterGold{
+  height:40px!important;
+  min-height:40px!important;
+  max-height:40px!important;
+  padding:0!important;
+  font-size:19px!important;
+  line-height:40px!important;
+}
+#chapterMenu.chapterMode #chapterBack{
+  height:40px!important;
+  min-height:40px!important;
+  max-height:40px!important;
+  line-height:40px!important;
+}
+/* The large Did-you-know button is hidden in both languages; verse bulbs remain. */
+#didYouKnowBtn,
+#didYouKnowBtn.available{display:none!important}
+/* Hebrew green overlay: slightly larger and 15px higher. */
+#hebrewLine{
+  bottom:57px!important;
+  font-size:20px!important;
+}
+/* English idea headings at the beginning of each idea: slightly smaller. */
+.ideaBesideVerse.englishIdeaHeading{
+  font-size:clamp(19px,3.05vw,25px)!important;
+  line-height:1.18!important;
+}
+/* Move only the English Did-you-know bulb 7px to the right. */
+.num.englishNum .didYouKnowMarker{transform:translateX(7px)!important}
+.didYouKnowMarker.didYouKnowMarkerClose{
+  background:linear-gradient(#ff7b70,#c51f1f)!important;
+  color:#fff!important;
+  border-color:#ffc2bc!important;
+  font-size:20px!important;
+  font-weight:900!important;
+  box-shadow:0 0 8px rgba(255,45,35,.8)!important;
+}
+/* Red audio-mute control. */
+#stopBtn{background:linear-gradient(#ff7568,#c92222)!important}
+#stopBtn .stopLabel{display:none!important}
+#stopBtn .stopIcon{font-size:25px!important;line-height:32px!important}
+#stopBtn.muted{outline:2px solid #fff0a0!important;box-shadow:0 0 9px #ff3b30!important}
+
+</style>
+
+<style>
+/* Larger English verse text */
+.verse.englishVerse{
+  font-size:clamp(23px,3.9vw,33px)!important;
+  line-height:1.10!important;
+}
+</style>
+
+<style>
+#wordTranslation.show{
+  font-size:clamp(18px,3.2vw,25px)!important;
+  font-weight:800!important;
+  direction:rtl!important;
+}
+</style>
+
+<style>
+#wordTranslation.show{
+  transform:none!important;
+  margin-bottom:0!important;
+}
+</style>
+
+<style>
+#stopBtn{display:none!important}
+</style>
+
+<style>
+.verseAudioBtn{
+  height:28px!important;
+  min-width:32px!important;
+  padding:0 6px!important;
+  font-size:18px!important;
+}
+</style>
+
+<style>
+body.lang-en #sequenceBtn,
+body.lang-en #speedSel{display:none!important}
+</style>
+
+<style>
+body.lang-he .card.active{
+  background:linear-gradient(135deg,rgba(170,105,0,.88),rgba(48,24,0,.96))!important;
+  border:3px solid #fff08a!important;
+  box-shadow:0 0 28px rgba(255,220,75,.75)!important;
+}
+body.lang-he .card.active .verse{
+  color:#fff7b5!important;
+  text-shadow:0 1px #fff,0 3px #9a5b00,0 0 13px rgba(255,232,95,.85)!important;
+}
+</style>
+<style>
+body.lang-en .verse.englishVerse{
+ display:block!important;visibility:visible!important;opacity:1!important;
+ color:#f4c84a!important;font-weight:800!important;
+ font-size:clamp(23px,3.9vw,33px)!important;line-height:1.18!important;
+ text-align:left!important;direction:ltr!important;margin:6px 0 8px!important;
+}
+body.lang-en .verseAudioBtn{
+ display:inline-flex!important;height:28px!important;min-width:32px!important;
+ padding:0 6px!important;font-size:18px!important;
+}
+</style>
+<style>
+body.lang-en .missingBSBVerse{
+ color:#ff7676!important;font-size:18px!important;font-weight:700!important;
+}
+body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
+ direction:ltr!important;text-align:left!important;
+}
+</style>
+
+<style>
+/* V5 FIX: English BSB verses must always render when .englishVerse exists.
+   Do not depend on body.lang-en (this app does not set that class). */
+.verse.englishVerse{
+ display:block!important;
+ visibility:visible!important;
+ opacity:1!important;
+ height:auto!important;
+ max-height:none!important;
+ overflow:visible!important;
+ color:#f4c84a!important;
+ font-family:"Segoe UI",Arial,Helvetica,sans-serif!important;
+ font-weight:800!important;
+ font-size:clamp(23px,3.9vw,33px)!important;
+ line-height:1.18!important;
+ text-align:left!important;
+ direction:ltr!important;
+ margin:7px 0 10px!important;
+}
+.missingBSBVerse{
+ display:inline!important;
+ visibility:visible!important;
+ opacity:1!important;
+ color:#ff6b6b!important;
+ font-size:20px!important;
+ font-weight:800!important;
+}
+</style>
+<style>
+.bsbVerseDirect{
+ display:block!important;visibility:visible!important;opacity:1!important;
+ height:auto!important;max-height:none!important;overflow:visible!important;
+ color:#f4c84a!important;font-family:"Segoe UI",Arial,Helvetica,sans-serif!important;
+ font-weight:800!important;font-size:clamp(23px,3.9vw,33px)!important;
+ line-height:1.18!important;text-align:left!important;direction:ltr!important;
+ margin:7px 0 10px!important;padding:0!important;
+}
+.bsbVerseDirect .englishWord{display:inline!important;color:inherit!important;}
+.bsbVerseDirect .missingBSBVerse{display:inline!important;color:#ff6b6b!important;}
+</style>
+
+<style id="accessLockStyles">
+.lockedChapter{opacity:.48!important;filter:grayscale(.25);position:relative}
+.lockedChapter::after{content:" 🔒";font-size:.72em}
+#accessLockOverlay{position:fixed;inset:0;background:rgba(0,0,0,.76);z-index:99999;display:none;align-items:center;justify-content:center;padding:20px}
+#accessLockOverlay.open{display:flex}
+#accessLockBox{width:min(560px,94vw);background:linear-gradient(145deg,#21170b,#120d07);color:#fff8e8;border:2px solid #d9aa39;border-radius:20px;padding:26px;text-align:center;box-shadow:0 18px 60px #000}
+#accessLockBox h2{margin:0 0 12px;color:#ffe17a}
+#accessLockBox p{font-size:18px;line-height:1.6;margin:9px 0}
+#accessLockBox a{display:inline-block;margin:12px 5px 0;padding:12px 18px;border-radius:12px;background:linear-gradient(#f1c951,#c98b12);color:#170e03;font-weight:800;text-decoration:none;direction:ltr}
+#accessLockBox button{margin:12px 5px 0;padding:11px 18px;border-radius:12px;border:1px solid #8a6b2b;background:#2b2113;color:#fff8e8;font-weight:700;cursor:pointer}
+</style>
+
+</head>
+<body class="introMode">
+<div id="accessLockOverlay" role="dialog" aria-modal="true" aria-labelledby="accessLockTitle">
+  <div id="accessLockBox">
+    <h2 id="accessLockTitle">המשך התנ״ך | Continue Reading</h2>
+    <p><b>חמשת חומשי התורה פתוחים במלואם.</b><br><span dir="ltr">The Five Books of Moses are fully available.</span></p>
+    <p>בספר יהושע פרק א׳ פתוח לדוגמה. לגישה לפרקים ולספרים נוספים אפשר ליצור קשר.<br>
+    <span dir="ltr">Joshua Chapter 1 is available as a preview. For access to additional chapters and books, please contact me.</span></p>
+    <a href="mailto:NAFTDAV@GMAIL.COM?subject=THE%20BIBLE%20-%20Access">NAFTDAV@GMAIL.COM</a>
+    <button type="button" onclick="closeAccessLock()">סגור | Close</button>
+  </div>
+</div>
+
+<header>
+  <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
+  <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
+  <div id="topControls" class="controls">
+    <div id="chapterMenuWrap">
+      <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
+      <div id="chapterMenu"></div>
+    </div>
+    <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
+      <option value="">פרק</option>
+    </select>
+    <button id="sequenceBtn" onclick="playSequence()">רצף</button>
+    <button id="ttsBtn" onclick="toggleTTS()" style="display:none!important">TTS</button>
+    <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
+    <span id="wordTranslation" title="Word translation"></span>
+    <button id="stopBtn" onclick="toggleAudioMute()" title="השתק/הפעל אודיו" aria-label="השתק או הפעל אודיו"><span class="iconWithLabel"><span class="stopIcon" aria-hidden="true">🔇</span></span></button>
+    <select id="speedSel" class="miniSpeed" onchange="setSpeed(this.value)" title="מהירות אודיו" aria-label="מהירות אודיו">
+      <option value="0.6">0.6×</option><option value="0.7">0.7×</option><option value="0.8">0.8×</option>
+      <option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option>
+    </select>
+  </div>
+  <div id="loadProgressWrap" class="hidden"><div id="loadProgressBar"></div><div id="loadProgressText">טוען...</div></div>
+  <div id="audioRow" class="controls"><audio id="audio" controls preload="metadata"></audio></div>
+</header>
+<main id="main"><div id="empty" style="padding:12px 0 0">
+    <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
+  </div><div id="cards"></div></main>
+<section id="imageSection">
+  <div id="imageBox">
+
+    <button id="quizClose" type="button" title="שאלות" aria-label="שאלות">?</button>
+    <div id="quizBox">
+      <div id="quizLevels">
+        <button id="quizEasy" type="button">קל</button><button id="quizNext" type="button">הבאה</button>
+        <button id="quizMedium" type="button">בינוני</button>
+        <button id="quizChallenge" type="button">אתגר</button>
+      </div>
+      <div id="quizMeta"></div>
+      <div id="quizQuestion"></div>
+      <div id="quizAnswers"></div><div id="quizExplanation"></div>
+      
+    </div>
+    <div id="imageLoading">Loading...</div>
+    <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
+    <button id="hebrewOnImage" onclick="toggleHebrewOverlay()">Hebrew</button>
+    <div id="hebrewLine"></div>
+    <div id="cap">תנ״ך</div>
+    <button id="didYouKnowBtn" type="button" aria-label="הידעת?">💡 הידעת?</button>
+    <div id="didYouKnowBox" role="dialog" aria-live="polite" aria-label="הידעת?">
+      <button id="didYouKnowClose" type="button" aria-label="סגור">✕</button>
+      <div id="didYouKnowTitle">💡 הידעת?</div>
+      <div id="didYouKnowText"></div>
+    </div>
+  </div>
+</section>
+<script>
+
+
+const googleTranslationCache=new Map();
+
+async function googleTranslateHebrewWordKeepOld(word){
+  const clean=plainHebrewTranslation(String(word||'')).trim();
+  if(!clean)return '';
+  const url='https://translate.googleapis.com/translate_a/single?client=gtx&sl=he&tl=en&dt=t&q='+encodeURIComponent(clean);
+  const r=await fetch(url);
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  const j=await r.json();
+  return (j?.[0]||[]).map(x=>x?.[0]||'').join('').trim();
+}
+
+async function googleTranslateWord(word){
+  const clean=String(word||'').replace(/^[^A-Za-z']+|[^A-Za-z']+$/g,'').trim();
+  if(!clean)return '—';
+  const ck=clean.toLowerCase();
+  if(googleTranslationCache.has(ck))return googleTranslationCache.get(ck);
+  const url='https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=he&dt=t&q='+encodeURIComponent(clean);
+  const r=await fetch(url);
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  const j=await r.json();
+  const tr=(j?.[0]||[]).map(x=>x?.[0]||'').join('').trim()||'—';
+  googleTranslationCache.set(ck,tr);
+  return tr;
+}
+
+// English Bible text is loaded from Drive chapter data.
+
+const sel=document.getElementById('sel'),cards=document.getElementById('cards'),audio=document.getElementById('audio'),statusEl=document.getElementById('status'),empty=document.getElementById('empty'),imageSection=document.getElementById('imageSection'),img=document.getElementById('img'),cap=document.getElementById('cap'),endpointInput=document.getElementById('endpoint'),langBtn=document.getElementById('langBtn'),speedSel=document.getElementById('speedSel'),hebrewOnImage=document.getElementById('hebrewOnImage'),hebrewLine=document.getElementById('hebrewLine'),chapterMenu=document.getElementById('chapterMenu'),chapterMenuBtn=document.getElementById('chapterMenuBtn'),chapterCounter=document.getElementById('chapterCounter'),bookTitle=document.getElementById('bookTitle'),ttsBtn=document.getElementById('ttsBtn'),loadProgressWrap=document.getElementById('loadProgressWrap'),loadProgressBar=document.getElementById('loadProgressBar'),loadProgressText=document.getElementById('loadProgressText');
+const BOOKS=[
+  {id:'genesis',name:'בראשית',chapters:50},{id:'exodus',name:'שמות',chapters:40},{id:'leviticus',name:'ויקרא',chapters:27},{id:'numbers',name:'במדבר',chapters:36},{id:'deuteronomy',name:'דברים',chapters:34},
+  {id:'joshua',name:'יהושע',chapters:24},{id:'judges',name:'שופטים',chapters:21},{id:'samuel1',name:'שמואל א',chapters:31},{id:'samuel2',name:'שמואל ב',chapters:24},{id:'kings1',name:'מלכים א',chapters:22},{id:'kings2',name:'מלכים ב',chapters:25},
+  {id:'isaiah',name:'ישעיהו',chapters:66},{id:'jeremiah',name:'ירמיהו',chapters:52},{id:'ezekiel',name:'יחזקאל',chapters:48},{id:'hosea',name:'הושע',chapters:14},{id:'joel',name:'יואל',chapters:3},{id:'amos',name:'עמוס',chapters:9},{id:'obadiah',name:'עובדיה',chapters:1},{id:'jonah',name:'יונה',chapters:4},{id:'micah',name:'מיכה',chapters:7},{id:'nahum',name:'נחום',chapters:3},{id:'habakkuk',name:'חבקוק',chapters:3},{id:'zephaniah',name:'צפניה',chapters:3},{id:'haggai',name:'חגי',chapters:2},{id:'zechariah',name:'זכריה',chapters:14},{id:'malachi',name:'מלאכי',chapters:4},
+  {id:'chronicles1',name:'דברי הימים א',chapters:29},{id:'chronicles2',name:'דברי הימים ב',chapters:36},{id:'psalms',name:'תהילים',chapters:150},{id:'job',name:'איוב',chapters:42},{id:'proverbs',name:'משלי',chapters:31},{id:'ruth',name:'רות',chapters:4},{id:'songofsongs',name:'שיר השירים',chapters:8},{id:'ecclesiastes',name:'קהלת',chapters:12},{id:'lamentations',name:'איכה',chapters:5},{id:'esther',name:'אסתר',chapters:10},{id:'daniel',name:'דניאל',chapters:12},{id:'ezra',name:'עזרא',chapters:10},{id:'nehemiah',name:'נחמיה',chapters:13}
+];
+
+function isFreeChapter(book,chapter){
+  if(!book) return false;
+  const freeBooks=['genesis','exodus','leviticus','numbers','deuteronomy'];
+  if(freeBooks.includes(book.id)) return true;
+  return book.id==='joshua' && Number(chapter)===1;
+}
+function openAccessLock(){
+  const el=document.getElementById('accessLockOverlay');
+  if(el) el.classList.add('open');
+}
+function closeAccessLock(){
+  const el=document.getElementById('accessLockOverlay');
+  if(el) el.classList.remove('open');
+}
+document.addEventListener('click',function(e){
+  if(e.target && e.target.id==='accessLockOverlay') closeAccessLock();
+});
+
+let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
+function renderBookMenu(){
+  chapterMenu.className='open bookMode';chapterMenu.innerHTML='';
+  BOOKS.forEach(book=>{const b=document.createElement('button');b.className='bookGold';b.textContent=book.name;b.onclick=(e)=>{e.stopPropagation();currentBook=book;renderChapterMenu(book)};chapterMenu.appendChild(b)});
+}
+function renderChapterMenu(book){
+  chapterMenu.className='open chapterMode';chapterMenu.innerHTML='';
+  const back=document.createElement('button');back.id='chapterBack';back.textContent='← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
+  for(let i=1;i<=book.chapters;i++){
+    const b=document.createElement('button');
+    const free=isFreeChapter(book,i);
+    b.className='chapterGold'+(free?'':' lockedChapter');
+    b.textContent=i;
+    b.dataset.chapter=i;
+    b.title=free?'':'לגישה לפרק זה – צור קשר';
+    b.onclick=(e)=>{
+      e.stopPropagation();
+      if(!free){openAccessLock();return;}
+      chapterMenu.classList.remove('open');
+      loadChapter(i,book);
+    };
+    chapterMenu.appendChild(b)
+  }
+}
+const GITHUB_RAW='https://raw.githubusercontent.com/naftali24/BIBLE/main';
+const GITHUB_API='https://api.github.com/repos/naftali24/BIBLE/contents';
+const FIXED_ENDPOINT='';
+const READALONG_ENDPOINT='';
+endpointInput.value='GitHub BIBLE';
+setTimeout(()=>{try{setLanguageFlag()}catch(e){}},0);
+let data=null,images={},verseCards=[],current=0,ideaNow=-1,language='he',lockedVerse=-1,stopAtTime=null,hebrewOverlay=false,ttsMode=false,ttsIndex=0,loadTimer=null,userAudioMuted=false;
+let sequenceMode=false, sequenceLastVerse=-1;
+
+// Trial content for one chapter. Verse numbers are one-based.
+const DID_YOU_KNOW={
+  'genesis:11':{
+    1:{he:'הביטוי „שפה אחת ודברים אחדים” מתאר לא רק שפה משותפת, אלא גם יכולת לפעול יחד כמערכת אחת.',en:'The phrase “one language and the same words” describes not only a shared language, but also the ability to act together as one system.'},
+    4:{he:'במקרא „שם” יכול להיות גם מוניטין וזיכרון. אנשי בבל רצו לבנות דבר גדול שבזכותו ייזכרו.',en:'In the Bible, a “name” can also mean reputation and remembrance. The people of Babel wanted to build something great by which they would be remembered.'},
+    6:{he:'הפסוק מדגיש את כוחה העצום של האחדות. השאלה היא לא רק אם אנשים משתפים פעולה — אלא לאיזו מטרה.',en:'The verse emphasizes the enormous power of unity. The question is not only whether people cooperate, but for what purpose.'},
+    9:{he:'המקרא מקשר בין „בבל” ל„בלל” — בלבול השפות. באכדית, שמה של בבל קשור דווקא ל„שער האל”.',en:'The Bible links Babel with the Hebrew verb balal, meaning to confuse. In Akkadian, however, Babylon’s name is associated with the “Gate of God.”'}
+  }
+};
+const didYouKnowBtn=document.getElementById('didYouKnowBtn');
+const didYouKnowBox=document.getElementById('didYouKnowBox');
+const didYouKnowTitle=document.getElementById('didYouKnowTitle');
+const didYouKnowText=document.getElementById('didYouKnowText');
+const didYouKnowClose=document.getElementById('didYouKnowClose');
+let activeDidYouKnow=null,activeDidYouKnowMarker=null;
+function didYouKnowForVerse(verseNumber){
+  const generated=(language==='en')
+    ? (Array.isArray(data?.did_you_know_en)?data.did_you_know_en:[])
+    : (Array.isArray(data?.did_you_know_he)?data.did_you_know_he:(Array.isArray(data?.did_you_know)?data.did_you_know:[]));
+  const generatedFact=generated.find(f=>Number(f?.verse||f?.verse_number)===Number(verseNumber));
+  if(generatedFact){
+    const generatedText=cleanText(language==='en'
+      ? (generatedFact.text_en||generatedFact.english||generatedFact.text||generatedFact.fact||generatedFact.explanation||'')
+      : (generatedFact.text_he||generatedFact.text||generatedFact.fact||generatedFact.explanation||''));
+    if(generatedText)return generatedText;
+  }
+  const key=((currentBook&&currentBook.id)||'')+':'+Number(current||0);
+  const fallback=DID_YOU_KNOW[key]?.[Number(verseNumber)];
+  if(!fallback)return null;
+  return typeof fallback==='string'?fallback:(language==='en'?(fallback.en||fallback.he):fallback.he);
+}
+function updateDidYouKnowAvailability(verseIndex){
+  activeDidYouKnow=didYouKnowForVerse(Number(verseIndex)+1);
+  // An open explanation is never replaced while the listener is reading it.
+  if(!didYouKnowBox.classList.contains('open')){
+    didYouKnowBtn.classList.toggle('available',Boolean(activeDidYouKnow));
+  }
+}
+function closeDidYouKnow(){
+  didYouKnowBox.classList.remove('open');
+  if(activeDidYouKnowMarker){
+    activeDidYouKnowMarker.textContent='💡';
+    activeDidYouKnowMarker.classList.remove('didYouKnowMarkerClose');
+    activeDidYouKnowMarker.setAttribute('aria-label',activeDidYouKnowMarker.dataset.openLabel||'הידעת?');
+  }
+  activeDidYouKnowMarker=null;
+  didYouKnowBtn.classList.toggle('available',Boolean(activeDidYouKnow));
+}
+function openDidYouKnow(text,marker=null){
+  if(!text)return;
+  if(marker && didYouKnowBox.classList.contains('open') && activeDidYouKnowMarker===marker){
+    closeDidYouKnow();
+    return;
+  }
+  if(activeDidYouKnowMarker && activeDidYouKnowMarker!==marker){
+    activeDidYouKnowMarker.textContent='💡';
+    activeDidYouKnowMarker.classList.remove('didYouKnowMarkerClose');
+  }
+  didYouKnowBox.setAttribute('dir',language==='en'?'ltr':'rtl');
+  didYouKnowTitle.textContent=language==='en'?'💡 Did you know?':'💡 הידעת?';
+  didYouKnowText.textContent=text;
+  didYouKnowBox.classList.add('open');
+  didYouKnowBtn.classList.remove('available');
+  activeDidYouKnowMarker=marker;
+  if(marker){
+    marker.dataset.openLabel=marker.getAttribute('aria-label')||'הידעת?';
+    marker.textContent='✕';
+    marker.classList.add('didYouKnowMarkerClose');
+    marker.setAttribute('aria-label',language==='en'?'Close Did you know':'סגור הידעת');
+  }
+}
+didYouKnowBtn.addEventListener('click',(event)=>{
+  event.stopPropagation();
+  openDidYouKnow(activeDidYouKnow);
+});
+didYouKnowClose.addEventListener('click',(event)=>{event.stopPropagation();closeDidYouKnow()});
+didYouKnowBox.addEventListener('click',(event)=>event.stopPropagation());
+const quizBox=document.getElementById('quizBox'),
+quizMeta=document.getElementById('quizMeta'),quizQuestion=document.getElementById('quizQuestion'),
+quizAnswers=document.getElementById('quizAnswers'),quizNext=document.getElementById('quizNext'),
+quizClose=document.getElementById('quizClose'),quizEasy=document.getElementById('quizEasy'),
+quizMedium=document.getElementById('quizMedium'),quizChallenge=document.getElementById('quizChallenge');
+let quizOpen=false,quizIdea=-1,quizIndex=0,quizLevel='easy';
+
+function updateQuizLanguageLabels(){
+  if(language==='en'){
+    quizEasy.textContent='Easy';
+    quizMedium.textContent='Medium';
+    quizChallenge.textContent='Challenge';
+    quizNext.textContent='Next';
+  }else{
+    quizEasy.textContent='קל';
+    quizMedium.textContent='בינוני';
+    quizChallenge.textContent='אתגר';
+    quizNext.textContent='הבאה';
+  }
+  if(typeof updateQuizMainButton==='function') updateQuizMainButton();
+}
+
+let questionsHe=null,questionsEn=null;
+
+function audioOffset(){
+  const x=Number(data?.audio_start_offset||0);
+  return (Number.isFinite(x)&&x>=0&&x<=25)?x:0;
+}
+function englishTimingStart(i){
+  const x=(Array.isArray(data?.times_en)?data.times_en:[])[i];
+  if(x && typeof x==='object') return Number(x.start);
+  return Number(x);
+}
+function englishTimingEnd(i){
+  const x=(Array.isArray(data?.times_en)?data.times_en:[])[i];
+  if(x && typeof x==='object' && Number.isFinite(Number(x.end))) return Number(x.end);
+  const ends=Array.isArray(data?.times_en_end)?data.times_en_end:[];
+  if(Number.isFinite(Number(ends[i]))) return Number(ends[i]);
+  return englishTimingStart(i+1);
+}
+function activeTimes(){
+  if(language==='en'){
+    const a=Array.isArray(data?.times_en)?data.times_en:[];
+    if(a.length) return a.map((_,i)=>englishTimingStart(i));
+  }
+  return data?.times||data?.times_he||[];
+}
+function activeAudioOffset(){
+  return language==='en' ? 0 : audioOffset();
+}
+// KJV audio and times_en come from the same YouVersion source, so no manual English shift is needed.
+const ENGLISH_START_CORRECTION=0;
+function sourceTime(t){
+  const base=activeAudioOffset()+Number(t||0);
+  return Math.max(0,base);
+}
+function chapterTimeFromAudio(){
+  return Math.max(0,audio.currentTime-activeAudioOffset());
+}
+
+// Seek only after the MP3 is ready. Some Android/Chrome versions ignore
+// currentTime assigned immediately after audio.load().
+function seekAndPlayAbsolute(seconds){
+  const target=Math.max(0,Number(seconds)||0);
+  const doPlay=()=>{
+    // Stop the old position before seeking, so no audio can leak from before
+    // the requested English timestamp while the browser completes the seek.
+    audio.pause();
+    try{ audio.currentTime=target; }catch(e){}
+    const p=audio.play();
+    if(p&&p.catch)p.catch(()=>{});
+    // Re-apply the seek after play starts; this prevents a reset to 00:00.
+    setTimeout(()=>{
+      // Correct even a very small early seek; normal forward playback is untouched.
+      if(!audio.paused && audio.currentTime<target-0.08){
+        try{audio.currentTime=target}catch(e){}
+      }
+    },120);
+  };
+  if(audio.readyState>=1) doPlay();
+  else audio.addEventListener('loadedmetadata',doPlay,{once:true});
+}
+
+function saveEndpoint(){const u=FIXED_ENDPOINT;if(!u){alert('הדבק את כתובת ה-Web App');return}localStorage.setItem('devarim_endpoint',FIXED_ENDPOINT);document.getElementById('setup').classList.add('hidden');alert('נשמר. עכשיו בחר פרק.')}
+if(endpointInput.value)document.getElementById('setup').classList.add('hidden');
+async function jsonp(url){
+  const r=await fetch(url,{method:'GET',cache:'no-store'});
+  if(!r.ok) throw new Error('Google Apps Script HTTP '+r.status);
+  return await r.json();
+}
+function startLoadProgress(book,n){clearInterval(loadTimer);let p=4;loadProgressWrap.classList.remove('hidden');loadProgressBar.style.width=p+'%';loadProgressText.textContent='טוען '+book.name+' '+n+'... '+p+'%';loadTimer=setInterval(()=>{p=Math.min(88,p+Math.max(1,Math.round((90-p)/10)));loadProgressBar.style.width=p+'%';loadProgressText.textContent='טוען '+book.name+' '+n+'... '+p+'%'},250)}
+function finishLoadProgress(ok=true){clearInterval(loadTimer);loadProgressBar.style.width=(ok?100:0)+'%';loadProgressText.textContent=ok?'הטעינה הושלמה':'שגיאה בטעינה';if(ok)setTimeout(()=>loadProgressWrap.classList.add('hidden'),ok?650:1400)}
+
+async function loadQuestionsForChapter(bookId, chapterNum, lang='he'){
+  try{
+    const book=BOOKS.find(b=>b.id===bookId)||currentBook;
+    const file=lang==='en'?'questions_en.json':'questions.json';
+    return await githubJSON(githubChapterBase(book,chapterNum)+'/'+file,true);
+  }catch(e){ console.warn('GitHub questions '+lang,e); return null; }
+}
+
+function questionsAreComplete(qdata){
+  if(!qdata || !Array.isArray(qdata.paragraphs) || !qdata.paragraphs.length) return false;
+  return qdata.paragraphs.every(p =>
+    Array.isArray(p.easy) && p.easy.length===3 &&
+    Array.isArray(p.medium) && p.medium.length===3 &&
+    Array.isArray(p.challenge) && p.challenge.length===3
+  );
+}
+
+// If a newly created/existing chapter has no complete questions yet,
+// build them automatically in the background, then load them.
+async function ensureQuestionsForChapter(bookId, chapterNum, qdata){ return qdata||null; }
+
+// === GitHub BIBLE direct data source ===
+function githubChapterBase(book,chapter){
+  return GITHUB_RAW+'/'+encodeURIComponent(book.name)+'/chapter_'+String(chapter).padStart(3,'0');
+}
+function githubApiImages(book,chapter){
+  return GITHUB_API+'/'+encodeURIComponent(book.name)+'/chapter_'+String(chapter).padStart(3,'0')+'/images?ref=main';
+}
+async function githubJSON(url,optional=false){
+  const r=await fetch(url,{cache:'no-store'});
+  if(!r.ok){ if(optional) return null; throw new Error('GitHub HTTP '+r.status+' — '+url); }
+  return await r.json();
+}
+async function githubText(url,optional=false){
+  const r=await fetch(url,{cache:'no-store'});
+  if(!r.ok){ if(optional) return ''; throw new Error('GitHub HTTP '+r.status+' — '+url); }
+  return (await r.text()).trim();
+}
+
+// === Hebrew ReadAlong ===
+// Word data (Hebrew, timings and translations) comes from readalong_words.json in Google Drive.
+// Only the Hebrew MP3 streams directly from Firebase. No ReadAlong word database is embedded in this HTML.
+/* TEMPORARY HEBREW SOURCE:
+   Hebrew text/audio/timings currently still use Tanakh Read Along.
+   Keep isolated here until replaced by a source with verified redistribution rights.
+   Do not package/cache/re-publish its MP3/JSON as app assets. */
+const READALONG_STORAGE='https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/';
+const READALONG_PREFIX={
+ genesis:'01',exodus:'02',leviticus:'03',numbers:'04',deuteronomy:'05',joshua:'06',judges:'07',
+ samuel1:'08a',samuel2:'08b',kings1:'09a',kings2:'09b',isaiah:'10',jeremiah:'11',ezekiel:'12',hosea:'13',joel:'14',amos:'15',obadiah:'16',jonah:'17',micah:'18',nahum:'19',habakkuk:'20',zephaniah:'21',haggai:'22',zechariah:'23',malachi:'24',
+ chronicles1:'25a',chronicles2:'25b',psalms:'26',job:'27',proverbs:'28',ruth:'29',songofsongs:'30',ecclesiastes:'31',lamentations:'32',esther:'33',daniel:'34',ezra:'35a',nehemiah:'35b'
+};
+function readAlongAudioCode(book,chapter){
+  const prefix=READALONG_PREFIX[book.id];
+  if(!prefix) return '';
+  return 't'+prefix+String(chapter).padStart(2,'0');
+}
+// Verified working form used by the earlier Genesis/Exodus version: JSON and MP3 are root Storage objects.
+function readAlongURL(code,ext){return READALONG_STORAGE+encodeURIComponent(code+'.'+ext)+'?alt=media'}
+async function applyReadAlongHebrew(book,chapter,ra=null){
+  try{
+    const base=githubChapterBase(book,chapter);
+    if(!ra) ra=await githubJSON(base+'/readalong_words.json',true);
+    if(!ra) return false;
+    const words=Array.isArray(ra.words)?ra.words:[];
+    if(!words.length) return false;
+
+    const verses=[],times=[],wordVerses=[];
+    let textBuf=[],wordBuf=[],verseStart=null;
+    for(const w of words){
+      const h=String(w?.hebrew ?? w?.h ?? '').trim();
+      if(!h) continue;
+      const pos=Number(w?.position);
+      if(pos===0 && textBuf.length){
+        verses.push(textBuf.join(' ')); times.push(verseStart??0); wordVerses.push(wordBuf);
+        textBuf=[];wordBuf=[];verseStart=null;
+      }
+      const st=Number(w?.start ?? w?.s), en=Number(w?.end ?? w?.e);
+      if(verseStart===null && Number.isFinite(st)) verseStart=st;
+      textBuf.push(h);
+      wordBuf.push({h,s:Number.isFinite(st)?st:0,e:Number.isFinite(en)?en:(Number.isFinite(st)?st:0),tr:''});
+      if(h.includes('׃')){
+        verses.push(textBuf.join(' ')); times.push(verseStart??0); wordVerses.push(wordBuf);
+        textBuf=[];wordBuf=[];verseStart=null;
+      }
+    }
+    if(textBuf.length){verses.push(textBuf.join(' '));times.push(verseStart??0);wordVerses.push(wordBuf)}
+    if(!verses.length) return false;
+
+    // Preserve Hebrew verses already stored in chapter.json; ReadAlong supplies timing/karaoke.
+    if(!Array.isArray(data.verses)||!data.verses.length) data.verses=verses;
+    if(!Array.isArray(data.hebrew)||!data.hebrew.length) data.hebrew=data.verses;
+    data.times=times; data.times_he=times; data.readalong_word_verses=wordVerses;
+
+    const sideAudio=await githubText(base+'/audio_url.txt',true);
+    const code=String(ra.audio_code||readAlongAudioCode(book,chapter)||'').trim();
+    data.audio_code=code; data.audio_start_offset=0;
+    data.audio_he_url=sideAudio || (code?readAlongURL(code,'mp3'):'');
+    data.audio_url=data.audio_he_url;
+    console.log('GitHub ReadAlong loaded:',book.name,chapter,verses.length,'verses');
+    return true;
+  }catch(e){
+    console.warn('GitHub ReadAlong unavailable',e);
+    return false;
+  }
+}
+
+function cleanHebrewVerseEnd(s){
+  return String(s||'')
+    .replace(/(?:&nbsp;|\s)*(?:\{?\s*פ\s*\}?|[:׃]\s*פ)(?:&nbsp;|\s)*$/u,'')
+    .trim();
+}
+
+function plainHebrewTranslation(s){
+  return String(s||'')
+    .normalize('NFD')
+    .replace(/[\u0591-\u05BD\u05BF-\u05C7]/g,'')
+    .replace(/\u05BE/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+
+
+async function loadChapter(n,book=currentBook){
+  if(!n)return;
+  if(!isFreeChapter(book,n)){openAccessLock();return;}
+  closeDidYouKnow();activeDidYouKnow=null;didYouKnowBtn.classList.remove('available');
+  quizOpen=false;quizBox.classList.remove('open');updateQuizMainButton();
+  startChapterLoadTicker();currentBook=book||currentBook;
+  stopTTS();stopAudio();startLoadProgress(currentBook,n);
+  statusEl.textContent='טוען '+currentBook.name+' '+n+' מ-GitHub...';
+  const requestedBook=currentBook;
+  const base=githubChapterBase(requestedBook,n);
+  try{
+    setImageLoading(true); images={};current=n;sel.value=n;
+
+    // All static chapter files load directly from GitHub, in parallel.
+    const [chapterRes,readalongRes,qHeRes,qEnRes,dykHeRes,dykEnRes]=await Promise.all([
+      githubJSON(base+'/chapter.json'),
+      githubJSON(base+'/readalong_words.json',true),
+      githubJSON(base+'/questions.json',true),
+      githubJSON(base+'/questions_en.json',true),
+      githubJSON(base+'/did_you_know.json',true),
+      githubJSON(base+'/did_you_know_en.json',true)
+    ]);
+    data=chapterRes||{}; current=n;sel.value=n;
+    questionsHe=qHeRes||null;questionsEn=qEnRes||null;
+
+    // Keep BOTH Did-you-know languages; choose the correct one dynamically.
+    const unpackDyk=(x)=>{
+      if(!x)return [];
+      if(Array.isArray(x))return x;
+      if(Array.isArray(x.did_you_know))return x.did_you_know;
+      if(Array.isArray(x.facts))return x.facts;
+      return [];
+    };
+    data.did_you_know_he=unpackDyk(dykHeRes);
+    data.did_you_know_en=unpackDyk(dykEnRes);
+    data.did_you_know=(language==='en'?data.did_you_know_en:data.did_you_know_he);
+
+    // Hebrew karaoke/timing comes from the GitHub readalong file.
+    await applyReadAlongHebrew(requestedBook,n,readalongRes);
+
+    // KJV English text, audio and verse timings are stored in chapter.json.
+    // Keep audio_en_url exactly as generated by the KJV updater.
+
+    lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;
+    data.questions=language==='en'?questionsEn:questionsHe;
+    data.questionsData=data.questions;
+
+    // Start image directory lookup immediately; render text without waiting for it.
+    const imagePromise=loadImagesInBackground(base,n,requestedBook);
+    render();
+
+    bookTitle.textContent='ספר '+requestedBook.name;
+    chapterCounter.textContent=n+'/'+requestedBook.chapters;
+    chapterMenuBtn.innerHTML='<span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span>';
+    markChapterMenu(n);
+    document.body.classList.remove('introMode');
+    imageSection.classList.remove('hidden');
+    finishLoadProgress(true);
+    statusEl.textContent=requestedBook.name+' '+n+' • GitHub';
+    await imagePromise;
+  }catch(e){
+    console.error(e);statusEl.textContent='שגיאה';finishLoadProgress(false);
+    alert('שגיאה בטעינת '+requestedBook.name+' '+n+' מ-GitHub:\n'+e.message);
+  }
+}
+function setImageLoading(on){
+  const el=document.getElementById('imageLoading');
+  if(el) el.style.display=on?'block':'none';
+}
+img.addEventListener('load',()=>setImageLoading(false));
+img.addEventListener('error',()=>setImageLoading(false));
+
+async function loadImagesInBackground(base,n,book){
+  try{
+    const list=await githubJSON(githubApiImages(book,n),true);
+    if(!Array.isArray(list)||current!==n||currentBook.id!==book.id){setImageLoading(false);return}
+    images={};
+    for(const f of list){
+      if(f?.type==='file' && /\.(jpe?g|png|webp|avif)$/i.test(f.name||'')) images[f.name]=f.download_url;
+    }
+    if(Object.keys(images).length){
+      ideaNow=-1;imageSection.classList.remove('hidden');
+      setActive(lockedVerse>=0?lockedVerse:0,false);
+    }else setImageLoading(false);
+  }catch(e){console.warn('GitHub images error',e);setImageLoading(false)}
+}
+function arrField(...names){for(const n of names){if(Array.isArray(data?.[n])&&data[n].length)return data[n]}return[]}
+
+
+const IDEA_COLORS=['#ff4b4b','#38bdf8','#4ade80','#f59e0b','#c084fc','#fb7185','#2dd4bf','#facc15','#60a5fa','#f97316','#a3e635','#e879f9'];
+function ideaColorForVerse(v){
+  const ix=ideaForVerse(v);
+  return IDEA_COLORS[(ix<0?0:ix)%IDEA_COLORS.length];
+}
+
+function ideaTitleForVerse(v){
+  const ix=ideaForVerse(v);
+  const idea=(data?.ideas||[])[ix];
+  return displayIdeaTitle(idea);
+}
+function displayIdeaTitle(idea){
+  if(!idea)return '';
+  if(language!=='en')return cleanText(idea.title||idea.idea||idea.name||'');
+  const explicit=idea.title_en||idea.english_title||idea.titleEnglish||idea.idea_en||idea.name_en||idea.summary_en||idea.english_summary;
+  if(explicit)return cleanText(explicit);
+  const prompt=cleanText(idea.image_prompt||idea.imagePrompt||'');
+  if(prompt){const first=prompt.split(/[,.!?;]/)[0].trim();if(first)return first;}
+  return cleanText(idea.title||idea.idea||idea.name||'');
+}
+function normalizeQuestion(q){
+  if(!q) return null;
+  const text=cleanText(q.question||q.q||q.text||'');
+  let answers=q.answers||q.options||q.choices||[];
+  if(!Array.isArray(answers) && answers && typeof answers==='object') answers=Object.values(answers);
+  answers=(answers||[]).map(x=>typeof x==='string'?x:(x?.text||x?.answer||'')).filter(Boolean);
+  let correct=q.correct;
+  if(correct===undefined) correct=q.correct_index;
+  if(correct===undefined) correct=q.answer;
+  if(typeof correct==='string'){
+    const n=answers.findIndex(a=>cleanText(a)===cleanText(correct));
+    correct=n>=0?n:Number(correct);
+  }
+  correct=Number(correct);
+  if(Number.isFinite(correct) && correct>=1 && correct<=answers.length && !answers[correct]) correct-=1;
+  if(!Number.isFinite(correct) || correct<0 || correct>=answers.length) correct=0;
+  const explanation=cleanText(q.explanation||q.explain||q.reason||'');
+  return text&&answers.length?{question:text,answers,correct,explanation}:null;
+}
+function questionsForIdea(ix,level=quizLevel){
+  const idea=(data?.ideas||[])[ix]||{};
+  const sv=Number(idea.start_verse??idea.startVerse??0);
+  const ev=Number(idea.end_verse??idea.endVerse??sv);
+
+  function matchedParagraph(root){
+    if(!root || !Array.isArray(root.paragraphs)) return null;
+    let p=root.paragraphs.find(x=>{
+      const a=Number(x.start_verse??x.startVerse??0);
+      const b=Number(x.end_verse??x.endVerse??a);
+      return sv>0 && a>0 && sv>=a && sv<=b;
+    });
+    if(!p) p=root.paragraphs.find(x=>{
+      const a=Number(x.start_verse??x.startVerse??0);
+      const b=Number(x.end_verse??x.endVerse??a);
+      return sv>0 && ev>0 && a>0 && b>0 && Math.max(sv,a)<=Math.min(ev,b);
+    });
+    return p;
+  }
+
+  let p=matchedParagraph(data?.questions)||matchedParagraph(data?.questionsData);
+  let q=[];
+
+  if(p){
+    if(level==='easy') q=p.easy||[];
+    else if(level==='medium') q=p.medium||[];
+    else q=p.challenge||p.questions||[];
+  }
+
+  // Old files: challenge remains compatible with the old "questions" array.
+  if(!q.length && level==='challenge') q=idea.challenge||idea.questions||idea.quiz||[];
+  if(!q.length && level==='medium') q=idea.medium||[];
+  if(!q.length && level==='easy') q=idea.easy||[];
+
+  return (Array.isArray(q)?q:[]).map(normalizeQuestion).filter(Boolean);
+}
+
+function shuffledQuestion(q){
+  const items=(q.answers||[]).map((text,i)=>({text,correct:i===q.correct}));
+  for(let i=items.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [items[i],items[j]]=[items[j],items[i]];
+  }
+  return {
+    ...q,
+    answers:items.map(x=>x.text),
+    correct:items.findIndex(x=>x.correct)
+  };
+}
+
+function renderQuiz(){
+  updateQuizLanguageLabels();
+  if(!quizOpen || quizIdea<0){quizBox.classList.remove('open');return}
+
+  quizEasy.classList.toggle('active',quizLevel==='easy');
+  quizMedium.classList.toggle('active',quizLevel==='medium');
+  quizChallenge.classList.toggle('active',quizLevel==='challenge');
+
+  const qs=questionsForIdea(quizIdea,quizLevel);
+  if(!qs.length){
+    quizMeta.textContent=quizLevel==='easy'?'רמה קלה':(quizLevel==='medium'?'רמה בינונית':'רמת אתגר');
+    quizQuestion.textContent=language==='en'
+      ? 'English questions file was not returned by the server'
+      : 'אין שאלות ברמה זו לנושא זה';
+    quizAnswers.innerHTML='';
+    quizExplanation.textContent='';
+    quizExplanation.style.display='none';
+    quizNext.style.display='none';
+    quizBox.classList.add('open');
+    return;
+  }
+
+  quizIndex=Math.max(0,Math.min(quizIndex,qs.length-1));
+  const q=shuffledQuestion(qs[quizIndex]);
+  quizMeta.textContent=language==='en'
+    ? ((quizLevel==='easy'?'Easy':(quizLevel==='medium'?'Medium':'Challenge'))+' • Question '+(quizIndex+1)+' of '+qs.length)
+    : ((quizLevel==='easy'?'קל':(quizLevel==='medium'?'בינוני':'אתגר'))+' • שאלה '+(quizIndex+1)+' מתוך '+qs.length);
+  quizQuestion.textContent=q.question;
+  quizBox.dir=language==='en'?'ltr':'rtl';
+  quizQuestion.style.textAlign=language==='en'?'left':'right';
+  quizAnswers.innerHTML='';
+  quizExplanation.textContent='';
+  quizExplanation.style.display='none';
+
+  q.answers.forEach((answer,j)=>{
+    const btn=document.createElement('button');
+    btn.className='quizAnswer';
+    btn.textContent=answer;
+    btn.onclick=(ev)=>{
+      ev.stopPropagation();
+      [...quizAnswers.children].forEach(x=>x.disabled=true);
+      if(j===q.correct) btn.classList.add('correct');
+      else{
+        btn.classList.add('wrong');
+        quizAnswers.children[q.correct]?.classList.add('correct');
+      }
+      if(q.explanation){
+        quizExplanation.textContent=q.explanation;
+        quizExplanation.style.display='block';
+      }else{
+        quizExplanation.textContent='';
+        quizExplanation.style.display='none';
+      }
+      quizNext.style.display=quizIndex<qs.length-1?'inline-block':'none';
+    };
+    quizAnswers.appendChild(btn);
+  });
+
+  quizNext.style.display='none';
+  quizBox.classList.add('open');
+}
+
+function updateQuizMainButton(){
+  quizClose.textContent=quizOpen?'×':'?';
+  quizClose.title=quizOpen?(language==='en'?'Exit':'יציאה'):(language==='en'?'Questions':'שאלות');
+  quizClose.setAttribute('aria-label',quizClose.title);
+}
+quizClose.onclick=(e)=>{
+  e.stopPropagation();
+  if(quizOpen){
+    quizOpen=false;
+    quizBox.classList.remove('open');
+  }else{
+    quizOpen=true;quizIdea=ideaNow;quizIndex=0;quizLevel='easy';
+    renderQuiz();
+  }
+  updateQuizMainButton();
+};
+quizEasy.onclick=(e)=>{
+  e.stopPropagation();
+  quizLevel='easy';quizIndex=0;renderQuiz();
+};
+quizMedium.onclick=(e)=>{
+  e.stopPropagation();
+  quizLevel='medium';quizIndex=0;renderQuiz();
+};
+quizChallenge.onclick=(e)=>{
+  e.stopPropagation();
+  quizLevel='challenge';quizIndex=0;renderQuiz();
+};
+quizNext.onclick=(e)=>{
+  e.stopPropagation();
+  quizIndex++;
+  renderQuiz();
+};
+quizBox.onclick=(e)=>e.stopPropagation();
+
+function syncDidYouKnowLanguage(){
+  if(!data)return;
+  data.did_you_know=(language==='en'?(data.did_you_know_en||[]):(data.did_you_know_he||data.did_you_know||[]));
+  if(didYouKnowTitle) didYouKnowTitle.textContent=language==='en'?'💡 Did you know?':'💡 הידעת?';
+  if(didYouKnowBox?.classList.contains('open')){
+    activeDidYouKnow=didYouKnowForVerse((lockedVerse>=0?lockedVerse:0)+1);
+    if(didYouKnowText) didYouKnowText.textContent=activeDidYouKnow||'';
+  }
+}
+function setLanguageFlag(){
+  syncDidYouKnowLanguage();
+  if(!langBtn)return;
+  const uk='<svg viewBox="0 0 60 36" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="36" fill="#174a8b"/><path d="M0 0L60 36M60 0L0 36" stroke="#fff" stroke-width="8"/><path d="M0 0L60 36M60 0L0 36" stroke="#c8102e" stroke-width="4"/><path d="M30 0V36M0 18H60" stroke="#fff" stroke-width="12"/><path d="M30 0V36M0 18H60" stroke="#c8102e" stroke-width="7"/></svg>';
+  const il='<svg viewBox="0 0 60 36" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="36" fill="white"/><rect y="5" width="60" height="4" fill="#0038b8"/><rect y="27" width="60" height="4" fill="#0038b8"/><path d="M30 10l7 12H23z M30 26l-7-12h14z" fill="none" stroke="#0038b8" stroke-width="1.8"/></svg>';
+  langBtn.innerHTML=language==='he'?uk:il;
+  langBtn.title=language==='he'?'English':'עברית';
+  langBtn.setAttribute('aria-label',langBtn.title);
+}
+function render(){
+  document.body.classList.toggle('lang-en',language==='en');
+  document.body.classList.toggle('lang-he',language==='he');
+  stopChapterLoadTicker();
+  
+  cards.innerHTML='';verseCards=[];ideaNow=-1;empty.classList.add('hidden');
+  const wantedAudio = language==='en'
+    ? (data.audio_en_url||data.english_audio_url||'')
+    : (data.audio_he_url||data.audio_url||data.hebrew_audio_url||'');
+  if(audio.src!==wantedAudio){
+    audio.src=wantedAudio;
+  }
+  audio.load();audio.playbackRate=Number(speedSel.value||1);
+  const he=arrField('verses','hebrew','hebrew_verses').map(v=>cleanBibleDisplayText(stripHebrewTrope(v)));
+  const en=arrField('english','english_verses','kjv','en','verses_en').map(v=>cleanText(v));
+  const stein=arrField('steinsaltz','steinsaltz_he','steinsaltz_perush','perush_steinsaltz');
+  const ai=arrField('ai_explanation','ai_explanations','steinsaltz_ai','perush_ai','explanation');
+  const aiEn=arrField('ai_explanation_en','ai_explanations_en','english_ai_explanation');
+  const legacy=arrField('perush');
+  const shown=(language==='en'&&en.length)?en:he;
+  shown.forEach((t,i)=>{
+    const c=document.createElement('div');c.className='card';
+    const label='';
+    const ideaColor=ideaColorForVerse(i+1);
+    c.style.borderColor=ideaColor;
+    c.style.boxShadow='inset 0 0 0 1px '+ideaColor+'55';
+    const ideaIx=ideaForVerse(i+1);
+    const ideaObj=(data?.ideas||[])[ideaIx]||{};
+    const ideaStart=Number(ideaObj.start_verse||ideaObj.startVerse||0);
+    const ideaTitle=displayIdeaTitle(ideaObj);
+    const ideaHead=(ideaTitle && (i+1)===ideaStart)
+      ? '<div class="ideaBesideVerse '+(language==='en'?'englishIdeaHeading':'')+'" style="color:'+ideaColor+'">'+esc(ideaTitle)+'</div>'
+      : '';
+    const ideaInline=ideaTitle
+      ? '<span class="ideaInline" style="color:'+ideaColor+'"> '+esc(ideaTitle)+'</span>'
+      : '';
+    const didYouKnowTextForVerse=didYouKnowForVerse(i+1);
+    const didYouKnowMarker=didYouKnowTextForVerse
+      ? '<button class="didYouKnowMarker" type="button" title="'+(language==='en'?'Did you know?':'הידעת?')+'" aria-label="'+(language==='en'?'Did you know? verse ':'הידעת בפסוק ')+(i+1)+'">💡</button>'
+      : '';
+    const wordRows=(language==='he')
+      ? ((Array.isArray(data?.readalong_word_verses))?(data.readalong_word_verses[i]||[]):null)
+      : null;
+    let verseHTML='';
+    if(language==='he' && wordRows&&wordRows.length){
+      verseHTML=wordRows.map((w,wi)=>'<span class="karaokeWord" data-s="'+Number(w.s)+'" data-e="'+Number(w.e)+'" data-wi="'+wi+'" data-tr="'+esc(w.tr||w.shortTranslation||'')+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(w.h||'')))+'</span>').join(' ');
+    }else if(language==='en'){
+      // KJV verse text: render the actual English verse here.
+      const englishVerseText=String(t||'').trim();
+      if(englishVerseText){
+        const words=englishVerseText.split(/(\s+)/);
+        verseHTML=words.map(part=>{
+          if(/^\s+$/.test(part)) return part;
+          return '<span class="englishWord" data-word="'+esc(part)+'">'+esc(part)+'</span>';
+        }).join('');
+      }else{
+        verseHTML='<span class="missingBSBVerse">[KJV verse text missing]</span>';
+      }
+    }else{
+      verseHTML=esc(t||he[i]||'');
+    }
+    const hasEnglishAudio=(language==='en' && data?.audio_en_url && Array.isArray(data?.times_en) && Number.isFinite(englishTimingStart(i)));
+    const verseAudioBtn=((language==='he' && wordRows&&wordRows.length) || hasEnglishAudio)
+      ? '<button class="verseAudioBtn" data-vi="'+i+'" title="'+(language==='en'?'Play / stop KJV verse':'השמע/עצור פסוק')+'">🔊</button>'
+      : '';
+    c.innerHTML=ideaHead+'<div class="num '+(language==='en'?'englishNum':'')+'">'+label+(i+1)+didYouKnowMarker+ideaInline+verseAudioBtn+'</div><div class="verse '+(language==='en'?'englishVerse':'')+'">'+verseHTML+'</div>';
+    // English verse is rendered once by the standard verse renderer above.
+    const st=stein[i]||'';
+    const ax=(language==='he' ? (ai[i]||(!stein.length ? (legacy[i]||'') : '')) : '');
+    if(language==='he' && st){
+      const p=document.createElement('div');
+      p.className='perush steinsaltz';
+      p.innerHTML='<b>שטיינזלץ:</b> '+esc(st);
+      c.appendChild(p);
+    }
+    if(language==='en'){
+      const p=document.createElement('div');
+      p.className='perush aiExplain englishExplanationPlaceholder';
+      const englishExplanation=(aiEn[i]||'').trim();
+      const fallbackExplanation=(ai[i]||legacy[i]||stein[i]||'').trim();
+      p.innerHTML=esc(englishExplanation||fallbackExplanation||'');
+      c.appendChild(p);
+    } else if(ax){
+      const p=document.createElement('div');
+      p.className='perush aiExplain';
+      p.innerHTML=esc(ax);
+      c.appendChild(p);
+    }
+    const marker=c.querySelector('.didYouKnowMarker');
+    if(marker)marker.onclick=(event)=>{event.stopPropagation();openDidYouKnow(didYouKnowTextForVerse,marker)};
+    c.onclick=()=>playOneVerse(i);cards.appendChild(c);verseCards.push(c)
+  });
+  setLanguageFlag();
+  didYouKnowBtn.textContent=language==='en'?'💡 Did you know?':'💡 הידעת?';
+  hebrewOnImage.style.display=language==='en'?'block':'none';
+  hebrewLine.style.display=(language==='en'&&hebrewOverlay)?'block':'none';
+  setActive(0,false)
+}
+function ideaForVerse(v){const a=data.ideas||[];for(let i=0;i<a.length;i++){const x=Number(a[i].start_verse||1),y=Number(a[i].end_verse||x);if(v>=x&&v<=y)return i}return-1}
+function imageForIdea(i,idea){const stem='idea_'+String(i+1).padStart(2,'0');for(const [name,u] of Object.entries(images))if(name===stem+'.jpg'||name===stem+'.jpeg'||name===stem+'.png'||name===stem+'.webp'||name===stem+'.avif')return u;for(const [name,u] of Object.entries(images))if(name.startsWith(stem+'_')||name.startsWith(stem+'-'))return u;const a=Number(idea?.start_verse||1),b=Number(idea?.end_verse||a);for(const [name,u] of Object.entries(images))if(name.includes('v'+a+'-'+b))return u;return''}
+function setActive(i,scroll=true){
+  if(!verseCards.length)return;
+  i=Math.max(0,Math.min(i,verseCards.length-1));
+  verseCards.forEach((c,j)=>c.classList.toggle('active',j===i));
+  const ix=ideaForVerse(i+1);
+  if(ix!==ideaNow){
+    ideaNow=ix;
+    const idea=(data.ideas||[])[ix],u=ix>=0?imageForIdea(ix,idea):'';
+    if(u){img.src=u;img.className='ideaFrame'+(ix%8);cap.textContent=displayIdeaTitle(idea);imageSection.classList.remove('hidden')}
+    else imageSection.classList.add('hidden');
+    if(quizOpen){quizIdea=ix;quizIndex=0;renderQuiz()}
+  }
+  updateHebrewOverlay(i);
+  updateDidYouKnowAvailability(i);
+  if(scroll)verseCards[i]?.scrollIntoView({behavior:'smooth',block:'start'});
+}
+function playOneVerse(i){
+  sequenceMode=false; sequenceLastVerse=-1;
+  stopTTS();audio.muted=userAudioMuted;
+  const times=activeTimes(),start=Number(times[i]);
+  if(!Number.isFinite(start))return;
+  
+  lockedVerse=i;
+  if(language==='en'){
+    const enEnd=englishTimingEnd(i);
+    stopAtTime=Number.isFinite(enEnd)?enEnd:null;
+  }else{
+    stopAtTime=(i+1<times.length&&Number.isFinite(Number(times[i+1])))?Number(times[i+1]):null;
+  }
+  const target=sourceTime(start);
+  setActive(i,true);
+  seekAndPlayAbsolute(target);
+}
+function stopAudio(){sequenceMode=false;sequenceLastVerse=-1;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null}
+function toggleAudioMute(){
+  userAudioMuted=!userAudioMuted;
+  audio.muted=userAudioMuted;
+  const btn=document.getElementById('stopBtn');
+  btn?.classList.toggle('muted',userAudioMuted);
+  const icon=btn?.querySelector('.stopIcon');
+  if(icon)icon.textContent=userAudioMuted?'🔇':'🔊';
+  if(btn){
+    btn.title=userAudioMuted?'הפעל אודיו':'השתק אודיו';
+    btn.setAttribute('aria-label',btn.title);
+  }
+}
+function setSpeed(v){audio.playbackRate=Number(v)||1}
+function toggleLanguage(){
+  setTimeout(()=>{
+    document.body.classList.toggle('lang-en',language==='en');
+    document.body.classList.toggle('lang-he',language==='he');
+  },0);
+
+  stopTTS();stopAudio();
+  closeDidYouKnow();
+  language=language==='he'?'en':'he';
+  lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;
+  if(data){
+    data.questions = language==='en' ? questionsEn : questionsHe;
+    data.questionsData = data.questions;
+  }
+  if(quizOpen){quizIndex=0;}
+  render();
+  updateQuizLanguageLabels();
+  if(quizOpen) renderQuiz();
+}
+function toggleHebrewOverlay(){hebrewOverlay=!hebrewOverlay;updateHebrewOverlay(lockedVerse>=0?lockedVerse:currentAudioVerse())}
+function updateHebrewOverlay(i){if(language!=='en'){hebrewLine.style.display='none';return}hebrewLine.textContent=cleanBibleDisplayText(stripHebrewTrope((data?.verses||[])[i]||''));hebrewLine.style.display=hebrewOverlay?'block':'none'}
+
+
+
+let lastSyncedVerse=-1;
+function scrollActiveVerseToTop(vi){
+  vi=Number(vi);
+  if(!Number.isFinite(vi) || vi<0 || vi===lastSyncedVerse)return;
+  lastSyncedVerse=vi;
+  const m=document.getElementById('main');
+  const card=verseCards[vi];
+  if(!m || !card)return;
+  const verse=card.querySelector('.verse') || card;
+  const mr=m.getBoundingClientRect();
+  const vr=verse.getBoundingClientRect();
+  const target=m.scrollTop + (vr.top-mr.top) - 74; // keep current verse 70px lower than before
+  m.scrollTo({top:Math.max(0,target),behavior:'smooth'});
+}
+function syncOtherLanguageToVerse(vi){
+  // Remember the selected verse so a language switch opens at the same verse.
+  lockedVerse=Number(vi);
+  window.__syncVerse=Number(vi);
+}
+
+function updateWordKaraoke(){
+  if(typeof clickedWordStopAt!=='undefined' && clickedWordStopAt!=null) return;
+  document.querySelectorAll('.karaokeWord.karaokeActive').forEach(x=>x.classList.remove('karaokeActive'));
+  if(!data || audio.paused)return;
+  const ct=chapterTimeFromAudio();
+  const vi=currentAudioVerse();
+  const card=verseCards[vi];
+  if(!card)return;
+  const words=[...card.querySelectorAll('.karaokeWord')];
+  if(!words.length)return;
+  let active=null;
+  for(const el of words){
+    const s=Number(el.dataset.s),e=Number(el.dataset.e);
+    if(Number.isFinite(s)&&Number.isFinite(e)&&ct>=s&&ct<e){active=el;break}
+  }
+  if(active){
+    active.classList.add('karaokeActive');
+    const verseEl=active.closest('.verse');
+    if(verseEl){
+      const rows=Array.from(document.querySelectorAll('.verse'));
+      const vi=rows.indexOf(verseEl);
+      if(vi>=0){ scrollActiveVerseToTop(vi); syncOtherLanguageToVerse(vi); }
+    }
+  }
+}
+
+function currentAudioVerse(){
+  const times=activeTimes();
+  if(!times.length)return 0;
+  const ct=chapterTimeFromAudio();
+  let i=0;
+  for(let j=0;j<times.length;j++){if(Number(times[j])<=ct)i=j;else break}
+  return i;
+}
+// Stop a single-verse playback exactly at the next time tag in both languages.
+// No extra seconds are added after the Hebrew or English tag.
+audio.addEventListener('timeupdate',()=>{if(!data)return;updateWordKaraoke();if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}const seqVerse=currentAudioVerse();if(sequenceMode&&seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastSyncedVerse=-1;setActive(seqVerse,false);scrollActiveVerseToTop(seqVerse);}else{setActive(seqVerse,true);}});
+
+function playSequence(){
+  stopTTS(); if(!data)return;
+  sequenceMode=true; sequenceLastVerse=-1;
+  audio.muted=userAudioMuted; lockedVerse=-1; stopAtTime=null;
+  const times=activeTimes();
+  
+  if(!times.length || !Number.isFinite(Number(times[0]))){alert('אין זמני סנכרון לפרק הזה');return;}
+  const firstTag=Number(times[0]);
+  const first=sourceTime(firstTag);
+  setActive(0,true);
+  seekAndPlayAbsolute(first);
+}
+function toggleTTS(){ if(ttsMode){stopTTS();return} startTTS(); }
+function startTTS(){
+  if(!data)return; if(!('speechSynthesis' in window)){alert('TTS לא נתמך בדפדפן הזה');return}
+  audio.pause();audio.muted=true;ttsMode=true;ttsBtn.classList.add('on');ttsBtn.textContent='TTS ON';language='en';render(); forceRequestedImage();ttsIndex=Math.max(0,lockedVerse>=0?lockedVerse:currentAudioVerse());speakTTSLine(ttsIndex);
+}
+function speakTTSLine(i){
+  if(!ttsMode)return;const en=arrField('english','english_verses','kjv');if(i>=en.length){stopTTS();return}ttsIndex=i;lockedVerse=i;setActive(i,true);const text=cleanText(en[i]||'');if(!text){setTimeout(()=>speakTTSLine(i+1),50);return}
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang='en-US';
+  u.volume=1.0; // maximum volume supported by browser TTS
+  u.rate=Math.max(0.6,Math.min(1.2,Number(speedSel.value||1)));
+  u.pitch=1.08; // slightly brighter/clearer on small Android speakers
+  const voices=speechSynthesis.getVoices();
+  const preferred=voices.find(v=>/Google US English/i.test(v.name))
+    || voices.find(v=>/^en-US$/i.test(v.lang)&&/google|samsung|english/i.test(v.name))
+    || voices.find(v=>/^en-US$/i.test(v.lang))
+    || voices.find(v=>/^en/i.test(v.lang));
+  if(preferred)u.voice=preferred;
+  u.onend=()=>{if(ttsMode)speakTTSLine(i+1)};
+  u.onerror=()=>{if(ttsMode)speakTTSLine(i+1)};
+  speechSynthesis.speak(u);
+}
+function stopTTS(){
+  if('speechSynthesis' in window)speechSynthesis.cancel();ttsMode=false;ttsBtn?.classList.remove('on');if(ttsBtn)ttsBtn.textContent='TTS';if(audio)audio.muted=userAudioMuted;
+}
+function toggleChapterMenu(){if(chapterMenu.classList.contains('open'))chapterMenu.classList.remove('open');else renderBookMenu()}
+document.addEventListener('click',e=>{
+  const wrap=document.getElementById('chapterMenuWrap');
+  if(wrap && !wrap.contains(e.target)) chapterMenu.classList.remove('open');
+});
+function markChapterMenu(n){
+  chapterMenu.querySelectorAll('.chapterGold').forEach(b=>b.classList.toggle('active',Number(b.dataset.chapter)===Number(n)));
+  chapterMenuBtn.innerHTML='<span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span>';
+}
+
+function go(d){
+  if(!current && !Number(sel.value)) return;
+  const n=Math.min(currentBook.chapters,Math.max(1,(current||Number(sel.value))+d));
+  loadChapter(n)
+}
+
+function stripHebrewTrope(text){
+  // Remove Hebrew cantillation marks (te'amim), keep niqqud.
+  return String(text??'').normalize('NFD').replace(/[\u0591-\u05AF]/g,'').normalize('NFC');
+}
+
+function cleanText(s){
+  let x=String(s??"");
+  const ta=document.createElement("textarea");
+  for(let k=0;k<3;k++){
+    ta.innerHTML=x;
+    const y=ta.value;
+    if(y===x) break;
+    x=y;
+  }
+  return x
+    .replace(/&(?:nbsp|thinsp|ensp|emsp|#160|#8201);?/gi,' ')
+    .replace(/[\u00a0\u2009\u2002\u2003]/g,' ')
+    .replace(/\s{2,}/g,' ')
+    .trim();
+}
+
+// Remove Hebrew paragraph markers ס / פ only when they appear after a colon.
+// Examples: ": ס", ": {ס}", ": פ", ": {פ}".
+function cleanHebrewVerseDisplay(text){
+  return String(text ?? '')
+    .replace(/:\s*(?:\{\s*)?[ספ](?:\s*\})?(?=\s|$)/g, ':')
+    .replace(/:\s*[\u00a0\s]+/g, ': ')
+    .trim();
+}
+
+function esc(s){return cleanText(s).replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]))}
+
+
+function cleanBibleDisplayText(x){
+  x=String(x??"");
+
+  // Decode HTML entities repeatedly (some Sefaria strings arrive double encoded).
+  const ta=document.createElement("textarea");
+  for(let k=0;k<3;k++){
+    ta.innerHTML=x;
+    const y=ta.value;
+    if(y===x) break;
+    x=y;
+  }
+
+  // Remove tags, paragraph markers and entity leftovers.
+  x=x.replace(/<[^>]*>/g," ");
+  x=x.replace(/\{[פס]\}/g," ");
+  x=x.replace(/&(?:nbsp|thinsp|ensp|emsp|rlm|lrm|#160|#8201);?/gi," ");
+  x=x.replace(/(?:nbsp|thinsp)\s*;?/gi," ");
+
+  // Hebrew verses must never contain Latin/English material.
+  x=x.replace(/[A-Za-z]+/g," ");
+
+  // Normalize special spaces.
+  x=x.replace(/[\u00a0\u2009\u2002\u2003\u200e\u200f]/g," ");
+  return x.replace(/\s+/g," ").trim();
+}
+let chapterLoadStartedAt = 0;
+let chapterLoadTicker = null;
+
+function startChapterLoadTicker(){
+  chapterLoadStartedAt = Date.now();
+  if(chapterLoadTicker) clearInterval(chapterLoadTicker);
+  const tick = ()=>{
+    const sec = Math.floor((Date.now()-chapterLoadStartedAt)/1000);
+    const candidates = [
+      document.getElementById('loadStatus'),
+      document.getElementById('loadingText'),
+      document.getElementById('status'),
+      document.querySelector('.loading')
+    ].filter(Boolean);
+    if(candidates.length){
+      candidates[0].textContent = 'טוען את הפרק… ' + sec + ' שניות';
+    }
+  };
+  tick();
+  chapterLoadTicker=setInterval(tick,1000);
+}
+
+function stopChapterLoadTicker(){
+  if(chapterLoadTicker){
+    clearInterval(chapterLoadTicker);
+    chapterLoadTicker=null;
+  }
+}
+
+
+function forceRequestedImage(){
+  // Opening image intentionally disabled after text-first conversion.
+}
+
+audio.addEventListener('pause',()=>document.querySelectorAll('.karaokeWord.karaokeActive').forEach(x=>x.classList.remove('karaokeActive')));
+audio.addEventListener('ended',()=>document.querySelectorAll('.karaokeWord.karaokeActive').forEach(x=>x.classList.remove('karaokeActive')));
+
+
+let clickedWordStopAt = null;
+let clickedWordEl = null;
+let selectedHebrewWordEl = null;
+let selectedEnglishWordEl = null;
+
+function clearClickedWordMode(){
+  clickedWordStopAt = null;
+  clickedWordEl = null;
+}
+
+
+let englishTTSButton=null;
+function stopEnglishTTS(){
+  try{if('speechSynthesis' in window)speechSynthesis.cancel();}catch(e){}
+  if(englishTTSButton){englishTTSButton.classList.remove('playing');englishTTSButton.textContent='🔊';}
+  englishTTSButton=null;
+  document.querySelectorAll('.englishWord.karaokeActive').forEach(x=>x.classList.remove('karaokeActive'));
+}
+function speakEnglishTTS(text,wordEl=null,buttonEl=null){
+  stopEnglishTTS();
+  const clean=String(text||'').trim();
+  if(!clean||!('speechSynthesis' in window))return;
+  if(wordEl)wordEl.classList.add('karaokeActive');
+  if(buttonEl){englishTTSButton=buttonEl;buttonEl.classList.add('playing');buttonEl.textContent='⏹';}
+  const u=new SpeechSynthesisUtterance(clean);
+  u.volume=1;
+  u.lang='en-US'; u.rate=Number(speedSel.value||1);
+  u.onend=u.onerror=()=>stopEnglishTTS();
+  speechSynthesis.speak(u);
+}
+
+function activateEnglishVerseFromElement(el){
+  const card=el?.closest?.('.card');
+  if(!card)return -1;
+  const vi=verseCards.indexOf(card);
+  if(vi>=0){
+    setActive(vi,false);       // highlight verse + switch image to its idea
+    syncOtherLanguageToVerse(vi);
+  }
+  return vi;
+}
+
+function scrollCardToTop(el){
+  const card=el?.closest?.('.card');if(!card)return;
+  const main=document.getElementById('main');
+  if(main)main.scrollTo({top:Math.max(0,card.offsetTop-108),behavior:'smooth'});
+}
+
+document.addEventListener('click', async function(ev){
+  const w = ev.target.closest && ev.target.closest('.karaokeWord,.englishWord');
+  if(!w) return;
+
+  ev.preventDefault();
+  ev.stopPropagation();
+
+  if(language==='en' && w.classList.contains('englishWord')){
+    if(selectedEnglishWordEl && selectedEnglishWordEl!==w) selectedEnglishWordEl.classList.remove('wordSelected');
+    selectedEnglishWordEl=w;
+    w.classList.add('wordSelected');
+    activateEnglishVerseFromElement(w);
+    scrollCardToTop(w);
+    const trBox=document.getElementById('wordTranslation');
+    if(trBox){trBox.textContent='מתרגם…';trBox.classList.add('show');}
+    speakEnglishTTS(w.dataset.word||w.textContent,w,null);
+    try{
+      const tr=await googleTranslateWord(w.dataset.word||w.textContent);
+      if(trBox)trBox.textContent=tr;
+    }catch(err){
+      if(trBox)trBox.textContent='שגיאת תרגום';
+    }
+    return;
+  }
+
+  if(language==='he'){
+    const card=w.closest('.card');
+    const vi=verseCards.indexOf(card);
+    if(vi>=0){ setActive(vi,false); syncOtherLanguageToVerse(vi); }
+    scrollCardToTop(w);
+
+    // Keep the manually selected Hebrew word marked until another word is selected.
+    if(selectedHebrewWordEl && selectedHebrewWordEl!==w){
+      selectedHebrewWordEl.classList.remove('wordSelected');
+    }
+    selectedHebrewWordEl=w;
+    w.classList.add('wordSelected');
+  }
+
+  const s = Number(w.dataset.s);
+  const e = Number(w.dataset.e);
+  const trBox=document.getElementById('wordTranslation');
+  if(trBox){
+    const tr=(w.dataset.tr||'').trim();
+    trBox.textContent=tr || '—';
+    trBox.classList.add('show');
+  }
+  if(!Number.isFinite(s) || !Number.isFinite(e) || e <= s) return;
+
+  // Stop anything else, then jump exactly to the selected word.
+  try { if ('speechSynthesis' in window) speechSynthesis.cancel(); } catch(err) {}
+  lockedVerse = -1;
+  clickedWordStopAt = e;
+  clickedWordEl = w;
+
+  document.querySelectorAll('.karaokeWord.karaokeActive')
+    .forEach(x=>x.classList.remove('karaokeActive'));
+  w.classList.add('karaokeActive');
+
+  const mediaTime = s + (Number(data?.audio_start_offset)||0);
+  try { audio.pause(); } catch(err) {}
+  try { audio.currentTime = Math.max(0, mediaTime); } catch(err) {}
+
+  try {
+    const p = audio.play();
+    if(p && p.catch) await p.catch(()=>{});
+  } catch(err) {}
+}, true);
+
+audio.addEventListener('timeupdate', function(){
+  if(clickedWordStopAt == null) return;
+  const ct = chapterTimeFromAudio();
+  if(ct >= clickedWordStopAt - 0.015){
+    audio.pause();
+    if(clickedWordEl) clickedWordEl.classList.remove('karaokeActive');
+    clearClickedWordMode();
+  }
+}, true);
+
+audio.addEventListener('ended', clearClickedWordMode);
+
+
+let verseButtonStopAt = null;
+let verseButtonEl = null;
+
+function stopVerseButtonPlayback(){
+  verseButtonStopAt = null;
+  if(verseButtonEl){
+    verseButtonEl.classList.remove('playing');
+    verseButtonEl.textContent='🔊';
+  }
+  verseButtonEl = null;
+  try { audio.pause(); } catch(e) {}
+  document.querySelectorAll('.karaokeWord.karaokeActive')
+    .forEach(x=>x.classList.remove('karaokeActive'));
+}
+
+document.addEventListener('click', async function(ev){
+  const b=ev.target.closest && ev.target.closest('.verseAudioBtn');
+  if(!b) return;
+  ev.preventDefault();
+  ev.stopPropagation();
+
+  if(language==='en'){
+    const vi=Number(b.dataset.vi);
+    if(!Number.isFinite(vi)) return;
+    if(verseButtonEl===b && !audio.paused){
+      stopVerseButtonPlayback();
+      return;
+    }
+    try{ if('speechSynthesis' in window) speechSynthesis.cancel(); }catch(e){}
+    if(verseButtonEl && verseButtonEl!==b){
+      verseButtonEl.classList.remove('playing');
+      verseButtonEl.textContent='🔊';
+    }
+    const st=englishTimingStart(vi);
+    let en=englishTimingEnd(vi);
+    if(!Number.isFinite(st)) return;
+    const src=data?.audio_en_url||data?.english_audio_url||'';
+    if(!src) return;
+    if(audio.src!==src){ audio.src=src; audio.load(); }
+    audio.playbackRate=1;
+    setActive(vi,false);
+    syncOtherLanguageToVerse(vi);
+    scrollCardToTop(b);
+    lockedVerse=vi;
+    stopAtTime=Number.isFinite(en)?en:null;
+    verseButtonEl=b;
+    b.classList.add('playing');
+    b.textContent='■';
+    seekAndPlayAbsolute(st);
+    return;
+  }
+
+  // Hebrew verse audio: highlight and scroll the selected verse to the top.
+  if(language==='he'){
+    const vi=Number(b.dataset.vi);
+    if(Number.isFinite(vi)){
+      setActive(vi,false);
+      syncOtherLanguageToVerse(vi);
+      scrollCardToTop(b);
+    }
+  }
+
+  // Hebrew verse audio: highlight and scroll the verse as well.
+  if(language==='he'){
+    const vi=Number(b.dataset.vi);
+    if(Number.isFinite(vi)){
+      setActive(vi,false);
+      syncOtherLanguageToVerse(vi);
+      scrollCardToTop(b);
+    }
+  }
+
+  // Same button while playing = stop.
+  if(verseButtonEl===b && !audio.paused){
+    stopVerseButtonPlayback();
+    return;
+  }
+
+  // Stop single-word mode and any previous verse-button mode.
+  if(typeof clearClickedWordMode==='function') clearClickedWordMode();
+  if(verseButtonEl && verseButtonEl!==b){
+    verseButtonEl.classList.remove('playing');
+    verseButtonEl.textContent='🔊';
+  }
+
+  const vi=Number(b.dataset.vi);
+  const v=(language==='en' ? null : data?.readalong_word_verses?.[vi]);
+  if(!Array.isArray(v)||!v.length)return;
+  let s=Number(v[0].s), e=Number(v[v.length-1].e);
+
+  if(!Number.isFinite(s)||!Number.isFinite(e))return;
+
+  lockedVerse=-1;
+  verseButtonStopAt=e;
+  verseButtonEl=b;
+  b.classList.add('playing');
+  b.textContent='⏹';
+
+  try{audio.pause();}catch(err){}
+  try{audio.currentTime=Math.max(0,s+(Number(data?.audio_start_offset)||0));}catch(err){}
+  try{
+    const p=audio.play();
+    if(p&&p.catch)await p.catch(()=>{});
+  }catch(err){}
+},true);
+
+audio.addEventListener('timeupdate',function(){
+  if(verseButtonStopAt==null)return;
+  const ct=chapterTimeFromAudio();
+  if(ct>=verseButtonStopAt-0.015){
+    stopVerseButtonPlayback();
+  }
+},true);
+
+audio.addEventListener('ended',function(){
+  if(verseButtonStopAt!=null) stopVerseButtonPlayback();
+});
+
+
+</script><script>
+// Full screen: activated by the first tap/click (required by Android/Chrome).
+(function(){
+  let entered=false;
+  async function goFullScreen(){
+    if(entered || document.fullscreenElement) return;
+    try{
+      const el=document.documentElement;
+      if(el.requestFullscreen){
+        try{ await el.requestFullscreen({navigationUI:'hide'}); }
+        catch(e){ await el.requestFullscreen(); }
+        entered=true;
+      }else if(el.webkitRequestFullscreen){
+        el.webkitRequestFullscreen();
+        entered=true;
+      }
+    }catch(e){}
+  }
+  document.addEventListener('pointerdown',goFullScreen,{once:true,capture:true});
+  document.addEventListener('touchstart',goFullScreen,{once:true,capture:true,passive:true});
+  document.addEventListener('click',goFullScreen,{once:true,capture:true});
+  window.addEventListener('orientationchange',()=>{entered=!!document.fullscreenElement;});
+  document.addEventListener('fullscreenchange',()=>{entered=!!document.fullscreenElement;});
+})();
+</script>
+<script>
+(function(){
+  const audio=document.querySelector('audio');
+  if(!audio) return;
+
+  function parseFirstTag(raw){
+    if(typeof raw!=='string') return NaN;
+    const m=raw.match(/\[(\d{1,3}):(\d{1,2}(?:\.\d+)?)\]/);
+    return m ? (+m[1]*60 + +m[2]) : NaN;
+  }
+
+  function firstLoadedLrcTime(){
+    const lang=(typeof language==='string' ? language : (window.currentLanguage||'he')).toLowerCase();
+
+    // Prefer raw LRC belonging to the active language.
+    const names = lang==='en'
+      ? ['lyricsEnText','lyrics_en_text','lrcEnText','lrc_en_text','lyricsEn','lrcEn']
+      : ['lyricsText','lyrics_he_text','lrcText','lrc_he_text','lyricsHe','lrcHe'];
+
+    for(const n of names){
+      const v=window[n];
+      const t=parseFirstTag(v);
+      if(Number.isFinite(t)) return t;
+    }
+
+    // Parsed arrays used by different versions of the app.
+    const arrays=[
+      window.currentLyrics, window.lrcLines, window.lyrics,
+      window.data && (lang==='en' ? null : data.times)
+    ];
+    for(const a of arrays){
+      if(!Array.isArray(a)||!a.length) continue;
+      const x=a[0];
+      const v=(typeof x==='number') ? x :
+        Number(x && (x.time ?? x.start ?? x.seconds ?? x.t));
+      if(Number.isFinite(v) && v>=0) return v;
+    }
+    return 0;
+  }
+
+  let sourceKey='';
+  function key(){
+    return String(audio.currentSrc||audio.src||'')+'|'+
+           String(window.language||window.currentLanguage||'');
+  }
+
+  function jumpToFirstTag(){
+    const t=firstLoadedLrcTime();
+    if(!(t>0)) return;
+    const lang=(typeof language==='string' ? language : (window.currentLanguage||'he')).toLowerCase();
+    const heOffset=(lang==='en') ? 0 : (typeof activeAudioOffset==='function' ? activeAudioOffset() : Number(window.data?.audio_start_offset||0));
+    const target=Math.max(0,t+heOffset-(lang==='en'?0.2:0));
+    if(audio.currentTime < target-0.25){
+      try{ audio.currentTime=target; }catch(e){}
+    }
+  }
+
+  // Reset only when chapter/audio/language changes.
+  audio.addEventListener('loadedmetadata',()=>{
+    sourceKey=key();
+    jumpToFirstTag();
+  });
+
+  // Most reliable point: immediately before actual playback.
+  audio.addEventListener('play',()=>{
+    const k=key();
+    if(k!==sourceKey) sourceKey=k;
+    jumpToFirstTag();
+    setTimeout(jumpToFirstTag,100);
+    setTimeout(jumpToFirstTag,350);
+  },true);
+})();
+</script>
+
+
+
+</body></html>
