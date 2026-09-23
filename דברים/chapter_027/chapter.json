@@ -202,11 +202,11 @@
     },
     {
       "start": 70.2,
-      "end": 75.0,
+      "end": 75,
       "usfm": "DEU.27.8"
     },
     {
-      "start": 75.0,
+      "start": 75,
       "end": 87.06,
       "usfm": "DEU.27.9"
     },
@@ -287,11 +287,11 @@
     },
     {
       "start": 212.16,
-      "end": 221.0,
+      "end": 221,
       "usfm": "DEU.27.25"
     },
     {
-      "start": 221.0,
+      "start": 221,
       "end": 238.52,
       "usfm": "DEU.27.26"
     }
@@ -366,7 +366,7 @@
     68.12,
     75.62,
     82.48,
-    95.0,
+    95,
     103.6,
     107.56,
     120.12,
@@ -377,7 +377,7 @@
     166.2,
     174.56,
     184.12,
-    195.0,
+    195,
     202.18,
     212.16,
     219.26,
@@ -413,5 +413,7 @@
     "DEU.27.25",
     "DEU.27.26"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.24,
+  "timings_offset_applied": true
 }

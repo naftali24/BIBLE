@@ -581,11 +581,11 @@
     },
     {
       "start": 405.78,
-      "end": 413.0,
+      "end": 413,
       "usfm": "DEU.28.41"
     },
     {
-      "start": 413.0,
+      "start": 413,
       "end": 418.16,
       "usfm": "DEU.28.42"
     },
@@ -877,7 +877,7 @@
     132.08,
     141.7,
     155.78,
-    160.0,
+    160,
     163.04,
     172.08,
     177.02,
@@ -907,7 +907,7 @@
     414.24,
     422.28,
     436.58,
-    442.0,
+    442,
     449.28,
     463.48,
     474.84,
@@ -1004,5 +1004,7 @@
   "english_audio_source": "The Listener’s Bible®: KJV Edition",
   "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing"
+  "times_en_source": "YouVersion BSB verse timing",
+  "audio_start_offset": 4.3,
+  "timings_offset_applied": true
 }

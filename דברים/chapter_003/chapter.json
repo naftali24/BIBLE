@@ -407,7 +407,7 @@
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [
     13.38,
-    29.0,
+    29,
     39.76,
     52.94,
     61.64,
@@ -423,7 +423,7 @@
     165.84,
     178.76,
     189.48,
-    203.0,
+    203,
     211.68,
     227.36,
     241.56,
@@ -467,5 +467,7 @@
     "DEU.3.28",
     "DEU.3.29"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.58,
+  "timings_offset_applied": true
 }

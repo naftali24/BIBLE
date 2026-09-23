@@ -191,11 +191,11 @@
     },
     {
       "start": 44.72,
-      "end": 62.0,
+      "end": 62,
       "usfm": "DEU.9.4"
     },
     {
-      "start": 62.0,
+      "start": 62,
       "end": 80.82,
       "usfm": "DEU.9.5"
     },
@@ -449,5 +449,7 @@
     "DEU.9.28",
     "DEU.9.29"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.59,
+  "timings_offset_applied": true
 }

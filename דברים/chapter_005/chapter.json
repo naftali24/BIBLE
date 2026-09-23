@@ -342,11 +342,11 @@
     },
     {
       "start": 266.54,
-      "end": 271.0,
+      "end": 271,
       "usfm": "DEU.5.30"
     },
     {
-      "start": 271.0,
+      "start": 271,
       "end": 282.94,
       "usfm": "DEU.5.31"
     },
@@ -457,7 +457,7 @@
     287.46,
     300.3,
     308.88,
-    321.0
+    321
   ],
   "times_en_usfm": [
     "DEU.5.1",
@@ -498,5 +498,7 @@
   "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.16,
+  "timings_offset_applied": true
 }

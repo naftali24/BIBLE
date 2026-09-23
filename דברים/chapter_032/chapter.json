@@ -398,11 +398,11 @@
     },
     {
       "start": 172.18,
-      "end": 178.0,
+      "end": 178,
       "usfm": "DEU.32.19"
     },
     {
-      "start": 178.0,
+      "start": 178,
       "end": 189.52,
       "usfm": "DEU.32.20"
     },
@@ -513,11 +513,11 @@
     },
     {
       "start": 379.64,
-      "end": 392.0,
+      "end": 392,
       "usfm": "DEU.32.42"
     },
     {
-      "start": 392.0,
+      "start": 392,
       "end": 405.2,
       "usfm": "DEU.32.43"
     },
@@ -528,11 +528,11 @@
     },
     {
       "start": 412.22,
-      "end": 416.0,
+      "end": 416,
       "usfm": "DEU.32.45"
     },
     {
-      "start": 416.0,
+      "start": 416,
       "end": 427.66,
       "usfm": "DEU.32.46"
     },
@@ -705,7 +705,7 @@
     257.48,
     269.58,
     275.44,
-    282.0,
+    282,
     293.16,
     298.44,
     307.66,
@@ -722,7 +722,7 @@
     420.46,
     428.82,
     433.8,
-    446.0,
+    446,
     457.28,
     460.54,
     473.3,
@@ -784,5 +784,7 @@
     "DEU.32.51",
     "DEU.32.52"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 7.55,
+  "timings_offset_applied": true
 }

@@ -306,12 +306,12 @@
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [
     14.26,
-    23.0,
-    33.0,
+    23,
+    33,
     46.24,
     56.22,
     67.14,
-    75.0,
+    75,
     89.48,
     99.56,
     110.04,
@@ -352,5 +352,7 @@
     "DEU.10.21",
     "DEU.10.22"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 4.34,
+  "timings_offset_applied": true
 }

@@ -320,7 +320,7 @@
     35.2,
     47.32,
     62.74,
-    78.0,
+    78,
     83.12,
     92.16,
     105.84,
@@ -360,5 +360,7 @@
     "DEU.19.20",
     "DEU.19.21"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.84,
+  "timings_offset_applied": true
 }

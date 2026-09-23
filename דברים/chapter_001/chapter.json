@@ -292,11 +292,11 @@
     },
     {
       "start": 47.96,
-      "end": 55.0,
+      "end": 55,
       "usfm": "DEU.1.5"
     },
     {
-      "start": 55.0,
+      "start": 55,
       "end": 61.38,
       "usfm": "DEU.1.6"
     },
@@ -614,7 +614,7 @@
     125.94,
     130.96,
     145.84,
-    156.0,
+    156,
     171.96,
     177.08,
     190.64,
@@ -625,7 +625,7 @@
     235.4,
     245.76,
     251.42,
-    263.0,
+    263,
     278.26,
     282.72,
     289.24,
@@ -694,5 +694,7 @@
     "DEU.1.45",
     "DEU.1.46"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 6.69,
+  "timings_offset_applied": true
 }
