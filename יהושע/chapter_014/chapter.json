@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 14,
   "title": "יהושע פרק 14",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/14-dd4b1388c024d38d2dc878d7884dc620.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/14-b1264c3b34288de6731f191803a6e088.mp3?version_id=1",
   "english": [
     "And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.",
     "By lot was their inheritance, as the Lord commanded by the hand of Moses, for the nine tribes, and for the half tribe.",
@@ -96,21 +96,81 @@
     }
   ],
   "times_en": [
-    3.36,
-    16.82,
-    24.84,
-    34.5,
-    50.12,
-    55.56,
-    71.16,
-    82.52,
-    90.84,
-    103.98,
-    119.16,
-    131.18,
-    149.6,
-    155.88,
-    166.34
+    {
+      "start": 2.88,
+      "end": 15.9,
+      "usfm": "JOS.14.1"
+    },
+    {
+      "start": 15.9,
+      "end": 22.68,
+      "usfm": "JOS.14.2"
+    },
+    {
+      "start": 22.68,
+      "end": 30.92,
+      "usfm": "JOS.14.3"
+    },
+    {
+      "start": 30.92,
+      "end": 42.14,
+      "usfm": "JOS.14.4"
+    },
+    {
+      "start": 42.14,
+      "end": 46.64,
+      "usfm": "JOS.14.5"
+    },
+    {
+      "start": 46.64,
+      "end": 58.96,
+      "usfm": "JOS.14.6"
+    },
+    {
+      "start": 58.96,
+      "end": 69.44,
+      "usfm": "JOS.14.7"
+    },
+    {
+      "start": 69.44,
+      "end": 78.16,
+      "usfm": "JOS.14.8"
+    },
+    {
+      "start": 78.16,
+      "end": 89.68,
+      "usfm": "JOS.14.9"
+    },
+    {
+      "start": 89.68,
+      "end": 105.32,
+      "usfm": "JOS.14.10"
+    },
+    {
+      "start": 105.32,
+      "end": 115.46,
+      "usfm": "JOS.14.11"
+    },
+    {
+      "start": 115.46,
+      "end": 130.36,
+      "usfm": "JOS.14.12"
+    },
+    {
+      "start": 130.36,
+      "end": 136.12,
+      "usfm": "JOS.14.13"
+    },
+    {
+      "start": 136.12,
+      "end": 144.46,
+      "usfm": "JOS.14.14"
+    },
+    {
+      "start": 144.46,
+      "end": 160.36,
+      "usfm": "JOS.14.15"
+    }
   ],
   "did_you_know": [
     {
@@ -144,26 +204,26 @@
       "text_en": "Hebron was formerly called 'Kiriath Arba' and in the text linked to the Anakim; later biblical books present it as an important city — for example, David's first residence."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
-    16.82,
-    24.84,
-    34.5,
-    50.12,
-    55.56,
-    71.16,
-    82.52,
-    90.84,
-    103.98,
-    119.16,
-    131.18,
-    149.6,
-    155.88,
-    166.34,
-    177.72
+    15.9,
+    22.68,
+    30.92,
+    42.14,
+    46.64,
+    58.96,
+    69.44,
+    78.16,
+    89.68,
+    105.32,
+    115.46,
+    130.36,
+    136.12,
+    144.46,
+    160.36
   ],
   "times_en_usfm": [
     "JOS.14.1",

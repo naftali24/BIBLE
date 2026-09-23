@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 19,
   "title": "יהושע פרק 19",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/19-2fbec0cffcaf22c96cce0e4ecc79706f.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/19-64daf1b8b7088f57713faf19e72e4600.mp3?version_id=1",
   "english": [
     "And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.",
     "And they had in their inheritance Beersheba, and Sheba, and Moladah,",
@@ -240,57 +240,261 @@
     }
   ],
   "times_en": [
-    3.44,
-    12.04,
-    16.2,
-    18.86,
-    21.7,
-    25.42,
-    30.98,
-    37.08,
-    48.08,
-    62.28,
-    69.96,
-    77.0,
-    84.52,
-    93.62,
-    100.8,
-    110.7,
-    117.46,
-    121.56,
-    126.32,
-    129.36,
-    132.02,
-    136.36,
-    147.08,
-    154.04,
-    158.5,
-    163.84,
-    171.02,
-    182.14,
-    189.24,
-    199.3,
-    205.68,
-    212.34,
-    217.0,
-    226.96,
-    240.1,
-    246.04,
-    248.76,
-    251.76,
-    261.28,
-    268.88,
-    272.66,
-    278.8,
-    282.08,
-    284.5,
-    287.44,
-    290.58,
-    295.94,
-    311.48,
-    318.1,
-    326.82,
-    338.54
+    {
+      "start": 2.88,
+      "end": 11.94,
+      "usfm": "JOS.19.1"
+    },
+    {
+      "start": 11.94,
+      "end": 17.18,
+      "usfm": "JOS.19.2"
+    },
+    {
+      "start": 17.18,
+      "end": 20.28,
+      "usfm": "JOS.19.3"
+    },
+    {
+      "start": 20.28,
+      "end": 23.18,
+      "usfm": "JOS.19.4"
+    },
+    {
+      "start": 23.18,
+      "end": 27.28,
+      "usfm": "JOS.19.5"
+    },
+    {
+      "start": 27.28,
+      "end": 32.22,
+      "usfm": "JOS.19.6"
+    },
+    {
+      "start": 32.22,
+      "end": 36.9,
+      "usfm": "JOS.19.7"
+    },
+    {
+      "start": 36.9,
+      "end": 47.44,
+      "usfm": "JOS.19.8"
+    },
+    {
+      "start": 47.44,
+      "end": 61.46,
+      "usfm": "JOS.19.9"
+    },
+    {
+      "start": 61.46,
+      "end": 68.4,
+      "usfm": "JOS.19.10"
+    },
+    {
+      "start": 68.4,
+      "end": 77.22,
+      "usfm": "JOS.19.11"
+    },
+    {
+      "start": 77.22,
+      "end": 86.76,
+      "usfm": "JOS.19.12"
+    },
+    {
+      "start": 86.76,
+      "end": 95.28,
+      "usfm": "JOS.19.13"
+    },
+    {
+      "start": 95.28,
+      "end": 105.28,
+      "usfm": "JOS.19.14"
+    },
+    {
+      "start": 105.28,
+      "end": 112.84,
+      "usfm": "JOS.19.15"
+    },
+    {
+      "start": 112.84,
+      "end": 118.8,
+      "usfm": "JOS.19.16"
+    },
+    {
+      "start": 118.8,
+      "end": 123.9,
+      "usfm": "JOS.19.17"
+    },
+    {
+      "start": 123.9,
+      "end": 129.4,
+      "usfm": "JOS.19.18"
+    },
+    {
+      "start": 129.4,
+      "end": 133.78,
+      "usfm": "JOS.19.19"
+    },
+    {
+      "start": 133.78,
+      "end": 137.58,
+      "usfm": "JOS.19.20"
+    },
+    {
+      "start": 137.58,
+      "end": 143.18,
+      "usfm": "JOS.19.21"
+    },
+    {
+      "start": 143.18,
+      "end": 153.84,
+      "usfm": "JOS.19.22"
+    },
+    {
+      "start": 153.84,
+      "end": 161.2,
+      "usfm": "JOS.19.23"
+    },
+    {
+      "start": 161.2,
+      "end": 165.42,
+      "usfm": "JOS.19.24"
+    },
+    {
+      "start": 165.42,
+      "end": 170.68,
+      "usfm": "JOS.19.25"
+    },
+    {
+      "start": 170.68,
+      "end": 177.64,
+      "usfm": "JOS.19.26"
+    },
+    {
+      "start": 177.64,
+      "end": 190.06,
+      "usfm": "JOS.19.27"
+    },
+    {
+      "start": 190.06,
+      "end": 196.02,
+      "usfm": "JOS.19.28"
+    },
+    {
+      "start": 196.02,
+      "end": 207.6,
+      "usfm": "JOS.19.29"
+    },
+    {
+      "start": 207.6,
+      "end": 212.64,
+      "usfm": "JOS.19.30"
+    },
+    {
+      "start": 212.64,
+      "end": 219.08,
+      "usfm": "JOS.19.31"
+    },
+    {
+      "start": 219.08,
+      "end": 225.36,
+      "usfm": "JOS.19.32"
+    },
+    {
+      "start": 225.36,
+      "end": 236.78,
+      "usfm": "JOS.19.33"
+    },
+    {
+      "start": 236.78,
+      "end": 250.64,
+      "usfm": "JOS.19.34"
+    },
+    {
+      "start": 250.64,
+      "end": 256.3,
+      "usfm": "JOS.19.35"
+    },
+    {
+      "start": 256.3,
+      "end": 259.46,
+      "usfm": "JOS.19.36"
+    },
+    {
+      "start": 259.46,
+      "end": 262.84,
+      "usfm": "JOS.19.37"
+    },
+    {
+      "start": 262.84,
+      "end": 271.0,
+      "usfm": "JOS.19.38"
+    },
+    {
+      "start": 271.0,
+      "end": 276.6,
+      "usfm": "JOS.19.39"
+    },
+    {
+      "start": 276.6,
+      "end": 281.98,
+      "usfm": "JOS.19.40"
+    },
+    {
+      "start": 281.98,
+      "end": 287.52,
+      "usfm": "JOS.19.41"
+    },
+    {
+      "start": 287.52,
+      "end": 291.16,
+      "usfm": "JOS.19.42"
+    },
+    {
+      "start": 291.16,
+      "end": 294.16,
+      "usfm": "JOS.19.43"
+    },
+    {
+      "start": 294.16,
+      "end": 298.06,
+      "usfm": "JOS.19.44"
+    },
+    {
+      "start": 298.06,
+      "end": 301.7,
+      "usfm": "JOS.19.45"
+    },
+    {
+      "start": 301.7,
+      "end": 306.16,
+      "usfm": "JOS.19.46"
+    },
+    {
+      "start": 306.16,
+      "end": 323.74,
+      "usfm": "JOS.19.47"
+    },
+    {
+      "start": 323.74,
+      "end": 330.84,
+      "usfm": "JOS.19.48"
+    },
+    {
+      "start": 330.84,
+      "end": 339.26,
+      "usfm": "JOS.19.49"
+    },
+    {
+      "start": 339.26,
+      "end": 349.7,
+      "usfm": "JOS.19.50"
+    },
+    {
+      "start": 349.7,
+      "end": 375.08,
+      "usfm": "JOS.19.51"
+    }
   ],
   "did_you_know": [
     {
@@ -396,62 +600,62 @@
       "text_en": "Shiloh was Israel’s early cultic center before Jerusalem — casting lots in the land division was seen as leaving the decision to God."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
-    12.04,
-    16.2,
-    18.86,
-    21.7,
-    25.42,
-    30.98,
-    37.08,
-    48.08,
-    62.28,
-    69.96,
-    77.0,
-    84.52,
-    93.62,
-    100.8,
-    110.7,
-    117.46,
-    121.56,
-    126.32,
-    129.36,
-    132.02,
-    136.36,
-    147.08,
-    154.04,
-    158.5,
-    163.84,
-    171.02,
-    182.14,
-    189.24,
-    199.3,
-    205.68,
-    212.34,
-    217.0,
-    226.96,
-    240.1,
-    246.04,
-    248.76,
-    251.76,
-    261.28,
-    268.88,
-    272.66,
-    278.8,
-    282.08,
-    284.5,
-    287.44,
-    290.58,
-    295.94,
-    311.48,
-    318.1,
-    326.82,
-    338.54,
-    357.52
+    11.94,
+    17.18,
+    20.28,
+    23.18,
+    27.28,
+    32.22,
+    36.9,
+    47.44,
+    61.46,
+    68.4,
+    77.22,
+    86.76,
+    95.28,
+    105.28,
+    112.84,
+    118.8,
+    123.9,
+    129.4,
+    133.78,
+    137.58,
+    143.18,
+    153.84,
+    161.2,
+    165.42,
+    170.68,
+    177.64,
+    190.06,
+    196.02,
+    207.6,
+    212.64,
+    219.08,
+    225.36,
+    236.78,
+    250.64,
+    256.3,
+    259.46,
+    262.84,
+    271.0,
+    276.6,
+    281.98,
+    287.52,
+    291.16,
+    294.16,
+    298.06,
+    301.7,
+    306.16,
+    323.74,
+    330.84,
+    339.26,
+    349.7,
+    375.08
   ],
   "times_en_usfm": [
     "JOS.19.1",

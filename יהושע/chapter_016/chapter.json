@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 16,
   "title": "יהושע פרק 16",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/16-6ea8bc16373009490fb0f5489aaad94c.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/16-2ac41738ee126483c5d6a625b7defa80.mp3?version_id=1",
   "english": [
     "And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,",
     "And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth,",
@@ -90,16 +90,56 @@
     }
   ],
   "times_en": [
-    3.4,
-    17.34,
-    25.16,
-    35.8,
-    41.58,
-    52.46,
-    62.88,
-    70.74,
-    80.9,
-    89.32
+    {
+      "start": 2.88,
+      "end": 12.02,
+      "usfm": "JOS.16.1"
+    },
+    {
+      "start": 12.02,
+      "end": 18.64,
+      "usfm": "JOS.16.2"
+    },
+    {
+      "start": 18.64,
+      "end": 28.16,
+      "usfm": "JOS.16.3"
+    },
+    {
+      "start": 28.16,
+      "end": 31.82,
+      "usfm": "JOS.16.4"
+    },
+    {
+      "start": 31.82,
+      "end": 41.42,
+      "usfm": "JOS.16.5"
+    },
+    {
+      "start": 41.42,
+      "end": 51.78,
+      "usfm": "JOS.16.6"
+    },
+    {
+      "start": 51.78,
+      "end": 58.68,
+      "usfm": "JOS.16.7"
+    },
+    {
+      "start": 58.68,
+      "end": 69.2,
+      "usfm": "JOS.16.8"
+    },
+    {
+      "start": 69.2,
+      "end": 76.96,
+      "usfm": "JOS.16.9"
+    },
+    {
+      "start": 76.96,
+      "end": 92.96,
+      "usfm": "JOS.16.10"
+    }
   ],
   "did_you_know": [
     {
@@ -121,21 +161,21 @@
       "text_en": "The verse says the Canaanite was not expelled and 'became a subject paying tribute' — this means local inhabitants remained and sometimes worked for or paid taxes to the new rulers, a common outcome after conquests in the ancient Near East."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
-    17.34,
-    25.16,
-    35.8,
-    41.58,
-    52.46,
-    62.88,
-    70.74,
-    80.9,
-    89.32,
-    100.72
+    12.02,
+    18.64,
+    28.16,
+    31.82,
+    41.42,
+    51.78,
+    58.68,
+    69.2,
+    76.96,
+    92.96
   ],
   "times_en_usfm": [
     "JOS.16.1",

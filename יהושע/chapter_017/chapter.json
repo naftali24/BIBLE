@@ -4,8 +4,8 @@
   "book_chapters": 24,
   "chapter": 17,
   "title": "יהושע פרק 17",
-  "english_translation": "BSB",
-  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/1804/32k/JOS/17-2b624deb82d3f06e1bbda88167fc984b.mp3?version_id=3034",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/17-887c675b41b378a04f0c4350847ba1ce.mp3?version_id=1",
   "english": [
     "There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.",
     "There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.",
@@ -114,24 +114,96 @@
     }
   ],
   "times_en": [
-    3.36,
-    21.12,
-    37.88,
-    53.86,
-    72.8,
-    80.04,
-    89.82,
-    99.42,
-    108.2,
-    122.92,
-    135.32,
-    148.52,
-    156.72,
-    166.08,
-    179.12,
-    192.8,
-    205.44,
-    216.0
+    {
+      "start": 2.88,
+      "end": 16.36,
+      "usfm": "JOS.17.1"
+    },
+    {
+      "start": 16.36,
+      "end": 34.78,
+      "usfm": "JOS.17.2"
+    },
+    {
+      "start": 34.78,
+      "end": 47.96,
+      "usfm": "JOS.17.3"
+    },
+    {
+      "start": 47.96,
+      "end": 64.7,
+      "usfm": "JOS.17.4"
+    },
+    {
+      "start": 64.7,
+      "end": 71.88,
+      "usfm": "JOS.17.5"
+    },
+    {
+      "start": 71.88,
+      "end": 77.9,
+      "usfm": "JOS.17.6"
+    },
+    {
+      "start": 77.9,
+      "end": 87.74,
+      "usfm": "JOS.17.7"
+    },
+    {
+      "start": 87.74,
+      "end": 93.16,
+      "usfm": "JOS.17.8"
+    },
+    {
+      "start": 93.16,
+      "end": 106.34,
+      "usfm": "JOS.17.9"
+    },
+    {
+      "start": 106.34,
+      "end": 116.76,
+      "usfm": "JOS.17.10"
+    },
+    {
+      "start": 116.76,
+      "end": 137.18,
+      "usfm": "JOS.17.11"
+    },
+    {
+      "start": 137.18,
+      "end": 144.66,
+      "usfm": "JOS.17.12"
+    },
+    {
+      "start": 144.66,
+      "end": 153.04,
+      "usfm": "JOS.17.13"
+    },
+    {
+      "start": 153.04,
+      "end": 165.48,
+      "usfm": "JOS.17.14"
+    },
+    {
+      "start": 165.48,
+      "end": 177.6,
+      "usfm": "JOS.17.15"
+    },
+    {
+      "start": 177.6,
+      "end": 191.22,
+      "usfm": "JOS.17.16"
+    },
+    {
+      "start": 191.22,
+      "end": 202.38,
+      "usfm": "JOS.17.17"
+    },
+    {
+      "start": 202.38,
+      "end": 221.48,
+      "usfm": "JOS.17.18"
+    }
   ],
   "did_you_know": [
     {
@@ -171,29 +243,29 @@
       "text_en": "They say they cannot drive out the inhabitants 'for iron chariots are there' — describing a military technological advantage, especially effective on plains like the Jezreel Valley."
     }
   ],
-  "english_audio_source": "Berean Standard Audio Bible - Non-drama / YouVersion",
-  "english_audio_version_id": 3034,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
-    21.12,
-    37.88,
-    53.86,
-    72.8,
-    80.04,
-    89.82,
-    99.42,
-    108.2,
-    122.92,
-    135.32,
-    148.52,
-    156.72,
-    166.08,
-    179.12,
-    192.8,
-    205.44,
-    216.0,
-    231.84
+    16.36,
+    34.78,
+    47.96,
+    64.7,
+    71.88,
+    77.9,
+    87.74,
+    93.16,
+    106.34,
+    116.76,
+    137.18,
+    144.66,
+    153.04,
+    165.48,
+    177.6,
+    191.22,
+    202.38,
+    221.48
   ],
   "times_en_usfm": [
     "JOS.17.1",

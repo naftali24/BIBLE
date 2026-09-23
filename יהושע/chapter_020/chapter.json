@@ -7,9 +7,9 @@
   "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0620.mp3?alt=media",
   "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0620.mp3?alt=media",
   "english_translation": "KJV",
-  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
   "english_audio_version_id": 1,
-  "audio_en_url": "",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/20-24d4dd6a4b9dcaea8fa2ca3f83700d13.mp3?version_id=1",
   "verses": [
     "וַיְדַבֵּר יְהוָה, אֶל-יְהוֹשֻׁעַ לֵאמֹר.",
     "דַּבֵּר אֶל-בְּנֵי יִשְׂרָאֵל, לֵאמֹר:  תְּנוּ לָכֶם אֶת-עָרֵי הַמִּקְלָט, אֲשֶׁר-דִּבַּרְתִּי אֲלֵיכֶם בְּיַד-מֹשֶׁה.",
@@ -108,10 +108,76 @@
   ],
   "times": [],
   "times_he": [],
-  "times_en": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 6.48,
+      "usfm": "JOS.20.1"
+    },
+    {
+      "start": 6.48,
+      "end": 14.46,
+      "usfm": "JOS.20.2"
+    },
+    {
+      "start": 14.46,
+      "end": 23.52,
+      "usfm": "JOS.20.3"
+    },
+    {
+      "start": 23.52,
+      "end": 39.4,
+      "usfm": "JOS.20.4"
+    },
+    {
+      "start": 39.4,
+      "end": 50.9,
+      "usfm": "JOS.20.5"
+    },
+    {
+      "start": 50.9,
+      "end": 68.86,
+      "usfm": "JOS.20.6"
+    },
+    {
+      "start": 68.86,
+      "end": 78.14,
+      "usfm": "JOS.20.7"
+    },
+    {
+      "start": 78.14,
+      "end": 91.3,
+      "usfm": "JOS.20.8"
+    },
+    {
+      "start": 91.3,
+      "end": 112.8,
+      "usfm": "JOS.20.9"
+    }
+  ],
   "times_en_source": "YouVersion KJV version_id=1",
-  "times_en_end": [],
-  "times_en_usfm": [],
+  "times_en_end": [
+    6.48,
+    14.46,
+    23.52,
+    39.4,
+    50.9,
+    68.86,
+    78.14,
+    91.3,
+    112.8
+  ],
+  "times_en_usfm": [
+    "JOS.20.1",
+    "JOS.20.2",
+    "JOS.20.3",
+    "JOS.20.4",
+    "JOS.20.5",
+    "JOS.20.6",
+    "JOS.20.7",
+    "JOS.20.8",
+    "JOS.20.9"
+  ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
   "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",

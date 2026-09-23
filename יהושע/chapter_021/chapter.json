@@ -1,0 +1,731 @@
+{
+  "book": "Joshua",
+  "book_he": "יהושע",
+  "book_chapters": 24,
+  "chapter": 21,
+  "title": "יהושע פרק 21",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0621.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0621.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/21-7f9b04f1b9b4ae2040135f68127b84f2.mp3?version_id=1",
+  "verses": [
+    "וַיִּגְּשׁוּ, רָאשֵׁי אֲבוֹת הַלְוִיִּם, אֶל-אֶלְעָזָר הַכֹּהֵן, וְאֶל-יְהוֹשֻׁעַ בִּן-נוּן; וְאֶל-רָאשֵׁי אֲבוֹת הַמַּטּוֹת, לִבְנֵי יִשְׂרָאֵל.",
+    "וַיְדַבְּרוּ אֲלֵיהֶם בְּשִׁלֹה, בְּאֶרֶץ כְּנַעַן לֵאמֹר, יְהוָה צִוָּה בְיַד-מֹשֶׁה, לָתֶת-לָנוּ עָרִים לָשָׁבֶת; וּמִגְרְשֵׁיהֶן, לִבְהֶמְתֵּנוּ.",
+    "וַיִּתְּנוּ בְנֵי-יִשְׂרָאֵל לַלְוִיִּם מִנַּחֲלָתָם, אֶל-פִּי יְהוָה, אֶת-הֶעָרִים הָאֵלֶּה, וְאֶת-מִגְרְשֵׁיהֶן.",
+    "וַיֵּצֵא הַגּוֹרָל, לְמִשְׁפְּחֹת הַקְּהָתִי; וַיְהִי לִבְנֵי אַהֲרֹן הַכֹּהֵן מִן-הַלְוִיִּם, מִמַּטֵּה יְהוּדָה וּמִמַּטֵּה הַשִּׁמְעֹנִי וּמִמַּטֵּה בִנְיָמִן בַּגּוֹרָל--עָרִים, שְׁלֹשׁ עֶשְׂרֵה.",
+    "וְלִבְנֵי קְהָת הַנּוֹתָרִים, מִמִּשְׁפְּחֹת מַטֵּה-אֶפְרַיִם וּמִמַּטֵּה-דָן וּמֵחֲצִי מַטֵּה מְנַשֶּׁה בַּגּוֹרָל--עָרִים עָשֶׂר.",
+    "וְלִבְנֵי גֵרְשׁוֹן, מִמִּשְׁפְּחוֹת מַטֵּה-יִשָּׂשכָר וּמִמַּטֵּה-אָשֵׁר וּמִמַּטֵּה נַפְתָּלִי וּמֵחֲצִי מַטֵּה מְנַשֶּׁה בַבָּשָׁן בַּגּוֹרָל--עָרִים, שְׁלֹשׁ עֶשְׂרֵה.",
+    "לִבְנֵי מְרָרִי לְמִשְׁפְּחֹתָם, מִמַּטֵּה רְאוּבֵן וּמִמַּטֵּה-גָד וּמִמַּטֵּה זְבוּלֻן--עָרִים, שְׁתֵּים עֶשְׂרֵה.",
+    "וַיִּתְּנוּ בְנֵי-יִשְׂרָאֵל לַלְוִיִּם, אֶת-הֶעָרִים הָאֵלֶּה וְאֶת-מִגְרְשֵׁיהֶן, כַּאֲשֶׁר צִוָּה יְהוָה בְּיַד-מֹשֶׁה, בַּגּוֹרָל.",
+    "וַיִּתְּנוּ, מִמַּטֵּה בְּנֵי יְהוּדָה, וּמִמַּטֵּה, בְּנֵי שִׁמְעוֹן--אֵת הֶעָרִים הָאֵלֶּה, אֲשֶׁר-יִקְרָא אֶתְהֶן בְּשֵׁם.",
+    "וַיְהִי לִבְנֵי אַהֲרֹן, מִמִּשְׁפְּחוֹת הַקְּהָתִי מִבְּנֵי לֵוִי:  כִּי לָהֶם הָיָה הַגּוֹרָל, רִאישֹׁנָה.",
+    "וַיִּתְּנוּ לָהֶם אֶת-קִרְיַת אַרְבַּע אֲבִי הָעֲנוֹק, הִיא חֶבְרוֹן--בְּהַר יְהוּדָה; וְאֶת-מִגְרָשֶׁהָ, סְבִיבֹתֶיהָ.",
+    "וְאֶת-שְׂדֵה הָעִיר, וְאֶת-חֲצֵרֶיהָ, נָתְנוּ לְכָלֵב בֶּן-יְפֻנֶּה, בַּאֲחֻזָּתוֹ.",
+    "וְלִבְנֵי אַהֲרֹן הַכֹּהֵן, נָתְנוּ אֶת-עִיר מִקְלַט הָרֹצֵחַ--אֶת-חֶבְרוֹן, וְאֶת-מִגְרָשֶׁהָ; וְאֶת-לִבְנָה, וְאֶת-מִגְרָשֶׁהָ.",
+    "וְאֶת-יַתִּר, וְאֶת-מִגְרָשֶׁהָ, וְאֶת-אֶשְׁתְּמֹעַ, וְאֶת-מִגְרָשֶׁהָ.",
+    "וְאֶת-חֹלֹן, וְאֶת-מִגְרָשֶׁהָ, וְאֶת-דְּבִר, וְאֶת-מִגְרָשֶׁהָ.",
+    "וְאֶת-עַיִן וְאֶת-מִגְרָשֶׁהָ, וְאֶת-יֻטָּה וְאֶת-מִגְרָשֶׁהָ, אֶת-בֵּית שֶׁמֶשׁ, וְאֶת-מִגְרָשֶׁהָ:  עָרִים תֵּשַׁע--מֵאֵת, שְׁנֵי הַשְּׁבָטִים הָאֵלֶּה.",
+    "וּמִמַּטֵּה בִנְיָמִין, אֶת-גִּבְעוֹן וְאֶת-מִגְרָשֶׁהָ, אֶת-גֶּבַע, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-עֲנָתוֹת, וְאֶת-מִגְרָשֶׁהָ, וְאֶת-עַלְמוֹן, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "כָּל-עָרֵי בְנֵי-אַהֲרֹן, הַכֹּהֲנִים--שְׁלֹשׁ-עֶשְׂרֵה עָרִים, וּמִגְרְשֵׁיהֶן.",
+    "וּלְמִשְׁפְּחוֹת בְּנֵי-קְהָת הַלְוִיִּם, הַנּוֹתָרִים מִבְּנֵי קְהָת; וַיְהִי עָרֵי גוֹרָלָם, מִמַּטֵּה אֶפְרָיִם.",
+    "וַיִּתְּנוּ לָהֶם אֶת-עִיר מִקְלַט הָרֹצֵחַ, אֶת-שְׁכֶם וְאֶת-מִגְרָשֶׁהָ--בְּהַר אֶפְרָיִם; וְאֶת-גֶּזֶר, וְאֶת-מִגְרָשֶׁהָ.",
+    "וְאֶת-קִבְצַיִם, וְאֶת-מִגְרָשֶׁהָ, וְאֶת-בֵּית חוֹרֹן, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "וּמִמַּטֵּה-דָן--אֶת-אֶלְתְּקֵא, וְאֶת-מִגְרָשֶׁהָ; אֶת-גִּבְּתוֹן, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-אַיָּלוֹן, וְאֶת-מִגְרָשֶׁהָ, אֶת-גַּת-רִמּוֹן, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "וּמִמַּחֲצִית, מַטֵּה מְנַשֶּׁה--אֶת-תַּעְנַךְ וְאֶת-מִגְרָשֶׁהָ, וְאֶת-גַּת רִמּוֹן וְאֶת-מִגְרָשֶׁהָ:  עָרִים, שְׁתָּיִם.",
+    "כָּל-עָרִים עֶשֶׂר, וּמִגְרְשֵׁיהֶן, לְמִשְׁפְּחוֹת בְּנֵי-קְהָת, הַנּוֹתָרִים.",
+    "וְלִבְנֵי גֵרְשׁוֹן, מִמִּשְׁפְּחֹת הַלְוִיִּם--מֵחֲצִי מַטֵּה מְנַשֶּׁה אֶת-עִיר מִקְלַט הָרֹצֵחַ, אֶת-גלון גּוֹלָן בַּבָּשָׁן וְאֶת-מִגְרָשֶׁהָ וְאֶת-בְּעֶשְׁתְּרָה וְאֶת-מִגְרָשֶׁהָ:  עָרִים, שְׁתָּיִם.",
+    "וּמִמַּטֵּה יִשָּׂשכָר, אֶת-קִשְׁיוֹן וְאֶת-מִגְרָשֶׁהָ; אֶת-דָּבְרַת, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-יַרְמוּת, וְאֶת-מִגְרָשֶׁהָ, אֶת-עֵין גַּנִּים, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "וּמִמַּטֵּה אָשֵׁר, אֶת-מִשְׁאָל וְאֶת-מִגְרָשֶׁהָ; אֶת-עַבְדּוֹן, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-חֶלְקָת, וְאֶת-מִגְרָשֶׁהָ, וְאֶת-רְחֹב, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "וּמִמַּטֵּה נַפְתָּלִי אֶת-עִיר מִקְלַט הָרֹצֵחַ, אֶת-קֶדֶשׁ בַּגָּלִיל וְאֶת-מִגְרָשֶׁהָ וְאֶת-חַמֹּת דֹּאר וְאֶת-מִגְרָשֶׁהָ, וְאֶת-קַרְתָּן, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, שָׁלֹשׁ.",
+    "כָּל-עָרֵי הַגֵּרְשֻׁנִּי, לְמִשְׁפְּחֹתָם--שְׁלֹשׁ-עֶשְׂרֵה עִיר, וּמִגְרְשֵׁיהֶן.",
+    "וּלְמִשְׁפְּחוֹת בְּנֵי-מְרָרִי, הַלְוִיִּם הַנּוֹתָרִים--מֵאֵת מַטֵּה זְבוּלֻן, אֶת-יָקְנְעָם וְאֶת-מִגְרָשֶׁהָ; אֶת-קַרְתָּה, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-דִּמְנָה, וְאֶת-מִגְרָשֶׁהָ, אֶת-נַהֲלָל, וְאֶת-מִגְרָשֶׁהָ:  עָרִים, אַרְבַּע.",
+    "וּמִמַּטֵּה-גָד, אֶת-עִיר מִקְלַט הָרֹצֵחַ, אֶת-רָמֹת בַּגִּלְעָד, וְאֶת-מִגְרָשֶׁהָ; וְאֶת-מַחֲנַיִם, וְאֶת-מִגְרָשֶׁהָ.",
+    "אֶת-חֶשְׁבּוֹן, וְאֶת-מִגְרָשֶׁהָ, אֶת-יַעְזֵר, וְאֶת-מִגְרָשֶׁהָ:  כָּל-עָרִים, אַרְבַּע.",
+    "כָּל-הֶעָרִים לִבְנֵי מְרָרִי, לְמִשְׁפְּחֹתָם, הַנּוֹתָרִים, מִמִּשְׁפְּחוֹת הַלְוִיִּם; וַיְהִי, גּוֹרָלָם--עָרִים, שְׁתֵּים עֶשְׂרֵה.",
+    "כֹּל עָרֵי הַלְוִיִּם, בְּתוֹךְ אֲחֻזַּת בְּנֵי-יִשְׂרָאֵל--עָרִים אַרְבָּעִים וּשְׁמֹנֶה, וּמִגְרְשֵׁיהֶן.",
+    "תִּהְיֶינָה, הֶעָרִים הָאֵלֶּה--עִיר עִיר, וּמִגְרָשֶׁיהָ סְבִיבֹתֶיהָ:  כֵּן, לְכָל-הֶעָרִים הָאֵלֶּה.",
+    "וַיִּתֵּן יְהוָה, לְיִשְׂרָאֵל, אֶת-כָּל-הָאָרֶץ, אֲשֶׁר נִשְׁבַּע לָתֵת לַאֲבוֹתָם; וַיִּרָשׁוּהָ, וַיֵּשְׁבוּ בָהּ.",
+    "וַיָּנַח יְהוָה לָהֶם מִסָּבִיב, כְּכֹל אֲשֶׁר-נִשְׁבַּע לַאֲבוֹתָם; וְלֹא-עָמַד אִישׁ בִּפְנֵיהֶם, מִכָּל-אֹיְבֵיהֶם--אֵת כָּל-אֹיְבֵיהֶם, נָתַן יְהוָה בְּיָדָם.",
+    "לֹא-נָפַל דָּבָר--מִכֹּל הַדָּבָר הַטּוֹב, אֲשֶׁר-דִּבֶּר יְהוָה אֶל-בֵּית יִשְׂרָאֵל:  הַכֹּל, בָּא."
+  ],
+  "english": [
+    "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;",
+    "And they spake unto them at Shiloh in the land of Canaan, saying, The Lord commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.",
+    "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the Lord, these cities and their suburbs.",
+    "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.",
+    "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.",
+    "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.",
+    "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+    "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the Lord commanded by the hand of Moses.",
+    "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name.",
+    "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.",
+    "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.",
+    "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.",
+    "Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,",
+    "And Jattir with her suburbs, and Eshtemoa with her suburbs,",
+    "And Holon with her suburbs, and Debir with her suburbs,",
+    "And Ain with her suburbs, and Juttah with her suburbs, and Bethshemesh with her suburbs; nine cities out of those two tribes.",
+    "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,",
+    "Anathoth with her suburbs, and Almon with her suburbs; four cities.",
+    "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs.",
+    "And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.",
+    "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,",
+    "And Kibzaim with her suburbs, and Bethhoron with her suburbs; four cities.",
+    "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,",
+    "Aijalon with her suburbs, Gathrimmon with her suburbs; four cities.",
+    "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gathrimmon with her suburbs; two cities.",
+    "All the cities were ten with their suburbs for the families of the children of Kohath that remained.",
+    "And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.",
+    "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,",
+    "Jarmuth with her suburbs, Engannim with her suburbs; four cities.",
+    "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,",
+    "Helkath with her suburbs, and Rehob with her suburbs; four cities.",
+    "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities.",
+    "All the cities of the Gershonites according to their families were thirteen cities with their suburbs.",
+    "And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,",
+    "Dimnah with her suburbs, Nahalal with her suburbs; four cities.",
+    "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,",
+    "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.",
+    "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,",
+    "Heshbon with her suburbs, Jazer with her suburbs; four cities in all.",
+    "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities.",
+    "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs.",
+    "These cities were every one with their suburbs round about them: thus were all these cities.",
+    "And the Lord gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.",
+    "And the Lord gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the Lord delivered all their enemies into their hand.",
+    "There failed not ought of any good thing which the Lord had spoken unto the house of Israel; all came to pass."
+  ],
+  "steinsaltz": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "ai_explanation": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "ai_explanation_en": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "perush": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "בקשת הלווים וקביעת הערים",
+      "title_en": "The Levites’ Request and the Allocation of Cities",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "ראשי משפחות הלווים פונים אל אלעזר הכוהן, יהושע וראשי המטות, ומזכירים את ציווי ה׳ למסור להם ערים למגורים ומגרשים לבהמותיהם. בני ישראל נותנים ללווים ערים מתוך נחלתם, על פי ציווי ה׳.",
+      "summary_en": "The heads of the Levite families approach Eleazar the priest, Joshua, and the leaders of the tribes. They recall God’s command to give them cities and pasturelands, and the Israelites provide these cities from their inheritance according to God’s command.",
+      "image_prompt": "A respectful biblical-era assembly in Shiloh: Levite family leaders standing before Eleazar the priest, Joshua, and the tribal leaders, with a map-like arrangement of cities in the background, realistic historical illustration, no modern objects."
+    },
+    {
+      "title": "חלוקת הערים בין משפחות הלווים",
+      "title_en": "The Distribution among the Levite Families",
+      "start_verse": 4,
+      "end_verse": 10,
+      "summary": "הגורל קובע את חלוקת הערים בין משפחות הלווים: בני אהרן מקבלים ערים מיהודה, שמעון ובנימין; בני קהת הנותרים מקבלים ערים מאפרים, דן ומחצי מנשה; בני גרשון מקבלים ערים מיששכר, אשר, נפתלי ומחצי מנשה שבבשן; ובני מררי מקבלים ערים מראובן, גד וזבולון.",
+      "summary_en": "The lot determines the distribution of the cities among the Levite families. The descendants of Aaron receive cities from Judah, Simeon, and Benjamin; the remaining Kohathites receive cities from Ephraim, Dan, and half of Manasseh; Gershon receives cities from Issachar, Asher, Naphtali, and half of Manasseh in Bashan; and Merari receives cities from Reuben, Gad, and Zebulun.",
+      "image_prompt": "A parchment map showing the tribal territories of Israel with marked cities assigned to the four Levite family groups, simple biblical cartography, warm natural colors, no invented labels beyond the tribal names."
+    },
+    {
+      "title": "ערי הכוהנים ביהודה ובבנימין",
+      "title_en": "The Priestly Cities in Judah and Benjamin",
+      "start_verse": 11,
+      "end_verse": 19,
+      "summary": "בני אהרן מקבלים את חברון ואת מגרשיה, בעוד שדות העיר וחצריה ניתנים לכלב בן יפונה. נוסף על חברון נמסרות להם ערים נוספות ביהודה, ולאחר מכן ארבע ערים משבט בנימין, ובסך הכול שלוש עשרה ערים ומגרשיהן.",
+      "summary_en": "The descendants of Aaron receive Hebron and its pasturelands, while the city’s fields and villages are given to Caleb son of Jephunneh. They also receive additional cities from Judah and then four cities from Benjamin, making thirteen cities in all, together with their pasturelands.",
+      "image_prompt": "A biblical city identified as Hebron with surrounding open pastureland, priests receiving a city allotment while Caleb stands nearby, historically grounded landscape, no modern elements."
+    },
+    {
+      "title": "ערי בני קהת הנותרים",
+      "title_en": "The Cities of the Remaining Kohathites",
+      "start_verse": 20,
+      "end_verse": 26,
+      "summary": "משפחות בני קהת הנותרים מקבלות ערים משבט אפרים, ובהן שכם, עיר מקלט, וכן גזר, קבצים ובית חורון. הן מקבלות גם ערים משבט דן ומחצי שבט מנשה, ובסך הכול עשר ערים ומגרשיהן.",
+      "summary_en": "The remaining Kohathite families receive cities from Ephraim, including Shechem, a city of refuge, as well as Gezer, Kibzaim, and Beth-horon. They also receive cities from Dan and half of Manasseh, ten cities in all, together with their pasturelands.",
+      "image_prompt": "A symbolic biblical map highlighting Shechem, Gezer, Beth-horon, and other assigned cities across Ephraim, Dan, and half of Manasseh, clear parchment style, no extra historical claims."
+    },
+    {
+      "title": "ערי בני גרשון",
+      "title_en": "The Cities of the Gershonites",
+      "start_verse": 27,
+      "end_verse": 33,
+      "summary": "בני גרשון מקבלים ערים מחצי שבט מנשה שבבשן, משבט יששכר, משבט אשר ומשבט נפתלי. בין הערים נמצאות גולן, עיר מקלט, קדש בגליל וערים נוספות, ובסך הכול שלוש עשרה ערים ומגרשיהן.",
+      "summary_en": "The Gershonites receive cities from half of Manasseh in Bashan, from Issachar, from Asher, and from Naphtali. Their cities include Golan, a city of refuge, and Kedesh in Galilee, thirteen cities in all, together with their pasturelands.",
+      "image_prompt": "A biblical-era landscape extending from Bashan to Galilee, with several Levite cities marked across the terrain, including a prominent refuge city, naturalistic illustration, no modern buildings."
+    },
+    {
+      "title": "ערי בני מררי וסיכום ההתנחלות",
+      "title_en": "The Cities of the Merarites and the Conclusion",
+      "start_verse": 34,
+      "end_verse": 43,
+      "summary": "בני מררי מקבלים ערים מזבולון, מגד ומראובן, ובהן רמות בגלעד, עיר מקלט, מחניים, חשבון ויעזר. בסך הכול ניתנות ללווים ארבעים ושמונה ערים ומגרשיהן, ולאחר מכן מתואר כי ה׳ נתן לישראל את הארץ, הניח להם מאויביהם, וקיים את דברו.",
+      "summary_en": "The Merarites receive cities from Zebulun, Gad, and Reuben, including Ramoth in Gilead, a city of refuge, Mahanaim, Heshbon, and Jazer. In total, the Levites receive forty-eight cities with their pasturelands; the chapter then states that God gave Israel the land, granted them rest from their enemies, and fulfilled His promise.",
+      "image_prompt": "A wide biblical landscape representing the completed distribution of forty-eight Levite cities, with peaceful settlements, open pasturelands, and the people of Israel resting in the land, realistic ancient setting, no modern elements."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 12.42,
+      "usfm": "JOS.21.1"
+    },
+    {
+      "start": 12.42,
+      "end": 23.22,
+      "usfm": "JOS.21.2"
+    },
+    {
+      "start": 23.22,
+      "end": 30.28,
+      "usfm": "JOS.21.3"
+    },
+    {
+      "start": 30.28,
+      "end": 44.92,
+      "usfm": "JOS.21.4"
+    },
+    {
+      "start": 44.92,
+      "end": 55.16,
+      "usfm": "JOS.21.5"
+    },
+    {
+      "start": 55.16,
+      "end": 66.7,
+      "usfm": "JOS.21.6"
+    },
+    {
+      "start": 66.7,
+      "end": 74.12,
+      "usfm": "JOS.21.7"
+    },
+    {
+      "start": 74.12,
+      "end": 81.76,
+      "usfm": "JOS.21.8"
+    },
+    {
+      "start": 81.76,
+      "end": 88.72,
+      "usfm": "JOS.21.9"
+    },
+    {
+      "start": 88.72,
+      "end": 96.46,
+      "usfm": "JOS.21.10"
+    },
+    {
+      "start": 96.46,
+      "end": 104.92,
+      "usfm": "JOS.21.11"
+    },
+    {
+      "start": 104.92,
+      "end": 110.66,
+      "usfm": "JOS.21.12"
+    },
+    {
+      "start": 110.66,
+      "end": 119.96,
+      "usfm": "JOS.21.13"
+    },
+    {
+      "start": 119.96,
+      "end": 124.56,
+      "usfm": "JOS.21.14"
+    },
+    {
+      "start": 124.56,
+      "end": 127.64,
+      "usfm": "JOS.21.15"
+    },
+    {
+      "start": 127.64,
+      "end": 135.58,
+      "usfm": "JOS.21.16"
+    },
+    {
+      "start": 135.58,
+      "end": 140.16,
+      "usfm": "JOS.21.17"
+    },
+    {
+      "start": 140.16,
+      "end": 144.2,
+      "usfm": "JOS.21.18"
+    },
+    {
+      "start": 144.2,
+      "end": 149.42,
+      "usfm": "JOS.21.19"
+    },
+    {
+      "start": 149.42,
+      "end": 157.8,
+      "usfm": "JOS.21.20"
+    },
+    {
+      "start": 157.8,
+      "end": 165.98,
+      "usfm": "JOS.21.21"
+    },
+    {
+      "start": 165.98,
+      "end": 171.36,
+      "usfm": "JOS.21.22"
+    },
+    {
+      "start": 171.36,
+      "end": 176.9,
+      "usfm": "JOS.21.23"
+    },
+    {
+      "start": 176.9,
+      "end": 181.92,
+      "usfm": "JOS.21.24"
+    },
+    {
+      "start": 181.92,
+      "end": 187.88,
+      "usfm": "JOS.21.25"
+    },
+    {
+      "start": 187.88,
+      "end": 193.18,
+      "usfm": "JOS.21.26"
+    },
+    {
+      "start": 193.18,
+      "end": 206.24,
+      "usfm": "JOS.21.27"
+    },
+    {
+      "start": 206.24,
+      "end": 211.36,
+      "usfm": "JOS.21.28"
+    },
+    {
+      "start": 211.36,
+      "end": 215.44,
+      "usfm": "JOS.21.29"
+    },
+    {
+      "start": 215.44,
+      "end": 219.82,
+      "usfm": "JOS.21.30"
+    },
+    {
+      "start": 219.82,
+      "end": 223.42,
+      "usfm": "JOS.21.31"
+    },
+    {
+      "start": 223.42,
+      "end": 234.02,
+      "usfm": "JOS.21.32"
+    },
+    {
+      "start": 234.02,
+      "end": 239.98,
+      "usfm": "JOS.21.33"
+    },
+    {
+      "start": 239.98,
+      "end": 248.3,
+      "usfm": "JOS.21.34"
+    },
+    {
+      "start": 248.3,
+      "end": 252.66,
+      "usfm": "JOS.21.35"
+    },
+    {
+      "start": 252.66,
+      "end": 257.52,
+      "usfm": "JOS.21.36"
+    },
+    {
+      "start": 257.52,
+      "end": 262.28,
+      "usfm": "JOS.21.37"
+    },
+    {
+      "start": 262.28,
+      "end": 270.42,
+      "usfm": "JOS.21.38"
+    },
+    {
+      "start": 270.42,
+      "end": 275.58,
+      "usfm": "JOS.21.39"
+    },
+    {
+      "start": 275.58,
+      "end": 285.02,
+      "usfm": "JOS.21.40"
+    },
+    {
+      "start": 285.02,
+      "end": 291.6,
+      "usfm": "JOS.21.41"
+    },
+    {
+      "start": 291.6,
+      "end": 297.82,
+      "usfm": "JOS.21.42"
+    },
+    {
+      "start": 297.82,
+      "end": 305.82,
+      "usfm": "JOS.21.43"
+    },
+    {
+      "start": 305.82,
+      "end": 318.42,
+      "usfm": "JOS.21.44"
+    },
+    {
+      "start": 318.42,
+      "end": 333.16,
+      "usfm": "JOS.21.45"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    12.42,
+    23.22,
+    30.28,
+    44.92,
+    55.16,
+    66.7,
+    74.12,
+    81.76,
+    88.72,
+    96.46,
+    104.92,
+    110.66,
+    119.96,
+    124.56,
+    127.64,
+    135.58,
+    140.16,
+    144.2,
+    149.42,
+    157.8,
+    165.98,
+    171.36,
+    176.9,
+    181.92,
+    187.88,
+    193.18,
+    206.24,
+    211.36,
+    215.44,
+    219.82,
+    223.42,
+    234.02,
+    239.98,
+    248.3,
+    252.66,
+    257.52,
+    262.28,
+    270.42,
+    275.58,
+    285.02,
+    291.6,
+    297.82,
+    305.82,
+    318.42,
+    333.16
+  ],
+  "times_en_usfm": [
+    "JOS.21.1",
+    "JOS.21.2",
+    "JOS.21.3",
+    "JOS.21.4",
+    "JOS.21.5",
+    "JOS.21.6",
+    "JOS.21.7",
+    "JOS.21.8",
+    "JOS.21.9",
+    "JOS.21.10",
+    "JOS.21.11",
+    "JOS.21.12",
+    "JOS.21.13",
+    "JOS.21.14",
+    "JOS.21.15",
+    "JOS.21.16",
+    "JOS.21.17",
+    "JOS.21.18",
+    "JOS.21.19",
+    "JOS.21.20",
+    "JOS.21.21",
+    "JOS.21.22",
+    "JOS.21.23",
+    "JOS.21.24",
+    "JOS.21.25",
+    "JOS.21.26",
+    "JOS.21.27",
+    "JOS.21.28",
+    "JOS.21.29",
+    "JOS.21.30",
+    "JOS.21.31",
+    "JOS.21.32",
+    "JOS.21.33",
+    "JOS.21.34",
+    "JOS.21.35",
+    "JOS.21.36",
+    "JOS.21.37",
+    "JOS.21.38",
+    "JOS.21.39",
+    "JOS.21.40",
+    "JOS.21.41",
+    "JOS.21.42",
+    "JOS.21.43",
+    "JOS.21.44",
+    "JOS.21.45"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? ראשי משפחות הלווים פנו אל אלעזר הכוהן, אל יהושע בן נון ואל ראשי המטות בשילה, כדי להזכיר את הציווי לתת ללווים ערים ומגרשים לבהמותיהם.",
+      "text_he": "הידעת? ראשי משפחות הלווים פנו אל אלעזר הכוהן, אל יהושע בן נון ואל ראשי המטות בשילה, כדי להזכיר את הציווי לתת ללווים ערים ומגרשים לבהמותיהם.",
+      "text_en": "Did you know? The heads of the Levite families approached Eleazar the priest, Joshua son of Nun, and the heads of the tribes at Shiloh to remind them of the command to give the Levites cities and pasturelands for their livestock."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? בני אהרן, הכוהנים, קיבלו בגורל שלוש עשרה ערים מנחלות יהודה, שמעון ובנימין.",
+      "text_he": "הידעת? בני אהרן, הכוהנים, קיבלו בגורל שלוש עשרה ערים מנחלות יהודה, שמעון ובנימין.",
+      "text_en": "Did you know? The descendants of Aaron, the priests, received thirteen cities by lot from the inheritances of Judah, Simeon, and Benjamin."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? בני קהת הנותרים קיבלו עשר ערים מנחלות אפרים, דן ומחצי שבט מנשה.",
+      "text_he": "הידעת? בני קהת הנותרים קיבלו עשר ערים מנחלות אפרים, דן ומחצי שבט מנשה.",
+      "text_en": "Did you know? The remaining descendants of Kohath received ten cities from the inheritances of Ephraim, Dan, and half the tribe of Manasseh."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? בני גרשון קיבלו שלוש עשרה ערים מיששכר, אשר, נפתלי ומחצי שבט מנשה שבבשן.",
+      "text_he": "הידעת? בני גרשון קיבלו שלוש עשרה ערים מיששכר, אשר, נפתלי ומחצי שבט מנשה שבבשן.",
+      "text_en": "Did you know? The descendants of Gershon received thirteen cities from Issachar, Asher, Naphtali, and half the tribe of Manasseh in Bashan."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? בני מררי קיבלו שתים עשרה ערים מנחלות ראובן, גד וזבולון.",
+      "text_he": "הידעת? בני מררי קיבלו שתים עשרה ערים מנחלות ראובן, גד וזבולון.",
+      "text_en": "Did you know? The descendants of Merari received twelve cities from the inheritances of Reuben, Gad, and Zebulun."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? לחלק מבני אהרן ניתנה חברון, שנקראה גם קריית ארבע, יחד עם מגרשיה; אולם שדות העיר וחצריה ניתנו לכלב בן יפונה בנחלתו.",
+      "text_he": "הידעת? לחלק מבני אהרן ניתנה חברון, שנקראה גם קריית ארבע, יחד עם מגרשיה; אולם שדות העיר וחצריה ניתנו לכלב בן יפונה בנחלתו.",
+      "text_en": "Did you know? Hebron, also called Kiriath-arba, was given to some of the descendants of Aaron, along with its pasturelands; however, the city's fields and surrounding land were given to Caleb son of Jephunneh as his inheritance."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? כלל ערי בני אהרן הכוהנים היה שלוש עשרה ערים, ולכל אחת מהן היו מגרשים.",
+      "text_he": "הידעת? כלל ערי בני אהרן הכוהנים היה שלוש עשרה ערים, ולכל אחת מהן היו מגרשים.",
+      "text_en": "Did you know? The total number of cities given to the descendants of Aaron the priests was thirteen, and each city had pasturelands around it."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? בני גרשון קיבלו בין השאר את גולן בבשן ואת קדש בגליל, ושתיהן נמנו עם ערי המקלט שניתנו ללווים.",
+      "text_he": "הידעת? בני גרשון קיבלו בין השאר את גולן בבשן ואת קדש בגליל, ושתיהן נמנו עם ערי המקלט שניתנו ללווים.",
+      "text_en": "Did you know? Among other cities, the descendants of Gershon received Golan in Bashan and Kedesh in Galilee, both of which were counted among the cities of refuge given to the Levites."
+    },
+    {
+      "verse": 41,
+      "text": "הידעת? בסך הכול ניתנו ללווים ארבעים ושמונה ערים בתוך נחלות בני ישראל, ולכל הערים היו מגרשים סביבן.",
+      "text_he": "הידעת? בסך הכול ניתנו ללווים ארבעים ושמונה ערים בתוך נחלות בני ישראל, ולכל הערים היו מגרשים סביבן.",
+      "text_en": "Did you know? In all, forty-eight cities within the inheritances of the Israelites were given to the Levites, and each city had pasturelands around it."
+    },
+    {
+      "verse": 43,
+      "text": "הידעת? בסיום הפרק נאמר שה׳ נתן לישראל את כל הארץ שנשבע לתת לאבותיהם, והם ירשו אותה וישבו בה.",
+      "text_he": "הידעת? בסיום הפרק נאמר שה׳ נתן לישראל את כל הארץ שנשבע לתת לאבותיהם, והם ירשו אותה וישבו בה.",
+      "text_en": "Did you know? At the end of the chapter, it says that the Lord gave Israel the whole land He had sworn to give their ancestors, and they took possession of it and settled there."
+    }
+  ]
+}
