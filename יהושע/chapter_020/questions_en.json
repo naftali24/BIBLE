@@ -1,946 +1,368 @@
 {
-  "book": "Joshua",
-  "book_he": "Yehoshua (יהושע)",
+  "version": 1,
+  "book": "joshua",
+  "book_name": "Joshua",
   "chapter": 20,
-  "question_count": 63,
   "paragraphs": [
     {
       "paragraph": 1,
       "start_verse": 1,
-      "end_verse": 2,
-      "title": "Command to Joshua",
+      "end_verse": 3,
+      "title": "The Command to Establish Cities of Refuge",
       "easy": [
         {
-          "question": "Who spoke to Joshua in verse 1?",
           "answers": [
-            "The LORD",
+            "Joshua",
             "Moses",
-            "The people of Israel"
+            "The elders of the city"
           ],
           "correct": 0,
-          "explanation": "The verse opens 'The LORD also spake unto Joshua' — the speaker is the LORD."
+          "explanation": "The first verse says that the Lord spake unto Joshua.",
+          "q": "To whom did the Lord speak at the beginning of the chapter?"
         },
         {
-          "question": "What did the LORD tell Joshua to tell the Israelites in verse 2?",
           "answers": [
-            "To take the land by force",
-            "To give them the cities of refuge",
-            "To abandon the camp"
+            "Cities of trade",
+            "Cities of refuge",
+            "Cities of war"
           ],
           "correct": 1,
-          "explanation": "Verse 2 says 'Appoint out for you cities of refuge' — God commands these refuge cities be provided to Israel."
+          "explanation": "The Lord commanded Israel to appoint cities of refuge.",
+          "q": "What were the children of Israel commanded to appoint?"
         },
         {
-          "question": "When had these cities been mentioned before, according to the verse?",
           "answers": [
-            "Only by Joshua",
-            "By Aaron",
-            "By the hand of Moses"
+            "The elders of the city",
+            "The high priest",
+            "The avenger of blood"
           ],
           "correct": 2,
-          "explanation": "The verse says '...whereof I spake unto you by the hand of Moses' — the instruction was previously given through Moses."
+          "explanation": "The cities were a refuge from the avenger of blood.",
+          "q": "From whom were the cities of refuge to protect the slayer?"
         }
       ],
       "medium": [
         {
-          "question": "What does the phrase 'Appoint out for you cities of refuge' mainly indicate about those cities?",
           "answers": [
-            "That the cities would be private property only",
-            "That they are intended as places of shelter and protection, not merely possessions",
-            "That those cities should be destroyed"
-          ],
-          "correct": 1,
-          "explanation": "The phrase emphasizes these are refuge cities — places of shelter and protection provided to the people."
-        },
-        {
-          "question": "What does the word 'refuge' mean in the phrase 'cities of refuge' (context: 'Appoint out for you cities of refuge')?",
-          "answers": [
-            "A shelter or protection from danger",
-            "A newly built city",
-            "A large commercial center"
+            "To provide a place for an unintentional killer to flee",
+            "To allow a murderer to hide forever",
+            "To serve as homes for all the people"
           ],
           "correct": 0,
-          "explanation": "'Refuge' means a place of shelter or protection; 'cities of refuge' provide protection to those in need."
+          "explanation": "The cities provided refuge for one who killed a person unintentionally.",
+          "q": "What was the purpose of the cities of refuge?"
         },
         {
-          "question": "What does the phrase 'by the hand of Moses' mean here?",
           "answers": [
-            "That Moses physically brought the cities here",
-            "That the matter was previously declared through Moses",
-            "That Moses built the cities"
+            "The city elder",
+            "The person who might pursue the slayer",
+            "The high priest"
           ],
           "correct": 1,
-          "explanation": "'By the hand of Moses' indicates the instruction was earlier delivered through Moses, not that he built them."
+          "explanation": "The slayer was to flee from the avenger of blood.",
+          "q": "In these verses, what does “the avenger of blood” refer to?"
+        },
+        {
+          "answers": [
+            "He killed out of hatred",
+            "He killed in battle",
+            "He killed a person unawares and unwittingly"
+          ],
+          "correct": 2,
+          "explanation": "The refuge was for someone who killed unintentionally and without knowing it.",
+          "q": "What condition describes the person who could flee to a city of refuge?"
         }
       ],
       "challenge": [
         {
-          "question": "Which option correctly describes the chain of commands in these verses?",
           "answers": [
-            "God spoke directly to the Israelite people and told them to build the cities",
-            "God spoke to Joshua, and Joshua was to tell the Israelites about the cities of refuge",
-            "Moses commanded Joshua to give cities to the people"
-          ],
-          "correct": 1,
-          "explanation": "The text shows the LORD speaks to Joshua and commands him to tell the people about the cities of refuge."
-        },
-        {
-          "question": "What does the expression 'by the hand of Moses' imply textually and historically here?",
-          "answers": [
-            "That Moses physically constructed the cities",
-            "That Joshua was told to forget what Moses said",
-            "That the instruction or promise about the refuge cities was previously given through Moses and continues as an authoritative line of instruction"
-          ],
-          "correct": 2,
-          "explanation": "The phrase indicates continuity of authority: the orders were given through Moses and now continue under Joshua."
-        },
-        {
-          "question": "In the phrase 'Appoint out for you cities of refuge' — who, in the usual interpretation, is the one who actually gives the cities?",
-          "answers": [
-            "The LORD (who grants the cities to the people)",
-            "Joshua as the land distributor",
-            "The people by internal exchange"
+            "The eligible person killed unintentionally, not out of hatred",
+            "The eligible person was older",
+            "The eligible person held an office in the city"
           ],
           "correct": 0,
-          "explanation": "The command comes from the LORD via Joshua — the LORD is the ultimate giver of the refuge cities to the people."
+          "explanation": "The passage distinguishes an unintentional killing from an act motivated by hatred.",
+          "q": "What was the main difference between the person eligible for refuge and someone who acted out of hatred?"
+        },
+        {
+          "answers": [
+            "Protection is provided first, before the matter is judged",
+            "The person is judged first and flees afterward",
+            "The avenger of blood receives the person before the city does"
+          ],
+          "correct": 0,
+          "explanation": "The command first provides a place of refuge from the avenger of blood.",
+          "q": "What can be learned from the order of events in these verses?"
+        },
+        {
+          "answers": [
+            "To show that there was no intention to kill",
+            "To show that the person did not know the city",
+            "To show that the person was outside Israel"
+          ],
+          "correct": 0,
+          "explanation": "The wording makes clear that the killing was accidental rather than intentional.",
+          "q": "Why is it emphasized that the killing was done “unawares and unwittingly”?"
         }
       ],
-      "questions": [
+      "short_answers": [
         {
-          "question": "Which option correctly describes the chain of commands in these verses?",
-          "answers": [
-            "God spoke directly to the Israelite people and told them to build the cities",
-            "God spoke to Joshua, and Joshua was to tell the Israelites about the cities of refuge",
-            "Moses commanded Joshua to give cities to the people"
-          ],
-          "correct": 1,
-          "explanation": "The text shows the LORD speaks to Joshua and commands him to tell the people about the cities of refuge."
+          "question": "Complete the phrase: “Appoint out for you cities of _____.”",
+          "answer": "refuge",
+          "explanation": "Joshua 20:2 commands Israel to appoint cities of refuge."
         },
         {
-          "question": "What does the expression 'by the hand of Moses' imply textually and historically here?",
-          "answers": [
-            "That Moses physically constructed the cities",
-            "That Joshua was told to forget what Moses said",
-            "That the instruction or promise about the refuge cities was previously given through Moses and continues as an authoritative line of instruction"
-          ],
-          "correct": 2,
-          "explanation": "The phrase indicates continuity of authority: the orders were given through Moses and now continue under Joshua."
+          "question": "What kind of person may flee to the city according to verse 3?",
+          "answer": "A slayer who killed a person unawares and unwittingly.",
+          "explanation": "Verse 3 describes the unintentional killer who may flee there."
         },
         {
-          "question": "In the phrase 'Appoint out for you cities of refuge' — who, in the usual interpretation, is the one who actually gives the cities?",
-          "answers": [
-            "The LORD (who grants the cities to the people)",
-            "Joshua as the land distributor",
-            "The people by internal exchange"
-          ],
-          "correct": 0,
-          "explanation": "The command comes from the LORD via Joshua — the LORD is the ultimate giver of the refuge cities to the people."
+          "question": "From whom do the cities provide refuge?",
+          "answer": "The avenger of blood.",
+          "explanation": "The cities were appointed as protection from the avenger of blood."
         }
-      ]
+      ],
+      "idea": 1
     },
     {
       "paragraph": 2,
-      "start_verse": 3,
-      "end_verse": 3,
-      "title": "Who may flee",
+      "start_verse": 4,
+      "end_verse": 6,
+      "title": "Receiving the Fugitive and Bringing Him to Trial",
       "easy": [
         {
-          "question": "Who, according to the verse, is to 'flee thither'?",
           "answers": [
-            "The one that killed a person (a slayer)",
-            "A victorious soldier",
-            "A wise teacher of Torah"
-          ],
-          "correct": 0,
-          "explanation": "The verse speaks of 'the slayer that killeth any person unawares and unwittingly' — one who killed is the person who may flee."
-        },
-        {
-          "question": "How is the person's action described in the verse?",
-          "answers": [
-            "Done with premeditation",
-            "Unwittingly and unintentionally",
-            "As malicious theft"
+            "At the high priest’s house",
+            "At the entering of the gate of the city",
+            "Outside the camp"
           ],
           "correct": 1,
-          "explanation": "The verse uses 'unawares and unwittingly' — the act was by accident, not intentional."
+          "explanation": "The verse says that he stands at the entering of the city gate.",
+          "q": "Where does the slayer stand when he comes to the city?"
         },
         {
-          "question": "What is the role of the place mentioned in the verse?",
           "answers": [
-            "A court to judge him",
-            "A place where the avenger will find him",
-            "A refuge that protects him from the avenger of blood"
+            "The elders of the city",
+            "The avenger of blood",
+            "All the children of Israel"
+          ],
+          "correct": 0,
+          "explanation": "He declares his cause in the ears of the elders of that city.",
+          "q": "To whom does the slayer declare his cause?"
+        },
+        {
+          "answers": [
+            "A sword",
+            "Land outside the city",
+            "A place to dwell among them"
           ],
           "correct": 2,
-          "explanation": "The verse says the cities 'shall be your refuge from the avenger of blood' — they protect the slayer."
+          "explanation": "The elders take him into the city and give him a place to dwell among them.",
+          "q": "What do the elders give the slayer?"
         }
       ],
       "medium": [
         {
-          "question": "What condition is required for someone to be allowed to flee there, according to the verse?",
           "answers": [
-            "That the act was unwittingly done without intent",
-            "That he be a Levite only",
-            "That he have many witnesses"
+            "Because he fled to another city",
+            "Because he killed unwittingly and had not hated his neighbour beforetime",
+            "Because he had already been judged"
+          ],
+          "correct": 1,
+          "explanation": "The passage says that he smote his neighbour unwittingly and had not hated him beforetime.",
+          "q": "Why do the elders not deliver the slayer to the avenger of blood?"
+        },
+        {
+          "answers": [
+            "Until he stands before the congregation for judgment and until the death of the high priest",
+            "Until the elders leave the city",
+            "Until the avenger of blood arrives"
           ],
           "correct": 0,
-          "explanation": "The verse refers specifically to a slayer 'unawares and unwittingly' — if the killing was accidental, he is eligible for refuge."
+          "explanation": "He remains there until judgment and until the death of the high priest in those days.",
+          "q": "How long does the slayer remain in the city of refuge?"
         },
         {
-          "question": "What does 'avenger of blood' mean in the phrase 'refuge from the avenger of blood'?",
           "answers": [
-            "A neighbor who protects the household",
-            "A relative seeking to avenge the death of the slain",
-            "A judge who decides the case"
+            "Only since yesterday",
+            "Previously or beforehand",
+            "On the day of judgment"
           ],
           "correct": 1,
-          "explanation": "'Avenger of blood' refers to a kinsman who seeks to avenge the slain; the city protects from that avenger."
-        },
-        {
-          "question": "What does 'unwittingly' mean in the context of the verse?",
-          "answers": [
-            "That the fugitive asks for financial help",
-            "That the act lacked intent so he is eligible for refuge",
-            "That the fugitive knew the consequences beforehand"
-          ],
-          "correct": 1,
-          "explanation": "'Unwittingly' indicates lack of intent or awareness; in context it shows the act was accidental and thus qualifies for refuge."
+          "explanation": "The phrase means that the slayer had not hated the victim beforehand.",
+          "q": "What does “beforetime” mean in the phrase “hated him not beforetime”?"
         }
       ],
       "challenge": [
         {
-          "question": "What was the main social effect of providing these cities of refuge as described in the verse?",
           "answers": [
-            "To encourage private blood vengeance",
-            "To turn the cities into havens for professional criminals",
-            "To reduce blood vengeance and preserve social order"
+            "He flees, dwells in the city, stands before the congregation, and then returns",
+            "He is judged, flees, receives a place, and then returns",
+            "He returns home, flees, is judged, and then receives a place"
           ],
-          "correct": 2,
-          "explanation": "Offering refuge to those who killed unintentionally prevented private revenge and lessened family feuds, preserving social order."
+          "correct": 0,
+          "explanation": "He flees to the city, is received there, faces judgment, and may return after the high priest’s death.",
+          "q": "Which sequence correctly describes what happens to the slayer?"
         },
         {
-          "question": "What does the term 'slayer' ('the slayer that killeth') mean in this context?",
           "answers": [
-            "Only damage to property",
-            "One who struck a person and caused death — i.e., a killer",
-            "A term for a mentally ill person"
+            "Permission from the avenger of blood",
+            "The death of the high priest who shall be in those days",
+            "The departure of the city elders"
           ],
           "correct": 1,
-          "explanation": "'Slayer' here denotes someone who struck and caused the death of a person; in context it refers to a killer, even if unintentional."
+          "explanation": "After the death of the high priest, the slayer may return to his own city and house.",
+          "q": "What allows the slayer to return to his city and house?"
         },
         {
-          "question": "What does the verse indicate about the avenger's treatment of a person who is standing in the city of refuge?",
           "answers": [
-            "The avenger must negotiate compensation with him",
-            "The avenger may not harm him while he is inside the city",
-            "The fugitive must immediately leave and face trial elsewhere"
+            "The circumstances are considered before he is received",
+            "The slayer does not need to stand trial",
+            "The elders decide to pursue him"
           ],
-          "correct": 1,
-          "explanation": "The verse states the city is a refuge 'from the avenger of blood' — the avenger cannot kill him while he is in the city."
+          "correct": 0,
+          "explanation": "He explains his case to the elders, and later stands before the congregation for judgment.",
+          "q": "What can be inferred from the fact that the slayer declares his cause to the elders?"
         }
       ],
-      "questions": [
+      "short_answers": [
         {
-          "question": "What was the main social effect of providing these cities of refuge as described in the verse?",
-          "answers": [
-            "To encourage private blood vengeance",
-            "To turn the cities into havens for professional criminals",
-            "To reduce blood vengeance and preserve social order"
-          ],
-          "correct": 2,
-          "explanation": "Offering refuge to those who killed unintentionally prevented private revenge and lessened family feuds, preserving social order."
+          "question": "Where does the fugitive declare his cause?",
+          "answer": "In the ears of the elders of the city.",
+          "explanation": "He explains his case to the elders at the city gate."
         },
         {
-          "question": "What does the term 'slayer' ('the slayer that killeth') mean in this context?",
-          "answers": [
-            "Only damage to property",
-            "One who struck a person and caused death — i.e., a killer",
-            "A term for a mentally ill person"
-          ],
-          "correct": 1,
-          "explanation": "'Slayer' here denotes someone who struck and caused the death of a person; in context it refers to a killer, even if unintentional."
+          "question": "Until what two events does the slayer dwell in the city?",
+          "answer": "Until he stands before the congregation for judgment and until the death of the high priest.",
+          "explanation": "These two events mark the period of his stay."
         },
         {
-          "question": "What does the verse indicate about the avenger's treatment of a person who is standing in the city of refuge?",
-          "answers": [
-            "The avenger must negotiate compensation with him",
-            "The avenger may not harm him while he is inside the city",
-            "The fugitive must immediately leave and face trial elsewhere"
-          ],
-          "correct": 1,
-          "explanation": "The verse states the city is a refuge 'from the avenger of blood' — the avenger cannot kill him while he is in the city."
+          "question": "Where may the slayer go after the death of the high priest?",
+          "answer": "To his own city and his own house.",
+          "explanation": "The verse says he may return to the city from which he fled."
         }
-      ]
+      ],
+      "idea": 2
     },
     {
       "paragraph": 3,
-      "start_verse": 4,
-      "end_verse": 4,
-      "title": "Arrival at the gate",
-      "easy": [
-        {
-          "question": "To where did the fugitive flee according to the verse?",
-          "answers": [
-            "To one of those cities",
-            "To the king's palace",
-            "To the wilderness"
-          ],
-          "correct": 0,
-          "explanation": "The verse says the slayer 'may flee thither' — he flees to one of the named cities."
-        },
-        {
-          "question": "What does the fugitive do when he reaches the gate of the city?",
-          "answers": [
-            "Enters immediately into a house",
-            "Stands at the gate and speaks to the elders",
-            "Flees again at once"
-          ],
-          "correct": 1,
-          "explanation": "He 'shall stand at the entering of the gate... and declare his cause in the ears of the elders' — he speaks to the elders at the gate."
-        },
-        {
-          "question": "How does the city respond after the elders hear him speak?",
-          "answers": [
-            "They send him to another town",
-            "They place him under punishment",
-            "They take him in, give him a place, and he dwells among them"
-          ],
-          "correct": 2,
-          "explanation": "The verse says the city 'shall take him into the city... and give him a place, that he may dwell among them.'"
-        }
-      ],
-      "medium": [
-        {
-          "question": "To whom exactly does the fugitive speak when he stands at the gate?",
-          "answers": [
-            "To the general populace",
-            "To the crowd gathered outside",
-            "To the elders of the city"
-          ],
-          "correct": 2,
-          "explanation": "The verse explicitly says he 'declare his cause in the ears of the elders of that city' — his address is to the city elders."
-        },
-        {
-          "question": "What does 'entering of the gate' mean in the phrase 'stand at the entering of the gate'?",
-          "answers": [
-            "The entrance or opening of the gate",
-            "A small house beside the gate",
-            "A council chamber"
-          ],
-          "correct": 0,
-          "explanation": "Here 'entering of the gate' refers to the entrance/opening of the city gate — the public entry point."
-        },
-        {
-          "question": "What happens right after the elders hear the fugitive, according to the verse?",
-          "answers": [
-            "The elders order him to leave",
-            "The city takes him in and gives him a place where he may dwell",
-            "He is immediately tried in court"
-          ],
-          "correct": 1,
-          "explanation": "The verse continues that the city 'shall take him in... and give him a place, that he may dwell among them.'"
-        }
-      ],
-      "challenge": [
-        {
-          "question": "Why is it likely that the fugitive stands at the gate specifically to speak with the elders?",
-          "answers": [
-            "Because the gate was only a place of worship",
-            "Because the elders sat at the gate and it was the place for dispute resolution",
-            "Because the gate is an isolated location"
-          ],
-          "correct": 1,
-          "explanation": "In biblical practice elders often sat at the city gate to adjudicate disputes, so the gate was the public place for decisions."
-        },
-        {
-          "question": "When the verse refers to 'one of those cities', which cities are intended in the broader context of the chapter?",
-          "answers": [
-            "Major commercial centers",
-            "Cities of refuge for fugitives",
-            "Royal fortified cities"
-          ],
-          "correct": 1,
-          "explanation": "In the chapter the cities named are the cities of refuge — designated places for fugitives to flee."
-        },
-        {
-          "question": "What is implied by the phrase 'and give him a place, that he may dwell among them'?",
-          "answers": [
-            "That they press him into military service",
-            "That he is absorbed into the community and lives with them in freedom",
-            "That he is forced into permanent servitude"
-          ],
-          "correct": 1,
-          "explanation": "The wording implies the city accepts him and provides lodging so he may live among the community, not as forced labor."
-        }
-      ],
-      "questions": [
-        {
-          "question": "Why is it likely that the fugitive stands at the gate specifically to speak with the elders?",
-          "answers": [
-            "Because the gate was only a place of worship",
-            "Because the elders sat at the gate and it was the place for dispute resolution",
-            "Because the gate is an isolated location"
-          ],
-          "correct": 1,
-          "explanation": "In biblical practice elders often sat at the city gate to adjudicate disputes, so the gate was the public place for decisions."
-        },
-        {
-          "question": "When the verse refers to 'one of those cities', which cities are intended in the broader context of the chapter?",
-          "answers": [
-            "Major commercial centers",
-            "Cities of refuge for fugitives",
-            "Royal fortified cities"
-          ],
-          "correct": 1,
-          "explanation": "In the chapter the cities named are the cities of refuge — designated places for fugitives to flee."
-        },
-        {
-          "question": "What is implied by the phrase 'and give him a place, that he may dwell among them'?",
-          "answers": [
-            "That they press him into military service",
-            "That he is absorbed into the community and lives with them in freedom",
-            "That he is forced into permanent servitude"
-          ],
-          "correct": 1,
-          "explanation": "The wording implies the city accepts him and provides lodging so he may live among the community, not as forced labor."
-        }
-      ]
-    },
-    {
-      "paragraph": 4,
-      "start_verse": 5,
-      "end_verse": 6,
-      "title": "Protection and judgment",
-      "easy": [
-        {
-          "question": "What does the 'avenger of blood' do according to the verse?",
-          "answers": [
-            "Pursues and seeks the slayer",
-            "Pays money to the family",
-            "Acts as judge of the case"
-          ],
-          "correct": 0,
-          "explanation": "The verse says 'the avenger of blood shall pursue after him' — he chases the person who killed the relation."
-        },
-        {
-          "question": "Why does the avenger not have immediate hold of the slayer, according to the verse?",
-          "answers": [
-            "Because the slayer was killed in war",
-            "Because the killing was unwitting — accidental",
-            "Because the avenger doesn't know who the slayer is"
-          ],
-          "correct": 1,
-          "explanation": "The verse notes 'because he smote his neighbour unwittingly' — the killing was accidental, so the avenger does not immediately seize him."
-        },
-        {
-          "question": "Where does the slayer stay to be protected until judgment?",
-          "answers": [
-            "In the temple",
-            "In exile in another land",
-            "In the city of refuge"
-          ],
-          "correct": 2,
-          "explanation": "The verse indicates he shall 'dwell in that city' — the city of refuge protects him until judgment."
-        }
-      ],
-      "medium": [
-        {
-          "question": "How long shall the slayer dwell in that city, according to the verse?",
-          "answers": [
-            "Until the death of the high priest",
-            "Until he seeks forgiveness from the victim's family",
-            "Until the family feud ends"
-          ],
-          "correct": 0,
-          "explanation": "The verse explicitly says 'until the death of the high priest that shall be in those days' — the high priest's death marks the end of his stay."
-        },
-        {
-          "question": "What does 'avenger' mean in the phrase 'avenger of blood'?",
-          "answers": [
-            "One who protects the slayer",
-            "A relative who seeks revenge or justice on behalf of the slain",
-            "A local government official"
-          ],
-          "correct": 1,
-          "explanation": "Here 'avenger' refers to a kinsman who seeks to avenge the death of the slain person."
-        },
-        {
-          "question": "What does the verse indicate about the relationship between the slayer and the victim before the event?",
-          "answers": [
-            "They were close relatives",
-            "He had not hated him before yesterday",
-            "They had been enemies for a long time"
-          ],
-          "correct": 1,
-          "explanation": "The verse states he 'hated him not beforetime' — there was no longstanding hatred, supporting the claim the act was accidental."
-        }
-      ],
-      "challenge": [
-        {
-          "question": "Why logically would a slayer not be seized immediately if the striking was 'unwittingly' done?",
-          "answers": [
-            "Because an unintentional act does not justify immediate blood vengeance",
-            "Because the law forbids any arrest without a written warrant",
-            "Because the community considers it a more serious crime"
-          ],
-          "correct": 0,
-          "explanation": "The distinction 'unwittingly' indicates an accidental killing; the law protects such persons from immediate revenge."
-        },
-        {
-          "question": "What is the significance of the high priest's death for the slayer's situation according to the verse?",
-          "answers": [
-            "That evidence against the slayer will be gathered at that time",
-            "That the slayer is released and may return to his city and house",
-            "That a new trial is required immediately"
-          ],
-          "correct": 1,
-          "explanation": "The verse states that upon the high priest's death the slayer may return home — the priest's death ends the special asylum status."
-        },
-        {
-          "question": "What legal-social purpose do these cities seem to serve?",
-          "answers": [
-            "To encourage family vengeance",
-            "To balance the right of vengeance with protection for accidental killers",
-            "To grant full immunity to all killers"
-          ],
-          "correct": 1,
-          "explanation": "The arrangement gives asylum to accidental killers, balancing the family's right to avenge with protection for those who erred unintentionally."
-        }
-      ],
-      "questions": [
-        {
-          "question": "Why logically would a slayer not be seized immediately if the striking was 'unwittingly' done?",
-          "answers": [
-            "Because an unintentional act does not justify immediate blood vengeance",
-            "Because the law forbids any arrest without a written warrant",
-            "Because the community considers it a more serious crime"
-          ],
-          "correct": 0,
-          "explanation": "The distinction 'unwittingly' indicates an accidental killing; the law protects such persons from immediate revenge."
-        },
-        {
-          "question": "What is the significance of the high priest's death for the slayer's situation according to the verse?",
-          "answers": [
-            "That evidence against the slayer will be gathered at that time",
-            "That the slayer is released and may return to his city and house",
-            "That a new trial is required immediately"
-          ],
-          "correct": 1,
-          "explanation": "The verse states that upon the high priest's death the slayer may return home — the priest's death ends the special asylum status."
-        },
-        {
-          "question": "What legal-social purpose do these cities seem to serve?",
-          "answers": [
-            "To encourage family vengeance",
-            "To balance the right of vengeance with protection for accidental killers",
-            "To grant full immunity to all killers"
-          ],
-          "correct": 1,
-          "explanation": "The arrangement gives asylum to accidental killers, balancing the family's right to avenge with protection for those who erred unintentionally."
-        }
-      ]
-    },
-    {
-      "paragraph": 5,
       "start_verse": 7,
-      "end_verse": 7,
-      "title": "Cities of refuge in the land",
-      "easy": [
-        {
-          "question": "Which city in the verse is called Hebron?",
-          "answers": [
-            "Kirjath-arba",
-            "Shechem",
-            "Kedesh"
-          ],
-          "correct": 0,
-          "explanation": "The verse says 'Kirjath-arba, which is Hebron' — Kirjath-arba is Hebron."
-        },
-        {
-          "question": "On which hill is Shechem located according to the verse?",
-          "answers": [
-            "Mount Naphtali",
-            "Mount Ephraim",
-            "Mount Judah"
-          ],
-          "correct": 1,
-          "explanation": "The verse names 'Shechem in mount Ephraim' — Shechem is in the hill country of Ephraim."
-        },
-        {
-          "question": "Where is Kedesh placed in the verse?",
-          "answers": [
-            "In mount Ephraim",
-            "In mount Judah",
-            "In Galilee in mount Naphtali"
-          ],
-          "correct": 2,
-          "explanation": "The verse mentions 'Kedesh in Galilee in mount Naphtali' — Kedesh is in Naphtali in the Galilee region."
-        }
-      ],
-      "medium": [
-        {
-          "question": "Which of the following cities is NOT mentioned in this verse?",
-          "answers": [
-            "Shechem",
-            "Kedesh",
-            "Bethel"
-          ],
-          "correct": 2,
-          "explanation": "The verse lists Kedesh, Shechem, and Kirjath-arba (Hebron); Bethel is not included."
-        },
-        {
-          "question": "Why does the verse add 'which is Hebron' after 'Kirjath-arba'?",
-          "answers": [
-            "To clarify that the other city nearby is Hebron",
-            "To indicate that Kirjath-arba is also known by the name Hebron",
-            "To say that the city is in ruins"
-          ],
-          "correct": 1,
-          "explanation": "The phrase clarifies that Kirjath-arba is the same place as Hebron — it gives the alternative or known name."
-        },
-        {
-          "question": "In the phrase 'Kirjath-arba, which is Hebron,' what does 'which is' indicate?",
-          "answers": [
-            "That it refers to a nearby town",
-            "That this is the name of the same city",
-            "That it is a small, isolated city"
-          ],
-          "correct": 1,
-          "explanation": "'Which is' identifies Kirjath-arba as the same place called Hebron — it equates the two names."
-        }
-      ],
-      "challenge": [
-        {
-          "question": "What can be inferred from the locations of Kedesh, Shechem, and Kirjath-arba as given in the verse?",
-          "answers": [
-            "They are important religious sites only, unrelated to location",
-            "They are situated on different hill regions (Naphtali, Ephraim, Judah)",
-            "They are all in the northern part of the land only"
-          ],
-          "correct": 1,
-          "explanation": "The verse gives each city with its regional hill (Naphtali, Ephraim, Judah), indicating geographic spread across different regions."
-        },
-        {
-          "question": "How should the phrase 'Kirjath-arba, which is Hebron' be understood regarding place names?",
-          "answers": [
-            "That Kirjath-arba and Shechem are the same place",
-            "That Kirjath-arba is a mountain called Hebron",
-            "That Kirjath-arba itself is Hebron (two names for the same city)"
-          ],
-          "correct": 2,
-          "explanation": "The construction shows Kirjath-arba is another name for Hebron — both names refer to the same city."
-        },
-        {
-          "question": "What historical-geographical point does this verse suggest about biblical towns?",
-          "answers": [
-            "That biblical towns were distributed across various heights and regions in ancient Israel",
-            "That they all belonged to one single local government unit",
-            "That short-named towns are only in Judah"
-          ],
-          "correct": 0,
-          "explanation": "Because each city is named with its hill region, the verse implies towns were dispersed across different geographic zones."
-        }
-      ],
-      "questions": [
-        {
-          "question": "What can be inferred from the locations of Kedesh, Shechem, and Kirjath-arba as given in the verse?",
-          "answers": [
-            "They are important religious sites only, unrelated to location",
-            "They are situated on different hill regions (Naphtali, Ephraim, Judah)",
-            "They are all in the northern part of the land only"
-          ],
-          "correct": 1,
-          "explanation": "The verse gives each city with its regional hill (Naphtali, Ephraim, Judah), indicating geographic spread across different regions."
-        },
-        {
-          "question": "How should the phrase 'Kirjath-arba, which is Hebron' be understood regarding place names?",
-          "answers": [
-            "That Kirjath-arba and Shechem are the same place",
-            "That Kirjath-arba is a mountain called Hebron",
-            "That Kirjath-arba itself is Hebron (two names for the same city)"
-          ],
-          "correct": 2,
-          "explanation": "The construction shows Kirjath-arba is another name for Hebron — both names refer to the same city."
-        },
-        {
-          "question": "What historical-geographical point does this verse suggest about biblical towns?",
-          "answers": [
-            "That biblical towns were distributed across various heights and regions in ancient Israel",
-            "That they all belonged to one single local government unit",
-            "That short-named towns are only in Judah"
-          ],
-          "correct": 0,
-          "explanation": "Because each city is named with its hill region, the verse implies towns were dispersed across different geographic zones."
-        }
-      ]
-    },
-    {
-      "paragraph": 6,
-      "start_verse": 8,
-      "end_verse": 8,
-      "title": "Cities of refuge beyond the Jordan",
-      "easy": [
-        {
-          "question": "Where were the cities named in this verse given to the Levites?",
-          "answers": [
-            "Beyond the Jordan",
-            "West of the Jordan",
-            "In the land of Canaan"
-          ],
-          "correct": 0,
-          "explanation": "The verse begins 'And on the other side Jordan by Jericho eastward' — the cities were on the east side of the Jordan."
-        },
-        {
-          "question": "Which city is said to be given from the tribe of Reuben in this verse?",
-          "answers": [
-            "Ramoth",
-            "Bezer",
-            "Golan"
-          ],
-          "correct": 1,
-          "explanation": "The verse links 'Bezer in the wilderness... out of the tribe of Reuben' — Bezer was from Reuben's allotment."
-        },
-        {
-          "question": "Which city is assigned from the tribe of Manasseh according to the verse?",
-          "answers": [
-            "Bezer",
-            "Ramoth",
-            "Golan"
-          ],
-          "correct": 2,
-          "explanation": "The verse mentions 'Golan in Bashan out of the tribe of Manasseh' — Golan (Golan of Bashan) came from Manasseh."
-        }
-      ],
-      "medium": [
-        {
-          "question": "What does 'eastward' mean in the phrase 'by Jericho eastward' (context: 'on the other side Jordan by Jericho eastward')?",
-          "answers": [
-            "To the west",
-            "To the east (direction of location)",
-            "Contrary to another place"
-          ],
-          "correct": 1,
-          "explanation": "'Eastward' indicates the eastern direction — here it situates the cities on the east side of the Jordan, by Jericho."
-        },
-        {
-          "question": "Which tribe is associated with 'Ramoth in Gilead' in the verse?",
-          "answers": [
-            "Reuben",
-            "Manasseh",
-            "Gad"
-          ],
-          "correct": 2,
-          "explanation": "The verse associates 'Ramoth in Gilead' with 'out of the tribe of Gad' — Ramoth came from Gad's territory."
-        },
-        {
-          "question": "What terrain description is given for Bezer in the verse?",
-          "answers": [
-            "In the wilderness and on the plain",
-            "On a mountain and in a cave",
-            "In a valley and on a hill"
-          ],
-          "correct": 0,
-          "explanation": "The verse describes Bezer as 'in the wilderness upon the plain' — indicating a desert plain location."
-        }
-      ],
-      "challenge": [
-        {
-          "question": "What does the verse suggest about the type of allotments the Levites received?",
-          "answers": [
-            "The Levites received no land at all",
-            "The Levites received cities within the tribal territories",
-            "The Levites received a large, separate territory of their own"
-          ],
-          "correct": 1,
-          "explanation": "The verse lists cities given 'out of the tribe of...' which shows the Levites received cities drawn from tribal lands rather than a full separate territory."
-        },
-        {
-          "question": "The verse appears as 'and Golan in Bashan' with brackets in some texts: what do square brackets usually indicate in modern biblical editing?",
-          "answers": [
-            "An instruction from the oral tradition",
-            "A scribal error to be ignored",
-            "That the word was added or indicated by an editor as a restored or editorial reading"
-          ],
-          "correct": 2,
-          "explanation": "Square brackets often mark a word added or restored by editors or translators, not necessarily in the original manuscript."
-        },
-        {
-          "question": "What does the phrase 'out of the tribe of Gad' mean in this context?",
-          "answers": [
-            "Taken from the inheritance of the tribe of Gad",
-            "The name of a military leader",
-            "A type of structure or shelter"
-          ],
-          "correct": 0,
-          "explanation": "'Out of the tribe of Gad' means the city was within the tribal allotment given to Gad and was assigned from that tribe's lands."
-        }
-      ],
-      "questions": [
-        {
-          "question": "What does the verse suggest about the type of allotments the Levites received?",
-          "answers": [
-            "The Levites received no land at all",
-            "The Levites received cities within the tribal territories",
-            "The Levites received a large, separate territory of their own"
-          ],
-          "correct": 1,
-          "explanation": "The verse lists cities given 'out of the tribe of...' which shows the Levites received cities drawn from tribal lands rather than a full separate territory."
-        },
-        {
-          "question": "The verse appears as 'and Golan in Bashan' with brackets in some texts: what do square brackets usually indicate in modern biblical editing?",
-          "answers": [
-            "An instruction from the oral tradition",
-            "A scribal error to be ignored",
-            "That the word was added or indicated by an editor as a restored or editorial reading"
-          ],
-          "correct": 2,
-          "explanation": "Square brackets often mark a word added or restored by editors or translators, not necessarily in the original manuscript."
-        },
-        {
-          "question": "What does the phrase 'out of the tribe of Gad' mean in this context?",
-          "answers": [
-            "Taken from the inheritance of the tribe of Gad",
-            "The name of a military leader",
-            "A type of structure or shelter"
-          ],
-          "correct": 0,
-          "explanation": "'Out of the tribe of Gad' means the city was within the tribal allotment given to Gad and was assigned from that tribe's lands."
-        }
-      ]
-    },
-    {
-      "paragraph": 7,
-      "start_verse": 9,
       "end_verse": 9,
-      "title": "Purpose of the cities",
+      "title": "The Six Cities of Refuge",
       "easy": [
         {
-          "question": "What was the role of 'these cities' in the verse?",
           "answers": [
-            "Markets for goods",
-            "Places of refuge for fugitives",
-            "Residences for kings"
+            "Three",
+            "Six",
+            "Nine"
           ],
           "correct": 1,
-          "explanation": "The verse states these were cities where the slayer might flee — they are refuge cities."
+          "explanation": "The passage lists six cities of refuge.",
+          "q": "How many cities of refuge are listed in the chapter?"
         },
         {
-          "question": "Who was allowed to flee to the appointed cities according to the verse?",
           "answers": [
-            "Only the native-born Israelites",
-            "All the children of Israel and the stranger sojourning among them",
-            "Only priests and Levites"
+            "Shechem",
+            "Hebron",
+            "Bezer"
           ],
-          "correct": 1,
-          "explanation": "The verse explicitly includes 'all the children of Israel, and the stranger that sojourneth among them' — even resident foreigners had this protection."
+          "correct": 0,
+          "explanation": "Shechem was appointed in mount Ephraim.",
+          "q": "Which city was in mount Ephraim?"
         },
         {
-          "question": "What happened to a slayer who reached a refuge city until he stood before the congregation?",
           "answers": [
-            "He was executed immediately",
-            "He was kept in permanent prison",
-            "He would not die by the hand of the avenger of blood until he faced the congregation for judgment"
+            "Only for priests",
+            "Only for Israelites",
+            "For all the children of Israel and for the stranger sojourning among them"
           ],
           "correct": 2,
-          "explanation": "The verse says he shall not die by the avenger's hand until he stands before the congregation — the city prevents immediate revenge."
+          "explanation": "The final verse includes both Israelites and resident foreigners among them.",
+          "q": "For whom were the cities appointed according to the final verse?"
         }
       ],
       "medium": [
         {
-          "question": "Why were these cities appointed, according to the verse?",
           "answers": [
-            "To serve as regional trading centers",
-            "To execute killers immediately after the act",
-            "To protect a slayer who killed unintentionally until the matter could be judged before the community"
-          ],
-          "correct": 2,
-          "explanation": "The verse indicates the cities prevent the avenger from killing the fugitive until the case is examined by the congregation — safeguarding against immediate revenge."
-        },
-        {
-          "question": "'These were the cities appointed' — what does 'appointed' imply in this phrase (context: 'These were the cities appointed for all the children of Israel')?",
-          "answers": [
-            "A place of special holiness only",
-            "Designated for a specific, set purpose",
-            "A festival or appointed time"
+            "Bezer, Ramoth, and Golan",
+            "Kedesh, Shechem, and Hebron",
+            "Kedesh, Ramoth, and Bezer"
           ],
           "correct": 1,
-          "explanation": "'Appointed' means these cities were specifically designated for the function of refuge — set aside for that purpose."
+          "explanation": "Kedesh, Shechem, and Hebron were appointed in the land west of Jordan.",
+          "q": "Which group of three cities was west of Jordan in the land?"
         },
         {
-          "question": "What is the role of the 'avenger of blood' in this verse?",
           "answers": [
-            "The judge who pronounces sentence",
-            "A kinsman authorized to avenge the slain unless prevented",
-            "A military commander protecting the city"
+            "Bezer",
+            "Ramoth",
+            "Golan"
           ],
-          "correct": 1,
-          "explanation": "The avenger is a kinsman who could seek vengeance for a slain relative; the cities prevent his acting until judgment."
+          "correct": 0,
+          "explanation": "Bezer was assigned out of the tribe of Reuben.",
+          "q": "Which city was assigned out of the tribe of Reuben?"
+        },
+        {
+          "answers": [
+            "So they could flee there if they killed someone unintentionally",
+            "So they could serve as city elders",
+            "So they could choose the high priest"
+          ],
+          "correct": 0,
+          "explanation": "The final verse includes the stranger who sojourned among Israel.",
+          "q": "Why were the cities also available to strangers dwelling among Israel?"
         }
       ],
       "challenge": [
         {
-          "question": "Why does the verse specifically include 'the stranger that sojourneth among them'?",
           "answers": [
-            "To limit the rights to native-born Israelites only",
-            "To clarify that resident foreigners were also entitled to refuge",
-            "To deny the stranger any legal protection"
-          ],
-          "correct": 1,
-          "explanation": "The verse explicitly extends the protection to the stranger living among Israel, showing the asylum applied to resident foreigners as well."
-        },
-        {
-          "question": "What exactly does the term 'slayer' mean in this verse's context?",
-          "answers": [
-            "A person who intentionally murdered only",
-            "One who caused a person's death, even if unwittingly",
-            "Someone who only injured property"
-          ],
-          "correct": 1,
-          "explanation": "Given the verse adds 'unawares' the term covers one who caused death, including accidental killers who qualify for refuge."
-        },
-        {
-          "question": "What is the functional meaning of 'the congregation' ('the congregation' in the verse)?",
-          "answers": [
-            "The community or judicial body that examines the case and decides the outcome",
-            "The name of a palace near the cities",
-            "An ancient ceremonial object"
+            "Hebron — the mountain of Judah",
+            "Bezer — mount Naphtali",
+            "Golan — mount Ephraim"
           ],
           "correct": 0,
-          "explanation": "'The congregation' refers to the community or judicial assembly that would judge the case and determine the outcome for the fugitive."
+          "explanation": "The verse identifies Hebron as being in the mountain of Judah.",
+          "q": "Which pairing of a city and its location is correct?"
+        },
+        {
+          "answers": [
+            "The first three were in the land, and the last three were east of Jordan",
+            "The first three were in the wilderness, and the last three were in the mountains",
+            "The first three were for strangers, and the last three were for Israelites"
+          ],
+          "correct": 0,
+          "explanation": "The first three were in the land, while the other three were on the other side of Jordan.",
+          "q": "What is the difference between the first three cities and the last three cities listed?"
+        },
+        {
+          "answers": [
+            "To keep an unintentional killer from dying before standing before the congregation",
+            "To prevent anyone from leaving his city",
+            "To allow the avenger of blood to punish immediately"
+          ],
+          "correct": 0,
+          "explanation": "The cities protected an accidental killer until he could stand before the congregation.",
+          "q": "What was the purpose of the cities according to the end of the chapter?"
         }
       ],
-      "questions": [
+      "short_answers": [
         {
-          "question": "Why does the verse specifically include 'the stranger that sojourneth among them'?",
-          "answers": [
-            "To limit the rights to native-born Israelites only",
-            "To clarify that resident foreigners were also entitled to refuge",
-            "To deny the stranger any legal protection"
-          ],
-          "correct": 1,
-          "explanation": "The verse explicitly extends the protection to the stranger living among Israel, showing the asylum applied to resident foreigners as well."
+          "question": "Name the three cities appointed in the land west of Jordan.",
+          "answer": "Kedesh, Shechem, and Hebron.",
+          "explanation": "These are the first three cities listed in verse 7."
         },
         {
-          "question": "What exactly does the term 'slayer' mean in this verse's context?",
-          "answers": [
-            "A person who intentionally murdered only",
-            "One who caused a person's death, even if unwittingly",
-            "Someone who only injured property"
-          ],
-          "correct": 1,
-          "explanation": "Given the verse adds 'unawares' the term covers one who caused death, including accidental killers who qualify for refuge."
+          "question": "Name the three cities appointed on the other side of Jordan.",
+          "answer": "Bezer, Ramoth, and Golan.",
+          "explanation": "These cities are listed in verse 8."
         },
         {
-          "question": "What is the functional meaning of 'the congregation' ('the congregation' in the verse)?",
-          "answers": [
-            "The community or judicial body that examines the case and decides the outcome",
-            "The name of a palace near the cities",
-            "An ancient ceremonial object"
-          ],
-          "correct": 0,
-          "explanation": "'The congregation' refers to the community or judicial assembly that would judge the case and determine the outcome for the fugitive."
+          "question": "What was the slayer protected from until he stood before the congregation?",
+          "answer": "Being killed by the hand of the avenger of blood.",
+          "explanation": "The cities allowed him to flee and remain safe until judgment."
         }
-      ]
+      ],
+      "idea": 3
     }
   ]
 }
