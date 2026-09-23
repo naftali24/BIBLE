@@ -278,9 +278,9 @@
   "times_en_end": [
     16.36,
     24.76,
-    37.0,
+    37,
     50.9,
-    60.0,
+    60,
     67.24,
     78.16,
     89.36,
@@ -315,5 +315,7 @@
     "EXO.24.17",
     "EXO.24.18"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.22,
+  "timings_offset_applied": true
 }

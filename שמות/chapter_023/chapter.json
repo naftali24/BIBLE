@@ -324,11 +324,11 @@
     },
     {
       "start": 176.32,
-      "end": 186.0,
+      "end": 186,
       "usfm": "EXO.23.21"
     },
     {
-      "start": 186.0,
+      "start": 186,
       "end": 199.46,
       "usfm": "EXO.23.22"
     },
@@ -467,7 +467,7 @@
     24.42,
     30.08,
     37.88,
-    42.0,
+    42,
     51.08,
     58.52,
     68.08,
@@ -531,5 +531,7 @@
     "EXO.23.32",
     "EXO.23.33"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.09,
+  "timings_offset_applied": true
 }

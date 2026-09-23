@@ -483,7 +483,7 @@
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [
     16.22,
-    24.0,
+    24,
     29.96,
     38.92,
     48.2,
@@ -559,5 +559,7 @@
     "EXO.26.36",
     "EXO.26.37"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.45,
+  "timings_offset_applied": true
 }

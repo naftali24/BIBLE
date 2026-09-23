@@ -274,11 +274,11 @@
     },
     {
       "start": 220.14,
-      "end": 226.0,
+      "end": 226,
       "usfm": "EXO.8.23"
     },
     {
-      "start": 226.0,
+      "start": 226,
       "end": 239.68,
       "usfm": "EXO.8.24"
     },
@@ -319,7 +319,7 @@
     },
     {
       "start": 307.22,
-      "end": 322.0,
+      "end": 322,
       "usfm": "EXO.8.32"
     }
   ],
@@ -387,7 +387,7 @@
     36.18,
     48.2,
     55.08,
-    63.0,
+    63,
     74.94,
     88.76,
     99.02,
@@ -452,5 +452,7 @@
   "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.26,
+  "timings_offset_applied": true
 }

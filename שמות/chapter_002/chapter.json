@@ -359,12 +359,12 @@
     124.7,
     139.56,
     150.4,
-    158.0,
+    158,
     165.46,
-    172.0,
+    172,
     178.82,
     186.1,
-    193.0,
+    193,
     201.74,
     214.64,
     221.72,
@@ -397,5 +397,7 @@
     "EXO.2.24",
     "EXO.2.25"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.6,
+  "timings_offset_applied": true
 }

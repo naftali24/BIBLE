@@ -190,11 +190,11 @@
     },
     {
       "start": 67.84,
-      "end": 78.0,
+      "end": 78,
       "usfm": "EXO.13.8"
     },
     {
-      "start": 78.0,
+      "start": 78,
       "end": 91.6,
       "usfm": "EXO.13.9"
     },
@@ -215,11 +215,11 @@
     },
     {
       "start": 117.54,
-      "end": 133.0,
+      "end": 133,
       "usfm": "EXO.13.13"
     },
     {
-      "start": 133.0,
+      "start": 133,
       "end": 146.9,
       "usfm": "EXO.13.14"
     },
@@ -335,7 +335,7 @@
     200.66,
     205.6,
     217.14,
-    225.0
+    225
   ],
   "times_en_usfm": [
     "EXO.13.1",
@@ -361,5 +361,7 @@
     "EXO.13.21",
     "EXO.13.22"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.95,
+  "timings_offset_applied": true
 }

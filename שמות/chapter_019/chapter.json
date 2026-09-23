@@ -368,7 +368,7 @@
     217.78,
     229.02,
     240.78,
-    246.0
+    246
   ],
   "times_en_usfm": [
     "EXO.19.1",
@@ -397,5 +397,7 @@
     "EXO.19.24",
     "EXO.19.25"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.78,
+  "timings_offset_applied": true
 }

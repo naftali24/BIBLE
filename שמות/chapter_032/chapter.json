@@ -300,11 +300,11 @@
     },
     {
       "start": 167.78,
-      "end": 181.0,
+      "end": 181,
       "usfm": "EXO.32.15"
     },
     {
-      "start": 181.0,
+      "start": 181,
       "end": 188.08,
       "usfm": "EXO.32.16"
     },
@@ -480,5 +480,7 @@
     }
   ],
   "english_audio_source": "The Listener’s Bible®: KJV Edition",
-  "english_audio_version_id": 1
+  "english_audio_version_id": 1,
+  "audio_start_offset": 2.71,
+  "timings_offset_applied": true
 }
