@@ -466,7 +466,7 @@
     184.94,
     192.66,
     201.56,
-    209.0,
+    209,
     219.6,
     235.64,
     245.68,
@@ -513,5 +513,7 @@
     "LEV.15.32",
     "LEV.15.33"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.86,
+  "timings_offset_applied": true
 }

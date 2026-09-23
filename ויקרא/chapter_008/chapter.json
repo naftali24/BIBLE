@@ -253,11 +253,11 @@
     },
     {
       "start": 28.32,
-      "end": 35.0,
+      "end": 35,
       "usfm": "LEV.8.5"
     },
     {
-      "start": 35.0,
+      "start": 35,
       "end": 39.78,
       "usfm": "LEV.8.6"
     },
@@ -318,11 +318,11 @@
     },
     {
       "start": 141.72,
-      "end": 148.0,
+      "end": 148,
       "usfm": "LEV.8.18"
     },
     {
-      "start": 148.0,
+      "start": 148,
       "end": 152.08,
       "usfm": "LEV.8.19"
     },
@@ -373,21 +373,21 @@
     },
     {
       "start": 253.72,
-      "end": 264.0,
+      "end": 264,
       "usfm": "LEV.8.29"
     },
     {
-      "start": 264.0,
+      "start": 264,
       "end": 282.46,
       "usfm": "LEV.8.30"
     },
     {
       "start": 282.46,
-      "end": 298.0,
+      "end": 298,
       "usfm": "LEV.8.31"
     },
     {
-      "start": 298.0,
+      "start": 298,
       "end": 302.62,
       "usfm": "LEV.8.32"
     },
@@ -408,7 +408,7 @@
     },
     {
       "start": 331.58,
-      "end": 345.0,
+      "end": 345,
       "usfm": "LEV.8.36"
     }
   ],
@@ -507,7 +507,7 @@
     97.56,
     104.8,
     120.76,
-    130.0,
+    130,
     137.26,
     144.86,
     150.32,
@@ -567,5 +567,7 @@
     "LEV.8.35",
     "LEV.8.36"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 2.98,
+  "timings_offset_applied": true
 }

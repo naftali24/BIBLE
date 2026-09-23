@@ -343,7 +343,7 @@
   "times_en_end": [
     5.68,
     18.36,
-    27.0,
+    27,
     37.92,
     50.84,
     58.28,
@@ -408,5 +408,7 @@
   "english_audio_version_id": 1,
   "english_audio_id": 1804,
   "times_en_source": "YouVersion BSB verse timing",
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 6.54,
+  "timings_offset_applied": true
 }

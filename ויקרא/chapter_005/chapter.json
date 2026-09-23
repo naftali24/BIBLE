@@ -124,11 +124,11 @@
   "times_en": [
     {
       "start": 2.88,
-      "end": 16.0,
+      "end": 16,
       "usfm": "LEV.5.1"
     },
     {
-      "start": 16.0,
+      "start": 16,
       "end": 33.84,
       "usfm": "LEV.5.2"
     },
@@ -194,11 +194,11 @@
     },
     {
       "start": 180.98,
-      "end": 199.0,
+      "end": 199,
       "usfm": "LEV.5.15"
     },
     {
-      "start": 199.0,
+      "start": 199,
       "end": 214.24,
       "usfm": "LEV.5.16"
     },
@@ -320,5 +320,7 @@
   "english_audio_source": "The Listener’s Bible®: KJV Edition",
   "english_audio_version_id": 1,
   "english_audio_id": 1804,
-  "times_en_source": "YouVersion BSB verse timing"
+  "times_en_source": "YouVersion BSB verse timing",
+  "audio_start_offset": 3.23,
+  "timings_offset_applied": true
 }

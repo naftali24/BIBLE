@@ -443,7 +443,7 @@
     },
     {
       "start": 339.5,
-      "end": 355.0,
+      "end": 355,
       "usfm": "LEV.19.37"
     }
   ],
@@ -533,14 +533,14 @@
     29.16,
     34.6,
     43.12,
-    49.0,
+    49,
     58.14,
     66.28,
     75.82,
     80.78,
     88.2,
     96.88,
-    106.0,
+    106,
     115.42,
     124.22,
     133.58,
@@ -604,5 +604,7 @@
     "LEV.19.36",
     "LEV.19.37"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 5.93,
+  "timings_offset_applied": true
 }

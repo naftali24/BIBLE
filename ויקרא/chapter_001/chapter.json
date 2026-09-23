@@ -155,11 +155,11 @@
     },
     {
       "start": 33.3,
-      "end": 40.0,
+      "end": 40,
       "usfm": "LEV.1.4"
     },
     {
-      "start": 40.0,
+      "start": 40,
       "end": 52.82,
       "usfm": "LEV.1.5"
     },
@@ -215,11 +215,11 @@
     },
     {
       "start": 143.88,
-      "end": 152.0,
+      "end": 152,
       "usfm": "LEV.1.16"
     },
     {
-      "start": 152.0,
+      "start": 152,
       "end": 174.72,
       "usfm": "LEV.1.17"
     }
@@ -305,5 +305,7 @@
     "LEV.1.16",
     "LEV.1.17"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 6.98,
+  "timings_offset_applied": true
 }

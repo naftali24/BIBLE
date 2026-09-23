@@ -228,7 +228,7 @@
   "times_en_source": "YouVersion BSB verse timing",
   "times_en_end": [
     6.24,
-    13.0,
+    13,
     20.16,
     34.92,
     49.16,
@@ -262,5 +262,7 @@
     "LEV.17.15",
     "LEV.17.16"
   ],
-  "english_text_source": "restored from pre-BSB backup"
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 3.54,
+  "timings_offset_applied": true
 }
