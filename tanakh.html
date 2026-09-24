@@ -1,15 +1,6 @@
 <!doctype html>
 <html lang="he" dir="rtl">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3ZDM250VH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-B3ZDM250VH');
-</script>
-
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>תנ״ך — עברית + English</title>
@@ -711,8 +702,9 @@ body.introMode #img{width:100%!important;height:100%!important;object-fit:contai
 </style>
 
 <style>
-body.lang-en #sequenceBtn,
-body.lang-en #speedSel{display:none!important}
+body.lang-en #sequenceBtn{display:none!important}
+/* Keep audio speed selector visible in English too */
+body.lang-en #speedSel{display:inline-block!important}
 </style>
 
 <style>
@@ -788,31 +780,15 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 .bsbVerseDirect .missingBSBVerse{display:inline!important;color:#ff6b6b!important;}
 </style>
 
-<style id="accessLockStyles">
-.lockedChapter{opacity:.48!important;filter:grayscale(.25);position:relative}
-.lockedChapter::after{content:" 🔒";font-size:.72em}
-#accessLockOverlay{position:fixed;inset:0;background:rgba(0,0,0,.76);z-index:99999;display:none;align-items:center;justify-content:center;padding:20px}
-#accessLockOverlay.open{display:flex}
-#accessLockBox{width:min(560px,94vw);background:linear-gradient(145deg,#21170b,#120d07);color:#fff8e8;border:2px solid #d9aa39;border-radius:20px;padding:26px;text-align:center;box-shadow:0 18px 60px #000}
-#accessLockBox h2{margin:0 0 12px;color:#ffe17a}
-#accessLockBox p{font-size:18px;line-height:1.6;margin:9px 0}
-#accessLockBox a{display:inline-block;margin:12px 5px 0;padding:12px 18px;border-radius:12px;background:linear-gradient(#f1c951,#c98b12);color:#170e03;font-weight:800;text-decoration:none;direction:ltr}
-#accessLockBox button{margin:12px 5px 0;padding:11px 18px;border-radius:12px;border:1px solid #8a6b2b;background:#2b2113;color:#fff8e8;font-weight:700;cursor:pointer}
+<style>
+/* Menu attention pulse until first press */
+@keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+#chapterMenuBtn.menuAttention{animation:menuSizePulse .75s ease-in-out infinite;transform-origin:center}
+.chapterGold.lockedChapter{filter:saturate(.45);opacity:.72;cursor:not-allowed;position:relative}
+.chapterGold.lockedChapter::after{content:" 🔒";font-size:.72em}
 </style>
-
 </head>
 <body class="introMode">
-<div id="accessLockOverlay" role="dialog" aria-modal="true" aria-labelledby="accessLockTitle">
-  <div id="accessLockBox">
-    <h2 id="accessLockTitle">המשך התנ״ך | Continue Reading</h2>
-    <p><b>חמשת חומשי התורה פתוחים במלואם.</b><br><span dir="ltr">The Five Books of Moses are fully available.</span></p>
-    <p>בספר יהושע פרק א׳ פתוח לדוגמה. לגישה לפרקים ולספרים נוספים אפשר ליצור קשר.<br>
-    <span dir="ltr">Joshua Chapter 1 is available as a preview. For access to additional chapters and books, please contact me.</span></p>
-    <a href="mailto:tanach.naftali@gmail.com?subject=THE%20BIBLE%20-%20Access">tanach.naftali@gmail.com</a>
-    <button type="button" onclick="closeAccessLock()">סגור | Close</button>
-  </div>
-</div>
-
 <header>
   <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
   <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
@@ -901,52 +877,32 @@ async function googleTranslateWord(word){
 
 const sel=document.getElementById('sel'),cards=document.getElementById('cards'),audio=document.getElementById('audio'),statusEl=document.getElementById('status'),empty=document.getElementById('empty'),imageSection=document.getElementById('imageSection'),img=document.getElementById('img'),cap=document.getElementById('cap'),endpointInput=document.getElementById('endpoint'),langBtn=document.getElementById('langBtn'),speedSel=document.getElementById('speedSel'),hebrewOnImage=document.getElementById('hebrewOnImage'),hebrewLine=document.getElementById('hebrewLine'),chapterMenu=document.getElementById('chapterMenu'),chapterMenuBtn=document.getElementById('chapterMenuBtn'),chapterCounter=document.getElementById('chapterCounter'),bookTitle=document.getElementById('bookTitle'),ttsBtn=document.getElementById('ttsBtn'),loadProgressWrap=document.getElementById('loadProgressWrap'),loadProgressBar=document.getElementById('loadProgressBar'),loadProgressText=document.getElementById('loadProgressText');
 const BOOKS=[
-  {id:'genesis',name:'בראשית',chapters:50},{id:'exodus',name:'שמות',chapters:40},{id:'leviticus',name:'ויקרא',chapters:27},{id:'numbers',name:'במדבר',chapters:36},{id:'deuteronomy',name:'דברים',chapters:34},
-  {id:'joshua',name:'יהושע',chapters:24},{id:'judges',name:'שופטים',chapters:21},{id:'samuel1',name:'שמואל א',chapters:31},{id:'samuel2',name:'שמואל ב',chapters:24},{id:'kings1',name:'מלכים א',chapters:22},{id:'kings2',name:'מלכים ב',chapters:25},
-  {id:'isaiah',name:'ישעיהו',chapters:66},{id:'jeremiah',name:'ירמיהו',chapters:52},{id:'ezekiel',name:'יחזקאל',chapters:48},{id:'hosea',name:'הושע',chapters:14},{id:'joel',name:'יואל',chapters:3},{id:'amos',name:'עמוס',chapters:9},{id:'obadiah',name:'עובדיה',chapters:1},{id:'jonah',name:'יונה',chapters:4},{id:'micah',name:'מיכה',chapters:7},{id:'nahum',name:'נחום',chapters:3},{id:'habakkuk',name:'חבקוק',chapters:3},{id:'zephaniah',name:'צפניה',chapters:3},{id:'haggai',name:'חגי',chapters:2},{id:'zechariah',name:'זכריה',chapters:14},{id:'malachi',name:'מלאכי',chapters:4},
-  {id:'chronicles1',name:'דברי הימים א',chapters:29},{id:'chronicles2',name:'דברי הימים ב',chapters:36},{id:'psalms',name:'תהילים',chapters:150},{id:'job',name:'איוב',chapters:42},{id:'proverbs',name:'משלי',chapters:31},{id:'ruth',name:'רות',chapters:4},{id:'songofsongs',name:'שיר השירים',chapters:8},{id:'ecclesiastes',name:'קהלת',chapters:12},{id:'lamentations',name:'איכה',chapters:5},{id:'esther',name:'אסתר',chapters:10},{id:'daniel',name:'דניאל',chapters:12},{id:'ezra',name:'עזרא',chapters:10},{id:'nehemiah',name:'נחמיה',chapters:13}
+  {id:'genesis',name:'בראשית',nameEn:'Genesis',chapters:50},{id:'exodus',name:'שמות',nameEn:'Exodus',chapters:40},{id:'leviticus',name:'ויקרא',nameEn:'Leviticus',chapters:27},{id:'numbers',name:'במדבר',nameEn:'Numbers',chapters:36},{id:'deuteronomy',name:'דברים',nameEn:'Deuteronomy',chapters:34},
+  {id:'joshua',name:'יהושע',nameEn:'Joshua',chapters:24},{id:'judges',name:'שופטים',nameEn:'Judges',chapters:21},{id:'samuel1',name:'שמואל א',nameEn:'I Samuel',chapters:31},{id:'samuel2',name:'שמואל ב',nameEn:'II Samuel',chapters:24},{id:'kings1',name:'מלכים א',nameEn:'I Kings',chapters:22},{id:'kings2',name:'מלכים ב',nameEn:'II Kings',chapters:25},
+  {id:'isaiah',name:'ישעיהו',nameEn:'Isaiah',chapters:66},{id:'jeremiah',name:'ירמיהו',nameEn:'Jeremiah',chapters:52},{id:'ezekiel',name:'יחזקאל',nameEn:'Ezekiel',chapters:48},{id:'hosea',name:'הושע',nameEn:'Hosea',chapters:14},{id:'joel',name:'יואל',nameEn:'Joel',chapters:3},{id:'amos',name:'עמוס',nameEn:'Amos',chapters:9},{id:'obadiah',name:'עובדיה',nameEn:'Obadiah',chapters:1},{id:'jonah',name:'יונה',nameEn:'Jonah',chapters:4},{id:'micah',name:'מיכה',nameEn:'Micah',chapters:7},{id:'nahum',name:'נחום',nameEn:'Nahum',chapters:3},{id:'habakkuk',name:'חבקוק',nameEn:'Habakkuk',chapters:3},{id:'zephaniah',name:'צפניה',nameEn:'Zephaniah',chapters:3},{id:'haggai',name:'חגי',nameEn:'Haggai',chapters:2},{id:'zechariah',name:'זכריה',nameEn:'Zechariah',chapters:14},{id:'malachi',name:'מלאכי',nameEn:'Malachi',chapters:4},
+  {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
 ];
-
-function isFreeChapter(book,chapter){
-  if(!book) return false;
-  const freeBooks=['genesis','exodus','leviticus','numbers','deuteronomy'];
-  if(freeBooks.includes(book.id)) return true;
-  return book.id==='joshua' && Number(chapter)===1;
-}
-function openAccessLock(){
-  const el=document.getElementById('accessLockOverlay');
-  if(el) el.classList.add('open');
-}
-function closeAccessLock(){
-  const el=document.getElementById('accessLockOverlay');
-  if(el) el.classList.remove('open');
-}
-document.addEventListener('click',function(e){
-  if(e.target && e.target.id==='accessLockOverlay') closeAccessLock();
-});
-
 let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
 function renderBookMenu(){
   chapterMenu.className='open bookMode';chapterMenu.innerHTML='';
-  BOOKS.forEach(book=>{const b=document.createElement('button');b.className='bookGold';b.textContent=book.name;b.onclick=(e)=>{e.stopPropagation();currentBook=book;renderChapterMenu(book)};chapterMenu.appendChild(b)});
+  BOOKS.forEach(book=>{const b=document.createElement('button');b.className='bookGold';b.textContent=(language==='en'?(book.nameEn||book.name):book.name);b.dir=language==='en'?'ltr':'rtl';b.onclick=(e)=>{e.stopPropagation();currentBook=book;renderChapterMenu(book)};chapterMenu.appendChild(b)});
 }
 function renderChapterMenu(book){
   chapterMenu.className='open chapterMode';chapterMenu.innerHTML='';
-  const back=document.createElement('button');back.id='chapterBack';back.textContent='← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
+  const back=document.createElement('button');back.id='chapterBack';back.textContent=language==='en'?'← Back to books':'← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
+  const joshuaIndex=BOOKS.findIndex(b=>b.id==='joshua');
+  const bookIndex=BOOKS.findIndex(b=>b.id===book.id);
+  const firstChapterOnly=(bookIndex>=joshuaIndex);
   for(let i=1;i<=book.chapters;i++){
-    const b=document.createElement('button');
-    const free=isFreeChapter(book,i);
-    b.className='chapterGold'+(free?'':' lockedChapter');
-    b.textContent=i;
-    b.dataset.chapter=i;
-    b.title=free?'':'לגישה לפרק זה – צור קשר';
-    b.onclick=(e)=>{
-      e.stopPropagation();
-      if(!free){openAccessLock();return;}
-      chapterMenu.classList.remove('open');
-      loadChapter(i,book);
-    };
-    chapterMenu.appendChild(b)
+    const b=document.createElement('button');b.className='chapterGold';b.textContent=i;b.dataset.chapter=i;
+    if(firstChapterOnly && i>1){
+      b.classList.add('lockedChapter');
+      b.title=language==='en'?'Locked':'נעול';
+      b.onclick=(e)=>{e.stopPropagation();};
+    }else{
+      b.onclick=(e)=>{e.stopPropagation();chapterMenu.classList.remove('open');loadChapter(i,book)};
+    }
+    chapterMenu.appendChild(b);
   }
 }
 const GITHUB_RAW='https://raw.githubusercontent.com/naftali24/BIBLE/main';
@@ -955,6 +911,7 @@ const FIXED_ENDPOINT='';
 const READALONG_ENDPOINT='';
 endpointInput.value='GitHub BIBLE';
 setTimeout(()=>{try{setLanguageFlag()}catch(e){}},0);
+setTimeout(()=>chapterMenuBtn.classList.add('menuAttention'),0);
 let data=null,images={},verseCards=[],current=0,ideaNow=-1,language='he',lockedVerse=-1,stopAtTime=null,hebrewOverlay=false,ttsMode=false,ttsIndex=0,loadTimer=null,userAudioMuted=false;
 let sequenceMode=false, sequenceLastVerse=-1;
 
@@ -1253,7 +1210,6 @@ function plainHebrewTranslation(s){
 
 async function loadChapter(n,book=currentBook){
   if(!n)return;
-  if(!isFreeChapter(book,n)){openAccessLock();return;}
   closeDidYouKnow();activeDidYouKnow=null;didYouKnowBtn.classList.remove('available');
   quizOpen=false;quizBox.classList.remove('open');updateQuizMainButton();
   startChapterLoadTicker();currentBook=book||currentBook;
@@ -1302,7 +1258,7 @@ async function loadChapter(n,book=currentBook){
     const imagePromise=loadImagesInBackground(base,n,requestedBook);
     render();
 
-    bookTitle.textContent='ספר '+requestedBook.name;
+    bookTitle.textContent=language==='en'?(requestedBook.nameEn||requestedBook.name):('ספר '+requestedBook.name);
     chapterCounter.textContent=n+'/'+requestedBook.chapters;
     chapterMenuBtn.innerHTML='<span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span>';
     markChapterMenu(n);
@@ -1546,6 +1502,7 @@ function setLanguageFlag(){
 }
 function render(){
   document.body.classList.toggle('lang-en',language==='en');
+  if(currentBook) bookTitle.textContent=language==='en'?(currentBook.nameEn||currentBook.name):('ספר '+currentBook.name);
   document.body.classList.toggle('lang-he',language==='he');
   stopChapterLoadTicker();
   
@@ -1690,7 +1647,16 @@ function toggleAudioMute(){
     btn.setAttribute('aria-label',btn.title);
   }
 }
-function setSpeed(v){audio.playbackRate=Number(v)||1}
+function setSpeed(v){
+  const rate=Number(v)||1;
+  audio.defaultPlaybackRate=rate;
+  audio.playbackRate=rate;
+}
+audio.addEventListener('loadedmetadata',()=>{
+  const rate=Number(speedSel?.value||1)||1;
+  audio.defaultPlaybackRate=rate;
+  audio.playbackRate=rate;
+});
 function toggleLanguage(){
   setTimeout(()=>{
     document.body.classList.toggle('lang-en',language==='en');
@@ -1811,7 +1777,7 @@ function speakTTSLine(i){
 function stopTTS(){
   if('speechSynthesis' in window)speechSynthesis.cancel();ttsMode=false;ttsBtn?.classList.remove('on');if(ttsBtn)ttsBtn.textContent='TTS';if(audio)audio.muted=userAudioMuted;
 }
-function toggleChapterMenu(){if(chapterMenu.classList.contains('open'))chapterMenu.classList.remove('open');else renderBookMenu()}
+function toggleChapterMenu(){chapterMenuBtn.classList.remove('menuAttention');if(chapterMenu.classList.contains('open'))chapterMenu.classList.remove('open');else renderBookMenu()}
 document.addEventListener('click',e=>{
   const wrap=document.getElementById('chapterMenuWrap');
   if(wrap && !wrap.contains(e.target)) chapterMenu.classList.remove('open');
@@ -2014,9 +1980,19 @@ document.addEventListener('click', async function(ev){
   const e = Number(w.dataset.e);
   const trBox=document.getElementById('wordTranslation');
   if(trBox){
-    const tr=(w.dataset.tr||'').trim();
-    trBox.textContent=tr || '—';
+    const oldTr=(w.dataset.tr||'').trim();
+    trBox.textContent=oldTr || 'מתרגם…';
     trBox.classList.add('show');
+    // Hebrew -> English: use existing stored translation when present,
+    // otherwise translate the clicked Hebrew word with Google Translate.
+    if(!oldTr && language==='he'){
+      try{
+        const tr=await googleTranslateHebrewWordKeepOld(w.dataset.word||w.textContent);
+        trBox.textContent=tr || '—';
+      }catch(err){
+        trBox.textContent='שגיאת תרגום';
+      }
+    }
   }
   if(!Number.isFinite(s) || !Number.isFinite(e) || e <= s) return;
 
@@ -2092,7 +2068,7 @@ document.addEventListener('click', async function(ev){
     const src=data?.audio_en_url||data?.english_audio_url||'';
     if(!src) return;
     if(audio.src!==src){ audio.src=src; audio.load(); }
-    audio.playbackRate=1;
+    audio.playbackRate=Number(speedSel.value||1);
     setActive(vi,false);
     syncOtherLanguageToVerse(vi);
     scrollCardToTop(b);
