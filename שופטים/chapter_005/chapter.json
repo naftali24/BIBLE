@@ -1,0 +1,568 @@
+{
+  "book": "Judges",
+  "book_he": "שופטים",
+  "book_chapters": 21,
+  "chapter": 5,
+  "title": "שופטים פרק 5",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0705.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0705.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JDG/5-825504d717791a09370bd6731cd7debb.mp3?version_id=1",
+  "verses": [
+    "וַתָּשַׁר דְּבוֹרָה, וּבָרָק בֶּן-אֲבִינֹעַם, {ס} בַּיּוֹם הַהוּא, {ר} לֵאמֹר.",
+    "בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל, {ס} בְּהִתְנַדֵּב {ר} עָם, בָּרְכוּ, יְהוָה.",
+    "שִׁמְעוּ מְלָכִים, הַאֲזִינוּ {ר} רֹזְנִים: {ס} אָנֹכִי, לַיהוָה אָנֹכִי אָשִׁירָה, {ס} אֲזַמֵּר, {ר} לַיהוָה אֱלֹהֵי יִשְׂרָאֵל.",
+    "יְהוָה, בְּצֵאתְךָ {ר} מִשֵּׂעִיר {ס} בְּצַעְדְּךָ מִשְּׂדֵה אֱדוֹם, {ס} אֶרֶץ {ר} רָעָשָׁה, גַּם-שָׁמַיִם נָטָפוּ; {ס} גַּם-עָבִים, נָטְפוּ {ר} מָיִם.",
+    "הָרִים נָזְלוּ, מִפְּנֵי יְהוָה: {ס} זֶה {ר} סִינַי--מִפְּנֵי, יְהוָה אֱלֹהֵי יִשְׂרָאֵל.",
+    "בִּימֵי שַׁמְגַּר בֶּן- {ר} עֲנָת, {ס} בִּימֵי יָעֵל, חָדְלוּ, אֳרָחוֹת; {ס} וְהֹלְכֵי {ר} נְתִיבוֹת--יֵלְכוּ, אֳרָחוֹת עֲקַלְקַלּוֹת.",
+    "חָדְלוּ פְרָזוֹן בְּיִשְׂרָאֵל, {ר} חָדֵלּוּ-- {ס} עַד שַׁקַּמְתִּי דְּבוֹרָה, שַׁקַּמְתִּי אֵם בְּיִשְׂרָאֵל.",
+    "יִבְחַר {ר} אֱלֹהִים חֲדָשִׁים, אָז לָחֶם שְׁעָרִים; {ס} מָגֵן אִם-יֵרָאֶה {ר} וָרֹמַח, {ס} בְּאַרְבָּעִים אֶלֶף בְּיִשְׂרָאֵל.",
+    "לִבִּי {ר} לְחוֹקְקֵי יִשְׂרָאֵל, {ס} הַמִּתְנַדְּבִים בָּעָם; בָּרְכוּ, {ר} יְהוָה.",
+    "רֹכְבֵי אֲתֹנוֹת צְחֹרוֹת {ס} יֹשְׁבֵי {ר} עַל-מִדִּין, וְהֹלְכֵי עַל-דֶּרֶךְ--שִׂיחוּ.",
+    "מִקּוֹל מְחַצְצִים, בֵּין {ר} מַשְׁאַבִּים, {ס} שָׁם יְתַנּוּ צִדְקוֹת יְהוָה, {ס} צִדְקֹת {ר} פִּרְזוֹנוֹ בְּיִשְׂרָאֵל; {ס} אָז יָרְדוּ לַשְּׁעָרִים, עַם- {ר} יְהוָה.",
+    "עוּרִי עוּרִי דְּבוֹרָה, {ס} עוּרִי {ר} עוּרִי דַּבְּרִי-שִׁיר; {ס} קוּם בָּרָק וּשְׁבֵה שֶׁבְיְךָ, בֶּן- {ר} אֲבִינֹעַם.",
+    "אָז יְרַד שָׂרִיד, לְאַדִּירִים עָם; {ס} יְהוָה, {ר} יְרַד-לִי בַּגִּבּוֹרִים.",
+    "מִנִּי אֶפְרַיִם, שָׁרְשָׁם {ר} בַּעֲמָלֵק, {ס} אַחֲרֶיךָ בִנְיָמִין, בַּעֲמָמֶיךָ; {ס} מִנִּי {ר} מָכִיר, יָרְדוּ מְחֹקְקִים, {ס} וּמִזְּבוּלֻן, מֹשְׁכִים בְּשֵׁבֶט {ר} סֹפֵר.",
+    "וְשָׂרַי בְּיִשָּׂשכָר, עִם-דְּבֹרָה, {ס} וְיִשָּׂשכָר {ר} כֵּן בָּרָק, בָּעֵמֶק שֻׁלַּח בְּרַגְלָיו; {ס} בִּפְלַגּוֹת רְאוּבֵן, גְּדֹלִים חִקְקֵי- {ר} לֵב.",
+    "לָמָּה יָשַׁבְתָּ, בֵּין הַמִּשְׁפְּתַיִם, {ס} לִשְׁמֹעַ, {ר} שְׁרִקוֹת עֲדָרִים; {ס} לִפְלַגּוֹת רְאוּבֵן, גְּדוֹלִים חִקְרֵי- {ר} לֵב.",
+    "גִּלְעָד, בְּעֵבֶר הַיַּרְדֵּן שָׁכֵן, {ס} וְדָן, {ר} לָמָּה יָגוּר אֳנִיּוֹת; {ס} אָשֵׁר, יָשַׁב לְחוֹף {ר} יַמִּים, {ס} וְעַל מִפְרָצָיו, יִשְׁכּוֹן.",
+    "זְבֻלוּן, {ר} עַם חֵרֵף נַפְשׁוֹ לָמוּת-- {ס} וְנַפְתָּלִי: עַל, מְרוֹמֵי {ר} שָׂדֶה.",
+    "בָּאוּ מְלָכִים, נִלְחָמוּ, {ס} אָז {ר} נִלְחֲמוּ מַלְכֵי כְנַעַן, {ס} בְּתַעְנַךְ עַל-מֵי {ר} מְגִדּוֹ; {ס} בֶּצַע כֶּסֶף, לֹא לָקָחוּ.",
+    "מִן- {ר} שָׁמַיִם, נִלְחָמוּ; {ס} הַכּוֹכָבִים, מִמְּסִלּוֹתָם, נִלְחֲמוּ, עִם- {ר} סִיסְרָא.",
+    "נַחַל קִישׁוֹן גְּרָפָם, {ס} נַחַל {ר} קְדוּמִים נַחַל קִישׁוֹן; {ס} תִּדְרְכִי נַפְשִׁי, {ר} עֹז.",
+    "אָז הָלְמוּ, עִקְּבֵי-סוּס, {ס} מִדַּהֲרוֹת, {ר} דַּהֲרוֹת אַבִּירָיו.",
+    "אוֹרוּ מֵרוֹז, אָמַר מַלְאַךְ יְהוָה--אֹרוּ אָרוֹר, {ר} יֹשְׁבֶיהָ: {ס} כִּי לֹא-בָאוּ לְעֶזְרַת יְהוָה, {ס} לְעֶזְרַת {ר} יְהוָה בַּגִּבּוֹרִים.",
+    "תְּבֹרַךְ, מִנָּשִׁים--יָעֵל, אֵשֶׁת חֶבֶר {ר} הַקֵּינִי: {ס} מִנָּשִׁים בָּאֹהֶל, תְּבֹרָךְ.",
+    "מַיִם {ר} שָׁאַל, חָלָב נָתָנָה; {ס} בְּסֵפֶל אַדִּירִים, הִקְרִיבָה {ר} חֶמְאָה.",
+    "יָדָהּ לַיָּתֵד תִּשְׁלַחְנָה, {ס} וִימִינָהּ {ר} לְהַלְמוּת עֲמֵלִים; {ס} וְהָלְמָה סִיסְרָא מָחֲקָה {ר} רֹאשׁוֹ, {ס} וּמָחֲצָה וְחָלְפָה רַקָּתוֹ.",
+    "בֵּין {ר} רַגְלֶיהָ, כָּרַע נָפַל שָׁכָב: {ס} בֵּין רַגְלֶיהָ, כָּרַע {ר} נָפָל, {ס} בַּאֲשֶׁר כָּרַע, שָׁם נָפַל שָׁדוּד.",
+    "בְּעַד {ר} הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב אֵם סִיסְרָא, בְּעַד הָאֶשְׁנָב: {ס} מַדּוּעַ, בֹּשֵׁשׁ רִכְבּוֹ {ר} לָבוֹא-- {ס} מַדּוּעַ אֶחֱרוּ, פַּעֲמֵי מַרְכְּבוֹתָיו.",
+    "חַכְמוֹת {ר} שָׂרוֹתֶיהָ, תַּעֲנֶינָּה; {ס} אַף-הִיא, תָּשִׁיב אֲמָרֶיהָ {ר} לָהּ.",
+    "הֲלֹא יִמְצְאוּ יְחַלְּקוּ שָׁלָל, {ס} רַחַם {ר} רַחֲמָתַיִם לְרֹאשׁ גֶּבֶר-- {ס} שְׁלַל צְבָעִים {ר} לְסִיסְרָא, {ס} שְׁלַל צְבָעִים רִקְמָה: {ס} צֶבַע {ר} רִקְמָתַיִם, לְצַוְּארֵי שָׁלָל.",
+    "כֵּן יֹאבְדוּ כָל-אוֹיְבֶיךָ, יְהוָה, {ר} וְאֹהֲבָיו, כְּצֵאת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ; {ס} וַתִּשְׁקֹט הָאָרֶץ, אַרְבָּעִים שָׁנָה. {ר} {ש}"
+  ],
+  "english": [
+    "Then sang Deborah and Barak the son of Abinoam on that day, saying,",
+    "Praise ye the Lord for the avenging of Israel, when the people willingly offered themselves.",
+    "Hear, O ye kings; give ear, O ye princes; I, even I, will sing unto the Lord; I will sing praise to the Lord God of Israel.",
+    "Lord, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.",
+    "The mountains melted from before the Lord, even that Sinai from before the Lord God of Israel.",
+    "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.",
+    "The inhabitants of the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel.",
+    "They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?",
+    "My heart is toward the governors of Israel, that offered themselves willingly among the people. Bless ye the Lord.",
+    "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way.",
+    "They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the Lord, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the Lord go down to the gates.",
+    "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.",
+    "Then he made him that remaineth have dominion over the nobles among the people: the Lord made me have dominion over the mighty.",
+    "Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.",
+    "And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart.",
+    "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.",
+    "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.",
+    "Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field.",
+    "The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.",
+    "They fought from heaven; the stars in their courses fought against Sisera.",
+    "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength.",
+    "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones.",
+    "Curse ye Meroz, said the angel of the Lord, curse ye bitterly the inhabitants thereof; because they came not to the help of the Lord, to the help of the Lord against the mighty.",
+    "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent.",
+    "He asked water, and she gave him milk; she brought forth butter in a lordly dish.",
+    "She put her hand to the nail, and her right hand to the workmen's hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.",
+    "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead.",
+    "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?",
+    "Her wise ladies answered her, yea, she returned answer to herself,",
+    "Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?",
+    "So let all thine enemies perish, O Lord: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years."
+  ],
+  "steinsaltz": [
+    "וַתָּשַׁר דְּבוֹרָה וּבָרָק בֶּן אֲבִינֹעַם בַּיּוֹם הַהוּא לֵאמֹר:",
+    "השירה פותחת באזכור הצרה ובהודאה על הטובות: בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל, בתקופה קשה של מהומות ולוחמה, בְּהִתְנַדֵּב עָם, כשהעם התגייס מרצונו – בָּרֲכוּ ה'. ומיד הקריאה:",
+    "שִׁמְעוּ, מְלָכִים; הַאֲזִינוּ, רֹזְנִים, שׂרים: אָנֹכִי לַה', אָנֹכִי אָשִׁירָה, אֲזַמֵּר לַה' אֱלֹהֵי יִשְׂרָאֵל.",
+    "ראשית השירה נקשרת באירוע מן העבר הרחוק – מעמד הר סיני, שהיה שיאן של תולדות ישראל. ה', בְּצֵאתְךָ מִשֵּׂעִיר, בְּצַעְדְּךָ מִשְּׂדֵה אֱדוֹם. כשה' התגלה בסיני, הוא הופיע מכל הכיוונים, משעיר ומאדום. אז אֶרֶץ רָעָשָׁה, רעדה, גַּם שָׁמַיִם נָטָפוּ מאימה, גַּם עָבִים נָטְפוּ מָיִם. העולם כולו התערפל, רטט והתיירא.",
+    "אפילו הָרִים מוצקים נָזְלוּ, נראו כאילו נמסו מִפְּנֵי התגלות ה'. זֶה הגילוי שבסִינַי – מִפְּנֵי ה' אֱלֹהֵי יִשְׂרָאֵל.",
+    "מכאן חוזרת המשוררת אל העבר הקרוב ואל ההווה: בִּימֵי שַׁמְגַּר בֶּן עֲנָת, שכפי הנראה הושיע את ישראל באופן חלקי למדי, בִּימֵי יָעֵל. לא ברור מדוע נזכרת כאן יעל. יכול להיות שאף היא הייתה ידועה כאישיות חשובה בשעתה. בימיהם חָדְלוּ אֳרָחוֹת, שיירות, וְהֹלְכֵי נְתִיבוֹת, עוברי דרכים יֵלְכוּ אֳרָחוֹת עֲקַלְקַלּוֹת, עקומים, שכן פחדו ללכת בדרך הישרה מחמת האויבים.",
+    "חָדְלוּ פְרָזוֹן, יישובים שאינם מבוצרים בְּיִשְׂרָאֵל, חָדֵלּוּ. הכול ממוגן וחסוי. הרגשת הביטחון והנינוחות, המתבטאת בערי הפרזות, פסקה. כך נמשך המצב עַד שַׁקַּמְתִּי, שֶׁקמתי אני, דְּבוֹרָה, שַׁקַּמְתִּי והייתי כאֵם בְּיִשְׂרָאֵל.",
+    "יִבְחַר, העם העדיף באותם ימים אֱלֹהִים חֲדָשִׁים, עבודה זרה. אָז לָחֶם, פרצה מלחמה בשְׁעָרִים של הערים, אך מָגֵן אִם יֵרָאֶה וָרֹמַח, אין למצוא כלי נשק להגנה אפילו בְּאַרְבָּעִים אֶלֶף בְּיִשְׂרָאֵל. מספר זה כנראה איננו שרירותי. היחידה הצבאית הגדולה ביותר – מעין אוגדה או גייס קטן – מנתה ארבעים אלף חיילים.",
+    "לִבִּי פונה כעת לְחוֹקְקֵי, מחוקקי יִשְׂרָאֵל, כנראה למנהיגים הקובעים את החוק המקומי, הַמִּתְנַדְּבִים בָּעָם, ראשי ישראל העוסקים בטובת הציבור, בָּרֲכוּ את ה'.",
+    "המכובדים, היחסנים והאמידים רֹכְבֵי אֲתֹנוֹת צְחֹרוֹת. ייתכן שאתונות אלו נבחרו או גודלו כגזע לעצמו. יֹשְׁבֵי עַל מִדִּין, הדיינים, היושבים במקום הדין וְהֹלְכֵי עַל דֶּרֶךְ, הולכי דרכים, שִׂיחוּ, שוחחו כולכם על הישועה ועל הנפלאות.",
+    "מִקּוֹל מְחַצְצִים בֵּין מַשְׁאַבִּים, בין קולות המים הזורמים בחצץ, במקומות שאיבת המים שבהם נוהגים אנשים להתגודד ולשוחח – שָׁם יְתַנּוּ, יספרו את צִדְקוֹת ה', צִדְקֹת פִּרְזֹנוֹ, השחרור שעשה בְּיִשְׂרָאֵל. אנשים יספרו שה' הושיע את ישראל והעניק להם שלווה. אָז יָרְדוּ לַשְּׁעָרִים, שערי העיר, מקום אספות העם ומושב הזקנים, עַם ה' לספר על התשועה ואולי גם לתכנן תכניות לעתיד.",
+    "עד עתה פנתה המשוררת לאחרים, ועתה היא פונה לעצמה ולמצביא שבצדה, אולי בשם העם המעורר את מנהיגיו לשיר: עוּרִי עוּרִי, דְּבוֹרָה, עוּרִי עוּרִי, דַּבְּרִי שִׁיר! קוּם, בָּרָק! וּכמפקד המלחמה שֲׁבֵה, נהג את שֶׁבְיְךָ, בֶּן אֲבִינֹעַם!",
+    "אָז יְרַד, יָרד למערכה או רָדה שָׂרִיד לְאַדִּירִים עָם, האנשים שנשארו האמיצים והחזקים שבעם. ה' יְרַד לִי בּראש הגִּבּוֹרִים.",
+    "אמנם במלחמה השתתפו בעיקר שבטי הצפון, נפתלי וזבולון, אבל נוספו עליהם גיבורים מתנדבים משבטים אחרים. מִנִּי, מתוך אֶפְרַיִם ששָׁרְשָׁם, ששירשו ועקרו את אויביהם במלחמתם בַּעֲמָלֵק; אַחֲרֶיךָ בִנְיָמִין יצא בַּעֲמָמֶיךָ, למרות המרחק הצטרפו גם משפחות מבנימין; מִנִּי מָכִיר, משפחה מחצי שבט מנשה שבבשן יָרְדוּ להשתתף במלחמה מְחֹקְקִים, אנשים חשובים; וּמִזְּבוּלֻן באו לא רק אנשי חיל פשוטים אלא גם מֹשְׁכִים בְּשֵׁבֶט, קולמוס הסֹפֵר, סופרים הבקיאים במלאכת הכתיבה;",
+    "וְשָׂרַי, והשרים בְּיִשָּׂשכָר הלכו עִם דְּבֹרָה. הם עמדו בבסיסו של הגוף הלוחם, וכיִשָּׂשכָר כֵּן בָּרָק, שהלך גם הוא עם דבורה. שהרי דבורה השופטת והנביאה היא שקראה לו, מינתה אותו לתפקידו והורתה לו לפתוח במלחמה. כל אחד מאלו הגיע ממקומו ובָעֵמֶק שבו התאספו כולם, שֻׁלַּח למלחמה בְּרַגְלָיו. לעומת זאת, בִּפְלַגּוֹת, בחבורות, בהיבדלות, ביובלי המים, או: בלבותיהם החצויים של רְאוּבֵן, היושבים נבדלים בעבר הירדן, גְּדֹלִים חִקְקֵי לֵב, רבים המחשבות והשיקולים.",
+    "וכאן באה פנייה ישירה אל ראובן: לָמָּה יָשַׁבְתָּ בֵּין הַמִּשְׁפְּתַיִם, בתחומי המרעה לִשְׁמֹעַ שְׁרִקוֹת עֲדָרִים?! הרעש היחידי שאתה – שבט רועים היושב בשקט בארץ שאין בה תרועות מלחמה – רוצה לשמוע הוא השריקות לקיבוץ הצאן. לִפְלַגּוֹת, לחבורות, ללב החלוק, או המופלג בחכמה של רְאוּבֵן גְּדוֹלִים חִקְרֵי לֵב, חקירות והתייעצויות מרובות. זהו לעג אירוני על החלטת בני ראובן לשבת בשקט במקומם ולשמור על ניטרליות.",
+    "גם איש גִּלְעָד שבְּעֵבֶר הַיַּרְדֵּן שָׁכֵן לו במנוחה ולא השתתף במלחמה שאינה בשכנותו, וְדָן לָמָּה יָגוּר באֳנִיּוֹת?! בני שבט דן, שהם יורדי ים, ממשיכים לעסוק באניותיהם, ואינם נוטלים חלק במלחמה. גם אָשֵׁר יָשַׁב לְחוֹף יַמִּים, וְעַל מִפְרָצָיו יִשְׁכּוֹן.",
+    "מנגד, זְבֻלוּן הוא עַם שחֵרֵף נַפְשׁוֹ לָמוּת, מסר את עצמו במלחמה, וְנַפְתָּלִי – עַל מְרוֹמֵי שָׂדֶה, שדה הקרב. השבטים הלוחמים היו בעיקר זבולון ונפתלי.",
+    "בָּאוּ עם יבין מְלָכִים, נִלְחָמוּ, אָז נִלְחֲמוּ מַלְכֵי כְנַעַן בְּתַעְנַךְ עַל מֵי מְגִדּוֹ. השלטון הכנעני המרכזי בחצור צירף אליו מלכים קטנים נוספים מן האזור. לפי מספר המרכבות נראה שלא כל הצבא הגיע מהעיר חצור בלבד. המלכים הללו בֶּצַע כֶּסֶף לֹא לָקָחוּ. כשבטי ישראל, גם מלכי כנען האחרים התנדבו למלחמה ולא היו שכירי חרב. לשני הצדדים היה ברור שזוהי מלחמה מכרעת על השליטה בצפון הארץ, והמאבק אינו בין יבין לבין ברק אלא בין כנען לבין ישראל.",
+    "גם מִן שָׁמַיִם נִלְחָמוּ במלחמה הזו. נראה כאילו הַכּוֹכָבִים מִמְּסִלּוֹתָם, ממסלולם, נִלְחֲמוּ עִם סִיסְרָא.",
+    "נַחַל קִישׁוֹן, שכנראה עלה אז על גדותיו, גְּרָפָם, סחף חלק מחיל האויב. האדמה הפכה בוצית, וכך המרכבות לא יכלו לתמרן כראוי, ויושביהן נפלו כטרף קל לפני חיילי זבולון ונפתלי. החיילים הרגליים נהנו אפוא מיתרון המהירות. נַחַל קְדוּמִים, קדמון וחשוב, נַחַל קִישׁוֹן. דבורה משבחת את הנחל שסייע כביכול בניצחון. הנחל הוצף, ונראה שגם בשמים הייתה סערה. על כן, תִּדְרְכִי נַפְשִׁי עֹז, אנשי הצבא נדרשו להתאזר בגבורה כדי לצעוד אל תוך הסערה שאיימה על אויביהם.",
+    "אָז הָלְמוּ עִקְּבֵי סוּס, אפשר היה לשמוע את רגלי הסוסים במנוסתם מִדַּהֲרוֹת דַּהֲרוֹת אַבִּירָיו.",
+    "אוֹרוּ, קללו את מֵרוֹז! מרוז לא השתתפה במלחמה, ואולי נקראה עיר זו על שם ראשה. אָמַר מַלְאַךְ ה', הנביא. אֹרוּ אָרוֹר את יֹשְׁבֶיהָ, כִּי לֹא בָאוּ לְעֶזְרַת ה', לְעֶזְרַת ה' בַּגִּבּוֹרִים. המלחמה אמנם הוכרעה בלעדיהם, אבל הם נזכרים לרעה מכיוון שלא נטלו בה חלק.",
+    "לאחר הקללה מגיעה גם ברכה: תְּבֹרַךְ מִנָּשִׁים יָעֵל אֵשֶׁת חֶבֶר הַקֵּינִי, שהרגה את סיסרא. יותר מִשאר נָּשִׁים היושבות בָּאֹהֶל ואינן יוצאות למלחמה תְּבֹרָךְ. כאן מופיע תיאור פיוטי של מעשיה:",
+    "מַיִם שָׁאַל סיסרא, והיא חָלָב נָתָנָה. בְּסֵפֶל אַדִּירִים, גדול במיוחד הִקְרִיבָה חֶמְאָה.",
+    "בצד הארוחה העשירה שהגישה, יָדָהּ השמאלית לַיָּתֵד של האוהל תִּשְׁלַחְנָה, שלחה לאחוז בה מול רקתו של סיסרא, ואת יד ימִינָהּ שלחה לְהַלְמוּת עֲמֵלִים, המקבת, הפטיש שעובדים בו, וְהָלְמָה, הכתה את סִיסְרָא, מָחֲקָה, הסירה את רֹאשׁוֹ וּמָחֲצָה וְחָלְפָה היתד את רַקָּתוֹ.",
+    "בֵּין רַגְלֶיהָ כָּרַע נָפַל שָׁכָב, בֵּין רַגְלֶיהָ כָּרַע נָפָל. הוא התמוטט ונפל בין רגליה, שהרי היה עליה לכרוע על ברכיה כדי להכותו ביתד. בַּאֲשֶׁר כָּרַע, באותו מקום שבו התמוטט, שָׁם נָפַל שָׁדוּד, הרוג.",
+    "השירה מסתיימת בקטע המתאר את התבוסה מזווית ייחודית: בְּעַד הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב, ייללה אֵם סִיסְרָא, בְּעַד הָאֶשְׁנָב, חלון המיועד לנשיבת רוח, לאוורור. ואולי האשנב הוא חלון עם שבכה. אמו של סיסרא ישבה והמתינה, הסתכלה באשנב המשקיף למרחוק ובכתה: מַדּוּעַ בֹּשֵׁשׁ רִכְבּוֹ לָבוֹא? מַדּוּעַ אֶחֱרוּ פַּעֲמֵי, דפיקות מַרְכְּבוֹתָיו? ייתכן שכבר ירד הערב שאחרי הקרב, ורכבו של סיסרא טרם שב הביתה.",
+    "חַכְמוֹת שָׂרוֹתֶיהָ תַּעֲנֶינָּה. אמו של שר הצבא הייתה אשה חשובה, ועל כן הייתה מוקפת בשָׂרות חכמות שניסו לחזק את לבה בדברים. אַף הִיא תָּשִׁיב אֲמָרֶיהָ לָהּ. כנגד האפשרות שהתעכבותו מבשרת רעה, היא מבקשת לעודד עצמה באפשרות החיובית:",
+    "הֲלֹא יִמְצְאוּ יְחַלְּקוּ שָׁלָל. הם בוודאי ניצחו במלחמה, ועל כן אינם חוזרים מיד לביתם, שהרי עליהם לחלק תחילה את השלל. רַחַם רַחֲמָתַיִם לְרֹאשׁ גֶּבֶר, נקבה אחת או שתים לכל איש. ביטוי מגונה זה, שבנסיבות אחרות אינו מתאים להיאמר, מתאר את יחס הלוחמים הללו לשבויות. לאחר שהרגו את כל הגברים, הם מחלקים ביניהם את הנשים. שְׁלַל צְבָעִים לְסִיסְרָא, שְׁלַל צְבָעִים רִקְמָה. בשלל יש גם בגדי נשים, שלעתים הם רקומים. צֶבַע רִקְמָתַיִם לְצַוְּארֵי שָׁלָל, החיילים הבוזזים עוטפים בבגדי הנשים המעוטרים את צוואריהם.",
+    "משפט הסיום: כֵּן, כך, בכזו מפלה יֹאבְדוּ כָל אוֹיְבֶיךָ, ה'! מות המנהיג, בידי אשה, לאחר מנוסתו משדה הקרב נתפס כביזיון כפול, ואין עמו תהילה. וְאילו אֹהֲבָיו של ה' יתעלו בפאר והדר כְּצֵאת, כזריחת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ, בעצמתה ההולכת וגוברת. וַתִּשְׁקֹט הָאָרֶץ לאחר מכן אַרְבָּעִים שָׁנָה. גם אם מלך חצור לא נהרג ועירו נשארה עומדת, צבאו הושמד, והמלכים שעזרו לו התפזרו. חצור איבדה את מעמדה והפכה מקום שולי. ידם של ישראל הייתה על העליונה למשך עשרות שנים, ולפחות חלק זה של הארץ נותר בשלוותו."
+  ],
+  "ai_explanation": [
+    "דבורה וברק בן אבינעם שרו את השירה ביום שבו התרחש הניצחון.",
+    "השירה נפתחת בתיאור תקופה של צרות ומהומות, ובהודיה לה' על כך שהעם התגייס מרצונו.",
+    "דבורה קוראת למלכים ולשליטים להקשיב, ומכריזה שהיא שרה ומזמרת לה', אלוהי ישראל.",
+    "השירה מזכירה את התגלות ה' בסיני, המתוארת כהופעה משעיר ומאדום. הארץ רעדה, השמים והעננים נטפו מים, והעולם כולו התיירא.",
+    "גם ההרים נראו כאילו נמסו מפני התגלות ה', ובייחוד מפני הגילוי שהיה בסיני.",
+    "השירה חוזרת אל התקופה הקרובה: בימי שמגר ובימי יעל פסקו השיירות, והולכי הדרכים נאלצו לבחור בדרכים עקומות מפחד האויבים.",
+    "היישובים הבלתי־מבוצרים בישראל איבדו את תחושת הביטחון, עד שדבורה קמה והייתה כאם בישראל.",
+    "העם בחר באלוהים אחרים, ואז פרצה מלחמה בשערי הערים. לא נמצאו בישראל כלי נשק, אפילו לא בקרב ארבעים אלף איש.",
+    "דבורה פונה אל מנהיגי ישראל ואל המתנדבים בעם וקוראת להם לברך את ה'.",
+    "המכובדים, הדיינים והולכי הדרכים נקראים לשוחח על הישועה ועל נפלאות ה'.",
+    "במקומות שאיבת המים סיפרו על צדקות ה' ועל השחרור שהעניק לישראל. לאחר הישועה ירד עם ה' אל שערי העיר, מקום האספות וההנהגה.",
+    "דבורה מעוררת את עצמה לשיר וקוראת לברק לקום ולשבות את שביו, כלומר להוביל את הניצחון במלחמה.",
+    "השורדים והאמיצים שבעם ירדו למערכה, וה' ירד עמם בראש הגיבורים.",
+    "מתוך אפרים, בנימין, מכיר וזבולון הצטרפו מתנדבים למלחמה: מנהיגים, משפחות חשובות ואפילו סופרים ואנשי כתב.",
+    "שרי יששכר הלכו עם דבורה, ויששכר הלך עם ברק. בעמק נאספו הלוחמים ויצאו למלחמה ברגל, ואילו ראובן נשאר מרוחק, שקוע במחשבות ובהתלבטויות.",
+    "דבורה לועגת לראובן על שישב בין אזורי המרעה כדי לשמוע את שריקות העדרים, במקום לצאת למלחמה. בני ראובן הרבו להתייעץ ולא השתתפו.",
+    "גם גלעד שבעבר הירדן, דן ואשר לא השתתפו במלחמה: דן עסק באניות, ואשר נשאר בחוף הים ובמפרציו.",
+    "זבולון ונפתלי, לעומת השבטים שנמנעו, מסרו את נפשם למלחמה בשדה הקרב.",
+    "מלכי כנען נלחמו עם סיסרא בתענך שעל מי מגידו. הם לא היו שכירי חרב, אלא התנדבו למערכה המכרעת על השליטה בצפון.",
+    "נראה היה כאילו גם השמים והכוכבים נלחמו בסיסרא.",
+    "נחל קישון סחף את האויב, והמים הפכו את הקרקע לבוצית ולמרכבות לקשה לתמרן. דבורה קוראת ללוחמים להתאמץ ולהתחזק.",
+    "נשמעו עקבות הסוסים הדוהרים, כנראה בעת מנוסת צבאו של סיסרא.",
+    "מרוז ויושביה קוללו מפני שלא באו לעזרת ה' ולעזרת הלוחמים, אף שהמלחמה הוכרעה בלעדיהם.",
+    "יעל, אשת חבר הקיני, מתברכת יותר מכל הנשים היושבות באוהל, מפני שהרגה את סיסרא.",
+    "סיסרא ביקש מים, ויעל נתנה לו חלב והגישה לו חמאה בכלי מכובד וגדול.",
+    "יעל שלחה יד אחת אל יתד האוהל ויד שנייה אל המקבת, הכתה את סיסרא, מחצה את ראשו והעבירה את היתד ברקתו.",
+    "סיסרא כרע ונפל בין רגלי יעל, ובמקום שבו כרע נפל הרוג ושדוד.",
+    "אמו של סיסרא השקיפה מן החלון והאשנב וייבבה על כך שרכבו מתעכב והוא עדיין אינו חוזר.",
+    "השרות החכמות שסביבה ניסו לענות לה ולעודד אותה, והיא עצמה השיבה לעצמה דברים מרגיעים.",
+    "אם סיסרא מניחה שבנה מתעכב מפני שהלוחמים מחלקים את השלל. היא מדמיינת חלוקת נשים, בגדים צבעוניים ורקמות, כחלק מן השלל.",
+    "השירה מסתיימת במשאלה שכל אויבי ה' יאבדו, ואוהביו יאירו ויתעצמו כשמש. לאחר הניצחון הארץ שקטה ארבעים שנה."
+  ],
+  "ai_explanation_en": [
+    "Deborah and Barak son of Abinoam sang this song on the day of the victory.",
+    "The song opens by describing a period of troubles and turmoil and by giving thanks to God because the people volunteered to fight.",
+    "Deborah calls on kings and rulers to listen and declares that she sings and praises the Lord, the God of Israel.",
+    "The song recalls God's revelation at Sinai, described as an appearance from Seir and Edom. The earth trembled, the heavens and clouds poured water, and the whole world was filled with awe.",
+    "Even the mountains seemed to melt before God's revelation, especially before the revelation at Sinai.",
+    "The song returns to the recent past: in the days of Shamgar and Jael, the caravans stopped, and travelers had to take winding roads because of their fear of the enemies.",
+    "The unwalled settlements in Israel lost their sense of security, until Deborah arose and became like a mother in Israel.",
+    "The people chose new gods, and war then broke out at the city gates. No weapons could be found in Israel, not even among forty thousand people.",
+    "Deborah turns to Israel's leaders and to the volunteers among the people and calls on them to bless the Lord.",
+    "The honored people, judges, and travelers are called upon to speak about the deliverance and God's wonders.",
+    "At the places where people drew water, they spoke of the Lord's righteous deeds and of the freedom he gave Israel. After the deliverance, the people of the Lord went down to the city gates, the place of public assemblies and leadership.",
+    "Deborah stirs herself to sing and calls on Barak to rise and take his captives, meaning to lead the victory in battle.",
+    "The survivors and the courageous among the people went down to battle, and the Lord went with them at the head of the warriors.",
+    "Volunteers from Ephraim, Benjamin, Machir, and Zebulun joined the war: leaders, important families, and even scribes and writers.",
+    "The chiefs of Issachar went with Deborah, and Issachar went with Barak. The fighters gathered in the valley and went to battle on foot, while Reuben remained apart, absorbed in thought and hesitation.",
+    "Deborah mocks Reuben for sitting among the pastures to hear the whistles of the flocks instead of going to war. The people of Reuben deliberated at length and did not participate.",
+    "Gilead beyond the Jordan, Dan, and Asher also did not participate: Dan continued its work with ships, while Asher remained by the seacoast and its bays.",
+    "Zebulun and Naphtali, unlike the tribes that stayed away, risked their lives in the battlefield.",
+    "The kings of Canaan fought with Sisera at Taanach by the waters of Megiddo. They were not mercenaries but volunteered for the decisive struggle over control of the north.",
+    "It seemed as though the heavens and the stars themselves fought against Sisera.",
+    "The Kishon River swept away the enemy, and the water made the ground muddy and the chariots difficult to maneuver. Deborah calls on the warriors to exert themselves and be strong.",
+    "The pounding of horses' hooves was heard, apparently as Sisera's army fled.",
+    "Meroz and its inhabitants were cursed because they did not come to the Lord's aid and to the aid of the warriors, even though the battle was won without them.",
+    "Jael, the wife of Heber the Kenite, is blessed above all women in the tents because she killed Sisera.",
+    "Sisera asked for water, and Jael gave him milk and offered him butter in a large and honorable vessel.",
+    "Jael reached with one hand for the tent peg and with the other for the hammer. She struck Sisera, crushed his head, and drove the peg through his temple.",
+    "Sisera collapsed and fell between Jael's feet; where he collapsed, he fell dead and defeated.",
+    "Sisera's mother looked out through the window and opening and lamented that his chariot was delayed and that he had not yet returned.",
+    "The wise ladies around her tried to answer and encourage her, while she herself offered reassuring explanations.",
+    "Sisera's mother assumes that her son is delayed because the warriors are dividing the spoils. She imagines the distribution of women, colorful garments, and embroidered cloth as part of the booty.",
+    "The song ends with the wish that all God's enemies perish and that those who love him shine and grow strong like the sun. After the victory, the land was quiet for forty years."
+  ],
+  "perush": [
+    "דבורה וברק בן אבינעם שרו את השירה ביום שבו התרחש הניצחון.",
+    "השירה נפתחת בתיאור תקופה של צרות ומהומות, ובהודיה לה' על כך שהעם התגייס מרצונו.",
+    "דבורה קוראת למלכים ולשליטים להקשיב, ומכריזה שהיא שרה ומזמרת לה', אלוהי ישראל.",
+    "השירה מזכירה את התגלות ה' בסיני, המתוארת כהופעה משעיר ומאדום. הארץ רעדה, השמים והעננים נטפו מים, והעולם כולו התיירא.",
+    "גם ההרים נראו כאילו נמסו מפני התגלות ה', ובייחוד מפני הגילוי שהיה בסיני.",
+    "השירה חוזרת אל התקופה הקרובה: בימי שמגר ובימי יעל פסקו השיירות, והולכי הדרכים נאלצו לבחור בדרכים עקומות מפחד האויבים.",
+    "היישובים הבלתי־מבוצרים בישראל איבדו את תחושת הביטחון, עד שדבורה קמה והייתה כאם בישראל.",
+    "העם בחר באלוהים אחרים, ואז פרצה מלחמה בשערי הערים. לא נמצאו בישראל כלי נשק, אפילו לא בקרב ארבעים אלף איש.",
+    "דבורה פונה אל מנהיגי ישראל ואל המתנדבים בעם וקוראת להם לברך את ה'.",
+    "המכובדים, הדיינים והולכי הדרכים נקראים לשוחח על הישועה ועל נפלאות ה'.",
+    "במקומות שאיבת המים סיפרו על צדקות ה' ועל השחרור שהעניק לישראל. לאחר הישועה ירד עם ה' אל שערי העיר, מקום האספות וההנהגה.",
+    "דבורה מעוררת את עצמה לשיר וקוראת לברק לקום ולשבות את שביו, כלומר להוביל את הניצחון במלחמה.",
+    "השורדים והאמיצים שבעם ירדו למערכה, וה' ירד עמם בראש הגיבורים.",
+    "מתוך אפרים, בנימין, מכיר וזבולון הצטרפו מתנדבים למלחמה: מנהיגים, משפחות חשובות ואפילו סופרים ואנשי כתב.",
+    "שרי יששכר הלכו עם דבורה, ויששכר הלך עם ברק. בעמק נאספו הלוחמים ויצאו למלחמה ברגל, ואילו ראובן נשאר מרוחק, שקוע במחשבות ובהתלבטויות.",
+    "דבורה לועגת לראובן על שישב בין אזורי המרעה כדי לשמוע את שריקות העדרים, במקום לצאת למלחמה. בני ראובן הרבו להתייעץ ולא השתתפו.",
+    "גם גלעד שבעבר הירדן, דן ואשר לא השתתפו במלחמה: דן עסק באניות, ואשר נשאר בחוף הים ובמפרציו.",
+    "זבולון ונפתלי, לעומת השבטים שנמנעו, מסרו את נפשם למלחמה בשדה הקרב.",
+    "מלכי כנען נלחמו עם סיסרא בתענך שעל מי מגידו. הם לא היו שכירי חרב, אלא התנדבו למערכה המכרעת על השליטה בצפון.",
+    "נראה היה כאילו גם השמים והכוכבים נלחמו בסיסרא.",
+    "נחל קישון סחף את האויב, והמים הפכו את הקרקע לבוצית ולמרכבות לקשה לתמרן. דבורה קוראת ללוחמים להתאמץ ולהתחזק.",
+    "נשמעו עקבות הסוסים הדוהרים, כנראה בעת מנוסת צבאו של סיסרא.",
+    "מרוז ויושביה קוללו מפני שלא באו לעזרת ה' ולעזרת הלוחמים, אף שהמלחמה הוכרעה בלעדיהם.",
+    "יעל, אשת חבר הקיני, מתברכת יותר מכל הנשים היושבות באוהל, מפני שהרגה את סיסרא.",
+    "סיסרא ביקש מים, ויעל נתנה לו חלב והגישה לו חמאה בכלי מכובד וגדול.",
+    "יעל שלחה יד אחת אל יתד האוהל ויד שנייה אל המקבת, הכתה את סיסרא, מחצה את ראשו והעבירה את היתד ברקתו.",
+    "סיסרא כרע ונפל בין רגלי יעל, ובמקום שבו כרע נפל הרוג ושדוד.",
+    "אמו של סיסרא השקיפה מן החלון והאשנב וייבבה על כך שרכבו מתעכב והוא עדיין אינו חוזר.",
+    "השרות החכמות שסביבה ניסו לענות לה ולעודד אותה, והיא עצמה השיבה לעצמה דברים מרגיעים.",
+    "אם סיסרא מניחה שבנה מתעכב מפני שהלוחמים מחלקים את השלל. היא מדמיינת חלוקת נשים, בגדים צבעוניים ורקמות, כחלק מן השלל.",
+    "השירה מסתיימת במשאלה שכל אויבי ה' יאבדו, ואוהביו יאירו ויתעצמו כשמש. לאחר הניצחון הארץ שקטה ארבעים שנה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "פתיחת השירה וזיכרון התגלות ה'",
+      "title_en": "The Opening of the Song and the Memory of God's Revelation",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "דבורה וברק פותחים בשירת ניצחון, קוראים למלכים להקשיב ומזכירים את התגלות ה' בסיני, שבה רעד העולם מפניו.",
+      "summary_en": "Deborah and Barak open with a song of victory, call on kings to listen, and recall God's revelation at Sinai, when the world trembled before him.",
+      "image_prompt": "A dramatic ancient Hebrew victory song, Deborah and Barak standing together before the people, distant mountains trembling beneath storm clouds and divine light, solemn biblical atmosphere, no text"
+    },
+    {
+      "title": "הצרה בישראל ועליית דבורה",
+      "title_en": "Israel's Trouble and Deborah's Rise",
+      "start_verse": 6,
+      "end_verse": 8,
+      "summary": "השירה מתארת את חוסר הביטחון, הפסקת המסחר וההליכה בדרכים, את שקיעת היישובים ואת עבודת האלילים, עד שדבורה קמה כמנהיגה.",
+      "summary_en": "The song describes insecurity, the end of travel and commerce, the decline of the settlements, and the worship of foreign gods, until Deborah arose as a leader.",
+      "image_prompt": "A fearful biblical landscape with empty roads, travelers avoiding the main path, unwalled villages deserted, and Deborah rising among the people as a determined leader, realistic ancient Near Eastern setting, no text"
+    },
+    {
+      "title": "הודיה, מנהיגות והיציאה למלחמה",
+      "title_en": "Thanksgiving, Leadership, and the Call to Battle",
+      "start_verse": 9,
+      "end_verse": 13,
+      "summary": "דבורה קוראת למנהיגים, לדיינים, להולכי הדרכים ולעם לספר על צדקות ה', ואז מעוררת את עצמה ואת ברק לצאת למערכה.",
+      "summary_en": "Deborah calls leaders, judges, travelers, and the people to speak of God's righteous deeds, then urges herself and Barak to enter the battle.",
+      "image_prompt": "Ancient Israelite leaders and townspeople gathering at city gates and water wells, speaking of deliverance, while Deborah raises her voice and Barak prepares the warriors, biblical cinematic style, no text"
+    },
+    {
+      "title": "השבטים המתנדבים והשבטים הנמנעים",
+      "title_en": "The Tribes That Joined and Those That Stayed Away",
+      "start_verse": 14,
+      "end_verse": 18,
+      "summary": "השירה מונה את המתנדבים מאפרים, בנימין, מכיר וזבולון, ומשבחת את יששכר, זבולון ונפתלי, אך מבקרת את ראובן, גלעד, דן ואשר על הימנעותם.",
+      "summary_en": "The song lists volunteers from Ephraim, Benjamin, Machir, and Zebulun, praises Issachar, Zebulun, and Naphtali, and criticizes Reuben, Gilead, Dan, and Asher for staying away.",
+      "image_prompt": "A symbolic biblical gathering of Israelite tribes, some warriors marching eagerly with spears while other tribal groups remain by flocks, ships, and the seashore, clear contrast between participation and hesitation, no text"
+    },
+    {
+      "title": "הקרב, עזרת השמים ונחל קישון",
+      "title_en": "The Battle, Heavenly Aid, and the Kishon River",
+      "start_verse": 19,
+      "end_verse": 22,
+      "summary": "מלכי כנען נלחמים בתענך, אך הכוכבים והסערה כאילו מצטרפים למערכה; נחל קישון סוחף את האויב ומקשה על המרכבות, והצבא נמלט.",
+      "summary_en": "The kings of Canaan fight at Taanach, but the stars and storm seem to join the battle; the Kishon River sweeps away the enemy, hinders the chariots, and the army flees.",
+      "image_prompt": "A fierce ancient battlefield near the Kishon River during a storm, muddy ground trapping Canaanite chariots, fleeing horses, rain and stars above, Israelite foot soldiers advancing, epic biblical realism, no text"
+    },
+    {
+      "title": "קללת מרוז וברכת יעל",
+      "title_en": "The Curse of Meroz and the Blessing of Jael",
+      "start_verse": 23,
+      "end_verse": 27,
+      "summary": "מרוז ויושביה נזכרים לגנאי על שלא סייעו, ואילו יעל מתברכת על שהרגה את סיסרא באוהלה לאחר שנתנה לו חלב.",
+      "summary_en": "Meroz and its inhabitants are condemned for failing to help, while Jael is blessed for killing Sisera in her tent after giving him milk.",
+      "image_prompt": "A tense biblical tent interior showing Jael beside a resting enemy commander, a milk vessel, tent peg, and hammer visible, emphasizing symbolic suspense without graphic gore, historical biblical setting, no text"
+    },
+    {
+      "title": "אם סיסרא וסיום השירה",
+      "title_en": "Sisera's Mother and the Conclusion of the Song",
+      "start_verse": 28,
+      "end_verse": 31,
+      "summary": "אם סיסרא ממתינה לרכבו ומנסה להתנחם במחשבה שהוא מתעכב בחלוקת השלל, אך השירה מסיימת בתפילה למפלת אויבי ה' ובארבעים שנות שקט.",
+      "summary_en": "Sisera's mother waits for his chariot and comforts herself with the thought that he is delayed while the spoils are divided, but the song ends by praying for the fall of God's enemies and forty years of peace.",
+      "image_prompt": "A sorrowful ancient queen watching from a window as evening falls, empty road and absent chariot in the distance, contrasted with a glowing sunrise symbolizing victory and peace, biblical poetic atmosphere, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 7.94,
+      "usfm": "JDG.5.1"
+    },
+    {
+      "start": 7.94,
+      "end": 13.84,
+      "usfm": "JDG.5.2"
+    },
+    {
+      "start": 13.84,
+      "end": 23.98,
+      "usfm": "JDG.5.3"
+    },
+    {
+      "start": 23.98,
+      "end": 36.46,
+      "usfm": "JDG.5.4"
+    },
+    {
+      "start": 36.46,
+      "end": 42.5,
+      "usfm": "JDG.5.5"
+    },
+    {
+      "start": 42.5,
+      "end": 51.08,
+      "usfm": "JDG.5.6"
+    },
+    {
+      "start": 51.08,
+      "end": 60.28,
+      "usfm": "JDG.5.7"
+    },
+    {
+      "start": 60.28,
+      "end": 68.3,
+      "usfm": "JDG.5.8"
+    },
+    {
+      "start": 68.3,
+      "end": 75.68,
+      "usfm": "JDG.5.9"
+    },
+    {
+      "start": 75.68,
+      "end": 81.98,
+      "usfm": "JDG.5.10"
+    },
+    {
+      "start": 81.98,
+      "end": 96.9,
+      "usfm": "JDG.5.11"
+    },
+    {
+      "start": 96.9,
+      "end": 107.06,
+      "usfm": "JDG.5.12"
+    },
+    {
+      "start": 107.06,
+      "end": 114.7,
+      "usfm": "JDG.5.13"
+    },
+    {
+      "start": 114.7,
+      "end": 126.58,
+      "usfm": "JDG.5.14"
+    },
+    {
+      "start": 126.58,
+      "end": 139.1,
+      "usfm": "JDG.5.15"
+    },
+    {
+      "start": 139.1,
+      "end": 147.84,
+      "usfm": "JDG.5.16"
+    },
+    {
+      "start": 147.84,
+      "end": 157.18,
+      "usfm": "JDG.5.17"
+    },
+    {
+      "start": 157.18,
+      "end": 164.24,
+      "usfm": "JDG.5.18"
+    },
+    {
+      "start": 164.24,
+      "end": 173.82,
+      "usfm": "JDG.5.19"
+    },
+    {
+      "start": 173.82,
+      "end": 178.18,
+      "usfm": "JDG.5.20"
+    },
+    {
+      "start": 178.18,
+      "end": 186.1,
+      "usfm": "JDG.5.21"
+    },
+    {
+      "start": 186.1,
+      "end": 192.02,
+      "usfm": "JDG.5.22"
+    },
+    {
+      "start": 192.02,
+      "end": 202.24,
+      "usfm": "JDG.5.23"
+    },
+    {
+      "start": 202.24,
+      "end": 209.94,
+      "usfm": "JDG.5.24"
+    },
+    {
+      "start": 209.94,
+      "end": 215.24,
+      "usfm": "JDG.5.25"
+    },
+    {
+      "start": 215.24,
+      "end": 227.2,
+      "usfm": "JDG.5.26"
+    },
+    {
+      "start": 227.2,
+      "end": 236.02,
+      "usfm": "JDG.5.27"
+    },
+    {
+      "start": 236.02,
+      "end": 245.94,
+      "usfm": "JDG.5.28"
+    },
+    {
+      "start": 245.94,
+      "end": 251.08,
+      "usfm": "JDG.5.29"
+    },
+    {
+      "start": 251.08,
+      "end": 267.14,
+      "usfm": "JDG.5.30"
+    },
+    {
+      "start": 267.14,
+      "end": 285.16,
+      "usfm": "JDG.5.31"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    7.94,
+    13.84,
+    23.98,
+    36.46,
+    42.5,
+    51.08,
+    60.28,
+    68.3,
+    75.68,
+    81.98,
+    96.9,
+    107.06,
+    114.7,
+    126.58,
+    139.1,
+    147.84,
+    157.18,
+    164.24,
+    173.82,
+    178.18,
+    186.1,
+    192.02,
+    202.24,
+    209.94,
+    215.24,
+    227.2,
+    236.02,
+    245.94,
+    251.08,
+    267.14,
+    285.16
+  ],
+  "times_en_usfm": [
+    "JDG.5.1",
+    "JDG.5.2",
+    "JDG.5.3",
+    "JDG.5.4",
+    "JDG.5.5",
+    "JDG.5.6",
+    "JDG.5.7",
+    "JDG.5.8",
+    "JDG.5.9",
+    "JDG.5.10",
+    "JDG.5.11",
+    "JDG.5.12",
+    "JDG.5.13",
+    "JDG.5.14",
+    "JDG.5.15",
+    "JDG.5.16",
+    "JDG.5.17",
+    "JDG.5.18",
+    "JDG.5.19",
+    "JDG.5.20",
+    "JDG.5.21",
+    "JDG.5.22",
+    "JDG.5.23",
+    "JDG.5.24",
+    "JDG.5.25",
+    "JDG.5.26",
+    "JDG.5.27",
+    "JDG.5.28",
+    "JDG.5.29",
+    "JDG.5.30",
+    "JDG.5.31"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "שופטים פרק ה נפתח בשירת ניצחון של דבורה וברק בן אבינועם, בעקבות הישועה שניתנה לישראל.",
+      "text_he": "שופטים פרק ה נפתח בשירת ניצחון של דבורה וברק בן אבינועם, בעקבות הישועה שניתנה לישראל.",
+      "text_en": "Judges chapter 5 opens with a victory song by Deborah and Barak son of Abinoam, following the deliverance granted to Israel."
+    },
+    {
+      "verse": 4,
+      "text": "השירה מזכירה את יציאת ה' משעיר ואת צעידתו משדה אדום, ומתארת את הארץ הרועדת ואת השמים המטירים מים.",
+      "text_he": "השירה מזכירה את יציאת ה' משעיר ואת צעידתו משדה אדום, ומתארת את הארץ הרועדת ואת השמים המטירים מים.",
+      "text_en": "The song recalls the LORD’s departure from Seir and his march from the land of Edom, describing the earth trembling and the heavens pouring down rain."
+    },
+    {
+      "verse": 6,
+      "text": "בימי שמגר בן ענת ובימי יעל חדלו עוברי הדרכים ללכת בדרכים הראשיות, והנוסעים נאלצו ללכת בדרכים עוקפות ומסוכנות.",
+      "text_he": "בימי שמגר בן ענת ובימי יעל חדלו עוברי הדרכים ללכת בדרכים הראשיות, והנוסעים נאלצו ללכת בדרכים עוקפות ומסוכנות.",
+      "text_en": "In the days of Shamgar son of Anath and Jael, travelers stopped using the main roads, and people had to take winding and dangerous routes instead."
+    },
+    {
+      "verse": 8,
+      "text": "השירה מתארת מצב שבו ישראל בחרו באלוהים אחרים, ובמקביל לא נראו בישראל מגן ורומח; הדבר מדגיש את חולשת העם לפני הישועה.",
+      "text_he": "השירה מתארת מצב שבו ישראל בחרו באלוהים אחרים, ובמקביל לא נראו בישראל מגן ורומח; הדבר מדגיש את חולשת העם לפני הישועה.",
+      "text_en": "The song describes a time when Israel chose other gods, while no shield or spear could be seen among them; this emphasizes the nation’s weakness before its deliverance."
+    },
+    {
+      "verse": 13,
+      "text": "דבורה קוראת לעצמה להתעורר ולשיר, ולברק בן אבינועם לקום ולשבות את שביו; השירה משלבת אפוא הודיה עם קריאה לפעולה.",
+      "text_he": "דבורה קוראת לעצמה להתעורר ולשיר, ולברק בן אבינועם לקום ולשבות את שביו; השירה משלבת אפוא הודיה עם קריאה לפעולה.",
+      "text_en": "Deborah calls herself to rise and sing, and Barak son of Abinoam to rise and take his captives; the song thus combines thanksgiving with a call to action."
+    },
+    {
+      "verse": 18,
+      "text": "זבולון ונפתלי מתוארים כשבטים שסיכנו את נפשם במערכה, ואילו שבטים אחרים, ובהם ראובן, דן ואשר, נזכרים על הימנעותם או על התלבטותם.",
+      "text_he": "זבולון ונפתלי מתוארים כשבטים שסיכנו את נפשם במערכה, ואילו שבטים אחרים, ובהם ראובן, דן ואשר, נזכרים על הימנעותם או על התלבטותם.",
+      "text_en": "Zebulun and Naphtali are described as tribes that risked their lives in the battle, while other tribes—including Reuben, Dan, and Asher—are mentioned for holding back or hesitating."
+    },
+    {
+      "verse": 19,
+      "text": "מלכי כנען נלחמו בתענך על מי מגידו, אך לפי השירה לא לקחו בצע כסף; המלחמה מוצגת כעימות ללא רווח שלל רגיל.",
+      "text_he": "מלכי כנען נלחמו בתענך על מי מגידו, אך לפי השירה לא לקחו בצע כסף; המלחמה מוצגת כעימות ללא רווח שלל רגיל.",
+      "text_en": "The kings of Canaan fought at Taanach, by the waters of Megiddo, but according to the song they took no silver as plunder; the battle is presented as a conflict without the usual spoils of war."
+    },
+    {
+      "verse": 21,
+      "text": "נחל קישון מתואר כמי שגרף את האויב, והסוסים ורוכביהם נזכרים כשהם דוהרים במנוסה לאחר המערכה.",
+      "text_he": "נחל קישון מתואר כמי שגרף את האויב, והסוסים ורוכביהם נזכרים כשהם דוהרים במנוסה לאחר המערכה.",
+      "text_en": "The Kishon River is described as sweeping away the enemy, while the horses and their riders are mentioned racing away in flight after the battle."
+    },
+    {
+      "verse": 24,
+      "text": "יעל אשת חבר הקיני זוכה לברכה מיוחדת: השירה מכריזה שהיא מבורכת יותר מכל הנשים שבאוהל, לאחר שפעלה נגד סיסרא.",
+      "text_he": "יעל אשת חבר הקיני זוכה לברכה מיוחדת: השירה מכריזה שהיא מבורכת יותר מכל הנשים שבאוהל, לאחר שפעלה נגד סיסרא.",
+      "text_en": "Jael, the wife of Heber the Kenite, receives a special blessing: the song declares her more blessed than all the women who live in tents, because of what she did to Sisera."
+    },
+    {
+      "verse": 31,
+      "text": "השירה מסתיימת בתפילה למפלת אויבי ה' ובדימוי אוהביו לזריחת השמש בגבורתה; אחר כך מצוין שהארץ שקטה ארבעים שנה.",
+      "text_he": "השירה מסתיימת בתפילה למפלת אויבי ה' ובדימוי אוהביו לזריחת השמש בגבורתה; אחר כך מצוין שהארץ שקטה ארבעים שנה.",
+      "text_en": "The song ends with a prayer for the downfall of the LORD’s enemies and compares those who love him to the sun rising in its strength. Then it states that the land had peace for forty years."
+    }
+  ]
+}

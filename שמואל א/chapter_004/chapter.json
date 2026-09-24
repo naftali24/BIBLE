@@ -1,0 +1,424 @@
+{
+  "book": "I Samuel",
+  "book_he": "שמואל א",
+  "book_chapters": 31,
+  "chapter": 4,
+  "title": "שמואל א פרק 4",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a04.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a04.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1SA/4-d823402255232005851556a29993d14f.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי דְבַר-שְׁמוּאֵל, לְכָל-יִשְׂרָאֵל; וַיֵּצֵא יִשְׂרָאֵל לִקְרַאת פְּלִשְׁתִּים לַמִּלְחָמָה, וַיַּחֲנוּ עַל-הָאֶבֶן הָעֵזֶר, וּפְלִשְׁתִּים, חָנוּ בַאֲפֵק.",
+    "וַיַּעַרְכוּ פְלִשְׁתִּים לִקְרַאת יִשְׂרָאֵל, וַתִּטֹּשׁ הַמִּלְחָמָה, וַיִּנָּגֶף יִשְׂרָאֵל, לִפְנֵי פְלִשְׁתִּים; וַיַּכּוּ בַמַּעֲרָכָה בַּשָּׂדֶה, כְּאַרְבַּעַת אֲלָפִים אִישׁ.",
+    "וַיָּבֹא הָעָם, אֶל-הַמַּחֲנֶה, וַיֹּאמְרוּ זִקְנֵי יִשְׂרָאֵל, לָמָּה נְגָפָנוּ יְהוָה הַיּוֹם לִפְנֵי פְלִשְׁתִּים; נִקְחָה אֵלֵינוּ מִשִּׁלֹה, אֶת-אֲרוֹן בְּרִית יְהוָה, וְיָבֹא בְקִרְבֵּנוּ, וְיֹשִׁעֵנוּ מִכַּף אֹיְבֵינוּ.",
+    "וַיִּשְׁלַח הָעָם, שִׁלֹה, וַיִּשְׂאוּ מִשָּׁם אֵת אֲרוֹן בְּרִית-יְהוָה צְבָאוֹת, יֹשֵׁב הַכְּרֻבִים; וְשָׁם שְׁנֵי בְנֵי-עֵלִי, עִם-אֲרוֹן בְּרִית הָאֱלֹהִים--חָפְנִי, וּפִינְחָס.",
+    "וַיְהִי, כְּבוֹא אֲרוֹן בְּרִית-יְהוָה אֶל-הַמַּחֲנֶה, וַיָּרִעוּ כָל-יִשְׂרָאֵל, תְּרוּעָה גְדוֹלָה; וַתֵּהֹם, הָאָרֶץ.",
+    "וַיִּשְׁמְעוּ פְלִשְׁתִּים, אֶת-קוֹל הַתְּרוּעָה, וַיֹּאמְרוּ, מֶה קוֹל הַתְּרוּעָה הַגְּדוֹלָה הַזֹּאת בְּמַחֲנֵה הָעִבְרִים; וַיֵּדְעוּ--כִּי אֲרוֹן יְהוָה, בָּא אֶל-הַמַּחֲנֶה.",
+    "וַיִּרְאוּ, הַפְּלִשְׁתִּים--כִּי אָמְרוּ, בָּא אֱלֹהִים אֶל-הַמַּחֲנֶה; וַיֹּאמְרוּ אוֹי לָנוּ, כִּי לֹא הָיְתָה כָּזֹאת אֶתְמוֹל שִׁלְשֹׁם.",
+    "אוֹי לָנוּ--מִי יַצִּילֵנוּ, מִיַּד הָאֱלֹהִים הָאַדִּירִים הָאֵלֶּה: אֵלֶּה הֵם הָאֱלֹהִים, הַמַּכִּים אֶת-מִצְרַיִם בְּכָל-מַכָּה--בַּמִּדְבָּר.",
+    "הִתְחַזְּקוּ וִהְיוּ לַאֲנָשִׁים, פְּלִשְׁתִּים--פֶּן תַּעַבְדוּ לָעִבְרִים, כַּאֲשֶׁר עָבְדוּ לָכֶם; וִהְיִיתֶם לַאֲנָשִׁים, וְנִלְחַמְתֶּם.",
+    "וַיִּלָּחֲמוּ פְלִשְׁתִּים, וַיִּנָּגֶף יִשְׂרָאֵל וַיָּנֻסוּ אִישׁ לְאֹהָלָיו, וַתְּהִי הַמַּכָּה, גְּדוֹלָה מְאֹד; וַיִּפֹּל, מִיִּשְׂרָאֵל, שְׁלֹשִׁים אֶלֶף, רַגְלִי.",
+    "וַאֲרוֹן אֱלֹהִים, נִלְקָח; וּשְׁנֵי בְנֵי-עֵלִי מֵתוּ, חָפְנִי וּפִינְחָס.",
+    "וַיָּרָץ אִישׁ-בִּנְיָמִן מֵהַמַּעֲרָכָה, וַיָּבֹא שִׁלֹה בַּיּוֹם הַהוּא; וּמַדָּיו קְרֻעִים, וַאֲדָמָה עַל-רֹאשׁוֹ.",
+    "וַיָּבוֹא, וְהִנֵּה עֵלִי יֹשֵׁב עַל-הַכִּסֵּא יך יַד דֶּרֶךְ מְצַפֶּה--כִּי-הָיָה לִבּוֹ חָרֵד, עַל אֲרוֹן הָאֱלֹהִים; וְהָאִישׁ, בָּא לְהַגִּיד בָּעִיר, וַתִּזְעַק, כָּל-הָעִיר.",
+    "וַיִּשְׁמַע עֵלִי, אֶת-קוֹל הַצְּעָקָה, וַיֹּאמֶר, מֶה קוֹל הֶהָמוֹן הַזֶּה; וְהָאִישׁ מִהַר, וַיָּבֹא וַיַּגֵּד לְעֵלִי.",
+    "וְעֵלִי, בֶּן-תִּשְׁעִים וּשְׁמֹנֶה שָׁנָה; וְעֵינָיו קָמָה, וְלֹא יָכוֹל לִרְאוֹת.",
+    "וַיֹּאמֶר הָאִישׁ אֶל-עֵלִי, אָנֹכִי הַבָּא מִן-הַמַּעֲרָכָה, וַאֲנִי, מִן-הַמַּעֲרָכָה נַסְתִּי הַיּוֹם; וַיֹּאמֶר מֶה-הָיָה הַדָּבָר, בְּנִי.",
+    "וַיַּעַן הַמְבַשֵּׂר וַיֹּאמֶר, נָס יִשְׂרָאֵל לִפְנֵי פְלִשְׁתִּים, וְגַם מַגֵּפָה גְדוֹלָה, הָיְתָה בָעָם; וְגַם-שְׁנֵי בָנֶיךָ מֵתוּ, חָפְנִי וּפִינְחָס, וַאֲרוֹן הָאֱלֹהִים, נִלְקָחָה.",
+    "וַיְהִי כְּהַזְכִּירוֹ אֶת-אֲרוֹן הָאֱלֹהִים, וַיִּפֹּל מֵעַל-הַכִּסֵּא אֲחֹרַנִּית בְּעַד יַד הַשַּׁעַר וַתִּשָּׁבֵר מַפְרַקְתּוֹ וַיָּמֹת--כִּי-זָקֵן הָאִישׁ, וְכָבֵד; וְהוּא שָׁפַט אֶת-יִשְׂרָאֵל, אַרְבָּעִים שָׁנָה.",
+    "וְכַלָּתוֹ אֵשֶׁת-פִּינְחָס, הָרָה לָלַת, וַתִּשְׁמַע אֶת-הַשְּׁמוּעָה אֶל-הִלָּקַח אֲרוֹן הָאֱלֹהִים, וּמֵת חָמִיהָ וְאִישָׁהּ; וַתִּכְרַע וַתֵּלֶד, כִּי-נֶהֶפְכוּ עָלֶיהָ צִרֶיהָ.",
+    "וּכְעֵת מוּתָהּ, וַתְּדַבֵּרְנָה הַנִּצָּבוֹת עָלֶיהָ, אַל-תִּירְאִי, כִּי בֵן יָלָדְתְּ; וְלֹא עָנְתָה, וְלֹא-שָׁתָה לִבָּהּ.",
+    "וַתִּקְרָא לַנַּעַר, אִיכָבוֹד לֵאמֹר, גָּלָה כָבוֹד, מִיִּשְׂרָאֵל; אֶל-הִלָּקַח אֲרוֹן הָאֱלֹהִים, וְאֶל-חָמִיהָ וְאִישָׁהּ.",
+    "וַתֹּאמֶר, גָּלָה כָבוֹד מִיִּשְׂרָאֵל: כִּי נִלְקַח, אֲרוֹן הָאֱלֹהִים."
+  ],
+  "english": [
+    "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.",
+    "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
+    "And when the people were come into the camp, the elders of Israel said, Wherefore hath the Lord smitten us to day before the Philistines? Let us fetch the ark of the covenant of the Lord out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.",
+    "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the Lord of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
+    "And when the ark of the covenant of the Lord came into the camp, all Israel shouted with a great shout, so that the earth rang again.",
+    "And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.",
+    "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.",
+    "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.",
+    "Be strong and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.",
+    "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+    "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.",
+    "And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.",
+    "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.",
+    "And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult? And the man came in hastily, and told Eli.",
+    "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.",
+    "And the man said unto Eli, I am he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?",
+    "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.",
+    "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.",
+    "And his daughter in law, Phinehas' wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.",
+    "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard it.",
+    "And she named the child Ichabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.",
+    "And she said, The glory is departed from Israel: for the ark of God is taken."
+  ],
+  "steinsaltz": [
+    "וַיְהִי דְבַר שְׁמוּאֵל לְכָל יִשְׂרָאֵל. לא מפורש מה שמואל אמר, אבל נראה מן ההקשר שהוא שלח אותם למלחמה, למרות שהמנהיג הרשמי של ישראל היה אז עלי, וייתכן שבאותה עת שמואל היה עוד צעיר לימים. וַיֵּצֵא יִשְׂרָאֵל לִקְרַאת פְּלִשְׁתִּים לַמִּלְחָמָה. וַיַּחֲנוּ עַל הָאֶבֶן הָעֶזֶר, שאולי הוא המקום שיוזכר בהמשך הספר, וּפְלִשְׁתִּים חָנוּ בַאֲפֵק. ההיערכות למלחמה באותם זמנים הייתה פורמלית למדי – צד אחד היה מזמין את הצד האחר לקרב, והזמן והמקום נקבעו מראש.",
+    "וַיַּעַרְכוּ פְלִשְׁתִּים לִקְרַאת יִשְׂרָאֵל, וַתִּטֹּשׁ, התפשטה הַמִּלְחָמָה. וַיִּנָּגֶף, הוכה יִשְׂרָאֵל לִפְנֵי פְלִשְׁתִּים, וַיַּכּוּ הפלשתים בַמַּעֲרָכָה בַּשָּׂדֶה כְּאַרְבַּעַת אֲלָפִים אִישׁ. אמנם לא היה זה הפסד גמור, משום שלא כל מחנה ישראל הוכה, אך בהתנגשות הזו בין הצבאות הייתה יד הפלשתים על העליונה.",
+    "וַיָּבֹא הָעָם אֶל הַמַּחֲנֶה. וַיֹּאמְרוּ זִקְנֵי יִשְׂרָאֵל: לָמָּה נְגָפָנוּ ה' הַיּוֹם לִפְנֵי פְלִשְׁתִּים?! רק דבר אחד אנו יכולים לעשות – נִקְחָה אֵלֵינוּ מִשִּׁלֹה, המצויה במרחק 30 ק\"מ משדה המלחמה, אֶת אֲרוֹן בְּרִית ה', שהוא הנשק האולטימטיבי שלנו, וְיָבֹא בְקִרְבֵּנוּ וְיֹשִׁעֵנוּ מִכַּף אֹיְבֵינוּ.",
+    "וַיִּשְׁלַח הָעָם שליחים לשִׁלֹה, וַיִּשְׂאוּ מִשָּׁם אֵת אֲרוֹן בְּרִית ה' צְבָאוֹת יֹשֵׁב הַכְּרֻבִים. וְשָׁם שְׁנֵי בְנֵי עֵלִי עִם אֲרוֹן בְּרִית הָאֱלֹהִים, חָפְנִי וּפִינְחָס. את הארון צריכים לשאת הכהנים המשמשים במקדש.",
+    "וַיְהִי כְּבוֹא אֲרוֹן בְּרִית ה' אֶל הַמַּחֲנֶה – וַיָּרִעוּ כָל יִשְׂרָאֵל תְּרוּעָה גְדוֹלָה. וַתֵּהֹם הָאָרֶץ, האזור רעש.",
+    "וַיִּשְׁמְעוּ פְלִשְׁתִּים אֶת קוֹל הַתְּרוּעָה, וַיֹּאמְרוּ: מֶה קוֹל הַתְּרוּעָה הַגְּדוֹלָה הַזֹּאת בְּמַחֲנֵה הָעִבְרִים? וַיֵּדְעוּ הפלשתים מתוך היכרותם עם ישראל או מפי מרגלים כִּי אֲרוֹן ה' בָּא אֶל הַמַּחֲנֶה.",
+    "וַיִּרְאוּ, פחדו הַפְּלִשְׁתִּים, כִּי אָמְרוּ: בָּא אֱלֹהִים אֶל הַמַּחֲנֶה. וַיֹּאמְרוּ: אוֹי לָנוּ! כִּי לֹא הָיְתָה כָּזֹאת אֶתְמוֹל שִׁלְשֹׁם במלחמותינו עם העברים. לֹא הָיְתָה כָּזֹאת אֶתְמוֹל שִׁלְשֹׁם",
+    "אוֹי לָנוּ! מִי יַצִּילֵנוּ מִיַּד הָאֱלֹהִים הָאַדִּירִים הָאֵלֶּה?! אֵלֶּה הֵם הָאֱלֹהִים הַמַּכִּים אֶת מִצְרַיִם בְּכָל מַכָּה בַּמִּדְבָּר, על ים סוף. הפלשתים לא התכוונו להיכנע, אבל מתוך פחד הם אומרים זה לזה:",
+    "הִתְחַזְּקוּ וִהְיוּ לַאֲנָשִׁים, הילחמו בגבורה, פְּלִשְׁתִּים, פֶּן תַּעַבְדוּ לָעִבְרִים כַּאַשֶׁר עָבְדוּ לָכֶם. אין זו מלחמה נקודתית. להכרעתה יש חשיבות פוליטית ארוכת טווח, שהרי אם תפסידו במלחמה גדולה נגד כל ישראל – הם ישתלטו עליכם. לפיכך – וִהְיִיתֶם לַאֲנָשִׁים – וְנִלְחַמְתֶּם.",
+    "וַיִּלָּחֲמוּ פְלִשְׁתִּים בתוקף, וַיִּנָּגֶף יִשְׂרָאֵל, וַיָּנֻסוּ אִישׁ לְאֹהָלָיו, וַתְּהִי הַמַּכָּה גְּדוֹלָה מְאֹד. הפעם הייתה זו תבוסה מכרעת. מכיוון שלא היה זה קרב מקומי על גבולות נחלה אלא מלחמה כוללת שבה השתתף הצבא כולו, כאשר ישראל הפסידו במערכה, הם לא חזרו למחנה כמו בקרב הראשון, אלא קמו וברחו. וַיִּפֹּל כעת מִיִּשְׂרָאֵל שְׁלֹשִׁים אֶלֶף רַגְלִי. גם אם לא כל הנופלים היו חללים, הייתה זו מפלה נרחבת וקשה.",
+    "וַאֲרוֹן אֱלֹהִים נִלְקָח בשבי. לאחר שהמחנה התפזר, הארון, שהיה כלי כבד מאוד, נשאר ונפל בידי הפלשתים. וּכתוצאה מכך, גם שְׁנֵי בְנֵי עֵלִי מֵתוּ, חָפְנִי וּפִינְחָס. ייתכן שהם מתו בגבורה, תוך כדי ניסיון להגן על הארון, שהיה הסמל של ישראל. בני עלי – שככהנים בוודאי לא שימשו קצינים או חיילים בצבא – באו למלחמה בתור משרתי הארון. יש להניח שהם עמדו ליד הארון וניסו למנוע מהפלשתים לנגוע בו, וכך מצאו את מותם.",
+    "וַיָּרָץ אִישׁ משבט בִּנְיָמִן מֵהַמַּעֲרָכָה, בזמן שכל הלוחמים ברחו הביתה, וַיָּבֹא שִׁלֹה בַּיּוֹם הַהוּא, באותו היום כדי להודיע על תוצאות המלחמה, וּמַדָּיו, בגדיו קְרֻעִים לאות אבלות, וַאֲדָמָה עַל רֹאשׁוֹ לביטוי האסון הכבד שאירע.",
+    "וַיָּבוֹא, וְהִנֵּה עֵלִי יֹשֵׁב עַל הַכִּסֵּא ליַד דֶּרֶךְ, על אם הדרך מְצַפֶּה לשמוע חדשות, כִּי הָיָה לִבּוֹ חָרֵד עַל אֲרוֹן הָאֱלֹהִים, שהוא כלי הקודש הפנימי ביותר שמעולם לא הוצא ממקומו. לא ברור אם עלי תמך בהוצאת ארון האלוקים למלחמה אם לאו; מכל מקום מכך חרד ביותר. וְהָאִישׁ הרץ בָּא לְהַגִּיד על המפלה הגדולה בָּעִיר – וַתִּזְעַק כָּל הָעִיר. הבשורה גרמה למהומה.",
+    "וַיִּשְׁמַע עֵלִי אֶת קוֹל הַצְּעָקָה, וַיֹּאמֶר: מֶה קוֹל הֶהָמוֹן, ההמיה, או ההמולה הַזֶּה? וְהָאִישׁ מִהַר, וַיָּבֹא וַיַּגֵּד לְעֵלִי. מלכתחילה התכוון להודיע לעלי, הכהן הגדול, המנהיג והאב, אבל מכיוון שלא היה זה מידע סודי אלא אסון פומבי, התעכב בדרכו וסיפר לאנשים נוספים.",
+    "וְעֵלִי היה אז איש זקן בֶּן תִּשְׁעִים וּשְׁמֹנֶה שָׁנָה, וְעֵינָיו קָמָה, פסקו מלתפקד, וְלֹא יָכוֹל לִרְאוֹת.",
+    "וַיֹּאמֶר הָאִישׁ אֶל עֵלִי: אָנֹכִי האיש הַבָּא מִן הַמַּעֲרָכָה, וַאֲנִי מִן הַמַּעֲרָכָה נַסְתִּי, ברחתי הַיּוֹם. ומשמעות הדבר – שאין בפי בשורות טובות. וַיֹּאמֶר: מֶה הָיָה הַדָּבָר, בְּנִי? למרות זקנותו עלי מודע למצב והוא שומר על כבוד משרתו.",
+    "וַיַּעַן הַמְבַשֵּׂר וַיֹּאמֶר: נָס יִשְׂרָאֵל לִפְנֵי פְלִשְׁתִּים, הפסדנו במלחמה, וְלא זו בלבד – גַם מַגֵּפָה, מכה גְדוֹלָה, שחלליה רבים הָיְתָה בָעָם, וְנוסף על כך, מבחינתך האישית, גַם שְׁנֵי בָנֶיךָ מֵתוּ, חָפְנִי וּפִינְחָס, והנורא מכול – וַאֲרוֹן הָאֱלֹהִים נִלְקָחָה, נלקח.",
+    "וַיְהִי כְּהַזְכִּירוֹ אֶת אֲרוֹן הָאֱלֹהִים שנלקח בשבי, וַיִּפֹּל עלי מתוך זעזוע מֵעַל הַכִּסֵּא אֲחֹרַנִּית בְּעַד יַד, דרך מקום הַשַּׁעַר. מכיוון שהשער שלידו ישב היה פתוח, לא יכול היה להישען עליו. וַתִּשָּׁבֵר מַפְרַקְתּוֹ, מערכת חוליות הצוואר שלו וַיָּמֹת, כִּי זָקֵן הָאִישׁ וגופו כבר לא היה גמיש, ועל כן כל שבר יכול לפגוע בו באופן אנוש, וְכָבֵד, בעל בשר, כך שהנפילה הייתה קשה והביאה את מותו. וְהוּא שָׁפַט אֶת יִשְׂרָאֵל אַרְבָּעִים שָׁנָה.",
+    "וְכַלָּתוֹ של עלי, אֵשֶׁת פִּינְחָס, הָרָה לָלַת, ללדת, וַתִּשְׁמַע אף היא אֶת הַשְּׁמֻעָה אֶל, על הִלָּקַח אֲרוֹן הָאֱלֹהִים וכי מֵת חָמִיהָ וְאִישָׁהּ, בעלה. לקיחת ארון האלוקים הייתה אסון לאומי כבד. מיתת חמיה קרובה אליה יותר, משום שכמנהיג ישראל הוא היה הדמות המכובדת במשפחה, ולבסוף – נפילת בעלה שלה במלחמה. וַתִּכְרַע וַתֵּלֶד, כִּי נֶהֶפְכוּ עָלֶיהָ, תקפו אותה צִרֶיהָ. הזעזוע הגדול גרם שכאבי הלידה וההתכווצויות התחילו באופן מהיר וחד, עד שהגוף לא יכול היה לשאתם.",
+    "וּכְעֵת מוּתָהּ, וַתְּדַבֵּרְנָה הנשים הַנִּצָּבוֹת עָלֶיהָ לסייעה: אַל תִּירְאִי, תפחדי, כִּי בֵן יָלָדְתְּ. הן ניסו לנחם אותה נחמה כלשהי, שלמרות הטרגדיה הקשה, הנה נולד לה בן. וְלֹא עָנְתָה ובאומללותה לֹא שָׁתָה, שמה לִבָּהּ לכך, משום שכבר לא היה לה חפץ בחיים.",
+    "וַתִּקְרָא לַנַּעַר, לתינוק אִי כָבוֹד. היא העניקה לו שם הולם, שפירושו היעדר הכבוד, לֵאמֹר: גָּלָה כָבוֹד מִיִּשְׂרָאֵל, אֶל, על הִלָּקַח אֲרוֹן הָאֱלֹהִים וְאֶל, ועל חָמִיהָ וְאִישָׁהּ שמתו.",
+    "וַתֹּאמֶר, רק זאת: גָּלָה כָבוֹד מִיִּשְׂרָאֵל, כִּי נִלְקַח אֲרוֹן הָאֱלֹהִים."
+  ],
+  "ai_explanation": [
+    "לא נאמר במפורש מה אמר שמואל, אך מן ההקשר נראה שהוא שלח את ישראל למלחמה, אף שעלי היה המנהיג הרשמי, וייתכן ששמואל היה אז צעיר. ישראל חנו באבן העזר והפלשתים באפק; ההיערכות למלחמה הייתה פורמלית, והזמן והמקום נקבעו מראש.",
+    "המלחמה התפשטה, וישראל הוכו לפני הפלשתים. זו לא הייתה תבוסה מוחלטת, אך בהתנגשות הראשונה הייתה יד הפלשתים על העליונה, וכארבעת אלפים איש נפלו.",
+    "זקני ישראל ניסו להבין מדוע ה' הביא עליהם את התבוסה. הם החליטו להביא משילה את ארון הברית, שנמצא במרחק כשלושים קילומטרים משדה הקרב, מתוך תפיסה שהוא יושיע אותם מיד אויביהם.",
+    "העם שלח שליחים לשילה, ומשם נשאו את ארון ברית ה' צבאות, יושב הכרובים. חפני ופינחס, בני עלי, היו עם הארון; את הארון היו אמורים לשאת הכוהנים ששירתו במקדש.",
+    "כאשר הגיע הארון למחנה, כל ישראל הריעו תרועה גדולה, והאזור כולו רעש.",
+    "הפלשתים שמעו את התרועה הגדולה ושאלו לפשרה. הם הבינו, כנראה מתוך היכרות עם ישראל או באמצעות מרגלים, שארון ה' הגיע למחנה.",
+    "הפלשתים פחדו, מפני שסברו שהאלוהים הגיע אל מחנה ישראל. הם אמרו שלא אירע להם דבר כזה בעבר במלחמותיהם עם העברים.",
+    "הפלשתים חששו מי יוכל להציל אותם מידי האלוהים האדירים, שלדעתם הִכּו את מצרים בכל מכה במדבר, כלומר על ים סוף. למרות הפחד, הם לא התכוונו להיכנע.",
+    "הפלשתים עודדו זה את זה להילחם בגבורה, כדי שלא יהיו משועבדים לעברים כפי שהיו העברים משועבדים להם. הם הבינו שמדובר במלחמה בעלת חשיבות פוליטית ארוכת טווח, ולכן קראו לעצמם להתחזק ולהילחם.",
+    "הפלשתים נלחמו בעוצמה, וישראל הובסו וברחו איש לאוהלו. זו הייתה תבוסה מכרעת במלחמה כוללת, ובה נפלו כשלושים אלף רגלים; גם אם לא כולם היו חללים, הייתה זו מפלה קשה ורחבת היקף.",
+    "ארון האלוהים נלקח בשבי לאחר שהמחנה התפזר. חפני ופינחס מתו גם הם; ייתכן שמתו בניסיון להגן על הארון, שאותו שירתו, אף שלא היו חיילים או קצינים.",
+    "איש משבט בנימין ברח מן המערכה והגיע לשילה באותו יום כדי לבשר על תוצאות המלחמה. בגדיו היו קרועים ועפר היה על ראשו, כביטוי לאבל ולאסון.",
+    "עלי ישב על כיסא ליד הדרך והמתין לחדשות, משום שהיה חרד לארון האלוהים, שהיה כלי הקודש הפנימי ביותר. האיש הגיע לעיר כדי לבשר על המפלה, וכל העיר הזדעזעה וזעקה.",
+    "עלי שמע את קול ההמולה ושאל לפשרו. האיש מיהר אליו ובישר לו; בתחילה רצה להודיע לעלי, אך מאחר שהאסון היה פומבי, סיפר בדרך גם לאחרים.",
+    "עלי היה אז בן תשעים ושמונה, עיניו חדלו לתפקד והוא לא היה מסוגל לראות.",
+    "האיש אמר לעלי שהוא הגיע מן המערכה ואף נמלט ממנה באותו יום, ובכך רמז שאין בפיו בשורות טובות. עלי שאל אותו מה אירע, תוך שמירה על כבודו ומעמדו.",
+    "המבשר סיפר שישראל נסו לפני הפלשתים, שהייתה בהם מפלה גדולה, ששני בני עלי מתו, ולבסוף הודיע שהדבר הנורא מכול הוא שארון האלוהים נלקח.",
+    "כאשר הזכיר המבשר את לקיחת הארון, עלי נפל לאחור מכיסאו דרך מקום השער. מפרקתו נשברה והוא מת; זקנתו, גופו הכבד והנפילה הקשה גרמו למותו. עלי שפט את ישראל ארבעים שנה.",
+    "כלתו של עלי, אשת פינחס, הייתה הרה ועמדה ללדת. כששמעה על לקיחת הארון ועל מות חמיה ובעלה, תקפו אותה צירי לידה והיא כרעה וילדה.",
+    "הנשים שניצבו לידה ניסו לנחם אותה ואמרו לה שלא תפחד, מפני שנולד לה בן. היא לא השיבה ולא נתנה דעתה לכך, משום שהאסון גרם לה לאבד את הרצון לחיות.",
+    "היא קראה לתינוק \"אי־כבוד\", כלומר היעדר כבוד, מפני שסברה שכבוד הסתלק מישראל עם לקיחת ארון האלוהים ועם מות חמיה ובעלה.",
+    "היא חזרה ואמרה שכבוד הסתלק מישראל, והדגישה שהסיבה לכך היא שארון האלוהים נלקח."
+  ],
+  "ai_explanation_en": [
+    "The text does not state explicitly what Samuel said, but from the context it appears that he sent Israel to war, even though Eli was the official leader, and Samuel may still have been young. Israel camped at Ebenezer and the Philistines at Aphek; warfare was organized formally, with the time and place determined in advance.",
+    "The battle spread, and Israel was defeated before the Philistines. It was not a complete defeat, but the Philistines prevailed in the first clash, and about four thousand men fell.",
+    "The elders of Israel tried to understand why the Lord had brought this defeat upon them. They decided to bring the Ark of the Covenant from Shiloh, about thirty kilometers from the battlefield, believing that it would save them from their enemies.",
+    "The people sent messengers to Shiloh, and from there they carried the Ark of the Lord of Hosts, who sits above the cherubim. Hophni and Phinehas, Eli’s sons, accompanied the Ark; the priests serving in the sanctuary were responsible for carrying it.",
+    "When the Ark arrived at the camp, all Israel raised a great shout, and the entire area shook with the noise.",
+    "The Philistines heard the great shout and asked what it meant. Apparently through their knowledge of Israel or through spies, they learned that the Ark of the Lord had come to the camp.",
+    "The Philistines were afraid because they thought that God had come into Israel’s camp. They said that nothing like this had ever happened to them before in their wars with the Hebrews.",
+    "The Philistines feared who could save them from these powerful gods, who, in their view, had struck Egypt with every plague in the wilderness—that is, at the Red Sea. Despite their fear, they did not intend to surrender.",
+    "The Philistines encouraged one another to fight bravely so that they would not become servants of the Hebrews as the Hebrews had been servants to them. They understood that this was a war with long-term political importance, so they urged one another to be strong and fight.",
+    "The Philistines fought forcefully, and Israel was defeated; each man fled to his tent. This was a decisive defeat in an all-out war, in which thirty thousand foot soldiers fell. Even if not all of them died, it was a broad and severe disaster.",
+    "The Ark of God was captured after the camp dispersed. Hophni and Phinehas also died; they may have died while trying to protect the Ark they served, although they were not soldiers or military officers.",
+    "A man from the tribe of Benjamin fled from the battle and arrived in Shiloh that same day to report the outcome. His clothes were torn and he had earth on his head, expressing mourning and profound disaster.",
+    "Eli was sitting on a chair beside the road, waiting for news because he was deeply worried about the Ark of God, the innermost sacred object. The man came to the city to report the defeat, and the whole city cried out in distress.",
+    "Eli heard the sound of the commotion and asked what it meant. The man hurried to him and reported the news; he had initially intended to tell Eli, but because the disaster was public, he also told others along the way.",
+    "Eli was then ninety-eight years old. His eyes had ceased to function, and he could not see.",
+    "The man told Eli that he had come from the battlefield and had fled from it that very day, indicating that he had no good news. Eli asked what had happened, while maintaining his dignity and status.",
+    "The messenger reported that Israel had fled before the Philistines, that there had been a great defeat among the people, that Eli’s two sons had died, and finally that the worst news was that the Ark of God had been captured.",
+    "When the messenger mentioned that the Ark had been captured, Eli fell backward from his chair through the gateway. His neck broke and he died; his old age, heavy body, and hard fall caused his death. Eli had judged Israel for forty years.",
+    "Eli’s daughter-in-law, Phinehas’s wife, was pregnant and about to give birth. When she heard about the capture of the Ark and the deaths of her father-in-law and husband, labor pains came upon her and she gave birth.",
+    "The women standing beside her tried to comfort her, telling her not to fear because she had given birth to a son. She did not answer or pay attention, because the disaster had caused her to lose her will to live.",
+    "She named the child Ichabod, meaning the absence of honor, because she believed that honor had departed from Israel with the capture of the Ark and the deaths of her father-in-law and husband.",
+    "She repeated that honor had departed from Israel and emphasized that this was because the Ark of God had been captured."
+  ],
+  "perush": [
+    "לא נאמר במפורש מה אמר שמואל, אך מן ההקשר נראה שהוא שלח את ישראל למלחמה, אף שעלי היה המנהיג הרשמי, וייתכן ששמואל היה אז צעיר. ישראל חנו באבן העזר והפלשתים באפק; ההיערכות למלחמה הייתה פורמלית, והזמן והמקום נקבעו מראש.",
+    "המלחמה התפשטה, וישראל הוכו לפני הפלשתים. זו לא הייתה תבוסה מוחלטת, אך בהתנגשות הראשונה הייתה יד הפלשתים על העליונה, וכארבעת אלפים איש נפלו.",
+    "זקני ישראל ניסו להבין מדוע ה' הביא עליהם את התבוסה. הם החליטו להביא משילה את ארון הברית, שנמצא במרחק כשלושים קילומטרים משדה הקרב, מתוך תפיסה שהוא יושיע אותם מיד אויביהם.",
+    "העם שלח שליחים לשילה, ומשם נשאו את ארון ברית ה' צבאות, יושב הכרובים. חפני ופינחס, בני עלי, היו עם הארון; את הארון היו אמורים לשאת הכוהנים ששירתו במקדש.",
+    "כאשר הגיע הארון למחנה, כל ישראל הריעו תרועה גדולה, והאזור כולו רעש.",
+    "הפלשתים שמעו את התרועה הגדולה ושאלו לפשרה. הם הבינו, כנראה מתוך היכרות עם ישראל או באמצעות מרגלים, שארון ה' הגיע למחנה.",
+    "הפלשתים פחדו, מפני שסברו שהאלוהים הגיע אל מחנה ישראל. הם אמרו שלא אירע להם דבר כזה בעבר במלחמותיהם עם העברים.",
+    "הפלשתים חששו מי יוכל להציל אותם מידי האלוהים האדירים, שלדעתם הִכּו את מצרים בכל מכה במדבר, כלומר על ים סוף. למרות הפחד, הם לא התכוונו להיכנע.",
+    "הפלשתים עודדו זה את זה להילחם בגבורה, כדי שלא יהיו משועבדים לעברים כפי שהיו העברים משועבדים להם. הם הבינו שמדובר במלחמה בעלת חשיבות פוליטית ארוכת טווח, ולכן קראו לעצמם להתחזק ולהילחם.",
+    "הפלשתים נלחמו בעוצמה, וישראל הובסו וברחו איש לאוהלו. זו הייתה תבוסה מכרעת במלחמה כוללת, ובה נפלו כשלושים אלף רגלים; גם אם לא כולם היו חללים, הייתה זו מפלה קשה ורחבת היקף.",
+    "ארון האלוהים נלקח בשבי לאחר שהמחנה התפזר. חפני ופינחס מתו גם הם; ייתכן שמתו בניסיון להגן על הארון, שאותו שירתו, אף שלא היו חיילים או קצינים.",
+    "איש משבט בנימין ברח מן המערכה והגיע לשילה באותו יום כדי לבשר על תוצאות המלחמה. בגדיו היו קרועים ועפר היה על ראשו, כביטוי לאבל ולאסון.",
+    "עלי ישב על כיסא ליד הדרך והמתין לחדשות, משום שהיה חרד לארון האלוהים, שהיה כלי הקודש הפנימי ביותר. האיש הגיע לעיר כדי לבשר על המפלה, וכל העיר הזדעזעה וזעקה.",
+    "עלי שמע את קול ההמולה ושאל לפשרו. האיש מיהר אליו ובישר לו; בתחילה רצה להודיע לעלי, אך מאחר שהאסון היה פומבי, סיפר בדרך גם לאחרים.",
+    "עלי היה אז בן תשעים ושמונה, עיניו חדלו לתפקד והוא לא היה מסוגל לראות.",
+    "האיש אמר לעלי שהוא הגיע מן המערכה ואף נמלט ממנה באותו יום, ובכך רמז שאין בפיו בשורות טובות. עלי שאל אותו מה אירע, תוך שמירה על כבודו ומעמדו.",
+    "המבשר סיפר שישראל נסו לפני הפלשתים, שהייתה בהם מפלה גדולה, ששני בני עלי מתו, ולבסוף הודיע שהדבר הנורא מכול הוא שארון האלוהים נלקח.",
+    "כאשר הזכיר המבשר את לקיחת הארון, עלי נפל לאחור מכיסאו דרך מקום השער. מפרקתו נשברה והוא מת; זקנתו, גופו הכבד והנפילה הקשה גרמו למותו. עלי שפט את ישראל ארבעים שנה.",
+    "כלתו של עלי, אשת פינחס, הייתה הרה ועמדה ללדת. כששמעה על לקיחת הארון ועל מות חמיה ובעלה, תקפו אותה צירי לידה והיא כרעה וילדה.",
+    "הנשים שניצבו לידה ניסו לנחם אותה ואמרו לה שלא תפחד, מפני שנולד לה בן. היא לא השיבה ולא נתנה דעתה לכך, משום שהאסון גרם לה לאבד את הרצון לחיות.",
+    "היא קראה לתינוק \"אי־כבוד\", כלומר היעדר כבוד, מפני שסברה שכבוד הסתלק מישראל עם לקיחת ארון האלוהים ועם מות חמיה ובעלה.",
+    "היא חזרה ואמרה שכבוד הסתלק מישראל, והדגישה שהסיבה לכך היא שארון האלוהים נלקח."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "המערכה הראשונה והבאת הארון",
+      "title_en": "The First Battle and the Bringing of the Ark",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "ישראל יוצאים למלחמה נגד הפלשתים ומובסים במערכה הראשונה. זקני ישראל מחליטים להביא את ארון הברית משילה, וכשהוא מגיע למחנה העם מריע והארץ רועשת.",
+      "summary_en": "Israel goes to war against the Philistines and is defeated in the first engagement. The elders decide to bring the Ark of the Covenant from Shiloh, and when it arrives, the people shout and the area shakes with the noise.",
+      "image_prompt": "An ancient Israelite military camp near a battlefield, priests carrying the Ark of the Covenant into the camp while soldiers raise a great shout, historically grounded biblical illustration, no modern objects"
+    },
+    {
+      "title": "פחד הפלשתים והמפלה הגדולה",
+      "title_en": "The Philistines’ Fear and Israel’s Great Defeat",
+      "start_verse": 6,
+      "end_verse": 11,
+      "summary": "הפלשתים נבהלים מהגעת הארון ונזכרים במכות מצרים, אך מתחזקים ויוצאים להילחם. ישראל מובסים תבוסה מכרעת, שלושים אלף רגלים נופלים, הארון נלקח וחפני ופינחס מתים.",
+      "summary_en": "The Philistines are frightened by the arrival of the Ark and recall the plagues of Egypt, but they strengthen themselves and fight. Israel suffers a decisive defeat, thirty thousand foot soldiers fall, the Ark is captured, and Hophni and Phinehas die.",
+      "image_prompt": "A tense biblical battlefield at the moment of a Philistine victory, Israelite soldiers fleeing, the Ark of the Covenant left behind and being captured, solemn historical religious artwork"
+    },
+    {
+      "title": "הבשורה בשילה ומות עלי",
+      "title_en": "The News in Shiloh and Eli’s Death",
+      "start_verse": 12,
+      "end_verse": 18,
+      "summary": "איש בנימין מגיע לשילה בבגדי אבל ומביא את בשורת התבוסה. עלי החרד לארון שומע שישראל הובסו, בניו מתו והארון נלקח; הוא נופל מכיסאו ומת.",
+      "summary_en": "A Benjaminite arrives in Shiloh wearing signs of mourning and brings news of the defeat. Eli, anxious about the Ark, hears that Israel was defeated, his sons died, and the Ark was captured; he falls from his chair and dies.",
+      "image_prompt": "An elderly blind priest seated beside a roadside gate in Shiloh, hearing a devastated messenger report the loss of the Ark, dramatic but restrained biblical scene, no anachronisms"
+    },
+    {
+      "title": "לידת אי־כבוד",
+      "title_en": "The Birth of Ichabod",
+      "start_verse": 19,
+      "end_verse": 22,
+      "summary": "כלת עלי, אשת פינחס, יולדת בעקבות השמועה על לקיחת הארון ומות בני המשפחה. היא אינה מתנחמת בלידת בנה, וקוראת לו אי־כבוד מפני שלדעתה כבוד הסתלק מישראל עם לקיחת הארון.",
+      "summary_en": "Eli’s daughter-in-law, Phinehas’s wife, gives birth after hearing of the Ark’s capture and the deaths in the family. She cannot be comforted by the birth of her son and names him Ichabod because, in her view, honor has departed from Israel with the capture of the Ark.",
+      "image_prompt": "A mourning Israelite woman after childbirth surrounded by attendants, grieving over the loss of the Ark and her family, restrained biblical historical illustration, solemn atmosphere"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 15.6,
+      "usfm": "1SA.4.1"
+    },
+    {
+      "start": 15.6,
+      "end": 28.94,
+      "usfm": "1SA.4.2"
+    },
+    {
+      "start": 28.94,
+      "end": 47.14,
+      "usfm": "1SA.4.3"
+    },
+    {
+      "start": 47.14,
+      "end": 63.08,
+      "usfm": "1SA.4.4"
+    },
+    {
+      "start": 63.08,
+      "end": 72.52,
+      "usfm": "1SA.4.5"
+    },
+    {
+      "start": 72.52,
+      "end": 85.12,
+      "usfm": "1SA.4.6"
+    },
+    {
+      "start": 85.12,
+      "end": 95.32,
+      "usfm": "1SA.4.7"
+    },
+    {
+      "start": 95.32,
+      "end": 105.5,
+      "usfm": "1SA.4.8"
+    },
+    {
+      "start": 105.5,
+      "end": 119.22,
+      "usfm": "1SA.4.9"
+    },
+    {
+      "start": 119.22,
+      "end": 133.74,
+      "usfm": "1SA.4.10"
+    },
+    {
+      "start": 133.74,
+      "end": 142.12,
+      "usfm": "1SA.4.11"
+    },
+    {
+      "start": 142.12,
+      "end": 151.06,
+      "usfm": "1SA.4.12"
+    },
+    {
+      "start": 151.06,
+      "end": 165.72,
+      "usfm": "1SA.4.13"
+    },
+    {
+      "start": 165.72,
+      "end": 177.08,
+      "usfm": "1SA.4.14"
+    },
+    {
+      "start": 177.08,
+      "end": 183.14,
+      "usfm": "1SA.4.15"
+    },
+    {
+      "start": 183.14,
+      "end": 193.46,
+      "usfm": "1SA.4.16"
+    },
+    {
+      "start": 193.46,
+      "end": 209.9,
+      "usfm": "1SA.4.17"
+    },
+    {
+      "start": 209.9,
+      "end": 231.1,
+      "usfm": "1SA.4.18"
+    },
+    {
+      "start": 231.1,
+      "end": 249.46,
+      "usfm": "1SA.4.19"
+    },
+    {
+      "start": 249.46,
+      "end": 261.34,
+      "usfm": "1SA.4.20"
+    },
+    {
+      "start": 261.34,
+      "end": 276.18,
+      "usfm": "1SA.4.21"
+    },
+    {
+      "start": 276.18,
+      "end": 292.8,
+      "usfm": "1SA.4.22"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.6,
+    28.94,
+    47.14,
+    63.08,
+    72.52,
+    85.12,
+    95.32,
+    105.5,
+    119.22,
+    133.74,
+    142.12,
+    151.06,
+    165.72,
+    177.08,
+    183.14,
+    193.46,
+    209.9,
+    231.1,
+    249.46,
+    261.34,
+    276.18,
+    292.8
+  ],
+  "times_en_usfm": [
+    "1SA.4.1",
+    "1SA.4.2",
+    "1SA.4.3",
+    "1SA.4.4",
+    "1SA.4.5",
+    "1SA.4.6",
+    "1SA.4.7",
+    "1SA.4.8",
+    "1SA.4.9",
+    "1SA.4.10",
+    "1SA.4.11",
+    "1SA.4.12",
+    "1SA.4.13",
+    "1SA.4.14",
+    "1SA.4.15",
+    "1SA.4.16",
+    "1SA.4.17",
+    "1SA.4.18",
+    "1SA.4.19",
+    "1SA.4.20",
+    "1SA.4.21",
+    "1SA.4.22"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? פרק ד׳ נפתח בכך שדבר שמואל היה לכל ישראל, אך המערכה המתוארת בפרק מתרחשת בין ישראל לפלשתים, ליד אבן העזר ואפק.",
+      "text_he": "הידעת? פרק ד׳ נפתח בכך שדבר שמואל היה לכל ישראל, אך המערכה המתוארת בפרק מתרחשת בין ישראל לפלשתים, ליד אבן העזר ואפק.",
+      "text_en": "Did you know? Chapter 4 opens by saying that Samuel’s word came to all Israel, yet the battle described in the chapter took place between Israel and the Philistines, near Ebenezer and Aphek."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? במערכה הראשונה הובסו ישראל, וכארבעת אלפים איש נפלו בשדה הקרב.",
+      "text_he": "הידעת? במערכה הראשונה הובסו ישראל, וכארבעת אלפים איש נפלו בשדה הקרב.",
+      "text_en": "Did you know? In the first battle, Israel was defeated, and about four thousand men fell on the battlefield."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? לאחר התבוסה החליטו זקני ישראל להביא משילה את ארון ברית ה׳, בתקווה שהוא יסייע להם להינצל מיד הפלשתים.",
+      "text_he": "הידעת? לאחר התבוסה החליטו זקני ישראל להביא משילה את ארון ברית ה׳, בתקווה שהוא יסייע להם להינצל מיד הפלשתים.",
+      "text_en": "Did you know? After the defeat, the elders of Israel decided to bring the Ark of the Covenant of the LORD from Shiloh, hoping it would help save them from the Philistines."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? שני בני עלי, חפני ופינחס, הגיעו עם ארון ברית האלוהים אל מחנה ישראל.",
+      "text_he": "הידעת? שני בני עלי, חפני ופינחס, הגיעו עם ארון ברית האלוהים אל מחנה ישראל.",
+      "text_en": "Did you know? Eli’s two sons, Hophni and Phinehas, came with the Ark of God to the Israelite camp."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? כאשר הגיע הארון למחנה, הריעו כל ישראל תרועה גדולה, והכתוב מתאר שהארץ רעשה מן התרועה.",
+      "text_he": "הידעת? כאשר הגיע הארון למחנה, הריעו כל ישראל תרועה גדולה, והכתוב מתאר שהארץ רעשה מן התרועה.",
+      "text_en": "Did you know? When the Ark arrived at the camp, all Israel gave a great shout, and the text says that the earth shook because of it."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? הפלשתים נבהלו כששמעו את התרועה, וזיהו את הגעת הארון עם הגעת ״האלוהים״ אל מחנה ישראל.",
+      "text_he": "הידעת? הפלשתים נבהלו כששמעו את התרועה, וזיהו את הגעת הארון עם הגעת ״האלוהים״ אל מחנה ישראל.",
+      "text_en": "Did you know? The Philistines were afraid when they heard the shout, and they associated the arrival of the Ark with the arrival of “the gods” in the Israelite camp."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? הפלשתים הזכירו את המכות שבהן היכה אלוהים את מצרים, ובכל זאת עודדו זה את זה להתחזק ולהילחם.",
+      "text_he": "הידעת? הפלשתים הזכירו את המכות שבהן היכה אלוהים את מצרים, ובכל זאת עודדו זה את זה להתחזק ולהילחם.",
+      "text_en": "Did you know? The Philistines recalled the plagues with which God struck Egypt, yet they still encouraged one another to be strong and fight."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? התבוסה השנייה הייתה קשה בהרבה מן הראשונה: שלושים אלף רגלים מישראל נפלו, ארון האלוהים נלקח, וחפני ופינחס מתו.",
+      "text_he": "הידעת? התבוסה השנייה הייתה קשה בהרבה מן הראשונה: שלושים אלף רגלים מישראל נפלו, ארון האלוהים נלקח, וחפני ופינחס מתו.",
+      "text_en": "Did you know? The second defeat was far worse than the first: thirty thousand Israelite foot soldiers fell, the Ark of God was captured, and Hophni and Phinehas died."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? עלי היה בן תשעים ושמונה, עיניו כהו והוא לא יכול היה לראות; כששמע שהארון נלקח, נפל מכיסאו ומת.",
+      "text_he": "הידעת? עלי היה בן תשעים ושמונה, עיניו כהו והוא לא יכול היה לראות; כששמע שהארון נלקח, נפל מכיסאו ומת.",
+      "text_en": "Did you know? Eli was ninety-eight years old, and his eyes had grown dim so that he could not see. When he heard that the Ark had been captured, he fell backward from his chair and died."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? כלת עלי קראה לבנה ״אי־כבוד״, מפני שלדבריה גלה הכבוד מישראל עם לקיחת ארון האלוהים, מות חותנה ומות בעלה.",
+      "text_he": "הידעת? כלת עלי קראה לבנה ״אי־כבוד״, מפני שלדבריה גלה הכבוד מישראל עם לקיחת ארון האלוהים, מות חותנה ומות בעלה.",
+      "text_en": "Did you know? Eli’s daughter-in-law named her son Ichabod, saying that glory had departed from Israel because the Ark of God had been captured and her father-in-law and husband had died."
+    }
+  ]
+}

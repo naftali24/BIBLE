@@ -1,0 +1,559 @@
+{
+  "book": "Judges",
+  "book_he": "שופטים",
+  "book_chapters": 21,
+  "chapter": 3,
+  "title": "שופטים פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0703.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0703.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JDG/3-ba494b819da8a3295041ab637deb7232.mp3?version_id=1",
+  "verses": [
+    "וְאֵלֶּה הַגּוֹיִם אֲשֶׁר הִנִּיחַ יְהוָה, לְנַסּוֹת בָּם אֶת-יִשְׂרָאֵל, אֵת כָּל-אֲשֶׁר לֹא-יָדְעוּ, אֵת כָּל-מִלְחֲמוֹת כְּנָעַן.",
+    "רַק, לְמַעַן דַּעַת דֹּרוֹת בְּנֵי-יִשְׂרָאֵל, לְלַמְּדָם, מִלְחָמָה--רַק אֲשֶׁר-לְפָנִים, לֹא יְדָעוּם.",
+    "חֲמֵשֶׁת סַרְנֵי פְלִשְׁתִּים, וְכָל-הַכְּנַעֲנִי וְהַצִּידֹנִי, וְהַחִוִּי, יֹשֵׁב הַר הַלְּבָנוֹן--מֵהַר בַּעַל חֶרְמוֹן, עַד לְבוֹא חֲמָת.",
+    "וַיִּהְיוּ, לְנַסּוֹת בָּם אֶת-יִשְׂרָאֵל--לָדַעַת, הֲיִשְׁמְעוּ אֶת-מִצְוֺת יְהוָה, אֲשֶׁר-צִוָּה אֶת-אֲבוֹתָם, בְּיַד-מֹשֶׁה.",
+    "וּבְנֵי יִשְׂרָאֵל, יָשְׁבוּ בְּקֶרֶב הַכְּנַעֲנִי, הַחִתִּי וְהָאֱמֹרִי וְהַפְּרִזִּי, וְהַחִוִּי וְהַיְבוּסִי.",
+    "וַיִּקְחוּ אֶת-בְּנוֹתֵיהֶם לָהֶם לְנָשִׁים, וְאֶת-בְּנוֹתֵיהֶם נָתְנוּ לִבְנֵיהֶם; וַיַּעַבְדוּ, אֶת-אֱלֹהֵיהֶם.",
+    "וַיַּעֲשׂוּ בְנֵי-יִשְׂרָאֵל אֶת-הָרַע בְּעֵינֵי יְהוָה, וַיִּשְׁכְּחוּ אֶת-יְהוָה אֱלֹהֵיהֶם; וַיַּעַבְדוּ אֶת-הַבְּעָלִים, וְאֶת-הָאֲשֵׁרוֹת.",
+    "וַיִּחַר-אַף יְהוָה, בְּיִשְׂרָאֵל, וַיִּמְכְּרֵם בְּיַד כּוּשַׁן רִשְׁעָתַיִם, מֶלֶךְ אֲרַם נַהֲרָיִם; וַיַּעַבְדוּ בְנֵי-יִשְׂרָאֵל אֶת-כּוּשַׁן רִשְׁעָתַיִם, שְׁמֹנֶה שָׁנִים.",
+    "וַיִּזְעֲקוּ בְנֵי-יִשְׂרָאֵל אֶל-יְהוָה, וַיָּקֶם יְהוָה מוֹשִׁיעַ לִבְנֵי יִשְׂרָאֵל וַיֹּשִׁיעֵם--אֵת עָתְנִיאֵל בֶּן-קְנַז, אֲחִי כָלֵב הַקָּטֹן מִמֶּנּוּ.",
+    "וַתְּהִי עָלָיו רוּחַ-יְהוָה, וַיִּשְׁפֹּט אֶת-יִשְׂרָאֵל, וַיֵּצֵא לַמִּלְחָמָה, וַיִּתֵּן יְהוָה בְּיָדוֹ אֶת-כּוּשַׁן רִשְׁעָתַיִם מֶלֶךְ אֲרָם; וַתָּעָז יָדוֹ, עַל כּוּשַׁן רִשְׁעָתָיִם.",
+    "וַתִּשְׁקֹט הָאָרֶץ, אַרְבָּעִים שָׁנָה; וַיָּמָת, עָתְנִיאֵל בֶּן-קְנַז.",
+    "וַיֹּסִפוּ בְּנֵי יִשְׂרָאֵל, לַעֲשׂוֹת הָרַע בְּעֵינֵי יְהוָה; וַיְחַזֵּק יְהוָה אֶת-עֶגְלוֹן מֶלֶךְ-מוֹאָב, עַל-יִשְׂרָאֵל, עַל כִּי-עָשׂוּ אֶת-הָרַע, בְּעֵינֵי יְהוָה.",
+    "וַיֶּאֱסֹף אֵלָיו, אֶת-בְּנֵי עַמּוֹן וַעֲמָלֵק; וַיֵּלֶךְ, וַיַּךְ אֶת-יִשְׂרָאֵל, וַיִּירְשׁוּ, אֶת-עִיר הַתְּמָרִים.",
+    "וַיַּעַבְדוּ בְנֵי-יִשְׂרָאֵל אֶת-עֶגְלוֹן מֶלֶךְ-מוֹאָב, שְׁמוֹנֶה עֶשְׂרֵה שָׁנָה.",
+    "וַיִּזְעֲקוּ בְנֵי-יִשְׂרָאֵל, אֶל-יְהוָה, וַיָּקֶם יְהוָה לָהֶם מוֹשִׁיעַ אֶת-אֵהוּד בֶּן-גֵּרָא בֶּן-הַיְמִינִי, אִישׁ אִטֵּר יַד-יְמִינוֹ; וַיִּשְׁלְחוּ בְנֵי-יִשְׂרָאֵל בְּיָדוֹ מִנְחָה, לְעֶגְלוֹן מֶלֶךְ מוֹאָב.",
+    "וַיַּעַשׂ לוֹ אֵהוּד חֶרֶב, וְלָהּ שְׁנֵי פֵיוֹת--גֹּמֶד אָרְכָּהּ; וַיַּחְגֹּר אוֹתָהּ מִתַּחַת לְמַדָּיו, עַל יֶרֶךְ יְמִינוֹ.",
+    "וַיַּקְרֵב, אֶת-הַמִּנְחָה, לְעֶגְלוֹן, מֶלֶךְ מוֹאָב; וְעֶגְלוֹן, אִישׁ בָּרִיא מְאֹד.",
+    "וַיְהִי כַּאֲשֶׁר כִּלָּה, לְהַקְרִיב אֶת-הַמִּנְחָה; וַיְשַׁלַּח, אֶת-הָעָם, נֹשְׂאֵי, הַמִּנְחָה.",
+    "וְהוּא שָׁב, מִן-הַפְּסִילִים אֲשֶׁר אֶת-הַגִּלְגָּל, וַיֹּאמֶר, דְּבַר-סֵתֶר לִי אֵלֶיךָ הַמֶּלֶךְ; וַיֹּאמֶר הָס--וַיֵּצְאוּ מֵעָלָיו, כָּל-הָעֹמְדִים עָלָיו.",
+    "וְאֵהוּד בָּא אֵלָיו, וְהוּא-יֹשֵׁב בַּעֲלִיַּת הַמְּקֵרָה אֲשֶׁר-לוֹ לְבַדּוֹ, וַיֹּאמֶר אֵהוּד, דְּבַר-אֱלֹהִים לִי אֵלֶיךָ; וַיָּקָם, מֵעַל הַכִּסֵּא.",
+    "וַיִּשְׁלַח אֵהוּד, אֶת-יַד שְׂמֹאלוֹ, וַיִּקַּח אֶת-הַחֶרֶב, מֵעַל יֶרֶךְ יְמִינוֹ; וַיִּתְקָעֶהָ, בְּבִטְנוֹ.",
+    "וַיָּבֹא גַם-הַנִּצָּב אַחַר הַלַּהַב, וַיִּסְגֹּר הַחֵלֶב בְּעַד הַלַּהַב--כִּי לֹא שָׁלַף הַחֶרֶב, מִבִּטְנוֹ; וַיֵּצֵא, הַפַּרְשְׁדֹנָה.",
+    "וַיֵּצֵא אֵהוּד, הַמִּסְדְּרוֹנָה; וַיִּסְגֹּר דַּלְתוֹת הָעֲלִיָּה, בַּעֲדוֹ--וְנָעָל.",
+    "וְהוּא יָצָא, וַעֲבָדָיו בָּאוּ, וַיִּרְאוּ, וְהִנֵּה דַּלְתוֹת הָעֲלִיָּה נְעֻלוֹת; וַיֹּאמְרוּ, אַךְ מֵסִיךְ הוּא אֶת-רַגְלָיו בַּחֲדַר הַמְּקֵרָה.",
+    "וַיָּחִילוּ עַד-בּוֹשׁ, וְהִנֵּה אֵינֶנּוּ פֹתֵחַ דַּלְתוֹת הָעֲלִיָּה; וַיִּקְחוּ אֶת-הַמַּפְתֵּחַ, וַיִּפְתָּחוּ, וְהִנֵּה אֲדֹנֵיהֶם, נֹפֵל אַרְצָה מֵת.",
+    "וְאֵהוּד נִמְלַט, עַד הִתְמַהְמְהָם; וְהוּא עָבַר אֶת-הַפְּסִילִים, וַיִּמָּלֵט הַשְּׂעִירָתָה.",
+    "וַיְהִי בְּבוֹאוֹ, וַיִּתְקַע בַּשּׁוֹפָר בְּהַר אֶפְרָיִם; וַיֵּרְדוּ עִמּוֹ בְנֵי-יִשְׂרָאֵל מִן-הָהָר, וְהוּא לִפְנֵיהֶם.",
+    "וַיֹּאמֶר אֲלֵהֶם רִדְפוּ אַחֲרַי, כִּי-נָתַן יְהוָה אֶת-אֹיְבֵיכֶם אֶת-מוֹאָב בְּיֶדְכֶם; וַיֵּרְדוּ אַחֲרָיו, וַיִּלְכְּדוּ אֶת-מַעְבְּרוֹת הַיַּרְדֵּן לְמוֹאָב, וְלֹא-נָתְנוּ אִישׁ, לַעֲבֹר.",
+    "וַיַּכּוּ אֶת-מוֹאָב בָּעֵת הַהִיא, כַּעֲשֶׂרֶת אֲלָפִים אִישׁ--כָּל-שָׁמֵן, וְכָל-אִישׁ חָיִל; וְלֹא נִמְלַט, אִישׁ.",
+    "וַתִּכָּנַע מוֹאָב בַּיּוֹם הַהוּא, תַּחַת יַד יִשְׂרָאֵל; וַתִּשְׁקֹט הָאָרֶץ, שְׁמוֹנִים שָׁנָה.",
+    "וְאַחֲרָיו הָיָה, שַׁמְגַּר בֶּן-עֲנָת, וַיַּךְ אֶת-פְּלִשְׁתִּים שֵׁשׁ-מֵאוֹת אִישׁ, בְּמַלְמַד הַבָּקָר; וַיּוֹשַׁע גַּם-הוּא, אֶת-יִשְׂרָאֵל."
+  ],
+  "english": [
+    "Now these are the nations which the Lord left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;",
+    "Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof;",
+    "Namely, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath.",
+    "And they were to prove Israel by them, to know whether they would hearken unto the commandments of the Lord, which he commanded their fathers by the hand of Moses.",
+    "And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:",
+    "And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods.",
+    "And the children of Israel did evil in the sight of the Lord, and forgat the Lord their God, and served Baalim and the groves.",
+    "Therefore the anger of the Lord was hot against Israel, and he sold them into the hand of Chushanrishathaim king of Mesopotamia: and the children of Israel served Chushanrishathaim eight years.",
+    "And when the children of Israel cried unto the Lord, the Lord raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb's younger brother.",
+    "And the Spirit of the Lord came upon him, and he judged Israel, and went out to war: and the Lord delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.",
+    "And the land had rest forty years. And Othniel the son of Kenaz died.",
+    "And the children of Israel did evil again in the sight of the Lord: and the Lord strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the Lord.",
+    "And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.",
+    "So the children of Israel served Eglon the king of Moab eighteen years.",
+    "But when the children of Israel cried unto the Lord, the Lord raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.",
+    "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh.",
+    "And he brought the present unto Eglon king of Moab: and Eglon was a very fat man.",
+    "And when he had made an end to offer the present, he sent away the people that bare the present.",
+    "But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him.",
+    "And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of his seat.",
+    "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:",
+    "And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out.",
+    "Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them.",
+    "When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber.",
+    "And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.",
+    "And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.",
+    "And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.",
+    "And he said unto them, Follow after me: for the Lord hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.",
+    "And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.",
+    "So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.",
+    "And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel."
+  ],
+  "steinsaltz": [
+    "וְאֵלֶּה הַגּוֹיִם אֲשֶׁר הִנִּיחַ ה' ולא הביס לגמרי מפני יהושע, לְנַסּוֹת בָּם אֶת יִשְׂרָאֵל. עקרונית ישראל יכלו להמשיך להשמיד את גויי הארץ, אבל לפעמים הם לא רצו לעשות זאת, ולפעמים לא יכלו. אלו נשארו לנסות אֵת כָּל אנשי הדור אֲשֶׁר לֹא יָדְעוּ אֵת כָּל מִלְחֲמוֹת כְּנָעַן.",
+    "רַק לְמַעַן דַּעַת דֹּרוֹת בְּנֵי יִשְׂרָאֵל לְלַמְּדָם מִלְחָמָה. נוכחותם המתמשכת של האויבים נועדה להביא את ישראל ללמוד מלחמה. רַק אֲשֶׁר, אלא שבפועל לְפָנִים, קודם לֹא יְדָעוּם, הם לא התנסו במלחמות, ולכן במקום להילחם העדיפו להגיע להסכמי שלום.",
+    "בין הגויים שעריהן נשארו במקומן נמנו חֲמֵשֶׁת סַרְנֵי, מושלי פְלִשְׁתִּים, שעמדו בראש חמש עריהן הראשיות, וְכָל הַכְּנַעֲנִי וְהַצִּידֹנִי וְהַחִוִּי שהיה יֹשֵׁב בהַר הַלְּבָנוֹן, מֵהַר בַּעַל חֶרְמוֹן עַד לְבוֹא חֲמָת, כל השבטים הזרים שחיו בסביבת צור וצידון, שאמורות להיות בנחלת ישראל.",
+    "וַיִּהְיוּ לְנַסּוֹת בָּם אֶת יִשְׂרָאֵל, לָדַעַת הֲיִשְׁמְעוּ אֶת מִצְוֹת ה' אֲשֶׁר צִוָּה אֶת אֲבוֹתָם בְּיַד מֹשֶׁה, להוריש את הכנעני, להשמידו ולאבד את מקומות הפולחן שלו.",
+    "ואולם בפועל, בְנֵי יִשְׂרָאֵל יָשְׁבוּ בְּקֶרֶב הַכְּנַעֲנִי, הַחִתִּי וְהָאֱמֹרִי וְהַפְּרִזִּי וְהַחִוִּי וְהַיְבוּסִי.",
+    "וַיִּקְחוּ אֶת בְּנוֹתֵיהֶם לָהֶם לְנָשִׁים וְאֶת בְּנוֹתֵיהֶם נָתְנוּ לִבְנֵיהֶם, וַיַּעַבְדוּ אֶת אֱלֹהֵיהֶם. לאחר זמן חיו בצדם בשלום ואף הגיעו עמם לקרבה יתרה.",
+    "וַיַּעֲשׂוּ בְנֵי יִשְׂרָאֵל אֶת הָרַע בְּעֵינֵי ה', וַיִּשְׁכְּחוּ אֶת ה' אֱלֹהֵיהֶם, וַיַּעַבְדוּ אֶת הַבְּעָלִים וְאֶת הָאֲשֵׁרוֹת.",
+    "וַיִּחַר אַף ה' בְּיִשְׂרָאֵל, וַיִּמְכְּרֵם בְּיַד כּוּשַׁן רִשְׁעָתַיִם מֶלֶךְ אֲרַם נַהֲרָיִם. וַיַּעַבְדוּ בְנֵי יִשְׂרָאֵל אֶת כּוּשַׁן רִשְׁעָתַיִם שְׁמֹנֶה שָׁנִים.",
+    "וַיִּזְעֲקוּ בְנֵי יִשְׂרָאֵל אֶל ה' מן השעבוד, וַיָּקֶם ה' מוֹשִׁיעַ לִבְנֵי יִשְׂרָאֵל וַיּוֹשִׁיעֵם – אֵת עָתְנִיאֵל בֶּן קְנַז, אֲחִי כָלֵב, אחיו-למחצה הַקָּטֹן מִמֶּנּוּ, וכפי שסופר לעיל – גם חתנו.",
+    "וַתְּהִי עָלָיו רוּחַ ה', וַיִּשְׁפֹּט אֶת יִשְׂרָאֵל. לגבי עתניאל, כמו לגבי כלל השופטים, אין מדובר באישיות ממונה הנושאת משרה רשמית, אלא באדם בעל שאר רוח. לא בזכות ייחוסו הנכבד של עתניאל הוא הפך לשופט שהנהיג והדריך את ישראל, אלא מכוח רוח ה' שנחה עליו. וַיֵּצֵא לַמִּלְחָמָה, וַיִּתֵּן ה' בְּיָדוֹ אֶת כּוּשַׁן רִשְׁעָתַיִם מֶלֶךְ אֲרָם, וַתָּעָז, גברה יָדוֹ עַל כּוּשַׁן רִשְׁעָתָיִם.",
+    "וַתִּשְׁקֹט הָאָרֶץ אַרְבָּעִים שָׁנָה. וַיָּמָת עָתְנִיאֵל בֶּן קְנַז.",
+    "וַיֹּסִפוּ בְּנֵי יִשְׂרָאֵל לַעֲשׂוֹת הָרַע בְּעֵינֵי ה' לאחר שנפטרו מהשעבוד הראשון, וַיְחַזֵּק ה' אֶת עֶגְלוֹן מֶלֶךְ מוֹאָב והוא גבר עַל יִשְׂרָאֵל, כעונש עַל כִּי עָשׂוּ אֶת הָרַע בְּעֵינֵי ה'. כִּי עָשׂוּ אֶת הָרַע בְּעֵינֵי ה'.",
+    "וַיֶּאֱסֹף אֵלָיו גם אֶת בְּנֵי עַמּוֹן שהתגוררו בסמוך אליו, וַעֲמָלֵק, שבטים נודדים שהתנכלו לישראל לא אחת באופן עצמאי או בהצטרפם לאחרים. וַיֵּלֶךְ עגלון וַיַּךְ אֶת יִשְׂרָאֵל, וַיִּירְשׁוּ, המואבים העבירו לרשותם אֶת עִיר הַתְּמָרִים, השטח הסמוך ליריחו.",
+    "וַיַּעַבְדוּ בְנֵי יִשְׂרָאֵל אֶת עֶגְלוֹן מֶלֶךְ מוֹאָב שְׁמוֹנֶה עֶשְׂרֵה שָׁנָה. עגלון הפך לשליט הארץ, אף שכנראה לא היה שליט קשה.",
+    "וַיִּזְעֲקוּ בְנֵי יִשְׂרָאֵל אֶל ה'. וַיָּקֶם ה' לָהֶם מוֹשִׁיעַ, אֶת אֵהוּד בֶּן גֵּרָא בֶּן הַיְמִינִי, משבט בנימין, שהיה אִישׁ אִטֵּר, 'סגור' יַד יְמִינוֹ, כלומר שלט ביד שמאל כמו בימין ויותר. פרט זה חשוב להמשך הסיפור. וַיִּשְׁלְחוּ בְנֵי יִשְׂרָאֵל בְּיָדוֹ מִנְחָה לְעֶגְלוֹן מֶלֶךְ מוֹאָב, באשר הוא המלך.",
+    "וַיַּעַשׂ לוֹ אֵהוּד חֶרֶב וְלָהּ שְׁנֵי פֵיוֹת, חרב פיפיות המחודדת משני צדיה, לעומת החרבות הרגילות, שלהבן החד נמצא רק בצדן האחד, ואילו צדן השני קהה. גֹּמֶד, אמה קצרה במעט אָרְכָּהּ. וַיַּחְגֹּר אוֹתָהּ מִתַּחַת לְמַדָּיו, לבגדיו עַל יֶרֶךְ יְמִינוֹ. אדם המשתמש בידו הימנית חוגר את חרבו על ירך שמאל, כדי שיוכל להושיט את ידו לצד גופו ולשלוף אותה מתערה בקלות. כיוון שאהוד היה שמאלי, היה יכול לחגור את החרב בצדו הימני, הבלתי צפוי, וכך לא עורר חשד.",
+    "וַיַּקְרֵב אֶת הַמִּנְחָה לְעֶגְלוֹן מֶלֶךְ מוֹאָב. וְעֶגְלוֹן אִישׁ בָּרִיא, שמן מְאֹד. גם פרט זה נושא משמעות.",
+    "וַיְהִי כַּאֲשֶׁר כִּלָּה לְהַקְרִיב אֶת הַמִּנְחָה, וַיְשַׁלַּח אהוד אֶת שאר הָעָם נֹשְׂאֵי הַמִּנְחָה.",
+    "וְהוּא שָׁב מִן הַפְּסִילִים, המחצבה, שבה פוסלים באבן, אֲשֶׁר אֶת, ליד הַגִּלְגָּל, לאחר שאהוד ליווה את המשלחת חזרה עד לפסילים ופטרם, חזר אל המלך כמי שנזכר ששכח דבר-מה. וַיֹּאמֶר: דְּבַר סֵתֶר, סוד לִי אֵלֶיךָ הַמֶּלֶךְ. וַיֹּאמֶר המלך: הָס! שקט! אדבר עם אהוד ביחידות. וַיֵּצְאוּ מֵעָלָיו כָּל הָעֹמְדִים עָלָיו.",
+    "וְאֵהוּד בָּא אֵלָיו, וְהוּא יֹשֵׁב בַּעֲלִיַּת הַמְּקֵרָה, עליית גג או חדר שבו הוא נרגע ומתקרר אֲשֶׁר לוֹ לְבַדּוֹ. וַיֹּאמֶר אֵהוּד: אין זה דיבור סתם, כי אם דְּבַר אֱלֹהִים לִי אֵלֶיךָ. וַיָּקָם המלך מֵעַל הַכִּסֵּא לכבוד דבר האלוקים.",
+    "בעודו עומד כך – וַיִּשְׁלַח אֵהוּד אֶת יַד שְׂמֹאלוֹ, וַיִּקַּח אֶת הַחֶרֶב מֵעַל יֶרֶךְ יְמִינוֹ וַיִּתְקָעֶהָ בְּבִטְנוֹ של עגלון. אולי לא דקר אותו בלבו, מפני שהמלך לבש שריון, או משום שהיה קשה להגיע עד לבו מרוב שומן. מכל מקום, אהוד גרם לו לעמוד כדי שיקל עליו להרוג אותו, ואז תקע את החרב עמוק ככל יכולתו. יְמִינוֹ וַיִּתְקָעֶהָ בְּבִטְנוֹ",
+    "כיוון שאהוד עשה זאת בכל כוחו, ועגלון היה איש שמן מאוד, וַיָּבֹא גַם הַנִּצָּב, הקת אַחַר הַלַּהַב, חלקה המלוטש של החרב הנוצץ כלהבה, וַיִּסְגֹּר הַחֵלֶב, השומן בְּעַד הַלַּהַב. החרב כולה נכנסה אל תוך הבטן כִּי לֹא שָׁלַף הַחֶרֶב מִבִּטְנוֹ. וַיֵּצֵא הַפַּרְשְׁדֹנָה. הדקירה בקעה את הבטן, וכתוצאה מכך נשפך כל הפרש שבמעיו החוצה.",
+    "וַיֵּצֵא אֵהוּד הַמִּסְדְּרוֹנָה, למסדרון שלפני חדר המלך, וַיִּסְגֹּר דַּלְתוֹת הָעֲלִיָּה בַּעֲדוֹ, אחריו וְנָעָל אותן, כדי לעכב את מחפשיו, בעת שיברח.",
+    "וְהוּא – אהוד יָצָא, וַעֲבָדָיו של עגלון בָּאוּ, וַיִּרְאוּ וְהִנֵּה דַּלְתוֹת הָעֲלִיָּה נְעֻלוֹת. וַיֹּאמְרוּ: אַךְ מֵסִיךְ הוּא אֶת רַגְלָיו, בוודאי הוא עושה את צרכיו בַּחֲדַר הַמְּקֵרָה, ולכן נעל את הדלת.",
+    "וַיָּחִילוּ, חיכו עַד בּוֹשׁ, עד שהתייאשו מן ההמתנה, וְהִנֵּה אֵינֶנּוּ פֹתֵחַ את דַּלְתוֹת הָעֲלִיָּה. כיוון ששיערו שלא ייתכן שהוא עושה את צרכיו זמן רב כל כך – וַיִּקְחוּ אֶת הַמַּפְתֵּחַ וַיִּפְתָּחוּ, וְהִנֵּה הם מוצאים את אֲדֹנֵיהֶם נֹפֵל, מוטל אַרְצָה מֵת.",
+    "ובינתים אֵהוּד נִמְלַט עַד הִתְמַהְמְהָם, בעודם ממתינים. וְהוּא עָבַר אֶת הַפְּסִילִים, המקום המכריע ביציאה מתחום הסכנה, וַיִּמָּלֵט הַשְּׂעִירָתָה, עד שעיר. אין זו ארץ שעיר אלא מקום שיש בו עצים וענפים עבותים.",
+    "וַיְהִי בְּבוֹאוֹ חזרה, וַיִּתְקַע בַּשּׁוֹפָר בְּהַר אֶפְרָיִם כדי להזעיק את העם, וַיֵּרְדוּ עִמּוֹ בְנֵי יִשְׂרָאֵל מִן הָהָר, וְהוּא עבר לִפְנֵיהֶם כמנהיגם. אף שהיה איש בנימין, יצא אהוד מגדר מנהיג מקומי, ואיחד מאחוריו גם שבטים נוספים.",
+    "וַיֹּאמֶר אֲלֵהֶם: רִדְפוּ, רוצו אַחֲרַי, כִּי נָתַן ה' אֶת אֹיְבֵיכֶם, אֶת מוֹאָב, בְּיֶדְכֶם. וַיֵּרְדוּ אַחֲרָיו וַיִּלְכְּדוּ, תפסו אֶת מַעְבְּרוֹת, נקודות מעבר הַיַּרְדֵּן לְכיוון מוֹאָב, כדי למנוע מהמואבים שבארץ לברוח לארצם, וְלֹא נָתְנוּ אִישׁ לַעֲבֹר.",
+    "וַיַּכּוּ אֶת מוֹאָב בָּעֵת הַהִיא כַּעֲשֶׂרֶת אֲלָפִים אִישׁ, ובכלל זה כָּל שָׁמֵן וְכָל אִישׁ חָיִל. באותם דורות אנשים שמנים היו אנשים שהיה להם שפע מזון, ועל כן נחשבו לבריאים יותר ולחזקים יותר. וְלֹא נִמְלַט אִישׁ.",
+    "וַתִּכָּנַע מוֹאָב בַּיּוֹם הַהוּא תַּחַת יַד יִשְׂרָאֵל, וַתִּשְׁקֹט הָאָרֶץ שְׁמוֹנִים שָׁנָה. המואבים שוב לא ניסו לתקוף את ישראל, והגבול עמם היה שלֵו במשך שנים רבות מאוד. הָאָרֶץ שְׁמוֹנִים שָׁנָה.",
+    "וְאַחֲרָיו – אחרי אהוד הָיָה השופט שַׁמְגַּר בֶּן עֲנָת, כפי הנראה זהו שם של גבר. וַיַּךְ אֶת פְּלִשְׁתִּים שֵׁשׁ מֵאוֹת אִישׁ בְּמַלְמַד הַבָּקָר, מרדע, מוט ארוך שבראשו חוד ובאמצעותו מכוונים ומזרזים את הבהמות החורשות. שמגר השתמש במוט זה בתור חנית. נראה שהוא לא הרג את כל שש מאות האיש בידו, אלא עמד בראש קבוצת לוחמים שסייעו לו בהריגת הפלשתים. וַיֹּשַׁע גַּם הוּא אֶת יִשְׂרָאֵל. הוא היה גיבור פרטי שהגן על עמו מן הפלשתים הלוחצים."
+  ],
+  "ai_explanation": [
+    "ה' השאיר בארץ עמים שלא הובסו לגמרי בימי יהושע, כדי לנסות את ישראל. ישראל יכלו לעיתים להשמידם, אך לפעמים לא רצו או לא יכלו לעשות זאת, והעמים האלה נועדו לנסות את הדור שלא הכיר את מלחמות כנען.",
+    "נוכחות האויבים נועדה ללמד את דורות ישראל מלחמה. הדורות הקודמים לא התנסו במלחמות, ולכן העדיפו לעיתים להגיע להסכמי שלום במקום להילחם.",
+    "בין העמים שנשארו נמנו חמשת מושלי פלשתים, שעמדו בראש חמש עריהם המרכזיות, וכן הכנעני, הצידוני והחיווי שישבו בהר הלבנון, באזור שבסביבת צור וצידון ואמור היה להיות בנחלת ישראל.",
+    "העמים האלה נשארו כדי לנסות את ישראל ולבדוק אם ישמעו את מצוות ה', ובכללן המצווה להוריש את הכנעני, להשמידו ולאבד את מקומות הפולחן שלו.",
+    "בפועל ישבו בני ישראל בקרב הכנעני, החיתי, האמורי, הפריזי, החיווי והיבוסי.",
+    "בני ישראל לקחו את בנות העמים האלה לנשים ונתנו להם את בנותיהם, ואף עבדו את אלוהיהם. עם הזמן חיו העמים זה לצד זה בשלום והגיעו לקרבה רבה.",
+    "בני ישראל עשו את הרע בעיני ה', שכחו אותו ועבדו את הבעלים ואת האשרות.",
+    "ה' כעס על ישראל ומסר אותם ביד כושן רשעתיים, מלך ארם נהריים. בני ישראל עבדו אותו במשך שמונה שנים.",
+    "בני ישראל זעקו אל ה' מתוך השעבוד, וה' הקים להם מושיע: את עתניאל בן קנז, אחיו למחצה של כלב וצעיר ממנו, שהיה גם חתנו.",
+    "רוח ה' הייתה על עתניאל, והיא שהפכה אותו למנהיג ולשופט, ולא רק ייחוסו. הוא יצא למלחמה, וה' מסר בידו את כושן רשעתיים, כך שגברה ידו עליו.",
+    "הארץ הייתה שקטה ארבעים שנה, ולאחר מכן מת עתניאל בן קנז.",
+    "בני ישראל חזרו לעשות את הרע בעיני ה'. כעונש על כך חיזק ה' את עגלון מלך מואב, והוא גבר על ישראל.",
+    "עגלון אסף אליו גם את בני עמון ואת עמלק, ויצא להכות את ישראל. המואבים ירשו את עיר התמרים, כלומר את השטח הסמוך ליריחו.",
+    "בני ישראל עבדו את עגלון מלך מואב במשך שמונה עשרה שנה. עגלון נעשה לשליט הארץ, אף שנראה שלא היה שליט קשה.",
+    "בני ישראל זעקו אל ה', והוא הקים להם מושיע את אהוד בן גרא, משבט בנימין, שהיה איטר יד ימינו, כלומר שלט ביד שמאל כמו ביד ימין ואף יותר. בני ישראל שלחו אותו להביא מנחה לעגלון.",
+    "אהוד הכין חרב קצרה, חדה משני צדיה, וחגר אותה מתחת לבגדיו על ירכו הימנית. מכיוון שהיה שמאלי, היה יכול לשלוף אותה מצד זה בלי לעורר חשד.",
+    "אהוד הקריב את המנחה לעגלון, שהיה איש שמן מאוד. גם פרט זה חשוב להמשך הסיפור.",
+    "לאחר שסיים להקריב את המנחה, אהוד שלח את נושאי המנחה.",
+    "אהוד חזר מן הפסילים, המחצבה שליד הגלגל, כאילו נזכר בדבר שנשכח. הוא אמר למלך שיש לו סוד, ועגלון הורה לכל העומדים עליו לצאת כדי לדבר עם אהוד ביחידות.",
+    "אהוד נכנס אל עגלון, שישב לבדו בעליית המקֵרה, חדר שבו המלך נרגע ומתקרר. הוא אמר לו שיש לו דבר אלוהים, והמלך קם לכבוד הדברים.",
+    "אהוד שלח את יד שמאלו, שלף את החרב מירכו הימנית ותקע אותה בבטנו של עגלון. הוא גרם לו לעמוד כדי להקל עליו את ההריגה.",
+    "החרב נכנסה כולה לבטנו של עגלון, והשומן סגר עליה ולכן לא ניתן היה לשלוף אותה. כתוצאה מן הדקירה יצא הפרש שבמעיו.",
+    "אהוד יצא למסדרון, סגר אחריו את דלתות העלייה ונעל אותן, כדי לעכב את המחפשים בזמן בריחתו.",
+    "אהוד יצא, ועבדי עגלון הגיעו וראו שהדלתות נעולות. הם סברו שעגלון עושה את צרכיו בחדר המקֵרה ולכן נעל את הדלת.",
+    "העבדים חיכו עד שהתייאשו מן ההמתנה, פתחו את הדלת במפתח ומצאו את אדוניהם מוטל מת על הארץ.",
+    "אהוד נמלט בזמן שהעבדים התמהמהו. הוא עבר את הפסילים ונמלט לשעיר, מקום שהיה בו סבך של עצים וענפים, ולא ארץ שעיר.",
+    "כשחזר, תקע אהוד בשופר בהר אפרים כדי להזעיק את העם. בני ישראל ירדו איתו מן ההר, והוא עבר לפניהם כמנהיגם.",
+    "אהוד קרא לעם לרדוף אחריו, משום שה' נתן בידם את מואב. בני ישראל תפסו את מעברות הירדן המובילות למואב, כדי למנוע מן המואבים לברוח, ולא אפשרו לאיש לעבור.",
+    "בני ישראל הכו כעשרת אלפים מואבים, ובהם כל השמנים וכל אנשי החיל. איש מן המואבים לא נמלט.",
+    "מואב נכנעה תחת יד ישראל, והארץ הייתה שקטה שמונים שנה. המואבים חדלו מלנסות לתקוף את ישראל, והגבול עמם נשאר שלֵו שנים רבות.",
+    "אחרי אהוד היה שמגר בן ענת, שככל הנראה היה גבר. הוא היכה שש מאות פלשתים במלמד הבקר, מוט מחודד ששימש בדרך כלל להכוונת בהמות, ונעשה גם הוא מושיע לישראל, כנראה כמנהיג קבוצת לוחמים."
+  ],
+  "ai_explanation_en": [
+    "The Lord left in the land nations that had not been completely defeated in the days of Joshua, in order to test Israel. Israel could sometimes have destroyed them, but at times they did not want to or could not do so; these nations were left to test the generation that had not known the wars of Canaan.",
+    "The continuing presence of the enemies was intended to teach the generations of Israel how to wage war. Earlier generations had not experienced warfare, and therefore sometimes preferred to make peace agreements instead of fighting.",
+    "The nations that remained included the five Philistine rulers, who stood at the head of their five central cities, as well as the Canaanites, Sidonians, and Hivites who lived in the Lebanon range, in the region around Tyre and Sidon that was supposed to belong to Israel.",
+    "These nations remained to test Israel and to determine whether they would obey the Lord's commandments, including the command to dispossess the Canaanites, destroy them, and eliminate their places of worship.",
+    "In practice, the Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.",
+    "The Israelites took the daughters of these peoples as wives and gave their own daughters to them, and they also served their gods. Over time, the peoples lived peacefully alongside one another and became closely connected.",
+    "The Israelites did what was evil in the Lord's eyes, forgot Him, and served the Baals and the Asherahs.",
+    "The Lord became angry with Israel and handed them over to Cushan-Rishathaim, king of Aram-Naharaim. The Israelites served him for eight years.",
+    "The Israelites cried out to the Lord under the oppression, and the Lord raised up a deliverer for them: Othniel son of Kenaz, Caleb's younger half-brother, who was also his son-in-law.",
+    "The spirit of the Lord was upon Othniel, and this spirit made him a leader and judge, rather than his distinguished lineage alone. He went to war, and the Lord delivered Cushan-Rishathaim into his hand, so that Othniel prevailed over him.",
+    "The land was quiet for forty years, and then Othniel son of Kenaz died.",
+    "The Israelites again did what was evil in the Lord's eyes. As punishment, the Lord strengthened Eglon king of Moab, and Eglon overcame Israel.",
+    "Eglon gathered the Ammonites and Amalekites as well and went out against Israel. The Moabites took possession of the City of Palms, meaning the area near Jericho.",
+    "The Israelites served Eglon king of Moab for eighteen years. Eglon became the ruler of the land, although he apparently was not a harsh ruler.",
+    "The Israelites cried out to the Lord, and He raised up Ehud son of Gera, a Benjaminite, as their deliverer. Ehud was left-handed, meaning that he controlled his left hand as well as, or more than, his right. The Israelites sent him to bring a tribute to Eglon.",
+    "Ehud made a short sword sharpened on both sides and strapped it under his clothes on his right thigh. Because he was left-handed, he could draw it from that side without arousing suspicion.",
+    "Ehud presented the tribute to Eglon, who was a very fat man. This detail is also important to what follows.",
+    "After finishing the presentation of the tribute, Ehud sent away the bearers of the tribute.",
+    "Ehud returned from the idols, the quarry near Gilgal, as though he had remembered something he had forgotten. He told the king that he had a secret, and Eglon ordered everyone standing nearby to leave so that he could speak with Ehud alone.",
+    "Ehud entered Eglon, who was sitting alone in the upper cooling room, a room where the king rested and cooled himself. Ehud told him that he had a word from God, and the king rose in honor of these words.",
+    "Ehud reached out with his left hand, drew the sword from his right thigh, and thrust it into Eglon's belly. He caused Eglon to stand in order to make the killing easier.",
+    "The sword entered Eglon's belly completely, and the fat closed over it, so it could not be withdrawn. As a result of the stabbing, the contents of his bowels came out.",
+    "Ehud went out into the corridor, closed the doors of the upper room behind him, and locked them in order to delay anyone searching for him while he escaped.",
+    "Ehud went out, and Eglon's servants arrived and saw that the doors were locked. They assumed that Eglon was relieving himself in the cooling room and had therefore locked the door.",
+    "The servants waited until they gave up hope of his opening the door, then used a key to open it and found their master lying dead on the floor.",
+    "Ehud escaped while the servants were delayed. He passed the idols and fled toward Seirah, a place with dense trees and branches, not the land of Seir.",
+    "When he returned, Ehud blew a ram's horn in the hill country of Ephraim to summon the people. The Israelites went down from the mountain with him, and he led them.",
+    "Ehud called on the people to pursue him because the Lord had given Moab into their hands. The Israelites seized the Jordan crossings leading toward Moab to prevent the Moabites from escaping, and they allowed no one to cross.",
+    "The Israelites struck about ten thousand Moabites, including every fat man and every man of valor. No Moabite escaped.",
+    "Moab was subdued under Israel's hand, and the land was quiet for eighty years. The Moabites stopped trying to attack Israel, and the border with them remained peaceful for many years.",
+    "After Ehud came Shamgar son of Anath, who was apparently a man. He struck six hundred Philistines with an ox goad, a pointed pole normally used to direct animals, and he too became a deliverer of Israel, apparently as the leader of a group of fighters."
+  ],
+  "perush": [
+    "ה' השאיר בארץ עמים שלא הובסו לגמרי בימי יהושע, כדי לנסות את ישראל. ישראל יכלו לעיתים להשמידם, אך לפעמים לא רצו או לא יכלו לעשות זאת, והעמים האלה נועדו לנסות את הדור שלא הכיר את מלחמות כנען.",
+    "נוכחות האויבים נועדה ללמד את דורות ישראל מלחמה. הדורות הקודמים לא התנסו במלחמות, ולכן העדיפו לעיתים להגיע להסכמי שלום במקום להילחם.",
+    "בין העמים שנשארו נמנו חמשת מושלי פלשתים, שעמדו בראש חמש עריהם המרכזיות, וכן הכנעני, הצידוני והחיווי שישבו בהר הלבנון, באזור שבסביבת צור וצידון ואמור היה להיות בנחלת ישראל.",
+    "העמים האלה נשארו כדי לנסות את ישראל ולבדוק אם ישמעו את מצוות ה', ובכללן המצווה להוריש את הכנעני, להשמידו ולאבד את מקומות הפולחן שלו.",
+    "בפועל ישבו בני ישראל בקרב הכנעני, החיתי, האמורי, הפריזי, החיווי והיבוסי.",
+    "בני ישראל לקחו את בנות העמים האלה לנשים ונתנו להם את בנותיהם, ואף עבדו את אלוהיהם. עם הזמן חיו העמים זה לצד זה בשלום והגיעו לקרבה רבה.",
+    "בני ישראל עשו את הרע בעיני ה', שכחו אותו ועבדו את הבעלים ואת האשרות.",
+    "ה' כעס על ישראל ומסר אותם ביד כושן רשעתיים, מלך ארם נהריים. בני ישראל עבדו אותו במשך שמונה שנים.",
+    "בני ישראל זעקו אל ה' מתוך השעבוד, וה' הקים להם מושיע: את עתניאל בן קנז, אחיו למחצה של כלב וצעיר ממנו, שהיה גם חתנו.",
+    "רוח ה' הייתה על עתניאל, והיא שהפכה אותו למנהיג ולשופט, ולא רק ייחוסו. הוא יצא למלחמה, וה' מסר בידו את כושן רשעתיים, כך שגברה ידו עליו.",
+    "הארץ הייתה שקטה ארבעים שנה, ולאחר מכן מת עתניאל בן קנז.",
+    "בני ישראל חזרו לעשות את הרע בעיני ה'. כעונש על כך חיזק ה' את עגלון מלך מואב, והוא גבר על ישראל.",
+    "עגלון אסף אליו גם את בני עמון ואת עמלק, ויצא להכות את ישראל. המואבים ירשו את עיר התמרים, כלומר את השטח הסמוך ליריחו.",
+    "בני ישראל עבדו את עגלון מלך מואב במשך שמונה עשרה שנה. עגלון נעשה לשליט הארץ, אף שנראה שלא היה שליט קשה.",
+    "בני ישראל זעקו אל ה', והוא הקים להם מושיע את אהוד בן גרא, משבט בנימין, שהיה איטר יד ימינו, כלומר שלט ביד שמאל כמו ביד ימין ואף יותר. בני ישראל שלחו אותו להביא מנחה לעגלון.",
+    "אהוד הכין חרב קצרה, חדה משני צדיה, וחגר אותה מתחת לבגדיו על ירכו הימנית. מכיוון שהיה שמאלי, היה יכול לשלוף אותה מצד זה בלי לעורר חשד.",
+    "אהוד הקריב את המנחה לעגלון, שהיה איש שמן מאוד. גם פרט זה חשוב להמשך הסיפור.",
+    "לאחר שסיים להקריב את המנחה, אהוד שלח את נושאי המנחה.",
+    "אהוד חזר מן הפסילים, המחצבה שליד הגלגל, כאילו נזכר בדבר שנשכח. הוא אמר למלך שיש לו סוד, ועגלון הורה לכל העומדים עליו לצאת כדי לדבר עם אהוד ביחידות.",
+    "אהוד נכנס אל עגלון, שישב לבדו בעליית המקֵרה, חדר שבו המלך נרגע ומתקרר. הוא אמר לו שיש לו דבר אלוהים, והמלך קם לכבוד הדברים.",
+    "אהוד שלח את יד שמאלו, שלף את החרב מירכו הימנית ותקע אותה בבטנו של עגלון. הוא גרם לו לעמוד כדי להקל עליו את ההריגה.",
+    "החרב נכנסה כולה לבטנו של עגלון, והשומן סגר עליה ולכן לא ניתן היה לשלוף אותה. כתוצאה מן הדקירה יצא הפרש שבמעיו.",
+    "אהוד יצא למסדרון, סגר אחריו את דלתות העלייה ונעל אותן, כדי לעכב את המחפשים בזמן בריחתו.",
+    "אהוד יצא, ועבדי עגלון הגיעו וראו שהדלתות נעולות. הם סברו שעגלון עושה את צרכיו בחדר המקֵרה ולכן נעל את הדלת.",
+    "העבדים חיכו עד שהתייאשו מן ההמתנה, פתחו את הדלת במפתח ומצאו את אדוניהם מוטל מת על הארץ.",
+    "אהוד נמלט בזמן שהעבדים התמהמהו. הוא עבר את הפסילים ונמלט לשעיר, מקום שהיה בו סבך של עצים וענפים, ולא ארץ שעיר.",
+    "כשחזר, תקע אהוד בשופר בהר אפרים כדי להזעיק את העם. בני ישראל ירדו איתו מן ההר, והוא עבר לפניהם כמנהיגם.",
+    "אהוד קרא לעם לרדוף אחריו, משום שה' נתן בידם את מואב. בני ישראל תפסו את מעברות הירדן המובילות למואב, כדי למנוע מן המואבים לברוח, ולא אפשרו לאיש לעבור.",
+    "בני ישראל הכו כעשרת אלפים מואבים, ובהם כל השמנים וכל אנשי החיל. איש מן המואבים לא נמלט.",
+    "מואב נכנעה תחת יד ישראל, והארץ הייתה שקטה שמונים שנה. המואבים חדלו מלנסות לתקוף את ישראל, והגבול עמם נשאר שלֵו שנים רבות.",
+    "אחרי אהוד היה שמגר בן ענת, שככל הנראה היה גבר. הוא היכה שש מאות פלשתים במלמד הבקר, מוט מחודד ששימש בדרך כלל להכוונת בהמות, ונעשה גם הוא מושיע לישראל, כנראה כמנהיג קבוצת לוחמים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "העמים שנשארו והניסיון של ישראל",
+      "title_en": "The Nations Left Behind and Israel's Test",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "ה' השאיר עמים בארץ כדי לנסות את ישראל וללמדם מלחמה. ישראל חיו בקרב עמי כנען, נישאו להם, עבדו את אלוהיהם ולבסוף עבדו את הבעלים והאשרות.",
+      "summary_en": "The Lord left nations in the land to test Israel and teach them warfare. Israel lived among the Canaanite peoples, intermarried with them, served their gods, and eventually worshiped the Baals and Asherahs.",
+      "image_prompt": "A biblical-era landscape showing Israelites living among several neighboring peoples, with distant settlements, a mountain range, and symbolic hints of a military test and foreign worship; educational historical illustration, no text."
+    },
+    {
+      "title": "עתניאל מושיע את ישראל",
+      "title_en": "Othniel Delivers Israel",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "בעקבות עבודת האלילים מסר ה' את ישראל לכושן רשעתיים. ישראל זעקו, ועתניאל, שעליו שרתה רוח ה', הושיע אותם והביא לארץ ארבעים שנות שקט.",
+      "summary_en": "Because of Israel's idolatry, the Lord handed them over to Cushan-Rishathaim. Israel cried out, and Othniel, upon whom the Lord's spirit rested, delivered them and brought forty years of quiet to the land.",
+      "image_prompt": "Othniel standing before Israel as a divinely inspired judge and military leader, with a subdued enemy in the distance and a peaceful land beyond; biblical educational illustration, no text."
+    },
+    {
+      "title": "עגלון משתלט על ישראל",
+      "title_en": "Eglon Gains Control over Israel",
+      "start_verse": 12,
+      "end_verse": 14,
+      "summary": "ישראל חזרו לעשות את הרע, וה' חיזק את עגלון מלך מואב. עגלון נעזר בעמון ובעמלק, כבש את עיר התמרים, ושלט בישראל שמונה עשרה שנה.",
+      "summary_en": "Israel again did what was evil, and the Lord strengthened Eglon king of Moab. With the help of Ammon and Amalek, Eglon took the City of Palms and ruled Israel for eighteen years.",
+      "image_prompt": "A biblical-era Moabite ruler with allied forces from neighboring peoples approaching the region near Jericho, conveying foreign control without graphic violence; educational illustration, no text."
+    },
+    {
+      "title": "אהוד מחסל את עגלון ומנהיג את המרד",
+      "title_en": "Ehud Kills Eglon and Leads the Revolt",
+      "start_verse": 15,
+      "end_verse": 26,
+      "summary": "אהוד בן גרא, איטר יד ימינו, נשא מנחה לעגלון כשהוא מסתיר חרב על ירכו הימנית. לאחר שנשאר עם המלך ביחידות, הרג אותו ונמלט בזמן שעבדיו התמהמהו.",
+      "summary_en": "Ehud son of Gera, who was left-handed, brought tribute to Eglon while concealing a sword on his right thigh. After arranging to be alone with the king, he killed him and escaped while the servants delayed.",
+      "image_prompt": "A tense biblical palace interior showing a left-handed Israelite envoy near a seated Moabite king, with the concealed sword implied but no graphic gore; historical educational illustration, no text."
+    },
+    {
+      "title": "ניצחון ישראל על מואב",
+      "title_en": "Israel's Victory over Moab",
+      "start_verse": 27,
+      "end_verse": 30,
+      "summary": "אהוד תקע בשופר בהר אפרים, אסף את ישראל ותפס את מעברות הירדן. ישראל הכו את צבא מואב, מואב נכנעה, והארץ שקטה שמונים שנה.",
+      "summary_en": "Ehud blew the ram's horn in the hill country of Ephraim, gathered Israel, and seized the Jordan crossings. Israel defeated Moab, Moab was subdued, and the land was quiet for eighty years.",
+      "image_prompt": "Ehud blowing a ram's horn on a mountain while Israelite forces descend toward the Jordan crossings, with a victorious but non-graphic battlefield atmosphere; biblical educational illustration, no text."
+    },
+    {
+      "title": "שמגר מושיע את ישראל",
+      "title_en": "Shamgar Delivers Israel",
+      "start_verse": 31,
+      "end_verse": 31,
+      "summary": "שמגר בן ענת היכה שש מאות פלשתים במלמד הבקר. הוא מתואר כגיבור פרטי, או כמנהיג קבוצת לוחמים, שהושיע את ישראל מן הלחץ הפלשתי.",
+      "summary_en": "Shamgar son of Anath struck six hundred Philistines with an ox goad. He is presented as a private hero, or as the leader of a group of fighters, who delivered Israel from Philistine pressure.",
+      "image_prompt": "A lone Israelite hero holding an ox goad while defending his people from Philistine attackers, presented in a non-graphic biblical educational style; no text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 11.54,
+      "usfm": "JDG.3.1"
+    },
+    {
+      "start": 11.54,
+      "end": 19.02,
+      "usfm": "JDG.3.2"
+    },
+    {
+      "start": 19.02,
+      "end": 30.34,
+      "usfm": "JDG.3.3"
+    },
+    {
+      "start": 30.34,
+      "end": 38.6,
+      "usfm": "JDG.3.4"
+    },
+    {
+      "start": 38.6,
+      "end": 45.66,
+      "usfm": "JDG.3.5"
+    },
+    {
+      "start": 45.66,
+      "end": 51.52,
+      "usfm": "JDG.3.6"
+    },
+    {
+      "start": 51.52,
+      "end": 59.3,
+      "usfm": "JDG.3.7"
+    },
+    {
+      "start": 59.3,
+      "end": 72.34,
+      "usfm": "JDG.3.8"
+    },
+    {
+      "start": 72.34,
+      "end": 83.84,
+      "usfm": "JDG.3.9"
+    },
+    {
+      "start": 83.84,
+      "end": 99.1,
+      "usfm": "JDG.3.10"
+    },
+    {
+      "start": 99.1,
+      "end": 104.88,
+      "usfm": "JDG.3.11"
+    },
+    {
+      "start": 104.88,
+      "end": 116.8,
+      "usfm": "JDG.3.12"
+    },
+    {
+      "start": 116.8,
+      "end": 126.1,
+      "usfm": "JDG.3.13"
+    },
+    {
+      "start": 126.1,
+      "end": 130.74,
+      "usfm": "JDG.3.14"
+    },
+    {
+      "start": 130.74,
+      "end": 145.9,
+      "usfm": "JDG.3.15"
+    },
+    {
+      "start": 145.9,
+      "end": 154.32,
+      "usfm": "JDG.3.16"
+    },
+    {
+      "start": 154.32,
+      "end": 160.76,
+      "usfm": "JDG.3.17"
+    },
+    {
+      "start": 160.76,
+      "end": 166.72,
+      "usfm": "JDG.3.18"
+    },
+    {
+      "start": 166.72,
+      "end": 180.2,
+      "usfm": "JDG.3.19"
+    },
+    {
+      "start": 180.2,
+      "end": 193.98,
+      "usfm": "JDG.3.20"
+    },
+    {
+      "start": 193.98,
+      "end": 201.48,
+      "usfm": "JDG.3.21"
+    },
+    {
+      "start": 201.48,
+      "end": 212.66,
+      "usfm": "JDG.3.22"
+    },
+    {
+      "start": 212.66,
+      "end": 219.76,
+      "usfm": "JDG.3.23"
+    },
+    {
+      "start": 219.76,
+      "end": 231.6,
+      "usfm": "JDG.3.24"
+    },
+    {
+      "start": 231.6,
+      "end": 245.18,
+      "usfm": "JDG.3.25"
+    },
+    {
+      "start": 245.18,
+      "end": 252.74,
+      "usfm": "JDG.3.26"
+    },
+    {
+      "start": 252.74,
+      "end": 262.94,
+      "usfm": "JDG.3.27"
+    },
+    {
+      "start": 262.94,
+      "end": 277.96,
+      "usfm": "JDG.3.28"
+    },
+    {
+      "start": 277.96,
+      "end": 287.94,
+      "usfm": "JDG.3.29"
+    },
+    {
+      "start": 287.94,
+      "end": 295.2,
+      "usfm": "JDG.3.30"
+    },
+    {
+      "start": 295.2,
+      "end": 313.2,
+      "usfm": "JDG.3.31"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    11.54,
+    19.02,
+    30.34,
+    38.6,
+    45.66,
+    51.52,
+    59.3,
+    72.34,
+    83.84,
+    99.1,
+    104.88,
+    116.8,
+    126.1,
+    130.74,
+    145.9,
+    154.32,
+    160.76,
+    166.72,
+    180.2,
+    193.98,
+    201.48,
+    212.66,
+    219.76,
+    231.6,
+    245.18,
+    252.74,
+    262.94,
+    277.96,
+    287.94,
+    295.2,
+    313.2
+  ],
+  "times_en_usfm": [
+    "JDG.3.1",
+    "JDG.3.2",
+    "JDG.3.3",
+    "JDG.3.4",
+    "JDG.3.5",
+    "JDG.3.6",
+    "JDG.3.7",
+    "JDG.3.8",
+    "JDG.3.9",
+    "JDG.3.10",
+    "JDG.3.11",
+    "JDG.3.12",
+    "JDG.3.13",
+    "JDG.3.14",
+    "JDG.3.15",
+    "JDG.3.16",
+    "JDG.3.17",
+    "JDG.3.18",
+    "JDG.3.19",
+    "JDG.3.20",
+    "JDG.3.21",
+    "JDG.3.22",
+    "JDG.3.23",
+    "JDG.3.24",
+    "JDG.3.25",
+    "JDG.3.26",
+    "JDG.3.27",
+    "JDG.3.28",
+    "JDG.3.29",
+    "JDG.3.30",
+    "JDG.3.31"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "ה' השאיר בארץ עמים מסוימים כדי לנסות את ישראל ולבחון אם יקיימו את מצוותיו, וכן כדי ללמד את הדורות שלא ידעו את מלחמות כנען.",
+      "text_he": "ה' השאיר בארץ עמים מסוימים כדי לנסות את ישראל ולבחון אם יקיימו את מצוותיו, וכן כדי ללמד את הדורות שלא ידעו את מלחמות כנען.",
+      "text_en": "The Lord left certain nations in the land to test Israel and see whether they would keep his commandments, and also to teach the generations who had not known the wars in Canaan."
+    },
+    {
+      "verse": 3,
+      "text": "בין העמים שנשארו בארץ נזכרים חמשת סרני פלשתים, הכנענים, הצידונים והחיווים שישבו בהר הלבנון, מהר בעל־חרמון ועד לבוא חמת.",
+      "text_he": "בין העמים שנשארו בארץ נזכרים חמשת סרני פלשתים, הכנענים, הצידונים והחיווים שישבו בהר הלבנון, מהר בעל־חרמון ועד לבוא חמת.",
+      "text_en": "Among the nations left in the land were the five rulers of the Philistines, the Canaanites, the Sidonians, and the Hivites living in the mountains of Lebanon, from Mount Baal-hermon to Lebo-hamath."
+    },
+    {
+      "verse": 6,
+      "text": "בני ישראל נישאו לבני העמים שישבו בקרבם, ובמקביל עבדו את אלוהיהם; כך מתאר הכתוב את הסכנה שבחיים בקרב עמי כנען.",
+      "text_he": "בני ישראל נישאו לבני העמים שישבו בקרבם, ובמקביל עבדו את אלוהיהם; כך מתאר הכתוב את הסכנה שבחיים בקרב עמי כנען.",
+      "text_en": "The Israelites married the people living among them and also served their gods; this is how Scripture describes the danger of living among the nations of Canaan."
+    },
+    {
+      "verse": 8,
+      "text": "לאחר שעבדו את הבעלים ואת האשרות, נמסרו בני ישראל ביד כושן רשעתיים מלך ארם נהריים למשך שמונה שנים.",
+      "text_he": "לאחר שעבדו את הבעלים ואת האשרות, נמסרו בני ישראל ביד כושן רשעתיים מלך ארם נהריים למשך שמונה שנים.",
+      "text_en": "After they served the Baals and the Asherahs, the Israelites were handed over to Cushan-rishathaim, king of Aram-naharaim, for eight years."
+    },
+    {
+      "verse": 10,
+      "text": "עתניאל בן קנז הושיע את ישראל לאחר ששרתה עליו רוח ה'. בעקבות ניצחונו שקטה הארץ ארבעים שנה.",
+      "text_he": "עתניאל בן קנז הושיע את ישראל לאחר ששרתה עליו רוח ה'. בעקבות ניצחונו שקטה הארץ ארבעים שנה.",
+      "text_en": "Othniel son of Kenaz delivered Israel after the Spirit of the Lord came upon him. Following his victory, the land had peace for forty years."
+    },
+    {
+      "verse": 13,
+      "text": "עגלון מלך מואב נעזר בבני עמון ובעמלק, הכה את ישראל וירש את עיר התמרים; בני ישראל עבדו אותו שמונה עשרה שנה.",
+      "text_he": "עגלון מלך מואב נעזר בבני עמון ובעמלק, הכה את ישראל וירש את עיר התמרים; בני ישראל עבדו אותו שמונה עשרה שנה.",
+      "text_en": "Eglon king of Moab joined forces with the Ammonites and Amalekites, defeated Israel, and took possession of the City of Palms; the Israelites served him for eighteen years."
+    },
+    {
+      "verse": 16,
+      "text": "אהוד בן גרא הכין חרב בעלת שני פיות באורך גֹּמֶד, וחגר אותה מתחת למדיו על ירך ימינו.",
+      "text_he": "אהוד בן גרא הכין חרב בעלת שני פיות באורך גֹּמֶד, וחגר אותה מתחת למדיו על ירך ימינו.",
+      "text_en": "Ehud son of Gera made a double-edged sword a gomed long and strapped it under his clothes against his right thigh."
+    },
+    {
+      "verse": 21,
+      "text": "אהוד שלף את החרב ביד שמאלו, לאחר שהכתוב מתאר אותו כאיש איטר יד ימינו, והרג באמצעותה את עגלון מלך מואב.",
+      "text_he": "אהוד שלף את החרב ביד שמאלו, לאחר שהכתוב מתאר אותו כאיש איטר יד ימינו, והרג באמצעותה את עגלון מלך מואב.",
+      "text_en": "Ehud drew the sword with his left hand—Scripture describes him as left-handed—and used it to kill Eglon king of Moab."
+    },
+    {
+      "verse": 27,
+      "text": "לאחר שנמלט תקע אהוד בשופר בהר אפרים, ובני ישראל תפסו את מעברות הירדן כדי למנוע מאנשי מואב לעבור.",
+      "text_he": "לאחר שנמלט תקע אהוד בשופר בהר אפרים, ובני ישראל תפסו את מעברות הירדן כדי למנוע מאנשי מואב לעבור.",
+      "text_en": "After escaping, Ehud blew a trumpet in the hill country of Ephraim, and the Israelites seized the Jordan crossings to prevent the Moabites from crossing."
+    },
+    {
+      "verse": 31,
+      "text": "שמגר בן ענת היכה שש מאות פלשתים במלמד הבקר, והכתוב מציג גם אותו כמושיע של ישראל.",
+      "text_he": "שמגר בן ענת היכה שש מאות פלשתים במלמד הבקר, והכתוב מציג גם אותו כמושיע של ישראל.",
+      "text_en": "Shamgar son of Anath struck down six hundred Philistines with an oxgoad, and Scripture also presents him as a deliverer of Israel."
+    }
+  ]
+}

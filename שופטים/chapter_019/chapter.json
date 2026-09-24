@@ -1,0 +1,552 @@
+{
+  "book": "Judges",
+  "book_he": "שופטים",
+  "book_chapters": 21,
+  "chapter": 19,
+  "title": "שופטים פרק 19",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0719.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0719.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JDG/19-ea0055aa8d0bc5034153148ef94ccce6.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי בַּיָּמִים הָהֵם, וּמֶלֶךְ אֵין בְּיִשְׂרָאֵל; וַיְהִי אִישׁ לֵוִי, גָּר בְּיַרְכְּתֵי הַר-אֶפְרַיִם, וַיִּקַּח-לוֹ אִשָּׁה פִילֶגֶשׁ, מִבֵּית לֶחֶם יְהוּדָה.",
+    "וַתִּזְנֶה עָלָיו, פִּילַגְשׁוֹ, וַתֵּלֶךְ מֵאִתּוֹ אֶל-בֵּית אָבִיהָ, אֶל-בֵּית לֶחֶם יְהוּדָה; וַתְּהִי-שָׁם, יָמִים אַרְבָּעָה חֳדָשִׁים.",
+    "וַיָּקָם אִישָׁהּ וַיֵּלֶךְ אַחֲרֶיהָ, לְדַבֵּר עַל-לִבָּהּ להשיבו לַהֲשִׁיבָהּ , וְנַעֲרוֹ עִמּוֹ, וְצֶמֶד חֲמֹרִים; וַתְּבִיאֵהוּ, בֵּית אָבִיהָ, וַיִּרְאֵהוּ אֲבִי הַנַּעֲרָה, וַיִּשְׂמַח לִקְרָאתוֹ.",
+    "וַיַּחֲזֶק-בּוֹ חֹתְנוֹ אֲבִי הַנַּעֲרָה, וַיֵּשֶׁב אִתּוֹ שְׁלֹשֶׁת יָמִים; וַיֹּאכְלוּ, וַיִּשְׁתּוּ, וַיָּלִינוּ, שָׁם.",
+    "וַיְהִי בַּיּוֹם הָרְבִיעִי, וַיַּשְׁכִּימוּ בַבֹּקֶר וַיָּקָם לָלֶכֶת; וַיֹּאמֶר אֲבִי הַנַּעֲרָה אֶל-חֲתָנוֹ, סְעָד לִבְּךָ פַּת-לֶחֶם--וְאַחַר תֵּלֵכוּ.",
+    "וַיֵּשְׁבוּ, וַיֹּאכְלוּ שְׁנֵיהֶם יַחְדָּו--וַיִּשְׁתּוּ; וַיֹּאמֶר אֲבִי הַנַּעֲרָה, אֶל-הָאִישׁ, הוֹאֶל-נָא וְלִין, וְיִיטַב לִבֶּךָ.",
+    "וַיָּקָם הָאִישׁ, לָלֶכֶת; וַיִּפְצַר-בּוֹ, חֹתְנוֹ, וַיָּשָׁב, וַיָּלֶן שָׁם.",
+    "וַיַּשְׁכֵּם בַּבֹּקֶר בַּיּוֹם הַחֲמִישִׁי, לָלֶכֶת, וַיֹּאמֶר אֲבִי הַנַּעֲרָה סְעָד-נָא לְבָבְךָ, וְהִתְמַהְמְהוּ עַד-נְטוֹת הַיּוֹם; וַיֹּאכְלוּ, שְׁנֵיהֶם.",
+    "וַיָּקָם הָאִישׁ לָלֶכֶת, הוּא וּפִילַגְשׁוֹ וְנַעֲרוֹ; וַיֹּאמֶר לוֹ חֹתְנוֹ אֲבִי הַנַּעֲרָה הִנֵּה נָא רָפָה הַיּוֹם לַעֲרוֹב, לִינוּ-נָא הִנֵּה חֲנוֹת הַיּוֹם לִין פֹּה וְיִיטַב לְבָבֶךָ, וְהִשְׁכַּמְתֶּם מָחָר לְדַרְכְּכֶם, וְהָלַכְתָּ לְאֹהָלֶךָ.",
+    "וְלֹא-אָבָה הָאִישׁ, לָלוּן, וַיָּקָם וַיֵּלֶךְ וַיָּבֹא עַד-נֹכַח יְבוּס, הִיא יְרוּשָׁלִָם; וְעִמּוֹ, צֶמֶד חֲמוֹרִים חֲבוּשִׁים, וּפִילַגְשׁוֹ, עִמּוֹ.",
+    "הֵם עִם-יְבוּס, וְהַיּוֹם רַד מְאֹד; וַיֹּאמֶר הַנַּעַר אֶל-אֲדֹנָיו, לְכָה-נָּא וְנָסוּרָה אֶל-עִיר-הַיְבוּסִי הַזֹּאת--וְנָלִין בָּהּ.",
+    "וַיֹּאמֶר אֵלָיו, אֲדֹנָיו, לֹא נָסוּר אֶל-עִיר נָכְרִי, אֲשֶׁר לֹא-מִבְּנֵי יִשְׂרָאֵל הֵנָּה; וְעָבַרְנוּ, עַד-גִּבְעָה.",
+    "וַיֹּאמֶר לְנַעֲרוֹ, לְךָ וְנִקְרְבָה בְּאַחַד הַמְּקֹמוֹת; וְלַנּוּ בַגִּבְעָה, אוֹ בָרָמָה.",
+    "וַיַּעַבְרוּ, וַיֵּלֵכוּ; וַתָּבֹא לָהֶם הַשֶּׁמֶשׁ, אֵצֶל הַגִּבְעָה אֲשֶׁר לְבִנְיָמִן.",
+    "וַיָּסֻרוּ שָׁם, לָבוֹא לָלוּן בַּגִּבְעָה; וַיָּבֹא, וַיֵּשֶׁב בִּרְחוֹב הָעִיר, וְאֵין אִישׁ מְאַסֵּף-אוֹתָם הַבַּיְתָה, לָלוּן.",
+    "וְהִנֵּה אִישׁ זָקֵן, בָּא מִן-מַעֲשֵׂהוּ מִן-הַשָּׂדֶה בָּעֶרֶב, וְהָאִישׁ מֵהַר אֶפְרַיִם, וְהוּא-גָר בַּגִּבְעָה; וְאַנְשֵׁי הַמָּקוֹם, בְּנֵי יְמִינִי.",
+    "וַיִּשָּׂא עֵינָיו, וַיַּרְא אֶת-הָאִישׁ הָאֹרֵחַ--בִּרְחֹב הָעִיר; וַיֹּאמֶר הָאִישׁ הַזָּקֵן אָנָה תֵלֵךְ, וּמֵאַיִן תָּבוֹא.",
+    "וַיֹּאמֶר אֵלָיו, עֹבְרִים אֲנַחְנוּ מִבֵּית-לֶחֶם יְהוּדָה עַד-יַרְכְּתֵי הַר-אֶפְרַיִם--מִשָּׁם אָנֹכִי, וָאֵלֵךְ עַד-בֵּית לֶחֶם יְהוּדָה; וְאֶת-בֵּית יְהוָה, אֲנִי הֹלֵךְ, וְאֵין אִישׁ, מְאַסֵּף אוֹתִי הַבָּיְתָה.",
+    "וְגַם-תֶּבֶן גַּם-מִסְפּוֹא, יֵשׁ לַחֲמוֹרֵינוּ, וְגַם לֶחֶם וָיַיִן יֶשׁ-לִי וְלַאֲמָתֶךָ, וְלַנַּעַר עִם-עֲבָדֶיךָ: אֵין מַחְסוֹר, כָּל-דָּבָר.",
+    "וַיֹּאמֶר הָאִישׁ הַזָּקֵן שָׁלוֹם לָךְ, רַק כָּל-מַחְסוֹרְךָ עָלָי; רַק בָּרְחוֹב, אַל-תָּלַן.",
+    "וַיְבִיאֵהוּ לְבֵיתוֹ, ויבול וַיָּבָל לַחֲמוֹרִים; וַיִּרְחֲצוּ, רַגְלֵיהֶם, וַיֹּאכְלוּ, וַיִּשְׁתּוּ.",
+    "הֵמָּה, מֵיטִיבִים אֶת-לִבָּם, וְהִנֵּה אַנְשֵׁי הָעִיר אַנְשֵׁי בְנֵי-בְלִיַּעַל נָסַבּוּ אֶת-הַבַּיִת, מִתְדַּפְּקִים עַל-הַדָּלֶת; וַיֹּאמְרוּ, אֶל-הָאִישׁ בַּעַל הַבַּיִת הַזָּקֵן לֵאמֹר, הוֹצֵא אֶת-הָאִישׁ אֲשֶׁר-בָּא אֶל-בֵּיתְךָ, וְנֵדָעֶנּוּ.",
+    "וַיֵּצֵא אֲלֵיהֶם, הָאִישׁ בַּעַל הַבַּיִת, וַיֹּאמֶר אֲלֵהֶם, אַל-אַחַי אַל-תָּרֵעוּ נָא; אַחֲרֵי אֲשֶׁר-בָּא הָאִישׁ הַזֶּה, אֶל-בֵּיתִי--אַל-תַּעֲשׂוּ, אֶת-הַנְּבָלָה הַזֹּאת.",
+    "הִנֵּה בִתִּי הַבְּתוּלָה וּפִילַגְשֵׁהוּ, אוֹצִיאָה-נָּא אוֹתָם וְעַנּוּ אוֹתָם, וַעֲשׂוּ לָהֶם, הַטּוֹב בְּעֵינֵיכֶם; וְלָאִישׁ הַזֶּה לֹא תַעֲשׂוּ, דְּבַר הַנְּבָלָה הַזֹּאת.",
+    "וְלֹא-אָבוּ הָאֲנָשִׁים, לִשְׁמֹעַ לוֹ, וַיַּחֲזֵק הָאִישׁ בְּפִילַגְשׁוֹ, וַיֹּצֵא אֲלֵיהֶם הַחוּץ; וַיֵּדְעוּ אוֹתָהּ וַיִּתְעַלְּלוּ-בָהּ כָּל-הַלַּיְלָה, עַד-הַבֹּקֶר, וַיְשַׁלְּחוּהָ, בעלות כַּעֲלוֹת הַשָּׁחַר.",
+    "וַתָּבֹא הָאִשָּׁה, לִפְנוֹת הַבֹּקֶר; וַתִּפֹּל פֶּתַח בֵּית-הָאִישׁ, אֲשֶׁר-אֲדוֹנֶיהָ שָּׁם--עַד-הָאוֹר.",
+    "וַיָּקָם אֲדֹנֶיהָ בַּבֹּקֶר, וַיִּפְתַּח דַּלְתוֹת הַבַּיִת, וַיֵּצֵא, לָלֶכֶת לְדַרְכּוֹ; וְהִנֵּה הָאִשָּׁה פִילַגְשׁוֹ, נֹפֶלֶת פֶּתַח הַבַּיִת, וְיָדֶיהָ, עַל-הַסַּף.",
+    "וַיֹּאמֶר אֵלֶיהָ קוּמִי וְנֵלֵכָה, וְאֵין עֹנֶה; וַיִּקָּחֶהָ, עַל-הַחֲמוֹר, וַיָּקָם הָאִישׁ, וַיֵּלֶךְ לִמְקֹמוֹ.",
+    "וַיָּבֹא אֶל-בֵּיתוֹ, וַיִּקַּח אֶת-הַמַּאֲכֶלֶת וַיַּחֲזֵק בְּפִילַגְשׁוֹ, וַיְנַתְּחֶהָ לַעֲצָמֶיהָ, לִשְׁנֵים עָשָׂר נְתָחִים; וַיְשַׁלְּחֶהָ, בְּכֹל גְּבוּל יִשְׂרָאֵל.",
+    "וְהָיָה כָל-הָרֹאֶה, וְאָמַר לֹא-נִהְיְתָה וְלֹא-נִרְאֲתָה כָּזֹאת, לְמִיּוֹם עֲלוֹת בְּנֵי-יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם, עַד הַיּוֹם הַזֶּה; שִׂימוּ-לָכֶם עָלֶיהָ, עֻצוּ וְדַבֵּרוּ."
+  ],
+  "english": [
+    "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah.",
+    "And his concubine played the whore against him, and went away from him unto her father's house to Bethlehemjudah, and was there four whole months.",
+    "And her husband arose, and went after her, to speak friendly unto her, and to bring her again, having his servant with him, and a couple of asses: and she brought him into her father's house: and when the father of the damsel saw him, he rejoiced to meet him.",
+    "And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there.",
+    "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.",
+    "And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.",
+    "And when the man rose up to depart, his father in law urged him: therefore he lodged there again.",
+    "And he arose early in the morning on the fifth day to depart; and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.",
+    "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home.",
+    "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.",
+    "And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.",
+    "And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah.",
+    "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.",
+    "And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin.",
+    "And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging.",
+    "And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.",
+    "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?",
+    "And he said unto him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from thence am I: and I went to Bethlehemjudah, but I am now going to the house of the Lord; and there is no man that receiveth me to house.",
+    "Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing.",
+    "And the old man said, Peace be with thee; howsoever let all thy wants lie upon me; only lodge not in the street.",
+    "So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.",
+    "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.",
+    "And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.",
+    "Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.",
+    "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.",
+    "Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord was, till it was light.",
+    "And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold.",
+    "And he said unto her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him unto his place.",
+    "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, together with her bones, into twelve pieces, and sent her into all the coasts of Israel.",
+    "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds."
+  ],
+  "steinsaltz": [
+    "וַיְהִי בַּיָּמִים הָהֵם, וּמֶלֶךְ אֵין בְּיִשְׂרָאֵל. חזרה זו מיועדת להדגיש שמדובר בהיעדר דין ודיין. וַיְהִי אִישׁ לֵוִי גָּר בְּיַרְכְּתֵי הַר אֶפְרַיִם, כנראה בקצהו הדרומי, וַיִּקַּח לוֹ אִשָּׁה פִילֶגֶשׁ מִבֵּית לֶחֶם יְהוּדָה.",
+    "וַתִּזְנֶה עָלָיו פִּילַגְשׁוֹ. מן ההקשר נראה שאין זו זנות במובן המיני או ההלכתי אלא במשמעות הכוללת ביותר של הפועל: פילגשו סטתה ממנו ועזבה אותו. וַתֵּלֶךְ מֵאִתּוֹ חזרה אֶל בֵּית אָבִיהָ, אֶל בֵּית לֶחֶם יְהוּדָה, וַתְּהִי שָׁם יָמִים, פרק זמן של אַרְבָּעָה חֳדָשִׁים.",
+    "וַיָּקָם אִישָׁהּ, בעלה, שהחליט שהגיע הזמן לסיים את הקטטה, וַיֵּלֶךְ אַחֲרֶיהָ לְדַבֵּר עַל לִבָּהּ לַהֲשִׁיבָהּ, וְנַעֲרוֹ עִמּוֹ, וְצֶמֶד חֲמֹרִים לרכיבה, ואולי גם לשאת מתנות שנועדו לפייס את האשה ואת משפחתה. נראה שגם היא הספיקה לשכוח את סיבת הקטטה ולא ראתה עוד טעם בפירוד, ועל כן כשהגיע אליה – וַתְּבִיאֵהוּ אל בֵּית אָבִיהָ. וַיִּרְאֵהוּ אֲבִי הַנַּעֲרָה וַיִּשְׂמַח לִקְרָאתוֹ. אף שלא היה מעורב במריבה, כשפגש באיש נתחבב עליו, ושמח שבתו יכולה לחזור אליו.",
+    "וַיַּחֲזֶק בּוֹ חֹתְנוֹ, הוא קרוי כך, אף על פי שבאופן רשמי לא היו בעל ואשה, אֲבִי הַנַּעֲרָה, וַיֵּשֶׁב אִתּוֹ האיש הלוי שְׁלֹשֶׁת יָמִים, וַיֹּאכְלוּ וַיִּשְׁתּוּ וַיָּלִינוּ שָׁם.",
+    "וַיְהִי בַּיּוֹם הָרְבִיעִי וַיַּשְׁכִּימוּ בַבֹּקֶר, וַיָּקָם לָלֶכֶת, וַיֹּאמֶר אֲבִי הַנַּעֲרָה אֶל חֲתָנוֹ: סְעָד לִבְּךָ בפַּת לֶחֶם תחילה, וְאַחַר תֵּלֵכוּ. אל תלך קודם שתטעם דבר.",
+    "וַיֵּשְׁבוּ וַיֹּאכְלוּ שְׁנֵיהֶם – החותן והחתן יַחְדָּו וַיִּשְׁתּוּ. הם נהנו זה בחברתו של זה, וארוחת הבוקר נמשכה. וַיֹּאמֶר אֲבִי הַנַּעֲרָה אֶל הָאִישׁ: הוֹאֶל נָא וְלִין, הישאר כאן לילה נוסף וְיִטַב לִבֶּךָ.",
+    "וַיָּקָם הָאִישׁ לָלֶכֶת, וַיִּפְצַר, הפציר בּוֹ חֹתְנוֹ שיישאר, וַיָּשָׁב וַיָּלֶן שָׁם, גם ביום הרביעי.",
+    "וַיַּשְׁכֵּם בַּבֹּקֶר בַּיּוֹם הַחֲמִישִׁי לָלֶכֶת. וַיֹּאמֶר אֲבִי הַנַּעֲרָה: סְעָד נָא לְבָבְךָ. הלוא אדם אינו יוצא לדרך ארוכה בלי לאכול משהו. וְשוב הִתְמַהְמְהוּ עַד נְטוֹת הַיּוֹם, אחרי הצהריים, כשהשמש כבר נטתה למערב, וַיֹּאכְלוּ שְׁנֵיהֶם, ובתוך כך השיחה התמשכה.",
+    "בסופו של דבר – וַיָּקָם הָאִישׁ לָלֶכֶת, הוּא וּפִילַגְשׁוֹ וְנַעֲרוֹ. וַיֹּאמֶר לוֹ חֹתְנוֹ אֲבִי הַנַּעֲרָה: הִנֵּה נָא רָפָה, נחלש אור הַיּוֹם לַעֲרֹב, ולא תספיק להגיע לביתך בזמן הקצר שנותר. במקום שתלינו במקום זר בדרך, לִינוּ נָא, עכשיו הִנֵּה הגיעה שעת חֲנוֹת הַיּוֹם, לִין פֹּה וְיִיטַב לְבָבֶךָ, וְהִשְׁכַּמְתֶּם מָחָר לְדַרְכְּכֶם, וְהָלַכְתָּ לְאֹהָלֶךָ בלא צורך בחניית לילה במקום אחר.",
+    "למרות האהבה הגדולה והחיבה היתרה שהראה לו החותן, האיש רצה לחזור הביתה, ולא ראה סוף לדבר. וְלֹא אָבָה, רצה הָאִישׁ לָלוּן, וַיָּקָם וַיֵּלֶךְ. וַיָּבֹא עַד נֹכַח, מול העיר יְבוּס, הִיא יְרוּשָׁלִָם, שאז ישבו בה היבוסים, וְעִמּוֹ צֶמֶד חֲמוֹרִים חֲבוּשִׁים, מוכנים להליכה, ומן הסתם היו עמוסים מתנות מן החותן-האב האוהב, וּפִילַגְשׁוֹ עִמּוֹ.",
+    "הֵם עִם, ליד יְבוּס, וְהַיּוֹם רַד מְאֹד. השמש הייתה קרובה מאוד לאופק. וַיֹּאמֶר הַנַּעַר אֶל אֲדֹנָיו: לְכָה נָּא וְנָסוּרָה אֶל עִיר הַיְבוּסִי הַזֹּאת וְנָלִין בָּהּ, ומחר נצא שוב לדרכנו.",
+    "וַיֹּאמֶר אֵלָיו אֲדֹנָיו: לֹא נָסוּר אֶל עִיר נָכְרִי, זרה אֲשֶׁר לֹא מִבְּנֵי יִשְׂרָאֵל הֵנָּה. לכן נמשיך הלאה וְעָבַרְנוּ עַד העיר גִּבְעָה.",
+    "וַיֹּאמֶר לְנַעֲרוֹ: לְךָ וְנִקְרְבָה בְּאַחַד הַמְּקֹמוֹת, וְלַנּוּ, נלין בַגִּבְעָה אוֹ בָרָמָה שבנחלת שבט בנימין, מצפון לירושלים.",
+    "וַיַּעַבְרוּ וַיֵּלֵכוּ, וַתָּבֹא, שקעה לָהֶם הַשֶּׁמֶשׁ כשהיו אֵצֶל הַגִּבְעָה אֲשֶׁר לְבִנְיָמִן.",
+    "וַיָּסֻרוּ שָׁם לָבוֹא לָלוּן בַּגִּבְעָה, וַיָּבֹא וַיֵּשֶׁב בִּרְחוֹב, ברחבת הָעִיר, וְאֵין אִישׁ מְאַסֵּף אוֹתָם הַבַּיְתָה לָלוּן.",
+    "וְהִנֵּה אִישׁ זָקֵן בָּא מִן מַעֲשֵׂהוּ, מעבודתו מִן הַשָּׂדֶה בָּעֶרֶב לעיר, וְהָאִישׁ מֵהַר אֶפְרַיִם, וְהוּא גָר בַּגִּבְעָה, וְאילו שאר אַנְשֵׁי הַמָּקוֹם הם בְּנֵי יְמִינִי, בני שבט בנימין. עם זאת, לא הייתה מניעה שישב שם אדם משבט אחר.",
+    "וַיִּשָּׂא עֵינָיו וַיַּרְא אֶת הָאִישׁ הָאֹרֵחַ בִּרְחֹב הָעִיר. ככל הנראה הדבר התרחש בקיץ, ולמרות אי-הנוחות לן האורח ברחוב. וַיֹּאמֶר הָאִישׁ הַזָּקֵן: ניכר שאתה עובר אורח, אָנָה תֵלֵךְ, וּמֵאַיִן תָּבוֹא?",
+    "וַיֹּאמֶר אֵלָיו: עֹבְרִים אֲנַחְנוּ מִבֵּית לֶחֶם יְהוּדָה עַד יַרְכְּתֵי הַר אֶפְרַיִם – מִשָּׁם אָנֹכִי. וָאֵלֵךְ עַד בֵּית לֶחֶם יְהוּדָה, וְעכשיו פני מועדות חזרה – אֶת, אל בֵּית ה' שבאפרים אֲנִי הֹלֵךְ. ייתכן שהלוי היה שייך לבית ה' בשילה. ואני ברחוב, מפני שאֵין אִישׁ מְאַסֵּף אוֹתִי הַבָּיְתָה.",
+    "לא נהיה לטורח על מארחינו, וְגַם תֶּבֶן, קש וגַּם מִסְפּוֹא, שם כולל למזון הבהמות, יֵשׁ לַחֲמוֹרֵינוּ, ואין צורך לדאוג להם, וְגַם לֶחֶם וָיַיִן יֶשׁ לִי וְלַאֲמָתֶךָ, לאשה שאתי. זהו ביטוי של כבוד כלפי הזקן. וְלַנַּעַר שעִם עֲבָדֶיךָ, אֵין מַחְסוֹר כָּל דָּבָר. אנו רוצים רק לישון בתוך בית.",
+    "וַיֹּאמֶר הָאִישׁ הַזָּקֵן: שָׁלוֹם לָךְ, אל דאגה, רַק כָּל מַחְסוֹרְךָ עָלָי. אין זה נאה שתאכל משלך בביתי. אני אספק את צרכיך, רַק בָּרְחוֹב אַל תָּלַן.",
+    "וַיְבִיאֵהוּ לְבֵיתוֹ, וַיָּבָל, הכין את בליל המספוא לַחֲמוֹרִים, וַיִּרְחֲצוּ רַגְלֵיהֶם וַיֹּאכְלוּ וַיִּשְׁתּוּ ברוגע ובשלווה.",
+    "הֵמָּה מֵיטִיבִים אֶת לִבָּם, וְהִנֵּה רבים מאַנְשֵׁי הָעִיר, אַנְשֵׁי בְנֵי בְלִיַּעַל, בלא עול, נבלים נָסַבּוּ אֶת הַבַּיִת והם מִתְדַּפְּקִים עַל הַדָּלֶת. וַיֹּאמְרוּ אֶל הָאִישׁ בַּעַל הַבַּיִת הַזָּקֵן לֵאמֹר: הוֹצֵא אֶת הָאִישׁ אֲשֶׁר בָּא אֶל בֵּיתְךָ וְנֵדָעֶנּוּ. אנחנו רוצים את הגבר הצעיר שאצלך למשכב זכר.",
+    "וַיֵּצֵא אֲלֵיהֶם הָאִישׁ בַּעַל הַבַּיִת. וַיֹּאמֶר אֲלֵהֶם: אַל אַחַי, אַל תָּרֵעוּ נָא. אַחֲרֵי אֲשֶׁר, מכיוון שבָּא הָאִישׁ הַזֶּה אֶל בֵּיתִי, אַל תַּעֲשׂוּ אֶת הַנְּבָלָה הַזֹּאת. אין זה מעשה מוסרי ומכובד, אבל לנהוג כך באורח שבא תחת צל קורתי – זהו דבר מכוער במיוחד.",
+    "אם בכל זאת התעוררה תשוקתכם, הִנֵּה בִתִּי הַבְּתוּלָה וּפִילַגְשֵׁהוּ, פילגשו של האיש. אוֹצִיאָה נָּא אוֹתָם, וְעַנּוּ, אִנסו אוֹתָם וַעֲשׂוּ לָהֶם, להן הַטּוֹב בְּעֵינֵיכֶם. תקבלו שתי נשים, ואולם לָאִישׁ הַזֶּה לֹא תַעֲשׂוּ דְּבַר הַנְּבָלָה הַזֹּאת.",
+    "וְלֹא אָבוּ, רצו הָאֲנָשִׁים לִשְׁמֹעַ לוֹ. הם רצו דווקא את האורח. כאשר האורח ראה שעליו לבחור בינו לבין הנשים – וַיַּחֲזֵק הָאִישׁ בְּפִילַגְשׁוֹ בכוח, וַיֹּצֵא אותה אֲלֵיהֶם הַחוּץ, והם כנראה הסתפקו בה. וַיֵּדְעוּ אוֹתָהּ, כל האנשים הללו באו עליה אחד אחד וַיִּתְעַלְּלוּ בָהּ כָּל הַלַּיְלָה עַד הַבֹּקֶר, וַיְשַׁלְּחוּהָ חזרה כַּעֲלוֹת הַשָּׁחַר.",
+    "מספר המעורבים במעשה לא נזכר כאן, אבל קהל האנשים שאנסו אותה והתעללו בה עינו אותה עד מוות. וַתָּבֹא הָאִשָּׁה לִפְנוֹת הַבֹּקֶר באפיסת כוחות ופצועה, ולא יכלה אפילו לדפוק בדלת. וַתִּפֹּל פֶּתַח בֵּית הָאִישׁ אֲשֶׁר אֲדוֹנֶיהָ שָּׁם עַד הָאוֹר.",
+    "וַיָּקָם אֲדֹנֶיהָ בַּבֹּקֶר, וַיִּפְתַּח דַּלְתוֹת הַבַּיִת וַיֵּצֵא לָלֶכֶת לְדַרְכּוֹ, וְהִנֵּה הָאִשָּׁה פִילַגְשׁוֹ נֹפֶלֶת, מוטלת פֶּתַח הַבַּיִת, וְיָדֶיהָ עַל הַסַּף, מפתן הדלת. אולי ניסתה להיכנס ונשארה שוכבת כך.",
+    "וַיֹּאמֶר אֵלֶיהָ: קוּמִי וְנֵלֵכָה לדרכנו. וְאֵין עֹנֶה, מפני שהיא כבר מתה. וַיִּקָּחֶהָ עַל הַחֲמוֹר וַיָּקָם הָאִישׁ וַיֵּלֶךְ לִמְקֹמוֹ. הוא נשא את גווייתה חזרה לביתו.",
+    "לא היה זה רק אונס קבוצתי, אלא רצח בדרך מגונה ביותר. ללא ספק האיש היה מלא ברגשות זעם. וַיָּבֹא אֶל בֵּיתוֹ, וַיִּקַּח אֶת הַמַּאֲכֶלֶת, סכין השחיטה, וַיַּחֲזֵק בְּגופת פִילַגְשׁוֹ, וַיְנַתְּחֶהָ לַעֲצָמֶיהָ, על עצמותיה לִשְׁנֵים עָשָׂר נְתָחִים. וַיְשַׁלְּחֶהָ – את הגופה המבותרת בצירוף הסיפור המזוויע בְּכֹל גְּבוּל יִשְׂרָאֵל.",
+    "משלוח זה של הסיפור שהומחש בצירוף חלקי גווייתה, גרם לכל אחד להזדעזע. וְהָיָה כָל הָרֹאֶה – וְאָמַר: לֹא נִהְיְתָה וְלֹא נִרְאֲתָה זוועה כָּזֹאת בארצנו לְמִיּוֹם עֲלוֹת בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם עַד הַיּוֹם הַזֶּה. שִׂימוּ לָכֶם, לבכם עָלֶיהָ, עֻצוּ וְדַבֵּרוּ. איננו יכולים לעבור בשתיקה על כך. עלינו לחשוב ולהתייעץ כיצד להגיב."
+  ],
+  "ai_explanation": [
+    "הפסוק פותח שוב בהדגשה שאין מלך בישראל, כלומר אין הנהגה מרכזית ואין דין ודיין. הלוי גר בירכתי הר אפרים, כנראה בקצהו הדרומי, ונשא פילגש מבית לחם יהודה.",
+    "הפילגש סטתה מבעלה ועזבה אותו, ואין הכרח להבין את הפועל \"ותזנה\" במשמעות מינית או הלכתית. היא חזרה לבית אביה בבית לחם יהודה ושם שהתה ארבעה חודשים.",
+    "האיש הלוי החליט לסיים את המריבה וללכת אחרי פילגשו כדי לדבר על לבה ולהשיבה. היא קיבלה אותו והביאה אותו לבית אביה, ואביה שמח לקראתו; הנער והחמורים נועדו למסע ואולי גם לנשיאת מתנות פיוס.",
+    "אביה של הנערה הפציר בחתנו להישאר, והלוי ישב בביתו שלושה ימים. הם אכלו, שתו ולנו שם.",
+    "ביום הרביעי השכים הלוי ורצה לצאת לדרך. אבי הנערה ביקש ממנו לאכול תחילה, כדי שלא ייצא לדרך בלי לטעום דבר.",
+    "החותן והחתן ישבו ואכלו יחד, והארוחה התמשכה. האב ביקש ממנו להישאר לילה נוסף כדי שייטב לבו.",
+    "האיש קם לצאת, אך חותנו הפציר בו להישאר. הוא נענה, חזר ולן שם גם בלילה הרביעי.",
+    "בבוקר היום החמישי קם האיש לצאת, אך אבי הנערה ביקש ממנו לאכול ולהתמהמה עד אחר הצהריים. השיחה והארוחה גרמו לעיכוב נוסף.",
+    "לבסוף יצא האיש לדרך עם פילגשו ונערו. החותן הזהיר שאור היום נחלש ושלא יספיקו להגיע לביתם, והציע להם ללון אצלו ולקום למחרת למסעם.",
+    "האיש לא רצה להמשיך ולהתעכב, ולכן יצא והגיע מול יבוס, היא ירושלים, בעוד עמו צמד חמורים מוכנים למסע ופילגשו.",
+    "כאשר היו ליד יבוס, היום כבר נטה מאוד לשקוע. הנער הציע להיכנס לעיר היבוסית וללון בה עד הבוקר.",
+    "האדון סירב ללון בעיר נכרית שאינה מבני ישראל. הוא העדיף להמשיך עד גבעה.",
+    "הוא ביקש מנערו להתקרב לאחד המקומות וללון בגבעה או ברמה, שבנחלת בנימין מצפון לירושלים.",
+    "הם המשיכו בדרכם, והשמש שקעה כשהיו ליד גבעה שבנחלת בנימין.",
+    "הם נכנסו לגבעה כדי ללון, אך לא נמצא אדם שיאסוף אותם לביתו. לכן ישב האיש ברחבת העיר.",
+    "זקן, שעבד בשדה וחזר בערב, הגיע אל העיר. הוא היה מהר אפרים וגר בגבעה, ואילו שאר אנשי המקום היו בני בנימין.",
+    "הזקן ראה את האורח יושב ברחוב ושאל אותו לאן הוא הולך ומאין הגיע. נראה שהאורח נשאר ברחוב אף שהדבר היה לא נוח, כנראה בעונת הקיץ.",
+    "הלוי סיפר שהם באים מבית לחם יהודה בדרכם לירכתי הר אפרים, ושמשם הגיע במקור. כעת הוא בדרכו לבית ה', אולי בשילה, אך אין איש שמארח אותו בביתו.",
+    "האורח הסביר שאין צורך לדאוג לצורכיהם: יש להם תבן ומספוא לחמורים, וכן לחם ויין לו, לאמתו ולנערו. הם מבקשים רק מקום לישון בו.",
+    "הזקן בירך אותו והרגיע אותו שכל מחסורו עליו, אך ביקש שלא ילון ברחוב. הוא התכוון לספק בעצמו את צורכי האורחים.",
+    "הזקן הביא את האורח לביתו, הכין מספוא לחמורים, והם רחצו את רגליהם, אכלו ושתו ברוגע.",
+    "בעודם מיטיבים את לבם, אנשי העיר, המכונים בני בליעל, הקיפו את הבית ודפקו על הדלת. הם דרשו להוציא את האורח כדי לקיים עמו משכב זכר.",
+    "בעל הבית יצא אליהם וביקש שלא ירעו ולא יעשו את הנבלה הזאת. הוא הדגיש שהאיש בא לביתו כאורח, ולכן הפגיעה בו חמורה במיוחד.",
+    "הזקן הציע להוציא את בתו הבתולה ואת פילגשו של האורח, כדי שההמון יפגע בהן במקום באורח. לפי הפירוש, הוא ראה בכך מעשה מכוער, אך פחות חמור מן הפגיעה באורח.",
+    "האנשים לא הסכימו לשמוע לו ורצו דווקא את האורח. האורח הוציא אליהם בכוח את פילגשו, והם אנסו אותה והתעללו בה כל הלילה עד עלות השחר.",
+    "האשה שבה לפנות בוקר כשהיא מותשת ופצועה. לפי הפירוש, קהל המתעללים עינה אותה עד מוות, והיא נפלה בפתח הבית ולא יכלה לדפוק בדלת.",
+    "בבוקר פתח אדוניה את דלתות הבית ויצא לדרכו. הוא מצא את פילגשו מוטלת בפתח, כשידיה על הסף, אולי לאחר שניסתה להיכנס.",
+    "האיש קרא לה לקום וללכת, אך לא היה מענה מפני שכבר מתה. הוא נשא את גופתה על החמור וחזר לביתו.",
+    "בביתו לקח האיש את סכין השחיטה, ביתר את גופת פילגשו לשנים־עשר חלקים ושלח אותם בכל גבול ישראל. לפי הפירוש, הדבר נעשה מתוך זעם, והאירוע כלל לא רק אונס אלא גם רצח.",
+    "כל מי שראה את המעשה הזדעזע ואמר שלא נראתה זוועה כזאת מאז עליית בני ישראל ממצרים. באמצעות המשלוח והסיפור ביקש האיש מן העם להתייעץ ולדון כיצד להגיב."
+  ],
+  "ai_explanation_en": [
+    "The verse again emphasizes that there was no king in Israel, meaning there was no central leadership and no effective justice. The Levite lived in the remote parts of Mount Ephraim, probably at its southern edge, and took a concubine from Bethlehem in Judah.",
+    "The concubine turned away from her husband and left him; the verb need not be understood in a sexual or legal sense. She returned to her father’s house in Bethlehem and stayed there for four months.",
+    "The Levite decided to end the quarrel and follow his concubine in order to speak to her heart and bring her back. She accepted him and brought him into her father’s house, and her father was glad to see him; the servant and the donkeys were for the journey and perhaps also for carrying gifts of reconciliation.",
+    "The girl’s father urged his son-in-law to stay, and the Levite remained in his house for three days. They ate, drank, and spent the nights there.",
+    "On the fourth day the Levite rose early and wanted to leave. The girl’s father asked him to eat first, so that he would not set out without tasting something.",
+    "The father-in-law and son-in-law sat and ate together, and the meal continued. The father asked him to stay another night so that he would feel refreshed.",
+    "The man rose to leave, but his father-in-law urged him to remain. He agreed, returned, and spent the fourth night there as well.",
+    "On the morning of the fifth day the man rose to leave, but the girl’s father asked him to eat and delay until the afternoon. The conversation and meal caused another delay.",
+    "Eventually the man set out with his concubine and servant. The father-in-law warned that daylight was fading and that they would not reach home in time, and suggested that they stay there and continue their journey in the morning.",
+    "The man did not want to remain any longer, so he left and reached the area opposite Jebus, that is, Jerusalem, with a pair of donkeys ready for travel and his concubine with him.",
+    "When they were near Jebus, the day was almost over. The servant suggested entering the Jebusite city and spending the night there.",
+    "The master refused to stay in a foreign city whose inhabitants were not Israelites. He preferred to continue to Gibeah.",
+    "He told his servant to approach one of the settlements and spend the night in Gibeah or Ramah, in the territory of Benjamin north of Jerusalem.",
+    "They continued on their way, and the sun set while they were near Gibeah in Benjamin’s territory.",
+    "They entered Gibeah to spend the night, but no one took them into his house. The man therefore sat in the city square.",
+    "An old man who had worked in the field and returned in the evening came into the city. He was from Mount Ephraim and lived in Gibeah, while the other inhabitants were Benjaminites.",
+    "The old man saw the traveler sitting in the street and asked where he was going and where he had come from. The traveler apparently remained outside despite the discomfort, probably because it was summertime.",
+    "The Levite explained that they had come from Bethlehem in Judah and were traveling toward the remote parts of Mount Ephraim, where he was originally from. He was now heading toward the House of the Lord, perhaps at Shiloh, but no one had invited him into a home.",
+    "The traveler explained that there was no need to provide for them: they had straw and fodder for the donkeys, as well as bread and wine for himself, his female attendant, and his servant. They only needed a place to sleep.",
+    "The old man reassured him that he would provide everything they needed, but asked him not to spend the night in the street. He intended to supply the guests’ needs himself.",
+    "The old man brought the traveler into his house, prepared fodder for the donkeys, and they washed their feet, ate, and drank in peace.",
+    "While they were enjoying themselves, the city’s men, described as worthless men, surrounded the house and knocked on the door. They demanded that the guest be brought out so that they could have sexual relations with him.",
+    "The homeowner went out and asked them not to do harm or commit such an outrage. He emphasized that the man had come to his house as a guest, making an attack on him especially disgraceful.",
+    "The old man offered to bring out his virgin daughter and the traveler’s concubine so that the crowd would harm them instead of the guest. According to the commentary, he regarded this as disgraceful, but less severe than harming the guest.",
+    "The men refused to listen and wanted the guest specifically. The traveler forcibly brought out his concubine, and they raped and abused her throughout the night until dawn.",
+    "The woman returned before morning exhausted and wounded. According to the commentary, the group of attackers tortured her to death, and she collapsed at the doorway, unable to knock.",
+    "In the morning her master opened the doors and went out to continue his journey. He found his concubine lying at the entrance, with her hands on the threshold, perhaps after trying to enter.",
+    "The man called to her to get up and leave, but there was no answer because she was already dead. He placed her body on the donkey and returned home.",
+    "At home the man took the slaughtering knife, cut his concubine’s body into twelve pieces, and sent them throughout the territory of Israel. According to the commentary, he acted out of anger, and the event involved not only rape but also murder.",
+    "Everyone who saw the deed was horrified and said that nothing so terrible had been seen since the Israelites came up from Egypt. Through the dispatch of the remains and the accompanying account, the man called on the people to deliberate and decide how to respond."
+  ],
+  "perush": [
+    "הפסוק פותח שוב בהדגשה שאין מלך בישראל, כלומר אין הנהגה מרכזית ואין דין ודיין. הלוי גר בירכתי הר אפרים, כנראה בקצהו הדרומי, ונשא פילגש מבית לחם יהודה.",
+    "הפילגש סטתה מבעלה ועזבה אותו, ואין הכרח להבין את הפועל \"ותזנה\" במשמעות מינית או הלכתית. היא חזרה לבית אביה בבית לחם יהודה ושם שהתה ארבעה חודשים.",
+    "האיש הלוי החליט לסיים את המריבה וללכת אחרי פילגשו כדי לדבר על לבה ולהשיבה. היא קיבלה אותו והביאה אותו לבית אביה, ואביה שמח לקראתו; הנער והחמורים נועדו למסע ואולי גם לנשיאת מתנות פיוס.",
+    "אביה של הנערה הפציר בחתנו להישאר, והלוי ישב בביתו שלושה ימים. הם אכלו, שתו ולנו שם.",
+    "ביום הרביעי השכים הלוי ורצה לצאת לדרך. אבי הנערה ביקש ממנו לאכול תחילה, כדי שלא ייצא לדרך בלי לטעום דבר.",
+    "החותן והחתן ישבו ואכלו יחד, והארוחה התמשכה. האב ביקש ממנו להישאר לילה נוסף כדי שייטב לבו.",
+    "האיש קם לצאת, אך חותנו הפציר בו להישאר. הוא נענה, חזר ולן שם גם בלילה הרביעי.",
+    "בבוקר היום החמישי קם האיש לצאת, אך אבי הנערה ביקש ממנו לאכול ולהתמהמה עד אחר הצהריים. השיחה והארוחה גרמו לעיכוב נוסף.",
+    "לבסוף יצא האיש לדרך עם פילגשו ונערו. החותן הזהיר שאור היום נחלש ושלא יספיקו להגיע לביתם, והציע להם ללון אצלו ולקום למחרת למסעם.",
+    "האיש לא רצה להמשיך ולהתעכב, ולכן יצא והגיע מול יבוס, היא ירושלים, בעוד עמו צמד חמורים מוכנים למסע ופילגשו.",
+    "כאשר היו ליד יבוס, היום כבר נטה מאוד לשקוע. הנער הציע להיכנס לעיר היבוסית וללון בה עד הבוקר.",
+    "האדון סירב ללון בעיר נכרית שאינה מבני ישראל. הוא העדיף להמשיך עד גבעה.",
+    "הוא ביקש מנערו להתקרב לאחד המקומות וללון בגבעה או ברמה, שבנחלת בנימין מצפון לירושלים.",
+    "הם המשיכו בדרכם, והשמש שקעה כשהיו ליד גבעה שבנחלת בנימין.",
+    "הם נכנסו לגבעה כדי ללון, אך לא נמצא אדם שיאסוף אותם לביתו. לכן ישב האיש ברחבת העיר.",
+    "זקן, שעבד בשדה וחזר בערב, הגיע אל העיר. הוא היה מהר אפרים וגר בגבעה, ואילו שאר אנשי המקום היו בני בנימין.",
+    "הזקן ראה את האורח יושב ברחוב ושאל אותו לאן הוא הולך ומאין הגיע. נראה שהאורח נשאר ברחוב אף שהדבר היה לא נוח, כנראה בעונת הקיץ.",
+    "הלוי סיפר שהם באים מבית לחם יהודה בדרכם לירכתי הר אפרים, ושמשם הגיע במקור. כעת הוא בדרכו לבית ה', אולי בשילה, אך אין איש שמארח אותו בביתו.",
+    "האורח הסביר שאין צורך לדאוג לצורכיהם: יש להם תבן ומספוא לחמורים, וכן לחם ויין לו, לאמתו ולנערו. הם מבקשים רק מקום לישון בו.",
+    "הזקן בירך אותו והרגיע אותו שכל מחסורו עליו, אך ביקש שלא ילון ברחוב. הוא התכוון לספק בעצמו את צורכי האורחים.",
+    "הזקן הביא את האורח לביתו, הכין מספוא לחמורים, והם רחצו את רגליהם, אכלו ושתו ברוגע.",
+    "בעודם מיטיבים את לבם, אנשי העיר, המכונים בני בליעל, הקיפו את הבית ודפקו על הדלת. הם דרשו להוציא את האורח כדי לקיים עמו משכב זכר.",
+    "בעל הבית יצא אליהם וביקש שלא ירעו ולא יעשו את הנבלה הזאת. הוא הדגיש שהאיש בא לביתו כאורח, ולכן הפגיעה בו חמורה במיוחד.",
+    "הזקן הציע להוציא את בתו הבתולה ואת פילגשו של האורח, כדי שההמון יפגע בהן במקום באורח. לפי הפירוש, הוא ראה בכך מעשה מכוער, אך פחות חמור מן הפגיעה באורח.",
+    "האנשים לא הסכימו לשמוע לו ורצו דווקא את האורח. האורח הוציא אליהם בכוח את פילגשו, והם אנסו אותה והתעללו בה כל הלילה עד עלות השחר.",
+    "האשה שבה לפנות בוקר כשהיא מותשת ופצועה. לפי הפירוש, קהל המתעללים עינה אותה עד מוות, והיא נפלה בפתח הבית ולא יכלה לדפוק בדלת.",
+    "בבוקר פתח אדוניה את דלתות הבית ויצא לדרכו. הוא מצא את פילגשו מוטלת בפתח, כשידיה על הסף, אולי לאחר שניסתה להיכנס.",
+    "האיש קרא לה לקום וללכת, אך לא היה מענה מפני שכבר מתה. הוא נשא את גופתה על החמור וחזר לביתו.",
+    "בביתו לקח האיש את סכין השחיטה, ביתר את גופת פילגשו לשנים־עשר חלקים ושלח אותם בכל גבול ישראל. לפי הפירוש, הדבר נעשה מתוך זעם, והאירוע כלל לא רק אונס אלא גם רצח.",
+    "כל מי שראה את המעשה הזדעזע ואמר שלא נראתה זוועה כזאת מאז עליית בני ישראל ממצרים. באמצעות המשלוח והסיפור ביקש האיש מן העם להתייעץ ולדון כיצד להגיב."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הפילגש עוזבת והלוי יוצא להשיבה",
+      "title_en": "The Concubine Leaves and the Levite Goes to Bring Her Back",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "היעדר המלך והדין מוצג כרקע לסיפור. הפילגש עוזבת לבית אביה, והלוי יוצא אחריה כדי לדבר על לבה ולהשיבה.",
+      "summary_en": "The absence of a king and effective justice forms the background of the story. The concubine leaves for her father’s house, and the Levite follows her to persuade her to return.",
+      "image_prompt": "Educational biblical scene of a Levite traveling with a servant and two donkeys toward Bethlehem in Judah, modest ancient clothing, respectful non-graphic historical illustration."
+    },
+    {
+      "title": "האירוח בבית אבי הנערה והעיכוב ביציאה",
+      "title_en": "Hospitality at the Father’s House and the Delayed Departure",
+      "start_verse": 4,
+      "end_verse": 9,
+      "summary": "אבי הנערה מקבל את הלוי בשמחה ומפציר בו להישאר עוד ועוד. הארוחות והאירוח דוחים את היציאה עד שהיום נוטה לערוב.",
+      "summary_en": "The girl’s father warmly receives the Levite and repeatedly urges him to stay. Meals and hospitality delay the departure until the day is nearing evening.",
+      "image_prompt": "Warm educational illustration of an ancient Israelite household hosting travelers, a father and guest sharing a meal near packed donkeys, no modern objects."
+    },
+    {
+      "title": "הבחירה שלא ללון ביבוס וההגעה לגבעה",
+      "title_en": "Refusing to Stay in Jebus and Reaching Gibeah",
+      "start_verse": 10,
+      "end_verse": 16,
+      "summary": "הלוי מסרב ללון בעיר נכרית ומעדיף להמשיך אל יישוב ישראלי. עם שקיעת השמש הם מגיעים לגבעה, אך איש אינו מכניס אותם לביתו עד שזקן מהר אפרים מגיע מן השדה.",
+      "summary_en": "The Levite refuses to spend the night in a foreign city and prefers to continue to an Israelite settlement. At sunset they reach Gibeah, but no one takes them in until an old man from Mount Ephraim returns from the field.",
+      "image_prompt": "Twilight approach to an ancient hill-town in Benjamin, travelers with donkeys waiting in the city square, an elderly farmer arriving from the fields, restrained educational style."
+    },
+    {
+      "title": "הזקן מארח את האורחים",
+      "title_en": "The Old Man Welcomes the Travelers",
+      "start_verse": 17,
+      "end_verse": 21,
+      "summary": "הזקן שואל את האורח על דרכו ומזמין אותו לביתו. הוא דואג לחמורים, לרחיצת הרגליים, לאוכל ולשתייה, אף שהאורח אומר שכל צורכיהם בידיהם.",
+      "summary_en": "The old man asks the traveler about his journey and invites him into his home. He cares for the donkeys and provides washing, food, and drink, even though the traveler says they have their own supplies.",
+      "image_prompt": "Ancient Israelite courtyard at evening, an elderly host welcoming travelers, donkeys receiving fodder, guests washing their feet and sharing a meal, non-graphic educational illustration."
+    },
+    {
+      "title": "אנשי העיר תוקפים את הבית",
+      "title_en": "The Men of the City Attack the House",
+      "start_verse": 22,
+      "end_verse": 25,
+      "summary": "אנשי בליעל מקיפים את הבית ודורשים את האורח לצורך משכב זכר. בעל הבית מנסה להגן עליו, אך לבסוף הפילגש מוצאת החוצה וההמון אונס אותה ומתעלל בה כל הלילה.",
+      "summary_en": "Worthless men surround the house and demand the guest for sexual abuse. The homeowner tries to protect him, but the concubine is eventually brought outside and raped and abused throughout the night.",
+      "image_prompt": "Somber non-graphic biblical illustration of a crowded group outside a closed ancient doorway at night, a distressed household inside, conveying danger without depicting assault."
+    },
+    {
+      "title": "מות הפילגש והזעזוע בישראל",
+      "title_en": "The Concubine’s Death and the Shock Across Israel",
+      "start_verse": 26,
+      "end_verse": 30,
+      "summary": "הפילגש חוזרת פצועה וגוססת, מתה, וגופתה מבותרת ונשלחת לשבטי ישראל. המעשה מעורר זעזוע כללי וקריאה להתייעץ כיצד להגיב.",
+      "summary_en": "The concubine returns wounded and dying, dies, and her body is dismembered and sent throughout Israel. The deed causes widespread horror and a call to deliberate about how to respond.",
+      "image_prompt": "Symbolic, non-graphic educational illustration of messengers carrying a solemn summons across the tribal territories of ancient Israel, emphasizing communal shock and deliberation."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 16.64,
+      "usfm": "JDG.19.1"
+    },
+    {
+      "start": 16.64,
+      "end": 25.28,
+      "usfm": "JDG.19.2"
+    },
+    {
+      "start": 25.28,
+      "end": 42.28,
+      "usfm": "JDG.19.3"
+    },
+    {
+      "start": 42.28,
+      "end": 51.34,
+      "usfm": "JDG.19.4"
+    },
+    {
+      "start": 51.34,
+      "end": 64.6,
+      "usfm": "JDG.19.5"
+    },
+    {
+      "start": 64.6,
+      "end": 76.86,
+      "usfm": "JDG.19.6"
+    },
+    {
+      "start": 76.86,
+      "end": 83.48,
+      "usfm": "JDG.19.7"
+    },
+    {
+      "start": 83.48,
+      "end": 96.22,
+      "usfm": "JDG.19.8"
+    },
+    {
+      "start": 96.22,
+      "end": 117.94,
+      "usfm": "JDG.19.9"
+    },
+    {
+      "start": 117.94,
+      "end": 131.62,
+      "usfm": "JDG.19.10"
+    },
+    {
+      "start": 131.62,
+      "end": 143.02,
+      "usfm": "JDG.19.11"
+    },
+    {
+      "start": 143.02,
+      "end": 153.16,
+      "usfm": "JDG.19.12"
+    },
+    {
+      "start": 153.16,
+      "end": 160.94,
+      "usfm": "JDG.19.13"
+    },
+    {
+      "start": 160.94,
+      "end": 168.26,
+      "usfm": "JDG.19.14"
+    },
+    {
+      "start": 168.26,
+      "end": 179.68,
+      "usfm": "JDG.19.15"
+    },
+    {
+      "start": 179.68,
+      "end": 191.52,
+      "usfm": "JDG.19.16"
+    },
+    {
+      "start": 191.52,
+      "end": 201.86,
+      "usfm": "JDG.19.17"
+    },
+    {
+      "start": 201.86,
+      "end": 216.6,
+      "usfm": "JDG.19.18"
+    },
+    {
+      "start": 216.6,
+      "end": 227.92,
+      "usfm": "JDG.19.19"
+    },
+    {
+      "start": 227.92,
+      "end": 237.74,
+      "usfm": "JDG.19.20"
+    },
+    {
+      "start": 237.74,
+      "end": 245.4,
+      "usfm": "JDG.19.21"
+    },
+    {
+      "start": 245.4,
+      "end": 263.98,
+      "usfm": "JDG.19.22"
+    },
+    {
+      "start": 263.98,
+      "end": 277.28,
+      "usfm": "JDG.19.23"
+    },
+    {
+      "start": 277.28,
+      "end": 291.44,
+      "usfm": "JDG.19.24"
+    },
+    {
+      "start": 291.44,
+      "end": 307.8,
+      "usfm": "JDG.19.25"
+    },
+    {
+      "start": 307.8,
+      "end": 317.98,
+      "usfm": "JDG.19.26"
+    },
+    {
+      "start": 317.98,
+      "end": 333.94,
+      "usfm": "JDG.19.27"
+    },
+    {
+      "start": 333.94,
+      "end": 346.18,
+      "usfm": "JDG.19.28"
+    },
+    {
+      "start": 346.18,
+      "end": 362.44,
+      "usfm": "JDG.19.29"
+    },
+    {
+      "start": 362.44,
+      "end": 389.24,
+      "usfm": "JDG.19.30"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    16.64,
+    25.28,
+    42.28,
+    51.34,
+    64.6,
+    76.86,
+    83.48,
+    96.22,
+    117.94,
+    131.62,
+    143.02,
+    153.16,
+    160.94,
+    168.26,
+    179.68,
+    191.52,
+    201.86,
+    216.6,
+    227.92,
+    237.74,
+    245.4,
+    263.98,
+    277.28,
+    291.44,
+    307.8,
+    317.98,
+    333.94,
+    346.18,
+    362.44,
+    389.24
+  ],
+  "times_en_usfm": [
+    "JDG.19.1",
+    "JDG.19.2",
+    "JDG.19.3",
+    "JDG.19.4",
+    "JDG.19.5",
+    "JDG.19.6",
+    "JDG.19.7",
+    "JDG.19.8",
+    "JDG.19.9",
+    "JDG.19.10",
+    "JDG.19.11",
+    "JDG.19.12",
+    "JDG.19.13",
+    "JDG.19.14",
+    "JDG.19.15",
+    "JDG.19.16",
+    "JDG.19.17",
+    "JDG.19.18",
+    "JDG.19.19",
+    "JDG.19.20",
+    "JDG.19.21",
+    "JDG.19.22",
+    "JDG.19.23",
+    "JDG.19.24",
+    "JDG.19.25",
+    "JDG.19.26",
+    "JDG.19.27",
+    "JDG.19.28",
+    "JDG.19.29",
+    "JDG.19.30"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הפרק נפתח בתיאור חוזר: „וּמֶלֶךְ אֵין בְּיִשְׂרָאֵל”. הלוי גר בירכתי הר אפרים, והפילגש שלו היא מבית לחם יהודה.",
+      "text_he": "הפרק נפתח בתיאור חוזר: „וּמֶלֶךְ אֵין בְּיִשְׂרָאֵל”. הלוי גר בירכתי הר אפרים, והפילגש שלו היא מבית לחם יהודה.",
+      "text_en": "The chapter opens with the repeated statement, “There was no king in Israel.” The Levite lived in the remote hill country of Ephraim, and his concubine was from Bethlehem in Judah."
+    },
+    {
+      "verse": 2,
+      "text": "הפילגש עוזבת את הלוי וחוזרת לבית אביה בבית לחם יהודה, ושוהה שם ארבעה חודשים.",
+      "text_he": "הפילגש עוזבת את הלוי וחוזרת לבית אביה בבית לחם יהודה, ושוהה שם ארבעה חודשים.",
+      "text_en": "The concubine left the Levite and returned to her father’s house in Bethlehem in Judah, where she stayed for four months."
+    },
+    {
+      "verse": 3,
+      "text": "הלוי יוצא אחרי הפילגש כדי „לְדַבֵּר עַל לִבָּהּ” ולהשיבה. הוא לוקח עמו את נערו וצמד חמורים.",
+      "text_he": "הלוי יוצא אחרי הפילגש כדי „לְדַבֵּר עַל לִבָּהּ” ולהשיבה. הוא לוקח עמו את נערו וצמד חמורים.",
+      "text_en": "The Levite went after his concubine to “speak tenderly to her” and bring her back. He took his servant and a pair of donkeys with him."
+    },
+    {
+      "verse": 4,
+      "text": "אבי הנערה מקבל את הלוי בשמחה, מארח אותו בביתו, ובמשך שלושה ימים הם אוכלים, שותים ולנים שם.",
+      "text_he": "אבי הנערה מקבל את הלוי בשמחה, מארח אותו בביתו, ובמשך שלושה ימים הם אוכלים, שותים ולנים שם.",
+      "text_en": "The woman’s father welcomed the Levite gladly, hosted him in his home, and for three days they ate, drank, and spent the nights there."
+    },
+    {
+      "verse": 8,
+      "text": "ביום החמישי אבי הנערה ממשיך לבקש מן הלוי לאכול ולהתמהמה, עד שהיום נוטה לערוב. בכך האירוח דוחה שוב את יציאתם לדרך.",
+      "text_he": "ביום החמישי אבי הנערה ממשיך לבקש מן הלוי לאכול ולהתמהמה, עד שהיום נוטה לערוב. בכך האירוח דוחה שוב את יציאתם לדרך.",
+      "text_en": "On the fifth day, the woman’s father continued urging the Levite to eat and stay longer, until the day was nearly over. Thus, his hospitality once again delayed their departure."
+    },
+    {
+      "verse": 10,
+      "text": "הלוי מסרב ללון ביבוס, היא ירושלים, מפני שהוא רואה בה עיר של נוכרים; הוא מעדיף להמשיך אל מקום ישראלי, ובסופו של דבר מגיע לגבעה שבנחלת בנימין.",
+      "text_he": "הלוי מסרב ללון ביבוס, היא ירושלים, מפני שהוא רואה בה עיר של נוכרים; הוא מעדיף להמשיך אל מקום ישראלי, ובסופו של דבר מגיע לגבעה שבנחלת בנימין.",
+      "text_en": "The Levite refused to spend the night in Jebus, that is, Jerusalem, because he regarded it as a foreign city. He preferred to continue to an Israelite settlement and eventually reached Gibeah in the territory of Benjamin."
+    },
+    {
+      "verse": 15,
+      "text": "עם הגעתם לגבעה, הלוי יושב ברחוב העיר, אך איש אינו מכניס אותם לביתו. רק זקן מהר אפרים, שהתגורר בגבעה, מגיע ומציע להם אירוח.",
+      "text_he": "עם הגעתם לגבעה, הלוי יושב ברחוב העיר, אך איש אינו מכניס אותם לביתו. רק זקן מהר אפרים, שהתגורר בגבעה, מגיע ומציע להם אירוח.",
+      "text_en": "When they arrived in Gibeah, the Levite sat in the city square, but no one took them into his home. Only an old man from the hill country of Ephraim, who lived in Gibeah, came and offered them hospitality."
+    },
+    {
+      "verse": 22,
+      "text": "אנשי העיר מתוארים כ„אַנְשֵׁי בְנֵי בְלִיַּעַל”. הם מקיפים את הבית ודורשים להוציא אליהם את האורח, כדי לפגוע בו מינית.",
+      "text_he": "אנשי העיר מתוארים כ„אַנְשֵׁי בְנֵי בְלִיַּעַל”. הם מקיפים את הבית ודורשים להוציא אליהם את האורח, כדי לפגוע בו מינית.",
+      "text_en": "The men of the city are described as “worthless men.” They surrounded the house and demanded that the guest be brought out to them so they could sexually abuse him."
+    },
+    {
+      "verse": 26,
+      "text": "לאחר ההתעללות הלילית, האישה חוזרת לפתח הבית לפנות בוקר ונופלת שם. כשהלוי פותח את הדלת, הוא מוצא אותה כשידיה על הסף.",
+      "text_he": "לאחר ההתעללות הלילית, האישה חוזרת לפתח הבית לפנות בוקר ונופלת שם. כשהלוי פותח את הדלת, הוא מוצא אותה כשידיה על הסף.",
+      "text_en": "After the night’s abuse, the woman returned to the entrance of the house at daybreak and collapsed there. When the Levite opened the door, he found her with her hands on the threshold."
+    },
+    {
+      "verse": 29,
+      "text": "הלוי מבתר את גופת פילגשו לשנים עשר נתחים ושולח אותם בכל גבול ישראל. המעשה נועד לזעזע את כלל השבטים ולעורר אותם לדון באסון ובתגובה אליו.",
+      "text_he": "הלוי מבתר את גופת פילגשו לשנים עשר נתחים ושולח אותם בכל גבול ישראל. המעשה נועד לזעזע את כלל השבטים ולעורר אותם לדון באסון ובתגובה אליו.",
+      "text_en": "The Levite cut his concubine’s body into twelve pieces and sent them throughout the territory of Israel. The act was intended to shock all the tribes and move them to discuss the tragedy and how to respond to it."
+    },
+    {
+      "verse": 30,
+      "text": "תגובת העם מדגישה את חומרת האירוע: הם אומרים שלא נראתה כזאת מאז עליית בני ישראל מארץ מצרים, וקוראים לכל הרואים להתייעץ ולדבר.",
+      "text_he": "תגובת העם מדגישה את חומרת האירוע: הם אומרים שלא נראתה כזאת מאז עליית בני ישראל מארץ מצרים, וקוראים לכל הרואים להתייעץ ולדבר.",
+      "text_en": "The people’s response emphasizes the gravity of the event: they said that nothing like it had been seen since the Israelites came up from the land of Egypt, and they urged everyone who saw it to consult together and speak."
+    }
+  ]
+}

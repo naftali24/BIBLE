@@ -1,0 +1,468 @@
+{
+  "book": "I Samuel",
+  "book_he": "שמואל א",
+  "book_chapters": 31,
+  "chapter": 19,
+  "title": "שמואל א פרק 19",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a19.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a19.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1SA/19-d05ee0c122259e6ba741aee3f151b7e2.mp3?version_id=1",
+  "verses": [
+    "וַיְדַבֵּר שָׁאוּל, אֶל-יוֹנָתָן בְּנוֹ וְאֶל-כָּל-עֲבָדָיו, לְהָמִית, אֶת-דָּוִד; וִיהוֹנָתָן, בֶּן-שָׁאוּל, חָפֵץ בְּדָוִד, מְאֹד.",
+    "וַיַּגֵּד יְהוֹנָתָן לְדָוִד לֵאמֹר, מְבַקֵּשׁ שָׁאוּל אָבִי לַהֲמִיתֶךָ; וְעַתָּה הִשָּׁמֶר-נָא בַבֹּקֶר, וְיָשַׁבְתָּ בַסֵּתֶר וְנַחְבֵּאתָ.",
+    "וַאֲנִי אֵצֵא וְעָמַדְתִּי לְיַד-אָבִי, בַּשָּׂדֶה אֲשֶׁר אַתָּה שָׁם, וַאֲנִי, אֲדַבֵּר בְּךָ אֶל-אָבִי; וְרָאִיתִי מָה, וְהִגַּדְתִּי לָךְ.",
+    "וַיְדַבֵּר יְהוֹנָתָן בְּדָוִד טוֹב, אֶל-שָׁאוּל אָבִיו; וַיֹּאמֶר אֵלָיו אַל-יֶחֱטָא הַמֶּלֶךְ בְּעַבְדּוֹ בְדָוִד, כִּי לוֹא חָטָא לָךְ, וְכִי מַעֲשָׂיו, טוֹב-לְךָ מְאֹד.",
+    "וַיָּשֶׂם אֶת-נַפְשׁוֹ בְכַפּוֹ וַיַּךְ אֶת-הַפְּלִשְׁתִּי, וַיַּעַשׂ יְהוָה תְּשׁוּעָה גְדוֹלָה לְכָל-יִשְׂרָאֵל--רָאִיתָ, וַתִּשְׂמָח; וְלָמָּה תֶחֱטָא בְּדָם נָקִי, לְהָמִית אֶת-דָּוִד חִנָּם.",
+    "וַיִּשְׁמַע שָׁאוּל, בְּקוֹל יְהוֹנָתָן; וַיִּשָּׁבַע שָׁאוּל, חַי-יְהוָה אִם-יוּמָת.",
+    "וַיִּקְרָא יְהוֹנָתָן, לְדָוִד, וַיַּגֶּד-לוֹ יְהוֹנָתָן, אֵת כָּל-הַדְּבָרִים הָאֵלֶּה; וַיָּבֵא יְהוֹנָתָן אֶת-דָּוִד אֶל-שָׁאוּל, וַיְהִי לְפָנָיו כְּאֶתְמוֹל שִׁלְשׁוֹם.",
+    "וַתּוֹסֶף הַמִּלְחָמָה, לִהְיוֹת; וַיֵּצֵא דָוִד וַיִּלָּחֶם בַּפְּלִשְׁתִּים, וַיַּךְ בָּהֶם מַכָּה גְדוֹלָה, וַיָּנֻסוּ, מִפָּנָיו.",
+    "וַתְּהִי רוּחַ יְהוָה רָעָה, אֶל-שָׁאוּל, וְהוּא בְּבֵיתוֹ יֹשֵׁב, וַחֲנִיתוֹ בְּיָדוֹ; וְדָוִד, מְנַגֵּן בְּיָד.",
+    "וַיְבַקֵּשׁ שָׁאוּל לְהַכּוֹת בַּחֲנִית, בְּדָוִד וּבַקִּיר, וַיִּפְטַר מִפְּנֵי שָׁאוּל, וַיַּךְ אֶת-הַחֲנִית בַּקִּיר; וְדָוִד נָס וַיִּמָּלֵט, בַּלַּיְלָה הוּא.",
+    "וַיִּשְׁלַח שָׁאוּל מַלְאָכִים אֶל-בֵּית דָּוִד, לְשָׁמְרוֹ, וְלַהֲמִיתוֹ, בַּבֹּקֶר; וַתַּגֵּד לְדָוִד, מִיכַל אִשְׁתּוֹ לֵאמֹר, אִם-אֵינְךָ מְמַלֵּט אֶת-נַפְשְׁךָ הַלַּיְלָה, מָחָר אַתָּה מוּמָת.",
+    "וַתֹּרֶד מִיכַל אֶת-דָּוִד, בְּעַד הַחַלּוֹן; וַיֵּלֶךְ וַיִּבְרַח, וַיִּמָּלֵט.",
+    "וַתִּקַּח מִיכַל אֶת-הַתְּרָפִים, וַתָּשֶׂם אֶל-הַמִּטָּה, וְאֵת כְּבִיר הָעִזִּים, שָׂמָה מְרַאֲשֹׁתָיו; וַתְּכַס, בַּבָּגֶד.",
+    "וַיִּשְׁלַח שָׁאוּל מַלְאָכִים, לָקַחַת אֶת-דָּוִד; וַתֹּאמֶר, חֹלֶה הוּא.",
+    "וַיִּשְׁלַח שָׁאוּל אֶת-הַמַּלְאָכִים, לִרְאוֹת אֶת-דָּוִד לֵאמֹר: הַעֲלוּ אֹתוֹ בַמִּטָּה אֵלַי, לַהֲמִתוֹ.",
+    "וַיָּבֹאוּ, הַמַּלְאָכִים, וְהִנֵּה הַתְּרָפִים, אֶל-הַמִּטָּה; וּכְבִיר הָעִזִּים, מְרַאֲשֹׁתָיו.",
+    "וַיֹּאמֶר שָׁאוּל אֶל-מִיכַל, לָמָּה כָּכָה רִמִּיתִנִי, וַתְּשַׁלְּחִי אֶת-אֹיְבִי, וַיִּמָּלֵט; וַתֹּאמֶר מִיכַל אֶל-שָׁאוּל, הוּא-אָמַר אֵלַי שַׁלְּחִנִי לָמָה אֲמִיתֵךְ.",
+    "וְדָוִד בָּרַח וַיִּמָּלֵט, וַיָּבֹא אֶל-שְׁמוּאֵל הָרָמָתָה, וַיַּגֶּד-לוֹ, אֵת כָּל-אֲשֶׁר עָשָׂה-לוֹ שָׁאוּל; וַיֵּלֶךְ הוּא וּשְׁמוּאֵל, וַיֵּשְׁבוּ בנוית בְּנָיוֹת .",
+    "וַיֻּגַּד לְשָׁאוּל, לֵאמֹר: הִנֵּה דָוִד, בנוית בְּנָיוֹת בָּרָמָה.",
+    "וַיִּשְׁלַח שָׁאוּל מַלְאָכִים, לָקַחַת אֶת-דָּוִד, וַיַּרְא אֶת-לַהֲקַת הַנְּבִיאִים נִבְּאִים, וּשְׁמוּאֵל עֹמֵד נִצָּב עֲלֵיהֶם; וַתְּהִי עַל-מַלְאֲכֵי שָׁאוּל, רוּחַ אֱלֹהִים, וַיִּתְנַבְּאוּ, גַּם-הֵמָּה.",
+    "וַיַּגִּדוּ לְשָׁאוּל, וַיִּשְׁלַח מַלְאָכִים אֲחֵרִים, וַיִּתְנַבְּאוּ, גַּם-הֵמָּה; {ס} וַיֹּסֶף שָׁאוּל, וַיִּשְׁלַח מַלְאָכִים שְׁלִשִׁים, וַיִּתְנַבְּאוּ, גַּם-הֵמָּה.",
+    "וַיֵּלֶךְ גַּם-הוּא הָרָמָתָה, וַיָּבֹא עַד-בּוֹר הַגָּדוֹל אֲשֶׁר בַּשֶּׂכוּ, וַיִּשְׁאַל וַיֹּאמֶר, אֵיפֹה שְׁמוּאֵל וְדָוִד; וַיֹּאמֶר, הִנֵּה בנוית בְּנָיוֹת בָּרָמָה.",
+    "וַיֵּלֶךְ שָׁם, אֶל-נוית נָיוֹת בָּרָמָה; וַתְּהִי עָלָיו גַּם-הוּא רוּחַ אֱלֹהִים, וַיֵּלֶךְ הָלוֹךְ וַיִּתְנַבֵּא, עַד-בֹּאוֹ, בנוית בְּנָיוֹת בָּרָמָה.",
+    "וַיִּפְשַׁט גַּם-הוּא בְּגָדָיו, וַיִּתְנַבֵּא גַם-הוּא לִפְנֵי שְׁמוּאֵל, וַיִּפֹּל עָרֹם, כָּל-הַיּוֹם הַהוּא וְכָל-הַלָּיְלָה; עַל-כֵּן, יֹאמְרוּ--הֲגַם שָׁאוּל, בַּנְּבִיאִם."
+  ],
+  "english": [
+    "And Saul spake to Jonathan his son, and to all his servants, that they should kill David.",
+    "But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret place, and hide thyself:",
+    "And I will go out and stand beside my father in the field where thou art, and I will commune with my father of thee; and what I see, that I will tell thee.",
+    "And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good:",
+    "For he did put his life in his hand, and slew the Philistine, and the Lord wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
+    "And Saul hearkened unto the voice of Jonathan: and Saul sware, As the Lord liveth, he shall not be slain.",
+    "And Jonathan called David, and Jonathan shewed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.",
+    "And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.",
+    "And the evil spirit from the Lord was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.",
+    "And Saul sought to smite David even to the wall with the javelin: but he slipped away out of Saul's presence, and he smote the javelin into the wall: and David fled, and escaped that night.",
+    "Saul also sent messengers unto David's house, to watch him, and to slay him in the morning: and Michal David's wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.",
+    "So Michal let David down through a window: and he went, and fled, and escaped.",
+    "And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth.",
+    "And when Saul sent messengers to take David, she said, He is sick.",
+    "And Saul sent the messengers again to see David, saying, Bring him up to me in the bed, that I may slay him.",
+    "And when the messengers were come in, behold, there was an image in the bed, with a pillow of goats' hair for his bolster.",
+    "And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?",
+    "So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.",
+    "And it was told Saul, saying, Behold, David is at Naioth in Ramah.",
+    "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.",
+    "And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.",
+    "Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah.",
+    "And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.",
+    "And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?"
+  ],
+  "steinsaltz": [
+    "וַיְדַבֵּר שָׁאוּל אֶל יוֹנָתָן בְּנוֹ וְאֶל כָּל עֲבָדָיו לְהָמִית אֶת דָּוִד. וִיהוֹנָתָן בֶּן שָׁאוּל חָפֵץ בְּקיומו, בהצלחתו ובקרבתו של דָוִד מְאֹד.",
+    "וַיַּגֵּד יְהוֹנָתָן לְדָוִד לֵאמֹר: מְבַקֵּשׁ שָׁאוּל אָבִי לַהֲמִיתֶךָ, וְעַתָּה, ראשית לכול הִשָּׁמֶר נָא בַבֹּקֶר וְיָשַׁבְתָּ בַסֵּתֶר וְנַחְבֵּאתָ.",
+    "וַאֲנִי אֵצֵא וְעָמַדְתִּי לְיַד אָבִי בַּשָּׂדֶה אֲשֶׁר אַתָּה שָׁם, וַאֲנִי אֲדַבֵּר בְּךָ, עליך בגלוי אֶל אָבִי, וְרָאִיתִי מָה תהיה תגובתו וְהִגַּדְתִּי לָךְ.",
+    "וַיְדַבֵּר יְהוֹנָתָן בְּדָוִד טוֹב, דברים טובים אֶל שָׁאוּל אָבִיו, וַיֹּאמֶר אֵלָיו: אַל יֶחֱטָא הַמֶּלֶךְ בְּעַבְדּוֹ בְדָוִד, כִּי לוֹא חָטָא לָךְ, לא עשה דבר נגדך, וְכִי מַעֲשָׂיו במלחמה, בנגינה וכיוצא בהם טוֹב לְךָ מְאֹד, הם לטובתך.",
+    "וַיָּשֶׂם אֶת נַפְשׁוֹ בְכַפּוֹ, דוד סיכן את עצמו וַיַּךְ אֶת גלית הַפְּלִשְׁתִּי, וַיַּעַשׂ ה' תְּשׁוּעָה גְדוֹלָה לְכָל יִשְׂרָאֵל על ידו, ואתה רָאִיתָ וַתִּשְׂמָח – וְלָמָּה תֶחֱטָא בְּדָם נָקִי לְהָמִית אֶת דָוִד חִנָּם?!",
+    "וַיִּשְׁמַע שָׁאוּל בְּקוֹל יְהוֹנָתָן, וַיִּשָּׁבַע שָׁאוּל: חַי ה' אִם יוּמָת. דוד לא יומת.",
+    "וַיִּקְרָא יְהוֹנָתָן לְדָוִד, וַיַּגֶּד לוֹ יְהוֹנָתָן אֵת כָּל הַדְּבָרִים הָאֵלֶּה. וַיָּבֵא יְהוֹנָתָן אֶת דָּוִד אֶל שָׁאוּל, וַיְהִי דוד עומד לְפָנָיו כְּאֶתְמוֹל שִׁלְשׁוֹם.",
+    "וַתּוֹסֶף הַמִּלְחָמָה מול הפלשתים לִהְיוֹת. זו הייתה מלחמה מתמשכת של פשיטות הדדיות, שאין בה הכרעה. וַיֵּצֵא דָוִד וַיִּלָּחֶם בַּפְּלִשְׁתִּים, וַיַּךְ בָּהֶם מַכָּה גְדוֹלָה וַיָּנֻסוּ מִפָּנָיו. דוד המשיך להצליח כאיש צבא.",
+    "וַתְּהִי רוּחַ ה' רָעָה אֶל שָׁאוּל, וְהוּא בְּבֵיתוֹ יוֹשֵׁב וַחֲנִיתוֹ בְּיָדוֹ. ולעומת יד שאול האוחזת בחנית, דָוִד מְנַגֵּן בְּיָד כדי להרגיע את שאול.",
+    "וַיְבַקֵּשׁ שָׁאוּל לְהַכּוֹת בַּחֲנִית שתינעץ בְּדָוִד וּבַקִּיר. וַיִּפְטַר, דוד נחלץ וחמק מִפְּנֵי שָׁאוּל. וַיַּךְ שאול אֶת הַחֲנִית בַּקִּיר, החנית נתקעה בקיר בלבד, וְדָוִד נָס וַיִּמָּלֵט בַּלַּיְלָה ההוּא.",
+    "שאול ידע שדוד מתחבא בביתו. וַיִּשְׁלַח שָׁאוּל מַלְאָכִים אֶל בֵּית דָּוִד לְשָׁמְרוֹ וְלַהֲמִיתוֹ בַּבֹּקֶר. וַתַּגֵּד לְדָוִד מִיכַל אִשְׁתּוֹ לֵאמֹר: אִם אֵינְךָ מְמַלֵּט אֶת נַפְשְׁךָ הַלַּיְלָה – מָחָר אַתָּה מוּמָת.",
+    "וַתֹּרֶד מִיכַל אֶת דָּוִד בְּעַד הַחַלּוֹן, שאולי היה בקומה מוגבהת, ובאותו צד לא עמדו שומרים, וַיֵּלֶךְ וַיִּבְרַח וַיִּמָּלֵט.",
+    "וַתִּקַּח מִיכַל אֶת הַתְּרָפִים, הצלמיות שלהן דמות אדם, וַתָּשֶׂם אותם אֶל, על הַמִּטָּה, וְאֵת כְּבִיר, מקלעת, או: עור ושער הָעִזִּים שָׂמָה מְרַאֲשֹׁתָיו, מעין כרית במקום הנחת ראשו, וַתְּכַס בַּבָּגֶד, כך שייראה כאילו דמות שוכבת במיטה.",
+    "וַיִּשְׁלַח שָׁאוּל מַלְאָכִים, שליחים לָקַחַת אֶת דָּוִד, וַתֹּאמֶר מיכל: חֹלֶה הוּא ושוכב במיטה.",
+    "וַיִּשְׁלַח שָׁאוּל אֶת הַמַּלְאָכִים לִרְאוֹת אֶת דָּוִד, לֵאמֹר, כך ציווה עליהם: הַעֲלוּ אֹתוֹ בַמִּטָּה אֵלַי לַהֲמִתוֹ.",
+    "וַיָּבֹאוּ הַמַּלְאָכִים, וְהִנֵּה במקום דוד נמצאים הַתְּרָפִים אֶל, על הַמִּטָּה, וּכְבִיר הָעִזִּים מְרַאֲשֹׁתָיו.",
+    "וַיֹּאמֶר שָׁאוּל אֶל מִיכַל: לָמָּה כָּכָה רִמִּיתִנִי וַתְּשַׁלְּחִי אֶת אֹיְבִי וַיִּמָּלֵט? וַתֹּאמֶר מִיכַל אֶל שָׁאוּל: הוּא אָמַר אֵלַי \"שַׁלְּחִנִי – לָמָה אֲמִיתֵךְ?\" לאביה היא מספרת כאילו דוד איים עליה, ועל כן שילחה אותו.",
+    "וְדָוִד בָּרַח וַיִּמָּלֵט, וַיָּבֹא אֶל שְׁמוּאֵל הָרָמָתָה, וַיַּגֶּד לוֹ אֵת כָּל אֲשֶׁר עָשָׂה לוֹ שָׁאוּל. וַיֵּלֶךְ הוּא וּשְׁמוּאֵל וַיֵּשְׁבוּ בְּנָיוֹת שברמה, עירו של שמואל. אולי זה היה מקום שקט, שבו נפשו או למדו והתבודדו.",
+    "וַיֻּגַּד לְשָׁאוּל לֵאמֹר: הִנֵּה דָוִד בְּנָיוֹת בָּרָמָה.",
+    "וַיִּשְׁלַח שָׁאוּל מַלְאָכִים לָקַחַת אֶת דָּוִד. הוא לא היסס לקחת את דוד גם משם. וַיַּרְא כל אחד משליחי שאול אֶת לַהֲקַת הַנְּבִיאִים נִבְּאִים, וּשְׁמוּאֵל רבם עֹמֵד נִצָּב עֲלֵיהֶם. הוא לא היה פעיל בהתנבאות אלא רק השגיח שהם ינהגו כראוי. וַתְּהִי עַל מַלְאֲכֵי שָׁאוּל רוּחַ אֱלֹהִים, וַיִּתְנַבְּאוּ גַּם הֵמָּה. כאשר השליחים ראו את הנביאים, גם הם נתפסו למצב ההתנבאות.",
+    "וַיַּגִּדוּ זאת לְשָׁאוּל, וַיִּשְׁלַח מַלְאָכִים אֲחֵרִים – וַיִּתְנַבְּאוּ גַּם הֵמָּה. וַיֹּסֶף שָׁאוּל וַיִּשְׁלַח מַלְאָכִים שְׁלִשִׁים – וַיִּתְנַבְּאוּ גַּם הֵמָּה. הנבואה נפתחה עתה בפני ההמונים. כל שליחיו של שאול הוטבעו בחוויה הנבואית.",
+    "שאול לא מצא פתרון אחר – וַיֵּלֶךְ גַּם הוּא עצמו הָרָמָתָה. וַיָּבֹא עַד הבּוֹר הַגָּדוֹל אֲשֶׁר בַּמקום שנקרא שֶּׂכוּ, וַיִּשְׁאַל וַיֹּאמֶר: אֵיפֹה שְׁמוּאֵל וְדָוִד? וַיֹּאמֶר מישהו: הִנֵּה בְּנָיוֹת שבָּרָמָה.",
+    "וַיֵּלֶךְ שָׁם אֶל נָיוֹת בָּרָמָה, וַתְּהִי עָלָיו גַּם הוּא רוּחַ אֱלֹהִים, וַיֵּלֶךְ הָלוֹךְ וַיִּתְנַבֵּא עַד בֹּאוֹ בְּנָיוֹת בָּרָמָה.",
+    "וַיִּפְשַׁט גַּם הוּא בְּגָדָיו כמו המתנבאים האחרים, וַיִּתְנַבֵּא גַם הוּא לִפְנֵי שְׁמוּאֵל, וַיִּפֹּל עָרֹם כָּל הַיּוֹם הַהוּא וְכָל הַלָּיְלָה. במשך הזמן הזה דוד יכול היה להימלט. עַל כֵּן יֹאמְרוּ כפתגם רווח, שכבר הוזכר בנסיבות דומות בהשתאות: הֲגַם שָׁאוּל בַּנְּבִיאִם. אכן, מצד תכונות נפשו היה שאול מתאים להיות כלי לנבואה. לפיכך גם הוא נתפס בה, שוכב ומתנבא, ובאותה שעה של אובדן עשתונות לא יכול היה להשתחרר מהשפעתה."
+  ],
+  "ai_explanation": [
+    "שאול מצווה את יהונתן ואת עבדיו להרוג את דוד. יהונתן, לעומת זאת, רוצה מאוד בדוד, בהצלחתו, בקיומו ובקרבתו.",
+    "יהונתן מודיע לדוד ששאול מבקש להמיתו, ומזהיר אותו להסתתר בבוקר. הוא מתכנן לעמוד לצד אביו בשדה ולדבר איתו על דוד.",
+    "יהונתן אומר שידבר על דוד בגלוי לפני שאול, יבחן את תגובת אביו, ויודיע לדוד מה אירע.",
+    "יהונתן מדבר בשבחו של דוד ומבקש משאול שלא יחטא בהמתת עבדו, מפני שדוד לא חטא לו וכל מעשיו היו לטובת שאול.",
+    "יהונתן מזכיר שדוד סיכן את עצמו, הכה את גלית, והביא ישועה גדולה לישראל בעזרת ה'. שאול עצמו ראה ושמח, ולכן אין הצדקה להרוג את דוד החף מפשע.",
+    "שאול מקבל את דברי יהונתן ונשבע בשם ה' שדוד לא יומת.",
+    "יהונתן מספר לדוד את כל הדברים ומביא אותו אל שאול. דוד חוזר לעמוד לפני שאול כבעבר.",
+    "המלחמה עם הפלשתים נמשכת, ודוד יוצא להילחם בהם ומכה בהם מכה גדולה. בכך הוא ממשיך להצליח כאיש צבא.",
+    "רוח ה' הרעה שורה על שאול כשהוא יושב בביתו והחנית בידו, בעוד דוד מנגן בידו כדי להרגיע אותו.",
+    "שאול מבקש לנעוץ את החנית בדוד ובקיר. דוד מתחמק, החנית ננעצת בקיר בלבד, ודוד בורח ונמלט באותו לילה.",
+    "שאול שולח שליחים לבית דוד כדי לשמור עליו ולהמיתו בבוקר, מפני שידע שדוד מסתתר שם. מיכל מזהירה את דוד שאם לא ימלט בלילה, יומת למחרת.",
+    "מיכל מורידה את דוד דרך החלון, כנראה מצד שבו לא היו שומרים, והוא בורח ונמלט.",
+    "מיכל מניחה במיטה את התרפים, שלהן דמות אדם, ושמה ליד ראשם כביר עזים, אולי מקלעת או עור ושיער. היא מכסה אותם בבגד כדי שייראה כאילו אדם שוכב במיטה.",
+    "שליחי שאול באים לקחת את דוד, ומיכל אומרת להם שהוא חולה ושוכב במיטה.",
+    "שאול מצווה על השליחים לראות את דוד ולהעלות אותו אליו במיטה, כדי להמיתו.",
+    "השליחים באים ומגלים שעל המיטה נמצאים התרפים, וליד ראשם כביר העזים, ולא דוד.",
+    "שאול מאשים את מיכל שרימתה אותו וששלחה את אויבו להימלט. מיכל משיבה כאילו דוד איים עליה ואמר לה לשלחו כדי שלא יהרוג אותה.",
+    "דוד בורח אל שמואל הרמתה ומספר לו את כל מה ששאול עשה לו. דוד ושמואל הולכים לניות שברמה, מקום שקט שבו יכלו לנוח, ללמוד ולהתבודד.",
+    "נודע לשאול שדוד נמצא בניות שברמה.",
+    "שאול שולח שליחים לקחת את דוד, אך הם רואים את חבורת הנביאים מתנבאת ושמואל עומד ומשגיח עליהם. רוח אלוהים שורה גם על השליחים, והם מתנבאים.",
+    "שאול שולח שליחים נוספים, וגם הם מתנבאים. הוא שולח קבוצה שלישית, וגם אנשיה נתפסים בחוויה הנבואית.",
+    "שאול הולך בעצמו לרמה ומגיע עד הבור הגדול שבמקום הנקרא שכו. הוא שואל היכן שמואל ודוד, ונענה שהם בניות שברמה.",
+    "שאול מגיע לניות שברמה, וגם עליו שורה רוח אלוהים. הוא הולך ומתנבא עד שהוא מגיע לשם.",
+    "שאול פושט את בגדיו ומתנבא לפני שמואל, ונופל ערום במשך כל היום וכל הלילה. בזמן זה דוד יכול להימלט, ונוצר הפתגם: האם גם שאול בנביאים."
+  ],
+  "ai_explanation_en": [
+    "Saul orders Jonathan and his servants to kill David. Jonathan, however, greatly desires David’s survival, success, and closeness.",
+    "Jonathan tells David that Saul is seeking to kill him and warns him to hide in the morning. He plans to stand beside his father in the field and speak with him about David.",
+    "Jonathan says that he will speak openly to Saul about David, see how his father responds, and report the result to David.",
+    "Jonathan praises David and asks Saul not to sin by killing his servant, since David has not wronged him and all his actions have benefited Saul.",
+    "Jonathan reminds Saul that David risked his life, struck down Goliath, and brought a great salvation to Israel through God. Saul himself saw it and rejoiced, so there is no justification for killing innocent David.",
+    "Saul accepts Jonathan’s words and swears by the Lord that David will not be killed.",
+    "Jonathan tells David everything and brings him to Saul. David again stands before Saul as he had previously.",
+    "The war with the Philistines continues, and David goes out to fight them and defeats them decisively. In this way he continues to succeed as a military man.",
+    "The evil spirit from the Lord comes upon Saul while he sits at home with a spear in his hand, whereas David plays music to calm him.",
+    "Saul tries to pin David to the wall with the spear. David escapes, the spear strikes only the wall, and David flees that night.",
+    "Saul sends messengers to David’s house to guard him and kill him in the morning, since he knows David is hiding there. Michal warns David that if he does not escape that night, he will be killed the next day.",
+    "Michal lowers David through the window, apparently on a side where there were no guards, and he escapes.",
+    "Michal places the household idols, which have human form, in the bed and puts a goat-hair covering near their heads, perhaps a braid or goat skin and hair. She covers them with a garment so that it appears that a person is lying in the bed.",
+    "Saul’s messengers come to take David, and Michal tells them that he is ill and lying in bed.",
+    "Saul orders the messengers to see David and bring him to Saul in the bed so that he can kill him.",
+    "The messengers arrive and discover the household idols on the bed, with the goat-hair covering near their heads, and not David.",
+    "Saul accuses Michal of deceiving him and sending his enemy away. Michal answers as though David had threatened her and told her to let him go lest he kill her.",
+    "David flees to Samuel at Ramah and tells him everything Saul has done to him. David and Samuel go to Naioth in Ramah, a quiet place where they could rest, study, and withdraw.",
+    "Saul is told that David is at Naioth in Ramah.",
+    "Saul sends messengers to take David, but they see the prophetic group prophesying while Samuel stands and supervises them. The spirit of God comes upon the messengers as well, and they prophesy.",
+    "Saul sends more messengers, and they too prophesy. He sends a third group, and its members also become absorbed in the prophetic experience.",
+    "Saul goes to Ramah himself and reaches the great well in the place called Secu. He asks where Samuel and David are and is told that they are at Naioth in Ramah.",
+    "Saul arrives at Naioth in Ramah, and the spirit of God also comes upon him. He proceeds while prophesying until he arrives there.",
+    "Saul removes his clothes and prophesies before Samuel, falling naked throughout that entire day and night. During this time David can escape, and the saying arises: “Is Saul also among the prophets?”"
+  ],
+  "perush": [
+    "שאול מצווה את יהונתן ואת עבדיו להרוג את דוד. יהונתן, לעומת זאת, רוצה מאוד בדוד, בהצלחתו, בקיומו ובקרבתו.",
+    "יהונתן מודיע לדוד ששאול מבקש להמיתו, ומזהיר אותו להסתתר בבוקר. הוא מתכנן לעמוד לצד אביו בשדה ולדבר איתו על דוד.",
+    "יהונתן אומר שידבר על דוד בגלוי לפני שאול, יבחן את תגובת אביו, ויודיע לדוד מה אירע.",
+    "יהונתן מדבר בשבחו של דוד ומבקש משאול שלא יחטא בהמתת עבדו, מפני שדוד לא חטא לו וכל מעשיו היו לטובת שאול.",
+    "יהונתן מזכיר שדוד סיכן את עצמו, הכה את גלית, והביא ישועה גדולה לישראל בעזרת ה'. שאול עצמו ראה ושמח, ולכן אין הצדקה להרוג את דוד החף מפשע.",
+    "שאול מקבל את דברי יהונתן ונשבע בשם ה' שדוד לא יומת.",
+    "יהונתן מספר לדוד את כל הדברים ומביא אותו אל שאול. דוד חוזר לעמוד לפני שאול כבעבר.",
+    "המלחמה עם הפלשתים נמשכת, ודוד יוצא להילחם בהם ומכה בהם מכה גדולה. בכך הוא ממשיך להצליח כאיש צבא.",
+    "רוח ה' הרעה שורה על שאול כשהוא יושב בביתו והחנית בידו, בעוד דוד מנגן בידו כדי להרגיע אותו.",
+    "שאול מבקש לנעוץ את החנית בדוד ובקיר. דוד מתחמק, החנית ננעצת בקיר בלבד, ודוד בורח ונמלט באותו לילה.",
+    "שאול שולח שליחים לבית דוד כדי לשמור עליו ולהמיתו בבוקר, מפני שידע שדוד מסתתר שם. מיכל מזהירה את דוד שאם לא ימלט בלילה, יומת למחרת.",
+    "מיכל מורידה את דוד דרך החלון, כנראה מצד שבו לא היו שומרים, והוא בורח ונמלט.",
+    "מיכל מניחה במיטה את התרפים, שלהן דמות אדם, ושמה ליד ראשם כביר עזים, אולי מקלעת או עור ושיער. היא מכסה אותם בבגד כדי שייראה כאילו אדם שוכב במיטה.",
+    "שליחי שאול באים לקחת את דוד, ומיכל אומרת להם שהוא חולה ושוכב במיטה.",
+    "שאול מצווה על השליחים לראות את דוד ולהעלות אותו אליו במיטה, כדי להמיתו.",
+    "השליחים באים ומגלים שעל המיטה נמצאים התרפים, וליד ראשם כביר העזים, ולא דוד.",
+    "שאול מאשים את מיכל שרימתה אותו וששלחה את אויבו להימלט. מיכל משיבה כאילו דוד איים עליה ואמר לה לשלחו כדי שלא יהרוג אותה.",
+    "דוד בורח אל שמואל הרמתה ומספר לו את כל מה ששאול עשה לו. דוד ושמואל הולכים לניות שברמה, מקום שקט שבו יכלו לנוח, ללמוד ולהתבודד.",
+    "נודע לשאול שדוד נמצא בניות שברמה.",
+    "שאול שולח שליחים לקחת את דוד, אך הם רואים את חבורת הנביאים מתנבאת ושמואל עומד ומשגיח עליהם. רוח אלוהים שורה גם על השליחים, והם מתנבאים.",
+    "שאול שולח שליחים נוספים, וגם הם מתנבאים. הוא שולח קבוצה שלישית, וגם אנשיה נתפסים בחוויה הנבואית.",
+    "שאול הולך בעצמו לרמה ומגיע עד הבור הגדול שבמקום הנקרא שכו. הוא שואל היכן שמואל ודוד, ונענה שהם בניות שברמה.",
+    "שאול מגיע לניות שברמה, וגם עליו שורה רוח אלוהים. הוא הולך ומתנבא עד שהוא מגיע לשם.",
+    "שאול פושט את בגדיו ומתנבא לפני שמואל, ונופל ערום במשך כל היום וכל הלילה. בזמן זה דוד יכול להימלט, ונוצר הפתגם: האם גם שאול בנביאים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "יהונתן מגן על דוד",
+      "title_en": "Jonathan Defends David",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "שאול מצווה להרוג את דוד, אך יהונתן אוהב אותו ומזהיר אותו מפני הסכנה. הוא מתכנן לדבר עם אביו ולבדוק את תגובתו.",
+      "summary_en": "Saul orders David’s death, but Jonathan deeply values David and warns him of the danger. He plans to speak with his father and learn how he responds.",
+      "image_prompt": "Jonathan warning David discreetly in a field near a royal residence, tense biblical atmosphere, simple ancient clothing, no text"
+    },
+    {
+      "title": "טענות יהונתן ושובו של דוד",
+      "title_en": "Jonathan’s Argument and David’s Return",
+      "start_verse": 4,
+      "end_verse": 7,
+      "summary": "יהונתן מזכיר לשאול את נאמנותו של דוד ואת הישועה שהביא לישראל, ושאול נשבע שלא יהרוג אותו. בעקבות זאת דוד חוזר לעמוד לפני שאול.",
+      "summary_en": "Jonathan reminds Saul of David’s loyalty and of the salvation he brought to Israel. Saul swears not to kill David, and David returns to stand before him.",
+      "image_prompt": "Jonathan speaking earnestly to Saul inside a simple royal hall, David later standing before Saul, biblical scene, no text"
+    },
+    {
+      "title": "חידוש המלחמה וניסיון ההתנקשות",
+      "title_en": "Renewed War and the Attempt on David’s Life",
+      "start_verse": 8,
+      "end_verse": 10,
+      "summary": "דוד ממשיך להצליח במלחמה נגד הפלשתים. לאחר מכן רוח רעה שורה על שאול, והוא מנסה לפגוע בדוד בחנית, אך דוד נמלט.",
+      "summary_en": "David continues to succeed in battle against the Philistines. Later, an evil spirit comes upon Saul, who tries to strike David with a spear, but David escapes.",
+      "image_prompt": "David playing a lyre while Saul raises a spear in anger inside a biblical house, David moving toward escape, no text"
+    },
+    {
+      "title": "מיכל מסייעת לדוד להימלט",
+      "title_en": "Michal Helps David Escape",
+      "start_verse": 11,
+      "end_verse": 17,
+      "summary": "שאול שולח שליחים לבית דוד, אך מיכל מזהירה אותו ומורידה אותו דרך החלון. היא יוצרת מראית עין של אדם חולה במיטה ומטעה את השליחים ואת שאול.",
+      "summary_en": "Saul sends messengers to David’s house, but Michal warns David and lowers him through the window. She creates the appearance of a sick person in bed and deceives the messengers and Saul.",
+      "image_prompt": "Michal lowering David through a window at night while a disguised figure lies in a bed inside, biblical setting, no text"
+    },
+    {
+      "title": "דוד מגיע אל שמואל בניות",
+      "title_en": "David Reaches Samuel at Naioth",
+      "start_verse": 18,
+      "end_verse": 20,
+      "summary": "דוד מספר לשמואל על רדיפת שאול, והשניים יושבים בניות שברמה. שליחי שאול מגיעים לשם, אך רוח אלוהים שורה עליהם והם מתנבאים.",
+      "summary_en": "David tells Samuel about Saul’s persecution, and they stay at Naioth in Ramah. Saul’s messengers arrive, but the spirit of God comes upon them and they prophesy.",
+      "image_prompt": "David speaking with Samuel among a group of prophesying figures at Naioth in Ramah, quiet biblical setting, no text"
+    },
+    {
+      "title": "גם שאול מתנבא",
+      "title_en": "Saul Also Prophesies",
+      "start_verse": 21,
+      "end_verse": 24,
+      "summary": "גם קבוצות נוספות של שליחים מתנבאות, ושאול יוצא בעצמו לרמה. רוח אלוהים שורה עליו, הוא מתנבא לפני שמואל, ופושט את בגדיו במשך היום והלילה, וכך דוד מקבל זמן להימלט.",
+      "summary_en": "Additional groups of messengers also prophesy, and Saul goes to Ramah himself. The spirit of God comes upon him, he prophesies before Samuel, and removes his clothes throughout the day and night, giving David time to escape.",
+      "image_prompt": "Saul prophesying before Samuel at Naioth while others watch, garments set aside, solemn biblical scene, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 8.98,
+      "usfm": "1SA.19.1"
+    },
+    {
+      "start": 8.98,
+      "end": 23.28,
+      "usfm": "1SA.19.2"
+    },
+    {
+      "start": 23.28,
+      "end": 32.78,
+      "usfm": "1SA.19.3"
+    },
+    {
+      "start": 32.78,
+      "end": 45.72,
+      "usfm": "1SA.19.4"
+    },
+    {
+      "start": 45.72,
+      "end": 60.1,
+      "usfm": "1SA.19.5"
+    },
+    {
+      "start": 60.1,
+      "end": 68.5,
+      "usfm": "1SA.19.6"
+    },
+    {
+      "start": 68.5,
+      "end": 79.1,
+      "usfm": "1SA.19.7"
+    },
+    {
+      "start": 79.1,
+      "end": 87.06,
+      "usfm": "1SA.19.8"
+    },
+    {
+      "start": 87.06,
+      "end": 95.42,
+      "usfm": "1SA.19.9"
+    },
+    {
+      "start": 95.42,
+      "end": 107.88,
+      "usfm": "1SA.19.10"
+    },
+    {
+      "start": 107.88,
+      "end": 120.46,
+      "usfm": "1SA.19.11"
+    },
+    {
+      "start": 120.46,
+      "end": 125.68,
+      "usfm": "1SA.19.12"
+    },
+    {
+      "start": 125.68,
+      "end": 133.4,
+      "usfm": "1SA.19.13"
+    },
+    {
+      "start": 133.4,
+      "end": 138.06,
+      "usfm": "1SA.19.14"
+    },
+    {
+      "start": 138.06,
+      "end": 144.94,
+      "usfm": "1SA.19.15"
+    },
+    {
+      "start": 144.94,
+      "end": 152.26,
+      "usfm": "1SA.19.16"
+    },
+    {
+      "start": 152.26,
+      "end": 164.44,
+      "usfm": "1SA.19.17"
+    },
+    {
+      "start": 164.44,
+      "end": 175.2,
+      "usfm": "1SA.19.18"
+    },
+    {
+      "start": 175.2,
+      "end": 180.8,
+      "usfm": "1SA.19.19"
+    },
+    {
+      "start": 180.8,
+      "end": 193.88,
+      "usfm": "1SA.19.20"
+    },
+    {
+      "start": 193.88,
+      "end": 204.46,
+      "usfm": "1SA.19.21"
+    },
+    {
+      "start": 204.46,
+      "end": 218.66,
+      "usfm": "1SA.19.22"
+    },
+    {
+      "start": 218.66,
+      "end": 228.58,
+      "usfm": "1SA.19.23"
+    },
+    {
+      "start": 228.58,
+      "end": 250.72,
+      "usfm": "1SA.19.24"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    8.98,
+    23.28,
+    32.78,
+    45.72,
+    60.1,
+    68.5,
+    79.1,
+    87.06,
+    95.42,
+    107.88,
+    120.46,
+    125.68,
+    133.4,
+    138.06,
+    144.94,
+    152.26,
+    164.44,
+    175.2,
+    180.8,
+    193.88,
+    204.46,
+    218.66,
+    228.58,
+    250.72
+  ],
+  "times_en_usfm": [
+    "1SA.19.1",
+    "1SA.19.2",
+    "1SA.19.3",
+    "1SA.19.4",
+    "1SA.19.5",
+    "1SA.19.6",
+    "1SA.19.7",
+    "1SA.19.8",
+    "1SA.19.9",
+    "1SA.19.10",
+    "1SA.19.11",
+    "1SA.19.12",
+    "1SA.19.13",
+    "1SA.19.14",
+    "1SA.19.15",
+    "1SA.19.16",
+    "1SA.19.17",
+    "1SA.19.18",
+    "1SA.19.19",
+    "1SA.19.20",
+    "1SA.19.21",
+    "1SA.19.22",
+    "1SA.19.23",
+    "1SA.19.24"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? שאול לא הסתפק בתכנון אישי לפגוע בדוד: הוא ציווה גם על יהונתן בנו וגם על עבדיו להמיתו. למרות זאת, יהונתן המשיך לחפוץ בדוד מאוד.",
+      "text_he": "הידעת? שאול לא הסתפק בתכנון אישי לפגוע בדוד: הוא ציווה גם על יהונתן בנו וגם על עבדיו להמיתו. למרות זאת, יהונתן המשיך לחפוץ בדוד מאוד.",
+      "text_en": "Did you know? Saul did not settle for making personal plans to harm David; he also ordered his son Jonathan and his servants to kill him. Despite this, Jonathan continued to love David deeply."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? יהונתן תכנן להסתיר את דוד בשדה, לדבר עם שאול אביו, ואז למסור לדוד את תוצאות השיחה. כך הוא שילב הגנה מעשית עם ניסיון לפייס בין דוד לשאול.",
+      "text_he": "הידעת? יהונתן תכנן להסתיר את דוד בשדה, לדבר עם שאול אביו, ואז למסור לדוד את תוצאות השיחה. כך הוא שילב הגנה מעשית עם ניסיון לפייס בין דוד לשאול.",
+      "text_en": "Did you know? Jonathan planned to hide David in the field, speak with his father Saul, and then tell David the outcome of their conversation. In this way, he combined practical protection with an attempt to reconcile David and Saul."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? יהונתן מזכיר לשאול שדוד סיכן את נפשו במלחמה בפלשתים, ושבאמצעותו עשה ה׳ תשועה גדולה לישראל. לכן הוא טוען שאין הצדקה להרוג את דוד חינם ולשפוך דם נקי.",
+      "text_he": "הידעת? יהונתן מזכיר לשאול שדוד סיכן את נפשו במלחמה בפלשתים, ושבאמצעותו עשה ה׳ תשועה גדולה לישראל. לכן הוא טוען שאין הצדקה להרוג את דוד חינם ולשפוך דם נקי.",
+      "text_en": "Did you know? Jonathan reminded Saul that David had risked his life in battle against the Philistines and that the LORD had brought about a great victory for Israel through him. Therefore, he argued that there was no justification for killing David without cause and shedding innocent blood."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? שאול נשבע: „חַי־יְהוָה אִם־יוּמָת”. אולם בהמשך אותו פרק הוא מנסה שוב לפגוע בדוד, ולכן השבועה אינה מביאה להפסקה קבועה של הרדיפה.",
+      "text_he": "הידעת? שאול נשבע: „חַי־יְהוָה אִם־יוּמָת”. אולם בהמשך אותו פרק הוא מנסה שוב לפגוע בדוד, ולכן השבועה אינה מביאה להפסקה קבועה של הרדיפה.",
+      "text_en": "Did you know? Saul swore, “As surely as the LORD lives, David will not be put to death.” However, later in the same chapter he again tries to harm David, so the oath does not bring a permanent end to the pursuit."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? לאחר שדוד שב לעמוד לפני שאול, המלחמה בפלשתים התחדשה ודוד הכה בהם מכה גדולה. הצלחתו הצבאית שוב מעוררת את הסכנה מצד שאול.",
+      "text_he": "הידעת? לאחר שדוד שב לעמוד לפני שאול, המלחמה בפלשתים התחדשה ודוד הכה בהם מכה גדולה. הצלחתו הצבאית שוב מעוררת את הסכנה מצד שאול.",
+      "text_en": "Did you know? After David returned to serve Saul, war with the Philistines broke out again, and David struck them with a great blow. His military success once again aroused danger from Saul."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? שאול ניסה להצמיד את דוד אל הקיר בחנית, אך דוד הצליח להימלט. זהו ניסיון ההתנקשות הישיר המתואר בפרק, והוא התרחש בזמן שדוד ניגן לפני שאול.",
+      "text_he": "הידעת? שאול ניסה להצמיד את דוד אל הקיר בחנית, אך דוד הצליח להימלט. זהו ניסיון ההתנקשות הישיר המתואר בפרק, והוא התרחש בזמן שדוד ניגן לפני שאול.",
+      "text_en": "Did you know? Saul tried to pin David to the wall with a spear, but David managed to escape. This is the direct assassination attempt described in the chapter, and it occurred while David was playing music before Saul."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? מיכל סייעה לדוד לברוח דרך החלון כאשר שליחי שאול המתינו בבית. מעשה זה אפשר לדוד להימלט בלילה ולהינצל מן הסכנה המיידית.",
+      "text_he": "הידעת? מיכל סייעה לדוד לברוח דרך החלון כאשר שליחי שאול המתינו בבית. מעשה זה אפשר לדוד להימלט בלילה ולהינצל מן הסכנה המיידית.",
+      "text_en": "Did you know? Michal helped David escape through the window while Saul’s messengers were waiting at the house. This allowed David to flee during the night and escape the immediate danger."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? כדי לעכב את הרודפים, מיכל הניחה במיטה תרפים, כיסתה אותם בבגד ושמה למראשותיהם כביר עיזים. כך נוצרה מראית עין של אדם השוכב במיטה.",
+      "text_he": "הידעת? כדי לעכב את הרודפים, מיכל הניחה במיטה תרפים, כיסתה אותם בבגד ושמה למראשותיהם כביר עיזים. כך נוצרה מראית עין של אדם השוכב במיטה.",
+      "text_en": "Did you know? To delay the pursuers, Michal placed household idols in the bed, covered them with a garment, and put a goats’-hair cushion at the head of the bed. This created the appearance that someone was lying there."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? לאחר בריחתו דוד פנה אל שמואל ברמה וסיפר לו את כל אשר עשה לו שאול. השניים ישבו יחד בניות, מקום הקשור בפרק לחבורת הנביאים.",
+      "text_he": "הידעת? לאחר בריחתו דוד פנה אל שמואל ברמה וסיפר לו את כל אשר עשה לו שאול. השניים ישבו יחד בניות, מקום הקשור בפרק לחבורת הנביאים.",
+      "text_en": "Did you know? After fleeing, David went to Samuel at Ramah and told him everything Saul had done to him. The two of them stayed together at Naioth, a place associated in this chapter with a group of prophets."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? שליחי שאול, ואף שאול עצמו, הגיעו לניות ונחה עליהם רוח אלוהים, ולכן התנבאו במקום לבצע את שליחותם. בסיום הפרק מתואר גם שאול המתנבא לפני שמואל, ומכאן הביטוי: „הֲגַם שָׁאוּל בַּנְּבִיאִם”.",
+      "text_he": "הידעת? שליחי שאול, ואף שאול עצמו, הגיעו לניות ונחה עליהם רוח אלוהים, ולכן התנבאו במקום לבצע את שליחותם. בסיום הפרק מתואר גם שאול המתנבא לפני שמואל, ומכאן הביטוי: „הֲגַם שָׁאוּל בַּנְּבִיאִם”.",
+      "text_en": "Did you know? Saul’s messengers, and Saul himself, went to Naioth, but the Spirit of God came upon them, and they prophesied instead of carrying out their mission. At the end of the chapter, Saul is also described as prophesying before Samuel, giving rise to the saying, “Is Saul also among the prophets?”"
+    }
+  ]
+}
