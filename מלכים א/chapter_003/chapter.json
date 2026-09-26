@@ -1,0 +1,520 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 3,
+  "title": "מלכים א פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a03.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a03.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/3-1cd879b44926d9da17c202361ba7f76b.mp3?version_id=1",
+  "verses": [
+    "וַיִּתְחַתֵּן שְׁלֹמֹה, אֶת-פַּרְעֹה מֶלֶךְ מִצְרָיִם; וַיִּקַּח אֶת-בַּת-פַּרְעֹה, וַיְבִיאֶהָ אֶל-עִיר דָּוִד, עַד כַּלֹּתוֹ לִבְנוֹת אֶת-בֵּיתוֹ וְאֶת-בֵּית יְהוָה, וְאֶת-חוֹמַת יְרוּשָׁלִַם סָבִיב.",
+    "רַק הָעָם, מְזַבְּחִים בַּבָּמוֹת: כִּי לֹא-נִבְנָה בַיִת לְשֵׁם יְהוָה, עַד הַיָּמִים הָהֵם.",
+    "וַיֶּאֱהַב שְׁלֹמֹה, אֶת-יְהוָה, לָלֶכֶת, בְּחֻקּוֹת דָּוִד אָבִיו: רַק, בַּבָּמוֹת--הוּא מְזַבֵּחַ, וּמַקְטִיר.",
+    "וַיֵּלֶךְ הַמֶּלֶךְ גִּבְעֹנָה לִזְבֹּחַ שָׁם, כִּי-הִיא הַבָּמָה הַגְּדוֹלָה; אֶלֶף עֹלוֹת יַעֲלֶה שְׁלֹמֹה, עַל הַמִּזְבֵּחַ הַהוּא.",
+    "בְּגִבְעוֹן, נִרְאָה יְהוָה אֶל-שְׁלֹמֹה--בַּחֲלוֹם הַלָּיְלָה; וַיֹּאמֶר אֱלֹהִים, שְׁאַל מָה אֶתֶּן-לָךְ.",
+    "וַיֹּאמֶר שְׁלֹמֹה, אַתָּה עָשִׂיתָ עִם-עַבְדְּךָ דָוִד אָבִי חֶסֶד גָּדוֹל, כַּאֲשֶׁר הָלַךְ לְפָנֶיךָ בֶּאֱמֶת וּבִצְדָקָה וּבְיִשְׁרַת לֵבָב, עִמָּךְ; וַתִּשְׁמָר-לוֹ, אֶת-הַחֶסֶד הַגָּדוֹל הַזֶּה, וַתִּתֶּן-לוֹ בֵן יֹשֵׁב עַל-כִּסְאוֹ, כַּיּוֹם הַזֶּה.",
+    "וְעַתָּה, יְהוָה אֱלֹהָי, אַתָּה הִמְלַכְתָּ אֶת-עַבְדְּךָ, תַּחַת דָּוִד אָבִי; וְאָנֹכִי נַעַר קָטֹן, לֹא אֵדַע צֵאת וָבֹא.",
+    "וְעַבְדְּךָ--בְּתוֹךְ עַמְּךָ, אֲשֶׁר בָּחָרְתָּ: עַם-רָב, אֲשֶׁר לֹא-יִמָּנֶה וְלֹא יִסָּפֵר מֵרֹב.",
+    "וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ, לִשְׁפֹּט אֶת-עַמְּךָ, לְהָבִין, בֵּין-טוֹב לְרָע: כִּי מִי יוּכַל לִשְׁפֹּט, אֶת-עַמְּךָ הַכָּבֵד הַזֶּה.",
+    "וַיִּיטַב הַדָּבָר, בְּעֵינֵי אֲדֹנָי: כִּי שָׁאַל שְׁלֹמֹה, אֶת-הַדָּבָר הַזֶּה.",
+    "וַיֹּאמֶר אֱלֹהִים אֵלָיו, יַעַן אֲשֶׁר שָׁאַלְתָּ אֶת-הַדָּבָר הַזֶּה וְלֹא-שָׁאַלְתָּ לְּךָ יָמִים רַבִּים וְלֹא-שָׁאַלְתָּ לְּךָ עֹשֶׁר, וְלֹא שָׁאַלְתָּ, נֶפֶשׁ אֹיְבֶיךָ; וְשָׁאַלְתָּ לְּךָ הָבִין, לִשְׁמֹעַ מִשְׁפָּט.",
+    "הִנֵּה עָשִׂיתִי, כִּדְבָרֶיךָ; הִנֵּה נָתַתִּי לְךָ, לֵב חָכָם וְנָבוֹן, אֲשֶׁר כָּמוֹךָ לֹא-הָיָה לְפָנֶיךָ, וְאַחֲרֶיךָ לֹא-יָקוּם כָּמוֹךָ.",
+    "וְגַם אֲשֶׁר לֹא-שָׁאַלְתָּ נָתַתִּי לָךְ, גַּם-עֹשֶׁר גַּם-כָּבוֹד: אֲשֶׁר לֹא-הָיָה כָמוֹךָ אִישׁ בַּמְּלָכִים, כָּל-יָמֶיךָ.",
+    "וְאִם תֵּלֵךְ בִּדְרָכַי, לִשְׁמֹר חֻקַּי וּמִצְוֺתַי, כַּאֲשֶׁר הָלַךְ, דָּוִיד אָבִיךָ--וְהַאֲרַכְתִּי, אֶת-יָמֶיךָ.",
+    "וַיִּקַץ שְׁלֹמֹה, וְהִנֵּה חֲלוֹם; וַיָּבוֹא יְרוּשָׁלִַם וַיַּעֲמֹד לִפְנֵי אֲרוֹן בְּרִית-אֲדֹנָי, וַיַּעַל עֹלוֹת וַיַּעַשׂ שְׁלָמִים, וַיַּעַשׂ מִשְׁתֶּה, לְכָל-עֲבָדָיו.",
+    "אָז תָּבֹאנָה, שְׁתַּיִם נָשִׁים זֹנוֹת--אֶל-הַמֶּלֶךְ; וַתַּעֲמֹדְנָה, לְפָנָיו.",
+    "וַתֹּאמֶר הָאִשָּׁה הָאַחַת, בִּי אֲדֹנִי, אֲנִי וְהָאִשָּׁה הַזֹּאת, יֹשְׁבֹת בְּבַיִת אֶחָד; וָאֵלֵד עִמָּהּ, בַּבָּיִת.",
+    "וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי, לְלִדְתִּי, וַתֵּלֶד, גַּם-הָאִשָּׁה הַזֹּאת; וַאֲנַחְנוּ יַחְדָּו, אֵין-זָר אִתָּנוּ בַּבַּיִת, זוּלָתִי שְׁתַּיִם-אֲנַחְנוּ, בַּבָּיִת.",
+    "וַיָּמָת בֶּן-הָאִשָּׁה הַזֹּאת, לָיְלָה, אֲשֶׁר שָׁכְבָה, עָלָיו.",
+    "וַתָּקָם בְּתוֹךְ הַלַּיְלָה וַתִּקַּח אֶת-בְּנִי מֵאֶצְלִי, וַאֲמָתְךָ יְשֵׁנָה, וַתַּשְׁכִּיבֵהוּ, בְּחֵיקָהּ; וְאֶת-בְּנָהּ הַמֵּת, הִשְׁכִּיבָה בְחֵיקִי.",
+    "וָאָקֻם בַּבֹּקֶר לְהֵינִיק אֶת-בְּנִי, וְהִנֵּה-מֵת; וָאֶתְבּוֹנֵן אֵלָיו בַּבֹּקֶר, וְהִנֵּה לֹא-הָיָה בְנִי אֲשֶׁר יָלָדְתִּי.",
+    "וַתֹּאמֶר הָאִשָּׁה הָאַחֶרֶת לֹא כִי, בְּנִי הַחַי וּבְנֵךְ הַמֵּת, וְזֹאת אֹמֶרֶת לֹא כִי, בְּנֵךְ הַמֵּת וּבְנִי הֶחָי; וַתְּדַבֵּרְנָה, לִפְנֵי הַמֶּלֶךְ.",
+    "וַיֹּאמֶר הַמֶּלֶךְ--זֹאת אֹמֶרֶת, זֶה-בְּנִי הַחַי וּבְנֵךְ הַמֵּת; וְזֹאת אֹמֶרֶת לֹא כִי, בְּנֵךְ הַמֵּת וּבְנִי הֶחָי.",
+    "וַיֹּאמֶר הַמֶּלֶךְ, קְחוּ לִי-חָרֶב; וַיָּבִאוּ הַחֶרֶב, לִפְנֵי הַמֶּלֶךְ.",
+    "וַיֹּאמֶר הַמֶּלֶךְ, גִּזְרוּ אֶת-הַיֶּלֶד הַחַי לִשְׁנָיִם; וּתְנוּ אֶת-הַחֲצִי לְאַחַת, וְאֶת-הַחֲצִי לְאֶחָת.",
+    "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר-בְּנָהּ הַחַי אֶל-הַמֶּלֶךְ, כִּי-נִכְמְרוּ רַחֲמֶיהָ עַל-בְּנָהּ, וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ-לָהּ אֶת-הַיָּלוּד הַחַי, וְהָמֵת אַל-תְּמִיתֻהוּ; וְזֹאת אֹמֶרֶת, גַּם-לִי גַם-לָךְ לֹא יִהְיֶה--גְּזֹרוּ.",
+    "וַיַּעַן הַמֶּלֶךְ וַיֹּאמֶר, תְּנוּ-לָהּ אֶת-הַיָּלוּד הַחַי, וְהָמֵת, לֹא תְמִיתֻהוּ: הִיא, אִמּוֹ.",
+    "וַיִּשְׁמְעוּ כָל-יִשְׂרָאֵל, אֶת-הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ, וַיִּרְאוּ, מִפְּנֵי הַמֶּלֶךְ: כִּי רָאוּ, כִּי-חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט."
+  ],
+  "english": [
+    "And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the Lord, and the wall of Jerusalem round about.",
+    "Only the people sacrificed in high places, because there was no house built unto the name of the Lord, until those days.",
+    "And Solomon loved the Lord, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.",
+    "And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer upon that altar.",
+    "In Gibeon the Lord appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.",
+    "And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day.",
+    "And now, O Lord my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in.",
+    "And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.",
+    "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?",
+    "And the speech pleased the Lord, that Solomon had asked this thing.",
+    "And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;",
+    "Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee.",
+    "And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.",
+    "And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days.",
+    "And Solomon awoke; and, behold, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the Lord, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.",
+    "Then came there two women, that were harlots, unto the king, and stood before him.",
+    "And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house.",
+    "And it came to pass the third day after that I was delivered, that this woman was delivered also: and we were together; there was no stranger with us in the house, save we two in the house.",
+    "And this woman's child died in the night; because she overlaid it.",
+    "And she arose at midnight, and took my son from beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.",
+    "And when I rose in the morning to give my child suck, behold, it was dead: but when I had considered it in the morning, behold, it was not my son, which I did bear.",
+    "And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spake before the king.",
+    "Then said the king, The one saith, This is my son that liveth, and thy son is the dead: and the other saith, Nay; but thy son is the dead, and my son is the living.",
+    "And the king said, Bring me a sword. And they brought a sword before the king.",
+    "And the king said, Divide the living child in two, and give half to the one, and half to the other.",
+    "Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it.",
+    "Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof.",
+    "And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment."
+  ],
+  "steinsaltz": [
+    "וַיִתְחַתֵּן, יצר קשר נישואין שְׁלֹמֹה אֶת, עם פַּרְעֹה מֶלֶךְ מִצְרָיִם, וַיִּקַּח אֶת בַּת פַּרְעֹה לאשה. מצרים הייתה ממלכה אדירה באותם זמנים. נישואי שלמה עם בת פרעה ביטאו הכרה בחשיבותו של שלמה והוכחה לגדולתו. בהמשך יסייע פרעה לשלמה המלך גם בענייני צבא. וַיְבִיאֶהָ בינתיים אֶל עִיר דָּוִד, עַד כַּלֹּתוֹ, שיסיים לִבְנוֹת אֶת בֵּיתוֹ וְאֶת בֵּית ה' וְאֶת חוֹמַת יְרוּשָׁלִַם סָבִיב. אחר כך ישכן אותה בארמונו.",
+    "רַק הָעָם מְזַבְּחִים לה' בַּבָּמוֹת באותו זמן, כִּי לֹא נִבְנָה בַיִת לְשֵׁם ה' עַד הַיָּמִים הָהֵם, ובזמן שאין המקדש בנוי, מותר לזבוח גם בבמות פרטיות.",
+    "וַיֶּאֱהַב שְׁלֹמֹה אֶת ה' לָלֶכֶת בְּחֻקּוֹת דָּוִד אָבִיו בכל התחומים, רַק בַּבָּמוֹת הוּא מְזַבֵּחַ וּמַקְטִיר כדין. יש כאן הסתייגות מרומזת מכך ששלמה השתהה בבניין המקדש.",
+    "וַיֵּלֶךְ הַמֶּלֶךְ גִּבְעֹנָה לִזְבֹּחַ שָׁם, כִּי הִיא הַבָּמָה הַגְּדוֹלָה, המזבח המרכזי קודם שהוקם המקדש בירושלים. שלמה לא הגיע לשם ביקור או להבאת קרבן צנוע, אלא אֶלֶף עֹלוֹת יַעֲלֶה שְׁלֹמֹה עַל הַמִּזְבֵּחַ הַהוּא כדי לבטא את התקשרותו לה'.",
+    "בְּגִבְעוֹן נִרְאָה ה' אֶל שְׁלֹמֹה בַּחֲלוֹם הַלָּיְלָה, וַיֹּאמֶר אֱלֹהִים: שְׁאַל מָה אֶתֶּן לָךְ. איזו מתנה תרצה לקבל?",
+    "וַיֹּאמֶר שְׁלֹמֹה: אַתָּה עָשִׂיתָ עִם עַבְדְּךָ דָוִד אָבִי חֶסֶד גָּדוֹל, כַּאֲשֶׁר הָלַךְ לְפָנֶיךָ בֶּאֱמֶת וּבִצְדָקָה וּבְיִשְׁרַת לֵבָב עִמָּךְ, וַתִּשְׁמָר לוֹ אֶת הַחֶסֶד הַגָּדוֹל הַזֶּה, וַתִּתֶּן לוֹ בֵן יֹשֵׁב עַל כִּסְאוֹ כַּיּוֹם הַזֶּה, כפי שאנו רואים עכשיו. מה אבקש עוד, הרי זכיתי להיות מלך ישראל.",
+    "וְעַתָּה, ה' אֱלֹהָי, אַתָּה הִמְלַכְתָּ אֶת עַבְדְּךָ – אותי תַּחַת דָּוִד אָבִי, וְאָנֹכִי איני אלא נַעַר קָטֹן. מכיוון שאין לי ניסיון קודם בהנהגה, אני רואה עצמי כנער בתחום זה. לֹא אֵדַע לצֵאת ולבֹא לפני העם ולהנהיגו.",
+    "וְעַבְדְּךָ מעורה בְּתוֹךְ עַמְּךָ אֲשֶׁר בָּחָרְתָּ, שהוא עַם רָב אֲשֶׁר לֹא יִמָּנֶה וְלֹא יִסָּפֵר מֵרֹב. אשר על כן אני מבקש:",
+    "וְנָתַתָּ לְעַבְדְּךָ לֵב שֹׁמֵעַ, קשוב ומבין המסוגל לִשְׁפֹּט, לעשות דין, להדריך, לשלוט ולהנהיג אֶת עַמְּךָ לְהָבִין בֵּין טוֹב לְרָע, כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד, הרב והמורכב הַזֶּה?! כדי לשפוט עם גדול וסבוך כל כך ביושר ובצדק, נדרשות חכמה ותבונה עמוקות.",
+    "וַיִּיטַב הַדָּבָר בְּעֵינֵי ה' כִּי שָׁאַל, ביקש שְׁלֹמֹה אֶת הַדָּבָר הַזֶּה.",
+    "וַיֹּאמֶר אֱלֹהִים אֵלָיו: יַעַן אֲשֶׁר שָׁאַלְתָּ אֶת הַדָּבָר הַזֶּה, וְלֹא שָׁאַלְתָּ לְּךָ שתחיה יָמִים רַבִּים, וְלֹא שָׁאַלְתָּ לְּךָ עֹשֶׁר, וְלֹא שָׁאַלְתָּ נֶפֶשׁ אֹיְבֶיךָ, שיפלו אויביך בידיך בכל עת. ובמקום כל אלה שָׁאַלְתָּ לְּךָ שתוכל להָבִין לִשְׁמֹעַ מִשְׁפָּט –",
+    "הִנֵּה עָשִׂיתִי כִּדְבָרֶיךָ. הִנֵּה נָתַתִּי לְךָ לֵב חָכָם וְנָבוֹן אֲשֶׁר כָּמוֹךָ לֹא הָיָה לְפָנֶיךָ, וְאַחֲרֶיךָ לֹא יָקוּם כָּמוֹךָ.",
+    "וְגַם את הטובות אֲשֶׁר לֹא שָׁאַלְתָּ נָתַתִּי לָךְ, אוסיף לך – גַּם עֹשֶׁר גַּם כָּבוֹד, אֲשֶׁר לֹא הָיָה כָמוֹךָ אִישׁ בַּמְּלָכִים, כָּל יָמֶיךָ.",
+    "וְנוסף על כך, אִם תֵּלֵךְ בִּדְרָכַי לִשְׁמֹר חֻקַּי וּמִצְוֹתַי כַּאֲשֶׁר הָלַךְ דָּוִיד אָבִיךָ – וְהַאֲרַכְתִּי אֶת יָמֶיךָ. העושר והכבוד מובטחים לך בלא תנאי, ואילו אריכות ימיך מותנית בהתנהגותך.",
+    "וַיִּקַץ, התעורר שְׁלֹמֹה, וְהִנֵּה חֲלוֹם. וַיָּבוֹא בעקבות ההבטחות הגדולות אל יְרוּשָׁלִַם, וַיַּעֲמֹד לִפְנֵי אֲרוֹן בְּרִית ה', וַיַּעַל עֹלוֹת וַיַּעַשׂ שְׁלָמִים וַיַּעַשׂ מִשְׁתֶּה לְכָל עֲבָדָיו.",
+    "אָז, אחרי ההודיה והמשתה תָּבֹאנָה שְׁתַּיִם נָשִׁים זֹנוֹת אֶל הַמֶּלֶךְ למשפט. וַתַּעֲמֹדְנָה לְפָנָיו.",
+    "וַתֹּאמֶר הָאִשָּׁה הָאַחַת: בִּי, בבקשה אֲדֹנִי! אֲנִי וְהָאִשָּׁה הַזֹּאת, שבאה אִתי, יֹשְׁבֹת, מתגוררות בְּבַיִת אֶחָד, וָאֵלֵד ילד עִמָּהּ בַּבָּיִת.",
+    "וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי לְלִדְתִּי, וַתֵּלֶד גַּם הָאִשָּׁה הַזֹּאת בן, וַאֲנַחְנוּ יַחְדָּו, ואֵין זָר אִתָּנוּ בַּבַּיִת זוּלָתִי שְׁתַּיִם אֲנַחְנוּ בַּבָּיִת.",
+    "וַיָּמָת בֶּן הָאִשָּׁה הַזֹּאת בלָיְלָה, אֲשֶׁר, מפני ששָׁכְבָה עָלָיו, שכן ישן עמה, ובלי משים התהפכה עליו והוא נחנק.",
+    "כיוון שראתה שבנה מת – וַתָּקָם בְּתוֹךְ הַלַּיְלָה, וַתִּקַּח אֶת בְּנִי מֵאֶצְלִי – וַאֲמָתְךָ, בעוד אני יְשֵׁנָה – וַתַּשְׁכִּיבֵהוּ בְּחֵיקָהּ, וְאֶת בְּנָהּ הַמֵּת הִשְׁכִּיבָה בְחֵיקִי.",
+    "וָאָקֻם בַּבֹּקֶר לְהֵינִיק אֶת בְּנִי, וְהִנֵּה גיליתי שהוא מֵת. וָאֶתְבּוֹנֵן אֵלָיו מאוחר יותר בַּבֹּקֶר, וְהִנֵּה הבחנתי שלֹא הָיָה זה בְנִי אֲשֶׁר יָלָדְתִּי.",
+    "וַתֹּאמֶר הָאִשָּׁה הָאַחֶרֶת: לֹא כִי, כך, אלא בְּנִי הוא הַחַי, וּבְנֵךְ הוא הַמֵּת. וְזֹאת אֹמֶרֶת: לֹא כִי, בְּנֵךְ הַמֵּת, וּבְנִי הֶחָי. וַתְּדַבֵּרְנָה לִפְנֵי הַמֶּלֶךְ. כל אחת מהן השמיעה את טענותיה.",
+    "וַיֹּאמֶר הַמֶּלֶךְ: אני שומע שזֹאת אֹמֶרֶת: \"זֶה בְּנִי הַחַי, וּבְנֵךְ הוא הַמֵּת\"; וְזֹאת אֹמֶרֶת: לֹא כִי, \"בְּנֵךְ הַמֵּת וּבְנִי הֶחָי\".",
+    "וַיֹּאמֶר הַמֶּלֶךְ: קְחוּ, הביאו לִי חָרֶב. וַיָּבִאוּ הַחֶרֶב לִפְנֵי הַמֶּלֶךְ.",
+    "וַיֹּאמֶר הַמֶּלֶךְ: הבה נערוך פשרה – גִּזְרוּ אֶת הַיֶּלֶד הַחַי לִשְׁנָיִם, וּתְנוּ אֶת הַחֲצִי לְאַחַת, וְאֶת הַחֲצִי לְאֶחָת. מובאות בפנינו שתי טענות, ואין בידינו להוכיח לכאן או לכאן. על כן נחתוך את הילד, וכל אחת תקבל את חציו.",
+    "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר בְּנָהּ הַחַי, זו שאכן הייתה אם הילד החי, אֶל הַמֶּלֶךְ, כִּי נִכְמְרוּ, התחממו, התעוררו רַחֲמֶיהָ עַל בְּנָהּ, שהרי המלך ציווה להמיתו. וַתֹּאמֶר: בִּי אֲדֹנִי! תְּנוּ לָהּ אֶת הַיָּלוּד הַחַי, וְהָמֵת, ולהמית אַל תְּמִיתֻהוּ. וְזֹאת – האשה האחרת אֹמֶרֶת: גַּם לִי וגַם לָךְ לֹא יִהְיֶה ילד. גְּזֹרוּ. חתכו אותו.",
+    "וַיַּעַן הַמֶּלֶךְ וַיֹּאמֶר: תְּנוּ לָהּ – לזו שהגיבה מיד כאם כלפי בנה, אֶת הַיָּלוּד הַחַי, וְהָמֵת לֹא תְמִיתֻהוּ, הִיא אִמּוֹ. תגובותיהן מוכיחות שהאם החסה על הילד היא אמו האמתית, ואילו האחרת היא שגנבה ילד מחברתה.",
+    "וַיִּשְׁמְעוּ כָל יִשְׂרָאֵל אֶת הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ, וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ, כִּי רָאוּ כִּי חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט. פסק זה אינו מוכיח ידיעה של חוקים והלכות, אלא הוא משקף את תבונתו של השופט לחשוף פרטים שאי-אפשר לגלותם. שלמה המלך השתמש באמצעים פסיכולוגיים כדי להוציא לאור את האמת. עשיית משפט ממין זה מעידה על חכמת אלוקים שבקרבו. שְׁמְעוּ כָל יִשְׂרָאֵל אֶת הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ, וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ, כִּי רָאוּ כִּי חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט."
+  ],
+  "ai_explanation": [
+    "שלמה כורת קשר נישואין עם בת פרעה, מלך מצרים, ובכך מבטא את מעמדו החשוב ואת גדולתו. בינתיים הוא מביא אותה לעיר דוד, עד שיסיים לבנות את ביתו, את בית ה' ואת חומת ירושלים, ולאחר מכן ישכן אותה בארמונו.",
+    "באותו זמן העם מקריב לה' בבמות, מפני שעדיין לא נבנה בית לשם ה'. כל עוד המקדש אינו בנוי, מותר לזבוח גם בבמות פרטיות.",
+    "שלמה אהב את ה' והלך בדרכי דוד אביו. עם זאת, ההקרבה בבמות מוצגת כהסתייגות מרומזת מכך שבניין המקדש עדיין לא הושלם.",
+    "שלמה הלך לגבעון, שהייתה הבמה המרכזית קודם להקמת המקדש בירושלים, והקריב שם אלף עולות כדי לבטא את התקשרותו לה'.",
+    "בגבעון נראה ה' אל שלמה בחלום הלילה והציע לו לבקש כל מתנה שירצה לקבל.",
+    "שלמה מודה לה' על החסד שעשה עם דוד אביו, על נאמנותו וצדקתו, ועל כך שנתן לו בן היושב על כיסאו. הוא מציין שכבר זכה להיות מלך ישראל.",
+    "שלמה אומר שה' המליך אותו תחת דוד אביו, אך הוא רואה את עצמו כנער חסר ניסיון בהנהגה. הוא אינו יודע כיצד לצאת לפני העם ולבוא לפניו, כלומר כיצד להנהיגו.",
+    "שלמה מתאר את עצמו כמי שנמצא בתוך עם ה', עם רב שאי אפשר למנותו מרוב גודלו. בשל גודל האחריות הוא עומד לבקש דבר מה.",
+    "הוא מבקש לב שומע—לב קשוב, מבין ותבוני—כדי לשפוט, להנהיג ולכוון את העם ולהבחין בין טוב לרע. שלמה מדגיש שקשה לשפוט ביושר עם גדול ומורכב כל כך.",
+    "בקשתו של שלמה מצאה חן בעיני ה', משום שביקש את הדבר הזה.",
+    "ה' מסביר ששלמה לא ביקש חיים ארוכים, עושר או נפילת אויביו בידיו, אלא ביקש להבין כדי לשמוע משפט.",
+    "ה' מודיע לשלמה שנענה לבקשתו ונתן לו לב חכם ונבון, שאין כמותו בין המלכים שקדמו לו ושלא יהיה כמותו אחריו.",
+    "נוסף על החכמה, ה' נותן לשלמה גם עושר וגם כבוד, ברמה שלא הייתה כמותה אצל מלכים, במשך כל ימיו.",
+    "אם שלמה ילך בדרכי ה', ישמור את חוקיו ומצוותיו כפי שדוד אביו הלך בהם, יאריך ה' את ימיו. העושר והכבוד ניתנים ללא תנאי, ואילו אריכות הימים מותנית בהתנהגותו.",
+    "שלמה מתעורר ומבין שהיה זה חלום. הוא מגיע לירושלים, עומד לפני ארון ברית ה', מקריב עולות ושלמים ועורך משתה לכל עבדיו.",
+    "לאחר ההודיה והמשתה מגיעות אל המלך שתי נשים זונות כדי להביא לפניו את דינן.",
+    "האישה האחת מבקשת את תשומת לב המלך ומספרת שהיא והאישה האחרת מתגוררות בבית אחד, והיא ילדה שם יחד עמה.",
+    "ביום השלישי לאחר לידתה ילדה גם האישה האחרת. שתיהן היו לבדן בבית, בלי אדם זר, מלבד שתיהן.",
+    "בנה של האישה האחרת מת בלילה, מפני ששכבה עליו בשנתה והתהפכה עליו בלי משים, עד שנחנק.",
+    "האישה מספרת שהאחרת קמה בלילה, לקחה את בנה ממנה בזמן שישנה, והניחה אותו בחיקה; את בנה המת הניחה בחיקה שלה.",
+    "בבוקר קמה האישה כדי להיניק את בנה וגילתה שהוא מת. לאחר שהתבוננה בו, הבחינה שאין זה בנה שילדה.",
+    "האישה האחרת טוענת שבנה הוא החי ובנה של חברתה הוא המת, ואילו חברתה טוענת את ההפך. שתיהן מציגות את טענותיהן לפני המלך.",
+    "המלך חוזר על שתי הטענות: אחת אומרת שהילד החי שלה והמת של האחרת, והשנייה אומרת שהמת של האחרת והחי שלה.",
+    "שלמה מצווה להביא לו חרב, והחרב מובאת לפניו.",
+    "המלך מציע לחתוך את הילד החי לשניים ולתת חצי לכל אחת, כאילו מדובר בפשרה הנובעת מכך שאין הוכחה המכריעה בין טענותיהן.",
+    "רחמיה של האם האמיתית מתעוררים, והיא מבקשת למסור את הילד החי לאישה האחרת ובלבד שלא ימיתו אותו. האישה השנייה מסכימה לחיתוך הילד, ואומרת שלא יהיה הילד לא לה ולא ליריבתה.",
+    "שלמה מצווה לתת את הילד החי לאישה שביקשה להצילו, ולא להמיתו, וקובע שהיא אמו. תגובותיהן חשפו מי מהן האם האמיתית ומי גנבה את הילד.",
+    "כל ישראל שומעים על המשפט ששלמה שפט, יראים מפניו ומכירים בכך שחכמת אלוהים בקרבו לעשות משפט. פסק הדין מדגים את תבונתו ואת השימוש באמצעי פסיכולוגי לחשיפת האמת, ולא רק ידיעת חוקים והלכות."
+  ],
+  "ai_explanation_en": [
+    "Solomon forms a marriage alliance with Pharaoh, king of Egypt, thereby expressing his important status and greatness. In the meantime, he brings Pharaoh’s daughter to the City of David until he completes the construction of his palace, the Temple, and Jerusalem’s wall, after which he will settle her in his palace.",
+    "At that time the people offer sacrifices to God at the high places because a house for God has not yet been built. As long as the Temple is not built, sacrificing at private high places is permitted.",
+    "Solomon loved God and followed the ways of his father David. Nevertheless, the sacrifices at the high places are presented as an implicit reservation about the fact that construction of the Temple had not yet been completed.",
+    "Solomon went to Gibeon, which was the central high place before the Temple was established in Jerusalem, and offered a thousand burnt offerings there to express his attachment to God.",
+    "At Gibeon, God appeared to Solomon in a dream at night and offered him the opportunity to request any gift he wished to receive.",
+    "Solomon thanks God for the kindness shown to his father David, for David’s faithfulness and righteousness, and for giving him a son who sits on his throne. He notes that he has already merited becoming king of Israel.",
+    "Solomon says that God has made him king in place of his father David, but he considers himself a young man without experience in leadership. He does not know how to go out before the people and come in before them, meaning how to lead them.",
+    "Solomon describes himself as being among God’s people, a numerous nation that cannot be counted because of its size. Because of the great responsibility, he is about to make a request.",
+    "He asks for a listening heart—a perceptive, understanding, and wise heart—in order to judge, lead, and guide the people and distinguish between good and evil. Solomon emphasizes how difficult it is to judge such a large and complex people fairly.",
+    "Solomon’s request pleased God because he had asked for this particular thing.",
+    "God explains that Solomon did not ask for long life, wealth, or the defeat of his enemies, but asked for understanding in order to hear judgment.",
+    "God announces that He has granted Solomon’s request and given him a wise and discerning heart, unlike that of any king before him or any who will arise after him.",
+    "In addition to wisdom, God gives Solomon wealth and honor, to a degree unmatched among kings throughout all his days.",
+    "If Solomon follows God’s ways and keeps His statutes and commandments as his father David did, God will lengthen his days. Wealth and honor are given without a condition, whereas long life depends on his conduct.",
+    "Solomon awakens and realizes that it had been a dream. He comes to Jerusalem, stands before the Ark of the Covenant, offers burnt offerings and peace offerings, and holds a feast for all his servants.",
+    "After the thanksgiving and feast, two women who are prostitutes come before the king to present their case.",
+    "The first woman asks for the king’s attention and explains that she and the other woman live in the same house, and that she gave birth there while the other woman was with her.",
+    "On the third day after she gave birth, the other woman also gave birth. The two women were alone in the house, with no stranger present except for the two of them.",
+    "The other woman’s son died at night because she lay on him in her sleep and unknowingly turned over onto him, causing him to suffocate.",
+    "The woman says that the other woman rose during the night, took her son from beside her while she was sleeping, and placed him in her own bosom; she placed her dead son in the first woman’s bosom.",
+    "In the morning, the woman got up to nurse her son and discovered that he was dead. After looking at him, she realized that he was not the son she had given birth to.",
+    "The other woman claims that her son is the living child and that the other woman’s son is dead, while the first woman claims the opposite. Both present their arguments before the king.",
+    "The king repeats the two claims: one woman says that the living child is hers and the dead child belongs to the other, while the other says that the dead child belongs to the first woman and the living child is hers.",
+    "The king orders that a sword be brought to him, and the sword is brought before him.",
+    "The king proposes cutting the living child in two and giving half to each woman, as though it were a compromise based on the absence of proof favoring either claim.",
+    "The true mother’s compassion is stirred, and she asks that the living child be given to the other woman as long as he is not killed. The second woman agrees to the child being cut, saying that he should belong neither to her nor to her rival.",
+    "Solomon orders that the living child be given to the woman who asked to save him and that he not be killed, declaring that she is his mother. Their reactions revealed which woman was the true mother and which had stolen the child.",
+    "All Israel hears about the judgment Solomon rendered, fears him, and recognizes that God’s wisdom is within him to carry out justice. The judgment demonstrates his insight and his use of a psychological device to reveal the truth, not merely his knowledge of laws and legal rules."
+  ],
+  "perush": [
+    "שלמה כורת קשר נישואין עם בת פרעה, מלך מצרים, ובכך מבטא את מעמדו החשוב ואת גדולתו. בינתיים הוא מביא אותה לעיר דוד, עד שיסיים לבנות את ביתו, את בית ה' ואת חומת ירושלים, ולאחר מכן ישכן אותה בארמונו.",
+    "באותו זמן העם מקריב לה' בבמות, מפני שעדיין לא נבנה בית לשם ה'. כל עוד המקדש אינו בנוי, מותר לזבוח גם בבמות פרטיות.",
+    "שלמה אהב את ה' והלך בדרכי דוד אביו. עם זאת, ההקרבה בבמות מוצגת כהסתייגות מרומזת מכך שבניין המקדש עדיין לא הושלם.",
+    "שלמה הלך לגבעון, שהייתה הבמה המרכזית קודם להקמת המקדש בירושלים, והקריב שם אלף עולות כדי לבטא את התקשרותו לה'.",
+    "בגבעון נראה ה' אל שלמה בחלום הלילה והציע לו לבקש כל מתנה שירצה לקבל.",
+    "שלמה מודה לה' על החסד שעשה עם דוד אביו, על נאמנותו וצדקתו, ועל כך שנתן לו בן היושב על כיסאו. הוא מציין שכבר זכה להיות מלך ישראל.",
+    "שלמה אומר שה' המליך אותו תחת דוד אביו, אך הוא רואה את עצמו כנער חסר ניסיון בהנהגה. הוא אינו יודע כיצד לצאת לפני העם ולבוא לפניו, כלומר כיצד להנהיגו.",
+    "שלמה מתאר את עצמו כמי שנמצא בתוך עם ה', עם רב שאי אפשר למנותו מרוב גודלו. בשל גודל האחריות הוא עומד לבקש דבר מה.",
+    "הוא מבקש לב שומע—לב קשוב, מבין ותבוני—כדי לשפוט, להנהיג ולכוון את העם ולהבחין בין טוב לרע. שלמה מדגיש שקשה לשפוט ביושר עם גדול ומורכב כל כך.",
+    "בקשתו של שלמה מצאה חן בעיני ה', משום שביקש את הדבר הזה.",
+    "ה' מסביר ששלמה לא ביקש חיים ארוכים, עושר או נפילת אויביו בידיו, אלא ביקש להבין כדי לשמוע משפט.",
+    "ה' מודיע לשלמה שנענה לבקשתו ונתן לו לב חכם ונבון, שאין כמותו בין המלכים שקדמו לו ושלא יהיה כמותו אחריו.",
+    "נוסף על החכמה, ה' נותן לשלמה גם עושר וגם כבוד, ברמה שלא הייתה כמותה אצל מלכים, במשך כל ימיו.",
+    "אם שלמה ילך בדרכי ה', ישמור את חוקיו ומצוותיו כפי שדוד אביו הלך בהם, יאריך ה' את ימיו. העושר והכבוד ניתנים ללא תנאי, ואילו אריכות הימים מותנית בהתנהגותו.",
+    "שלמה מתעורר ומבין שהיה זה חלום. הוא מגיע לירושלים, עומד לפני ארון ברית ה', מקריב עולות ושלמים ועורך משתה לכל עבדיו.",
+    "לאחר ההודיה והמשתה מגיעות אל המלך שתי נשים זונות כדי להביא לפניו את דינן.",
+    "האישה האחת מבקשת את תשומת לב המלך ומספרת שהיא והאישה האחרת מתגוררות בבית אחד, והיא ילדה שם יחד עמה.",
+    "ביום השלישי לאחר לידתה ילדה גם האישה האחרת. שתיהן היו לבדן בבית, בלי אדם זר, מלבד שתיהן.",
+    "בנה של האישה האחרת מת בלילה, מפני ששכבה עליו בשנתה והתהפכה עליו בלי משים, עד שנחנק.",
+    "האישה מספרת שהאחרת קמה בלילה, לקחה את בנה ממנה בזמן שישנה, והניחה אותו בחיקה; את בנה המת הניחה בחיקה שלה.",
+    "בבוקר קמה האישה כדי להיניק את בנה וגילתה שהוא מת. לאחר שהתבוננה בו, הבחינה שאין זה בנה שילדה.",
+    "האישה האחרת טוענת שבנה הוא החי ובנה של חברתה הוא המת, ואילו חברתה טוענת את ההפך. שתיהן מציגות את טענותיהן לפני המלך.",
+    "המלך חוזר על שתי הטענות: אחת אומרת שהילד החי שלה והמת של האחרת, והשנייה אומרת שהמת של האחרת והחי שלה.",
+    "שלמה מצווה להביא לו חרב, והחרב מובאת לפניו.",
+    "המלך מציע לחתוך את הילד החי לשניים ולתת חצי לכל אחת, כאילו מדובר בפשרה הנובעת מכך שאין הוכחה המכריעה בין טענותיהן.",
+    "רחמיה של האם האמיתית מתעוררים, והיא מבקשת למסור את הילד החי לאישה האחרת ובלבד שלא ימיתו אותו. האישה השנייה מסכימה לחיתוך הילד, ואומרת שלא יהיה הילד לא לה ולא ליריבתה.",
+    "שלמה מצווה לתת את הילד החי לאישה שביקשה להצילו, ולא להמיתו, וקובע שהיא אמו. תגובותיהן חשפו מי מהן האם האמיתית ומי גנבה את הילד.",
+    "כל ישראל שומעים על המשפט ששלמה שפט, יראים מפניו ומכירים בכך שחכמת אלוהים בקרבו לעשות משפט. פסק הדין מדגים את תבונתו ואת השימוש באמצעי פסיכולוגי לחשיפת האמת, ולא רק ידיעת חוקים והלכות."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "שלמה וברית הנישואין, הבמות וההקרבה בגבעון",
+      "title_en": "Solomon’s Marriage Alliance, the High Places, and the Sacrifice at Gibeon",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "שלמה נושא את בת פרעה ומביא אותה לעיר דוד עד להשלמת מפעלי הבנייה. בתקופה שבה טרם נבנה המקדש, העם מקריב בבמות, ושלמה מקריב בגבעון אלף עולות.",
+      "summary_en": "Solomon marries Pharaoh’s daughter and brings her to the City of David until the building projects are completed. Since the Temple has not yet been built, the people sacrifice at the high places, and Solomon offers a thousand burnt offerings at Gibeon.",
+      "image_prompt": "Biblical-era Jerusalem and Gibeon, King Solomon approaching a large sacrificial altar, respectful worshippers, distant city walls and building activity, historical biblical illustration, no modern objects"
+    },
+    {
+      "title": "החלום בגבעון ובקשת הלב השומע",
+      "title_en": "The Dream at Gibeon and the Request for a Listening Heart",
+      "start_verse": 5,
+      "end_verse": 9,
+      "summary": "בחלום ה' מציע לשלמה לבקש מתנה. שלמה מודה על חסדי ה' עם דוד, מכיר בחוסר ניסיונו כמנהיג, ומבקש לב שומע כדי לשפוט ולהנהיג את העם הגדול.",
+      "summary_en": "In a dream, God offers Solomon a gift of his choice. Solomon recalls God’s kindness to David, acknowledges his inexperience as a leader, and asks for a listening heart to judge and lead the great nation.",
+      "image_prompt": "Young King Solomon sleeping in a simple royal setting while a radiant divine presence appears in a dream, symbolic listening heart and attentive expression, biblical art, no text"
+    },
+    {
+      "title": "היענות ה' והבטחת החכמה, העושר והכבוד",
+      "title_en": "God’s Response and the Promise of Wisdom, Wealth, and Honor",
+      "start_verse": 10,
+      "end_verse": 15,
+      "summary": "ה' מרוצה מבקשתו של שלמה ומעניק לו לב חכם ונבון, וכן עושר וכבוד. אריכות הימים מותנית בכך שילך בדרכי ה' וישמור את חוקיו ומצוותיו; לאחר מכן שלמה חוזר לירושלים ומודה לה'.",
+      "summary_en": "God is pleased with Solomon’s request and grants him a wise and discerning heart, along with wealth and honor. Long life depends on following God’s ways and keeping His commandments; Solomon then returns to Jerusalem and gives thanks.",
+      "image_prompt": "Solomon standing before the Ark of the Covenant in Jerusalem, offering sacrifices and celebrating with his servants, solemn biblical temple-era atmosphere, no modern objects"
+    },
+    {
+      "title": "שתי הנשים והטענה על הילד",
+      "title_en": "The Two Women and the Dispute over the Child",
+      "start_verse": 16,
+      "end_verse": 22,
+      "summary": "שתי נשים מגיעות אל שלמה למשפט ומספרות כי ילדו באותו בית בהפרש של שלושה ימים. לאחר שאחד הילדים מת בלילה, כל אחת טוענת שהילד החי שלה ושבנה של האחרת הוא המת.",
+      "summary_en": "Two women come before Solomon for judgment and explain that they gave birth in the same house three days apart. After one child dies during the night, each woman claims that the living child is hers and the dead child belongs to the other.",
+      "image_prompt": "Two distressed women standing before King Solomon in a royal court, one infant held safely, serious attendants nearby, biblical-era setting, dignified and non-graphic"
+    },
+    {
+      "title": "משפט שלמה והכרעת האם האמיתית",
+      "title_en": "Solomon’s Judgment and the Identification of the True Mother",
+      "start_verse": 23,
+      "end_verse": 27,
+      "summary": "שלמה מציג את שתי הטענות ומורה להביא חרב ולהציע לחלק את הילד. תגובת האישה המבקשת להציל את הילד מגלה שהיא אמו, ושלמה מצווה למסור לה את הילד החי.",
+      "summary_en": "Solomon restates the two claims and orders a sword to be brought, proposing that the child be divided. The reaction of the woman who asks to save the child reveals that she is his mother, and Solomon orders the living child to be given to her.",
+      "image_prompt": "King Solomon raising his hand to stop a symbolic judgment, a compassionate woman pleading for the infant’s life, attendants holding a sheathed sword at a distance, biblical court scene, non-graphic"
+    },
+    {
+      "title": "תגובת ישראל לחכמת שלמה",
+      "title_en": "Israel’s Response to Solomon’s Wisdom",
+      "start_verse": 28,
+      "end_verse": 28,
+      "summary": "כל ישראל שומעים על המשפט ומכירים בחכמת האלוהים שבקרב שלמה. הם יראים מפניו משום שראה את תבונתו ואת יכולתו לחשוף את האמת באמצעי פסיכולוגי.",
+      "summary_en": "All Israel hears about the judgment and recognizes the divine wisdom within Solomon. They stand in awe because they see his insight and his ability to reveal the truth through a psychological device.",
+      "image_prompt": "A gathered crowd of Israelites listening attentively as King Solomon sits in judgment, expressions of awe and respect, biblical-era royal court, warm natural light, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 18.12,
+      "usfm": "1KI.3.1"
+    },
+    {
+      "start": 18.12,
+      "end": 26.18,
+      "usfm": "1KI.3.2"
+    },
+    {
+      "start": 26.18,
+      "end": 35.82,
+      "usfm": "1KI.3.3"
+    },
+    {
+      "start": 35.82,
+      "end": 45.14,
+      "usfm": "1KI.3.4"
+    },
+    {
+      "start": 45.14,
+      "end": 53.44,
+      "usfm": "1KI.3.5"
+    },
+    {
+      "start": 53.44,
+      "end": 74.18,
+      "usfm": "1KI.3.6"
+    },
+    {
+      "start": 74.18,
+      "end": 87.32,
+      "usfm": "1KI.3.7"
+    },
+    {
+      "start": 87.32,
+      "end": 96.2,
+      "usfm": "1KI.3.8"
+    },
+    {
+      "start": 96.2,
+      "end": 107.88,
+      "usfm": "1KI.3.9"
+    },
+    {
+      "start": 107.88,
+      "end": 113.44,
+      "usfm": "1KI.3.10"
+    },
+    {
+      "start": 113.44,
+      "end": 130.94,
+      "usfm": "1KI.3.11"
+    },
+    {
+      "start": 130.94,
+      "end": 145.5,
+      "usfm": "1KI.3.12"
+    },
+    {
+      "start": 145.5,
+      "end": 156.2,
+      "usfm": "1KI.3.13"
+    },
+    {
+      "start": 156.2,
+      "end": 166.24,
+      "usfm": "1KI.3.14"
+    },
+    {
+      "start": 166.24,
+      "end": 181.88,
+      "usfm": "1KI.3.15"
+    },
+    {
+      "start": 181.88,
+      "end": 186.72,
+      "usfm": "1KI.3.16"
+    },
+    {
+      "start": 186.72,
+      "end": 194.1,
+      "usfm": "1KI.3.17"
+    },
+    {
+      "start": 194.1,
+      "end": 205.22,
+      "usfm": "1KI.3.18"
+    },
+    {
+      "start": 205.22,
+      "end": 209.4,
+      "usfm": "1KI.3.19"
+    },
+    {
+      "start": 209.4,
+      "end": 219.02,
+      "usfm": "1KI.3.20"
+    },
+    {
+      "start": 219.02,
+      "end": 229.28,
+      "usfm": "1KI.3.21"
+    },
+    {
+      "start": 229.28,
+      "end": 241.14,
+      "usfm": "1KI.3.22"
+    },
+    {
+      "start": 241.14,
+      "end": 253.02,
+      "usfm": "1KI.3.23"
+    },
+    {
+      "start": 253.02,
+      "end": 257.96,
+      "usfm": "1KI.3.24"
+    },
+    {
+      "start": 257.96,
+      "end": 265.62,
+      "usfm": "1KI.3.25"
+    },
+    {
+      "start": 265.62,
+      "end": 282.64,
+      "usfm": "1KI.3.26"
+    },
+    {
+      "start": 282.64,
+      "end": 291.72,
+      "usfm": "1KI.3.27"
+    },
+    {
+      "start": 291.72,
+      "end": 309.6,
+      "usfm": "1KI.3.28"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    18.12,
+    26.18,
+    35.82,
+    45.14,
+    53.44,
+    74.18,
+    87.32,
+    96.2,
+    107.88,
+    113.44,
+    130.94,
+    145.5,
+    156.2,
+    166.24,
+    181.88,
+    186.72,
+    194.1,
+    205.22,
+    209.4,
+    219.02,
+    229.28,
+    241.14,
+    253.02,
+    257.96,
+    265.62,
+    282.64,
+    291.72,
+    309.6
+  ],
+  "times_en_usfm": [
+    "1KI.3.1",
+    "1KI.3.2",
+    "1KI.3.3",
+    "1KI.3.4",
+    "1KI.3.5",
+    "1KI.3.6",
+    "1KI.3.7",
+    "1KI.3.8",
+    "1KI.3.9",
+    "1KI.3.10",
+    "1KI.3.11",
+    "1KI.3.12",
+    "1KI.3.13",
+    "1KI.3.14",
+    "1KI.3.15",
+    "1KI.3.16",
+    "1KI.3.17",
+    "1KI.3.18",
+    "1KI.3.19",
+    "1KI.3.20",
+    "1KI.3.21",
+    "1KI.3.22",
+    "1KI.3.23",
+    "1KI.3.24",
+    "1KI.3.25",
+    "1KI.3.26",
+    "1KI.3.27",
+    "1KI.3.28"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "שלמה נשא את בת פרעה, ובתחילה הביא אותה אל עיר דוד. היא נשארה שם עד שהשלים את בניית ביתו, בית ה׳ וחומת ירושלים.",
+      "text_he": "שלמה נשא את בת פרעה, ובתחילה הביא אותה אל עיר דוד. היא נשארה שם עד שהשלים את בניית ביתו, בית ה׳ וחומת ירושלים.",
+      "text_en": "Solomon married Pharaoh’s daughter and initially brought her to the City of David. She remained there until he finished building his palace, the house of the LORD, and the wall around Jerusalem."
+    },
+    {
+      "verse": 2,
+      "text": "בימי שלמה העם עדיין הקריב בבמות, מפני שבית לה׳ טרם נבנה. בפרק לא נאמר שכל הקרבה בבמה הייתה פסולה באותה תקופה.",
+      "text_he": "בימי שלמה העם עדיין הקריב בבמות, מפני שבית לה׳ טרם נבנה. בפרק לא נאמר שכל הקרבה בבמה הייתה פסולה באותה תקופה.",
+      "text_en": "During Solomon’s reign, the people were still offering sacrifices at the high places because the temple of the LORD had not yet been built. This chapter does not say that every sacrifice offered at a high place was unacceptable at that time."
+    },
+    {
+      "verse": 4,
+      "text": "גבעון מתוארת כ״הבמה הגדולה״. שם העלה שלמה אלף עולות על המזבח, לפני החלום שבו נגלה אליו ה׳.",
+      "text_he": "גבעון מתוארת כ״הבמה הגדולה״. שם העלה שלמה אלף עולות על המזבח, לפני החלום שבו נגלה אליו ה׳.",
+      "text_en": "Gibeon is described as the “great high place.” There Solomon offered a thousand burnt offerings on the altar, before the dream in which the LORD appeared to him."
+    },
+    {
+      "verse": 5,
+      "text": "בגבעון נגלה ה׳ אל שלמה בחלום ושאל אותו: ״שאל מה אתן לך״. כך נפתחה לשלמה האפשרות לבקש מתנה מאת ה׳.",
+      "text_he": "בגבעון נגלה ה׳ אל שלמה בחלום ושאל אותו: ״שאל מה אתן לך״. כך נפתחה לשלמה האפשרות לבקש מתנה מאת ה׳.",
+      "text_en": "At Gibeon, the LORD appeared to Solomon in a dream and said, “Ask for whatever you want me to give you.” This gave Solomon the opportunity to ask the LORD for a gift."
+    },
+    {
+      "verse": 9,
+      "text": "שלמה לא ביקש בראש ובראשונה עושר או ניצחון על אויבים, אלא ״לב שומע״ — יכולת להבין בין טוב לרע ולשפוט את העם בצדק.",
+      "text_he": "שלמה לא ביקש בראש ובראשונה עושר או ניצחון על אויבים, אלא ״לב שומע״ — יכולת להבין בין טוב לרע ולשפוט את העם בצדק.",
+      "text_en": "Solomon did not ask first of all for wealth or victory over his enemies, but for a “listening heart”—the ability to distinguish between good and evil and to judge the people fairly."
+    },
+    {
+      "verse": 10,
+      "text": "בקשתו של שלמה מצאה חן בעיני ה׳ דווקא מפני שביקש הבנה למשפט ולא ביקש לעצמו אריכות ימים, עושר או נפש אויביו.",
+      "text_he": "בקשתו של שלמה מצאה חן בעיני ה׳ דווקא מפני שביקש הבנה למשפט ולא ביקש לעצמו אריכות ימים, עושר או נפש אויביו.",
+      "text_en": "Solomon’s request pleased the LORD precisely because he had asked for understanding to administer justice, rather than asking for long life, wealth, or the lives of his enemies."
+    },
+    {
+      "verse": 12,
+      "text": "ה׳ הבטיח לשלמה לב חכם ונבון, ותיאר את חכמתו כחכמה שאין כמותה לפניו ושלא תהיה כמותה גם אחריו.",
+      "text_he": "ה׳ הבטיח לשלמה לב חכם ונבון, ותיאר את חכמתו כחכמה שאין כמותה לפניו ושלא תהיה כמותה גם אחריו.",
+      "text_en": "The LORD promised Solomon a wise and discerning heart, describing his wisdom as unparalleled both before him and after him."
+    },
+    {
+      "verse": 14,
+      "text": "העושר והכבוד הובטחו לשלמה, ואילו אריכות ימיו הותנתה בכך שילך בדרכי ה׳ וישמור את חוקיו ומצוותיו.",
+      "text_he": "העושר והכבוד הובטחו לשלמה, ואילו אריכות ימיו הותנתה בכך שילך בדרכי ה׳ וישמור את חוקיו ומצוותיו.",
+      "text_en": "Wealth and honor were promised to Solomon, while long life was made conditional on his walking in the LORD’s ways and keeping his laws and commands."
+    },
+    {
+      "verse": 15,
+      "text": "לאחר שהתעורר והבין שהיה זה חלום, שב שלמה לירושלים, עמד לפני ארון ברית ה׳, הקריב קרבנות וערך משתה לעבדיו.",
+      "text_he": "לאחר שהתעורר והבין שהיה זה חלום, שב שלמה לירושלים, עמד לפני ארון ברית ה׳, הקריב קרבנות וערך משתה לעבדיו.",
+      "text_en": "After waking and realizing that it had been a dream, Solomon returned to Jerusalem, stood before the ark of the LORD’s covenant, offered sacrifices, and held a feast for all his servants."
+    },
+    {
+      "verse": 28,
+      "text": "במשפט שתי הנשים שלמה לא התכוון באמת לחצות את הילד; הצעתו חשפה את תגובת האם המבקשת להציל את חייו. בעקבות המשפט הכיר כל ישראל בחכמת האלוהים שבקרבו.",
+      "text_he": "במשפט שתי הנשים שלמה לא התכוון באמת לחצות את הילד; הצעתו חשפה את תגובת האם המבקשת להציל את חייו. בעקבות המשפט הכיר כל ישראל בחכמת האלוהים שבקרבו.",
+      "text_en": "In the judgment involving the two women, Solomon did not truly intend to have the child divided. His proposal revealed the response of the mother who wanted to save the child’s life. As a result, all Israel recognized the divine wisdom within him."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "book": "isaiah",
+  "book_name": "Isaiah",
+  "chapter": 5,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 7,
+      "title": "The Vineyard Parable and Its Disappointment",
+      "easy": [
+        {
+          "answers": [
+            "A vineyard",
+            "A wheat field",
+            "An orchard"
+          ],
+          "correct": 0,
+          "explanation": "The passage says, “My beloved hath a vineyard.”",
+          "q": "What did the beloved plant?"
+        },
+        {
+          "answers": [
+            "Figs",
+            "Grapes",
+            "Olives"
+          ],
+          "correct": 1,
+          "explanation": "He looked for grapes from the vineyard.",
+          "q": "What did the owner expect the vineyard to produce?"
+        },
+        {
+          "answers": [
+            "It would become pasture",
+            "It would become a forest",
+            "It would be laid waste"
+          ],
+          "correct": 2,
+          "explanation": "The owner says, “I will lay it waste.”",
+          "q": "What would happen to the vineyard in the end?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Stones were removed, and a tower and winepress were made",
+            "It was watered by a river",
+            "It was surrounded only by a high wall"
+          ],
+          "correct": 0,
+          "explanation": "The owner fenced it, cleared the stones, built a tower, and made a winepress.",
+          "q": "How was the vineyard carefully prepared?"
+        },
+        {
+          "answers": [
+            "Sweet grapes",
+            "Bad or worthless grapes",
+            "Unripe grapes only"
+          ],
+          "correct": 1,
+          "explanation": "The vineyard produced a poor crop instead of good grapes.",
+          "q": "What are “wild grapes” in this context?"
+        },
+        {
+          "answers": [
+            "Judge between him and his vineyard",
+            "Plant more vineyards",
+            "Guard the tower"
+          ],
+          "correct": 0,
+          "explanation": "He asks them to judge between him and his vineyard.",
+          "q": "What did the owner ask the inhabitants of Jerusalem and Judah to do?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The house of Israel and the men of Judah",
+            "The enemies of Israel",
+            "Jerusalem alone"
+          ],
+          "correct": 0,
+          "explanation": "The passage explains that the vineyard is the house of Israel and Judah.",
+          "q": "What does the vineyard represent?"
+        },
+        {
+          "answers": [
+            "Wealth but poverty",
+            "Judgment and righteousness, but oppression and a cry",
+            "Peace but war"
+          ],
+          "correct": 1,
+          "explanation": "He looked for judgment and righteousness, but found oppression and a cry.",
+          "q": "What did the Lord expect, and what did He find?"
+        },
+        {
+          "answers": [
+            "Stronger protection",
+            "Abandoning the vineyard to destruction",
+            "Expanding the vineyard"
+          ],
+          "correct": 1,
+          "explanation": "Without its hedge and wall, the vineyard would be exposed and trodden down.",
+          "q": "What does removing the hedge and breaking down the wall signify?"
+        }
+      ],
+      "idea": 1
+    }
+  ]
+}

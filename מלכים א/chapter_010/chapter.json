@@ -1,0 +1,524 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 10,
+  "title": "מלכים א פרק 10",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a10.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a10.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/10-c21e6699a25c1510efdffba9aa17fca1.mp3?version_id=1",
+  "verses": [
+    "וּמַלְכַּת-שְׁבָא, שֹׁמַעַת אֶת-שֵׁמַע שְׁלֹמֹה--לְשֵׁם יְהוָה; וַתָּבֹא לְנַסֹּתוֹ, בְּחִידוֹת.",
+    "וַתָּבֹא יְרוּשָׁלְַמָה, בְּחַיִל כָּבֵד מְאֹד, גְּמַלִּים נֹשְׂאִים בְּשָׂמִים וְזָהָב רַב-מְאֹד, וְאֶבֶן יְקָרָה; וַתָּבֹא, אֶל-שְׁלֹמֹה, וַתְּדַבֵּר אֵלָיו, אֵת כָּל-אֲשֶׁר הָיָה עִם-לְבָבָהּ.",
+    "וַיַּגֶּד-לָהּ שְׁלֹמֹה, אֶת-כָּל-דְּבָרֶיהָ: לֹא-הָיָה דָבָר נֶעְלָם מִן-הַמֶּלֶךְ, אֲשֶׁר לֹא הִגִּיד לָהּ.",
+    "וַתֵּרֶא, מַלְכַּת-שְׁבָא, אֵת, כָּל-חָכְמַת שְׁלֹמֹה; וְהַבַּיִת, אֲשֶׁר בָּנָה.",
+    "וּמַאֲכַל שֻׁלְחָנוֹ וּמוֹשַׁב עֲבָדָיו וּמַעֲמַד מְשָׁרְתָו וּמַלְבֻּשֵׁיהֶם, וּמַשְׁקָיו, וְעֹלָתוֹ, אֲשֶׁר יַעֲלֶה בֵּית יְהוָה; וְלֹא-הָיָה בָהּ עוֹד, רוּחַ.",
+    "וַתֹּאמֶר, אֶל-הַמֶּלֶךְ, אֱמֶת הָיָה הַדָּבָר, אֲשֶׁר שָׁמַעְתִּי בְּאַרְצִי--עַל-דְּבָרֶיךָ, וְעַל-חָכְמָתֶךָ.",
+    "וְלֹא-הֶאֱמַנְתִּי לַדְּבָרִים, עַד אֲשֶׁר-בָּאתִי וַתִּרְאֶינָה עֵינַי, וְהִנֵּה לֹא-הֻגַּד-לִי, הַחֵצִי: הוֹסַפְתָּ חָכְמָה וָטוֹב, אֶל-הַשְּׁמוּעָה אֲשֶׁר שָׁמָעְתִּי.",
+    "אַשְׁרֵי אֲנָשֶׁיךָ, אַשְׁרֵי עֲבָדֶיךָ אֵלֶּה, הָעֹמְדִים לְפָנֶיךָ תָּמִיד, הַשֹּׁמְעִים אֶת-חָכְמָתֶךָ.",
+    "יְהִי יְהוָה אֱלֹהֶיךָ, בָּרוּךְ, אֲשֶׁר חָפֵץ בְּךָ, לְתִתְּךָ עַל-כִּסֵּא יִשְׂרָאֵל--בְּאַהֲבַת יְהוָה אֶת-יִשְׂרָאֵל, לְעֹלָם, וַיְשִׂימְךָ לְמֶלֶךְ, לַעֲשׂוֹת מִשְׁפָּט וּצְדָקָה.",
+    "וַתִּתֵּן לַמֶּלֶךְ מֵאָה וְעֶשְׂרִים כִּכַּר זָהָב, וּבְשָׂמִים הַרְבֵּה מְאֹד--וְאֶבֶן יְקָרָה; לֹא בָא כַבֹּשֶׂם הַהוּא עוֹד לָרֹב, אֲשֶׁר-נָתְנָה מַלְכַּת-שְׁבָא לַמֶּלֶךְ שְׁלֹמֹה.",
+    "וְגַם אֳנִי חִירָם, אֲשֶׁר-נָשָׂא זָהָב מֵאוֹפִיר: הֵבִיא מֵאֹפִיר עֲצֵי אַלְמֻגִּים, הַרְבֵּה מְאֹד--וְאֶבֶן יְקָרָה.",
+    "וַיַּעַשׂ הַמֶּלֶךְ אֶת-עֲצֵי הָאַלְמֻגִּים מִסְעָד לְבֵית-יְהוָה, וּלְבֵית הַמֶּלֶךְ, וְכִנֹּרוֹת וּנְבָלִים, לַשָּׁרִים; לֹא בָא-כֵן עֲצֵי אַלְמֻגִּים, וְלֹא נִרְאָה, עַד, הַיּוֹם הַזֶּה.",
+    "וְהַמֶּלֶךְ שְׁלֹמֹה נָתַן לְמַלְכַּת-שְׁבָא, אֶת-כָּל-חֶפְצָהּ אֲשֶׁר שָׁאָלָה, מִלְּבַד אֲשֶׁר נָתַן-לָהּ, כְּיַד הַמֶּלֶךְ שְׁלֹמֹה; וַתֵּפֶן וַתֵּלֶךְ לְאַרְצָהּ, הִיא וַעֲבָדֶיהָ.",
+    "וַיְהִי מִשְׁקַל הַזָּהָב, אֲשֶׁר-בָּא לִשְׁלֹמֹה בְּשָׁנָה אֶחָת--שֵׁשׁ מֵאוֹת שִׁשִּׁים וָשֵׁשׁ, כִּכַּר זָהָב.",
+    "לְבַד מֵאַנְשֵׁי הַתָּרִים, וּמִסְחַר הָרֹכְלִים, וְכָל-מַלְכֵי הָעֶרֶב, וּפַחוֹת הָאָרֶץ.",
+    "וַיַּעַשׂ הַמֶּלֶךְ שְׁלֹמֹה מָאתַיִם צִנָּה, זָהָב שָׁחוּט; שֵׁשׁ-מֵאוֹת זָהָב, יַעֲלֶה עַל-הַצִּנָּה הָאֶחָת.",
+    "וּשְׁלֹשׁ-מֵאוֹת מָגִנִּים, זָהָב שָׁחוּט--שְׁלֹשֶׁת מָנִים זָהָב, יַעֲלֶה עַל-הַמָּגֵן הָאֶחָת; וַיִּתְּנֵם הַמֶּלֶךְ, בֵּית יַעַר הַלְּבָנוֹן.",
+    "וַיַּעַשׂ הַמֶּלֶךְ כִּסֵּא-שֵׁן, גָּדוֹל; וַיְצַפֵּהוּ, זָהָב מוּפָז.",
+    "שֵׁשׁ מַעֲלוֹת לַכִּסֵּה, וְרֹאשׁ-עָגֹל לַכִּסֵּה מֵאַחֲרָיו, וְיָדֹת מִזֶּה וּמִזֶּה, אֶל-מְקוֹם הַשָּׁבֶת; וּשְׁנַיִם אֲרָיוֹת, עֹמְדִים אֵצֶל הַיָּדוֹת.",
+    "וּשְׁנֵים עָשָׂר אֲרָיִים, עֹמְדִים שָׁם עַל-שֵׁשׁ הַמַּעֲלוֹת--מִזֶּה וּמִזֶּה; לֹא-נַעֲשָׂה כֵן, לְכָל-מַמְלָכוֹת.",
+    "וְכֹל כְּלֵי מַשְׁקֵה הַמֶּלֶךְ שְׁלֹמֹה, זָהָב, וְכֹל כְּלֵי בֵּית-יַעַר הַלְּבָנוֹן, זָהָב סָגוּר: אֵין כֶּסֶף, לֹא נֶחְשָׁב בִּימֵי שְׁלֹמֹה--לִמְאוּמָה.",
+    "כִּי אֳנִי תַרְשִׁישׁ לַמֶּלֶךְ בַּיָּם, עִם אֳנִי חִירָם; אַחַת לְשָׁלֹשׁ שָׁנִים תָּבוֹא אֳנִי תַרְשִׁישׁ, נֹשְׂאֵת זָהָב וָכֶסֶף, שֶׁנְהַבִּים וְקֹפִים, וְתֻכִּיִּים.",
+    "וַיִּגְדַּל הַמֶּלֶךְ שְׁלֹמֹה, מִכֹּל מַלְכֵי הָאָרֶץ--לְעֹשֶׁר, וּלְחָכְמָה.",
+    "וְכָל-הָאָרֶץ--מְבַקְשִׁים, אֶת-פְּנֵי שְׁלֹמֹה: לִשְׁמֹעַ, אֶת-חָכְמָתוֹ, אֲשֶׁר-נָתַן אֱלֹהִים, בְּלִבּוֹ.",
+    "וְהֵמָּה מְבִאִים אִישׁ מִנְחָתוֹ כְּלֵי כֶסֶף וּכְלֵי זָהָב וּשְׂלָמוֹת, וְנֵשֶׁק וּבְשָׂמִים, סוּסִים, וּפְרָדִים--דְּבַר-שָׁנָה, בְּשָׁנָה.",
+    "וַיֶּאֱסֹף שְׁלֹמֹה, רֶכֶב וּפָרָשִׁים, וַיְהִי-לוֹ אֶלֶף וְאַרְבַּע-מֵאוֹת רֶכֶב, וּשְׁנֵים-עָשָׂר אֶלֶף פָּרָשִׁים; וַיַּנְחֵם בְּעָרֵי הָרֶכֶב, וְעִם-הַמֶּלֶךְ בִּירוּשָׁלִָם.",
+    "וַיִּתֵּן הַמֶּלֶךְ אֶת-הַכֶּסֶף בִּירוּשָׁלִַם, כָּאֲבָנִים; וְאֵת הָאֲרָזִים, נָתַן כַּשִּׁקְמִים אֲשֶׁר-בַּשְּׁפֵלָה--לָרֹב.",
+    "וּמוֹצָא הַסּוּסִים אֲשֶׁר לִשְׁלֹמֹה, מִמִּצְרָיִם; וּמִקְוֵה--סֹחֲרֵי הַמֶּלֶךְ, יִקְחוּ מִקְוֵה בִּמְחִיר.",
+    "וַתַּעֲלֶה וַתֵּצֵא מֶרְכָּבָה מִמִּצְרַיִם, בְּשֵׁשׁ מֵאוֹת כֶּסֶף, וְסוּס, בַּחֲמִשִּׁים וּמֵאָה; וְכֵן לְכָל-מַלְכֵי הַחִתִּים, וּלְמַלְכֵי אֲרָם--בְּיָדָם יֹצִאוּ."
+  ],
+  "english": [
+    "And when the queen of Sheba heard of the fame of Solomon concerning the name of the Lord, she came to prove him with hard questions.",
+    "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.",
+    "And Solomon told her all her questions: there was not any thing hid from the king, which he told her not.",
+    "And when the queen of Sheba had seen all Solomon's wisdom, and the house that he had built,",
+    "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the Lord; there was no more spirit in her.",
+    "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom.",
+    "Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.",
+    "Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom.",
+    "Blessed be the Lord thy God, which delighted in thee, to set thee on the throne of Israel: because the Lord loved Israel for ever, therefore made he thee king, to do judgment and justice.",
+    "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.",
+    "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.",
+    "And the king made of the almug trees pillars for the house of the Lord, and for the king's house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.",
+    "And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.",
+    "Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,",
+    "Beside that he had of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.",
+    "And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target.",
+    "And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.",
+    "Moreover the king made a great throne of ivory, and overlaid it with the best gold.",
+    "The throne had six steps, and the top of the throne was round behind: and there were stays on either side on the place of the seat, and two lions stood beside the stays.",
+    "And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.",
+    "And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.",
+    "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.",
+    "So king Solomon exceeded all the kings of the earth for riches and for wisdom.",
+    "And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.",
+    "And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.",
+    "And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.",
+    "And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance.",
+    "And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.",
+    "And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means."
+  ],
+  "steinsaltz": [
+    "וּמַלְכַּת־שְׁבָא שֹׁמַעַת אֶת־שֵׁמַע שְׁלֹמֹה. ייתכן ששבא שכנה בדרום ערב, בסביבות תימן או באפריקה המזרחית, אולי באתיופיה, לְשֵׁם ה'. שלמה היה מפורסם בכל העמים כגדול החכמים, וכמי שחכמתו חכמה אלוקית, ועל כן – וַתָּבֹא לְנַסֹּתוֹ בְּחִידוֹת, לשאול אותו שאלות, ולשמוע את תשובותיו החכמות. מלכת שבא לא ערכה את המסע למטרות פוליטיות, אלא בעיקר כדי להיפגש עם האיש ששמע חכמתו הגיע עד אליה.",
+    "וַתָּבֹא יְרוּשָׁלְַמָה בְּחַיִל כָּבֵד מְאֹד, גְּמַלִּים נֹשְׂאִים בְּשָׂמִים וְזָהָב רַב־מְאֹד וְאֶבֶן יְקָרָה. וַתָּבֹא אֶל־שְׁלֹמֹה, וַתְּדַבֵּר אֵלָיו אֵת כָּל־אֲשֶׁר הָיָה עִם־לְבָבָהּ. גְּמַלִּים נֹשְׂאִים בְּשָׂמִים וְזָהָב רַב־מְאֹד וְאֶבֶן יְקָרָה. וַתָּבֹא אֶל־שְׁלֹמֹה, וַתְּדַבֵּר אֵלָיו אֵת כָּל־אֲשֶׁר הָיָה עִם־לְבָבָהּ.",
+    "וַיַּגֶּד־לָהּ שְׁלֹמֹה אֶת־כָּל־דְּבָרֶיהָ, ענה על כל שאלותיה. לֹא־הָיָה דָבָר נֶעְלָם מִן־הַמֶּלֶךְ אֲשֶׁר לֹא הִגִּיד לָהּ.",
+    "וַתֵּרֶא מַלְכַּת־שְׁבָא אֵת כָּל־חָכְמַת שְׁלֹמֹה וְגם את הַבַּיִת אֲשֶׁר בָּנָה,",
+    "וּמַאֲכַל שֻׁלְחָנוֹ וּמוֹשַׁב עֲבָדָיו וּמַעֲמַד מְשָׁרְתָו וּמַלְבֻּשֵׁיהֶם וּמַשְׁקָיו וְעֹלָתוֹ אֲשֶׁר יַעֲלֶה, גרם המדרגות המפואר שהוביל מבית המלך עד בֵּית ה'. וְלֹא־הָיָה בָהּ עוֹד רוּחַ. היא נדהמה ביותר.",
+    "וַתֹּאמֶר אֶל־הַמֶּלֶךְ: אֱמֶת הָיָה הַדָּבָר אֲשֶׁר שָׁמַעְתִּי בְּאַרְצִי עַל־דְּבָרֶיךָ וְעַל־חָכְמָתֶךָ.",
+    "וְלֹא־הֶאֱמַנְתִּי לַדְּבָרִים ששמעתי, עַד אֲשֶׁר־בָּאתִי וַתִּרְאֶינָה עֵינַי, וְהִנֵּה לֹא־הֻגַּד־לִי הַחֵצִי. הסיפורים שנשמעו באוזני גוזמאות, אינם ממצים אפילו חצי ממה שמצאתי. הוֹסַפְתָּ חָכְמָה וָטוֹב, איכות מוסרית, שימושית או אסתטית אֶל־הַשְּׁמוּעָה, מעבר לשמועה אֲשֶׁר שָׁמָעְתִּי.",
+    "אַשְׁרֵי אֲנָשֶׁיךָ. אַשְׁרֵי עֲבָדֶיךָ אֵלֶּה הָעֹמְדִים לְפָנֶיךָ תָּמִיד הַשֹּׁמְעִים אֶת־חָכְמָתֶךָ. אני הגעתי כדי לזכות לשיחות אחדות אתך, ואילו הם נמצאים כאן תמיד ואינם חדלים לשמוע את חכמתך.",
+    "יְהִי ה' אֱלֹהֶיךָ בָּרוּךְ, על אֲשֶׁר חָפֵץ בְּךָ לְתִתְּךָ עַל־כִּסֵּא יִשְׂרָאֵל, בְּאַהֲבַת ה' אֶת־יִשְׂרָאֵל לְעֹלָם וַיְשִׂימְךָ לְמֶלֶךְ עליהם לַעֲשׂוֹת מִשְׁפָּט וּצְדָקָה.",
+    "וַתִּתֵּן לַמֶּלֶךְ מֵאָה וְעֶשְׂרִים כִּכַּר זָהָב וּבְשָׂמִים הַרְבֵּה מְאֹד וְאֶבֶן יְקָרָה. מעולם לֹא בָא כַבֹּשֶׂם הַהוּא עוֹד לָרֹב, לא היה בושם כה רב בירושלים אֲשֶׁר, כמו שנָתְנָה מַלְכַּת־שְׁבָא לַמֶּלֶךְ שְׁלֹמֹה.",
+    "אגב האוצרות שהביאה מלכת שבא לשלמה מארצה הדרומית מסופר על אוצרות נוספים שהגיעו מן הדרום בדרך הים באותה עת: וְגַם אֳנִי, צי האניות של חִירָם אֲשֶׁר־נָשָׂא זָהָב מֵאוֹפִיר, הֵבִיא מֵאֹפִיר גם עֲצֵי אַלְמֻגִּים, שהם האלמוגים של ימינו, המצויים בדרך ים סוף. במקומם אין הם יקרים, אך כיוון שהגיעו ממרחקים באותם ימים, ערכם היה רב בשל נדירותם כאן. לפי דעה אחרת, מדובר בעצים ממש, בעלי מראה ייחודי, האופייניים לאותו אזור. הַרְבֵּה מְאֹד וְאֶבֶן יְקָרָה.",
+    "וַיַּעַשׂ הַמֶּלֶךְ אֶת־עֲצֵי, מעצי הָאַלְמֻגִּים מִסְעָד, מעקה לְבֵית־ה' וּלְבֵית הַמֶּלֶךְ. וְכן כִנֹּרוֹת וּנְבָלִים לַשָּׁרִים. לֹא בָא־כֵן עֲצֵי אַלְמֻגִּים וְלֹא נִרְאָה עַד הַיּוֹם הַזֶּה. אלמוגים בכמות כה גדולה יכלו להגיע רק הודות לצי האניות של שלמה.",
+    "וְהַמֶּלֶךְ שְׁלֹמֹה נָתַן לְמַלְכַּת־שְׁבָא אֶת־כָּל־חֶפְצָהּ אֲשֶׁר שָׁאָלָה, דברים שביקשה משום שלא יכלה להשיג בארצה, מִלְּבַד המתנות אֲשֶׁר נָתַן־לָהּ כְּיַד הַמֶּלֶךְ שְׁלֹמֹה. וַתֵּפֶן וַתֵּלֶךְ לְאַרְצָהּ הִיא וַעֲבָדֶיהָ.",
+    "וַיְהִי מִשְׁקַל הַזָּהָב אֲשֶׁר־בָּא לִשְׁלֹמֹה בְּשָׁנָה אֶחָת, בשנה שבה הגיעה מלכת שבא ואף הובא הזהב באניות הצידונים שֵׁשׁ מֵאוֹת שִׁשִּׁים וָשֵׁשׁ כִּכַּר זָהָב.",
+    "זהו חשבון ההכנסות הלאומיות שבאו באופן מרוכז אל אוצרות המלך, לְבַד מהמסים שהעלו לשלמה אַנְשֵׁי הַתָּרִים, הסוחרים הנודדים וּמִסְחַר הָרֹכְלִים, סוחרים קטנים יותר וְכָל־מַלְכֵי הָעֶרֶב, הערָבים וּפַחוֹת, שרי הָאָרֶץ.",
+    "וַיַּעַשׂ הַמֶּלֶךְ שְׁלֹמֹה מָאתַיִם צִנָּה, מגן גדול זָהָב שָׁחוּט, מתוח. או: זהב שכמות קטנה של סיגים משנה אותו מאדום ללבן. שֵׁשׁ־מֵאוֹת מטבעות זָהָב שמשקלם הכולל קרוב ל-7 ק\"ג יַעֲלֶה עַל, משקלה של הַצִּנָּה הָאֶחָת.",
+    "וּכמו כן, שְׁלֹשׁ־מֵאוֹת מָגִנִּים קטנים יותר של זָהָב שָׁחוּט, שְׁלֹשֶׁת מָנִים, יחידת משקל של מאה מטבעות זָהָב יַעֲלֶה עַל־הַמָּגֵן הָאֶחָת, וַיִּתְּנֵם הַמֶּלֶךְ כמצבור נשק, כאוצר ואולי גם לנוי בתוך בֵּית יַעַר הַלְּבָנוֹן, ביתו המלכותי.",
+    "בבית זה היה אולם הכיסא של המלך שלמה. וַיַּעַשׂ הַמֶּלֶךְ כִּסֵּא־שֵׁן, שנהב, שן פיל, גָּדוֹל, וַיְצַפֵּהוּ זָהָב מוּפָז, מאופז, מהעיר הרחוקה אופז. או: מופץ, זהב שעבר תהליך של זיקוק הסיגים על ידי כיתות ופיזור.",
+    "בשֵׁשׁ מַעֲלוֹת, מדרגות עולים לַכִּסֵּה, לכיסא, וְרֹאשׁ עָגוֹל לַכִּסֵּה מֵאַחֲרָיו למשענת או לקישוט, וְיָדֹת, ידיות מִזֶּה וּמִזֶּה אֶל־מְקוֹם הַשָּׁבֶת. להניח עליהן את הידיים בזמן הישיבה. וּשְׁנַיִם אֲרָיוֹת עֹמְדִים אֵצֶל, ליד הַיָּדוֹת. שני פסלי אריות, כנראה עשויים זהב, ניצבים ליד מסעדי הידיים.",
+    "וּשְׁנֵים עָשָׂר אֲרָיִים, אריות עֹמְדִים שָׁם עַל־שֵׁשׁ הַמַּעֲלוֹת מִזֶּה וּמִזֶּה. בשני צדיה של כל מדרגה עמד אריה. לֹא־נַעֲשָׂה כֵן לְכָל־מַמְלָכוֹת.",
+    "וְכֹל כְּלֵי מַשְׁקֵה הַמֶּלֶךְ שְׁלֹמֹה היו עשויים זָהָב. וְכֹל כְּלֵי בֵּית־יַעַר הַלְּבָנוֹן זָהָב סָגוּר, מזוקק. מרוב זהב אֵין כֶּסֶף בכלי בית המלך, מפני שהכסף לֹא נֶחְשָׁב בִּימֵי שְׁלֹמֹה לִמְאוּמָה,",
+    "כִּי אֳנִי תַרְשִׁישׁ, אניות גדולות וחזקות, כגון אלה המסוגלות לנסוע עד תרשיש, לַמֶּלֶךְ בַּיָּם עִם אֳנִי חִירָם. אַחַת לְשָׁלֹשׁ שָׁנִים תָּבוֹא אֳנִי תַרְשִׁישׁ נֹשְׂאֵת זָהָב וָכֶסֶף, שֶׁנְהַבִּים וְקֹפִים וְתֻכִּיִּים, המזוהים עם הטווסים.",
+    "וַיִּגְדַּל הַמֶּלֶךְ שְׁלֹמֹה מִכֹּל מַלְכֵי הָאָרֶץ לְעֹשֶׁר וּלְחָכְמָה.",
+    "ובעקבות המסחר במרחקים – וְכָל־הָאָרֶץ מְבַקְשִׁים אֶת־פְּנֵי שְׁלֹמֹה, לִשְׁמֹעַ אֶת־חָכְמָתוֹ אֲשֶׁר־נָתַן אֱלֹהִים בְּלִבּוֹ.",
+    "וְהֵמָּה, המבקרים הרבים מְבִיאִים אִישׁ מִנְחָתוֹ, כְּלֵי־כֶסֶף וּכְלֵי זָהָב וּשְׂלָמוֹת, שמלות, בגדים וְנֵשֶׁק וּבְשָׂמִים, סוּסִים וּפְרָדִים, דְּבַר־שָׁנָה בְּשָׁנָה. וכך התקבצו אצל שלמה אוצרות גדולים.",
+    "וַיֶּאֱסֹף שְׁלֹמֹה רֶכֶב וּפָרָשִׁים, וַיְהִי־לוֹ אֶלֶף וְאַרְבַּע־מֵאוֹת רֶכֶב וּשְׁנֵים־עָשָׂר אֶלֶף פָּרָשִׁים, וַיַּנְחֵם, הוליך חלק מהפרשים והמרכבות בְּעָרֵי, אל ערי הָרֶכֶב מטעמי ארגון וכדי למנוע שוד או ביזה, וקצתם שהו עִם־הַמֶּלֶךְ בִּירוּשָׁלִָם.",
+    "וַיִּתֵּן הַמֶּלֶךְ אֶת־הַכֶּסֶף בִּירוּשָׁלִַם כַּאֲבָנִים. הכסף היה כה רב, שהוא היה מצוי כמו אבנים. וְאֵת הָאֲרָזִים נָתַן כַּשִּׁקְמִים אֲשֶׁר־בַּשְּׁפֵלָה לָרֹב. הארזים הרבים שהגיעו לירושלים נחשבו כמו השקמים בשפלה, שם הם נפוצים מאוד.",
+    "וּמוֹצָא, מקור הַסּוּסִים אֲשֶׁר לִשְׁלֹמֹה – מִמִּצְרָיִם. וּבמצרים מִקְוֵה, התאספות הסוסים הייתה ביד סֹחֲרֵי הַמֶּלֶךְ שלמה. את הזכות למכירת הסוסים קיבל שלמה, והסוחרים יִקְחוּ, קונים מִקְוֵה בִּמְחִיר משלמה.",
+    "וַתַּעֲלֶה וַתֵּצֵא מֶרְכָּבָה מִמִּצְרַיִם בְּשֵׁשׁ מֵאוֹת כֶּסֶף, וְסוּס בַּחֲמִשִּׁים וּמֵאָה, וְכֵן, כך, במחיר הזה נמכרו לְכָל־מַלְכֵי הַחִתִּים וּלְמַלְכֵי אֲרָם. כולם הזדקקו למרכבות ולסוסים לצבאותיהם, ומכיוון ששלמה היה הספָּק, הם בְּיָדָם יֹצִאוּ, שילמו וקנו ממנו. שלמה קנה את הסוסים במצרים, טיפח אותם ומכרם לארצות הצפון."
+  ],
+  "ai_explanation": [
+    "מלכת שבא, שאולי שכנה בדרום ערב, בסביבות תימן, במזרח אפריקה או באתיופיה, שמעה על חכמת שלמה ועל אופייה האלוהי. היא באה לשאול אותו שאלות ולבחון את חכמתו באמצעות חידות, בעיקר כדי לפגוש את האיש שחכמתו התפרסמה עד אליה.",
+    "מלכת שבא הגיעה לירושלים בשיירה גדולה של גמלים שנשאו בשמים, זהב רב ואבנים יקרות. היא סיפרה לשלמה את כל השאלות והעניינים שהעסיקו אותה.",
+    "שלמה ענה על כל שאלותיה, ולא היה דבר שנעלם ממנו ולא ידע להסביר לה.",
+    "מלכת שבא ראתה את חכמת שלמה ואת הבית שבנה.",
+    "היא ראתה את מאכלי שולחנו, את מקומות ישיבת עבדיו, את סדר עמידת משרתיו ואת לבושיהם, את משקאותיו ואת גרם המדרגות המפואר שהוביל מבית המלך לבית ה'. מרוב התפעלות לא נותרה בה רוח.",
+    "היא אמרה למלך שכל מה ששמעה בארצה על דבריו ועל חכמתו היה אמת.",
+    "היא לא האמינה לדברים עד שבאה וראתה במו עיניה. לדבריה, לא סיפרו לה אפילו חצי מן המציאות, ושלמה הוסיף חכמה וטוב על השמועה שהגיעה אליה.",
+    "היא בירכה את אנשיו ואת עבדיו של שלמה, הזוכים לעמוד לפניו תמיד ולשמוע את חכמתו, בעוד היא זכתה רק לשיחות אחדות עמו.",
+    "היא בירכה את ה' אלוהי שלמה, שבחר בו והושיבו על כס מלך ישראל מתוך אהבתו לישראל. תפקידו של שלמה הוא לעשות משפט וצדקה.",
+    "מלכת שבא נתנה לשלמה מאה ועשרים כיכרות זהב, בשמים רבים מאוד ואבנים יקרות. לא הגיע עוד לירושלים בושם בכמות גדולה כל כך כמו הבושם שהביאה.",
+    "באותו זמן הגיעו גם אוצרות מן הדרום באמצעות צי האניות של חירם, שהביא זהב מאופיר, עצי אלמוגים או עצים מיוחדים מן האזור, ואבנים יקרות. לפי הפירוש, ערכם של האלמוגים או העצים היה רב בשל נדירותם והמרחק שממנו הובאו.",
+    "שלמה השתמש בעצי האלמוגים או בעצים המיוחדים למעקות בבית ה' ובבית המלך, וכן להכנת כינורות ונבלים לשרים. כמות כזאת של עצים לא נראתה עד אותו יום, והגעתה התאפשרה בזכות צי האניות של שלמה.",
+    "שלמה נתן למלכת שבא כל מה שביקשה, מלבד המתנות הנוספות שנתן לה בנדיבות כיאה למלך. לאחר מכן שבה לארצה עם עבדיה.",
+    "בשנה אחת הגיע לשלמה זהב במשקל שש מאות שישים ושש כיכרות. השנה המתוארת היא השנה שבה הגיעה מלכת שבא וגם הגיע זהב באניות הצידונים.",
+    "סכום זה אינו כולל את המסים שהביאו אנשי התרים, סוחרים נודדים, סוחרי הרוכלים, מלכי הערב והפחות, כלומר שרי הארץ.",
+    "שלמה הכין מאתיים צינות, מגינים גדולים, מזהב שחוט. על כל צינה הונחו שש מאות מטבעות זהב, שמשקלם הכולל קרוב לשבעה קילוגרמים; \"זהב שחוט\" מוסבר כזהב מתוח או כזהב שסיגים מעטים בו משנים את צבעו.",
+    "הוא הכין גם שלוש מאות מגינים קטנים יותר מזהב שחוט. על כל מגן הונחו שלוש מנים, יחידת משקל של מאה מטבעות זהב, ואת המגינים הציב בבית יער הלבנון כמחסן נשק, כאוצר או לנוי.",
+    "שלמה הכין כיסא גדול משנהב, כלומר משן פיל, וציפה אותו בזהב מופז. \"מופז\" יכול להתפרש כזהב שהגיע מאופז או כזהב שעבר זיקוק באמצעות כיתות ופיזור.",
+    "אל הכיסא עלו שש מדרגות, ומאחוריו היה ראש עגול ששימש למשענת או לקישוט. משני הצדדים היו ידיות להנחת הידיים, ולצדן עמדו שני פסלי אריות, כנראה מזהב.",
+    "על שש המדרגות עמדו שנים עשר אריות, אריה בכל צד של כל מדרגה. כיסא כזה לא נעשה לאף ממלכה אחרת.",
+    "כל כלי השתייה של שלמה וכל כלי בית יער הלבנון היו עשויים זהב מזוקק. מרוב הזהב, הכסף לא נחשב בימי שלמה לדבר בעל ערך.",
+    "צי האניות של שלמה הפליג בים יחד עם אניות חירם. אחת לשלוש שנים הגיעו אניות גדולות וחזקות, המסוגלות להפליג עד תרשיש, כשהן נושאות זהב, כסף, שנהבים, קופים ותוכיים, המזוהים עם טווסים.",
+    "שלמה נעשה גדול מכל מלכי הארץ בעושר ובחכמה.",
+    "כל הארץ ביקשה לבוא אל שלמה כדי לשמוע את חכמתו, שהאלוהים נתן בלבו. המסחר והקשרים למרחקים תרמו לפרסום ולשגשוג שתוארו.",
+    "המבקרים הביאו לשלמה מתנות אישיות: כלי כסף וזהב, בגדים, נשק, בשמים, סוסים ופרדים. כך נאספו אצל שלמה אוצרות גדולים מדי שנה.",
+    "שלמה אסף רכב ופרשים, והיו לו אלף וארבע מאות מרכבות ושנים עשר אלף פרשים. חלק מהם הוצב בערי הרכב לצורכי ארגון ולהגנה מפני שוד, וחלקם שהה עם המלך בירושלים.",
+    "הכסף בירושלים היה מצוי בשפע, כמו אבנים. גם הארזים שהגיעו לירושלים היו רבים עד שנחשבו כמו השקמים הנפוצות בשפלה.",
+    "מקור הסוסים של שלמה היה במצרים. סוחרי המלך ריכזו שם את הסוסים, ושלמה החזיק בזכות למכור אותם והציע אותם לקונים במחיר.",
+    "מרכבה שיוצאה ממצרים נמכרה בשש מאות כסף, וסוס במאה וחמישים כסף. באותו מחיר נמכרו מרכבות וסוסים גם למלכי החיתים ולמלכי ארם; שלמה קנה את הסוסים במצרים, טיפח אותם ומכרם לארצות הצפון."
+  ],
+  "ai_explanation_en": [
+    "The Queen of Sheba, who may have lived in southern Arabia around Yemen, in East Africa, or in Ethiopia, heard about Solomon’s wisdom and its divine character. She came to ask him questions and test his wisdom with riddles, mainly in order to meet the man whose wisdom had become known to her.",
+    "The Queen of Sheba arrived in Jerusalem with a very large caravan of camels carrying spices, much gold, and precious stones. She told Solomon all the questions and matters that concerned her.",
+    "Solomon answered all her questions, and nothing was hidden from him that he could not explain to her.",
+    "The Queen of Sheba saw Solomon’s wisdom and the house he had built.",
+    "She saw the food at his table, the seating of his servants, the order and appearance of his attendants, their clothing, his beverages, and the splendid staircase leading from the royal palace to the House of the Lord. She was overwhelmed with amazement.",
+    "She told the king that everything she had heard in her land about his words and wisdom was true.",
+    "She had not believed the reports until she came and saw with her own eyes. In her words, she had not even been told half of what she found, and Solomon had added wisdom and goodness beyond the report she had heard.",
+    "She praised Solomon’s people and servants, who were always able to stand before him and hear his wisdom, whereas she had only been able to have a few conversations with him.",
+    "She blessed the Lord, Solomon’s God, who had chosen him and placed him on Israel’s throne out of His love for Israel. Solomon’s task was to administer justice and righteousness.",
+    "The Queen of Sheba gave Solomon one hundred and twenty talents of gold, very large quantities of spices, and precious stones. No similar quantity of spices ever again arrived in Jerusalem.",
+    "At that time, additional treasures also arrived from the south through Hiram’s fleet, which brought gold from Ophir, algum wood or special trees from that region, and precious stones. According to the commentary, the value of the wood or coral was high because of its rarity and the distance from which it was brought.",
+    "Solomon used the algum wood, or the special trees, for railings in the House of the Lord and the royal palace, and also to make lyres and harps for the singers. Such a quantity of the wood had never been seen before, and its arrival was made possible by Solomon’s fleet.",
+    "Solomon gave the Queen of Sheba everything she requested, in addition to the gifts he generously gave her as befitted a king. She then returned to her land with her servants.",
+    "In one year, gold weighing six hundred and sixty-six talents came to Solomon. The year described was the year in which the Queen of Sheba arrived and gold also came on the Sidonian ships.",
+    "This total did not include the taxes brought by the trading caravans, traveling merchants, small-scale traders, the kings of Arabia, and the governors, meaning the officials of the land.",
+    "Solomon made two hundred large shields, or large defensive shields, from beaten gold. Each shield received six hundred gold coins, whose total weight was close to seven kilograms; “beaten gold” is explained as stretched gold or gold containing so few impurities that they changed its color.",
+    "He also made three hundred smaller shields of beaten gold. Each shield received three minas, a unit of weight equal to one hundred gold coins, and he placed the shields in the House of the Forest of Lebanon as a weapons store, a treasury, or for decoration.",
+    "Solomon made a large throne of ivory, meaning elephant tusk, and overlaid it with refined gold. “Mupaz” may mean gold from the distant place called Uphaz, or gold purified through pounding and scattering.",
+    "The throne had six steps, and behind it was a rounded back or ornament. There were handles on both sides for resting the hands, and two lion statues, probably made of gold, stood beside them.",
+    "Twelve lions stood on the six steps, one on each side of every step. No other kingdom had made such a throne.",
+    "All Solomon’s drinking vessels and all the vessels of the House of the Forest of Lebanon were made of refined gold. Because gold was so abundant, silver was not considered valuable in Solomon’s days.",
+    "Solomon’s fleet sailed on the sea with Hiram’s ships. Once every three years, large and powerful ships, capable of sailing as far as Tarshish, arrived carrying gold, silver, ivory, apes, and parrots, identified here with peacocks.",
+    "Solomon became greater than all the kings of the earth in wealth and wisdom.",
+    "The whole world sought an audience with Solomon in order to hear the wisdom that God had placed in his heart. The trade and long-distance connections contributed to the prosperity and renown described here.",
+    "The visitors brought Solomon personal gifts: silver and gold vessels, clothing, weapons, spices, horses, and mules. In this way, great treasures accumulated for Solomon year after year.",
+    "Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen. Some were stationed in the chariot cities for organization and protection against robbery, while others stayed with the king in Jerusalem.",
+    "Silver was abundant in Jerusalem, like stones. The cedars brought to Jerusalem were also so numerous that they were considered like the common sycamores of the lowlands.",
+    "Solomon’s horses came from Egypt. The king’s merchants gathered the horses there, and Solomon controlled the right to sell them and offered them to buyers at a price.",
+    "A chariot exported from Egypt was sold for six hundred pieces of silver, and a horse for one hundred and fifty. Chariots and horses were sold at the same price to the kings of the Hittites and the kings of Aram; Solomon bought the horses in Egypt, trained them, and sold them to the northern lands."
+  ],
+  "perush": [
+    "מלכת שבא, שאולי שכנה בדרום ערב, בסביבות תימן, במזרח אפריקה או באתיופיה, שמעה על חכמת שלמה ועל אופייה האלוהי. היא באה לשאול אותו שאלות ולבחון את חכמתו באמצעות חידות, בעיקר כדי לפגוש את האיש שחכמתו התפרסמה עד אליה.",
+    "מלכת שבא הגיעה לירושלים בשיירה גדולה של גמלים שנשאו בשמים, זהב רב ואבנים יקרות. היא סיפרה לשלמה את כל השאלות והעניינים שהעסיקו אותה.",
+    "שלמה ענה על כל שאלותיה, ולא היה דבר שנעלם ממנו ולא ידע להסביר לה.",
+    "מלכת שבא ראתה את חכמת שלמה ואת הבית שבנה.",
+    "היא ראתה את מאכלי שולחנו, את מקומות ישיבת עבדיו, את סדר עמידת משרתיו ואת לבושיהם, את משקאותיו ואת גרם המדרגות המפואר שהוביל מבית המלך לבית ה'. מרוב התפעלות לא נותרה בה רוח.",
+    "היא אמרה למלך שכל מה ששמעה בארצה על דבריו ועל חכמתו היה אמת.",
+    "היא לא האמינה לדברים עד שבאה וראתה במו עיניה. לדבריה, לא סיפרו לה אפילו חצי מן המציאות, ושלמה הוסיף חכמה וטוב על השמועה שהגיעה אליה.",
+    "היא בירכה את אנשיו ואת עבדיו של שלמה, הזוכים לעמוד לפניו תמיד ולשמוע את חכמתו, בעוד היא זכתה רק לשיחות אחדות עמו.",
+    "היא בירכה את ה' אלוהי שלמה, שבחר בו והושיבו על כס מלך ישראל מתוך אהבתו לישראל. תפקידו של שלמה הוא לעשות משפט וצדקה.",
+    "מלכת שבא נתנה לשלמה מאה ועשרים כיכרות זהב, בשמים רבים מאוד ואבנים יקרות. לא הגיע עוד לירושלים בושם בכמות גדולה כל כך כמו הבושם שהביאה.",
+    "באותו זמן הגיעו גם אוצרות מן הדרום באמצעות צי האניות של חירם, שהביא זהב מאופיר, עצי אלמוגים או עצים מיוחדים מן האזור, ואבנים יקרות. לפי הפירוש, ערכם של האלמוגים או העצים היה רב בשל נדירותם והמרחק שממנו הובאו.",
+    "שלמה השתמש בעצי האלמוגים או בעצים המיוחדים למעקות בבית ה' ובבית המלך, וכן להכנת כינורות ונבלים לשרים. כמות כזאת של עצים לא נראתה עד אותו יום, והגעתה התאפשרה בזכות צי האניות של שלמה.",
+    "שלמה נתן למלכת שבא כל מה שביקשה, מלבד המתנות הנוספות שנתן לה בנדיבות כיאה למלך. לאחר מכן שבה לארצה עם עבדיה.",
+    "בשנה אחת הגיע לשלמה זהב במשקל שש מאות שישים ושש כיכרות. השנה המתוארת היא השנה שבה הגיעה מלכת שבא וגם הגיע זהב באניות הצידונים.",
+    "סכום זה אינו כולל את המסים שהביאו אנשי התרים, סוחרים נודדים, סוחרי הרוכלים, מלכי הערב והפחות, כלומר שרי הארץ.",
+    "שלמה הכין מאתיים צינות, מגינים גדולים, מזהב שחוט. על כל צינה הונחו שש מאות מטבעות זהב, שמשקלם הכולל קרוב לשבעה קילוגרמים; \"זהב שחוט\" מוסבר כזהב מתוח או כזהב שסיגים מעטים בו משנים את צבעו.",
+    "הוא הכין גם שלוש מאות מגינים קטנים יותר מזהב שחוט. על כל מגן הונחו שלוש מנים, יחידת משקל של מאה מטבעות זהב, ואת המגינים הציב בבית יער הלבנון כמחסן נשק, כאוצר או לנוי.",
+    "שלמה הכין כיסא גדול משנהב, כלומר משן פיל, וציפה אותו בזהב מופז. \"מופז\" יכול להתפרש כזהב שהגיע מאופז או כזהב שעבר זיקוק באמצעות כיתות ופיזור.",
+    "אל הכיסא עלו שש מדרגות, ומאחוריו היה ראש עגול ששימש למשענת או לקישוט. משני הצדדים היו ידיות להנחת הידיים, ולצדן עמדו שני פסלי אריות, כנראה מזהב.",
+    "על שש המדרגות עמדו שנים עשר אריות, אריה בכל צד של כל מדרגה. כיסא כזה לא נעשה לאף ממלכה אחרת.",
+    "כל כלי השתייה של שלמה וכל כלי בית יער הלבנון היו עשויים זהב מזוקק. מרוב הזהב, הכסף לא נחשב בימי שלמה לדבר בעל ערך.",
+    "צי האניות של שלמה הפליג בים יחד עם אניות חירם. אחת לשלוש שנים הגיעו אניות גדולות וחזקות, המסוגלות להפליג עד תרשיש, כשהן נושאות זהב, כסף, שנהבים, קופים ותוכיים, המזוהים עם טווסים.",
+    "שלמה נעשה גדול מכל מלכי הארץ בעושר ובחכמה.",
+    "כל הארץ ביקשה לבוא אל שלמה כדי לשמוע את חכמתו, שהאלוהים נתן בלבו. המסחר והקשרים למרחקים תרמו לפרסום ולשגשוג שתוארו.",
+    "המבקרים הביאו לשלמה מתנות אישיות: כלי כסף וזהב, בגדים, נשק, בשמים, סוסים ופרדים. כך נאספו אצל שלמה אוצרות גדולים מדי שנה.",
+    "שלמה אסף רכב ופרשים, והיו לו אלף וארבע מאות מרכבות ושנים עשר אלף פרשים. חלק מהם הוצב בערי הרכב לצורכי ארגון ולהגנה מפני שוד, וחלקם שהה עם המלך בירושלים.",
+    "הכסף בירושלים היה מצוי בשפע, כמו אבנים. גם הארזים שהגיעו לירושלים היו רבים עד שנחשבו כמו השקמים הנפוצות בשפלה.",
+    "מקור הסוסים של שלמה היה במצרים. סוחרי המלך ריכזו שם את הסוסים, ושלמה החזיק בזכות למכור אותם והציע אותם לקונים במחיר.",
+    "מרכבה שיוצאה ממצרים נמכרה בשש מאות כסף, וסוס במאה וחמישים כסף. באותו מחיר נמכרו מרכבות וסוסים גם למלכי החיתים ולמלכי ארם; שלמה קנה את הסוסים במצרים, טיפח אותם ומכרם לארצות הצפון."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ביקור מלכת שבא והתרשמותה מחכמת שלמה",
+      "title_en": "The Queen of Sheba’s Visit and Her Impression of Solomon’s Wisdom",
+      "start_verse": 1,
+      "end_verse": 13,
+      "summary": "מלכת שבא מגיעה לירושלים כדי לבחון את חכמת שלמה, מתרשמת מתשובותיו, מארמונו ומסדר מלכותו, מברכת את ה' ומעניקה לו זהב, בשמים ואבנים יקרות. שלמה משיב לה במתנות ובכל אשר ביקשה.",
+      "summary_en": "The Queen of Sheba comes to Jerusalem to test Solomon’s wisdom. She is impressed by his answers, palace, and royal order, blesses the Lord, gives him gold, spices, and precious stones, and receives gifts and whatever she requested in return.",
+      "image_prompt": "A richly detailed biblical-era royal audience in Jerusalem: the Queen of Sheba arriving with camels carrying spices, gold, and precious stones, standing before Solomon in a magnificent palace, respectful and scholarly atmosphere, no modern objects, historically non-specific artistic reconstruction"
+    },
+    {
+      "title": "הזהב, עצי האלמוגים והעושר המלכותי",
+      "title_en": "Gold, Algum Wood, and Royal Wealth",
+      "start_verse": 14,
+      "end_verse": 22,
+      "summary": "הפרק מתאר את הכנסות הזהב של שלמה, את מגיני הזהב, את כיסא השנהב המצופה זהב ואת כלי הזהב. במקביל מתוארים צי האניות והסחורות שהגיעו במסעות הים.",
+      "summary_en": "The passage describes Solomon’s gold revenues, golden shields, an ivory throne overlaid with gold, and golden vessels. It also describes the fleets and valuable goods arriving through maritime voyages.",
+      "image_prompt": "A grand royal treasury and throne hall with golden shields, an ivory throne, lion figures on steps, golden vessels, and a ship’s cargo of precious goods in the background, biblical-era setting, no modern objects"
+    },
+    {
+      "title": "פרסום שלמה ומתנות העמים",
+      "title_en": "Solomon’s Renown and the Gifts of the Nations",
+      "start_verse": 23,
+      "end_verse": 25,
+      "summary": "שלמה מתואר כגדול מכל מלכי הארץ בעושר ובחכמה. אנשים מכל הארץ באים לשמוע את חכמתו ומביאים לו מדי שנה כלי מתכת יקרים, בגדים, נשק, בשמים, סוסים ופרדים.",
+      "summary_en": "Solomon is described as greater than all the kings of the earth in wealth and wisdom. People from every land come to hear his wisdom and bring yearly gifts of precious vessels, clothing, weapons, spices, horses, and mules.",
+      "image_prompt": "A formal royal court receiving visitors from many lands who bring gifts of silver and gold vessels, clothing, weapons, spices, horses, and mules, with Solomon seated in the center, biblical-era visual style, no modern objects"
+    },
+    {
+      "title": "צבא המרכבות ושפע בירושלים",
+      "title_en": "The Chariot Army and Abundance in Jerusalem",
+      "start_verse": 26,
+      "end_verse": 27,
+      "summary": "שלמה מרכז מרכבות ופרשים, מציב חלק מהם בערי הרכב וחלק בירושלים, ומתואר השפע הרב של הכסף והארזים בעיר.",
+      "summary_en": "Solomon gathers chariots and horsemen, stations some in the chariot cities and others in Jerusalem, and Jerusalem is portrayed as overflowing with silver and cedar wood.",
+      "image_prompt": "A biblical-era Jerusalem scene with organized chariots and horsemen near the city, cedar logs and silver objects visible in abundance, dignified royal atmosphere, no modern objects"
+    },
+    {
+      "title": "סחר הסוסים ממצרים",
+      "title_en": "The Horse Trade from Egypt",
+      "start_verse": 28,
+      "end_verse": 29,
+      "summary": "הסוסים של שלמה מגיעים ממצרים ונאספים בידי סוחרי המלך. המרכבות והסוסים נמכרים במחירים קבועים גם למלכי החיתים ולמלכי ארם.",
+      "summary_en": "Solomon’s horses come from Egypt and are gathered by the king’s merchants. Chariots and horses are sold at fixed prices to the kings of the Hittites and the kings of Aram as well.",
+      "image_prompt": "A biblical-era marketplace and trade route showing Egyptian horses, chariots, and royal merchants negotiating with foreign buyers, historically non-specific setting, no modern objects"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 10.82,
+      "usfm": "1KI.10.1"
+    },
+    {
+      "start": 10.82,
+      "end": 23.94,
+      "usfm": "1KI.10.2"
+    },
+    {
+      "start": 23.94,
+      "end": 31.14,
+      "usfm": "1KI.10.3"
+    },
+    {
+      "start": 31.14,
+      "end": 35.84,
+      "usfm": "1KI.10.4"
+    },
+    {
+      "start": 35.84,
+      "end": 49.84,
+      "usfm": "1KI.10.5"
+    },
+    {
+      "start": 49.84,
+      "end": 57.4,
+      "usfm": "1KI.10.6"
+    },
+    {
+      "start": 57.4,
+      "end": 70.52,
+      "usfm": "1KI.10.7"
+    },
+    {
+      "start": 70.52,
+      "end": 79.14,
+      "usfm": "1KI.10.8"
+    },
+    {
+      "start": 79.14,
+      "end": 94.72,
+      "usfm": "1KI.10.9"
+    },
+    {
+      "start": 94.72,
+      "end": 110.26,
+      "usfm": "1KI.10.10"
+    },
+    {
+      "start": 110.26,
+      "end": 118.76,
+      "usfm": "1KI.10.11"
+    },
+    {
+      "start": 118.76,
+      "end": 133.18,
+      "usfm": "1KI.10.12"
+    },
+    {
+      "start": 133.18,
+      "end": 146.72,
+      "usfm": "1KI.10.13"
+    },
+    {
+      "start": 146.72,
+      "end": 154.26,
+      "usfm": "1KI.10.14"
+    },
+    {
+      "start": 154.26,
+      "end": 162.74,
+      "usfm": "1KI.10.15"
+    },
+    {
+      "start": 162.74,
+      "end": 169.7,
+      "usfm": "1KI.10.16"
+    },
+    {
+      "start": 169.7,
+      "end": 178.34,
+      "usfm": "1KI.10.17"
+    },
+    {
+      "start": 178.34,
+      "end": 184.68,
+      "usfm": "1KI.10.18"
+    },
+    {
+      "start": 184.68,
+      "end": 195.54,
+      "usfm": "1KI.10.19"
+    },
+    {
+      "start": 195.54,
+      "end": 204.32,
+      "usfm": "1KI.10.20"
+    },
+    {
+      "start": 204.32,
+      "end": 216.36,
+      "usfm": "1KI.10.21"
+    },
+    {
+      "start": 216.36,
+      "end": 229.7,
+      "usfm": "1KI.10.22"
+    },
+    {
+      "start": 229.7,
+      "end": 235.74,
+      "usfm": "1KI.10.23"
+    },
+    {
+      "start": 235.74,
+      "end": 241.42,
+      "usfm": "1KI.10.24"
+    },
+    {
+      "start": 241.42,
+      "end": 251.76,
+      "usfm": "1KI.10.25"
+    },
+    {
+      "start": 251.76,
+      "end": 263.42,
+      "usfm": "1KI.10.26"
+    },
+    {
+      "start": 263.42,
+      "end": 272.48,
+      "usfm": "1KI.10.27"
+    },
+    {
+      "start": 272.48,
+      "end": 280.96,
+      "usfm": "1KI.10.28"
+    },
+    {
+      "start": 280.96,
+      "end": 302.8,
+      "usfm": "1KI.10.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    10.82,
+    23.94,
+    31.14,
+    35.84,
+    49.84,
+    57.4,
+    70.52,
+    79.14,
+    94.72,
+    110.26,
+    118.76,
+    133.18,
+    146.72,
+    154.26,
+    162.74,
+    169.7,
+    178.34,
+    184.68,
+    195.54,
+    204.32,
+    216.36,
+    229.7,
+    235.74,
+    241.42,
+    251.76,
+    263.42,
+    272.48,
+    280.96,
+    302.8
+  ],
+  "times_en_usfm": [
+    "1KI.10.1",
+    "1KI.10.2",
+    "1KI.10.3",
+    "1KI.10.4",
+    "1KI.10.5",
+    "1KI.10.6",
+    "1KI.10.7",
+    "1KI.10.8",
+    "1KI.10.9",
+    "1KI.10.10",
+    "1KI.10.11",
+    "1KI.10.12",
+    "1KI.10.13",
+    "1KI.10.14",
+    "1KI.10.15",
+    "1KI.10.16",
+    "1KI.10.17",
+    "1KI.10.18",
+    "1KI.10.19",
+    "1KI.10.20",
+    "1KI.10.21",
+    "1KI.10.22",
+    "1KI.10.23",
+    "1KI.10.24",
+    "1KI.10.25",
+    "1KI.10.26",
+    "1KI.10.27",
+    "1KI.10.28",
+    "1KI.10.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? מלכת שבא הגיעה לירושלים כדי לבחון את שלמה בחידות, לאחר ששמעה על חכמתו ולשם ה'.",
+      "text_he": "הידעת? מלכת שבא הגיעה לירושלים כדי לבחון את שלמה בחידות, לאחר ששמעה על חכמתו ולשם ה'.",
+      "text_en": "Did you know? The Queen of Sheba came to Jerusalem to test Solomon with riddles after hearing about his wisdom and his devotion to the name of the Lord."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? מלכת שבא הגיעה לירושלים בחיל כבד, עם גמלים שנשאו בשמים, זהב רב ואבנים יקרות.",
+      "text_he": "הידעת? מלכת שבא הגיעה לירושלים בחיל כבד, עם גמלים שנשאו בשמים, זהב רב ואבנים יקרות.",
+      "text_en": "Did you know? The Queen of Sheba came to Jerusalem with a large entourage, including camels carrying spices, great quantities of gold, and precious stones."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? שלמה השיב על כל שאלותיה של מלכת שבא, והכתוב מדגיש שלא היה דבר נעלם ממנו שלא הגיד לה.",
+      "text_he": "הידעת? שלמה השיב על כל שאלותיה של מלכת שבא, והכתוב מדגיש שלא היה דבר נעלם ממנו שלא הגיד לה.",
+      "text_en": "Did you know? Solomon answered all the Queen of Sheba’s questions, and the text emphasizes that nothing was hidden from him that he could not explain to her."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? מלכת שבא לא התרשמה רק מחכמת שלמה, אלא גם ממאכל שולחנו, ממושב עבדיו, מסדר משרתיו, מלבושיהם, ממשקיו ומהעולה שהעלה בבית ה'.",
+      "text_he": "הידעת? מלכת שבא לא התרשמה רק מחכמת שלמה, אלא גם ממאכל שולחנו, ממושב עבדיו, מסדר משרתיו, מלבושיהם, ממשקיו ומהעולה שהעלה בבית ה'.",
+      "text_en": "Did you know? The Queen of Sheba was impressed not only by Solomon’s wisdom, but also by the food at his table, the seating of his servants, the order of his attendants, their clothing, his cupbearers, and the burnt offerings he presented at the house of the Lord."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? מלכת שבא קישרה בין מלכות שלמה לבין אהבת ה' לישראל, ושיבחה אותו על כך שהוא עושה משפט וצדקה.",
+      "text_he": "הידעת? מלכת שבא קישרה בין מלכות שלמה לבין אהבת ה' לישראל, ושיבחה אותו על כך שהוא עושה משפט וצדקה.",
+      "text_en": "Did you know? The Queen of Sheba connected Solomon’s kingdom with the Lord’s love for Israel and praised him for practicing justice and righteousness."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? מלכת שבא העניקה לשלמה מאה ועשרים כיכר זהב, בשמים רבים מאוד ואבנים יקרות.",
+      "text_he": "הידעת? מלכת שבא העניקה לשלמה מאה ועשרים כיכר זהב, בשמים רבים מאוד ואבנים יקרות.",
+      "text_en": "Did you know? The Queen of Sheba gave Solomon 120 talents of gold, a very large quantity of spices, and precious stones."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? עצי האלמוגים שהביא חירם מאופיר שימשו להכנת מסעדות לבית ה', לבית המלך וכלי נגינה למשוררים; הכתוב מציין שלא נראו עצים כאלה עד אותו היום.",
+      "text_he": "הידעת? עצי האלמוגים שהביא חירם מאופיר שימשו להכנת מסעדות לבית ה', לבית המלך וכלי נגינה למשוררים; הכתוב מציין שלא נראו עצים כאלה עד אותו היום.",
+      "text_en": "Did you know? The algum wood that Hiram brought from Ophir was used to make supports for the house of the Lord and the royal palace, as well as musical instruments for the singers; the text notes that no such wood had been seen until that day."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? משקל הזהב שהגיע לשלמה בשנה אחת היה שש מאות שישים ושש כיכר זהב, מלבד הכנסות נוספות מסוחרים, מלכים ופחות הארץ.",
+      "text_he": "הידעת? משקל הזהב שהגיע לשלמה בשנה אחת היה שש מאות שישים ושש כיכר זהב, מלבד הכנסות נוספות מסוחרים, מלכים ופחות הארץ.",
+      "text_en": "Did you know? The weight of the gold that came to Solomon in one year was 666 talents, not counting the additional revenues from merchants, kings, and the governors of the land."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? כיסא השנהב של שלמה היה מצופה זהב, ולצדו היו שש מעלות, אריות ליד הידיות ואריות נוספים על המעלות; הכתוב אומר שלא נעשה כמותו לכל ממלכה.",
+      "text_he": "הידעת? כיסא השנהב של שלמה היה מצופה זהב, ולצדו היו שש מעלות, אריות ליד הידיות ואריות נוספים על המעלות; הכתוב אומר שלא נעשה כמותו לכל ממלכה.",
+      "text_en": "Did you know? Solomon’s ivory throne was overlaid with gold. It had six steps, lions beside the armrests, and additional lions on the steps; the text says that no other kingdom had made anything like it."
+    },
+    {
+      "verse": 28,
+      "text": "הידעת? סוחרי המלך של שלמה הביאו את הסוסים ממצרים, והמרכבות והסוסים נמכרו גם למלכי החיתים ולמלכי ארם.",
+      "text_he": "הידעת? סוחרי המלך של שלמה הביאו את הסוסים ממצרים, והמרכבות והסוסים נמכרו גם למלכי החיתים ולמלכי ארם.",
+      "text_en": "Did you know? Solomon’s royal merchants brought horses from Egypt, and the chariots and horses were also sold to the kings of the Hittites and the kings of Aram."
+    }
+  ]
+}

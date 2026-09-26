@@ -1,0 +1,546 @@
+{
+  "book": "Jeremiah",
+  "book_he": "ירמיהו",
+  "book_chapters": 52,
+  "chapter": 6,
+  "title": "ירמיהו פרק 6",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1106.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1106.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JER/6-3513caf6beb35e418910ad77764a4fd6.mp3?version_id=1",
+  "verses": [
+    "הָעִזוּ בְּנֵי בִנְיָמִן, מִקֶּרֶב יְרוּשָׁלִַם, וּבִתְקוֹעַ תִּקְעוּ שׁוֹפָר, וְעַל-בֵּית הַכֶּרֶם שְׂאוּ מַשְׂאֵת: כִּי רָעָה נִשְׁקְפָה מִצָּפוֹן, וְשֶׁבֶר גָּדוֹל.",
+    "הַנָּוָה, וְהַמְּעֻנָּגָה, דָּמִיתִי, בַּת-צִיּוֹן.",
+    "אֵלֶיהָ יָבֹאוּ רֹעִים, וְעֶדְרֵיהֶם; תָּקְעוּ עָלֶיהָ אֹהָלִים סָבִיב, רָעוּ אִישׁ אֶת-יָדוֹ.",
+    "קַדְּשׁוּ עָלֶיהָ מִלְחָמָה, קוּמוּ וְנַעֲלֶה בַצָּהֳרָיִם; אוֹי לָנוּ כִּי-פָנָה הַיּוֹם, כִּי יִנָּטוּ צִלְלֵי-עָרֶב.",
+    "קוּמוּ וְנַעֲלֶה בַלָּיְלָה, וְנַשְׁחִיתָה אַרְמְנוֹתֶיהָ.",
+    "כִּי כֹה אָמַר, יְהוָה צְבָאוֹת, כִּרְתוּ עֵצָה, וְשִׁפְכוּ עַל-יְרוּשָׁלִַם סֹלְלָה; הִיא הָעִיר הָפְקַד, כֻּלָּהּ עֹשֶׁק בְּקִרְבָּהּ.",
+    "כְּהָקִיר בור בַּיִר מֵימֶיהָ, כֵּן הֵקֵרָה רָעָתָהּ; חָמָס וָשֹׁד יִשָּׁמַע בָּהּ עַל-פָּנַי, תָּמִיד--חֳלִי וּמַכָּה.",
+    "הִוָּסְרִי, יְרוּשָׁלִַם--פֶּן-תֵּקַע נַפְשִׁי, מִמֵּךְ: פֶּן-אֲשִׂימֵךְ שְׁמָמָה, אֶרֶץ לוֹא נוֹשָׁבָה.",
+    "כֹּה אָמַר יְהוָה צְבָאוֹת, עוֹלֵל יְעוֹלְלוּ כַגֶּפֶן שְׁאֵרִית יִשְׂרָאֵל; הָשֵׁב, יָדְךָ, כְּבוֹצֵר, עַל-סַלְסִלּוֹת.",
+    "עַל-מִי אֲדַבְּרָה וְאָעִידָה, וְיִשְׁמָעוּ--הִנֵּה עֲרֵלָה אָזְנָם, וְלֹא יוּכְלוּ לְהַקְשִׁיב; הִנֵּה דְבַר-יְהוָה, הָיָה לָהֶם לְחֶרְפָּה--לֹא יַחְפְּצוּ-בוֹ.",
+    "וְאֵת חֲמַת יְהוָה מָלֵאתִי, נִלְאֵיתִי הָכִיל--שְׁפֹךְ עַל-עוֹלָל בַּחוּץ, וְעַל סוֹד בַּחוּרִים יַחְדָּו: כִּי-גַם-אִישׁ עִם-אִשָּׁה יִלָּכֵדוּ, זָקֵן עִם-מְלֵא יָמִים.",
+    "וְנָסַבּוּ בָתֵּיהֶם לַאֲחֵרִים, שָׂדוֹת וְנָשִׁים יַחְדָּו: כִּי-אַטֶּה אֶת-יָדִי עַל-יֹשְׁבֵי הָאָרֶץ, נְאֻם-יְהוָה.",
+    "כִּי מִקְּטַנָּם וְעַד-גְּדוֹלָם, כֻּלּוֹ בּוֹצֵעַ בָּצַע; וּמִנָּבִיא, וְעַד-כֹּהֵן--כֻּלּוֹ, עֹשֶׂה שָּׁקֶר.",
+    "וַיְרַפְּאוּ אֶת-שֶׁבֶר עַמִּי, עַל-נְקַלָּה--לֵאמֹר, שָׁלוֹם שָׁלוֹם; וְאֵין, שָׁלוֹם.",
+    "הֹבִישׁוּ, כִּי תוֹעֵבָה עָשׂוּ; גַּם-בּוֹשׁ לֹא-יֵבוֹשׁוּ, גַּם-הַכְלִים לֹא יָדָעוּ--לָכֵן יִפְּלוּ בַנֹּפְלִים בְּעֵת-פְּקַדְתִּים יִכָּשְׁלוּ, אָמַר יְהוָה.",
+    "כֹּה אָמַר יְהוָה עִמְדוּ עַל-דְּרָכִים וּרְאוּ וְשַׁאֲלוּ לִנְתִבוֹת עוֹלָם, אֵי-זֶה דֶרֶךְ הַטּוֹב וּלְכוּ-בָהּ, וּמִצְאוּ מַרְגּוֹעַ, לְנַפְשְׁכֶם; וַיֹּאמְרוּ, לֹא נֵלֵךְ.",
+    "וַהֲקִמֹתִי עֲלֵיכֶם צֹפִים, הַקְשִׁיבוּ לְקוֹל שׁוֹפָר; וַיֹּאמְרוּ, לֹא נַקְשִׁיב.",
+    "לָכֵן, שִׁמְעוּ הַגּוֹיִם; וּדְעִי עֵדָה, אֶת-אֲשֶׁר-בָּם.",
+    "שִׁמְעִי הָאָרֶץ--הִנֵּה אָנֹכִי מֵבִיא רָעָה אֶל-הָעָם הַזֶּה, פְּרִי מַחְשְׁבוֹתָם: כִּי עַל-דְּבָרַי לֹא הִקְשִׁיבוּ, וְתוֹרָתִי וַיִּמְאֲסוּ-בָהּ.",
+    "לָמָּה-זֶּה לִי לְבוֹנָה מִשְּׁבָא תָבוֹא, וְקָנֶה הַטּוֹב מֵאֶרֶץ מֶרְחָק; עֹלוֹתֵיכֶם לֹא לְרָצוֹן, וְזִבְחֵיכֶם לֹא-עָרְבוּ לִי.",
+    "לָכֵן, כֹּה אָמַר יְהוָה, הִנְנִי נֹתֵן אֶל-הָעָם הַזֶּה, מִכְשֹׁלִים; וְכָשְׁלוּ בָם אָבוֹת וּבָנִים יַחְדָּו, שָׁכֵן וְרֵעוֹ--יאבדו וְאָבָדוּ .",
+    "כֹּה אָמַר יְהוָה, הִנֵּה עַם בָּא מֵאֶרֶץ צָפוֹן; וְגוֹי גָּדוֹל, יֵעוֹר מִיַּרְכְּתֵי-אָרֶץ.",
+    "קֶשֶׁת וְכִידוֹן יַחֲזִיקוּ, אַכְזָרִי הוּא וְלֹא יְרַחֵמוּ, קוֹלָם כַּיָּם יֶהֱמֶה, וְעַל-סוּסִים יִרְכָּבוּ; עָרוּךְ, כְּאִישׁ לַמִּלְחָמָה, עָלַיִךְ, בַּת-צִיּוֹן.",
+    "שָׁמַעְנוּ אֶת-שָׁמְעוֹ, רָפוּ יָדֵינוּ; צָרָה, הֶחֱזִקַתְנוּ--חִיל, כַּיּוֹלֵדָה.",
+    "אַל-תצאי תֵּצְאוּ הַשָּׂדֶה, וּבַדֶּרֶךְ אַל-תלכי תֵּלֵכוּ : כִּי חֶרֶב לְאֹיֵב, מָגוֹר מִסָּבִיב.",
+    "בַּת-עַמִּי חִגְרִי-שָׂק, וְהִתְפַּלְּשִׁי בָאֵפֶר--אֵבֶל יָחִיד עֲשִׂי לָךְ, מִסְפַּד תַּמְרוּרִים: כִּי פִתְאֹם, יָבֹא הַשֹּׁדֵד עָלֵינוּ.",
+    "בָּחוֹן נְתַתִּיךָ בְעַמִּי, מִבְצָר; וְתֵדַע, וּבָחַנְתָּ אֶת-דַּרְכָּם.",
+    "כֻּלָּם סָרֵי סוֹרְרִים, הֹלְכֵי רָכִיל נְחֹשֶׁת וּבַרְזֶל; כֻּלָּם מַשְׁחִיתִים, הֵמָּה.",
+    "נָחַר מַפֻּחַ, מאשתם מֵאֵשׁ תַּם עֹפָרֶת--לַשָּׁוְא צָרַף צָרוֹף, וְרָעִים לֹא נִתָּקוּ.",
+    "כֶּסֶף נִמְאָס, קָרְאוּ לָהֶם: כִּי-מָאַס יְהוָה, בָּהֶם."
+  ],
+  "english": [
+    "O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.",
+    "I have likened the daughter of Zion to a comely and delicate woman.",
+    "The shepherds with their flocks shall come unto her; they shall pitch their tents against her round about; they shall feed every one in his place.",
+    "Prepare ye war against her; arise, and let us go up at noon. Woe unto us! for the day goeth away, for the shadows of the evening are stretched out.",
+    "Arise, and let us go by night, and let us destroy her palaces.",
+    "For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.",
+    "As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually is grief and wounds.",
+    "Be thou instructed, O Jerusalem, lest my soul depart from thee; lest I make thee desolate, a land not inhabited.",
+    "Thus saith the Lord of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.",
+    "To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the Lord is unto them a reproach; they have no delight in it.",
+    "Therefore I am full of the fury of the Lord; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days.",
+    "And their houses shall be turned unto others, with their fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the Lord.",
+    "For from the least of them even unto the greatest of them every one is given to covetousness; and from the prophet even unto the priest every one dealeth falsely.",
+    "They have healed also the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.",
+    "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore they shall fall among them that fall: at the time that I visit them they shall be cast down, saith the Lord.",
+    "Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein.",
+    "Also I set watchmen over you, saying, Hearken to the sound of the trumpet. But they said, We will not hearken.",
+    "Therefore hear, ye nations, and know, O congregation, what is among them.",
+    "Hear, O earth: behold, I will bring evil upon this people, even the fruit of their thoughts, because they have not hearkened unto my words, nor to my law, but rejected it.",
+    "To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings are not acceptable, nor your sacrifices sweet unto me.",
+    "Therefore thus saith the Lord, Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.",
+    "Thus saith the Lord, Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.",
+    "They shall lay hold on bow and spear; they are cruel, and have no mercy; their voice roareth like the sea; and they ride upon horses, set in array as men for war against thee, O daughter of Zion.",
+    "We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, and pain, as of a woman in travail.",
+    "Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side.",
+    "O daughter of my people, gird thee with sackcloth, and wallow thyself in ashes: make thee mourning, as for an only son, most bitter lamentation: for the spoiler shall suddenly come upon us.",
+    "I have set thee for a tower and a fortress among my people, that thou mayest know and try their way.",
+    "They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters.",
+    "The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.",
+    "Reprobate silver shall men call them, because the Lord hath rejected them."
+  ],
+  "steinsaltz": [
+    "הָעִזוּ, בִּרחו והתאספו במקום מחסה, בְּנֵי בִנְיָמִן, מִקֶּרֶב יְרוּשָׁלִַם, וּבִתְקוֹעַ, עיר מדרום לבית לחם, תִּקְעוּ שׁוֹפָר לאזהרה ולאזעקה, וְעַל־בֵּית הַכֶּרֶם שְׂאוּ מַשְׂאֵת, משואות. הַדליקו מדורות כדי לאותת לאנשים על סכנה, כִּי רָעָה נִשְׁקְפָה מִצָּפוֹן וְשֶׁבֶר, אסון גָּדוֹל. מסביב לירושלים נפתחת מלחמה, ויש להתכונן אליה. יושבי ירושלים והסביבה צריכים לצאת מן העיר ולנסות להתגונן.",
+    "אל האשה הַנָּוָה, הנאווה וְהַמְּעֻנָּגָה דָּמִיתִי, דימיתי בעבר את בַּת־צִיּוֹן, עם ישראל,",
+    "אך בסופו של דבר אֵלֶיהָ יָבֹאוּ רֹעִים וְעֶדְרֵיהֶם, תָּקְעוּ עָלֶיהָ אֹהָלִים סָבִיב, רָעוּ אִישׁ אֶת־יָדוֹ, במקומו. האנשים הגסים המשתלטים, רומסים ואוכלים כל חלקה טובה, הם דימוי לאויבים המכריזים:",
+    "קַדְּשׁוּ עָלֶיהָ, הכינו על בת ציון מִלְחָמָה. קוּמוּ וְנַעֲלֶה למתקפה בַצָּהֳרָיִם. אולם – אוֹי לָנוּ כִּי־פָנָה כבר הַיּוֹם, כִּי־יִנָּטוּ צִלְלֵי־עָרֶב. הצללים נמתחים וכבר התחיל הערב. והם מתעקשים:",
+    "קוּמוּ וְנַעֲלֶה בַלָּיְלָה, וְנַשְׁחִיתָה אַרְמְנוֹתֶיהָ. לא נדחה את המערכה.",
+    "כִּי כֹה אָמַר ה' צְבָאוֹת, שכביכול הוא מפקד על מחנה הצרים: כִּרְתוּ את עֵצָה, העצים שלה לצורך המלחמה, וְשִׁפְכוּ עַל־יְרוּשָׁלִַם סֹלְלָה, תל עפר גדול המוערם סמוך לחומות, כדי לפרוץ לעיר. זו הִיא הָעִיר שעליה הָפְקַד, שניתנה פקודה להענישה, מפני שכֻּלָּהּ עֹשֶׁק, גזל בְּקִרְבָּהּ.",
+    "כְּהָקִיר, כמו שמנביעה בַּיִר, הבאר את מֵימֶיהָ, כֵּן הֵקֵרָה, מנביעה העיר את רָעָתָהּ. חָמָס, לקיחת ממון שלא כדין וָשֹׁד יִשָּׁמַע בָּהּ עַל־פָּנַי, לפני תָּמִיד, חֳלִי וּמַכָּה.",
+    "הִוָּסְרִי, קחי מוסר יְרוּשָׁלִַם פֶּן־תֵּקַע, שמא תסלוד, תרחק נַפְשִׁי מִמֵּךְ, פֶּן־אֲשִׂימֵךְ שְׁמָמָה, אֶרֶץ לוֹא נוֹשָׁבָה.",
+    "נבואת התרעה נוספת: כֹּה אָמַר ה' צְבָאוֹת: עוֹלֵל יְעוֹלְלוּ כַגֶּפֶן, ילקטו את הענבים שנשארו אחר הבציר, את שְׁאֵרִית יִשְׂרָאֵל. כך ייאמר לבוצר: הָשֵׁב יָדְךָ על הגפן, ללקוט שוב ושוב כְּבוֹצֵר המניח את האשכולות עַל, אל סַלְסִלּוֹת, סלים, אולי סלים קטנים.",
+    "הנביא מתאונן: עַל־מִי אֲדַבְּרָה וְאָעִידָה, את מי אוכיח ואתרה, וְיִשְׁמָעוּ?! הִנֵּה עֲרֵלָה, סתומה אָזְנָם, וְלֹא יוּכְלוּ לְהַקְשִׁיב. הִנֵּה דְבַר־ה' הָיָה לָהֶם, נחשב בעיניהם לְחֶרְפָּה ולֹא יַחְפְּצוּ־בוֹ.",
+    "ואני, אֵת חֲמַת, זעם ה' מָלֵאתִי, התמלאתי, כשקיבלתי את הנבואה, נִלְאֵיתִי להָכִיל. העצמה שהתמלאתי בה עלולה להתפרץ. ואכן כך הנבואה מורה לי: שְׁפֹךְ חמתך עַל־עוֹלָל, ילד קטן בַּחוּץ, וְעַל סוֹד, שיחת מפגש של בַּחוּרִים יַחְדָּו, כִּי־גַם־אִישׁ עִם־אִשָּׁה יִלָּכֵדוּ, זָקֵן עִם־מְלֵא יָמִים, מי שהושלמו ימיו. איש לא ישרוד.",
+    "וְנָסַבּוּ, יועברו בָתֵּיהֶם לַאֲחֵרִים, וכן השָׂדוֹת – לְחֶרְפָּה וְהנָשִׁים יַחְדָּו, כולם. כִּי־אַטֶּה אֶת־יָדִי, אסמן עַל־יֹשְׁבֵי הָאָרֶץ, לצאת ממנה, נְאֻם־ה'.",
+    "כִּי כל ישראל מִקְּטַנָּם וְעַד־גְּדוֹלָם כֻּלּוֹ בּוֹצֵעַ בָּצַע, מפקיעי ממון, חמסנים, וּמִנָּבִיא וְעַד־כֹּהֵן, האנשים שבידם הכבוד והיוקרה הרוחניים, הנבואה, התורה והמקדש, כֻּלּוֹ עֹשֶׂה שָּׁקֶר. כולם שקרנים.",
+    "שלא כנביאי האמת, שתבעו מן העם תביעות קשות – וַיְרַפְּאוּ אֶת־שֶׁבֶר, מצוקת עַמִּי עַל־נְקַלָּה, בקלות יתרה, לֵאמֹר: \"שָׁלוֹם שָׁלוֹם\", הכול יהיה בסדר, וְאף על פי שאֵין שָׁלוֹם, משום שהם אדישים לשקר.",
+    "הוֹבִישׁוּ, הם היו אמורים להתבייש כִּי־תוֹעֵבָה עָשׂוּ, אבל גַּם־בּוֹשׁ לֹא־יֵבוֹשׁוּ, גַּם־הַכְלִים לֹא יָדָעוּ. מצבם כה שפל, שאין הם מסוגלים אפילו לחוש בושה וכלימה. לָכֵן יִפְּלוּ בַנֹּפְלִים, עם ההרוגים, בְּעֵת־פְּקַדְתִּים, בזמן הראוי יִכָּשְׁלוּ, אָמַר ה'.",
+    "כֹּה אָמַר ה': עִמְדוּ עַל־דְּרָכִים, אופני התנהגות וּרְאוּ, וְשַׁאֲלוּ לִנְתִבוֹת עוֹלָם, מימי קדם: אֵי־זֶה דֶרֶךְ הַטּוֹב – וּלְכוּ־בָהּ, וּבכך מִצְאוּ מַרְגּוֹעַ לְנַפְשְׁכֶם בכל הלבטים ופרשות הדרכים. וַיֹּאמְרוּ במענה לדברי העצה והריצוי: לֹא נֵלֵךְ. איננו מעוניינים בחיפושי הדרך ולא ללכת בה.",
+    "וַהֲקִמֹתִי עֲלֵיכֶם צֹפִים, שישקיפו ממקום גבוה ויתריעו מפני סכנות: הַקְשִׁיבוּ לְקוֹל שׁוֹפָר, המאותת מלחמה. וַיֹּאמְרוּ: איננו מתכוונים לחפש את הדרך הישרה, ולא זו בלבד לֹא נַקְשִׁיב לדברי מוסר שייאמרו באוזנינו.",
+    "לָכֵן שִׁמְעוּ, הַגּוֹיִם בכלל, וּדְעִי, עֵדָה, ישראל, אֶת העוונות אֲשֶׁר נמצאים בָּם.",
+    "שִׁמְעִי, הָאָרֶץ: הִנֵּה אָנֹכִי מֵבִיא רָעָה אֶל, על הָעָם הַזֶּה פְּרִי מַחְשְׁבוֹתָם, תוצאה של דרך החשיבה ואופן ההתנהגות שלהם, כִּי עַל, אל דְּבָרַי לֹא הִקְשִׁיבוּ, וְתוֹרָתִי הם עוזבים וַיִּמְאֲסוּ־בָהּ.",
+    "לָמָּה־זֶּה לִי לְבוֹנָה אשר מארץ שְּׁבָא תָבוֹא ללוות את קרבנותיכם, וְקָנֶה הבושם הַטּוֹב הבא מֵאֶרֶץ מֶרְחָק?! חרף מאמציכם אין לי בהם נחת, כי עֹלוֹתֵיכֶם לֹא לְרָצוֹן, הם אינם רצויים ואינם מְרַצים עליכם, וְזִבְחֵיכֶם לֹא־עָרְבוּ לִי, מפני שאינכם נוהגים כראוי.",
+    "לָכֵן כֹּה אָמַר ה': הִנְנִי נֹתֵן אֶל־הָעָם הַזֶּה מִכְשֹׁלִים, וְכָשְׁלוּ בָם אָבוֹת וּבָנִים יַחְדָּו, ושָׁכֵן וְרֵעוֹ ייכשלו וְאָבָדוּ.",
+    "נבואת איום נוספת: כֹּה אָמַר ה': הִנֵּה עַם בָּא מֵאֶרֶץ צָפוֹן, וְגוֹי גָּדוֹל יֵעוֹר, יתעורר מִיַּרְכְּתֵי, מקצות אָרֶץ. אלו הם הבבלים, ואולי מדובר גם בפלישת הסקיתים.",
+    "קֶשֶׁת וְכִידוֹן יַחֲזִיקוּ. אַכְזָרִי הוּא העם הזה וְלֹא יְרַחֵמוּ. קוֹלָם כַּיָּם יֶהֱמֶה וְעַל־סוּסִים יִרְכָּבוּ. עם זה עָרוּךְ כְּאִישׁ גיבור לַמִּלְחָמָה עָלַיִךְ, בַּת־צִיּוֹן. אַת היעד שלהם.",
+    "שָׁמַעְנוּ אֶת־שָׁמְעוֹ של האויב הזה, ורָפוּ יָדֵינוּ מרוב פחד. צָרָה, מצוקה הֶחֱזִקַתְנוּ, אחזה בנו, חִיל, רעד כַּיּוֹלֵדָה.",
+    "אַל־תֵּצְאוּ אל הַשָּׂדֶה, וּבַדֶּרֶךְ אַל־תֵּלֵכוּ, כִּי חֶרֶב יש לְאֹיֵב, מָגוֹר, פחד מִסָּבִיב.",
+    "בַּת־עַמִּי, חִגְרִי־שָׂק וְהִתְפַּלְּשִׁי בָאֵפֶר, אֵבֶל על מות בן יָחִיד עֲשִׂי־לָךְ, אבלות מוחלטת בלא נחמה, מִסְפַּד תַּמְרוּרִים, מספד מר, כִּי פִתְאֹם יָבֹא הַשֹּׁדֵד עָלֵינוּ. ואז לא יהיה פנאי לעשות דבר, לכן ראוי שתתחילו להספיד כבר כעת.",
+    "דברי ה' אל הנביא: בָּחוֹן, מגדל צופים, או: נקודת מבחן כלשהי נְתַתִּיךָ בְעַמִּי, כמו מִבְצָר. וְתֵדַע וּבָחַנְתָּ, תבדוק ותכיר אֶת־דַּרְכָּם.",
+    "בבחינתך תגלה כי כֻּלָּם סָרֵי סוֹרְרִים, סרי דרך מרדניים, הֹלְכֵי רָכִיל, ואין הם מזיקים רק בדיבוריהם, אלא הם ככלי נשק והשחתה העשויים נְחֹשֶׁת וּבַרְזֶל. כֻּלָּם מַשְׁחִיתִם זה את זה הֵמָּה.",
+    "נָחַר, יבש ואינו נופח כראוי מַפֻּחַ, המכשיר לליבוי האש מֵרוב האֵשׁ, תַּם, הולכת ונשרפת גם העֹפָרֶת, שאמורה לסייע לתהליך ההתכה. לַשָּׁוְא צָרַף צָרוֹף, בעבודתו של הצורף אין תועלת, וְרָעִים, סיגים לֹא נִתָּקוּ, אינם נפרדים מן המתכת.",
+    "כֶּסֶף נִמְאָס, מתכת מלוכלכת קָרְאוּ לָהֶם, אי אפשר לנקות מהם את הסיגים, וכל זאת, כִּי־מָאַס ה' בָּהֶם. כל התוכחות אינן מוליכות לזיקוק וניקוי, ומשום כך אין לישראל תקנה אלא במפלתם."
+  ],
+  "ai_explanation": [
+    "בני בנימין ויושבי ירושלים נקראים לברוח ולהתאסף למקום מחסה. יש לתקוע בשופר ולהדליק משואות, מפני שסכנה גדולה נשקפת מן הצפון.",
+    "בת ציון מדומה לאישה נאה ומפונקת.",
+    "האויבים מדומים לרועים המגיעים עם עדריהם, מקימים אוהלים סביב העיר וכל אחד מהם משתלט על מקומו.",
+    "האויבים מכריזים שיש להכין מלחמה ולעלות למתקפה בצהריים, אך כשהיום פונה הם מחליטים לתקוף בלילה ולא לדחות את המערכה.",
+    "האויבים מחליטים לעלות בלילה ולהשחית את ארמונות ירושלים.",
+    "ה' צבאות מצווה על הכנת המצור על ירושלים ועל שפיכת סוללה סמוך לחומותיה. העיר נענשת מפני שהיא מלאה בגזל ובעושק.",
+    "כשם שבאר נובעים מים, כך ירושלים מנביעה ללא הפסקה את רעתה. חמס ושוד נשמעים בה תמיד, ומולה ניצבים חולי ומכה.",
+    "ירושלים נקראת לקחת מוסר, כדי שה' לא יתרחק ממנה ולא יעשה אותה שממה וארץ בלתי מיושבת.",
+    "שארית ישראל מדומה לענבים שנשארו בגפן לאחר הבציר. יש ללקט אותם שוב ושוב, כדרך הבוצר האוסף את הענבים לסלים.",
+    "הנביא מתאונן שאין לפני מי לדבר ולהתרות, מפני שאוזני העם סתומות והם אינם מסוגלים להקשיב. דבר ה' נעשה בעיניהם לחרפה, והם אינם חפצים בו.",
+    "הנביא מלא בזעם ה' ואינו מסוגל להכיל אותו. עליו לשפוך את חמתו על כולם, מילדים ועד זקנים, מפני שאיש אינו עתיד להינצל.",
+    "בתיהם ושדותיהם של יושבי הארץ יועברו לאחרים, והכול ייפגע. ה' מטה את ידו על יושבי הארץ ומוציא אותם ממנה.",
+    "כולם, מן הקטן ועד הגדול, עוסקים בהפקעת ממון ובחמס. גם הנביאים והכוהנים, בעלי המעמד הרוחני, עושים שקר.",
+    "המנהיגים מרגיעים את מצוקת העם בקלות יתרה ואומרים \"שלום שלום\", אף שאין שלום. הם אדישים לשקר ואינם מתמודדים עם חומרת המצב.",
+    "העם עשה תועבה, אך אינו מתבייש ואינו יודע כלימה. לכן ייפלו עם ההרוגים וייכשלו בעת שה' יפקוד אותם.",
+    "ה' קורא לעם לעצור, לבחון את דרכי העבר ולשאול מהי הדרך הטובה, ללכת בה ולמצוא מרגוע לנפש. העם דוחה את העצה ומשיב שאינו רוצה ללכת בדרך זו.",
+    "ה' העמיד עליהם צופים והורה להקשיב לקול השופר, המתריע על סכנה. העם מסרב להקשיב גם לאזהרות המוסר.",
+    "הגויים נקראים לשמוע, וישראל נקראת לדעת ולהכיר את העוונות המצויים בה.",
+    "הארץ נקראת לשמוע כי ה' מביא על העם רעה, שהיא פרי מחשבותיו והתנהגותו. הסיבה היא שהעם לא הקשיב לדבר ה' ומאס בתורתו.",
+    "אין ערך ללבונה ולקנה הטוב שהעם מביא מארצות רחוקות, משום שהקרבנות אינם רצויים לפני ה' כאשר העם אינו נוהג כראוי.",
+    "ה' נותן לעם מכשולים, וכולם נכשלים בהם: אבות ובנים, שכן ורעה. התוצאה היא אובדן.",
+    "עם גדול עומד לבוא מארץ הצפון ומתעורר מקצות הארץ.",
+    "העם הבא מצויד בקשת ובכידון, אכזרי ואינו מרחם. קולו סוער, אנשיו רוכבים על סוסים, והוא ערוך למלחמה נגד בת ציון.",
+    "כששומעים על האויב, הידיים נרפות והפחד אוחז בעם כמו צירי לידה.",
+    "העם נקרא שלא לצאת לשדה או ללכת בדרך, מפני שהאויב חמוש בחרב ופחד מקיף מכל עבר.",
+    "בת עמי נקראת ללבוש שק, להתפלש באפר ולהתאבל אבל כבד ומר על בן יחיד, מפני שהשודד יבוא פתאום.",
+    "ה' נתן את הנביא כבחון, כמגדל צופים או כנקודת מבחן, כדי שיבדוק ויכיר את דרכם של בני עמו.",
+    "הנביא מגלה שכולם סרי דרך ומרדניים, הולכי רכיל ומשחיתים זה את זה, קשים כמו נחושת וברזל.",
+    "המפוח התייבש ואינו פועל כראוי מרוב אש, וגם העופרת הולכת ונשרפת. עבודת הצורף אינה מצליחה להפריד את הסיגים מן המתכת.",
+    "לעם קוראים \"כסף נמאס\", מפני שאי אפשר לנקות ממנו את הסיגים. הסיבה היא שה' מאס בהם, וכל התוכחות לא הביאו אותם לזיקוק ולתיקון."
+  ],
+  "ai_explanation_en": [
+    "The people of Benjamin and the inhabitants of Jerusalem are called to flee and gather in a place of refuge. They must blow the horn and raise signal fires because great danger is appearing from the north.",
+    "Daughter Zion is compared to a beautiful and pampered woman.",
+    "The enemies are compared to shepherds arriving with their flocks, setting up tents around the city, and each taking possession of his place.",
+    "The enemies announce that they should prepare for war and attack at noon, but when the day turns toward evening, they decide to attack at night and not postpone the campaign.",
+    "The enemies decide to go up at night and destroy Jerusalem’s palaces.",
+    "The LORD of Hosts commands the preparation of a siege against Jerusalem and the building of an earthwork beside its walls. The city is punished because it is full of robbery and oppression.",
+    "Just as water flows from a well, Jerusalem continually produces evil. Violence and plunder are always heard there, and illness and injury stand before the LORD.",
+    "Jerusalem is called to accept correction, so that the LORD will not turn away from it and make it desolate and uninhabited.",
+    "The remnant of Israel is compared to grapes left on a vine after the harvest. They are to be gathered again and again, like grapes collected by a vintner into baskets.",
+    "The prophet laments that there is no one before whom he can speak and testify, because the people’s ears are closed and they cannot listen. The word of the LORD has become a disgrace to them, and they do not desire it.",
+    "The prophet is filled with the LORD’s anger and cannot contain it. He is to pour it out on everyone, from children to the elderly, because no one is destined to escape.",
+    "The houses and fields of the inhabitants of the land will be transferred to others, and everyone will be affected. The LORD stretches out His hand against the inhabitants of the land and removes them from it.",
+    "Everyone, from the least to the greatest, is engaged in extortion and oppression. Even the prophets and priests, who hold spiritual status, act deceitfully.",
+    "The leaders treat the people’s distress too lightly and say, “Peace, peace,” although there is no peace. They are indifferent to the falsehood and do not confront the seriousness of the situation.",
+    "The people have committed an abomination, but they are not ashamed and do not know disgrace. Therefore they will fall among the slain and stumble when the LORD calls them to account.",
+    "The LORD calls the people to stop, examine the paths of the past, and ask which is the good way, so that they may walk in it and find rest for their souls. The people reject the advice and answer that they do not want to walk in that way.",
+    "The LORD has appointed watchmen over them and commanded them to listen to the sound of the horn, which warns of danger. The people refuse to listen even to the moral warnings.",
+    "The nations are called to hear, and Israel is called to know and recognize the sins found within it.",
+    "The earth is called to hear that the LORD is bringing disaster upon the people, the fruit of their thoughts and conduct. The reason is that they did not listen to the LORD’s word and rejected His Torah.",
+    "The frankincense and fine cane brought from distant lands have no value before the LORD, because the sacrifices are not acceptable when the people do not behave properly.",
+    "The LORD gives the people stumbling blocks, and everyone falls over them: fathers and sons, neighbor and friend. The result is destruction.",
+    "A great people is coming from the land of the north and is stirring from the ends of the earth.",
+    "The approaching people carry bow and spear, are cruel, and show no mercy. Their sound is tumultuous, they ride horses, and they are prepared for war against Daughter Zion.",
+    "When the people hear about the enemy, their hands grow weak and fear seizes them like the pains of childbirth.",
+    "The people are told not to go out into the field or travel on the road, because the enemy has a sword and fear surrounds them on every side.",
+    "Daughter of My people is called to wear sackcloth, roll in ashes, and mourn bitterly for an only son, because the destroyer will come suddenly.",
+    "The LORD has made the prophet a tester, like a watchtower or a point of examination, so that he may test and recognize the people’s ways.",
+    "The prophet discovers that they are all wayward and rebellious, spreaders of slander and destroyers of one another, hard like bronze and iron.",
+    "The bellows have dried up and no longer work properly because of the great fire, and the lead is also being consumed. The refiner’s work fails to separate the impurities from the metal.",
+    "The people are called “rejected silver,” because the impurities cannot be removed from them. The reason is that the LORD has rejected them, and all the warnings have not led them to purification and correction."
+  ],
+  "perush": [
+    "בני בנימין ויושבי ירושלים נקראים לברוח ולהתאסף למקום מחסה. יש לתקוע בשופר ולהדליק משואות, מפני שסכנה גדולה נשקפת מן הצפון.",
+    "בת ציון מדומה לאישה נאה ומפונקת.",
+    "האויבים מדומים לרועים המגיעים עם עדריהם, מקימים אוהלים סביב העיר וכל אחד מהם משתלט על מקומו.",
+    "האויבים מכריזים שיש להכין מלחמה ולעלות למתקפה בצהריים, אך כשהיום פונה הם מחליטים לתקוף בלילה ולא לדחות את המערכה.",
+    "האויבים מחליטים לעלות בלילה ולהשחית את ארמונות ירושלים.",
+    "ה' צבאות מצווה על הכנת המצור על ירושלים ועל שפיכת סוללה סמוך לחומותיה. העיר נענשת מפני שהיא מלאה בגזל ובעושק.",
+    "כשם שבאר נובעים מים, כך ירושלים מנביעה ללא הפסקה את רעתה. חמס ושוד נשמעים בה תמיד, ומולה ניצבים חולי ומכה.",
+    "ירושלים נקראת לקחת מוסר, כדי שה' לא יתרחק ממנה ולא יעשה אותה שממה וארץ בלתי מיושבת.",
+    "שארית ישראל מדומה לענבים שנשארו בגפן לאחר הבציר. יש ללקט אותם שוב ושוב, כדרך הבוצר האוסף את הענבים לסלים.",
+    "הנביא מתאונן שאין לפני מי לדבר ולהתרות, מפני שאוזני העם סתומות והם אינם מסוגלים להקשיב. דבר ה' נעשה בעיניהם לחרפה, והם אינם חפצים בו.",
+    "הנביא מלא בזעם ה' ואינו מסוגל להכיל אותו. עליו לשפוך את חמתו על כולם, מילדים ועד זקנים, מפני שאיש אינו עתיד להינצל.",
+    "בתיהם ושדותיהם של יושבי הארץ יועברו לאחרים, והכול ייפגע. ה' מטה את ידו על יושבי הארץ ומוציא אותם ממנה.",
+    "כולם, מן הקטן ועד הגדול, עוסקים בהפקעת ממון ובחמס. גם הנביאים והכוהנים, בעלי המעמד הרוחני, עושים שקר.",
+    "המנהיגים מרגיעים את מצוקת העם בקלות יתרה ואומרים \"שלום שלום\", אף שאין שלום. הם אדישים לשקר ואינם מתמודדים עם חומרת המצב.",
+    "העם עשה תועבה, אך אינו מתבייש ואינו יודע כלימה. לכן ייפלו עם ההרוגים וייכשלו בעת שה' יפקוד אותם.",
+    "ה' קורא לעם לעצור, לבחון את דרכי העבר ולשאול מהי הדרך הטובה, ללכת בה ולמצוא מרגוע לנפש. העם דוחה את העצה ומשיב שאינו רוצה ללכת בדרך זו.",
+    "ה' העמיד עליהם צופים והורה להקשיב לקול השופר, המתריע על סכנה. העם מסרב להקשיב גם לאזהרות המוסר.",
+    "הגויים נקראים לשמוע, וישראל נקראת לדעת ולהכיר את העוונות המצויים בה.",
+    "הארץ נקראת לשמוע כי ה' מביא על העם רעה, שהיא פרי מחשבותיו והתנהגותו. הסיבה היא שהעם לא הקשיב לדבר ה' ומאס בתורתו.",
+    "אין ערך ללבונה ולקנה הטוב שהעם מביא מארצות רחוקות, משום שהקרבנות אינם רצויים לפני ה' כאשר העם אינו נוהג כראוי.",
+    "ה' נותן לעם מכשולים, וכולם נכשלים בהם: אבות ובנים, שכן ורעה. התוצאה היא אובדן.",
+    "עם גדול עומד לבוא מארץ הצפון ומתעורר מקצות הארץ.",
+    "העם הבא מצויד בקשת ובכידון, אכזרי ואינו מרחם. קולו סוער, אנשיו רוכבים על סוסים, והוא ערוך למלחמה נגד בת ציון.",
+    "כששומעים על האויב, הידיים נרפות והפחד אוחז בעם כמו צירי לידה.",
+    "העם נקרא שלא לצאת לשדה או ללכת בדרך, מפני שהאויב חמוש בחרב ופחד מקיף מכל עבר.",
+    "בת עמי נקראת ללבוש שק, להתפלש באפר ולהתאבל אבל כבד ומר על בן יחיד, מפני שהשודד יבוא פתאום.",
+    "ה' נתן את הנביא כבחון, כמגדל צופים או כנקודת מבחן, כדי שיבדוק ויכיר את דרכם של בני עמו.",
+    "הנביא מגלה שכולם סרי דרך ומרדניים, הולכי רכיל ומשחיתים זה את זה, קשים כמו נחושת וברזל.",
+    "המפוח התייבש ואינו פועל כראוי מרוב אש, וגם העופרת הולכת ונשרפת. עבודת הצורף אינה מצליחה להפריד את הסיגים מן המתכת.",
+    "לעם קוראים \"כסף נמאס\", מפני שאי אפשר לנקות ממנו את הסיגים. הסיבה היא שה' מאס בהם, וכל התוכחות לא הביאו אותם לזיקוק ולתיקון."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הסכנה מתקרבת אל ירושלים",
+      "title_en": "Danger Approaches Jerusalem",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "העם נקרא להימלט ולהתריע מפני הסכנה הנשקפת מן הצפון. האויבים מקיפים את ירושלים, מתכוננים למצור ומחליטים לתקוף גם בלילה.",
+      "summary_en": "The people are called to flee and warn others about the danger appearing from the north. The enemies surround Jerusalem, prepare for a siege, and decide to attack even at night.",
+      "image_prompt": "A symbolic biblical scene of Jerusalem under approaching danger, watchfires and a horn warning from nearby hills, enemy tents surrounding the city, dramatic but non-graphic, no modern objects"
+    },
+    {
+      "title": "ירושלים נענשת על עושק ורעה",
+      "title_en": "Jerusalem Punished for Oppression and Evil",
+      "start_verse": 6,
+      "end_verse": 9,
+      "summary": "המצור מוצג כפקודה אלוהית נגד עיר מלאה בגזל, חמס ושוד. ירושלים נקראת לקחת מוסר, אך גם שארית ישראל עומדת בפני ליקוט קשה כענבים שנותרו לאחר הבציר.",
+      "summary_en": "The siege is presented as a divine command against a city filled with robbery, violence, and oppression. Jerusalem is called to accept correction, while the remnant of Israel faces harsh gathering like grapes left after the harvest.",
+      "image_prompt": "A symbolic ancient city under siege beside an overflowing well, with a vine being carefully gleaned into small baskets, solemn prophetic atmosphere, no graphic violence"
+    },
+    {
+      "title": "עם שאינו מקשיב ונביאי שקר",
+      "title_en": "A People Who Refuse to Listen",
+      "start_verse": 10,
+      "end_verse": 15,
+      "summary": "העם אינו מסוגל או אינו רוצה להקשיב לדבר ה'. הזעם מופנה אל כל שכבות החברה, מפני שהכול עוסקים בחמס ובשקר ומבטיחים שלום מדומה במקום להתמודד עם התועבה.",
+      "summary_en": "The people are unable or unwilling to listen to the word of the LORD. Anger is directed at every level of society because all practice oppression and deceit and offer false assurances of peace instead of confronting wrongdoing.",
+      "image_prompt": "A solemn prophet speaking before people with covered or closed ears, leaders offering a deceptive gesture of peace, a tense ancient city in the background, symbolic and non-graphic"
+    },
+    {
+      "title": "דחיית הדרך הטובה והבאת הרעה",
+      "title_en": "Rejecting the Good Way and Bringing Disaster",
+      "start_verse": 16,
+      "end_verse": 21,
+      "summary": "העם דוחה את הדרך הטובה, את אזהרות הצופים ואת דברי התורה. משום כך הרעה שתבוא עליו מוצגת כפרי מחשבותיו ומעשיו, ואפילו הקרבנות אינם רצויים לפני ה' כאשר ההתנהגות אינה ראויה.",
+      "summary_en": "The people reject the good way, the warnings of the watchmen, and the word of the Torah. Therefore the coming disaster is described as the fruit of their thoughts and actions, and even sacrifices are unacceptable when conduct is improper.",
+      "image_prompt": "An ancient crossroads with one well-marked path ignored by a crowd, watchmen sounding a horn in the distance, temple offerings set aside symbolically, subdued prophetic mood"
+    },
+    {
+      "title": "העם הצפוני והפחד מפניו",
+      "title_en": "The Northern People and the Fear They Inspire",
+      "start_verse": 22,
+      "end_verse": 26,
+      "summary": "עם גדול ואכזרי מגיע מן הצפון כשהוא ערוך למלחמה. הידיעות עליו מטילות פחד, והעם נקרא להימנע מן הדרכים ולהתאבל מראש על השוד והחורבן הפתאומיים.",
+      "summary_en": "A great and cruel people comes from the north prepared for war. News of them causes terror, and the people are told to avoid the roads and mourn in advance for the sudden destruction and plunder.",
+      "image_prompt": "A distant army approaching from the northern horizon with horses, bows, and spears, frightened inhabitants staying behind city walls, a mourner in sackcloth and ashes, non-graphic biblical illustration"
+    },
+    {
+      "title": "בחינת העם וכסף נמאס",
+      "title_en": "Testing the People and Rejected Silver",
+      "start_verse": 27,
+      "end_verse": 30,
+      "summary": "הנביא מוצב כבחון כדי לבדוק את דרכם של בני עמו, ומגלה שהם מרדניים ומשחיתים. משל הצורף מלמד שכל ניסיונות הזיקוק אינם מצליחים, ולכן העם נקרא כסף נמאס.",
+      "summary_en": "The prophet is appointed as a tester to examine the people’s ways and discovers that they are rebellious and destructive. The refiner’s image shows that every attempt at purification fails, so the people are called rejected silver.",
+      "image_prompt": "A prophetic watchtower overlooking a troubled community, beside a refiner’s furnace with weak bellows and impure metal that will not separate, symbolic ancient setting, no modern elements"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 17.6,
+      "usfm": "JER.6.1"
+    },
+    {
+      "start": 17.6,
+      "end": 22.44,
+      "usfm": "JER.6.2"
+    },
+    {
+      "start": 22.44,
+      "end": 30.6,
+      "usfm": "JER.6.3"
+    },
+    {
+      "start": 30.6,
+      "end": 42.22,
+      "usfm": "JER.6.4"
+    },
+    {
+      "start": 42.22,
+      "end": 47.28,
+      "usfm": "JER.6.5"
+    },
+    {
+      "start": 47.28,
+      "end": 61.36,
+      "usfm": "JER.6.6"
+    },
+    {
+      "start": 61.36,
+      "end": 75.44,
+      "usfm": "JER.6.7"
+    },
+    {
+      "start": 75.44,
+      "end": 83.92,
+      "usfm": "JER.6.8"
+    },
+    {
+      "start": 83.92,
+      "end": 95.04,
+      "usfm": "JER.6.9"
+    },
+    {
+      "start": 95.04,
+      "end": 109.62,
+      "usfm": "JER.6.10"
+    },
+    {
+      "start": 109.62,
+      "end": 126.62,
+      "usfm": "JER.6.11"
+    },
+    {
+      "start": 126.62,
+      "end": 136.32,
+      "usfm": "JER.6.12"
+    },
+    {
+      "start": 136.32,
+      "end": 147.28,
+      "usfm": "JER.6.13"
+    },
+    {
+      "start": 147.28,
+      "end": 156.56,
+      "usfm": "JER.6.14"
+    },
+    {
+      "start": 156.56,
+      "end": 169.86,
+      "usfm": "JER.6.15"
+    },
+    {
+      "start": 169.86,
+      "end": 186.26,
+      "usfm": "JER.6.16"
+    },
+    {
+      "start": 186.26,
+      "end": 192.76,
+      "usfm": "JER.6.17"
+    },
+    {
+      "start": 192.76,
+      "end": 198.96,
+      "usfm": "JER.6.18"
+    },
+    {
+      "start": 198.96,
+      "end": 211.54,
+      "usfm": "JER.6.19"
+    },
+    {
+      "start": 211.54,
+      "end": 223.88,
+      "usfm": "JER.6.20"
+    },
+    {
+      "start": 223.88,
+      "end": 236.32,
+      "usfm": "JER.6.21"
+    },
+    {
+      "start": 236.32,
+      "end": 244.76,
+      "usfm": "JER.6.22"
+    },
+    {
+      "start": 244.76,
+      "end": 260.96,
+      "usfm": "JER.6.23"
+    },
+    {
+      "start": 260.96,
+      "end": 270.62,
+      "usfm": "JER.6.24"
+    },
+    {
+      "start": 270.62,
+      "end": 278.58,
+      "usfm": "JER.6.25"
+    },
+    {
+      "start": 278.58,
+      "end": 291.56,
+      "usfm": "JER.6.26"
+    },
+    {
+      "start": 291.56,
+      "end": 298.92,
+      "usfm": "JER.6.27"
+    },
+    {
+      "start": 298.92,
+      "end": 306.02,
+      "usfm": "JER.6.28"
+    },
+    {
+      "start": 306.02,
+      "end": 314.9,
+      "usfm": "JER.6.29"
+    },
+    {
+      "start": 314.9,
+      "end": 327.8,
+      "usfm": "JER.6.30"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    17.6,
+    22.44,
+    30.6,
+    42.22,
+    47.28,
+    61.36,
+    75.44,
+    83.92,
+    95.04,
+    109.62,
+    126.62,
+    136.32,
+    147.28,
+    156.56,
+    169.86,
+    186.26,
+    192.76,
+    198.96,
+    211.54,
+    223.88,
+    236.32,
+    244.76,
+    260.96,
+    270.62,
+    278.58,
+    291.56,
+    298.92,
+    306.02,
+    314.9,
+    327.8
+  ],
+  "times_en_usfm": [
+    "JER.6.1",
+    "JER.6.2",
+    "JER.6.3",
+    "JER.6.4",
+    "JER.6.5",
+    "JER.6.6",
+    "JER.6.7",
+    "JER.6.8",
+    "JER.6.9",
+    "JER.6.10",
+    "JER.6.11",
+    "JER.6.12",
+    "JER.6.13",
+    "JER.6.14",
+    "JER.6.15",
+    "JER.6.16",
+    "JER.6.17",
+    "JER.6.18",
+    "JER.6.19",
+    "JER.6.20",
+    "JER.6.21",
+    "JER.6.22",
+    "JER.6.23",
+    "JER.6.24",
+    "JER.6.25",
+    "JER.6.26",
+    "JER.6.27",
+    "JER.6.28",
+    "JER.6.29",
+    "JER.6.30"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? ירמיהו מתאר מערכת התרעה מפני הסכנה: תוקעים בשופר בתקוע ומרימים משואה בבית הכרם, כדי להודיע שהרעה מתקרבת מצפון.",
+      "text_he": "הידעת? ירמיהו מתאר מערכת התרעה מפני הסכנה: תוקעים בשופר בתקוע ומרימים משואה בבית הכרם, כדי להודיע שהרעה מתקרבת מצפון.",
+      "text_en": "Did you know? Jeremiah describes a warning system for danger: a horn is blown in Tekoa and a signal fire is raised in Beth-haccerem to announce that disaster is approaching from the north."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? האויבים מתוארים כרועים המגיעים עם עדריהם; הם מקימים אוהלים סביב ירושלים, תמונה המדגישה את encirclement והמצור על העיר.",
+      "text_he": "הידעת? האויבים מתוארים כרועים המגיעים עם עדריהם; הם מקימים אוהלים סביב ירושלים, תמונה המדגישה את encirclement והמצור על העיר.",
+      "text_en": "Did you know? The enemies are portrayed as shepherds arriving with their flocks and pitching their tents around Jerusalem—a picture emphasizing the city’s encirclement and siege."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? האויבים נחושים לתקוף בירושלים גם בשעות היום וגם בלילה, ולכן הם מבכים את שקיעת היום ומחליטים להמשיך את ההתקפה בחשכה.",
+      "text_he": "הידעת? האויבים נחושים לתקוף בירושלים גם בשעות היום וגם בלילה, ולכן הם מבכים את שקיעת היום ומחליטים להמשיך את ההתקפה בחשכה.",
+      "text_en": "Did you know? The enemies are determined to attack Jerusalem both by day and by night. They lament the passing of the day and decide to continue the attack in the darkness."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? ירושלים נמשלת לבור או למעיין השומר את מימיו; כשם שמים נאגרים בו, כך הרעה והחמס ממשיכים לעלות מתוכה ולהישמע בה.",
+      "text_he": "הידעת? ירושלים נמשלת לבור או למעיין השומר את מימיו; כשם שמים נאגרים בו, כך הרעה והחמס ממשיכים לעלות מתוכה ולהישמע בה.",
+      "text_en": "Did you know? Jerusalem is compared to a well or spring that holds its waters. Just as water collects there, so wickedness and violence continue to well up from within the city and resound throughout it."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? הביטוי \"ערלה אוזנם\" מתאר באופן מושאל אנשים שאינם מסוגלים או אינם מוכנים להקשיב לדבר ה', ולכן דבר ה' נעשה להם לחרפה.",
+      "text_he": "הידעת? הביטוי \"ערלה אוזנם\" מתאר באופן מושאל אנשים שאינם מסוגלים או אינם מוכנים להקשיב לדבר ה', ולכן דבר ה' נעשה להם לחרפה.",
+      "text_en": "Did you know? The expression “their ears are uncircumcised” figuratively describes people who are unable or unwilling to listen to the word of the Lord, so that his word becomes a disgrace to them."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? נביאי העם מתוארים כמי שמרפאים את שברו של העם \"על נקלה\" ומכריזים \"שלום שלום\", אף שאין שלום; זהו תיאור של הבטחת שווא במקום תיקון אמיתי.",
+      "text_he": "הידעת? נביאי העם מתוארים כמי שמרפאים את שברו של העם \"על נקלה\" ומכריזים \"שלום שלום\", אף שאין שלום; זהו תיאור של הבטחת שווא במקום תיקון אמיתי.",
+      "text_en": "Did you know? The people’s prophets are described as healing the nation’s wounds “superficially” and proclaiming, “Peace, peace,” when there is no peace. This depicts a false promise instead of genuine correction."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? ה' מציע לעם לעצור בצומת, לשאול על \"נתיבות עולם\" ולבחור בדרך הטובה, המובילה למרגוע לנפש; אולם העם משיב שאינו מוכן ללכת בה.",
+      "text_he": "הידעת? ה' מציע לעם לעצור בצומת, לשאול על \"נתיבות עולם\" ולבחור בדרך הטובה, המובילה למרגוע לנפש; אולם העם משיב שאינו מוכן ללכת בה.",
+      "text_en": "Did you know? The Lord tells the people to stop at the crossroads, ask about the “ancient paths,” and choose the good way, which leads to rest for their souls. But the people reply that they are unwilling to walk in it."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? גם לבונה משבא וקנה מארץ מרחק וגם קרבנות אינם רצויים לפני ה' כאשר מעשי העם אינם ראויים; הפרק מדגיש שפולחן אינו מחליף התנהגות מוסרית.",
+      "text_he": "הידעת? גם לבונה משבא וקנה מארץ מרחק וגם קרבנות אינם רצויים לפני ה' כאשר מעשי העם אינם ראויים; הפרק מדגיש שפולחן אינו מחליף התנהגות מוסרית.",
+      "text_en": "Did you know? Even frankincense from Sheba, fragrant cane from a distant land, and sacrifices are unacceptable to the Lord when the people’s actions are wrong. The chapter emphasizes that worship cannot replace moral conduct."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? האויב שעתיד להגיע מתואר כעם גדול מן הצפון, המצויד בקשת ובכידון, רוכב על סוסים ואינו מרחם; הידיעה עליו גורמת ליושבי הארץ לרפיון ולפחד.",
+      "text_he": "הידעת? האויב שעתיד להגיע מתואר כעם גדול מן הצפון, המצויד בקשת ובכידון, רוכב על סוסים ואינו מרחם; הידיעה עליו גורמת ליושבי הארץ לרפיון ולפחד.",
+      "text_en": "Did you know? The enemy who is about to come is described as a great nation from the north, armed with bow and spear, riding horses, and showing no mercy. News of them causes the people of the land to lose courage and tremble with fear."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? ירמיהו מוצב כ\"בחון\" — מי שבוחן ובודק את דרכם של בני עמו. בסיום הפרק העם נמשל לכסף שנמאס, מפני שגם ניסיונות הזיקוק אינם מסירים ממנו את הרעות.",
+      "text_he": "הידעת? ירמיהו מוצב כ\"בחון\" — מי שבוחן ובודק את דרכם של בני עמו. בסיום הפרק העם נמשל לכסף שנמאס, מפני שגם ניסיונות הזיקוק אינם מסירים ממנו את הרעות.",
+      "text_en": "Did you know? Jeremiah is appointed as a “tester”—one who examines and tests the ways of his people. At the end of the chapter, the people are compared to rejected silver, because even refining cannot remove their wickedness."
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "book": "Jeremiah",
+  "book_he": "ירמיהו",
+  "book_chapters": 52,
+  "chapter": 10,
+  "title": "ירמיהו פרק 10",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1110.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1110.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JER/10-a2f1a568136d3259283448ab36b676d9.mp3?version_id=1",
+  "verses": [
+    "שִׁמְעוּ אֶת-הַדָּבָר, אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם--בֵּית יִשְׂרָאֵל.",
+    "כֹּה אָמַר יְהוָה, אֶל-דֶּרֶךְ הַגּוֹיִם אַל-תִּלְמָדוּ, וּמֵאֹתוֹת הַשָּׁמַיִם, אַל-תֵּחָתּוּ: כִּי-יֵחַתּוּ הַגּוֹיִם, מֵהֵמָּה.",
+    "כִּי-חֻקּוֹת הָעַמִּים, הֶבֶל הוּא: כִּי-עֵץ מִיַּעַר כְּרָתוֹ, מַעֲשֵׂה יְדֵי-חָרָשׁ בַּמַּעֲצָד.",
+    "בְּכֶסֶף וּבְזָהָב, יְיַפֵּהוּ; בְּמַסְמְרוֹת וּבְמַקָּבוֹת יְחַזְּקוּם, וְלוֹא יָפִיק.",
+    "כְּתֹמֶר מִקְשָׁה הֵמָּה וְלֹא יְדַבֵּרוּ, נָשׂוֹא יִנָּשׂוּא כִּי לֹא יִצְעָדוּ; אַל-תִּירְאוּ מֵהֶם כִּי-לֹא יָרֵעוּ, וְגַם-הֵיטֵיב אֵין אוֹתָם.",
+    "מֵאֵין כָּמוֹךָ, יְהוָה: גָּדוֹל אַתָּה וְגָדוֹל שִׁמְךָ, בִּגְבוּרָה.",
+    "מִי לֹא יִרָאֲךָ מֶלֶךְ הַגּוֹיִם, כִּי לְךָ יָאָתָה: כִּי בְכָל-חַכְמֵי הַגּוֹיִם וּבְכָל-מַלְכוּתָם, מֵאֵין כָּמוֹךָ.",
+    "וּבְאַחַת, יִבְעֲרוּ וְיִכְסָלוּ; מוּסַר הֲבָלִים, עֵץ הוּא.",
+    "כֶּסֶף מְרֻקָּע מִתַּרְשִׁישׁ יוּבָא, וְזָהָב מֵאוּפָז--מַעֲשֵׂה חָרָשׁ, וִידֵי צוֹרֵף; תְּכֵלֶת וְאַרְגָּמָן לְבוּשָׁם, מַעֲשֵׂה חֲכָמִים כֻּלָּם.",
+    "וַיהוָה אֱלֹהִים אֱמֶת, הוּא-אֱלֹהִים חַיִּים וּמֶלֶךְ עוֹלָם; מִקִּצְפּוֹ תִּרְעַשׁ הָאָרֶץ, וְלֹא-יָכִלוּ גוֹיִם זַעְמוֹ.",
+    "כִּדְנָה, תֵּאמְרוּן לְהוֹם, אֱלָהַיָּא, דִּי-שְׁמַיָּא וְאַרְקָא לָא עֲבַדוּ; יֵאבַדוּ מֵאַרְעָא וּמִן-תְּחוֹת שְׁמַיָּא, אֵלֶּה.",
+    "עֹשֵׂה אֶרֶץ בְּכֹחוֹ, מֵכִין תֵּבֵל בְּחָכְמָתוֹ; וּבִתְבוּנָתוֹ, נָטָה שָׁמָיִם.",
+    "לְקוֹל תִּתּוֹ הֲמוֹן מַיִם, בַּשָּׁמַיִם, וַיַּעֲלֶה נְשִׂאִים, מִקְצֵה ארץ הָאָרֶץ ; בְּרָקִים לַמָּטָר עָשָׂה, וַיּוֹצֵא רוּחַ מֵאֹצְרֹתָיו.",
+    "נִבְעַר כָּל-אָדָם מִדַּעַת, הֹבִישׁ כָּל-צוֹרֵף מִפָּסֶל: כִּי שֶׁקֶר נִסְכּוֹ, וְלֹא-רוּחַ בָּם.",
+    "הֶבֶל הֵמָּה, מַעֲשֵׂה תַּעְתֻּעִים; בְּעֵת פְּקֻדָּתָם, יֹאבֵדוּ.",
+    "לֹא-כְאֵלֶּה חֵלֶק יַעֲקֹב, כִּי-יוֹצֵר הַכֹּל הוּא, וְיִשְׂרָאֵל, שֵׁבֶט נַחֲלָתוֹ: יְהוָה צְבָאוֹת, שְׁמוֹ.",
+    "אִסְפִּי מֵאֶרֶץ, כִּנְעָתֵךְ--ישבתי יֹשֶׁבֶת , בַּמָּצוֹר.",
+    "כִּי-כֹה אָמַר יְהוָה, הִנְנִי קוֹלֵעַ אֶת-יוֹשְׁבֵי הָאָרֶץ בַּפַּעַם הַזֹּאת; וַהֲצֵרֹתִי לָהֶם, לְמַעַן יִמְצָאוּ.",
+    "אוֹי לִי עַל-שִׁבְרִי, נַחְלָה מַכָּתִי; וַאֲנִי אָמַרְתִּי, אַךְ זֶה חֳלִי וְאֶשָּׂאֶנּוּ.",
+    "אָהֳלִי שֻׁדָּד, וְכָל-מֵיתָרַי נִתָּקוּ; בָּנַי יְצָאֻנִי, וְאֵינָם--אֵין-נֹטֶה עוֹד אָהֳלִי, וּמֵקִים יְרִיעוֹתָי.",
+    "כִּי נִבְעֲרוּ הָרֹעִים, וְאֶת-יְהוָה לֹא דָרָשׁוּ; עַל-כֵּן לֹא הִשְׂכִּילוּ, וְכָל-מַרְעִיתָם נָפוֹצָה.",
+    "קוֹל שְׁמוּעָה הִנֵּה בָאָה, וְרַעַשׁ גָּדוֹל מֵאֶרֶץ צָפוֹן: לָשׂוּם אֶת-עָרֵי יְהוּדָה, שְׁמָמָה--מְעוֹן תַּנִּים.",
+    "יָדַעְתִּי יְהוָה, כִּי לֹא לָאָדָם דַּרְכּוֹ; לֹא-לְאִישׁ הֹלֵךְ, וְהָכִין אֶת-צַעֲדוֹ.",
+    "יַסְּרֵנִי יְהוָה, אַךְ-בְּמִשְׁפָּט: אַל-בְּאַפְּךָ, פֶּן-תַּמְעִטֵנִי.",
+    "שְׁפֹךְ חֲמָתְךָ, עַל-הַגּוֹיִם אֲשֶׁר לֹא-יְדָעוּךָ, וְעַל מִשְׁפָּחוֹת, אֲשֶׁר בְּשִׁמְךָ לֹא קָרָאוּ: כִּי-אָכְלוּ אֶת-יַעֲקֹב, וַאֲכָלֻהוּ וַיְכַלֻּהוּ, וְאֶת-נָוֵהוּ, הֵשַׁמּוּ."
+  ],
+  "english": [
+    "Hear ye the word which the Lord speaketh unto you, O house of Israel:",
+    "Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.",
+    "For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.",
+    "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.",
+    "They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.",
+    "Forasmuch as there is none like unto thee, O Lord; thou art great, and thy name is great in might.",
+    "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee.",
+    "But they are altogether brutish and foolish: the stock is a doctrine of vanities.",
+    "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men.",
+    "But the Lord is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.",
+    "Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.",
+    "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+    "When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
+    "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.",
+    "They are vanity, and the work of errors: in the time of their visitation they shall perish.",
+    "The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The Lord of hosts is his name.",
+    "Gather up thy wares out of the land, O inhabitant of the fortress.",
+    "For thus saith the Lord, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so.",
+    "Woe is me for my hurt! my wound is grievous; but I said, Truly this is a grief, and I must bear it.",
+    "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains.",
+    "For the pastors are become brutish, and have not sought the Lord: therefore they shall not prosper, and all their flocks shall be scattered.",
+    "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.",
+    "O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.",
+    "O Lord, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
+    "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate."
+  ],
+  "steinsaltz": [
+    "שִׁמְעוּ אֶת־הַדָּבָר אֲשֶׁר דִּבֶּר ה' עֲלֵיכֶם, בֵּית יִשְׂרָאֵל.",
+    "כֹּה אָמַר ה': ראשית לכול, אֶל, את דֶּרֶךְ הַגּוֹיִם באשר היא – מנהגיהם, אמונותיהם ודתם, אַל־תִּלְמָדוּ, וּמֵאֹתוֹת הַשָּׁמַיִם אַל־תֵּחָתּוּ, תפחדו. האסטרולוגיה בהיקפה הגדול אינה צריכה לאיים עליכם כִּי־יֵחַתּוּ הַגּוֹיִם מֵהֵמָּה. לאומות העולם מתאים אולי לפחד מסימנים הבאים מצבא השמים; לא לכם.",
+    "כִּי־חֻקּוֹת הָעַמִּים, דתם ומושא יראתם הֶבֶל הוּא, כִּי הפסל שהם עובדים לו הוא עֵץ מִיַּעַר, שכְּרָתוֹ הכורת, מַעֲשֵׂה יְדֵי־חָרָשׁ, נגר בַּמַּעֲצָד, מין קרדום.",
+    "לאחר חיתוך התבנית בְּכֶסֶף וּבְזָהָב יְיַפֵּהוּ, ואז בְּמַסְמְרוֹת וּבְמַקָּבוֹת, בפטישים יְחַזְּקוּם – את טסי המתכות היקרים, וְכך הפסל לוֹא יָפִיק, יצא ממקומו, יתערער.",
+    "כְּתֹמֶר, עץ תמר מִקְשָׁה, כבול עץ זקוף, או: כדחליל הניצב בשדה קישואים הֵמָּה – הפסילים, וְלֹא יְדַבֵּרוּ. נָשׂוֹא יִנָּשׂוּא, הם מורמים על הידיים, כִּי־לֹא יִצְעָדוּ. לכן אַל־תִּירְאוּ מֵהֶם כִּי־לֹא יָרֵעוּ, וְגַם־הֵיטֵיב אֵין אוֹתָם, היכולת להיטיב אינה עמם.",
+    "מֵאֵין כָּמוֹךָ, מכיוון שאין דבר שהוא בר השוואה אליך, ה', גָּדוֹל אַתָּה וְגָדוֹל שִׁמְךָ בִּגְבוּרָה. גבורותיך ידועות בעולם.",
+    "מִי לֹא יִרָאֲךָ, מֶלֶךְ הַגּוֹיִם?! כִּי לְךָ יָאָתָה, ראויה תחושת היראה והכבוד, כִּי בְכָל־חַכְמֵי הַגּוֹיִם וּבְכָל־מַלְכוּתָם מֵאֵין כָּמוֹךָ, לא בחכמה ולא בגבורת ההנהגה.",
+    "וּבְאַחַת, בדבר אחד יִבְעֲרוּ, הם נבערים מדעת וְיִכְסָלוּ, נעשים טיפשים – במוּסַר הֲבָלִים, שהוא עבודת אליל, שהרי עֵץ הוּא. האלילים אמנם מפוארים, ופולחנם מרשים בלי ספק – ומשום כך האנושות בכל הזמנים פונה אליהם, אבל בסופו של דבר אינם אלא דברי הבאי.",
+    "לשם הכנתם כֶּסֶף מְרֻקָּע, מרודד מִתַּרְשִׁישׁ יוּבָא. ייתכן שזוהי תרשיש שבספרד, כי גם אז היו שם מכרות כסף גדולים – שאינם מצויים בסביבת ארץ ישראל. וְזָהָב יובא מֵאוּפָז לאותה מטרה, וכך יעוצבו האלילים – מַעֲשֵׂה חָרָשׁ וִידֵי צוֹרֵף, תְּכֵלֶת וְאַרְגָּמָן לְבוּשָׁם של האלילים, מַעֲשֵׂה חֲכָמִים כֻּלָּם. אולי הם יצירות אמנות, אבל אינן אלא צעצועים שאין בהם רוח.",
+    "וַה' אֱלֹהִים אֱמֶת. הוּא־אֱלֹהִים חַיִּים וּמֶלֶךְ עוֹלָם. מִקִּצְפּוֹ, מכעסו תִּרְעַשׁ, תרעד כל הָאָרֶץ, וְלֹא־יָכִלוּ, יישאו גוֹיִם את זַעְמוֹ. לפי שעה האלילים נראים ממשיים, אבל כשה' יכעס לא יישאר דבר מכל אלה.",
+    "הפסוק הבא נאמר בארמית קדומה, ונראה שהוא פונה למתגוררים במדינות רחוקות, אולי אפילו לאנשים שבבבל: כִּדְנָה, כך תֵּאמְרוּן, תאמרו לְהוֹם, להם – לגויים: אֱלָהַיָּא, אותם אלוהים דִּי־שְׁמַיָּא, שאת השמים וְאַרְקָא, והארץ לָא עֲבַדוּ, לא עשו, יֵאבַדוּ, יאבדו מֵאַרְעָא, מן הארץ וּמִן־תְּחוֹת שְׁמַיָּא אֵלֶּה, ומתחת השמים האלה. תוכן הדברים דומה לתוכן הפסוק הקודם, אלא שהוא נאמר בניב ארמי מיוחד.",
+    "עתה חוזר הנביא ללשונו וממשיך את דבריו הקודמים: ה' שהוא אלוקים חיים ומלך עולם, עֹשֵׂה אֶרֶץ בְּכֹחוֹ, מֵכִין, מכונן, מייסד תֵּבֵל בְּחָכְמָתוֹ, וּבִתְבוּנָתוֹ נָטָה את השָׁמָיִם.",
+    "לקראת קוֹל תִּתּוֹ הֲמוֹן, המיית מַיִם בַּשָּׁמַיִם – וַיַּעֲלֶה נְשִׂאִים, עננים מִקְצֵה הָאָרֶץ. הגשם מתחיל בהיווצרות עננים. בְּרָקִים לקראת ירידת המָּטָר עָשָׂה, וַיּוֹצֵא רוּחַ מֵאֹצְרֹתָיו לנשוב.",
+    "ושוב, נִבְעַר כָּל־אָדָם העוסק בעבודה זרה מִדַּעַת, גם אם נכתבו ספרי שימוש ולימוד רבים בנושא. הֹבִישׁ, יתבייש, יתאכזב כָּל־צוֹרֵף מִפָּסֶל, בפסל שיצר כִּי שֶׁקֶר נִסְכּוֹ, תבניתו היצוקה, וְלֹא־רוּחַ בָּם – בפסל ובמסכה.",
+    "הֶבֶל הֵמָּה, מַעֲשֵׂה תַּעְתֻּעִים, הטעיות, דמיונות שווא, בְּעֵת פְּקֻדָּתָם יֹאבֵדוּ.",
+    "לֹא־כְאֵלֶּה – כמו יצירי האדם חֵלֶק יַעֲקֹב, כִּי־יוֹצֵר הַכֹּל הוּא. ויתרה מזו, יִשְׂרָאֵל הוא שֵׁבֶט נַחֲלָתוֹ. ה' צְבָאוֹת שְׁמוֹ, המושל בצבאות של מעלה ושל מטה. הוא בחר בישראל וקירב אותם אליו באופן מיוחד.",
+    "ציון, אִסְפִּי מֵאֶרֶץ את כִּנְעָתֵךְ, סחורתך. קבצי את רכושך מהארץ והתכונני לגלות, יוֹשֶׁבֶת בַּמָּצוֹר.",
+    "כִּי־כֹה אָמַר ה': הִנְנִי קוֹלֵעַ, יורה, זורק אֶת־יוֹשְׁבֵי הָאָרֶץ בַּפַּעַם הַזֹּאת, וַהֲצֵרֹתִי לָהֶם, אגרום להם צרות ומצוקה, לְמַעַן יִמְצָאוּ את דרך האמת, כי כעת אין הם מחפשים אחריה.",
+    "אוֹי לִי עַל־שִׁבְרִי, נַחְלָה, אנושה מַכָּתִי. וַאֲנִי אָמַרְתִּי, חשבתי בתחילה: אַךְ זֶה חֳלִי וְאֶשָּׂאֶנּוּ. אסבול אותו כמו שנושאים חולשה זמנית, לא ידעתי שאין זו מחלה אלא מכה משמים. על דרך הדימוי:",
+    "אָהֳלִי שֻׁדָּד, נשדד, או: הוכרע, וְכָל־מֵיתָרַי המעמידים את האוהל נִתָּקוּ, האוהל התמוטט. בָּנַי יְצָאֻנִי, יצאו ממני וְאֵינָם, על כן אֵין־נֹטֶה עוֹד אָהֳלִי ואין מֵקִים את יְרִיעוֹתָי. אין מי שיקים שוב את האוהל וימתח את יריעותיו.",
+    "כִּי נִבְעֲרוּ הָרֹעִים, המנהיגים, וְאֶת־ה' לֹא דָרָשׁוּ. עַל־כֵּן לֹא הִשְׂכִּילוּ, וְכָל־מַרְעִיתָם נָפוֹצָה. העדר התפזר. ושוב תיאור הפורענות העתידה לבוא:",
+    "קוֹל שְׁמוּעָה הִנֵּה בָאָה, וְרַעַשׁ גָּדוֹל מֵאֶרֶץ צָפוֹן, ותוכן השמועה – לָשׂוּם, להפוך אֶת־עָרֵי יְהוּדָה לשְׁמָמָה ומְעוֹן תַּנִּים, מקום שחיות בר מתגוררות בו.",
+    "עד כאן דברי ה' על הפורענות שתבוא לארץ. ועתה באים דברי הנביא: יָדַעְתִּי, ה', כִּי לֹא לָאָדָם גלויה דַּרְכּוֹ. אדם איננו יודע את הדרך הנכונה, שבה הוא צריך ללכת. לֹא־לְאִישׁ הֹלֵךְ וְהָכִין, האדם עצמו אינו יודע לכוון אֶת־צַעֲדוֹ.",
+    "על כן יַסְּרֵנִי, ה', ולמד אותי אַךְ עשה זאת בְּמִשְׁפָּט, במידה המתאימה, מתוך התחשבות. אַל־בְּאַפְּךָ, לא מתוך כעס, פֶּן־תַּמְעִטֵנִי, ולא אחזיק מעמד.",
+    "במקום זאת, שְׁפֹךְ חֲמָתְךָ עַל־הַגּוֹיִם אֲשֶׁר לֹא־יְדָעוּךָ, וְעַל מִשְׁפָּחוֹת, עמים אֲשֶׁר בְּשִׁמְךָ לֹא קָרָאוּ, כִּי־אָכְלוּ כל אלה אֶת־יַעֲקֹב וַאֲכָלֻהוּ שוב ושוב וַיְכַלֻּהוּ, כילו אותו, וְאֶת־נָוֵהוּ, מעונו הֵשַׁמּוּ, עשו אותו שומם, ועל כך הם הראויים לעונש."
+  ],
+  "ai_explanation": [
+    "הנביא פונה אל בית ישראל ומבקש מהם להקשיב לדבר ה׳.",
+    "אין ללמוד ממנהגי הגויים, מאמונותיהם ומדתם, ואין לפחד מאותות השמים או מן האסטרולוגיה, מפני שהגויים הם החוששים מהם.",
+    "חוקות העמים ופולחנם הם הבל, שהרי הפסל עשוי מעץ שנכרת ביער ומעוצב בידי חרש.",
+    "את הפסל מקשטים בכסף ובזהב ומחזקים את ציפוי המתכת במסמרים ובפטישים, כדי שלא יזוז ממקומו.",
+    "הפסילים דומים לעץ תמר או לדחליל: אינם מדברים, נישאים על ידי אחרים ואינם יכולים להזיק או להיטיב.",
+    "אין דבר המשתווה לה׳; הוא גדול, ושמו מתגלה בגבורתו.",
+    "כל אדם ראוי לירא מה׳, מלך הגויים, מפני שאין דומה לו בחכמה או בכוח ההנהגה.",
+    "העמים נבערים וטיפשים בדבר אחד: הם עובדים אלילים, שהם למעשה דברי הבאי ויצירות עץ.",
+    "האלילים עשויים מחומרים יקרים ומעוצבים בידי חרש וצורף, ואף לבושים בתכלת ובארגמן; אך למרות יופיים הם חסרי רוח.",
+    "ה׳ הוא האלוהים האמיתי, החי ומלך העולם. כעסו מרעיד את הארץ, והגויים אינם יכולים לשאת את זעמו.",
+    "בארמית נאמר שיש לומר לגויים שהאלילים שלא בראו את השמים ואת הארץ יאבדו מן הארץ ומתחת לשמים.",
+    "ה׳ הוא שברוחו ובחכמתו עשה את הארץ, כונן את העולם ונטה את השמים.",
+    "בקולו נוצרים המיית המים והעננים, והוא עושה את הברקים ומוציא את הרוח מאוצרותיו.",
+    "כל העובד עבודה זרה נבער מדעת, והצורף יתבייש בפסל שיצר, משום שאין בו רוח אלא תבנית שקרית.",
+    "האלילים הם הבל, מעשי תעתועים ודמיונות שווא, ובעת פקודתם יאבדו.",
+    "חלק יעקב אינו דומה לאלילים: ה׳ הוא יוצר הכול, וישראל הוא שבט נחלתו; שמו ה׳ צבאות, המושל בצבאות של מעלה ושל מטה.",
+    "ציון, היושבת במצור, מצווה לאסוף את רכושה וסחורתה מן הארץ ולהתכונן לגלות.",
+    "ה׳ מודיע שהוא יפזר ויטלטל את יושבי הארץ ויביא עליהם צרות, כדי שיחפשו את דרך האמת.",
+    "הנביא מקונן על השבר ועל המכה הקשה, שחשב בתחילה שיוכל לשאת כמחלה חולפת.",
+    "חורבן האוהל מדמה את התפרקות העם: המיתרים נותקו, הבנים יצאו, ואין מי שיקים מחדש את האוהל.",
+    "המנהיגים נבערו ולא דרשו את ה׳, ולכן לא השכילו והעדר שלהם התפזר.",
+    "שמועה ורעש גדול יבואו מן הצפון, כדי להפוך את ערי יהודה לשממה ולמקום משכנן של חיות בר.",
+    "הנביא מכיר בכך שהאדם אינו יודע בעצמו את דרכו ואינו יכול לכוון כראוי את צעדיו.",
+    "הוא מבקש מה׳ לייסר אותו במידה ובמשפט, ולא בכעס, כדי שלא ייכלה.",
+    "הנביא מבקש לשפוך את חמת ה׳ על העמים שלא ידעו אותו ושאכלו, כילו והשחיתו את יעקב ואת מעונו."
+  ],
+  "ai_explanation_en": [
+    "The prophet addresses the house of Israel and asks them to listen to the word of God.",
+    "They must not learn from the nations’ customs, beliefs, and religions, nor fear signs in the heavens or astrology, because it is the nations who are frightened by them.",
+    "The practices and worship of the nations are vanity, since the idol is made from wood cut in the forest and shaped by a craftsman.",
+    "The idol is decorated with silver and gold, and its metal covering is fastened with nails and hammers so that it will not move.",
+    "The idols are like a palm tree or a scarecrow: they cannot speak, they must be carried by others, and they can neither harm nor benefit.",
+    "Nothing can be compared with God; He is great, and His name is revealed through His might.",
+    "Everyone should fear God, the King of the nations, because no one is like Him in wisdom or in the power of governance.",
+    "The nations are ignorant and foolish in one respect: they worship idols, which are ultimately merely empty works made of wood.",
+    "The idols are made from precious materials and fashioned by craftsmen and metalworkers, and they are dressed in blue and purple; despite their beauty, they have no spirit.",
+    "God is the true and living God and King of the world. His anger makes the earth tremble, and the nations cannot withstand His fury.",
+    "In Aramaic, the people are told to say to the nations that the idols which did not create the heavens and the earth will perish from the earth and from beneath the heavens.",
+    "God created the earth through His power and established the world through His wisdom; through His understanding He spread out the heavens.",
+    "At His voice the waters and clouds arise; He makes lightning for the rain and brings the wind out of His storehouses.",
+    "Everyone who practices idolatry is ignorant, and the craftsman will be ashamed of the idol he made, because it contains no spirit but only a false form.",
+    "The idols are vanity, deceptive works and false imaginings, and they will perish when they are judged.",
+    "Jacob’s portion is not like the idols: God is the Creator of everything, and Israel is the tribe of His inheritance. His name is the Lord of Hosts, ruler of the heavenly and earthly hosts.",
+    "Zion, sitting under siege, is told to gather her possessions and merchandise from the land and prepare for exile.",
+    "God announces that He will scatter and trouble the inhabitants of the land, bringing distress upon them so that they will seek the path of truth.",
+    "The prophet laments the breach and the severe wound, which he initially thought he could endure like a passing illness.",
+    "The destruction of the tent symbolizes the breakdown of the people: its cords have been cut, its children have gone, and no one remains to set it up again.",
+    "The leaders became ignorant and did not seek God; therefore they lacked understanding, and their flock was scattered.",
+    "News and a great disturbance will come from the north, turning the cities of Judah into desolation and a dwelling place for wild creatures.",
+    "The prophet recognizes that a person does not know his own way and cannot properly direct his steps.",
+    "He asks God to discipline him with justice and in proper measure, not in anger, so that he will not be destroyed.",
+    "The prophet asks God to pour His wrath on the nations that did not know Him and that consumed, destroyed, and laid waste to Jacob and his dwelling."
+  ],
+  "perush": [
+    "הנביא פונה אל בית ישראל ומבקש מהם להקשיב לדבר ה׳.",
+    "אין ללמוד ממנהגי הגויים, מאמונותיהם ומדתם, ואין לפחד מאותות השמים או מן האסטרולוגיה, מפני שהגויים הם החוששים מהם.",
+    "חוקות העמים ופולחנם הם הבל, שהרי הפסל עשוי מעץ שנכרת ביער ומעוצב בידי חרש.",
+    "את הפסל מקשטים בכסף ובזהב ומחזקים את ציפוי המתכת במסמרים ובפטישים, כדי שלא יזוז ממקומו.",
+    "הפסילים דומים לעץ תמר או לדחליל: אינם מדברים, נישאים על ידי אחרים ואינם יכולים להזיק או להיטיב.",
+    "אין דבר המשתווה לה׳; הוא גדול, ושמו מתגלה בגבורתו.",
+    "כל אדם ראוי לירא מה׳, מלך הגויים, מפני שאין דומה לו בחכמה או בכוח ההנהגה.",
+    "העמים נבערים וטיפשים בדבר אחד: הם עובדים אלילים, שהם למעשה דברי הבאי ויצירות עץ.",
+    "האלילים עשויים מחומרים יקרים ומעוצבים בידי חרש וצורף, ואף לבושים בתכלת ובארגמן; אך למרות יופיים הם חסרי רוח.",
+    "ה׳ הוא האלוהים האמיתי, החי ומלך העולם. כעסו מרעיד את הארץ, והגויים אינם יכולים לשאת את זעמו.",
+    "בארמית נאמר שיש לומר לגויים שהאלילים שלא בראו את השמים ואת הארץ יאבדו מן הארץ ומתחת לשמים.",
+    "ה׳ הוא שברוחו ובחכמתו עשה את הארץ, כונן את העולם ונטה את השמים.",
+    "בקולו נוצרים המיית המים והעננים, והוא עושה את הברקים ומוציא את הרוח מאוצרותיו.",
+    "כל העובד עבודה זרה נבער מדעת, והצורף יתבייש בפסל שיצר, משום שאין בו רוח אלא תבנית שקרית.",
+    "האלילים הם הבל, מעשי תעתועים ודמיונות שווא, ובעת פקודתם יאבדו.",
+    "חלק יעקב אינו דומה לאלילים: ה׳ הוא יוצר הכול, וישראל הוא שבט נחלתו; שמו ה׳ צבאות, המושל בצבאות של מעלה ושל מטה.",
+    "ציון, היושבת במצור, מצווה לאסוף את רכושה וסחורתה מן הארץ ולהתכונן לגלות.",
+    "ה׳ מודיע שהוא יפזר ויטלטל את יושבי הארץ ויביא עליהם צרות, כדי שיחפשו את דרך האמת.",
+    "הנביא מקונן על השבר ועל המכה הקשה, שחשב בתחילה שיוכל לשאת כמחלה חולפת.",
+    "חורבן האוהל מדמה את התפרקות העם: המיתרים נותקו, הבנים יצאו, ואין מי שיקים מחדש את האוהל.",
+    "המנהיגים נבערו ולא דרשו את ה׳, ולכן לא השכילו והעדר שלהם התפזר.",
+    "שמועה ורעש גדול יבואו מן הצפון, כדי להפוך את ערי יהודה לשממה ולמקום משכנן של חיות בר.",
+    "הנביא מכיר בכך שהאדם אינו יודע בעצמו את דרכו ואינו יכול לכוון כראוי את צעדיו.",
+    "הוא מבקש מה׳ לייסר אותו במידה ובמשפט, ולא בכעס, כדי שלא ייכלה.",
+    "הנביא מבקש לשפוך את חמת ה׳ על העמים שלא ידעו אותו ושאכלו, כילו והשחיתו את יעקב ואת מעונו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הבל האלילים וגדולת ה׳",
+      "title_en": "The Vanity of Idols and the Greatness of God",
+      "start_verse": 1,
+      "end_verse": 10,
+      "summary": "ישראל נקראים שלא ללמוד ממנהגי הגויים ולא לפחד מאותות השמים. הנביא מתאר את האלילים כמעשי אדם חסרי כוח, ומעמיד מולם את ה׳ האמיתי, החי והגדול.",
+      "summary_en": "Israel is told not to learn from the nations’ customs or fear signs in the heavens. The prophet presents idols as powerless human creations and contrasts them with the true, living, and great God.",
+      "image_prompt": "A dramatic biblical scene contrasting fragile wooden idols decorated with gold and purple fabric with a vast radiant presence representing the living God, no text, respectful ancient Near Eastern atmosphere"
+    },
+    {
+      "title": "הבורא מול פסלי האדם",
+      "title_en": "The Creator versus Human-Made Idols",
+      "start_verse": 11,
+      "end_verse": 16,
+      "summary": "המסר הארמי קובע שאלילים שלא בראו את השמים והארץ יאבדו. לעומתם, ה׳ ברא את העולם, שולט בכוחות הטבע, וישראל הם שבט נחלתו.",
+      "summary_en": "The Aramaic message declares that idols which did not create the heavens and the earth will perish. In contrast, God created the world, controls the forces of nature, and Israel is His treasured tribe.",
+      "image_prompt": "A sweeping creation scene with earth, heavens, clouds, lightning, and wind, contrasted with small lifeless statues and craftsmen, cinematic biblical illustration, no text"
+    },
+    {
+      "title": "המצור והחורבן המתקרב",
+      "title_en": "Siege and Impending Destruction",
+      "start_verse": 17,
+      "end_verse": 22,
+      "summary": "ציון מצווה להתכונן לגלות ולחורבן. הפורענות מתוארת כאוהל שהתמוטט וכעדר שהתפזר, בעקבות מנהיגים שלא דרשו את ה׳, ובאה שמועה על חורבן ערי יהודה.",
+      "summary_en": "Zion is told to prepare for exile and destruction. The calamity is portrayed as a collapsed tent and a scattered flock, caused by leaders who did not seek God, while news of Judah’s ruin comes from the north.",
+      "image_prompt": "A besieged ancient city with families gathering possessions, a collapsed tent, scattered sheep, and a dark storm approaching from the north, biblical atmosphere, no text"
+    },
+    {
+      "title": "הודאת האדם בתלותו בה׳",
+      "title_en": "Human Dependence on God",
+      "start_verse": 23,
+      "end_verse": 24,
+      "summary": "הנביא מודה שהאדם אינו יודע לכוון את דרכו ואת צעדיו בכוחות עצמו. לכן הוא מבקש מה׳ ייסור במידה ובמשפט, ולא בכעס העלול לכלות אותו.",
+      "summary_en": "The prophet admits that a person cannot determine his path and direct his steps independently. He therefore asks God for measured discipline and justice rather than anger that could destroy him.",
+      "image_prompt": "A lone biblical figure standing at a crossroads beneath a vast sky, looking toward a guiding light while avoiding a destructive storm, contemplative and reverent, no text"
+    },
+    {
+      "title": "בקשת דין על אויבי יעקב",
+      "title_en": "A Plea for Judgment against Jacob’s Enemies",
+      "start_verse": 25,
+      "end_verse": 25,
+      "summary": "הנביא מבקש שה׳ ישפוך את חמתו על העמים שלא ידעו אותו ועל אלה שהשחיתו את יעקב ואת מעונו.",
+      "summary_en": "The prophet asks God to pour out His wrath on the nations that did not know Him and on those who destroyed Jacob and his dwelling.",
+      "image_prompt": "A solemn prophetic prayer scene with a figure raising his hands toward heaven over a devastated dwelling, dramatic clouds and restrained biblical symbolism, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 8.5,
+      "usfm": "JER.10.1"
+    },
+    {
+      "start": 8.5,
+      "end": 20.8,
+      "usfm": "JER.10.2"
+    },
+    {
+      "start": 20.8,
+      "end": 29.66,
+      "usfm": "JER.10.3"
+    },
+    {
+      "start": 29.66,
+      "end": 36.88,
+      "usfm": "JER.10.4"
+    },
+    {
+      "start": 36.88,
+      "end": 53.16,
+      "usfm": "JER.10.5"
+    },
+    {
+      "start": 53.16,
+      "end": 61.92,
+      "usfm": "JER.10.6"
+    },
+    {
+      "start": 61.92,
+      "end": 76.12,
+      "usfm": "JER.10.7"
+    },
+    {
+      "start": 76.12,
+      "end": 82.36,
+      "usfm": "JER.10.8"
+    },
+    {
+      "start": 82.36,
+      "end": 96.62,
+      "usfm": "JER.10.9"
+    },
+    {
+      "start": 96.62,
+      "end": 111.14,
+      "usfm": "JER.10.10"
+    },
+    {
+      "start": 111.14,
+      "end": 123.24,
+      "usfm": "JER.10.11"
+    },
+    {
+      "start": 123.24,
+      "end": 134.08,
+      "usfm": "JER.10.12"
+    },
+    {
+      "start": 134.08,
+      "end": 149.82,
+      "usfm": "JER.10.13"
+    },
+    {
+      "start": 149.82,
+      "end": 162.94,
+      "usfm": "JER.10.14"
+    },
+    {
+      "start": 162.94,
+      "end": 171.04,
+      "usfm": "JER.10.15"
+    },
+    {
+      "start": 171.04,
+      "end": 183.84,
+      "usfm": "JER.10.16"
+    },
+    {
+      "start": 183.84,
+      "end": 188.7,
+      "usfm": "JER.10.17"
+    },
+    {
+      "start": 188.7,
+      "end": 200.36,
+      "usfm": "JER.10.18"
+    },
+    {
+      "start": 200.36,
+      "end": 209.18,
+      "usfm": "JER.10.19"
+    },
+    {
+      "start": 209.18,
+      "end": 224.14,
+      "usfm": "JER.10.20"
+    },
+    {
+      "start": 224.14,
+      "end": 234.52,
+      "usfm": "JER.10.21"
+    },
+    {
+      "start": 234.52,
+      "end": 246.42,
+      "usfm": "JER.10.22"
+    },
+    {
+      "start": 246.42,
+      "end": 255.04,
+      "usfm": "JER.10.23"
+    },
+    {
+      "start": 255.04,
+      "end": 262.62,
+      "usfm": "JER.10.24"
+    },
+    {
+      "start": 262.62,
+      "end": 285.96,
+      "usfm": "JER.10.25"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    8.5,
+    20.8,
+    29.66,
+    36.88,
+    53.16,
+    61.92,
+    76.12,
+    82.36,
+    96.62,
+    111.14,
+    123.24,
+    134.08,
+    149.82,
+    162.94,
+    171.04,
+    183.84,
+    188.7,
+    200.36,
+    209.18,
+    224.14,
+    234.52,
+    246.42,
+    255.04,
+    262.62,
+    285.96
+  ],
+  "times_en_usfm": [
+    "JER.10.1",
+    "JER.10.2",
+    "JER.10.3",
+    "JER.10.4",
+    "JER.10.5",
+    "JER.10.6",
+    "JER.10.7",
+    "JER.10.8",
+    "JER.10.9",
+    "JER.10.10",
+    "JER.10.11",
+    "JER.10.12",
+    "JER.10.13",
+    "JER.10.14",
+    "JER.10.15",
+    "JER.10.16",
+    "JER.10.17",
+    "JER.10.18",
+    "JER.10.19",
+    "JER.10.20",
+    "JER.10.21",
+    "JER.10.22",
+    "JER.10.23",
+    "JER.10.24",
+    "JER.10.25"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 2,
+      "text": "הידעת? ירמיהו מזהיר את ישראל שלא ללמוד את דרך הגויים ושלא לפחד מ״אותות השמים״, מפני שהפחד מהם מאפיין את הגויים ולא את עובדי ה׳.",
+      "text_he": "הידעת? ירמיהו מזהיר את ישראל שלא ללמוד את דרך הגויים ושלא לפחד מ״אותות השמים״, מפני שהפחד מהם מאפיין את הגויים ולא את עובדי ה׳.",
+      "text_en": "Did you know? Jeremiah warns Israel not to follow the ways of the nations and not to fear the signs in the sky, because fearing them is characteristic of the nations, not of those who worship the Lord."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? בפרק מתוארים האלילים כעץ שנכרת ביער ועובד בידי חרש; בכך מודגש שהם מעשי אדם ולא כוחות אלוהיים.",
+      "text_he": "הידעת? בפרק מתוארים האלילים כעץ שנכרת ביער ועובד בידי חרש; בכך מודגש שהם מעשי אדם ולא כוחות אלוהיים.",
+      "text_en": "Did you know? The chapter describes idols as a tree cut down in the forest and shaped by a craftsman, emphasizing that they are human creations rather than divine powers."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? האלילים מתוארים כדמות דוממת שאינה מדברת, אינה הולכת ואינה יכולה להרע או להיטיב, ולכן אין לפחד ממנה.",
+      "text_he": "הידעת? האלילים מתוארים כדמות דוממת שאינה מדברת, אינה הולכת ואינה יכולה להרע או להיטיב, ולכן אין לפחד ממנה.",
+      "text_en": "Did you know? Idols are portrayed as lifeless figures that cannot speak or walk and can do neither harm nor good; therefore, there is no reason to fear them."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? ירמיהו מציב ניגוד חד בין האלילים לבין ה׳: ה׳ הוא אלוהים אמיתי, אלוהים חיים ומלך עולם, ואילו פסלי העמים חסרי חיים.",
+      "text_he": "הידעת? ירמיהו מציב ניגוד חד בין האלילים לבין ה׳: ה׳ הוא אלוהים אמיתי, אלוהים חיים ומלך עולם, ואילו פסלי העמים חסרי חיים.",
+      "text_en": "Did you know? Jeremiah draws a sharp contrast between idols and the Lord: the Lord is the true God, the living God, and the everlasting King, while the nations’ statues are lifeless."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? פסוק י״א מופיע בארמית, ובו נאמר שאלים שלא עשו את השמים ואת הארץ יאבדו מן הארץ ומן העולם.",
+      "text_he": "הידעת? פסוק י״א מופיע בארמית, ובו נאמר שאלים שלא עשו את השמים ואת הארץ יאבדו מן הארץ ומן העולם.",
+      "text_en": "Did you know? Verse 11 appears in Aramaic and declares that the gods who did not make the heavens and the earth will perish from the earth and from under the heavens."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הפרק מייחס לה׳ שליטה בתופעות הטבע: הוא מעלה עננים, עושה ברקים לגשם ומוציא רוח מאוצרותיו.",
+      "text_he": "הידעת? הפרק מייחס לה׳ שליטה בתופעות הטבע: הוא מעלה עננים, עושה ברקים לגשם ומוציא רוח מאוצרותיו.",
+      "text_en": "Did you know? The chapter attributes control over natural phenomena to the Lord: he makes the clouds rise, produces lightning with the rain, and brings out the wind from his storehouses."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? בניגוד לפסלים, חלקו של יעקב הוא ה׳, מפני שהוא ״יוצר הכול״; ישראל מתואר גם כ״שבט נחלתו״.",
+      "text_he": "הידעת? בניגוד לפסלים, חלקו של יעקב הוא ה׳, מפני שהוא ״יוצר הכול״; ישראל מתואר גם כ״שבט נחלתו״.",
+      "text_en": "Did you know? Unlike the idols, Jacob’s portion is the Lord, because he is the one who formed everything; Israel is also described as the tribe of his inheritance."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? פיזור המרעה והחורבן בפרק קשורים לכך שהרועים, כלומר המנהיגים, לא דרשו את ה׳ ולכן לא השכילו להנהיג את הצאן.",
+      "text_he": "הידעת? פיזור המרעה והחורבן בפרק קשורים לכך שהרועים, כלומר המנהיגים, לא דרשו את ה׳ ולכן לא השכילו להנהיג את הצאן.",
+      "text_en": "Did you know? The scattering of the flock and the destruction described in the chapter are linked to the shepherds—that is, the leaders—who did not seek the Lord and therefore failed to lead the flock wisely."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? ירמיהו מודה שהאדם אינו קובע לבדו את דרכו ואינו יכול להכין בעצמו את צעדיו; אמירה זו מבטאת את תלותו של האדם בה׳.",
+      "text_he": "הידעת? ירמיהו מודה שהאדם אינו קובע לבדו את דרכו ואינו יכול להכין בעצמו את צעדיו; אמירה זו מבטאת את תלותו של האדם בה׳.",
+      "text_en": "Did you know? Jeremiah acknowledges that people do not determine their own path entirely and cannot direct their own steps by themselves; this expresses humanity’s dependence on the Lord."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? תפילת הנביא מבקשת שה׳ ייסר את עמו במידה ובמשפט, ולא בכעס העלול למעט ולהשמיד אותו.",
+      "text_he": "הידעת? תפילת הנביא מבקשת שה׳ ייסר את עמו במידה ובמשפט, ולא בכעס העלול למעט ולהשמיד אותו.",
+      "text_en": "Did you know? The prophet prays that the Lord will discipline his people with measure and justice, not in anger, which could diminish and destroy them."
+    }
+  ]
+}

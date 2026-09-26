@@ -1,0 +1,415 @@
+{
+  "book": "Isaiah",
+  "book_he": "ישעיהו",
+  "book_chapters": 66,
+  "chapter": 9,
+  "title": "ישעיהו פרק 9",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1009.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1009.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ISA/9-5015f0766b172a2107dbace581168a72.mp3?version_id=1",
+  "verses": [
+    "הָעָם הַהֹלְכִים בַּחֹשֶׁךְ, רָאוּ אוֹר גָּדוֹל: יֹשְׁבֵי בְּאֶרֶץ צַלְמָוֶת, אוֹר נָגַהּ עֲלֵיהֶם.",
+    "הִרְבִּיתָ הַגּוֹי, לא לוֹ הִגְדַּלְתָּ הַשִּׂמְחָה; שָׂמְחוּ לְפָנֶיךָ כְּשִׂמְחַת בַּקָּצִיר, כַּאֲשֶׁר יָגִילוּ בְּחַלְּקָם שָׁלָל.",
+    "כִּי אֶת-עֹל סֻבֳּלוֹ, וְאֵת מַטֵּה שִׁכְמוֹ, שֵׁבֶט, הַנֹּגֵשׂ בּוֹ--הַחִתֹּתָ, כְּיוֹם מִדְיָן.",
+    "כִּי כָל-סְאוֹן סֹאֵן בְּרַעַשׁ, וְשִׂמְלָה מְגוֹלָלָה בְדָמִים; וְהָיְתָה לִשְׂרֵפָה, מַאֲכֹלֶת אֵשׁ.",
+    "כִּי-יֶלֶד יֻלַּד-לָנוּ, בֵּן נִתַּן-לָנוּ, וַתְּהִי הַמִּשְׂרָה, עַל-שִׁכְמוֹ; וַיִּקְרָא שְׁמוֹ פֶּלֶא יוֹעֵץ, אֵל גִּבּוֹר, אֲבִי-עַד, שַׂר-שָׁלוֹם.",
+    "לם רבה לְמַרְבֵּה הַמִּשְׂרָה וּלְשָׁלוֹם אֵין-קֵץ, עַל-כִּסֵּא דָוִד וְעַל-מַמְלַכְתּוֹ, לְהָכִין אֹתָהּ וּלְסַעֲדָהּ, בְּמִשְׁפָּט וּבִצְדָקָה; מֵעַתָּה, וְעַד-עוֹלָם, קִנְאַת יְהוָה צְבָאוֹת, תַּעֲשֶׂה-זֹּאת.",
+    "דָּבָר שָׁלַח אֲדֹנָי, בְּיַעֲקֹב; וְנָפַל, בְּיִשְׂרָאֵל.",
+    "וְיָדְעוּ הָעָם כֻּלּוֹ, אֶפְרַיִם וְיוֹשֵׁב שֹׁמְרוֹן, בְּגַאֲוָה וּבְגֹדֶל לֵבָב, לֵאמֹר.",
+    "לְבֵנִים נָפָלוּ, וְגָזִית נִבְנֶה; שִׁקְמִים גֻּדָּעוּ, וַאֲרָזִים נַחֲלִיף.",
+    "וַיְשַׂגֵּב יְהוָה אֶת-צָרֵי רְצִין, עָלָיו; וְאֶת-אֹיְבָיו, יְסַכְסֵךְ.",
+    "אֲרָם מִקֶּדֶם, וּפְלִשְׁתִּים מֵאָחוֹר, וַיֹּאכְלוּ אֶת-יִשְׂרָאֵל, בְּכָל-פֶּה; בְּכָל-זֹאת לֹא-שָׁב אַפּוֹ, וְעוֹד יָדוֹ נְטוּיָה.",
+    "וְהָעָם לֹא-שָׁב, עַד-הַמַּכֵּהוּ; וְאֶת-יְהוָה צְבָאוֹת, לֹא דָרָשׁוּ.",
+    "וַיַּכְרֵת יְהוָה מִיִּשְׂרָאֵל, רֹאשׁ וְזָנָב כִּפָּה וְאַגְמוֹן--יוֹם אֶחָד.",
+    "זָקֵן וּנְשׂוּא-פָנִים, הוּא הָרֹאשׁ; וְנָבִיא מוֹרֶה-שֶּׁקֶר, הוּא הַזָּנָב.",
+    "וַיִּהְיוּ מְאַשְּׁרֵי הָעָם-הַזֶּה, מַתְעִים; וּמְאֻשָּׁרָיו, מְבֻלָּעִים.",
+    "עַל-כֵּן עַל-בַּחוּרָיו לֹא-יִשְׂמַח אֲדֹנָי, וְאֶת-יְתֹמָיו וְאֶת-אַלְמְנוֹתָיו לֹא יְרַחֵם--כִּי כֻלּוֹ חָנֵף וּמֵרַע, וְכָל-פֶּה דֹּבֵר נְבָלָה; בְּכָל-זֹאת לֹא-שָׁב אַפּוֹ, וְעוֹד יָדוֹ נְטוּיָה.",
+    "כִּי-בָעֲרָה כָאֵשׁ רִשְׁעָה, שָׁמִיר וָשַׁיִת תֹּאכֵל; וַתִּצַּת בְּסִבְכֵי הַיַּעַר, וַיִּתְאַבְּכוּ גֵּאוּת עָשָׁן.",
+    "בְּעֶבְרַת יְהוָה צְבָאוֹת, נֶעְתַּם אָרֶץ; וַיְהִי הָעָם כְּמַאֲכֹלֶת אֵשׁ, אִישׁ אֶל-אָחִיו לֹא יַחְמֹלוּ.",
+    "וַיִּגְזֹר עַל-יָמִין וְרָעֵב, וַיֹּאכַל עַל-שְׂמֹאול וְלֹא שָׂבֵעוּ: אִישׁ בְּשַׂר-זְרֹעוֹ, יֹאכֵלוּ.",
+    "מְנַשֶּׁה אֶת-אֶפְרַיִם, וְאֶפְרַיִם אֶת-מְנַשֶּׁה--יַחְדָּו הֵמָּה, עַל-יְהוּדָה; בְּכָל-זֹאת לֹא-שָׁב אַפּוֹ, וְעוֹד יָדוֹ נְטוּיָה."
+  ],
+  "english": [
+    "Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.",
+    "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+    "Thou hast multiplied the nation, and not increased the joy: they joy before thee according to the joy in harvest, and as men rejoice when they divide the spoil.",
+    "For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.",
+    "For every battle of the warrior is with confused noise, and garments rolled in blood; but this shall be with burning and fuel of fire.",
+    "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+    "Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.",
+    "The Lord sent a word into Jacob, and it hath lighted upon Israel.",
+    "And all the people shall know, even Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,",
+    "The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change them into cedars.",
+    "Therefore the Lord shall set up the adversaries of Rezin against him, and join his enemies together;",
+    "The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand is stretched out still.",
+    "For the people turneth not unto him that smiteth them, neither do they seek the Lord of hosts.",
+    "Therefore the Lord will cut off from Israel head and tail, branch and rush, in one day.",
+    "The ancient and honourable, he is the head; and the prophet that teacheth lies, he is the tail.",
+    "For the leaders of this people cause them to err; and they that are led of them are destroyed.",
+    "Therefore the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one is an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand is stretched out still.",
+    "For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up like the lifting up of smoke.",
+    "Through the wrath of the Lord of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.",
+    "And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:",
+    "Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still."
+  ],
+  "steinsaltz": [
+    "הָעָם הַהֹלְכִים בַּחֹשֶׁךְ רָאוּ אוֹר גָּדוֹל, יֹשְׁבֵי בְּאֶרֶץ צַלְמָוֶת, צל מוות, עלטה — אוֹר נָגַהּ, זרח עֲלֵיהֶם.",
+    "הִרְבִּיתָ, רוממת את הַגּוֹי, העם, לוֹ הִגְדַּלְתָּ הַשִּׂמְחָה. לא תמיד עם הריבוי וההצלחה גדלה גם השמחה, אבל כאן שָׂמְחוּ לְפָנֶיךָ כְּשִׂמְחַת בַּקָּצִיר, לעומת שעת הזריעה — המלֻווה בדמעה ובחוסר ודאות, בקציר מתעוררת שמחה ורינה. כיוצא בזה בקציר המלחמות — כַּאֲשֶׁר יָגִילוּ בְּחַלְּקָם שָׁלָל. מדובר בשמחה שתבוא בעקבות מלחמות שונות שאינן מתוארות במדויק.",
+    "כִּי אֶת מי שהיה עֹל סֻבֳּלוֹ, משא סבלו של איש יהודה וְאֵת מי שהיה מַטֵּה הנתון על שִׁכְמוֹ, כעול על כתפי הבהמה, את שֵׁבֶט, השוט הַנֹּגֵשׂ בּוֹ — הַחִתֹּתָ, שברת כְּיוֹם מִדְיָן, כמו היום שבו ניצח גדעון את המדינים.",
+    "כִּי כָל סְאוֹן, כנראה סנדל צבאי או נעל צבאית בעלת כיסויי מתכת לשם הגנה ולשם התקפה הסֹאֵן בְּרַעַשׁ, וְשִׂמְלָה, בגד עליון שמְגוֹלָלָה בְדָמִים, מתפלשת וספוגה בדם המלחמה — וְהָיְתָה לִשְׂרֵפָה מַאֲכֹלֶת אֵשׁ. העם ינצח במלחמה ויוכל לשרוף את כל בגדי הלוחמים ואביזריהם שאינם ראויים עוד לשימוש.",
+    "כִּי יֶלֶד יֻלַּד לָנוּ, בֵּן נִתַּן לָנוּ. ייתכן שזהו בן נוסף שעתיד להיוולד לישעיהו הנביא מלבד הבנים שהוזכרו בפרקים הקודמים — שאר ישוב, עמנו אל ומהר שלל חש בז; אולי זו נבואה על ילד שנולד לבית המלוכה באותו זמן; ושמא מתייחסים הדברים לעתיד לבוא. וַתְּהִי הַמִּשְׂרָה עַל שִׁכְמוֹ, הוא יקבל את התפקיד, וַיִּקְרָא, ייקרא שְׁמוֹ: פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד שַׂר שָׁלוֹם, זה שמו הארוך של אדם אחד, שכולו תארי כבוד של מלך ומושיע.",
+    "לְםַרְבֵּה הַמִּשְׂרָה, לגדולת התפקיד וּלְשָׁלוֹם אֵין קֵץ, שיבואו כאשר ישב מלך חדש עַל כִּסֵּא דָוִד וְעַל מַמְלַכְתּוֹ, לְהָכִין, לכונן אֹתָהּ — את הממלכה, וּלְסַעֲדָהּ בְּמִשְׁפָּט וּבִצְדָקָה מֵעַתָּה וְעַד עוֹלָם. קִנְאַת ה' צְבָאוֹת המקנא לציון ממחרפיה תַּעֲשֶׂה זֹּאת.",
+    "ונבואה קרובה יותר: דָּבָר שָׁלַח אֲדֹנָי בְּיַעֲקֹב, שליחות של נבואה, וְנָפַל, נפוץ ונודע בְּיִשְׂרָאֵל:",
+    "וְיָדְעוּ הָעָם כֻּלּוֹ, אֶפְרַיִם וְיוֹשֵׁב שֹׁמְרוֹן, המדברים בְּגַאֲוָה וּבְגֹדֶל לֵבָב לֵאמֹר:",
+    "אמנם בניינים של לְבֵנִים נָפָלוּ — וְאולם אנחנו בתים חדשים של גָזִית, אבנים מסותתות נִבְנֶה. שִׁקְמִים, שהיו עצים זולים יחסית, גֻּדָּעוּ, ובמקומם — אֲרָזִים נַחֲלִיף.",
+    "וַיְשַׂגֵּב, יחזק ה' אֶת צָרֵי, אויבי רְצִין מלך ארם, שעליו סמכו ישראל, לקום עָלָיו, וְאֶת אֹיְבָיו של ישראל הוא יְסַכְסֵךְ ויעורר כנגדו.",
+    "אֲרָם השוכן מִקֶּדֶם, מצד מזרח, למעשה מצפון-מזרח לארץ ישראל, וּפְלִשְׁתִּים מֵאָחוֹר, מדרום-מערב — וַיֹּאכְלוּ אֶת יִשְׂרָאֵל בְּכָל פֶּה. ובְכָל זֹאת לֹא שָׁב אַפּוֹ, וְעוֹד יָדוֹ נְטוּיָה להכותם. עדיין לא הסתיימו הצרות והמפלות.",
+    "וְהָעָם לֹא שָׁב עַד הַמַּכֵּהוּ, ישראל היו צריכים לזכור שהמאורעות מכוונים ואינם סתמיים, שה' הוא המכה אותם ושעליהם לחזור בתשובה, אך בפועל — אֶת ה' צְבָאוֹת לֹא דָרָשׁוּ.",
+    "וַיַּכְרֵת ה' מִיִּשְׂרָאֵל רֹאשׁ וְזָנָב, את המנהיגים ואת פשוטי העם, כִּפָּה, צמרת הדקל הגבוה וְאַגְמוֹן, צמח רך הגדל ליד המים. כולם יאבדו ביוֹם אֶחָד. וההסבר:",
+    "זָקֵן וּנְשׂוּא פָנִים הוּא הָרֹאשׁ, וְנָבִיא מוֹרֶה שֶּׁקֶר הוּא הַזָּנָב. הן החכמים, מנהיגי העם, והן נביאי השקר ייכרתו.",
+    "וַיִּהְיוּ מְאַשְּׁרֵי, מי שאמורים לכונן וליישר את דרכו של הָעָם הַזֶּה — מַתְעִים, וּמְאֻשָּׁרָיו, המקבלים את הדרכתם — יהיו מְבֻלָּעִים, מבולבלים ונשחתים.",
+    "עַל כֵּן עַל בַּחוּרָיו לֹא יִשְׂמַח אֲדֹנָי, כלומר יענישם, וְאֶת יְתֹמָיו וְאֶת אַלְמְנֹתָיו לֹא יְרַחֵם, כִּי כֻלּוֹ חָנֵף וּמֵרַע, רע וְכָל פֶּה דֹּבֵר נְבָלָה. המפלות שימצאו את ישראל ויהודה יבואו כעונש על חטאיהם. בְּכָל זֹאת לֹא שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה, שכן אנשים אינם לוקחים את הדברים אל לבם.",
+    "כִּי בָעֲרָה כָאֵשׁ והשמידה רִשְׁעָה, תחילה שָׁמִיר וָשַׁיִת, מיני קוצים תֹּאכֵל, ואחר כך וַתִּצַּת בְּסִבְכֵי הַיַּעַר, ואז — וַיִּתְאַבְּכוּ, יגבהו גֵּאוּת עָשָׁן, וכך יישרף הכול.",
+    "בְּעֶבְרַת בכעסו של ה' צְבָאוֹת נֶעְתַּם, זזה ונעתקה ממקומה אָרֶץ, וַיְהִי הָעָם כְּמַאֲכֹלֶת אֵשׁ, אִישׁ אֶל אָחִיו לֹא יַחְמֹלוּ.",
+    "וַיִּגְזֹר, יגזול, יטרוף אדם עַל יָמִין — וְעדיין יישאר רָעֵב, וַיֹּאכַל עַל שְׂמֹאול — וְלֹא שָׂבֵעוּ, גם כשהכו על ימין ועל שמאל ואכלו זה את זה, לא היו שבעים, עד שלבסוף — אִישׁ בְּשַׂר זְרֹעוֹ יֹאכֵלוּ.",
+    "ובהקשר הפוליטי — מְנַשֶּׁה יאכל אֶת אֶפְרַיִם, וְאֶפְרַיִם אֶת מְנַשֶּׁה, ויַחְדָּו הֵמָּה קמים עַל יְהוּדָה. עוד בטרם בא מלך אשור, הייתה בעם מהומה ומלחמות פנימיות; ממלכת שומרון הלכה והתנוונה מרגע לרגע, וגם יהודה נענשה עמה. אנשים חשו שהם אינם חיים כראוי, ובכל זאת המשיכו בשלהם. בְּכָל זֹאת לֹא שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה. ה' טרם סיים את החשבון עמם."
+  ],
+  "ai_explanation": [
+    "העם ההולך בחשכה הוא עם השרוי בצרה ובעלטה, ובייחוד היושבים בארץ צלמוות. עליהם יזרח אור גדול.",
+    "ה' רומם והגדיל את העם, ובמקרה זה גם הגדיל את שמחתו. השמחה מתוארת כשמחת הקציר וכשמחת הלוחמים המחלקים שלל לאחר מלחמות, שאינן מתוארות במדויק.",
+    "ה' שבר את עול הסבל, את המוט שעל השכם ואת השבט שבו הנוגש מכה את העם. הדבר יהיה כמו הניצחון של גדעון על מדין.",
+    "הסנדלים הצבאיים המרשרשים והבגדים המגואלים בדם המלחמה יישרפו. הדבר מבטא ניצחון, שלאחריו אין עוד צורך בציוד הלחימה.",
+    "ייוולד ילד שיקבל על שכמו את תפקיד המלוכה או ההנהגה. ייתכן שהוא בן נוסף של ישעיהו, בן לבית המלוכה, או דמות עתידית; שמו הארוך כולל תארי כבוד של מלך ומושיע.",
+    "תפקידו ומלכותו של המלך החדש יהיו גדולים, והוא יביא שלום ללא קץ. הוא יכונן את ממלכת דוד ויקיים אותה במשפט ובצדקה, מכוח קנאת ה' צבאות.",
+    "נבואה נשלחה מאת ה' ביעקב, והיא תתפרסם ותיוודע בישראל.",
+    "כל העם, ובייחוד אפרים ויושבי שומרון, ישמעו את הדברים. הם מתוארים כאנשים המדברים בגאווה ובביטחון עצמי מופרז.",
+    "הם אומרים שגם אם בנייני הלבנים נפלו, הם יבנו במקומם בתי גזית מפוארים. במקום עצי שקמה זולים שנגדעו, הם יטעו או ישתמשו בארזים יקרים יותר.",
+    "ה' יחזק את אויבי רצין מלך ארם, שעליו סמכו ישראל, כדי שיקומו עליו. את אויבי ישראל האחרים יעורר ה' זה נגד זה.",
+    "ארם תתקוף מן המזרח, והפלשתים מן הכיוון הדרום־מערבי, ושניהם יפגעו בישראל מכל צד. למרות המכות, כעס ה' לא יסתיים וידו עדיין תהיה נטויה להכות.",
+    "העם לא חזר בתשובה בעקבות המכות ולא דרש את ה' צבאות. הם לא הבינו או לא קיבלו שהמאורעות הם עונש מכוון מאת ה'.",
+    "ה' יכרית מישראל את הראש ואת הזנב, כלומר את המנהיגים ואת פשוטי העם, מן הגבוהים ועד הנמוכים. כולם ייכרתו ביום אחד.",
+    "הזקן ונשוא הפנים מסמל את הראש, ואילו הנביא המורה שקר מסמל את הזנב. גם המנהיגים והחכמים וגם נביאי השקר ייכרתו.",
+    "מי שאמורים להנהיג וליישר את דרכו של העם מטעים אותו. העם המקבל את הדרכתם נעשה מבולבל, מושחת ונשחת.",
+    "ה' לא ישמח בבחורים, כלומר יעניש אותם, וגם לא ירחם על היתומים והאלמנות. הסיבה היא שהחברה כולה מלאה חנופה, רשע ודיבורי נבלה; ואף על פי כן העם אינו שב, ולכן יד ה' עדיין נטויה.",
+    "הרשעה בוערת כאש: תחילה היא אוכלת את הקוצים, ולאחר מכן מציתה את סבכי היער. עשן הגאווה עולה, ולבסוף הכול נשרף.",
+    "בכעס ה' הארץ נעקרת וזזה ממקומה, והעם נעשה כמאכלת אש. בני אדם אינם מרחמים עוד איש על אחיו.",
+    "האנשים גוזלים ותוקפים מצד ימין ומצד שמאל, אך אינם שבעים. לבסוף הם פונים לאכול איש את בשר זרועו, כלומר פוגעים זה בזה עד כדי הרס עצמי.",
+    "מנשה ואפרים נלחמים זה בזה, ושניהם יחד קמים על יהודה. גם לאחר המהומות והמלחמות הפנימיות העם אינו שב, ולכן כעס ה' לא שכך וידו עדיין נטויה."
+  ],
+  "ai_explanation_en": [
+    "The people walking in darkness are a people living in distress and gloom, especially those dwelling in the land of the shadow of death. A great light will shine upon them.",
+    "God has exalted and enlarged the nation, and in this case He has also increased its joy. The joy is compared to the joy of harvest and to the joy of soldiers dividing spoil after wars that are not described precisely.",
+    "God has broken the yoke of suffering, the rod on the shoulder, and the staff with which the oppressor strikes the people. This will be like Gideon's victory over Midian.",
+    "The military sandals that clatter and the garments stained with the blood of war will be burned. This expresses victory, after which the equipment of battle is no longer needed.",
+    "A child will be born who will receive the role of kingship or leadership. He may be another son of Isaiah, a child born to the royal house, or a future figure; his long name consists of honorific titles for a king and savior.",
+    "The new king's authority and kingdom will be great, and he will bring endless peace. He will establish and sustain the kingdom of David through justice and righteousness, by the zeal of the Lord of Hosts.",
+    "A prophetic message was sent by the Lord in Jacob, and it will spread and become known in Israel.",
+    "All the people, especially Ephraim and the inhabitants of Samaria, will hear the words. They are portrayed as speaking with pride and excessive self-confidence.",
+    "They say that even if brick buildings have fallen, they will replace them with splendid ashlar buildings. In place of the inexpensive sycamore trees that were cut down, they will use more valuable cedars.",
+    "The Lord will strengthen the enemies of Rezin, king of Aram, on whom Israel relied, so that they will rise against him. He will also stir Israel's other enemies against one another.",
+    "Aram will attack from the east, while the Philistines will come from the southwest, and together they will strike Israel from every side. Despite these blows, the Lord's anger will not end, and His hand will remain extended to strike.",
+    "The people did not repent in response to the blows and did not seek the Lord of Hosts. They did not understand or accept that the events were deliberate punishment from God.",
+    "The Lord will cut off from Israel both the head and the tail, meaning the leaders and the common people, from the highest to the lowest. All will be cut off in one day.",
+    "The elder and honored man represents the head, while the prophet who teaches falsehood represents the tail. Both the leaders and sages and the false prophets will be cut off.",
+    "Those who are supposed to guide the people and straighten their path lead them astray. The people who accept their guidance become confused, corrupted, and ruined.",
+    "The Lord will not rejoice over the young men, meaning that He will punish them, and He will not have mercy on the orphans and widows. The reason is that the entire society is full of hypocrisy, evil, and vile speech; nevertheless, the people do not repent, so the Lord's hand remains extended.",
+    "Wickedness burns like fire: first it consumes the thorns, and then it sets the forest thickets alight. The smoke of pride rises, and eventually everything is burned.",
+    "In the anger of the Lord of Hosts, the land is uprooted and shaken from its place, and the people become fuel for fire. People no longer show compassion to one another.",
+    "People plunder and attack on the right and on the left, yet they are not satisfied. In the end, they consume the flesh of their own arms, meaning that they turn against one another to the point of self-destruction.",
+    "Manasseh and Ephraim fight one another, and together they rise against Judah. Even after the internal turmoil and wars, the people do not repent, so the Lord's anger does not subside and His hand remains extended."
+  ],
+  "perush": [
+    "העם ההולך בחשכה הוא עם השרוי בצרה ובעלטה, ובייחוד היושבים בארץ צלמוות. עליהם יזרח אור גדול.",
+    "ה' רומם והגדיל את העם, ובמקרה זה גם הגדיל את שמחתו. השמחה מתוארת כשמחת הקציר וכשמחת הלוחמים המחלקים שלל לאחר מלחמות, שאינן מתוארות במדויק.",
+    "ה' שבר את עול הסבל, את המוט שעל השכם ואת השבט שבו הנוגש מכה את העם. הדבר יהיה כמו הניצחון של גדעון על מדין.",
+    "הסנדלים הצבאיים המרשרשים והבגדים המגואלים בדם המלחמה יישרפו. הדבר מבטא ניצחון, שלאחריו אין עוד צורך בציוד הלחימה.",
+    "ייוולד ילד שיקבל על שכמו את תפקיד המלוכה או ההנהגה. ייתכן שהוא בן נוסף של ישעיהו, בן לבית המלוכה, או דמות עתידית; שמו הארוך כולל תארי כבוד של מלך ומושיע.",
+    "תפקידו ומלכותו של המלך החדש יהיו גדולים, והוא יביא שלום ללא קץ. הוא יכונן את ממלכת דוד ויקיים אותה במשפט ובצדקה, מכוח קנאת ה' צבאות.",
+    "נבואה נשלחה מאת ה' ביעקב, והיא תתפרסם ותיוודע בישראל.",
+    "כל העם, ובייחוד אפרים ויושבי שומרון, ישמעו את הדברים. הם מתוארים כאנשים המדברים בגאווה ובביטחון עצמי מופרז.",
+    "הם אומרים שגם אם בנייני הלבנים נפלו, הם יבנו במקומם בתי גזית מפוארים. במקום עצי שקמה זולים שנגדעו, הם יטעו או ישתמשו בארזים יקרים יותר.",
+    "ה' יחזק את אויבי רצין מלך ארם, שעליו סמכו ישראל, כדי שיקומו עליו. את אויבי ישראל האחרים יעורר ה' זה נגד זה.",
+    "ארם תתקוף מן המזרח, והפלשתים מן הכיוון הדרום־מערבי, ושניהם יפגעו בישראל מכל צד. למרות המכות, כעס ה' לא יסתיים וידו עדיין תהיה נטויה להכות.",
+    "העם לא חזר בתשובה בעקבות המכות ולא דרש את ה' צבאות. הם לא הבינו או לא קיבלו שהמאורעות הם עונש מכוון מאת ה'.",
+    "ה' יכרית מישראל את הראש ואת הזנב, כלומר את המנהיגים ואת פשוטי העם, מן הגבוהים ועד הנמוכים. כולם ייכרתו ביום אחד.",
+    "הזקן ונשוא הפנים מסמל את הראש, ואילו הנביא המורה שקר מסמל את הזנב. גם המנהיגים והחכמים וגם נביאי השקר ייכרתו.",
+    "מי שאמורים להנהיג וליישר את דרכו של העם מטעים אותו. העם המקבל את הדרכתם נעשה מבולבל, מושחת ונשחת.",
+    "ה' לא ישמח בבחורים, כלומר יעניש אותם, וגם לא ירחם על היתומים והאלמנות. הסיבה היא שהחברה כולה מלאה חנופה, רשע ודיבורי נבלה; ואף על פי כן העם אינו שב, ולכן יד ה' עדיין נטויה.",
+    "הרשעה בוערת כאש: תחילה היא אוכלת את הקוצים, ולאחר מכן מציתה את סבכי היער. עשן הגאווה עולה, ולבסוף הכול נשרף.",
+    "בכעס ה' הארץ נעקרת וזזה ממקומה, והעם נעשה כמאכלת אש. בני אדם אינם מרחמים עוד איש על אחיו.",
+    "האנשים גוזלים ותוקפים מצד ימין ומצד שמאל, אך אינם שבעים. לבסוף הם פונים לאכול איש את בשר זרועו, כלומר פוגעים זה בזה עד כדי הרס עצמי.",
+    "מנשה ואפרים נלחמים זה בזה, ושניהם יחד קמים על יהודה. גם לאחר המהומות והמלחמות הפנימיות העם אינו שב, ולכן כעס ה' לא שכך וידו עדיין נטויה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "אור, שמחה ושחרור מן השעבוד",
+      "title_en": "Light, Joy, and Deliverance from Oppression",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "העם השרוי בחשכה יראה אור גדול, יחווה שמחה כבשעת הקציר ויחולק שלל לאחר ניצחונות. עול הסבל והדיכוי יישבר, והציוד הצבאי יישרף לאחר הניצחון.",
+      "summary_en": "The people living in darkness will see a great light and experience joy like that of harvest and the distribution of spoil after victory. The yoke of suffering and oppression will be broken, and military equipment will be burned after the victory.",
+      "image_prompt": "A symbolic biblical scene of people emerging from deep darkness into brilliant light, celebrating a harvest and a hard-won victory, with broken yokes and discarded war sandals and bloodstained garments being burned in the distance; no identifiable historical figures."
+    },
+    {
+      "title": "הילד, המלוכה והשלום",
+      "title_en": "The Child, the Kingdom, and Peace",
+      "start_verse": 5,
+      "end_verse": 6,
+      "summary": "ילד עתידי, שאפשר שהוא בן לישעיהו או בן לבית המלוכה, יקבל את תפקיד ההנהגה. מלכותו תכונן את ממלכת דוד במשפט ובצדקה ותביא שלום ללא קץ.",
+      "summary_en": "A future child, possibly a son of Isaiah or a child of the royal house, will receive the role of leadership. His reign will establish the kingdom of David through justice and righteousness and will bring endless peace.",
+      "image_prompt": "A hopeful symbolic image of a child destined for leadership beneath a calm royal canopy, with balanced scales, a peaceful city, and gentle light suggesting justice and endless peace; avoid depicting a specific historical person."
+    },
+    {
+      "title": "גאוות ישראל והעונש המתקרב",
+      "title_en": "Israel's Pride and the Coming Punishment",
+      "start_verse": 7,
+      "end_verse": 12,
+      "summary": "הנבואה תתפרסם בישראל, אך אפרים ויושבי שומרון יגיבו בגאווה ויבטחו ביכולתם לבנות מחדש ובכוחם. ה' יעורר עליהם אויבים ממזרח ומדרום־מערב, אך גם לאחר המכות העם לא ישוב אליו.",
+      "summary_en": "The prophecy will become known in Israel, but Ephraim and the inhabitants of Samaria will respond with pride and confidence in their ability to rebuild and prevail. The Lord will stir enemies against them from the east and southwest, yet even after the blows the people will not return to Him.",
+      "image_prompt": "A symbolic ancient city rebuilding grand stone houses and replacing humble trees with cedars while storm clouds gather and hostile forces approach from opposite horizons; no specific historical battle or identifiable figures."
+    },
+    {
+      "title": "כריתת המנהיגים והטעיית העם",
+      "title_en": "The Cutting Off of Leaders and the Misguiding of the People",
+      "start_verse": 13,
+      "end_verse": 16,
+      "summary": "ה' יכרית את הראש ואת הזנב, כלומר את המנהיגים, פשוטי העם ונביאי השקר. מי שאמורים להדריך את העם מטעים אותו, והחברה כולה נענשת משום שאינה שבה ואינה דורשת את ה'.",
+      "summary_en": "The Lord will cut off the head and the tail, meaning the leaders, the common people, and the false prophets. Those who should guide the people mislead them, and the entire society is punished because it neither repents nor seeks the Lord.",
+      "image_prompt": "A symbolic scene showing a withered palm crown and a fragile reed beside indistinct civic and prophetic figures dissolving into confusion, representing failed leadership and false guidance; solemn biblical atmosphere, no identifiable individuals."
+    },
+    {
+      "title": "אש, פירוד והרס עצמי",
+      "title_en": "Fire, Division, and Self-Destruction",
+      "start_verse": 17,
+      "end_verse": 20,
+      "summary": "הרשעה מתפשטת כאש ושורפת את הארץ ואת החברה. בני אדם אינם מרחמים זה על זה, שבטים וקבוצות נלחמים זה בזה, ולבסוף האלימות הופכת להרס עצמי; למרות הכול העם אינו שב.",
+      "summary_en": "Wickedness spreads like fire and consumes the land and society. People show no mercy, tribes and groups fight one another, and violence ultimately becomes self-destruction; despite everything, the people do not repent.",
+      "image_prompt": "A dark symbolic landscape consumed by spreading fire, with divided groups facing one another in conflict and the scene reflecting inward toward self-destruction; restrained biblical imagery, no graphic gore and no specific historical details."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 21.58,
+      "usfm": "ISA.9.1"
+    },
+    {
+      "start": 21.58,
+      "end": 32.38,
+      "usfm": "ISA.9.2"
+    },
+    {
+      "start": 32.38,
+      "end": 44.46,
+      "usfm": "ISA.9.3"
+    },
+    {
+      "start": 44.46,
+      "end": 53.66,
+      "usfm": "ISA.9.4"
+    },
+    {
+      "start": 53.66,
+      "end": 65.32,
+      "usfm": "ISA.9.5"
+    },
+    {
+      "start": 65.32,
+      "end": 88.02,
+      "usfm": "ISA.9.6"
+    },
+    {
+      "start": 88.02,
+      "end": 107.48,
+      "usfm": "ISA.9.7"
+    },
+    {
+      "start": 107.48,
+      "end": 112.88,
+      "usfm": "ISA.9.8"
+    },
+    {
+      "start": 112.88,
+      "end": 121.48,
+      "usfm": "ISA.9.9"
+    },
+    {
+      "start": 121.48,
+      "end": 131.98,
+      "usfm": "ISA.9.10"
+    },
+    {
+      "start": 131.98,
+      "end": 138.64,
+      "usfm": "ISA.9.11"
+    },
+    {
+      "start": 138.64,
+      "end": 154.04,
+      "usfm": "ISA.9.12"
+    },
+    {
+      "start": 154.04,
+      "end": 161.1,
+      "usfm": "ISA.9.13"
+    },
+    {
+      "start": 161.1,
+      "end": 167.96,
+      "usfm": "ISA.9.14"
+    },
+    {
+      "start": 167.96,
+      "end": 174.96,
+      "usfm": "ISA.9.15"
+    },
+    {
+      "start": 174.96,
+      "end": 182.3,
+      "usfm": "ISA.9.16"
+    },
+    {
+      "start": 182.3,
+      "end": 202.88,
+      "usfm": "ISA.9.17"
+    },
+    {
+      "start": 202.88,
+      "end": 215.48,
+      "usfm": "ISA.9.18"
+    },
+    {
+      "start": 215.48,
+      "end": 227.06,
+      "usfm": "ISA.9.19"
+    },
+    {
+      "start": 227.06,
+      "end": 239.86,
+      "usfm": "ISA.9.20"
+    },
+    {
+      "start": 239.86,
+      "end": 262.28,
+      "usfm": "ISA.9.21"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    21.58,
+    32.38,
+    44.46,
+    53.66,
+    65.32,
+    88.02,
+    107.48,
+    112.88,
+    121.48,
+    131.98,
+    138.64,
+    154.04,
+    161.1,
+    167.96,
+    174.96,
+    182.3,
+    202.88,
+    215.48,
+    227.06,
+    239.86,
+    262.28
+  ],
+  "times_en_usfm": [
+    "ISA.9.1",
+    "ISA.9.2",
+    "ISA.9.3",
+    "ISA.9.4",
+    "ISA.9.5",
+    "ISA.9.6",
+    "ISA.9.7",
+    "ISA.9.8",
+    "ISA.9.9",
+    "ISA.9.10",
+    "ISA.9.11",
+    "ISA.9.12",
+    "ISA.9.13",
+    "ISA.9.14",
+    "ISA.9.15",
+    "ISA.9.16",
+    "ISA.9.17",
+    "ISA.9.18",
+    "ISA.9.19",
+    "ISA.9.20",
+    "ISA.9.21"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? פסוק זה מציג את הישועה במעבר חד מחשכה לאור: העם ההולך בחושך עתיד לראות אור גדול, והאור יזרח על יושבי ארץ צלמוות.",
+      "text_he": "הידעת? פסוק זה מציג את הישועה במעבר חד מחשכה לאור: העם ההולך בחושך עתיד לראות אור גדול, והאור יזרח על יושבי ארץ צלמוות.",
+      "text_en": "Did you know? This verse presents salvation as a sudden transition from darkness to light: the people walking in darkness will see a great light, and light will shine on those living in the land of the shadow of death."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? שמחת העם מתוארת באמצעות שתי תמונות מחיי היום־יום: שמחת הקציר ושמחתם של מחלקי שלל לאחר ניצחון.",
+      "text_he": "הידעת? שמחת העם מתוארת באמצעות שתי תמונות מחיי היום־יום: שמחת הקציר ושמחתם של מחלקי שלל לאחר ניצחון.",
+      "text_en": "Did you know? The people's joy is described through two everyday images: the joy of harvest and the joy of those dividing the spoils after a victory."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? שבירת השעבוד מתוארת כשבירת העול, מטה השכם ושבט הנוגש; עוצמת השבירה מושווית לניצחון ביום מדין.",
+      "text_he": "הידעת? שבירת השעבוד מתוארת כשבירת העול, מטה השכם ושבט הנוגש; עוצמת השבירה מושווית לניצחון ביום מדין.",
+      "text_en": "Did you know? The breaking of oppression is described as the breaking of the yoke, the bar across the shoulders, and the rod of the oppressor; the force of this breaking is compared to the victory on the day of Midian."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? לאחר הניצחון, ציוד המלחמה — הסאון, השמלה המגולגלת בדם וכלי המלחמה — מיועד לשרפה ולמאכולת אש.",
+      "text_he": "הידעת? לאחר הניצחון, ציוד המלחמה — הסאון, השמלה המגולגלת בדם וכלי המלחמה — מיועד לשרפה ולמאכולת אש.",
+      "text_en": "Did you know? After the victory, the equipment of war—the clamor, the garment rolled in blood, and the weapons of war—is destined to be burned and consumed by fire."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? הילד הנולד מתואר כבעל תפקיד שלטוני: המשרה מונחת על שכמו, ושמותיו מבטאים חכמה, גבורה, נצחיות ושלום.",
+      "text_he": "הידעת? הילד הנולד מתואר כבעל תפקיד שלטוני: המשרה מונחת על שכמו, ושמותיו מבטאים חכמה, גבורה, נצחיות ושלום.",
+      "text_en": "Did you know? The child who is born is described as having a ruling role: the authority rests on his shoulders, and his names express wisdom, might, eternity, and peace."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? המלכות המתוארת בפסוק מיועדת להתבסס על כיסא דוד ועל ממלכתו, ולהתקיים באמצעות משפט וצדקה, עם שלום שאין לו קץ.",
+      "text_he": "הידעת? המלכות המתוארת בפסוק מיועדת להתבסס על כיסא דוד ועל ממלכתו, ולהתקיים באמצעות משפט וצדקה, עם שלום שאין לו קץ.",
+      "text_en": "Did you know? The kingdom described in the verse is destined to be established on David's throne and over his kingdom, and to be upheld through justice and righteousness, with peace that has no end."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? למרות האזהרה, אפרים ויושבי שומרון מגיבים בגאווה ומצהירים שיוכלו לבנות מחדש: לבנים יוחלפו בגזית ושקמים בארזים.",
+      "text_he": "הידעת? למרות האזהרה, אפרים ויושבי שומרון מגיבים בגאווה ומצהירים שיוכלו לבנות מחדש: לבנים יוחלפו בגזית ושקמים בארזים.",
+      "text_en": "Did you know? Despite the warning, Ephraim and the inhabitants of Samaria respond with pride and declare that they can rebuild: bricks will be replaced with hewn stone, and sycamores with cedars."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? הנבואה מתארת אויבים משני כיוונים: ארם מן המזרח ופלשתים מאחור, כלומר ממערב, והם מתוארים כמי שאוכלים את ישראל בכל פה.",
+      "text_he": "הידעת? הנבואה מתארת אויבים משני כיוונים: ארם מן המזרח ופלשתים מאחור, כלומר ממערב, והם מתוארים כמי שאוכלים את ישראל בכל פה.",
+      "text_en": "Did you know? The prophecy describes enemies coming from two directions: Aram from the east and the Philistines from behind, meaning from the west. They are portrayed as devouring Israel with every mouth."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הביטוי \"ראש וזנב\" מסמל את כלל החברה ומנהיגיה: הזקן ונשוא הפנים הם הראש, ואילו הנביא המלמד שקר הוא הזנב.",
+      "text_he": "הידעת? הביטוי \"ראש וזנב\" מסמל את כלל החברה ומנהיגיה: הזקן ונשוא הפנים הם הראש, ואילו הנביא המלמד שקר הוא הזנב.",
+      "text_en": "Did you know? The expression \"head and tail\" symbolizes the whole society and its leaders: the elder and the honored man are the head, while the prophet who teaches lies is the tail."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בסיום הקטע הפירוד הפנימי מגיע לשיא: מנשה ואפרים נלחמים זה בזה, ושניהם עומדים נגד יהודה; ואף על פי כן נאמר שהעם עדיין לא שב מדרכו.",
+      "text_he": "הידעת? בסיום הקטע הפירוד הפנימי מגיע לשיא: מנשה ואפרים נלחמים זה בזה, ושניהם עומדים נגד יהודה; ואף על פי כן נאמר שהעם עדיין לא שב מדרכו.",
+      "text_en": "Did you know? At the end of the passage, internal division reaches its peak: Manasseh fights against Ephraim, and both stand against Judah; yet it is still said that the people have not turned back from their ways."
+    }
+  ]
+}

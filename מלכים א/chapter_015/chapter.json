@@ -1,0 +1,584 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 15,
+  "title": "מלכים א פרק 15",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a15.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a15.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/15-17b08d144441d2b8e25b90da6c0f00c1.mp3?version_id=1",
+  "verses": [
+    "וּבִשְׁנַת שְׁמֹנֶה עֶשְׂרֵה, לַמֶּלֶךְ יָרָבְעָם בֶּן-נְבָט, מָלַךְ אֲבִיָּם, עַל-יְהוּדָה.",
+    "שָׁלֹשׁ שָׁנִים, מָלַךְ בִּירוּשָׁלִָם; וְשֵׁם אִמּוֹ, מַעֲכָה בַּת-אֲבִישָׁלוֹם.",
+    "וַיֵּלֶךְ, בְּכָל-חַטֹּאות אָבִיו אֲשֶׁר-עָשָׂה לְפָנָיו; וְלֹא-הָיָה לְבָבוֹ שָׁלֵם עִם-יְהוָה אֱלֹהָיו, כִּלְבַב דָּוִד אָבִיו.",
+    "כִּי לְמַעַן דָּוִד, נָתַן יְהוָה אֱלֹהָיו לוֹ נִיר בִּירוּשָׁלִָם, לְהָקִים אֶת-בְּנוֹ אַחֲרָיו, וּלְהַעֲמִיד אֶת-יְרוּשָׁלִָם.",
+    "אֲשֶׁר עָשָׂה דָוִד אֶת-הַיָּשָׁר, בְּעֵינֵי יְהוָה; וְלֹא-סָר מִכֹּל אֲשֶׁר-צִוָּהוּ, כֹּל יְמֵי חַיָּיו--רַק, בִּדְבַר אוּרִיָּה הַחִתִּי.",
+    "וּמִלְחָמָה הָיְתָה בֵין-רְחַבְעָם וּבֵין יָרָבְעָם, כָּל-יְמֵי חַיָּיו.",
+    "וְיֶתֶר דִּבְרֵי אֲבִיָּם, וְכָל-אֲשֶׁר עָשָׂה--הֲלוֹא-הֵם כְּתוּבִים עַל-סֵפֶר דִּבְרֵי הַיָּמִים, לְמַלְכֵי יְהוּדָה; וּמִלְחָמָה הָיְתָה בֵּין אֲבִיָּם, וּבֵין יָרָבְעָם.",
+    "וַיִּשְׁכַּב אֲבִיָּם עִם-אֲבֹתָיו, וַיִּקְבְּרוּ אֹתוֹ בְּעִיר דָּוִד; וַיִּמְלֹךְ אָסָא בְנוֹ, תַּחְתָּיו.",
+    "וּבִשְׁנַת עֶשְׂרִים, לְיָרָבְעָם מֶלֶךְ יִשְׂרָאֵל, מָלַךְ אָסָא, מֶלֶךְ יְהוּדָה.",
+    "וְאַרְבָּעִים וְאַחַת שָׁנָה, מָלַךְ בִּירוּשָׁלִָם; וְשֵׁם אִמּוֹ, מַעֲכָה בַּת-אֲבִישָׁלוֹם.",
+    "וַיַּעַשׂ אָסָא הַיָּשָׁר, בְּעֵינֵי יְהוָה, כְּדָוִד, אָבִיו.",
+    "וַיַּעֲבֵר הַקְּדֵשִׁים, מִן-הָאָרֶץ; וַיָּסַר, אֶת-כָּל-הַגִּלֻּלִים, אֲשֶׁר עָשׂוּ, אֲבֹתָיו.",
+    "וְגַם אֶת-מַעֲכָה אִמּוֹ, וַיְסִרֶהָ מִגְּבִירָה, אֲשֶׁר-עָשְׂתָה מִפְלֶצֶת, לָאֲשֵׁרָה; וַיִּכְרֹת אָסָא אֶת-מִפְלַצְתָּהּ, וַיִּשְׂרֹף בְּנַחַל קִדְרוֹן.",
+    "וְהַבָּמוֹת, לֹא-סָרוּ; רַק לְבַב-אָסָא, הָיָה שָׁלֵם עִם-יְהוָה--כָּל-יָמָיו.",
+    "וַיָּבֵא אֶת-קָדְשֵׁי אָבִיו, וקדשו וְקָדְשֵׁי בֵּית יְהוָה, כֶּסֶף וְזָהָב, וְכֵלִים.",
+    "וּמִלְחָמָה הָיְתָה בֵּין אָסָא, וּבֵין בַּעְשָׁא מֶלֶךְ-יִשְׂרָאֵל--כָּל-יְמֵיהֶם.",
+    "וַיַּעַל בַּעְשָׁא מֶלֶךְ-יִשְׂרָאֵל עַל-יְהוּדָה, וַיִּבֶן אֶת-הָרָמָה--לְבִלְתִּי, תֵּת יֹצֵא וָבָא, לְאָסָא, מֶלֶךְ יְהוּדָה.",
+    "וַיִּקַּח אָסָא אֶת-כָּל-הַכֶּסֶף וְהַזָּהָב הַנּוֹתָרִים בְּאוֹצְרוֹת בֵּית-יְהוָה, וְאֶת-אוֹצְרוֹת בֵּית מלך הַמֶּלֶךְ , וַיִּתְּנֵם, בְּיַד-עֲבָדָיו; וַיִּשְׁלָחֵם הַמֶּלֶךְ אָסָא, אֶל-בֶּן-הֲדַד בֶּן-טַבְרִמֹּן בֶּן-חֶזְיוֹן מֶלֶךְ אֲרָם, הַיֹּשֵׁב בְּדַמֶּשֶׂק, לֵאמֹר.",
+    "בְּרִית בֵּינִי וּבֵינֶךָ, בֵּין אָבִי וּבֵין אָבִיךָ; הִנֵּה שָׁלַחְתִּי לְךָ שֹׁחַד, כֶּסֶף וְזָהָב--לֵךְ הָפֵרָה אֶת-בְּרִיתְךָ אֶת-בַּעְשָׁא מֶלֶךְ-יִשְׂרָאֵל, וְיַעֲלֶה מֵעָלָי.",
+    "וַיִּשְׁמַע בֶּן-הֲדַד אֶל-הַמֶּלֶךְ אָסָא, וַיִּשְׁלַח אֶת-שָׂרֵי הַחֲיָלִים אֲשֶׁר-לוֹ עַל-עָרֵי יִשְׂרָאֵל, וַיַּךְ אֶת-עִיּוֹן וְאֶת-דָּן, וְאֵת אָבֵל בֵּית-מַעֲכָה; וְאֵת, כָּל-כִּנְרוֹת, עַל, כָּל-אֶרֶץ נַפְתָּלִי.",
+    "וַיְהִי, כִּשְׁמֹעַ בַּעְשָׁא, וַיֶּחְדַּל, מִבְּנוֹת אֶת-הָרָמָה; וַיֵּשֶׁב, בְּתִרְצָה.",
+    "וְהַמֶּלֶךְ אָסָא הִשְׁמִיעַ אֶת-כָּל-יְהוּדָה, אֵין נָקִי, וַיִּשְׂאוּ אֶת-אַבְנֵי הָרָמָה וְאֶת-עֵצֶיהָ, אֲשֶׁר בָּנָה בַּעְשָׁא; וַיִּבֶן בָּם הַמֶּלֶךְ אָסָא, אֶת-גֶּבַע בִּנְיָמִן וְאֶת-הַמִּצְפָּה.",
+    "וְיֶתֶר כָּל-דִּבְרֵי-אָסָא וְכָל-גְּבוּרָתוֹ וְכָל-אֲשֶׁר עָשָׂה, וְהֶעָרִים אֲשֶׁר בָּנָה--הֲלֹא-הֵמָּה כְתוּבִים עַל-סֵפֶר דִּבְרֵי הַיָּמִים, לְמַלְכֵי יְהוּדָה; רַק לְעֵת זִקְנָתוֹ, חָלָה אֶת-רַגְלָיו.",
+    "וַיִּשְׁכַּב אָסָא, עִם-אֲבֹתָיו, וַיִּקָּבֵר עִם-אֲבֹתָיו, בְּעִיר דָּוִד אָבִיו; וַיִּמְלֹךְ יְהוֹשָׁפָט בְּנוֹ, תַּחְתָּיו.",
+    "וְנָדָב בֶּן-יָרָבְעָם, מָלַךְ עַל-יִשְׂרָאֵל, בִּשְׁנַת שְׁתַּיִם, לְאָסָא מֶלֶךְ יְהוּדָה; וַיִּמְלֹךְ עַל-יִשְׂרָאֵל, שְׁנָתָיִם.",
+    "וַיַּעַשׂ הָרַע, בְּעֵינֵי יְהוָה; וַיֵּלֶךְ, בְּדֶרֶךְ אָבִיו, וּבְחַטָּאתוֹ, אֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל.",
+    "וַיִּקְשֹׁר עָלָיו בַּעְשָׁא בֶן-אֲחִיָּה, לְבֵית יִשָּׂשכָר, וַיַּכֵּהוּ בַעְשָׁא, בְּגִבְּתוֹן אֲשֶׁר לַפְּלִשְׁתִּים; וְנָדָב, וְכָל-יִשְׂרָאֵל, צָרִים, עַל-גִּבְּתוֹן.",
+    "וַיְמִתֵהוּ בַעְשָׁא--בִּשְׁנַת שָׁלֹשׁ, לְאָסָא מֶלֶךְ יְהוּדָה; וַיִּמְלֹךְ, תַּחְתָּיו.",
+    "וַיְהִי כְמָלְכוֹ, הִכָּה אֶת-כָּל-בֵּית יָרָבְעָם--לֹא-הִשְׁאִיר כָּל-נְשָׁמָה לְיָרָבְעָם, עַד-הִשְׁמִדוֹ: כִּדְבַר יְהוָה--אֲשֶׁר דִּבֶּר, בְּיַד-עַבְדּוֹ אֲחִיָּה הַשִּׁילֹנִי.",
+    "עַל-חַטֹּאות יָרָבְעָם אֲשֶׁר חָטָא, וַאֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל: בְּכַעְסוֹ--אֲשֶׁר הִכְעִיס, אֶת-יְהוָה אֱלֹהֵי יִשְׂרָאֵל.",
+    "וְיֶתֶר דִּבְרֵי נָדָב, וְכָל-אֲשֶׁר עָשָׂה: הֲלֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "בִּשְׁנַת שָׁלֹשׁ, לְאָסָא מֶלֶךְ יְהוּדָה--מָלַךְ בַּעְשָׁא בֶן-אֲחִיָּה עַל-כָּל-יִשְׂרָאֵל, בְּתִרְצָה, עֶשְׂרִים וְאַרְבַּע, שָׁנָה.",
+    "וַיַּעַשׂ הָרַע, בְּעֵינֵי יְהוָה; וַיֵּלֶךְ, בְּדֶרֶךְ יָרָבְעָם, וּבְחַטָּאתוֹ, אֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל."
+  ],
+  "english": [
+    "Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.",
+    "Three years reigned he in Jerusalem. and his mother's name was Maachah, the daughter of Abishalom.",
+    "And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the Lord his God, as the heart of David his father.",
+    "Nevertheless for David's sake did the Lord his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:",
+    "Because David did that which was right in the eyes of the Lord, and turned not aside from any thing that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.",
+    "And there was war between Rehoboam and Jeroboam all the days of his life.",
+    "Now the rest of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.",
+    "And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.",
+    "And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.",
+    "And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.",
+    "And Asa did that which was right in the eyes of the Lord, as did David his father.",
+    "And he took away the sodomites out of the land, and removed all the idols that his fathers had made.",
+    "And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron.",
+    "But the high places were not removed: nevertheless Asa's heart was perfect with the Lord all his days.",
+    "And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the Lord, silver, and gold, and vessels.",
+    "And there was war between Asa and Baasha king of Israel all their days.",
+    "And Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.",
+    "Then Asa took all the silver and the gold that were left in the treasures of the house of the Lord, and the treasures of the king's house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,",
+    "There is a league between me and thee, and between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.",
+    "So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali.",
+    "And it came to pass, when Baasha heard thereof, that he left off building of Ramah, and dwelt in Tirzah.",
+    "Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.",
+    "The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.",
+    "And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.",
+    "And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.",
+    "And he did evil in the sight of the Lord, and walked in the way of his father, and in his sin wherewith he made Israel to sin.",
+    "And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which belonged to the Philistines; for Nadab and all Israel laid siege to Gibbethon.",
+    "Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead.",
+    "And it came to pass, when he reigned, that he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the Lord, which he spake by his servant Ahijah the Shilonite:",
+    "Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the Lord God of Israel to anger.",
+    "Now the rest of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?",
+    "And there was war between Asa and Baasha king of Israel all their days.",
+    "In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.",
+    "And he did evil in the sight of the Lord, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin."
+  ],
+  "steinsaltz": [
+    "וּבִשְׁנַת שְׁמֹנֶה עֶשְׂרֵה לַמֶּלֶךְ יָרָבְעָם בֶּן־נְבָט מָלַךְ אֲבִיָּם, בנו של רחבעם תחתיו עַל־יְהוּדָה.",
+    "שָׁלֹשׁ שָׁנִים מָלַךְ בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ – מַעֲכָה בַּת־אֲבִישָׁלוֹם. ייתכן שהייתה בתו או נכדתו של אבשלום בן דוד.",
+    "וַיֵּלֶךְ בְּכָל־חַטֹּאות אָבִיו אֲשֶׁר־עָשָׂה לְפָנָיו. רחבעם לא יזם מעשים רעים, אך גם לא נאבק בפולחן הבמות – בין שנעשה לאלוקי ישראל אך שלא כדין, ובין שנעשה לעבודה זרה. וְלֹא־הָיָה לְבָבוֹ של אבים שָׁלֵם עִם־ה' אֱלֹהָיו כִּלְבַב דָּוִד אָבִיו,",
+    "כִּי לְמַעַן דָּוִד נָתַן ה' אֱלֹהָיו לוֹ נִיר, המשכיות, שלטון, או: קרקע חרושה בִּירוּשָׁלִָם, לְהָקִים אֶת־בְּנוֹ אַחֲרָיו וּלְהַעֲמִיד אֶת יְרוּשָׁלִָם, לקיימה כעיר המלוכה וכעיר הקודש.",
+    "אֲשֶׁר עָשָׂה דָוִד אֶת־הַיָּשָׁר בְּעֵינֵי ה' וְלֹא־סָר מִכֹּל אֲשֶׁר צִוָּהוּ כֹּל יְמֵי חַיָּיו, רַק בִּדְבַר אוּרִיָּה הַחִתִּי אפשר היה למצוא בו חטא חמור, אבל בשאר דרכיו ופעולותיו נהג כרצון ה'. הערה זו מדגישה כי כוחם של מלכי יהודה נבע מהיצמדותם לרצון ה', וכי עזיבת הדרך הראויה הייתה כרוכה בעונש.",
+    "וּמִלְחָמָה הָיְתָה בֵין־רְחַבְעָם וּבֵין יָרָבְעָם כָּל־יְמֵי חַיָּיו של רחבעם.",
+    "וְיֶתֶר דִּבְרֵי אֲבִיָּם וְכָל־אֲשֶׁר עָשָׂה בהיותו מלך בירושלים הֲלוֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יְהוּדָה. וּמִלְחָמָה הָיְתָה, פשיטות ותקיפות חוזרות ונשנות באזור הגבול היו גם בֵּין אֲבִיָּם וּבֵין יָרָבְעָם.",
+    "וַיִּשְׁכַּב אֲבִיָּם עִם־אֲבֹתָיו. וַיִּקְבְּרוּ אֹתוֹ בְּעִיר דָּוִד עם אבותיו המלכים. וַיִּמְלֹךְ אָסָא בְנוֹ תַּחְתָּיו.",
+    "וּבִשְׁנַת עֶשְׂרִים לְיָרָבְעָם מֶלֶךְ יִשְׂרָאֵל מָלַךְ אָסָא עַל־יְהוּדָה. לעיל נאמר שמלכות אבים התחילה בשנת שמונה-עשרה לירבעם וארכה שלוש שנים, אבל לא היו אלה שנים מלאות.",
+    "וְאַרְבָּעִים וְאַחַת שָׁנָה מָלַךְ בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ, סבתו, אם אביו, מַעֲכָה בַּת־אֲבִישָׁלוֹם. אסא היה צעיר כשעלה על כס המלכות, כיוון שאביו מלך זמן קצר בלבד. לכן אפשר שבזמנו המלכה השלטת הייתה סבתו.",
+    "וַיַּעַשׂ אָסָא הַיָּשָׁר בְּעֵינֵי ה' כְּדָוִד אָבִיו.",
+    "לפיכך – וַיַּעֲבֵר הַקְּדֵשִׁים, גברים שנועדו למשכב זכר ושימשו בפולחן עבודה זרה מִן־הָאָרֶץ, וַיָּסַר אֶת־כָּל־הַגִּלֻּלִים, כינוי גנאי לעבודה זרה אֲשֶׁר עָשׂוּ אֲבֹתָיו או שהסכימו לעשייתם.",
+    "וְגַם אֶת־מַעֲכָה אִמּוֹ הוא ביקר על מעשיה, ולא רק גער בה אלא וַיְסִרֶהָ מִמעמדה הרשמי – גְּבִירָה על אֲשֶׁר־עָשְׂתָה מִפְלֶצֶת, פסל מעורר פלצות, מזעזע לַאֲשֵׁרָה. וַיִּכְרֹת אָסָא אֶת־מִפְלַצְתָּהּ, שכפי הנראה הייתה עשויה מעץ, וַיִּשְׂרֹף אותה בְּנַחַל קִדְרוֹן.",
+    "וְאולם הַבָּמוֹת לֹא־סָרוּ. רַק, אבל לְבַב־אָסָא הָיָה שָׁלֵם עִם־ה' כָּל־יָמָיו.",
+    "וַיָּבֵא אֶת־קָדְשֵׁי, הקדשי אָבִיו וְאת קָדְשֵׁי בֵּית ה' שהכילו כֶּסֶף וְזָהָב וְכֵלִים. לא היה זה רק הרכוש ששימש לצורכי בית ה', אלא אוצר הממלכה שלא השתמשו בו, ועל כן אוחסן בבית ה'.",
+    "כאן נקטע סיפור הבאת הכספים במשפטי רקע אחדים: וּמִלְחָמָה הָיְתָה בֵּין אָסָא וּבֵין בַּעְשָׁא מֶלֶךְ־יִשְׂרָאֵל, שהקים בינתיים שושלת חדשה בישראל, כָּל־יְמֵיהֶם. לא הייתה זו מלחמה אישית אלא המשך החיכוך המתוח בין הממלכות.",
+    "באחת הפעמים שהתגבר המתח – וַיַּעַל בַּעְשָׁא מֶלֶךְ־יִשְׂרָאֵל עַל־יְהוּדָה. בעשא התקדם לעבר יהודה, אך עדיין לא פתח במתקפה. וַיִּבֶן אֶת־הָרָמָה, העיר שבה ישב בזמנו שמואל הנביא, בגבולה הדרומי של ממלכת ישראל, והקים בה מצודה מבוצרת היטב, לְבִלְתִּי תֵּת יֹצֵא וָבָא לְאָסָא מֶלֶךְ יְהוּדָה, לחסום את הדרכים הראשיות המובילות מיהודה לישראל, כדי למנוע מאסא פעולה צבאית משמעותית בעתיד. מלכי ישראל לא ביקשו להפיל את ממלכת יהודה, ונראה שאף בעשא לא התכוון להתקדם ולתקוף את יהודה, אך אסא מצא עצמו בעמדה נחותה, לפחות טקטית, והחליט לפעול.",
+    "הואיל וצבאו לא היה חזק דיו, נקט אסא פתרון ששימש גם כמה מלכים אחריו: וַיִּקַּח אָסָא אֶת־כָּל־הַכֶּסֶף וְהַזָּהָב הַנּוֹתָרִים בְּאוֹצְרוֹת בֵּית־ה' וְאֶת־אוֹצְרוֹת בֵּית הַמֶּלֶךְ, וַיִּתְּנֵם בְּיַד עֲבָדָיו, וַיִּשְׁלָחֵם הַמֶּלֶךְ אָסָא אֶל־בֶּן־הֲדַד בֶּן־טַבְרִמֹּן בֶּן־חֶזְיוֹן מֶלֶךְ אֲרָם הַיֹּשֵׁב בְּדַמֶּשֶׂק לֵאמֹר:",
+    "בְּרִית בֵּינִי וּבֵינֶךָ, בֵּין אָבִי וּבֵין אָבִיךָ. במשך שנים היחסים ביננו טובים. גם אם לא כרתנו ברית באופן יזום, לא היו בינינו סכסוכים, באשר אין לנו אפילו גבול משותף. הִנֵּה שָׁלַחְתִּי לְךָ שֹׁחַד כֶּסֶף וְזָהָב. לֵךְ הָפֵרָה אֶת־בְּרִיתְךָ אֶת, עם בַּעְשָׁא מֶלֶךְ־יִשְׂרָאֵל למען ברית אתי, שבצדה טובת הנאה. העדף את האינטרסים שלי על פני אלה של מלך ישראל. וְיַעֲלֶה, כדי שיסור מֵעָלָי. אני אינני יכול לעשות דבר, אבל אתה מסוגל לתקוף אותו מצפון. התגרותך בו תאלץ אותו להפסיק להציק לי.",
+    "וַיִּשְׁמַע בֶּן־הֲדַד אֶל־הַמֶּלֶךְ אָסָא. הוא קיבל את הצעתו. נראה שלא היה להוט לשמור אמונים לממלכת ישראל, וכאשר קיבל עידוד כספי והבטחה לשיתוף פעולה מדרום – וַיִּשְׁלַח אֶת־שָׂרֵי הַחֲיָלִים אֲשֶׁר־לוֹ ועמם יחידות צבאיות עַל־עָרֵי יִשְׂרָאֵל. וַיַּךְ אֶת־עִיּוֹן וְאֶת־דָּן וְאֵת אָבֵל בֵּית־מַעֲכָה וְאֵת כָּל־כִּנְרוֹת, העיר כינרת ותחומה, או: שם כולל לערים באזור שפת ים כנרת שעַל כָּל־אֶרֶץ נַפְתָּלִי. הוא פשט על ערים בגבולות הצפוניים של ישראל, תקף אותן, פלש לממלכה ולקח עמו שבויים ושלל.",
+    "וַיְהִי כִּשְׁמֹעַ בַּעְשָׁא שהוא נתון למתקפה מצפון, וַיֶּחְדַּל מִבְּנוֹת אֶת־הָרָמָה. הוא הפסיק, כצפוי, את פעולותיו כנגד ממלכת יהודה, והתמקד במאמץ לייצב את גבולותיו במקום לתקוף. וַיֵּשֶׁב בְּתִרְצָה, עירו של ירבעם, שאותה בנה כבירה חדשה לישראל.",
+    "וְהַמֶּלֶךְ אָסָא הִשְׁמִיעַ, גייס אֶת־כָּל תושבי ארץ יְהוּדָה, אֵין נָקִי. איש לא היה פטור. הצו הקיף גם את מי שבדרך כלל אינם אנשי צבא. וַיִּשְׂאוּ אֶת־אַבְנֵי המבצר שברָמָה וְאֶת־עֵצֶיהָ אֲשֶׁר בָּנָה בַּעְשָׁא. אסא רצה להשמיד את האיום הפוטנציאלי, ולכן הורה לכל אנשיו שיפרקו את המבנה ויעבירו מן המקום את חומרי הבניין שלו. וַיִּבֶן בָּם – באותם עצים ואבנים הַמֶּלֶךְ אָסָא אֶת־גֶּבַע בִּנְיָמִן וְאֶת־הַמִּצְפָּה, ערי הגבול שלו.",
+    "כאן הובאו רק קווים כלליים ופרטים בעלי חשיבות מיוחדת מתולדותיו, וְיֶתֶר כָּל־דִּבְרֵי אָסָא וְכָל־גְּבוּרָתוֹ וְכָל־אֲשֶׁר עָשָׂה, וְהֶעָרִים אֲשֶׁר בָּנָה, הֲלֹא־הֵמָּה כְתוּבִים בפירוט עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יְהוּדָה. כאן נוספת הערה: רַק לְעֵת זִקְנָתוֹ חָלָה אֶת־רַגְלָיו, סבל ממחלה ברגליו.",
+    "וַיִּשְׁכַּב אָסָא עִם־אֲבֹתָיו, וַיִּקָּבֵר עִם־אֲבֹתָיו בְּעִיר דָּוִד אָבִיו. וַיִּמְלֹךְ יְהוֹשָׁפָט בְּנוֹ תַּחְתָּיו.",
+    "וְנָדָב בֶּן־יָרָבְעָם מָלַךְ עַל־יִשְׂרָאֵל בִּשְׁנַת שְׁתַּיִם לְאָסָא מֶלֶךְ יְהוּדָה, שהרי אסא עלה לשלטון בשנתו העשרים של ירבעם, וירבעם מלך עשרים ושתיים שנים. וַיִּמְלֹךְ עַל־יִשְׂרָאֵל שְׁנָתָיִם.",
+    "וַיַּעַשׂ הָרַע בְּעֵינֵי ה', וַיֵּלֶךְ בְּדֶרֶךְ אָבִיו וּבְחַטָּאתוֹ אֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל. עגלי הזהב ומנהגי הפולחן הזרים עמדו בעינם בתקופת נדב.",
+    "וַיִּקְשֹׁר עָלָיו, ארגן מרד כנגדו בַּעְשָׁא בֶן־אֲחִיָּה לְבֵית יִשָּׂשכָר. וַיַּכֵּהוּ בַעְשָׁא בּעיר גִבְּתוֹן אֲשֶׁר לַפְּלִשְׁתִּים. וְנָדָב וְכָל־יִשְׂרָאֵל צָרִים עַל־גִּבְּתוֹן. מאחר שהפלשתים איימו על הגבול המערבי נדב ביקש לבצר את הגבול והטיל מצור על גבתון. בזמן המצור נכחו במקום רק חיילים. כנראה בעשא הצליח לשכנע את חלקם להצטרף אליו, וכך עלה בידו להוציא את תכניתו אל הפועל.",
+    "וַיְמִתֵהוּ בַעְשָׁא בִּשְׁנַת שָׁלֹשׁ לְאָסָא מֶלֶךְ יְהוּדָה. נדב לא מלך שנתיים מלאות, וַיִּמְלֹךְ תַּחְתָּיו.",
+    "וַיְהִי כְמָלְכוֹ הִכָּה בעשא אֶת־כָּל־בֵּית יָרָבְעָם, לֹא־הִשְׁאִיר כָּל־נְשָׁמָה לְיָרָבְעָם עַד־הִשְׁמִדוֹ, כִּדְבַר ה' אֲשֶׁר דִּבֶּר בְּיַד־עַבְדּוֹ אֲחִיָּה הַשִּׁילֹנִי. בעשא לא עשה זאת כדי לקיים את דבר ה', אלא משום שרצה למנוע את האפשרות שמשפחת ירבעם ונדב תתבע את השלטון בעתיד.",
+    "עַל־חַטֹּאות יָרָבְעָם אֲשֶׁר חָטָא וַאֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל, בְּכַעְסוֹ אֲשֶׁר הִכְעִיס אֶת־ה' אֱלֹהֵי יִשְׂרָאֵל.",
+    "וְיֶתֶר דִּבְרֵי נָדָב וְכָל־אֲשֶׁר עָשָׂה, הֲלֹא־ הֵם כְּתוּבִים ביתר פירוט עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל.",
+    "וּמִלְחָמָה הָיְתָה בֵּין אָסָא וּבֵין בַּעְשָׁא מֶלֶךְ־יִשְׂרָאֵל כָּל־יְמֵיהֶם. חָמָה הָיְתָה בֵּין אָסָא וּבֵין בַּעְשָׁא מֶלֶךְ־יִשְׂרָאֵל כָּל־יְמֵיהֶם.",
+    "בִּשְׁנַת שָׁלֹשׁ לְאָסָא מֶלֶךְ יְהוּדָה מָלַךְ בַּעְשָׁא בֶן־אֲחִיָּה עַל־כָּל־ יִשְׂרָאֵל בְּתִרְצָה עֶשְׂרִים וְאַרְבַּע שָׁנָה."
+  ],
+  "ai_explanation": [
+    "בשנת שמונה־עשרה למלכות ירבעם בן נבט עלה אבים, בנו של רחבעם, למלוך על יהודה.",
+    "אבים מלך שלוש שנים בירושלים. אמו נקראה מעכה בת אבשלום, וייתכן שהייתה בתו או נכדתו של אבשלום בן דוד.",
+    "אבים המשיך בחטאות אביו. רחבעם לא בהכרח יזם את המעשים הרעים, אך לא נאבק בפולחן הבמות, בין שהיה פולחן לה' שלא כדין ובין שהיה עבודה זרה; לכן לבו לא היה שלם עם ה' כדוד.",
+    "למען דוד נתן ה' לאבים המשכיות ושלטון בירושלים, כדי להקים את בנו אחריו ולשמור על ירושלים כעיר המלוכה והקודש. המילה \"ניר\" יכולה להתפרש גם כקרקע חרושה.",
+    "דוד עשה את הישר בעיני ה' ולא סר ממצוותיו כל ימיו, מלבד חטאו החמור בפרשת אוריה החתי. בשאר דרכיו ופעולותיו נהג כרצון ה'.",
+    "בין רחבעם לירבעם שררה מלחמה במשך כל ימי חייו של רחבעם.",
+    "שאר מעשי אבים, ובכללם פעולותיו כמלך בירושלים, מתוארים בספר דברי הימים למלכי יהודה. גם בימיו נמשכו פשיטות ותקיפות חוזרות ונשנות בינו ובין ירבעם באזור הגבול.",
+    "אבים מת ונקבר בעיר דוד עם אבותיו המלכים, ואסא בנו מלך תחתיו.",
+    "אסא עלה למלוכה בשנת עשרים לירבעם מלך ישראל. שלוש שנות מלכותו של אבים לא היו שנים מלאות, ולכן אין סתירה בין הנתונים.",
+    "אסא מלך בירושלים ארבעים ואחת שנים. מעכה, המכונה כאן אמו, הייתה ככל הנראה סבתו, אם אביו; ייתכן שבגלל גילו הצעיר של אסא היא שימשה בתקופתו כמלכה השלטת.",
+    "אסא עשה את הישר בעיני ה', כדוד אביו.",
+    "אסא הרחיק מן הארץ את הקדשים, גברים שנועדו למשכב זכר ושימשו בפולחן עבודה זרה, והסיר את הגלולים, שהוא כינוי גנאי לעבודה זרה, שנעשו או הותרו בידי אבותיו.",
+    "אסא הסיר את מעכה ממעמדה הרשמי כגבירה בגלל מפלצת, פסל מעורר פלצות, שעשתה לאשרה. הוא כרת את המפלצת, שכפי הנראה הייתה עשויה עץ, ושרף אותה בנחל קדרון.",
+    "הבמות עדיין לא סרו, אך למרות זאת לב אסא היה שלם עם ה' במשך כל ימיו.",
+    "אסא הביא את אוצרות אביו ואת אוצרות בית ה', שכללו כסף, זהב וכלים. לפי הפירוש, אוצרות בית ה' כללו גם את אוצר הממלכה שלא השתמשו בו ולכן אוחסן שם.",
+    "בין אסא לבין בעשא מלך ישראל שררה מלחמה במשך כל ימי מלכותם. לא הייתה זו בהכרח מלחמה אישית, אלא המשך המתח בין שתי הממלכות.",
+    "בעשא עלה על יהודה ובנה את הרמה כמצודה בגבול הדרומי של ישראל, כדי לחסום את הדרכים ולמנוע מאסא פעולה צבאית משמעותית. אף שבעשא כנראה לא התכוון לכבוש את יהודה, אסא ראה עצמו בעמדה טקטית נחותה והחליט לפעול.",
+    "אסא לקח את הכסף והזהב שנותרו באוצרות בית ה' ובאוצרות בית המלך, ומסר אותם לעבדיו כדי שישלחו אותם אל בן־הדד מלך ארם שישב בדמשק.",
+    "אסא הזכיר את היחסים הטובים בין שתי הממלכות וביקש מבן־הדד להפר את קשריו עם בעשא תמורת כסף וזהב. מטרתו הייתה שבן־הדד יתקוף את ישראל מצפון, ובכך יאלץ את בעשא לסגת מעל יהודה.",
+    "בן־הדד קיבל את הצעת אסא ושלח את צבאו לתקוף ערים בצפון ישראל: את עיון, דן, אבל בית מעכה ואת אזור כינרות בארץ נפתלי. הצבא הארמי פשט על הערים, תקף אותן ולקח שבויים ושלל.",
+    "כששמע בעשא על המתקפה מצפון, הפסיק לבנות את הרמה וחזר לתרצה כדי לייצב את גבולות ממלכתו במקום להמשיך במאבק נגד יהודה.",
+    "אסא גייס את כל תושבי יהודה, בלי לפטור איש, והם פירקו את המבצר ברמה ונשאו משם את האבנים והעצים. בחומרי הבנייה הללו בנה אסא את גבע בנימין ואת המצפה, ערי גבול שלו.",
+    "שאר מעשי אסא, גבורתו, פעולותיו והערים שבנה מתוארים בספר דברי הימים למלכי יהודה. לעת זקנתו חלה ברגליו.",
+    "אסא מת ונקבר עם אבותיו בעיר דוד, ויהושפט בנו מלך תחתיו.",
+    "נדב בן ירבעם מלך על ישראל בשנת שתיים לאסא, ומלך שנתיים. לפי הפירוש, אסא עלה בשנתו העשרים של ירבעם, וירבעם מלך עשרים ושתיים שנים.",
+    "נדב עשה את הרע בעיני ה', הלך בדרך אביו ירבעם והמשיך בחטאתו שבה החטיא את ישראל. עגלי הזהב ומנהגי הפולחן הזרים נמשכו גם בתקופתו.",
+    "בעשא בן אחיה לבית יששכר קשר נגד נדב והרג אותו בגבתון, בזמן שנדב וכל ישראל צרו על העיר. נדב ביקש לבצר את הגבול מול הפלשתים, ובעשא כנראה הצליח לגייס חלק מן החיילים לתכנית המרד.",
+    "בעשא הרג את נדב בשנת שלוש לאסא ומלך תחתיו. נדב לא מלך שתי שנים מלאות.",
+    "עם עלייתו למלוכה השמיד בעשא את כל בית ירבעם ולא השאיר ממנו איש. בכך התקיים דבר ה' שנמסר באמצעות אחיה השילוני, אף שבעשא פעל מתוך רצון למנוע ממשפחת ירבעם לתבוע את השלטון בעתיד.",
+    "השמדת בית ירבעם באה כעונש על חטאות ירבעם, שהחטיא את ישראל והכעיס את ה' אלוהי ישראל.",
+    "שאר מעשי נדב וכל אשר עשה מפורטים בספר דברי הימים למלכי ישראל.",
+    "בין אסא לבין בעשא מלך ישראל שררה מלחמה במשך כל ימי מלכותם.",
+    "בעשא בן אחיה החל למלוך על כל ישראל בתרצה בשנת שלוש לאסא, ומלך עשרים וארבע שנים."
+  ],
+  "ai_explanation_en": [
+    "In the eighteenth year of Jeroboam son of Nebat, Abijam, Rehoboam's son, became king over Judah.",
+    "Abijam reigned in Jerusalem for three years. His mother was named Maacah daughter of Abishalom, who may have been Absalom son of David's daughter or granddaughter.",
+    "Abijam continued in his father's sins. Rehoboam may not have initiated the evil practices, but he did not oppose worship at the high places, whether it was improper worship of the God of Israel or idolatry; therefore his heart was not fully devoted to the Lord as David's was.",
+    "For David's sake, the Lord gave Abijam continuity and a lasting rule in Jerusalem, so that he could establish his son after him and preserve Jerusalem as the royal and holy city. The word \"lamp\" may also be understood as cultivated or plowed ground.",
+    "David did what was right in the Lord's eyes and did not turn away from God's commandments throughout his life, except in the matter of Uriah the Hittite. In all his other ways and actions, he acted according to the Lord's will.",
+    "There was war between Rehoboam and Jeroboam throughout all the days of Rehoboam's life.",
+    "The rest of Abijam's deeds, including his actions as king in Jerusalem, are recorded in the Book of the Chronicles of the Kings of Judah. Raids and repeated attacks along the border also continued between him and Jeroboam.",
+    "Abijam died and was buried in the City of David with the other kings, and his son Asa became king in his place.",
+    "Asa became king in the twentieth year of Jeroboam king of Israel. Abijam's three years were not complete years, so the two statements are not contradictory.",
+    "Asa reigned in Jerusalem for forty-one years. Maacah, called his mother here, was apparently his grandmother, his father's mother; because Asa may have been young when he became king, she may have served as the ruling queen during his time.",
+    "Asa did what was right in the eyes of the Lord, like David his father.",
+    "Asa removed the qedeshim from the land—men designated for male intercourse who served in idolatrous worship—and removed the idols, a derogatory term for foreign worship, made or tolerated by his ancestors.",
+    "Asa removed Maacah from her official position as queen mother because she had made a frightening image for Asherah. He cut down the image, which was apparently made of wood, and burned it in the Kidron Valley.",
+    "The high places were not removed, but despite this Asa's heart remained fully devoted to the Lord throughout his life.",
+    "Asa brought the treasures of his father and the treasures of the Lord's house, including silver, gold, and vessels. According to the commentary, these treasures also included unused royal funds that had been stored in the Temple.",
+    "There was war between Asa and Baasha king of Israel throughout their reigns. This was not necessarily a personal conflict, but a continuation of the tension between the two kingdoms.",
+    "Baasha advanced against Judah and built Ramah as a fortress on Israel's southern border, blocking the roads and preventing Asa from undertaking significant military action. Although Baasha apparently did not intend to conquer Judah, Asa found himself in a tactically inferior position and decided to act.",
+    "Asa took the remaining silver and gold from the treasuries of the Lord's house and the royal palace and gave them to his servants to send to Ben-hadad king of Aram, who lived in Damascus.",
+    "Asa referred to the good relations between the two kingdoms and asked Ben-hadad to break his ties with Baasha in return for silver and gold. His aim was for Ben-hadad to attack Israel from the north and force Baasha to withdraw from Judah.",
+    "Ben-hadad accepted Asa's proposal and sent his army to attack cities in northern Israel: Ijon, Dan, Abel-beth-maacah, and the region of Kinnereth throughout the land of Naphtali. The Aramean army raided the cities, attacked them, and took prisoners and plunder.",
+    "When Baasha heard about the attack from the north, he stopped building Ramah and returned to Tirzah in order to stabilize his kingdom's borders instead of continuing the struggle against Judah.",
+    "Asa summoned all the people of Judah, exempting no one. They dismantled the fortress at Ramah and carried away its stones and timber. Asa used these building materials to build Geba of Benjamin and Mizpah, his border towns.",
+    "The rest of Asa's deeds, his might, his actions, and the cities he built are recorded in the Book of the Chronicles of the Kings of Judah. In his old age he suffered from an illness in his feet.",
+    "Asa died and was buried with his ancestors in the City of David, and his son Jehoshaphat became king in his place.",
+    "Nadab son of Jeroboam became king over Israel in Asa's second year and reigned for two years. According to the commentary, Asa became king in Jeroboam's twentieth year, and Jeroboam reigned for twenty-two years.",
+    "Nadab did evil in the eyes of the Lord, followed the way of his father Jeroboam, and continued the sin by which Jeroboam caused Israel to sin. The golden calves and foreign worship practices continued during his reign.",
+    "Baasha son of Ahijah of the house of Issachar conspired against Nadab and killed him at Gibbethon, while Nadab and all Israel were besieging the city. Nadab was trying to strengthen the border against the Philistines, and Baasha apparently succeeded in recruiting some of the soldiers to his rebellion.",
+    "Baasha killed Nadab in Asa's third year and became king in his place. Nadab did not reign for two complete years.",
+    "When he became king, Baasha destroyed the entire house of Jeroboam and left no survivor. In this way the word of the Lord spoken through Ahijah the Shilonite was fulfilled, although Baasha acted in order to prevent Jeroboam's family from claiming the throne in the future.",
+    "The destruction of Jeroboam's house came as punishment for Jeroboam's sins: he had caused Israel to sin and provoked the Lord, the God of Israel.",
+    "The rest of Nadab's deeds and all that he did are recorded in the Book of the Chronicles of the Kings of Israel.",
+    "There was war between Asa and Baasha king of Israel throughout all their reigns.",
+    "Baasha son of Ahijah began to reign over all Israel at Tirzah in Asa's third year and reigned for twenty-four years."
+  ],
+  "perush": [
+    "בשנת שמונה־עשרה למלכות ירבעם בן נבט עלה אבים, בנו של רחבעם, למלוך על יהודה.",
+    "אבים מלך שלוש שנים בירושלים. אמו נקראה מעכה בת אבשלום, וייתכן שהייתה בתו או נכדתו של אבשלום בן דוד.",
+    "אבים המשיך בחטאות אביו. רחבעם לא בהכרח יזם את המעשים הרעים, אך לא נאבק בפולחן הבמות, בין שהיה פולחן לה' שלא כדין ובין שהיה עבודה זרה; לכן לבו לא היה שלם עם ה' כדוד.",
+    "למען דוד נתן ה' לאבים המשכיות ושלטון בירושלים, כדי להקים את בנו אחריו ולשמור על ירושלים כעיר המלוכה והקודש. המילה \"ניר\" יכולה להתפרש גם כקרקע חרושה.",
+    "דוד עשה את הישר בעיני ה' ולא סר ממצוותיו כל ימיו, מלבד חטאו החמור בפרשת אוריה החתי. בשאר דרכיו ופעולותיו נהג כרצון ה'.",
+    "בין רחבעם לירבעם שררה מלחמה במשך כל ימי חייו של רחבעם.",
+    "שאר מעשי אבים, ובכללם פעולותיו כמלך בירושלים, מתוארים בספר דברי הימים למלכי יהודה. גם בימיו נמשכו פשיטות ותקיפות חוזרות ונשנות בינו ובין ירבעם באזור הגבול.",
+    "אבים מת ונקבר בעיר דוד עם אבותיו המלכים, ואסא בנו מלך תחתיו.",
+    "אסא עלה למלוכה בשנת עשרים לירבעם מלך ישראל. שלוש שנות מלכותו של אבים לא היו שנים מלאות, ולכן אין סתירה בין הנתונים.",
+    "אסא מלך בירושלים ארבעים ואחת שנים. מעכה, המכונה כאן אמו, הייתה ככל הנראה סבתו, אם אביו; ייתכן שבגלל גילו הצעיר של אסא היא שימשה בתקופתו כמלכה השלטת.",
+    "אסא עשה את הישר בעיני ה', כדוד אביו.",
+    "אסא הרחיק מן הארץ את הקדשים, גברים שנועדו למשכב זכר ושימשו בפולחן עבודה זרה, והסיר את הגלולים, שהוא כינוי גנאי לעבודה זרה, שנעשו או הותרו בידי אבותיו.",
+    "אסא הסיר את מעכה ממעמדה הרשמי כגבירה בגלל מפלצת, פסל מעורר פלצות, שעשתה לאשרה. הוא כרת את המפלצת, שכפי הנראה הייתה עשויה עץ, ושרף אותה בנחל קדרון.",
+    "הבמות עדיין לא סרו, אך למרות זאת לב אסא היה שלם עם ה' במשך כל ימיו.",
+    "אסא הביא את אוצרות אביו ואת אוצרות בית ה', שכללו כסף, זהב וכלים. לפי הפירוש, אוצרות בית ה' כללו גם את אוצר הממלכה שלא השתמשו בו ולכן אוחסן שם.",
+    "בין אסא לבין בעשא מלך ישראל שררה מלחמה במשך כל ימי מלכותם. לא הייתה זו בהכרח מלחמה אישית, אלא המשך המתח בין שתי הממלכות.",
+    "בעשא עלה על יהודה ובנה את הרמה כמצודה בגבול הדרומי של ישראל, כדי לחסום את הדרכים ולמנוע מאסא פעולה צבאית משמעותית. אף שבעשא כנראה לא התכוון לכבוש את יהודה, אסא ראה עצמו בעמדה טקטית נחותה והחליט לפעול.",
+    "אסא לקח את הכסף והזהב שנותרו באוצרות בית ה' ובאוצרות בית המלך, ומסר אותם לעבדיו כדי שישלחו אותם אל בן־הדד מלך ארם שישב בדמשק.",
+    "אסא הזכיר את היחסים הטובים בין שתי הממלכות וביקש מבן־הדד להפר את קשריו עם בעשא תמורת כסף וזהב. מטרתו הייתה שבן־הדד יתקוף את ישראל מצפון, ובכך יאלץ את בעשא לסגת מעל יהודה.",
+    "בן־הדד קיבל את הצעת אסא ושלח את צבאו לתקוף ערים בצפון ישראל: את עיון, דן, אבל בית מעכה ואת אזור כינרות בארץ נפתלי. הצבא הארמי פשט על הערים, תקף אותן ולקח שבויים ושלל.",
+    "כששמע בעשא על המתקפה מצפון, הפסיק לבנות את הרמה וחזר לתרצה כדי לייצב את גבולות ממלכתו במקום להמשיך במאבק נגד יהודה.",
+    "אסא גייס את כל תושבי יהודה, בלי לפטור איש, והם פירקו את המבצר ברמה ונשאו משם את האבנים והעצים. בחומרי הבנייה הללו בנה אסא את גבע בנימין ואת המצפה, ערי גבול שלו.",
+    "שאר מעשי אסא, גבורתו, פעולותיו והערים שבנה מתוארים בספר דברי הימים למלכי יהודה. לעת זקנתו חלה ברגליו.",
+    "אסא מת ונקבר עם אבותיו בעיר דוד, ויהושפט בנו מלך תחתיו.",
+    "נדב בן ירבעם מלך על ישראל בשנת שתיים לאסא, ומלך שנתיים. לפי הפירוש, אסא עלה בשנתו העשרים של ירבעם, וירבעם מלך עשרים ושתיים שנים.",
+    "נדב עשה את הרע בעיני ה', הלך בדרך אביו ירבעם והמשיך בחטאתו שבה החטיא את ישראל. עגלי הזהב ומנהגי הפולחן הזרים נמשכו גם בתקופתו.",
+    "בעשא בן אחיה לבית יששכר קשר נגד נדב והרג אותו בגבתון, בזמן שנדב וכל ישראל צרו על העיר. נדב ביקש לבצר את הגבול מול הפלשתים, ובעשא כנראה הצליח לגייס חלק מן החיילים לתכנית המרד.",
+    "בעשא הרג את נדב בשנת שלוש לאסא ומלך תחתיו. נדב לא מלך שתי שנים מלאות.",
+    "עם עלייתו למלוכה השמיד בעשא את כל בית ירבעם ולא השאיר ממנו איש. בכך התקיים דבר ה' שנמסר באמצעות אחיה השילוני, אף שבעשא פעל מתוך רצון למנוע ממשפחת ירבעם לתבוע את השלטון בעתיד.",
+    "השמדת בית ירבעם באה כעונש על חטאות ירבעם, שהחטיא את ישראל והכעיס את ה' אלוהי ישראל.",
+    "שאר מעשי נדב וכל אשר עשה מפורטים בספר דברי הימים למלכי ישראל.",
+    "בין אסא לבין בעשא מלך ישראל שררה מלחמה במשך כל ימי מלכותם.",
+    "בעשא בן אחיה החל למלוך על כל ישראל בתרצה בשנת שלוש לאסא, ומלך עשרים וארבע שנים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "מלכות אבים והמשכיות בית דוד",
+      "title_en": "Abijam's Reign and the Continuity of David's House",
+      "start_verse": 1,
+      "end_verse": 8,
+      "summary": "אבים מולך על יהודה, אך ממשיך בחטאות אביו ואינו עובד את ה' בלב שלם. למרות זאת, למען דוד נשמרת המשכיות המלוכה בירושלים, ובין יהודה לישראל נמשכת המלחמה.",
+      "summary_en": "Abijam becomes king of Judah but continues his father's sins and is not fully devoted to the Lord. Nevertheless, for David's sake the royal continuity in Jerusalem is preserved, while war continues between Judah and Israel.",
+      "image_prompt": "A historically grounded biblical illustration of a Judean king in Jerusalem, with the royal city and distant fortified borderlands suggesting the ongoing conflict with Israel; no modern objects, no text."
+    },
+    {
+      "title": "אסא: מלך ההולך בדרך ה'",
+      "title_en": "Asa: A King Who Follows the Lord",
+      "start_verse": 9,
+      "end_verse": 15,
+      "summary": "אסא מולך ארבעים ואחת שנים ועושה את הישר בעיני ה'. הוא מסיר פולחני עבודה זרה ומדיח את מעכה, אך הבמות אינן סרות; הוא גם מרכז את אוצרות הממלכה ואוצרות בית ה'.",
+      "summary_en": "Asa reigns for forty-one years and does what is right in the Lord's eyes. He removes idolatrous practices and deposes Maacah, although the high places remain; he also gathers the royal and Temple treasures.",
+      "image_prompt": "A biblical-era Judean king overseeing the removal and burning of a wooden idolatrous image near the Kidron Valley, with Jerusalem in the background; historically grounded, no text."
+    },
+    {
+      "title": "העימות בין אסא לבעשא",
+      "title_en": "The Conflict Between Asa and Baasha",
+      "start_verse": 16,
+      "end_verse": 24,
+      "summary": "בעשא מבצר את הרמה כדי להגביל את יהודה, ואסא פונה לבן־הדד מלך ארם ומציע לו כסף וזהב תמורת תקיפה בצפון ישראל. בעשא נסוג, ואסא משתמש בחומרי הבנייה של הרמה לביצור גבע והמצפה.",
+      "summary_en": "Baasha fortifies Ramah to restrict Judah, and Asa appeals to Ben-hadad of Aram, offering silver and gold in exchange for an attack on northern Israel. Baasha withdraws, and Asa uses the materials from Ramah to fortify Geba and Mizpah.",
+      "image_prompt": "A biblical military scene showing a fortified border town being dismantled and its stones and timber carried toward new Judean fortifications, with armies positioned in the distance; no text."
+    },
+    {
+      "title": "נדב, מרד בעשא וחורבן בית ירבעם",
+      "title_en": "Nadab, Baasha's Revolt, and the Destruction of Jeroboam's House",
+      "start_verse": 25,
+      "end_verse": 31,
+      "summary": "נדב ממשיך את חטאות ירבעם, ובעשא מורד בו והורג אותו בגבתון. לאחר עלייתו לשלטון משמיד בעשא את כל בית ירבעם, וכך מתקיימת נבואת אחיה השילוני.",
+      "summary_en": "Nadab continues Jeroboam's sins, and Baasha revolts against him and kills him at Gibbethon. After taking the throne, Baasha destroys the entire house of Jeroboam, fulfilling the prophecy of Ahijah the Shilonite.",
+      "image_prompt": "A dramatic but non-graphic biblical-era scene at a besieged Philistine city, with soldiers surrounding the city and a military coup taking place in the camp; no text, no excessive gore."
+    },
+    {
+      "title": "מלכות בעשא והמלחמה עם יהודה",
+      "title_en": "Baasha's Reign and the War with Judah",
+      "start_verse": 32,
+      "end_verse": 33,
+      "summary": "בין אסא לבעשא נמשכת מלחמה כל ימי מלכותם. בעשא בן אחיה מולך על כל ישראל בתרצה עשרים וארבע שנים.",
+      "summary_en": "War continues between Asa and Baasha throughout their reigns. Baasha son of Ahijah rules over all Israel from Tirzah for twenty-four years.",
+      "image_prompt": "A historically grounded biblical map-like landscape showing Tirzah and the divided kingdoms of Israel and Judah facing one another across a tense border, with soldiers in the distance; no labels or text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.48,
+      "usfm": "1KI.15.1"
+    },
+    {
+      "start": 9.48,
+      "end": 16.44,
+      "usfm": "1KI.15.2"
+    },
+    {
+      "start": 16.44,
+      "end": 26.0,
+      "usfm": "1KI.15.3"
+    },
+    {
+      "start": 26.0,
+      "end": 34.12,
+      "usfm": "1KI.15.4"
+    },
+    {
+      "start": 34.12,
+      "end": 45.3,
+      "usfm": "1KI.15.5"
+    },
+    {
+      "start": 45.3,
+      "end": 51.4,
+      "usfm": "1KI.15.6"
+    },
+    {
+      "start": 51.4,
+      "end": 63.08,
+      "usfm": "1KI.15.7"
+    },
+    {
+      "start": 63.08,
+      "end": 72.94,
+      "usfm": "1KI.15.8"
+    },
+    {
+      "start": 72.94,
+      "end": 79.12,
+      "usfm": "1KI.15.9"
+    },
+    {
+      "start": 79.12,
+      "end": 87.02,
+      "usfm": "1KI.15.10"
+    },
+    {
+      "start": 87.02,
+      "end": 92.9,
+      "usfm": "1KI.15.11"
+    },
+    {
+      "start": 92.9,
+      "end": 98.86,
+      "usfm": "1KI.15.12"
+    },
+    {
+      "start": 98.86,
+      "end": 111.72,
+      "usfm": "1KI.15.13"
+    },
+    {
+      "start": 111.72,
+      "end": 119.02,
+      "usfm": "1KI.15.14"
+    },
+    {
+      "start": 119.02,
+      "end": 127.84,
+      "usfm": "1KI.15.15"
+    },
+    {
+      "start": 127.84,
+      "end": 132.48,
+      "usfm": "1KI.15.16"
+    },
+    {
+      "start": 132.48,
+      "end": 142.12,
+      "usfm": "1KI.15.17"
+    },
+    {
+      "start": 142.12,
+      "end": 163.02,
+      "usfm": "1KI.15.18"
+    },
+    {
+      "start": 163.02,
+      "end": 177.5,
+      "usfm": "1KI.15.19"
+    },
+    {
+      "start": 177.5,
+      "end": 193.2,
+      "usfm": "1KI.15.20"
+    },
+    {
+      "start": 193.2,
+      "end": 201.62,
+      "usfm": "1KI.15.21"
+    },
+    {
+      "start": 201.62,
+      "end": 217.64,
+      "usfm": "1KI.15.22"
+    },
+    {
+      "start": 217.64,
+      "end": 234.88,
+      "usfm": "1KI.15.23"
+    },
+    {
+      "start": 234.88,
+      "end": 245.56,
+      "usfm": "1KI.15.24"
+    },
+    {
+      "start": 245.56,
+      "end": 254.4,
+      "usfm": "1KI.15.25"
+    },
+    {
+      "start": 254.4,
+      "end": 262.64,
+      "usfm": "1KI.15.26"
+    },
+    {
+      "start": 262.64,
+      "end": 277.84,
+      "usfm": "1KI.15.27"
+    },
+    {
+      "start": 277.84,
+      "end": 284.18,
+      "usfm": "1KI.15.28"
+    },
+    {
+      "start": 284.18,
+      "end": 299.2,
+      "usfm": "1KI.15.29"
+    },
+    {
+      "start": 299.2,
+      "end": 308.94,
+      "usfm": "1KI.15.30"
+    },
+    {
+      "start": 308.94,
+      "end": 317.46,
+      "usfm": "1KI.15.31"
+    },
+    {
+      "start": 317.46,
+      "end": 323.26,
+      "usfm": "1KI.15.32"
+    },
+    {
+      "start": 323.26,
+      "end": 332.3,
+      "usfm": "1KI.15.33"
+    },
+    {
+      "start": 332.3,
+      "end": 348.6,
+      "usfm": "1KI.15.34"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.48,
+    16.44,
+    26.0,
+    34.12,
+    45.3,
+    51.4,
+    63.08,
+    72.94,
+    79.12,
+    87.02,
+    92.9,
+    98.86,
+    111.72,
+    119.02,
+    127.84,
+    132.48,
+    142.12,
+    163.02,
+    177.5,
+    193.2,
+    201.62,
+    217.64,
+    234.88,
+    245.56,
+    254.4,
+    262.64,
+    277.84,
+    284.18,
+    299.2,
+    308.94,
+    317.46,
+    323.26,
+    332.3,
+    348.6
+  ],
+  "times_en_usfm": [
+    "1KI.15.1",
+    "1KI.15.2",
+    "1KI.15.3",
+    "1KI.15.4",
+    "1KI.15.5",
+    "1KI.15.6",
+    "1KI.15.7",
+    "1KI.15.8",
+    "1KI.15.9",
+    "1KI.15.10",
+    "1KI.15.11",
+    "1KI.15.12",
+    "1KI.15.13",
+    "1KI.15.14",
+    "1KI.15.15",
+    "1KI.15.16",
+    "1KI.15.17",
+    "1KI.15.18",
+    "1KI.15.19",
+    "1KI.15.20",
+    "1KI.15.21",
+    "1KI.15.22",
+    "1KI.15.23",
+    "1KI.15.24",
+    "1KI.15.25",
+    "1KI.15.26",
+    "1KI.15.27",
+    "1KI.15.28",
+    "1KI.15.29",
+    "1KI.15.30",
+    "1KI.15.31",
+    "1KI.15.32",
+    "1KI.15.33",
+    "1KI.15.34"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? אבים עלה למלוכה ביהודה בשנת שמונה־עשרה למלכות ירבעם בן נבט, מלך ישראל.",
+      "text_he": "הידעת? אבים עלה למלוכה ביהודה בשנת שמונה־עשרה למלכות ירבעם בן נבט, מלך ישראל.",
+      "text_en": "Did you know? Abijam became king over Judah in the eighteenth year of the reign of Jeroboam son of Nebat, king of Israel."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? אף שאבים לא הלך בלב שלם עם ה', ה' שמר על המשכיות בית דוד בירושלים למען דוד.",
+      "text_he": "הידעת? אף שאבים לא הלך בלב שלם עם ה', ה' שמר על המשכיות בית דוד בירושלים למען דוד.",
+      "text_en": "Did you know? Although Abijam did not wholeheartedly follow the Lord, the Lord preserved the dynasty of David in Jerusalem for David’s sake."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? המקרא משבח את דוד כמי שעשה את הישר בעיני ה' ולא סר ממצוותיו, אך מזכיר את חטאו בפרשת אוריה החתי.",
+      "text_he": "הידעת? המקרא משבח את דוד כמי שעשה את הישר בעיני ה' ולא סר ממצוותיו, אך מזכיר את חטאו בפרשת אוריה החתי.",
+      "text_en": "Did you know? Scripture praises David as one who did what was right in the eyes of the Lord and did not turn aside from His commands, but it also mentions his sin involving Uriah the Hittite."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? אסא מלך בירושלים ארבעים ואחת שנים, ושם אמו היה מעכה בת אבישלום.",
+      "text_he": "הידעת? אסא מלך בירושלים ארבעים ואחת שנים, ושם אמו היה מעכה בת אבישלום.",
+      "text_en": "Did you know? Asa reigned in Jerusalem for forty-one years, and his mother’s name was Maacah, daughter of Abishalom."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? אסא הדיח את מעכה אמו ממעמדה כגבירה, מפני שעשתה מפלצת לאשרה, ואף שרף את המפלצת בנחל קדרון.",
+      "text_he": "הידעת? אסא הדיח את מעכה אמו ממעמדה כגבירה, מפני שעשתה מפלצת לאשרה, ואף שרף את המפלצת בנחל קדרון.",
+      "text_en": "Did you know? Asa removed his mother Maacah from her position as queen mother because she had made an abominable image for Asherah, and he burned the image in the Kidron Valley."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? למרות שהבמות לא סרו מן הארץ, הכתוב מציין שלב אסא היה שלם עם ה' כל ימיו.",
+      "text_he": "הידעת? למרות שהבמות לא סרו מן הארץ, הכתוב מציין שלב אסא היה שלם עם ה' כל ימיו.",
+      "text_en": "Did you know? Although the high places were not removed from the land, the Scripture notes that Asa’s heart was fully devoted to the Lord all his days."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? כאשר בעשא בנה את הרמה כדי להגביל את היוצאים והבאים ליהודה, אסא שלח לבן־הדד מלך ארם כסף וזהב מאוצרות בית ה' ומאוצרות בית המלך.",
+      "text_he": "הידעת? כאשר בעשא בנה את הרמה כדי להגביל את היוצאים והבאים ליהודה, אסא שלח לבן־הדד מלך ארם כסף וזהב מאוצרות בית ה' ומאוצרות בית המלך.",
+      "text_en": "Did you know? When Baasha built Ramah to prevent people from entering or leaving Judah, Asa sent silver and gold from the treasuries of the Lord’s temple and the royal palace to Ben-hadad, king of Aram."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? לאחר שבעשא הפסיק לבנות את הרמה, השתמש אסא באבניה ובעציה כדי לבנות את גבע בנימין ואת המצפה.",
+      "text_he": "הידעת? לאחר שבעשא הפסיק לבנות את הרמה, השתמש אסא באבניה ובעציה כדי לבנות את גבע בנימין ואת המצפה.",
+      "text_en": "Did you know? After Baasha stopped building Ramah, Asa used its stones and timber to build Geba of Benjamin and Mizpah."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? בעשא בן אחיה קשר על נדב בן ירבעם והרג אותו בגבתון, בזמן שנדב וכל ישראל צרו על העיר.",
+      "text_he": "הידעת? בעשא בן אחיה קשר על נדב בן ירבעם והרג אותו בגבתון, בזמן שנדב וכל ישראל צרו על העיר.",
+      "text_en": "Did you know? Baasha son of Ahijah conspired against Nadab son of Jeroboam and killed him at Gibbethon, while Nadab and all Israel were besieging the city."
+    },
+    {
+      "verse": 29,
+      "text": "הידעת? לאחר שעלה למלוכה השמיד בעשא את כל בית ירבעם, והכתוב מציג זאת כהתגשמות דבר ה' שנמסר ביד אחיה השילוני.",
+      "text_he": "הידעת? לאחר שעלה למלוכה השמיד בעשא את כל בית ירבעם, והכתוב מציג זאת כהתגשמות דבר ה' שנמסר ביד אחיה השילוני.",
+      "text_en": "Did you know? After becoming king, Baasha destroyed the entire house of Jeroboam, fulfilling the word of the Lord spoken through Ahijah the Shilonite."
+    }
+  ]
+}

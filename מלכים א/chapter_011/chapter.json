@@ -1,0 +1,715 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 11,
+  "title": "מלכים א פרק 11",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a11.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a11.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/11-7631711ea7009b7900f50518147deeea.mp3?version_id=1",
+  "verses": [
+    "וְהַמֶּלֶךְ שְׁלֹמֹה, אָהַב נָשִׁים נָכְרִיּוֹת רַבּוֹת--וְאֶת-בַּת-פַּרְעֹה: מוֹאֲבִיּוֹת עַמֳּנִיּוֹת אֲדֹמִיֹּת, צֵדְנִיֹּת חִתִּיֹּת.",
+    "מִן-הַגּוֹיִם, אֲשֶׁר אָמַר-יְהוָה אֶל-בְּנֵי יִשְׂרָאֵל לֹא-תָבֹאוּ בָהֶם וְהֵם לֹא-יָבֹאוּ בָכֶם, אָכֵן יַטּוּ אֶת-לְבַבְכֶם, אַחֲרֵי אֱלֹהֵיהֶם--בָּהֶם דָּבַק שְׁלֹמֹה, לְאַהֲבָה.",
+    "וַיְהִי-לוֹ נָשִׁים, שָׂרוֹת שְׁבַע מֵאוֹת, וּפִלַגְשִׁים, שְׁלֹשׁ מֵאוֹת; וַיַּטּוּ נָשָׁיו, אֶת-לִבּוֹ.",
+    "וַיְהִי, לְעֵת זִקְנַת שְׁלֹמֹה, נָשָׁיו הִטּוּ אֶת-לְבָבוֹ, אַחֲרֵי אֱלֹהִים אֲחֵרִים; וְלֹא-הָיָה לְבָבוֹ שָׁלֵם עִם-יְהוָה אֱלֹהָיו, כִּלְבַב דָּוִיד אָבִיו.",
+    "וַיֵּלֶךְ שְׁלֹמֹה--אַחֲרֵי עַשְׁתֹּרֶת, אֱלֹהֵי צִדֹנִים; וְאַחֲרֵי מִלְכֹּם, שִׁקֻּץ עַמֹּנִים.",
+    "וַיַּעַשׂ שְׁלֹמֹה הָרַע, בְּעֵינֵי יְהוָה; וְלֹא מִלֵּא אַחֲרֵי יְהוָה, כְּדָוִד אָבִיו.",
+    "אָז יִבְנֶה שְׁלֹמֹה בָּמָה, לִכְמוֹשׁ שִׁקֻּץ מוֹאָב, בָּהָר, אֲשֶׁר עַל-פְּנֵי יְרוּשָׁלִָם; וּלְמֹלֶךְ, שִׁקֻּץ בְּנֵי עַמּוֹן.",
+    "וְכֵן עָשָׂה, לְכָל-נָשָׁיו הַנָּכְרִיּוֹת, מַקְטִירוֹת וּמְזַבְּחוֹת, לֵאלֹהֵיהֶן.",
+    "וַיִּתְאַנַּף יְהוָה, בִּשְׁלֹמֹה: כִּי-נָטָה לְבָבוֹ, מֵעִם יְהוָה אֱלֹהֵי יִשְׂרָאֵל, הַנִּרְאָה אֵלָיו, פַּעֲמָיִם.",
+    "וְצִוָּה אֵלָיו, עַל-הַדָּבָר הַזֶּה, לְבִלְתִּי-לֶכֶת, אַחֲרֵי אֱלֹהִים אֲחֵרִים; וְלֹא שָׁמַר, אֵת אֲשֶׁר-צִוָּה יְהוָה.",
+    "וַיֹּאמֶר יְהוָה לִשְׁלֹמֹה, יַעַן אֲשֶׁר הָיְתָה-זֹּאת עִמָּךְ, וְלֹא שָׁמַרְתָּ בְּרִיתִי וְחֻקֹּתַי, אֲשֶׁר צִוִּיתִי עָלֶיךָ--קָרֹעַ אֶקְרַע אֶת-הַמַּמְלָכָה מֵעָלֶיךָ, וּנְתַתִּיהָ לְעַבְדֶּךָ.",
+    "אַךְ-בְּיָמֶיךָ לֹא אֶעֱשֶׂנָּה, לְמַעַן דָּוִד אָבִיךָ: מִיַּד בִּנְךָ, אֶקְרָעֶנָּה.",
+    "רַק אֶת-כָּל-הַמַּמְלָכָה לֹא אֶקְרָע, שֵׁבֶט אֶחָד אֶתֵּן לִבְנֶךָ: לְמַעַן דָּוִד עַבְדִּי, וּלְמַעַן יְרוּשָׁלִַם אֲשֶׁר בָּחָרְתִּי.",
+    "וַיָּקֶם יְהוָה שָׂטָן לִשְׁלֹמֹה, אֵת הֲדַד הָאֲדֹמִי: מִזֶּרַע הַמֶּלֶךְ הוּא, בֶּאֱדוֹם.",
+    "וַיְהִי, בִּהְיוֹת דָּוִד אֶת-אֱדוֹם, בַּעֲלוֹת יוֹאָב שַׂר הַצָּבָא, לְקַבֵּר אֶת-הַחֲלָלִים; וַיַּךְ כָּל-זָכָר, בֶּאֱדוֹם.",
+    "כִּי שֵׁשֶׁת חֳדָשִׁים יָשַׁב-שָׁם יוֹאָב, וְכָל-יִשְׂרָאֵל, עַד-הִכְרִית כָּל-זָכָר, בֶּאֱדוֹם.",
+    "וַיִּבְרַח אֲדַד הוּא וַאֲנָשִׁים אֲדֹמִיִּים מֵעַבְדֵי אָבִיו, אִתּוֹ--לָבוֹא מִצְרָיִם; וַהֲדַד, נַעַר קָטָן.",
+    "וַיָּקֻמוּ, מִמִּדְיָן, וַיָּבֹאוּ, פָּארָן; וַיִּקְחוּ אֲנָשִׁים עִמָּם מִפָּארָן, וַיָּבֹאוּ מִצְרַיִם אֶל-פַּרְעֹה מֶלֶךְ-מִצְרַיִם, וַיִּתֶּן-לוֹ בַיִת וְלֶחֶם אָמַר לוֹ, וְאֶרֶץ נָתַן לוֹ.",
+    "וַיִּמְצָא הֲדַד חֵן בְּעֵינֵי פַרְעֹה, מְאֹד; וַיִּתֶּן-לוֹ אִשָּׁה אֶת-אֲחוֹת אִשְׁתּוֹ, אֲחוֹת תַּחְפְּנֵיס הַגְּבִירָה.",
+    "וַתֵּלֶד לוֹ אֲחוֹת תַּחְפְּנֵיס, אֵת גְּנֻבַת בְּנוֹ, וַתִּגְמְלֵהוּ תַחְפְּנֵס, בְּתוֹךְ בֵּית פַּרְעֹה; וַיְהִי גְנֻבַת בֵּית פַּרְעֹה, בְּתוֹךְ בְּנֵי פַרְעֹה.",
+    "וַהֲדַד שָׁמַע בְּמִצְרַיִם, כִּי-שָׁכַב דָּוִד עִם-אֲבֹתָיו, וְכִי-מֵת, יוֹאָב שַׂר-הַצָּבָא; וַיֹּאמֶר הֲדַד אֶל-פַּרְעֹה, שַׁלְּחֵנִי וְאֵלֵךְ אֶל-אַרְצִי.",
+    "וַיֹּאמֶר לוֹ פַרְעֹה, כִּי מָה-אַתָּה חָסֵר עִמִּי, וְהִנְּךָ מְבַקֵּשׁ, לָלֶכֶת אֶל-אַרְצֶךָ; וַיֹּאמֶר לֹא, כִּי שַׁלֵּחַ תְּשַׁלְּחֵנִי.",
+    "וַיָּקֶם אֱלֹהִים לוֹ שָׂטָן, אֶת-רְזוֹן בֶּן-אֶלְיָדָע: אֲשֶׁר בָּרַח, מֵאֵת הֲדַדְעֶזֶר מֶלֶךְ-צוֹבָה--אֲדֹנָיו.",
+    "וַיִּקְבֹּץ עָלָיו, אֲנָשִׁים, וַיְהִי שַׂר-גְּדוּד, בַּהֲרֹג דָּוִד אֹתָם; וַיֵּלְכוּ דַמֶּשֶׂק וַיֵּשְׁבוּ בָהּ, וַיִּמְלְכוּ בְּדַמָּשֶׂק.",
+    "וַיְהִי שָׂטָן לְיִשְׂרָאֵל כָּל-יְמֵי שְׁלֹמֹה, וְאֶת-הָרָעָה אֲשֶׁר הֲדָד; וַיָּקָץ, בְּיִשְׂרָאֵל, וַיִּמְלֹךְ, עַל-אֲרָם.",
+    "וְיָרָבְעָם בֶּן-נְבָט אֶפְרָתִי מִן-הַצְּרֵדָה, וְשֵׁם אִמּוֹ צְרוּעָה אִשָּׁה אַלְמָנָה, עֶבֶד, לִשְׁלֹמֹה; וַיָּרֶם יָד, בַּמֶּלֶךְ.",
+    "וְזֶה הַדָּבָר, אֲשֶׁר-הֵרִים יָד בַּמֶּלֶךְ: שְׁלֹמֹה, בָּנָה אֶת-הַמִּלּוֹא--סָגַר, אֶת-פֶּרֶץ עִיר דָּוִד אָבִיו.",
+    "וְהָאִישׁ יָרָבְעָם, גִּבּוֹר חָיִל; וַיַּרְא שְׁלֹמֹה אֶת-הַנַּעַר, כִּי-עֹשֵׂה מְלָאכָה הוּא, וַיַּפְקֵד אֹתוֹ, לְכָל-סֵבֶל בֵּית יוֹסֵף.",
+    "וַיְהִי בָּעֵת הַהִיא, וְיָרָבְעָם יָצָא מִירוּשָׁלִָם; וַיִּמְצָא אֹתוֹ אֲחִיָּה הַשִּׁילֹנִי הַנָּבִיא בַּדֶּרֶךְ, וְהוּא מִתְכַּסֶּה בְּשַׂלְמָה חֲדָשָׁה, וּשְׁנֵיהֶם לְבַדָּם, בַּשָּׂדֶה.",
+    "וַיִּתְפֹּשׂ אֲחִיָּה, בַּשַּׂלְמָה הַחֲדָשָׁה אֲשֶׁר עָלָיו; וַיִּקְרָעֶהָ--שְׁנֵים עָשָׂר, קְרָעִים.",
+    "וַיֹּאמֶר, לְיָרָבְעָם, קַח-לְךָ, עֲשָׂרָה קְרָעִים: כִּי כֹה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל, הִנְנִי קֹרֵעַ אֶת-הַמַּמְלָכָה מִיַּד שְׁלֹמֹה, וְנָתַתִּי לְךָ, אֵת עֲשָׂרָה הַשְּׁבָטִים.",
+    "וְהַשֵּׁבֶט הָאֶחָד, יִהְיֶה-לּוֹ--לְמַעַן עַבְדִּי דָוִד, וּלְמַעַן יְרוּשָׁלִַם, הָעִיר אֲשֶׁר בָּחַרְתִּי בָהּ, מִכֹּל שִׁבְטֵי יִשְׂרָאֵל.",
+    "יַעַן אֲשֶׁר עֲזָבוּנִי, וַיִּשְׁתַּחֲווּ לְעַשְׁתֹּרֶת אֱלֹהֵי צִדֹנִין, לִכְמוֹשׁ אֱלֹהֵי מוֹאָב, וּלְמִלְכֹּם אֱלֹהֵי בְנֵי-עַמּוֹן; וְלֹא-הָלְכוּ בִדְרָכַי, לַעֲשׂוֹת הַיָּשָׁר בְּעֵינַי וְחֻקֹּתַי וּמִשְׁפָּטַי--כְּדָוִד אָבִיו.",
+    "וְלֹא-אֶקַּח אֶת-כָּל-הַמַּמְלָכָה, מִיָּדוֹ: כִּי נָשִׂיא אֲשִׁתֶנּוּ, כֹּל יְמֵי חַיָּיו, לְמַעַן דָּוִד עַבְדִּי אֲשֶׁר בָּחַרְתִּי אֹתוֹ, אֲשֶׁר שָׁמַר מִצְוֺתַי וְחֻקֹּתָי.",
+    "וְלָקַחְתִּי הַמְּלוּכָה, מִיַּד בְּנוֹ; וּנְתַתִּיהָ לְּךָ, אֵת עֲשֶׂרֶת הַשְּׁבָטִים.",
+    "וְלִבְנוֹ, אֶתֵּן שֵׁבֶט-אֶחָד--לְמַעַן הֱיוֹת-נִיר לְדָוִיד-עַבְדִּי כָּל-הַיָּמִים לְפָנַי, בִּירוּשָׁלִַם, הָעִיר אֲשֶׁר בָּחַרְתִּי לִי, לָשׂוּם שְׁמִי שָׁם.",
+    "וְאֹתְךָ אֶקַּח--וּמָלַכְתָּ, בְּכֹל אֲשֶׁר-תְּאַוֶּה נַפְשֶׁךָ; וְהָיִיתָ מֶּלֶךְ, עַל-יִשְׂרָאֵל.",
+    "וְהָיָה, אִם-תִּשְׁמַע אֶת-כָּל-אֲשֶׁר אֲצַוֶּךָ, וְהָלַכְתָּ בִדְרָכַי וְעָשִׂיתָ הַיָּשָׁר בְּעֵינַי לִשְׁמוֹר חֻקּוֹתַי וּמִצְוֺתַי, כַּאֲשֶׁר עָשָׂה דָּוִד עַבְדִּי--וְהָיִיתִי עִמָּךְ, וּבָנִיתִי לְךָ בַיִת-נֶאֱמָן כַּאֲשֶׁר בָּנִיתִי לְדָוִד, וְנָתַתִּי לְךָ, אֶת-יִשְׂרָאֵל.",
+    "וַאעַנֶּה אֶת-זֶרַע דָּוִד, לְמַעַן זֹאת--אַךְ, לֹא כָל-הַיָּמִים.",
+    "וַיְבַקֵּשׁ שְׁלֹמֹה, לְהָמִית אֶת-יָרָבְעָם; וַיָּקָם יָרָבְעָם, וַיִּבְרַח מִצְרַיִם אֶל-שִׁישַׁק מֶלֶךְ-מִצְרַיִם, וַיְהִי בְמִצְרַיִם, עַד-מוֹת שְׁלֹמֹה.",
+    "וְיֶתֶר דִּבְרֵי שְׁלֹמֹה וְכָל-אֲשֶׁר עָשָׂה, וְחָכְמָתוֹ--הֲלוֹא-הֵם כְּתֻבִים, עַל-סֵפֶר דִּבְרֵי שְׁלֹמֹה.",
+    "וְהַיָּמִים, אֲשֶׁר מָלַךְ שְׁלֹמֹה בִירוּשָׁלִַם עַל-כָּל-יִשְׂרָאֵל--אַרְבָּעִים, שָׁנָה.",
+    "וַיִּשְׁכַּב שְׁלֹמֹה, עִם-אֲבֹתָיו, וַיִּקָּבֵר, בְּעִיר דָּוִד אָבִיו; וַיִּמְלֹךְ רְחַבְעָם בְּנוֹ, תַּחְתָּיו."
+  ],
+  "english": [
+    "But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites:",
+    "Of the nations concerning which the Lord said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love.",
+    "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.",
+    "For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.",
+    "For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.",
+    "And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father.",
+    "Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.",
+    "And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.",
+    "And the Lord was angry with Solomon, because his heart was turned from the Lord God of Israel, which had appeared unto him twice,",
+    "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the Lord commanded.",
+    "Wherefore the Lord said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.",
+    "Notwithstanding in thy days I will not do it for David thy father's sake: but I will rend it out of the hand of thy son.",
+    "Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant's sake, and for Jerusalem's sake which I have chosen.",
+    "And the Lord stirred up an adversary unto Solomon, Hadad the Edomite: he was of the king's seed in Edom.",
+    "For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;",
+    "(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)",
+    "That Hadad fled, he and certain Edomites of his father's servants with him, to go into Egypt; Hadad being yet a little child.",
+    "And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.",
+    "And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.",
+    "And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh's house: and Genubath was in Pharaoh's household among the sons of Pharaoh.",
+    "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.",
+    "Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.",
+    "And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:",
+    "And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus.",
+    "And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.",
+    "And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he lifted up his hand against the king.",
+    "And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.",
+    "And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.",
+    "And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:",
+    "And Ahijah caught the new garment that was on him, and rent it in twelve pieces:",
+    "And he said to Jeroboam, Take thee ten pieces: for thus saith the Lord, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:",
+    "(But he shall have one tribe for my servant David's sake, and for Jerusalem's sake, the city which I have chosen out of all the tribes of Israel:)",
+    "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father.",
+    "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant's sake, whom I chose, because he kept my commandments and my statutes:",
+    "But I will take the kingdom out of his son's hand, and will give it unto thee, even ten tribes.",
+    "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.",
+    "And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel.",
+    "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.",
+    "And I will for this afflict the seed of David, but not for ever.",
+    "Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.",
+    "And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?",
+    "And the time that Solomon reigned in Jerusalem over all Israel was forty years.",
+    "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+  ],
+  "steinsaltz": [
+    "וְהַמֶּלֶךְ שְׁלֹמֹה אָהַב נָשִׁים נָכְרִיּוֹת רַבּוֹת וְאֶת־בַּת־פַּרְעֹה, שהייתה נכבדת משאר נשיו הנכריות, שהיו מוֹאֲבִיּוֹת, עַמֳּנִיּוֹת, אֲדֹמִיֹּת, צֵדְנִיֹּת, בנות צידון, חִתִּיֹּת.",
+    "מִן־הַגּוֹיִם אֲשֶׁר אָמַר־ה' אֶל־בְּנֵי יִשְׂרָאֵל: לֹא־תָבֹאוּ בָהֶם וְהֵם לֹא־יָבֹאוּ בָכֶם, כי אם לא כן, הם אָכֵן יַטּוּ אֶת־לְבַבְכֶם אַחֲרֵי אֱלֹהֵיהֶם – בָּהֶם דָּבַק שְׁלֹמֹה לְאַהֲבָה.",
+    "וַיְהִי־לוֹ נָשִׁים שָׂרוֹת, נשותיו ממש שְׁבַע מֵאוֹת, וּפִילַגְשִׁים שמעמדן החוקי נמוך יותר שְׁלֹשׁ מֵאוֹת. וַיַּטּוּ נָשָׁיו אֶת לִבּוֹ.",
+    "וַיְהִי לְעֵת זִקְנַת שְׁלֹמֹה, ככל שהאריכו שנות נישואיו, נָשָׁיו הִטּוּ אֶת־לְבָבוֹ אַחֲרֵי אֱלֹהִים אֲחֵרִים, שלמה לא עבד עבודה זרה בפועל, וְאולם לֹא־הָיָה לְבָבוֹ שָׁלֵם עִם־ה' אֱלֹהָיו כִּלְבַב דָּוִיד אָבִיו.",
+    "וַיֵּלֶךְ שְׁלֹמֹה אַחֲרֵי עַשְׁתֹּרֶת אֱלֹהֵי צִדֹנִים וְאַחֲרֵי מִלְכֹּם שִׁקֻּץ, כינוי גנאי לעבודה זרה של העַמֹּנִים.",
+    "וַיַּעַשׂ שְׁלֹמֹה הָרַע בְּעֵינֵי ה', וְלֹא מִלֵּא אַחֲרֵי ה' כְּדָוִד אָבִיו.",
+    "אָז יִבְנֶה שְׁלֹמֹה בָּמָה לִכְמוֹשׁ שִׁקֻּץ מוֹאָב בָּהָר אֲשֶׁר עַל־פְּנֵי יְרוּשָׁלִָם, בסביבות הר הזיתים, וּלְמֹלֶךְ שִׁקֻּץ בְּנֵי עַמּוֹן.",
+    "וְכֵן עָשָׂה לְכָל־נָשָׁיו הַנָּכְרִיּוֹת, שהיו מַקְטִירוֹת וּמְזַבְּחוֹת לֵאלֹהֵיהֶן. נשות המלך המפונקות ישבו בבטלה, ואת זמנן מילאו במנהגיהן הקדומים. שלמה חטא בהתעלמותו ממעשיהן.",
+    "וַיִּתְאַנַּף, כעס ה' בִּשְׁלֹמֹה, כִּי־נָטָה לְבָבוֹ מֵעִם ה' אֱלֹהֵי יִשְׂרָאֵל הַנִּרְאָה אֵלָיו פַּעֲמָיִם – פעם אחת בחלום אחרי המלכתו, ופעם שנייה בחנוכת המקדש,",
+    "וְצִוָּה אֵלָיו עַל־הַדָּבָר הַזֶּה, לְבִלְתִּי־לֶכֶת אַחֲרֵי אֱלֹהִים אֲחֵרִים, וְלֹא שָׁמַר אֵת אֲשֶׁר־צִוָּה ה'. חכמתו, גדולתו ובעיקר העובדה שזכה לנבואה ישירה צריכות היו למנוע ממנו התנהגות זו.",
+    "וַיֹּאמֶר ה' לִשְׁלֹמֹה בהתגלות או על ידי נביא: יַעַן אֲשֶׁר הָיְתָה־זֹּאת עִמָּךְ וְלֹא שָׁמַרְתָּ בְּרִיתִי וְחֻקֹּתַי אֲשֶׁר צִוִּיתִי עָלֶיךָ – קָרֹעַ אֶקְרַע אֶת־הַמַּמְלָכָה מֵעָלֶיךָ וּנְתַתִּיהָ לְעַבְדֶּךָ, לאחד מעבדיך.",
+    "אַךְ־בְּיָמֶיךָ לֹא אֶעֱשֶׂנָּה, לְמַעַן זכותו של דָּוִד אָבִיךָ. אתה תישאר להחזיק בשלטון, אבל מִיַּד בִּנְךָ אֶקְרָעֶנָּה לאחר זמנך.",
+    "רַק אֶת־כָּל־הַמַּמְלָכָה לֹא אֶקְרָע, כי אם שֵׁבֶט אֶחָד אֶתֵּן לִבְנֶךָ, לְמַעַן דָּוִד עַבְדִּי וּלְמַעַן יְרוּשָׁלִַם אֲשֶׁר בָּחָרְתִּי. הבחירה בשושלת דוד נותרה על כנה, אבל בעקבות התנהגותו של שלמה לא תשלוט עוד שושלת זו על רוב הממלכה.",
+    "וַיָּקֶם ה' שָׂטָן, מפריע, אויב לִשְׁלֹמֹה אֵת הֲדַד הָאֲדֹמִי, מִזֶּרַע הַמֶּלֶךְ הוּא בֶּאֱדוֹם, מזרעו של מלך אדום. וכך השתלשלו המאורעות:",
+    "וַיְהִי בִּהְיוֹת דָּוִד אֶת־אֱדוֹם, באדום, בַּעֲלוֹת יוֹאָב שַׂר הַצָּבָא לְקַבֵּר אֶת־הַחֲלָלִים מהמלחמה, וַיַּךְ כָּל־זָכָר בֶּאֱדוֹם,",
+    "כִּי שֵׁשֶׁת חֳדָשִׁים יָשַׁב־שָׁם יוֹאָב וְכָל־יִשְׂרָאֵל, עַד אשר הִכְרִית, הרגו כָּל־זָכָר בֶּאֱדוֹם.",
+    "וַיִּבְרַח אֲדַד, הדד הוּא וַאֲנָשִׁים אֲדֹמִיִּים מֵעַבְדֵי אָבִיו אִתּוֹ, שסייעו להבריחו לָבוֹא מִצְרָיִם, וַהֲדַד אז נַעַר קָטָן.",
+    "וַיָּקֻמוּ מִמִּדְיָן וַיָּבֹאוּ פָּארָן. הם פנו דרומה דרך מדבר סיני, שבחלקו היה שייך לאדום ובחלקו שכנו שבטי נוודים מדיינים, עד לגבול מואב בצפון. וַיִּקְחוּ אֲנָשִׁים, פליטים נוספים עִמָּם מִפָּארָן, וַיָּבֹאוּ מִצְרַיִם אֶל־פַּרְעֹה מֶלֶךְ־מִצְרַיִם. וַיִּתֶּן־לוֹ פרעה בַיִת, וְלֶחֶם אָמַר, ציווה לספק לוֹ מקופת המדינה. וְאֶרֶץ, נחלה נָתַן לוֹ. כך הפך הדד מפליט לבעל אחוזה.",
+    "וַיִּמְצָא הֲדַד חֵן בְּעֵינֵי פַרְעֹה מְאֹד, וַיִּתֶּן־לוֹ אִשָּׁה אֶת־אֲחוֹת אִשְׁתּוֹ, אֲחוֹת תַּחְפְּנֵיס הַגְּבִירָה.",
+    "וַתֵּלֶד לוֹ אֲחוֹת תַּחְפְּנֵיס אֵת גְּנֻבַת בְּנוֹ. וַתִּגְמְלֵהוּ, גידלה אותו תַחְפְּנֵס בְּתוֹךְ בֵּית פַּרְעֹה, וַיְהִי גְנֻבַת בבֵּית פַּרְעֹה בְּתוֹךְ בְּנֵי פַרְעֹה, שכן היה אחיין המלכה. אם היה זה אותו פרעה שנתן את בתו לשלמה, ההטבות המיוחדות שהוא העניק להדד – אויבו של שלמה – נבעו כנראה גם מטעמים פוליטיים – שמירת האיזון המדיני בין יורש העצר האדומי לבין מלך ישראל.",
+    "וַהֲדַד שָׁמַע בְּמִצְרַיִם כִּי־שָׁכַב דָּוִד עִם־אֲבֹתָיו, שדוד מת, וְכִי־מֵת יוֹאָב שַׂר־הַצָּבָא, וַיֹּאמֶר הֲדַד אֶל־פַּרְעֹה: שַׁלְּחֵנִי וְאֵלֵךְ אֶל־אַרְצִי.",
+    "וַיֹּאמֶר לוֹ פַרְעֹה: כִּי, אבל מָה־אַתָּה חָסֵר עִמִּי, פה אתה מקבל את התנאים הטובים ביותר – וְהִנְּךָ מְבַקֵּשׁ לָלֶכֶת אֶל־אַרְצֶךָ, שאינה תרבותית, מפוארת ופורייה כמצרים?! וַיֹּאמֶר הדד: לֹא כִּי שַׁלֵּחַ תְּשַׁלְּחֵנִי. נראה שפרעה אכן שילח אותו, והדד שב לאדום. הדד ניסה לבצר לעצמו מעמד של מלך עתידי באדום, ואף שעדיין לא היה גורם מאיים, גדל כוחו והתפתח בארצו. אדום הייתה עדיין כפופה לשלמה, אבל שלטונו בה לא היה נוקשה, והוא לא ייחס חשיבות לשובו של הדד לאדום.",
+    "וַיָּקֶם אֱלֹהִים לוֹ – לשלמה שָׂטָן נוסף – אֶת־רְזוֹן בֶּן־אֶלְיָדָע, אֲשֶׁר בָּרַח מֵאֵת הֲדַדְעֶזֶר מֶלֶךְ־צוֹבָה, מלך ארם שדוד הביס, אֲדֹנָיו. אולי שירת כקצין תחת מלך ארם צובא כשנלחם עם דוד.",
+    "וַיִּקְבֹּץ עָלָיו, סביבו אֲנָשִׁים, וַיְהִי שַׂר־גְּדוּד עליהם, בַּהֲרֹג דָּוִד אֹתָם – את הדדעזר ואנשיו. וַיֵּלְכוּ רזון ואנשי גדודו לדַמֶּשֶׂק, שאף היא עיר בארם, וַיֵּשְׁבוּ בָהּ, וַיִּמְלְכוּ בְּדַמָּשֶׂק.",
+    "וַיְהִי שָׂטָן לְיִשְׂרָאֵל כָּל־יְמֵי שְׁלֹמֹה. אמנם הוא מלך בתוך תחום שלטונו של שלמה, שהרי שלמה בנה את תדמור מצפון-מזרח לדמשק – אבל שלמה לא הגיב. וְזה הצטרף אֶת, עם הָרָעָה אֲשֶׁר עשה הֲדָד באדום. וַיָּקָץ בְּיִשְׂרָאֵל, תיעב את ישראל ומרד בהם, וַיִּמְלֹךְ עַל־אֲרָם. רזון לא היה מלך גדול ומאיים, אך הצטרף לגורמי המועקה. שלמה לא שלח את צבאו לגרש את רזון מדמשק ואת הדד מאדום. על חייליו הוטלו בעיקר משימות אבטחה. בניהו בן יהוידע, שר צבאו שהיה עוד מאנשי דוד, אמנם היה גיבור חיל, אבל נראה שלא שימש בפועל מצביא ולא נלחם בצבאות גדולים כל ימי שלמה.",
+    "מכשול אחר שקם למלכות שלמה, שעם הזמן יתברר כחמור יותר – וְיָרָבְעָם בֶּן־נְבָט, אֶפְרָתִי, מבני אפרים, מִן־הַצְּרֵדָה, עיר לא גדולה, וְשֵׁם אִמּוֹ צְרוּעָה, אִשָּׁה אַלְמָנָה. ירבעם היתום מאב הגיע לשמש עֶבֶד לִשְׁלֹמֹה, וַיָּרֶם יָד בַּמֶּלֶךְ, התריס כנגד המלך, ואפילו מרד בו.",
+    "וְזֶה הַדָּבָר אֲשֶׁר־הֵרִים יָד בַּמֶּלֶךְ שְׁלֹמֹה: שלמה בָּנָה אֶת־הַמִּלּוֹא, כדי לחבר בחומה אחת את עיר דוד עם מקום המקדש, העיר העליונה. בכך הוא סָגַר אֶת־פֶּרֶץ, הרווח הפרוץ שהבדיל בין חלקיה של ירושלים, בעִיר דָּוִד אָבִיו. לפני בניית המילוא אפשר היה להגיע אל ירושלים מכל כיוון, והחומה שימשה בעיקר לנוי. אולי ירבעם טען שבתור מקום קדוש, אין להפוך את ירושלים לעיר מבצר.",
+    "וְהָאִישׁ יָרָבְעָם גִּבּוֹר חָיִל, מוצלח ומוכשר. וַיַּרְא שְׁלֹמֹה אֶת־הַנַּעַר כִּי־עֹשֵׂה מְלָאכָה הוּא. עוד בהיותו צעיר הבחין שלמה בזריזותו וביעילותו והחליט לטפחו – וַיַּפְקֵד, שלמה מינה אֹתוֹ לְכָל־סֵבֶל, על כל החובות ועל גביית המסים של בֵּית יוֹסֵף, שבטו של ירבעם. המינוי שמינהו שלמה הוא שהעניק לו מעמד מכובד.",
+    "וַיְהִי בָּעֵת הַהִיא, וְיָרָבְעָם יָצָא מִירוּשָׁלִָם לצורך כלשהו, וַיִּמְצָא אֹתוֹ אֲחִיָּה הַשִּׁילֹנִי הַנָּבִיא בַּדֶּרֶךְ, וְהוּא – ירבעם מִתְכַּסֶּה בְּשַׂלְמָה, בגד רחב וארוך, חֲדָשָׁה, וּשְׁנֵיהֶם לְבַדָּם בַּשָּׂדֶה,",
+    "וַיִּתְפֹּשׂ אֲחִיָּה בַּשַּׂלְמָה הַחֲדָשָׁה אֲשֶׁר עָלָיו, וַיִּקְרָעֶהָ שְׁנֵים עָשָׂר קְרָעִים, לשתים-עשרה חתיכות.",
+    "וַיֹּאמֶר לְיָרָבְעָם: קַח־לְךָ עֲשָׂרָה קְרָעִים מהגלימה הזו, כִּי כֹה אָמַר ה' אֱלֹהֵי יִשְׂרָאֵל: \"הִנְנִי קֹרֵעַ אֶת־הַמַּמְלָכָה מִיַּד שְׁלֹמֹה, וְנָתַתִּי לְךָ אֵת השלטון על עֲשָׂרָה הַשְּׁבָטִים.",
+    "וְהַשֵּׁבֶט הָאֶחָד יִהְיֶה־לּוֹ, לשלמה, לְמַעַן עַבְדִּי דָוִד וּלְמַעַן יְרוּשָׁלִַם הָעִיר אֲשֶׁר בָּחַרְתִּי בָהּ מִכֹּל שִׁבְטֵי יִשְׂרָאֵל,",
+    "יַעַן אֲשֶׁר עֲזָבוּנִי וַיִּשְׁתַּחֲווּ לְעַשְׁתֹּרֶת אֱלֹהֵי צִדֹנִין, הצידונים, לִכְמוֹשׁ אֱלֹהֵי מוֹאָב וּלְמִלְכֹּם אֱלֹהֵי בְנֵי־עַמּוֹן, וְלֹא־הָלְכוּ בִדְרָכַי לַעֲשׂוֹת הַיָּשָׁר בְּעֵינַי וְלשמור את חֻקֹּתַי וּמִשְׁפָּטַי כְּדָוִד אָבִיו.",
+    "וְלֹא־אֶקַּח אֶת־כָּל־הַמַּמְלָכָה מִיָּדוֹ של שלמה למרות חטאיו, כִּי אם נָשִׂיא במעמדו הנוכחי אֲשִׁתֶנּוּ, אשאיר אותו כֹּל יְמֵי חַיָּיו, לְמַעַן דָּוִד עַבְדִּי אֲשֶׁר בָּחַרְתִּי אֹתוֹ אֲשֶׁר שָׁמַר מִצְוֹתַי וְחֻקֹּתָי.",
+    "אבל – וְלָקַחְתִּי את עיקר הַמְּלוּכָה מִיַּד בְּנוֹ, וּנְתַתִּיהָ לְּךָ, את המלוכה בהיקפה הגדול – אֵת עֲשֶׂרֶת הַשְּׁבָטִים.",
+    "וְלִבְנוֹ אֶתֵּן שֵׁבֶט־אֶחָד לְמַעַן הֱיוֹת־נִיר, כדי שיישאר שלטון לְדָוִיד־עַבְדִּי כָּל־הַיָּמִים לְפָנַי בִּירוּשָׁלִַם, הָעִיר אֲשֶׁר בָּחַרְתִּי לִי לָשׂוּם שְׁמִי שָׁם.",
+    "וְאֹתְךָ אֶקַּח וּמָלַכְתָּ בְּכֹל אֲשֶׁר־תְּאַוֶּה, תרצה נַפְשֶׁךָ, וְהָיִיתָ מֶּלֶךְ עַל־יִשְׂרָאֵל.",
+    "וְהָיָה אִם־תִּשְׁמַע אֶת־כָּל־אֲשֶׁר אֲצַוֶּךָ, וְהָלַכְתָּ בִדְרָכַי וְעָשִׂיתָ הַיָּשָׁר בְּעֵינַי לִשְׁמוֹר חֻקּוֹתַי וּמִצְוֹתַי כַּאֲשֶׁר עָשָׂה דָּוִד עַבְדִּי – וְהָיִיתִי עִמָּךְ, וּבָנִיתִי לְךָ בַיִת־נֶאֱמָן, שושלת מלוכה, כַּאֲשֶׁר, כפי שבָּנִיתִי לְדָוִד, וְנָתַתִּי לְךָ אֶת־יִשְׂרָאֵל.",
+    "וַאעַנֶּה, ייסרתי אֶת־זֶרַע דָּוִד לְמַעַן זֹאת, בגלל מעשי שלמה, אַךְ סבלם לֹא יימשך כָל־הַיָּמִים, ולבסוף ישובו לגדולתם\".",
+    "ירבעם שמע בנבואתו של אחיה השילֹני הבטחה לעתיד, ולא ניסה לארגן מרד של ממש בשלמה. וַיְבַקֵּשׁ שְׁלֹמֹה לְהָמִית אֶת־יָרָבְעָם, משום שהתריס כנגדו. וַיָּקָם יָרָבְעָם, וַיִּבְרַח גם הוא למִצְרַיִם, אֶל־שִׁישַׁק מֶלֶךְ־מִצְרַיִם. נראה ששישק לא בא משושלת מצרית. אולי הוא היה מן 'השושלת הכושית' שמשלה במצרים. קל היה לירבעם יותר לזכות בחסות של מלך שאינו עומד עם שלמה בקשרי חיתון. וַיְהִי בְמִצְרַיִם עַד־מוֹת שְׁלֹמֹה.",
+    "וְיֶתֶר דִּבְרֵי, תולדות שְׁלֹמֹה וְכָל־אֲשֶׁר עָשָׂה וְחָכְמָתוֹ, הֲלוֹא־הֵם כְּתֻבִים עַל־סֵפֶר דִּבְרֵי שְׁלֹמֹה.",
+    "וְהַיָּמִים אֲשֶׁר מָלַךְ שְׁלֹמֹה בִירוּשָׁלִַם עַל־ כָּל־יִשְׂרָאֵל היו אַרְבָּעִים שָׁנָה.",
+    "וַיִּשְׁכַּב שְׁלֹמֹה עִם־אֲבֹתָיו, מת בשלום, וַיִּקָּבֵר בְּעִיר דָּוִד אָבִיו. וַיִּמְלֹךְ רְחַבְעָם בְּנוֹ תַּחְתָּיו."
+  ],
+  "ai_explanation": [
+    "שלמה אהב נשים נכריות רבות, ובהן בת פרעה, שהייתה נכבדת משאר נשיו הנכריות. בין נשותיו היו מואביות, עמוניות, אדומיות, צידוניות וחיתיות.",
+    "ה' הזהיר את ישראל שלא יבואו בקשרי נישואין עם עמי הארץ, כדי שלא יטו את לבם לעבוד את אלוהיהם. שלמה דבק בנשים אלה באהבה.",
+    "לשלמה היו שבע מאות נשים במעמד של שרות ושלוש מאות פילגשים, שמעמדן החוקי היה נמוך יותר. נשים אלה הטו את לבו.",
+    "בזקנת שלמה הטו נשיו את לבבו אחרי אלוהים אחרים. לפי שטיינזלץ, שלמה לא עבד עבודה זרה בפועל, אך לבבו לא היה שלם עם ה' כדוד אביו.",
+    "שלמה הלך אחרי עשתורת אלוהי צידון ואחרי מלכום, שהיה כינוי גנאי לעבודה זרה של עמון.",
+    "שלמה עשה את הרע בעיני ה' ולא מילא אחריו כפי שעשה דוד אביו.",
+    "שלמה בנה במה לכמוש, אלוהי מואב, בהר שממול לירושלים, בסביבות הר הזיתים, וכן למולך, אלוהי בני עמון.",
+    "שלמה עשה כך גם עבור כל נשותיו הנכריות, שהיו מקטירות ומזבחות לאלוהיהן. חטאו היה בכך שהתעלם ממעשיהן ואפשר להן לעסוק במנהגיהן הקדומים.",
+    "ה' כעס על שלמה, משום שלבו נטה מה' אלוהי ישראל, שנגלה אליו פעמיים: פעם בחלום לאחר המלכתו ופעם בחנוכת המקדש.",
+    "ה' ציווה על שלמה שלא ללכת אחרי אלוהים אחרים, אך שלמה לא שמר את מצוות ה'. חכמתו, גדולתו ונבואתו הישירה היו אמורות למנוע ממנו התנהגות זו.",
+    "ה' הודיע לשלמה שבגלל שלא שמר את בריתו וחוקותיו, הממלכה תיקרע ממנו ותינתן לאחד מעבדיו.",
+    "הממלכה לא תיקרע בימי שלמה, בזכות דוד אביו. היא תיקרע מיד בנו לאחר מותו.",
+    "רק שבט אחד יישאר לבנו של שלמה, בזכות דוד ובזכות ירושלים שה' בחר בה. בכך שושלת דוד תישאר, אך לא תשלוט ברוב הממלכה.",
+    "ה' הקים לשלמה אויב ומפריע בדמות הדד האדומי, שהיה מזרע מלך אדום.",
+    "בעת מלחמת דוד באדום, כאשר יואב שר הצבא עלה לקבור את החללים, הוא הכה כל זכר באדום.",
+    "יואב וכל ישראל ישבו באדום שישה חודשים, עד שהרגו את כל הזכרים בארץ.",
+    "הדד נמלט למצרים עם אנשים אדומיים מעבדי אביו. באותה עת היה הדד נער קטן.",
+    "הדד ואנשיו עברו ממדין לפארן, אספו פליטים נוספים והגיעו למצרים אל פרעה. פרעה נתן להדד בית, מזון ונחלה, וכך הפך מפליט לבעל אחוזה.",
+    "הדד מצא חן בעיני פרעה, ופרעה נתן לו לאישה את אחות אשתו, אחות תחפניס הגבירה.",
+    "אחות תחפניס ילדה להדד את גנובת, ותחפניס גידלה אותו בבית פרעה. גנובת נחשב לבן בית פרעה, בהיותו אחיין המלכה; ייתכן שהיחס המיוחד להדד נבע גם משיקולים פוליטיים.",
+    "כאשר שמע הדד במצרים שדוד ויואב מתו, ביקש מפרעה לשלוח אותו לארצו.",
+    "פרעה שאל מה חסר להדד אצלו, אך הדד עמד על רצונו לשוב לארצו. לפי שטיינזלץ, הוא אכן חזר לאדום, ביסס בה מעמד של מלך עתידי, ובהמשך גדל כוחו.",
+    "אלוהים הקים לשלמה אויב נוסף, את רצון בן אלידע, שברח מהדדעזר מלך צובה, שדוד הביס.",
+    "רצון קיבץ סביבו אנשים והיה שר גדוד. לאחר שדוד הרג את הדדעזר ואנשיו, הלכו רצון ואנשיו לדמשק, ישבו בה ומלכו בה.",
+    "רצון היה אויב לישראל כל ימי שלמה, והצטרף לרעה שעשה הדד. הוא תיעב את ישראל ומרד בהם, אך שלמה לא שלח את צבאו לגרש אותו מדמשק או את הדד מאדום.",
+    "ירבעם בן נבט, אפרתי מן הצרדה, היה מכשול נוסף למלכות שלמה. אמו צרועה הייתה אלמנה, והוא שימש עבד לשלמה ומרד בו.",
+    "הסיבה למרד ירבעם הייתה בניית המילוא בידי שלמה וסגירת הפרץ בעיר דוד. לפי הפירוש, המילוא חיבר בחומה את עיר דוד עם העיר העליונה, וייתכן שירבעם התנגד להפיכת ירושלים לעיר מבצר.",
+    "ירבעם היה גיבור חיל, כלומר אדם מוכשר ומוצלח. שלמה הבחין ביעילותו ומינה אותו על כל עבודות החובה וגביית המסים של בית יוסף.",
+    "כאשר ירבעם יצא מירושלים, פגש אותו אחיה השילוני הנביא בשדה. ירבעם היה מכוסה בשמלה חדשה, ושניהם היו לבדם.",
+    "אחיה תפס את השמלה החדשה שעל ירבעם וקרע אותה לשנים עשר קרעים.",
+    "אחיה ציווה על ירבעם לקחת עשרה קרעים, כסמל לכך שה' יקרע את הממלכה מיד שלמה וייתן לירבעם את השלטון על עשרת השבטים.",
+    "השבט האחד יישאר לשלמה, בזכות דוד ובזכות ירושלים, העיר שה' בחר בה מכל שבטי ישראל.",
+    "הפילוג יבוא מפני שעזבו את ה', השתחוו לעשתורת, לכמוש ולמלכום, ולא הלכו בדרכי ה' לעשות הישר ולשמור את חוקיו ומשפטיו כדוד.",
+    "ה' לא ייקח משלמה את כל הממלכה בימי חייו, אלא ישאיר אותו נשיא כל ימיו בזכות דוד, ששמר את מצוותיו וחוקותיו.",
+    "את עיקר המלוכה ייקח ה' מיד בנו של שלמה וייתן לירבעם את השלטון על עשרת השבטים.",
+    "לבנו של שלמה יינתן שבט אחד, כדי שיישאר בירושלים שלטון לבית דוד כל הימים, בעיר שה' בחר לשכן בה את שמו.",
+    "ה' מבטיח לירבעם מלוכה לפי רצונו, אם יישמע לכל ציוויו ויעשה את הישר. אז יהיה ה' עמו, יבנה לו בית נאמן, כלומר שושלת מלוכה, וייתן לו את ישראל.",
+    "זרע דוד ייענש ויסבול בגלל מעשי שלמה, אך ייסוריו לא יימשכו לעד, ולבסוף ישוב לגדולתו.",
+    "שלמה ביקש להרוג את ירבעם, משום שהתריס כנגדו. ירבעם ברח למצרים אל שישק מלך מצרים ונשאר שם עד מות שלמה.",
+    "שאר תולדות שלמה, מעשיו וחכמתו כתובים בספר דברי שלמה.",
+    "שלמה מלך בירושלים על כל ישראל ארבעים שנה.",
+    "שלמה מת ונקבר בעיר דוד אביו. רחבעם בנו מלך תחתיו.",
+    ""
+  ],
+  "ai_explanation_en": [
+    "Solomon loved many foreign women, including Pharaoh’s daughter, who was more prominent than his other foreign wives. His wives included Moabite, Ammonite, Edomite, Sidonian, and Hittite women.",
+    "God had warned Israel not to form marital ties with these peoples, so that they would not turn Israel’s heart toward their gods. Solomon clung to these women in love.",
+    "Solomon had seven hundred wives of royal status and three hundred concubines, whose legal status was lower. These women turned his heart.",
+    "As Solomon grew old, his wives turned his heart toward other gods. According to Steinsaltz, Solomon did not actually practice idolatry, but his heart was not wholehearted with the Lord as David’s had been.",
+    "Solomon followed Ashtoreth, the goddess of the Sidonians, and Milcom, a derogatory name for the god of the Ammonites.",
+    "Solomon did what was evil in the Lord’s eyes and did not follow the Lord fully as David his father had done.",
+    "Solomon built a high place for Chemosh, the god of Moab, on the hill opposite Jerusalem, around the Mount of Olives, and also for Molech, the god of the Ammonites.",
+    "Solomon did the same for all his foreign wives, who burned incense and offered sacrifices to their gods. His sin was that he ignored their actions and allowed them to continue their former practices.",
+    "The Lord was angry with Solomon because his heart turned away from the Lord God of Israel, who had appeared to him twice: once in a dream after his coronation and once at the dedication of the Temple.",
+    "The Lord had commanded Solomon not to follow other gods, but Solomon did not keep God’s command. His wisdom, greatness, and direct prophecy should have prevented such behavior.",
+    "The Lord told Solomon that because he had not kept the covenant and laws, the kingdom would be torn away from him and given to one of his servants.",
+    "The kingdom would not be torn away during Solomon’s lifetime, because of David his father. It would be torn away from his son after Solomon’s death.",
+    "Only one tribe would remain for Solomon’s son, because of David and because of Jerusalem, which the Lord had chosen. Thus David’s dynasty would continue, but it would no longer rule most of the kingdom.",
+    "The Lord raised an enemy and adversary against Solomon: Hadad the Edomite, who was descended from the king of Edom.",
+    "During David’s war against Edom, when Joab the army commander went up to bury the slain, he struck down every male in Edom.",
+    "Joab and all Israel remained there for six months, until they had killed every male in Edom.",
+    "Hadad fled to Egypt with Edomite men who had served his father. At that time Hadad was a small boy.",
+    "Hadad and his men went from Midian to Paran, gathered additional refugees, and came to Egypt to Pharaoh. Pharaoh gave Hadad a house, food, and land, turning him from a refugee into a landowner.",
+    "Hadad found great favor in Pharaoh’s eyes, and Pharaoh gave him the sister of his wife, the sister of Tahpenes the queen.",
+    "Tahpenes’s sister bore Hadad a son named Genubath, and Tahpenes raised him in Pharaoh’s household. Genubath was treated as part of Pharaoh’s family because he was the queen’s nephew; the special treatment given to Hadad may also have had political motives.",
+    "When Hadad heard in Egypt that David and Joab had died, he asked Pharaoh to send him to his own land.",
+    "Pharaoh asked what Hadad lacked with him, but Hadad insisted on returning to his country. According to Steinsaltz, he did return to Edom, established a position as a future king, and gradually increased his power.",
+    "God raised another enemy against Solomon: Rezon son of Eliada, who had fled from Hadadezer, king of Zobah, whom David had defeated.",
+    "Rezon gathered men around him and became the leader of a band. After David defeated Hadadezer and his men, Rezon and his followers went to Damascus, settled there, and ruled it.",
+    "Rezon was an enemy of Israel throughout Solomon’s reign and added to the trouble caused by Hadad. He detested Israel and rebelled against it, but Solomon did not send his army to drive him from Damascus or Hadad from Edom.",
+    "Jeroboam son of Nebat, an Ephraimite from Zeredah, was another obstacle to Solomon’s rule. His mother, Zeruah, was a widow, and Jeroboam served Solomon before rebelling against him.",
+    "Jeroboam’s rebellion was connected with Solomon’s construction of the Millo and the closing of the breach in the City of David. According to the interpretation, the Millo joined the City of David to the upper city by one wall, and Jeroboam may have objected to turning Jerusalem into a fortified city.",
+    "Jeroboam was a capable and successful man. Solomon noticed his efficiency and appointed him over all the forced labor and tax collection of the house of Joseph.",
+    "When Jeroboam went out from Jerusalem, the prophet Ahijah the Shilonite met him in the countryside. Jeroboam was wearing a new cloak, and the two were alone.",
+    "Ahijah seized the new cloak Jeroboam was wearing and tore it into twelve pieces.",
+    "Ahijah told Jeroboam to take ten pieces as a sign that the Lord would tear the kingdom from Solomon and give Jeroboam authority over ten tribes.",
+    "One tribe would remain for Solomon, because of David and because of Jerusalem, the city the Lord had chosen from all the tribes of Israel.",
+    "The division would occur because they had abandoned the Lord, bowed to Ashtoreth, Chemosh, and Milcom, and had not followed the Lord’s ways or kept his laws and judgments as David had.",
+    "The Lord would not take the entire kingdom from Solomon during his lifetime, but would leave him as ruler all his days because of David, who had kept God’s commandments and laws.",
+    "The Lord would take the main part of the kingship from Solomon’s son and give Jeroboam authority over the ten tribes.",
+    "Solomon’s son would receive one tribe so that David’s rule would continue in Jerusalem throughout the days, in the city the Lord had chosen as the place for his name.",
+    "The Lord promised Jeroboam kingship according to his desire if he obeyed all the commands and did what was right. Then God would be with him, establish a lasting dynasty for him, and give him Israel.",
+    "David’s descendants would be disciplined and suffer because of Solomon’s actions, but their suffering would not last forever, and they would eventually return to greatness.",
+    "Solomon sought to kill Jeroboam because he had challenged him. Jeroboam fled to Egypt, to Shishak king of Egypt, and remained there until Solomon’s death.",
+    "The rest of Solomon’s history, deeds, and wisdom are recorded in the Book of the Acts of Solomon.",
+    "Solomon reigned in Jerusalem over all Israel for forty years.",
+    "Solomon died and was buried in the City of David his father. His son Rehoboam succeeded him.",
+    ""
+  ],
+  "perush": [
+    "שלמה אהב נשים נכריות רבות, ובהן בת פרעה, שהייתה נכבדת משאר נשיו הנכריות. בין נשותיו היו מואביות, עמוניות, אדומיות, צידוניות וחיתיות.",
+    "ה' הזהיר את ישראל שלא יבואו בקשרי נישואין עם עמי הארץ, כדי שלא יטו את לבם לעבוד את אלוהיהם. שלמה דבק בנשים אלה באהבה.",
+    "לשלמה היו שבע מאות נשים במעמד של שרות ושלוש מאות פילגשים, שמעמדן החוקי היה נמוך יותר. נשים אלה הטו את לבו.",
+    "בזקנת שלמה הטו נשיו את לבבו אחרי אלוהים אחרים. לפי שטיינזלץ, שלמה לא עבד עבודה זרה בפועל, אך לבבו לא היה שלם עם ה' כדוד אביו.",
+    "שלמה הלך אחרי עשתורת אלוהי צידון ואחרי מלכום, שהיה כינוי גנאי לעבודה זרה של עמון.",
+    "שלמה עשה את הרע בעיני ה' ולא מילא אחריו כפי שעשה דוד אביו.",
+    "שלמה בנה במה לכמוש, אלוהי מואב, בהר שממול לירושלים, בסביבות הר הזיתים, וכן למולך, אלוהי בני עמון.",
+    "שלמה עשה כך גם עבור כל נשותיו הנכריות, שהיו מקטירות ומזבחות לאלוהיהן. חטאו היה בכך שהתעלם ממעשיהן ואפשר להן לעסוק במנהגיהן הקדומים.",
+    "ה' כעס על שלמה, משום שלבו נטה מה' אלוהי ישראל, שנגלה אליו פעמיים: פעם בחלום לאחר המלכתו ופעם בחנוכת המקדש.",
+    "ה' ציווה על שלמה שלא ללכת אחרי אלוהים אחרים, אך שלמה לא שמר את מצוות ה'. חכמתו, גדולתו ונבואתו הישירה היו אמורות למנוע ממנו התנהגות זו.",
+    "ה' הודיע לשלמה שבגלל שלא שמר את בריתו וחוקותיו, הממלכה תיקרע ממנו ותינתן לאחד מעבדיו.",
+    "הממלכה לא תיקרע בימי שלמה, בזכות דוד אביו. היא תיקרע מיד בנו לאחר מותו.",
+    "רק שבט אחד יישאר לבנו של שלמה, בזכות דוד ובזכות ירושלים שה' בחר בה. בכך שושלת דוד תישאר, אך לא תשלוט ברוב הממלכה.",
+    "ה' הקים לשלמה אויב ומפריע בדמות הדד האדומי, שהיה מזרע מלך אדום.",
+    "בעת מלחמת דוד באדום, כאשר יואב שר הצבא עלה לקבור את החללים, הוא הכה כל זכר באדום.",
+    "יואב וכל ישראל ישבו באדום שישה חודשים, עד שהרגו את כל הזכרים בארץ.",
+    "הדד נמלט למצרים עם אנשים אדומיים מעבדי אביו. באותה עת היה הדד נער קטן.",
+    "הדד ואנשיו עברו ממדין לפארן, אספו פליטים נוספים והגיעו למצרים אל פרעה. פרעה נתן להדד בית, מזון ונחלה, וכך הפך מפליט לבעל אחוזה.",
+    "הדד מצא חן בעיני פרעה, ופרעה נתן לו לאישה את אחות אשתו, אחות תחפניס הגבירה.",
+    "אחות תחפניס ילדה להדד את גנובת, ותחפניס גידלה אותו בבית פרעה. גנובת נחשב לבן בית פרעה, בהיותו אחיין המלכה; ייתכן שהיחס המיוחד להדד נבע גם משיקולים פוליטיים.",
+    "כאשר שמע הדד במצרים שדוד ויואב מתו, ביקש מפרעה לשלוח אותו לארצו.",
+    "פרעה שאל מה חסר להדד אצלו, אך הדד עמד על רצונו לשוב לארצו. לפי שטיינזלץ, הוא אכן חזר לאדום, ביסס בה מעמד של מלך עתידי, ובהמשך גדל כוחו.",
+    "אלוהים הקים לשלמה אויב נוסף, את רצון בן אלידע, שברח מהדדעזר מלך צובה, שדוד הביס.",
+    "רצון קיבץ סביבו אנשים והיה שר גדוד. לאחר שדוד הרג את הדדעזר ואנשיו, הלכו רצון ואנשיו לדמשק, ישבו בה ומלכו בה.",
+    "רצון היה אויב לישראל כל ימי שלמה, והצטרף לרעה שעשה הדד. הוא תיעב את ישראל ומרד בהם, אך שלמה לא שלח את צבאו לגרש אותו מדמשק או את הדד מאדום.",
+    "ירבעם בן נבט, אפרתי מן הצרדה, היה מכשול נוסף למלכות שלמה. אמו צרועה הייתה אלמנה, והוא שימש עבד לשלמה ומרד בו.",
+    "הסיבה למרד ירבעם הייתה בניית המילוא בידי שלמה וסגירת הפרץ בעיר דוד. לפי הפירוש, המילוא חיבר בחומה את עיר דוד עם העיר העליונה, וייתכן שירבעם התנגד להפיכת ירושלים לעיר מבצר.",
+    "ירבעם היה גיבור חיל, כלומר אדם מוכשר ומוצלח. שלמה הבחין ביעילותו ומינה אותו על כל עבודות החובה וגביית המסים של בית יוסף.",
+    "כאשר ירבעם יצא מירושלים, פגש אותו אחיה השילוני הנביא בשדה. ירבעם היה מכוסה בשמלה חדשה, ושניהם היו לבדם.",
+    "אחיה תפס את השמלה החדשה שעל ירבעם וקרע אותה לשנים עשר קרעים.",
+    "אחיה ציווה על ירבעם לקחת עשרה קרעים, כסמל לכך שה' יקרע את הממלכה מיד שלמה וייתן לירבעם את השלטון על עשרת השבטים.",
+    "השבט האחד יישאר לשלמה, בזכות דוד ובזכות ירושלים, העיר שה' בחר בה מכל שבטי ישראל.",
+    "הפילוג יבוא מפני שעזבו את ה', השתחוו לעשתורת, לכמוש ולמלכום, ולא הלכו בדרכי ה' לעשות הישר ולשמור את חוקיו ומשפטיו כדוד.",
+    "ה' לא ייקח משלמה את כל הממלכה בימי חייו, אלא ישאיר אותו נשיא כל ימיו בזכות דוד, ששמר את מצוותיו וחוקותיו.",
+    "את עיקר המלוכה ייקח ה' מיד בנו של שלמה וייתן לירבעם את השלטון על עשרת השבטים.",
+    "לבנו של שלמה יינתן שבט אחד, כדי שיישאר בירושלים שלטון לבית דוד כל הימים, בעיר שה' בחר לשכן בה את שמו.",
+    "ה' מבטיח לירבעם מלוכה לפי רצונו, אם יישמע לכל ציוויו ויעשה את הישר. אז יהיה ה' עמו, יבנה לו בית נאמן, כלומר שושלת מלוכה, וייתן לו את ישראל.",
+    "זרע דוד ייענש ויסבול בגלל מעשי שלמה, אך ייסוריו לא יימשכו לעד, ולבסוף ישוב לגדולתו.",
+    "שלמה ביקש להרוג את ירבעם, משום שהתריס כנגדו. ירבעם ברח למצרים אל שישק מלך מצרים ונשאר שם עד מות שלמה.",
+    "שאר תולדות שלמה, מעשיו וחכמתו כתובים בספר דברי שלמה.",
+    "שלמה מלך בירושלים על כל ישראל ארבעים שנה.",
+    "שלמה מת ונקבר בעיר דוד אביו. רחבעם בנו מלך תחתיו.",
+    ""
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "נשות שלמה והסטת לבו",
+      "title_en": "Solomon’s Wives and the Turning of His Heart",
+      "start_verse": 1,
+      "end_verse": 10,
+      "summary": "הפסוקים מתארים את ריבוי נשותיו הנכריות של שלמה, את השפעתן עליו, את עבודת האלילים שנעשתה עבורן ואת כעס ה' על כך שלא שמר את מצוותיו.",
+      "summary_en": "These verses describe Solomon’s many foreign wives, their influence on him, the idolatrous worship maintained for them, and the Lord’s anger because Solomon did not keep His commands.",
+      "image_prompt": "A respectful biblical-era illustration of Solomon’s royal court with foreign wives and several distant high places, emphasizing the contrast between royal splendor and spiritual decline; no modern elements."
+    },
+    {
+      "title": "גזרת קריעת הממלכה",
+      "title_en": "The Decree to Divide the Kingdom",
+      "start_verse": 11,
+      "end_verse": 13,
+      "summary": "ה' מודיע לשלמה שהממלכה תיקרע בגלל הפרת הברית, אך הדבר יידחה לימי בנו, ושבט אחד יישאר לבית דוד בזכות דוד ובזכות ירושלים.",
+      "summary_en": "The Lord announces that the kingdom will be torn away because of the broken covenant, but the division will occur in the days of Solomon’s son, while one tribe will remain with David’s house because of David and Jerusalem.",
+      "image_prompt": "A symbolic biblical scene of a royal kingdom represented by a cloth beginning to tear, with Jerusalem and a smaller remaining portion visible in the background; solemn and restrained."
+    },
+    {
+      "title": "הדד האדומי ורצון הארמי",
+      "title_en": "Hadad the Edomite and Rezon the Aramean",
+      "start_verse": 14,
+      "end_verse": 25,
+      "summary": "ה' מקים לשלמה שני אויבים: הדד האדומי, שנמלט למצרים ושב לאדום, ורצון, שהשתקע בדמשק ומלך בארם. שניהם נעשים גורמי מועקה לישראל, בעוד שלמה אינו שולח צבא לסלקם.",
+      "summary_en": "The Lord raises two enemies against Solomon: Hadad the Edomite, who escapes to Egypt and later returns to Edom, and Rezon, who settles in Damascus and rules Aram. Both become sources of trouble for Israel, while Solomon does not send an army to remove them.",
+      "image_prompt": "A biblical-era map-like landscape showing a refugee prince traveling from Edom through the desert to Egypt, and a separate warrior leader establishing power in Damascus; historically neutral, no invented details."
+    },
+    {
+      "title": "ירבעם עולה למעמד ומתריס במלך",
+      "title_en": "Jeroboam Rises and Challenges the King",
+      "start_verse": 26,
+      "end_verse": 30,
+      "summary": "ירבעם, אדם מוכשר מבית יוסף, מתריס נגד שלמה בעקבות בניית המילוא וסגירת הפרץ בעיר דוד. לאחר מכן אחיה הנביא פוגש אותו לבדו בשדה וקורע את שמלתו.",
+      "summary_en": "Jeroboam, a capable man from the house of Joseph, challenges Solomon in connection with the construction of the Millo and the closing of the breach in the City of David. Ahijah the prophet then meets him alone in the countryside and tears his cloak.",
+      "image_prompt": "A dramatic but restrained biblical scene of the prophet Ahijah tearing a new cloak into pieces before Jeroboam in an open field near Jerusalem; ancient clothing and landscape."
+    },
+    {
+      "title": "נבואת אחיה על מלכות ירבעם",
+      "title_en": "Ahijah’s Prophecy of Jeroboam’s Kingdom",
+      "start_verse": 31,
+      "end_verse": 39,
+      "summary": "אחיה מסביר שישראל תיקרע מיד שלמה בגלל עבודת האלילים, ושירבעם יקבל את השלטון על עשרת השבטים. לבית דוד יישאר שבט אחד, וירבעם יזכה לבית נאמן אם ישמור את מצוות ה'.",
+      "summary_en": "Ahijah explains that Israel will be torn from Solomon because of idolatry, and that Jeroboam will rule the ten tribes. David’s house will retain one tribe, while Jeroboam will receive a lasting dynasty if he keeps God’s commands.",
+      "image_prompt": "A symbolic biblical prophecy scene with Ahijah presenting ten pieces of a torn cloak to Jeroboam, while a single remaining piece lies near a distant Jerusalem; solemn, clear, and non-sensational."
+    },
+    {
+      "title": "בריחת ירבעם וסיום מלכות שלמה",
+      "title_en": "Jeroboam’s Flight and the End of Solomon’s Reign",
+      "start_verse": 40,
+      "end_verse": 43,
+      "summary": "שלמה מבקש להרוג את ירבעם, והוא בורח למצרים עד מות שלמה. הפרק מסיים בהפניה לספר דברי שלמה, בציון ארבעים שנות מלכותו ובמותו, ולאחריו מלך רחבעם בנו.",
+      "summary_en": "Solomon seeks to kill Jeroboam, who flees to Egypt and remains there until Solomon’s death. The chapter closes by referring to the Book of the Acts of Solomon, recording his forty-year reign, his death, and the succession of his son Rehoboam.",
+      "image_prompt": "A quiet biblical-era closing scene: a road leading toward Egypt with a fleeing figure in the distance, contrasted with Jerusalem and the royal succession after Solomon; historically neutral."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 12.68,
+      "usfm": "1KI.11.1"
+    },
+    {
+      "start": 12.68,
+      "end": 28.56,
+      "usfm": "1KI.11.2"
+    },
+    {
+      "start": 28.56,
+      "end": 36.26,
+      "usfm": "1KI.11.3"
+    },
+    {
+      "start": 36.26,
+      "end": 48.48,
+      "usfm": "1KI.11.4"
+    },
+    {
+      "start": 48.48,
+      "end": 57.04,
+      "usfm": "1KI.11.5"
+    },
+    {
+      "start": 57.04,
+      "end": 66.32,
+      "usfm": "1KI.11.6"
+    },
+    {
+      "start": 66.32,
+      "end": 80.64,
+      "usfm": "1KI.11.7"
+    },
+    {
+      "start": 80.64,
+      "end": 88.96,
+      "usfm": "1KI.11.8"
+    },
+    {
+      "start": 88.96,
+      "end": 97.08,
+      "usfm": "1KI.11.9"
+    },
+    {
+      "start": 97.08,
+      "end": 105.4,
+      "usfm": "1KI.11.10"
+    },
+    {
+      "start": 105.4,
+      "end": 122.98,
+      "usfm": "1KI.11.11"
+    },
+    {
+      "start": 122.98,
+      "end": 133.62,
+      "usfm": "1KI.11.12"
+    },
+    {
+      "start": 133.62,
+      "end": 146.56,
+      "usfm": "1KI.11.13"
+    },
+    {
+      "start": 146.56,
+      "end": 155.72,
+      "usfm": "1KI.11.14"
+    },
+    {
+      "start": 155.72,
+      "end": 165.38,
+      "usfm": "1KI.11.15"
+    },
+    {
+      "start": 165.38,
+      "end": 172.38,
+      "usfm": "1KI.11.16"
+    },
+    {
+      "start": 172.38,
+      "end": 181.62,
+      "usfm": "1KI.11.17"
+    },
+    {
+      "start": 181.62,
+      "end": 195.98,
+      "usfm": "1KI.11.18"
+    },
+    {
+      "start": 195.98,
+      "end": 206.14,
+      "usfm": "1KI.11.19"
+    },
+    {
+      "start": 206.14,
+      "end": 217.24,
+      "usfm": "1KI.11.20"
+    },
+    {
+      "start": 217.24,
+      "end": 230.3,
+      "usfm": "1KI.11.21"
+    },
+    {
+      "start": 230.3,
+      "end": 243.22,
+      "usfm": "1KI.11.22"
+    },
+    {
+      "start": 243.22,
+      "end": 252.28,
+      "usfm": "1KI.11.23"
+    },
+    {
+      "start": 252.28,
+      "end": 263.62,
+      "usfm": "1KI.11.24"
+    },
+    {
+      "start": 263.62,
+      "end": 273.32,
+      "usfm": "1KI.11.25"
+    },
+    {
+      "start": 273.32,
+      "end": 285.28,
+      "usfm": "1KI.11.26"
+    },
+    {
+      "start": 285.28,
+      "end": 293.56,
+      "usfm": "1KI.11.27"
+    },
+    {
+      "start": 293.56,
+      "end": 304.44,
+      "usfm": "1KI.11.28"
+    },
+    {
+      "start": 304.44,
+      "end": 318.68,
+      "usfm": "1KI.11.29"
+    },
+    {
+      "start": 318.68,
+      "end": 324.28,
+      "usfm": "1KI.11.30"
+    },
+    {
+      "start": 324.28,
+      "end": 339.4,
+      "usfm": "1KI.11.31"
+    },
+    {
+      "start": 339.4,
+      "end": 348.36,
+      "usfm": "1KI.11.32"
+    },
+    {
+      "start": 348.36,
+      "end": 368.42,
+      "usfm": "1KI.11.33"
+    },
+    {
+      "start": 368.42,
+      "end": 383.52,
+      "usfm": "1KI.11.34"
+    },
+    {
+      "start": 383.52,
+      "end": 389.86,
+      "usfm": "1KI.11.35"
+    },
+    {
+      "start": 389.86,
+      "end": 400.54,
+      "usfm": "1KI.11.36"
+    },
+    {
+      "start": 400.54,
+      "end": 409.2,
+      "usfm": "1KI.11.37"
+    },
+    {
+      "start": 409.2,
+      "end": 430.48,
+      "usfm": "1KI.11.38"
+    },
+    {
+      "start": 430.48,
+      "end": 435.64,
+      "usfm": "1KI.11.39"
+    },
+    {
+      "start": 435.64,
+      "end": 449.28,
+      "usfm": "1KI.11.40"
+    },
+    {
+      "start": 449.28,
+      "end": 457.94,
+      "usfm": "1KI.11.41"
+    },
+    {
+      "start": 457.94,
+      "end": 465.76,
+      "usfm": "1KI.11.42"
+    },
+    {
+      "start": 465.76,
+      "end": 486.6,
+      "usfm": "1KI.11.43"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    12.68,
+    28.56,
+    36.26,
+    48.48,
+    57.04,
+    66.32,
+    80.64,
+    88.96,
+    97.08,
+    105.4,
+    122.98,
+    133.62,
+    146.56,
+    155.72,
+    165.38,
+    172.38,
+    181.62,
+    195.98,
+    206.14,
+    217.24,
+    230.3,
+    243.22,
+    252.28,
+    263.62,
+    273.32,
+    285.28,
+    293.56,
+    304.44,
+    318.68,
+    324.28,
+    339.4,
+    348.36,
+    368.42,
+    383.52,
+    389.86,
+    400.54,
+    409.2,
+    430.48,
+    435.64,
+    449.28,
+    457.94,
+    465.76,
+    486.6
+  ],
+  "times_en_usfm": [
+    "1KI.11.1",
+    "1KI.11.2",
+    "1KI.11.3",
+    "1KI.11.4",
+    "1KI.11.5",
+    "1KI.11.6",
+    "1KI.11.7",
+    "1KI.11.8",
+    "1KI.11.9",
+    "1KI.11.10",
+    "1KI.11.11",
+    "1KI.11.12",
+    "1KI.11.13",
+    "1KI.11.14",
+    "1KI.11.15",
+    "1KI.11.16",
+    "1KI.11.17",
+    "1KI.11.18",
+    "1KI.11.19",
+    "1KI.11.20",
+    "1KI.11.21",
+    "1KI.11.22",
+    "1KI.11.23",
+    "1KI.11.24",
+    "1KI.11.25",
+    "1KI.11.26",
+    "1KI.11.27",
+    "1KI.11.28",
+    "1KI.11.29",
+    "1KI.11.30",
+    "1KI.11.31",
+    "1KI.11.32",
+    "1KI.11.33",
+    "1KI.11.34",
+    "1KI.11.35",
+    "1KI.11.36",
+    "1KI.11.37",
+    "1KI.11.38",
+    "1KI.11.39",
+    "1KI.11.40",
+    "1KI.11.41",
+    "1KI.11.42",
+    "1KI.11.43"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בפרק נאמר ששלמה נשא נשים רבות מעמים שונים, ובהם מואב, עמון, אדום, צידון והחתים, נוסף על בת פרעה.",
+      "text_he": "הידעת? בפרק נאמר ששלמה נשא נשים רבות מעמים שונים, ובהם מואב, עמון, אדום, צידון והחתים, נוסף על בת פרעה.",
+      "text_en": "Did you know? This chapter says that Solomon married many women from various nations, including Moab, Ammon, Edom, Sidon, and the Hittites, in addition to Pharaoh’s daughter."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? לפי הכתוב, לשלמה היו 700 נשים שהיו שרות ו-300 פילגשים — יחד 1,000 נשים.",
+      "text_he": "הידעת? לפי הכתוב, לשלמה היו 700 נשים שהיו שרות ו-300 פילגשים — יחד 1,000 נשים.",
+      "text_en": "Did you know? According to the text, Solomon had 700 wives, who were princesses, and 300 concubines—a total of 1,000 women."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? לעת זקנת שלמה נאמר שנשותיו הטו את לבבו אחרי אלוהים אחרים, ולכן לבו לא היה שלם עם ה' כשלב דוד אביו.",
+      "text_he": "הידעת? לעת זקנת שלמה נאמר שנשותיו הטו את לבבו אחרי אלוהים אחרים, ולכן לבו לא היה שלם עם ה' כשלב דוד אביו.",
+      "text_en": "Did you know? In Solomon’s old age, his wives turned his heart toward other gods, so his heart was not fully devoted to the LORD his God as the heart of his father David had been."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? כעס ה' על שלמה אף על פי שה' נראה אליו פעמיים, וציווה עליו שלא ללכת אחרי אלוהים אחרים.",
+      "text_he": "הידעת? כעס ה' על שלמה אף על פי שה' נראה אליו פעמיים, וציווה עליו שלא ללכת אחרי אלוהים אחרים.",
+      "text_en": "Did you know? The LORD became angry with Solomon, even though the LORD had appeared to him twice and had commanded him not to follow other gods."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? גזרת קריעת הממלכה נדחתה לימי בנו של שלמה, ובית דוד נותר עם שבט אחד למען דוד ולמען ירושלים.",
+      "text_he": "הידעת? גזרת קריעת הממלכה נדחתה לימי בנו של שלמה, ובית דוד נותר עם שבט אחד למען דוד ולמען ירושלים.",
+      "text_en": "Did you know? The decree to tear the kingdom apart was postponed until the days of Solomon’s son, and the house of David retained one tribe for David’s sake and for the sake of Jerusalem."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? לאחר חטאו של שלמה הקים ה' לו adversary — אויב — בדמות הדד האדומי, ובהמשך הפרק נזכר גם רצון בן אלידע כאויב נוסף.",
+      "text_he": "הידעת? לאחר חטאו של שלמה הקים ה' לו adversary — אויב — בדמות הדד האדומי, ובהמשך הפרק נזכר גם רצון בן אלידע כאויב נוסף.",
+      "text_en": "Did you know? After Solomon’s sin, the LORD raised up an adversary against him in the person of Hadad the Edomite; later in the chapter, Rezon son of Eliada is also mentioned as another adversary."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? הדד האדומי, שקיבל מקלט ומעמד במצרים, ביקש לבסוף מפרעה לשלחו כדי לשוב לארצו.",
+      "text_he": "הידעת? הדד האדומי, שקיבל מקלט ומעמד במצרים, ביקש לבסוף מפרעה לשלחו כדי לשוב לארצו.",
+      "text_en": "Did you know? Hadad the Edomite, who had found refuge and status in Egypt, eventually asked Pharaoh to release him so that he could return to his own country."
+    },
+    {
+      "verse": 28,
+      "text": "הידעת? ירבעם בן נבט מתואר כגיבור חיל, ושלמה מינה אותו על כל סֵבֶל בית יוסף — כלומר על עבודת המס והעבודות הציבוריות של שבטי יוסף.",
+      "text_he": "הידעת? ירבעם בן נבט מתואר כגיבור חיל, ושלמה מינה אותו על כל סֵבֶל בית יוסף — כלומר על עבודת המס והעבודות הציבוריות של שבטי יוסף.",
+      "text_en": "Did you know? Jeroboam son of Nebat is described as a man of valor, and Solomon appointed him over all the forced labor of the house of Joseph—that is, the tax and public-works labor of the tribes of Joseph."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? אחיה הנביא קרע שמלה חדשה לשנים עשר קרעים, וציווה על ירבעם לקחת עשרה מהם כסמל לכך שהממלכה תיקרע ויינתנו לו עשרת השבטים.",
+      "text_he": "הידעת? אחיה הנביא קרע שמלה חדשה לשנים עשר קרעים, וציווה על ירבעם לקחת עשרה מהם כסמל לכך שהממלכה תיקרע ויינתנו לו עשרת השבטים.",
+      "text_en": "Did you know? The prophet Ahijah tore a new garment into twelve pieces and told Jeroboam to take ten of them as a symbol that the kingdom would be torn apart and that ten tribes would be given to him."
+    },
+    {
+      "verse": 42,
+      "text": "הידעת? שלמה מלך בירושלים על כל ישראל ארבעים שנה; לאחר מותו נקבר בעיר דוד, ובנו רחבעם מלך תחתיו.",
+      "text_he": "הידעת? שלמה מלך בירושלים על כל ישראל ארבעים שנה; לאחר מותו נקבר בעיר דוד, ובנו רחבעם מלך תחתיו.",
+      "text_en": "Did you know? Solomon reigned in Jerusalem over all Israel for forty years. After his death, he was buried in the City of David, and his son Rehoboam succeeded him as king."
+    }
+  ]
+}

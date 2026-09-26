@@ -1,0 +1,482 @@
+{
+  "book": "Isaiah",
+  "book_he": "ישעיהו",
+  "book_chapters": 66,
+  "chapter": 3,
+  "title": "ישעיהו פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1003.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1003.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ISA/3-203ed70983058d874f0a87b07a6d00a8.mp3?version_id=1",
+  "verses": [
+    "כִּי הִנֵּה הָאָדוֹן יְהוָה צְבָאוֹת, מֵסִיר מִירוּשָׁלִַם וּמִיהוּדָה, מַשְׁעֵן, וּמַשְׁעֵנָה: כֹּל, מִשְׁעַן-לֶחֶם, וְכֹל, מִשְׁעַן-מָיִם.",
+    "גִּבּוֹר, וְאִישׁ מִלְחָמָה; שׁוֹפֵט וְנָבִיא, וְקֹסֵם וְזָקֵן.",
+    "שַׂר-חֲמִשִּׁים, וּנְשׂוּא פָנִים; וְיוֹעֵץ וַחֲכַם חֲרָשִׁים, וּנְבוֹן לָחַשׁ.",
+    "וְנָתַתִּי נְעָרִים, שָׂרֵיהֶם; וְתַעֲלוּלִים, יִמְשְׁלוּ-בָם.",
+    "וְנִגַּשׂ הָעָם, אִישׁ בְּאִישׁ וְאִישׁ בְּרֵעֵהוּ; יִרְהֲבוּ, הַנַּעַר בַּזָּקֵן, וְהַנִּקְלֶה, בַּנִּכְבָּד.",
+    "כִּי-יִתְפֹּשׂ אִישׁ בְּאָחִיו, בֵּית אָבִיו, שִׂמְלָה לְכָה, קָצִין תִּהְיֶה-לָּנוּ; וְהַמַּכְשֵׁלָה הַזֹּאת, תַּחַת יָדֶךָ.",
+    "יִשָּׂא בַיּוֹם הַהוּא לֵאמֹר, לֹא-אֶהְיֶה חֹבֵשׁ, וּבְבֵיתִי, אֵין לֶחֶם וְאֵין שִׂמְלָה; לֹא תְשִׂימֻנִי, קְצִין עָם.",
+    "כִּי כָשְׁלָה יְרוּשָׁלִַם, וִיהוּדָה נָפָל: כִּי-לְשׁוֹנָם וּמַעַלְלֵיהֶם אֶל-יְהוָה, לַמְרוֹת עֵנֵי כְבוֹדוֹ.",
+    "הַכָּרַת פְּנֵיהֶם עָנְתָה בָּם, וְחַטָּאתָם כִּסְדֹם הִגִּידוּ לֹא כִחֵדוּ; אוֹי לְנַפְשָׁם, כִּי-גָמְלוּ לָהֶם רָעָה.",
+    "אִמְרוּ צַדִּיק, כִּי-טוֹב: כִּי-פְרִי מַעַלְלֵיהֶם, יֹאכֵלוּ.",
+    "אוֹי, לְרָשָׁע רָע: כִּי-גְמוּל יָדָיו, יֵעָשֶׂה לּוֹ.",
+    "עַמִּי נֹגְשָׂיו מְעוֹלֵל, וְנָשִׁים מָשְׁלוּ בוֹ; עַמִּי מְאַשְּׁרֶיךָ מַתְעִים, וְדֶרֶךְ אֹרְחֹתֶיךָ בִּלֵּעוּ.",
+    "נִצָּב לָרִיב, יְהוָה; וְעֹמֵד, לָדִין עַמִּים.",
+    "יְהוָה בְּמִשְׁפָּט יָבוֹא, עִם-זִקְנֵי עַמּוֹ וְשָׂרָיו; וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם, גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם.",
+    "מלכם מַה-לָּכֶם תְּדַכְּאוּ עַמִּי, וּפְנֵי עֲנִיִּים תִּטְחָנוּ: נְאֻם-אֲדֹנָי יְהוִה, צְבָאוֹת.",
+    "וַיֹּאמֶר יְהוָה, יַעַן כִּי גָבְהוּ בְּנוֹת צִיּוֹן, וַתֵּלַכְנָה נטוות נְטוּיוֹת גָּרוֹן, וּמְשַׂקְּרוֹת עֵינָיִם; הָלוֹךְ וְטָפֹף תֵּלַכְנָה, וּבְרַגְלֵיהֶם תְּעַכַּסְנָה.",
+    "וְשִׂפַּח אֲדֹנָי, קָדְקֹד בְּנוֹת צִיּוֹן; וַיהוָה, פָּתְהֵן יְעָרֶה.",
+    "בַּיּוֹם הַהוּא יָסִיר אֲדֹנָי, אֵת תִּפְאֶרֶת הָעֲכָסִים וְהַשְּׁבִיסִים--וְהַשַּׂהֲרֹנִים.",
+    "הַנְּטִפוֹת וְהַשֵּׁירוֹת, וְהָרְעָלוֹת.",
+    "הַפְּאֵרִים וְהַצְּעָדוֹת וְהַקִּשֻּׁרִים, וּבָתֵּי הַנֶּפֶשׁ וְהַלְּחָשִׁים.",
+    "הַטַּבָּעוֹת, וְנִזְמֵי הָאָף.",
+    "הַמַּחֲלָצוֹת, וְהַמַּעֲטָפוֹת, וְהַמִּטְפָּחוֹת, וְהָחֲרִיטִים.",
+    "וְהַגִּלְיֹנִים, וְהַסְּדִינִים, וְהַצְּנִיפוֹת, וְהָרְדִידִים.",
+    "וְהָיָה תַחַת בֹּשֶׂם מַק יִהְיֶה, וְתַחַת חֲגוֹרָה נִקְפָּה וְתַחַת מַעֲשֶׂה מִקְשֶׁה קָרְחָה, וְתַחַת פְּתִיגִיל, מַחֲגֹרֶת שָׂק: כִּי-תַחַת, יֹפִי.",
+    "מְתַיִךְ, בַּחֶרֶב יִפֹּלוּ; וּגְבוּרָתֵךְ, בַּמִּלְחָמָה.",
+    "וְאָנוּ וְאָבְלוּ, פְּתָחֶיהָ; וְנִקָּתָה, לָאָרֶץ תֵּשֵׁב."
+  ],
+  "english": [
+    "For, behold, the Lord, the Lord of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water.",
+    "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
+    "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
+    "And I will give children to be their princes, and babes shall rule over them.",
+    "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
+    "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:",
+    "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.",
+    "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory.",
+    "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.",
+    "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.",
+    "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.",
+    "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.",
+    "The Lord standeth up to plead, and standeth to judge the people.",
+    "The Lord will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses.",
+    "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord God of hosts.",
+    "Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:",
+    "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.",
+    "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,",
+    "The chains, and the bracelets, and the mufflers,",
+    "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
+    "The rings, and nose jewels,",
+    "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
+    "The glasses, and the fine linen, and the hoods, and the vails.",
+    "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.",
+    "Thy men shall fall by the sword, and thy mighty in the war.",
+    "And her gates shall lament and mourn; and she being desolate shall sit upon the ground."
+  ],
+  "steinsaltz": [
+    "כִּי הִנֵּה הָאָדוֹן ה' צְבָאוֹת מֵסִיר מִירוּשָׁלִַם וּמִיהוּדָה מַשְׁעֵן וּמַשְׁעֵנָה, כל דבר שאפשר להישען עליו, למשל — כֹּל מִשְׁעַן לֶחֶם וְכֹל מִשְׁעַן מָיִם. לא יהיה די לחם ומים. גם אם אנשים לא יגוועו ברעב, לא יהיה להם ביטחון אפילו באספקת צרכיהם הבסיסיים.",
+    "גם מבחינה חברתית יחסרו מישראל גִּבּוֹר וְאִישׁ מִלְחָמָה, שׁוֹפֵט וְנָבִיא וְקֹסֵם, היודע, או הטוען שהוא יודע, דבר על העתיד, וְזָקֵן, איש מראשי העדה,",
+    "שַׂר חֲמִשִּׁים, בעל תפקיד צבאי מוגדר וּנְשׂוּא פָנִים, בעל מעמד וְיוֹעֵץ וַחֲכַם חֲרָשִׁים, בעל חכמה עמוקה וסודית וּנְבוֹן לָחַשׁ, היודע להסביר דבריו בדיוק ובנחת. אלה הם מנהיגים מסוגים שונים המכוננים את החברה התקינה, ולא דווקא מי שבהכרח נושאים בתפקידים ביצועיים. כל אלה יישללו מן העם.",
+    "ובמקום מבנה חברתי המורכב ממי שראויים להחזיק בשלטון — וְנָתַתִּי נְעָרִים שָׂרֵיהֶם, צעירים ייטלו לידיהם את השלטון. כאשר אין שלטון מבוסס, נוטים נערים מנוערים לקפוץ בראש. וְתַעֲלוּלִים יִמְשְׁלוּ בָם, צעירים אלה ימלאו את המקום בתעלולים. במקרה הטוב אפשר יהיה לראות במושלים שובבים.",
+    "וְנִגַּשׂ הָעָם אִישׁ בְּאִישׁ וְאִישׁ בְּרֵעֵהוּ. אנשים ידחפו וידחקו זה את זה או ישעבדו זה את זה. יִרְהֲבוּ הַנַּעַר בַּזָּקֵן, הנער יגביה את עצמו למעלה מן הזקן. וְהַנִּקְלֶה יתרברב בַּנִּכְבָּד. אין זה תיאור של אנרכיה גמורה, אלא של שלטון שאיננו שלטון. המושלים הם קבוצה אקראית של אנשים המחזיקים בתפקידי הנהגה, אף על פי שאינם ראויים לה.",
+    "נוסף על כך — כִּי יִתְפֹּשׂ אִישׁ בְּאָחִיו בֵּית אָבִיו, במי שהוא מכירו וסומך עליו, כאחיו הגדול שמבית אביו, ואומר לו: שִׂמְלָה לְכָה, לך יש בגדים נאים, מדים ומעמד כלשהו. על כן קָצִין תִּהְיֶה לָּנוּ, הֱיה לנו למנהיג, וְהַמַּכְשֵׁלָה הַזֹּאת תַּחַת יָדֶךָ. קח תחת פיקודך את תיקון מכשולי המדינה, העיר או השכונה הזו.",
+    "יִשָּׂא הלה את קולו, או: יישבע בַיּוֹם הַהוּא לֵאמֹר: לֹא אֶהְיֶה, איני מסוגל להיות חֹבֵשׁ, מי שתופס בדבר ובולמו, בעל תפקיד שלטוני, וּבְבֵיתִי אֵין לֶחֶם וְאֵין שִׂמְלָה. כיוון שאין לי דבר, איני עשוי להחזיק בדברים ולטפל באנשים. סירובו אינו נובע מעוני בלבד, אלא מהערכה עצמית נמוכה. מי שאין לו כלום והוא גם חש נטול חכמה וידע, אינו מאמין שביכולתו לקבל תפקידים, ולכן עומד בסירובו: לֹא תְשִׂימֻנִי קְצִין עָם. אל תמנו אותי קצין על העם. גם כשיש בחברה מי שנתפסים כאחראיים הראויים להתמנות על הציבור — הם עצמם אינם מעוניינים בנטילת אחריות זו. מתוך הססנות או עצלות הם בורחים ומתחמקים מן התפקיד.",
+    "כִּי כָשְׁלָה יְרוּשָׁלִַם, וִיהוּדָה נָפָל, כִּי לְשׁוֹנָם וּמַעַלְלֵיהֶם אֶל ה', כל מעשיהם ודיבוריהם ביחס לה' אינו אלא לַמְרוֹת עֵנֵי, להמרות עיני כְבוֹדוֹ, להרגיזו.",
+    "הַכָּרַת פְּנֵיהֶם עָנְתָה בָּם, על פניהם אפשר לראות שהם אדישים לאפשרות התיקון, וְחַטָּאתָם כִּסְדֹם הִגִּידוּ, לֹא כִחֵדוּ. הם אינם מתביישים בחטאם. בחברה מתוקנת אנשים משתדלים לכל הפחות להכחיש או להסתיר את חטאיהם, אבל במקום של רעים וחטאים הדומה לסדום, אין מתביישים לדבר בחטא בקול רם. אוֹי לְנַפְשָׁם כִּי גָמְלוּ לָהֶם — לעצמם רָעָה במעשיהם. במצב רעוע זה, שבו נעשה הכול ללא בושה וחשש, העם אינו חש חוסן, אמונה וייעוד.",
+    "בכללו של דבר — אִמְרוּ צַדִּיק כִּי, אשר הוא טוֹב, כִּי פְרִי מַעַלְלֵיהֶם יֹאכֵלוּ. הצדיקים ניזונים מתוצאות מעשיהם;",
+    "אולם — אוֹי לְרָשָׁע רָע, כִּי גְמוּל יָדָיו יֵעָשֶׂה, יהא מוכן לּוֹ.",
+    "במצב זה אנשים נגררים בדרכם ואפילו הנהגה אינם מוצאים. עַמִּי — נֹגְשָׂיו, מנהיגיו מְעוֹלֵל, אינם אלא כתינוקות, עוללים. וְנָשִׁים, אף על פי שבדרך כלל הן עומדות מן הצד, מָשְׁלוּ בוֹ. עַמִּי, מְאַשְּׁרֶיךָ, המיישרים דרכך ומורים לך מה לעשות — מַתְעִים, וְאת דֶרֶךְ אֹרְחֹתֶיךָ בִּלֵּעוּ, קלקלו והשחיתו.",
+    "נִצָּב לָרִיב ה' וְעֹמֵד לָדִין, לדון עַמִּים. ה' ניצב לשפוט את כל העולם.",
+    "ה' בְּמִשְׁפָּט יָבוֹא עִם זִקְנֵי עַמּוֹ וְשָׂרָיו, וכך יגיד להם: וְאַתֶּם בִּעַרְתֶּם, כיליתם את הַכֶּרֶם, ולא נתתם ממנו את מתנותיו המיועדות לעניים וללויים. ונוסף על כך — גְּזֵלַת הֶעָנִי בְּבָתֵּיכֶם.",
+    "מַה לָּכֶם שתְּדַכְּאוּ את עַמִּי ישראל, וּפְנֵי עֲנִיִּים תִּטְחָנוּ, תדרסו על פניהם של העניים?! נְאֻם ה' אֱלֹהִים צְבָאוֹת.",
+    "בצד הביקורת על השלטון באה תוכחה קשה על ההתנהגות האישית והמשפחתית, הממוקדת כאן בנשים הצעירות. וַיֹּאמֶר ה': יַעַן כִּי גָבְהוּ בְּנוֹת צִיּוֹן, בנות ציון ניסו להיראות גבוהות. בימינו יש נשים ההולכות על עקבים, ואילו כאן מתוארות הנשים שרצו להיראות גבוהות יותר בצעידה מסוימת – וַתֵּלַכְנָה נְטוּיוֹת גָּרוֹן, הן הולכות וגרונן מורם, וּמְשַׂקְּרוֹת עֵינָיִם, צובעות עיניהן בסיקרא ובכחל, וכן רומזות וקורצות בעיניים. עיניהן מסתכלות לכל עבר וסוקרות את סביבתן, כאומרות לכול: ראו איך אנו נראות. אין זה תיאור של זנות אלא של חברה ריקנית, שבה מרוכזות הנשים בתצוגת אופנה ובתחרות ביניהן מי תתלבש יפה יותר, ומי תרשים יותר את סביבתה. במקום ללכת בצורה רגילה הָלוֹךְ וְטָפֹף תֵּלַכְנָה, הן הולכות במעין צעדי ריקוד קטנים, כמו שנהגו נשים במקומות רבים לשם גירוי. וּבְרַגְלֵיהֶם תְּעַכַּסְנָה, מנענעות את רגליהן באופנים שונים לשם משיכת תשומת לב.",
+    "כיוון שבנות אלו מתפארות בשערותיהן היפות — וְשִׂפַּח ה' קָדְקֹד בְּנוֹת צִיּוֹן, ה' ישלח בראשיהן ספחת, מחלת עור הפוגעת גם בשערות, וַה' פָּתְהֵן יְעָרֶה, יגלה את ערוותן. סופן של תהלוכות האופנה ומצגי היופי הללו — ערום ועריה, ריק ואבדון.",
+    "בַּיּוֹם הַהוּא, כשיגיע יום העונש, יָסִיר ה' אֵת תִּפְאֶרֶת הָעֲכָסִים, מיני צמידים שברגליים וְהַשְּׁבִיסִים, ייתכן שהם מלבושים או קישוטים שמעל לשערות וְהַשַּׂהֲרֹנִים, אולי עגילים או תכשיטים אחרים בצורת חצאי ירח,",
+    "הַנְּטִיפוֹת, מיני שרשראות וְהַשֵּׁירוֹת, טבעות או צמידים וְהָרְעָלוֹת, כיסויים מעין צעיפים,",
+    "הַפְּאֵרִים, כובעים וְהַצְּעָדוֹת, אצעדות, תכשיט המקיף את הזרוע, כעין טבעת גדולה וְהַקִּשֻּׁרִים, חוטים לקשירת השיער או מיני עניבות וּבָתֵּי הַנֶּפֶשׁ, כנראה לבושים פנימיים יותר, דוגמת חזיות של ימינו, ויש מפרשים בתי קיבול לבשמי הרחה וְהַלְּחָשִׁים, אולי אף הם אביזרים שבסתר, נזמי האוזן, או: תכשיטים שבהם קמעות ולחשים,",
+    "הַטַּבָּעוֹת וְנִזְמֵי הָאָף,",
+    "הַמַּחֲלָצוֹת וְהַמַּעֲטָפוֹת, בגדים שהנשים מתעטפות בהם וְהַמִּטְפָּחוֹת וְהָחֲרִיטִים, כיסים, תיקים",
+    "והַגִּלְיֹנִים, כנראה מראות קטנות וְהַסְּדִינִים וְהַצְּנִיפוֹת, מצנפות וְהָרְדִידִים, צעיפים מקושטים.",
+    "לבסוף לא ייוותר דבר מכל קישוטיהן של הנשים הללו — וְהָיָה תַחַת בֹּשֶׂם — מַק, ריקבון יִהְיֶה, וְתַחַת חֲגוֹרָה — נִקְפָּה, פציעה או פגיעה, וְתַחַת מַעֲשֶׂה מִקְשֶׁה, במקום תלתלים או תסרוקות תהיה קָרְחָה, וְתַחַת פְּתִיגִיל, ייתכן שהוא מין חגורה יפה — מַחֲגֹרֶת, חגורה עשויה שָׂק, כִּי, באופן כללי, כל אלה יבואו תַחַת היֹפִי. לחלופין: כִּי הוא כווייה — תחת יופי.",
+    "ומכיוון אחר —מְתַיִךְ, אנשייך, ציון, בַּחֶרֶב יִפֹּלוּ, וּגְבוּרָתֵךְ, גבורת שליטייך תיפול בַּמִּלְחָמָה.",
+    "וְאָנוּ, יצטערו, ייאנחו וְאָבְלוּ פְּתָחֶיהָ, יושבי שערי ציון, וְנִקָּתָה, תתרוקן. אז לָאָרֶץ תֵּשֵׁב ציון. הישיבה במקום שפל מבטאת את השפלות או האבל על מצבן הקודר של יהודה וירושלים כאשר תפארתן וגבורתן יתמוטטו."
+  ],
+  "ai_explanation": [
+    "ה' מסיר מירושלים ומיהודה כל משען וביטחון, ובכלל זה את אספקת הלחם והמים. לא יהיה די בצרכים הבסיסיים, וגם תחושת הביטחון תיעלם.",
+    "מן החברה ייעדרו גיבורים, אנשי מלחמה, שופטים, נביאים, קוסמים וזקנים — בעלי תפקידים ומעמד הנחוצים לקיומה התקין.",
+    "גם מנהיגים צבאיים, אנשים בעלי מעמד, יועצים וחכמים ייעלמו. אלה סוגים שונים של מנהיגים, ולא בהכרח בעלי תפקידים ביצועיים, שהעם יישלל מהם.",
+    "במקום שלטון מבוסס יינתן השלטון לצעירים ולתעלולים. במקרה הטוב, המושלים יהיו שובבים; למעשה, אין כאן הנהגה ראויה.",
+    "העם ידחוק או ישעבד איש את רעהו, והנער והנקלה יתרברבו על הזקן והנכבד. זהו תיאור של שלטון שאיננו מתפקד ושל אנשים אקראיים המחזיקים בעמדות הנהגה.",
+    "אדם ינסה לשכנע את אחיו או את בן משפחתו לקבל עליו את הנהגת החברה, מפני שיש לו לבוש, מדים או מעמד כלשהו. הוא יבקש ממנו לטפל במכשולי המדינה, העיר או השכונה.",
+    "האדם שאליו פונים מסרב להיות מנהיג, בטענה שאין בביתו לחם ושמלה ואין לו יכולת או מעמד. הסירוב מבטא גם חוסר ביטחון עצמי, הססנות או התחמקות מאחריות.",
+    "ירושלים ויהודה נפלו מפני שדיבוריהם ומעשיהם מכוונים להמרות את פי ה' ולהרגיזו.",
+    "חטאי העם ניכרים על פניהם, והם אינם מתביישים בהם או מנסים להסתירם, בדומה לסדום. לכן הם מביאים על עצמם רעה ומאבדים חוסן, אמונה וייעוד.",
+    "הצדיקים יאכלו את פרי מעשיהם, כלומר ייהנו מתוצאות מעשיהם הטובים.",
+    "לרשע יהיה רע, מפני שגמול מעשיו יוכן וייעשה לו.",
+    "מנהיגי העם מתנהגים כעוללים, והנשים מושלות בו. מי שאמורים להדריך את העם מטעים אותו ומקלקלים את דרכיו.",
+    "ה' ניצב לריב ולעמוד לדין, כדי לשפוט את העמים ואת העולם.",
+    "ה' יבוא במשפט עם זקני העם ושריו, מפני שכילו את כרמו ולא נתנו את מתנותיו לעניים וללוויים. נוסף על כך, גזלת העניים נמצאת בבתיהם.",
+    "ה' שואל את המנהיגים מדוע הם מדכאים את עמו ורומסים את פני העניים.",
+    "ה' מוכיח את בנות ציון על גאווה, התהדרות ותחרות חיצונית. הן מרימות את ראשן, צובעות ורומזות בעיניהן, הולכות בצעדים קטנים ומנענעות את רגליהן כדי למשוך תשומת לב.",
+    "כיוון שבנות ציון מתפארות בשערן וביופיין, ה' יביא על ראשן פגיעה בעור ובשיער ויחשוף את ערוותן. תצוגת היופי תסתיים בריקנות ובאובדן.",
+    "ביום העונש יסיר ה' את קישוטי הרגליים, השביסים ואת התכשיטים דמויי חצאי הירח.",
+    "יוסרו גם שרשראות, טבעות או צמידים, וכיסויים דמויי צעיפים.",
+    "יוסרו הכובעים, האצעדות, הקישורים, בתי הנפש והלחשים — פריטי לבוש, תכשיטים ואביזרים שונים, שחלק מזיהויים אינו ודאי.",
+    "יוסרו הטבעות ונזמי האף.",
+    "יוסרו הבגדים, העטיפות, המטפחות והחריטים, שהם כנראה כיסים או תיקים.",
+    "יוסרו המראות הקטנות, הסדינים, המצנפות והצעיפים המקושטים.",
+    "במקום בושם יהיה ריקבון, במקום חגורה תהיה פגיעה, במקום תסרוקת תהיה קרחת, ובמקום חגורה יפה תהיה חגורת שק. כל אלה יבואו במקום היופי, ואפשר גם לפרש מונח אחד ככווייה.",
+    "אנשי ציון ייפלו בחרב, וגבורת שליטיה תיפול במלחמה.",
+    "פתחי ציון ייאנחו ויתאבלו, והעיר תתרוקן. ישיבתה לארץ מבטאת שפלות ואבל על התמוטטות תפארתן וגבורתן של יהודה וירושלים."
+  ],
+  "ai_explanation_en": [
+    "God removes every source of support and security from Jerusalem and Judah, including the supply of bread and water. Basic needs will not be available in sufficient measure, and even confidence in those supplies will disappear.",
+    "Society will lack heroes, warriors, judges, prophets, diviners, and elders—the people and offices needed for a stable social order.",
+    "Military leaders, respected people, advisers, and wise men will also disappear. These are different kinds of leaders, not necessarily executive officials, who will be taken away from the nation.",
+    "Instead of an established government, young people and prankish figures will rule. At best, the rulers will be seen as mischievous; in practice, there will be no worthy leadership.",
+    "People will push against or enslave one another, while the young and the contemptible will boast over the elderly and honored. This describes a government that is not truly functioning, with random people holding positions of leadership.",
+    "A person will try to persuade his brother or a member of his family to take leadership because he has suitable clothing, a uniform, or some status. He will ask him to deal with the obstacles facing the state, city, or neighborhood.",
+    "The person approached refuses to become a leader, saying that he has neither bread nor clothing in his home and lacks the ability or standing to lead. His refusal also reflects low self-confidence, hesitation, or avoidance of responsibility.",
+    "Jerusalem and Judah have fallen because their words and actions are directed toward defying God and provoking Him.",
+    "The people's sins are visible on their faces, and they are not ashamed of them or trying to conceal them, like Sodom. Thus they bring evil upon themselves and lose strength, faith, and a sense of purpose.",
+    "The righteous will eat the fruit of their deeds, meaning that they will benefit from the results of their good actions.",
+    "Woe to the wicked, because the consequence of his deeds will be prepared and carried out against him.",
+    "The leaders of the people behave like infants, and women rule over the nation. Those who should guide the people mislead them and ruin their ways.",
+    "God stands to bring a charge and to judge, in order to judge the nations and the world.",
+    "God will enter judgment with the elders and officials because they have destroyed His vineyard and withheld its gifts from the poor and the Levites. In addition, the property taken from the poor is found in their houses.",
+    "God asks the leaders why they oppress His people and crush the faces of the poor.",
+    "God rebukes the daughters of Zion for pride, display, and outward competition. They hold their heads high, paint and signal with their eyes, walk in small steps, and move their feet to attract attention.",
+    "Because the daughters of Zion take pride in their hair and beauty, God will bring injury upon their heads and hair and expose their nakedness. Their display of beauty will end in emptiness and loss.",
+    "On the day of punishment, God will remove the ornaments worn on the feet, the head coverings, and the jewelry shaped like crescents.",
+    "He will also remove necklaces, rings or bracelets, and coverings resembling scarves.",
+    "He will remove the headdresses, armlets, hair fastenings, and other ornaments or accessories, some of whose exact identification is uncertain.",
+    "The rings and nose rings will be removed.",
+    "The garments, wraps, shawls, and purses or bags will be removed.",
+    "The small mirrors, sheets or garments, turbans, and decorated veils will be removed.",
+    "Instead of perfume there will be decay; instead of a belt there will be injury; instead of a hairstyle there will be baldness; and instead of a fine belt there will be a sackcloth girdle. All these things will replace beauty, and one term may alternatively be understood as referring to a burn.",
+    "The men of Zion will fall by the sword, and the strength of its rulers will fall in war.",
+    "The entrances of Zion will sigh and mourn, and the city will be emptied. Its sitting on the ground expresses humiliation and mourning over the collapse of Judah and Jerusalem's splendor and strength."
+  ],
+  "perush": [
+    "ה' מסיר מירושלים ומיהודה כל משען וביטחון, ובכלל זה את אספקת הלחם והמים. לא יהיה די בצרכים הבסיסיים, וגם תחושת הביטחון תיעלם.",
+    "מן החברה ייעדרו גיבורים, אנשי מלחמה, שופטים, נביאים, קוסמים וזקנים — בעלי תפקידים ומעמד הנחוצים לקיומה התקין.",
+    "גם מנהיגים צבאיים, אנשים בעלי מעמד, יועצים וחכמים ייעלמו. אלה סוגים שונים של מנהיגים, ולא בהכרח בעלי תפקידים ביצועיים, שהעם יישלל מהם.",
+    "במקום שלטון מבוסס יינתן השלטון לצעירים ולתעלולים. במקרה הטוב, המושלים יהיו שובבים; למעשה, אין כאן הנהגה ראויה.",
+    "העם ידחוק או ישעבד איש את רעהו, והנער והנקלה יתרברבו על הזקן והנכבד. זהו תיאור של שלטון שאיננו מתפקד ושל אנשים אקראיים המחזיקים בעמדות הנהגה.",
+    "אדם ינסה לשכנע את אחיו או את בן משפחתו לקבל עליו את הנהגת החברה, מפני שיש לו לבוש, מדים או מעמד כלשהו. הוא יבקש ממנו לטפל במכשולי המדינה, העיר או השכונה.",
+    "האדם שאליו פונים מסרב להיות מנהיג, בטענה שאין בביתו לחם ושמלה ואין לו יכולת או מעמד. הסירוב מבטא גם חוסר ביטחון עצמי, הססנות או התחמקות מאחריות.",
+    "ירושלים ויהודה נפלו מפני שדיבוריהם ומעשיהם מכוונים להמרות את פי ה' ולהרגיזו.",
+    "חטאי העם ניכרים על פניהם, והם אינם מתביישים בהם או מנסים להסתירם, בדומה לסדום. לכן הם מביאים על עצמם רעה ומאבדים חוסן, אמונה וייעוד.",
+    "הצדיקים יאכלו את פרי מעשיהם, כלומר ייהנו מתוצאות מעשיהם הטובים.",
+    "לרשע יהיה רע, מפני שגמול מעשיו יוכן וייעשה לו.",
+    "מנהיגי העם מתנהגים כעוללים, והנשים מושלות בו. מי שאמורים להדריך את העם מטעים אותו ומקלקלים את דרכיו.",
+    "ה' ניצב לריב ולעמוד לדין, כדי לשפוט את העמים ואת העולם.",
+    "ה' יבוא במשפט עם זקני העם ושריו, מפני שכילו את כרמו ולא נתנו את מתנותיו לעניים וללוויים. נוסף על כך, גזלת העניים נמצאת בבתיהם.",
+    "ה' שואל את המנהיגים מדוע הם מדכאים את עמו ורומסים את פני העניים.",
+    "ה' מוכיח את בנות ציון על גאווה, התהדרות ותחרות חיצונית. הן מרימות את ראשן, צובעות ורומזות בעיניהן, הולכות בצעדים קטנים ומנענעות את רגליהן כדי למשוך תשומת לב.",
+    "כיוון שבנות ציון מתפארות בשערן וביופיין, ה' יביא על ראשן פגיעה בעור ובשיער ויחשוף את ערוותן. תצוגת היופי תסתיים בריקנות ובאובדן.",
+    "ביום העונש יסיר ה' את קישוטי הרגליים, השביסים ואת התכשיטים דמויי חצאי הירח.",
+    "יוסרו גם שרשראות, טבעות או צמידים, וכיסויים דמויי צעיפים.",
+    "יוסרו הכובעים, האצעדות, הקישורים, בתי הנפש והלחשים — פריטי לבוש, תכשיטים ואביזרים שונים, שחלק מזיהויים אינו ודאי.",
+    "יוסרו הטבעות ונזמי האף.",
+    "יוסרו הבגדים, העטיפות, המטפחות והחריטים, שהם כנראה כיסים או תיקים.",
+    "יוסרו המראות הקטנות, הסדינים, המצנפות והצעיפים המקושטים.",
+    "במקום בושם יהיה ריקבון, במקום חגורה תהיה פגיעה, במקום תסרוקת תהיה קרחת, ובמקום חגורה יפה תהיה חגורת שק. כל אלה יבואו במקום היופי, ואפשר גם לפרש מונח אחד ככווייה.",
+    "אנשי ציון ייפלו בחרב, וגבורת שליטיה תיפול במלחמה.",
+    "פתחי ציון ייאנחו ויתאבלו, והעיר תתרוקן. ישיבתה לארץ מבטאת שפלות ואבל על התמוטטות תפארתן וגבורתן של יהודה וירושלים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הסרת המשענות והתמוטטות ההנהגה",
+      "title_en": "The Removal of Supports and the Collapse of Leadership",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "ה' מסיר מירושלים ומיהודה את צורכי הקיום ואת כל סוגי המנהיגים. במקום הנהגה ראויה באים צעירים ותעלולים, ואנשים המסוגלים לקבל אחריות מסרבים לעשות זאת.",
+      "summary_en": "God removes from Jerusalem and Judah both basic necessities and every kind of capable leader. In place of proper leadership come youths and prankish rulers, while those who might accept responsibility refuse it.",
+      "image_prompt": "A symbolic biblical illustration of a city losing its supports: empty bread and water vessels, absent elders and leaders, young inexperienced rulers at the gates, and a hesitant man refusing a staff of authority; solemn, non-historical, no text."
+    },
+    {
+      "title": "החטא, הדין והעוול כלפי העניים",
+      "title_en": "Sin, Judgment, and Injustice Toward the Poor",
+      "start_verse": 8,
+      "end_verse": 15,
+      "summary": "נפילת ירושלים ויהודה נובעת מהמריית פי ה' ומחטאים שאינם מוסתרים עוד. ה' עומד לדין את המנהיגים על הטעיית העם, על חורבן כרמו ועל דיכוי העניים.",
+      "summary_en": "The fall of Jerusalem and Judah results from defiance of God and sins that are no longer concealed. God brings the leaders to judgment for misleading the people, destroying His vineyard, and oppressing the poor.",
+      "image_prompt": "A solemn courtroom-like biblical scene with God represented symbolically by radiant light, elders and officials standing before judgment, a damaged vineyard, and poor people facing injustice; respectful, non-historical, no text."
+    },
+    {
+      "title": "גאוות בנות ציון והסרת תכשיטיהן",
+      "title_en": "The Pride of the Daughters of Zion and the Removal of Their Ornaments",
+      "start_verse": 16,
+      "end_verse": 24,
+      "summary": "בנות ציון מתוארות כחברה הממוקדת ביופי, בקישוטים ובהפגנת תשומת לב. ביום העונש יוסרו כל אביזרי היופי, ובמקומם יבואו פגיעה, קרחת, שק וריקבון.",
+      "summary_en": "The daughters of Zion are portrayed as a society focused on beauty, adornment, and attracting attention. On the day of punishment, all their ornaments will be removed and replaced by injury, baldness, sackcloth, and decay.",
+      "image_prompt": "A symbolic biblical illustration showing ornate jewelry, garments, mirrors, veils, and cosmetics being scattered or removed, contrasted with sackcloth and emptiness; dignified, non-historical, no text."
+    },
+    {
+      "title": "נפילת הגברים ואבל ירושלים",
+      "title_en": "The Fall of the Men and the Mourning of Jerusalem",
+      "start_verse": 25,
+      "end_verse": 26,
+      "summary": "אנשי ציון ושליטיה ייפלו בחרב ובמלחמה. פתחי העיר ייאנחו ויתאבלו, וירושלים תתרוקן ותשב לארץ כסמל לשפלות ולאבל.",
+      "summary_en": "The men of Zion and its rulers will fall by the sword and in war. The city's entrances will sigh and mourn, and Jerusalem will be emptied and sit on the ground as a sign of humiliation and grief.",
+      "image_prompt": "A somber symbolic view of a deserted city gate, mourners sitting on the ground, fallen weapons, and a silent city in the distance; biblical atmosphere, non-graphic, non-historical, no text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 16.28,
+      "usfm": "ISA.3.1"
+    },
+    {
+      "start": 16.28,
+      "end": 23.54,
+      "usfm": "ISA.3.2"
+    },
+    {
+      "start": 23.54,
+      "end": 32.84,
+      "usfm": "ISA.3.3"
+    },
+    {
+      "start": 32.84,
+      "end": 38.3,
+      "usfm": "ISA.3.4"
+    },
+    {
+      "start": 38.3,
+      "end": 50.98,
+      "usfm": "ISA.3.5"
+    },
+    {
+      "start": 50.98,
+      "end": 60.88,
+      "usfm": "ISA.3.6"
+    },
+    {
+      "start": 60.88,
+      "end": 71.2,
+      "usfm": "ISA.3.7"
+    },
+    {
+      "start": 71.2,
+      "end": 81.52,
+      "usfm": "ISA.3.8"
+    },
+    {
+      "start": 81.52,
+      "end": 94.36,
+      "usfm": "ISA.3.9"
+    },
+    {
+      "start": 94.36,
+      "end": 101.2,
+      "usfm": "ISA.3.10"
+    },
+    {
+      "start": 101.2,
+      "end": 109.24,
+      "usfm": "ISA.3.11"
+    },
+    {
+      "start": 109.24,
+      "end": 122.92,
+      "usfm": "ISA.3.12"
+    },
+    {
+      "start": 122.92,
+      "end": 128.92,
+      "usfm": "ISA.3.13"
+    },
+    {
+      "start": 128.92,
+      "end": 140.74,
+      "usfm": "ISA.3.14"
+    },
+    {
+      "start": 140.74,
+      "end": 148.9,
+      "usfm": "ISA.3.15"
+    },
+    {
+      "start": 148.9,
+      "end": 162.9,
+      "usfm": "ISA.3.16"
+    },
+    {
+      "start": 162.9,
+      "end": 172.16,
+      "usfm": "ISA.3.17"
+    },
+    {
+      "start": 172.16,
+      "end": 183.62,
+      "usfm": "ISA.3.18"
+    },
+    {
+      "start": 183.62,
+      "end": 187.8,
+      "usfm": "ISA.3.19"
+    },
+    {
+      "start": 187.8,
+      "end": 194.88,
+      "usfm": "ISA.3.20"
+    },
+    {
+      "start": 194.88,
+      "end": 197.8,
+      "usfm": "ISA.3.21"
+    },
+    {
+      "start": 197.8,
+      "end": 205.28,
+      "usfm": "ISA.3.22"
+    },
+    {
+      "start": 205.28,
+      "end": 209.48,
+      "usfm": "ISA.3.23"
+    },
+    {
+      "start": 209.48,
+      "end": 227.1,
+      "usfm": "ISA.3.24"
+    },
+    {
+      "start": 227.1,
+      "end": 233.4,
+      "usfm": "ISA.3.25"
+    },
+    {
+      "start": 233.4,
+      "end": 247.64,
+      "usfm": "ISA.3.26"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    16.28,
+    23.54,
+    32.84,
+    38.3,
+    50.98,
+    60.88,
+    71.2,
+    81.52,
+    94.36,
+    101.2,
+    109.24,
+    122.92,
+    128.92,
+    140.74,
+    148.9,
+    162.9,
+    172.16,
+    183.62,
+    187.8,
+    194.88,
+    197.8,
+    205.28,
+    209.48,
+    227.1,
+    233.4,
+    247.64
+  ],
+  "times_en_usfm": [
+    "ISA.3.1",
+    "ISA.3.2",
+    "ISA.3.3",
+    "ISA.3.4",
+    "ISA.3.5",
+    "ISA.3.6",
+    "ISA.3.7",
+    "ISA.3.8",
+    "ISA.3.9",
+    "ISA.3.10",
+    "ISA.3.11",
+    "ISA.3.12",
+    "ISA.3.13",
+    "ISA.3.14",
+    "ISA.3.15",
+    "ISA.3.16",
+    "ISA.3.17",
+    "ISA.3.18",
+    "ISA.3.19",
+    "ISA.3.20",
+    "ISA.3.21",
+    "ISA.3.22",
+    "ISA.3.23",
+    "ISA.3.24",
+    "ISA.3.25",
+    "ISA.3.26"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בתחילת הפרק מתואר שה' מסיר מירושלים ומיהודה לא רק מנהיגים, אלא גם את \"משען הלחם\" ואת \"משען המים\" — כלומר את צורכי הקיום הבסיסיים.",
+      "text_he": "הידעת? בתחילת הפרק מתואר שה' מסיר מירושלים ומיהודה לא רק מנהיגים, אלא גם את \"משען הלחם\" ואת \"משען המים\" — כלומר את צורכי הקיום הבסיסיים.",
+      "text_en": "Did you know? At the beginning of the chapter, the Lord is described as removing from Jerusalem and Judah not only their leaders, but also their “support of bread” and “support of water”—that is, their basic necessities."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? רשימת המנהיגים שה' עתיד להסיר כוללת גיבור, איש מלחמה, שופט, נביא, קוסם וזקן — מגוון רחב של בעלי תפקידים וסמכות.",
+      "text_he": "הידעת? רשימת המנהיגים שה' עתיד להסיר כוללת גיבור, איש מלחמה, שופט, נביא, קוסם וזקן — מגוון רחב של בעלי תפקידים וסמכות.",
+      "text_en": "Did you know? The list of leaders the Lord will remove includes a mighty man, a warrior, a judge, a prophet, a diviner, and an elder—a wide range of people with authority and responsibility."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? ישעיהו מתאר מצב של התפרקות הנהגה: במקום מנהיגים מנוסים יינתנו לעם \"נערים\" לשליטים, ו\"תעלולים\" ימשלו בו.",
+      "text_he": "הידעת? ישעיהו מתאר מצב של התפרקות הנהגה: במקום מנהיגים מנוסים יינתנו לעם \"נערים\" לשליטים, ו\"תעלולים\" ימשלו בו.",
+      "text_en": "Did you know? Isaiah describes the collapse of leadership: instead of experienced leaders, “boys” will rule the people, and “children” will govern them."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? כאשר איש מבקש מאחיו להיות קצין ולשאת באחריות, הוא מסרב בטענה שבביתו אין אפילו לחם ושמלה — ביטוי למחסור ולחוסר רצון להנהיג.",
+      "text_he": "הידעת? כאשר איש מבקש מאחיו להיות קצין ולשאת באחריות, הוא מסרב בטענה שבביתו אין אפילו לחם ושמלה — ביטוי למחסור ולחוסר רצון להנהיג.",
+      "text_en": "Did you know? When one man asks his brother to become a leader and take responsibility, he refuses, saying that his household has neither bread nor clothing—an expression of poverty and unwillingness to lead."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? הפרק קושר במפורש את נפילת ירושלים ויהודה ללשונם ולמעשיהם, המתוארים כהמריה כלפי ה' וכפגיעה בכבודו.",
+      "text_he": "הידעת? הפרק קושר במפורש את נפילת ירושלים ויהודה ללשונם ולמעשיהם, המתוארים כהמריה כלפי ה' וכפגיעה בכבודו.",
+      "text_en": "Did you know? The chapter explicitly connects the fall of Jerusalem and Judah with their words and deeds, which are described as rebellion against the Lord and an insult to his glory."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? בפרק מופיע עיקרון של גמול אישי: לצדיק נאמר שטוב לו ושיאכל מפרי מעשיו, ואילו לרשע צפוי גמול בהתאם למעשיו.",
+      "text_he": "הידעת? בפרק מופיע עיקרון של גמול אישי: לצדיק נאמר שטוב לו ושיאכל מפרי מעשיו, ואילו לרשע צפוי גמול בהתאם למעשיו.",
+      "text_en": "Did you know? The chapter presents a principle of personal retribution: the righteous are told that it will go well with them and that they will enjoy the fruit of their deeds, while the wicked will receive what their actions deserve."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? ה' מתואר כמי שניצב לריב וכעומד לדין עמים; המשפט מופנה במיוחד אל זקני העם ושריו.",
+      "text_he": "הידעת? ה' מתואר כמי שניצב לריב וכעומד לדין עמים; המשפט מופנה במיוחד אל זקני העם ושריו.",
+      "text_en": "Did you know? The Lord is described as standing to contend and ready to judge the peoples; the judgment is directed especially at the elders and leaders of the people."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? מנהיגי העם מואשמים בכך שבערו את הכרם — תמונה סמלית של פגיעה בעם — ובכך שגזלת העני נמצאת בבתיהם.",
+      "text_he": "הידעת? מנהיגי העם מואשמים בכך שבערו את הכרם — תמונה סמלית של פגיעה בעם — ובכך שגזלת העני נמצאת בבתיהם.",
+      "text_en": "Did you know? The leaders of the people are accused of devouring the vineyard—a symbolic image of harming the people—and of keeping what they have taken from the poor in their own houses."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? ביקורת הפרק על בנות ציון מתמקדת בגאווה, בהליכתן המתרברבת, במבטיהן ובהתנהגות שנועדה למשוך תשומת לב.",
+      "text_he": "הידעת? ביקורת הפרק על בנות ציון מתמקדת בגאווה, בהליכתן המתרברבת, במבטיהן ובהתנהגות שנועדה למשוך תשומת לב.",
+      "text_en": "Did you know? The chapter’s criticism of the daughters of Zion focuses on their pride, their arrogant walk, their glances, and their behavior intended to attract attention."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? תיאור העונש כולל הסרה של מגוון גדול מאוד של תכשיטים, בגדים ואביזרי יופי; במקום הבושם, החגורה והיופי יבואו ריקבון, קרחה, שק ובושה.",
+      "text_he": "הידעת? תיאור העונש כולל הסרה של מגוון גדול מאוד של תכשיטים, בגדים ואביזרי יופי; במקום הבושם, החגורה והיופי יבואו ריקבון, קרחה, שק ובושה.",
+      "text_en": "Did you know? The punishment includes the removal of a very wide range of jewelry, clothing, and beauty accessories; instead of perfume, belts, and beauty there will be decay, baldness, sackcloth, and shame."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? סיום הפרק מתאר את נפילת אנשי העיר בחרב ובמלחמה, ואת פתחי ירושלים כשהם אבלים וריקים, כשהעיר יושבת לארץ.",
+      "text_he": "הידעת? סיום הפרק מתאר את נפילת אנשי העיר בחרב ובמלחמה, ואת פתחי ירושלים כשהם אבלים וריקים, כשהעיר יושבת לארץ.",
+      "text_en": "Did you know? The chapter ends by describing the city’s men falling by the sword in battle, and Jerusalem’s entrances mourning and deserted as the city sits humbled to the ground."
+    }
+  ]
+}

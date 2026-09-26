@@ -1,0 +1,607 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 16,
+  "title": "מלכים א פרק 16",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a16.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a16.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/16-b9bba739e962d44fc27246d1a782efb2.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי דְבַר-יְהוָה אֶל-יֵהוּא בֶן-חֲנָנִי, עַל-בַּעְשָׁא לֵאמֹר.",
+    "יַעַן, אֲשֶׁר הֲרִימֹתִיךָ מִן-הֶעָפָר, וָאֶתֶּנְךָ נָגִיד, עַל עַמִּי יִשְׂרָאֵל; וַתֵּלֶךְ בְּדֶרֶךְ יָרָבְעָם, וַתַּחֲטִא אֶת-עַמִּי יִשְׂרָאֵל, לְהַכְעִיסֵנִי, בְּחַטֹּאתָם.",
+    "הִנְנִי מַבְעִיר אַחֲרֵי בַעְשָׁא, וְאַחֲרֵי בֵיתוֹ; וְנָתַתִּי, אֶת-בֵּיתְךָ, כְּבֵית, יָרָבְעָם בֶּן-נְבָט.",
+    "הַמֵּת לְבַעְשָׁא בָּעִיר, יֹאכְלוּ הַכְּלָבִים; וְהַמֵּת לוֹ בַּשָּׂדֶה, יֹאכְלוּ עוֹף הַשָּׁמָיִם.",
+    "וְיֶתֶר דִּבְרֵי בַעְשָׁא וַאֲשֶׁר עָשָׂה, וּגְבוּרָתוֹ: הֲלֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב בַּעְשָׁא עִם-אֲבֹתָיו, וַיִּקָּבֵר בְּתִרְצָה; וַיִּמְלֹךְ אֵלָה בְנוֹ, תַּחְתָּיו.",
+    "וְגַם בְּיַד-יֵהוּא בֶן-חֲנָנִי הַנָּבִיא, דְּבַר-יְהוָה הָיָה אֶל-בַּעְשָׁא וְאֶל-בֵּיתוֹ וְעַל כָּל-הָרָעָה אֲשֶׁר-עָשָׂה בְּעֵינֵי יְהוָה לְהַכְעִיסוֹ בְּמַעֲשֵׂה יָדָיו, לִהְיוֹת, כְּבֵית יָרָבְעָם; וְעַל אֲשֶׁר-הִכָּה, אֹתוֹ.",
+    "בִּשְׁנַת עֶשְׂרִים וָשֵׁשׁ שָׁנָה, לְאָסָא מֶלֶךְ יְהוּדָה: מָלַךְ אֵלָה בֶן-בַּעְשָׁא עַל-יִשְׂרָאֵל, בְּתִרְצָה--שְׁנָתָיִם.",
+    "וַיִּקְשֹׁר עָלָיו עַבְדּוֹ זִמְרִי, שַׂר מַחֲצִית הָרָכֶב; וְהוּא בְתִרְצָה, שֹׁתֶה שִׁכּוֹר, בֵּית אַרְצָא, אֲשֶׁר עַל-הַבַּיִת בְּתִרְצָה.",
+    "וַיָּבֹא זִמְרִי, וַיַּכֵּהוּ וַיְמִיתֵהוּ, בִּשְׁנַת עֶשְׂרִים וָשֶׁבַע, לְאָסָא מֶלֶךְ יְהוּדָה; וַיִּמְלֹךְ, תַּחְתָּיו.",
+    "וַיְהִי בְמָלְכוֹ כְּשִׁבְתּוֹ עַל-כִּסְאוֹ, הִכָּה אֶת-כָּל-בֵּית בַּעְשָׁא--לֹא-הִשְׁאִיר לוֹ, מַשְׁתִּין בְּקִיר; וְגֹאֲלָיו, וְרֵעֵהוּ.",
+    "וַיַּשְׁמֵד זִמְרִי, אֵת כָּל-בֵּית בַּעְשָׁא, כִּדְבַר יְהוָה אֲשֶׁר דִּבֶּר אֶל-בַּעְשָׁא, בְּיַד יֵהוּא הַנָּבִיא.",
+    "אֶל כָּל-חַטֹּאות בַּעְשָׁא, וְחַטֹּאות אֵלָה בְנוֹ--אֲשֶׁר חָטְאוּ, וַאֲשֶׁר הֶחֱטִיאוּ אֶת-יִשְׂרָאֵל, לְהַכְעִיס אֶת-יְהוָה אֱלֹהֵי יִשְׂרָאֵל, בְּהַבְלֵיהֶם.",
+    "וְיֶתֶר דִּבְרֵי אֵלָה, וְכָל-אֲשֶׁר עָשָׂה: הֲלוֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "בִּשְׁנַת עֶשְׂרִים וָשֶׁבַע שָׁנָה, לְאָסָא מֶלֶךְ יְהוּדָה, מָלַךְ זִמְרִי שִׁבְעַת יָמִים, בְּתִרְצָה; וְהָעָם חֹנִים, עַל-גִּבְּתוֹן אֲשֶׁר לַפְּלִשְׁתִּים.",
+    "וַיִּשְׁמַע הָעָם, הַחֹנִים לֵאמֹר, קָשַׁר זִמְרִי, וְגַם הִכָּה אֶת-הַמֶּלֶךְ; וַיַּמְלִכוּ כָל-יִשְׂרָאֵל אֶת-עָמְרִי שַׂר-צָבָא עַל-יִשְׂרָאֵל, בַּיּוֹם הַהוּא--בַּמַּחֲנֶה.",
+    "וַיַּעֲלֶה עָמְרִי וְכָל-יִשְׂרָאֵל עִמּוֹ, מִגִּבְּתוֹן; וַיָּצֻרוּ, עַל-תִּרְצָה.",
+    "וַיְהִי כִּרְאוֹת זִמְרִי, כִּי-נִלְכְּדָה הָעִיר, וַיָּבֹא, אֶל-אַרְמוֹן בֵּית-הַמֶּלֶךְ; וַיִּשְׂרֹף עָלָיו אֶת-בֵּית-מֶלֶךְ בָּאֵשׁ, וַיָּמֹת.",
+    "עַל-חַטֹּאתָיו אֲשֶׁר חָטָא, לַעֲשׂוֹת הָרַע בְּעֵינֵי יְהוָה--לָלֶכֶת, בְּדֶרֶךְ יָרָבְעָם, וּבְחַטָּאתוֹ אֲשֶׁר עָשָׂה, לְהַחֲטִיא אֶת-יִשְׂרָאֵל.",
+    "וְיֶתֶר דִּבְרֵי זִמְרִי, וְקִשְׁרוֹ אֲשֶׁר קָשָׁר: הֲלֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "אָז יֵחָלֵק הָעָם יִשְׂרָאֵל, לַחֵצִי: חֲצִי הָעָם הָיָה אַחֲרֵי תִבְנִי בֶן-גִּינַת, לְהַמְלִיכוֹ, וְהַחֲצִי, אַחֲרֵי עָמְרִי.",
+    "וַיֶּחֱזַק הָעָם, אֲשֶׁר אַחֲרֵי עָמְרִי, אֶת-הָעָם, אֲשֶׁר אַחֲרֵי תִּבְנִי בֶן-גִּינַת; וַיָּמָת תִּבְנִי, וַיִּמְלֹךְ עָמְרִי.",
+    "בִּשְׁנַת שְׁלֹשִׁים וְאַחַת שָׁנָה, לְאָסָא מֶלֶךְ יְהוּדָה, מָלַךְ עָמְרִי עַל-יִשְׂרָאֵל, שְׁתֵּים עֶשְׂרֵה שָׁנָה; בְּתִרְצָה, מָלַךְ שֵׁשׁ-שָׁנִים.",
+    "וַיִּקֶן אֶת-הָהָר שֹׁמְרוֹן, מֵאֶת שֶׁמֶר--בְּכִכְּרַיִם כָּסֶף; וַיִּבֶן, אֶת-הָהָר, וַיִּקְרָא אֶת-שֵׁם הָעִיר אֲשֶׁר בָּנָה, עַל שֶׁם-שֶׁמֶר אֲדֹנֵי הָהָר שֹׁמְרוֹן.",
+    "וַיַּעֲשֶׂה עָמְרִי הָרַע, בְּעֵינֵי יְהוָה; וַיָּרַע, מִכֹּל אֲשֶׁר לְפָנָיו.",
+    "וַיֵּלֶךְ, בְּכָל-דֶּרֶךְ יָרָבְעָם בֶּן-נְבָט, ובחטאתיו וּבְחַטָּאתוֹ , אֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל: לְהַכְעִיס, אֶת-יְהוָה אֱלֹהֵי יִשְׂרָאֵל--בְּהַבְלֵיהֶם.",
+    "וְיֶתֶר דִּבְרֵי עָמְרִי אֲשֶׁר עָשָׂה, וּגְבוּרָתוֹ אֲשֶׁר עָשָׂה: הֲלֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב עָמְרִי עִם-אֲבֹתָיו, וַיִּקָּבֵר בְּשֹׁמְרוֹן; וַיִּמְלֹךְ אַחְאָב בְּנוֹ, תַּחְתָּיו.",
+    "וְאַחְאָב בֶּן-עָמְרִי, מָלַךְ עַל-יִשְׂרָאֵל, בִּשְׁנַת שְׁלֹשִׁים וּשְׁמֹנֶה שָׁנָה, לְאָסָא מֶלֶךְ יְהוּדָה; וַיִּמְלֹךְ אַחְאָב בֶּן-עָמְרִי עַל-יִשְׂרָאֵל, בְּשֹׁמְרוֹן, עֶשְׂרִים וּשְׁתַּיִם, שָׁנָה.",
+    "וַיַּעַשׂ אַחְאָב בֶּן-עָמְרִי הָרַע, בְּעֵינֵי יְהוָה--מִכֹּל, אֲשֶׁר לְפָנָיו.",
+    "וַיְהִי הֲנָקֵל לֶכְתּוֹ, בְּחַטֹּאות יָרָבְעָם בֶּן-נְבָט; וַיִּקַּח אִשָּׁה אֶת-אִיזֶבֶל, בַּת-אֶתְבַּעַל מֶלֶךְ צִידֹנִים, וַיֵּלֶךְ וַיַּעֲבֹד אֶת-הַבַּעַל, וַיִּשְׁתַּחוּ לוֹ.",
+    "וַיָּקֶם מִזְבֵּחַ, לַבָּעַל, בֵּית הַבַּעַל, אֲשֶׁר בָּנָה בְּשֹׁמְרוֹן.",
+    "וַיַּעַשׂ אַחְאָב, אֶת-הָאֲשֵׁרָה; וַיּוֹסֶף אַחְאָב לַעֲשׂוֹת, לְהַכְעִיס אֶת-יְהוָה אֱלֹהֵי יִשְׂרָאֵל, מִכֹּל מַלְכֵי יִשְׂרָאֵל, אֲשֶׁר הָיוּ לְפָנָיו.",
+    "בְּיָמָיו בָּנָה חִיאֵל, בֵּית הָאֱלִי--אֶת-יְרִיחֹה: בַּאֲבִירָם בְּכֹרוֹ יִסְּדָהּ, ובשגיב וּבִשְׂגוּב צְעִירוֹ הִצִּיב דְּלָתֶיהָ, כִּדְבַר יְהוָה, אֲשֶׁר דִּבֶּר בְּיַד יְהוֹשֻׁעַ בִּן-נוּן."
+  ],
+  "english": [
+    "Then the word of the Lord came to Jehu the son of Hanani against Baasha, saying,",
+    "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;",
+    "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat.",
+    "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.",
+    "Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?",
+    "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.",
+    "And also by the hand of the prophet Jehu the son of Hanani came the word of the Lord against Baasha, and against his house, even for all the evil that he did in the sight of the Lord, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.",
+    "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.",
+    "And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah.",
+    "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.",
+    "And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.",
+    "Thus did Zimri destroy all the house of Baasha, according to the word of the Lord, which he spake against Baasha by Jehu the prophet.",
+    "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the Lord God of Israel to anger with their vanities.",
+    "Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?",
+    "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.",
+    "And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.",
+    "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.",
+    "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died.",
+    "For his sins which he sinned in doing evil in the sight of the Lord, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.",
+    "Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?",
+    "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.",
+    "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.",
+    "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.",
+    "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.",
+    "But Omri wrought evil in the eyes of the Lord, and did worse than all that were before him.",
+    "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the Lord God of Israel to anger with their vanities.",
+    "Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?",
+    "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.",
+    "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.",
+    "And Ahab the son of Omri did evil in the sight of the Lord above all that were before him.",
+    "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.",
+    "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.",
+    "And Ahab made a grove; and Ahab did more to provoke the Lord God of Israel to anger than all the kings of Israel that were before him.",
+    "In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the Lord, which he spake by Joshua the son of Nun."
+  ],
+  "steinsaltz": [
+    "וַיְהִי דְבַר־ה' אֶל־יֵהוּא בֶן־חֲנָנִי, אחד הנביאים שלא ידוע עליהם דבר מלבד שמם, עַל־בַּעְשָׁא לֵאמֹר׃",
+    "יַעַן אֲשֶׁר הֲרִימֹתִיךָ מִן־הֶעָפָר, שהרי קודם היית אדם פשוט וָאֶתֶּנְךָ נָגִיד, שליט עַל עַמִּי יִשְׂרָאֵל. ואף על פי כן – וַתֵּלֶךְ בְּדֶרֶךְ יָרָבְעָם, וַתַּחֲטִא אֶת־עַמִּי יִשְׂרָאֵל לְהַכְעִיסֵנִי בְּחַטֹּאתָם,",
+    "הִנְנִי מַבְעִיר, מבער, משמיד אַחֲרֵי בַעְשָׁא וְאַחֲרֵי בֵיתוֹ, וְנָתַתִּי אֶת־בֵּיתְךָ כְּבֵית יָרָבְעָם בֶּן־נְבָט. משפחתך תִּכלה ותושמד, כשם שעשית אתה לו.",
+    "את הַמֵּת לְבַעְשָׁא בָּעִיר – יֹאכְלוּ הַכְּלָבִים, וְהַמֵּת לוֹ בַּשָּׂדֶה, ששם אין כלבים – יֹאכְלוּ עוֹף הַשָּׁמָיִם, העופות הטורפים.",
+    "וְיֶתֶר דִּבְרֵי בַעְשָׁא וַאֲשֶׁר עָשָׂה וּגְבוּרָתוֹ, שכן היה איש מלחמה, הֲלֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב בַּעְשָׁא עִם־אֲבֹתָיו וַיִּקָּבֵר בְּתִרְצָה. וַיִּמְלֹךְ אֵלָה בְנוֹ תַּחְתָּיו.",
+    "וְגַם, ועדיין בְּיַד יֵהוּא בֶן־חֲנָנִי הַנָּבִיא דְּבַר־ה' הָיָה אֶל־בַּעְשָׁא וְאֶל־בֵּיתוֹ, וְעַל כָּל־הָרָעָה אֲשֶׁר־עָשָׂה בְּעֵינֵי ה' לְהַכְעִיסוֹ בְּמַעֲשֵׂה יָדָיו, לִהְיוֹת ביתו כְּבֵית יָרָבְעָם, וְעַל אֲשֶׁר־הִכָּה אֹתוֹ, את בנו של ירבעם. בעשא בגד במלכו ורצח אותו. אילו הביא עמו תמורה בהנהגת העם ובמצבו הרוחני, היה הדבר מצדיק פעולה זו. כיוון שהמשיך בדרכי ירבעם, שאת בנו רצח, ולא חולל שום שינוי, נחשב לו מעשה המרידה שלו לחטא. נבואת הפורענות הזאת ריחפה על בית בעשא כאשר עלה אלה לשלטון.",
+    "בִּשְׁנַת עֶשְׂרִים וָשֵׁשׁ שָׁנָה לְאָסָא מֶלֶךְ יְהוּדָה מָלַךְ אֵלָה בֶן־בַּעְשָׁא עַל־יִשְׂרָאֵל בְּתִרְצָה שְׁנָתָיִם.",
+    "וַיִּקְשֹׁר עָלָיו עַבְדּוֹ זִמְרִי. בחיי בעשא, שהיה איש צבא מוצלח, לא התעורר מרד, אבל כשעלה בנו למלוכה התארגן נגדו מרי בראשות זמרי, השַׂר המופקד על מַחֲצִית יחידות הָרָכֶב, הכוח המקביל לגדודי הטנקים של ימינו, שהייתה לו פונקציה צבאית דומה. זמרי היה אפוא מפקד בדרגה גבוהה. וְהוּא – אלה, היה אז בְתִרְצָה, שֹׁתֶה שִׁכּוֹר בבֵיתו של אַרְצָא, אֲשֶׁר עַל־הַבַּיִת, פקיד שהיה ממונה על בית המלך שבְּתִרְצָה.",
+    "וַיָּבֹא זִמְרִי וַיַּכֵּהוּ וַיְמִיתֵהוּ בִּשְׁנַת עֶשְׂרִים וָשֶׁבַע לְאָסָא מֶלֶךְ יְהוּדָה, וַיִּמְלֹךְ תַּחְתָּיו.",
+    "וַיְהִי בְמָלְכוֹ, כְּשִׁבְתּוֹ עַל־כִּסְאוֹ, הִכָּה אֶת־כָּל־בֵּית בַּעְשָׁא. מלכי ישראל הקפידו לחסל את בית המלוכה הקודם. לֹא־הִשְׁאִיר לוֹ מַשְׁתִּין בְּקִיר, בן משפחה זכר, וְלא השאיר את גֹאֲלָיו, קרובי משפחתו, וְאף לא את רֵעֵהוּ, אוהביו.",
+    "וַיַּשְׁמֵד זִמְרִי אֵת כָּל־בֵּית בַּעְשָׁא, כִּדְבַר ה' אֲשֶׁר דִּבֶּר אֶל־בַּעְשָׁא בְּיַד יֵהוּא הַנָּבִיא. אף הוא, כבעשא, לא עשה זאת מתוך הרצון לציית לנבואה אלא מסיבות פוליטיות, אבל במעשיו התממשו דברי הנביא בדיוק. בְּיַד יֵהוּא הַנָּבִיא.",
+    "אֶל, על כָּל־חַטֹּאות בַּעְשָׁא וְחַטֹּאות אֵלָה בְנוֹ אֲשֶׁר חָטְאוּ וַאֲשֶׁר הֶחֱטִיאוּ אֶת־יִשְׂרָאֵל, לְהַכְעִיס אֶת־ה' אֱלֹהֵי יִשְׂרָאֵל בְּהַבְלֵיהֶם, בהליכה אחרי דברים שאין בהם ממש, באמונות תפלות ולא בעבודה בעלת משקל וערך.",
+    "וְיֶתֶר דִּבְרֵי אֵלָה וְכָל־אֲשֶׁר עָשָׂה הֲלוֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל.",
+    "בִּשְׁנַת עֶשְׂרִים וָשֶׁבַע שָׁנָה לְאָסָא מֶלֶךְ יְהוּדָה מָלַךְ זִמְרִי שִׁבְעַת יָמִים בלבד בְּתִרְצָה, העיר שבה מרד. מכאן שגם אלָה לא מלך שנתיים שלמות, שהרי הוא עלה לשלטון בשנתו העשרים ושש של אסא. וְרוב הָעָם היו חֹנִים באותו זמן עַל־גִּבְּתוֹן אֲשֶׁר לַפְּלִשְׁתִּים. הניסיון לכבוש את גבתון, שאולי נחשבה מפגע לאומי, נמשך עוד מימי נדב בן ירבעם.",
+    "וַיִּשְׁמַע הָעָם, אנשי הצבא הַחֹנִים שם לֵאמֹר: קָשַׁר זִמְרִי, וְגַם הִכָּה אֶת־הַמֶּלֶךְ. וַיַּמְלִכוּ כָל־יִשְׂרָאֵל אֶת־עָמְרִי, שַׂר־צָבָא, שכנראה פיקד על המחנה שליד גבתון, עַל־יִשְׂרָאֵל בַּיּוֹם הַהוּא בַּמַּחֲנֶה. במינוי מפקדם למלך חשבו כי הם מבטאים את רצון הצבא. לזמרי המורד, לעומת זאת, לא הייתה תשתית תומכת.",
+    "וַיַּעֲלֶה עָמְרִי וְכָל־יִשְׂרָאֵל, אנשי הצבא שצרו על הפלשתים עִמּוֹ מִגִּבְּתוֹן, וַיָּצֻרוּ עַל־תִּרְצָה, שבה ישב המלך החדש.",
+    "וַיְהִי כִּרְאוֹת זִמְרִי כִּי־נִלְכְּדָה הָעִיר, הוא הבין שאין לו סיכוי לעמוד בפני צבא עמרי, וַיָּבֹא אֶל־אַרְמוֹן בֵּית־הַמֶּלֶךְ, וַיִּשְׂרֹף עָלָיו אֶת־בֵּית־המֶלֶךְ בָּאֵשׁ וַיָּמֹת. הוא התאבד כדי לסיים את חייו באופן דרמטי ומרשים.",
+    "בכך הוא נענש עַל חַטֹּאתָיו אֲשֶׁר חָטָא לַעֲשׂוֹת הָרַע בְּעֵינֵי ה', לָלֶכֶת בְּדֶרֶךְ יָרָבְעָם וּבְחַטָּאתוֹ אֲשֶׁר עָשָׂה לְהַחֲטִיא אֶת־יִשְׂרָאֵל. מלבד עצם המרד, בימיו הקצרים לא ביטא זמרי כל כוונה לסטות מדרכו של ירבעם.",
+    "וְיֶתֶר דִּבְרֵי זִמְרִי וְקִשְׁרוֹ אֲשֶׁר קָשָׁר, הֲלֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל. בהמשך הספר ישמש זמרי משל ודוגמא למורד שכל הצלחתו הייתה בהריגת המלך הקודם.",
+    "אָז יֵחָלֵק הָעָם יִשְׂרָאֵל לַחֵצִי: חֲצִי הָעָם הָיָה אַחֲרֵי תִבְנִי בֶן־גִּינַת לְהַמְלִיכוֹ, וְהַחֲצִי השני אַחֲרֵי עָמְרִי.",
+    "המחלוקת על השלטון גרמה למלחמה בין הצדדים. וַיֶּחֱזַק הָעָם אֲשֶׁר אַחֲרֵי עָמְרִי, הם התגברו וניצחו אֶת־הָעָם אֲשֶׁר אַחֲרֵי תִּבְנִי בֶן־גִּינַת. וַיָּמָת תִּבְנִי, כנראה בתוך המלחמה. וַיִּמְלֹךְ עָמְרִי על ישראל.",
+    "בִּשְׁנַת שְׁלֹשִׁים וְאַחַת שָׁנָה לְאָסָא מֶלֶךְ יְהוּדָה מָלַךְ עָמְרִי עַל־יִשְׂרָאֵל שְׁתֵּים עֶשְׂרֵה שָׁנָה. המלחמה בין תומכיו של עמרי לתומכי תבני ארכה כארבע שנים. מן ההמשך עולה ששנות מלכותו של עמרי התחילו להימנות עוד קודם שניצח את תבני, ומתוכָן בְּתִרְצָה, עיר הבירה, מָלַךְ שֵׁשׁ־שָׁנִים.",
+    "עד כה המשיכו המלכים את מסורת ירבעם ומשלו זה אחר זה באותו מקום. עמרי החליט לבטא את מלכותו גם בהקמת בירה חדשה: וַיִּקֶן אֶת־הָהָר שֹׁמְרוֹן מֵאֶת שֶׁמֶר בְּכִכְּרַיִם כָּסֶף. וַיִּבֶן עמרי אֶת־הָהָר, וַיִּקְרָא אֶת־שֵׁם הָעִיר אֲשֶׁר בָּנָה – עַל שֶׁם־שֶׁמֶר, אֲדֹנֵי הָהָר קודם לכן – שֹׁמְרוֹן. מפעלו של עמרי נחל הצלחה גדולה, והעיר שומרון עמדה על תלהּ שנים רבות. עמרי היה איש עז וחזק הן בתור שר צבא והן בתור מלך. אולי התיימר לבנות מלכות שתתחרה בגודלה במלכות שלמה, ולכן בנה גם קשרי חוץ.",
+    "וַיַּעֲשֶׂה עָמְרִי הָרַע בְּעֵינֵי ה', וַיָּרַע יותר מִכֹּל אֲשֶׁר היו לְפָנָיו.",
+    "וַיֵּלֶךְ בְּכָל־דֶּרֶךְ יָרָבְעָם בֶּן־נְבָט וּבְחַטָּאתוֹ אֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל, לְהַכְעִיס אֶת־ה' אֱלֹהֵי יִשְׂרָאֵל בְּהַבְלֵיהֶם.",
+    "וְיֶתֶר דִּבְרֵי עָמְרִי אֲשֶׁר עָשָׂה וּגְבוּרָתוֹ אֲשֶׁר עָשָׂה, הֲלֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב עָמְרִי עִם־אֲבֹתָיו, וַיִּקָּבֵר בְּשֹׁמְרוֹן. וַיִּמְלֹךְ אַחְאָב בְּנוֹ תַּחְתָּיו.",
+    "וְאַחְאָב בֶּן־עָמְרִי מָלַךְ עַל־יִשְׂרָאֵל בִּשְׁנַת שְׁלֹשִׁים וּשְׁמֹנֶה שָׁנָה לְאָסָא מֶלֶךְ יְהוּדָה. וַיִּמְלֹךְ אַחְאָב בֶּן־עָמְרִי עַל־יִשְׂרָאֵל בְּשֹׁמְרוֹן, שנעשתה עיר הבירה הרשמית, עֶשְׂרִים וּשְׁתַּיִם שָׁנָה.",
+    "וַיַּעַשׂ אַחְאָב בֶּן־עָמְרִי הָרַע בְּעֵינֵי ה' יותר מִכֹּל אֲשֶׁר עשו המלכים לְפָנָיו.",
+    "וַיְהִי הֲנָקֵל לֶכְתּוֹ בְּחַטֹּאות יָרָבְעָם בֶּן־נְבָט. קלים היו בעיניו חטאי ירבעם, והוא הוסיף עליהם – וַיִּקַּח אִשָּׁה אֶת־אִיזֶבֶל בַּת־אֶתְבַּעַל מֶלֶךְ צִידֹנִים. נישואין עם בת מלך חשוב השוכן סמוך לגבול ישראל מעידים על כך שאחאב לא הסתפק באחיזה בממלכתו, אלא ניסה לבסס גם את יחסי החוץ שלה. אולם יחסי החוץ הללו השפיעו על המתרחש בתוך המדינה: וַיֵּלֶךְ אחאב וַיַּעֲבֹד אֶת־הַבַּעַל וַיִּשְׁתַּחוּ לוֹ. אשתו דבקה בבעל, ועם נישואיו אלה הביא אחאב לארץ את פולחן העבודה הזרה הזה. ירבעם בן נבט הציג בשעתו את כל מעשיו כחלק מדת ישראל. גם ההולכים בעקבותיו ראו עצמם פלג לגיטימי בעם העובד לאלוקי ישראל. אמנם הם חגגו במקום ובזמן אחר, אך בעיקרו של דבר הרגישו שייכים לעם ולערכיו. אחאב, לעומתם, אימץ לא רק מנהגים חדשים אלא פולחן המכוון לאל זר.",
+    "וַיָּקֶם מִזְבֵּחַ לַבָּעַל בתוך בֵּית הַבַּעַל אֲשֶׁר בָּנָה בְּשֹׁמְרוֹן. הוא לא ראה בעבודת הבעל פולחן עראי וצדדי, אלא בנה בעבורו 'מקדש' קטן בתוך עיר הבירה.",
+    "וַיַּעַשׂ אַחְאָב אֶת־הָאֲשֵׁרָה, וַיּוֹסֶף אַחְאָב לַעֲשׂוֹת את הרע ולְהַכְעִיס אֶת־ה' אֱלֹהֵי יִשְׂרָאֵל מִכֹּל מַלְכֵי יִשְׂרָאֵל אֲשֶׁר הָיוּ לְפָנָיו.",
+    "בְּיָמָיו בָּנָה חִיאֵל בֵּית הָאֱלִי, שמבית-אל אֶת־יְרִיחֹה, העיר יריחו בקצה גבולה של ממלכת ישראל. ומזמנו של יהושע היא נשארה חרבה. יהושע גזר שהעיר לא תיבנה עוד לעולם, וקילל את מי שיבנה אותה במות כל בניו. חרף הקללה עשה זאת חיאל עתה, והקללה התקיימה בו: בַּאֲבִירָם בְּכֹרוֹ יִסְּדָהּ. כשהוא ייסד את העיר מת אבירם בנו הבכור, וּבִשְׂגוּב צְעִירוֹ הִצִּיב דְּלָתֶיהָ. כשגמרו לבנות את חומת העיר מת צעיר בניו כִּדְבַר ה' אֲשֶׁר דִּבֶּר בְּיַד יְהוֹשֻׁעַ בִּן־נוּן."
+  ],
+  "ai_explanation": [
+    "יהוא בן חנני היה אחד הנביאים שאין ידוע עליהם דבר מלבד שמם.",
+    "בעשא היה אדם פשוט שה' העלה לגדולה והפקיד אותו לשליט על ישראל, אך הוא המשיך בדרך ירבעם והחטיא את העם.",
+    "ה' מודיע שהוא ישמיד את בעשא ואת ביתו, כשם שבעשא השמיד את בית ירבעם.",
+    "בני ביתו של בעשא ימותו בביזיון: המתים בעיר ייאכלו בידי כלבים, והמתים בשדה בידי עופות טורפים.",
+    "בעשא היה איש מלחמה, ומעשיו וגבורתו נזכרים בספר דברי הימים למלכי ישראל.",
+    "",
+    "נבואת הפורענות נאמרה לבעשא ולביתו בגלל חטאיו, ובעיקר בגלל שהרג את נדב בן ירבעם בלי לשנות את דרכי המלוכה הרעות. מעשהו של בעשא נחשב לחטא מפני שהמרד והרצח לא הביאו תיקון רוחני לעם; הנבואה ריחפה על ביתו גם כאשר בנו אלה עלה לשלטון.",
+    "אלה בן בעשא מלך על ישראל בתרצה.",
+    "זמרי, שהיה מפקד על מחצית מיחידות הרכב, ארגן מרד נגד אלה. אלה היה בתרצה, שיכור, בביתו של ארצא, שהיה הממונה על בית המלך.",
+    "",
+    "זמרי השמיד את כל בית בעשא, ובכך התקיימה במדויק נבואת יהוא. הוא עשה זאת משיקולים פוליטיים ולא מתוך רצון לציית לנבואה.",
+    "בעשא ואלה חטאו והחטיאו את ישראל, והכעיסו את ה' בהליכה אחרי הבלים — אמונות שאין בהן ממש ועבודת פולחן חסרת ערך.",
+    "",
+    "זמרי מלך בתרצה שבעה ימים בלבד. רוב העם, שהיה במחנה ליד גבתון, עסק בניסיון לכבוש את העיר מידי הפלשתים.",
+    "אנשי הצבא שמעו על מרד זמרי ורצח המלך, והמליכו במחנה את עמרי, שר הצבא, כנראה כדי לבטא את רצון הצבא.",
+    "עמרי וכל אנשי הצבא עלו מגבתון וצרו על תרצה, שבה ישב זמרי.",
+    "כאשר הבין זמרי שהעיר עומדת להיכבש ואין לו סיכוי מול צבא עמרי, הוא שרף עליו את ארמון המלך ומת. כך התאבד באופן דרמטי.",
+    "זמרי נענש על חטאיו, על שהלך בדרך ירבעם והחטיא את ישראל; גם בזמן מלכותו הקצרה לא הראה כוונה לסטות מדרכו של ירבעם.",
+    "",
+    "לאחר מות זמרי נחלק העם לשני מחנות: מחצית תמכה בתבני בן גינת ומחצית בעמרי.",
+    "תומכי עמרי גברו על תומכי תבני. תבני מת, כנראה במהלך המלחמה, ועמרי נעשה מלך על ישראל.",
+    "עמרי מלך על ישראל שתים־עשרה שנה. שנות מלכותו נמנו כנראה כבר מראשית המאבק בתבני, אך בתרצה מלך שש שנים.",
+    "עמרי קנה את הר שומרון ובנה עליו בירה חדשה, שנקראה שומרון על שם שמר, בעל ההר. הקמת העיר הייתה מפעל מוצלח, ועמרי מוצג כאיש חזק הן כשר צבא והן כמלך, שביקש אולי לבנות ממלכה גדולה ולחזק את קשרי החוץ.",
+    "עמרי עשה את הרע בעיני ה' יותר מכל המלכים שקדמו לו.",
+    "עמרי הלך בכל דרך ירבעם בן נבט ובחטאיו, ובכך הכעיס את ה' בהליכה אחרי הבלים.",
+    "",
+    "",
+    "אחאב בן עמרי מלך בשומרון עשרים ושתיים שנה, לאחר שנעשתה העיר לבירת הממלכה הרשמית.",
+    "אחאב עשה את הרע בעיני ה' יותר מכל המלכים שלפניו.",
+    "חטאי ירבעם נחשבו בעיני אחאב לדבר קל, והוא הוסיף עליהם כשנשא את איזבל, בת אתבעל מלך צידון. הנישואין חיזקו את קשרי החוץ, אך הביאו לישראל את פולחן הבעל, שהיה פולחן לאל זר ולא רק צורה אחרת של עבודת ה'.",
+    "אחאב הקים מזבח לבעל בתוך בית הבעל שבנה בשומרון, ובכך העניק לפולחן זה מקום מרכזי בעיר הבירה.",
+    "אחאב עשה גם את האשרה והוסיף להכעיס את ה', יותר מכל מלכי ישראל שקדמו לו.",
+    "בימי אחאב בנה חיאל מבית־אל את יריחו, שהייתה חרבה מאז ימי יהושע. הקללה שנאמרה בימי יהושע התקיימה בו: בנו הבכור אבירם מת בעת ייסוד העיר, ובנו הצעיר שגוב מת כאשר הוצבו דלתותיה.",
+    ""
+  ],
+  "ai_explanation_en": [
+    "Jehu son of Hanani was one of the prophets about whom nothing is known apart from his name.",
+    "Baasha had been an ordinary man whom God raised to greatness and appointed as ruler over Israel, but he continued in Jeroboam's way and led the people into sin.",
+    "God announces that He will destroy Baasha and his house, just as Baasha destroyed the house of Jeroboam.",
+    "The members of Baasha's house will die disgracefully: those who die in the city will be eaten by dogs, and those who die in the field by birds of prey.",
+    "Baasha was a military man, and his deeds and valor are recorded in the Book of the Chronicles of the Kings of Israel.",
+    "",
+    "The prophecy of punishment was spoken against Baasha and his house because of his sins, especially because he killed Nadab son of Jeroboam without changing the evil ways of the monarchy. Baasha's rebellion and murder were considered sinful because they brought no spiritual correction to the people; the prophecy hung over his house even when his son Elah came to power.",
+    "Elah son of Baasha ruled over Israel from Tirzah.",
+    "Zimri, who commanded half of the chariot units, organized a revolt against Elah. Elah was in Tirzah, drunk, at the house of Arza, who was in charge of the royal palace.",
+    "",
+    "Zimri destroyed the entire house of Baasha, thereby fulfilling Jehu's prophecy exactly. He did this for political reasons, not out of a desire to obey the prophecy.",
+    "Baasha and Elah sinned and led Israel into sin, angering God by following vanities—beliefs without substance and worship without real value.",
+    "",
+    "Zimri ruled in Tirzah for only seven days. Most of the people were encamped near Gibbethon, attempting to capture the city from the Philistines.",
+    "The soldiers heard about Zimri's revolt and the king's murder, and they crowned Omri, the army commander, in the camp, apparently to express the will of the army.",
+    "Omri and all the soldiers went up from Gibbethon and besieged Tirzah, where Zimri was staying.",
+    "When Zimri realized that the city was about to fall and that he had no chance against Omri's army, he set the royal palace on fire around himself and died. In this way he killed himself dramatically.",
+    "Zimri was punished for his sins, for following Jeroboam's way and leading Israel into sin; even during his brief reign he showed no intention of departing from Jeroboam's path.",
+    "",
+    "After Zimri's death, the people split into two camps: half supported Tibni son of Ginath and half supported Omri.",
+    "Omri's supporters overcame Tibni's supporters. Tibni died, apparently during the war, and Omri became king over Israel.",
+    "Omri ruled Israel for twelve years. His reign was apparently counted from the beginning of the struggle with Tibni, while he ruled in Tirzah for six years.",
+    "Omri bought Mount Samaria and built a new capital on it, naming it Samaria after Shemer, the owner of the mountain. The project succeeded, and Omri is portrayed as a strong man both as army commander and as king, perhaps seeking to build a large kingdom and strengthen foreign relations.",
+    "Omri did evil in the eyes of God more than all the kings who came before him.",
+    "Omri followed every way of Jeroboam son of Nebat and his sins, thereby angering God by following vanities.",
+    "",
+    "",
+    "Ahab son of Omri ruled in Samaria for twenty-two years, after the city had become the official capital of the kingdom.",
+    "Ahab did evil in the eyes of God more than all the kings who preceded him.",
+    "Jeroboam's sins seemed a small matter to Ahab, and he added to them by marrying Jezebel, daughter of Ethbaal king of Sidon. The marriage strengthened foreign relations, but it brought the worship of Baal into Israel—a foreign cult, not merely another form of worship of the God of Israel.",
+    "Ahab built an altar to Baal inside the temple of Baal that he built in Samaria, giving this worship a central place in the capital.",
+    "Ahab also made an Asherah and continued to anger God, more than all the kings of Israel who had preceded him.",
+    "During Ahab's days, Hiel of Bethel rebuilt Jericho, which had remained desolate since the days of Joshua. The curse spoken in Joshua's time came true for him: his firstborn son Abiram died when he founded the city, and his youngest son Segub died when its gates were set up.",
+    ""
+  ],
+  "perush": [
+    "יהוא בן חנני היה אחד הנביאים שאין ידוע עליהם דבר מלבד שמם.",
+    "בעשא היה אדם פשוט שה' העלה לגדולה והפקיד אותו לשליט על ישראל, אך הוא המשיך בדרך ירבעם והחטיא את העם.",
+    "ה' מודיע שהוא ישמיד את בעשא ואת ביתו, כשם שבעשא השמיד את בית ירבעם.",
+    "בני ביתו של בעשא ימותו בביזיון: המתים בעיר ייאכלו בידי כלבים, והמתים בשדה בידי עופות טורפים.",
+    "בעשא היה איש מלחמה, ומעשיו וגבורתו נזכרים בספר דברי הימים למלכי ישראל.",
+    "",
+    "נבואת הפורענות נאמרה לבעשא ולביתו בגלל חטאיו, ובעיקר בגלל שהרג את נדב בן ירבעם בלי לשנות את דרכי המלוכה הרעות. מעשהו של בעשא נחשב לחטא מפני שהמרד והרצח לא הביאו תיקון רוחני לעם; הנבואה ריחפה על ביתו גם כאשר בנו אלה עלה לשלטון.",
+    "אלה בן בעשא מלך על ישראל בתרצה.",
+    "זמרי, שהיה מפקד על מחצית מיחידות הרכב, ארגן מרד נגד אלה. אלה היה בתרצה, שיכור, בביתו של ארצא, שהיה הממונה על בית המלך.",
+    "",
+    "זמרי השמיד את כל בית בעשא, ובכך התקיימה במדויק נבואת יהוא. הוא עשה זאת משיקולים פוליטיים ולא מתוך רצון לציית לנבואה.",
+    "בעשא ואלה חטאו והחטיאו את ישראל, והכעיסו את ה' בהליכה אחרי הבלים — אמונות שאין בהן ממש ועבודת פולחן חסרת ערך.",
+    "",
+    "זמרי מלך בתרצה שבעה ימים בלבד. רוב העם, שהיה במחנה ליד גבתון, עסק בניסיון לכבוש את העיר מידי הפלשתים.",
+    "אנשי הצבא שמעו על מרד זמרי ורצח המלך, והמליכו במחנה את עמרי, שר הצבא, כנראה כדי לבטא את רצון הצבא.",
+    "עמרי וכל אנשי הצבא עלו מגבתון וצרו על תרצה, שבה ישב זמרי.",
+    "כאשר הבין זמרי שהעיר עומדת להיכבש ואין לו סיכוי מול צבא עמרי, הוא שרף עליו את ארמון המלך ומת. כך התאבד באופן דרמטי.",
+    "זמרי נענש על חטאיו, על שהלך בדרך ירבעם והחטיא את ישראל; גם בזמן מלכותו הקצרה לא הראה כוונה לסטות מדרכו של ירבעם.",
+    "",
+    "לאחר מות זמרי נחלק העם לשני מחנות: מחצית תמכה בתבני בן גינת ומחצית בעמרי.",
+    "תומכי עמרי גברו על תומכי תבני. תבני מת, כנראה במהלך המלחמה, ועמרי נעשה מלך על ישראל.",
+    "עמרי מלך על ישראל שתים־עשרה שנה. שנות מלכותו נמנו כנראה כבר מראשית המאבק בתבני, אך בתרצה מלך שש שנים.",
+    "עמרי קנה את הר שומרון ובנה עליו בירה חדשה, שנקראה שומרון על שם שמר, בעל ההר. הקמת העיר הייתה מפעל מוצלח, ועמרי מוצג כאיש חזק הן כשר צבא והן כמלך, שביקש אולי לבנות ממלכה גדולה ולחזק את קשרי החוץ.",
+    "עמרי עשה את הרע בעיני ה' יותר מכל המלכים שקדמו לו.",
+    "עמרי הלך בכל דרך ירבעם בן נבט ובחטאיו, ובכך הכעיס את ה' בהליכה אחרי הבלים.",
+    "",
+    "",
+    "אחאב בן עמרי מלך בשומרון עשרים ושתיים שנה, לאחר שנעשתה העיר לבירת הממלכה הרשמית.",
+    "אחאב עשה את הרע בעיני ה' יותר מכל המלכים שלפניו.",
+    "חטאי ירבעם נחשבו בעיני אחאב לדבר קל, והוא הוסיף עליהם כשנשא את איזבל, בת אתבעל מלך צידון. הנישואין חיזקו את קשרי החוץ, אך הביאו לישראל את פולחן הבעל, שהיה פולחן לאל זר ולא רק צורה אחרת של עבודת ה'.",
+    "אחאב הקים מזבח לבעל בתוך בית הבעל שבנה בשומרון, ובכך העניק לפולחן זה מקום מרכזי בעיר הבירה.",
+    "אחאב עשה גם את האשרה והוסיף להכעיס את ה', יותר מכל מלכי ישראל שקדמו לו.",
+    "בימי אחאב בנה חיאל מבית־אל את יריחו, שהייתה חרבה מאז ימי יהושע. הקללה שנאמרה בימי יהושע התקיימה בו: בנו הבכור אבירם מת בעת ייסוד העיר, ובנו הצעיר שגוב מת כאשר הוצבו דלתותיה.",
+    ""
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "נבואת הפורענות על בית בעשא",
+      "title_en": "The Prophecy Against Baasha's House",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "יהוא בן חנני מודיע לבעשא כי למרות שהועלה מעפר לגדולה, הוא חטא והלך בדרך ירבעם. לכן ביתו יושמד, כפי שהשמיד את בית ירבעם.",
+      "summary_en": "Jehu son of Hanani tells Baasha that although he was raised from humble beginnings to power, he sinned by following Jeroboam's way. Therefore his house will be destroyed, just as he destroyed Jeroboam's house.",
+      "image_prompt": "A biblical prophet standing before King Baasha in an ancient royal hall, delivering a solemn warning, with symbolic shadows suggesting the destruction of a royal dynasty, historically grounded biblical art"
+    },
+    {
+      "title": "אלה וזמרי: נפילת בית בעשא",
+      "title_en": "Elah and Zimri: The Fall of Baasha's House",
+      "start_verse": 8,
+      "end_verse": 14,
+      "summary": "אלה מולך זמן קצר, וזמרי, שר מחצית הרכב, מורד בו והורג אותו. זמרי משמיד את בית בעשא, ובכך מגשים את הנבואה, אך גם הוא ממשיך בחטאי ירבעם.",
+      "summary_en": "Elah rules only briefly before Zimri, commander of half the chariot forces, rebels and kills him. Zimri destroys Baasha's house, fulfilling the prophecy, but he too continues in Jeroboam's sinful ways.",
+      "image_prompt": "An ancient Israelite palace at Tirzah, a military commander confronting a drunken king, with a tense atmosphere of political revolt and royal succession, biblical historical illustration"
+    },
+    {
+      "title": "מלכות זמרי והתקוממות הצבא",
+      "title_en": "Zimri's Reign and the Army's Revolt",
+      "start_verse": 15,
+      "end_verse": 20,
+      "summary": "זמרי מולך שבעה ימים בלבד. הצבא שבגבתון ממליך את עמרי, צר על תרצה, וזמרי שורף את ארמון המלך ומת; חטאיו נחתמים בהליכתו בדרך ירבעם.",
+      "summary_en": "Zimri rules for only seven days. The army at Gibbethon crowns Omri, besieges Tirzah, and Zimri burns the royal palace around himself and dies; his reign is judged by his continuation of Jeroboam's sinful path.",
+      "image_prompt": "An ancient city under siege, soldiers approaching Tirzah, while a desperate king sets the royal palace ablaze, dramatic but non-graphic biblical scene"
+    },
+    {
+      "title": "המאבק בין עמרי לתבני",
+      "title_en": "The Struggle Between Omri and Tibni",
+      "start_verse": 21,
+      "end_verse": 22,
+      "summary": "לאחר מות זמרי נחלק העם בין תומכי תבני לתומכי עמרי. תומכי עמרי גוברים, תבני מת, ועמרי נעשה מלך.",
+      "summary_en": "After Zimri's death, the people divide between supporters of Tibni and supporters of Omri. Omri's side prevails, Tibni dies, and Omri becomes king.",
+      "image_prompt": "Two opposing groups of ancient Israelite leaders and soldiers facing one another in a tense succession struggle, with Omri's faction gaining the upper hand, biblical historical art"
+    },
+    {
+      "title": "עמרי מקים את שומרון",
+      "title_en": "Omri Establishes Samaria",
+      "start_verse": 23,
+      "end_verse": 28,
+      "summary": "עמרי מולך שתים־עשרה שנה, קונה את הר שומרון ובונה עליו בירה חדשה. אף שהיה שליט חזק ובונה ממלכה, הוא נחשב למלך שעשה את הרע בעיני ה' יותר מקודמיו.",
+      "summary_en": "Omri rules for twelve years, purchases Mount Samaria, and builds a new capital there. Although he is a strong ruler and kingdom-builder, he is judged as having done more evil in God's eyes than his predecessors.",
+      "image_prompt": "King Omri overseeing the construction of a new hilltop capital called Samaria, with builders, stone walls, and a commanding landscape, historically grounded biblical illustration"
+    },
+    {
+      "title": "אחאב ופולחן הבעל",
+      "title_en": "Ahab and the Worship of Baal",
+      "start_verse": 29,
+      "end_verse": 33,
+      "summary": "אחאב מולך בשומרון ומרשיע יותר מכל המלכים שלפניו. נישואיו לאיזבל מביאים את פולחן הבעל לישראל, והוא בונה לו בית ומזבח וכן עושה את האשרה.",
+      "summary_en": "Ahab rules in Samaria and does more evil than all the kings before him. His marriage to Jezebel brings Baal worship into Israel, and he builds a temple and altar for Baal and makes an Asherah.",
+      "image_prompt": "Ahab and Jezebel in the royal capital of Samaria beside a newly built temple and altar of Baal, solemn ancient Near Eastern biblical setting, no modern elements"
+    },
+    {
+      "title": "בניית יריחו והתגשמות הקללה",
+      "title_en": "The Rebuilding of Jericho and Fulfillment of the Curse",
+      "start_verse": 34,
+      "end_verse": 34,
+      "summary": "חיאל מבית־אל בונה מחדש את יריחו בימי אחאב. מות בניו בעת ייסוד העיר ובהשלמת שעריה מבטא את התגשמות הקללה שנאמרה בימי יהושע.",
+      "summary_en": "During Ahab's days, Hiel of Bethel rebuilds Jericho. The deaths of his sons while founding the city and completing its gates express the fulfillment of the curse spoken in Joshua's time.",
+      "image_prompt": "An ancient builder reconstructing the gates and foundations of Jericho, with a solemn family presence and a sense of prophetic fulfillment, biblical historical artwork"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 8.28,
+      "usfm": "1KI.16.1"
+    },
+    {
+      "start": 8.28,
+      "end": 21.72,
+      "usfm": "1KI.16.2"
+    },
+    {
+      "start": 21.72,
+      "end": 31.64,
+      "usfm": "1KI.16.3"
+    },
+    {
+      "start": 31.64,
+      "end": 41.54,
+      "usfm": "1KI.16.4"
+    },
+    {
+      "start": 41.54,
+      "end": 49.44,
+      "usfm": "1KI.16.5"
+    },
+    {
+      "start": 49.44,
+      "end": 57.04,
+      "usfm": "1KI.16.6"
+    },
+    {
+      "start": 57.04,
+      "end": 76.32,
+      "usfm": "1KI.16.7"
+    },
+    {
+      "start": 76.32,
+      "end": 85.14,
+      "usfm": "1KI.16.8"
+    },
+    {
+      "start": 85.14,
+      "end": 96.3,
+      "usfm": "1KI.16.9"
+    },
+    {
+      "start": 96.3,
+      "end": 107.18,
+      "usfm": "1KI.16.10"
+    },
+    {
+      "start": 107.18,
+      "end": 121.68,
+      "usfm": "1KI.16.11"
+    },
+    {
+      "start": 121.68,
+      "end": 130.2,
+      "usfm": "1KI.16.12"
+    },
+    {
+      "start": 130.2,
+      "end": 142.74,
+      "usfm": "1KI.16.13"
+    },
+    {
+      "start": 142.74,
+      "end": 150.34,
+      "usfm": "1KI.16.14"
+    },
+    {
+      "start": 150.34,
+      "end": 162.8,
+      "usfm": "1KI.16.15"
+    },
+    {
+      "start": 162.8,
+      "end": 177.32,
+      "usfm": "1KI.16.16"
+    },
+    {
+      "start": 177.32,
+      "end": 183.46,
+      "usfm": "1KI.16.17"
+    },
+    {
+      "start": 183.46,
+      "end": 195.48,
+      "usfm": "1KI.16.18"
+    },
+    {
+      "start": 195.48,
+      "end": 205.66,
+      "usfm": "1KI.16.19"
+    },
+    {
+      "start": 205.66,
+      "end": 213.9,
+      "usfm": "1KI.16.20"
+    },
+    {
+      "start": 213.9,
+      "end": 223.94,
+      "usfm": "1KI.16.21"
+    },
+    {
+      "start": 223.94,
+      "end": 233.54,
+      "usfm": "1KI.16.22"
+    },
+    {
+      "start": 233.54,
+      "end": 243.24,
+      "usfm": "1KI.16.23"
+    },
+    {
+      "start": 243.24,
+      "end": 256.5,
+      "usfm": "1KI.16.24"
+    },
+    {
+      "start": 256.5,
+      "end": 263.34,
+      "usfm": "1KI.16.25"
+    },
+    {
+      "start": 263.34,
+      "end": 274.18,
+      "usfm": "1KI.16.26"
+    },
+    {
+      "start": 274.18,
+      "end": 283.98,
+      "usfm": "1KI.16.27"
+    },
+    {
+      "start": 283.98,
+      "end": 294.92,
+      "usfm": "1KI.16.28"
+    },
+    {
+      "start": 294.92,
+      "end": 308.26,
+      "usfm": "1KI.16.29"
+    },
+    {
+      "start": 308.26,
+      "end": 313.54,
+      "usfm": "1KI.16.30"
+    },
+    {
+      "start": 313.54,
+      "end": 332.7,
+      "usfm": "1KI.16.31"
+    },
+    {
+      "start": 332.7,
+      "end": 339.3,
+      "usfm": "1KI.16.32"
+    },
+    {
+      "start": 339.3,
+      "end": 349.78,
+      "usfm": "1KI.16.33"
+    },
+    {
+      "start": 349.78,
+      "end": 376.76,
+      "usfm": "1KI.16.34"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    8.28,
+    21.72,
+    31.64,
+    41.54,
+    49.44,
+    57.04,
+    76.32,
+    85.14,
+    96.3,
+    107.18,
+    121.68,
+    130.2,
+    142.74,
+    150.34,
+    162.8,
+    177.32,
+    183.46,
+    195.48,
+    205.66,
+    213.9,
+    223.94,
+    233.54,
+    243.24,
+    256.5,
+    263.34,
+    274.18,
+    283.98,
+    294.92,
+    308.26,
+    313.54,
+    332.7,
+    339.3,
+    349.78,
+    376.76
+  ],
+  "times_en_usfm": [
+    "1KI.16.1",
+    "1KI.16.2",
+    "1KI.16.3",
+    "1KI.16.4",
+    "1KI.16.5",
+    "1KI.16.6",
+    "1KI.16.7",
+    "1KI.16.8",
+    "1KI.16.9",
+    "1KI.16.10",
+    "1KI.16.11",
+    "1KI.16.12",
+    "1KI.16.13",
+    "1KI.16.14",
+    "1KI.16.15",
+    "1KI.16.16",
+    "1KI.16.17",
+    "1KI.16.18",
+    "1KI.16.19",
+    "1KI.16.20",
+    "1KI.16.21",
+    "1KI.16.22",
+    "1KI.16.23",
+    "1KI.16.24",
+    "1KI.16.25",
+    "1KI.16.26",
+    "1KI.16.27",
+    "1KI.16.28",
+    "1KI.16.29",
+    "1KI.16.30",
+    "1KI.16.31",
+    "1KI.16.32",
+    "1KI.16.33",
+    "1KI.16.34"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? יהוא בן חנני היה הנביא שמסר לבעשא את דבר ה׳. הוא הזכיר למלך שבעשא הועלה מן העפר ונעשה נגיד על ישראל, אך למרות זאת בחר ללכת בדרך ירבעם.",
+      "text_he": "הידעת? יהוא בן חנני היה הנביא שמסר לבעשא את דבר ה׳. הוא הזכיר למלך שבעשא הועלה מן העפר ונעשה נגיד על ישראל, אך למרות זאת בחר ללכת בדרך ירבעם.",
+      "text_en": "Did you know? Jehu son of Hanani was the prophet who delivered the word of the LORD to Baasha. He reminded the king that Baasha had been raised from the dust and made ruler over Israel, yet he still chose to follow the ways of Jeroboam."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? העונש שנגזר על בית בעשא היה דומה למעשהו של בעשא עצמו: כשם שהוא השמיד את בית ירבעם, כך ה׳ הודיע שביתו יושמד.",
+      "text_he": "הידעת? העונש שנגזר על בית בעשא היה דומה למעשהו של בעשא עצמו: כשם שהוא השמיד את בית ירבעם, כך ה׳ הודיע שביתו יושמד.",
+      "text_en": "Did you know? The judgment decreed against Baasha’s house mirrored Baasha’s own actions: just as he destroyed Jeroboam’s house, the LORD declared that his own house would be destroyed."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? נבואת יהוא נגד בעשא וביתו נאמרה לא רק בגלל חטאי עבודת ה׳, אלא גם בגלל שבעשא הכה את בית ירבעם. כך הפרק מציג אחריות גם על המעשה וגם על המניע והדרך.",
+      "text_he": "הידעת? נבואת יהוא נגד בעשא וביתו נאמרה לא רק בגלל חטאי עבודת ה׳, אלא גם בגלל שבעשא הכה את בית ירבעם. כך הפרק מציג אחריות גם על המעשה וגם על המניע והדרך.",
+      "text_en": "Did you know? Jehu’s prophecy against Baasha and his house was not only because of their sins in worshiping the LORD, but also because Baasha had struck down Jeroboam’s house. Thus, the chapter emphasizes responsibility both for the deed itself and for the motive and manner behind it."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? זמרי היה שר מחצית הרכב, כלומר מפקד על מחצית מכוח המרכבות, ובכל זאת הצליח לקשור על אלה המלך ולהרוג אותו בעת שהיה שיכור.",
+      "text_he": "הידעת? זמרי היה שר מחצית הרכב, כלומר מפקד על מחצית מכוח המרכבות, ובכל זאת הצליח לקשור על אלה המלך ולהרוג אותו בעת שהיה שיכור.",
+      "text_en": "Did you know? Zimri was commander of half the chariot force, yet he managed to conspire against King Elah and kill him while he was drunk."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? זמרי מלך שבעה ימים בלבד. בתקופה קצרה זו הוא השמיד את כל בית בעשא, אך הכתוב מדגיש שגם הוא המשיך בחטאות ירבעם.",
+      "text_he": "הידעת? זמרי מלך שבעה ימים בלבד. בתקופה קצרה זו הוא השמיד את כל בית בעשא, אך הכתוב מדגיש שגם הוא המשיך בחטאות ירבעם.",
+      "text_en": "Did you know? Zimri reigned for only seven days. During that brief period, he destroyed the entire house of Baasha, but Scripture emphasizes that he too continued in the sins of Jeroboam."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? בזמן שזמרי השתלט על תרצה, הצבא הישראלי חנה בגבתון, עיר שהייתה בידי הפלשתים. כשנודע לחיילים על מרד זמרי, הם המליכו עליהם את עמרי.",
+      "text_he": "הידעת? בזמן שזמרי השתלט על תרצה, הצבא הישראלי חנה בגבתון, עיר שהייתה בידי הפלשתים. כשנודע לחיילים על מרד זמרי, הם המליכו עליהם את עמרי.",
+      "text_en": "Did you know? While Zimri was taking control of Tirzah, the Israelite army was camped at Gibbethon, a city held by the Philistines. When the soldiers learned of Zimri’s revolt, they made Omri king over Israel."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? זמרי מת כאשר שרף עליו את ארמון בית המלך. סופו מתואר כחלק מן העונש על כך שהלך בדרך ירבעם והחטיא את ישראל.",
+      "text_he": "הידעת? זמרי מת כאשר שרף עליו את ארמון בית המלך. סופו מתואר כחלק מן העונש על כך שהלך בדרך ירבעם והחטיא את ישראל.",
+      "text_en": "Did you know? Zimri died when he burned the royal palace over himself. His end is described as part of the punishment for following the ways of Jeroboam and causing Israel to sin."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? לאחר מות זמרי לא הייתה הסכמה על מלך אחד: העם נחלק בין תומכי תבני בן גינת לבין תומכי עמרי. לבסוף גבר מחנה עמרי, ותבני מת.",
+      "text_he": "הידעת? לאחר מות זמרי לא הייתה הסכמה על מלך אחד: העם נחלק בין תומכי תבני בן גינת לבין תומכי עמרי. לבסוף גבר מחנה עמרי, ותבני מת.",
+      "text_en": "Did you know? After Zimri’s death, the people did not agree on one king: they divided between the supporters of Tibni son of Ginath and the supporters of Omri. In the end, Omri’s faction prevailed, and Tibni died."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? עמרי קנה את הר שומרון משמר, בעל ההר, בשני כיכרי כסף. הוא בנה שם עיר חדשה וקרא לה שומרון על שם בעל ההר.",
+      "text_he": "הידעת? עמרי קנה את הר שומרון משמר, בעל ההר, בשני כיכרי כסף. הוא בנה שם עיר חדשה וקרא לה שומרון על שם בעל ההר.",
+      "text_en": "Did you know? Omri bought Mount Samaria from Shemer, the owner of the mountain, for two talents of silver. He built a new city there and named it Samaria after Shemer, the owner of the mountain."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? אחאב נשא את איזבל, בת אתבעל מלך צידונים, ולא הסתפק בחטאות ירבעם: הוא עבד את הבעל, בנה לו בית ומזבח בשומרון, ואף עשה את האשרה.",
+      "text_he": "הידעת? אחאב נשא את איזבל, בת אתבעל מלך צידונים, ולא הסתפק בחטאות ירבעם: הוא עבד את הבעל, בנה לו בית ומזבח בשומרון, ואף עשה את האשרה.",
+      "text_en": "Did you know? Ahab married Jezebel, the daughter of Ethbaal king of the Sidonians, and did not content himself with the sins of Jeroboam: he worshiped Baal, built a temple and an altar for him in Samaria, and also made an Asherah pole."
+    }
+  ]
+}

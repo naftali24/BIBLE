@@ -1,0 +1,469 @@
+{
+  "book": "Isaiah",
+  "book_he": "ישעיהו",
+  "book_chapters": 66,
+  "chapter": 22,
+  "title": "ישעיהו פרק 22",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1022.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1022.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ISA/22-b2b84763017d30b7825f439a7861b931.mp3?version_id=1",
+  "verses": [
+    "מַשָּׂא, גֵּיא חִזָּיוֹן: מַה-לָּךְ אֵפוֹא, כִּי-עָלִית כֻּלָּךְ לַגַּגּוֹת.",
+    "תְּשֻׁאוֹת מְלֵאָה, עִיר הוֹמִיָּה--קִרְיָה, עַלִּיזָה; חֲלָלַיִךְ לֹא חַלְלֵי-חֶרֶב, וְלֹא מֵתֵי מִלְחָמָה.",
+    "כָּל-קְצִינַיִךְ נָדְדוּ-יַחַד, מִקֶּשֶׁת אֻסָּרוּ; כָּל-נִמְצָאַיִךְ אֻסְּרוּ יַחְדָּו, מֵרָחוֹק בָּרָחוּ.",
+    "עַל-כֵּן אָמַרְתִּי שְׁעוּ מִנִּי, אֲמָרֵר בַּבֶּכִי; אַל-תָּאִיצוּ לְנַחֲמֵנִי, עַל-שֹׁד בַּת-עַמִּי.",
+    "כִּי יוֹם מְהוּמָה וּמְבוּסָה וּמְבוּכָה, לַאדֹנָי יְהוִה צְבָאוֹת--בְּגֵי חִזָּיוֹן; מְקַרְקַר קִר, וְשׁוֹעַ אֶל-הָהָר.",
+    "וְעֵילָם נָשָׂא אַשְׁפָּה, בְּרֶכֶב אָדָם פָּרָשִׁים; וְקִיר עֵרָה, מָגֵן.",
+    "וַיְהִי מִבְחַר-עֲמָקַיִךְ, מָלְאוּ רָכֶב; וְהַפָּרָשִׁים, שֹׁת שָׁתוּ הַשָּׁעְרָה.",
+    "וַיְגַל, אֵת מָסַךְ יְהוּדָה; וַתַּבֵּט בַּיּוֹם הַהוּא, אֶל-נֶשֶׁק בֵּית הַיָּעַר.",
+    "וְאֵת בְּקִיעֵי עִיר-דָּוִד רְאִיתֶם, כִּי-רָבּוּ; וַתְּקַבְּצוּ, אֶת-מֵי הַבְּרֵכָה הַתַּחְתּוֹנָה.",
+    "וְאֶת-בָּתֵּי יְרוּשָׁלִַם, סְפַרְתֶּם; וַתִּתְצוּ, הַבָּתִּים, לְבַצֵּר, הַחוֹמָה.",
+    "וּמִקְוָה עֲשִׂיתֶם, בֵּין הַחֹמֹתַיִם, לְמֵי, הַבְּרֵכָה הַיְשָׁנָה; וְלֹא הִבַּטְתֶּם אֶל-עֹשֶׂיהָ, וְיֹצְרָהּ מֵרָחוֹק לֹא רְאִיתֶם.",
+    "וַיִּקְרָא, אֲדֹנָי יְהוִה צְבָאוֹת--בַּיּוֹם הַהוּא: לִבְכִי, וּלְמִסְפֵּד, וּלְקָרְחָה, וְלַחֲגֹר שָׂק.",
+    "וְהִנֵּה שָׂשׂוֹן וְשִׂמְחָה, הָרֹג בָּקָר וְשָׁחֹט צֹאן, אָכֹל בָּשָׂר, וְשָׁתוֹת יָיִן; אָכוֹל וְשָׁתוֹ, כִּי מָחָר נָמוּת.",
+    "וְנִגְלָה בְאָזְנָי, יְהוָה צְבָאוֹת: אִם-יְכֻפַּר הֶעָוֺן הַזֶּה לָכֶם, עַד-תְּמֻתוּן, אָמַר אֲדֹנָי יְהוִה, צְבָאוֹת.",
+    "כֹּה אָמַר אֲדֹנָי יְהוִה, צְבָאוֹת: לֶךְ-בֹּא אֶל-הַסֹּכֵן הַזֶּה, עַל-שֶׁבְנָא אֲשֶׁר עַל-הַבָּיִת.",
+    "מַה-לְּךָ פֹה וּמִי לְךָ פֹה, כִּי-חָצַבְתָּ לְּךָ פֹּה קָבֶר; חֹצְבִי מָרוֹם קִבְרוֹ, חֹקְקִי בַסֶּלַע מִשְׁכָּן לוֹ.",
+    "הִנֵּה יְהוָה מְטַלְטֶלְךָ, טַלְטֵלָה גָּבֶר; וְעֹטְךָ, עָטֹה.",
+    "צָנוֹף יִצְנָפְךָ, צְנֵפָה, כַּדּוּר, אֶל-אֶרֶץ רַחֲבַת יָדָיִם; שָׁמָּה תָמוּת, וְשָׁמָּה מַרְכְּבוֹת כְּבוֹדֶךָ--קְלוֹן, בֵּית אֲדֹנֶיךָ.",
+    "וַהֲדַפְתִּיךָ, מִמַּצָּבֶךָ; וּמִמַּעֲמָדְךָ, יֶהֶרְסֶךָ.",
+    "וְהָיָה, בַּיּוֹם הַהוּא; וְקָרָאתִי לְעַבְדִּי, לְאֶלְיָקִים בֶּן-חִלְקִיָּהוּ.",
+    "וְהִלְבַּשְׁתִּיו כֻּתָּנְתֶּךָ, וְאַבְנֵטְךָ אֲחַזְּקֶנּוּ, וּמֶמְשַׁלְתְּךָ, אֶתֵּן בְּיָדוֹ; וְהָיָה לְאָב לְיוֹשֵׁב יְרוּשָׁלִַם, וּלְבֵית יְהוּדָה.",
+    "וְנָתַתִּי מַפְתֵּחַ בֵּית-דָּוִד, עַל-שִׁכְמוֹ; וּפָתַח וְאֵין סֹגֵר, וְסָגַר וְאֵין פֹּתֵחַ.",
+    "וּתְקַעְתִּיו יָתֵד, בְּמָקוֹם נֶאֱמָן; וְהָיָה לְכִסֵּא כָבוֹד, לְבֵית אָבִיו.",
+    "וְתָלוּ עָלָיו כֹּל כְּבוֹד בֵּית-אָבִיו, הַצֶּאֱצָאִים וְהַצְּפִעוֹת, כֹּל, כְּלֵי הַקָּטָן--מִכְּלֵי, הָאַגָּנוֹת, וְעַד, כָּל-כְּלֵי הַנְּבָלִים.",
+    "בַּיּוֹם הַהוּא, נְאֻם יְהוָה צְבָאוֹת, תָּמוּשׁ הַיָּתֵד, הַתְּקוּעָה בְּמָקוֹם נֶאֱמָן; וְנִגְדְּעָה וְנָפְלָה, וְנִכְרַת הַמַּשָּׂא אֲשֶׁר-עָלֶיהָ--כִּי יְהוָה, דִּבֵּר."
+  ],
+  "english": [
+    "The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?",
+    "Thou that art full of stirs, a tumultuous city, joyous city: thy slain men are not slain with the sword, nor dead in battle.",
+    "All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, which have fled from far.",
+    "Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people.",
+    "For it is a day of trouble, and of treading down, and of perplexity by the Lord God of hosts in the valley of vision, breaking down the walls, and of crying to the mountains.",
+    "And Elam bare the quiver with chariots of men and horsemen, and Kir uncovered the shield.",
+    "And it shall come to pass, that thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.",
+    "And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.",
+    "Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool.",
+    "And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.",
+    "Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.",
+    "And in that day did the Lord God of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:",
+    "And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.",
+    "And it was revealed in mine ears by the Lord of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord God of hosts.",
+    "Thus saith the Lord God of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,",
+    "What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, as he that heweth him out a sepulchre on high, and that graveth an habitation for himself in a rock?",
+    "Behold, the Lord will carry thee away with a mighty captivity, and will surely cover thee.",
+    "He will surely violently turn and toss thee like a ball into a large country: there shalt thou die, and there the chariots of thy glory shall be the shame of thy lord's house.",
+    "And I will drive thee from thy station, and from thy state shall he pull thee down.",
+    "And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:",
+    "And I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand: and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah.",
+    "And the key of the house of David will I lay upon his shoulder; so he shall open, and none shall shut; and he shall shut, and none shall open.",
+    "And I will fasten him as a nail in a sure place; and he shall be for a glorious throne to his father's house.",
+    "And they shall hang upon him all the glory of his father's house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons.",
+    "In that day, saith the Lord of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that was upon it shall be cut off: for the Lord hath spoken it."
+  ],
+  "steinsaltz": [
+    "מַשָּׂא גֵּיא חִזָּיוֹן, כינוי סמלי לירושלים, שהייתה מקום השראה לחזיונות — ביניהם גם חזיונות קשים – ושפעלו בה חוזים רבים. מַה לָּךְ אֵפוֹא כִּי עָלִית כֻּלָּךְ לַגַּגּוֹת?! כדי לזהות אויבים קרבים, או: כדי לחגוג את משתאותייך שם, שכן הגגות מרווחים יותר מן הבתים.",
+    "תְּשֻׁאוֹת, קולות עיר מְלֵאָה, עִיר הוֹמִיָּה, קִרְיָה עַלִּיזָה, מלאת התרחשויות והמולה. עד עתה חֲלָלַיִךְ לֹא היו חַלְלֵי חֶרֶב וְלֹא מֵתֵי מִלְחָמָה. ייתכן שהנביא רומז לפגיעות בנפש מתוך הוללות ושכרות.",
+    "כָּל קְצִינַיִךְ, קציני צבאך נָדְדוּ, נסו יַחַד, מִקֶּשֶׁת אֻסָּרוּ, כביכול כבולים ואסורים ואינם מסוגלים לירות בקשת. כָּל נִמְצָאַיִךְ, הנמצאים בתוכך אֻסְּרוּ, כאילו הוסגרו לאויב יַחְדָּו, למֵרָחוֹק בָּרָחוּ הקצינים עושי המלחמה.",
+    "עַל כֵּן אָמַרְתִּי: שְׁעוּ, פנו מִנִּי, ממני ואֲמָרֵר בַּבֶּכִי. אַל תָּאִיצוּ, תדחקו לְנַחֲמֵנִי עַל שֹׁד, אסון בַּת עַמִּי.",
+    "כִּי יוֹם מְהוּמָה וּמְבוּסָה, תבוסה וּמְבוּכָה לַה' אֱלֹהִים צְבָאוֹת בְּגֵי חִזָּיוֹן. כיוון שבמשך מאות שנים ירושלים הייתה במצור פעמים בודדות בלבד, ולא הייתה רגילה בהכנות למלחמה, היא תמצא עצמה בערבוביה ובטירוף מערכות. האויב מְקַרְקַר קִר, מקעקע קירות. הורס חומות, או: קול המהומה כמו שובר קירות, וְשׁוֹעַ, שועה, פונה אֶל הָהָר, כדי להיערך למתקפה.",
+    "צבא אשור סיפח אליו צבאות שונים, וביניהם עֵילָם, שבניו היו בעיקר קשתים, נָשָׂא אַשְׁפָּה, כלי חצים. בְּרֶכֶב אָדָם ישנם פָּרָשִׁים, וְקִיר, שם עַם צפוני, עֵרָה מָגֵן, שלף את מגיניו, או: בנה דָּייק מול החומה.",
+    "וַיְהִי מִבְחַר עֲמָקַיִךְ, העמקים המובחרים שלך, ירושלים, מָלְאוּ רָכֶב, רכבי מלחמה, וְהַפָּרָשִׁים שֹׁת שָׁתוּ, שמו פניהם הַשָּׁעְרָה, אל שער העיר כדי להתכונן לקרב.",
+    "וַיְגַל אֵת מָסַךְ, הסיר את הכיסוי שמעל ממלכת יְהוּדָה. לאחר שנים רבות שבהן לא נדרשה יהודה לבחון את יכולתה הצבאית, הגיעה הזמן שבו היא תיחשף ותוערך. וַתַּבֵּט בַּיּוֹם הַהוּא אֶל נֶשֶׁק בֵּית הַיָּעַר, מחסן הנשק המרכזי, שנקרא בית יער הלבנון, לבדקו.",
+    "וְאֵת בְּקִיעֵי, סדקי עִיר דָּוִד רְאִיתֶם אתם, הבודקים את החומות, כִּי רָבּוּ. מתברר שיש בחומותיה בקיעים רבים, וַתְּקַבְּצוּ אֶת מֵי הַבְּרֵכָה הַתַּחְתּוֹנָה להכניסם אל תוך העיר.",
+    "וְאֶת בָּתֵּי יְרוּשָׁלִַם סְפַרְתֶּם, וַתִּתְצוּ, שברתם את הַבָּתִּים על מנת להשתמש באבניהם כדי לְבַצֵּר את הַחוֹמָה ולמלא את הבקיעים שהתגלעו בה.",
+    "וּמִקְוָה, מקוֶה מים עֲשִׂיתֶם בֵּין הַחֹמֹתַיִם, כמו בערים אחרות, נבנתה בירושלים חומה כפולה, לפחות בחלקה, ובין החומות יצרו מאגר לְמֵי הַבְּרֵכָה הַיְשָׁנָה. את כל ההכנות הללו ביצעתם לקראת המצור, וְעם כל הפעלתנות הרבה בביצור העיר, לֹא הִבַּטְתֶּם אֶל עֹשֶׂיהָ של העיר, וְיֹצְרָהּ מֵרָחוֹק, מקדם לֹא רְאִיתֶם.",
+    "וַיִּקְרָא ה' אֳלֹהִים צְבָאוֹת בַּיּוֹם הַהוּא לִבְכִי וּלְמִסְפֵּד וּלְקָרְחָה וְלַחֲגֹר שָׂק, ביטויי אבל שונים. הימים קשים. סכנה גדולה מרחפת על ירושלים, ונראה כי נשקף סופה של הממלכה.",
+    "וְהִנֵּה בניגוד למתבקש — שָׂשׂוֹן וְשִׂמְחָה בעיר, הָרֹג בָּקָר וְשָׁחֹט צֹאן, אָכֹל בָּשָׂר וְשָׁתוֹת יָיִן. התגובה כלפי הנסיבות הקשות היא — אָכוֹל וְשָׁתוֹ כִּי מָחָר נָמוּת.",
+    "וְנִגְלָה הדבר בְאָזְנָי, אומר ה' צְבָאוֹת, אִם יְכֻפַּר הֶעָוֹן הַזֶּה, של האדישות והאטימות לָכֶם עַד תְּמֻתוּן, אָמַר ה' אֳלֹהִים צְבָאוֹת.",
+    "כֹּה אָמַר ה' אֳלֹהִים צְבָאוֹת: לֶךְ בֹּא אֶל הַסֹּכֵן, הממונה הַזֶּה, עַל, אל שֶׁבְנָא אֲשֶׁר עַל הַבָּיִת. אין זה הממונה על צורכי בית המלך בלבד אלא מעין ראש ממשלה. אמור לו:",
+    "מַה לְּךָ פֹה, וּמִי לְךָ פֹה כִּי חָצַבְתָּ לְּךָ פֹּה קָבֶר?! בין שאר עיסוקיו טרח שבנא להכין מקום קבורה שיהלום את מעמדו המכובד. חֹצְבִי, חוצב במָרוֹם קִבְרוֹ, חֹקְקִי, חוקק בַסֶּלַע מִשְׁכָּן לוֹ. בהכנת מקום קבורה מפואר לעצמו הצהיר שבנא שאף על פי שאין הוא המלך, על פיו יישק כל דבר.",
+    "הִנֵּה ה' מְטַלְטֶלְךָ טַלְטֵלָה גָּבֶר, טלטלה עצומה, וְעֹטְךָ עָטֹה, ועוטף אותך כאבל וכצרוע.",
+    "ה' צָנוֹף יִצְנָפְךָ צְנֵפָה, יצרור ויגלגל אותך ככַּדּוּר משחק הנבעט ממקומו אֶל אֶרֶץ רַחֲבַת יָדָיִם, אל ממלכת אשור הגדולה. שָׁמָּה תָמוּת, וְשָׁמָּה יושלכו מַרְכְּבוֹת כְּבוֹדֶךָ, שהן קְלוֹן בֵּית אֲדֹנֶיךָ.",
+    "וַהֲדַפְתִּיךָ, אדחה אותך מִמַּצָּבֶךָ, מהמקום שבו אתה ניצב, וּמִמַּעֲמָדְךָ, וממקום עמידתך יֶהֶרְסֶךָ, תיפול ותישבר.",
+    "וְהָיָה בַּיּוֹם הַהוּא, וְקָרָאתִי לְעַבְדִּי, לְאֶלְיָקִים בֶּן חִלְקִיָּהוּ למלא את מקומך.",
+    "וְהִלְבַּשְׁתִּיו כֻּתָּנְתֶּךָ, וְאַבְנֵטְךָ אֲחַזְּקֶנּוּ. בגדי השרד שלך יעברו אליו. וּמֶמְשַׁלְתְּךָ אֶתֵּן בְּיָדוֹ, וְהָיָה לְאָב, ראש עדה, מדריך לְיוֹשֵׁב יְרוּשָׁלִַם וּלְבֵית יְהוּדָה. הוא, לעומתך, יהא נאמן ומסור לעם. הוא לא יבגוד ולא ידאג לטובת עצמו.",
+    "וְנָתַתִּי מַפְתֵּחַ בֵּית דָּוִד עַל שִׁכְמוֹ כדרך השרים הממונים על בית המלך, הנושאים מפתח גדול על שכמם. ובכלל המפתחות והמנעולים בימי קדם היו גדולים הרבה יותר מאשר בימינו. וּפָתַח וְאֵין סֹגֵר, וְסָגַר וְאֵין פֹּתֵחַ. הוא יהיה האחראי הבלעדי.",
+    "וּתְקַעְתִּיו כיָתֵד בְּמָקוֹם נֶאֱמָן, חזק, שהיתד תיאחז בו היטב, וְהָיָה לְכִסֵּא כָבוֹד לְבֵית אָבִיו. משפחתו תתכבד בו.",
+    "וכהמשך לדימוי היתד התקועה איתן בקיר — וְתָלוּ עָלָיו את כֹּל כְּבוֹד בֵּית אָבִיו, את הַצֶּאֱצָאִים וְהַצְּפִעוֹת, הבנים והבנות, שכן הוא לאב לבית יהודה, ואת כֹּל כְּלֵי הַקָּטָן, הכלים הקטנים. מִכְּלֵי הָאַגָּנוֹת, כלי חרס הדומים לספלים, וְעַד כָּל כְּלֵי הַנְּבָלִים, כלי חרס המשמשים בעיקר לנוזלים. כלומר, הכול יסמכו על אליקים, היתד הנאמנה, וייתלו בו גם בדברים הפעוטים.",
+    "אולם, גם מחליפו של שבנא אשר יחוש יציבות במשרתו — סופו ליפול. בַּיּוֹם הַהוּא, נְאֻם ה' צְבָאוֹת, תָּמוּשׁ, תזוז ותיעקר הַיָּתֵד הַתְּקוּעָה בְּמָקוֹם נֶאֱמָן, וְנִגְדְּעָה וְנָפְלָה. וְנִכְרַת הַמַּשָּׂא אֲשֶׁר עָלֶיהָ, כל כלי החרס התלויים בה, ייהרסו לחלוטין. כִּי ה' דִּבֵּר."
+  ],
+  "ai_explanation": [
+    "״גֵּיא חִזָּיוֹן״ הוא כינוי סמלי לירושלים, שהייתה מקום של השראה וחזיונות, גם קשים, ופעלו בה חוזים רבים. הנביא תוהה מדוע כל אנשי העיר עלו לגגות — כדי לזהות אויבים מתקרבים או כדי לחגוג ולשתות שם.",
+    "העיר מלאה קולות, המולה והתרחשויות, והיא מתוארת כעיר עליזה. חלליה אינם חללי חרב או מתֵי מלחמה, וייתכן שהנביא רומז לפגיעות בנפש שנגרמו מהוללות ומשכרות.",
+    "קציני הצבא נסו יחד, כביכול כשהם אסורים ואינם מסוגלים להשתמש בקשת. כל הנמצאים בעיר הוסגרו לאויב, והקצינים עושי המלחמה ברחו מרחוק.",
+    "הנביא מבקש שיניחו לו וייתנו לו למרר בבכי. הוא אינו רוצה שידחקו בו להתנחם על האסון שפקד את ירושלים, המכונה בת עמו.",
+    "זהו יום של מהומה, תבוסה ובלבול בירושלים. האויב מקעקע את הקירות או שקול המהומה נשמע כשבירת קירות, ואנשי העיר פונים אל ההר כדי להיערך למתקפה.",
+    "צבא אשור כולל גם צבאות אחרים, ובהם עילם, שבניו היו בעיקר קשתים ונשאו אשפות חצים. קיר, עם צפוני, שלף את מגיניו או הקים דייק מול החומה.",
+    "העמקים המובחרים של ירושלים מתמלאים ברכבי מלחמה. הפרשים מכוונים את פניהם אל שער העיר כדי להתכונן לקרב.",
+    "כיסוי ההגנה מעל ממלכת יהודה מוסר, והיא נחשפת ונבחנת מבחינה צבאית. אנשי ירושלים פונים אל מחסן הנשק המרכזי, שנקרא בית יער הלבנון, כדי לבדוק אותו.",
+    "אנשי ירושלים רואים שבחומות עיר דוד יש בקיעים רבים. הם אוספים את מי הברֵכה התחתונה כדי להכניסם אל תוך העיר.",
+    "הם סופרים את בתי ירושלים וסותרים אותם כדי להשתמש באבנים לביצור החומה ולסתימת הבקיעים שבה.",
+    "הם יוצרים מאגר מים בין החומות עבור מי הברכה הישנה. למרות כל הפעילות בביצור העיר, הם אינם פונים אל האל שעשה את העיר ואינם רואים את יוצרה ומקורה.",
+    "ה' קורא ביום ההוא לבכי, למספד, לקרחה וללבישת שק — ביטויי אבל שונים. הסכנה לירושלים גדולה ונראה שסופה של הממלכה קרב.",
+    "בניגוד למצופה, אנשי העיר מגיבים בששון ובשמחה: הם שוחטים בקר וצאן, אוכלים בשר ושותים יין. גישתם היא: נאכל ונשתה, כי מחר נמות.",
+    "ה' מודיע שהעוון הזה — האדישות והאטימות לנוכח המצב — לא יכופר להם עד מותם.",
+    "הנביא מצוּוה ללכת אל שבנא, הממונה על בית המלך, שתפקידו דומה לראש ממשלה, ולמסור לו את דבר ה'.",
+    "שבנא הכין לעצמו קבר מפואר החצוב בהר ובסלע, כאילו ביקש להנציח את מעמדו. בכך הצהיר שגם אם אינו מלך, הוא מבקש שכל דבר ייעשה על פיו.",
+    "ה' יטלטל את שבנא טלטלה עצומה ויעטוף אותו כמי שמתאבל או כמצורע.",
+    "ה' יגלגל את שבנא ככדור אל ארץ רחבת ידיים, כלומר אל ממלכת אשור הגדולה. שם ימותו הוא ומרכבות הכבוד שלו, שיהפכו לקלון לבית אדוניו.",
+    "שבנא יודח מתפקידו וממעמדו, ומעמדו ייהרס עד שייפול וישבר.",
+    "במקומו יקרא ה' לאליקים בן חלקיהו, עבדו, כדי שימלא את תפקידו.",
+    "אליקים יקבל את בגדי השרד ואת חגורת התפקיד של שבנא, ואת סמכות הממשל ייתן ה' בידו. הוא יהיה מנהיג נאמן ומסור ליושבי ירושלים ולבית יהודה, כאב לעם.",
+    "ה' ייתן לאליקים את מפתח בית דוד על שכמו. הוא יהיה בעל הסמכות לפתוח ולסגור, כלומר האחראי הבלעדי.",
+    "אליקים ייתקע כיתד במקום חזק ונאמן, ויהיה מקור כבוד לבית אביו.",
+    "על אליקים יישען כל בית אביו: בניו ובנותיו וכל צורכי הבית, מן הכלים הקטנים ועד כלי הנוזלים. כולם ייתלו בו ויסמכו עליו גם בעניינים פעוטים.",
+    "אף על פי שאליקים נראה כיתד יציבה, גם הוא ייעקר בסופו של דבר. כל מה שתלוי בו ייפול וייהרס, משום שה' דיבר."
+  ],
+  "ai_explanation_en": [
+    "“The Valley of Vision” is a symbolic name for Jerusalem, a place of inspiration and visions, including difficult ones, where many prophets operated. The prophet wonders why everyone has gone up to the rooftops—to watch for approaching enemies or to celebrate and drink there.",
+    "The city is full of sounds, bustle, and activity, and is described as a joyful city. Its dead are not victims of the sword or of war, and the prophet may be hinting at deaths caused by revelry and drunkenness.",
+    "The military officers flee together, as though bound and unable to use their bows. Everyone found inside the city is handed over to the enemy, while the military commanders flee from far away.",
+    "The prophet asks to be left alone so that he may weep bitterly. He does not want people to press him to accept consolation for the disaster that has struck Jerusalem, called the daughter of his people.",
+    "This is a day of confusion, defeat, and disorder in Jerusalem. The enemy is breaking through or undermining the walls, or the noise of the turmoil sounds like walls being shattered, while the people turn toward the mountain to prepare for attack.",
+    "The Assyrian army includes other forces as well, including Elam, whose people were mainly archers and carried quivers of arrows. Kir, a northern people, brings out its shields or builds a siege ramp opposite the wall.",
+    "The choice valleys of Jerusalem fill with war chariots. The cavalry face toward the city gate in preparation for battle.",
+    "The protective covering over the kingdom of Judah is removed, leaving it exposed and subject to military examination. The people of Jerusalem turn to the central weapons storehouse, called the House of the Forest of Lebanon, to inspect it.",
+    "The people of Jerusalem see that there are many breaches in the walls of the City of David. They gather the water of the Lower Pool in order to bring it inside the city.",
+    "They count the houses of Jerusalem and demolish them so that their stones can be used to fortify the wall and fill its breaches.",
+    "They make a water reservoir between the walls for the water of the Old Pool. Despite all their efforts to fortify the city, they do not turn to the God who made it and do not see its Creator and source.",
+    "The Lord calls for weeping, mourning, shaving, and wearing sackcloth on that day—different expressions of grief. Great danger hangs over Jerusalem, and the end of the kingdom appears near.",
+    "Contrary to what the situation calls for, the people respond with celebration and joy: they slaughter cattle and sheep, eat meat, and drink wine. Their attitude is: let us eat and drink, for tomorrow we die.",
+    "The Lord declares that this sin—their indifference and insensitivity in the face of the situation—will not be forgiven until they die.",
+    "The prophet is commanded to go to Shebna, the official over the royal household, whose position resembles that of a prime minister, and deliver the Lord’s message to him.",
+    "Shebna prepared for himself a lavish tomb hewn in the mountain and rock, as though he wished to preserve his prestigious status. By doing so, he declared that although he was not king, he expected everything to be done according to his word.",
+    "The Lord will shake Shebna with a tremendous shaking and wrap him like a mourner or a leper.",
+    "The Lord will hurl Shebna like a ball into a spacious land, meaning the great kingdom of Assyria. There he and his chariots of honor will meet their end, becoming a disgrace to his master’s household.",
+    "Shebna will be removed from his position and status, and his rank will be destroyed until he falls and breaks.",
+    "In his place, the Lord will call Eliakim son of Hilkiah, His servant, to fill the position.",
+    "Eliakim will receive Shebna’s official garments and belt, and the Lord will place the authority of government in his hand. He will be a loyal and devoted leader to the inhabitants of Jerusalem and to the house of Judah, like a father to the people.",
+    "The Lord will place the key of the House of David on Eliakim’s shoulder. He will have authority to open and close, meaning that he will be solely responsible.",
+    "Eliakim will be fixed like a peg in a strong and trustworthy place, and he will bring honor to his father’s household.",
+    "The whole household of his father will depend on Eliakim: sons and daughters and every household need, from the smallest vessels to containers for liquids. Everyone will hang upon him and rely on him even for minor matters.",
+    "Although Eliakim appears to be a stable peg, he too will eventually be uprooted. Everything hanging upon him will fall and be destroyed, because the Lord has spoken."
+  ],
+  "perush": [
+    "״גֵּיא חִזָּיוֹן״ הוא כינוי סמלי לירושלים, שהייתה מקום של השראה וחזיונות, גם קשים, ופעלו בה חוזים רבים. הנביא תוהה מדוע כל אנשי העיר עלו לגגות — כדי לזהות אויבים מתקרבים או כדי לחגוג ולשתות שם.",
+    "העיר מלאה קולות, המולה והתרחשויות, והיא מתוארת כעיר עליזה. חלליה אינם חללי חרב או מתֵי מלחמה, וייתכן שהנביא רומז לפגיעות בנפש שנגרמו מהוללות ומשכרות.",
+    "קציני הצבא נסו יחד, כביכול כשהם אסורים ואינם מסוגלים להשתמש בקשת. כל הנמצאים בעיר הוסגרו לאויב, והקצינים עושי המלחמה ברחו מרחוק.",
+    "הנביא מבקש שיניחו לו וייתנו לו למרר בבכי. הוא אינו רוצה שידחקו בו להתנחם על האסון שפקד את ירושלים, המכונה בת עמו.",
+    "זהו יום של מהומה, תבוסה ובלבול בירושלים. האויב מקעקע את הקירות או שקול המהומה נשמע כשבירת קירות, ואנשי העיר פונים אל ההר כדי להיערך למתקפה.",
+    "צבא אשור כולל גם צבאות אחרים, ובהם עילם, שבניו היו בעיקר קשתים ונשאו אשפות חצים. קיר, עם צפוני, שלף את מגיניו או הקים דייק מול החומה.",
+    "העמקים המובחרים של ירושלים מתמלאים ברכבי מלחמה. הפרשים מכוונים את פניהם אל שער העיר כדי להתכונן לקרב.",
+    "כיסוי ההגנה מעל ממלכת יהודה מוסר, והיא נחשפת ונבחנת מבחינה צבאית. אנשי ירושלים פונים אל מחסן הנשק המרכזי, שנקרא בית יער הלבנון, כדי לבדוק אותו.",
+    "אנשי ירושלים רואים שבחומות עיר דוד יש בקיעים רבים. הם אוספים את מי הברֵכה התחתונה כדי להכניסם אל תוך העיר.",
+    "הם סופרים את בתי ירושלים וסותרים אותם כדי להשתמש באבנים לביצור החומה ולסתימת הבקיעים שבה.",
+    "הם יוצרים מאגר מים בין החומות עבור מי הברכה הישנה. למרות כל הפעילות בביצור העיר, הם אינם פונים אל האל שעשה את העיר ואינם רואים את יוצרה ומקורה.",
+    "ה' קורא ביום ההוא לבכי, למספד, לקרחה וללבישת שק — ביטויי אבל שונים. הסכנה לירושלים גדולה ונראה שסופה של הממלכה קרב.",
+    "בניגוד למצופה, אנשי העיר מגיבים בששון ובשמחה: הם שוחטים בקר וצאן, אוכלים בשר ושותים יין. גישתם היא: נאכל ונשתה, כי מחר נמות.",
+    "ה' מודיע שהעוון הזה — האדישות והאטימות לנוכח המצב — לא יכופר להם עד מותם.",
+    "הנביא מצוּוה ללכת אל שבנא, הממונה על בית המלך, שתפקידו דומה לראש ממשלה, ולמסור לו את דבר ה'.",
+    "שבנא הכין לעצמו קבר מפואר החצוב בהר ובסלע, כאילו ביקש להנציח את מעמדו. בכך הצהיר שגם אם אינו מלך, הוא מבקש שכל דבר ייעשה על פיו.",
+    "ה' יטלטל את שבנא טלטלה עצומה ויעטוף אותו כמי שמתאבל או כמצורע.",
+    "ה' יגלגל את שבנא ככדור אל ארץ רחבת ידיים, כלומר אל ממלכת אשור הגדולה. שם ימותו הוא ומרכבות הכבוד שלו, שיהפכו לקלון לבית אדוניו.",
+    "שבנא יודח מתפקידו וממעמדו, ומעמדו ייהרס עד שייפול וישבר.",
+    "במקומו יקרא ה' לאליקים בן חלקיהו, עבדו, כדי שימלא את תפקידו.",
+    "אליקים יקבל את בגדי השרד ואת חגורת התפקיד של שבנא, ואת סמכות הממשל ייתן ה' בידו. הוא יהיה מנהיג נאמן ומסור ליושבי ירושלים ולבית יהודה, כאב לעם.",
+    "ה' ייתן לאליקים את מפתח בית דוד על שכמו. הוא יהיה בעל הסמכות לפתוח ולסגור, כלומר האחראי הבלעדי.",
+    "אליקים ייתקע כיתד במקום חזק ונאמן, ויהיה מקור כבוד לבית אביו.",
+    "על אליקים יישען כל בית אביו: בניו ובנותיו וכל צורכי הבית, מן הכלים הקטנים ועד כלי הנוזלים. כולם ייתלו בו ויסמכו עליו גם בעניינים פעוטים.",
+    "אף על פי שאליקים נראה כיתד יציבה, גם הוא ייעקר בסופו של דבר. כל מה שתלוי בו ייפול וייהרס, משום שה' דיבר."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "העיר העליזה מול יום המהומה",
+      "title_en": "The Joyful City Facing a Day of Turmoil",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "ירושלים מתוארת כעיר הומה ועליזה, שאנשיה נמצאים על הגגות, אך המציאות היא של מנוסה, מצור, תבוסה והיערכות צבאית של האויב.",
+      "summary_en": "Jerusalem is portrayed as a bustling and joyful city whose people are on the rooftops, but the reality is flight, siege, defeat, and the enemy’s military preparations.",
+      "image_prompt": "A symbolic biblical-era Jerusalem scene: people gathered on rooftops while confusion spreads below, distant enemy forces with archers, chariots, cavalry, shields, and a siege ramp; solemn historical atmosphere, no modern objects."
+    },
+    {
+      "title": "ההכנות למצור וההתעלמות מיוצר העיר",
+      "title_en": "Preparations for the Siege and Forgetting the City’s Creator",
+      "start_verse": 8,
+      "end_verse": 14,
+      "summary": "אנשי ירושלים בודקים את הנשק, את החומות ואת מקורות המים, סותרים בתים לצורך ביצורים, אך אינם פונים אל האל. במקום אבל ותשובה הם בוחרים בששון, באכילה ובשתייה.",
+      "summary_en": "The people of Jerusalem inspect weapons, walls, and water supplies, demolish houses for fortifications, but do not turn to God. Instead of mourning and repentance, they choose celebration, eating, and drinking.",
+      "image_prompt": "A biblical city under threat: workers repairing breached walls, gathering water into a reservoir, inspecting a weapons storehouse, while a nearby group feasts and drinks; a serious prophetic mood, historically grounded, no modern elements."
+    },
+    {
+      "title": "נפילתו של שבנא",
+      "title_en": "The Downfall of Shebna",
+      "start_verse": 15,
+      "end_verse": 19,
+      "summary": "שבנא, הממונה על בית המלך, מואשם ביוהרה ובהכנת קבר מפואר לעצמו. הוא יטולטל, יוגלה לארץ רחבת ידיים ויודח ממעמדו.",
+      "summary_en": "Shebna, the official over the royal household, is condemned for pride and for preparing a lavish tomb for himself. He will be shaken, sent to a spacious land, and removed from his position.",
+      "image_prompt": "A proud biblical official standing beside a lavish rock-hewn tomb, while a prophetic vision shows him being cast away toward a distant spacious land; dramatic but restrained ancient Near Eastern setting, no modern objects."
+    },
+    {
+      "title": "עליית אליקים ונפילתה של היתד",
+      "title_en": "Eliakim’s Appointment and the Fall of the Peg",
+      "start_verse": 20,
+      "end_verse": 25,
+      "summary": "אליקים בן חלקיהו מתמנה במקום שבנא, מקבל סמכות על בית דוד ונעשה משען לבית יהודה. אולם גם היתד הנאמנה תיעקר לבסוף, וכל מה שתלוי בה ייפול.",
+      "summary_en": "Eliakim son of Hilkiah replaces Shebna, receives authority over the House of David, and becomes a support for the house of Judah. Yet even this trustworthy peg will eventually be uprooted, and everything hanging upon it will fall.",
+      "image_prompt": "A symbolic biblical installation scene: a trusted official receiving a large key and standing like a firmly fixed wooden peg, with household vessels hanging from it; in the background, the peg begins to loosen, suggesting eventual collapse, no modern objects."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 10.88,
+      "usfm": "ISA.22.1"
+    },
+    {
+      "start": 10.88,
+      "end": 20.54,
+      "usfm": "ISA.22.2"
+    },
+    {
+      "start": 20.54,
+      "end": 30.96,
+      "usfm": "ISA.22.3"
+    },
+    {
+      "start": 30.96,
+      "end": 42.22,
+      "usfm": "ISA.22.4"
+    },
+    {
+      "start": 42.22,
+      "end": 54.04,
+      "usfm": "ISA.22.5"
+    },
+    {
+      "start": 54.04,
+      "end": 61.64,
+      "usfm": "ISA.22.6"
+    },
+    {
+      "start": 61.64,
+      "end": 71.58,
+      "usfm": "ISA.22.7"
+    },
+    {
+      "start": 71.58,
+      "end": 78.86,
+      "usfm": "ISA.22.8"
+    },
+    {
+      "start": 78.86,
+      "end": 87.26,
+      "usfm": "ISA.22.9"
+    },
+    {
+      "start": 87.26,
+      "end": 94.18,
+      "usfm": "ISA.22.10"
+    },
+    {
+      "start": 94.18,
+      "end": 106.72,
+      "usfm": "ISA.22.11"
+    },
+    {
+      "start": 106.72,
+      "end": 115.86,
+      "usfm": "ISA.22.12"
+    },
+    {
+      "start": 115.86,
+      "end": 126.96,
+      "usfm": "ISA.22.13"
+    },
+    {
+      "start": 126.96,
+      "end": 138.12,
+      "usfm": "ISA.22.14"
+    },
+    {
+      "start": 138.12,
+      "end": 147.96,
+      "usfm": "ISA.22.15"
+    },
+    {
+      "start": 147.96,
+      "end": 161.36,
+      "usfm": "ISA.22.16"
+    },
+    {
+      "start": 161.36,
+      "end": 167.96,
+      "usfm": "ISA.22.17"
+    },
+    {
+      "start": 167.96,
+      "end": 181.38,
+      "usfm": "ISA.22.18"
+    },
+    {
+      "start": 181.38,
+      "end": 187.46,
+      "usfm": "ISA.22.19"
+    },
+    {
+      "start": 187.46,
+      "end": 194.04,
+      "usfm": "ISA.22.20"
+    },
+    {
+      "start": 194.04,
+      "end": 207.1,
+      "usfm": "ISA.22.21"
+    },
+    {
+      "start": 207.1,
+      "end": 218.0,
+      "usfm": "ISA.22.22"
+    },
+    {
+      "start": 218.0,
+      "end": 225.08,
+      "usfm": "ISA.22.23"
+    },
+    {
+      "start": 225.08,
+      "end": 237.06,
+      "usfm": "ISA.22.24"
+    },
+    {
+      "start": 237.06,
+      "end": 259.6,
+      "usfm": "ISA.22.25"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    10.88,
+    20.54,
+    30.96,
+    42.22,
+    54.04,
+    61.64,
+    71.58,
+    78.86,
+    87.26,
+    94.18,
+    106.72,
+    115.86,
+    126.96,
+    138.12,
+    147.96,
+    161.36,
+    167.96,
+    181.38,
+    187.46,
+    194.04,
+    207.1,
+    218.0,
+    225.08,
+    237.06,
+    259.6
+  ],
+  "times_en_usfm": [
+    "ISA.22.1",
+    "ISA.22.2",
+    "ISA.22.3",
+    "ISA.22.4",
+    "ISA.22.5",
+    "ISA.22.6",
+    "ISA.22.7",
+    "ISA.22.8",
+    "ISA.22.9",
+    "ISA.22.10",
+    "ISA.22.11",
+    "ISA.22.12",
+    "ISA.22.13",
+    "ISA.22.14",
+    "ISA.22.15",
+    "ISA.22.16",
+    "ISA.22.17",
+    "ISA.22.18",
+    "ISA.22.19",
+    "ISA.22.20",
+    "ISA.22.21",
+    "ISA.22.22",
+    "ISA.22.23",
+    "ISA.22.24",
+    "ISA.22.25"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הפרק פותח בתיאור של \"גֵּיא חִזָּיוֹן\" ועיר שבה אנשים עולים לגגות. העלייה לגגות מוצגת כחלק מהמהומה בעיר, ולא כאירוע חגיגי בלבד.",
+      "text_he": "הפרק פותח בתיאור של \"גֵּיא חִזָּיוֹן\" ועיר שבה אנשים עולים לגגות. העלייה לגגות מוצגת כחלק מהמהומה בעיר, ולא כאירוע חגיגי בלבד.",
+      "text_en": "The chapter opens by describing the “Valley of Vision” and a city where people are climbing onto the rooftops. Climbing onto the roofs is presented as part of the turmoil in the city, not merely as a festive event."
+    },
+    {
+      "verse": 3,
+      "text": "מנהיגי העיר אינם עומדים להגן עליה: השרים נודדים יחד, חלקם נאסרים, והנמצאים בה בורחים מרחוק.",
+      "text_he": "מנהיגי העיר אינם עומדים להגן עליה: השרים נודדים יחד, חלקם נאסרים, והנמצאים בה בורחים מרחוק.",
+      "text_en": "The city’s leaders do not stand to defend it: the officials flee together, some are captured, and those who remain flee into the distance."
+    },
+    {
+      "verse": 6,
+      "text": "בין כוחות האויב נזכרים עילם, אשפות, רכב, פרשים ומגינים. התיאור מדגיש שהאיום על העיר הוא צבאי ומאורגן.",
+      "text_he": "בין כוחות האויב נזכרים עילם, אשפות, רכב, פרשים ומגינים. התיאור מדגיש שהאיום על העיר הוא צבאי ומאורגן.",
+      "text_en": "Among the enemy forces mentioned are Elam, quivers, chariots, horsemen, and shields. The description emphasizes that the threat to the city is military and organized."
+    },
+    {
+      "verse": 8,
+      "text": "בזמן הסכנה אנשי יהודה פונים אל כלי הנשק שבבית היער, כלומר אל מחסן הנשק, כדי להתכונן להגנת העיר.",
+      "text_he": "בזמן הסכנה אנשי יהודה פונים אל כלי הנשק שבבית היער, כלומר אל מחסן הנשק, כדי להתכונן להגנת העיר.",
+      "text_en": "In the midst of the danger, the people of Judah turn to the weapons in the House of the Forest—that is, the armory—to prepare to defend the city."
+    },
+    {
+      "verse": 9,
+      "text": "ההכנות למצור כוללות בדיקת פרצות בעיר דוד ואגירת מים בבריכה התחתונה.",
+      "text_he": "ההכנות למצור כוללות בדיקת פרצות בעיר דוד ואגירת מים בבריכה התחתונה.",
+      "text_en": "The preparations for the siege include inspecting the breaches in the City of David and storing water in the Lower Pool."
+    },
+    {
+      "verse": 10,
+      "text": "אנשי ירושלים סופרים את הבתים ואף הורסים חלק מהם כדי לחזק את החומה. לצד זאת הם יוצרים מאגר מים בין החומות, אך אינם פונים אל האל שיצר את העיר.",
+      "text_he": "אנשי ירושלים סופרים את הבתים ואף הורסים חלק מהם כדי לחזק את החומה. לצד זאת הם יוצרים מאגר מים בין החומות, אך אינם פונים אל האל שיצר את העיר.",
+      "text_en": "The people of Jerusalem count the houses and even demolish some of them to strengthen the wall. At the same time, they build a reservoir between the walls, but they do not turn to the God who made the city."
+    },
+    {
+      "verse": 13,
+      "text": "במקום לבכות ולהתאבל, תושבי העיר בוחרים בששון, באכילת בשר ובשתיית יין, ואף אומרים: \"אָכוֹל וְשָׁתוֹ, כִּי מָחָר נָמוּת\". הנביא מציג זאת כתגובה חמורה לסכנה.",
+      "text_he": "במקום לבכות ולהתאבל, תושבי העיר בוחרים בששון, באכילת בשר ובשתיית יין, ואף אומרים: \"אָכוֹל וְשָׁתוֹ, כִּי מָחָר נָמוּת\". הנביא מציג זאת כתגובה חמורה לסכנה.",
+      "text_en": "Instead of weeping and mourning, the people choose joy, eating meat and drinking wine, and even say, “Let us eat and drink, for tomorrow we die.” The prophet presents this as a serious response to the danger."
+    },
+    {
+      "verse": 15,
+      "text": "שבנא מתואר כ\"הסוכן אשר על הבית\" — בעל תפקיד בכיר בבית המלך. הנביא מוכיח אותו על כך שחצב לעצמו קבר מפואר בסלע.",
+      "text_he": "שבנא מתואר כ\"הסוכן אשר על הבית\" — בעל תפקיד בכיר בבית המלך. הנביא מוכיח אותו על כך שחצב לעצמו קבר מפואר בסלע.",
+      "text_en": "Shebna is described as “the official in charge of the palace,” a high-ranking official in the royal court. The prophet rebukes him for having carved out a magnificent tomb for himself in the rock."
+    },
+    {
+      "verse": 21,
+      "text": "אליקים בן חלקיהו מתמנה במקום שבנא ומקבל את בגדו, אבנטו וסמכותו. תפקידו מתואר גם כאחריות אבהית כלפי יושבי ירושלים ובית יהודה.",
+      "text_he": "אליקים בן חלקיהו מתמנה במקום שבנא ומקבל את בגדו, אבנטו וסמכותו. תפקידו מתואר גם כאחריות אבהית כלפי יושבי ירושלים ובית יהודה.",
+      "text_en": "Eliakim son of Hilkiah is appointed in Shebna’s place and receives his clothing, sash, and authority. His role is also described as carrying paternal responsibility for the people of Jerusalem and the house of Judah."
+    },
+    {
+      "verse": 22,
+      "text": "המפתח של בית דוד ניתן על כתפו של אליקים. לפי דימוי הפרק, מי שמחזיק במפתח רשאי לפתוח ולסגור, ולכן המפתח מסמל סמכות שלטונית.",
+      "text_he": "המפתח של בית דוד ניתן על כתפו של אליקים. לפי דימוי הפרק, מי שמחזיק במפתח רשאי לפתוח ולסגור, ולכן המפתח מסמל סמכות שלטונית.",
+      "text_en": "The key to the house of David is placed on Eliakim’s shoulder. According to the chapter’s imagery, whoever holds the key has the authority to open and shut, so the key symbolizes governing authority."
+    },
+    {
+      "verse": 25,
+      "text": "גם ה\"יתד\" שנראית תקועה במקום נאמן עתידה להיעקר. הפרק מזהיר שגם מעמד יציב לכאורה וכל מה שתלוי בו עלולים לקרוס.",
+      "text_he": "גם ה\"יתד\" שנראית תקועה במקום נאמן עתידה להיעקר. הפרק מזהיר שגם מעמד יציב לכאורה וכל מה שתלוי בו עלולים לקרוס.",
+      "text_en": "Even the “peg” that appears to be firmly fastened in a secure place will eventually be pulled out. The chapter warns that even seemingly stable positions—and everything dependent on them—can collapse."
+    }
+  ]
+}

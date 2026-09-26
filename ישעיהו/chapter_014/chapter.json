@@ -1,0 +1,563 @@
+{
+  "book": "Isaiah",
+  "book_he": "ישעיהו",
+  "book_chapters": 66,
+  "chapter": 14,
+  "title": "ישעיהו פרק 14",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1014.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1014.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ISA/14-b159998e5ba37e6ac1b0d0a12a635d22.mp3?version_id=1",
+  "verses": [
+    "כִּי יְרַחֵם יְהוָה אֶת-יַעֲקֹב, וּבָחַר עוֹד בְּיִשְׂרָאֵל, וְהִנִּיחָם, עַל-אַדְמָתָם; וְנִלְוָה הַגֵּר עֲלֵיהֶם, וְנִסְפְּחוּ עַל-בֵּית יַעֲקֹב.",
+    "וּלְקָחוּם עַמִּים, וֶהֱבִיאוּם אֶל-מְקוֹמָם, וְהִתְנַחֲלוּם בֵּית-יִשְׂרָאֵל עַל אַדְמַת יְהוָה, לַעֲבָדִים וְלִשְׁפָחוֹת; וְהָיוּ שֹׁבִים לְשֹׁבֵיהֶם, וְרָדוּ בְּנֹגְשֵׂיהֶם.",
+    "וְהָיָה, בְּיוֹם הָנִיחַ יְהוָה לְךָ, מֵעָצְבְּךָ, וּמִרָגְזֶךָ--וּמִן-הָעֲבֹדָה הַקָּשָׁה, אֲשֶׁר עֻבַּד-בָּךְ.",
+    "וְנָשָׂאתָ הַמָּשָׁל הַזֶּה, עַל-מֶלֶךְ בָּבֶל--וְאָמָרְתָּ: אֵיךְ שָׁבַת נֹגֵשׂ, שָׁבְתָה מַדְהֵבָה.",
+    "שָׁבַר יְהוָה, מַטֵּה רְשָׁעִים--שֵׁבֶט, מֹשְׁלִים.",
+    "מַכֶּה עַמִּים בְּעֶבְרָה, מַכַּת בִּלְתִּי סָרָה; רֹדֶה בָאַף גּוֹיִם, מֻרְדָּף בְּלִי חָשָׂךְ.",
+    "נָחָה שָׁקְטָה, כָּל-הָאָרֶץ; פָּצְחוּ, רִנָּה.",
+    "גַּם-בְּרוֹשִׁים שָׂמְחוּ לְךָ, אַרְזֵי לְבָנוֹן; מֵאָז שָׁכַבְתָּ, לֹא-יַעֲלֶה הַכֹּרֵת עָלֵינוּ.",
+    "שְׁאוֹל, מִתַּחַת רָגְזָה לְךָ--לִקְרַאת בּוֹאֶךָ; עוֹרֵר לְךָ רְפָאִים, כָּל-עַתּוּדֵי אָרֶץ--הֵקִים מִכִּסְאוֹתָם, כֹּל מַלְכֵי גוֹיִם.",
+    "כֻּלָּם יַעֲנוּ, וְיֹאמְרוּ אֵלֶיךָ: גַּם-אַתָּה חֻלֵּיתָ כָמוֹנוּ, אֵלֵינוּ נִמְשָׁלְתָּ.",
+    "הוּרַד שְׁאוֹל גְּאוֹנֶךָ, הֶמְיַת נְבָלֶיךָ; תַּחְתֶּיךָ יֻצַּע רִמָּה, וּמְכַסֶּיךָ תּוֹלֵעָה.",
+    "אֵיךְ נָפַלְתָּ מִשָּׁמַיִם, הֵילֵל בֶּן-שָׁחַר; נִגְדַּעְתָּ לָאָרֶץ, חוֹלֵשׁ עַל-גּוֹיִם.",
+    "וְאַתָּה אָמַרְתָּ בִלְבָבְךָ, הַשָּׁמַיִם אֶעֱלֶה--מִמַּעַל לְכוֹכְבֵי-אֵל, אָרִים כִּסְאִי; וְאֵשֵׁב בְּהַר-מוֹעֵד, בְּיַרְכְּתֵי צָפוֹן.",
+    "אֶעֱלֶה, עַל-בָּמֳתֵי עָב; אֶדַּמֶּה, לְעֶלְיוֹן.",
+    "אַךְ אֶל-שְׁאוֹל תּוּרָד, אֶל-יַרְכְּתֵי-בוֹר.",
+    "רֹאֶיךָ אֵלֶיךָ יַשְׁגִּיחוּ, אֵלֶיךָ יִתְבּוֹנָנוּ: הֲזֶה הָאִישׁ מַרְגִּיז הָאָרֶץ, מַרְעִישׁ מַמְלָכוֹת.",
+    "שָׂם תֵּבֵל כַּמִּדְבָּר, וְעָרָיו הָרָס; אֲסִירָיו, לֹא-פָתַח בָּיְתָה.",
+    "כָּל-מַלְכֵי גוֹיִם, כֻּלָּם--שָׁכְבוּ בְכָבוֹד, אִישׁ בְּבֵיתוֹ.",
+    "וְאַתָּה הָשְׁלַכְתָּ מִקִּבְרְךָ, כְּנֵצֶר נִתְעָב--לְבֻשׁ הֲרֻגִים, מְטֹעֲנֵי חָרֶב; יוֹרְדֵי אֶל-אַבְנֵי-בוֹר, כְּפֶגֶר מוּבָס.",
+    "לֹא-תֵחַד אִתָּם בִּקְבוּרָה, כִּי-אַרְצְךָ שִׁחַתָּ עַמְּךָ הָרָגְתָּ; לֹא-יִקָּרֵא לְעוֹלָם, זֶרַע מְרֵעִים.",
+    "הָכִינוּ לְבָנָיו מַטְבֵּחַ, בַּעֲוֺן אֲבוֹתָם; בַּל-יָקֻמוּ וְיָרְשׁוּ אָרֶץ, וּמָלְאוּ פְנֵי-תֵבֵל עָרִים.",
+    "וְקַמְתִּי עֲלֵיהֶם, נְאֻם יְהוָה צְבָאוֹת; וְהִכְרַתִּי לְבָבֶל שֵׁם וּשְׁאָר, וְנִין וָנֶכֶד--נְאֻם-יְהוָה.",
+    "וְשַׂמְתִּיהָ לְמוֹרַשׁ קִפֹּד, וְאַגְמֵי-מָיִם; וְטֵאטֵאתִיהָ בְּמַטְאֲטֵא הַשְׁמֵד, נְאֻם יְהוָה צְבָאוֹת.",
+    "נִשְׁבַּע יְהוָה צְבָאוֹת, לֵאמֹר: אִם-לֹא כַּאֲשֶׁר דִּמִּיתִי, כֵּן הָיָתָה, וְכַאֲשֶׁר יָעַצְתִּי, הִיא תָקוּם.",
+    "לִשְׁבֹּר אַשּׁוּר בְּאַרְצִי, וְעַל-הָרַי אֲבוּסֶנּוּ; וְסָר מֵעֲלֵיהֶם, עֻלּוֹ, וְסֻבֳּלוֹ, מֵעַל שִׁכְמוֹ יָסוּר.",
+    "זֹאת הָעֵצָה הַיְּעוּצָה, עַל-כָּל-הָאָרֶץ; וְזֹאת הַיָּד הַנְּטוּיָה, עַל-כָּל-הַגּוֹיִם.",
+    "כִּי-יְהוָה צְבָאוֹת יָעָץ, וּמִי יָפֵר; וְיָדוֹ הַנְּטוּיָה, וּמִי יְשִׁיבֶנָּה.",
+    "בִּשְׁנַת-מוֹת, הַמֶּלֶךְ אָחָז, הָיָה, הַמַּשָּׂא הַזֶּה.",
+    "אַל-תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ, כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ: כִּי-מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע, וּפִרְיוֹ שָׂרָף מְעוֹפֵף.",
+    "וְרָעוּ בְּכוֹרֵי דַלִּים, וְאֶבְיוֹנִים לָבֶטַח יִרְבָּצוּ; וְהֵמַתִּי בָרָעָב שָׁרְשֵׁךְ, וּשְׁאֵרִיתֵךְ יַהֲרֹג.",
+    "הֵילִילִי שַׁעַר זַעֲקִי-עִיר, נָמוֹג פְּלֶשֶׁת כֻּלֵּךְ: כִּי מִצָּפוֹן עָשָׁן בָּא, וְאֵין בּוֹדֵד בְּמוֹעָדָיו.",
+    "וּמַה-יַּעֲנֶה, מַלְאֲכֵי-גוֹי: כִּי יְהוָה יִסַּד צִיּוֹן, וּבָהּ יֶחֱסוּ עֲנִיֵּי עַמּוֹ."
+  ],
+  "english": [
+    "For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
+    "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.",
+    "And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
+    "That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!",
+    "The Lord hath broken the staff of the wicked, and the sceptre of the rulers.",
+    "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.",
+    "The whole earth is at rest, and is quiet: they break forth into singing.",
+    "Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.",
+    "Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.",
+    "All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?",
+    "Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.",
+    "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!",
+    "For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:",
+    "I will ascend above the heights of the clouds; I will be like the most High.",
+    "Yet thou shalt be brought down to hell, to the sides of the pit.",
+    "They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;",
+    "That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?",
+    "All the kings of the nations, even all of them, lie in glory, every one in his own house.",
+    "But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.",
+    "Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned.",
+    "Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.",
+    "For I will rise up against them, saith the Lord of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the Lord.",
+    "I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the Lord of hosts.",
+    "The Lord of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:",
+    "That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.",
+    "This is the purpose that is purposed upon the whole earth: and this is the hand that is stretched out upon all the nations.",
+    "For the Lord of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?",
+    "In the year that king Ahaz died was this burden.",
+    "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.",
+    "And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.",
+    "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times.",
+    "What shall one then answer the messengers of the nation? That the Lord hath founded Zion, and the poor of his people shall trust in it."
+  ],
+  "steinsaltz": [
+    "מפלת בבל משחררת את גולי ישראל שבתוכה, ומהם ישובו לארץ נחלתם. כִּי, כאשר יְרַחֵם ה' אֶת יַעֲקֹב וּבָחַר עוֹד בְּיִשְׂרָאֵל, וְהִנִּיחָם עַל אַדְמָתָם לאחר שובם אליה — וְנִלְוָה הַגֵּר עֲלֵיהֶם, וְנִסְפְּחוּ עַל בֵּית יַעֲקֹב.",
+    "וּלְקָחוּם — את ישראל עַמִּים וֶהֱבִיאוּם אֶל מְקוֹמָם. העמים יסייעו בידם לחזור לארצם. עם זאת יבואו עמים, וְהִתְנַחֲלוּם — את העמים הללו בֵּית יִשְׂרָאֵל עַל אַדְמַת ה' לַעֲבָדִים וְלִשְׁפָחוֹת. וְהָיוּ אז ישראל שֹׁבִים לְשֹׁבֵיהֶם, וְרָדוּ, ימשלו בְּנֹגְשֵׂיהֶם. כאשר יתיישבו ישראל באדמתם, יהפכו אותם אנשים שהיו קודם שוביהם ומשעבדיהם, למשרתיהם ולאזרחים מדרגה שנייה.",
+    "וְהָיָה בְּיוֹם הָנִיחַ ה' לְךָ מֵעָצְבְּךָ, מצערך וּמֵרָגְזֶךָ וּמִן הָעֲבֹדָה הַקָּשָׁה אֲשֶׁר עֻבַּד בָּךְ, אפשר יהיה לערוך סיכומים על התקופה שהייתה, ולשיר שיר חדש.",
+    "וְנָשָׂאתָ אז את הַמָּשָׁל הַזֶּה עַל מֶלֶךְ בָּבֶל. וְאָמָרְתָּ: אֵיךְ שָׁבַת נֹגֵשׂ, בטל רודה שָׁבְתָה מַדְהֵבָה, עול השלטון?!",
+    "שָׁבַר ה' מַטֵּה רְשָׁעִים, שֵׁבֶט מֹשְׁלִים. המטה והשבט ממלאים תפקיד כפול: המקל המכה את העמים, ושרביט המלוכה והשלטון.",
+    "מַכֶּה עַמִּים בְּעֶבְרָה, בזעם מַכַּת בִּלְתִּי סָרָה, ללא הפוגה, רֹדֶה בָאַף, בכעס גּוֹיִם. מֻרְדָּף, נרדף בְּלִי חָשָׂךְ, מבלי להימנע. נראה שאין הוא מסוגל לנוח. הוא רודף מלחמות וגם רדוף מלחמות. עכשיו, אחרי מותו, העולם הפך שקט יותר —",
+    "נָחָה שָׁקְטָה כָּל הָאָרֶץ. פָּצְחוּ הכול רִנָּה, שירה.",
+    "גַּם בְּרוֹשִׁים שָׂמְחוּ לְךָ, על מותך, וגם אַרְזֵי לְבָנוֹן, כאומרים: מֵאָז שָׁכַבְתָּ לֹא יַעֲלֶה הַכֹּרֵת עָלֵינוּ. מלך בבל בנה ארמונות אדירים, וכרת עצים גדולים רבים לשם כך ולשם המצור שעשה על ערים רבות. כעת נרגעים אפילו העצים. רֵת עָלֵינוּ.",
+    "מן העבר השני, שְׁאוֹל מִתַּחַת רָגְזָה לְךָ לִקְרַאת בּוֹאֶךָ. כשאתה בא לגיהינום מתעוררות שם חרדה והתרגשות. עוֹרֵר לְךָ השאול רְפָאִים, מתים, כָּל עַתּוּדֵי אָרֶץ, כל האנשים שהיו גדולים בחייהם מתעוררים לקראתך. הֵקִים מִכִּסְאוֹתָם שבגיהינום כֹּל מַלְכֵי גוֹיִם.",
+    "כֻּלָּם יַעֲנוּ וְיֹאמְרוּ אֵלֶיךָ: גַּם אַתָּה, המלך הגדול המושל בכיפה, שנתפסת כאיתן טבע נצחי שדבר אינו יכול להזיזו, חֻלֵּיתָ, חלית, נחלשת כָמוֹנוּ, אֵלֵינוּ נִמְשָׁלְתָּ, נדמית לנו. הנה גם אתה מת.",
+    "הוּרַד אל שְׁאוֹל גְּאוֹנֶךָ, גאוותך הושפלה, הֶמְיַת נְבָלֶיךָ. המנגינות שהיו תמיד מנגנים לכבודך, הורדו גם הן מהבימה ונדַמו. אחרי שישבת בכבוד גדול ברומו של עולם — תַּחְתֶּיךָ יֻצַּע רִמָּה, תשכון דומם על מצע של רימה, וּמְכַסֶּיךָ תּוֹלֵעָה, ומעליך תולעים.",
+    "הנביא פונה אל המלך ואומר לו: אֵיךְ נָפַלְתָּ מִשָּׁמַיִם, הֵילֵל בֶּן שָׁחַר, כוכב נוגה, שהוא כוכב הלכת הבהיר ביותר המופיע בזמן השחר. היית ככוכב מזהיר, ועכשיו נפלת. נִגְדַּעְתָּ לָאָרֶץ, אתה שהיית חוֹלֵשׁ עַל גּוֹיִם.",
+    "וְאַתָּה אָמַרְתָּ בִלְבָבְךָ בעודך חי: הַשָּׁמַיִם אֶעֱלֶה, מִמַּעַל לְכוֹכְבֵי אֵל אָרִים כִּסְאִי וְאֵשֵׁב בְּהַר מוֹעֵד, במקום המתאים להתוועדות האלים, לדעתך, בְּיַרְכְּתֵי צָפוֹן, בצפון הנסתר, באזור שאליו אין השמש מגיעה.",
+    "אֶעֱלֶה עַל בָּמֳתֵי עָב, מעל לעננים, אֶדַּמֶּה לְעֶלְיוֹן.",
+    "אולם למרות כל רצונותיך, לבסוף אַךְ אֶל שְׁאוֹל תּוּרָד, אֶל יַרְכְּתֵי בוֹר. תיקבר בפינת בור.",
+    "ורֹאֶיךָ אֵלֶיךָ יַשְׁגִּיחוּ, אֵלֶיךָ יִתְבּוֹנָנוּ ויאמרו: הֲזֶה הָאִישׁ מַרְגִּיז הָאָרֶץ, מַרְעִישׁ מַמְלָכוֹת?! האם הגופה הזאת היא של מי שכל העולם רעד מפניו?!",
+    "האם זה המלך ששָׂם תֵּבֵל, עולם כַּמִּדְבָּר במלחמותיו, וְעָרָיו הָרָס, את אֲסִירָיו לֹא פָתַח בָּיְתָה, שחרר ללכת לביתם?",
+    "כָּל מַלְכֵי גוֹיִם אמנם מתים, אבל כֻּלָּם שָׁכְבוּ בְכָבוֹד אִישׁ בְּבֵיתוֹ, משום שלא יצרו התנגדות כה רבה גם אחרי מותם,",
+    "וְאילו אַתָּה הָשְׁלַכְתָּ מִקִּבְרְךָ כְּנֵצֶר נִתְעָב, כמו שעוקרים שתיל שאינו צומח כראוי, לְבוּשׁ הֲרֻגִים מְטֹעֲנֵי חָרֶב, בבגדים קרועים של חללי קרב דקורים, יוֹרְדֵי אֶל אַבְנֵי בוֹר כְּפֶגֶר מוּבָס, דרוס. כנופלים במלחמה שנותרו בשדה הקרב המושלכים לקבר כפגרים בלא שתוקם עליהם מצבה, כך יעלה בגורלך — לא תישאר בקברך המפואר, כשאר מלכים המתים על מיטתם בכבוד ובשקט.",
+    "לֹא תֵחַד, תהיה יחד אִתָּם — עם שאר המלכים בִּקְבוּרָה, כִּי אַרְצְךָ שִׁחַתָּ, השְחתָּ, עַמְּךָ הָרָגְתָּ, ולכן לֹא יִקָּרֵא, לא ייזכר לְעוֹלָם זֶרַע מְרֵעִים, זרעך.",
+    "כי יאמרו: הָכִינוּ לְבָנָיו מַטְבֵּחַ, הִרגו אותם בַּעֲוֹן אֲבוֹתָם, בַּל יָקֻמוּ חלילה הבנים וְיָרְשׁוּ אָרֶץ וּמָלְאוּ פְנֵי תֵבֵל עָרִים, הרס וחורבן.",
+    "וְקַמְתִּי עֲלֵיהֶם, נְאֻם ה' צְבָאוֹת, וְהִכְרַתִּי לְבָבֶל שֵׁם וּשְׁאָר, שארית או שאר בשר וְנִין, בן, או: כל צאצא וָנֶכֶד, נְאֻם ה'.",
+    "וְשַׂמְתִּיהָ — את ארץ בבל לְמוֹרַשׁ קִפֹּד, כנראה מין עוף לילי וְאַגְמֵי מָיִם. וְטֵאטֵאתִיהָ בְּמַטְאֲטֵא הַשְׁמֵד, נְאֻם ה' צְבָאוֹת. בבל תושמד, ולא יישארו ממנה אלא חורבות, ביצות ושממה.",
+    "נִשְׁבַּע ה' צְבָאוֹת לֵאמֹר: אִם לֹא כַּאֲשֶׁר דִּמִּיתִי — כֵּן הָיָתָה, וְכַאֲשֶׁר יָעַצְתִּי, חשבתי — הִיא תָקוּם, המחשבה תתקיים.",
+    "לִשְׁבֹּר אַשּׁוּר בְּאַרְצִי, וְעַל הָרַי אֲבוּסֶנּוּ, אבוסס ואמחץ אותו. וְסָר מֵעֲלֵיהֶם — מעל ארצי והרַי עֻלּוֹ של מלך אשור, וְסֻבֳּלוֹ, המשא שסובל עַמי — מֵעַל שִׁכְמוֹ יָסוּר.",
+    "זֹאת הָעֵצָה הַיְּעוּצָה עַל כָּל הָאָרֶץ, וְזֹאת הַיָּד הַנְּטוּיָה עַל כָּל הַגּוֹיִם. יד ה' המושלת בכל העולם לא תאפשר את קיומו של העוול הזה.",
+    "כִּי ה' צְבָאוֹת יָעָץ וּמִי יָפֵר, וְיָדוֹ הַנְּטוּיָה וּמִי יְשִׁיבֶנָּה.",
+    "בִּשְׁנַת מוֹת הַמֶּלֶךְ אָחָז הָיָה הַמַּשָּׂא הַזֶּה. פלשתים, שהוכו על ידי אחז שמחו במותו שמחה גדולה. על כן אומר להם הנביא:",
+    "אַל תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ, כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ, מת המלך שהכה אותך, כִּי מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע, הגרוע מסתם נחש, וּפִרְיוֹ של הנחש יהיה שָׂרָף מְעוֹפֵף, כנראה נחש ארסי המתרומם באוויר ומכיש. במקום המלך המת יבוא מלך קשה יותר וירבה מכתו.",
+    "וְרָעוּ בְּכוֹרֵי דַלִּים, אפילו הדלים ביותר מישראל ירעו ויתפרנסו בשלווה, וְאֶבְיוֹנִים לָבֶטַח יִרְבָּצוּ. ולעומתם — וְהֵמַתִּי בָרָעָב שָׁרְשֵׁךְ, הפלשתים יסבלו חרפת רעב ויוכו עד היסוד, וּשְׁאֵרִיתֵךְ יַהֲרֹג אותו מלך.",
+    "הֵילִילִי שַׁעַר, יבבי עד ששערי עירך ירעדו, זַעֲקִי, עִיר, נָמוֹג, נמס, נחלש פְּלֶשֶׁת כֻּלֵּךְ. פלשת כולה עתידה להיהרס. כִּי מִצָּפוֹן עָשָׁן המלחמה בָּא, וְאֵין חייל בּוֹדֵד בְּמוֹעָדָיו. כל צבא האויב יתקבץ יחד.",
+    "ואז, מַה יַּעֲנֶה, ישמיעו למַלְאֲכֵי, שליחי גוֹי, לדיפלומטיים ולעיתונאים? – כִּי ה' יִסַּד צִיּוֹן, וּבָהּ יֶחֱסוּ עֲנִיֵּי עַמּוֹ. לעניי ישראל יהיה מחסה בטוח בירושלים הבנויה, שהרי אוכליהם, הפלשתים, הוכו מכה גדולה."
+  ],
+  "ai_explanation": [
+    "כאשר ה' ירחם על יעקב ויבחר שוב בישראל, הוא ישיב אותם לארצם ויניח להם בה. גם גרים יצטרפו אליהם ויסופחו לבית יעקב.",
+    "העמים יסייעו לישראל לשוב לארצם, ולאחר מכן ישראל ימשלו בעמים שהיו קודם לכן שוביהם ומשעבדיהם, ויהפכו אותם למשרתים ולאזרחים ממעמד נמוך.",
+    "כאשר ה' יניח לישראל מצערם, מכעסם ומהעבודה הקשה שנכפתה עליהם, יוכלו לסכם את תקופת הסבל ולשיר שיר חדש.",
+    "ישראל יישאו משל על מלך בבל ויתמהו על סופו של הרודה בהם ועל שבירת עול שלטונו.",
+    "ה' שבר את כוחם של הרשעים ואת שלטון המושלים. המטה והשבט מסמלים גם את כלי ההכאה וגם את שרביט המלוכה.",
+    "מלך בבל היכה עמים בזעם וללא הפוגה, שלט בהם בכעס ורדף מלחמות בלי מנוחה. לאחר מותו העולם נעשה שקט יותר.",
+    "כל הארץ נחה ושקטה, והכול פרצו בשירה.",
+    "הברושים וארזי הלבנון שמחו על מות מלך בבל, משום שמעתה לא יבוא הכורת לכרות אותם. המלך כרת עצים רבים לבניית ארמונות ולמלחמותיו, וכעת אפילו העצים נרגעים.",
+    "השאול מתעוררת לקראת בואו של המלך ומעוררת את המתים ואת מלכי העמים לקראתו.",
+    "מלכי העמים אומרים לו שגם הוא, שהיה נדמה לאיתן ובלתי ניתן לערעור, נחלש ומת כמותם.",
+    "גאוותו של המלך והנגינות שנוגנו לכבודו הושפלו ונדם קולן. במקום כבודו הגדול הוא שוכב על מצע של רימה ותולעים מכסות אותו.",
+    "הנביא מתאר את נפילת המלך מכוכב מזהיר, המזוהה עם כוכב הבוקר, אל הארץ. מי ששלט בגויים נגדע ונפל.",
+    "המלך ביקש בלבו לעלות לשמים, להגביה את כסאו מעל כוכבי האל ולהתיישב בהר המועד בצפון הנסתר, במקום התוועדות האלים לפי תפיסתו.",
+    "הוא ביקש לעלות מעל העננים ולהידמות לעליון.",
+    "למרות שאיפותיו, סופו לרדת אל השאול, אל פינת הבור.",
+    "המתבוננים בו ישאלו אם זו אכן גופתו של האיש שהרעיד את הארץ והממלכות.",
+    "הם ייזכרו במלך שהפך את העולם למדבר והחריב את עריו, ושלא שחרר את אסיריו לשוב לביתם.",
+    "מלכי העמים האחרים שכבו לאחר מותם בכבוד, כל אחד בביתו, מפני שלא יצרו התנגדות כה רבה גם אחרי מותם.",
+    "ואילו מלך בבל יושלך מקברו כשתיל נתעב שנעקר, לצד חללי מלחמה ובלא כבוד, כפגר דרוס המושלך אל הבור.",
+    "הוא לא יהיה יחד עם שאר המלכים בקבורה, מפני שהשחית את ארצו והרג את עמו. זרעו לא ייזכר לעולם כזרע של מרעים.",
+    "יוכן לבניו של המלך טבח בגלל עוון אבותיהם, כדי שלא יקומו, יירשו את הארץ וימלאו את העולם בערים של הרס וחורבן.",
+    "ה' יקום על בבל ויכרת ממנה שם, שארית, צאצאים וכל המשך משפחתי.",
+    "ארץ בבל תיעשה נחלת עוף לילי ואגמי מים, וה' יטאטא וישמיד אותה עד שיישארו ממנה חורבות, ביצות ושממה.",
+    "ה' נשבע שדבריו יתקיימו: כפי שחשב וכפי שיעץ, כך יהיה.",
+    "ה' ישבור את אשור בארצו וירמוס אותה בהרים. כך יסור מעל עמו העול והמשא של מלך אשור.",
+    "זו העצה שנקבעה על כל הארץ וזו היד הנטויה על כל העמים; יד ה' המושלת בעולם לא תאפשר לעוול זה להתקיים.",
+    "כאשר ה' צבאות מייעץ, אין מי שיפר את עצתו, וכאשר ידו נטויה אין מי שישיב אותה.",
+    "בשנת מות המלך אחז נאמר המשא הזה, העוסק בפלשתים ששמחו על מותו.",
+    "פלשתים אינם צריכים לשמוח, כי במקום המלך שהכה אותם יבוא שליט קשה ממנו: מן הנחש יצא צפע, וממנו שרף מעופף.",
+    "העניים בישראל יוכלו לרעות ולהתקיים בביטחון, ואילו הפלשתים יוכו ברעב עד שורשם ושאריתם תיהרג.",
+    "פלשת כולה נקראת ליילל ולזעוק, מפני שצבא אויב מאוחד יבוא מצפון וימוטט אותה.",
+    "לשליחי הגויים ייאמר שה' ייסד את ציון, ובה ימצאו עניי עמו מחסה בטוח."
+  ],
+  "ai_explanation_en": [
+    "When God takes pity on Jacob and chooses Israel again, He will return them to their land and give them rest there. Foreigners will also join them and become attached to the house of Jacob.",
+    "The nations will help Israel return to its land, and afterward Israel will rule over the peoples who had formerly been their captors and oppressors, turning them into servants and people of lower status.",
+    "When God gives Israel relief from its sorrow, anger, and the harsh labor imposed on it, the people will be able to summarize their period of suffering and sing a new song.",
+    "Israel will recite a taunt against the king of Babylon and wonder at the end of the ruler who oppressed them and at the breaking of his rule.",
+    "God has broken the power of the wicked and the rule of oppressive rulers. The rod and staff symbolize both instruments of punishment and the royal scepter.",
+    "The king of Babylon struck nations angrily and without pause, ruled them in fury, and pursued wars without rest. After his death, the world became quieter.",
+    "The whole earth rests and is quiet, and everyone breaks into song.",
+    "The cypresses and cedars of Lebanon rejoice at the death of the king of Babylon, because the woodcutter will no longer come to cut them down. The king had cut down many trees for palaces and wars, and now even the trees can relax.",
+    "The underworld is stirred by the king's arrival and awakens the dead and the kings of the nations to meet him.",
+    "The kings of the nations tell him that even he, who seemed strong and unshakable, has become weak and died like them.",
+    "The king's pride and the music played in his honor have been brought low and silenced. Instead of great honor, he lies on a bed of decay, covered by worms.",
+    "The prophet describes the king's fall from a shining star, identified with the morning star, down to the earth. The one who ruled the nations has been cut down and fallen.",
+    "The king said in his heart that he would rise to the heavens, raise his throne above the stars of God, and sit on the mountain of assembly in the hidden north, a place where the gods were thought to meet.",
+    "He wished to rise above the clouds and make himself like the Most High.",
+    "Despite his ambitions, his end is to be brought down to the underworld, to the deepest part of the pit.",
+    "Those who look at him will ask whether this is really the corpse of the man who shook the earth and the kingdoms.",
+    "They will remember the king who turned the world into a wilderness and destroyed its cities, and who did not release his prisoners to return home.",
+    "The other kings of the nations were buried with honor, each in his own house, because they did not create such resistance even after their deaths.",
+    "But the king of Babylon will be thrown from his grave like a despised plant pulled out, among slain warriors and without honor, like a trampled corpse cast into the pit.",
+    "He will not be buried together with the other kings, because he destroyed his land and killed his people. His offspring will never be remembered as the seed of evildoers.",
+    "A slaughter will be prepared for his sons because of their fathers' guilt, so that they will not rise, inherit the land, and fill the world with cities of destruction.",
+    "God will rise against Babylon and cut off its name, remnant, descendants, and all continuation of its family line.",
+    "The land of Babylon will become a possession of a night bird and pools of water, and God will sweep it away and destroy it until only ruins, marshes, and desolation remain.",
+    "God swears that His words will come true: as He has planned and decided, so it will be.",
+    "God will break Assyria in His land and trample it on His mountains. Thus the yoke and burden of the king of Assyria will be removed from His people.",
+    "This is the plan established over the whole earth and the hand stretched out over all the nations; God's ruling hand will not allow this injustice to continue.",
+    "When the Lord of Hosts makes a decision, no one can annul it, and when His hand is stretched out, no one can turn it back.",
+    "This oracle was given in the year of King Ahaz's death and concerns the Philistines, who rejoiced at his death.",
+    "The Philistines should not rejoice, because a ruler harsher than the king who struck them will come in his place: from the snake will come a viper, and from it a flying fiery serpent.",
+    "The poor in Israel will be able to pasture and live in security, while the Philistines will suffer famine to their very roots and their remnant will be killed.",
+    "All Philistia is called to wail and cry out, because a united enemy army will come from the north and bring it down.",
+    "The messengers of the nations will be told that God has established Zion, and that the poor of His people will find secure shelter there."
+  ],
+  "perush": [
+    "כאשר ה' ירחם על יעקב ויבחר שוב בישראל, הוא ישיב אותם לארצם ויניח להם בה. גם גרים יצטרפו אליהם ויסופחו לבית יעקב.",
+    "העמים יסייעו לישראל לשוב לארצם, ולאחר מכן ישראל ימשלו בעמים שהיו קודם לכן שוביהם ומשעבדיהם, ויהפכו אותם למשרתים ולאזרחים ממעמד נמוך.",
+    "כאשר ה' יניח לישראל מצערם, מכעסם ומהעבודה הקשה שנכפתה עליהם, יוכלו לסכם את תקופת הסבל ולשיר שיר חדש.",
+    "ישראל יישאו משל על מלך בבל ויתמהו על סופו של הרודה בהם ועל שבירת עול שלטונו.",
+    "ה' שבר את כוחם של הרשעים ואת שלטון המושלים. המטה והשבט מסמלים גם את כלי ההכאה וגם את שרביט המלוכה.",
+    "מלך בבל היכה עמים בזעם וללא הפוגה, שלט בהם בכעס ורדף מלחמות בלי מנוחה. לאחר מותו העולם נעשה שקט יותר.",
+    "כל הארץ נחה ושקטה, והכול פרצו בשירה.",
+    "הברושים וארזי הלבנון שמחו על מות מלך בבל, משום שמעתה לא יבוא הכורת לכרות אותם. המלך כרת עצים רבים לבניית ארמונות ולמלחמותיו, וכעת אפילו העצים נרגעים.",
+    "השאול מתעוררת לקראת בואו של המלך ומעוררת את המתים ואת מלכי העמים לקראתו.",
+    "מלכי העמים אומרים לו שגם הוא, שהיה נדמה לאיתן ובלתי ניתן לערעור, נחלש ומת כמותם.",
+    "גאוותו של המלך והנגינות שנוגנו לכבודו הושפלו ונדם קולן. במקום כבודו הגדול הוא שוכב על מצע של רימה ותולעים מכסות אותו.",
+    "הנביא מתאר את נפילת המלך מכוכב מזהיר, המזוהה עם כוכב הבוקר, אל הארץ. מי ששלט בגויים נגדע ונפל.",
+    "המלך ביקש בלבו לעלות לשמים, להגביה את כסאו מעל כוכבי האל ולהתיישב בהר המועד בצפון הנסתר, במקום התוועדות האלים לפי תפיסתו.",
+    "הוא ביקש לעלות מעל העננים ולהידמות לעליון.",
+    "למרות שאיפותיו, סופו לרדת אל השאול, אל פינת הבור.",
+    "המתבוננים בו ישאלו אם זו אכן גופתו של האיש שהרעיד את הארץ והממלכות.",
+    "הם ייזכרו במלך שהפך את העולם למדבר והחריב את עריו, ושלא שחרר את אסיריו לשוב לביתם.",
+    "מלכי העמים האחרים שכבו לאחר מותם בכבוד, כל אחד בביתו, מפני שלא יצרו התנגדות כה רבה גם אחרי מותם.",
+    "ואילו מלך בבל יושלך מקברו כשתיל נתעב שנעקר, לצד חללי מלחמה ובלא כבוד, כפגר דרוס המושלך אל הבור.",
+    "הוא לא יהיה יחד עם שאר המלכים בקבורה, מפני שהשחית את ארצו והרג את עמו. זרעו לא ייזכר לעולם כזרע של מרעים.",
+    "יוכן לבניו של המלך טבח בגלל עוון אבותיהם, כדי שלא יקומו, יירשו את הארץ וימלאו את העולם בערים של הרס וחורבן.",
+    "ה' יקום על בבל ויכרת ממנה שם, שארית, צאצאים וכל המשך משפחתי.",
+    "ארץ בבל תיעשה נחלת עוף לילי ואגמי מים, וה' יטאטא וישמיד אותה עד שיישארו ממנה חורבות, ביצות ושממה.",
+    "ה' נשבע שדבריו יתקיימו: כפי שחשב וכפי שיעץ, כך יהיה.",
+    "ה' ישבור את אשור בארצו וירמוס אותה בהרים. כך יסור מעל עמו העול והמשא של מלך אשור.",
+    "זו העצה שנקבעה על כל הארץ וזו היד הנטויה על כל העמים; יד ה' המושלת בעולם לא תאפשר לעוול זה להתקיים.",
+    "כאשר ה' צבאות מייעץ, אין מי שיפר את עצתו, וכאשר ידו נטויה אין מי שישיב אותה.",
+    "בשנת מות המלך אחז נאמר המשא הזה, העוסק בפלשתים ששמחו על מותו.",
+    "פלשתים אינם צריכים לשמוח, כי במקום המלך שהכה אותם יבוא שליט קשה ממנו: מן הנחש יצא צפע, וממנו שרף מעופף.",
+    "העניים בישראל יוכלו לרעות ולהתקיים בביטחון, ואילו הפלשתים יוכו ברעב עד שורשם ושאריתם תיהרג.",
+    "פלשת כולה נקראת ליילל ולזעוק, מפני שצבא אויב מאוחד יבוא מצפון וימוטט אותה.",
+    "לשליחי הגויים ייאמר שה' ייסד את ציון, ובה ימצאו עניי עמו מחסה בטוח."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "שיבת ישראל והיפוך יחסי הכוח",
+      "title_en": "Israel's Return and the Reversal of Power",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "ה' ישיב את ישראל לארצו, יצרף אליו גרים וייתן לו מנוחה לאחר שנות השעבוד והסבל.",
+      "summary_en": "God will return Israel to its land, allow foreigners to join it, and give it rest after years of oppression and suffering.",
+      "image_prompt": "A solemn biblical scene of returning exiles entering their homeland, families resting peacefully, and foreign newcomers joining them; ancient Near Eastern setting, no modern objects, dignified educational illustration"
+    },
+    {
+      "title": "נפילת מלך בבל ושחרור העולם",
+      "title_en": "The Fall of the King of Babylon and the World's Relief",
+      "start_verse": 4,
+      "end_verse": 11,
+      "summary": "המשל מתאר את שבירת שלטון מלך בבל, את השקט שלאחר מותו ואת ירידתו מן הכבוד אל השאול.",
+      "summary_en": "The taunt describes the breaking of the Babylonian king's rule, the peace after his death, and his descent from honor to the underworld.",
+      "image_prompt": "A symbolic ancient scene showing a fallen tyrant's broken scepter, a quiet landscape, relieved trees, and shadowy dead kings rising in the underworld; biblical educational art, dramatic but not graphic"
+    },
+    {
+      "title": "גאוות המלך ונפילתו",
+      "title_en": "The King's Pride and Downfall",
+      "start_verse": 12,
+      "end_verse": 23,
+      "summary": "מלך בבל מתואר כמי ששאף להתרומם עד השמים ולהידמות לעליון, אך הושפל, הושלך אל הבור וגזר דין הוטל על זרעו ועל ארצו.",
+      "summary_en": "The king of Babylon is portrayed as aspiring to rise to heaven and become like the Most High, but he is humiliated, cast into the pit, and judgment is pronounced on his descendants and land.",
+      "image_prompt": "A symbolic biblical illustration of a bright morning star falling from the heavens toward a dark pit, with a ruined royal tomb and a devastated ancient city in the background; no explicit gore"
+    },
+    {
+      "title": "ודאות עצת ה' ושבירת אשור",
+      "title_en": "The Certainty of God's Plan and the Breaking of Assyria",
+      "start_verse": 24,
+      "end_verse": 27,
+      "summary": "ה' נשבע שעצתו תתקיים, שישבור את אשור בארצו ויסיר מעל עמו את עולו; אין מי שיוכל להפר את עצתו או להשיב את ידו.",
+      "summary_en": "God swears that His plan will stand, that He will break Assyria in His land and remove its burden from His people; no one can annul His plan or turn back His hand.",
+      "image_prompt": "A powerful symbolic image of a divine hand over mountains, a broken yoke, and an ancient army retreating from the land; biblical educational illustration, restrained and non-graphic"
+    },
+    {
+      "title": "המשא על פלשתים והמחסה בציון",
+      "title_en": "The Oracle against Philistia and Shelter in Zion",
+      "start_verse": 28,
+      "end_verse": 32,
+      "summary": "פלשתים נקראים שלא לשמוח על מות אחז, מפני שמכה קשה יותר תבוא עליהם; בעוד הפלשתים ייחרבו, עניי ישראל ימצאו ביטחון בציון.",
+      "summary_en": "Philistia is warned not to rejoice over Ahaz's death, because a harsher blow will come; while Philistia is destroyed, the poor of Israel will find safety in Zion.",
+      "image_prompt": "An ancient city under threat from a large army approaching from the north, contrasted with poor people finding refuge behind the walls of Zion; biblical educational art, no modern objects, no graphic violence"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 15.04,
+      "usfm": "ISA.14.1"
+    },
+    {
+      "start": 15.04,
+      "end": 31.28,
+      "usfm": "ISA.14.2"
+    },
+    {
+      "start": 31.28,
+      "end": 42.72,
+      "usfm": "ISA.14.3"
+    },
+    {
+      "start": 42.72,
+      "end": 52.46,
+      "usfm": "ISA.14.4"
+    },
+    {
+      "start": 52.46,
+      "end": 57.26,
+      "usfm": "ISA.14.5"
+    },
+    {
+      "start": 57.26,
+      "end": 66.48,
+      "usfm": "ISA.14.6"
+    },
+    {
+      "start": 66.48,
+      "end": 71.76,
+      "usfm": "ISA.14.7"
+    },
+    {
+      "start": 71.76,
+      "end": 80.66,
+      "usfm": "ISA.14.8"
+    },
+    {
+      "start": 80.66,
+      "end": 94.06,
+      "usfm": "ISA.14.9"
+    },
+    {
+      "start": 94.06,
+      "end": 102.08,
+      "usfm": "ISA.14.10"
+    },
+    {
+      "start": 102.08,
+      "end": 110.52,
+      "usfm": "ISA.14.11"
+    },
+    {
+      "start": 110.52,
+      "end": 119.7,
+      "usfm": "ISA.14.12"
+    },
+    {
+      "start": 119.7,
+      "end": 130.98,
+      "usfm": "ISA.14.13"
+    },
+    {
+      "start": 130.98,
+      "end": 136.24,
+      "usfm": "ISA.14.14"
+    },
+    {
+      "start": 136.24,
+      "end": 141.94,
+      "usfm": "ISA.14.15"
+    },
+    {
+      "start": 141.94,
+      "end": 152.08,
+      "usfm": "ISA.14.16"
+    },
+    {
+      "start": 152.08,
+      "end": 158.28,
+      "usfm": "ISA.14.17"
+    },
+    {
+      "start": 158.28,
+      "end": 164.0,
+      "usfm": "ISA.14.18"
+    },
+    {
+      "start": 164.0,
+      "end": 178.82,
+      "usfm": "ISA.14.19"
+    },
+    {
+      "start": 178.82,
+      "end": 189.28,
+      "usfm": "ISA.14.20"
+    },
+    {
+      "start": 189.28,
+      "end": 200.6,
+      "usfm": "ISA.14.21"
+    },
+    {
+      "start": 200.6,
+      "end": 210.02,
+      "usfm": "ISA.14.22"
+    },
+    {
+      "start": 210.02,
+      "end": 219.42,
+      "usfm": "ISA.14.23"
+    },
+    {
+      "start": 219.42,
+      "end": 229.38,
+      "usfm": "ISA.14.24"
+    },
+    {
+      "start": 229.38,
+      "end": 242.0,
+      "usfm": "ISA.14.25"
+    },
+    {
+      "start": 242.0,
+      "end": 251.0,
+      "usfm": "ISA.14.26"
+    },
+    {
+      "start": 251.0,
+      "end": 261.22,
+      "usfm": "ISA.14.27"
+    },
+    {
+      "start": 261.22,
+      "end": 266.02,
+      "usfm": "ISA.14.28"
+    },
+    {
+      "start": 266.02,
+      "end": 281.32,
+      "usfm": "ISA.14.29"
+    },
+    {
+      "start": 281.32,
+      "end": 291.9,
+      "usfm": "ISA.14.30"
+    },
+    {
+      "start": 291.9,
+      "end": 304.4,
+      "usfm": "ISA.14.31"
+    },
+    {
+      "start": 304.4,
+      "end": 322.84,
+      "usfm": "ISA.14.32"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.04,
+    31.28,
+    42.72,
+    52.46,
+    57.26,
+    66.48,
+    71.76,
+    80.66,
+    94.06,
+    102.08,
+    110.52,
+    119.7,
+    130.98,
+    136.24,
+    141.94,
+    152.08,
+    158.28,
+    164.0,
+    178.82,
+    189.28,
+    200.6,
+    210.02,
+    219.42,
+    229.38,
+    242.0,
+    251.0,
+    261.22,
+    266.02,
+    281.32,
+    291.9,
+    304.4,
+    322.84
+  ],
+  "times_en_usfm": [
+    "ISA.14.1",
+    "ISA.14.2",
+    "ISA.14.3",
+    "ISA.14.4",
+    "ISA.14.5",
+    "ISA.14.6",
+    "ISA.14.7",
+    "ISA.14.8",
+    "ISA.14.9",
+    "ISA.14.10",
+    "ISA.14.11",
+    "ISA.14.12",
+    "ISA.14.13",
+    "ISA.14.14",
+    "ISA.14.15",
+    "ISA.14.16",
+    "ISA.14.17",
+    "ISA.14.18",
+    "ISA.14.19",
+    "ISA.14.20",
+    "ISA.14.21",
+    "ISA.14.22",
+    "ISA.14.23",
+    "ISA.14.24",
+    "ISA.14.25",
+    "ISA.14.26",
+    "ISA.14.27",
+    "ISA.14.28",
+    "ISA.14.29",
+    "ISA.14.30",
+    "ISA.14.31",
+    "ISA.14.32"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בראשית הפרק מתואר שיקום ישראל: ה' ירחם על יעקב, יבחר בו מחדש וישיב אותו אל אדמתו. גם הגר יוכל להצטרף אל בית יעקב.",
+      "text_he": "הידעת? בראשית הפרק מתואר שיקום ישראל: ה' ירחם על יעקב, יבחר בו מחדש וישיב אותו אל אדמתו. גם הגר יוכל להצטרף אל בית יעקב.",
+      "text_en": "Did you know? At the beginning of the chapter, the restoration of Israel is described: the LORD will have compassion on Jacob, choose Israel again, and settle them in their own land. Foreigners will also be able to join the house of Jacob."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? הפרק מתאר היפוך ביחסי הכוח: העמים יובילו את ישראל לארצו, ובני ישראל ישלטו במי ששיעבדו אותם.",
+      "text_he": "הידעת? הפרק מתאר היפוך ביחסי הכוח: העמים יובילו את ישראל לארצו, ובני ישראל ישלטו במי ששיעבדו אותם.",
+      "text_en": "Did you know? The chapter describes a reversal of power: the nations will bring Israel back to its land, and the Israelites will rule over those who enslaved them."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? לאחר תיאור המנוחה של ישראל, הנביא מציג משל על מלך בבל ובאמצעותו מתאר את שבירת שלטונו: \"איך שבת נוגש\".",
+      "text_he": "הידעת? לאחר תיאור המנוחה של ישראל, הנביא מציג משל על מלך בבל ובאמצעותו מתאר את שבירת שלטונו: \"איך שבת נוגש\".",
+      "text_en": "Did you know? After describing Israel’s rest, the prophet presents a taunt against the king of Babylon and uses it to describe the breaking of his rule: “How the oppressor has ceased!”"
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? נפילת השליט מוצגת כמי שמביאה מנוחה לארץ כולה, עד כדי כך שהארץ השקטה מתוארת כפוצחת ברינה.",
+      "text_he": "הידעת? נפילת השליט מוצגת כמי שמביאה מנוחה לארץ כולה, עד כדי כך שהארץ השקטה מתוארת כפוצחת ברינה.",
+      "text_en": "Did you know? The ruler’s downfall is portrayed as bringing rest to the whole earth, so that the quiet land is described as breaking into joyful singing."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? השאול מתואר באופן ציורי כמי שמתעורר לקראת בואו של מלך בבל ומעורר את מלכי העבר ממקומותיהם.",
+      "text_he": "הידעת? השאול מתואר באופן ציורי כמי שמתעורר לקראת בואו של מלך בבל ומעורר את מלכי העבר ממקומותיהם.",
+      "text_en": "Did you know? Sheol is vividly portrayed as awakening to welcome the king of Babylon and rousing the kings of the past from their resting places."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? הביטוי \"הֵילֵל בֶּן-שָׁחַר\" מופיע בתיאור נפילתו של השליט מן השמים אל הארץ; בהמשך הפרק מתברר שמדובר בדימוי לגאווה ולנפילה.",
+      "text_he": "הידעת? הביטוי \"הֵילֵל בֶּן-שָׁחַר\" מופיע בתיאור נפילתו של השליט מן השמים אל הארץ; בהמשך הפרק מתברר שמדובר בדימוי לגאווה ולנפילה.",
+      "text_en": "Did you know? The phrase “Morning Star, son of Dawn” appears in the description of the ruler’s fall from heaven to earth; later in the chapter, it becomes clear that this is an image of pride and downfall."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? מלך בבל מתואר כמי שאמר בלבו שיעלה לשמים, ירומם את כיסאו וידמה לעליון — שאיפה המבטאת את גאוותו הקיצונית.",
+      "text_he": "הידעת? מלך בבל מתואר כמי שאמר בלבו שיעלה לשמים, ירומם את כיסאו וידמה לעליון — שאיפה המבטאת את גאוותו הקיצונית.",
+      "text_en": "Did you know? The king of Babylon is portrayed as saying in his heart that he would ascend to heaven, raise his throne, and make himself like the Most High—an ambition expressing his extreme pride."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? לאחר נפילתו, הצופים תוהים אם זהו אותו אדם שהרעיד ארצות, החריב ערים ולא שחרר את אסיריו.",
+      "text_he": "הידעת? לאחר נפילתו, הצופים תוהים אם זהו אותו אדם שהרעיד ארצות, החריב ערים ולא שחרר את אסיריו.",
+      "text_en": "Did you know? After his fall, onlookers wonder whether this is the same man who shook kingdoms, destroyed cities, and did not release his prisoners."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? באמצע הפרק מופיעה שבועה של ה' שעצתו תתקיים; בהמשך נאמר שהוא ישבור את אשור ויסיר את עולו מעל עמו.",
+      "text_he": "הידעת? באמצע הפרק מופיעה שבועה של ה' שעצתו תתקיים; בהמשך נאמר שהוא ישבור את אשור ויסיר את עולו מעל עמו.",
+      "text_en": "Did you know? In the middle of the chapter, the LORD swears that his plan will be fulfilled; later, it is said that he will break Assyria and remove its yoke from his people."
+    },
+    {
+      "verse": 32,
+      "text": "הידעת? סיום הפרק מציב ניגוד בין מפלת פלשתים לבין הביטחון בציון: כאשר נשאל מה ייענה לשליחי הגוי, התשובה היא שה' ייסד את ציון ובה יחסו עניי עמו.",
+      "text_he": "הידעת? סיום הפרק מציב ניגוד בין מפלת פלשתים לבין הביטחון בציון: כאשר נשאל מה ייענה לשליחי הגוי, התשובה היא שה' ייסד את ציון ובה יחסו עניי עמו.",
+      "text_en": "Did you know? The chapter ends by contrasting the defeat of the Philistines with the security of Zion: when asked what answer should be given to the messengers of the nation, the response is that the LORD has founded Zion, and in her the poor of his people find refuge."
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "book": "Isaiah",
+  "book_he": "ישעיהו",
+  "book_chapters": 66,
+  "chapter": 28,
+  "title": "ישעיהו פרק 28",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1028.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1028.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ISA/28-6b9a6c60039607b395118b467038af32.mp3?version_id=1",
+  "verses": [
+    "הוֹי, עֲטֶרֶת גֵּאוּת שִׁכֹּרֵי אֶפְרַיִם, וְצִיץ נֹבֵל, צְבִי תִפְאַרְתּוֹ--אֲשֶׁר עַל-רֹאשׁ גֵּיא-שְׁמָנִים, הֲלוּמֵי יָיִן.",
+    "הִנֵּה חָזָק וְאַמִּץ לַאדֹנָי, כְּזֶרֶם בָּרָד שַׂעַר קָטֶב; כְּזֶרֶם מַיִם כַּבִּירִים שֹׁטְפִים, הִנִּיחַ לָאָרֶץ--בְּיָד.",
+    "בְּרַגְלַיִם, תֵּרָמַסְנָה; עֲטֶרֶת גֵּאוּת, שִׁכּוֹרֵי אֶפְרָיִם.",
+    "וְהָיְתָה צִיצַת נֹבֵל, צְבִי תִפְאַרְתּוֹ, אֲשֶׁר עַל-רֹאשׁ, גֵּיא שְׁמָנִים--כְּבִכּוּרָהּ, בְּטֶרֶם קַיִץ, אֲשֶׁר יִרְאֶה הָרֹאֶה אוֹתָהּ, בְּעוֹדָהּ בְּכַפּוֹ יִבְלָעֶנָּה.",
+    "בַּיּוֹם הַהוּא, יִהְיֶה יְהוָה צְבָאוֹת, לַעֲטֶרֶת צְבִי, וְלִצְפִירַת תִּפְאָרָה--לִשְׁאָר, עַמּוֹ.",
+    "וּלְרוּחַ, מִשְׁפָּט--לַיּוֹשֵׁב, עַל-הַמִּשְׁפָּט, וְלִגְבוּרָה, מְשִׁיבֵי מִלְחָמָה שָׁעְרָה.",
+    "וְגַם-אֵלֶּה בַּיַּיִן שָׁגוּ, וּבַשֵּׁכָר תָּעוּ: כֹּהֵן וְנָבִיא שָׁגוּ בַשֵּׁכָר נִבְלְעוּ מִן-הַיַּיִן, תָּעוּ מִן-הַשֵּׁכָר, שָׁגוּ בָּרֹאֶה, פָּקוּ פְּלִילִיָּה.",
+    "כִּי כָּל-שֻׁלְחָנוֹת, מָלְאוּ קִיא צֹאָה, בְּלִי, מָקוֹם.",
+    "אֶת-מִי יוֹרֶה דֵעָה, וְאֶת-מִי יָבִין שְׁמוּעָה--גְּמוּלֵי, מֵחָלָב, עַתִּיקֵי, מִשָּׁדָיִם.",
+    "כִּי צַו לָצָו צַו לָצָו, קַו לָקָו קַו לָקָו--זְעֵיר שָׁם, זְעֵיר שָׁם.",
+    "כִּי בְּלַעֲגֵי שָׂפָה, וּבְלָשׁוֹן אַחֶרֶת, יְדַבֵּר, אֶל-הָעָם הַזֶּה.",
+    "אֲשֶׁר אָמַר אֲלֵיהֶם, זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף, וְזֹאת, הַמַּרְגֵּעָה; וְלֹא אָבוּא, שְׁמוֹעַ.",
+    "וְהָיָה לָהֶם דְּבַר-יְהוָה, צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו, זְעֵיר שָׁם, זְעֵיר שָׁם--לְמַעַן יֵלְכוּ וְכָשְׁלוּ אָחוֹר, וְנִשְׁבָּרוּ, וְנוֹקְשׁוּ, וְנִלְכָּדוּ.",
+    "לָכֵן שִׁמְעוּ דְבַר-יְהוָה, אַנְשֵׁי לָצוֹן--מֹשְׁלֵי הָעָם הַזֶּה, אֲשֶׁר בִּירוּשָׁלִָם.",
+    "כִּי אֲמַרְתֶּם, כָּרַתְנוּ בְרִית אֶת-מָוֶת, וְעִם-שְׁאוֹל, עָשִׂינוּ חֹזֶה; שיט שׁוֹט שׁוֹטֵף כִּי-עבר יַעֲבֹר לֹא יְבוֹאֵנוּ, כִּי שַׂמְנוּ כָזָב מַחְסֵנוּ וּבַשֶּׁקֶר נִסְתָּרְנוּ.",
+    "לָכֵן, כֹּה אָמַר אֲדֹנָי יְהוִה, הִנְנִי יִסַּד בְּצִיּוֹן, אָבֶן; אֶבֶן בֹּחַן פִּנַּת יִקְרַת, מוּסָד מוּסָּד--הַמַּאֲמִין, לֹא יָחִישׁ.",
+    "וְשַׂמְתִּי מִשְׁפָּט לְקָו, וּצְדָקָה לְמִשְׁקָלֶת; וְיָעָה בָרָד מַחְסֵה כָזָב, וְסֵתֶר מַיִם יִשְׁטֹפוּ.",
+    "וְכֻפַּר בְּרִיתְכֶם אֶת-מָוֶת, וְחָזוּתְכֶם אֶת-שְׁאוֹל לֹא תָקוּם; שׁוֹט שׁוֹטֵף כִּי יַעֲבֹר, וִהְיִיתֶם לוֹ לְמִרְמָס.",
+    "מִדֵּי עָבְרוֹ יִקַּח אֶתְכֶם, כִּי-בַבֹּקֶר בַּבֹּקֶר יַעֲבֹר בַּיּוֹם וּבַלָּיְלָה; וְהָיָה רַק-זְוָעָה, הָבִין שְׁמוּעָה.",
+    "כִּי-קָצַר הַמַּצָּע, מֵהִשְׂתָּרֵעַ; וְהַמַּסֵּכָה צָרָה, כְּהִתְכַּנֵּס.",
+    "כִּי כְהַר-פְּרָצִים יָקוּם יְהוָה, כְּעֵמֶק בְּגִבְעוֹן יִרְגָּז--לַעֲשׂוֹת מַעֲשֵׂהוּ, זָר מַעֲשֵׂהוּ, וְלַעֲבֹד עֲבֹדָתוֹ, נָכְרִיָּה עֲבֹדָתוֹ.",
+    "וְעַתָּה, אַל-תִּתְלוֹצָצוּ, פֶּן-יֶחְזְקוּ, מוֹסְרֵיכֶם: כִּי-כָלָה וְנֶחֱרָצָה שָׁמַעְתִּי, מֵאֵת אֲדֹנָי יְהוִה צְבָאוֹת--עַל-כָּל-הָאָרֶץ.",
+    "הַאֲזִינוּ וְשִׁמְעוּ, קוֹלִי; הַקְשִׁיבוּ וְשִׁמְעוּ, אִמְרָתִי.",
+    "הֲכֹל הַיּוֹם, יַחֲרֹשׁ הַחֹרֵשׁ לִזְרֹעַ; יְפַתַּח וִישַׂדֵּד, אַדְמָתוֹ.",
+    "הֲלוֹא אִם-שִׁוָּה פָנֶיהָ, וְהֵפִיץ קֶצַח וְכַמֹּן יִזְרֹק; וְשָׂם חִטָּה שׂוֹרָה וּשְׂעֹרָה נִסְמָן, וְכֻסֶּמֶת גְּבֻלָתוֹ.",
+    "וְיִסְּרוֹ לַמִּשְׁפָּט, אֱלֹהָיו יוֹרֶנּוּ.",
+    "כִּי לֹא בֶחָרוּץ, יוּדַשׁ קֶצַח, וְאוֹפַן עֲגָלָה, עַל-כַּמֹּן יוּסָּב: כִּי בַמַּטֶּה יֵחָבֶט קֶצַח, וְכַמֹּן בַּשָּׁבֶט.",
+    "לֶחֶם יוּדָק, כִּי לֹא לָנֶצַח אָדוֹשׁ יְדוּשֶׁנּוּ; וְהָמַם גִּלְגַּל עֶגְלָתוֹ וּפָרָשָׁיו, לֹא יְדֻקֶּנּוּ.",
+    "גַּם-זֹאת, מֵעִם יְהוָה צְבָאוֹת יָצָאָה: הִפְלִא עֵצָה, הִגְדִּיל תּוּשִׁיָּה."
+  ],
+  "english": [
+    "Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!",
+    "Behold, the Lord hath a mighty and strong one, which as a tempest of hail and a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand.",
+    "The crown of pride, the drunkards of Ephraim, shall be trodden under feet:",
+    "And the glorious beauty, which is on the head of the fat valley, shall be a fading flower, and as the hasty fruit before the summer; which when he that looketh upon it seeth, while it is yet in his hand he eateth it up.",
+    "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,",
+    "And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.",
+    "But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment.",
+    "For all tables are full of vomit and filthiness, so that there is no place clean.",
+    "Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.",
+    "For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:",
+    "For with stammering lips and another tongue will he speak to this people.",
+    "To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.",
+    "But the word of the Lord was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.",
+    "Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.",
+    "Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:",
+    "Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.",
+    "Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.",
+    "And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.",
+    "From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.",
+    "For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.",
+    "For the Lord shall rise up as in mount Perazim, he shall be wroth as in the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.",
+    "Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord God of hosts a consumption, even determined upon the whole earth.",
+    "Give ye ear, and hear my voice; hearken, and hear my speech.",
+    "Doth the plowman plow all day to sow? doth he open and break the clods of his ground?",
+    "When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?",
+    "For his God doth instruct him to discretion, and doth teach him.",
+    "For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.",
+    "Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.",
+    "This also cometh forth from the Lord of hosts, which is wonderful in counsel, and excellent in working."
+  ],
+  "steinsaltz": [
+    "הוֹי, עֲטֶרֶת, הכתר שעל גֵּאוּת, ראשם הגאה של שִׁכֹּרֵי אֶפְרַיִם, דימוי למנהיגי ממלכת ישראל. וְצִיץ, תכשיט הנתון על הראש, אולי דמוי פרח נֹבֵל צְבִי תִפְאַרְתּוֹ. פארו של אפרים אינו אלא פרח נובל. ייתכן שתכשיט ממשי זה ענדו הנכבדים במשתה או אנשי המלחמה; ושמא זהו ביטוי סמלי בלבד. אֲשֶׁר עַל רֹאשׁ גֵּיא שְׁמָנִים הֲלוּמֵי יָיִן. הכתר הזה מונח על ראש שאינו משמש אלא לסיכה בשמן לשם תענוג ולשכרות מיין.",
+    "הִנֵּה בא יום חָזָק וְאַמִּץ לַאדֹנָי כְּזֶרֶם בָּרָד, שַׂעַר, סער קָטֶב, מכלה כְּזֶרֶם מַיִם כַּבִּירִים שֹׁטְפִים, אשר הִנִּיחַ את כתר אפרים לָאָרֶץ בְּיָד. הזרם שוטף ומפיל בחזקה את כל המתנשא. הסערה וזרימת המים מטלטלות, מנערות ואולי אף מטהרות את העם השיכור השוכב והוזה.",
+    "בְּרַגְלַיִם תֵּרָמַסְנָה עֲטֶרֶת גֵּאוּת שבראש שִׁכּוֹרֵי אֶפְרָיִם.",
+    "וְהָיְתָה צִיצַת, ציץ נֹבֵל צְבִי תִפְאַרְתּוֹ, אֲשֶׁר עַל רֹאשׁ גֵּיא שְׁמָנִים, כְּבִכּוּרָהּ, כמו תאנה המקדימה להבשיל בְּטֶרֶם קַיִץ, לפני זמן קציצת התאנים, אֲשֶׁר יִרְאֶה הָרֹאֶה אוֹתָהּ — בְּעוֹדָהּ בְּכַפּוֹ יִבְלָעֶנָּה. כאשר כל יתר התאנים עדיין פגים, ותאנה אחת הבשילה, היא בולטת לעין. הרואה אותה חוטף אותה ובולעה מיד, בלי להביאה הביתה. באופן דומה, קישוטי ההדר של אפרים ייבלעו כהרף עין.",
+    "במקום הקישוטים הנובלים שהתקשטו בהם שיכורי אפרים — בַּיּוֹם הַהוּא יִהְיֶה ה' צְבָאוֹת לַעֲטֶרֶת צְבִי וְלִצְפִירַת, זר, מקלעת תִּפְאָרָה לִשְׁאָר עַמּוֹ. ה' יהיה תפארתם של שאר העם, ממלכת יהודה.",
+    "ואולם ה' לא יהיה רק לפאר וכבוד לעם, אלא גם לְרוּחַ מִשְׁפָּט — לַיּוֹשֵׁב עַל כס הַמִּשְׁפָּט, וְלִגְבוּרָה — לאותם שהם מְשִׁיבֵי מִלְחָמָה שָׁעְרָה.",
+    "תרבות השתייה וההוללות פשתה גם ביהודה. וְגַם אֵלֶּה, יושבי ירושלים, בַּיַּיִן שָׁגוּ וּבַשֵּׁכָר תָּעוּ. כֹּהֵן וְנָבִיא שָׁגוּ בַשֵּׁכָר, נִבְלְעוּ, נעשו מעורפלים מִן הַיַּיִן. תָּעוּ מדרכם מִן, מחמת הַשֵּׁכָר, שָׁגוּ בָּרֹאֶה, לא הבינו נכון את אשר עיניהם רואות. פָּקוּ, פוקקו, שברו פְּלִילִיָּה, משפט. הנהגתה הרוחנית והמדינית של ירושלים ניתנה בידי קבוצת שיכורים מטושטשים.",
+    "כִּי כָּל השֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם פנוי ונקי. אין זה משתה של שמחה, אלא מסיבת שיכורים שאינם שולטים בנקביהם, וכל זוהמתם יוצאת החוצה.",
+    "כאשר המבוגרים הוללים ומחוסרי דעה — אֶת מִי יוֹרֶה דֵעָה, וְאֶת מִי יָבִין שְׁמוּעָה? את מי אפשר ללמד? את גְּמוּלֵי מֵחָלָב, התינוקות הקטנים שנגמלו מיניקה, עַתִּיקֵי, תינוקות שזה עתה הועתקו, הורחקו מִשָּׁדָיִם?!",
+    "התורה נתפסת בעיני האנשים כקובץ מגבלות ודקויות חסרי משמעות כִּי כאשר מנסים ללמדם תורה ודעת, אין הם רואים בתורה אלא צַו לָצָו, צַו לָצָו, פקודות והוראות, קַו לָקָו, קַו לָקָו, גדרים וגבולות, זְעֵיר שָׁם, זְעֵיר שָׁם, מעט כאן מעט כאן. הם רואים את התורה כמקבץ פקודות, הגבלות וסעיפים קטנים חסרי חשיבות לאנשים בוגרים מביני עניין.",
+    "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר הנביא אֶל הָעָם הַזֶּה. לשונו זרה לעם ונלעגת בעיניו.",
+    "אין הם מבינים את אֲשֶׁר אָמַר אֲלֵיהֶם: \"זֹאת הַמְּנוּחָה, כך תשיגו את שלוותכם: הָנִיחוּ לֶעָיֵף, לחלש ולמסכן לחיות את חייו בכבוד, וְזֹאת הַמַּרְגֵּעָה. הוראותיה של התורה מדריכות כיצד לבנות חברה הגונה יציבה\". ולֹא אָבוּא, רצו לשְׁמוֹעַ לקבל את תוכני הנבואה.",
+    "וְהָיָה לָהֶם דְּבַר ה' צַו לָצָו, צַו לָצָו, קַו לָקָו, קַו לָקָו, זְעֵיר שָׁם, זְעֵיר שָׁם. דבר ה' נראה בעיניהם כלקט חוקים ומשפטים חסרי משמעות, לְמַעַן, וכתוצאה מכך יֵלְכוּ וְכָשְׁלוּ אָחוֹר וְנִשְׁבָּרוּ וְנוֹקְשׁוּ וְנִלְכָּדוּ. הם הלכו אחור בעוורונם ונכשלו.",
+    "לָכֵן שִׁמְעוּ דְבַר ה', אַנְשֵׁי לָצוֹן, מֹשְׁלֵי, שליטי העם ושריו, או גם: מושלי משלים ואומרי מליצות בפני הָעָם הַזֶּה אֲשֶׁר בִּירוּשָׁלִָם,",
+    "כִּי כאשר שאלו אתכם אם אינכם חוששים מהעתיד לבוא עליכם, אֲמַרְתֶּם, בבדיחות דעת, בין בדיבור פה ובין בהתנהגותכם: כָּרַתְנוּ בְרִית אֶת, עם מָוֶת, וְעִם שְׁאוֹל עָשִׂינוּ חֹזֶה, המוות והשאול הם בני בריתנו, ואיננו חוששים מפניהם. שׁוֹט שׁוֹטֵף, דוהר, מחריב כִּי יַעֲבֹר להכות — לֹא יְבוֹאֵנוּ, כִּי שַׂמְנוּ כָזָב מַחְסֵנוּ, וּבַשֶּׁקֶר נִסְתָּרְנוּ. כך מכנה הנביא את מבטחיהם, או שמא זהו ציטוט המדיניות המוצהרת שלהם — אנו סומכים על התכסיס, התחבולה והכזב. מכל מקום, המחשבה על סוף החיים או על אחריתה של הנורמה ההתנהגותית אינה מעניינת איש. הם חיים בהכחשה, מתהוללים ומשתכרים ואינם שומעים מוסר.",
+    "לָכֵן כֹּה אָמַר ה' אֳלֹהִים: כעת העיר עומדת על מרמה, הכול בה מעורער ומכזיב, אבל עוד ייבנה בה מרכז יציב של אמת — הִנְנִי יִסַּד, מייסד בְּצִיּוֹן אָבֶן — אֶבֶן בֹּחַן, אבן המשמשת לבחינת מתכות יקרות. לפי הסימנים שמשאירה המתכת על האבן, אפשר לבדוק את סוג המתכת ואיכותה. זהו דימוי למקום מבחן. פִּנַּת יִקְרַת, מקום יציב ומכובד, מוּסָד מוּסָּד, מיוסד על בסיס איתן שבו הַמַּאֲמִין לֹא יָחִישׁ, ימהר. כיוון שיישען על מבטח אמת.",
+    "וְשַׂמְתִּי את המִשְׁפָּט לְקָו המידה, וּצְדָקָה אשים לְמִשְׁקָלֶת. המשפט והצדקה יהיו קני המידה שבהם יימדד ויישקל הכול. וְיָעָה, יגרוף בָרָד מַחְסֵה כָזָב, וְסֵתֶר, ואת מקומות המסתור השקריים שחשבו להתחבא בהם — מַיִם יִשְׁטֹפוּ.",
+    "ותגובת הנביא לדברי העם על בריתם עם המוות: וְכֻפַּר, ויימחה בְּרִיתְכֶם אֶת, עם מָוֶת, וְחָזוּתְכֶם, חוזכם אֶת שְׁאוֹל לֹא תָקוּם. שׁוֹט שׁוֹטֵף כִּי יַעֲבֹר — וִהְיִיתֶם לוֹ, תחתיו לְמִרְמָס.",
+    "מִדֵּי עָבְרוֹ יִקַּח אֶתְכֶם, כִּי בַבֹּקֶר בַּבֹּקֶר, בוקר בוקר יַעֲבֹר, בַּיּוֹם וּבַלָּיְלָה, הפורענות תבוא גם ביום גם בלילה. וְהָיָה רַק זְוָעָה הָבִין שְׁמוּעָה. מה שתשמעו ותבינו יהיה רק זוועה.",
+    "כִּי קָצַר הַמַּצָּע מֵהִשְׂתָּרֵעַ, המבטח שחשבתם לנוח עליו, לא יספק, וְהַמַּסֵּכָה המסך שאתם מנסים לסוכך בו על עצמכם, צָרָה כְּהִתְכַּנֵּס, יהיה צר מלהתכנס אל תוכה.",
+    "כִּי כְבמלחמה הנסית של דוד בהַר פְּרָצִים יָקוּם ה', העומד להילחם לכם. כְּעֵמֶק בְּגִבְעוֹן, שבו נלחם יהושע, יִרְגָּז, יזעם לַעֲשׂוֹת מַעֲשֵׂהוּ. ואף על פי כן זָר מַעֲשֵׂהוּ, לא תבינו את מעשיו, וכשיקום לַעֲבֹד עֲבֹדָתוֹ — נָכְרִיָּה עֲבֹדָתוֹ בעיניכם.",
+    "וְעַתָּה אַל תִּתְלוֹצָצוּ, פֶּן יֶחְזְקוּ מוֹסְרֵיכֶם, ייסוריכם, או מוסרותיכם, חבלי הרתמה שאתם קשורים בהם. כעת אתם מתלוצצים, אבל הפורענות שאתם מנסים להתעלם ממנה או להסתתר מפניה, אכן בוא תבוא — כִּי כָלָה וְנֶחֱרָצָה, כיליון גמור, או: גזרה מוחלטת שָׁמַעְתִּי מֵאֵת ה' אֳלֹהִים צְבָאוֹת עַל כָּל הָאָרֶץ.",
+    "הנביא פותח בדברי משל: הַאֲזִינוּ וְשִׁמְעוּ קוֹלִי, הַקְשִׁיבוּ וְשִׁמְעוּ אִמְרָתִי:",
+    "הֲאם כֹל הַיּוֹם יַחֲרֹשׁ הַחֹרֵשׁ לִזְרֹעַ, יְפַתַּח וִישַׂדֵּד, יפורר את רגבי אַדְמָתוֹ?! האם האיכר רק מכין את הקרקע לזריעה?!",
+    "הֲלוֹא אִם שִׁוָּה פָנֶיהָ, הרי אחרי שהוא חורש ומיישר את פני האדמה, הוא זורע את הזרעים המתאימים: וְהֵפִיץ, יפזר קֶצַח, וְכַמֹּן יִזְרֹק, מיני תבלין, וְשָׂם באדמה חִטָּה, שׂוֹרָה, מין חיטה, אולי חיטה חד-טורית וּשְׂעֹרָה נִסְמָן, במקום המסומן וְכֻסֶּמֶת גְּבֻלָתוֹ. בקצה גבול השדה יזרע כוסמת.",
+    "וְיִסְּרוֹ, ולימד את האיכר לַמִּשְׁפָּט, את הסדר הנכון בעבודתו, אֱלֹהָיו יוֹרֶנּוּ. קיימת חכמה מסודרת הכוללת חוקים באשר לעבודת האדמה — תחילה מגיע זמן החריש והשידוד, ולאחריו זמן הזריעה, שאף היא נעשית לפי הוראות מדויקות.",
+    "כִּי לֹא בֶחָרוּץ יוּדַשׁ קֶצַח. את הקצח אין דשים באמצעות חרוץ — כלי דיש קשה וחזק ובו מסמרים, העלול להזיק לתבלין זה. וְאף שלפעמים היו מסיעים עגלה על גבי חיטה או שעורה כדי להוציא את גרעיניהן מן השיבולים, אוֹפַן, גלגל עֲגָלָה לא עַל כַּמֹּן יוּסָּב. כאשר רוצים להפריד את זרעי הכמון מן הצמח, אין עושים זאת באמצעות אופן, משום שהכמון הוא צמח עדין וגרעיניו דקים. כִּי אם בַמַּטֶּה, מקל עץ יֵחָבֶט קֶצַח, וְכַמֹּן ייחבט בַּשָּׁבֶט, במקל.",
+    "לאחר דישת גרעיני הדגן צריך לטחנם עד דק — לֶחֶם יוּדָק, ייטחן, כִּי לֹא לָנֶצַח אָדוֹשׁ יְדוּשֶׁנּוּ. יש סוף לדישה, שהרי גם אם ידושו את הגרעינים עוד ועוד, הם לא ייטחנו — וְגם אם הָמַם, החריד וסער גִּלְגַּל, גַּלגל עֶגְלָתוֹ וּפָרָשָׁיו, המורגים המפרישים את הקליפה מהגרעין - לֹא יְדֻקֶּנּוּ בלא טחינה.",
+    "גַּם זֹאת מֵעִם ה' צְבָאוֹת יָצָאָה, הִפְלִיא עֵצָה, חכמה, הִגְדִּיל תּוּשִׁיָּה, תבונה. הנביא מוכיח ומתריע כנגד תפיסת העולם כאוסף מקרים, כתכסיסנות וכמִקבץ אינטרסים אקראיים. הוא ממחיש את דבריו באמצעות דימויים חקלאיים. כשם שאין החקלאי מזלזל בחוקיה של עבודת האדמה ואינו מתבדח סביבם, כשם שמי שמעוניין ששדהו יצמיח את יבולו לא יתחכם ולא ינהג בערמומיות כלפי חוקים אלה ולא יתחמק מחובותיו, אלא יעבד את שדהו בסדר הנקבע על פי חוקים מוגדרים, כך אין מנוס מן הציות לחוקי ה' שמוסר הנביא. הנביא פונה אל נמעניו ואומר להם כי אם יכחישו את סדרי העולם וחוקי התורה, תישא אותם הרוח, וכל הישגיהם ירדו לטמיון."
+  ],
+  "ai_explanation": [
+    "הנביא מתאר את גאוותם של שיכורי אפרים באמצעות כתר ופרח נובל שעל ראש גיא שמנים. פארם של מנהיגי ישראל נשען על תענוגות, סיכה בשמן ושכרות.",
+    "ה' יביא עליהם כוח הרסני המדומה לזרם ברד, לסערה ולמים אדירים, שישטפו ויפילו את כל המתנשא. הזרם מטלטל את העם השיכור ואולי אף מטהר אותו.",
+    "כתר הגאווה של שיכורי אפרים יירמס ברגליים.",
+    "פארו של אפרים ייעלם במהירות, כמו תאנה ראשונה המבשילה לפני הקיץ ונחטפת ונבלעת מיד. כך ייבלעו קישוטי ההדר של אפרים כהרף עין.",
+    "במקום קישוטי אפרים הנובלים, ה' יהיה כתר של כבוד וזר תפארת לשאר עמו — יהודה.",
+    "ה' יהיה גם מקור למשפט עבור היושב על כס המשפט ולגבורה עבור משיבי המלחמה אל השער.",
+    "גם בירושלים פשתה תרבות השתייה: כהנים ונביאים השתכרו, איבדו את הבנת המציאות והפרו את המשפט. ההנהגה הרוחנית והמדינית נעשתה מטושטשת.",
+    "השולחנות מלאים קיא וצואה, בלי מקום נקי. זהו תיאור של מסיבת שיכורים שבה המשתתפים אינם שולטים בגופם.",
+    "כאשר המבוגרים הוללים וחסרי דעת, את מי אפשר ללמד? האם את התינוקות שנגמלו זה עתה או שהורחקו מן השדיים?",
+    "האנשים מתייחסים לתורה כאל אוסף של פקודות, גבולות וסעיפים קטנים וחסרי חשיבות, במקום להבין את משמעותה הרחבה.",
+    "הנביא מדבר אל העם בלשון שהם חווים כלעג ובשפה זרה, מפני שאינם מקבלים את דבריו.",
+    "דבר הנביא הוא שהמנוחה והשלווה מושגות באמצעות דאגה לחלש ולמסכן ובניית חברה הגונה ויציבה, אך העם אינו רוצה לשמוע ולקבל זאת.",
+    "מאחר שדבר ה' נתפס בעיניהם כפרטים חסרי משמעות, הוא נעשה להם למכשול: הם הולכים לאחור, נכשלים, נשברים ונלכדים.",
+    "הנביא פונה אל שליטי ירושלים, המכונים אנשי לצון — בין שהם מתלוצצים ובין שהם מושלי משלים ומליצות.",
+    "השליטים מתנהגים כאילו כרתו ברית עם המוות ועם השאול, וסומכים על כזב, תחבולה ושקר שיגנו עליהם מפני הפורענות. הם חיים בהכחשה ואינם נותנים את דעתם לאחרית דרכם.",
+    "ה' עתיד לייסד בציון מרכז יציב של אמת, המתואר כאבן בחן, אבן פינה ומוסד איתן. מי שיישען על מבטח אמת לא ימהר ולא ייבהל.",
+    "המשפט והצדקה יהיו קני המידה שלפיהם יימדד הכול, והם יסחפו את מחסה הכזב ואת מקומות המסתור השקריים.",
+    "הברית המדומה עם המוות והחוזה עם השאול יימחו ולא יתקיימו. כאשר יבוא השוט השוטף, יהיו השליטים תחתיו למרמס.",
+    "הפורענות תעבור שוב ושוב ביום ובלילה, וכל שמועה שתישמע ותובן תהיה זעזוע.",
+    "המבטח שעליו הם מבקשים לנוח קצר מדי, והמסך שבו הם מנסים להסתתר צר מכדי להגן עליהם.",
+    "ה' יקום לפעול בעוצמה, בדומה למעשיו במלחמות הנסיות שבהר פרצים ובעמק גבעון. מעשיו ייראו לעם זרים ונכרים, משום שלא יבינו אותם.",
+    "הנביא מזהיר את המתלוצצים שלא יוסיפו להתלוצץ, כדי שמוסרותיהם או ייסוריהם לא יתחזקו. הוא שמע מאת ה' גזרה מוחלטת על הארץ.",
+    "הנביא מבקש שיקשיבו למשלו על עבודת האדמה.",
+    "האיכר אינו חורש כל היום; לאחר הכנת הקרקע הוא עובר לזריעה.",
+    "לאחר יישור פני האדמה זורעים את הצמחים המתאימים במקומות המתאימים: קצח, כמון, חיטה, שעורה וכוסמת.",
+    "גם סדר עבודת האדמה הוא חכמה שה' לימד את האדם: יש סדר נכון לחריש, לשידוד ולזריעה.",
+    "לכל צמח מתאימה דרך דישה אחרת: אין דשים קצח בחרוץ או כמון בגלגל עגלה, אלא חובטים אותם בעדינות במקל.",
+    "גם בדישת הדגן יש גבול: לאחר הדישה טוחנים את הגרעינים ללחם, ואין ממשיכים לדוש אותם ללא סוף, מפני שהדישה לבדה אינה טחינה.",
+    "כל החכמה והסדר הללו באים מאת ה'. כשם שהחקלאי מציית לחוקי עבודת האדמה, כך על האדם להכיר בחוקי ה' ובסדר שמוסר הנביא, ולא לנסות להתחכם או להתחמק מהם."
+  ],
+  "ai_explanation_en": [
+    "The prophet describes the pride of the drunkards of Ephraim through the image of a crown and a fading flower on the head of a fertile valley. The splendor of Israel's leaders rests on pleasures, anointing with oil, and drunkenness.",
+    "The Lord will bring upon them a destructive force compared to hail, a storm, and mighty waters that sweep away and cast down everything arrogant. The torrent shakes the drunken people and may even cleanse them.",
+    "The crown of pride of the drunkards of Ephraim will be trampled underfoot.",
+    "Ephraim's splendor will disappear quickly, like an early fig that ripens before summer and is immediately seized and swallowed. In the same way, Ephraim's ornaments of glory will be swallowed up in an instant.",
+    "Instead of Ephraim's fading ornaments, the Lord will be a crown of glory and a wreath of beauty for the remnant of His people—Judah.",
+    "The Lord will also be a source of justice for the one sitting on the judgment seat and of strength for those who turn the battle back to the gate.",
+    "A drinking culture has also spread in Jerusalem: priests and prophets became drunk, lost their understanding of reality, and violated justice. Spiritual and political leadership became confused and impaired.",
+    "The tables are full of vomit and filth, with no clean place left. This depicts a drinking party whose participants have lost control of their bodies.",
+    "When adults behave wildly and lack understanding, whom can they teach? Infants who have only just been weaned or removed from the breast?",
+    "The people treat the Torah as a collection of commands, boundaries, and insignificant small clauses, instead of understanding its broader meaning.",
+    "The prophet speaks to the people in a language they experience as mocking and foreign because they refuse to accept his words.",
+    "The prophet's message is that rest and peace are achieved by caring for the weak and needy and by building a decent, stable society, but the people do not want to hear or accept it.",
+    "Because God's word is seen by them as a collection of meaningless details, it becomes a stumbling block: they walk backward, stumble, break, and are trapped.",
+    "The prophet addresses Jerusalem's rulers, calling them scoffers—whether because they mock or because they are makers of witty sayings and fine speeches.",
+    "The rulers act as though they have made a covenant with death and an agreement with Sheol, relying on deceit, schemes, and falsehood to protect them from disaster. They live in denial and pay no attention to the end of their conduct.",
+    "The Lord will establish in Zion a stable center of truth, described as a tested stone, a cornerstone, and a firm foundation. Whoever relies on a true refuge will not hurry or panic.",
+    "Justice and righteousness will be the measuring standards by which everything is evaluated, and they will sweep away the shelter of lies and the false hiding places.",
+    "The imaginary covenant with death and agreement with Sheol will be erased and will not stand. When the overflowing scourge comes, the rulers will be trampled beneath it.",
+    "The disaster will pass repeatedly, day and night, and every report they hear and understand will be terrifying.",
+    "The refuge on which they seek to rest is too short, and the covering behind which they try to hide is too narrow to protect them.",
+    "The Lord will rise to act with power, like His miraculous acts in the battles at Mount Perazim and the Valley of Gibeon. His actions will seem strange and foreign to the people because they will not understand them.",
+    "The prophet warns the scoffers not to continue mocking, lest their bonds or afflictions become stronger. He has heard from the Lord a decisive decree concerning the land.",
+    "The prophet asks them to listen to his parable about working the soil.",
+    "The farmer does not plow all day; after preparing the ground, he moves on to sowing.",
+    "After leveling the soil, the appropriate plants are sown in the appropriate places: black cumin, cumin, wheat, barley, and spelt.",
+    "The order of agricultural work is also wisdom taught by God: there is a proper order for plowing, harrowing, and sowing.",
+    "Each plant requires a different method of threshing: black cumin is not threshed with a threshing sledge, nor cumin with a wagon wheel, but they are beaten gently with a stick.",
+    "Threshing grain also has a limit: after threshing, the kernels are ground into bread, and one does not continue threshing endlessly, because threshing alone is not grinding.",
+    "All this wisdom and order come from the Lord. Just as the farmer obeys the laws of agriculture, so people must recognize God's laws and the order taught by the prophet, rather than trying to outsmart or evade them."
+  ],
+  "perush": [
+    "הנביא מתאר את גאוותם של שיכורי אפרים באמצעות כתר ופרח נובל שעל ראש גיא שמנים. פארם של מנהיגי ישראל נשען על תענוגות, סיכה בשמן ושכרות.",
+    "ה' יביא עליהם כוח הרסני המדומה לזרם ברד, לסערה ולמים אדירים, שישטפו ויפילו את כל המתנשא. הזרם מטלטל את העם השיכור ואולי אף מטהר אותו.",
+    "כתר הגאווה של שיכורי אפרים יירמס ברגליים.",
+    "פארו של אפרים ייעלם במהירות, כמו תאנה ראשונה המבשילה לפני הקיץ ונחטפת ונבלעת מיד. כך ייבלעו קישוטי ההדר של אפרים כהרף עין.",
+    "במקום קישוטי אפרים הנובלים, ה' יהיה כתר של כבוד וזר תפארת לשאר עמו — יהודה.",
+    "ה' יהיה גם מקור למשפט עבור היושב על כס המשפט ולגבורה עבור משיבי המלחמה אל השער.",
+    "גם בירושלים פשתה תרבות השתייה: כהנים ונביאים השתכרו, איבדו את הבנת המציאות והפרו את המשפט. ההנהגה הרוחנית והמדינית נעשתה מטושטשת.",
+    "השולחנות מלאים קיא וצואה, בלי מקום נקי. זהו תיאור של מסיבת שיכורים שבה המשתתפים אינם שולטים בגופם.",
+    "כאשר המבוגרים הוללים וחסרי דעת, את מי אפשר ללמד? האם את התינוקות שנגמלו זה עתה או שהורחקו מן השדיים?",
+    "האנשים מתייחסים לתורה כאל אוסף של פקודות, גבולות וסעיפים קטנים וחסרי חשיבות, במקום להבין את משמעותה הרחבה.",
+    "הנביא מדבר אל העם בלשון שהם חווים כלעג ובשפה זרה, מפני שאינם מקבלים את דבריו.",
+    "דבר הנביא הוא שהמנוחה והשלווה מושגות באמצעות דאגה לחלש ולמסכן ובניית חברה הגונה ויציבה, אך העם אינו רוצה לשמוע ולקבל זאת.",
+    "מאחר שדבר ה' נתפס בעיניהם כפרטים חסרי משמעות, הוא נעשה להם למכשול: הם הולכים לאחור, נכשלים, נשברים ונלכדים.",
+    "הנביא פונה אל שליטי ירושלים, המכונים אנשי לצון — בין שהם מתלוצצים ובין שהם מושלי משלים ומליצות.",
+    "השליטים מתנהגים כאילו כרתו ברית עם המוות ועם השאול, וסומכים על כזב, תחבולה ושקר שיגנו עליהם מפני הפורענות. הם חיים בהכחשה ואינם נותנים את דעתם לאחרית דרכם.",
+    "ה' עתיד לייסד בציון מרכז יציב של אמת, המתואר כאבן בחן, אבן פינה ומוסד איתן. מי שיישען על מבטח אמת לא ימהר ולא ייבהל.",
+    "המשפט והצדקה יהיו קני המידה שלפיהם יימדד הכול, והם יסחפו את מחסה הכזב ואת מקומות המסתור השקריים.",
+    "הברית המדומה עם המוות והחוזה עם השאול יימחו ולא יתקיימו. כאשר יבוא השוט השוטף, יהיו השליטים תחתיו למרמס.",
+    "הפורענות תעבור שוב ושוב ביום ובלילה, וכל שמועה שתישמע ותובן תהיה זעזוע.",
+    "המבטח שעליו הם מבקשים לנוח קצר מדי, והמסך שבו הם מנסים להסתתר צר מכדי להגן עליהם.",
+    "ה' יקום לפעול בעוצמה, בדומה למעשיו במלחמות הנסיות שבהר פרצים ובעמק גבעון. מעשיו ייראו לעם זרים ונכרים, משום שלא יבינו אותם.",
+    "הנביא מזהיר את המתלוצצים שלא יוסיפו להתלוצץ, כדי שמוסרותיהם או ייסוריהם לא יתחזקו. הוא שמע מאת ה' גזרה מוחלטת על הארץ.",
+    "הנביא מבקש שיקשיבו למשלו על עבודת האדמה.",
+    "האיכר אינו חורש כל היום; לאחר הכנת הקרקע הוא עובר לזריעה.",
+    "לאחר יישור פני האדמה זורעים את הצמחים המתאימים במקומות המתאימים: קצח, כמון, חיטה, שעורה וכוסמת.",
+    "גם סדר עבודת האדמה הוא חכמה שה' לימד את האדם: יש סדר נכון לחריש, לשידוד ולזריעה.",
+    "לכל צמח מתאימה דרך דישה אחרת: אין דשים קצח בחרוץ או כמון בגלגל עגלה, אלא חובטים אותם בעדינות במקל.",
+    "גם בדישת הדגן יש גבול: לאחר הדישה טוחנים את הגרעינים ללחם, ואין ממשיכים לדוש אותם ללא סוף, מפני שהדישה לבדה אינה טחינה.",
+    "כל החכמה והסדר הללו באים מאת ה'. כשם שהחקלאי מציית לחוקי עבודת האדמה, כך על האדם להכיר בחוקי ה' ובסדר שמוסר הנביא, ולא לנסות להתחכם או להתחמק מהם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "גאוות אפרים וקריסתה",
+      "title_en": "Ephraim's Pride and Collapse",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "הנביא מתאר את מנהיגי אפרים כשיכורים המתפארים בתענוגות ובקישוטים נובלים, ומזהיר שפארם יירמס וייעלם במהירות.",
+      "summary_en": "The prophet portrays Ephraim's leaders as drunkards boasting in pleasure and fading ornaments, and warns that their glory will be trampled and vanish quickly.",
+      "image_prompt": "A symbolic biblical scene of a fading crown and flower on a lush valley, drunken arrogant figures in the background, a powerful storm and rushing water approaching, no text"
+    },
+    {
+      "title": "ה' כפאר וכמשפט, אך גם ירושלים שיכורה",
+      "title_en": "The Lord as Glory and Justice, Yet Jerusalem Is Also Drunk",
+      "start_verse": 5,
+      "end_verse": 13,
+      "summary": "ה' עתיד להיות מקור התפארת, המשפט והגבורה לשאר עמו, אך גם בירושלים הכהנים, הנביאים והמנהיגים שיכורים ומעוותים את המשפט. העם דוחה את הוראת הנביא על מנוחה, אחריות חברתית וחברה הגונה, ולכן דבר ה' נעשה לו למכשול.",
+      "summary_en": "The Lord will be the source of glory, justice, and strength for the remnant of His people, yet in Jerusalem priests, prophets, and leaders are drunk and distort justice. The people reject the prophet's teaching about rest, social responsibility, and a decent society, so God's word becomes a stumbling block to them.",
+      "image_prompt": "A contrasting biblical tableau: on one side a dignified remnant under a radiant crown of light, on the other side confused drunken priests and leaders around stained tables, no text"
+    },
+    {
+      "title": "הכזב כמחסה והאבן היציבה בציון",
+      "title_en": "False Refuge and the Firm Stone in Zion",
+      "start_verse": 14,
+      "end_verse": 22,
+      "summary": "שליטי ירושלים מתלוצצים ובוטחים בכזב כאילו כרתו ברית עם המוות, אך ה' יעמיד בציון יסוד של אמת ומשפט שיחשוף את מחסות השקר. הפורענות תשטוף את ביטחונם המדומה, והנביא מזהיר אותם שלא להמשיך להתלוצץ.",
+      "summary_en": "Jerusalem's rulers scoff and trust in falsehood as though they had made a covenant with death, but the Lord will establish in Zion a foundation of truth and justice that exposes false refuges. Disaster will sweep away their imaginary security, and the prophet warns them not to continue mocking.",
+      "image_prompt": "A symbolic ancient city scene with a large tested cornerstone in Zion, storm waters washing away fragile walls labeled only through visual symbolism, solemn rulers facing the storm, no text"
+    },
+    {
+      "title": "משל החקלאי: חכמה, סדר ומידה",
+      "title_en": "The Farmer's Parable: Wisdom, Order, and Measure",
+      "start_verse": 23,
+      "end_verse": 29,
+      "summary": "באמצעות משל עבודת האדמה מלמד הנביא שיש סדר ומידה לכל שלב: חריש, זריעה, דישה וטחינה. כשם שהחקלאי מתאים לכל צמח את דרך הטיפול ואינו דש ללא גבול, כך יש להכיר בחוקי ה' ולא להתחכם נגדם.",
+      "summary_en": "Through the parable of farming, the prophet teaches that every stage has its proper order and measure: plowing, sowing, threshing, and grinding. Just as the farmer uses the appropriate method for each plant and does not thresh without limit, people must recognize God's laws rather than try to outsmart them.",
+      "image_prompt": "A detailed biblical agricultural field showing plowing, carefully separated seeds, gentle threshing with a wooden stick, and grain being ground, conveying order and wisdom, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 16.24,
+      "usfm": "ISA.28.1"
+    },
+    {
+      "start": 16.24,
+      "end": 31.2,
+      "usfm": "ISA.28.2"
+    },
+    {
+      "start": 31.2,
+      "end": 38.42,
+      "usfm": "ISA.28.3"
+    },
+    {
+      "start": 38.42,
+      "end": 55.12,
+      "usfm": "ISA.28.4"
+    },
+    {
+      "start": 55.12,
+      "end": 63.76,
+      "usfm": "ISA.28.5"
+    },
+    {
+      "start": 63.76,
+      "end": 71.56,
+      "usfm": "ISA.28.6"
+    },
+    {
+      "start": 71.56,
+      "end": 89.6,
+      "usfm": "ISA.28.7"
+    },
+    {
+      "start": 89.6,
+      "end": 95.36,
+      "usfm": "ISA.28.8"
+    },
+    {
+      "start": 95.36,
+      "end": 106.44,
+      "usfm": "ISA.28.9"
+    },
+    {
+      "start": 106.44,
+      "end": 117.84,
+      "usfm": "ISA.28.10"
+    },
+    {
+      "start": 117.84,
+      "end": 122.76,
+      "usfm": "ISA.28.11"
+    },
+    {
+      "start": 122.76,
+      "end": 132.96,
+      "usfm": "ISA.28.12"
+    },
+    {
+      "start": 132.96,
+      "end": 150.2,
+      "usfm": "ISA.28.13"
+    },
+    {
+      "start": 150.2,
+      "end": 156.76,
+      "usfm": "ISA.28.14"
+    },
+    {
+      "start": 156.76,
+      "end": 176.02,
+      "usfm": "ISA.28.15"
+    },
+    {
+      "start": 176.02,
+      "end": 192.52,
+      "usfm": "ISA.28.16"
+    },
+    {
+      "start": 192.52,
+      "end": 204.48,
+      "usfm": "ISA.28.17"
+    },
+    {
+      "start": 204.48,
+      "end": 220.06,
+      "usfm": "ISA.28.18"
+    },
+    {
+      "start": 220.06,
+      "end": 232.74,
+      "usfm": "ISA.28.19"
+    },
+    {
+      "start": 232.74,
+      "end": 242.6,
+      "usfm": "ISA.28.20"
+    },
+    {
+      "start": 242.6,
+      "end": 258.74,
+      "usfm": "ISA.28.21"
+    },
+    {
+      "start": 258.74,
+      "end": 271.28,
+      "usfm": "ISA.28.22"
+    },
+    {
+      "start": 271.28,
+      "end": 278.7,
+      "usfm": "ISA.28.23"
+    },
+    {
+      "start": 278.7,
+      "end": 285.86,
+      "usfm": "ISA.28.24"
+    },
+    {
+      "start": 285.86,
+      "end": 299.54,
+      "usfm": "ISA.28.25"
+    },
+    {
+      "start": 299.54,
+      "end": 304.64,
+      "usfm": "ISA.28.26"
+    },
+    {
+      "start": 304.64,
+      "end": 319.7,
+      "usfm": "ISA.28.27"
+    },
+    {
+      "start": 319.7,
+      "end": 329.86,
+      "usfm": "ISA.28.28"
+    },
+    {
+      "start": 329.86,
+      "end": 345.0,
+      "usfm": "ISA.28.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    16.24,
+    31.2,
+    38.42,
+    55.12,
+    63.76,
+    71.56,
+    89.6,
+    95.36,
+    106.44,
+    117.84,
+    122.76,
+    132.96,
+    150.2,
+    156.76,
+    176.02,
+    192.52,
+    204.48,
+    220.06,
+    232.74,
+    242.6,
+    258.74,
+    271.28,
+    278.7,
+    285.86,
+    299.54,
+    304.64,
+    319.7,
+    329.86,
+    345.0
+  ],
+  "times_en_usfm": [
+    "ISA.28.1",
+    "ISA.28.2",
+    "ISA.28.3",
+    "ISA.28.4",
+    "ISA.28.5",
+    "ISA.28.6",
+    "ISA.28.7",
+    "ISA.28.8",
+    "ISA.28.9",
+    "ISA.28.10",
+    "ISA.28.11",
+    "ISA.28.12",
+    "ISA.28.13",
+    "ISA.28.14",
+    "ISA.28.15",
+    "ISA.28.16",
+    "ISA.28.17",
+    "ISA.28.18",
+    "ISA.28.19",
+    "ISA.28.20",
+    "ISA.28.21",
+    "ISA.28.22",
+    "ISA.28.23",
+    "ISA.28.24",
+    "ISA.28.25",
+    "ISA.28.26",
+    "ISA.28.27",
+    "ISA.28.28",
+    "ISA.28.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "ישעיהו מתאר את אפרים באמצעות דימויים של כתר ופרח נובל, ומקשר את גאוותו לשכרות ולחיי תענוגות בעמק פורה.",
+      "text_he": "ישעיהו מתאר את אפרים באמצעות דימויים של כתר ופרח נובל, ומקשר את גאוותו לשכרות ולחיי תענוגות בעמק פורה.",
+      "text_en": "Isaiah describes Ephraim using images of a crown and a fading flower, linking its pride to drunkenness and a life of pleasure in a fertile valley."
+    },
+    {
+      "verse": 2,
+      "text": "הפורענות המתקרבת מתוארת כסערה עזה: ברד, רוח קטב וזרם מים אדירים השוטפים את הארץ.",
+      "text_he": "הפורענות המתקרבת מתוארת כסערה עזה: ברד, רוח קטב וזרם מים אדירים השוטפים את הארץ.",
+      "text_en": "The approaching disaster is described as a fierce storm: hail, a devastating wind, and a mighty flood sweeping over the land."
+    },
+    {
+      "verse": 5,
+      "text": "בניגוד לכתר הגאווה של אפרים, ה׳ מתואר כעטרת צבי וכצפירת תפארה לשאר עמו.",
+      "text_he": "בניגוד לכתר הגאווה של אפרים, ה׳ מתואר כעטרת צבי וכצפירת תפארה לשאר עמו.",
+      "text_en": "In contrast to Ephraim’s crown of pride, the Lord is described as a crown of glory and a beautiful diadem for the remnant of his people."
+    },
+    {
+      "verse": 7,
+      "text": "הביקורת אינה מופנית רק אל העם: הפרק מציין במפורש שגם כהן ונביא שגו בשכרות, ולכן טעו בראייה ובמשפט.",
+      "text_he": "הביקורת אינה מופנית רק אל העם: הפרק מציין במפורש שגם כהן ונביא שגו בשכרות, ולכן טעו בראייה ובמשפט.",
+      "text_en": "The criticism is not directed only at the people: the chapter explicitly says that both priest and prophet went astray through drunkenness, causing them to err in vision and judgment."
+    },
+    {
+      "verse": 10,
+      "text": "הביטוי החוזר צַו לָצָו וְקַו לָקָו מתאר דברי הוראה קצרים וחוזרים, שהשומעים לועגים להם במקום לקבלם.",
+      "text_he": "הביטוי החוזר צַו לָצָו וְקַו לָקָו מתאר דברי הוראה קצרים וחוזרים, שהשומעים לועגים להם במקום לקבלם.",
+      "text_en": "The repeated phrase “command upon command, command upon command; rule upon rule, rule upon rule” describes short, repetitive instructions that the hearers mock instead of accepting."
+    },
+    {
+      "verse": 12,
+      "text": "הנביא מציג את מנוחת העייף ואת המרגעה כחלק מן המסר שהעם מסרב לשמוע.",
+      "text_he": "הנביא מציג את מנוחת העייף ואת המרגעה כחלק מן המסר שהעם מסרב לשמוע.",
+      "text_en": "The prophet presents rest for the weary and refreshment as part of the message that the people refuse to hear."
+    },
+    {
+      "verse": 15,
+      "text": "שליטי ירושלים מתוארים כמי שאומרים שכרתו ברית עם המוות ועם שאול, ובטחו בכזב ובשקר כמחסה מפני השוט השוטף.",
+      "text_he": "שליטי ירושלים מתוארים כמי שאומרים שכרתו ברית עם המוות ועם שאול, ובטחו בכזב ובשקר כמחסה מפני השוט השוטף.",
+      "text_en": "The rulers of Jerusalem are described as saying that they have made a covenant with death and with Sheol, trusting in lies and falsehood as a shelter from the overwhelming scourge."
+    },
+    {
+      "verse": 16,
+      "text": "כנגד מחסה השקר, ה׳ מצהיר שהוא מייסד בציון אבן בוחן, אבן פינת יקרת ומוסד יציב; בפסוק נאמר שהמאמין לא יחיש.",
+      "text_he": "כנגד מחסה השקר, ה׳ מצהיר שהוא מייסד בציון אבן בוחן, אבן פינת יקרת ומוסד יציב; בפסוק נאמר שהמאמין לא יחיש.",
+      "text_en": "In contrast to the shelter of lies, the Lord declares that he is laying in Zion a tested stone, a precious cornerstone and a firm foundation; the verse says that whoever believes will not act hastily."
+    },
+    {
+      "verse": 17,
+      "text": "המשפט והצדקה מתוארים ככלי מדידה: משפט לקו וצדקה למשקולת, ואילו הברד והמים יחשפו וישטפו את מחסה הכזב.",
+      "text_he": "המשפט והצדקה מתוארים ככלי מדידה: משפט לקו וצדקה למשקולת, ואילו הברד והמים יחשפו וישטפו את מחסה הכזב.",
+      "text_en": "Justice and righteousness are described as measuring tools: justice as a line and righteousness as a plumb line, while hail and water will expose and sweep away the shelter of falsehood."
+    },
+    {
+      "verse": 23,
+      "text": "בחלקו האחרון של הפרק יש משל חקלאי: החורש אינו עובד ללא הפסקה, אלא מתאים את החריש, הזריעה, הדישה והטחינה לסוגי הזרעים ולמטרת העבודה.",
+      "text_he": "בחלקו האחרון של הפרק יש משל חקלאי: החורש אינו עובד ללא הפסקה, אלא מתאים את החריש, הזריעה, הדישה והטחינה לסוגי הזרעים ולמטרת העבודה.",
+      "text_en": "The final part of the chapter contains an agricultural parable: a farmer does not plow without stopping, but adapts the plowing, sowing, threshing, and grinding to the types of seeds and the purpose of the work."
+    }
+  ]
+}

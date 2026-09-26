@@ -1,0 +1,537 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 21,
+  "title": "מלכים א פרק 21",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a21.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a21.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/21-137fc60d6cd868880f66a4c764bf9ec6.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, אַחַר הַדְּבָרִים הָאֵלֶּה, כֶּרֶם הָיָה לְנָבוֹת הַיִּזְרְעֵאלִי, אֲשֶׁר בְּיִזְרְעֶאל--אֵצֶל הֵיכַל אַחְאָב, מֶלֶךְ שֹׁמְרוֹן.",
+    "וַיְדַבֵּר אַחְאָב אֶל-נָבוֹת לֵאמֹר תְּנָה-לִּי אֶת-כַּרְמְךָ וִיהִי-לִי לְגַן-יָרָק, כִּי הוּא קָרוֹב אֵצֶל בֵּיתִי, וְאֶתְּנָה לְךָ תַּחְתָּיו, כֶּרֶם טוֹב מִמֶּנּוּ; אִם טוֹב בְּעֵינֶיךָ, אֶתְּנָה-לְךָ כֶסֶף מְחִיר זֶה.",
+    "וַיֹּאמֶר נָבוֹת, אֶל-אַחְאָב: חָלִילָה לִּי מֵיְהוָה, מִתִּתִּי אֶת-נַחֲלַת אֲבֹתַי לָךְ.",
+    "וַיָּבֹא אַחְאָב אֶל-בֵּיתוֹ סַר וְזָעֵף, עַל-הַדָּבָר אֲשֶׁר-דִּבֶּר אֵלָיו נָבוֹת הַיִּזְרְעֵאלִי, וַיֹּאמֶר, לֹא-אֶתֵּן לְךָ אֶת-נַחֲלַת אֲבוֹתָי; וַיִּשְׁכַּב, עַל-מִטָּתוֹ, וַיַּסֵּב אֶת-פָּנָיו, וְלֹא-אָכַל לָחֶם.",
+    "וַתָּבֹא אֵלָיו, אִיזֶבֶל אִשְׁתּוֹ; וַתְּדַבֵּר אֵלָיו, מַה-זֶּה רוּחֲךָ סָרָה, וְאֵינְךָ, אֹכֵל לָחֶם.",
+    "וַיְדַבֵּר אֵלֶיהָ, כִּי-אֲדַבֵּר אֶל-נָבוֹת הַיִּזְרְעֵאלִי וָאֹמַר לוֹ תְּנָה-לִּי אֶת-כַּרְמְךָ בְּכֶסֶף, אוֹ אִם-חָפֵץ אַתָּה, אֶתְּנָה-לְךָ כֶרֶם תַּחְתָּיו; וַיֹּאמֶר, לֹא-אֶתֵּן לְךָ אֶת-כַּרְמִי.",
+    "וַתֹּאמֶר אֵלָיו, אִיזֶבֶל אִשְׁתּוֹ, אַתָּה, עַתָּה תַּעֲשֶׂה מְלוּכָה עַל-יִשְׂרָאֵל; קוּם אֱכָל-לֶחֶם, וְיִטַב לִבֶּךָ--אֲנִי אֶתֵּן לְךָ, אֶת-כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי.",
+    "וַתִּכְתֹּב סְפָרִים בְּשֵׁם אַחְאָב, וַתַּחְתֹּם בְּחֹתָמוֹ; וַתִּשְׁלַח הספרים סְפָרִים , אֶל-הַזְּקֵנִים וְאֶל-הַחֹרִים אֲשֶׁר בְּעִירוֹ, הַיֹּשְׁבִים, אֶת-נָבוֹת.",
+    "וַתִּכְתֹּב בַּסְּפָרִים, לֵאמֹר: קִרְאוּ-צוֹם, וְהֹשִׁיבוּ אֶת-נָבוֹת בְּרֹאשׁ הָעָם.",
+    "וְהוֹשִׁיבוּ שְׁנַיִם אֲנָשִׁים בְּנֵי-בְלִיַּעַל, נֶגְדּוֹ, וִיעִדֻהוּ לֵאמֹר, בֵּרַכְתָּ אֱלֹהִים וָמֶלֶךְ; וְהוֹצִיאֻהוּ וְסִקְלֻהוּ, וְיָמֹת.",
+    "וַיַּעֲשׂוּ אַנְשֵׁי עִירוֹ הַזְּקֵנִים וְהַחֹרִים, אֲשֶׁר הַיֹּשְׁבִים בְּעִירוֹ, כַּאֲשֶׁר שָׁלְחָה אֲלֵיהֶם, אִיזָבֶל--כַּאֲשֶׁר כָּתוּב בַּסְּפָרִים, אֲשֶׁר שָׁלְחָה אֲלֵיהֶם.",
+    "קָרְאוּ, צוֹם; וְהֹשִׁיבוּ אֶת-נָבוֹת, בְּרֹאשׁ הָעָם.",
+    "וַיָּבֹאוּ שְׁנֵי הָאֲנָשִׁים בְּנֵי-בְלִיַּעַל, וַיֵּשְׁבוּ נֶגְדּוֹ, וַיְעִדֻהוּ אַנְשֵׁי הַבְּלִיַּעַל אֶת-נָבוֹת נֶגֶד הָעָם לֵאמֹר, בֵּרַךְ נָבוֹת אֱלֹהִים וָמֶלֶךְ; וַיֹּצִאֻהוּ מִחוּץ לָעִיר, וַיִּסְקְלֻהוּ בָאֲבָנִים וַיָּמֹת.",
+    "וַיִּשְׁלְחוּ, אֶל-אִיזֶבֶל לֵאמֹר: סֻקַּל נָבוֹת, וַיָּמֹת.",
+    "וַיְהִי כִּשְׁמֹעַ אִיזֶבֶל, כִּי-סֻקַּל נָבוֹת וַיָּמֹת; וַתֹּאמֶר אִיזֶבֶל אֶל-אַחְאָב, קוּם רֵשׁ אֶת-כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי אֲשֶׁר מֵאֵן לָתֶת-לְךָ בְכֶסֶף--כִּי אֵין נָבוֹת חַי, כִּי-מֵת.",
+    "וַיְהִי כִּשְׁמֹעַ אַחְאָב, כִּי מֵת נָבוֹת; וַיָּקָם אַחְאָב, לָרֶדֶת אֶל-כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי--לְרִשְׁתּוֹ.",
+    "וַיְהִי, דְּבַר-יְהוָה, אֶל-אֵלִיָּהוּ הַתִּשְׁבִּי, לֵאמֹר.",
+    "קוּם רֵד, לִקְרַאת אַחְאָב מֶלֶךְ-יִשְׂרָאֵל--אֲשֶׁר בְּשֹׁמְרוֹן; הִנֵּה בְּכֶרֶם נָבוֹת, אֲשֶׁר-יָרַד שָׁם לְרִשְׁתּוֹ.",
+    "וְדִבַּרְתָּ אֵלָיו לֵאמֹר, כֹּה אָמַר יְהוָה, הֲרָצַחְתָּ, וְגַם-יָרָשְׁתָּ; וְדִבַּרְתָּ אֵלָיו לֵאמֹר, כֹּה אָמַר יְהוָה, בִּמְקוֹם אֲשֶׁר לָקְקוּ הַכְּלָבִים אֶת-דַּם נָבוֹת, יָלֹקּוּ הַכְּלָבִים אֶת-דָּמְךָ גַּם-אָתָּה.",
+    "וַיֹּאמֶר אַחְאָב אֶל-אֵלִיָּהוּ, הַמְצָאתַנִי אֹיְבִי; וַיֹּאמֶר מָצָאתִי--יַעַן הִתְמַכֶּרְךָ, לַעֲשׂוֹת הָרַע בְּעֵינֵי יְהוָה.",
+    "הִנְנִי מֵבִי אֵלֶיךָ רָעָה, וּבִעַרְתִּי אַחֲרֶיךָ; וְהִכְרַתִּי לְאַחְאָב מַשְׁתִּין בְּקִיר, וְעָצוּר וְעָזוּב בְּיִשְׂרָאֵל.",
+    "וְנָתַתִּי אֶת-בֵּיתְךָ, כְּבֵית יָרָבְעָם בֶּן-נְבָט, וּכְבֵית, בַּעְשָׁא בֶן-אֲחִיָּה: אֶל-הַכַּעַס אֲשֶׁר הִכְעַסְתָּ, וַתַּחֲטִא אֶת-יִשְׂרָאֵל.",
+    "וְגַם-לְאִיזֶבֶל--דִּבֶּר יְהוָה, לֵאמֹר: הַכְּלָבִים יֹאכְלוּ אֶת-אִיזֶבֶל, בְּחֵל יִזְרְעֶאל.",
+    "הַמֵּת לְאַחְאָב בָּעִיר, יֹאכְלוּ הַכְּלָבִים; וְהַמֵּת, בַּשָּׂדֶה, יֹאכְלוּ, עוֹף הַשָּׁמָיִם.",
+    "רַק, לֹא-הָיָה כְאַחְאָב, אֲשֶׁר הִתְמַכֵּר, לַעֲשׂוֹת הָרַע בְּעֵינֵי יְהוָה--אֲשֶׁר-הֵסַתָּה אֹתוֹ, אִיזֶבֶל אִשְׁתּוֹ.",
+    "וַיַּתְעֵב מְאֹד, לָלֶכֶת אַחֲרֵי הַגִּלֻּלִים--כְּכֹל, אֲשֶׁר עָשׂוּ הָאֱמֹרִי, אֲשֶׁר הוֹרִישׁ יְהוָה, מִפְּנֵי בְּנֵי יִשְׂרָאֵל.",
+    "וַיְהִי כִשְׁמֹעַ אַחְאָב אֶת-הַדְּבָרִים הָאֵלֶּה, וַיִּקְרַע בְּגָדָיו, וַיָּשֶׂם-שַׂק עַל-בְּשָׂרוֹ, וַיָּצוֹם; וַיִּשְׁכַּב בַּשָּׂק, וַיְהַלֵּךְ אַט.",
+    "הֲרָאִיתָ, כִּי-נִכְנַע אַחְאָב מִלְּפָנָי; יַעַן כִּי-נִכְנַע מִפָּנַי, לֹא-אָבִי הָרָעָה בְּיָמָיו--בִּימֵי בְנוֹ, אָבִיא הָרָעָה עַל-בֵּיתוֹ."
+  ],
+  "english": [
+    "And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.",
+    "And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.",
+    "And Naboth said to Ahab, The Lord forbid it me, that I should give the inheritance of my fathers unto thee.",
+    "And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.",
+    "But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?",
+    "And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard.",
+    "And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite.",
+    "So she wrote letters in Ahab's name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, dwelling with Naboth.",
+    "And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:",
+    "And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die.",
+    "And the men of his city, even the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, and as it was written in the letters which she had sent unto them.",
+    "They proclaimed a fast, and set Naboth on high among the people.",
+    "And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, even against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died.",
+    "Then they sent to Jezebel, saying, Naboth is stoned, and is dead.",
+    "And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.",
+    "And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.",
+    "And the word of the Lord came to Elijah the Tishbite, saying,",
+    "Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to possess it.",
+    "And thou shalt speak unto him, saying, Thus saith the Lord, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the Lord, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.",
+    "And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found thee: because thou hast sold thyself to work evil in the sight of the Lord.",
+    "Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,",
+    "And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin.",
+    "And of Jezebel also spake the Lord, saying, The dogs shall eat Jezebel by the wall of Jezreel.",
+    "Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.",
+    "But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the Lord, whom Jezebel his wife stirred up.",
+    "And he did very abominably in following idols, according to all things as did the Amorites, whom the Lord cast out before the children of Israel.",
+    "And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.",
+    "And the word of the Lord came to Elijah the Tishbite, saying,",
+    "Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son's days will I bring the evil upon his house."
+  ],
+  "steinsaltz": [
+    "וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה, כֶּרֶם הָיָה לְנָבוֹת הַיִּזְרְעֵאלִי אֲשֶׁר היה בְּיִזְרְעֶאל אֵצֶל, ליד הֵיכַל אַחְאָב מֶלֶךְ שֹׁמְרוֹן.",
+    "וַיְדַבֵּר אַחְאָב אֶל־נָבוֹת לֵאמֹר: תְּנָה־לִּי אֶת־כַּרְמְךָ וִיהִי־לִי, כדי להפוך אותו לְגַן־יָרָק, כִּי הוּא קָרוֹב אֵצֶל בֵּיתִי, וְאם תרצה – אֶתְּנָה לְךָ תַּחְתָּיו, במקומו כֶּרֶם טוֹב יותר מִמֶּנּוּ. ואִם טוֹב בְּעֵינֶיךָ, תעדיף – אֶתְּנָה־לְּךָ כֶסֶף מְחִיר זֶה הכרם.",
+    "וַיֹּאמֶר נָבוֹת אֶל־אַחְאָב: אין זה כרם שקניתי אלא נחלת אבותי. חָלִילָה לִּי מֵה' מִתִּתִּי אֶת־נַחֲלַת אֲבֹתַי לָךְ, שאינך מבני משפחתי. נבות סירב באופן מוחלט, ולא הותיר אפשרות מיקוח.",
+    "וַיָּבֹא אַחְאָב אֶל־בֵּיתוֹ סַר וְזָעֵף עַל־הַדָּבָר אֲשֶׁר־דִּבֶּר אֵלָיו נָבוֹת הַיִּזְרְעֵאלִי, וַיֹּאמֶר: לֹא־אֶתֵּן לְךָ אֶת־נַחֲלַת אֲבוֹתָי. וַיִּשְׁכַּב אחאב עַל־מִטָּתוֹ וַיַּסֵּב אֶת־פָּנָיו אל הקיר וְלֹא־אָכַל לָחֶם.",
+    "וַתָּבֹא אֵלָיו אִיזֶבֶל אִשְׁתּוֹ, וַתְּדַבֵּר אֵלָיו: מַה־זֶּה אירע לך שרוּחֲךָ סָרָה, וְאֵינְךָ אֹכֵל לָחֶם?",
+    "וַיְדַבֵּר אֵלֶיהָ: כִּי־אֲדַבֵּר, דיברתי אֶל־נָבוֹת הַיִּזְרְעֵאלִי וָאֹמַר לוֹ: \"תְּנָה־לִּי אֶת־כַּרְמְךָ בְּכֶסֶף אוֹ אִם־חָפֵץ אַתָּה אֶתְּנָה־לְּךָ כֶרֶם תַּחְתָּיו\", וַיֹּאמֶר: \"לֹא־אֶתֵּן לְךָ אֶת־כַּרְמִי\".",
+    "וַתֹּאמֶר אֵלָיו אִיזֶבֶל אִשְׁתּוֹ: האם כפי שאַתָּה עַתָּה – מתקשה להחליט ולבצע – תַּעֲשֶׂה מְלוּכָה, יעלה בידך למלוך עַל־יִשְׂרָאֵל?! קוּם אֱכָל־לֶחֶם וְיִטַב לִבֶּךָ, ותתחזק. אֲנִי אֶתֵּן לְךָ אֶת־כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי. אני אטפל בכך.",
+    "וַתִּכְתֹּב סְפָרִים, איגרות בְּשֵׁם אַחְאָב וַתַּחְתֹּם בְּחֹתָמוֹ, וַתִּשְׁלַח סְפָרִים אֶל־הַזְּקֵנִים וְאֶל־הַחֹרִים, השרים אֲשֶׁר בְּעִירוֹ יזרעאל הַיֹּשְׁבִים אֶת, עם נָבוֹת.",
+    "וַתִּכְתֹּב בַּסְּפָרִים הוראות לֵאמֹר: קִרְאוּ־צוֹם, הכריזו על אספה פומבית, וְהֹשִׁיבוּ אֶת־נָבוֹת בְּרֹאשׁ הָעָם. נבות היה איש מכובד, והיא ציוותה להושיבו במקום החשוב ביותר בקהל, כדי שייראה שהוא רצוי בעיני האנשים.",
+    "וְהוֹשִׁיבוּ שְׁנַיִם אֲנָשִׁים בְּנֵי־בְלִיַּעַל, אדם במעמד נמוך שאין סיכוי שיעלה משפלותו – בלי יעַל, נֶגְדּוֹ, וִיעִדֻהוּ, יעידו בו לֵאמֹר: \"'בֵּרַכְתָּ', קיללת גם אֱלֹהִים וגם מֶלֶךְ\". המרידה במלכות והמרידה באלוקים הם שני מעשים חמורים ביותר. הוא, כמובן, יכחיש את ההאשמה, אבל אַתם בַּיימו הצגה מושלמת. כיוון שהדיינים וזקני העיר ינכחו במקום, ושני העדים יעידו – וְהוֹצִיאֻהוּ וְסִקְלֻהוּ כדין האמור בתורה וְיָמֹת.",
+    "וַיַּעֲשׂוּ אַנְשֵׁי עִירוֹ, הַזְּקֵנִים וְהַחֹרִים אֲשֶׁר הַיֹּשְׁבִים בְּעִירוֹ כַּאֲשֶׁר שָׁלְחָה אֲלֵיהֶם אִיזָבֶל, כַּאֲשֶׁר כָּתוּב בַּסְּפָרִים אֲשֶׁר שָׁלְחָה אֲלֵיהֶם בשם אחאב –",
+    "קָרְאוּ צוֹם, וְהֹשִׁיבוּ אֶת־נָבוֹת בְּרֹאשׁ הָעָם.",
+    "וַיָּבֹאוּ שְׁנֵי הָאֲנָשִׁים בְּנֵי־בְלִיַּעַל וַיֵּשְׁבוּ נֶגְדּוֹ, וַיְעִדֻהוּ אַנְשֵׁי הַבְּלִיַּעַל אֶת־נָבוֹת נֶגֶד, בפני הָעָם לֵאמֹר: 'בֵּרַךְ' נָבוֹת אֱלֹהִים וָמֶלֶךְ. כיוון שכך, דנו אותו למוות – וַיֹּצִאֻהוּ מִחוּץ לָעִיר, וַיִּסְקְלֻהוּ בָאֲבָנִים וַיָּמֹת.",
+    "וַיִּשְׁלְחוּ אֶל־אִיזֶבֶל לֵאמֹר: סֻקַּל, נרגם נָבוֹת וַיָּמֹת.",
+    "וַיְהִי כִּשְׁמֹעַ אִיזֶבֶל כִּי־סֻקַּל נָבוֹת וַיָּמֹת, וַתֹּאמֶר אִיזֶבֶל אֶל־אַחְאָב: קוּם רֵשׁ אֶת־כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי אֲשֶׁר מֵאֵן לָתֶת־לְךָ בְכֶסֶף, כִּי אֵין נָבוֹת חַי עוד כִּי אם מֵת.",
+    "וַיְהִי כִּשְׁמֹעַ אַחְאָב כִּי מֵת נָבוֹת, וַיָּקָם אַחְאָב לָרֶדֶת אֶל־כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי לְרִשְׁתּוֹ. ייתכן שאחאב ידע מה עשתה אשתו, וייתכן שלא ידע; על כל פנים הוא היה מרוצה ממות נבות, משום שכך סולק המכשול שעמד בדרכו. כִּשְׁמֹעַ אַחְאָב כִּי מֵת נָבוֹת, וַיָּקָם אַחְאָב לָרֶדֶת אֶל־כֶּרֶם נָבוֹת הַיִּזְרְעֵאלִי לְרִשְׁתּוֹ.",
+    "וַיְהִי דְּבַר־ה' אֶל־אֵלִיָּהוּ הַתִּשְׁבִּי לֵאמֹר׃",
+    "קוּם רֵד לִקְרַאת אַחְאָב מֶלֶךְ־יִשְׂרָאֵל אֲשֶׁר בְּשֹׁמְרוֹן, הִנֵּה הוא נמצא כעת בְּכֶרֶם נָבוֹת אֲשֶׁר־יָרַד שָׁם לְרִשְׁתּוֹ.",
+    "וְדִבַּרְתָּ אֵלָיו לֵאמֹר: כֹּה אָמַר ה': הֲרָצַחְתָּ וְגַם־יָרָשְׁתָּ?! לא די שרצחת את נבות, אתה גם מבקש לרשת את רכושו?! אינך מתבייש במעשיך הבזויים?! וְדִבַּרְתָּ אֵלָיו לֵאמֹר: כֹּה אָמַר ה': בִּמְקוֹם אֲשֶׁר לָקְקוּ הַכְּלָבִים אֶת־דַּם נָבוֹת, יָלֹקּוּ, ילקקו הַכְּלָבִים אֶת־דָּמְךָ גַּם־אָתָּה. אף אתה תיהרג באופן משפיל.",
+    "כמובן אחאב לא פרסם את הסיפור. אליהו הופיע אצלו בהפתעה גמורה. על כן אחאב התפלא – וַיֹּאמֶר אַחְאָב אֶל־אֵלִיָּהוּ: הַמְצָאתַנִי, אֹיְבִי?! וַיֹּאמֶר: מָצָאתִי. יַעַן הִתְמַכֶּרְךָ, מסרת את עצמך לַעֲשׂוֹת את הָרַע בְּעֵינֵי ה', ולמעשה מרושע כל כך אין שום צידוק –",
+    "הִנְנִי מֵבִיא אֵלֶיךָ רָעָה, וּבִעַרְתִּי, אשמיד את מי שיישאר אַחֲרֶיךָ, וְהִכְרַתִּי לְאַחְאָב מַשְׁתִּין בְּקִיר, בן משפחה זכר, או: כלב וְעָצוּר, עוצר, מי שמחזיק בידו כוח שלטוני, וְעָזוּב, הממונה על התחזוקה ובדק הבית, או: אפילו נתמך ונטוש בְּיִשְׂרָאֵל. לא יישאר מביתך שריד, ובוודאי שלא ייוותר יורש או מחזיק בשררה.",
+    "וְנָתַתִּי אֶת־בֵּיתְךָ כְּבֵית יָרָבְעָם בֶּן־נְבָט וּכְבֵית בַּעְשָׁא בֶן־אֲחִיָּה, אֶל, בגלל הַכַּעַס אֲשֶׁר הִכְעַסְתָּ וַתַּחֲטִא אֶת־יִשְׂרָאֵל. הפשע האחרון היה בזוי ושפל במיוחד.",
+    "וְגַם־לְאִיזֶבֶל דִּבֶּר ה' לֵאמֹר: הַכְּלָבִים יֹאכְלוּ אֶת גופתה של אִיזֶבֶל בְּחֵל יִזְרְעֶאל, בין חומות העיר, או: בתוך גבולותיה.",
+    "הַמֵּת לְאַחְאָב בָּעִיר – יֹאכְלוּ הַכְּלָבִים, וְהַמֵּת בַּשָּׂדֶה – יֹאכְלוּ עוֹף הַשָּׁמָיִם.",
+    "כאן נוספת הערה שאינה מדברי אליהו: רַק לֹא־הָיָה כְאַחְאָב אֲשֶׁר הִתְמַכֵּר לַעֲשׂוֹת הָרַע בְּעֵינֵי ה', אֲשֶׁר־הֵסַתָּה אֹתוֹ אִיזֶבֶל אִשְׁתּוֹ.",
+    "וַיַּתְעֵב, אחאב הרבה לפשוע מְאֹד לָלֶכֶת אַחֲרֵי הַגִּלֻּלִים, האלילים כְּכֹל אֲשֶׁר עָשׂוּ הָאֱמֹרִי אֲשֶׁר הוֹרִישׁ ה' מִפְּנֵי בְּנֵי יִשְׂרָאֵל. שלא כירבעם או כבעשא, אשר שמרו לפחות מסגרת כלשהי של עבודת אלוקי ישראל, אחאב עבד לאלילי כנען.",
+    "וַיְהִי כִשְׁמֹעַ אַחְאָב אֶת־הַדְּבָרִים הָאֵלֶּה, וַיִּקְרַע את בְּגָדָיו בגלל חומרתם של דברי התוכחה, מחמת הבושה שבהריגת חף מפשע מתוך תאווה לאדמתו, וכן משום שבתור מלך שני בשושלת אשר מלך לא מעט שנים הוא קיווה שזרעו יחזיק במלוכה לאורך זמן – והנה תוחלתו נכזבה. וַיָּשֶׂם־שַׂק עַל־בְּשָׂרוֹ וַיָּצוֹם וַיִּשְׁכַּב בַּשָּׂק וַיְהַלֵּךְ לאַט, ביטויים שונים לאבלו.",
+    "וַיְהִי דְּבַר־ה' אֶל־אֵלִיָּהוּ הַתִּשְׁבִּי לֵאמֹר׃"
+  ],
+  "ai_explanation": [
+    "לאחר האירועים הקודמים היה לנבות היזרעאלי כרם ביזרעאל, סמוך להיכלו של אחאב מלך שומרון.",
+    "אחאב ביקש להפוך את הכרם לגן ירק משום שהיה סמוך לביתו. הוא הציע לנבות כרם טוב יותר או כסף תמורת הכרם.",
+    "נבות סירב בהחלטיות, מפני שהכרם היה נחלת אבותיו, והוא ראה במסירתו לאחאב דבר אסור. הוא הדגיש שאחאב אינו בן משפחתו.",
+    "אחאב חזר לביתו כועס ומדוכדך בגלל סירובו של נבות. הוא נשכב על מיטתו, הפנה את פניו אל הקיר ונמנע מאכילה.",
+    "איזבל באה אל אחאב ושאלה אותו מדוע רוחו רעה ומדוע אינו אוכל.",
+    "אחאב סיפר לאיזבל שהציע לנבות כסף או כרם חלופי, אך נבות סירב לתת לו את כרמו.",
+    "איזבל לעגה לחולשתו של אחאב ושאלה אם כך יוכל למלוך על ישראל. היא עודדה אותו לאכול והבטיחה לטפל בעצמה בהשגת כרם נבות.",
+    "איזבל כתבה איגרות בשם אחאב וחתמה עליהן בחותמו. היא שלחה אותן אל הזקנים והשרים בעירו של נבות, שישבו עמו.",
+    "באיגרות ציוותה איזבל להכריז על צום ולהושיב את נבות בראש האספה, במקום מכובד ובולט לעיני הציבור.",
+    "איזבל ציוותה להציב מול נבות שני אנשים בני בליעל, אנשים ממעמד נמוך, שיעידו עליו עדות שקר כאילו קילל את אלוהים ואת המלך. לאחר מכן היה על אנשי העיר להוציאו ולהמיתו בסקילה, כאילו מדובר בעונש חוקי.",
+    "זקני העיר והשרים ביצעו את הוראות איזבל בדיוק כפי שנכתבו באיגרות. לפי הפירוש, האיגרות נשלחו בשם אחאב.",
+    "אנשי העיר הכריזו על צום והושיבו את נבות בראש העם, כפי שציוותה איזבל.",
+    "שני העדים בני הבליעל העידו לפני הציבור שנבות קילל את אלוהים ואת המלך. בעקבות ההאשמה הוציאו את נבות אל מחוץ לעיר וסקלו אותו למוות.",
+    "אנשי העיר שלחו לאיזבל הודעה שנבות נסקל ומת.",
+    "כאשר שמעה איזבל שנבות מת, היא אמרה לאחאב לקום ולרשת את כרמו, מפני שהמכשול שהיה חי וסירב למכור את הכרם כבר איננו.",
+    "כאשר שמע אחאב שנבות מת, הוא קם וירד אל כרם נבות כדי לרשת אותו. ייתכן שידע מה עשתה איזבל וייתכן שלא, אך בכל מקרה היה מרוצה מכך שמכשולו הוסר.",
+    "ה' נגלה אל אליהו התשבי וציווה עליו למסור את דברו.",
+    "אליהו נצטווה לרדת לקראת אחאב מלך ישראל, שנמצא בכרם נבות שאליו ירד כדי לרשת אותו.",
+    "אליהו נדרש להוכיח את אחאב: הוא רצח את נבות, או נשא באחריות לרציחתו, וכעת הוא גם מבקש לרשת את רכושו. לכן נאמר לו שבמקום שבו ליקקו הכלבים את דמו של נבות, הם ילקקו גם את דמו.",
+    "אחאב הופתע מהופעת אליהו ושאל אם הנביא מצא אותו כאויב. אליהו השיב שמצא אותו, משום שמסר את עצמו לעשות את הרע בעיני ה', ובמעשה כזה אין כל הצדקה.",
+    "ה' הכריז שיביא על אחאב רעה וישמיד את מי שיישאר אחריו. לא יישאר לביתו שריד, יורש או אדם שיחזיק בשררה.",
+    "בית אחאב ייענש כמו בתי ירבעם בן נבט ובַּעְשָׁא בן אחיה, בגלל הכעס שהכעיס אחאב את ה' ובגלל שהחטיא את ישראל.",
+    "גם על איזבל נאמר גזר הדין שהכלבים יאכלו את גופתה בתוך תחומי יזרעאל או בין חומותיה.",
+    "בני משפחת אחאב שימותו בעיר ייאכלו בידי כלבים, ואלה שימותו בשדה ייאכלו בידי עופות השמים.",
+    "המספר מוסיף שאחאב היה חריג ברשעותו: הוא מסר את עצמו לעשות את הרע בעיני ה', ואיזבל אשתו הסיתה אותו לכך.",
+    "אחאב הרבה ללכת אחרי האלילים, כמו האמורי שה' הוריש מפני בני ישראל. בניגוד למלכים ששמרו לפחות על מסגרת כלשהי של עבודת אלוהי ישראל, אחאב עבד לאלילי כנען.",
+    "כששמע אחאב את דברי התוכחה, הוא קרע את בגדיו, לבש שק, צם, שכב בשק והלך לאט. המעשים האלה מבטאים את אבלו, את בושתו ואת פחדו מאובדן המלוכה לביתו.",
+    ""
+  ],
+  "ai_explanation_en": [
+    "After the preceding events, Naboth the Jezreelite had a vineyard in Jezreel, near the palace of Ahab, king of Samaria.",
+    "Ahab wanted to turn the vineyard into a vegetable garden because it was close to his house. He offered Naboth a better vineyard or money in exchange for it.",
+    "Naboth refused firmly because the vineyard was his ancestral inheritance, and he regarded giving it to Ahab as forbidden. He emphasized that Ahab was not a member of his family.",
+    "Ahab returned home angry and depressed because of Naboth's refusal. He lay on his bed, turned his face toward the wall, and refused to eat.",
+    "Jezebel came to Ahab and asked why he was distressed and why he was not eating.",
+    "Ahab told Jezebel that he had offered Naboth money or another vineyard, but Naboth had refused to give him his vineyard.",
+    "Jezebel mocked Ahab's weakness and asked whether he could rule Israel in such a manner. She encouraged him to eat and promised to obtain Naboth's vineyard herself.",
+    "Jezebel wrote letters in Ahab's name and sealed them with his seal. She sent them to the elders and officials in Naboth's city, who lived with him.",
+    "In the letters, Jezebel ordered them to proclaim a fast and seat Naboth at the head of the assembly, in a prominent and visible place before the public.",
+    "Jezebel ordered two worthless men, people of low status, to sit opposite Naboth and give false testimony that he had cursed God and the king. The people of the city were then to take him out and stone him to death, as though it were a lawful punishment.",
+    "The elders and officials of the city carried out Jezebel's instructions exactly as written in the letters. According to the commentary, the letters were sent in Ahab's name.",
+    "The people of the city proclaimed a fast and seated Naboth at the head of the people, as Jezebel had ordered.",
+    "The two worthless witnesses testified before the public that Naboth had cursed God and the king. As a result, Naboth was taken outside the city and stoned to death.",
+    "The people of the city sent Jezebel a message that Naboth had been stoned and had died.",
+    "When Jezebel heard that Naboth was dead, she told Ahab to rise and take possession of his vineyard, because the obstacle who had been alive and refused to sell it was gone.",
+    "When Ahab heard that Naboth was dead, he rose and went down to Naboth's vineyard to take possession of it. He may or may not have known what Jezebel had done, but in any case he was pleased that the obstacle had been removed.",
+    "The LORD appeared to Elijah the Tishbite and commanded him to deliver His message.",
+    "Elijah was ordered to go down to meet Ahab, king of Israel, who was in Naboth's vineyard, where he had gone to take possession of it.",
+    "Elijah was to rebuke Ahab: he had murdered Naboth, or was responsible for his murder, and now he was also taking possession of his property. Therefore, he was told that where the dogs had licked Naboth's blood, they would also lick his blood.",
+    "Ahab was surprised by Elijah's appearance and asked whether the prophet had found him as an enemy. Elijah replied that he had found him, because Ahab had given himself over to doing evil in the sight of the LORD, with no justification for such an act.",
+    "The LORD declared that He would bring disaster upon Ahab and destroy whoever remained after him. No remnant, heir, or holder of power would remain in his house.",
+    "Ahab's house would be punished like the houses of Jeroboam son of Nebat and Baasha son of Ahijah, because Ahab had provoked the LORD and caused Israel to sin.",
+    "A judgment was also pronounced against Jezebel: the dogs would eat her body within the boundaries of Jezreel or between its walls.",
+    "Those belonging to Ahab who died in the city would be eaten by dogs, and those who died in the field would be eaten by the birds of the sky.",
+    "The narrator adds that Ahab was exceptionally wicked: he gave himself over to doing evil in the sight of the LORD, and Jezebel his wife incited him to do so.",
+    "Ahab greatly increased his pursuit of idols, like the Amorites whom the LORD had dispossessed before the Israelites. Unlike kings who at least maintained some framework of worship of the God of Israel, Ahab worshiped the gods of Canaan.",
+    "When Ahab heard the words of rebuke, he tore his clothes, put sackcloth on his body, fasted, lay in sackcloth, and walked slowly. These actions expressed his mourning, shame, and fear for the loss of the kingship by his house.",
+    ""
+  ],
+  "perush": [
+    "לאחר האירועים הקודמים היה לנבות היזרעאלי כרם ביזרעאל, סמוך להיכלו של אחאב מלך שומרון.",
+    "אחאב ביקש להפוך את הכרם לגן ירק משום שהיה סמוך לביתו. הוא הציע לנבות כרם טוב יותר או כסף תמורת הכרם.",
+    "נבות סירב בהחלטיות, מפני שהכרם היה נחלת אבותיו, והוא ראה במסירתו לאחאב דבר אסור. הוא הדגיש שאחאב אינו בן משפחתו.",
+    "אחאב חזר לביתו כועס ומדוכדך בגלל סירובו של נבות. הוא נשכב על מיטתו, הפנה את פניו אל הקיר ונמנע מאכילה.",
+    "איזבל באה אל אחאב ושאלה אותו מדוע רוחו רעה ומדוע אינו אוכל.",
+    "אחאב סיפר לאיזבל שהציע לנבות כסף או כרם חלופי, אך נבות סירב לתת לו את כרמו.",
+    "איזבל לעגה לחולשתו של אחאב ושאלה אם כך יוכל למלוך על ישראל. היא עודדה אותו לאכול והבטיחה לטפל בעצמה בהשגת כרם נבות.",
+    "איזבל כתבה איגרות בשם אחאב וחתמה עליהן בחותמו. היא שלחה אותן אל הזקנים והשרים בעירו של נבות, שישבו עמו.",
+    "באיגרות ציוותה איזבל להכריז על צום ולהושיב את נבות בראש האספה, במקום מכובד ובולט לעיני הציבור.",
+    "איזבל ציוותה להציב מול נבות שני אנשים בני בליעל, אנשים ממעמד נמוך, שיעידו עליו עדות שקר כאילו קילל את אלוהים ואת המלך. לאחר מכן היה על אנשי העיר להוציאו ולהמיתו בסקילה, כאילו מדובר בעונש חוקי.",
+    "זקני העיר והשרים ביצעו את הוראות איזבל בדיוק כפי שנכתבו באיגרות. לפי הפירוש, האיגרות נשלחו בשם אחאב.",
+    "אנשי העיר הכריזו על צום והושיבו את נבות בראש העם, כפי שציוותה איזבל.",
+    "שני העדים בני הבליעל העידו לפני הציבור שנבות קילל את אלוהים ואת המלך. בעקבות ההאשמה הוציאו את נבות אל מחוץ לעיר וסקלו אותו למוות.",
+    "אנשי העיר שלחו לאיזבל הודעה שנבות נסקל ומת.",
+    "כאשר שמעה איזבל שנבות מת, היא אמרה לאחאב לקום ולרשת את כרמו, מפני שהמכשול שהיה חי וסירב למכור את הכרם כבר איננו.",
+    "כאשר שמע אחאב שנבות מת, הוא קם וירד אל כרם נבות כדי לרשת אותו. ייתכן שידע מה עשתה איזבל וייתכן שלא, אך בכל מקרה היה מרוצה מכך שמכשולו הוסר.",
+    "ה' נגלה אל אליהו התשבי וציווה עליו למסור את דברו.",
+    "אליהו נצטווה לרדת לקראת אחאב מלך ישראל, שנמצא בכרם נבות שאליו ירד כדי לרשת אותו.",
+    "אליהו נדרש להוכיח את אחאב: הוא רצח את נבות, או נשא באחריות לרציחתו, וכעת הוא גם מבקש לרשת את רכושו. לכן נאמר לו שבמקום שבו ליקקו הכלבים את דמו של נבות, הם ילקקו גם את דמו.",
+    "אחאב הופתע מהופעת אליהו ושאל אם הנביא מצא אותו כאויב. אליהו השיב שמצא אותו, משום שמסר את עצמו לעשות את הרע בעיני ה', ובמעשה כזה אין כל הצדקה.",
+    "ה' הכריז שיביא על אחאב רעה וישמיד את מי שיישאר אחריו. לא יישאר לביתו שריד, יורש או אדם שיחזיק בשררה.",
+    "בית אחאב ייענש כמו בתי ירבעם בן נבט ובַּעְשָׁא בן אחיה, בגלל הכעס שהכעיס אחאב את ה' ובגלל שהחטיא את ישראל.",
+    "גם על איזבל נאמר גזר הדין שהכלבים יאכלו את גופתה בתוך תחומי יזרעאל או בין חומותיה.",
+    "בני משפחת אחאב שימותו בעיר ייאכלו בידי כלבים, ואלה שימותו בשדה ייאכלו בידי עופות השמים.",
+    "המספר מוסיף שאחאב היה חריג ברשעותו: הוא מסר את עצמו לעשות את הרע בעיני ה', ואיזבל אשתו הסיתה אותו לכך.",
+    "אחאב הרבה ללכת אחרי האלילים, כמו האמורי שה' הוריש מפני בני ישראל. בניגוד למלכים ששמרו לפחות על מסגרת כלשהי של עבודת אלוהי ישראל, אחאב עבד לאלילי כנען.",
+    "כששמע אחאב את דברי התוכחה, הוא קרע את בגדיו, לבש שק, צם, שכב בשק והלך לאט. המעשים האלה מבטאים את אבלו, את בושתו ואת פחדו מאובדן המלוכה לביתו.",
+    ""
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "בקשת הכרם וסירובו של נבות",
+      "title_en": "Ahab's Request and Naboth's Refusal",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "אחאב מבקש את כרם נבות הסמוך לביתו כדי להפוך אותו לגן ירק, ומציע תמורה. נבות מסרב משום שהכרם הוא נחלת אבותיו, ואחאב מגיב בכעס, צער והימנעות מאכילה.",
+      "summary_en": "Ahab asks for Naboth's vineyard near his house in order to turn it into a vegetable garden and offers compensation. Naboth refuses because it is his ancestral inheritance, and Ahab responds with anger, distress, and refusal to eat.",
+      "image_prompt": "Ahab standing near a vineyard beside a royal palace, speaking to Naboth, who firmly protects his ancestral vineyard; a tense biblical scene, no text, historically non-specific ancient setting"
+    },
+    {
+      "title": "איזבל נוטלת את היוזמה",
+      "title_en": "Jezebel Takes Control",
+      "start_verse": 5,
+      "end_verse": 7,
+      "summary": "איזבל שומעת את תלונתו של אחאב, לועגת לחולשתו ומבטיחה להשיג עבורו את כרם נבות. היא מציגה את עצמה כמי שתטפל בבעיה במקום המלך.",
+      "summary_en": "Jezebel hears Ahab's complaint, mocks his weakness, and promises to obtain Naboth's vineyard for him. She presents herself as the one who will solve the problem instead of the king.",
+      "image_prompt": "Jezebel confronting a troubled Ahab inside a royal chamber, confidently promising to solve the vineyard dispute; dramatic biblical atmosphere, no text"
+    },
+    {
+      "title": "המזימה המשפטית",
+      "title_en": "The Legal Conspiracy",
+      "start_verse": 8,
+      "end_verse": 10,
+      "summary": "איזבל משתמשת בשם אחאב ובחותמו כדי לשלוח הוראות לזקנים ולשרים. היא מתכננת אספה, צום, העמדת נבות במקום מכובד ושימוש בשני עדי שקר כדי להביא למותו בסקילה.",
+      "summary_en": "Jezebel uses Ahab's name and seal to send orders to the elders and officials. She plans an assembly and a fast, seats Naboth prominently, and uses two false witnesses to bring about his stoning.",
+      "image_prompt": "Jezebel writing sealed royal letters while officials and a scroll are nearby, suggesting a carefully planned legal conspiracy; ancient biblical court atmosphere, no text"
+    },
+    {
+      "title": "ביצוע העלילה ומות נבות",
+      "title_en": "The Plot Is Carried Out and Naboth Dies",
+      "start_verse": 11,
+      "end_verse": 14,
+      "summary": "זקני העיר והשרים מצייתים להוראות איזבל. נבות מושב בראש העם, שני עדים מאשימים אותו לשווא, והוא מוצא אל מחוץ לעיר ונסקל; לאחר מכן נשלחת לאיזבל הודעה על מותו.",
+      "summary_en": "The city's elders and officials obey Jezebel's instructions. Naboth is seated at the head of the people, two witnesses falsely accuse him, and he is taken outside the city and stoned; afterward Jezebel is informed of his death.",
+      "image_prompt": "A solemn public assembly with Naboth seated prominently, two accusers before him, and city elders present; distant stones and city walls suggest the tragic outcome without graphic violence, no text"
+    },
+    {
+      "title": "אחאב יורש את הכרם",
+      "title_en": "Ahab Takes the Vineyard",
+      "start_verse": 15,
+      "end_verse": 16,
+      "summary": "איזבל מודיעה לאחאב שהמכשול הוסר ומעודדת אותו לרשת את הכרם. אחאב קם ויורד אל כרם נבות, כשהפירוש מציין שאולי ידע על מעשי איזבל ואולי לא, אך היה מרוצה ממות נבות.",
+      "summary_en": "Jezebel tells Ahab that the obstacle is gone and urges him to take possession of the vineyard. Ahab rises and goes down to Naboth's vineyard; the commentary notes that he may or may not have known about Jezebel's actions, but he was pleased by Naboth's death.",
+      "image_prompt": "Ahab walking toward Naboth's vineyard after receiving the news, with Jezebel behind him near the palace; morally tense biblical scene, no text"
+    },
+    {
+      "title": "תוכחת אליהו וגזר הדין",
+      "title_en": "Elijah's Rebuke and the Judgment",
+      "start_verse": 17,
+      "end_verse": 24,
+      "summary": "ה' שולח את אליהו אל אחאב בכרם נבות. אליהו מאשים את אחאב ברצח ובירושת רכוש הנרצח, ומכריז על חורבן ביתו ועל עונשים משפילים לאחאב, לאיזבל ולבני ביתם.",
+      "summary_en": "The LORD sends Elijah to Ahab in Naboth's vineyard. Elijah accuses Ahab of murder and taking the victim's property, and announces the destruction of his house and humiliating punishments for Ahab, Jezebel, and their household.",
+      "image_prompt": "Elijah confronting Ahab in a vineyard, raising a hand in prophetic rebuke while Ahab faces him; solemn ancient biblical landscape, no text"
+    },
+    {
+      "title": "רשעת אחאב ותגובתו לתוכחה",
+      "title_en": "Ahab's Wickedness and His Response",
+      "start_verse": 25,
+      "end_verse": 28,
+      "summary": "המספר מדגיש את רשעותו החריגה של אחאב ואת עבודת האלילים שלו, לצד השפעתה של איזבל. לאחר התוכחה אחאב מתאבל ונכנע, אך בפסוק 28 שבקטע שסופק אין פירוש שטיינזלץ מתאים לפסוק המקראי.",
+      "summary_en": "The narrator emphasizes Ahab's exceptional wickedness, his idolatry, and Jezebel's influence over him. After the rebuke, Ahab mourns and humbles himself, but for verse 28 the supplied material contains no commentary matching the biblical verse.",
+      "image_prompt": "Ahab in torn garments and sackcloth walking slowly in mourning, with a shadowed royal palace and distant idols symbolizing his troubled reign; restrained biblical illustration, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 13.4,
+      "usfm": "1KI.21.1"
+    },
+    {
+      "start": 13.4,
+      "end": 29.4,
+      "usfm": "1KI.21.2"
+    },
+    {
+      "start": 29.4,
+      "end": 36.3,
+      "usfm": "1KI.21.3"
+    },
+    {
+      "start": 36.3,
+      "end": 54.48,
+      "usfm": "1KI.21.4"
+    },
+    {
+      "start": 54.48,
+      "end": 62.1,
+      "usfm": "1KI.21.5"
+    },
+    {
+      "start": 62.1,
+      "end": 76.36,
+      "usfm": "1KI.21.6"
+    },
+    {
+      "start": 76.36,
+      "end": 90.4,
+      "usfm": "1KI.21.7"
+    },
+    {
+      "start": 90.4,
+      "end": 100.5,
+      "usfm": "1KI.21.8"
+    },
+    {
+      "start": 100.5,
+      "end": 107.7,
+      "usfm": "1KI.21.9"
+    },
+    {
+      "start": 107.7,
+      "end": 121.34,
+      "usfm": "1KI.21.10"
+    },
+    {
+      "start": 121.34,
+      "end": 131.7,
+      "usfm": "1KI.21.11"
+    },
+    {
+      "start": 131.7,
+      "end": 136.1,
+      "usfm": "1KI.21.12"
+    },
+    {
+      "start": 136.1,
+      "end": 156.48,
+      "usfm": "1KI.21.13"
+    },
+    {
+      "start": 156.48,
+      "end": 161.72,
+      "usfm": "1KI.21.14"
+    },
+    {
+      "start": 161.72,
+      "end": 178.06,
+      "usfm": "1KI.21.15"
+    },
+    {
+      "start": 178.06,
+      "end": 187.68,
+      "usfm": "1KI.21.16"
+    },
+    {
+      "start": 187.68,
+      "end": 191.8,
+      "usfm": "1KI.21.17"
+    },
+    {
+      "start": 191.8,
+      "end": 202.42,
+      "usfm": "1KI.21.18"
+    },
+    {
+      "start": 202.42,
+      "end": 221.7,
+      "usfm": "1KI.21.19"
+    },
+    {
+      "start": 221.7,
+      "end": 233.3,
+      "usfm": "1KI.21.20"
+    },
+    {
+      "start": 233.3,
+      "end": 245.1,
+      "usfm": "1KI.21.21"
+    },
+    {
+      "start": 245.1,
+      "end": 258.3,
+      "usfm": "1KI.21.22"
+    },
+    {
+      "start": 258.3,
+      "end": 265.64,
+      "usfm": "1KI.21.23"
+    },
+    {
+      "start": 265.64,
+      "end": 274.48,
+      "usfm": "1KI.21.24"
+    },
+    {
+      "start": 274.48,
+      "end": 282.22,
+      "usfm": "1KI.21.25"
+    },
+    {
+      "start": 282.22,
+      "end": 291.6,
+      "usfm": "1KI.21.26"
+    },
+    {
+      "start": 291.6,
+      "end": 304.14,
+      "usfm": "1KI.21.27"
+    },
+    {
+      "start": 304.14,
+      "end": 307.7,
+      "usfm": "1KI.21.28"
+    },
+    {
+      "start": 307.7,
+      "end": 328.4,
+      "usfm": "1KI.21.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    13.4,
+    29.4,
+    36.3,
+    54.48,
+    62.1,
+    76.36,
+    90.4,
+    100.5,
+    107.7,
+    121.34,
+    131.7,
+    136.1,
+    156.48,
+    161.72,
+    178.06,
+    187.68,
+    191.8,
+    202.42,
+    221.7,
+    233.3,
+    245.1,
+    258.3,
+    265.64,
+    274.48,
+    282.22,
+    291.6,
+    304.14,
+    307.7,
+    328.4
+  ],
+  "times_en_usfm": [
+    "1KI.21.1",
+    "1KI.21.2",
+    "1KI.21.3",
+    "1KI.21.4",
+    "1KI.21.5",
+    "1KI.21.6",
+    "1KI.21.7",
+    "1KI.21.8",
+    "1KI.21.9",
+    "1KI.21.10",
+    "1KI.21.11",
+    "1KI.21.12",
+    "1KI.21.13",
+    "1KI.21.14",
+    "1KI.21.15",
+    "1KI.21.16",
+    "1KI.21.17",
+    "1KI.21.18",
+    "1KI.21.19",
+    "1KI.21.20",
+    "1KI.21.21",
+    "1KI.21.22",
+    "1KI.21.23",
+    "1KI.21.24",
+    "1KI.21.25",
+    "1KI.21.26",
+    "1KI.21.27",
+    "1KI.21.28",
+    "1KI.21.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? כרם נבות היה סמוך להיכל אחאב ביזרעאל, אף שאחאב מתואר כאן כמלך שומרון.",
+      "text_he": "הידעת? כרם נבות היה סמוך להיכל אחאב ביזרעאל, אף שאחאב מתואר כאן כמלך שומרון.",
+      "text_en": "Did you know? Naboth’s vineyard was near Ahab’s palace in Jezreel, although Ahab is described here as the king of Samaria."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? נבות מסרב למכור את כרמו מפני שהוא רואה בו נחלת אבות, ולכן אין הוא מוכן למסור אותו לאחאב.",
+      "text_he": "הידעת? נבות מסרב למכור את כרמו מפני שהוא רואה בו נחלת אבות, ולכן אין הוא מוכן למסור אותו לאחאב.",
+      "text_en": "Did you know? Naboth refuses to sell his vineyard because he regards it as his ancestral inheritance, and therefore he is unwilling to give it to Ahab."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? לאחר סירובו של נבות, אחאב אינו אוכל לחם, שוכב על מיטתו ומסב את פניו — תגובה המלמדת עד כמה השתוקק לכרם.",
+      "text_he": "הידעת? לאחר סירובו של נבות, אחאב אינו אוכל לחם, שוכב על מיטתו ומסב את פניו — תגובה המלמדת עד כמה השתוקק לכרם.",
+      "text_en": "Did you know? After Naboth refuses, Ahab will not eat, lies on his bed, and turns his face away—a reaction that shows how intensely he desired the vineyard."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? איזבל כתבה מכתבים בשם אחאב וחתמה בחותמו, ובכך השתמשה בסמכות המלך כדי לקדם את מזימתה.",
+      "text_he": "הידעת? איזבל כתבה מכתבים בשם אחאב וחתמה בחותמו, ובכך השתמשה בסמכות המלך כדי לקדם את מזימתה.",
+      "text_en": "Did you know? Jezebel wrote letters in Ahab’s name and sealed them with his seal, using the king’s authority to carry out her plot."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? המזימה נגד נבות נראתה כאילו היא הליך ציבורי־דתי: הוכרז צום, נבות הושב בראש העם, ושני אנשים נדרשו להעיד נגדו.",
+      "text_he": "הידעת? המזימה נגד נבות נראתה כאילו היא הליך ציבורי־דתי: הוכרז צום, נבות הושב בראש העם, ושני אנשים נדרשו להעיד נגדו.",
+      "text_en": "Did you know? The plot against Naboth was made to look like a public religious proceeding: a fast was proclaimed, Naboth was seated at the head of the people, and two men were required to testify against him."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? לאחר סקילת נבות שלחו אנשי העיר לאיזבל הודעה קצרה: נבות נסקל ומת. רק לאחר מכן היא הודיעה לאחאב שהכרם פנוי.",
+      "text_he": "הידעת? לאחר סקילת נבות שלחו אנשי העיר לאיזבל הודעה קצרה: נבות נסקל ומת. רק לאחר מכן היא הודיעה לאחאב שהכרם פנוי.",
+      "text_en": "Did you know? After Naboth was stoned, the men of the city sent Jezebel a brief message: “Naboth has been stoned and is dead.” Only afterward did she tell Ahab that the vineyard was available."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? אחאב ירד אל כרם נבות כדי לרשת אותו מיד לאחר ששמע שנבות מת; כך מתממש הקשר בין מות נבות לבין קבלת הכרם.",
+      "text_he": "הידעת? אחאב ירד אל כרם נבות כדי לרשת אותו מיד לאחר ששמע שנבות מת; כך מתממש הקשר בין מות נבות לבין קבלת הכרם.",
+      "text_en": "Did you know? Ahab went down to Naboth’s vineyard to take possession of it as soon as he heard that Naboth was dead; thus, the connection between Naboth’s death and the acquisition of the vineyard becomes clear."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? תוכחת אליהו לאחאב מתמצתת את עיקר החטא במילים: \"הרצחת וגם ירשת\" — רצח ולאחריו נטילת רכושו של הנרצח.",
+      "text_he": "הידעת? תוכחת אליהו לאחאב מתמצתת את עיקר החטא במילים: \"הרצחת וגם ירשת\" — רצח ולאחריו נטילת רכושו של הנרצח.",
+      "text_en": "Did you know? Elijah’s rebuke of Ahab sums up the essence of his sin in the words: “Have you murdered and also taken possession?”—murder followed by taking the victim’s property."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? כאשר שמע אחאב את דברי אליהו, הוא קרע את בגדיו, לבש שק, צם והלך באטיות — סימנים של אבל וכניעה.",
+      "text_he": "הידעת? כאשר שמע אחאב את דברי אליהו, הוא קרע את בגדיו, לבש שק, צם והלך באטיות — סימנים של אבל וכניעה.",
+      "text_en": "Did you know? When Ahab heard Elijah’s words, he tore his clothes, put on sackcloth, fasted, and walked about subdued—signs of mourning and submission."
+    },
+    {
+      "verse": 29,
+      "text": "הידעת? בעקבות כניעתו של אחאב, ה' דוחה את הבאת הרעה על ביתו: העונש לא יבוא בימיו אלא בימי בנו.",
+      "text_he": "הידעת? בעקבות כניעתו של אחאב, ה' דוחה את הבאת הרעה על ביתו: העונש לא יבוא בימיו אלא בימי בנו.",
+      "text_en": "Did you know? Because Ahab humbled himself, the LORD postpones bringing disaster on his household: the punishment will not come in his lifetime, but in the days of his son."
+    }
+  ]
+}

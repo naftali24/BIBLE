@@ -1,0 +1,718 @@
+{
+  "book": "I Kings",
+  "book_he": "מלכים א",
+  "book_chapters": 22,
+  "chapter": 20,
+  "title": "מלכים א פרק 20",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a20.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09a20.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1KI/20-39e9e16862792e28118330ef0182d376.mp3?version_id=1",
+  "verses": [
+    "וּבֶן-הֲדַד מֶלֶךְ-אֲרָם, קָבַץ אֶת-כָּל-חֵילוֹ, וּשְׁלֹשִׁים וּשְׁנַיִם מֶלֶךְ אִתּוֹ, וְסוּס וָרָכֶב; וַיַּעַל, וַיָּצַר עַל-שֹׁמְרוֹן, וַיִּלָּחֶם, בָּהּ.",
+    "וַיִּשְׁלַח מַלְאָכִים אֶל-אַחְאָב מֶלֶךְ-יִשְׂרָאֵל, הָעִירָה.",
+    "וַיֹּאמֶר לוֹ, כֹּה אָמַר בֶּן-הֲדַד, כַּסְפְּךָ וּזְהָבְךָ, לִי-הוּא; וְנָשֶׁיךָ וּבָנֶיךָ הַטּוֹבִים, לִי-הֵם.",
+    "וַיַּעַן מֶלֶךְ-יִשְׂרָאֵל וַיֹּאמֶר, כִּדְבָרְךָ אֲדֹנִי הַמֶּלֶךְ: לְךָ אֲנִי, וְכָל-אֲשֶׁר-לִי.",
+    "וַיָּשֻׁבוּ, הַמַּלְאָכִים, וַיֹּאמְרוּ, כֹּה-אָמַר בֶּן-הֲדַד לֵאמֹר: כִּי-שָׁלַחְתִּי אֵלֶיךָ לֵאמֹר, כַּסְפְּךָ וּזְהָבְךָ וְנָשֶׁיךָ וּבָנֶיךָ לִי תִתֵּן.",
+    "כִּי אִם-כָּעֵת מָחָר, אֶשְׁלַח אֶת-עֲבָדַי אֵלֶיךָ, וְחִפְּשׂוּ אֶת-בֵּיתְךָ, וְאֵת בָּתֵּי עֲבָדֶיךָ; וְהָיָה כָּל-מַחְמַד עֵינֶיךָ, יָשִׂימוּ בְיָדָם וְלָקָחוּ.",
+    "וַיִּקְרָא מֶלֶךְ-יִשְׂרָאֵל, לְכָל-זִקְנֵי הָאָרֶץ, וַיֹּאמֶר דְּעוּ-נָא וּרְאוּ, כִּי רָעָה זֶה מְבַקֵּשׁ: כִּי-שָׁלַח אֵלַי לְנָשַׁי וּלְבָנַי, וּלְכַסְפִּי וְלִזְהָבִי, וְלֹא מָנַעְתִּי, מִמֶּנּוּ.",
+    "וַיֹּאמְרוּ אֵלָיו כָּל-הַזְּקֵנִים, וְכָל-הָעָם: אַל-תִּשְׁמַע, וְלוֹא תֹאבֶה.",
+    "וַיֹּאמֶר לְמַלְאֲכֵי בֶן-הֲדַד, אִמְרוּ לַאדֹנִי הַמֶּלֶךְ כֹּל אֲשֶׁר-שָׁלַחְתָּ אֶל-עַבְדְּךָ בָרִאשֹׁנָה אֶעֱשֶׂה, וְהַדָּבָר הַזֶּה, לֹא אוּכַל לַעֲשׂוֹת; וַיֵּלְכוּ, הַמַּלְאָכִים, וַיְשִׁבֻהוּ, דָּבָר.",
+    "וַיִּשְׁלַח אֵלָיו, בֶּן-הֲדַד, וַיֹּאמֶר, כֹּה-יַעֲשׂוּן לִי אֱלֹהִים וְכֹה יוֹסִפוּ: אִם-יִשְׂפֹּק, עֲפַר שֹׁמְרוֹן, לִשְׁעָלִים, לְכָל-הָעָם אֲשֶׁר בְּרַגְלָי.",
+    "וַיַּעַן מֶלֶךְ-יִשְׂרָאֵל וַיֹּאמֶר דַּבְּרוּ, אַל-יִתְהַלֵּל חֹגֵר כִּמְפַתֵּחַ.",
+    "וַיְהִי, כִּשְׁמֹעַ אֶת-הַדָּבָר הַזֶּה, וְהוּא שֹׁתֶה הוּא וְהַמְּלָכִים, בַּסֻּכּוֹת; וַיֹּאמֶר אֶל-עֲבָדָיו שִׂימוּ, וַיָּשִׂימוּ עַל-הָעִיר.",
+    "וְהִנֵּה נָבִיא אֶחָד, נִגַּשׁ אֶל-אַחְאָב מֶלֶךְ-יִשְׂרָאֵל, וַיֹּאמֶר כֹּה אָמַר יְהוָה, הֲרָאִיתָ אֵת כָּל-הֶהָמוֹן הַגָּדוֹל הַזֶּה; הִנְנִי נֹתְנוֹ בְיָדְךָ הַיּוֹם, וְיָדַעְתָּ כִּי-אֲנִי יְהוָה.",
+    "וַיֹּאמֶר אַחְאָב, בְּמִי, וַיֹּאמֶר כֹּה-אָמַר יְהוָה, בְּנַעֲרֵי שָׂרֵי הַמְּדִינוֹת; וַיֹּאמֶר מִי-יֶאְסֹר הַמִּלְחָמָה, וַיֹּאמֶר אָתָּה.",
+    "וַיִּפְקֹד, אֶת-נַעֲרֵי שָׂרֵי הַמְּדִינוֹת, וַיִּהְיוּ, מָאתַיִם שְׁנַיִם וּשְׁלֹשִׁים; וְאַחֲרֵיהֶם, פָּקַד אֶת-כָּל-הָעָם כָּל-בְּנֵי יִשְׂרָאֵל--שִׁבְעַת אֲלָפִים.",
+    "וַיֵּצְאוּ, בַּצָּהֳרָיִם; וּבֶן-הֲדַד שֹׁתֶה שִׁכּוֹר בַּסֻּכּוֹת, הוּא וְהַמְּלָכִים שְׁלֹשִׁים-וּשְׁנַיִם מֶלֶךְ--עֹזֵר אֹתוֹ.",
+    "וַיֵּצְאוּ, נַעֲרֵי שָׂרֵי הַמְּדִינוֹת--בָּרִאשֹׁנָה; וַיִּשְׁלַח בֶּן-הֲדַד, וַיַּגִּידוּ לוֹ לֵאמֹר, אֲנָשִׁים, יָצְאוּ מִשֹּׁמְרוֹן.",
+    "וַיֹּאמֶר אִם-לְשָׁלוֹם יָצָאוּ, תִּפְשׂוּם חַיִּים; וְאִם לְמִלְחָמָה יָצָאוּ, חַיִּים תִּפְשׂוּם.",
+    "וְאֵלֶּה יָצְאוּ מִן-הָעִיר, נַעֲרֵי שָׂרֵי הַמְּדִינוֹת, וְהַחַיִל, אֲשֶׁר אַחֲרֵיהֶם.",
+    "וַיַּכּוּ, אִישׁ אִישׁוֹ, וַיָּנֻסוּ אֲרָם, וַיִּרְדְּפֵם יִשְׂרָאֵל; וַיִּמָּלֵט, בֶּן-הֲדַד מֶלֶךְ אֲרָם, עַל-סוּס, וּפָרָשִׁים.",
+    "וַיֵּצֵא מֶלֶךְ יִשְׂרָאֵל, וַיַּךְ אֶת-הַסּוּס וְאֶת-הָרָכֶב, וְהִכָּה בַאֲרָם, מַכָּה גְדוֹלָה.",
+    "וַיִּגַּשׁ הַנָּבִיא, אֶל-מֶלֶךְ יִשְׂרָאֵל, וַיֹּאמֶר לוֹ לֵךְ הִתְחַזַּק, וְדַע וּרְאֵה אֵת אֲשֶׁר-תַּעֲשֶׂה: כִּי לִתְשׁוּבַת הַשָּׁנָה, מֶלֶךְ אֲרָם עֹלֶה עָלֶיךָ.",
+    "וְעַבְדֵי מֶלֶךְ-אֲרָם אָמְרוּ אֵלָיו, אֱלֹהֵי הָרִים אֱלֹהֵיהֶם, עַל-כֵּן, חָזְקוּ מִמֶּנּוּ; וְאוּלָם, נִלָּחֵם אִתָּם בַּמִּישׁוֹר--אִם-לֹא נֶחֱזַק, מֵהֶם.",
+    "וְאֶת-הַדָּבָר הַזֶּה, עֲשֵׂה: הָסֵר הַמְּלָכִים אִישׁ מִמְּקֹמוֹ, וְשִׂים פַּחוֹת תַּחְתֵּיהֶם.",
+    "וְאַתָּה תִמְנֶה-לְךָ חַיִל כַּחַיִל הַנֹּפֵל מֵאוֹתָךְ וְסוּס כַּסּוּס וְרֶכֶב כָּרֶכֶב, וְנִלָּחֲמָה אוֹתָם בַּמִּישׁוֹר--אִם-לֹא נֶחֱזַק, מֵהֶם; וַיִּשְׁמַע לְקֹלָם, וַיַּעַשׂ כֵּן.",
+    "וַיְהִי לִתְשׁוּבַת הַשָּׁנָה, וַיִּפְקֹד בֶּן-הֲדַד אֶת-אֲרָם; וַיַּעַל אֲפֵקָה, לַמִּלְחָמָה עִם-יִשְׂרָאֵל.",
+    "וּבְנֵי יִשְׂרָאֵל, הָתְפָּקְדוּ וְכָלְכְּלוּ, וַיֵּלְכוּ, לִקְרָאתָם; וַיַּחֲנוּ בְנֵי-יִשְׂרָאֵל נֶגְדָּם, כִּשְׁנֵי חֲשִׂפֵי עִזִּים, וַאֲרָם, מִלְאוּ אֶת-הָאָרֶץ.",
+    "וַיִּגַּשׁ אִישׁ הָאֱלֹהִים, וַיֹּאמֶר אֶל-מֶלֶךְ יִשְׂרָאֵל, וַיֹּאמֶר כֹּה-אָמַר יְהוָה יַעַן אֲשֶׁר אָמְרוּ אֲרָם אֱלֹהֵי הָרִים יְהוָה, וְלֹא-אֱלֹהֵי עֲמָקִים הוּא--וְנָתַתִּי אֶת-כָּל-הֶהָמוֹן הַגָּדוֹל הַזֶּה, בְּיָדֶךָ, וִידַעְתֶּם, כִּי-אֲנִי יְהוָה.",
+    "וַיַּחֲנוּ אֵלֶּה נֹכַח-אֵלֶּה, שִׁבְעַת יָמִים; וַיְהִי בַּיּוֹם הַשְּׁבִיעִי, וַתִּקְרַב הַמִּלְחָמָה, וַיַּכּוּ בְנֵי-יִשְׂרָאֵל אֶת-אֲרָם מֵאָה-אֶלֶף רַגְלִי, בְּיוֹם אֶחָד.",
+    "וַיָּנֻסוּ הַנּוֹתָרִים אֲפֵקָה, אֶל-הָעִיר, וַתִּפֹּל הַחוֹמָה, עַל-עֶשְׂרִים וְשִׁבְעָה אֶלֶף אִישׁ הַנּוֹתָרִים; וּבֶן-הֲדַד נָס, וַיָּבֹא אֶל-הָעִיר חֶדֶר בְּחָדֶר.",
+    "וַיֹּאמְרוּ אֵלָיו, עֲבָדָיו, הִנֵּה-נָא שָׁמַעְנוּ, כִּי מַלְכֵי בֵּית יִשְׂרָאֵל כִּי-מַלְכֵי חֶסֶד הֵם; נָשִׂימָה נָּא שַׂקִּים בְּמָתְנֵינוּ וַחֲבָלִים בְּרֹאשֵׁנוּ, וְנֵצֵא אֶל-מֶלֶךְ יִשְׂרָאֵל--אוּלַי, יְחַיֶּה אֶת-נַפְשֶׁךָ.",
+    "וַיַּחְגְּרוּ שַׂקִּים בְּמָתְנֵיהֶם וַחֲבָלִים בְּרָאשֵׁיהֶם, וַיָּבֹאוּ אֶל-מֶלֶךְ יִשְׂרָאֵל, וַיֹּאמְרוּ, עַבְדְּךָ בֶן-הֲדַד אָמַר תְּחִי-נָא נַפְשִׁי; וַיֹּאמֶר הַעוֹדֶנּוּ חַי, אָחִי הוּא.",
+    "וְהָאֲנָשִׁים יְנַחֲשׁוּ וַיְמַהֲרוּ וַיַּחְלְטוּ הֲמִמֶּנּוּ, וַיֹּאמְרוּ אָחִיךָ בֶן-הֲדַד, וַיֹּאמֶר, בֹּאוּ קָחֻהוּ; וַיֵּצֵא אֵלָיו בֶּן-הֲדַד, וַיַּעֲלֵהוּ עַל-הַמֶּרְכָּבָה.",
+    "וַיֹּאמֶר אֵלָיו הֶעָרִים אֲשֶׁר-לָקַח-אָבִי מֵאֵת אָבִיךָ אָשִׁיב, וְחֻצוֹת תָּשִׂים לְךָ בְדַמֶּשֶׂק כַּאֲשֶׁר-שָׂם אָבִי בְּשֹׁמְרוֹן, וַאֲנִי, בַּבְּרִית אֲשַׁלְּחֶךָּ; וַיִּכְרָת-לוֹ בְרִית, וַיְשַׁלְּחֵהוּ.",
+    "וְאִישׁ אֶחָד מִבְּנֵי הַנְּבִיאִים, אָמַר אֶל-רֵעֵהוּ בִּדְבַר יְהוָה--הַכֵּינִי נָא; וַיְמָאֵן הָאִישׁ, לְהַכֹּתוֹ.",
+    "וַיֹּאמֶר לוֹ, יַעַן אֲשֶׁר לֹא-שָׁמַעְתָּ בְּקוֹל יְהוָה, הִנְּךָ הוֹלֵךְ מֵאִתִּי, וְהִכְּךָ הָאַרְיֵה; וַיֵּלֶךְ, מֵאֶצְלוֹ, וַיִּמְצָאֵהוּ הָאַרְיֵה, וַיַּכֵּהוּ.",
+    "וַיִּמְצָא אִישׁ אַחֵר, וַיֹּאמֶר הַכֵּינִי נָא; וַיַּכֵּהוּ הָאִישׁ, הַכֵּה וּפָצֹעַ.",
+    "וַיֵּלֶךְ, הַנָּבִיא, וַיַּעֲמֹד לַמֶּלֶךְ, עַל-הַדָּרֶךְ; וַיִּתְחַפֵּשׂ בָּאֲפֵר, עַל-עֵינָיו.",
+    "וַיְהִי הַמֶּלֶךְ עֹבֵר, וְהוּא צָעַק אֶל-הַמֶּלֶךְ; וַיֹּאמֶר עַבְדְּךָ יָצָא בְקֶרֶב-הַמִּלְחָמָה, וְהִנֵּה-אִישׁ סָר וַיָּבֵא אֵלַי אִישׁ וַיֹּאמֶר שְׁמֹר אֶת-הָאִישׁ הַזֶּה--אִם-הִפָּקֵד יִפָּקֵד, וְהָיְתָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ אוֹ כִכַּר-כֶּסֶף תִּשְׁקוֹל.",
+    "וַיְהִי עַבְדְּךָ, עֹשֵׂה הֵנָּה וָהֵנָּה--וְהוּא אֵינֶנּוּ; וַיֹּאמֶר אֵלָיו מֶלֶךְ-יִשְׂרָאֵל כֵּן מִשְׁפָּטֶךָ, אַתָּה חָרָצְתָּ.",
+    "וַיְמַהֵר--וַיָּסַר אֶת-הָאֲפֵר, מעל מֵעֲלֵי עֵינָיו; וַיַּכֵּר אֹתוֹ מֶלֶךְ יִשְׂרָאֵל, כִּי מֵהַנְּבִיאִים הוּא.",
+    "וַיֹּאמֶר אֵלָיו, כֹּה אָמַר יְהוָה, יַעַן שִׁלַּחְתָּ אֶת-אִישׁ-חֶרְמִי, מִיָּד--וְהָיְתָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ, וְעַמְּךָ תַּחַת עַמּוֹ.",
+    "וַיֵּלֶךְ מֶלֶךְ-יִשְׂרָאֵל עַל-בֵּיתוֹ, סַר וְזָעֵף; וַיָּבֹא, שֹׁמְרוֹנָה."
+  ],
+  "english": [
+    "And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it.",
+    "And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad,",
+    "Thy silver and thy gold is mine; thy wives also and thy children, even the goodliest, are mine.",
+    "And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have.",
+    "And the messengers came again, and said, Thus speaketh Benhadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;",
+    "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away.",
+    "Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.",
+    "And all the elders and all the people said unto him, Hearken not unto him, nor consent.",
+    "Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.",
+    "And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.",
+    "And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off.",
+    "And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city.",
+    "And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the Lord, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the Lord.",
+    "And Ahab said, By whom? And he said, Thus saith the Lord, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.",
+    "Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.",
+    "And they went out at noon. But Benhadad was drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.",
+    "And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria.",
+    "And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive.",
+    "So these young men of the princes of the provinces came out of the city, and the army which followed them.",
+    "And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen.",
+    "And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter.",
+    "And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee.",
+    "And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they.",
+    "And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:",
+    "And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, and surely we shall be stronger than they. And he hearkened unto their voice, and did so.",
+    "And it came to pass at the return of the year, that Benhadad numbered the Syrians, and went up to Aphek, to fight against Israel.",
+    "And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.",
+    "And there came a man of God, and spake unto the king of Israel, and said, Thus saith the Lord, Because the Syrians have said, The Lord is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the Lord.",
+    "And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.",
+    "But the rest fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Benhadad fled, and came into the city, into an inner chamber.",
+    "And his servants said unto him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life.",
+    "So they girded sackcloth on their loins, and put ropes on their heads, and came to the king of Israel, and said, Thy servant Benhadad saith, I pray thee, let me live. And he said, Is he yet alive? he is my brother.",
+    "Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot.",
+    "And Ben-hadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away.",
+    "And a certain man of the sons of the prophets said unto his neighbour in the word of the Lord, Smite me, I pray thee. And the man refused to smite him.",
+    "Then said he unto him, Because thou hast not obeyed the voice of the Lord, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.",
+    "Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him.",
+    "So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.",
+    "And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.",
+    "And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So shall thy judgment be; thyself hast decided it.",
+    "And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets.",
+    "And he said unto him, Thus saith the Lord, Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.",
+    "And the king of Israel went to his house heavy and displeased, and came to Samaria."
+  ],
+  "steinsaltz": [
+    "וּבֶן־הֲדַד מֶלֶךְ־אֲרָם קָבַץ אֶת־כָּל־חֵילוֹ, וּשְׁלֹשִׁים וּשְׁנַיִם מֶלֶךְ, נסיכים קטנים או אדונים מקומיים באו אִתּוֹ וְסוּס וָרָכֶב, וַיַּעַל וַיָּצַר עַל־שֹׁמְרוֹן, חנה ליד שומרון ותכנן לצור עליה וַיִּלָּחֶם בָּהּ. צבא רב זה ירד מדמשק דרך הגליל עד שומרון ושם נערך למתקפה מסיבית על בירת ישראל. אולי מחמת פגיעתן הקשה של שנות הבצורת הכבדות, לא עמד לאחאב הכוח להגיב בחריפות לקואליציה החמושה של בן הדד.",
+    "וַיִּשְׁלַח בן הדד מַלְאָכִים, שליחים אֶל־אַחְאָב מֶלֶךְ־יִשְׂרָאֵל הָעִירָה – אל שומרון הנצורה.",
+    "וַיֹּאמֶר לוֹ: כֹּה אָמַר בֶּן־הֲדַד: \"כַּסְפְּךָ וּזְהָבְךָ – לִי־הוּא. רכושך יעבור אלי. וְנָשֶׁיךָ וּבָנֶיךָ הַטּוֹבִים – לִי־הֵם. בני משפחתך יעברו לרשותי. אלו הם תנאי הכניעה שאני מכתיב לך\".",
+    "וַיַּעַן מֶלֶךְ־יִשְׂרָאֵל וַיֹּאמֶר: כִּדְבָרְךָ אֲדֹנִי הַמֶּלֶךְ. לְךָ אֲנִי וְכָל־אֲשֶׁר־לִי. אני נכנע.",
+    "וַיָּשֻׁבוּ הַמַּלְאָכִים, שליחיו של בן הדד וַיֹּאמְרוּ: כֹּה־אָמַר בֶּן־הֲדַד לֵאמֹר: כִּי־שָׁלַחְתִּי אֵלֶיךָ לֵאמֹר: \"כַּסְפְּךָ וּזְהָבְךָ וְנָשֶׁיךָ וּבָנֶיךָ לִי תִתֵּן\", אל תחשוב שאתה הוא שתבחר לפי ראות עיניך את מה שיינתן לי.",
+    "כִּי אִם־כָּעֵת מָחָר אֶשְׁלַח אֶת־עֲבָדַי אֵלֶיךָ, וְחִפְּשׂוּ אֶת־בֵּיתְךָ וְאֵת בָּתֵּי עֲבָדֶיךָ. אנהג בארמונך מנהג אדון גמור. לא אמתין שאתה תתן לי את רכושך ואנשיך, אלא אשלח את אנשי לקחת את מה שארצה. וְהָיָה את כָּל־מַחְמַד עֵינֶיךָ, אוצרותיך היקרים לך ביותר יָשִׂימוּ בְיָדָם וְלָקָחוּ.",
+    "וַיִּקְרָא מֶלֶךְ־יִשְׂרָאֵל לְכָל־זִקְנֵי הָאָרֶץ. הוא סיפר להם על חילופי הדברים עם בן הדד וַיֹּאמֶר: דְּעוּ־נָא וּרְאוּ כִּי רָעָה איש זֶה מְבַקֵּשׁ, כִּי־שָׁלַח אֵלַי לְנָשַׁי וּלְבָנַי וּלְכַסְפִּי וְלִזְהָבִי, וְלֹא מָנַעְתִּי את כל אלה מִמֶּנּוּ, ועכשיו הוא מציג דרישה נוספת. החוק לא אילץ את אחאב להתייעץ עם הזקנים; הוא פנה אליהם מרצונו החפשי, שכן רצה לקבל את תמיכתם להכרעה החשובה שלפניו.",
+    "וַיֹּאמְרוּ אֵלָיו כָּל־הַזְּקֵנִים וְכָל־הָעָם: מה שהסכמת לתת לו בהתחלה אינו מענייננו, אבל לגבי דרישתו השנייה – אַל־תִּשְׁמַע וְלוֹא תֹאבֶה, אל תסכים. העובדה שהזקנים והעם מתנגדים פה אחד למסירת 'מחמד העיניים', לבן הדד מעידה כי זהו הדבר היקר ביותר לעם, והם נכונים למסור את נפשם למענו.",
+    "וַיֹּאמֶר לְמַלְאֲכֵי בֶן־הֲדַד: אִמְרוּ לַאדֹנִי הַמֶּלֶךְ: \"כֹּל הדרישות אֲשֶׁר־שָׁלַחְתָּ אֶל־עַבְדְּךָ בָרִאשֹׁנָה – אֶעֱשֶׂה, וְאולם את הַדָּבָר הַזֶּה – לֹא אוּכַל לַעֲשׂוֹת\". וַיֵּלְכוּ הַמַּלְאָכִים אל מלך ארם וַיְשִׁבֻהוּ דָּבָר, את דברי אחאב.",
+    "וַיִּשְׁלַח אֵלָיו בֶּן־הֲדַד וַיֹּאמֶר: כֹּה־יַעֲשׂוּן לִי אֱלֹהִים וְכֹה יוֹסִפוּ, אִם־יִשְׂפֹּק, יספיק עֲפַר שֹׁמְרוֹן לִשְׁעָלִים, לצעדים, למדרך כף רגל לְכָל־הָעָם אֲשֶׁר בְּרַגְלָי. אני נשבע שכל העפר של שומרון לא יהיה גדול דיו לצעדיהם של חיילי. שומרון אינה אלא עיר קטנה ועלובה, ואילו צבאי עצום ורב.",
+    "וַיַּעַן מֶלֶךְ־יִשְׂרָאֵל וַיֹּאמֶר: דַּבְּרוּ, אִמרו לו: אַל־יִתְהַלֵּל, יתפאר חֹגֵר, היוצא אל הקרב וחוגר את כלי נשקו כִּמְפַתֵּחַ, כאילו הוא מי שחזר לאחר שניצח במלחמה ומתיר את החגור. לא ראוי שתתייהר קודם שניצחת.",
+    "וַיְהִי כִּשְׁמֹעַ בן הדד אֶת־הַדָּבָר הַזֶּה, וְהוּא שֹׁתֶה, הוּא וְהַמְּלָכִים בני בריתו בַּסֻּכּוֹת של הצבא החונה מחוץ לעיר. וַיֹּאמֶר אֶל־עֲבָדָיו: שִׂימוּ מצור על העיר. בנו חומות, והרימו סוללות. וַיָּשִׂימוּ מצור עַל־הָעִיר.",
+    "וְהִנֵּה נָבִיא אֶחָד נִגַּשׁ אֶל־אַחְאָב מֶלֶךְ־יִשְׂרָאֵל. מתברר שנותרו נביאים – אולי מאלה שהוחבאו במערה. במצב מתוח זה הבין הנביא שאין הוא צריך לחשוש מאחאב. וַיֹּאמֶר: כֹּה אָמַר ה': \"הֲרָאִיתָ אֵת כָּל־הֶהָמוֹן הַגָּדוֹל הַזֶּה? הִנְנִי נֹתְנוֹ בְיָדְךָ הַיּוֹם, וְיָדַעְתָּ כִּי־אֲנִי ה'\".",
+    "וַיֹּאמֶר אַחְאָב: בְּמִי? בעזרת איזה צבא אעשה זאת? וַיֹּאמֶר: כֹּה־אָמַר ה': \"בְּנַעֲרֵי שָׂרֵי הַמְּדִינוֹת\". בני ערובה מעמים שונים שגדלו אצל אחאב כדי לערוב להתנהגות הוריהם. הנסיכים, שהגיעו אל המלך הזר בעל כורחם, עם הזמן החלו להזדהות אתו, ואף עמדו לצדו בעת צרה. וַיֹּאמֶר אחאב: מִי־יֶאְסֹר הַמִּלְחָמָה? מי יפקד על נערי שרי המדינות? וַיֹּאמֶר: אָתָּה עצמך תצא לקרב בראשם.",
+    "וַיִּפְקֹד, אחאב סָפר אֶת־נַעֲרֵי שָׂרֵי הַמְּדִינוֹת, וַיִּהְיוּ מָאתַיִם שְׁנַיִם וּשְׁלֹשִׁים. וְאַחֲרֵיהֶם פָּקַד אֶת־כָּל־הָעָם, והאנשים מכָּל־בְּנֵי יִשְׂרָאֵל שראויים להילחם היו שִׁבְעַת אֲלָפִים. שומרון לא הייתה עיר גדולה.",
+    "וַיֵּצְאוּ בַּצָּהֳרָיִם, וּבֶן־הֲדַד שֹׁתֶה שִׁכּוֹר בַּסֻּכּוֹת. נוכח יחסי הכוחות הוא היה בטוח בניצחונו מראש, ועל כן הרשה לעצמו להשתכר הוּא וְהַמְּלָכִים שהם שְׁלֹשִׁים־וּשְׁנַיִם מֶלֶךְ שעֹזֵר אֹתוֹ. הם לא נתנו את דעתם למתרחש, אלא ערכו מסיבת הוללות בצהרי היום.",
+    "וַיֵּצְאוּ נַעֲרֵי שָׂרֵי הַמְּדִינוֹת כיחידה בפני עצמה בָּרִאשֹׁנָה. וַיִּשְׁלַח בֶּן־הֲדַד לדעת מה מתרחש, וַיַּגִּידוּ לוֹ לֵאמֹר: אֲנָשִׁים יָצְאוּ מִשֹּׁמְרוֹן חרף המצור, ומטרת יציאתם אינה ברורה, שהרי אין זה צבא שלם.",
+    "וַיֹּאמֶר בן הדד בעת שהיה שיכור ואדיש: אִם־לְשָׁלוֹם, בכניעה ובנכונות להימסר לשבי יָצָאוּ – תִּפְשׂוּם חַיִּים. וְגם אִם לְמִלְחָמָה יָצָאוּ – חַיִּים תִּפְשׂוּם. בין כך ובין כך תוכלו להשתלט על קבוצה כה קטנה, ואינכם צריכים להילחם בה. בן הדד לא חשש כלל, מפני שאחרי דברי הכניעה של אחאב הוא היה בטוח שיכבוש את העיר במוקדם או במאוחר.",
+    "וְאֵלֶּה יָצְאוּ מִן־הָעִיר – נַעֲרֵי שָׂרֵי הַמְּדִינוֹת וְשבעת אלפים אנשי הַחַיִל אֲשֶׁר אַחֲרֵיהֶם.",
+    "אנשי ישראל יצאו למלחמה בלהט ובנחישות וַיַּכּוּ אִישׁ אִישׁוֹ. כל אחד מהם הצליח להרוג את האיש שעמד מולו. ולאחר שנהרגו כמה מאות חיילים ארמיים, שלא ידעו כיצד להגיב – וַיָּנֻסוּ אֲרָם, וַיִּרְדְּפֵם יִשְׂרָאֵל. וַיִּמָּלֵט בֶּן־הֲדַד מֶלֶךְ אֲרָם עַל־סוּס וּפָרָשִׁים, משום שלא הבין שהוא עומד בפני מתקפה ולא היה מוכן לקרב.",
+    "וַיֵּצֵא מֶלֶךְ יִשְׂרָאֵל עם הצבא, וַיַּךְ אֶת־הַסּוּס וְאֶת־הָרָכֶב וְהִכָּה בַאֲרָם מַכָּה גְדוֹלָה. אחרי שהמלך ברח, נותר מחנה ארם מבולבל ומיואש, ואחאב ואנשיו נלחמו בעוז והנחילו לארם מפלה קשה.",
+    "וַיִּגַּשׁ הַנָּבִיא אֶל־מֶלֶךְ יִשְׂרָאֵל וַיֹּאמֶר לוֹ: אמנם הברחת את הארמים, אבל לא ניצחת אותם. לֵךְ הִתְחַזַּק, חזק את עצמך וְדַע וּרְאֵה אֵת אֲשֶׁר־תַּעֲשֶׂה, כִּי לִתְשׁוּבַת הַשָּׁנָה, כשתשוב השנה, כלומר בשנה הבאה מֶלֶךְ אֲרָם עֹלֶה עָלֶיךָ שנית. בגלל תנאי מזג האוויר נערכו המלחמות בדרך כלל מן האביב והלאה.",
+    "וְעַבְדֵי מֶלֶךְ־אֲרָם אָמְרוּ אֵלָיו: אֱלֹהֵי הָרִים אֱלֹהֵיהֶם, עַל־כֵּן חָזְקוּ מִמֶּנּוּ. כיוון שבאנו להרים, ששם שולט אלוקי ישראל, הובסנו בקרב. וְאוּלָם אם נִלָּחֵם אִתָּם בַּמִּישׁוֹר, שבו אנו רגילים להילחם, אִם־לֹא, בוודאי נֶחֱזַק מֵהֶם וננצחם. ועוד, לא התארגנת היטב לעימות. אל המערכה קיבצת את כל המלכים הללו, שכל אחד מהם נחשב רשמית מלך עצמאי, אבל הם לא ששו להילחם.",
+    "במקום להרכיב את צבאך מיחידות זרות, עליך להדק את שלטונך, וְעל כן אֶת־הַדָּבָר הַזֶּה עֲשֵׂה: הָסֵר הַמְּלָכִים אִישׁ מִמְּקֹמוֹ, וְשִׂים פַּחוֹת, שרים שתמנה אתה באופן רשמי תַּחְתֵּיהֶם, במקומם.",
+    "וְאַתָּה תִמְנֶה־לְּךָ חַיִל כַּחַיִל הַנֹּפֵל מֵאוֹתָךְ, וְסוּס כַּסּוּס וְרֶכֶב כָּרֶכֶב. הקם צבא חלופי שגודלו זהה לגודל הצבא שנפל בקרב הקודם. וְנִלָּחֲמָה אוֹתָם בַּמִּישׁוֹר, הבה נראה אִם־לֹא נֶחֱזַק מֵהֶם. וַיִּשְׁמַע בן הדד לְקֹלָם וַיַּעַשׂ כֵּן. הוא ארגן את צבאו באופן שונה במקצת, הידק את שלטונו במדינה והתכונן למערכה נוספת.",
+    "וַיְהִי לִתְשׁוּבַת הַשָּׁנָה, כעבור שנה וַיִּפְקֹד בֶּן־הֲדַד אֶת־אֲרָם, וַיַּעַל אֲפֵקָה, לאפק, שהיא במישור לַמִּלְחָמָה עִם־יִשְׂרָאֵל, והזמין את מלך ישראל למלחמה.",
+    "וגם בְנֵי יִשְׂרָאֵל הָתְפָּקְדוּ וְאנשי הצבא כָלְכְּלוּ, קיבלו את צידתם ואת התחמושת שלה נזקקו, וַיֵּלְכוּ לִקְרָאתָם. וַיַּחֲנוּ בְנֵי־יִשְׂרָאֵל נֶגְדָּם וגודלם היה רק כִּשְׁנֵי חֲשִׂפֵי עִזִּים, כגודל הקרקע הנחשפת על ידי שני עדרי עזים לאחר שרעו. ואילו אֲרָם מִלְאוּ אֶת־הָאָרֶץ, פני השטח.",
+    "וַיִּגַּשׁ אִישׁ הָאֱלֹהִים וַיֹּאמֶר אֶל־מֶלֶךְ יִשְׂרָאֵל, וַיֹּאמֶר: כֹּה־אָמַר ה': יַעַן אֲשֶׁר אָמְרוּ אֲרָם: \"אֱלֹהֵי הָרִים ה' וְלֹא־אֱלֹהֵי עֲמָקִים הוּא\" – וְנָתַתִּי אֶת־כָּל־הֶהָמוֹן הַגָּדוֹל הַזֶּה בְּיָדֶךָ, וִידַעְתֶּם כִּי־אֲנִי ה'.",
+    "וַיַּחֲנוּ אֵלֶּה נֹכַח־אֵלֶּה שִׁבְעַת יָמִים בלא לגשת למלחמה. בינתיים כל אחד משני הצבאות ניסה לבצר לעצמו עמדה טובה יותר. וַיְהִי בַּיּוֹם הַשְּׁבִיעִי, וַתִּקְרַב, פרצה הַמִּלְחָמָה. וַיַּכּוּ בְנֵי־יִשְׂרָאֵל אֶת־אֲרָם מֵאָה־אֶלֶף רַגְלִי בְּיוֹם אֶחָד, מכה קשה מאוד.",
+    "וַיָּנֻסוּ הַנּוֹתָרִים מצבא ארם אֲפֵקָה אֶל־הָעִיר אפק, וַתִּפֹּל הַחוֹמָה עַל־עֶשְׂרִים וְשִׁבְעָה אֶלֶף אִישׁ, אנשי ארם הַנּוֹתָרִים. וּבֶן־הֲדַד נָס וַיָּבֹא אֶל־הָעִיר חֶדֶר בְּחָדֶר, התחבא בחדר לפנים מחדר. הוא ידע שהפסיד במלחמה ואיבד את צבאו, ושתוך זמן קצר יגיע אחאב, המלך המנצח.",
+    "וַיֹּאמְרוּ אֵלָיו עֲבָדָיו: הִנֵּה־נָא שָׁמַעְנוּ כִּי למַלְכֵי בֵּית יִשְׂרָאֵל יש שם טוב, כִּי־מַלְכֵי חֶסֶד הֵם. לבם רך אפילו תוך כדי מלחמה. אשר על כן נָשִׂימָה נָּא שַׂקִּים בְּמָתְנֵינוּ כאות אבל או כסימן לכניעתנו, כשבויים, וַחֲבָלִים בְּרֹאשֵׁנוּ, כעבדים הנכונים להיות לו לסבלים, שכן נושאי משא כורכים חבלים על ראשיהם. וְנֵצֵא אֶל־מֶלֶךְ יִשְׂרָאֵל, אוּלַי הוא ימחל ויְחַיֶּה אֶת־נַפְשֶׁךָ כשיראה את כניעתנו.",
+    "וַיַּחְגְּרוּ שַׂקִּים בְּמָתְנֵיהֶם וַחֲבָלִים בְּרָאשֵׁיהֶם, וַיָּבֹאוּ אֶל־מֶלֶךְ יִשְׂרָאֵל וַיֹּאמְרוּ: עַבְדְּךָ בֶן־הֲדַד אָמַר: \"תְּחִי־נָא נַפְשִׁי\". הוא ביקש שתחוס על נפשו. כטוב לבו של אחאב אחרי ניצחונו המזהיר על צבא ארם – וַיֹּאמֶר: הַעוֹדֶנּוּ חַי?! שהרי בתוך מהומת הקרבות יכול היה גם המלך להיהרג. אָחִי הוּא!",
+    "וְהָאֲנָשִׁים של בן הדד יְנַחֲשׁוּ, ראו בכך סימן טוב, וַיְמַהֲרוּ וַיַּחְלְטוּ, הזדרזו לתפוס את מלתו ולברר הֲמִמֶּנּוּ, האם זו אכן הייתה כוונתו, וַיֹּאמְרוּ: אָחִיךָ בֶן־הֲדַד. אף הוא מרגיש את עצמו כאחיך. וַיֹּאמֶר אחאב: בֹּאוּ קָחֻהוּ. הָביאו אותו אלי. כיוון שלא הודיע שבכוונתו להענישו – וַיֵּצֵא אֵלָיו בֶּן־הֲדַד, וַיַּעֲלֵהוּ, אחאב הזמין את בן הדד הרצוץ והכנוע לעלות עַל־הַמֶּרְכָּבָה שלו. אחאב התייחס לבן הדד המובס כאל מלך. הלוך הנפש של אחאב היה חיובי ביותר, ולכן נהג גינוני אצילות במלך האויב.",
+    "וַיֹּאמֶר אֵלָיו בן הדד: הֶעָרִים אֲשֶׁר־לָקַח־אָבִי מֵאֵת אָבִיךָ אָשִׁיב. אחזיר לרשותך את מה שכבש אבי מאביך. וְחֻצוֹת, זכויות לסחר חופשי תָּשִׂים לְךָ בְדַמֶּשֶׂק כַּאֲשֶׁר־שָׂם אָבִי בְּשֹׁמְרוֹן. מלך ארם הקודם לחץ את שומרון עד שקיבל זכויות שאפשרו לארמים לבוא לשומרון ולסחור שם בלא הגבלות. עתה הבטיח בן הדד להעניק לאחאב זכויות כאלה בדמשק. וַאֲנִי – ענהו אחאב – בַּבְּרִית שנכרות אֲשַׁלְּחֶךָּ כדי שיחסינו החיוביים יישארו על כנם גם בעתיד. וַיִּכְרָת־לוֹ בְרִית ואחאב קיבל את מתנותיו של בן הדד וַיְשַׁלְּחֵהוּ. אחאב ניצח את צבא ארם ואף סיים את המלחמה בתנאי עליונות. עם זאת, לא היה כל דמיון בין הסכם הניצחון הזה לתנאי ההשפלה שהציב בן הדד לאחאב שנה קודם לכן.",
+    "וְאִישׁ אֶחָד מִבְּנֵי הַנְּבִיאִים, מהנביאים המתלמדים אָמַר אֶל־רֵעֵהוּ בִּדְבַר ה': הַכֵּינִי, הכה אותי נָא. וַיְמָאֵן, סירב הָאִישׁ לְהַכֹּתוֹ, שהרי הם מכרים וידידים.",
+    "וַיֹּאמֶר לוֹ: יַעַן אֲשֶׁר לֹא־שָׁמַעְתָּ בְּקוֹל ה', והוא שציווה שתכה אותי – הִנְּךָ הוֹלֵךְ מֵאִתִּי, וְהִכְּךָ הָאַרְיֵה. וַיֵּלֶךְ מֵאֶצְלוֹ, וַיִּמְצָאֵהוּ הָאַרְיֵה וַיַּכֵּהוּ.",
+    "וַיִּמְצָא האיש מבני הנביאים אִישׁ אַחֵר, וַיֹּאמֶר לו: הַכֵּינִי נָא. וַיַּכֵּהוּ הָאִישׁ הַכֵּה וּפָצֹעַ. הוא נעתר לבקשתו והכה אותו מכות קשות ופוצעות.",
+    "וַיֵּלֶךְ הַנָּבִיא וַיַּעֲמֹד לַמֶּלֶךְ אֶל־הַדָּרֶךְ, בדרכו של המלך אחאב. וַיִּתְחַפֵּשׂ בָּאֲפֵר, בצעיף עַל־עֵינָיו, כדי שהמלך לא יכיר אותו. הנביאים היו ניכרים לרוב בבגדיהם, אך הוא כיסה גם את עיניו ואי-אפשר היה לזהותו.",
+    "וַיְהִי הַמֶּלֶךְ עֹבֵר, וְהוּא צָעַק, מחה אֶל־הַמֶּלֶךְ, שנחשב השופט העליון, וַיֹּאמֶר: עַבְדְּךָ יָצָא בְקֶרֶב־הַמִּלְחָמָה, וְהִנֵּה־אִישׁ סָר, פנה אלי, וַיָּבֵא אֵלַי אִישׁ, וַיֹּאמֶר: \"שְׁמֹר אֶת־הָאִישׁ הַזֶּה, שהוא שבוי שלי, ואתה תהיה אחראי לו. אִם־הִפָּקֵד יִפָּקֵד, יברח או ייעלם – וְהָיְתָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ, אהרוג אותך, אוֹ כִכַּר־כֶּסֶף, סכום גבוה לאין ערוך יותר ממחירו של עבד תִּשְׁקוֹל, תשלם\".",
+    "וַיְהִי עַבְדְּךָ עֹשֵׂה הֵנָּה וָהֵנָּה, עסקתי בענייני – וְהוּא אֵינֶנּוּ. מה אעשה עכשיו? אינני רוצה להיהרג, ואינני יכול לשלם את הקנס. וַיֹּאמֶר אֵלָיו מֶלֶךְ־יִשְׂרָאֵל: כֵּן מִשְׁפָּטֶךָ, אַתָּה חָרָצְתָּ. אתה קבעת את דינך. אתה מודה שלא ביצעת את תפקידך כראוי, ואינך מכחיש את התנאים. על כן עליך לעמוד בהם.",
+    "וַיְמַהֵר הנביא וַיָּסַר אֶת־הָאֲפֵר מֵעֲלֵי עֵינָיו. וַיַּכֵּר אֹתוֹ מֶלֶךְ יִשְׂרָאֵל כִּי מֵהַנְּבִיאִים הוּא – אולי היה זה הנביא שהופיע לפניו קודם לכן ועל כן הכירוֹ.",
+    "וַיֹּאמֶר הנביא אֵלָיו: כֹּה אָמַר ה': יַעַן שִׁלַּחְתָּ, שחררת אֶת־אִישׁ־חֶרְמִי, אויבי שהיה בן-מוות, מלך ארם, מִיָּד – וְהָיְתָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ וְעַמְּךָ תַּחַת עַמּוֹ. אתה האיש שהופקד בידו שבוי, ובמקום לשמור אותו, שילחת אותו לחפשי, ועליך לשלם על כך בחייך.",
+    "וַיֵּלֶךְ מֶלֶךְ־יִשְׂרָאֵל עַל, אל בֵּיתוֹ סַר, מוטרד וְזָעֵף, וכועס וַיָּבֹא שֹׁמְרוֹנָה. מצב רוחו השתנה מאז יצא לדרך. הוא נפגע מתוכחתו של הנביא – שהוא עצמו נאלץ להסכים לה – משום שהיא הזכירה לו שהניצחון לא בא מכוחו. ה' הסגיר בידו את מלך ארם, ואילו אחאב נהג במלך הזר והתוקפני, כאילו היה ידיד קרוב."
+  ],
+  "ai_explanation": [
+    "בן־הדד אסף צבא גדול, ובו שלושים ושניים מלכים, וצר על שומרון כדי לתקוף את בירת ישראל. ייתכן שאחאב התקשה להגיב בגלל פגיעת שנות הבצורת.",
+    "בן־הדד שלח שליחים אל אחאב, אל שומרון הנצורה.",
+    "בן־הדד דרש לעצמו את רכושו של אחאב ואת נשותיו ובניו הטובים, והציג זאת כתנאי כניעה.",
+    "אחאב הסכים להיכנע ואמר שכל רכושו נתון לבן־הדד.",
+    "בן־הדד הבהיר שאין די בהסכמה כללית, אלא שעל אחאב למסור לו את כל הרכוש והמשפחה שדרש.",
+    "בן־הדד איים לשלוח את עבדיו לחפש בארמון ובבתי השרים ולקחת את כל מה שימצא חן בעיניו.",
+    "אחאב פנה לזקני הארץ, סיפר להם על דרישות בן־הדד, והסביר שהוא מבקש רעה נוספת למרות שכבר הסכים לדרישות הראשונות.",
+    "הזקנים והעם התנגדו פה אחד לדרישה השנייה, למסירת היקר ביותר להם.",
+    "אחאב הודיע לשליחי בן־הדד שיקיים את הדרישות הראשונות, אך אינו יכול להסכים לדרישה הנוספת.",
+    "בן־הדד התפאר שעפר שומרון לא יספיק אפילו לצעדי כל חייליו, ובכך זלזל בעיר ובכוח מגיניה.",
+    "אחאב השיב שאין להתפאר לפני הקרב, כשם שאין חוגר היוצא למלחמה רשאי להתהלל כאילו כבר ניצח והתיר את חגורתו.",
+    "בן־הדד שמע את הדברים בשעה שהיה שיכור בסוכות המחנה עם המלכים שבאו לעזרתו, וציווה להטיל מצור על העיר.",
+    "נביא אחד ניגש אל אחאב והודיע בשם ה' שההמון הארמי יימסר בידו, כדי שיידע שה' הוא האל.",
+    "הנביא אמר שהמערכה תיפתח באמצעות נערי שרי המדינות, שהיו בני ערובה והזדהו עם אחאב, ושאחאב עצמו יפקד עליהם.",
+    "אחאב מנה 232 נערים ולאחריהם 7,000 לוחמים מבני ישראל, מספר קטן יחסית לגודל הצבא הארמי.",
+    "אנשי ישראל יצאו בצהריים, בעוד בן־הדד והמלכים שבאו לעזרתו שתו לשוכרה, מתוך ביטחון מוחלט בניצחונם.",
+    "נערי שרי המדינות יצאו ראשונים משומרון. בן־הדד קיבל דיווח על יציאתם, אף שלא היה ברור מה מטרתה.",
+    "בן־הדד, שהיה שיכור ובטוח בכוחו, ציווה לתפוס את היוצאים חיים, בין אם באו לכניעה ובין אם למלחמה.",
+    "נערי שרי המדינות יצאו מן העיר, ואחריהם שבעת אלפים אנשי החיל.",
+    "אנשי ישראל הכו את הארמים, ואלה נסו; בן־הדד נמלט על סוס עם פרשים, משום שלא היה מוכן למתקפה.",
+    "אחאב יצא עם הצבא והכה את הסוסים והרכב, והנחיל לארם מפלה גדולה לאחר שהמחנה נותר מבולבל בעקבות בריחת המלך.",
+    "הנביא הזהיר את אחאב שהברחת הארמים אינה סוף המערכה, וציווה עליו להתחזק ולהיערך לכך שבן־הדד יעלה עליו שוב בשנה הבאה.",
+    "עבדי מלך ארם הסבירו שהארמים הובסו בהרים מפני שה' הוא אלוהי ההרים, והציעו להילחם בישראל במישור, שבו לדעתם יגברו.",
+    "הם הציעו להחליף את המלכים העצמאיים בפחות, שרים שמלך ארם ימנה ויוכל לשלוט בהם ישירות.",
+    "הם יעצו לארגן צבא חדש, עם מספר דומה של חיילים, סוסים ורכב, ולצאת למלחמה במישור; בן־הדד קיבל את עצתם.",
+    "כעבור שנה בן־הדד מנה את צבאו ועלה לאפק, שבמישור, כדי להילחם בישראל.",
+    "גם בני ישראל נערכו, הצטיידו ויצאו לקראת ארם. ישראל נראו כשני עדרי עזים קטנים, ואילו הארמים מילאו את הארץ.",
+    "איש האלוהים הודיע בשם ה' שהניצחון יינתן לישראל דווקא משום שהארמים אמרו שה' הוא אלוהי ההרים בלבד, כדי שכולם יידעו שהוא ה'.",
+    "שני הצבאות חנו זה מול זה שבעה ימים, וביום השביעי פרצה המלחמה; ישראל הרגו מאה אלף חיילים רגלים מארם ביום אחד.",
+    "הארמים הנותרים נסו לאפק, והחומה נפלה על 27,000 מהם. בן־הדד נמלט והתחבא בעיר, חדר בתוך חדר.",
+    "עבדי בן־הדד הציעו ללבוש שק ולשים חבלים על ראשיהם, כאות כניעה, בתקווה שאחאב ירחם על מלכם, שכן למלכי ישראל יצא שם של מלכי חסד.",
+    "השליחים ביקשו בשם בן־הדד שאחאב יחוס על נפשו. אחאב, ששמח בניצחונו, שאל אם בן־הדד עדיין חי וכינה אותו אח.",
+    "אנשי בן־הדד ראו בדברי אחאב סימן טוב, הזדרזו לברר את כוונתו והביאו את בן־הדד אליו. אחאב נהג בו בכבוד והעלה אותו למרכבתו.",
+    "בן־הדד הציע להחזיר את הערים שאביו לקח ולתת לאחאב זכויות מסחר בדמשק כפי שהיו לארמים בשומרון. אחאב כרת עמו ברית ושחרר אותו.",
+    "אחד מבני הנביאים ביקש מרעהו להכותו בדבר ה', אך האיש סירב מפני שהכיר אותו.",
+    "בן הנביאים אמר שהאיש ייענש על שלא שמע בקול ה', ואכן לאחר שהלך ממנו מצאוֹ אריה והכה אותו.",
+    "בן הנביאים מצא אדם אחר שביצע את בקשתו והכה אותו מכות קשות ופוצעות.",
+    "הנביא התחפש באפר וכיסה את עיניו, כדי שאחאב לא יזהה אותו, ועמד בדרך המלך.",
+    "הנביא סיפר לאחאב שבמלחמה הופקד בידו שבוי, אך כאשר עסק בענייניו השבוי נעלם; לכן נדרש ממנו לשלם בחייו או בכיכר כסף.",
+    "אחאב פסק שהאיש עצמו קבע את דינו, משום שהודה שלא שמר על השבוי כראוי.",
+    "הנביא הסיר את האפר מעל עיניו, ואז הכיר בו אחאב כאחד הנביאים, אולי מפני שכבר ראהו קודם.",
+    "הנביא הודיע בשם ה' שאחאב שחרר אדם שנמסר לו כחרם, כלומר את מלך ארם שהיה ראוי למיתה; לכן חיי אחאב וחיי עמו יהיו תחת חיי בן־הדד ועמו.",
+    "אחאב חזר לשומרון מוטרד וכועס. הוא נפגע מן התוכחה, שהזכירה לו שהניצחון ניתן לו בידי ה', בעוד שהוא נהג בבן־הדד כאילו היה ידיד."
+  ],
+  "ai_explanation_en": [
+    "Ben-hadad gathered a large army, including thirty-two kings, and besieged Samaria in order to attack Israel’s capital. Ahab may have struggled to respond because of the damage caused by the years of drought.",
+    "Ben-hadad sent messengers to Ahab, to besieged Samaria.",
+    "Ben-hadad demanded Ahab’s property, as well as his wives and sons, and presented this as the condition of surrender.",
+    "Ahab agreed to surrender and said that all he possessed was subject to Ben-hadad.",
+    "Ben-hadad made clear that a general agreement was not enough: Ahab had to hand over all the property and family members he had demanded.",
+    "Ben-hadad threatened to send his servants to search the palace and the officials’ houses and take whatever he wanted.",
+    "Ahab turned to the elders of the land, told them about Ben-hadad’s demands, and explained that he was making another demand even though Ahab had already accepted the first ones.",
+    "The elders and the people unanimously opposed the second demand, the surrender of what was most precious to them.",
+    "Ahab told Ben-hadad’s messengers that he would fulfill the first demands, but that he could not agree to the additional demand.",
+    "Ben-hadad boasted that Samaria’s dust would not even be enough for the footsteps of all his soldiers, thus mocking the city and its defenders.",
+    "Ahab replied that one should not boast before the battle, just as a man who puts on his armor to go to war should not boast as though he had already won and removed it.",
+    "Ben-hadad heard this while he was drunk in the army tents with the kings who had come to support him, and he ordered the city to be besieged.",
+    "A prophet approached Ahab and announced in the name of the Lord that the Aramean multitude would be delivered into his hands, so that he would know that the Lord is God.",
+    "The prophet said that the battle would begin with the young men of the district governors, hostages who had come to identify with Ahab, and that Ahab himself would command them.",
+    "Ahab counted 232 young men and then 7,000 Israelite soldiers, a small force compared with the Aramean army.",
+    "The Israelites went out at noon, while Ben-hadad and the kings supporting him were drinking themselves drunk, completely confident of victory.",
+    "The young men of the district governors went out first from Samaria. Ben-hadad was informed of their departure, although their purpose was unclear.",
+    "Ben-hadad, drunk and confident in his strength, ordered that the men be captured alive, whether they had come to surrender or to fight.",
+    "The young men of the district governors left the city, followed by the seven thousand soldiers.",
+    "The Israelites struck the Arameans, who fled; Ben-hadad escaped on horseback with cavalry because he had not been prepared for the attack.",
+    "Ahab went out with the army and struck the horses and chariots, inflicting a great defeat on Aram after the camp was left confused by the king’s flight.",
+    "The prophet warned Ahab that driving away the Arameans was not the end of the campaign, and told him to strengthen himself and prepare for Ben-hadad’s return the following year.",
+    "The servants of the king of Aram explained that the Arameans had been defeated in the mountains because the Lord was the God of the mountains, and suggested fighting Israel on the plain, where they believed they would prevail.",
+    "They advised replacing the independent kings with governors whom the king of Aram would appoint and control directly.",
+    "They advised organizing a new army with a similar number of soldiers, horses, and chariots, and fighting on the plain; Ben-hadad accepted their advice.",
+    "A year later Ben-hadad mustered his army and went to Aphek, in the plain, to fight Israel.",
+    "The Israelites also prepared, gathered supplies, and went out to meet Aram. Israel looked like two small herds of goats, while the Arameans filled the land.",
+    "The man of God announced in the name of the Lord that Israel would win precisely because the Arameans had said that the Lord was only the God of the mountains, so that everyone would know that he is the Lord.",
+    "The two armies camped opposite each other for seven days, and on the seventh day the battle began; Israel killed one hundred thousand Aramean foot soldiers in a single day.",
+    "The remaining Arameans fled to Aphek, and the wall fell on 27,000 of them. Ben-hadad escaped and hid inside the city, room within room.",
+    "Ben-hadad’s servants suggested wearing sackcloth and placing ropes on their heads as signs of submission, hoping that Ahab would spare their king, since the kings of Israel were known as merciful kings.",
+    "The messengers asked Ahab, in Ben-hadad’s name, to spare his life. Ahab, pleased with his victory, asked whether Ben-hadad was still alive and called him his brother.",
+    "Ben-hadad’s men saw Ahab’s words as a favorable sign, hurried to confirm his intention, and brought Ben-hadad to him. Ahab treated him honorably and had him come up into his chariot.",
+    "Ben-hadad offered to return the cities his father had taken and to grant Ahab trading rights in Damascus, as the Arameans had enjoyed in Samaria. Ahab made a covenant with him and released him.",
+    "One of the sons of the prophets asked his fellow to strike him in accordance with the word of the Lord, but the man refused because he knew him.",
+    "The prophet’s son said that the man would be punished for not obeying the Lord, and after he left, a lion found and struck him.",
+    "The prophet’s son found another man who fulfilled his request and struck him severely, wounding him.",
+    "The prophet disguised himself with ashes and covered his eyes so that Ahab would not recognize him, and stood by the king’s road.",
+    "The prophet told Ahab that during the battle a prisoner had been entrusted to him, but while he was occupied with other matters the prisoner disappeared; therefore he was required to pay with his life or with a talent of silver.",
+    "Ahab ruled that the man himself had determined his sentence because he had admitted that he failed to guard the prisoner properly.",
+    "The prophet removed the ashes from his eyes, and Ahab recognized him as one of the prophets, perhaps because he had seen him earlier.",
+    "The prophet announced in the name of the Lord that Ahab had released a man devoted to destruction, namely the king of Aram who deserved death; therefore Ahab’s life and the lives of his people would be exchanged for Ben-hadad’s life and the lives of his people.",
+    "Ahab returned to Samaria troubled and angry. He was hurt by the rebuke, which reminded him that the victory had been given to him by the Lord, while he had treated Ben-hadad as though he were a close friend."
+  ],
+  "perush": [
+    "בן־הדד אסף צבא גדול, ובו שלושים ושניים מלכים, וצר על שומרון כדי לתקוף את בירת ישראל. ייתכן שאחאב התקשה להגיב בגלל פגיעת שנות הבצורת.",
+    "בן־הדד שלח שליחים אל אחאב, אל שומרון הנצורה.",
+    "בן־הדד דרש לעצמו את רכושו של אחאב ואת נשותיו ובניו הטובים, והציג זאת כתנאי כניעה.",
+    "אחאב הסכים להיכנע ואמר שכל רכושו נתון לבן־הדד.",
+    "בן־הדד הבהיר שאין די בהסכמה כללית, אלא שעל אחאב למסור לו את כל הרכוש והמשפחה שדרש.",
+    "בן־הדד איים לשלוח את עבדיו לחפש בארמון ובבתי השרים ולקחת את כל מה שימצא חן בעיניו.",
+    "אחאב פנה לזקני הארץ, סיפר להם על דרישות בן־הדד, והסביר שהוא מבקש רעה נוספת למרות שכבר הסכים לדרישות הראשונות.",
+    "הזקנים והעם התנגדו פה אחד לדרישה השנייה, למסירת היקר ביותר להם.",
+    "אחאב הודיע לשליחי בן־הדד שיקיים את הדרישות הראשונות, אך אינו יכול להסכים לדרישה הנוספת.",
+    "בן־הדד התפאר שעפר שומרון לא יספיק אפילו לצעדי כל חייליו, ובכך זלזל בעיר ובכוח מגיניה.",
+    "אחאב השיב שאין להתפאר לפני הקרב, כשם שאין חוגר היוצא למלחמה רשאי להתהלל כאילו כבר ניצח והתיר את חגורתו.",
+    "בן־הדד שמע את הדברים בשעה שהיה שיכור בסוכות המחנה עם המלכים שבאו לעזרתו, וציווה להטיל מצור על העיר.",
+    "נביא אחד ניגש אל אחאב והודיע בשם ה' שההמון הארמי יימסר בידו, כדי שיידע שה' הוא האל.",
+    "הנביא אמר שהמערכה תיפתח באמצעות נערי שרי המדינות, שהיו בני ערובה והזדהו עם אחאב, ושאחאב עצמו יפקד עליהם.",
+    "אחאב מנה 232 נערים ולאחריהם 7,000 לוחמים מבני ישראל, מספר קטן יחסית לגודל הצבא הארמי.",
+    "אנשי ישראל יצאו בצהריים, בעוד בן־הדד והמלכים שבאו לעזרתו שתו לשוכרה, מתוך ביטחון מוחלט בניצחונם.",
+    "נערי שרי המדינות יצאו ראשונים משומרון. בן־הדד קיבל דיווח על יציאתם, אף שלא היה ברור מה מטרתה.",
+    "בן־הדד, שהיה שיכור ובטוח בכוחו, ציווה לתפוס את היוצאים חיים, בין אם באו לכניעה ובין אם למלחמה.",
+    "נערי שרי המדינות יצאו מן העיר, ואחריהם שבעת אלפים אנשי החיל.",
+    "אנשי ישראל הכו את הארמים, ואלה נסו; בן־הדד נמלט על סוס עם פרשים, משום שלא היה מוכן למתקפה.",
+    "אחאב יצא עם הצבא והכה את הסוסים והרכב, והנחיל לארם מפלה גדולה לאחר שהמחנה נותר מבולבל בעקבות בריחת המלך.",
+    "הנביא הזהיר את אחאב שהברחת הארמים אינה סוף המערכה, וציווה עליו להתחזק ולהיערך לכך שבן־הדד יעלה עליו שוב בשנה הבאה.",
+    "עבדי מלך ארם הסבירו שהארמים הובסו בהרים מפני שה' הוא אלוהי ההרים, והציעו להילחם בישראל במישור, שבו לדעתם יגברו.",
+    "הם הציעו להחליף את המלכים העצמאיים בפחות, שרים שמלך ארם ימנה ויוכל לשלוט בהם ישירות.",
+    "הם יעצו לארגן צבא חדש, עם מספר דומה של חיילים, סוסים ורכב, ולצאת למלחמה במישור; בן־הדד קיבל את עצתם.",
+    "כעבור שנה בן־הדד מנה את צבאו ועלה לאפק, שבמישור, כדי להילחם בישראל.",
+    "גם בני ישראל נערכו, הצטיידו ויצאו לקראת ארם. ישראל נראו כשני עדרי עזים קטנים, ואילו הארמים מילאו את הארץ.",
+    "איש האלוהים הודיע בשם ה' שהניצחון יינתן לישראל דווקא משום שהארמים אמרו שה' הוא אלוהי ההרים בלבד, כדי שכולם יידעו שהוא ה'.",
+    "שני הצבאות חנו זה מול זה שבעה ימים, וביום השביעי פרצה המלחמה; ישראל הרגו מאה אלף חיילים רגלים מארם ביום אחד.",
+    "הארמים הנותרים נסו לאפק, והחומה נפלה על 27,000 מהם. בן־הדד נמלט והתחבא בעיר, חדר בתוך חדר.",
+    "עבדי בן־הדד הציעו ללבוש שק ולשים חבלים על ראשיהם, כאות כניעה, בתקווה שאחאב ירחם על מלכם, שכן למלכי ישראל יצא שם של מלכי חסד.",
+    "השליחים ביקשו בשם בן־הדד שאחאב יחוס על נפשו. אחאב, ששמח בניצחונו, שאל אם בן־הדד עדיין חי וכינה אותו אח.",
+    "אנשי בן־הדד ראו בדברי אחאב סימן טוב, הזדרזו לברר את כוונתו והביאו את בן־הדד אליו. אחאב נהג בו בכבוד והעלה אותו למרכבתו.",
+    "בן־הדד הציע להחזיר את הערים שאביו לקח ולתת לאחאב זכויות מסחר בדמשק כפי שהיו לארמים בשומרון. אחאב כרת עמו ברית ושחרר אותו.",
+    "אחד מבני הנביאים ביקש מרעהו להכותו בדבר ה', אך האיש סירב מפני שהכיר אותו.",
+    "בן הנביאים אמר שהאיש ייענש על שלא שמע בקול ה', ואכן לאחר שהלך ממנו מצאוֹ אריה והכה אותו.",
+    "בן הנביאים מצא אדם אחר שביצע את בקשתו והכה אותו מכות קשות ופוצעות.",
+    "הנביא התחפש באפר וכיסה את עיניו, כדי שאחאב לא יזהה אותו, ועמד בדרך המלך.",
+    "הנביא סיפר לאחאב שבמלחמה הופקד בידו שבוי, אך כאשר עסק בענייניו השבוי נעלם; לכן נדרש ממנו לשלם בחייו או בכיכר כסף.",
+    "אחאב פסק שהאיש עצמו קבע את דינו, משום שהודה שלא שמר על השבוי כראוי.",
+    "הנביא הסיר את האפר מעל עיניו, ואז הכיר בו אחאב כאחד הנביאים, אולי מפני שכבר ראהו קודם.",
+    "הנביא הודיע בשם ה' שאחאב שחרר אדם שנמסר לו כחרם, כלומר את מלך ארם שהיה ראוי למיתה; לכן חיי אחאב וחיי עמו יהיו תחת חיי בן־הדד ועמו.",
+    "אחאב חזר לשומרון מוטרד וכועס. הוא נפגע מן התוכחה, שהזכירה לו שהניצחון ניתן לו בידי ה', בעוד שהוא נהג בבן־הדד כאילו היה ידיד."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "מצור בן־הדד ודרישות הכניעה",
+      "title_en": "Ben-hadad’s Siege and Demands for Surrender",
+      "start_verse": 1,
+      "end_verse": 12,
+      "summary": "בן־הדד מקיף את שומרון, דורש את רכושו ומשפחתו של אחאב, ומאיים לבזוז את העיר. אחאב מתייעץ עם זקני הארץ, דוחה את הדרישה החריפה יותר, ובן־הדד מתפאר בכוחו.",
+      "summary_en": "Ben-hadad surrounds Samaria, demands Ahab’s property and family, and threatens to plunder the city. Ahab consults the elders, rejects the harsher demand, and Ben-hadad boasts of his overwhelming power.",
+      "image_prompt": "Ancient fortified Samaria under siege, an imposing Aramean army outside the walls, messengers speaking with King Ahab, elders gathered in a tense royal chamber, realistic biblical historical illustration, no text"
+    },
+    {
+      "title": "ניצחון ישראל במערכה הראשונה",
+      "title_en": "Israel’s First Victory",
+      "start_verse": 13,
+      "end_verse": 22,
+      "summary": "נביא מבשר לאחאב שה' ימסור את הצבא הארמי בידו. נערי שרי המדינות ושבעת אלפים לוחמים יוצאים משומרון, מביסים את הארמים ומבריחים את בן־הדד, אך הנביא מזהיר מפני מערכה נוספת.",
+      "summary_en": "A prophet tells Ahab that the Lord will deliver the Aramean army into his hands. The young men of the district governors and seven thousand soldiers leave Samaria, defeat the Arameans, and drive Ben-hadad away, but the prophet warns of another campaign.",
+      "image_prompt": "A small Israelite force breaking out of a besieged hilltop city at midday while a larger Aramean camp is caught off guard, soldiers fleeing and chariots in confusion, cinematic biblical illustration, no text"
+    },
+    {
+      "title": "היערכות ארם והקרב באפק",
+      "title_en": "Aram’s Reorganization and the Battle at Aphek",
+      "start_verse": 23,
+      "end_verse": 30,
+      "summary": "עבדי בן־הדד מסבירים את התבוסה בהבדל בין הרים למישור ומציעים לארגן מחדש את הצבא. במערכה באפק ישראל, אף שהוא קטן במספרו, מכה בארם מכה קשה, והחומה נופלת על רבים מן הנמלטים.",
+      "summary_en": "Ben-hadad’s servants explain the defeat through the distinction between mountains and plain and propose reorganizing the army. In the battle at Aphek, Israel, though far smaller, strikes Aram severely, and the wall collapses on many of the fleeing soldiers.",
+      "image_prompt": "A vast Aramean army filling a broad plain opposite two small Israelite formations, the battle raging near the city of Aphek, a collapsing city wall, dramatic biblical landscape, realistic style, no text"
+    },
+    {
+      "title": "אחאב חומל על בן־הדד",
+      "title_en": "Ahab Spares Ben-hadad",
+      "start_verse": 31,
+      "end_verse": 34,
+      "summary": "בן־הדד מתחבא, ועבדיו מבקשים להצילו באמצעות סימני כניעה. אחאב מכנה אותו אח, מקבל את הצעתו להחזיר ערים ולהעניק זכויות מסחר, כורת עמו ברית ומשחרר אותו.",
+      "summary_en": "Ben-hadad hides, and his servants seek to save him through signs of submission. Ahab calls him brother, accepts his offer to return cities and grant trading rights, makes a covenant with him, and releases him.",
+      "image_prompt": "A defeated Aramean king in sackcloth and ropes approaching Ahab, who welcomes him onto a royal chariot after the battle, soldiers and ruined city in the background, dignified biblical illustration, no text"
+    },
+    {
+      "title": "משל הנביא ותוכחת אחאב",
+      "title_en": "The Prophet’s Parable and Rebuke of Ahab",
+      "start_verse": 35,
+      "end_verse": 43,
+      "summary": "נביא מתחפש לפצוע ומספר לאחאב משל על אדם שלא שמר על שבוי. לאחר שאחאב פוסק את דינו, הנביא מגלה את זהותו ומוכיח אותו על ששחרר את בן־הדד, ולכן אחאב חוזר לשומרון סר וזעף.",
+      "summary_en": "A prophet disguises himself as a wounded man and tells Ahab a parable about someone who failed to guard a prisoner. After Ahab pronounces the man’s judgment, the prophet reveals himself and rebukes Ahab for releasing Ben-hadad, so Ahab returns to Samaria troubled and angry.",
+      "image_prompt": "A disguised prophet removing ashes from his eyes before King Ahab on a road, revealing the rebuke, with the victorious king suddenly troubled, solemn biblical scene, realistic historical illustration, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 14.64,
+      "usfm": "1KI.20.1"
+    },
+    {
+      "start": 14.64,
+      "end": 21.16,
+      "usfm": "1KI.20.2"
+    },
+    {
+      "start": 21.16,
+      "end": 27.68,
+      "usfm": "1KI.20.3"
+    },
+    {
+      "start": 27.68,
+      "end": 36.4,
+      "usfm": "1KI.20.4"
+    },
+    {
+      "start": 36.4,
+      "end": 47.78,
+      "usfm": "1KI.20.5"
+    },
+    {
+      "start": 47.78,
+      "end": 61.74,
+      "usfm": "1KI.20.6"
+    },
+    {
+      "start": 61.74,
+      "end": 76.4,
+      "usfm": "1KI.20.7"
+    },
+    {
+      "start": 76.4,
+      "end": 82.3,
+      "usfm": "1KI.20.8"
+    },
+    {
+      "start": 82.3,
+      "end": 97.88,
+      "usfm": "1KI.20.9"
+    },
+    {
+      "start": 97.88,
+      "end": 108.18,
+      "usfm": "1KI.20.10"
+    },
+    {
+      "start": 108.18,
+      "end": 117.5,
+      "usfm": "1KI.20.11"
+    },
+    {
+      "start": 117.5,
+      "end": 130.06,
+      "usfm": "1KI.20.12"
+    },
+    {
+      "start": 130.06,
+      "end": 146.54,
+      "usfm": "1KI.20.13"
+    },
+    {
+      "start": 146.54,
+      "end": 159.96,
+      "usfm": "1KI.20.14"
+    },
+    {
+      "start": 159.96,
+      "end": 171.7,
+      "usfm": "1KI.20.15"
+    },
+    {
+      "start": 171.7,
+      "end": 180.04,
+      "usfm": "1KI.20.16"
+    },
+    {
+      "start": 180.04,
+      "end": 189.9,
+      "usfm": "1KI.20.17"
+    },
+    {
+      "start": 189.9,
+      "end": 197.42,
+      "usfm": "1KI.20.18"
+    },
+    {
+      "start": 197.42,
+      "end": 203.44,
+      "usfm": "1KI.20.19"
+    },
+    {
+      "start": 203.44,
+      "end": 213.64,
+      "usfm": "1KI.20.20"
+    },
+    {
+      "start": 213.64,
+      "end": 220.74,
+      "usfm": "1KI.20.21"
+    },
+    {
+      "start": 220.74,
+      "end": 234.06,
+      "usfm": "1KI.20.22"
+    },
+    {
+      "start": 234.06,
+      "end": 247.88,
+      "usfm": "1KI.20.23"
+    },
+    {
+      "start": 247.88,
+      "end": 254.92,
+      "usfm": "1KI.20.24"
+    },
+    {
+      "start": 254.92,
+      "end": 268.4,
+      "usfm": "1KI.20.25"
+    },
+    {
+      "start": 268.4,
+      "end": 276.2,
+      "usfm": "1KI.20.26"
+    },
+    {
+      "start": 276.2,
+      "end": 288.62,
+      "usfm": "1KI.20.27"
+    },
+    {
+      "start": 288.62,
+      "end": 307.72,
+      "usfm": "1KI.20.28"
+    },
+    {
+      "start": 307.72,
+      "end": 320.9,
+      "usfm": "1KI.20.29"
+    },
+    {
+      "start": 320.9,
+      "end": 333.04,
+      "usfm": "1KI.20.30"
+    },
+    {
+      "start": 333.04,
+      "end": 349.82,
+      "usfm": "1KI.20.31"
+    },
+    {
+      "start": 349.82,
+      "end": 364.06,
+      "usfm": "1KI.20.32"
+    },
+    {
+      "start": 364.06,
+      "end": 379.38,
+      "usfm": "1KI.20.33"
+    },
+    {
+      "start": 379.38,
+      "end": 397.0,
+      "usfm": "1KI.20.34"
+    },
+    {
+      "start": 397.0,
+      "end": 406.78,
+      "usfm": "1KI.20.35"
+    },
+    {
+      "start": 406.78,
+      "end": 421.08,
+      "usfm": "1KI.20.36"
+    },
+    {
+      "start": 421.08,
+      "end": 429.56,
+      "usfm": "1KI.20.37"
+    },
+    {
+      "start": 429.56,
+      "end": 436.78,
+      "usfm": "1KI.20.38"
+    },
+    {
+      "start": 436.78,
+      "end": 456.86,
+      "usfm": "1KI.20.39"
+    },
+    {
+      "start": 456.86,
+      "end": 467.04,
+      "usfm": "1KI.20.40"
+    },
+    {
+      "start": 467.04,
+      "end": 474.48,
+      "usfm": "1KI.20.41"
+    },
+    {
+      "start": 474.48,
+      "end": 489.42,
+      "usfm": "1KI.20.42"
+    },
+    {
+      "start": 489.42,
+      "end": 504.96,
+      "usfm": "1KI.20.43"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    14.64,
+    21.16,
+    27.68,
+    36.4,
+    47.78,
+    61.74,
+    76.4,
+    82.3,
+    97.88,
+    108.18,
+    117.5,
+    130.06,
+    146.54,
+    159.96,
+    171.7,
+    180.04,
+    189.9,
+    197.42,
+    203.44,
+    213.64,
+    220.74,
+    234.06,
+    247.88,
+    254.92,
+    268.4,
+    276.2,
+    288.62,
+    307.72,
+    320.9,
+    333.04,
+    349.82,
+    364.06,
+    379.38,
+    397.0,
+    406.78,
+    421.08,
+    429.56,
+    436.78,
+    456.86,
+    467.04,
+    474.48,
+    489.42,
+    504.96
+  ],
+  "times_en_usfm": [
+    "1KI.20.1",
+    "1KI.20.2",
+    "1KI.20.3",
+    "1KI.20.4",
+    "1KI.20.5",
+    "1KI.20.6",
+    "1KI.20.7",
+    "1KI.20.8",
+    "1KI.20.9",
+    "1KI.20.10",
+    "1KI.20.11",
+    "1KI.20.12",
+    "1KI.20.13",
+    "1KI.20.14",
+    "1KI.20.15",
+    "1KI.20.16",
+    "1KI.20.17",
+    "1KI.20.18",
+    "1KI.20.19",
+    "1KI.20.20",
+    "1KI.20.21",
+    "1KI.20.22",
+    "1KI.20.23",
+    "1KI.20.24",
+    "1KI.20.25",
+    "1KI.20.26",
+    "1KI.20.27",
+    "1KI.20.28",
+    "1KI.20.29",
+    "1KI.20.30",
+    "1KI.20.31",
+    "1KI.20.32",
+    "1KI.20.33",
+    "1KI.20.34",
+    "1KI.20.35",
+    "1KI.20.36",
+    "1KI.20.37",
+    "1KI.20.38",
+    "1KI.20.39",
+    "1KI.20.40",
+    "1KI.20.41",
+    "1KI.20.42",
+    "1KI.20.43"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בן־הדד מלך ארם יצא למלחמה נגד שומרון בראש צבא גדול, שכלל שלושים ושניים מלכים בעלי ברית, וכן סוסים ורכב.",
+      "text_he": "הידעת? בן־הדד מלך ארם יצא למלחמה נגד שומרון בראש צבא גדול, שכלל שלושים ושניים מלכים בעלי ברית, וכן סוסים ורכב.",
+      "text_en": "Did you know? Ben-Hadad, king of Aram, went to war against Samaria with a large army that included thirty-two allied kings, as well as horses and chariots."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? לאחר שאחאב נענה לדרישתו הראשונה, בן־הדד החריף את האיום: הוא הודיע שישלח את עבדיו לחפש בבתי שומרון ולקחת כל דבר יקר שימצאו.",
+      "text_he": "הידעת? לאחר שאחאב נענה לדרישתו הראשונה, בן־הדד החריף את האיום: הוא הודיע שישלח את עבדיו לחפש בבתי שומרון ולקחת כל דבר יקר שימצאו.",
+      "text_en": "Did you know? After Ahab agreed to his first demand, Ben-Hadad intensified the threat. He announced that he would send his servants to search the houses of Samaria and take anything valuable they found."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? זקני הארץ וכל העם יעצו לאחאב שלא להיכנע לדרישה המלאה של בן־הדד, ובכך השתתפו בקבלת ההחלטה המדינית והצבאית.",
+      "text_he": "הידעת? זקני הארץ וכל העם יעצו לאחאב שלא להיכנע לדרישה המלאה של בן־הדד, ובכך השתתפו בקבלת ההחלטה המדינית והצבאית.",
+      "text_en": "Did you know? The elders of the land and all the people advised Ahab not to agree to Ben-Hadad’s full demand, thereby taking part in the political and military decision."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? נביא הודיע לאחאב שה׳ ימסור את הצבא הארמי בידו, כדי שאחאב וישראל יֵדעו שהניצחון בא מאת ה׳.",
+      "text_he": "הידעת? נביא הודיע לאחאב שה׳ ימסור את הצבא הארמי בידו, כדי שאחאב וישראל יֵדעו שהניצחון בא מאת ה׳.",
+      "text_en": "Did you know? A prophet told Ahab that the LORD would deliver the Aramean army into his hands, so that Ahab and Israel would know that the victory came from the LORD."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? במערכה הראשונה מנה צבא ישראל 232 נערים של שרי המדינות, ואחריהם 7,000 לוחמים מבני ישראל.",
+      "text_he": "הידעת? במערכה הראשונה מנה צבא ישראל 232 נערים של שרי המדינות, ואחריהם 7,000 לוחמים מבני ישראל.",
+      "text_en": "Did you know? In the first battle, Israel’s army consisted of 232 young men who served the governors of the provinces, followed by 7,000 Israelite soldiers."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? בני ישראל יצאו למערכה בצהריים, בזמן שבן־הדד ושלושים ושניים המלכים שבאו איתו היו שותים לשוכרה בסוכות.",
+      "text_he": "הידעת? בני ישראל יצאו למערכה בצהריים, בזמן שבן־הדד ושלושים ושניים המלכים שבאו איתו היו שותים לשוכרה בסוכות.",
+      "text_en": "Did you know? The Israelites went out to battle at noon, while Ben-Hadad and the thirty-two kings who had come with him were drinking themselves drunk in their tents."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? לאחר הניצחון הראשון הזהיר הנביא את אחאב שבן־הדד יעלה עליו שוב בתשובת השנה, כלומר בשנה שלאחר מכן.",
+      "text_he": "הידעת? לאחר הניצחון הראשון הזהיר הנביא את אחאב שבן־הדד יעלה עליו שוב בתשובת השנה, כלומר בשנה שלאחר מכן.",
+      "text_en": "Did you know? After this first victory, the prophet warned Ahab that Ben-Hadad would attack him again at the turn of the year—that is, the following year."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? עבדי מלך ארם ניסו להסביר את התבוסה בכך שאלוהי ישראל הוא לדעתם ״אֱלֹהֵי הָרִים״, ולכן הציעו להילחם בישראל דווקא במישור.",
+      "text_he": "הידעת? עבדי מלך ארם ניסו להסביר את התבוסה בכך שאלוהי ישראל הוא לדעתם ״אֱלֹהֵי הָרִים״, ולכן הציעו להילחם בישראל דווקא במישור.",
+      "text_en": "Did you know? The servants of the king of Aram tried to explain the defeat by claiming that Israel’s God was a “god of the mountains,” so they suggested fighting Israel on the plain instead."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? התורה מתארת את הפער בין הצבאות בתמונה של בני ישראל הדומים לשני חִשְׂפֵי עזים קטנים, בעוד שארם מילאה את הארץ.",
+      "text_he": "הידעת? התורה מתארת את הפער בין הצבאות בתמונה של בני ישראל הדומים לשני חִשְׂפֵי עזים קטנים, בעוד שארם מילאה את הארץ.",
+      "text_en": "Did you know? The account illustrates the disparity between the armies by comparing the Israelites to two small flocks of goats, while the Arameans filled the land."
+    },
+    {
+      "verse": 30,
+      "text": "הידעת? בקרב באפק היכה ישראל את ארם במאה אלף רגלים ביום אחד, ועוד עשרים ושבעה אלף מן הנמלטים נהרגו כשחומת העיר נפלה עליהם.",
+      "text_he": "הידעת? בקרב באפק היכה ישראל את ארם במאה אלף רגלים ביום אחד, ועוד עשרים ושבעה אלף מן הנמלטים נהרגו כשחומת העיר נפלה עליהם.",
+      "text_en": "Did you know? At the battle of Aphek, Israel killed 100,000 Aramean foot soldiers in one day, and another 27,000 fugitives were killed when the city wall collapsed on them."
+    },
+    {
+      "verse": 34,
+      "text": "הידעת? לאחר שבן־הדד נכנע, אחאב כרת איתו ברית ושחרר אותו, לאחר שבן־הדד הבטיח להשיב ערים ולהעניק לאחאב זכויות מסחר בדמשק.",
+      "text_he": "הידעת? לאחר שבן־הדד נכנע, אחאב כרת איתו ברית ושחרר אותו, לאחר שבן־הדד הבטיח להשיב ערים ולהעניק לאחאב זכויות מסחר בדמשק.",
+      "text_en": "Did you know? After Ben-Hadad surrendered, Ahab made a treaty with him and released him, after Ben-Hadad promised to restore cities and grant Ahab trading rights in Damascus."
+    },
+    {
+      "verse": 42,
+      "text": "הידעת? הנביא הוכיח את אחאב באמצעות משל על אדם שלא שמר על שבוי, וקבע שאחאב ייענש משום ששחרר את בן־הדד, שאותו הגדיר הנביא כ״איש חרמי״.",
+      "text_he": "הידעת? הנביא הוכיח את אחאב באמצעות משל על אדם שלא שמר על שבוי, וקבע שאחאב ייענש משום ששחרר את בן־הדד, שאותו הגדיר הנביא כ״איש חרמי״.",
+      "text_en": "Did you know? The prophet rebuked Ahab with a story about a man who failed to guard a prisoner, and declared that Ahab would be punished for releasing Ben-Hadad, whom the prophet called “the man I had devoted to destruction.”"
+    }
+  ]
+}
