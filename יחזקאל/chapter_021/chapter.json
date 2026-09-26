@@ -1,0 +1,573 @@
+{
+  "book": "Ezekiel",
+  "book_he": "יחזקאל",
+  "book_chapters": 48,
+  "chapter": 21,
+  "title": "יחזקאל פרק 21",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1221.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1221.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EZK/21-347e4fb9d8a8fe1a37aa9acd98a4668f.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי דְבַר-יְהוָה, אֵלַי לֵאמֹר.",
+    "בֶּן-אָדָם, שִׂים פָּנֶיךָ דֶּרֶךְ תֵּימָנָה, וְהַטֵּף, אֶל-דָּרוֹם; וְהִנָּבֵא אֶל-יַעַר הַשָּׂדֶה, נֶגֶב.",
+    "וְאָמַרְתָּ לְיַעַר הַנֶּגֶב, שְׁמַע דְּבַר-יְהוָה: כֹּה-אָמַר אֲדֹנָי יְהוִה הִנְנִי מַצִּית-בְּךָ אֵשׁ וְאָכְלָה בְךָ כָל-עֵץ-לַח וְכָל-עֵץ יָבֵשׁ לֹא-תִכְבֶּה, לַהֶבֶת שַׁלְהֶבֶת, וְנִצְרְבוּ-בָהּ כָּל-פָּנִים, מִנֶּגֶב צָפוֹנָה.",
+    "וְרָאוּ, כָּל-בָּשָׂר, כִּי אֲנִי יְהוָה, בִּעַרְתִּיהָ: לֹא, תִּכְבֶּה.",
+    "וָאֹמַר, אֲהָהּ אֲדֹנָי יְהוִה; הֵמָּה אֹמְרִים לִי, הֲלֹא מְמַשֵּׁל מְשָׁלִים הוּא.",
+    "בֶּן-אָדָם, שִׂים פָּנֶיךָ אֶל-יְרוּשָׁלִַם, וְהַטֵּף, אֶל-מִקְדָּשִׁים; וְהִנָּבֵא, אֶל-אַדְמַת יִשְׂרָאֵל.",
+    "וְאָמַרְתָּ לְאַדְמַת יִשְׂרָאֵל, כֹּה אָמַר יְהוָה, הִנְנִי אֵלַיִךְ, וְהוֹצֵאתִי חַרְבִּי מִתַּעְרָהּ; וְהִכְרַתִּי מִמֵּךְ, צַדִּיק וְרָשָׁע.",
+    "יַעַן אֲשֶׁר-הִכְרַתִּי מִמֵּךְ, צַדִּיק וְרָשָׁע; לָכֵן תֵּצֵא חַרְבִּי מִתַּעְרָהּ, אֶל-כָּל-בָּשָׂר--מִנֶּגֶב צָפוֹן.",
+    "וְיָדְעוּ, כָּל-בָּשָׂר, כִּי אֲנִי יְהוָה, הוֹצֵאתִי חַרְבִּי מִתַּעְרָהּ: לֹא תָשׁוּב, עוֹד.",
+    "וְאַתָּה בֶן-אָדָם, הֵאָנַח; בְּשִׁבְרוֹן מָתְנַיִם וּבִמְרִירוּת, תֵּאָנַח לְעֵינֵיהֶם.",
+    "וְהָיָה כִּי-יֹאמְרוּ אֵלֶיךָ, עַל-מָה אַתָּה נֶאֱנָח; וְאָמַרְתָּ אֶל-שְׁמוּעָה כִי-בָאָה וְנָמֵס כָּל-לֵב וְרָפוּ כָל-יָדַיִם וְכִהֲתָה כָל-רוּחַ, וְכָל-בִּרְכַּיִם תֵּלַכְנָה מַּיִם--הִנֵּה בָאָה וְנִהְיָתָה, נְאֻם אֲדֹנָי יְהוִה.",
+    "בֶּן-אָדָם--הִנָּבֵא וְאָמַרְתָּ, כֹּה אָמַר אֲדֹנָי: אֱמֹר, חֶרֶב חֶרֶב הוּחַדָּה וְגַם-מְרוּטָה.",
+    "לְמַעַן טְבֹחַ טֶבַח הוּחַדָּה, לְמַעַן-הֱיֵה-לָהּ בָּרָק מֹרָטָּה; אוֹ נָשִׂישׂ, שֵׁבֶט בְּנִי מֹאֶסֶת כָּל-עֵץ.",
+    "וַיִּתֵּן אֹתָהּ לְמָרְטָה, לִתְפֹּשׂ בַּכָּף; הִיא-הוּחַדָּה חֶרֶב וְהִיא מֹרָטָּה, לָתֵת אוֹתָהּ בְּיַד-הוֹרֵג.",
+    "זְעַק וְהֵילֵל, בֶּן-אָדָם--כִּי-הִיא הָיְתָה בְעַמִּי, הִיא בְּכָל-נְשִׂיאֵי יִשְׂרָאֵל; מְגוּרֵי אֶל-חֶרֶב הָיוּ אֶת-עַמִּי, לָכֵן סְפֹק אֶל-יָרֵךְ.",
+    "כִּי בֹחַן--וּמָה, אִם-גַּם-שֵׁבֶט מֹאֶסֶת לֹא יִהְיֶה: נְאֻם, אֲדֹנָי יְהוִה.",
+    "וְאַתָּה בֶן-אָדָם--הִנָּבֵא, וְהַךְ כַּף אֶל-כָּף; וְתִכָּפֵל חֶרֶב שְׁלִישִׁתָה, חֶרֶב חֲלָלִים--הִיא חֶרֶב חָלָל הַגָּדוֹל, הַחֹדֶרֶת לָהֶם.",
+    "לְמַעַן לָמוּג לֵב, וְהַרְבֵּה הַמִּכְשֹׁלִים--עַל כָּל-שַׁעֲרֵיהֶם, נָתַתִּי אִבְחַת-חָרֶב; אָח עֲשׂוּיָה לְבָרָק, מְעֻטָּה לְטָבַח.",
+    "הִתְאַחֲדִי הֵימִנִי, הָשִׂימִי הַשְׂמִילִי; אָנָה, פָּנַיִךְ מֻעָדוֹת.",
+    "וְגַם-אֲנִי, אַכֶּה כַפִּי אֶל-כַּפִּי, וַהֲנִיחֹתִי, חֲמָתִי: אֲנִי יְהוָה, דִּבַּרְתִּי.",
+    "וְאַתָּה בֶן-אָדָם שִׂים-לְךָ שְׁנַיִם דְּרָכִים, לָבוֹא חֶרֶב מֶלֶךְ-בָּבֶל--מֵאֶרֶץ אֶחָד, יֵצְאוּ שְׁנֵיהֶם; וְיָד בָּרֵא, בְּרֹאשׁ דֶּרֶךְ-עִיר בָּרֵא.",
+    "דֶּרֶךְ תָּשִׂים--לָבוֹא חֶרֶב, אֵת רַבַּת בְּנֵי-עַמּוֹן; וְאֶת-יְהוּדָה בִירוּשָׁלִַם, בְּצוּרָה.",
+    "כִּי-עָמַד מֶלֶךְ-בָּבֶל אֶל-אֵם הַדֶּרֶךְ, בְּרֹאשׁ שְׁנֵי הַדְּרָכִים--לִקְסָם-קָסֶם: קִלְקַל בַּחִצִּים שָׁאַל בַּתְּרָפִים, רָאָה בַּכָּבֵד.",
+    "בִּימִינוֹ הָיָה הַקֶּסֶם יְרוּשָׁלִַם, לָשׂוּם כָּרִים לִפְתֹּחַ פֶּה בְּרֶצַח, לְהָרִים קוֹל, בִּתְרוּעָה--לָשׂוּם כָּרִים עַל-שְׁעָרִים, לִשְׁפֹּךְ סֹלְלָה לִבְנוֹת דָּיֵק.",
+    "וְהָיָה לָהֶם כקסום- כִּקְסָם- שָׁוְא בְּעֵינֵיהֶם, שְׁבֻעֵי שְׁבֻעוֹת לָהֶם; וְהוּא-מַזְכִּיר עָוֺן, לְהִתָּפֵשׂ.",
+    "לָכֵן, כֹּה-אָמַר אֲדֹנָי יְהוִה, יַעַן הַזְכַּרְכֶם עֲוֺנְכֶם, בְּהִגָּלוֹת פִּשְׁעֵיכֶם לְהֵרָאוֹת חַטֹּאותֵיכֶם בְּכֹל עֲלִילוֹתֵיכֶם--יַעַן, הִזָּכֶרְכֶם, בַּכַּף, תִּתָּפֵשׂוּ.",
+    "וְאַתָּה חָלָל רָשָׁע, נְשִׂיא יִשְׂרָאֵל, אֲשֶׁר-בָּא יוֹמוֹ, בְּעֵת עֲוֺן קֵץ.",
+    "כֹּה אָמַר, אֲדֹנָי יְהוִה, הָסִיר הַמִּצְנֶפֶת, וְהָרִים הָעֲטָרָה; זֹאת לֹא-זֹאת--הַשָּׁפָלָה הַגְבֵּהַּ, וְהַגָּבֹהַּ הַשְׁפִּיל.",
+    "עַוָּה עַוָּה, עַוָּה אֲשִׂימֶנָּה; גַּם-זֹאת לֹא הָיָה, עַד-בֹּא אֲשֶׁר-לוֹ הַמִּשְׁפָּט וּנְתַתִּיו.",
+    "וְאַתָּה בֶן-אָדָם, הִנָּבֵא וְאָמַרְתָּ כֹּה אָמַר אֲדֹנָי יְהוִה, אֶל-בְּנֵי עַמּוֹן, וְאֶל-חֶרְפָּתָם; וְאָמַרְתָּ, חֶרֶב חֶרֶב פְּתוּחָה לְטֶבַח מְרוּטָה, לְהָכִיל, לְמַעַן בָּרָק.",
+    "בַּחֲזוֹת לָךְ שָׁוְא, בִּקְסָם-לָךְ כָּזָב--לָתֵת אוֹתָךְ, אֶל-צַוְּארֵי חַלְלֵי רְשָׁעִים, אֲשֶׁר-בָּא יוֹמָם, בְּעֵת עֲוֺן קֵץ.",
+    "הָשַׁב, אֶל-תַּעְרָהּ, בִּמְקוֹם אֲשֶׁר-נִבְרֵאת בְּאֶרֶץ מְכֻרוֹתַיִךְ, אֶשְׁפֹּט אֹתָךְ.",
+    "וְשָׁפַכְתִּי עָלַיִךְ זַעְמִי, בְּאֵשׁ עֶבְרָתִי אָפִיחַ עָלָיִךְ; וּנְתַתִּיךְ, בְּיַד אֲנָשִׁים בֹּעֲרִים, חָרָשֵׁי, מַשְׁחִית.",
+    "לָאֵשׁ תִּהְיֶה לְאָכְלָה, דָּמֵךְ יִהְיֶה בְּתוֹךְ הָאָרֶץ; לֹא תִזָּכֵרִי, כִּי אֲנִי יְהוָה דִּבַּרְתִּי."
+  ],
+  "english": [
+    "And the word of the Lord came unto me, saying,",
+    "Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,",
+    "And say to the land of Israel, Thus saith the Lord; Behold, I am against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.",
+    "Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:",
+    "That all flesh may know that I the Lord have drawn forth my sword out of his sheath: it shall not return any more.",
+    "Sigh therefore, thou son of man, with the breaking of thy loins; and with bitterness sigh before their eyes.",
+    "And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord God.",
+    "Again the word of the Lord came unto me, saying,",
+    "Son of man, prophesy, and say, Thus saith the Lord; Say, A sword, a sword is sharpened, and also furbished:",
+    "It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, as every tree.",
+    "And he hath given it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer.",
+    "Cry and howl, son of man: for it shall be upon my people, it shall be upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon thy thigh.",
+    "Because it is a trial, and what if the sword contemn even the rod? it shall be no more, saith the Lord God.",
+    "Thou therefore, son of man, prophesy, and smite thine hands together. and let the sword be doubled the third time, the sword of the slain: it is the sword of the great men that are slain, which entereth into their privy chambers.",
+    "I have set the point of the sword against all their gates, that their heart may faint, and their ruins be multiplied: ah! it is made bright, it is wrapped up for the slaughter.",
+    "Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set.",
+    "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.",
+    "The word of the Lord came unto me again, saying,",
+    "Also, thou son of man, appoint thee two ways, that the sword of the king of Babylon may come: both twain shall come forth out of one land: and choose thou a place, choose it at the head of the way to the city.",
+    "Appoint a way, that the sword may come to Rabbath of the Ammonites, and to Judah in Jerusalem the defenced.",
+    "For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver.",
+    "At his right hand was the divination for Jerusalem, to appoint captains, to open the mouth in the slaughter, to lift up the voice with shouting, to appoint battering rams against the gates, to cast a mount, and to build a fort.",
+    "And it shall be unto them as a false divination in their sight, to them that have sworn oaths: but he will call to remembrance the iniquity, that they may be taken.",
+    "Therefore thus saith the Lord God; Because ye have made your iniquity to be remembered, in that your transgressions are discovered, so that in all your doings your sins do appear; because, I say, that ye are come to remembrance, ye shall be taken with the hand.",
+    "And thou, profane wicked prince of Israel, whose day is come, when iniquity shall have an end,",
+    "Thus saith the Lord God; Remove the diadem, and take off the crown: this shall not be the same: exalt him that is low, and abase him that is high.",
+    "I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him.",
+    "And thou, son of man, prophesy and say, Thus saith the Lord God concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword is drawn: for the slaughter it is furbished, to consume because of the glittering:",
+    "Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of them that are slain, of the wicked, whose day is come, when their iniquity shall have an end.",
+    "Shall I cause it to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.",
+    "And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, and skilful to destroy.",
+    "Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the Lord have spoken it."
+  ],
+  "steinsaltz": [
+    "וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר:",
+    "בֶּן־אָדָם, שִׂים פָּנֶיךָ דֶּרֶךְ תֵּימָנָה, פנה לדרום וְהַטֵּף, ושא את דבריך אֶל־דָּרוֹם, וְהִנָּבֵא אֶל־יַעַר הַשָּׂדֶה שבנֶגֶב. כנראה, יערות הבר שבארץ יהודה. בכלל, בעבר היו יערות עבותים באזורים נרחבים בארץ והושמדו, אולי אף בנגב.",
+    "וְאָמַרְתָּ לְיַעַר הַנֶּגֶב: שְׁמַע דְּבַר־ה'. כֹּה־אָמַר ה' אֱלוֹהִים: הִנְנִי מַצִּית־בְּךָ אֵשׁ, וְאָכְלָה בְךָ כָל־עֵץ־לַח וְכָל־עֵץ יָבֵשׁ, האש תשרוף את כולך, גם את העצים הלחים ששרפתם ממושכת יותר. לֹא־תִכְבֶּה לַהֶבֶת שַׁלְהֶבֶת, וְנִצְרְבוּ, נכוו בָהּ כָּל־פָּנִים, האש תתפשט עד שתצרוב את פני הכול מִן הנֶּגֶב צָפוֹנָה, עד גבול הצפון.",
+    "וְרָאוּ כָּל־בָּשָׂר, הכול ידעו כִּי אֲנִי ה' בִּעַרְתִּיהָ, לֹא תִּכְבֶּה.",
+    "וָאֹמַר: אֲהָהּ, ה' אֱלוֹהִים, הֵמָּה – השומעים אותי מדבר אל היער ומנבא את שרפתו, אֹמְרִים לִי, עלי: \"הֲלֹא מְמַשֵּׁל מְשָׁלִים הוּא\". למרות שכוונת דברי יכולה להיות ברורה להם, שהרי הם גדלו בארץ, הם אינם מקשיבים ברצינות לתוכן דברי, אלא מתייחסים אליהם כדרשה מליצית נאה בלבד.",
+    "וַיְהִי דְבַר־ה' אֵלַי שנית לֵאמֹר, הפעם בפנייה מפורשת יותר:",
+    "בֶּן־אָדָם, שִׂים פָּנֶיךָ אֶל־יְרוּשָׁלִַם, וְהַטֵּף אֶל־מִקְדָּשִׁים, האולם, ההיכל, הדביר וכלי קודש שבמקדש, וְהִנָּבֵא אֶל־אַדְמַת יִשְׂרָאֵל.",
+    "וְאָמַרְתָּ לְאַדְמַת יִשְׂרָאֵל: כֹּה אָמַר ה': הִנְנִי פונה אֵלַיִךְ, וְהוֹצֵאתִי חַרְבִּי מִתַּעְרָהּ, מנדנה, וְהִכְרַתִּי מִמֵּךְ צַדִּיק וְרָשָׁע. ההרג יקיף צדיקים ורשעים גם יחד.",
+    "יַעַן אֲשֶׁר־הִכְרַתִּי מִמֵּךְ צַדִּיק וְרָשָׁע, לָכֵן תֵּצֵא חַרְבִּי האוכלת-כול מִתַּעְרָהּ ולא תשוב אליו במהרה אלא תוסיף ותפנה אֶל־כָּל־בָּשָׂר מִנֶּגֶב ועד צָפוֹן.",
+    "כשתתממש הנבואה – וְיָדְעוּ כָּל־בָּשָׂר כִּי אֲנִי ה' הוֹצֵאתִי חַרְבִּי מִתַּעְרָהּ, לֹא תָשׁוּב עוֹד.",
+    "וְאַתָּה, בֶן־אָדָם, הֵאָנַח בְּשִׁבְרוֹן מָתְנַיִם, אנחה עמוקה המורגשת עד תחתית בית החזה ואף למטה ממנה, וּבִמְרִירוּת תֵּאָנַח לְעֵינֵיהֶם כדי להביע את המועקה הכבדה.",
+    "וְהָיָה כִּי־יֹאמְרוּ אֵלֶיךָ: עַל־מָה אַתָּה נֶאְנָח ככה, בפומבי? וְאָמַרְתָּ: אֶל, בשל שְׁמוּעָה כִי־בָאָה, תבוא בקרוב, וְנָמֵס כָּל־לֵב, וְרָפוּ כָל־יָדַיִם, וְכִהֲתָה, תיעכר כָל־רוּחַ, וְכָל־בִּרְכַּיִם תֵּלַכְנָה מַּיִם. כשאנשים נמלאים פחד גדול, הם אינם שולטים בעצמם ומי רגליהם שותתים על ברכיהם. בקרוב תגיע שמועה מירושלים שתבעית ותדכא את כל שומעיה. הִנֵּה בָאָה וְנִהְיָתָה, השמועה עומדת להתממש בקרוב. נְאֻם ה' אֱלוֹהִים. תוכנה של השמועה הוא חורבן בית המקדש. המקדש היה תקוותו הגדולה של העם, שכן היה ברור לעם שהמקדש יעמוד על תלו לעד, וכשנהרס – התפוגגו כל התקוות.",
+    "וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר:",
+    "בֶּן־אָדָם, הִנָּבֵא וְאָמַרְתָּ: כֹּה אָמַר ה': אֱמֹר חֶרֶב חֶרֶב, חרבו של מלך בבל הוּחַדָּה, חודדה, הושחזה וְגַם־מְרוּטָה, מלוטשת.",
+    "לְמַעַן טְבֹחַ טֶבַח, לשם הרג הוּחַדָּה, לְמַעַן־הֱיֵה־לָהּ בָּרָק מֹרָטָּה, כחרב נוצצת שאין בה כל פגם. ובשאלה רטורית – אוֹ נָשִׂישׂ? האם החרב הוברקה לכבוד אירוע משמח? והתשובה: אין כל סיבה לשמוח. החרב נועדה להיות שֵׁבֶט, מקל ההכאה של בְּנִי, חרב המֹאֶסֶת כָּל־עֵץ. היא לא נועדה לכריתת עצים.",
+    "וַיִּתֵּן אֹתָהּ לְמָרְטָה, לִתְפֹּשׂ בַּכָּף הִיא־הוּחַדָּה, החֶרֶב, וְהִיא מֹרָטָּה כדי שתהיה חלקה וחדה לָתֵת אוֹתָהּ בְּיַד־הוֹרֵג, להקל על ההורג התופס את החרב. ככל שהחרב חלקה ללא פגמים היא יעילה יותר.",
+    "זְעַק וְהֵילֵל, ילל, בֶּן־אָדָם, כִּי־הִיא – החרב הָיְתָה בְעַמִּי, הִיא מכה בְּכָל־נְשִׂיאֵי יִשְׂרָאֵל, מלכי יהודה. מְגוּרֵי, מושלכים, מקובצים או מפוחדים אֶל־חֶרֶב הָיוּ הנשיאים אֶת, עם עַמִּי. לָכֵן סְפֹק, הַכה אֶל־יָרֵךְ, כביטוי אבל.",
+    "כִּי בֹחַן, הדבר שאמרנו בדוק, וּמָה הוא? אִם־גַּם־שֵׁבֶט מֹאֶסֶת לֹא יִהְיֶה, החרב המלוטשת לא תבחל באיש אלא תחתוך הכול. נְאֻם ה' אֱלוֹהִים.",
+    "וְאַתָּה, בֶן־אָדָם, הִנָּבֵא וְהַךְ כַּף אֶל־כָּף כביטוי לאסון שקרה, וְתִכָּפֵל חֶרֶב שְׁלִישִׁתָה, מכת החרב תוכפל ותשולש, חֶרֶב הורגת חֲלָלִים הִיא, חֶרֶב חָלָל הַגָּדוֹל, חללים רבים וגדולים הַחֹדֶרֶת לָהֶם – לגופם של הנדקרים,",
+    "החרב הבוהקת באה לְמַעַן לָמוּג, להמיס, להפחיד לֵב, וְהַרְבֵּה הַמִּכְשֹׁלִים, ולהרבות את הנופלים. עַל כָּל־שַׁעֲרֵיהֶם נָתַתִּי אִבְחַת, תנופה, טבח, או ליטוש חָרֶב, אָח, אוי, עֲשׂוּיָה היא לְבָרָק, מְעֻטָּה, מכוסה, מוצנעת ושמורה לְטָבַח.",
+    "חֶרב, הִתְאַחֲדִי הֵימִינִי, הָשִׂימִי הַשְׂמִילִי, נראה שאלה הן הוראות טכניות איך להחזיק ולהניף חרב, כמצוי בשפות אחרות. אָנָה, חרב, פָּנַיִךְ מֻעָדוֹת. החרב הזו שנאחזת ביד לוחם מקצועי היא כה מהירה שאין לדעת היכן היא, ולאן היא הולכת.",
+    "וְגַם־אֲנִי, כמוך, יחזקאל, אַכֶּה כַפִּי אֶל־כַּפִּי כמקונן על האסון, וַהֲנִחֹתִי חֲמָתִי, וארגיע את כעסי. אֲנִי ה' דִּבַּרְתִּי.",
+    "וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר:",
+    "וְאַתָּה, בֶן־אָדָם, שִׂים, סמן לְךָ בעיני רוחך או באופן מעשי שְׁנַיִם דְּרָכִים לָבוֹא חֶרֶב מֶלֶךְ־בָּבֶל. מֵאֶרֶץ מלך אֶחָד יֵצְאוּ שְׁנֵיהֶם, שתי הדרכים יבואו מהצפון. וְיָד, מקום בָּרֵא, פַּנה באמצעות כריתת הצמחייה. בְּרֹאשׁ דֶּרֶךְ־עִיר, בתחילתה של כל אחת מהדרכים הללו, המובילות לעיר, בָּרֵא, כרוֹת. כיוון שהמלכים הקטנים שסביבות ארץ ישראל חוברים לצדקיהו כדי למרוד בבבל, יֵרד נבוכדראצר דרומה עם צבאו באחת משתי דרכים:",
+    "דֶּרֶךְ תָּשִׂים לָבוֹא חֶרֶב אֵת, אל רַבַּת, עיר הממלכה של בְּנֵי־עַמּוֹן, וְדרך שנייה – אֶת־יְהוּדָה שבִירוּשָׁלִַם בְּצוּרָה, ממלכת יהודה המבוצרת בירושלים. על נבוכדראצר לבחור אם ילך לכבוש בדרך המזרחית שמוליכה לרבת בני עמון שבעבר הירדן המזרחי, או בדרך המובילה מערבה לכיוון ירושלים, כנראה 'דרך הים'. אין אנו יודעים אם אכן התלבט נבוכדראצר למעשה בשאלה זו. על כל פנים עמדו לפניו כמה אסטרטגיות.",
+    "כִּי־עָמַד מֶלֶךְ־בָּבֶל אֶל־אֵם הַדֶּרֶךְ, הדרך הראשית המתפצלת, בְּרֹאשׁ שְׁנֵי הַדְּרָכִים, ולשם הכרעה באיזו דרך לפנות הוא יידרש לִקְסָם־קָסֶם: קִלְקַל, צחצח, ירה או: נענע בַּחִצִּים לסימן, שָׁאַל בַּתְּרָפִים, צלמים ששימשו להגדת עתידות וכסגולה להצלחה. רָאָה בַּכָּבֵד. הכהנים הבבלים היו נוהגים לעתים להוציא את כבד הבהמה המיועדת לקרבן, ולראות בו סימנים שיכריעו בהתלבטויותיהם.",
+    "בִּימִינוֹ הָיָה הַקֶּסֶם, בחץ שנבוכדראצר השתמש בו כגורל הוא יפנה אל יְרוּשָׁלִַם, לָשׂוּם כָּרִים, אילי ברזל שמנגחים בהם את החומה, או: למנות מפקדים לִפְתֹּחַ פֶּה בְּרֶצַח, בצרחה, לְהָרִים קוֹל בִּתְרוּעָה, לָשׂוּם כָּרִים עַל־שְׁעָרִים, לִשְׁפֹּךְ סֹלְלָה, ערמת עפר כדי לעלות על החומה, לִבְנוֹת דָּיֵק, מגדל. נבוכדראצר היה מעדיף לצור על עיר קטנה ונוחה לכיבוש, כמו רבת עמון, יותר מירושלים שלה ביצורים טבעיים. ואכן, המצור על ירושלים נמשך זמן רב. אך כל הסימנים, בחצים, בתרפים ובכבד הראו לו שעליו ללכת לכיוון ירושלים.",
+    "וְהָיָה הקסם לָהֶם – לבני ירושלים כִּקְסָם־שָׁוְא בְּעֵינֵיהֶם. הם לא האמינו שנבוכדראצר יכבוש את עירם כי שְׁבֻעֵי שְׁבֻעוֹת נשבעו לָהֶם נביאי השקר שנבוכדראצר לא יבוא עליהם. להם הם דווקא האמינו. וְהוּא – הביטחון בשבועות נביאיהם היה להם מַזְכִּיר עָוֹן לְהִתָּפֵשׂ, להילכד. הקשבתם לנביאי השקר רק הוסיפה על עוונם והנכיחה אותו. והוא מפרש:",
+    "לָכֵן כֹּה־אָמַר ה' אֱלוֹהִים: יַעַן הַזְכַּרְכֶם, מאחר שנזכר על ידכם עֲוֹנְכֶם, בְּהִגָּלוֹת פִּשְׁעֵיכֶם לְהֵרָאוֹת חַטֹּאותֵיכֶם בְּכֹל עֲלִילוֹתֵיכֶם, יַעַן הִזָּכֶרְכֶם – בַּכַּף תִּתָּפֵשׂוּ. אתם עצמכם מביאים את לכידתכם.",
+    "הנביא פונה אל צדקיהו: וְאַתָּה, חָלָל רָשָׁע. הורשעת בדין, ואתה נחשב כחלל, נְשִׂיא יִשְׂרָאֵל אֲשֶׁר־בָּא יוֹמוֹ האחרון בְּעֵת עֲוֹן קֵץ. העוון הסופי, כשהתמלאה סאתו.",
+    "כֹּה אָמַר ה' אֱלוֹהִים לצדקיהו: הָסִיר, הסר את הַמִּצְנֶפֶת, וְהָרִים, הרם את הָעֲטָרָה. כלומר, אתה מודח מכס מלכותך. זֹאת המצנפת כבר לֹא־זֹאת, איננה מה שהיא. הַשָּׁפָלָה, החלק השפל הַגְבֵּהַּ, וְהַגָּבֹהַּ הַשְׁפִּיל. מצנפת המלך אינה תקינה, הכריכה הגבוהה הוחלפה בנמוכה והנמוכה בגבוהה. כלומר המלכות תוסר.",
+    "עַוָּה עַוָּה עַוָּה, מקולקלת לחלוטין, או: חרבה אֲשִׂימֶנָּה. מלכותו של צדקיהו תאבד, וצרות יבואו עליו, גַּם־זֹאת לֹא הָיָה, לא אירע כזאת עד עכשיו, עַד־בֹּא אֲשֶׁר־לוֹ, עד שיבוא מי שבידו הַמִּשְׁפָּט, וּנְתַתִּיו – את המשפט, או את נבוכדראצר המעניש, על צדקיהו.",
+    "בצד ירושלים מנבא יחזקאל גם על עמון, שהשתתפה במרד צדקיהו. וְאַתָּה, בֶן־אָדָם, הִנָּבֵא וְאָמַרְתָּ: כֹּה אָמַר ה' אֱלוֹהִים אֶל־בְּנֵי עַמּוֹן וְאֶל־חֶרְפָּתָם, אלילם, וְאָמַרְתָּ: אל תחשבו שאם נבוכדראצר פנה לירושלים, אתם ניצלתם. חֶרֶב חֶרֶב פְּתוּחָה, שלופה לְטֶבַח, מְרוּטָה לְהָכִיל, לשאת הרג לְמַעַן בָּרָק,",
+    "בַּחֲזוֹת לָךְ, בזמן שנביאי עמון חוזים לך שָׁוְא, כשהם חוזים שלא תפגעי בהם, בִּקְסָם־לָךְ דברי כָּזָב – לָתֵת אוֹתָךְ, את תינתני אֶל־צַוְּארֵי חַלְלֵי רְשָׁעִים, הרשעים הנידונים ליפול חללים, אֲשֶׁר־בָּא יוֹמָם בְּעֵת עֲוֹן קֵץ."
+  ],
+  "ai_explanation": [
+    "",
+    "יחזקאל מצטווה לפנות דרומה, אל אזור הנגב, ולשאת שם את דבר נבואתו אל יער השדה. כנראה מדובר ביערות הבר שבארץ יהודה; בעבר היו בארץ אזורים מיוערים נרחבים, ואולי אף בנגב.",
+    "האש מסמלת פורענות שתאכל את כל הארץ, עצים לחים ויבשים כאחד. היא תבער ללא הפסק ותתפשט מן הנגב צפונה, עד שתצרוב את פני הכול.",
+    "כולם יכירו בכך שה' הוא שהבעיר את האש, והיא לא תכבה.",
+    "השומעים רואים בדברי יחזקאל משל או דרשה מליצית בלבד, אף שתוכנם ברור להם. בכך הם אינם מקשיבים ברצינות לאזהרת הנביא.",
+    "יחזקאל מצטווה להפנות את נבואתו אל ירושלים, אל המקדש על אולמיו, היכלו, דבירו וכלי הקודש שבו, וכן אל אדמת ישראל.",
+    "ה' פונה אל ארץ ישראל ומוציא את חרבו מנדנה. החרב תכרית מן הארץ צדיקים ורשעים כאחד.",
+    "מאחר שהחרב תכרית צדיק ורשע, היא תצא מנדנה ותופנה אל כל בשר, מן הנגב ועד הצפון.",
+    "כל בני האדם יכירו שה' הוציא את חרבו, ושהיא לא תשוב במהרה אל תערה אלא תמשיך לפעול.",
+    "יחזקאל מצטווה להיאנח אנחה עמוקה ומרה לעיני העם, כדי לבטא את המועקה הכבדה.",
+    "כאשר ישאלו אותו מדוע הוא נאנח, עליו להשיב שהדבר נובע משמועה העומדת להגיע ולהתממש. השמועה תביא פחד גדול: הלב יימס, הידיים ירפו, הרוח תכהה והברכיים ירעדו; תוכנה הוא חורבן המקדש, שהיה מקור תקוותו הגדולה של העם.",
+    "ה' מצווה על יחזקאל להכריז על חרב מלך בבל, שהושחזה ולוטשה.",
+    "החרב הוכנה כדי להרוג ולהיות מבריקה וחדה. אין כאן סיבה לשמחה; היא תשמש כמטה המכה את בני העם, ולא ככלי לכריתת עצים.",
+    "החרב לוטשה כדי שתהיה נוחה לאחיזה ויעילה יותר ביד ההורג. ככל שהיא חלקה ונטולת פגמים, כך היא חדה ויעילה יותר.",
+    "יחזקאל מצטווה לזעוק וליילל, משום שהחרב פגעה בעם ובכל נשיאי ישראל, מלכי יהודה. עליו לספוק על ירכו כביטוי לאבל.",
+    "החרב תגרום ללבבות להתמוגג ולנפילות רבות. היא הוכנה בחדות ובברק לטבח, ואינה מוסתרת אלא מיועדת לפעולה.",
+    "יחזקאל מצטווה להכות כף אל כף כביטוי לאסון, והחרב תכה שוב ושוב ותפיל חללים רבים וחשובים.",
+    "החרב הבוהקת נועדה להפחיד, להמיס את הלב ולהרבות את הנופלים. היא תופעל בכל שערי העיר ותהיה מוכנה לטבח.",
+    "החרב מקבלת הוראות לנוע ימינה ושמאלה. מהירותה של החרב שביד הלוחם המקצועי גדולה כל כך, שאין לדעת לאן תפנה.",
+    "גם ה' יכה כף אל כף כאבל על האסון, ולאחר מכן יניח את חמתו וירגיע את כעסו. בכך הוא מצהיר שהפורענות באה בדברו.",
+    "יחזקאל מצטווה לסמן שתי דרכים שדרכן עשויה לבוא חרבו של מלך בבל. שתי הדרכים יוצאות מארץ אחת, ויש לפנות ולכרות את הצמחייה בראש הדרך המובילה אל העיר.",
+    "אחת הדרכים מובילה אל רבת בני עמון, והאחרת אל יהודה וירושלים המבוצרת. נבוכדראצר נדרש לבחור בין שתי אפשרויות אסטרטגיות, אף שאין ודאות שהתלבט כך למעשה.",
+    "מלך בבל עומד במקום שבו הדרך הראשית מתפצלת ומנסה להכריע באמצעות קסמים. הוא מטלטל או מסדר חצים, שואל בתרפים ובוחן את כבד הבהמה כדי לקבל סימן.",
+    "הגורל שביד ימינו הצביע על ירושלים. בעקבות זאת הוכנו המצור וההתקפה: אילי ברזל, תרועה, הצבת כרים על השערים, סוללה ודייק.",
+    "לתושבי ירושלים נראו הקסמים של מלך בבל כקסם שווא, מפני שהאמינו לשבועות נביאי השקר שהעיר לא תיפגע. ביטחונם בדברי נביאי השקר רק הגדיל את עוונם והביא ללכידתם.",
+    "חטאי העם נחשפו ונזכרו, ולכן הוא ייתפס בעוונו. מעשיהם שלהם הם שמביאים עליהם את הלכידה.",
+    "הנבואה פונה לצדקיהו, שהורשע ונחשב כחלל, משום שהגיע יומו בעת שהעוון הגיע לקצו והתמלאה סאתו.",
+    "צדקיהו מצטווה להסיר את המצנפת ולהרים את העטרה, כלומר לוותר על מלכותו. סדרי המלוכה מתהפכים: השפל יוגבה והגבוה יושפל.",
+    "מלכות צדקיהו תתקלקל ותיחרב, וצרות כאלה לא אירעו עד שיבוא מי שבידו המשפט וימסור את הדין או את המעניש על צדקיהו.",
+    "הנבואה פונה גם אל בני עמון ואל חרפתם, כלומר אל אלילם או אל דברי הגידוף שלהם. הם אינם ניצלים מכיוון שמלך בבל פנה תחילה לירושלים; חרב שלופה ומלוטשת מיועדת גם לטבח בהם.",
+    "נביאי עמון חוזים להם שווא ומבטיחים שלא ייפגעו, אך הם יימסרו לידי חללי הרשעים, שזמנם להיענש הגיע.",
+    "",
+    "",
+    ""
+  ],
+  "ai_explanation_en": [
+    "",
+    "Ezekiel is commanded to turn south, toward the Negev, and proclaim his prophecy to the forest land. This probably refers to the wild forests of Judah; in the past, large parts of the land were heavily forested, perhaps even parts of the Negev.",
+    "The fire symbolizes a punishment that will consume the entire land, both moist and dry trees alike. It will burn without stopping and spread from the Negev northward until it scorches everyone’s face.",
+    "Everyone will recognize that the Lord kindled the fire, and that it will not be extinguished.",
+    "The listeners regard Ezekiel’s words merely as a parable or an elegant speech, even though their meaning is clear. They therefore fail to take the prophet’s warning seriously.",
+    "Ezekiel is commanded to turn his prophecy toward Jerusalem, toward the Temple with its courts, sanctuary, inner chamber, and sacred vessels, and also toward the land of Israel.",
+    "The Lord turns toward the land of Israel and draws His sword from its sheath. The sword will cut off both the righteous and the wicked from the land.",
+    "Because the sword will cut off both the righteous and the wicked, it will leave its sheath and turn against all flesh, from south to north.",
+    "All people will recognize that the Lord drew His sword, and that it will not soon return to its sheath but will continue its work.",
+    "Ezekiel is commanded to sigh deeply and bitterly in public, expressing the heavy distress that is coming.",
+    "When people ask why he is sighing, he must answer that it is because of news that is about to arrive and be fulfilled. The news will cause overwhelming fear: hearts will melt, hands will weaken, spirits will fail, and knees will tremble. Its content is the destruction of the Temple, which had been the people’s greatest source of hope.",
+    "The Lord commands Ezekiel to proclaim the sword of the king of Babylon, which has been sharpened and polished.",
+    "The sword has been prepared to kill and to shine with sharpness. There is no reason to rejoice; it will serve as a rod striking the people, not as a tool for cutting trees.",
+    "The sword was polished so that it would be easy to hold and more effective in the hand of the killer. The smoother and more flawless it is, the more effective it becomes.",
+    "Ezekiel is commanded to cry out and wail because the sword has struck the people and all the princes of Israel, the kings of Judah. He must slap his thigh as an expression of mourning.",
+    "The sword will make hearts melt and cause many to fall. It has been prepared with sharpness and brilliance for slaughter, and it is not hidden but ready for action.",
+    "Ezekiel is commanded to clap his hands as an expression of disaster, while the sword strikes repeatedly and brings down many important victims.",
+    "The shining sword is meant to terrify, melt the heart, and increase the number of fallen. It will be used at all the city gates and will be ready for slaughter.",
+    "The sword receives instructions to move right and left. The sword in the hand of a professional warrior moves so quickly that no one can know where it will turn.",
+    "The Lord too will clap His hands in mourning over the disaster, and then calm His wrath. He declares that the calamity comes by His word.",
+    "Ezekiel is commanded to mark out two roads by which the sword of the king of Babylon may come. Both roads leave one land, and the vegetation at the head of the road leading to the city must be cleared.",
+    "One road leads to Rabbah of the Ammonites, and the other to Judah and fortified Jerusalem. Nebuchadnezzar must choose between two strategic possibilities, although it is uncertain whether he actually faced this dilemma in practice.",
+    "The king of Babylon stands where the main road divides and seeks a decision through divination. He shakes or arranges arrows, consults the teraphim, and examines an animal’s liver for a sign.",
+    "The omen in his right hand pointed to Jerusalem. He then prepared the siege and attack: battering rams, shouting, rams against the gates, an earth ramp, and a siege tower.",
+    "To the people of Jerusalem, the king of Babylon’s divination appeared to be false. They trusted the oaths of false prophets who promised that the city would not be attacked. Their reliance on those prophets only increased their guilt and brought about their capture.",
+    "The people’s sins have been exposed and remembered, so they will be caught in their guilt. Their own actions bring about their capture.",
+    "The prophecy turns to Zedekiah, who has been found guilty and is regarded as a slain man because his day has come, at the time when the people’s guilt has reached its limit.",
+    "Zedekiah is commanded to remove the turban and raise the crown, meaning that he will lose his kingship. The order of power will be reversed: the lowly will be raised and the high will be humbled.",
+    "Zedekiah’s kingdom will be ruined and overturned, and such troubles have not occurred until the one who holds judgment comes and brings judgment—or the punisher—against Zedekiah.",
+    "The prophecy also turns to the Ammonites and their reproach, meaning their idol or their words of abuse. They will not escape merely because the king of Babylon first turned toward Jerusalem; a drawn and polished sword is also intended to slaughter them.",
+    "The prophets of Ammon give false visions and promise that the Ammonites will not be harmed, but they will be delivered into the hands of the slain wicked, whose time of punishment has arrived.",
+    "",
+    "",
+    ""
+  ],
+  "perush": [
+    "",
+    "יחזקאל מצטווה לפנות דרומה, אל אזור הנגב, ולשאת שם את דבר נבואתו אל יער השדה. כנראה מדובר ביערות הבר שבארץ יהודה; בעבר היו בארץ אזורים מיוערים נרחבים, ואולי אף בנגב.",
+    "האש מסמלת פורענות שתאכל את כל הארץ, עצים לחים ויבשים כאחד. היא תבער ללא הפסק ותתפשט מן הנגב צפונה, עד שתצרוב את פני הכול.",
+    "כולם יכירו בכך שה' הוא שהבעיר את האש, והיא לא תכבה.",
+    "השומעים רואים בדברי יחזקאל משל או דרשה מליצית בלבד, אף שתוכנם ברור להם. בכך הם אינם מקשיבים ברצינות לאזהרת הנביא.",
+    "יחזקאל מצטווה להפנות את נבואתו אל ירושלים, אל המקדש על אולמיו, היכלו, דבירו וכלי הקודש שבו, וכן אל אדמת ישראל.",
+    "ה' פונה אל ארץ ישראל ומוציא את חרבו מנדנה. החרב תכרית מן הארץ צדיקים ורשעים כאחד.",
+    "מאחר שהחרב תכרית צדיק ורשע, היא תצא מנדנה ותופנה אל כל בשר, מן הנגב ועד הצפון.",
+    "כל בני האדם יכירו שה' הוציא את חרבו, ושהיא לא תשוב במהרה אל תערה אלא תמשיך לפעול.",
+    "יחזקאל מצטווה להיאנח אנחה עמוקה ומרה לעיני העם, כדי לבטא את המועקה הכבדה.",
+    "כאשר ישאלו אותו מדוע הוא נאנח, עליו להשיב שהדבר נובע משמועה העומדת להגיע ולהתממש. השמועה תביא פחד גדול: הלב יימס, הידיים ירפו, הרוח תכהה והברכיים ירעדו; תוכנה הוא חורבן המקדש, שהיה מקור תקוותו הגדולה של העם.",
+    "ה' מצווה על יחזקאל להכריז על חרב מלך בבל, שהושחזה ולוטשה.",
+    "החרב הוכנה כדי להרוג ולהיות מבריקה וחדה. אין כאן סיבה לשמחה; היא תשמש כמטה המכה את בני העם, ולא ככלי לכריתת עצים.",
+    "החרב לוטשה כדי שתהיה נוחה לאחיזה ויעילה יותר ביד ההורג. ככל שהיא חלקה ונטולת פגמים, כך היא חדה ויעילה יותר.",
+    "יחזקאל מצטווה לזעוק וליילל, משום שהחרב פגעה בעם ובכל נשיאי ישראל, מלכי יהודה. עליו לספוק על ירכו כביטוי לאבל.",
+    "החרב תגרום ללבבות להתמוגג ולנפילות רבות. היא הוכנה בחדות ובברק לטבח, ואינה מוסתרת אלא מיועדת לפעולה.",
+    "יחזקאל מצטווה להכות כף אל כף כביטוי לאסון, והחרב תכה שוב ושוב ותפיל חללים רבים וחשובים.",
+    "החרב הבוהקת נועדה להפחיד, להמיס את הלב ולהרבות את הנופלים. היא תופעל בכל שערי העיר ותהיה מוכנה לטבח.",
+    "החרב מקבלת הוראות לנוע ימינה ושמאלה. מהירותה של החרב שביד הלוחם המקצועי גדולה כל כך, שאין לדעת לאן תפנה.",
+    "גם ה' יכה כף אל כף כאבל על האסון, ולאחר מכן יניח את חמתו וירגיע את כעסו. בכך הוא מצהיר שהפורענות באה בדברו.",
+    "יחזקאל מצטווה לסמן שתי דרכים שדרכן עשויה לבוא חרבו של מלך בבל. שתי הדרכים יוצאות מארץ אחת, ויש לפנות ולכרות את הצמחייה בראש הדרך המובילה אל העיר.",
+    "אחת הדרכים מובילה אל רבת בני עמון, והאחרת אל יהודה וירושלים המבוצרת. נבוכדראצר נדרש לבחור בין שתי אפשרויות אסטרטגיות, אף שאין ודאות שהתלבט כך למעשה.",
+    "מלך בבל עומד במקום שבו הדרך הראשית מתפצלת ומנסה להכריע באמצעות קסמים. הוא מטלטל או מסדר חצים, שואל בתרפים ובוחן את כבד הבהמה כדי לקבל סימן.",
+    "הגורל שביד ימינו הצביע על ירושלים. בעקבות זאת הוכנו המצור וההתקפה: אילי ברזל, תרועה, הצבת כרים על השערים, סוללה ודייק.",
+    "לתושבי ירושלים נראו הקסמים של מלך בבל כקסם שווא, מפני שהאמינו לשבועות נביאי השקר שהעיר לא תיפגע. ביטחונם בדברי נביאי השקר רק הגדיל את עוונם והביא ללכידתם.",
+    "חטאי העם נחשפו ונזכרו, ולכן הוא ייתפס בעוונו. מעשיהם שלהם הם שמביאים עליהם את הלכידה.",
+    "הנבואה פונה לצדקיהו, שהורשע ונחשב כחלל, משום שהגיע יומו בעת שהעוון הגיע לקצו והתמלאה סאתו.",
+    "צדקיהו מצטווה להסיר את המצנפת ולהרים את העטרה, כלומר לוותר על מלכותו. סדרי המלוכה מתהפכים: השפל יוגבה והגבוה יושפל.",
+    "מלכות צדקיהו תתקלקל ותיחרב, וצרות כאלה לא אירעו עד שיבוא מי שבידו המשפט וימסור את הדין או את המעניש על צדקיהו.",
+    "הנבואה פונה גם אל בני עמון ואל חרפתם, כלומר אל אלילם או אל דברי הגידוף שלהם. הם אינם ניצלים מכיוון שמלך בבל פנה תחילה לירושלים; חרב שלופה ומלוטשת מיועדת גם לטבח בהם.",
+    "נביאי עמון חוזים להם שווא ומבטיחים שלא ייפגעו, אך הם יימסרו לידי חללי הרשעים, שזמנם להיענש הגיע.",
+    "",
+    "",
+    ""
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "האש המתפשטת מן הנגב",
+      "title_en": "The Fire Spreading from the Negev",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "יחזקאל נדרש לנבא על אש שתאכל את יער הנגב ותתפשט בכל הארץ. העם מתייחס לדבריו כאל משל בלבד ואינו מקשיב לאזהרתו.",
+      "summary_en": "Ezekiel is commanded to prophesy about a fire that will consume the forest of the Negev and spread throughout the land. The people treat his words as merely a parable and do not heed his warning.",
+      "image_prompt": "A prophetic figure facing a vast burning forest in the southern wilderness, flames spreading northward, distant listeners dismissing the warning, dramatic ancient biblical atmosphere"
+    },
+    {
+      "title": "החרב המופנית אל הארץ",
+      "title_en": "The Sword Turned Against the Land",
+      "start_verse": 6,
+      "end_verse": 11,
+      "summary": "הנבואה נעשית מפורשת: חרב ה' תצא מנדנה ותכרית צדיקים ורשעים. יחזקאל נדרש להיאנח, והעם ישמע על חורבן המקדש ויימלא פחד.",
+      "summary_en": "The prophecy becomes explicit: the Lord’s sword will leave its sheath and cut off both the righteous and the wicked. Ezekiel must sigh, and the people will hear of the Temple’s destruction and be filled with fear.",
+      "image_prompt": "A solemn prophet sighing before a terrified crowd, a symbolic sword emerging from its sheath, the Temple visible in the distance under a darkening sky"
+    },
+    {
+      "title": "חרב מלך בבל",
+      "title_en": "The Sword of the King of Babylon",
+      "start_verse": 12,
+      "end_verse": 20,
+      "summary": "החרב הושחזה ולוטשה כדי לבצע טבח, והיא תפיל חללים רבים ותטיל פחד. יחזקאל וה' מבטאים אבל על האסון באמצעות זעקה והכאת כף.",
+      "summary_en": "The sword has been sharpened and polished for slaughter; it will cause many deaths and inspire terror. Ezekiel and the Lord express mourning over the disaster through cries and clapping of hands.",
+      "image_prompt": "A brilliantly polished ancient sword held above a besieged city, mourning figures crying and clapping their hands, tense prophetic symbolism"
+    },
+    {
+      "title": "בחירת הדרך לירושלים",
+      "title_en": "Choosing the Road to Jerusalem",
+      "start_verse": 21,
+      "end_verse": 29,
+      "summary": "מלך בבל עומד בפרשת דרכים ובוחר באמצעות קסמים את הדרך לירושלים. תושבי העיר בוטחים בנביאי שקר, אך חטאיהם נחשפים והם נתפסים בעוונם.",
+      "summary_en": "The king of Babylon stands at a crossroads and uses divination to choose the road to Jerusalem. The city’s inhabitants trust false prophets, but their sins are exposed and they are caught in their guilt.",
+      "image_prompt": "An ancient Babylonian king at a forked road consulting arrows, figurines, and an animal liver, with Jerusalem marked on one route and a siege forming in the distance"
+    },
+    {
+      "title": "נפילת צדקיהו ופורענות עמון",
+      "title_en": "The Fall of Zedekiah and the Punishment of Ammon",
+      "start_verse": 30,
+      "end_verse": 34,
+      "summary": "צדקיהו מודח ממלכותו והמלוכה מתהפכת עד לבוא המשפט. גם בני עמון, שבטחו בחזונות שווא, יימסרו לחרב ולפורענות.",
+      "summary_en": "Zedekiah is removed from kingship and the order of power is overturned until judgment arrives. The Ammonites, who trusted false visions, will also be handed over to the sword and punishment.",
+      "image_prompt": "A fallen king removing his crown before a looming judgment, while a neighboring fortified city faces a drawn sword and dark prophetic clouds"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 6.04,
+      "usfm": "EZK.21.1"
+    },
+    {
+      "start": 6.04,
+      "end": 14.46,
+      "usfm": "EZK.21.2"
+    },
+    {
+      "start": 14.46,
+      "end": 27.56,
+      "usfm": "EZK.21.3"
+    },
+    {
+      "start": 27.56,
+      "end": 37.78,
+      "usfm": "EZK.21.4"
+    },
+    {
+      "start": 37.78,
+      "end": 45.24,
+      "usfm": "EZK.21.5"
+    },
+    {
+      "start": 45.24,
+      "end": 52.56,
+      "usfm": "EZK.21.6"
+    },
+    {
+      "start": 52.56,
+      "end": 75.54,
+      "usfm": "EZK.21.7"
+    },
+    {
+      "start": 75.54,
+      "end": 78.36,
+      "usfm": "EZK.21.8"
+    },
+    {
+      "start": 78.36,
+      "end": 87.82,
+      "usfm": "EZK.21.9"
+    },
+    {
+      "start": 87.82,
+      "end": 99.68,
+      "usfm": "EZK.21.10"
+    },
+    {
+      "start": 99.68,
+      "end": 108.86,
+      "usfm": "EZK.21.11"
+    },
+    {
+      "start": 108.86,
+      "end": 126.24,
+      "usfm": "EZK.21.12"
+    },
+    {
+      "start": 126.24,
+      "end": 134.28,
+      "usfm": "EZK.21.13"
+    },
+    {
+      "start": 134.28,
+      "end": 149.16,
+      "usfm": "EZK.21.14"
+    },
+    {
+      "start": 149.16,
+      "end": 160.0,
+      "usfm": "EZK.21.15"
+    },
+    {
+      "start": 160.0,
+      "end": 167.12,
+      "usfm": "EZK.21.16"
+    },
+    {
+      "start": 167.12,
+      "end": 174.5,
+      "usfm": "EZK.21.17"
+    },
+    {
+      "start": 174.5,
+      "end": 177.44,
+      "usfm": "EZK.21.18"
+    },
+    {
+      "start": 177.44,
+      "end": 192.78,
+      "usfm": "EZK.21.19"
+    },
+    {
+      "start": 192.78,
+      "end": 200.6,
+      "usfm": "EZK.21.20"
+    },
+    {
+      "start": 200.6,
+      "end": 214.0,
+      "usfm": "EZK.21.21"
+    },
+    {
+      "start": 214.0,
+      "end": 228.68,
+      "usfm": "EZK.21.22"
+    },
+    {
+      "start": 228.68,
+      "end": 239.28,
+      "usfm": "EZK.21.23"
+    },
+    {
+      "start": 239.28,
+      "end": 259.06,
+      "usfm": "EZK.21.24"
+    },
+    {
+      "start": 259.06,
+      "end": 266.8,
+      "usfm": "EZK.21.25"
+    },
+    {
+      "start": 266.8,
+      "end": 278.32,
+      "usfm": "EZK.21.26"
+    },
+    {
+      "start": 278.32,
+      "end": 289.9,
+      "usfm": "EZK.21.27"
+    },
+    {
+      "start": 289.9,
+      "end": 308.1,
+      "usfm": "EZK.21.28"
+    },
+    {
+      "start": 308.1,
+      "end": 320.54,
+      "usfm": "EZK.21.29"
+    },
+    {
+      "start": 320.54,
+      "end": 328.64,
+      "usfm": "EZK.21.30"
+    },
+    {
+      "start": 328.64,
+      "end": 341.86,
+      "usfm": "EZK.21.31"
+    },
+    {
+      "start": 341.86,
+      "end": 361.72,
+      "usfm": "EZK.21.32"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    6.04,
+    14.46,
+    27.56,
+    37.78,
+    45.24,
+    52.56,
+    75.54,
+    78.36,
+    87.82,
+    99.68,
+    108.86,
+    126.24,
+    134.28,
+    149.16,
+    160.0,
+    167.12,
+    174.5,
+    177.44,
+    192.78,
+    200.6,
+    214.0,
+    228.68,
+    239.28,
+    259.06,
+    266.8,
+    278.32,
+    289.9,
+    308.1,
+    320.54,
+    328.64,
+    341.86,
+    361.72
+  ],
+  "times_en_usfm": [
+    "EZK.21.1",
+    "EZK.21.2",
+    "EZK.21.3",
+    "EZK.21.4",
+    "EZK.21.5",
+    "EZK.21.6",
+    "EZK.21.7",
+    "EZK.21.8",
+    "EZK.21.9",
+    "EZK.21.10",
+    "EZK.21.11",
+    "EZK.21.12",
+    "EZK.21.13",
+    "EZK.21.14",
+    "EZK.21.15",
+    "EZK.21.16",
+    "EZK.21.17",
+    "EZK.21.18",
+    "EZK.21.19",
+    "EZK.21.20",
+    "EZK.21.21",
+    "EZK.21.22",
+    "EZK.21.23",
+    "EZK.21.24",
+    "EZK.21.25",
+    "EZK.21.26",
+    "EZK.21.27",
+    "EZK.21.28",
+    "EZK.21.29",
+    "EZK.21.30",
+    "EZK.21.31",
+    "EZK.21.32"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 2,
+      "text": "הידעת? יחזקאל מצֻווה להפנות את פניו אל הנגב, להטיף אליו ולהינבא אל \"יער השדה\" — פנייה נבואית אל ארץ ישראל באמצעות דימוי של יער.",
+      "text_he": "הידעת? יחזקאל מצֻווה להפנות את פניו אל הנגב, להטיף אליו ולהינבא אל \"יער השדה\" — פנייה נבואית אל ארץ ישראל באמצעות דימוי של יער.",
+      "text_en": "Did you know? Ezekiel is commanded to turn his face toward the south, preach against it, and prophesy against the “forest of the field”—a prophetic reference to the land of Israel through the image of a forest."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? האש בנבואה מתוארת כאש שאוכלת גם עץ לח וגם עץ יבש, ואינה כבה; כך מודגש היקף החורבן ועוצמתו.",
+      "text_he": "הידעת? האש בנבואה מתוארת כאש שאוכלת גם עץ לח וגם עץ יבש, ואינה כבה; כך מודגש היקף החורבן ועוצמתו.",
+      "text_en": "Did you know? The fire in the prophecy is described as consuming both green wood and dry wood, and it cannot be extinguished; this emphasizes the extent and intensity of the destruction."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? העם מתייחס לדברי יחזקאל כאל משל בלבד — \"הֲלֹא מְמַשֵּׁל מְשָׁלִים הוּא\" — אף שהנביא מתאר פורענות ממשית העומדת לבוא.",
+      "text_he": "הידעת? העם מתייחס לדברי יחזקאל כאל משל בלבד — \"הֲלֹא מְמַשֵּׁל מְשָׁלִים הוּא\" — אף שהנביא מתאר פורענות ממשית העומדת לבוא.",
+      "text_en": "Did you know? The people regard Ezekiel’s words as nothing more than a parable—“Is he not merely telling parables?”—even though the prophet is describing an actual calamity that is about to come."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? הנבואה נעשית מפורשת: חרב ה' תצא מתערה ותכרית מן הארץ גם צדיק וגם רשע, והחרב תופנה אל כל בשר.",
+      "text_he": "הידעת? הנבואה נעשית מפורשת: חרב ה' תצא מתערה ותכרית מן הארץ גם צדיק וגם רשע, והחרב תופנה אל כל בשר.",
+      "text_en": "Did you know? The prophecy becomes explicit: the LORD’s sword will come out of its sheath and cut off both the righteous and the wicked from the land, and the sword will be directed against everyone."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? יחזקאל נדרש להיאנח לעיני העם, והאנחה משמשת אות לאסון שיגרום ללבבות להימס, לידיים לרפות ולרוח להכהות.",
+      "text_he": "הידעת? יחזקאל נדרש להיאנח לעיני העם, והאנחה משמשת אות לאסון שיגרום ללבבות להימס, לידיים לרפות ולרוח להכהות.",
+      "text_en": "Did you know? Ezekiel is told to sigh before the people, and his sigh serves as a sign of the disaster that will cause hearts to melt, hands to grow weak, and every spirit to faint."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? החרב מתוארת פעמיים כ\"חרב חרב\", והיא מחודדת וממורטת כדי לבצע טבח ולהבריק לקראת פעולתה.",
+      "text_he": "הידעת? החרב מתוארת פעמיים כ\"חרב חרב\", והיא מחודדת וממורטת כדי לבצע טבח ולהבריק לקראת פעולתה.",
+      "text_en": "Did you know? The sword is described twice as the “sword, sword,” and it is sharpened and polished to carry out a slaughter and gleam in preparation for its task."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? יחזקאל מצֻווה לזעוק ולהכות בכף על ירכו, כביטוי לאבל על החרב שתבוא על העם ועל נשיאי ישראל.",
+      "text_he": "הידעת? יחזקאל מצֻווה לזעוק ולהכות בכף על ירכו, כביטוי לאבל על החרב שתבוא על העם ועל נשיאי ישראל.",
+      "text_en": "Did you know? Ezekiel is commanded to cry out and strike his thigh with his hand, expressing mourning over the sword that will come against the people and the princes of Israel."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? מלך בבל עומד בראש שתי דרכים ומשתמש באמצעי קסם כדי להחליט לאן להפנות את צבאו: הוא מטיל חצים, שואל בתרפים ובוחן בכבד.",
+      "text_he": "הידעת? מלך בבל עומד בראש שתי דרכים ומשתמש באמצעי קסם כדי להחליט לאן להפנות את צבאו: הוא מטיל חצים, שואל בתרפים ובוחן בכבד.",
+      "text_en": "Did you know? The king of Babylon stands at the fork of two roads and uses divination to decide where to send his army: he casts arrows, consults the teraphim, and examines the liver."
+    },
+    {
+      "verse": 28,
+      "text": "הידעת? הנבואה מתארת את הסרת המצנפת והרמת הכתר, כסמל להפלת השלטון ולשינוי סדרי המעמדות: השפל יוגבה והגבוה יושפל.",
+      "text_he": "הידעת? הנבואה מתארת את הסרת המצנפת והרמת הכתר, כסמל להפלת השלטון ולשינוי סדרי המעמדות: השפל יוגבה והגבוה יושפל.",
+      "text_en": "Did you know? The prophecy describes the removal of the turban and the taking off of the crown, symbolizing the downfall of the ruling order and a reversal of social status: the lowly will be exalted and the exalted will be humbled."
+    },
+    {
+      "verse": 34,
+      "text": "הידעת? נבואת הפורענות על בני עמון מסתיימת בתיאור של אש, דם והשכחה: \"לֹא תִזָּכֵרִי\", והכול נאמר כסיום להכרזה \"אֲנִי יְהוָה דִּבַּרְתִּי\".",
+      "text_he": "הידעת? נבואת הפורענות על בני עמון מסתיימת בתיאור של אש, דם והשכחה: \"לֹא תִזָּכֵרִי\", והכול נאמר כסיום להכרזה \"אֲנִי יְהוָה דִּבַּרְתִּי\".",
+      "text_en": "Did you know? The prophecy of calamity against the Ammonites ends with images of fire, blood, and oblivion: “You will not be remembered,” and everything is declared as the conclusion to the proclamation, “I, the LORD, have spoken.”"
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "book": "Ezekiel",
+  "book_he": "יחזקאל",
+  "book_chapters": 48,
+  "chapter": 12,
+  "title": "יחזקאל פרק 12",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1212.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1212.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EZK/12-5d106ad34f1d271e0b704065ea6fe880.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי דְבַר-יְהוָה, אֵלַי לֵאמֹר.",
+    "בֶּן-אָדָם, בְּתוֹךְ בֵּית-הַמֶּרִי אַתָּה יֹשֵׁב: אֲשֶׁר עֵינַיִם לָהֶם לִרְאוֹת וְלֹא רָאוּ, אָזְנַיִם לָהֶם לִשְׁמֹעַ וְלֹא שָׁמֵעוּ--כִּי בֵּית מְרִי, הֵם.",
+    "וְאַתָּה בֶן-אָדָם, עֲשֵׂה לְךָ כְּלֵי גוֹלָה, וּגְלֵה יוֹמָם, לְעֵינֵיהֶם; וְגָלִיתָ מִמְּקוֹמְךָ אֶל-מָקוֹם אַחֵר, לְעֵינֵיהֶם--אוּלַי יִרְאוּ, כִּי בֵּית מְרִי הֵמָּה.",
+    "וְהוֹצֵאתָ כֵלֶיךָ כִּכְלֵי גוֹלָה, יוֹמָם--לְעֵינֵיהֶם; וְאַתָּה, תֵּצֵא בָעֶרֶב לְעֵינֵיהֶם, כְּמוֹצָאֵי, גּוֹלָה.",
+    "לְעֵינֵיהֶם, חֲתָר-לְךָ בַקִּיר; וְהוֹצֵאתָ, בּוֹ.",
+    "לְעֵינֵיהֶם עַל-כָּתֵף תִּשָּׂא, בָּעֲלָטָה תוֹצִיא--פָּנֶיךָ תְכַסֶּה, וְלֹא תִרְאֶה אֶת-הָאָרֶץ: כִּי-מוֹפֵת נְתַתִּיךָ, לְבֵית יִשְׂרָאֵל.",
+    "וָאַעַשׂ כֵּן, כַּאֲשֶׁר צֻוֵּיתִי, כֵּלַי הוֹצֵאתִי כִּכְלֵי גוֹלָה יוֹמָם, וּבָעֶרֶב חָתַרְתִּי-לִי בַקִּיר בְּיָד; בָּעֲלָטָה הוֹצֵאתִי עַל-כָּתֵף נָשָׂאתִי, לְעֵינֵיהֶם.",
+    "וַיְהִי דְבַר-יְהוָה אֵלַי, בַּבֹּקֶר לֵאמֹר.",
+    "בֶּן-אָדָם, הֲלֹא אָמְרוּ אֵלֶיךָ בֵּית יִשְׂרָאֵל בֵּית הַמֶּרִי: מָה, אַתָּה עֹשֶׂה.",
+    "אֱמֹר אֲלֵיהֶם, כֹּה אָמַר אֲדֹנָי יְהוִה: הַנָּשִׂיא הַמַּשָּׂא הַזֶּה, בִּירוּשָׁלִַם, וְכָל-בֵּית יִשְׂרָאֵל, אֲשֶׁר-הֵמָּה בְתוֹכָם.",
+    "אֱמֹר, אֲנִי מוֹפֶתְכֶם: כַּאֲשֶׁר עָשִׂיתִי, כֵּן יֵעָשֶׂה לָהֶם--בַּגּוֹלָה בַשְּׁבִי, יֵלֵכוּ.",
+    "וְהַנָּשִׂיא אֲשֶׁר-בְּתוֹכָם אֶל-כָּתֵף יִשָּׂא, בָּעֲלָטָה וְיֵצֵא--בַּקִּיר יַחְתְּרוּ, לְהוֹצִיא בוֹ; פָּנָיו יְכַסֶּה--יַעַן אֲשֶׁר לֹא-יִרְאֶה לַעַיִן הוּא, אֶת-הָאָרֶץ.",
+    "וּפָרַשְׂתִּי אֶת-רִשְׁתִּי עָלָיו, וְנִתְפַּשׂ בִּמְצוּדָתִי; וְהֵבֵאתִי אֹתוֹ בָבֶלָה אֶרֶץ כַּשְׂדִּים, וְאוֹתָהּ לֹא-יִרְאֶה וְשָׁם יָמוּת.",
+    "וְכֹל אֲשֶׁר סְבִיבֹתָיו עֶזְרֹה וְכָל-אֲגַפָּיו, אֱזָרֶה לְכָל-רוּחַ; וְחֶרֶב, אָרִיק אַחֲרֵיהֶם.",
+    "וְיָדְעוּ, כִּי-אֲנִי יְהוָה, בַּהֲפִיצִי אוֹתָם בַּגּוֹיִם, וְזֵרִיתִי אוֹתָם בָּאֲרָצוֹת.",
+    "וְהוֹתַרְתִּי מֵהֶם אַנְשֵׁי מִסְפָּר, מֵחֶרֶב מֵרָעָב וּמִדָּבֶר--לְמַעַן יְסַפְּרוּ אֶת-כָּל-תּוֹעֲבוֹתֵיהֶם, בַּגּוֹיִם אֲשֶׁר-בָּאוּ שָׁם, וְיָדְעוּ, כִּי-אֲנִי יְהוָה.",
+    "בֶּן-אָדָם, לַחְמְךָ בְּרַעַשׁ תֹּאכֵל; וּמֵימֶיךָ, בְּרָגְזָה וּבִדְאָגָה תִּשְׁתֶּה.",
+    "וְאָמַרְתָּ אֶל-עַם הָאָרֶץ כֹּה-אָמַר אֲדֹנָי יְהוִה לְיוֹשְׁבֵי יְרוּשָׁלִַם, אֶל-אַדְמַת יִשְׂרָאֵל, לַחְמָם בִּדְאָגָה יֹאכֵלוּ, וּמֵימֵיהֶם בְּשִׁמָּמוֹן יִשְׁתּוּ--לְמַעַן תֵּשַׁם אַרְצָהּ, מִמְּלֹאָהּ, מֵחֲמַס, כָּל-הַיֹּשְׁבִים בָּהּ.",
+    "וְהֶעָרִים הַנּוֹשָׁבוֹת תֶּחֱרַבְנָה, וְהָאָרֶץ שְׁמָמָה תִהְיֶה; וִידַעְתֶּם, כִּי-אֲנִי יְהוָה.",
+    "בֶּן-אָדָם, מָה-הַמָּשָׁל הַזֶּה לָכֶם, עַל-אַדְמַת יִשְׂרָאֵל, לֵאמֹר: יַאַרְכוּ, הַיָּמִים, וְאָבַד, כָּל-חָזוֹן.",
+    "לָכֵן אֱמֹר אֲלֵיהֶם, כֹּה-אָמַר אֲדֹנָי יְהוִה, הִשְׁבַּתִּי אֶת-הַמָּשָׁל הַזֶּה, וְלֹא-יִמְשְׁלוּ אֹתוֹ עוֹד בְּיִשְׂרָאֵל: כִּי, אִם-דַּבֵּר אֲלֵיהֶם, קָרְבוּ הַיָּמִים, וּדְבַר כָּל-חָזוֹן.",
+    "כִּי לֹא יִהְיֶה עוֹד, כָּל-חֲזוֹן שָׁוְא--וּמִקְסַם חָלָק: בְּתוֹךְ, בֵּית יִשְׂרָאֵל.",
+    "כִּי אֲנִי יְהוָה, אֲדַבֵּר אֵת אֲשֶׁר אֲדַבֵּר דָּבָר וְיֵעָשֶׂה--לֹא תִמָּשֵׁךְ, עוֹד: כִּי בִימֵיכֶם בֵּית הַמֶּרִי, אֲדַבֵּר דָּבָר וַעֲשִׂיתִיו, נְאֻם, אֲדֹנָי יְהוִה.",
+    "בֶּן-אָדָם, הִנֵּה בֵית-יִשְׂרָאֵל אֹמְרִים, הֶחָזוֹן אֲשֶׁר-הוּא חֹזֶה, לְיָמִים רַבִּים; וּלְעִתִּים רְחוֹקוֹת, הוּא נִבָּא.",
+    "לָכֵן אֱמֹר אֲלֵיהֶם, כֹּה אָמַר אֲדֹנָי יְהוִה, לֹא-תִמָּשֵׁךְ עוֹד, כָּל-דְּבָרָי--אֲשֶׁר אֲדַבֵּר דָּבָר וְיֵעָשֶׂה, נְאֻם אֲדֹנָי יְהוִה."
+  ],
+  "english": [
+    "The word of the Lord also came unto me, saying,",
+    "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house.",
+    "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house.",
+    "Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity.",
+    "Dig thou through the wall in their sight, and carry out thereby.",
+    "In their sight shalt thou bear it upon thy shoulders, and carry it forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee for a sign unto the house of Israel.",
+    "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought it forth in the twilight, and I bare it upon my shoulder in their sight.",
+    "And in the morning came the word of the Lord unto me, saying,",
+    "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?",
+    "Say thou unto them, Thus saith the Lord God; This burden concerneth the prince in Jerusalem, and all the house of Israel that are among them.",
+    "Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity.",
+    "And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes.",
+    "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there.",
+    "And I will scatter toward every wind all that are about him to help him, and all his bands; and I will draw out the sword after them.",
+    "And they shall know that I am the Lord, when I shall scatter them among the nations, and disperse them in the countries.",
+    "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the Lord.",
+    "Moreover the word of the Lord came to me, saying,",
+    "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;",
+    "And say unto the people of the land, Thus saith the Lord God of the inhabitants of Jerusalem, and of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.",
+    "And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I am the Lord.",
+    "And the word of the Lord came unto me, saying,",
+    "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?",
+    "Tell them therefore, Thus saith the Lord God; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision.",
+    "For there shall be no more any vain vision nor flattering divination within the house of Israel.",
+    "For I am the Lord: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord God.",
+    "Again the word of the Lord came to me, saying.",
+    "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off.",
+    "Therefore say unto them, Thus saith the Lord God; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord God."
+  ],
+  "steinsaltz": [
+    "וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר:",
+    "בֶּן־אָדָם, בְּתוֹךְ בֵּית־הַמֶּרִי, המרדנים אַתָּה יֹשֵׁב, בני הגולה שאתה יושב בתוכם הם ציבור של מורדים בה', אֲשֶׁר עֵינַיִם לָהֶם לִרְאוֹת וְלֹא רָאוּ, אָזְנַיִם לָהֶם לִשְׁמֹעַ וְלֹא שָׁמֵעוּ. העם שבבבל ממאן לקבל את התוכחות, וייתכן שהוא מסרב להאמין שנגזרה גלות ממושכת על העם וכי ירושלים תיחרב, כִּי בֵּית מְרִי הֵם. כיוון שזה אופיים וזה נוהגם, תצטרך אתה לגרום להם לראות ולשמוע:",
+    "וְאַתָּה, בֶן־אָדָם, עֲשֵׂה לְךָ כְּלֵי גוֹלָה, בגדים פשוטים ואביזרים שמתאימים להיטלטלות בדרך הארוכה לגלות, וּגְלֵה יוֹמָם, לאור היום לְעֵינֵיהֶם. וְגָלִיתָ מִמְּקוֹמְךָ אֶל־מָקוֹם אַחֵר לְעֵינֵיהֶם. הם יראו אותך נודד מביתך. בכך תמחיש להם את הרעיון, שעונש הגלות נגזר על העם ועתיד להיות אף חמור מכפי שהוא נתפס בהווה. אוּלַי על ידי מעשיך המתמיהים יִרְאוּ, יתבוננו, כִּי בֵּית מְרִי הֵמָּה, ודיבורים לבדם כנראה אינם מספיקים להם.",
+    "וְהוֹצֵאתָ כֵלֶיךָ כּפי שאדם מכין לו ליציאה לדרך, כְלֵי גוֹלָה יוֹמָם לְעֵינֵיהֶם, ביום הם יראו אותך אוסף ומכין כלי נדודים, וְאַתָּה תֵּצֵא מצויד בכלים אלו בָעֶרֶב לְעֵינֵיהֶם, כְּמוֹצָאֵי גּוֹלָה, כפי שבדרך כלל יוצא אדם לגלות.",
+    "לְעֵינֵיהֶם חֲתָר, חפור לְךָ בַקִּיר עד שייפער בו חור גדול, וְהוֹצֵאתָ בּוֹ את כלי הגולה עמך.",
+    "לְעֵינֵיהֶם עַל־כָּתֵף תִּשָּׂא, בָּעֲלָטָה, בחשכת הערב תוֹצִיא את מיטלטליך עמך. את פָּנֶיךָ תְכַסֶּה, כמי שמפחד שיראו אותו או מתבייש, וְלֹא תִרְאֶה אֶת־הָאָרֶץ, כשתצא יהיו פניך מכוסים כך שטווח ראייתך יצומצם, כִּי־מוֹפֵת, דוגמא נְתַתִּיךָ לְבֵית יִשְׂרָאֵל. התנהגותך תמחיש להם את עתידם העלום.",
+    "הנביא איננו שואל שאלות אלא ממלא פקודות גם כשאינן נוחות לו. וָאַעַשׂ כֵּן כַּאֲשֶׁר צֻוֵּיתִי. כֵּלַי הוֹצֵאתִי כִּכְלֵי גוֹלָה יוֹמָם, וּבָעֶרֶב חָתַרְתִּי־לִי בַקִּיר בְּיָד, כאדם הנס על נפשו בלי להקים רעש וללא אמצעים ועזרת אנשים. בָּעֲלָטָה הוֹצֵאתִי, עַל־כָּתֵף נָשָׂאתִי לְעֵינֵיהֶם.",
+    "וַיְהִי דְבַר־ה' אֵלַי בַּבֹּקֶר שלמחרת לֵאמֹר׃",
+    "בֶּן־אָדָם, הֲלֹא אָמְרוּ אֵלֶיךָ בֵּית יִשְׂרָאֵל, בֵּית הַמֶּרִי, מָה אַתָּה עֹשֶׂה? למרות אופיים המרדני הם סקרנים להבין את מעשיך. ייתכן גם שזו שאלה היפותטית.",
+    "אֱמֹר אֲלֵיהֶם: כֹּה אָמַר ה' אֱלוֹהִים: הַנָּשִׂיא, המלך, והכוונה כאן כנראה לצדקיהו מלך יהודה – עליו הַמַּשָּׂא, המטען הפיסי שעל הכתף, וגם: החזון הנבואי הַזֶּה בִּירוּשָׁלִַם, ולכָל־בֵּית יִשְׂרָאֵל אֲשֶׁר־הֵמָּה בְתוֹכָם, בתוכה. כאן נאמר לצופים במעשה, שמה שנגלה לעיניהם הוא נבואה.",
+    "אֱמֹר: אֲנִי מוֹפֶתְכֶם, הדוגמה לכם, וכן: האות לאמתות הנבואה לכשתתממש. כַּאֲשֶׁר עָשִׂיתִי, כֵּן יֵעָשֶׂה לָהֶם – ליושבי ירושלים. בַּגּוֹלָה, בַשְּׁבִי יֵלֵכוּ.",
+    "וְהַנָּשִׂיא אֲשֶׁר־בְּתוֹכָם, אֶל, על כָּתֵף יִשָּׂא בָּעֲלָטָה וְיֵצֵא. בדרך כלל, מלך לא יברח ומשא על כתפו, אבל במקרה זה יצטרך המלך להימלט בחשאי מתוך העיר עם שאר הבורחים ולא לבלוט במהומה. בַּקִּיר יַחְתְּרוּ לו לְהוֹצִיא בוֹ, את פָּנָיו יְכַסֶּה, יַעַן אֲשֶׁר לֹא־יִרְאֶה לָעַיִן הוּא אֶת־הָאָרֶץ. אמנם המלך יכסה את פניו בעיקר כדי שלא ייראה, אבל גם נוח לו בכך שעינו לא תפגוש באיש מחמת הבושה. ובעניין המלך ה' מוסיף:",
+    "וּפָרַשְׂתִּי אֶת־רִשְׁתִּי עָלָיו, וְנִתְפַּשׂ בִּמְצוּדָתִי. הוא יכול להימלט באפלת הלילה ולהתחמק מכל רודפיו הצרים עליו, ומכל מקום במלכודת שלי הוא ייתפס ולא יצא לחופשי. וְהֵבֵאתִי אֹתוֹ בָבֶלָה, אל אֶרֶץ כַּשְׂדִּים, וְאוֹתָהּ לֹא־יִרְאֶה, וְשָׁם יָמוּת.",
+    "וְאת כֹל אֲשֶׁר סְבִיבֹתָיו, עֶזְרֹה, עוזריו של צדקיהו וְכָל־אֲגַפָּיו, זרועות שלטונו, אֱזָרֶה לְכָל־רוּחַ, הם יברחו, וְחֶרֶב אָרִיק, אשלוף אַחֲרֵיהֶם.",
+    "וְיָדְעוּ כִּי־אֲנִי ה', בַּהֲפִיצִי אוֹתָם בַּגּוֹיִם, וְזֵרִיתִי, כשאפזר אוֹתָם בָּאֲרָצוֹת.",
+    "וְהוֹתַרְתִּי מֵהֶם אַנְשֵׁי מִסְפָּר, אנשים ספורים, כי כל האחרים ימותו מֵחֶרֶב, מֵרָעָב וּמִדָּבֶר, ואותם הפליטים ייוותרו לְמַעַן יְסַפְּרוּ אֶת־כָּל־תּוֹעֲבוֹתֵיהֶם, את כל מה שעשו ומה שנעשה בהם, בַּגּוֹיִם אֲשֶׁר־בָּאוּ שָׁם. וְיָדְעוּ הכול כִּי־אֲנִי ה'.",
+    "נבואה נוספת המלֻווה במעשה הנביא: וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר׃",
+    "בֶּן־אָדָם, לַחְמְךָ בְּרַעַשׁ, דָם, לַחְמְךָ בְּרַעַשׁ בזעזוע תֹּאכֵל, וּמֵימֶיךָ בְּרָגְזָה וּבִדְאָגָה תִּשְׁתֶּה. גם כאן על יחזקאל להמחיש את נבואתו בהצגה ממשית: עליו לאכול ולשתות תוך כדי הקמת מהומה ומתוך מתח וחרדה.",
+    "וְאָמַרְתָּ אֶל־עַם הָאָרֶץ: כֹּה־אָמַר ה' אֱלוֹהִים לְיֹשְׁבֵי יְרוּשָׁלִַם אֶל, שעל אַדְמַת יִשְׂרָאֵל: לַחְמָם בִּדְאָגָה יֹאכֵלוּ, וּמֵימֵיהֶם בְּשִׁמָּמוֹן, בתדהמה יִשְׁתּוּ, לְמַעַן, מתוך שתֵּשַׁם, תתרוקן אַרְצָהּ מִמְּלֹאָהּ, מפני חֲמַס כָּל־הַיּשְׁבִים בָּהּ.",
+    "וְהֶעָרִים הַנּוֹשָׁבוֹת, המיושבות תֶּחֱרַבְנָה, וְהָאָרֶץ שְׁמָמָה תִהְיֶה. וכיוון שהעונשים הללו יתקיימו על פי גזרתי, כאשר הם יתרחשו – וִידַעְתֶּם כִּי־אֲנִי ה'.",
+    "וַיְהִי דְבַר־ה' אֵלַי לֵאמֹר׃",
+    "בֶּן־אָדָם, מָה־הַמָּשָׁל, הפתגם המליצי הַזֶּה לָכֶם הרווח עַל־אַדְמַת יִשְׂרָאֵל לֵאמֹר: \"יַאַרְכוּ הַיָּמִים – וְאָבַד כָּל־חָזוֹן\", הזמן יחלוף ובינתיים הנבואות יחדלו מלהתקיים עד שייבטלו. כשאנשים ראו שהפורענויות שחזו הנביאים הקודמים לא התקיימו, שכן ירושלים עדיין ניצבה על עומדה, הם לא טענו שהנבואה היא שקר, אלא ראו בנבואה, גם זו המתייחסת לימים הקרובים, חזון המתייחס לעתיד הרחוק. בדחייה זו מנעו מן הנבואה לגעת בהם.",
+    "לָכֵן אֱמֹר אֲלֵיהֶם: כֹּה־אָמַר ה' אֱלוֹהִים: הִשְׁבַּתִּי אֶת־הַמָּשָׁל הַזֶּה, וְלֹא־יִמְשְׁלוּ אֹתוֹ עוֹד בְּיִשְׂרָאֵל, כִּי אִם־דַּבֵּר אֲלֵיהֶם פתגם הפוך: \"קָרְבוּ, יקרבו הַיָּמִים ועמהם דְבַר כָּל־חָזוֹן\". דברי החזונות יתקיימו בקרוב.",
+    "כִּי אז, כשיתממשו הדברים, לֹא יִהְיֶה עוֹד כָּל־חֲזוֹן שָׁוְא וּמִקְסַם חָלָק, דברי חלקות וחנופה של קוסמים בְּתוֹךְ בֵּית יִשְׂרָאֵל. לא יאבד כל חזון כדברי הפתגם; חזונות השווא המציגים תמונה אופטימית, הם שיאבדו.",
+    "כִּי אֲנִי ה' אֲדַבֵּר רק אֵת אֲשֶׁר אֲדַבֵּר דָּבָר וְיֵעָשֶׂה, כל דברי מתממשים. לֹא תִמָּשֵׁךְ עוֹד התגשמות דברי, כִּי בִימֵיכֶם, בֵּית הַמֶּרִי, אֲדַבֵּר דָּבָר וַעֲשִׂיתִיו. נְאֻם ה' אֱלוֹהִים."
+  ],
+  "ai_explanation": [
+    "",
+    "יחזקאל יושב בתוך ציבור של מורדים בה', שאינם מוכנים לראות את המציאות נכוחה או לשמוע את התוכחה. העם בבבל מסרב לקבל את ממושך הגלות ואת חורבן ירושלים, ולכן הנביא נדרש להמחיש להם את הדברים במעשה.",
+    "על יחזקאל להכין בגדים ואביזרים המתאימים ליציאה לגלות, ולנדוד ממקומו למקום אחר לעיני העם. מעשיו אמורים לגרום להם להבין שהגלות נגזרה עליהם, ושדיבורים לבדם אינם מספיקים.",
+    "יחזקאל צריך להוציא ביום את כלי הגלות לעיני העם, ובערב לצאת עמם כפי שיוצא אדם לגלות.",
+    "על יחזקאל לחפור פתח בקיר לעיני העם ולהוציא דרכו את כלי הגלות.",
+    "יחזקאל נושא את מיטלטליו על כתפו בחשכת הערב, מכסה את פניו ואינו רואה את הארץ. הוא משמש אות ודוגמה לעתיד העלום של ישראל.",
+    "יחזקאל מקיים את הצו במלואו, בלי לשאול שאלות: ביום הוא מוציא את כלי הגלות, ובערב חופר בקיר, מוציא את המיטלטלים ונושא אותם על כתפו.",
+    "זהו תיאור של דבר ה' שנמסר ליחזקאל בבוקר שלמחרת.",
+    "למרות אופיים המרדני, בני ישראל סקרנים לדעת מה משמעות מעשיו של יחזקאל. ייתכן שהשאלה מוצגת גם כאפשרות היפותטית.",
+    "הנשיא הוא כנראה צדקיהו מלך יהודה. המטען שעל הכתף והחזון הנבואי מסמלים את גורלו ואת גורל בית ישראל הנמצא בירושלים.",
+    "יחזקאל עצמו הוא אות ודוגמה לבני העם, ומה שנעשה בו עתיד להיעשות ליושבי ירושלים: הם ילכו לגלות ולשבי.",
+    "הנשיא ייאלץ להימלט בחשאי מן העיר עם מטען על כתפו, לצאת דרך פרצה בקיר ולכסות את פניו. בכך הוא ינסה שלא להיראות, וגם יימנע ממפגש מבייש עם בני עמו.",
+    "המלך ייתפס למרות ניסיונו להימלט, משום שה' יפרוש עליו רשת. הוא יובא לבבל, לא יראה אותה, ושם ימות.",
+    "עוזריו של הנשיא וזרועות שלטונו יפוזרו לכל רוח, וה' ישלוף אחריהם חרב.",
+    "פיזור העם בין הגויים ובארצות יהיה מעשה ה', ובאמצעותו יכירו ישראל בו.",
+    "רק מעטים יינצלו מן החרב, הרעב והדבר. הם יספרו בגויים על תועבותיהם ועל מה שעבר עליהם, ובכך יכירו הכול בה'.",
+    "זהו מעשה נבואי נוסף: יחזקאל נדרש לאכול ולשתות ברעדה, כדי להמחיש את החרדה והמתח של העתיד.",
+    "יחזקאל מצווה לומר ליושבי ירושלים, שעל אדמת ישראל, שהם יאכלו לחם בדאגה וישתו מים בתדהמה. הארץ תתרוקן מיושביה בגלל החמס שבה.",
+    "הערים המיושבות ייחרבו והארץ תהיה שממה. כאשר יתקיימו העונשים, ידעו העם כי ה' הוא שפעל.",
+    "העם משתמש בפתגם שלפיו הימים מתארכים ובסופו של דבר כל חזון אובד. כך הם דוחים את נבואות הפורענות ומפרשים אותן כמתייחסות לעתיד רחוק.",
+    "ה' יבטל את הפתגם הזה: הימים קרבים, ועמהם יתקיימו דברי כל חזון.",
+    "כאשר הדברים יתגשמו, לא יישארו בישראל חזונות שווא ודברי חלקות של קוסמים. חזונות אופטימיים ושקריים הם שיאבדו.",
+    "דברי ה' אינם מתעכבים עוד: הוא מדבר, והדבר נעשה בימי בית המרי. הנבואה עומדת להתגשם במהרה.",
+    "בני ישראל טוענים שהנביא רואה חזון המתייחס לימים רבים ולעתיד רחוק. בכך הם מנסים להרחיק את הנבואה מן ההווה ומן האחריות שלהם.",
+    "ה' מצהיר שכל דבר שהוא מדבר ייעשה, ושדבריו לא יימשכו עוד ללא התגשמות. בימי בית המרי הוא ידבר ויבצע את דברו."
+  ],
+  "ai_explanation_en": [
+    "",
+    "Ezekiel lives among a community that rebels against God and refuses to see reality clearly or listen to rebuke. The people in Babylon refuse to accept the long exile and the destruction of Jerusalem, so the prophet must demonstrate these matters through an action.",
+    "Ezekiel must prepare clothing and belongings suitable for leaving for exile and move from one place to another in full view of the people. His actions are meant to make them understand that exile has been decreed and that words alone are not enough.",
+    "Ezekiel must bring out the articles of exile during the day in full view of the people, and in the evening leave with them as a person going into exile would.",
+    "Ezekiel is to dig an opening in the wall before the people and take the articles of exile out through it.",
+    "Ezekiel carries his belongings on his shoulder in the darkness of evening, covers his face, and does not see the land. He serves as a sign and example of Israel's uncertain future.",
+    "Ezekiel carries out the command completely and without questioning it: during the day he brings out the articles of exile, and in the evening he digs through the wall, removes the belongings, and carries them on his shoulder.",
+    "This describes the word of God delivered to Ezekiel on the following morning.",
+    "Despite their rebellious character, the Israelites are curious about the meaning of Ezekiel's actions. The question may also be presented as a hypothetical one.",
+    "The prince is probably Zedekiah, king of Judah. The burden on the shoulder and the prophetic vision symbolize his fate and that of the Israelite community in Jerusalem.",
+    "Ezekiel himself is a sign and example to the people, and what is done to him will happen to the inhabitants of Jerusalem: they will go into exile and captivity.",
+    "The prince will have to flee the city secretly with a burden on his shoulder, leave through a breach in the wall, and cover his face. In this way he will try not to be seen and will also avoid a shameful encounter with his people.",
+    "The king will be captured despite his attempt to escape, because God will spread a net over him. He will be brought to Babylon, will not see it, and will die there.",
+    "The prince's helpers and the arms of his government will be scattered in every direction, and God will draw the sword against them.",
+    "The scattering of the people among the nations and throughout the lands will be God's doing, and through it Israel will recognize Him.",
+    "Only a few will survive the sword, famine, and plague. They will tell the nations about their abominations and about what happened to them, and through this everyone will know the Lord.",
+    "This is another prophetic action: Ezekiel is required to eat and drink while trembling, demonstrating the fear and tension of what is to come.",
+    "Ezekiel is told to say to the inhabitants of Jerusalem, on the soil of Israel, that they will eat bread in anxiety and drink water in shock. The land will be emptied of its inhabitants because of the violence within it.",
+    "The inhabited cities will be destroyed and the land will become desolate. When these punishments occur, the people will know that the Lord has acted.",
+    "The people use a saying that the days grow long and eventually every vision comes to nothing. In this way they postpone the prophecies of disaster and interpret them as referring to a distant future.",
+    "God will abolish this saying: the days are drawing near, and with them the fulfillment of every prophetic word.",
+    "When the events come to pass, false visions and flattering words of diviners will no longer remain in Israel. It is the optimistic and deceptive visions that will disappear.",
+    "God's words will no longer be delayed: He speaks, and the event occurs in the days of the rebellious house. The prophecy is about to be fulfilled.",
+    "The Israelites claim that the prophet sees a vision concerning many days and a distant future. In this way they try to distance the prophecy from the present and from their own responsibility.",
+    "God declares that everything He says will happen and that His words will no longer be delayed without fulfillment. In the days of the rebellious house, He will speak and carry out His word."
+  ],
+  "perush": [
+    "",
+    "יחזקאל יושב בתוך ציבור של מורדים בה', שאינם מוכנים לראות את המציאות נכוחה או לשמוע את התוכחה. העם בבבל מסרב לקבל את ממושך הגלות ואת חורבן ירושלים, ולכן הנביא נדרש להמחיש להם את הדברים במעשה.",
+    "על יחזקאל להכין בגדים ואביזרים המתאימים ליציאה לגלות, ולנדוד ממקומו למקום אחר לעיני העם. מעשיו אמורים לגרום להם להבין שהגלות נגזרה עליהם, ושדיבורים לבדם אינם מספיקים.",
+    "יחזקאל צריך להוציא ביום את כלי הגלות לעיני העם, ובערב לצאת עמם כפי שיוצא אדם לגלות.",
+    "על יחזקאל לחפור פתח בקיר לעיני העם ולהוציא דרכו את כלי הגלות.",
+    "יחזקאל נושא את מיטלטליו על כתפו בחשכת הערב, מכסה את פניו ואינו רואה את הארץ. הוא משמש אות ודוגמה לעתיד העלום של ישראל.",
+    "יחזקאל מקיים את הצו במלואו, בלי לשאול שאלות: ביום הוא מוציא את כלי הגלות, ובערב חופר בקיר, מוציא את המיטלטלים ונושא אותם על כתפו.",
+    "זהו תיאור של דבר ה' שנמסר ליחזקאל בבוקר שלמחרת.",
+    "למרות אופיים המרדני, בני ישראל סקרנים לדעת מה משמעות מעשיו של יחזקאל. ייתכן שהשאלה מוצגת גם כאפשרות היפותטית.",
+    "הנשיא הוא כנראה צדקיהו מלך יהודה. המטען שעל הכתף והחזון הנבואי מסמלים את גורלו ואת גורל בית ישראל הנמצא בירושלים.",
+    "יחזקאל עצמו הוא אות ודוגמה לבני העם, ומה שנעשה בו עתיד להיעשות ליושבי ירושלים: הם ילכו לגלות ולשבי.",
+    "הנשיא ייאלץ להימלט בחשאי מן העיר עם מטען על כתפו, לצאת דרך פרצה בקיר ולכסות את פניו. בכך הוא ינסה שלא להיראות, וגם יימנע ממפגש מבייש עם בני עמו.",
+    "המלך ייתפס למרות ניסיונו להימלט, משום שה' יפרוש עליו רשת. הוא יובא לבבל, לא יראה אותה, ושם ימות.",
+    "עוזריו של הנשיא וזרועות שלטונו יפוזרו לכל רוח, וה' ישלוף אחריהם חרב.",
+    "פיזור העם בין הגויים ובארצות יהיה מעשה ה', ובאמצעותו יכירו ישראל בו.",
+    "רק מעטים יינצלו מן החרב, הרעב והדבר. הם יספרו בגויים על תועבותיהם ועל מה שעבר עליהם, ובכך יכירו הכול בה'.",
+    "זהו מעשה נבואי נוסף: יחזקאל נדרש לאכול ולשתות ברעדה, כדי להמחיש את החרדה והמתח של העתיד.",
+    "יחזקאל מצווה לומר ליושבי ירושלים, שעל אדמת ישראל, שהם יאכלו לחם בדאגה וישתו מים בתדהמה. הארץ תתרוקן מיושביה בגלל החמס שבה.",
+    "הערים המיושבות ייחרבו והארץ תהיה שממה. כאשר יתקיימו העונשים, ידעו העם כי ה' הוא שפעל.",
+    "העם משתמש בפתגם שלפיו הימים מתארכים ובסופו של דבר כל חזון אובד. כך הם דוחים את נבואות הפורענות ומפרשים אותן כמתייחסות לעתיד רחוק.",
+    "ה' יבטל את הפתגם הזה: הימים קרבים, ועמהם יתקיימו דברי כל חזון.",
+    "כאשר הדברים יתגשמו, לא יישארו בישראל חזונות שווא ודברי חלקות של קוסמים. חזונות אופטימיים ושקריים הם שיאבדו.",
+    "דברי ה' אינם מתעכבים עוד: הוא מדבר, והדבר נעשה בימי בית המרי. הנבואה עומדת להתגשם במהרה.",
+    "בני ישראל טוענים שהנביא רואה חזון המתייחס לימים רבים ולעתיד רחוק. בכך הם מנסים להרחיק את הנבואה מן ההווה ומן האחריות שלהם.",
+    "ה' מצהיר שכל דבר שהוא מדבר ייעשה, ושדבריו לא יימשכו עוד ללא התגשמות. בימי בית המרי הוא ידבר ויבצע את דברו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "עם מורד והמחשת הגלות",
+      "title_en": "A Rebellious People and the Demonstration of Exile",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "העם מסרב לראות ולשמוע את דבר ה', ולכן יחזקאל מצווה להמחיש במעשיו את היציאה לגלות: הכנת מיטלטלים, חפירה בקיר ויציאה בחשכה.",
+      "summary_en": "The people refuse to see and hear God's word, so Ezekiel is commanded to demonstrate exile through his actions: preparing belongings, digging through a wall, and leaving in darkness.",
+      "image_prompt": "A prophetic symbolic scene: a man quietly preparing simple travel belongings in daylight, then carrying them through a rough opening in a wall at dusk, solemn biblical atmosphere, no text"
+    },
+    {
+      "title": "הנשיא והגלות הקרובה",
+      "title_en": "The Prince and the Coming Exile",
+      "start_verse": 8,
+      "end_verse": 16,
+      "summary": "מעשהו של יחזקאל מוסבר כנבואה על הנשיא, כנראה מלך יהודה, שיימלט בחשאי אך יילכד ויובא לבבל. עוזריו יפוזרו, והעם יכיר בה' לאחר הפצתו בין הגויים.",
+      "summary_en": "Ezekiel's action is explained as a prophecy about the prince, probably the king of Judah, who will flee secretly but be captured and brought to Babylon. His helpers will be scattered, and the people will recognize the Lord after being dispersed among the nations.",
+      "image_prompt": "A solemn prophetic tableau of a ruler carrying a burden while escaping through a city wall at night, distant figures scattering in different directions, ancient biblical setting, no text"
+    },
+    {
+      "title": "חרדה, חורבן ושממת הארץ",
+      "title_en": "Anxiety, Destruction, and a Desolate Land",
+      "start_verse": 17,
+      "end_verse": 19,
+      "summary": "יחזקאל נדרש לאכול ולשתות ברעדה כדי להמחיש את החרדה העתידה. ירושלים וערי הארץ ייחרבו, הארץ תתרוקן, והחמס שבה יוביל לשממתה.",
+      "summary_en": "Ezekiel must eat and drink while trembling in order to demonstrate the coming fear. Jerusalem and the cities of the land will be destroyed, the land will be emptied, and its violence will lead to desolation.",
+      "image_prompt": "A prophetic symbolic scene of a person eating bread and drinking water with trembling hands, surrounded by an anxious and desolate landscape, subdued biblical colors, no text"
+    },
+    {
+      "title": "ביטול הפתגם על דחיית החזון",
+      "title_en": "The End of the Saying About Delayed Visions",
+      "start_verse": 20,
+      "end_verse": 23,
+      "summary": "העם דוחה את הנבואה בטענה שהימים מתארכים וכל חזון אובד. ה' מודיע שהימים קרבים ושדברי החזון יתגשמו במהרה.",
+      "summary_en": "The people dismiss the prophecy by claiming that time passes and every vision fades. God declares that the days are near and that the prophetic word will soon be fulfilled.",
+      "image_prompt": "A symbolic prophetic scene of a fading saying being replaced by approaching storm clouds and a clear beam of divine light, serious biblical mood, no text"
+    },
+    {
+      "title": "חזונות השווא וסמכות דבר ה'",
+      "title_en": "False Visions and the Authority of God's Word",
+      "start_verse": 24,
+      "end_verse": 25,
+      "summary": "בני ישראל מנסים להרחיק את החזון לעתיד הרחוק, אך ה' קובע שלא יהיו עוד חזונות שווא או דחייה של דבריו. כל דבר שהוא מדבר ייעשה.",
+      "summary_en": "The Israelites try to push the vision into the distant future, but God declares that false visions and delays of His word will end. Everything He says will come to pass.",
+      "image_prompt": "A solemn prophetic vision in which false images dissolve while a single clear beam illuminates the horizon, conveying the certainty of God's word, biblical atmosphere, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 6.38,
+      "usfm": "EZK.12.1"
+    },
+    {
+      "start": 6.38,
+      "end": 18.48,
+      "usfm": "EZK.12.2"
+    },
+    {
+      "start": 18.48,
+      "end": 33.82,
+      "usfm": "EZK.12.3"
+    },
+    {
+      "start": 33.82,
+      "end": 45.92,
+      "usfm": "EZK.12.4"
+    },
+    {
+      "start": 45.92,
+      "end": 50.4,
+      "usfm": "EZK.12.5"
+    },
+    {
+      "start": 50.4,
+      "end": 63.64,
+      "usfm": "EZK.12.6"
+    },
+    {
+      "start": 63.64,
+      "end": 79.14,
+      "usfm": "EZK.12.7"
+    },
+    {
+      "start": 79.14,
+      "end": 82.36,
+      "usfm": "EZK.12.8"
+    },
+    {
+      "start": 82.36,
+      "end": 89.48,
+      "usfm": "EZK.12.9"
+    },
+    {
+      "start": 89.48,
+      "end": 97.98,
+      "usfm": "EZK.12.10"
+    },
+    {
+      "start": 97.98,
+      "end": 108.44,
+      "usfm": "EZK.12.11"
+    },
+    {
+      "start": 108.44,
+      "end": 121.1,
+      "usfm": "EZK.12.12"
+    },
+    {
+      "start": 121.1,
+      "end": 133.44,
+      "usfm": "EZK.12.13"
+    },
+    {
+      "start": 133.44,
+      "end": 143.14,
+      "usfm": "EZK.12.14"
+    },
+    {
+      "start": 143.14,
+      "end": 149.96,
+      "usfm": "EZK.12.15"
+    },
+    {
+      "start": 149.96,
+      "end": 161.54,
+      "usfm": "EZK.12.16"
+    },
+    {
+      "start": 161.54,
+      "end": 164.6,
+      "usfm": "EZK.12.17"
+    },
+    {
+      "start": 164.6,
+      "end": 170.7,
+      "usfm": "EZK.12.18"
+    },
+    {
+      "start": 170.7,
+      "end": 188.88,
+      "usfm": "EZK.12.19"
+    },
+    {
+      "start": 188.88,
+      "end": 196.92,
+      "usfm": "EZK.12.20"
+    },
+    {
+      "start": 196.92,
+      "end": 198.68,
+      "usfm": "EZK.12.21"
+    },
+    {
+      "start": 198.68,
+      "end": 207.28,
+      "usfm": "EZK.12.22"
+    },
+    {
+      "start": 207.28,
+      "end": 221.42,
+      "usfm": "EZK.12.23"
+    },
+    {
+      "start": 221.42,
+      "end": 227.08,
+      "usfm": "EZK.12.24"
+    },
+    {
+      "start": 227.08,
+      "end": 241.34,
+      "usfm": "EZK.12.25"
+    },
+    {
+      "start": 241.34,
+      "end": 244.36,
+      "usfm": "EZK.12.26"
+    },
+    {
+      "start": 244.36,
+      "end": 256.34,
+      "usfm": "EZK.12.27"
+    },
+    {
+      "start": 256.34,
+      "end": 273.88,
+      "usfm": "EZK.12.28"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    6.38,
+    18.48,
+    33.82,
+    45.92,
+    50.4,
+    63.64,
+    79.14,
+    82.36,
+    89.48,
+    97.98,
+    108.44,
+    121.1,
+    133.44,
+    143.14,
+    149.96,
+    161.54,
+    164.6,
+    170.7,
+    188.88,
+    196.92,
+    198.68,
+    207.28,
+    221.42,
+    227.08,
+    241.34,
+    244.36,
+    256.34,
+    273.88
+  ],
+  "times_en_usfm": [
+    "EZK.12.1",
+    "EZK.12.2",
+    "EZK.12.3",
+    "EZK.12.4",
+    "EZK.12.5",
+    "EZK.12.6",
+    "EZK.12.7",
+    "EZK.12.8",
+    "EZK.12.9",
+    "EZK.12.10",
+    "EZK.12.11",
+    "EZK.12.12",
+    "EZK.12.13",
+    "EZK.12.14",
+    "EZK.12.15",
+    "EZK.12.16",
+    "EZK.12.17",
+    "EZK.12.18",
+    "EZK.12.19",
+    "EZK.12.20",
+    "EZK.12.21",
+    "EZK.12.22",
+    "EZK.12.23",
+    "EZK.12.24",
+    "EZK.12.25",
+    "EZK.12.26",
+    "EZK.12.27",
+    "EZK.12.28"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 2,
+      "text": "הידעת? יחזקאל מתאר את ישראל כ״בית המרי״ — עם שיש לו עיניים ואוזניים, אך מסרב לראות ולשמוע את דבר ה׳.",
+      "text_he": "הידעת? יחזקאל מתאר את ישראל כ״בית המרי״ — עם שיש לו עיניים ואוזניים, אך מסרב לראות ולשמוע את דבר ה׳.",
+      "text_en": "Did you know? Ezekiel describes Israel as a “rebellious house”—a people with eyes and ears who refuse to see and hear the word of the LORD."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? יחזקאל מצטווה להכין ״כלי גולה״ ולהמחיש לעיני העם יציאה ממקום למקום, כדי שאולי יבינו את משמעות הגלות הצפויה.",
+      "text_he": "הידעת? יחזקאל מצטווה להכין ״כלי גולה״ ולהמחיש לעיני העם יציאה ממקום למקום, כדי שאולי יבינו את משמעות הגלות הצפויה.",
+      "text_en": "Did you know? Ezekiel is instructed to prepare “baggage for exile” and demonstrate before the people what it looks like to move from one place to another, so that perhaps they will understand the meaning of the exile that awaits them."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? אחד ממעשיו הסמליים של יחזקאל היה לחתור בקיר לעיני העם ולהוציא דרכו את חפציו, כמי שיוצא בחשאי ובמצוקה.",
+      "text_he": "הידעת? אחד ממעשיו הסמליים של יחזקאל היה לחתור בקיר לעיני העם ולהוציא דרכו את חפציו, כמי שיוצא בחשאי ובמצוקה.",
+      "text_en": "Did you know? One of Ezekiel’s symbolic actions was to dig through a wall in full view of the people and take his belongings out through it, like someone leaving secretly and in distress."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? יחזקאל נדרש לשאת את חפציו על כתפו בחשכה ולכסות את פניו; ה׳ מגדיר אותו כ״מופת״ לבית ישראל.",
+      "text_he": "הידעת? יחזקאל נדרש לשאת את חפציו על כתפו בחשכה ולכסות את פניו; ה׳ מגדיר אותו כ״מופת״ לבית ישראל.",
+      "text_en": "Did you know? Ezekiel is required to carry his belongings on his shoulder in the dark and cover his face; the LORD identifies him as a “sign” to the house of Israel."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? ה׳ מסביר שמעשיו של יחזקאל הם משל למה שייעשה לעם: בני ישראל ילכו בגולה ובשבי.",
+      "text_he": "הידעת? ה׳ מסביר שמעשיו של יחזקאל הם משל למה שייעשה לעם: בני ישראל ילכו בגולה ובשבי.",
+      "text_en": "Did you know? The LORD explains that Ezekiel’s actions are a symbol of what will happen to the people: the Israelites will go into exile and captivity."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הנביא מתאר את הנשיא כמי שיימלט בחשאי, אך יילכד ברשת ויובא לבבל; נאמר עליו שלא יראה את הארץ שאליה יובא.",
+      "text_he": "הידעת? הנביא מתאר את הנשיא כמי שיימלט בחשאי, אך יילכד ברשת ויובא לבבל; נאמר עליו שלא יראה את הארץ שאליה יובא.",
+      "text_en": "Did you know? The prophet portrays the ruler as someone who will escape secretly but be caught in a snare and brought to Babylon; it is said that he will not see the land to which he is taken."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? לא רק הנשיא ייפגע: גם האנשים שסביבו ועוזריו יפוזרו לכל רוח, והחרב תרדוף אחריהם.",
+      "text_he": "הידעת? לא רק הנשיא ייפגע: גם האנשים שסביבו ועוזריו יפוזרו לכל רוח, והחרב תרדוף אחריהם.",
+      "text_en": "Did you know? The ruler will not be the only one affected: the people around him and his attendants will also be scattered in every direction, and the sword will pursue them."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? יחזקאל מצטווה לאכול לחם ברעדה ולשתות מים בדאגה, כדי להמחיש את החרדה שתשרור בירושלים ובארץ ישראל.",
+      "text_he": "הידעת? יחזקאל מצטווה לאכול לחם ברעדה ולשתות מים בדאגה, כדי להמחיש את החרדה שתשרור בירושלים ובארץ ישראל.",
+      "text_en": "Did you know? Ezekiel is instructed to eat his bread trembling and drink his water anxiously, demonstrating the fear that will prevail in Jerusalem and throughout the land of Israel."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? העם השתמש בפתגם: ״יארכו הימים ואבד כל חזון״, כלומר שהנבואות מתעכבות ואינן מתגשמות.",
+      "text_he": "הידעת? העם השתמש בפתגם: ״יארכו הימים ואבד כל חזון״, כלומר שהנבואות מתעכבות ואינן מתגשמות.",
+      "text_en": "Did you know? The people used the proverb, “The days grow long, and every vision comes to nothing,” meaning that the prophecies were being delayed and were not coming true."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? בתגובה לדחיית הנבואה לעתיד רחוק, ה׳ מצהיר שדברו ייאמר וייעשה, ולא יימשך עוד זמן רב עד להתגשמותו.",
+      "text_he": "הידעת? בתגובה לדחיית הנבואה לעתיד רחוק, ה׳ מצהיר שדברו ייאמר וייעשה, ולא יימשך עוד זמן רב עד להתגשמותו.",
+      "text_en": "Did you know? In response to the claim that the prophecy concerns a distant future, the LORD declares that his word will be spoken and fulfilled, and that it will not be long before it comes to pass."
+    }
+  ]
+}
