@@ -1,0 +1,407 @@
+{
+  "book": "Joel",
+  "book_he": "יואל",
+  "book_chapters": 4,
+  "chapter": 1,
+  "title": "יואל פרק 1",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1401.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1401.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOL/1-072ce952e40aeb622ddf385e6e7dc15c.mp3?version_id=1",
+  "verses": [
+    "דְּבַר-יְהוָה אֲשֶׁר הָיָה, אֶל-יוֹאֵל בֶּן-פְּתוּאֵל.",
+    "שִׁמְעוּ-זֹאת, הַזְּקֵנִים, וְהַאֲזִינוּ, כֹּל יוֹשְׁבֵי הָאָרֶץ; הֶהָיְתָה זֹּאת בִּימֵיכֶם, וְאִם בִּימֵי אֲבֹתֵיכֶם.",
+    "עָלֶיהָ, לִבְנֵיכֶם סַפֵּרוּ; וּבְנֵיכֶם, לִבְנֵיהֶם, וּבְנֵיהֶם, לְדוֹר אַחֵר.",
+    "יֶתֶר הַגָּזָם אָכַל הָאַרְבֶּה, וְיֶתֶר הָאַרְבֶּה אָכַל הַיָּלֶק; וְיֶתֶר הַיֶּלֶק, אָכַל הֶחָסִיל.",
+    "הָקִיצוּ שִׁכּוֹרִים וּבְכוּ, וְהֵילִלוּ כָּל-שֹׁתֵי יָיִן; עַל-עָסִיס, כִּי נִכְרַת מִפִּיכֶם.",
+    "כִּי-גוֹי עָלָה עַל-אַרְצִי, עָצוּם וְאֵין מִסְפָּר; שִׁנָּיו שִׁנֵּי אַרְיֵה, וּמְתַלְּעוֹת לָבִיא לוֹ.",
+    "שָׂם גַּפְנִי לְשַׁמָּה, וּתְאֵנָתִי לִקְצָפָה; חָשֹׂף חֲשָׂפָהּ וְהִשְׁלִיךְ, הִלְבִּינוּ שָׂרִיגֶיהָ.",
+    "אֱלִי, כִּבְתוּלָה חֲגֻרַת-שַׂק עַל-בַּעַל נְעוּרֶיהָ.",
+    "הָכְרַת מִנְחָה וָנֶסֶךְ, מִבֵּית יְהוָה; אָבְלוּ, הַכֹּהֲנִים, מְשָׁרְתֵי, יְהוָה.",
+    "שֻׁדַּד שָׂדֶה, אָבְלָה אֲדָמָה: כִּי שֻׁדַּד דָּגָן, הוֹבִישׁ תִּירוֹשׁ אֻמְלַל יִצְהָר.",
+    "הֹבִישׁוּ אִכָּרִים, הֵילִילוּ כֹּרְמִים, עַל-חִטָּה, וְעַל-שְׂעֹרָה: כִּי אָבַד, קְצִיר שָׂדֶה.",
+    "הַגֶּפֶן הוֹבִישָׁה, וְהַתְּאֵנָה אֻמְלָלָה; רִמּוֹן גַּם-תָּמָר וְתַפּוּחַ, כָּל-עֲצֵי הַשָּׂדֶה יָבֵשׁוּ--כִּי-הֹבִישׁ שָׂשׂוֹן, מִן-בְּנֵי אָדָם.",
+    "חִגְרוּ וְסִפְדוּ הַכֹּהֲנִים, הֵילִילוּ מְשָׁרְתֵי מִזְבֵּחַ--בֹּאוּ לִינוּ בַשַּׂקִּים, מְשָׁרְתֵי אֱלֹהָי: כִּי נִמְנַע מִבֵּית אֱלֹהֵיכֶם, מִנְחָה וָנָסֶךְ.",
+    "קַדְּשׁוּ-צוֹם, קִרְאוּ עֲצָרָה--אִסְפוּ זְקֵנִים כֹּל יֹשְׁבֵי הָאָרֶץ, בֵּית יְהוָה אֱלֹהֵיכֶם; וְזַעֲקוּ, אֶל-יְהוָה.",
+    "אֲהָהּ, לַיּוֹם: כִּי קָרוֹב יוֹם יְהוָה, וּכְשֹׁד מִשַּׁדַּי יָבוֹא.",
+    "הֲלוֹא נֶגֶד עֵינֵינוּ, אֹכֶל נִכְרָת; מִבֵּית אֱלֹהֵינוּ, שִׂמְחָה וָגִיל.",
+    "עָבְשׁוּ פְרֻדוֹת, תַּחַת מֶגְרְפֹתֵיהֶם--נָשַׁמּוּ אֹצָרוֹת, נֶהֶרְסוּ מַמְּגֻרוֹת: כִּי הֹבִישׁ, דָּגָן.",
+    "מַה-נֶּאֶנְחָה בְהֵמָה, נָבֹכוּ עֶדְרֵי בָקָר--כִּי אֵין מִרְעֶה, לָהֶם; גַּם-עֶדְרֵי הַצֹּאן, נֶאְשָׁמוּ.",
+    "אֵלֶיךָ יְהוָה, אֶקְרָא: כִּי אֵשׁ, אָכְלָה נְאוֹת מִדְבָּר, וְלֶהָבָה, לִהֲטָה כָּל-עֲצֵי הַשָּׂדֶה.",
+    "גַּם-בַּהֲמוֹת שָׂדֶה, תַּעֲרוֹג אֵלֶיךָ: כִּי יָבְשׁוּ, אֲפִיקֵי מָיִם, וְאֵשׁ, אָכְלָה נְאוֹת הַמִּדְבָּר."
+  ],
+  "english": [
+    "The word of the LORD that came to Joel the son of Pethuel.",
+    "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+    "Tell ye your children of it, and\nlet your children\ntell\n their children, and their children another generation.",
+    "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+    "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+    "For a nation is come up upon my land, strong, and without number, whose teeth\nare the teeth of a lion, and he hath the cheek teeth of a great lion.",
+    "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast\nit away; the branches thereof are made white.",
+    "Lament like a virgin girded with sackcloth for the husband of her youth.",
+    "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’S ministers, mourn.",
+    "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+    "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+    "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree,\neven all the trees of the field, are withered: because joy is withered away from the sons of men.",
+    "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+    "Sanctify ye a fast, call a solemn assembly, gather the elders\nand all the inhabitants of the land\ninto the house of the LORD your God, and cry unto the LORD,",
+    "Alas for the day! for the day of the LORD\nis at hand, and as a destruction from the Almighty shall it come.",
+    "Is not the meat cut off before our eyes,\nyea, joy and gladness from the house of our God?",
+    "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+    "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+    "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+    "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness."
+  ],
+  "steinsaltz": [
+    "דְּבַר־ה' אֲשֶׁר הָיָה אֶל־יוֹאֵל בֶּן־פְּתוּאֵל:",
+    "שִׁמְעוּ־זֹאת, הַזְּקֵנִים! וְהַאֲזִינוּ, כֹּל יוֹשְׁבֵי הָאָרֶץ: הֶהָיְתָה זֹּאת בִּימֵיכֶם, וְאִם בִּימֵי אֲבֹתֵיכֶם קרתה פורענות כה חמורה, כמו הפורענות שתתואר כאן,",
+    "שבגלל רושמהּ הקשה עָלֶיהָ לִבְנֵיכֶם סַפֵּרוּ. תדברו בה ותעבירו אותה מדור לדור – אתם לבניכם, וּבְנֵיכֶם יספרו לִבְנֵיהֶם, וּבְנֵיהֶם לְדוֹר אַחֵר. נחיל ארבה עצום עתיד להגיע לארץ ולכלות את כל היבול.",
+    "יֶתֶר, את מה שיותיר הַגָּזָם, מין אחד של הארבה, אָכַל מין אחר של הָאַרְבֶּה, וְיֶתֶר הָאַרְבֶּה אָכַל הַיָּלֶק, וְיֶתֶר הַיֶּלֶק אָכַל הֶחָסִיל. סוגי ארבה שונים ישתפו פעולה בחיסול כל מה שתצמיח האדמה. או: אלו הם מופעים שונים במחזור חייו של אותו מין ארבה. כלומר, הארבה יישאר במדינה במשך זמן ניכר.",
+    "הָקִיצוּ, התעוררו משיכרונכם, שִׁכּוֹרִים! וּבְכוּ וְהֵילִילוּ, יללו, כָּל־שֹׁתֵי יָיִן, עַל־עָסִיס, מיץ הפרי כִּי נִכְרַת מִפִּיכֶם, על כך שכלה כל היין. אפילו מי שאינם צלולים, השיכורים, לא יוכלו להתעלם מן הנזק העצום שיסב הארבה.",
+    "כִּי־גוֹי עָלָה עַל־אַרְצִי, עָצוּם וְאֵין מִסְפָּר. הארבה בהמוניו מדומה למתקפה צבאית אדירה. שִׁנָּיו הן שִׁנֵּי אַרְיֵה, וּמְתַלְּעוֹת, ניבים של לָבִיא לוֹ. הארבה אינו אוכל רק דברים רכים. יש לו יכולת יוצאת דופן לאכול הכול.",
+    "שָׂם את גַּפְנִי לְשַׁמָּה, שממה, וּתְאֵנָתִי לִקְצָפָה. בכעס יושחת ויישמד עץ התאנה. חָשֹׂף חֲשָׂפָהּ וְהִשְׁלִיךְ, הארבה אינו מכלה את העץ עצמו, אבל הוא מכרסם את קליפות העצים. כתוצאה מכך, גזעי התאנה והגפן ייחשפו ואף – הִלְבִּינוּ שָׂרִיגֶיהָ, ענפיה.",
+    "אֱלִי, בכי ויללי כִּבְתוּלָה חֲגֻרַת־שַׂק המתאבלת עַל־בַּעַל נְעוּרֶיהָ. האסון הוא כה גדול, שאין לישראל אלא לבכות על החורבן. בכי טרגי זה מדומה לקינתה של אשה צעירה מאורסת המחכה לבעל נעורים, והוא מת.",
+    "הָכְרַת מִנְחָה וָנֶסֶךְ, הבאים מן הצומח, מִבֵּית ה'. אָבְלוּ הַכֹּהֲנִים מְשָׁרְתֵי ה'. בדרך כלל אל המחסנים והאוצרות שבבית ה' אנשים מביאים את כל מה שיש בידם. בעקבות מתקפת הארבה המקדש יעמוד שומם לעיני הכהנים, שכן היבול כה יידלדל שאנשים לא יביאו אליו מנחות ונסכים.",
+    "הארבה איננו פוגע באדמה עצמה אלא מתנחל על פני השדה, אבל אחרי מתקפה של נחיל עצום המחסל את כל הצמחייה – שֻׁדַּד, נשדד שָׂדֶה ואָבְלָה אֲדָמָה, כִּי שֻׁדַּד דָּגָן, הוֹבִישׁ, התייבש תִּירוֹשׁ, יין, אֻמְלַל, יבש יִצְהָר, שמן.",
+    "הֹבִישׁוּ, בַּטאו צער ואכזבה, אִכָּרִים! הֵילִילוּ, יַללו, כֹּרְמִים, בעלי הכרמים עַל־חִטָּה וְעַל־שְׂעֹרָה שנעלמו כִּי אָבַד קְצִיר שָׂדֶה.",
+    "הַגֶּפֶן הוֹבִישָׁה, ייבשה פֵּרותיה, וְהַתְּאֵנָה אֻמְלָלָה, רִמּוֹן גַּם־תָּמָר וְתַפּוּחַ. כָּל־עֲצֵי הַשָּׂדֶה הנושאים פרי יָבֵשׁוּ, כִּי־הֹבִישׁ, חדל שָׂשׂוֹן מִן־בְּנֵי אָדָם.",
+    "חִגְרוּ שק וְסִפְדוּ, הַכֹּהֲנִים! הֵילִילוּ, מְשָׁרְתֵי מִזְבֵּחַ! בֹּאוּ, לִינוּ בַשַּׂקִּים, מְשָׁרְתֵי אֱלֹהָי, כִּי נִמְנַע מִבֵּית אֱלֹהֵיכֶם מִנְחָה וָנָסֶךְ.",
+    "קַדְּשׁוּ, קִבעו צוֹם, קִרְאוּ עֲצָרָה, הַכריזו על אספת עם. אִסְפוּ, זְקֵנִים, את כֹּל יֹשְׁבֵי הָאָרֶץ אל בֵּית ה' אֱלֹהֵיכֶם, וְזַעֲקוּ אֶל־ה' על הפורענות הקרבה. בצום לא רק נמנעים ממאכל ומשקה, אלא מתכנסים בו המוני העם לשמיעת דברי כיבושין ולבכייה.",
+    "אֲהָהּ, אוי לו לַיּוֹם שבו יגיע הארבה, כִּי נראה שקָרוֹב יוֹם ה', היום שבו ה' ידון ויעניש בארבה, או: מתוך הפורענות הקרובה אנו דואגים ליום הדין הגדול שיגיע בקץ הימים. וּבו הכול יושמד כְשֹׁד מִשַּׁדַּי יָבוֹא. כמו שוד שנשלח מאלוקים.",
+    "הֲלוֹא נֶגֶד עֵינֵינוּ האֹכֶל נִכְרָת, ואפילו מִבֵּית אֱלֹהֵינוּ שבתו שִׂמְחָה וָגִיל.",
+    "עָבְשׁוּ, התעפשו, נרקבו אפילו פְרֻדוֹת, גרגרים הטמונים תַּחַת מֶגְרְפֹתֵיהֶם, רגבי האדמה. נָשַׁמּוּ, הפכו שממה, התרוקנו אֹצָרוֹת, מחסנים, נֶהֶרְסוּ מַמְּגֻרוֹת, שנועדו לאחסון יבול הארץ כִּי הֹבִישׁ דָּגָן.",
+    "מַה, מאוד נֶּאֶנְחָה בְהֵמָה, נָבֹכוּ, תעו עֶדְרֵי בָקָר, כִּי אֵין מִרְעֶה לָהֶם. גַּם־עֶדְרֵי הַצֹּאן, שהן קלות תנועה יותר מן הבקר נֶאְשָׁמוּ, יינזקו. הארבה יחסל גם את מרעה הצאן והבקר.",
+    "אֵלֶיךָ, ה', אֶקְרָא, כִּי אין זו מכה המשפיעה במקום מוגבל, אלא אֵשׁ אָכְלָה נְאוֹת מִדְבָּר, וְלֶהָבָה לִהֲטָה כָּל־עֲצֵי הַשָּׂדֶה. תיאבונו הרב של הארבה והתפשטותו העצומה מדומה לאש שאין לה מעצור.",
+    "גַּם־בַּהֲמוֹת שָׂדֶה תַּעֲרוֹג, תגעה אֵלֶיךָ, כִּי יָבְשׁוּ אֲפִיקֵי מָיִם, מסתבר שבאותה עת פקדה את הארץ גם בצורת. וְאֵשׁ אָכְלָה את נְאוֹת הַמִּדְבָּר."
+  ],
+  "ai_explanation": [
+    "דבר ה' נמסר אל יואל בן פתואל.",
+    "יואל פונה אל הזקנים ואל כל יושבי הארץ ומבקש מהם לשמוע אם אירע אסון כזה בימיהם או בימי אבותיהם. עצמת הפורענות תתברר בהמשך.",
+    "יש להעביר את זיכרון הפורענות מדור לדור. נחיל ארבה עצום עתיד להגיע לארץ ולכלות את היבול.",
+    "ארבעה סוגי ארבה מתוארים כשהם מכלים בזה אחר זה את מה שהותירו קודמיהם. אפשר שמדובר במינים שונים, או בשלבים שונים במחזור חייו של אותו מין, ולכן הארבה יישאר בארץ זמן רב.",
+    "השיכורים נקראים להתעורר, לבכות וליילל, משום שכלה היין ומיץ הפרי. אפילו הם לא יוכלו להתעלם מהנזק העצום שיגרום הארבה.",
+    "הארבה מדומה לעם עצום וחסר מספר התוקף את הארץ. שיניו וניביו מתוארים כשיני אריה, והוא מסוגל לאכול דברים רבים ולא רק מזון רך.",
+    "הגפן והתאנה הושחתו, והארבה כרסם את קליפות העצים. הענפים והשריגים נחשפו והלבינו.",
+    "העם נקרא לבכות וליילל כאישה צעירה המתאבלת על מות בעל נעוריה. האסון גדול כל כך עד שאין לישראל אלא להתאבל על החורבן.",
+    "היעדר היבול מונע את הבאת המנחות והנסכים לבית ה'. הכוהנים מתאבלים, משום שהמקדש עומד שומם ואינו מקבל את הקרבנות מן הצומח.",
+    "השדה והאדמה נראים כשודדים ואבלים לאחר שהצמחייה הושמדה. הדגן נשדד, התירוש התייבש והיצהר, כלומר השמן, יבש.",
+    "האיכרים ובעלי הכרמים נקראים לבטא צער ואכזבה, מפני שהחיטה, השעורה וקציר השדה אבדו.",
+    "כל עצי הפרי התייבשו או חדלו להניב, ובני האדם איבדו את שמחתם.",
+    "הכוהנים נקראים ללבוש שק, להספיד וליילל, ואף ללון בשקים. המנחה והנסך נמנעו מבית האלוהים.",
+    "יש לקבוע צום, לכנס אספת עם בבית ה' ולזעוק אליו. הצום כולל גם התכנסות, שמיעת דברי כיבושין ובכי.",
+    "הפורענות הקרובה מתפרשת כסימן לכך שיום ה' קרוב, יום שבו ה' ידון ויעניש. אפשר גם לראות בה רמז לדין הגדול בקץ הימים.",
+    "המחסור נראה לעיני כולם: האוכל נכרת, ואפילו מבית האלוהים נעלמו השמחה והששון.",
+    "גם הגרגרים שנשארו מתחת לרגבי האדמה התעפשו ונרקבו. המחסנים התרוקנו והממגורות נהרסו, משום שהדגן התייבש.",
+    "הבהמות נאנחות, עדרי הבקר תועים מפני שאין להם מרעה, וגם עדרי הצאן ניזוקים. הארבה מחסל את המרעה של הבקר והצאן.",
+    "יואל קורא אל ה', מפני שהפורענות מתפשטת בכל הארץ. תיאבונו העצום של הארבה מדומה לאש וללהבה האוכלות את נאות המדבר ואת עצי השדה.",
+    "גם בהמות השדה פונות אל ה', משום שאפיקי המים יבשו. לצד הארבה מתוארת גם בצורת, והאש אוכלת את נאות המדבר."
+  ],
+  "ai_explanation_en": [
+    "The word of the Lord was delivered to Joel son of Pethuel.",
+    "Joel addresses the elders and all the inhabitants of the land, asking whether such a disaster had ever occurred in their days or in the days of their ancestors. The magnitude of the calamity will become clear in what follows.",
+    "The memory of the calamity is to be passed from generation to generation. A huge swarm of locusts is destined to come upon the land and destroy the crops.",
+    "Four kinds of locusts are described as destroying, one after another, what the previous kind left behind. They may be different species, or different stages in the life cycle of one species, meaning that the locusts will remain in the land for a long time.",
+    "The drunkards are called to wake up, weep, and wail because the wine and fruit juice have disappeared. Even they will be unable to ignore the enormous damage caused by the locusts.",
+    "The locusts are compared to a vast, numberless nation attacking the land. Their teeth and fangs are likened to those of lions, and they are capable of eating many things, not only soft food.",
+    "The vine and fig tree have been devastated, and the locusts have gnawed away the bark of the trees. The branches and shoots have been exposed and turned white.",
+    "The people are called to weep and wail like a young woman mourning the death of her youthful husband. The disaster is so great that Israel can do nothing but mourn the destruction.",
+    "The lack of produce prevents offerings and libations from being brought to the house of the Lord. The priests mourn because the Temple stands empty and receives none of the offerings made from agricultural produce.",
+    "The field and the land appear plundered and mournful after the vegetation has been destroyed. The grain has been plundered, the new wine has dried up, and the oil has withered.",
+    "The farmers and vineyard keepers are called to express grief and disappointment because the wheat, barley, and harvest of the field have been lost.",
+    "All the fruit trees have dried up or stopped producing, and human beings have lost their joy.",
+    "The priests are called to wear sackcloth, mourn, and wail, and even to spend the night in sackcloth. The grain offering and libation have been withheld from the house of God.",
+    "A fast is to be established, the people are to be gathered in an assembly at the house of the Lord, and they are to cry out to Him. The fast also includes gathering together, hearing words of admonition, and weeping.",
+    "The approaching calamity is understood as a sign that the day of the Lord is near, the day when God will judge and punish. It may also be viewed as a reference to the great judgment at the end of days.",
+    "The shortage is visible to everyone: food has been cut off, and even from the house of God joy and gladness have disappeared.",
+    "Even the grains left beneath the clods of earth have become moldy and rotten. The storehouses have been emptied and the granaries ruined because the grain has dried up.",
+    "The animals groan, the herds of cattle wander because they have no pasture, and the flocks of sheep are also harmed. The locusts destroy the grazing land of the cattle and sheep.",
+    "Joel calls out to the Lord because the calamity is spreading throughout the land. The locusts' enormous appetite is compared to fire and flame consuming the pastures and trees of the field.",
+    "The animals of the field also turn to the Lord because the channels of water have dried up. Alongside the locust plague, a drought is also described, while fire consumes the wilderness pastures."
+  ],
+  "perush": [
+    "דבר ה' נמסר אל יואל בן פתואל.",
+    "יואל פונה אל הזקנים ואל כל יושבי הארץ ומבקש מהם לשמוע אם אירע אסון כזה בימיהם או בימי אבותיהם. עצמת הפורענות תתברר בהמשך.",
+    "יש להעביר את זיכרון הפורענות מדור לדור. נחיל ארבה עצום עתיד להגיע לארץ ולכלות את היבול.",
+    "ארבעה סוגי ארבה מתוארים כשהם מכלים בזה אחר זה את מה שהותירו קודמיהם. אפשר שמדובר במינים שונים, או בשלבים שונים במחזור חייו של אותו מין, ולכן הארבה יישאר בארץ זמן רב.",
+    "השיכורים נקראים להתעורר, לבכות וליילל, משום שכלה היין ומיץ הפרי. אפילו הם לא יוכלו להתעלם מהנזק העצום שיגרום הארבה.",
+    "הארבה מדומה לעם עצום וחסר מספר התוקף את הארץ. שיניו וניביו מתוארים כשיני אריה, והוא מסוגל לאכול דברים רבים ולא רק מזון רך.",
+    "הגפן והתאנה הושחתו, והארבה כרסם את קליפות העצים. הענפים והשריגים נחשפו והלבינו.",
+    "העם נקרא לבכות וליילל כאישה צעירה המתאבלת על מות בעל נעוריה. האסון גדול כל כך עד שאין לישראל אלא להתאבל על החורבן.",
+    "היעדר היבול מונע את הבאת המנחות והנסכים לבית ה'. הכוהנים מתאבלים, משום שהמקדש עומד שומם ואינו מקבל את הקרבנות מן הצומח.",
+    "השדה והאדמה נראים כשודדים ואבלים לאחר שהצמחייה הושמדה. הדגן נשדד, התירוש התייבש והיצהר, כלומר השמן, יבש.",
+    "האיכרים ובעלי הכרמים נקראים לבטא צער ואכזבה, מפני שהחיטה, השעורה וקציר השדה אבדו.",
+    "כל עצי הפרי התייבשו או חדלו להניב, ובני האדם איבדו את שמחתם.",
+    "הכוהנים נקראים ללבוש שק, להספיד וליילל, ואף ללון בשקים. המנחה והנסך נמנעו מבית האלוהים.",
+    "יש לקבוע צום, לכנס אספת עם בבית ה' ולזעוק אליו. הצום כולל גם התכנסות, שמיעת דברי כיבושין ובכי.",
+    "הפורענות הקרובה מתפרשת כסימן לכך שיום ה' קרוב, יום שבו ה' ידון ויעניש. אפשר גם לראות בה רמז לדין הגדול בקץ הימים.",
+    "המחסור נראה לעיני כולם: האוכל נכרת, ואפילו מבית האלוהים נעלמו השמחה והששון.",
+    "גם הגרגרים שנשארו מתחת לרגבי האדמה התעפשו ונרקבו. המחסנים התרוקנו והממגורות נהרסו, משום שהדגן התייבש.",
+    "הבהמות נאנחות, עדרי הבקר תועים מפני שאין להם מרעה, וגם עדרי הצאן ניזוקים. הארבה מחסל את המרעה של הבקר והצאן.",
+    "יואל קורא אל ה', מפני שהפורענות מתפשטת בכל הארץ. תיאבונו העצום של הארבה מדומה לאש וללהבה האוכלות את נאות המדבר ואת עצי השדה.",
+    "גם בהמות השדה פונות אל ה', משום שאפיקי המים יבשו. לצד הארבה מתוארת גם בצורת, והאש אוכלת את נאות המדבר."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "התרעת הנביא ותיאור נחיל הארבה",
+      "title_en": "The Prophet's Warning and the Locust Swarm",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "יואל מוסר את דבר ה' ומזמין את העם להכיר בחומרת פורענות חסרת תקדים, שבה נחילי ארבה מכלים את היבול בזה אחר זה.",
+      "summary_en": "Joel delivers the word of the Lord and calls the people to recognize the unprecedented severity of a calamity in which successive waves of locusts destroy the crops.",
+      "image_prompt": "A symbolic biblical landscape with a prophet addressing elders and villagers while a vast dark locust swarm approaches fields, vineyards, and fig trees, dramatic natural light, no text"
+    },
+    {
+      "title": "חורבן היבול ואבל העם",
+      "title_en": "The Destruction of the Crops and the People's Mourning",
+      "start_verse": 5,
+      "end_verse": 12,
+      "summary": "הארבה מכלה את היין, הגפנים, התאנים, הדגן ועצי הפרי. השיכורים, האיכרים, הכורמים וכל בני האדם נקראים לבכות על אובדן היבול והשמחה.",
+      "summary_en": "The locusts destroy the wine, vines, fig trees, grain, and fruit trees. Drunkards, farmers, vineyard keepers, and all people are called to mourn the loss of the harvest and of joy.",
+      "image_prompt": "A devastated ancient agricultural landscape with stripped vines, exposed fig branches, empty fields, grieving farmers, and a distant locust cloud, solemn biblical atmosphere, no text"
+    },
+    {
+      "title": "השבתת עבודת המקדש והקריאה לצום",
+      "title_en": "The Suspension of Temple Worship and the Call to Fast",
+      "start_verse": 13,
+      "end_verse": 14,
+      "summary": "הכוהנים נקראים ללבוש שק ולהספיד, מפני שאין עוד מנחה ונסך. העם כולו מצווה להתכנס בבית ה', לצום ולזעוק אליו.",
+      "summary_en": "The priests are called to wear sackcloth and mourn because there is no longer any grain offering or libation. The entire people are commanded to gather at the house of the Lord, fast, and cry out to Him.",
+      "image_prompt": "Priests in sackcloth gathering people for a solemn fast before a simple biblical sanctuary, mourners assembled in prayer, austere atmosphere, no text"
+    },
+    {
+      "title": "יום ה' והמחסור בארץ",
+      "title_en": "The Day of the Lord and Scarcity in the Land",
+      "start_verse": 15,
+      "end_verse": 18,
+      "summary": "הפורענות הקרובה מעוררת חשש מפני יום ה'. האוכל נכרת, המחסנים מתרוקנים, והבהמות סובלות מפני שאין להן מרעה.",
+      "summary_en": "The approaching calamity raises fear of the day of the Lord. Food is cut off, the storehouses are emptied, and the animals suffer because they have no pasture.",
+      "image_prompt": "A barren agricultural settlement with empty granaries, ruined storage structures, distressed cattle and sheep, and grieving people under a dark sky, biblical symbolic style, no text"
+    },
+    {
+      "title": "זעקה אל ה' בארץ חרבה",
+      "title_en": "A Cry to the Lord in a Ravaged Land",
+      "start_verse": 19,
+      "end_verse": 20,
+      "summary": "יואל זועק אל ה' על התפשטות הפורענות, המדומה לאש האוכלת את הארץ. גם בהמות השדה צמאות, משום שאפיקי המים יבשו, ובצורת מצטרפת למכת הארבה.",
+      "summary_en": "Joel cries out to the Lord as the spreading calamity is compared to fire consuming the land. The animals of the field are also thirsty because the water channels have dried up, and drought accompanies the locust plague.",
+      "image_prompt": "A scorched wilderness with dry water channels, thirsty wild animals, burned field trees, and a distant human figure crying toward the sky, symbolic biblical scene, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 4.6,
+      "end": 9.28,
+      "usfm": "JOL.1.1"
+    },
+    {
+      "start": 9.28,
+      "end": 18.96,
+      "usfm": "JOL.1.2"
+    },
+    {
+      "start": 18.96,
+      "end": 25.52,
+      "usfm": "JOL.1.3"
+    },
+    {
+      "start": 25.52,
+      "end": 39.9,
+      "usfm": "JOL.1.4"
+    },
+    {
+      "start": 39.9,
+      "end": 49.94,
+      "usfm": "JOL.1.5"
+    },
+    {
+      "start": 49.94,
+      "end": 59.46,
+      "usfm": "JOL.1.6"
+    },
+    {
+      "start": 59.46,
+      "end": 71.22,
+      "usfm": "JOL.1.7"
+    },
+    {
+      "start": 71.22,
+      "end": 75.94,
+      "usfm": "JOL.1.8"
+    },
+    {
+      "start": 75.94,
+      "end": 83.46,
+      "usfm": "JOL.1.9"
+    },
+    {
+      "start": 83.46,
+      "end": 93.0,
+      "usfm": "JOL.1.10"
+    },
+    {
+      "start": 93.0,
+      "end": 103.1,
+      "usfm": "JOL.1.11"
+    },
+    {
+      "start": 103.1,
+      "end": 117.36,
+      "usfm": "JOL.1.12"
+    },
+    {
+      "start": 117.36,
+      "end": 132.6,
+      "usfm": "JOL.1.13"
+    },
+    {
+      "start": 132.6,
+      "end": 142.66,
+      "usfm": "JOL.1.14"
+    },
+    {
+      "start": 142.66,
+      "end": 149.6,
+      "usfm": "JOL.1.15"
+    },
+    {
+      "start": 149.6,
+      "end": 155.42,
+      "usfm": "JOL.1.16"
+    },
+    {
+      "start": 155.42,
+      "end": 164.08,
+      "usfm": "JOL.1.17"
+    },
+    {
+      "start": 164.08,
+      "end": 174.22,
+      "usfm": "JOL.1.18"
+    },
+    {
+      "start": 174.22,
+      "end": 183.28,
+      "usfm": "JOL.1.19"
+    },
+    {
+      "start": 183.28,
+      "end": 200.04,
+      "usfm": "JOL.1.20"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.28,
+    18.96,
+    25.52,
+    39.9,
+    49.94,
+    59.46,
+    71.22,
+    75.94,
+    83.46,
+    93.0,
+    103.1,
+    117.36,
+    132.6,
+    142.66,
+    149.6,
+    155.42,
+    164.08,
+    174.22,
+    183.28,
+    200.04
+  ],
+  "times_en_usfm": [
+    "JOL.1.1",
+    "JOL.1.2",
+    "JOL.1.3",
+    "JOL.1.4",
+    "JOL.1.5",
+    "JOL.1.6",
+    "JOL.1.7",
+    "JOL.1.8",
+    "JOL.1.9",
+    "JOL.1.10",
+    "JOL.1.11",
+    "JOL.1.12",
+    "JOL.1.13",
+    "JOL.1.14",
+    "JOL.1.15",
+    "JOL.1.16",
+    "JOL.1.17",
+    "JOL.1.18",
+    "JOL.1.19",
+    "JOL.1.20"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? פרק א' נפתח בהצגת יואל בן־פתואל ובציון שהמסר שבפרק הוא דבר ה' שנמסר אליו.",
+      "text_he": "הידעת? פרק א' נפתח בהצגת יואל בן־פתואל ובציון שהמסר שבפרק הוא דבר ה' שנמסר אליו.",
+      "text_en": "Did you know? The chapter opens by introducing Joel son of Pethuel and stating that its message is the word of the LORD delivered to him."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? יואל פונה אל הזקנים ואל כל יושבי הארץ ומבקש מהם לבחון אם אירע אסון כזה בימיהם או בימי אבותיהם.",
+      "text_he": "הידעת? יואל פונה אל הזקנים ואל כל יושבי הארץ ומבקש מהם לבחון אם אירע אסון כזה בימיהם או בימי אבותיהם.",
+      "text_en": "Did you know? Joel addresses the elders and all the inhabitants of the land, asking them to consider whether anything like this disaster has happened in their days or in the days of their ancestors."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? תיאור הפגיעה נעשה כרצף של ארבעה מזיקים: הגזם, הארבה, הילק והחסיל, כאשר כל אחד אוכל את מה שהותיר קודמו.",
+      "text_he": "הידעת? תיאור הפגיעה נעשה כרצף של ארבעה מזיקים: הגזם, הארבה, הילק והחסיל, כאשר כל אחד אוכל את מה שהותיר קודמו.",
+      "text_en": "Did you know? The devastation is described as a succession of four pests—the cutting locust, the swarming locust, the hopping locust, and the destroying locust—with each one consuming what the previous one left behind."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? הפורענות פוגעת גם בשותי היין, מפני שהעסיס — תירוש הענבים — נכרת מפיהם.",
+      "text_he": "הידעת? הפורענות פוגעת גם בשותי היין, מפני שהעסיס — תירוש הענבים — נכרת מפיהם.",
+      "text_en": "Did you know? The calamity also affects wine drinkers, because the new wine—the juice of the grapes—has been cut off from their mouths."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? הנזק לחקלאות מתואר בפירוט: הגפן והתאנה נפגעו, ענפיהן נחשפו, והשריגים הלבינו.",
+      "text_he": "הידעת? הנזק לחקלאות מתואר בפירוט: הגפן והתאנה נפגעו, ענפיהן נחשפו, והשריגים הלבינו.",
+      "text_en": "Did you know? The damage to agriculture is described in detail: the vine and the fig tree have been struck, their branches stripped bare, and their shoots turned white."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? המחסור מקיף את גידולי השדה המרכזיים: הדגן נשדד, התירוש הובש והיצהר — שמן הזית — אומלל.",
+      "text_he": "הידעת? המחסור מקיף את גידולי השדה המרכזיים: הדגן נשדד, התירוש הובש והיצהר — שמן הזית — אומלל.",
+      "text_en": "Did you know? The shortage affects the main field crops: the grain has been ruined, the new wine has dried up, and the olive oil has withered."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הכוהנים נדרשים ללבוש שק ולהספיד, משום שהמחסור ביבול מונע את הקרבת המנחה והנסך בבית ה'.",
+      "text_he": "הידעת? הכוהנים נדרשים ללבוש שק ולהספיד, משום שהמחסור ביבול מונע את הקרבת המנחה והנסך בבית ה'.",
+      "text_en": "Did you know? The priests are called to put on sackcloth and mourn, because the lack of produce prevents the grain offering and drink offering from being presented in the house of the LORD."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? יואל קורא לקדש צום, לכנס עצרת ולאסוף את הזקנים ואת כל יושבי הארץ בבית ה', כדי לזעוק אל ה'.",
+      "text_he": "הידעת? יואל קורא לקדש צום, לכנס עצרת ולאסוף את הזקנים ואת כל יושבי הארץ בבית ה', כדי לזעוק אל ה'.",
+      "text_en": "Did you know? Joel calls for a fast to be consecrated, an assembly to be proclaimed, and the elders and all the inhabitants of the land to be gathered at the house of the LORD to cry out to him."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? המחסור אינו מסתכם בשדות: הפרודות נרקבות תחת מגופותיהן, האוצרות נשמים והממגורות נהרסות, מפני שהדגן הובש.",
+      "text_he": "הידעת? המחסור אינו מסתכם בשדות: הפרודות נרקבות תחת מגופותיהן, האוצרות נשמים והממגורות נהרסות, מפני שהדגן הובש.",
+      "text_en": "Did you know? The shortage is not limited to the fields: the seeds rot beneath their clods, the storehouses lie desolate, and the granaries are destroyed because the grain has dried up."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בסיום הפרק גם בהמות השדה מצטרפות לתיאור המצוקה: אפיקי המים יבשו, והאש אכלה את נאות המדבר.",
+      "text_he": "הידעת? בסיום הפרק גם בהמות השדה מצטרפות לתיאור המצוקה: אפיקי המים יבשו, והאש אכלה את נאות המדבר.",
+      "text_en": "Did you know? At the end of the chapter, even the wild animals join the description of the distress: the watercourses have dried up, and fire has consumed the pastures of the wilderness."
+    }
+  ]
+}
