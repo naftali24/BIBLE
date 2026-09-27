@@ -918,7 +918,7 @@ function updateAnswerCounters(){
  $('correctCount').textContent=correctAnswers;
  $('wrongCount').textContent=wrongAnswers;
  $('totalCount').textContent=questionsAsked;
- $('percentCount').textContent=(questionsAsked?Math.round(100*correctAnswers/questionsAsked):0)+'%';
+ $('percentCount').textContent=(correctAnswers+wrongAnswers?Math.round(100*correctAnswers/(correctAnswers+wrongAnswers)):0)+'%';
 }
 let feedbackAudioContext=null;
 function playFeedbackTone(correct){
