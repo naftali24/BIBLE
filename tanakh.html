@@ -8,7 +8,7 @@
 *{box-sizing:border-box}html,body{margin:0;height:100%;background:#120b04;color:#fff;font-family:Arial,sans-serif}body{height:100dvh;overflow:hidden;display:flex;flex-direction:column}
 header{background:#0d0803;padding:7px;border-bottom:1px solid #805b17;flex:0 0 auto}h1{margin:0 0 6px;text-align:center;color:#ffd95e;text-shadow:0 2px #6d3d00;font-size:28px}
 #chapterCounter{font-size:16px;color:#ffe99b;margin-right:8px;vertical-align:middle}
-#topControls{flex-wrap:nowrap;gap:4px;overflow-x:auto;justify-content:center}
+#topControls{flex-wrap:nowrap;gap:4px;overflow-x:auto;justify-content:flex-start}
 #topControls button,#topControls select{font-size:13px;padding:6px 8px;min-width:auto;white-space:nowrap}
 #sel{width:74px;max-width:74px;background:linear-gradient(#fff1a6,#d99a16);border:1px solid #8b5d00}
 #speedSel{width:66px;max-width:66px;min-width:66px;padding:6px 4px}
@@ -784,6 +784,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 /* Menu attention pulse until first press */
 @keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
 #chapterMenuBtn.menuAttention{animation:menuSizePulse .75s ease-in-out infinite;transform-origin:center}
+#reloadChapterBtn{flex:0 0 auto;display:block!important;font-size:24px!important;line-height:1;padding:3px 8px!important;min-width:38px!important;background:#ffd65c!important;color:#211400!important}
 .chapterGold.lockedChapter{filter:saturate(.45);opacity:.72;cursor:not-allowed;position:relative}
 .chapterGold.lockedChapter::after{content:" 🔒";font-size:.72em}
 </style>
@@ -797,6 +798,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
       <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
       <div id="chapterMenu"></div>
     </div>
+    <button id="reloadChapterBtn" type="button" onclick="reloadCurrentChapter()" title="טען מחדש את הפרק הנוכחי" aria-label="טען מחדש את הפרק הנוכחי">↻</button>
     <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
       <option value="">פרק</option>
     </select>
@@ -883,6 +885,21 @@ const BOOKS=[
   {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
 ];
 let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
+function reloadCurrentChapter(){
+  if(!current || !currentBook)return;
+  const main=document.getElementById('main');
+  const top=main.getBoundingClientRect().top+50;
+  const visible=verseCards.findIndex(card=>card.getBoundingClientRect().bottom>top);
+  const selected=verseCards.findIndex(card=>card.classList.contains('active'));
+  const verse=visible>=0?visible:Math.max(0,selected);
+  loadChapter(current,currentBook,verse);
+}
+function restoreReloadVerse(index){
+  if(!Number.isInteger(index)||index<0||!verseCards[index])return;
+  setActive(index,false);
+  const scroller=document.getElementById('main'),card=verseCards[index];
+  scroller.scrollTop+=card.getBoundingClientRect().top-scroller.getBoundingClientRect().top-6;
+}
 function renderBookMenu(){
   chapterMenu.className='open bookMode';chapterMenu.innerHTML='';
   BOOKS.forEach(book=>{const b=document.createElement('button');b.className='bookGold';b.textContent=(language==='en'?(book.nameEn||book.name):book.name);b.dir=language==='en'?'ltr':'rtl';b.onclick=(e)=>{e.stopPropagation();currentBook=book;renderChapterMenu(book)};chapterMenu.appendChild(b)});
@@ -890,9 +907,7 @@ function renderBookMenu(){
 function renderChapterMenu(book){
   chapterMenu.className='open chapterMode';chapterMenu.innerHTML='';
   const back=document.createElement('button');back.id='chapterBack';back.textContent=language==='en'?'← Back to books':'← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
-  const joshuaIndex=BOOKS.findIndex(b=>b.id==='joshua');
-  const bookIndex=BOOKS.findIndex(b=>b.id===book.id);
-  const firstChapterOnly=(bookIndex>=joshuaIndex);
+  const firstChapterOnly=['joshua','judges','samuel1'].includes(book.id);
   for(let i=1;i<=book.chapters;i++){
     const b=document.createElement('button');b.className='chapterGold';b.textContent=i;b.dataset.chapter=i;
     if(firstChapterOnly && i>1){
@@ -1208,7 +1223,7 @@ function plainHebrewTranslation(s){
 }
 
 
-async function loadChapter(n,book=currentBook){
+async function loadChapter(n,book=currentBook,returnVerse=null){
   if(!n)return;
   closeDidYouKnow();activeDidYouKnow=null;didYouKnowBtn.classList.remove('available');
   quizOpen=false;quizBox.classList.remove('open');updateQuizMainButton();
@@ -1257,6 +1272,7 @@ async function loadChapter(n,book=currentBook){
     // Start image directory lookup immediately; render text without waiting for it.
     const imagePromise=loadImagesInBackground(base,n,requestedBook);
     render();
+    if(Number.isInteger(returnVerse))restoreReloadVerse(returnVerse);
 
     bookTitle.textContent=language==='en'?(requestedBook.nameEn||requestedBook.name):('ספר '+requestedBook.name);
     chapterCounter.textContent=n+'/'+requestedBook.chapters;
@@ -1267,6 +1283,7 @@ async function loadChapter(n,book=currentBook){
     finishLoadProgress(true);
     statusEl.textContent=requestedBook.name+' '+n+' • GitHub';
     await imagePromise;
+    if(Number.isInteger(returnVerse)&&current===n&&currentBook.id===requestedBook.id)restoreReloadVerse(returnVerse);
   }catch(e){
     console.error(e);statusEl.textContent='שגיאה';finishLoadProgress(false);
     alert('שגיאה בטעינת '+requestedBook.name+' '+n+' מ-GitHub:\n'+e.message);
@@ -1737,7 +1754,7 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;updateWordKaraoke();if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}const seqVerse=currentAudioVerse();if(sequenceMode&&seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastSyncedVerse=-1;setActive(seqVerse,false);scrollActiveVerseToTop(seqVerse);}else{setActive(seqVerse,true);}});
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}const seqVerse=currentAudioVerse();if(sequenceMode&&seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastSyncedVerse=-1;setActive(seqVerse,false);scrollActiveVerseToTop(seqVerse);}else{setActive(seqVerse,true);}});
 
 function playSequence(){
   stopTTS(); if(!data)return;
