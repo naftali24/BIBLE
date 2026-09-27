@@ -1,0 +1,616 @@
+{
+  "book": "Psalms",
+  "book_he": "תהילים",
+  "book_chapters": 150,
+  "chapter": 68,
+  "title": "תהילים פרק 68",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2668.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2668.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/PSA/68-0b0bd46039bcb869422eedcd3a49cd40.mp3?version_id=1",
+  "verses": [
+    "לַמְנַצֵּחַ לְדָוִד, מִזְמוֹר שִׁיר.",
+    "יָקוּם אֱלֹהִים, יָפוּצוּ אוֹיְבָיו; וְיָנוּסוּ מְשַׂנְאָיו, מִפָּנָיו.",
+    "כְּהִנְדֹּף עָשָׁן, תִּנְדֹּף: כְּהִמֵּס דּוֹנַג, מִפְּנֵי-אֵשׁ-- יֹאבְדוּ רְשָׁעִים, מִפְּנֵי אֱלֹהִים.",
+    "וְצַדִּיקִים--יִשְׂמְחוּ יַעַלְצוּ, לִפְנֵי אֱלֹהִים; וְיָשִׂישׂוּ בְשִׂמְחָה.",
+    "שִׁירוּ, לֵאלֹהִים-- זַמְּרוּ שְׁמוֹ: סֹלּוּ, לָרֹכֵב בָּעֲרָבוֹת--בְּיָהּ שְׁמוֹ; וְעִלְזוּ לְפָנָיו.",
+    "אֲבִי יְתוֹמִים, וְדַיַּן אַלְמָנוֹת-- אֱלֹהִים, בִּמְעוֹן קָדְשׁוֹ.",
+    "אֱלֹהִים, מוֹשִׁיב יְחִידִים בַּיְתָה-- מוֹצִיא אֲסִירִים, בַּכּוֹשָׁרוֹת; אַךְ סוֹרְרִים, שָׁכְנוּ צְחִיחָה.",
+    "אֱלֹהִים--בְּצֵאתְךָ, לִפְנֵי עַמֶּךָ; בְּצַעְדְּךָ בִישִׁימוֹן סֶלָה.",
+    "אֶרֶץ רָעָשָׁה, אַף-שָׁמַיִם נָטְפוּ-- מִפְּנֵי אֱלֹהִים: זֶה סִינַי-- מִפְּנֵי אֱלֹהִים, אֱלֹהֵי יִשְׂרָאֵל.",
+    "גֶּשֶׁם נְדָבוֹת, תָּנִיף אֱלֹהִים; נַחֲלָתְךָ וְנִלְאָה, אַתָּה כוֹנַנְתָּהּ.",
+    "חַיָּתְךָ יָשְׁבוּ-בָהּ; תָּכִין בְּטוֹבָתְךָ לֶעָנִי אֱלֹהִים.",
+    "אֲדֹנָי יִתֶּן-אֹמֶר; הַמְבַשְּׂרוֹת, צָבָא רָב.",
+    "מַלְכֵי צְבָאוֹת, יִדֹּדוּן יִדֹּדוּן; וּנְוַת-בַּיִת, תְּחַלֵּק שָׁלָל.",
+    "אִם-תִּשְׁכְּבוּן, בֵּין שְׁפַתָּיִם: כַּנְפֵי יוֹנָה, נֶחְפָּה בַכֶּסֶף; וְאֶבְרוֹתֶיהָ, בִּירַקְרַק חָרוּץ.",
+    "בְּפָרֵשׂ שַׁדַּי מְלָכִים בָּהּ-- תַּשְׁלֵג בְּצַלְמוֹן.",
+    "הַר-אֱלֹהִים הַר-בָּשָׁן: הַר גַּבְנֻנִּים, הַר-בָּשָׁן.",
+    "לָמָּה, תְּרַצְּדוּן-- הָרִים גַּבְנֻנִּים: הָהָר--חָמַד אֱלֹהִים לְשִׁבְתּוֹ; אַף-יְהוָה, יִשְׁכֹּן לָנֶצַח.",
+    "רֶכֶב אֱלֹהִים, רִבֹּתַיִם אַלְפֵי שִׁנְאָן; אֲדֹנָי בָם, סִינַי בַּקֹּדֶשׁ.",
+    "עָלִיתָ לַמָּרוֹם, שָׁבִיתָ שֶּׁבִי-- לָקַחְתָּ מַתָּנוֹת, בָּאָדָם; וְאַף סוֹרְרִים, לִשְׁכֹּן יָהּ אֱלֹהִים.",
+    "בָּרוּךְ אֲדֹנָי, יוֹם יוֹם: יַעֲמָס-לָנוּ--הָאֵל יְשׁוּעָתֵנוּ סֶלָה.",
+    "הָאֵל לָנוּ, אֵל לְמוֹשָׁעוֹת: וְלֵיהוִה אֲדֹנָי--לַמָּוֶת, תֹּצָאוֹת.",
+    "אַךְ-אֱלֹהִים--יִמְחַץ, רֹאשׁ אֹיְבָיו: קָדְקֹד שֵׂעָר--מִתְהַלֵּךְ, בַּאֲשָׁמָיו.",
+    "אָמַר אֲדֹנָי, מִבָּשָׁן אָשִׁיב; אָשִׁיב, מִמְּצֻלוֹת יָם.",
+    "לְמַעַן, תִּמְחַץ רַגְלְךָ--בְּדָם: לְשׁוֹן כְּלָבֶיךָ--מֵאֹיְבִים מִנֵּהוּ.",
+    "רָאוּ הֲלִיכוֹתֶיךָ אֱלֹהִים; הֲלִיכוֹת אֵלִי מַלְכִּי בַקֹּדֶשׁ.",
+    "קִדְּמוּ שָׁרִים, אַחַר נֹגְנִים; בְּתוֹךְ עֲלָמוֹת, תּוֹפֵפוֹת.",
+    "בְּמַקְהֵלוֹת, בָּרְכוּ אֱלֹהִים; אֲדֹנָי, מִמְּקוֹר יִשְׂרָאֵל.",
+    "שָׁם בִּנְיָמִן, צָעִיר רֹדֵם--שָׂרֵי יְהוּדָה, רִגְמָתָם; שָׂרֵי זְבֻלוּן, שָׂרֵי נַפְתָּלִי.",
+    "צִוָּה אֱלֹהֶיךָ, עֻזֶּךָ: עוּזָּה אֱלֹהִים--זוּ, פָּעַלְתָּ לָּנוּ.",
+    "מֵהֵיכָלֶךָ, עַל-יְרוּשָׁלִָם-- לְךָ יוֹבִילוּ מְלָכִים שָׁי.",
+    "גְּעַר חַיַּת קָנֶה, עֲדַת אַבִּירִים בְּעֶגְלֵי עַמִּים-- מִתְרַפֵּס בְּרַצֵּי-כָסֶף; בִּזַּר עַמִּים, קְרָבוֹת יֶחְפָּצוּ.",
+    "יֶאֱתָיוּ חַשְׁמַנִּים, מִנִּי מִצְרָיִם; כּוּשׁ תָּרִיץ יָדָיו, לֵאלֹהִים.",
+    "מַמְלְכוֹת הָאָרֶץ, שִׁירוּ לֵאלֹהִים; זַמְּרוּ אֲדֹנָי סֶלָה.",
+    "לָרֹכֵב, בִּשְׁמֵי שְׁמֵי-קֶדֶם-- הֵן יִתֵּן בְּקוֹלוֹ, קוֹל עֹז.",
+    "תְּנוּ עֹז, לֵאלֹהִים: עַל-יִשְׂרָאֵל גַּאֲוָתוֹ; וְעֻזּוֹ, בַּשְּׁחָקִים.",
+    "נוֹרָא אֱלֹהִים, מִמִּקְדָּשֶׁיךָ: אֵל יִשְׂרָאֵל-- הוּא נֹתֵן עֹז וְתַעֲצֻמוֹת לָעָם; בָּרוּךְ אֱלֹהִים."
+  ],
+  "english": [
+    "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+    "As smoke is driven away,\nso drive\nthem away: as wax melteth before the fire,\nso let the wicked perish at the presence of God.",
+    "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+    "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.",
+    "A father of the fatherless, and a judge of the widows,\nis\n God in his holy habitation.",
+    "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry\nland.",
+    "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+    "The earth shook, the heavens also dropped at the presence of God:\neven Sinai itself\nwas moved at the presence of God, the God of Israel.",
+    "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+    "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+    "The Lord gave the word: great\nwas the company of those that published\nit.",
+    "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+    "Though ye have lien among the pots,\nyet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.",
+    "When the Almighty scattered kings in it, it was\nwhite as snow in Salmon.",
+    "The hill of God\nis as the hill of Bashan; an high hill\nas the hill of Bashan.",
+    "Why leap ye, ye high hills?\nthis is the hill\nwhich\n God desireth to dwell in; yea, the LORD will dwell\nin it\n for ever.",
+    "The chariots of God\nare twenty thousand,\neven thousands of angels: the Lord\nis among them,\nas in Sinai, in the holy\nplace.",
+    "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea,\nfor the rebellious also, that the LORD God might dwell\namong them.",
+    "Blessed\nbe the Lord,\nwho daily loadeth us\nwith benefits, even the God of our salvation. Selah.",
+    "He that is our God\nis the God of salvation; and unto God the Lord\nbelong the issues from death.",
+    "But God shall wound the head of his enemies,\nand the hairy scalp of such an one as goeth on still in his trespasses.",
+    "The Lord said, I will bring again from Bashan, I will bring\nmy people again from the depths of the sea:",
+    "That thy foot may be dipped in the blood of\nthine enemies,\nand the tongue of thy dogs in the same.",
+    "They have seen thy goings, O God;\neven the goings of my God, my King, in the sanctuary.",
+    "The singers went before, the players on instruments\nfollowed\n after; among\nthem were the damsels playing with timbrels.",
+    "Bless ye God in the congregations,\neven the Lord, from the fountain of Israel.",
+    "There\nis little Benjamin\nwith their ruler, the princes of Judah\nand their council, the princes of Zebulun,\nand the princes of Naphtali.",
+    "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+    "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+    "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people,\ntill every one submit himself with pieces of silver: scatter thou the people\nthat delight in war.",
+    "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+    "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+    "To him that rideth upon the heavens of heavens,\nwhich were\n of old; lo, he doth send out his voice,\nand that a mighty voice.",
+    "Ascribe ye strength unto God: his excellency\nis over Israel, and his strength\nis in the clouds.",
+    "O God,\nthou art terrible out of thy holy places: the God of Israel\nis he that giveth strength and power unto\nhis\n people. Blessed\nbe God."
+  ],
+  "steinsaltz": [
+    "לַמְנַצֵּחַ, לְדָוִד מִזְמוֹר שִׁיר.",
+    "המזמור נפתח באזכור פסוק מהתורה על מסעות ארון הקודש במדבר – יָקוּם אֱלֹהִים, יָפוּצוּ אוֹיְבָיו, וְיָנוּסוּ מְשַׂנְאָיו מִפָּנָיו.",
+    "כְּהִנְדֹּף, כמו שמתנדף ומתפוגג עָשָׁן, כך תִּנְדֹּף, ה', את הרשעים; כְּהִמֵּס, כמו שנמס ומאבד את צורתו דּוֹנַג, שעווה מִפְּנֵי אֵשׁ, כך יֹאבְדוּ רְשָׁעִים מִפְּנֵי אֱלֹהִים.",
+    "וְצַדִּיקִים יִשְׂמְחוּ, יַעַלְצוּ לִפְנֵי אֱלֹהִים וְיָשִׂישׂוּ, יצהלו בְשִׂמְחָה. נראה שהששון הוא ביטוי חיצוני של השמחה.",
+    "שִׁירוּ לֵאלֹהִים, זַמְּרוּ לשְׁמוֹ, סֹלּוּ, הרימו קול, או: רוממו, שבחו לָרֹכֵב בָּעֲרָבוֹת, במרומים, כינוי לה' שהודו ושליטתו ניכרים בשמים. שירו והללו בְּמי שיָהּ שְׁמוֹ. זהו אחד מן השמות הקדושים הנזכר פעמים אחדות בשירי ניצחון והלל, וְעִלְזוּ לְפָנָיו.",
+    "השיר מביע צדדים שונים של התגלות ה' : אֲבִי יְתוֹמִים וְדַיַּן אַלְמָנוֹת, אֱלֹהִים השוכן בִּמְעוֹן קָדְשׁוֹ. אף שהוא עליון ונשגב, הוא חס ומגן על קטני ארץ.",
+    "אֱלֹהִים מוֹשִׁיב יְחִידִים בַּיְתָה, מצרף את האנשים הבודדים זה לזה כדי שיבנו לעצמם בית. הוא גם מוֹצִיא אֲסִירִים בַּכּוֹשָׁרוֹת, בזמן כשר ומתאים, או: בשמחה והתעוררות הנפש. אַךְ כיוון שה' משגיח על כל פרט ופרט בעולם, סוֹרְרִים, המרדנים הושלכו ממקום יישוב ושָׁכְנוּ צְחִיחָה, במקום יבש.",
+    "באופן שונה התגלה ה' ביציאת מצרים ובמתן תורה: אֱלֹהִים, בְּצֵאתְךָ לִפְנֵי עַמֶּךָ, כשהוצאתם ממצרים ונגלית להם באמצעות עמוד אש ועמוד הענן, בְּצַעְדְּךָ בִישִׁימוֹן, במדבר. סֶלָה, הייתה זו התגלות רבת עצמה –",
+    "האֶרֶץ רָעָשָׁה, רעדה, אַף שָׁמַיִם נָטְפוּ מים מִפְּנֵי מוראו של אֱלֹהִים. זֶה הר סִינַי אשר רעד כולו כמסופר, מִפְּנֵי אֱלֹהִים, אֱלֹהֵי יִשְׂרָאֵל.",
+    "והופעה אלוקית אחרת, שיש בה גם רגיעה ומנוחה: גֶּשֶׁם נְדָבוֹת, של נדיבוּת וברכה תָּנִיף, אתה נושא הנה והנה, אֱלֹהִים. בגשם הנדבות את נַחֲלָתְךָ, ארצך, או: אומתך וְנִלְאָה, העייפה בנדודיה ובצימאונה אַתָּה כוֹנַנְתָּהּ, מקיים.",
+    "חַיָּתְךָ, בני עדתך, שאתה מחיה ומשקה אותם, יָשְׁבוּ בָהּ – בנחלה. תָּכִין אותה בְּטוֹבָתְךָ, במידת טובך לֶעָנִי – עם ישראל, אֱלֹהִים.",
+    "אֲדֹנָי יִתֶּן אֹמֶר, פקודה, גזרת ניצחון וישועה, ואז מקהלות הנשים הַמְבַשְֹּרוֹת על הניצחון יהיו צָבָא, המון רָב, מפאת גודלו של הניצחון, וכך הן ישירו:",
+    "מַלְכֵי צְבָאוֹת, המלכים העומדים בראש הצבא יִדֹּדוּן יִדֹּדוּן, קופצים ובורחים. לאחר בריחתו ההמונית של האויב, הכול באים לקחת משהו מן השלל, וגם נְוַת בַּיִת, אשה היושבת בביתה – ובאופן סמלי, ישראל השוכנים בנחלתם – יוצאת ותְחַלֵּק שָׁלָל. והמשך הבשורה לישראל:",
+    "אִם, אכן תִּשְׁכְּבוּן בֵּין שְׁפַתָּיִם, ליד מקום מרבץ הצאן. הגיע זמן שלום, שבו אפשר לשכב בשלווה בחוץ. אַת, כנסת ישראל היפה משולה ליונה בעלת כַּנְפֵי יוֹנָה נֶחְפָּה, מכוסות בַכֶּסֶף. נוצות היונה בורקות כמו כסף. וְאֶבְרוֹתֶיהָ, כנפיה מכוסות ומבהיקות בִּירַקְרַק חָרוּץ, בצבעי הזהב.",
+    "בְּפָרֵשׂ, כאשר מפריד ושובר שַׁדַּי – שם ה' המבטא גבורה ושידוד מערכות, את כוחם של המְלָכִים, בָּהּ בעת תַּשְׁלֵג, יוריד ה' שלג בְּצַלְמוֹן, שם הר, או: באפלה.",
+    "הַר אֱלֹהִים, הר גבוה וגדול – הַר בָּשָׁן, הַר גַּבְנֻנִּים, שאינו חלק אלא מלא בליטות – הַר בָּשָׁן.",
+    "אתה, והרים גבוהים ומרשימים כמותך, לָמָּה תְּרַצְּדוּן, תרעדו, תקפצו, הָרִים גַּבְנֻנִּים?? והתשובה: מכיוון שיש הר אחד שהוא הָהָר שחָמַד אֱלֹהִים לְשִׁבְתּוֹ, לשבת בו. זהו הר סיני, או הר המוריה, אַף ה' יִשְׁכֹּן עליו לָנֶצַח.",
+    "ובהמשך לתיאור ההתגלות בסיני: רֶכֶב אֱלֹהִים רִבֹּתַיִם, רבבות רבבות של מרכבות. כך מתואר המחנה הלא-חומרי של הקדוש ברוך הוא, אף יש בו אַלְפֵי שִׁנְאָן, כינוי למלאך, או: מחנה. אֲדֹנָי בָם – בתוך המחנות הללו. הר סִינַי בַּקֹּדֶשׁ, הוא מרכזה של כל ההתרחשות הזאת.",
+    "ומכאן לתיאור ה' כאיש מלחמה העומד בראש צבאותיו: עָלִיתָ לַמָּרוֹם, שָׁבִיתָ שֶּׁבִי, לָקַחְתָּ מַתָּנוֹת בָּאָדָם, מבני אדם, או: בני אדם שהמנצח לוקח לעצמו. וְאַף הסוֹרְרִים נכנעו לִשְׁכֹּן, שישכון, שישלוט בהם יָהּ אֱלֹהִים.",
+    "בָּרוּךְ אֲדֹנָי אשר יוֹם יוֹם יַעֲמָס, מעניק את צרכינו לָנוּ, הָאֵל יְשׁוּעָתֵנוּ. סֶלָה.",
+    "הָאֵל לָנוּ הוא אֵל לְמוֹשָׁעוֹת, שמושיע ועוזר, ומן הצד האחר, לאלוהים אֲדֹנָי – לַמָּוֶת תֹּצָאוֹת, מעברים, פתחים. לה' דרכים שונות להביא מוות על אלה שאינם נכנעים לו.",
+    "אַךְ, אכן אֱלֹהִים המדומה לאיש מלחמה יִמְחַץ את רֹאשׁ אֹיְבָיו, ואת הקָדְקֹד המצמיח שֵׂעָר של האויב אשר מִתְהַלֵּךְ בַּאֲשָׁמָיו, הנוהג במעשי אשמה.",
+    "ומהצד האחר – אָמַר אֲדֹנָי: מִבָּשָׁן אָשִׁיב את מי שתעה והרחיק ללכת עד שם. אָשִׁיב את הטובעים אפילו מִמְּצֻלוֹת יָם. אולי יש בכך גם רמז לקריעת ים סוף.",
+    "לְמַעַן תִּמְחַץ, תדרוס, ישראל, רַגְלְךָ בְּדָם האויבים, לְשׁוֹן כְּלָבֶיךָ מֵאֹיְבִים מִנֵּהוּ, מנת חלקוֹ. דם רב של האויבים נשפך עד שגם לשון הכלבים תקבל את חלקה.",
+    "שבחו של ה' מפי עמו: רָאוּ את הֲלִיכוֹתֶיךָ, הופעתך, דרכיך והנהגתך, אֱלֹהִים, הֲלִיכוֹת אֵלִי שהוא מַלְכִּי בַקֹּדֶשׁ, המלך הקדוש.",
+    "קִדְּמוּ שָׁרִים, הבאים בראש לקבלת הפנים ומשמיעים דברי שיר במלים, ואַחַר כך הולכים הנֹגְנִים בכלי הנגינה, בְּתוֹךְ עֲלָמוֹת תּוֹפֵפוֹת, מתופפות. כל אלה מקדמים יחד את פני המלך המנצח בשירה המלוּוה בתזמורת ובתופים.",
+    "בְּמַקְהֵלוֹת, בתוך עם רב, בציבור בָּרְכוּ את אֱלֹהִים אֲדֹנָי, ברכוהו מִמְּקוֹר, ממעיין החיים של יִשְׂרָאֵל.",
+    "שָׁם – במקום השירה בִּנְיָמִן, השבט הצָעִיר בבני יעקב, שהוא גם שבט קטן, רֹדֵם, השולט בהם, המנצח על הכול; שָׂרֵי יְהוּדָה רִגְמָתָם, בקהלם, או: בפארם; ולשם באים גם שָׂרֵי זְבֻלוּן ושָׂרֵי נַפְתָּלִי. כל ישראל מקצה לקצה.",
+    "ופנייה לישראל ולמלכו: צִוָּה אֱלֹהֶיךָ את עֻזֶּךָ, שיהיה לך עוז. ובקשה מה': עוּזָּה, אֱלֹהִים, גלה את עוזך זוּ, אשר פָּעַלְתָּ לָּנוּ,",
+    "כי כוחך מופיע ממקום משכנך, מֵהֵיכָלֶךָ שמעַל יְרוּשָׁלִָם. לְךָ ולמקדשך יוֹבִילוּ מְלָכִים של אומות אחרות שָׁי.",
+    "גְּעַר חַיַּת קָנֶה, חיות רעות המסתתרות בסבך הקנים, עֲדַת אַבִּירִים, סוסים, סוסי פרשים העוברים בְּעֶגְלֵי עַמִּים, בתוך העמים הבורחים כעגלים קטנים מפני הדהרה, שכל אחד מהם מִתְרַפֵּס, מנסה להתרצות ולהתחנן על נפשו בְּרַצֵּי, חתיכות, או: מתנות ריצוי של כָסֶף. ה' בִּזַּר, יפזר את העַמִּים שקְרָבוֹת יֶחְפָּצוּ, ולכן יישארו רק אלה שנכנעו:",
+    "יֶאֱתָיוּ, יבואו חַשְׁמַנִּים, שרים וגדולי המלוכה מִנִּי מִצְרָיִם, ארץ כּוּשׁ, תָּרִיץ, יביאו מהר יָדָיו מתנות לֵאלֹהִים.",
+    "ובאופן כללי – מַמְלְכוֹת הָאָרֶץ, שִׁירוּ לֵאלֹהִים, זַמְּרוּ אֲדֹנָי. סֶלָה.",
+    "זמרו לָרֹכֵב בִּשְׁמֵי שְׁמֵי קֶדֶם, ה' הגבוה ומנושא מעל ומעבר לכל המציאות המוכרת. הֵן יִתֵּן, הנותן בְּקוֹלוֹ, ומשמיע בעולם קוֹל עֹז.",
+    "תְּנוּ, שבחו את העֹז לֵאלֹהִים, של אלוקים שעַל יִשְׂרָאֵל גַּאֲוָתוֹ. באמצעות ישראל אלוקים מראה את גדולתו, וְעֻזּוֹ ניכר בַּשְּׁחָקִים, בשמים.",
+    "נוֹרָא, מי שיראים ממנו, נשגב אתה אֱלֹהִים, מִמִּקְדָּשֶׁיךָ, מקום ההתגלות או מקורה. אֵל יִשְׂרָאֵל הוּא הנֹתֵן עֹז וְתַעֲצֻמוֹת לָעָם. בָּרוּךְ אֱלֹהִים."
+  ],
+  "ai_explanation": [
+    "זהו מזמור המיועד למנצח, ומיוחס לדוד; הוא מוגדר כמזמור וכשיר.",
+    "המזמור פותח בלשון המזכירה את הפסוק שנאמר בעת מסעות ארון הקודש: כאשר אלוהים קם ומתהלך לפני עמו, אויביו מתפזרים ושונאיו נסוגים מפניו.",
+    "כשם שעשן מתפזר וכשם שעווה נמסה לפני אש, כך ה׳ מפזר את הרשעים והם אובדים מפניו.",
+    "הצדיקים שמחים, מריעים ומתגהללים לפני אלוהים, והששון הוא ביטוי חיצוני של שמחתם.",
+    "העם נקרא לשיר ולזמר לאלוהים, לרומם את הרוכב במרומים, הנקרא בשם יה, ולשמוח לפניו.",
+    "אלוהים מתגלה כאבי היתומים וכדיין האלמנות, אף שהוא שוכן במעון קדשו; הוא נשגב אך חס ומגן על החלשים.",
+    "אלוהים מצרף יחידים ומושיבם בבית, מוציא אסירים בזמן מתאים או מתוך שמחה, ואילו המורדים מושלכים ממקום יישוב ונאלצים לשכון בארץ יבשה.",
+    "הפסוק מתאר את התגלות ה׳ ביציאת מצרים ובמדבר, כאשר הוא הולך לפני עמו ומוביל אותו בעמודי האש והענן.",
+    "הארץ רעדה והשמים נטפו מפני מורא האלוהים; זהו הר סיני, שרעד מפני אלוהי ישראל.",
+    "הגשם מתואר כהופעה אלוהית של ברכה ורגיעה. באמצעותו אלוהים מחזק ומקיים את נחלתו או את עמו, העייפים מן הנדודים והצימאון.",
+    "בני עדת ה׳ יושבים בנחלתם, ואלוהים מכין להם אותה בטובו; החיה היא כינוי לבני העם שהוא מחיה ומשקה.",
+    "אלוהים נותן פקודת ניצחון וישועה, ואז קהל גדול של נשים מבשרות שר על הניצחון.",
+    "מלכי הצבאות בורחים, ולאחריהם גם יושבי הבית יוצאים לחלק את השלל; הדבר מסמל את ישראל היושבים בנחלתם.",
+    "עם ישראל יכול לשכב בשלווה ליד מקום מרבץ הצאן, כשהוא נמשל ליונה שכנפיה מכוסות בגוני כסף וזהב.",
+    "כאשר שדי שובר את כוח המלכים, הוא מוריד שלג בצַלְמוֹן, שהוא שם הר או כינוי לאפלה.",
+    "הר האלוהים מתואר כהר גדול וגבוה, ואילו הר בשן מתואר כבעל בליטות וגבשושיות.",
+    "ההרים הגבוהים מתוארים כמי שרועדים ותוהים מדוע לקפוץ, שהרי אלוהים בחר בהר מסוים לשבת בו לעד; ייתכן שמדובר בסיני או בהר המוריה.",
+    "מתואר מחנה שמימי של מרכבות אלוהים ורבבות מלאכים או מחנות. בתוך מחנות אלה נמצא ה׳, והר סיני הוא מרכז ההתרחשות הקדושה.",
+    "אלוהים מתואר כמנצח העולה למרום, שובה שבויים ולוקח מתנות מבני אדם או בדמות בני אדם שהמנצח לוקח לעצמו; גם המורדים נכנעים לשלטונו.",
+    "ה׳ מבורך על כך שבכל יום הוא מעניק לעמו את צורכיו; הוא האל שהוא מקור הישועה.",
+    "אלוהים הוא אל המושיע ומסייע, אך ביד ה׳ אדוני נמצאות גם דרכים ומעברים להביא מוות על מי שאינם נכנעים לו.",
+    "אלוהים, כאיש מלחמה, ימחץ את ראש אויביו ואת קודקודו של האויב הנוהג במעשי אשמה.",
+    "ה׳ אומר שישיב את מי שהרחיק עד בשן, ואף יציל את הטובעים ממצולות ים; ייתכן שיש כאן גם רמז לקריעת ים סוף.",
+    "ישראל ידרוס את אויביו עד שדם רב יישפך, וגם לשון הכלבים תקבל את חלקה מן האויבים.",
+    "העם רואה ומשבח את הליכותיו של אלוהים, את הופעתו ואת הנהגתו; הוא מתואר כמלך הקדוש.",
+    "שרים ונגנים מובילים את קבלת הפנים, ואחריהם עלמות מתופפות; כולם מקדמים את פני המלך המנצח בשירה ובנגינה.",
+    "העם נקרא לברך את אלוהים באספות גדולות, מתוך מקור החיים של ישראל.",
+    "בנימין, השבט הצעיר והקטן, מתואר כמוביל או שולט; אליו מצטרפים שרי יהודה, זבולון ונפתלי, ובכך מיוצג עם ישראל כולו.",
+    "אלוהים ציווה על עמו להיות חזק, והעם מבקש ממנו לגלות את העוז שכבר פעל למענו.",
+    "כוחו של אלוהים מופיע ממקדשו שעל ירושלים, ומלכי אומות אחרות יביאו לו ולמקדשו מתנות.",
+    "המשורר מבקש מאלוהים לגער בכוחות האויב ובחיות הרעות, לפזר את העמים החפצים בקרבות, ולהביא לכך שיישארו רק הנכנעים.",
+    "שרים וגדולי מלוכה ממצרים יבואו, וכוש תמהר להושיט את ידיה ולהביא מתנות לאלוהים.",
+    "כל ממלכות הארץ נקראות לשיר ולזמר לאלוהים.",
+    "יש לשבח את ה׳ הרוכב בשמי שמי קדם, הגבוה מעל המציאות המוכרת, ושקולו מעניק עוז.",
+    "העם נקרא לשבח את עוז האלוהים, שגאוותו ניכרת בישראל ועוזו ניכר בשמים.",
+    "אלוהים נורא ונשגב ממקדשיו, והוא אלוהי ישראל הנותן לעמו עוז ותעצומות; המזמור מסתיים בברכה לאלוהים."
+  ],
+  "ai_explanation_en": [
+    "This is a psalm intended for the chief musician and attributed to David; it is described as both a psalm and a song.",
+    "The psalm opens with language recalling the verse said during the journeys of the Ark: when God rises and goes before His people, His enemies scatter and those who hate Him retreat.",
+    "Just as smoke disperses and wax melts before fire, so God drives away the wicked, who perish before Him.",
+    "The righteous rejoice, exult, and celebrate before God; their outward rejoicing expresses their inner happiness.",
+    "The people are called to sing and make music to God, to exalt the rider in the heavens, whose name is Yah, and to rejoice before Him.",
+    "God is revealed as the father of orphans and the judge of widows. Although He dwells in His holy abode, He is exalted yet compassionate and protective toward the vulnerable.",
+    "God brings isolated people together and settles them in homes, releases prisoners at the proper time or with joyful spirit, while rebels are expelled from settled places and forced to dwell in a dry land.",
+    "The verse describes God’s revelation during the Exodus and in the wilderness, when He went before His people through the pillars of fire and cloud.",
+    "The earth shook and the heavens dripped because of God’s awe; this refers to Mount Sinai, which trembled before the God of Israel.",
+    "Rain is portrayed as a divine manifestation of blessing and calm. Through it, God strengthens and sustains His inheritance or His people, weary from wandering and thirst.",
+    "The members of God’s community dwell in their inheritance, and He prepares it for them through His goodness; the animal is understood as a designation for the people whom He gives life and water.",
+    "God issues a command of victory and deliverance, and then a large chorus of women proclaim the victory.",
+    "The kings of the armies flee, and afterward even those at home go out to divide the spoil; this symbolically represents Israel dwelling in its inheritance.",
+    "Israel can lie peacefully near the resting place of the flocks, compared to a dove whose wings are covered with shades of silver and gold.",
+    "When Shaddai breaks the power of kings, He causes snow to fall on Zalmon, understood either as a mountain name or as a reference to darkness.",
+    "The mountain of God is described as great and high, while Bashan is portrayed as rugged and full of bumps and projections.",
+    "The high mountains are pictured as trembling and wondering why they should leap, since God has chosen one mountain as His dwelling forever; this may refer to Sinai or Mount Moriah.",
+    "A heavenly camp of God’s chariots and myriads of angels or hosts is described. The Lord is within these camps, and Mount Sinai is the center of the sacred event.",
+    "God is portrayed as a victorious warrior ascending on high, taking captives and receiving gifts from human beings, or taking human beings as the victor’s prize; even rebels submit to His rule.",
+    "The Lord is blessed because each day He provides His people’s needs; He is the God who is the source of salvation.",
+    "God is the God who saves and helps, but in the hand of the Lord are also ways and passages for bringing death upon those who refuse to submit.",
+    "God, portrayed as a warrior, will crush the heads of His enemies, including the head of the enemy who acts wickedly.",
+    "The Lord says that He will bring back those who have wandered as far as Bashan, and will even rescue those who are drowning in the depths of the sea; this may also allude to the splitting of the Red Sea.",
+    "Israel will trample its enemies until much blood is spilled, so that even the tongues of the dogs will receive their portion from the enemies.",
+    "The people see and praise God’s marches, appearance, ways, and governance; He is portrayed as the holy King.",
+    "Singers and musicians lead the reception, followed by young women playing tambourines; together they welcome the victorious king with song and music.",
+    "The people are called to bless God in large assemblies, from the source of life of Israel.",
+    "Benjamin, the youngest and smallest tribe, is portrayed as leading or ruling; the princes of Judah, Zebulun, and Naphtali join it, representing all Israel.",
+    "God has commanded His people to be strong, and the people ask Him to reveal the strength He has already exercised on their behalf.",
+    "God’s power appears from His sanctuary above Jerusalem, and kings of other nations will bring gifts to Him and to His sanctuary.",
+    "The psalmist asks God to rebuke the enemy powers and the wild creatures, scatter the nations that desire battles, and leave only those who have submitted.",
+    "Princes and nobles from Egypt will come, and Cush will hasten to stretch out its hands and bring gifts to God.",
+    "All the kingdoms of the earth are called to sing and make music to God.",
+    "God is praised as the rider in the highest ancient heavens, exalted above the known world, whose voice gives strength.",
+    "The people are called to praise God’s strength, whose majesty is shown through Israel and whose power is visible in the heavens.",
+    "God is awesome and exalted from His sanctuaries, and He is the God of Israel who gives His people strength and power; the psalm ends with a blessing to God."
+  ],
+  "perush": [
+    "זהו מזמור המיועד למנצח, ומיוחס לדוד; הוא מוגדר כמזמור וכשיר.",
+    "המזמור פותח בלשון המזכירה את הפסוק שנאמר בעת מסעות ארון הקודש: כאשר אלוהים קם ומתהלך לפני עמו, אויביו מתפזרים ושונאיו נסוגים מפניו.",
+    "כשם שעשן מתפזר וכשם שעווה נמסה לפני אש, כך ה׳ מפזר את הרשעים והם אובדים מפניו.",
+    "הצדיקים שמחים, מריעים ומתגהללים לפני אלוהים, והששון הוא ביטוי חיצוני של שמחתם.",
+    "העם נקרא לשיר ולזמר לאלוהים, לרומם את הרוכב במרומים, הנקרא בשם יה, ולשמוח לפניו.",
+    "אלוהים מתגלה כאבי היתומים וכדיין האלמנות, אף שהוא שוכן במעון קדשו; הוא נשגב אך חס ומגן על החלשים.",
+    "אלוהים מצרף יחידים ומושיבם בבית, מוציא אסירים בזמן מתאים או מתוך שמחה, ואילו המורדים מושלכים ממקום יישוב ונאלצים לשכון בארץ יבשה.",
+    "הפסוק מתאר את התגלות ה׳ ביציאת מצרים ובמדבר, כאשר הוא הולך לפני עמו ומוביל אותו בעמודי האש והענן.",
+    "הארץ רעדה והשמים נטפו מפני מורא האלוהים; זהו הר סיני, שרעד מפני אלוהי ישראל.",
+    "הגשם מתואר כהופעה אלוהית של ברכה ורגיעה. באמצעותו אלוהים מחזק ומקיים את נחלתו או את עמו, העייפים מן הנדודים והצימאון.",
+    "בני עדת ה׳ יושבים בנחלתם, ואלוהים מכין להם אותה בטובו; החיה היא כינוי לבני העם שהוא מחיה ומשקה.",
+    "אלוהים נותן פקודת ניצחון וישועה, ואז קהל גדול של נשים מבשרות שר על הניצחון.",
+    "מלכי הצבאות בורחים, ולאחריהם גם יושבי הבית יוצאים לחלק את השלל; הדבר מסמל את ישראל היושבים בנחלתם.",
+    "עם ישראל יכול לשכב בשלווה ליד מקום מרבץ הצאן, כשהוא נמשל ליונה שכנפיה מכוסות בגוני כסף וזהב.",
+    "כאשר שדי שובר את כוח המלכים, הוא מוריד שלג בצַלְמוֹן, שהוא שם הר או כינוי לאפלה.",
+    "הר האלוהים מתואר כהר גדול וגבוה, ואילו הר בשן מתואר כבעל בליטות וגבשושיות.",
+    "ההרים הגבוהים מתוארים כמי שרועדים ותוהים מדוע לקפוץ, שהרי אלוהים בחר בהר מסוים לשבת בו לעד; ייתכן שמדובר בסיני או בהר המוריה.",
+    "מתואר מחנה שמימי של מרכבות אלוהים ורבבות מלאכים או מחנות. בתוך מחנות אלה נמצא ה׳, והר סיני הוא מרכז ההתרחשות הקדושה.",
+    "אלוהים מתואר כמנצח העולה למרום, שובה שבויים ולוקח מתנות מבני אדם או בדמות בני אדם שהמנצח לוקח לעצמו; גם המורדים נכנעים לשלטונו.",
+    "ה׳ מבורך על כך שבכל יום הוא מעניק לעמו את צורכיו; הוא האל שהוא מקור הישועה.",
+    "אלוהים הוא אל המושיע ומסייע, אך ביד ה׳ אדוני נמצאות גם דרכים ומעברים להביא מוות על מי שאינם נכנעים לו.",
+    "אלוהים, כאיש מלחמה, ימחץ את ראש אויביו ואת קודקודו של האויב הנוהג במעשי אשמה.",
+    "ה׳ אומר שישיב את מי שהרחיק עד בשן, ואף יציל את הטובעים ממצולות ים; ייתכן שיש כאן גם רמז לקריעת ים סוף.",
+    "ישראל ידרוס את אויביו עד שדם רב יישפך, וגם לשון הכלבים תקבל את חלקה מן האויבים.",
+    "העם רואה ומשבח את הליכותיו של אלוהים, את הופעתו ואת הנהגתו; הוא מתואר כמלך הקדוש.",
+    "שרים ונגנים מובילים את קבלת הפנים, ואחריהם עלמות מתופפות; כולם מקדמים את פני המלך המנצח בשירה ובנגינה.",
+    "העם נקרא לברך את אלוהים באספות גדולות, מתוך מקור החיים של ישראל.",
+    "בנימין, השבט הצעיר והקטן, מתואר כמוביל או שולט; אליו מצטרפים שרי יהודה, זבולון ונפתלי, ובכך מיוצג עם ישראל כולו.",
+    "אלוהים ציווה על עמו להיות חזק, והעם מבקש ממנו לגלות את העוז שכבר פעל למענו.",
+    "כוחו של אלוהים מופיע ממקדשו שעל ירושלים, ומלכי אומות אחרות יביאו לו ולמקדשו מתנות.",
+    "המשורר מבקש מאלוהים לגער בכוחות האויב ובחיות הרעות, לפזר את העמים החפצים בקרבות, ולהביא לכך שיישארו רק הנכנעים.",
+    "שרים וגדולי מלוכה ממצרים יבואו, וכוש תמהר להושיט את ידיה ולהביא מתנות לאלוהים.",
+    "כל ממלכות הארץ נקראות לשיר ולזמר לאלוהים.",
+    "יש לשבח את ה׳ הרוכב בשמי שמי קדם, הגבוה מעל המציאות המוכרת, ושקולו מעניק עוז.",
+    "העם נקרא לשבח את עוז האלוהים, שגאוותו ניכרת בישראל ועוזו ניכר בשמים.",
+    "אלוהים נורא ונשגב ממקדשיו, והוא אלוהי ישראל הנותן לעמו עוז ותעצומות; המזמור מסתיים בברכה לאלוהים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "פתיחה: התגלות ה׳ וניצחון על הרשעים",
+      "title_en": "Opening: God’s Manifestation and Victory over the Wicked",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "המזמור פותח בקריאה לאלוהים לקום, לפזר את אויביו ולהגן על הצדיקים. לצד תיאור השמדת הרשעים מודגשת דמותו של ה׳ כאבי יתומים, כדיין אלמנות וכמי שמושיב יחידים ומוציא אסירים.",
+      "summary_en": "The psalm opens by calling on God to rise, scatter His enemies, and protect the righteous. Alongside the destruction of the wicked, God is portrayed as father of orphans, judge of widows, one who settles the isolated, and one who releases prisoners.",
+      "image_prompt": "A solemn biblical poetic scene: divine light dispersing smoke and melting wax, joyful righteous people before God, and vulnerable people receiving shelter, cinematic yet respectful, no text"
+    },
+    {
+      "title": "ההתגלות במדבר וברכת הארץ",
+      "title_en": "Revelation in the Wilderness and Blessing of the Land",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "אלוהים מתואר כמוביל את עמו במדבר, בהתגלות עזה בסיני וברעידת הארץ. לאחר מכן מופיעה התגלות של ברכה ורגיעה באמצעות גשם, המחדש את נחלת העם ומקיים אותו.",
+      "summary_en": "God is portrayed leading His people through the wilderness, with a powerful revelation at Sinai that makes the earth tremble. This is followed by a manifestation of blessing and calm through rain that renews and sustains the people’s inheritance.",
+      "image_prompt": "The Israelites moving through a dramatic wilderness beneath pillars of fire and cloud, Mount Sinai trembling, followed by gentle life-giving rain over a weary land, epic biblical atmosphere, no text"
+    },
+    {
+      "title": "ניצחון, מנוחה ויופייה של כנסת ישראל",
+      "title_en": "Victory, Rest, and the Beauty of Israel",
+      "start_verse": 12,
+      "end_verse": 19,
+      "summary": "ה׳ נותן פקודת ישועה, האויבים בורחים והעם מחלק את השלל. ישראל מתואר כמי שיכול לנוח בשלום וכיונה מפוארת, בעוד אלוהים שובר את כוח המלכים, בוחר בהר משכנו ומופיע בצבא שמימי.",
+      "summary_en": "The Lord issues a command of deliverance, the enemies flee, and the people divide the spoil. Israel is depicted resting in peace and as a splendid dove, while God breaks the power of kings, chooses His dwelling mountain, and appears with a heavenly host.",
+      "image_prompt": "A victorious yet peaceful biblical landscape: fleeing armies in the distance, families resting safely beside flocks, a radiant silver-and-gold dove, majestic mountains, and heavenly chariots above, no text"
+    },
+    {
+      "title": "האל המושיע והלוחם",
+      "title_en": "The Saving and Warrior God",
+      "start_verse": 20,
+      "end_verse": 24,
+      "summary": "העם מברך את ה׳ על ישועתו היומיומית ועל יכולתו להציל ולהעניש. אלוהים מתואר כלוחם המוחץ את אויביו, משיב את הרחוקים ומעניק לישראל ניצחון מוחלט על אויביו.",
+      "summary_en": "The people bless the Lord for His daily salvation and His power both to rescue and to punish. God is portrayed as a warrior who crushes enemies, restores the distant, and grants Israel complete victory over its foes.",
+      "image_prompt": "A powerful symbolic warrior-god scene with light overcoming hostile forces, rescued people emerging from deep waters, and victorious Israelites standing safely, solemn biblical style, no text"
+    },
+    {
+      "title": "תהלוכת המלך וקיבוץ שבטי ישראל",
+      "title_en": "The King’s Procession and the Gathering of Israel’s Tribes",
+      "start_verse": 25,
+      "end_verse": 30,
+      "summary": "העם רואה את הליכות המלך הקדוש ומקבל את פניו בשירה, בנגינה ובתופים. נציגי השבטים נאספים יחד, מבקשים עוז, ומכריזים שכוחו של אלוהים יוצא ממקדשו שעל ירושלים.",
+      "summary_en": "The people behold the marches of the holy King and welcome Him with singing, instruments, and tambourines. Representatives of the tribes gather together, ask for strength, and proclaim that God’s power proceeds from His sanctuary above Jerusalem.",
+      "image_prompt": "A grand sacred procession with singers, musicians, women playing tambourines, representatives of Israel’s tribes, and a radiant sanctuary above Jerusalem, richly detailed biblical art, no text"
+    },
+    {
+      "title": "הכנעת העמים והברכה לכל ממלכות הארץ",
+      "title_en": "The Submission of Nations and Blessing for All Kingdoms",
+      "start_verse": 31,
+      "end_verse": 36,
+      "summary": "המזמור מבקש שאלוהים יפזר את העמים החפצים במלחמה, עד שמלכי אומות יבואו להביא מתנות. בסיום כל ממלכות הארץ נקראות לשבח את ה׳, שעוזו ניכר בישראל, בשמים ובמקדשיו.",
+      "summary_en": "The psalm asks God to scatter nations that desire war, until the kings of the nations come bearing gifts. In conclusion, all kingdoms of the earth are called to praise the Lord, whose strength is shown through Israel, the heavens, and His sanctuaries.",
+      "image_prompt": "Kings from distant lands approaching peacefully with gifts, nations laying down weapons, and all creation praising a majestic divine presence above a sanctuary, uplifting biblical panorama, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.48,
+      "usfm": "PSA.68.1"
+    },
+    {
+      "start": 9.48,
+      "end": 19.16,
+      "usfm": "PSA.68.2"
+    },
+    {
+      "start": 19.16,
+      "end": 26.28,
+      "usfm": "PSA.68.3"
+    },
+    {
+      "start": 26.28,
+      "end": 36.3,
+      "usfm": "PSA.68.4"
+    },
+    {
+      "start": 36.3,
+      "end": 41.92,
+      "usfm": "PSA.68.5"
+    },
+    {
+      "start": 41.92,
+      "end": 50.82,
+      "usfm": "PSA.68.6"
+    },
+    {
+      "start": 50.82,
+      "end": 57.48,
+      "usfm": "PSA.68.7"
+    },
+    {
+      "start": 57.48,
+      "end": 65.92,
+      "usfm": "PSA.68.8"
+    },
+    {
+      "start": 65.92,
+      "end": 73.44,
+      "usfm": "PSA.68.9"
+    },
+    {
+      "start": 73.44,
+      "end": 79.34,
+      "usfm": "PSA.68.10"
+    },
+    {
+      "start": 79.34,
+      "end": 83.76,
+      "usfm": "PSA.68.11"
+    },
+    {
+      "start": 83.76,
+      "end": 89.72,
+      "usfm": "PSA.68.12"
+    },
+    {
+      "start": 89.72,
+      "end": 98.66,
+      "usfm": "PSA.68.13"
+    },
+    {
+      "start": 98.66,
+      "end": 103.4,
+      "usfm": "PSA.68.14"
+    },
+    {
+      "start": 103.4,
+      "end": 109.64,
+      "usfm": "PSA.68.15"
+    },
+    {
+      "start": 109.64,
+      "end": 118.24,
+      "usfm": "PSA.68.16"
+    },
+    {
+      "start": 118.24,
+      "end": 127.12,
+      "usfm": "PSA.68.17"
+    },
+    {
+      "start": 127.12,
+      "end": 140.96,
+      "usfm": "PSA.68.18"
+    },
+    {
+      "start": 140.96,
+      "end": 147.88,
+      "usfm": "PSA.68.19"
+    },
+    {
+      "start": 147.88,
+      "end": 154.96,
+      "usfm": "PSA.68.20"
+    },
+    {
+      "start": 154.96,
+      "end": 162.82,
+      "usfm": "PSA.68.21"
+    },
+    {
+      "start": 162.82,
+      "end": 169.08,
+      "usfm": "PSA.68.22"
+    },
+    {
+      "start": 169.08,
+      "end": 175.04,
+      "usfm": "PSA.68.23"
+    },
+    {
+      "start": 175.04,
+      "end": 180.82,
+      "usfm": "PSA.68.24"
+    },
+    {
+      "start": 180.82,
+      "end": 187.78,
+      "usfm": "PSA.68.25"
+    },
+    {
+      "start": 187.78,
+      "end": 192.38,
+      "usfm": "PSA.68.26"
+    },
+    {
+      "start": 192.38,
+      "end": 200.32,
+      "usfm": "PSA.68.27"
+    },
+    {
+      "start": 200.32,
+      "end": 206.1,
+      "usfm": "PSA.68.28"
+    },
+    {
+      "start": 206.1,
+      "end": 210.3,
+      "usfm": "PSA.68.29"
+    },
+    {
+      "start": 210.3,
+      "end": 222.36,
+      "usfm": "PSA.68.30"
+    },
+    {
+      "start": 222.36,
+      "end": 229.48,
+      "usfm": "PSA.68.31"
+    },
+    {
+      "start": 229.48,
+      "end": 234.5,
+      "usfm": "PSA.68.32"
+    },
+    {
+      "start": 234.5,
+      "end": 243.48,
+      "usfm": "PSA.68.33"
+    },
+    {
+      "start": 243.48,
+      "end": 250.6,
+      "usfm": "PSA.68.34"
+    },
+    {
+      "start": 250.6,
+      "end": 269.8,
+      "usfm": "PSA.68.35"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.48,
+    19.16,
+    26.28,
+    36.3,
+    41.92,
+    50.82,
+    57.48,
+    65.92,
+    73.44,
+    79.34,
+    83.76,
+    89.72,
+    98.66,
+    103.4,
+    109.64,
+    118.24,
+    127.12,
+    140.96,
+    147.88,
+    154.96,
+    162.82,
+    169.08,
+    175.04,
+    180.82,
+    187.78,
+    192.38,
+    200.32,
+    206.1,
+    210.3,
+    222.36,
+    229.48,
+    234.5,
+    243.48,
+    250.6,
+    269.8
+  ],
+  "times_en_usfm": [
+    "PSA.68.1",
+    "PSA.68.2",
+    "PSA.68.3",
+    "PSA.68.4",
+    "PSA.68.5",
+    "PSA.68.6",
+    "PSA.68.7",
+    "PSA.68.8",
+    "PSA.68.9",
+    "PSA.68.10",
+    "PSA.68.11",
+    "PSA.68.12",
+    "PSA.68.13",
+    "PSA.68.14",
+    "PSA.68.15",
+    "PSA.68.16",
+    "PSA.68.17",
+    "PSA.68.18",
+    "PSA.68.19",
+    "PSA.68.20",
+    "PSA.68.21",
+    "PSA.68.22",
+    "PSA.68.23",
+    "PSA.68.24",
+    "PSA.68.25",
+    "PSA.68.26",
+    "PSA.68.27",
+    "PSA.68.28",
+    "PSA.68.29",
+    "PSA.68.30",
+    "PSA.68.31",
+    "PSA.68.32",
+    "PSA.68.33",
+    "PSA.68.34",
+    "PSA.68.35"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? המזמור נפתח בכותרת: \"למנצח לדוד, מזמור שיר\", המציגה אותו כמזמור המיועד למנצח ומיוחס לדוד.",
+      "text_he": "הידעת? המזמור נפתח בכותרת: \"למנצח לדוד, מזמור שיר\", המציגה אותו כמזמור המיועד למנצח ומיוחס לדוד.",
+      "text_en": "Did you know? The psalm opens with the heading, “For the music director. Of David. A psalm, a song,” identifying it as a psalm intended for the music director and attributed to David."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? בפסוק זה מופיע הכינוי \"רוכב בערבות\" לצד הקריאה לשבח את שם ה׳ — \"ביה שמו\".",
+      "text_he": "הידעת? בפסוק זה מופיע הכינוי \"רוכב בערבות\" לצד הקריאה לשבח את שם ה׳ — \"ביה שמו\".",
+      "text_en": "Did you know? This verse uses the title “He who rides through the clouds,” along with the call to praise God’s name: “His name is Yah.”"
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? המזמור מציג את אלוהים כ\"אבי יתומים\" וכ\"דיין אלמנות\", ומדגיש את דאגתו לחלשים ולחסרי ההגנה.",
+      "text_he": "הידעת? המזמור מציג את אלוהים כ\"אבי יתומים\" וכ\"דיין אלמנות\", ומדגיש את דאגתו לחלשים ולחסרי ההגנה.",
+      "text_en": "Did you know? The psalm describes God as “a father to the fatherless” and “a defender of widows,” emphasizing his care for the vulnerable and defenseless."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? תיאור יציאת ה׳ לפני עמו מציב את המדבר — \"בישימון\" — כרקע להליכתו ולהנהגתו את ישראל.",
+      "text_he": "הידעת? תיאור יציאת ה׳ לפני עמו מציב את המדבר — \"בישימון\" — כרקע להליכתו ולהנהגתו את ישראל.",
+      "text_en": "Did you know? The description of the Lord going before his people places the wilderness—“the desert”—as the setting for his journey and guidance of Israel."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? ההתגלות בסיני מתוארת כאירוע עוצמתי שבו הארץ רעדה והשמים נטפו, מפני אלוהים, אלוהי ישראל.",
+      "text_he": "הידעת? ההתגלות בסיני מתוארת כאירוע עוצמתי שבו הארץ רעדה והשמים נטפו, מפני אלוהים, אלוהי ישראל.",
+      "text_en": "Did you know? The revelation at Sinai is portrayed as a powerful event in which the earth shook and the heavens poured down rain before God, the God of Israel."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? בפסוק זה מתואר שה׳ נותן את דבר הישועה, והמבשרות הן \"צבא רב\" — קבוצה גדולה המפיצה את הבשורה.",
+      "text_he": "הידעת? בפסוק זה מתואר שה׳ נותן את דבר הישועה, והמבשרות הן \"צבא רב\" — קבוצה גדולה המפיצה את הבשורה.",
+      "text_en": "Did you know? This verse says that the Lord gives the word of salvation, and that the women who proclaim it are “a great host”—a large group spreading the good news."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? מרכבות האל מתוארות במספר עצום: \"ריבותיים אלפי שנאן\", והפסוק מקשר את נוכחות ה׳ גם להר סיני בקודש.",
+      "text_he": "הידעת? מרכבות האל מתוארות במספר עצום: \"ריבותיים אלפי שנאן\", והפסוק מקשר את נוכחות ה׳ גם להר סיני בקודש.",
+      "text_en": "Did you know? God’s chariots are described in enormous numbers: “tens of thousands, thousands upon thousands,” and the verse also connects the Lord’s presence with Mount Sinai in the sanctuary."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? הפסוק מתאר עלייה למרום, שביית שבי ולקיחת מתנות באדם; הוא מסתיים בתיאור מטרת השכינה: \"לשכון יה אלהים\".",
+      "text_he": "הידעת? הפסוק מתאר עלייה למרום, שביית שבי ולקיחת מתנות באדם; הוא מסתיים בתיאור מטרת השכינה: \"לשכון יה אלהים\".",
+      "text_en": "Did you know? The verse describes ascending on high, taking captives, and receiving gifts from people; it concludes by stating the purpose of God’s dwelling: “that the Lord God may dwell there.”"
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? המזמור מדגיש את העזרה היומיומית של ה׳: \"יום יום\" הוא נושא את משאיו של העם, והוא אל הישועות.",
+      "text_he": "הידעת? המזמור מדגיש את העזרה היומיומית של ה׳: \"יום יום\" הוא נושא את משאיו של העם, והוא אל הישועות.",
+      "text_en": "Did you know? The psalm emphasizes the Lord’s daily help: “day by day” he carries our burdens, and he is the God of our salvation."
+    },
+    {
+      "verse": 35,
+      "text": "הידעת? לקראת סיום המזמור נקראות ממלכות הארץ לשיר לאלוהים ולזמר לו, כך שהשבח מתרחב מישראל אל כל העמים.",
+      "text_he": "הידעת? לקראת סיום המזמור נקראות ממלכות הארץ לשיר לאלוהים ולזמר לו, כך שהשבח מתרחב מישראל אל כל העמים.",
+      "text_en": "Did you know? Near the end of the psalm, the kingdoms of the earth are called to sing to God and praise him, so that worship expands from Israel to all nations."
+    }
+  ]
+}
