@@ -1,0 +1,346 @@
+{
+  "book": "Micah",
+  "book_he": "מיכה",
+  "book_chapters": 7,
+  "chapter": 1,
+  "title": "מיכה פרק 1",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1801.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1801.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/MIC/1-77fbe22ba1259ec8f4822b8be1b876ab.mp3?version_id=1",
+  "verses": [
+    "דְּבַר-יְהוָה אֲשֶׁר הָיָה, אֶל-מִיכָה הַמֹּרַשְׁתִּי, בִּימֵי יוֹתָם אָחָז יְחִזְקִיָּה, מַלְכֵי יְהוּדָה--אֲשֶׁר-חָזָה עַל-שֹׁמְרוֹן, וִירוּשָׁלִָם.",
+    "שִׁמְעוּ עַמִּים כֻּלָּם, הַקְשִׁיבִי אֶרֶץ וּמְלֹאָהּ; וִיהִי אֲדֹנָי יְהוִה בָּכֶם לְעֵד, אֲדֹנָי מֵהֵיכַל קָדְשׁוֹ.",
+    "כִּי-הִנֵּה יְהוָה, יֹצֵא מִמְּקוֹמוֹ; וְיָרַד וְדָרַךְ, עַל-במותי בָּמֳתֵי אָרֶץ.",
+    "וְנָמַסּוּ הֶהָרִים תַּחְתָּיו, וְהָעֲמָקִים יִתְבַּקָּעוּ, כַּדּוֹנַג מִפְּנֵי הָאֵשׁ, כְּמַיִם מֻגָּרִים בְּמוֹרָד.",
+    "בְּפֶשַׁע יַעֲקֹב כָּל-זֹאת, וּבְחַטֹּאות בֵּית יִשְׂרָאֵל; מִי-פֶשַׁע יַעֲקֹב, הֲלוֹא שֹׁמְרוֹן, וּמִי בָּמוֹת יְהוּדָה, הֲלוֹא יְרוּשָׁלִָם.",
+    "וְשַׂמְתִּי שֹׁמְרוֹן לְעִי הַשָּׂדֶה, לְמַטָּעֵי כָרֶם; וְהִגַּרְתִּי לַגַּי אֲבָנֶיהָ, וִיסֹדֶיהָ אֲגַלֶּה.",
+    "וְכָל-פְּסִילֶיהָ יֻכַּתּוּ, וְכָל-אֶתְנַנֶּיהָ יִשָּׂרְפוּ בָאֵשׁ, וְכָל-עֲצַבֶּיהָ, אָשִׂים שְׁמָמָה: כִּי מֵאֶתְנַן זוֹנָה, קִבָּצָה, וְעַד-אֶתְנַן זוֹנָה, יָשׁוּבוּ.",
+    "עַל-זֹאת אֶסְפְּדָה וְאֵילִילָה, אֵילְכָה שילל שׁוֹלָל וְעָרוֹם; אֶעֱשֶׂה מִסְפֵּד כַּתַּנִּים, וְאֵבֶל כִּבְנוֹת יַעֲנָה.",
+    "כִּי אֲנוּשָׁה, מַכּוֹתֶיהָ: כִּי-בָאָה, עַד-יְהוּדָה--נָגַע עַד-שַׁעַר עַמִּי, עַד-יְרוּשָׁלִָם.",
+    "בְּגַת, אַל-תַּגִּידוּ--בָּכוֹ, אַל-תִּבְכּוּ; בְּבֵית לְעַפְרָה, עָפָר התפלשתי הִתְפַּלָּשִׁי .",
+    "עִבְרִי לָכֶם יוֹשֶׁבֶת שָׁפִיר, עֶרְיָה-בֹשֶׁת; לֹא יָצְאָה, יוֹשֶׁבֶת צַאֲנָן--מִסְפַּד בֵּית הָאֵצֶל, יִקַּח מִכֶּם עֶמְדָּתוֹ.",
+    "כִּי-חָלָה לְטוֹב, יוֹשֶׁבֶת מָרוֹת: כִּי-יָרַד רָע מֵאֵת יְהוָה, לְשַׁעַר יְרוּשָׁלִָם.",
+    "רְתֹם הַמֶּרְכָּבָה לָרֶכֶשׁ, יוֹשֶׁבֶת לָכִישׁ; רֵאשִׁית חַטָּאת הִיא לְבַת-צִיּוֹן, כִּי-בָךְ נִמְצְאוּ פִּשְׁעֵי יִשְׂרָאֵל.",
+    "לָכֵן תִּתְּנִי שִׁלּוּחִים, עַל מוֹרֶשֶׁת גַּת; בָּתֵּי אַכְזִיב לְאַכְזָב, לְמַלְכֵי יִשְׂרָאֵל.",
+    "עֹד, הַיֹּרֵשׁ אָבִי לָךְ, יוֹשֶׁבֶת, מָרֵשָׁה: עַד-עֲדֻלָּם יָבוֹא, כְּבוֹד יִשְׂרָאֵל.",
+    "קָרְחִי וָגֹזִּי, עַל-בְּנֵי תַּעֲנוּגָיִךְ; הַרְחִבִי קָרְחָתֵךְ כַּנֶּשֶׁר, כִּי גָלוּ מִמֵּךְ."
+  ],
+  "english": [
+    "The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz,\nand Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+    "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple.",
+    "For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.",
+    "And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire,\nand as the waters\nthat are\n poured down a steep place.",
+    "For the transgression of Jacob\nis all this, and for the sins of the house of Israel. What\nis the transgression of Jacob?\nis it\n not Samaria? and what\nare the high places of Judah?\nare they not Jerusalem?",
+    "Therefore I will make Samaria as an heap of the field,\nand\n as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.",
+    "And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered\nit of the hire of an harlot, and they shall return to the hire of an harlot.",
+    "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.",
+    "For her wound\nis incurable; for it is come unto Judah; he is come unto the gate of my people,\neven to Jerusalem.",
+    "Declare ye\nit not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.",
+    "Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth-ezel; he shall receive of you his standing.",
+    "For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem.",
+    "O thou inhabitant of Lachish, bind the chariot to the swift beast: she\nis the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.",
+    "Therefore shalt thou give presents to Moresheth-gath: the houses of Achzib\nshall be a lie to the kings of Israel.",
+    "Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.",
+    "Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee."
+  ],
+  "steinsaltz": [
+    "זה דְּבַר־ה' אֲשֶׁר הָיָה אֶל־מִיכָה הַמֹּרַשְׁתִּי, בִּימֵי יוֹתָם אָחָז יְחִזְקִיָּה מַלְכֵי יְהוּדָה. אֲשֶׁר־חָזָה עַל־שֹׁמְרוֹן וִירוּשָׁלִָם.",
+    "שִׁמְעוּ, עַמִּים כֻּלָּם! הַקְשִׁיבִי, אֶרֶץ וּמְלֹאָהּ! וִיהִי אֲדֹנָי אֱלוֹהִים בָּכֶם לְעֵד מוכיח, אֲדֹנָי מֵהֵיכַל קָדְשׁוֹ.",
+    "כִּי־הִנֵּה ה' יֹצֵא מִמְּקוֹמוֹ, כבודו מתגלה, וְיָרַד וְדָרַךְ עַל־בָּמֳתֵי, המקומות הגבוהים של האָרֶץ,",
+    "ובדריכתו, נָמַסּוּ הֶהָרִים תַּחְתָּיו, כל הר במקומו, וְהָעֲמָקִים יִתְבַּקָּעוּ, יתפקעו כַּדּוֹנַג הנמס מִפְּנֵי הָאֵשׁ, כְּמַיִם מֻגָּרִים בְּמוֹרָד, הנשפכים במדרון ולא נותר מהם דבר.",
+    "בְּשל פֶשַׁע יַעֲקֹב יבוא כָּל־זֹאת וּבְשל חַטֹּאות בֵּית יִשְׂרָאֵל. מִי מגלמת את פֶשַׁע יַעֲקֹב? – הֲלוֹא העיר שֹׁמְרוֹן, שבנוסף על שאר עברות שבה, היא מלאה עבודה זרה. וּמִי עיקר בָּמוֹת, מקומות גבוהים שעליהם הקריבו קרבנות ביהוּדָה – הֲלוֹא יְרוּשָׁלִָם. מלבד בית המקדש היו בירושלים במות שמילאו את העיר, וקיומן היה חרפה לישראל.",
+    "וְשַׂמְתִּי, אהפוך את שֹׁמְרוֹן המיושבת לְעִי הַשָּׂדֶה, גלי אבנים שבשדה ולְמַטָּעֵי כָרֶם. וְהִגַּרְתִּי, אשפוך לַגַּי, לגיא הסמוך את אֲבָנֶיהָ, אבני חומותיה ובנייניה יידרדרו לעמק בעקבות התמוטטותה, וִיסֹדֶיהָ אֲגַלֶּה, אחשוף כאשר הכול ייהרס.",
+    "וְכָל־פְּסִילֶיהָ יֻכַּתּוּ, יישברו לרסיסים, וְכָל־אֶתְנַנֶּיהָ, המתנות שניתנו בה לעבודה הזרה, יִשָּׂרְפוּ בָאֵשׁ, וְכָל־עֲצַבֶּיהָ, אליליה אָשִׂים שְׁמָמָה, כִּי מֵאֶתְנַן זוֹנָה קִבָּצָה את כל האוצרות שלה, וְעַד, אל אֶתְנַן זוֹנָה יָשׁוּבוּ בידי האויבים. המקום כולו בנוי על ריקבון ושחיתות, דתית ומוסרית. העבודה הזרה והזנות הצטרפו יחד לבניית העיר היפה והמהוללת שומרון.",
+    "וכאן באה קינה: עַל־זֹאת – חורבן שומרון אֶסְפְּדָה וְאֵילִילָה, איילל, אֵילְכָה, אלך שׁוֹלָל, חסר כול או חסר דעת וְעָרוֹם מרוב צער, אֶעֱשֶׂה מִסְפֵּד כַּתַּנִּים, וְאֵבֶל כִּבְנוֹת יַעֲנָה, בעלי חיים המשמיעים יללות ארוכות, מעין הספד מתמשך.",
+    "כִּי אֲנוּשָׁה כל מכה ממַכּוֹתֶיהָ, כִּי־בָאָה המכה עַד־יְהוּדָה, נָגַע השבר עַד־שַׁעַר עיר עַמִּי – עַד־יְרוּשָׁלִָם.",
+    "בְּגַת הפלשתית אַל־תַּגִּידוּ את דבר האסון, על מנת שלא ישמחו האויבים במפלתנו. כעין הביטוי אַל תַּגִּידוּ בְגַת האמור בקינת דוד על שאול. בָּכוֹ אַל־תִּבְכּוּ, בְּבֵית לְעַפְרָה – שם מקום – בעָפָר הִתְפַּלָּשִׁי, התגלגלי. אי אפשר אפילו לבכות ולהרעיש על הצרה, אלא רק לשבת על הקרקע באבל חרישי.",
+    "עִבְרִי, צאו לָכֶם, יוֹשֶׁבֶת, קהילת שָׁפִיר עֶרְיָה־בֹשֶׁת, חשופת ערווה. כינוי למקום שקלונו גלוי, או: יוגלו כשהם ערומים. לֹא יָצְאָה יוֹשֶׁבֶת צַאֲנָן להשתתף במִסְפַּד בֵּית הָאֵצֶל, הסמוכה לה, אולי בגלל אנוכיותה, אולי הייתה נצורה או שתושביה התחבאו מפני האויב, אך ללא הועיל – יִקַּח האויב מכל אחד מִכֶּם את עֶמְדָּתוֹ, עמידתו הבטוחה. המקומות הללו ייחרבו ותושביהם ילכו בגלות.",
+    "כִּי־חָלָה, קיוותה לְטוֹב יוֹשֶׁבֶת העיר מָרוֹת, אך לשווא – כִּי־יָרַד רָע מֵאֵת ה' לְשַׁעַר יְרוּשָׁלִָם.",
+    "כדי לנוס רְתֹם את הַמֶּרְכָּבָה לָרֶכֶשׁ, סוסים מהירים, יוֹשֶׁבֶת לָכִיש, עיר מבצר ביהודה שנכבשה גם היא כשומרון על ידי מלך אשור. רֵאשִׁית חַטָּאת הִיא לכיש לְבַת־צִיּוֹן, כִּי־בָךְ נִמְצְאוּ פִּשְׁעֵי יִשְׂרָאֵל. בלכיש אימצו לראשונה את מעשיה הקלוקלים של ממלכת ישראל.",
+    "לָכֵן תִּתְּנִי שִׁלּוּחִים, מתנות או מסים עַל, אל מוֹרֶשֶׁת גַּת, בָּתֵּי העיר אַכְזִיב, אולי היא כזיב, יהיו לְאַכְזָב לְמַלְכֵי יִשְׂרָאֵל. במפלתם יתברר שאי אפשר היה לסמוך על המקום ועל ביטחונו.",
+    "עֹד את הַיֹּרֵשׁ, הכובש אָבִיא לָךְ, יוֹשֶׁבֶת מָרֵשָׁה. אם מיכה אכן היה ממרשה, הוא מדבר כאן על ערי יהודה הנמצאות בסביבות עיר הולדתו. עַד־עֲדֻלָּם יָבוֹא, ישקע כְּבוֹד יִשְׂרָאֵל.",
+    "בת ציון, קָרְחִי, מִרטי את ראשך כסימן לאבלות, וָגֹזִּי את שערך עַל־בְּנֵי תַּעֲנוּגָיִךְ. התאבלי על האנשים המעודנים שהיו בך, ולא קרחה קטנה וסמלית – הַרְחִבִי קָרְחָתֵךְ כַּנֶּשֶׁר, כִּי־גָלוּ מִמֵּךְ כל האנשים הטובים."
+  ],
+  "ai_explanation": [
+    "זהו דבר ה׳ שנמסר למיכה המורשתי בימי יותם, אחז וחזקיהו, מלכי יהודה. מיכה חזה נבואה הנוגעת לשומרון ולירושלים.",
+    "הנביא קורא לכל העמים ולכל הארץ להקשיב, משום שה׳ עומד להעיד ולהוכיח אותם מהיכל קודשו.",
+    "ה׳ יוצא ממקומו, וכבודו מתגלה, והוא יורד ודורך על המקומות הגבוהים והנישאים בארץ.",
+    "כאשר ה׳ דורך, ההרים נמסים והעמקים מתבקעים, כמו שעווה הנמסה באש וכמו מים הנשפכים במדרון ונעלמים.",
+    "כל הדברים האלה באים בגלל פשעי יעקב וחטאות בית ישראל. שומרון מגלמת את פשעי ישראל בעבודתה הזרה, וירושלים מגלמת את במות יהודה ואת החרפה שבהן.",
+    "ה׳ יהפוך את שומרון המיושבת לגלי אבנים בשדה ולמקום הנטוע כרמים. אבני בנייניה יידרדרו לעמק, ויסודותיה ייחשפו עם הריסתה.",
+    "פסילי שומרון יישברו, מתנות העבודה הזרה יישרפו, ואליליה יהיו לשממה. אוצרות העיר, שנאספו מתוך שחיתות דתית ומוסרית, יחזרו לידי האויבים.",
+    "מיכה מקונן על חורבן שומרון: הוא יילל, ילך חסר כול וערום מרוב צער, ויספוד ביללות הדומות לקולות תנים ובנות יענה.",
+    "מכת שומרון קשה, והיא מגיעה עד יהודה ועד שער ירושלים. השבר כבר נוגע בעיר עמו של הנביא.",
+    "אין לגלות את האסון בגת הפלשתית, כדי שהאויבים לא ישמחו במפלת ישראל. בבית לעפרה יש להתפלש בעפר באבל חרישי, בלי יכולת לבכות ולהרעיש.",
+    "תושבי שפיר יוגלו או ייחשפו בחרפה. צאנן לא תצא להשתתף באבל בית האצל, אך גם היא לא תינצל, והאויב ייקח מכל אחד את ביטחונו ואת עמידתו.",
+    "מרות קיוותה לטוב, אך תקוותה התבדתה, משום שהרע מאת ה׳ הגיע עד שער ירושלים.",
+    "לכיש נקראת לרתום מרכבה וסוסים מהירים כדי לנוס. היא מתוארת כראשית חטאתה של בת ציון, משום שאימצה את מעשיה הקלוקלים של ממלכת ישראל.",
+    "יהודה תיתן מתנות או מסים למורשת גת. בתי אכזיב יהיו לאכזב למלכי ישראל, ובמפלה יתברר שאי אפשר היה לסמוך על המקום ועל ביטחונו.",
+    "הכובש יגיע אל מרשה, ועד עדולם ישקע כבוד ישראל. הדברים נאמרים גם בזיקה למיכה, שהיה ממרשה, ולערי יהודה שסביבה.",
+    "בת ציון נקראת להתאבל באבל כבד על בני תענוגיה שגלו. עליה למרוט את שערה ולהרחיב את קרחתה, כאבלו של נשר, על אובדן האנשים המעודנים והטובים."
+  ],
+  "ai_explanation_en": [
+    "This is the word of the Lord given to Micah the Morashtite during the days of Jotham, Ahaz, and Hezekiah, kings of Judah. Micah saw a prophecy concerning Samaria and Jerusalem.",
+    "The prophet calls all peoples and the whole earth to listen, because the Lord is about to testify against and rebuke them from His holy temple.",
+    "The Lord comes out from His place, His glory is revealed, and He descends and treads upon the high and elevated places of the land.",
+    "When the Lord treads upon them, the mountains melt and the valleys split apart, like wax melting before fire and like water poured down a slope until nothing remains.",
+    "All these things come because of the offenses of Jacob and the sins of the house of Israel. Samaria embodies Israel’s offense through its idolatry, while Jerusalem embodies Judah’s high places and the disgrace they represent.",
+    "The Lord will turn inhabited Samaria into heaps of stones in a field and into a place for planting vineyards. The stones of its buildings will roll into the valley, and its foundations will be exposed as it is destroyed.",
+    "Samaria’s idols will be broken, its gifts to idolatry will be burned, and its images will become desolate. The city’s treasures, gathered through religious and moral corruption, will return to the hands of the enemies.",
+    "Micah mourns Samaria’s destruction: he will wail, walk stripped and bereft from grief, and lament with cries resembling those of jackals and ostriches.",
+    "Samaria’s wound is severe, and it reaches Judah and the gate of Jerusalem. The calamity has already touched the prophet’s people’s city.",
+    "The disaster must not be announced in Philistine Gath, so that the enemies will not rejoice in Israel’s downfall. In Beth-le-aphrah, the people should roll in the dust in silent mourning, unable even to cry out loudly.",
+    "The inhabitants of Shaphir will be exiled or exposed in shame. Zaanan will not come out to join the mourning of Beth-ezel, but it too will not escape, and the enemy will take away everyone’s security and standing.",
+    "Moresheth hoped for good, but its hope was disappointed, because evil from the Lord reached the gate of Jerusalem.",
+    "Lachish is told to harness a chariot and swift horses in order to flee. It is described as the beginning of the sin of the daughter of Zion because it adopted the corrupt practices of the kingdom of Israel.",
+    "Judah will give gifts or taxes to Moresheth-gath. The houses of Achzib will prove deceptive to the kings of Israel, and in the defeat it will become clear that the place and its security could not be trusted.",
+    "The conqueror will come to Mareshah, and Israel’s glory will sink as far as Adullam. The words also relate to Micah, who was from Mareshah, and to the towns of Judah around it.",
+    "The daughter of Zion is called to mourn deeply for her exiled children. She must tear out her hair and enlarge her shaven head, like a vulture in mourning, over the loss of her refined and good people."
+  ],
+  "perush": [
+    "זהו דבר ה׳ שנמסר למיכה המורשתי בימי יותם, אחז וחזקיהו, מלכי יהודה. מיכה חזה נבואה הנוגעת לשומרון ולירושלים.",
+    "הנביא קורא לכל העמים ולכל הארץ להקשיב, משום שה׳ עומד להעיד ולהוכיח אותם מהיכל קודשו.",
+    "ה׳ יוצא ממקומו, וכבודו מתגלה, והוא יורד ודורך על המקומות הגבוהים והנישאים בארץ.",
+    "כאשר ה׳ דורך, ההרים נמסים והעמקים מתבקעים, כמו שעווה הנמסה באש וכמו מים הנשפכים במדרון ונעלמים.",
+    "כל הדברים האלה באים בגלל פשעי יעקב וחטאות בית ישראל. שומרון מגלמת את פשעי ישראל בעבודתה הזרה, וירושלים מגלמת את במות יהודה ואת החרפה שבהן.",
+    "ה׳ יהפוך את שומרון המיושבת לגלי אבנים בשדה ולמקום הנטוע כרמים. אבני בנייניה יידרדרו לעמק, ויסודותיה ייחשפו עם הריסתה.",
+    "פסילי שומרון יישברו, מתנות העבודה הזרה יישרפו, ואליליה יהיו לשממה. אוצרות העיר, שנאספו מתוך שחיתות דתית ומוסרית, יחזרו לידי האויבים.",
+    "מיכה מקונן על חורבן שומרון: הוא יילל, ילך חסר כול וערום מרוב צער, ויספוד ביללות הדומות לקולות תנים ובנות יענה.",
+    "מכת שומרון קשה, והיא מגיעה עד יהודה ועד שער ירושלים. השבר כבר נוגע בעיר עמו של הנביא.",
+    "אין לגלות את האסון בגת הפלשתית, כדי שהאויבים לא ישמחו במפלת ישראל. בבית לעפרה יש להתפלש בעפר באבל חרישי, בלי יכולת לבכות ולהרעיש.",
+    "תושבי שפיר יוגלו או ייחשפו בחרפה. צאנן לא תצא להשתתף באבל בית האצל, אך גם היא לא תינצל, והאויב ייקח מכל אחד את ביטחונו ואת עמידתו.",
+    "מרות קיוותה לטוב, אך תקוותה התבדתה, משום שהרע מאת ה׳ הגיע עד שער ירושלים.",
+    "לכיש נקראת לרתום מרכבה וסוסים מהירים כדי לנוס. היא מתוארת כראשית חטאתה של בת ציון, משום שאימצה את מעשיה הקלוקלים של ממלכת ישראל.",
+    "יהודה תיתן מתנות או מסים למורשת גת. בתי אכזיב יהיו לאכזב למלכי ישראל, ובמפלה יתברר שאי אפשר היה לסמוך על המקום ועל ביטחונו.",
+    "הכובש יגיע אל מרשה, ועד עדולם ישקע כבוד ישראל. הדברים נאמרים גם בזיקה למיכה, שהיה ממרשה, ולערי יהודה שסביבה.",
+    "בת ציון נקראת להתאבל באבל כבד על בני תענוגיה שגלו. עליה למרוט את שערה ולהרחיב את קרחתה, כאבלו של נשר, על אובדן האנשים המעודנים והטובים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הופעת ה׳ ומשפטו על הארץ",
+      "title_en": "The Lord Appears and Judges the Land",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "מיכה מציג את נבואתו על שומרון וירושלים וקורא לעמים להקשיב לעדות ה׳. הופעת ה׳ גורמת להרים להימס ולעמקים להיבקע.",
+      "summary_en": "Micah introduces his prophecy concerning Samaria and Jerusalem and calls the nations to hear the Lord’s testimony. The Lord’s appearance causes the mountains to melt and the valleys to split.",
+      "image_prompt": "A solemn biblical prophetic landscape: a prophet standing before distant Jerusalem and Samaria while divine glory appears above the land, mountains melting and valleys splitting, dramatic but reverent, no text"
+    },
+    {
+      "title": "חטאי שומרון וחורבנה",
+      "title_en": "Samaria’s Sins and Destruction",
+      "start_verse": 5,
+      "end_verse": 7,
+      "summary": "החורבן מוסבר כתוצאה מפשעי ישראל ומעבודת האלילים בשומרון ובבמות ירושלים. שומרון תיהרס, פסיליה יישברו ואוצרותיה יילקחו.",
+      "summary_en": "The destruction is explained as the result of Israel’s offenses and the idolatry of Samaria and Jerusalem’s high places. Samaria will be ruined, its idols broken, and its treasures taken.",
+      "image_prompt": "Ruined ancient city on a hill, shattered idols and broken stone walls, fire consuming offerings, stones sliding into a valley, solemn biblical atmosphere, no identifiable modern elements, no text"
+    },
+    {
+      "title": "הקינה על שומרון והתפשטות המכה",
+      "title_en": "Lament for Samaria and the Spread of the Wound",
+      "start_verse": 8,
+      "end_verse": 9,
+      "summary": "מיכה מתאבל על חורבן שומרון ביללות ובאבל כבד. המכה אינה נשארת בשומרון אלא מגיעה עד יהודה ועד שער ירושלים.",
+      "summary_en": "Micah mourns Samaria’s destruction with wailing and profound grief. The wound does not remain in Samaria but reaches Judah and the gate of Jerusalem.",
+      "image_prompt": "A grieving biblical prophet walking through a devastated landscape, mourning figures and distant city gates, visual symbols of lament and spreading calamity, subdued colors, no text"
+    },
+    {
+      "title": "מסע החורבן בערי יהודה",
+      "title_en": "The Destruction Moves Through Judah’s Towns",
+      "start_verse": 10,
+      "end_verse": 16,
+      "summary": "הנביא מתאר את האסון באמצעות רצף של ערים: חרפה, אבל, חוסר ביטחון, גלות ותבוסה. לבסוף בת ציון נקראת להתאבל על בני תענוגיה שגלו.",
+      "summary_en": "The prophet describes the disaster through a sequence of towns marked by shame, mourning, insecurity, exile, and defeat. Finally, the daughter of Zion is called to mourn her exiled children.",
+      "image_prompt": "A symbolic procession through several doomed biblical towns, mourners in dust, a departing population, a chariot ready to flee, and a woman tearing her hair in grief, historically neutral biblical style, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 4.6,
+      "end": 15.84,
+      "usfm": "MIC.1.1"
+    },
+    {
+      "start": 15.84,
+      "end": 26.86,
+      "usfm": "MIC.1.2"
+    },
+    {
+      "start": 26.86,
+      "end": 35.92,
+      "usfm": "MIC.1.3"
+    },
+    {
+      "start": 35.92,
+      "end": 47.3,
+      "usfm": "MIC.1.4"
+    },
+    {
+      "start": 47.3,
+      "end": 62.98,
+      "usfm": "MIC.1.5"
+    },
+    {
+      "start": 62.98,
+      "end": 75.38,
+      "usfm": "MIC.1.6"
+    },
+    {
+      "start": 75.38,
+      "end": 93.58,
+      "usfm": "MIC.1.7"
+    },
+    {
+      "start": 93.58,
+      "end": 103.66,
+      "usfm": "MIC.1.8"
+    },
+    {
+      "start": 103.66,
+      "end": 113.72,
+      "usfm": "MIC.1.9"
+    },
+    {
+      "start": 113.72,
+      "end": 120.98,
+      "usfm": "MIC.1.10"
+    },
+    {
+      "start": 120.98,
+      "end": 134.22,
+      "usfm": "MIC.1.11"
+    },
+    {
+      "start": 134.22,
+      "end": 142.08,
+      "usfm": "MIC.1.12"
+    },
+    {
+      "start": 142.08,
+      "end": 154.9,
+      "usfm": "MIC.1.13"
+    },
+    {
+      "start": 154.9,
+      "end": 162.8,
+      "usfm": "MIC.1.14"
+    },
+    {
+      "start": 162.8,
+      "end": 171.4,
+      "usfm": "MIC.1.15"
+    },
+    {
+      "start": 171.4,
+      "end": 188.84,
+      "usfm": "MIC.1.16"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.84,
+    26.86,
+    35.92,
+    47.3,
+    62.98,
+    75.38,
+    93.58,
+    103.66,
+    113.72,
+    120.98,
+    134.22,
+    142.08,
+    154.9,
+    162.8,
+    171.4,
+    188.84
+  ],
+  "times_en_usfm": [
+    "MIC.1.1",
+    "MIC.1.2",
+    "MIC.1.3",
+    "MIC.1.4",
+    "MIC.1.5",
+    "MIC.1.6",
+    "MIC.1.7",
+    "MIC.1.8",
+    "MIC.1.9",
+    "MIC.1.10",
+    "MIC.1.11",
+    "MIC.1.12",
+    "MIC.1.13",
+    "MIC.1.14",
+    "MIC.1.15",
+    "MIC.1.16"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? מיכה מציג את נבואתו כ״דְבַר־יְהוָה״ שנאמרה בימי יותם, אחז וחזקיהו, מלכי יהודה, והיא עוסקת בשומרון ובירושלים.",
+      "text_he": "הידעת? מיכה מציג את נבואתו כ״דְבַר־יְהוָה״ שנאמרה בימי יותם, אחז וחזקיהו, מלכי יהודה, והיא עוסקת בשומרון ובירושלים.",
+      "text_en": "Did you know? Micah introduces his prophecy as “the word of the LORD,” spoken during the reigns of Jotham, Ahaz, and Hezekiah, kings of Judah, and concerning Samaria and Jerusalem."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? בתחילת הנבואה מיכה קורא לכל העמים ולכל הארץ להקשיב, ומציג את ה׳ כעד מן היכל קודשו.",
+      "text_he": "הידעת? בתחילת הנבואה מיכה קורא לכל העמים ולכל הארץ להקשיב, ומציג את ה׳ כעד מן היכל קודשו.",
+      "text_en": "Did you know? At the beginning of the prophecy, Micah calls on all peoples and the whole earth to listen, presenting the LORD as a witness from His holy temple."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? הופעת ה׳ מתוארת בלשון ציורית: הוא יוצא ממקומו, יורד ודורך על במות הארץ.",
+      "text_he": "הידעת? הופעת ה׳ מתוארת בלשון ציורית: הוא יוצא ממקומו, יורד ודורך על במות הארץ.",
+      "text_en": "Did you know? The LORD’s appearance is described vividly: He comes out of His place, descends, and treads upon the heights of the earth."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? עוצמת הופעת ה׳ מתוארת בכך שההרים נמסים והעמקים נבקעים, כמו דונג מפני האש וכמים הנשפכים במורד.",
+      "text_he": "הידעת? עוצמת הופעת ה׳ מתוארת בכך שההרים נמסים והעמקים נבקעים, כמו דונג מפני האש וכמים הנשפכים במורד.",
+      "text_en": "Did you know? The power of the LORD’s appearance is shown by the mountains melting and the valleys splitting open, like wax before the fire and water poured down a slope."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? מיכה מסביר שהחורבן נובע מפשעי יעקב ומחטאות בית ישראל, ומזהה את שומרון כמוקד פשעי ישראל ואת ירושלים כמוקד הבמות של יהודה.",
+      "text_he": "הידעת? מיכה מסביר שהחורבן נובע מפשעי יעקב ומחטאות בית ישראל, ומזהה את שומרון כמוקד פשעי ישראל ואת ירושלים כמוקד הבמות של יהודה.",
+      "text_en": "Did you know? Micah explains that the destruction results from Jacob’s transgression and the sins of the house of Israel, identifying Samaria as the center of Israel’s transgression and Jerusalem as the center of Judah’s high places."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? על פי הנבואה, שומרון תהפוך לעיי שדה ולמקום נטיעת כרמים, ואבניה יוגרו אל הגיא ויסודותיה ייחשפו.",
+      "text_he": "הידעת? על פי הנבואה, שומרון תהפוך לעיי שדה ולמקום נטיעת כרמים, ואבניה יוגרו אל הגיא ויסודותיה ייחשפו.",
+      "text_en": "Did you know? According to the prophecy, Samaria will become a ruin in the open country and a place for planting vineyards; its stones will be poured into the valley, and its foundations will be exposed."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? חורבן שומרון כולל את שבירת פסיליה, שריפת אתניה והריסת עצביה; הנביא מציין שגם העושר שנאסף יילקח ויושב למקורו.",
+      "text_he": "הידעת? חורבן שומרון כולל את שבירת פסיליה, שריפת אתניה והריסת עצביה; הנביא מציין שגם העושר שנאסף יילקח ויושב למקורו.",
+      "text_en": "Did you know? Samaria’s destruction includes the smashing of its idols, the burning of its images, and the demolition of its carved figures; the prophet also says that the wealth it accumulated will be taken away and returned to its source."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? מיכה מתאר אבל אישי וציבורי על חורבן שומרון: הוא יספוד, יילל, ילך יחף וערום, ויתאבל כבני תנים וכבנות יענה.",
+      "text_he": "הידעת? מיכה מתאר אבל אישי וציבורי על חורבן שומרון: הוא יספוד, יילל, ילך יחף וערום, ויתאבל כבני תנים וכבנות יענה.",
+      "text_en": "Did you know? Micah describes personal and public mourning over Samaria’s destruction: he will mourn, wail, go barefoot and naked, and grieve like the jackals and the ostriches."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? המכה אינה נעצרת בשומרון: לפי הנבואה היא מגיעה עד יהודה ואף עד שער ירושלים.",
+      "text_he": "הידעת? המכה אינה נעצרת בשומרון: לפי הנבואה היא מגיעה עד יהודה ואף עד שער ירושלים.",
+      "text_en": "Did you know? The blow does not stop at Samaria: according to the prophecy, it reaches Judah and even the gate of Jerusalem."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? בפסוקים האחרונים מיכה מתאר את התפשטות האסון בערי יהודה באמצעות רצף של קריאות אבל, חרפה, מנוסה וגלות, ולבסוף קורא לבת ציון להתאבל על בני תענוגיה שגלו.",
+      "text_he": "הידעת? בפסוקים האחרונים מיכה מתאר את התפשטות האסון בערי יהודה באמצעות רצף של קריאות אבל, חרפה, מנוסה וגלות, ולבסוף קורא לבת ציון להתאבל על בני תענוגיה שגלו.",
+      "text_en": "Did you know? In the final verses, Micah describes the disaster spreading through the towns of Judah in a series of calls to mourn, suffer disgrace, flee, and go into exile; finally, he calls on Daughter Zion to mourn for her beloved children who have gone into exile."
+    }
+  ]
+}

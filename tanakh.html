@@ -20,6 +20,8 @@ main{flex:1;min-height:0;overflow-y:auto;padding:8px 7px calc(36vh + 18px);scrol
 #imageSection{position:fixed;left:0;right:0;bottom:0;height:36vh;background:#080502;border-top:2px solid #8e661c}#imageBox{height:100%;max-width:760px;margin:auto;position:relative;background:#111}#img{width:100%;height:100%;object-fit:cover}#cap{position:absolute;left:0;right:0;bottom:0;padding:7px;background:rgba(0,0,0,.68);text-align:center;color:#ffe58a;font-weight:800}.hidden{display:none!important}#empty{text-align:center;color:#d8c596;padding:35px 10px}
 
 #hebrewOnImage{position:absolute;right:8px;top:8px;z-index:3;background:linear-gradient(#82e89a,#27964a);color:#071b0d;display:none}
+#englishOnImage{position:absolute;right:8px;top:8px;z-index:3;background:linear-gradient(#82e89a,#27964a);color:#071b0d;display:none}
+#englishLine{position:absolute;left:6px;right:6px;bottom:57px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:8px 10px;border-radius:8px;font-size:20px;line-height:1.35;text-align:left;direction:ltr;display:none;max-height:42%;overflow-y:auto}
 #hebrewLine{position:absolute;left:6px;right:6px;bottom:42px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:8px 10px;border-radius:8px;font-size:18px;line-height:1.35;text-align:center;display:none}
 #stopBtn{background:linear-gradient(#ff9d8f,#d83f2f);color:#fff}
 #langBtn{background:linear-gradient(#9fd2ff,#3e8ed0);color:#071626}
@@ -432,14 +434,14 @@ body{
 #wordTranslation.show{display:inline-flex}
 
 
-#langBtn{width:40px!important;min-width:40px!important;padding:0!important;font-size:21px!important}
+#langBtn{width:40px!important;height:34px!important;min-width:40px!important;flex:0 0 40px!important;padding:0!important;display:inline-flex!important;align-items:center!important;justify-content:center!important}
 
 .verse .englishWord{cursor:pointer;margin:0 2px}
 .englishWord{cursor:pointer;border-radius:5px;padding:0 1px}
 .englishWord.karaokeActive{background:#ffe600!important;color:#111!important}
 .englishWord.wordSelected{background:#7dd3fc!important;color:#07111f!important;box-shadow:0 0 0 3px rgba(14,165,233,.45)!important}
 
-#langBtn svg{display:block;width:30px;height:20px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+#langBtn svg{display:block;width:36px;height:24px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
 </style><style>
 /* Consolidated final overrides */
 #quizToggle{display:none!important}
@@ -788,6 +790,9 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 .chapterGold.lockedChapter{filter:saturate(.45);opacity:.72;cursor:not-allowed;position:relative}
 .chapterGold.lockedChapter::after{content:" 🔒";font-size:.72em}
 </style>
+<style>
+#hebrewLine,#englishLine{bottom:42px!important;padding-top:13px!important;padding-bottom:28px!important;font-weight:900!important;text-shadow:0 1px 3px #000!important}
+</style>
 </head>
 <body class="introMode">
 <header>
@@ -837,6 +842,8 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
     <button id="hebrewOnImage" onclick="toggleHebrewOverlay()">Hebrew</button>
     <div id="hebrewLine"></div>
+    <button id="englishOnImage" type="button" onclick="toggleEnglishOverlay()">English</button>
+    <div id="englishLine"></div>
     <div id="cap">תנ״ך</div>
     <button id="didYouKnowBtn" type="button" aria-label="הידעת?">💡 הידעת?</button>
     <div id="didYouKnowBox" role="dialog" aria-live="polite" aria-label="הידעת?">
@@ -877,7 +884,7 @@ async function googleTranslateWord(word){
 
 // English Bible text is loaded from Drive chapter data.
 
-const sel=document.getElementById('sel'),cards=document.getElementById('cards'),audio=document.getElementById('audio'),statusEl=document.getElementById('status'),empty=document.getElementById('empty'),imageSection=document.getElementById('imageSection'),img=document.getElementById('img'),cap=document.getElementById('cap'),endpointInput=document.getElementById('endpoint'),langBtn=document.getElementById('langBtn'),speedSel=document.getElementById('speedSel'),hebrewOnImage=document.getElementById('hebrewOnImage'),hebrewLine=document.getElementById('hebrewLine'),chapterMenu=document.getElementById('chapterMenu'),chapterMenuBtn=document.getElementById('chapterMenuBtn'),chapterCounter=document.getElementById('chapterCounter'),bookTitle=document.getElementById('bookTitle'),ttsBtn=document.getElementById('ttsBtn'),loadProgressWrap=document.getElementById('loadProgressWrap'),loadProgressBar=document.getElementById('loadProgressBar'),loadProgressText=document.getElementById('loadProgressText');
+const sel=document.getElementById('sel'),cards=document.getElementById('cards'),audio=document.getElementById('audio'),statusEl=document.getElementById('status'),empty=document.getElementById('empty'),imageSection=document.getElementById('imageSection'),img=document.getElementById('img'),cap=document.getElementById('cap'),endpointInput=document.getElementById('endpoint'),langBtn=document.getElementById('langBtn'),speedSel=document.getElementById('speedSel'),hebrewOnImage=document.getElementById('hebrewOnImage'),hebrewLine=document.getElementById('hebrewLine'),englishOnImage=document.getElementById('englishOnImage'),englishLine=document.getElementById('englishLine'),chapterMenu=document.getElementById('chapterMenu'),chapterMenuBtn=document.getElementById('chapterMenuBtn'),chapterCounter=document.getElementById('chapterCounter'),bookTitle=document.getElementById('bookTitle'),ttsBtn=document.getElementById('ttsBtn'),loadProgressWrap=document.getElementById('loadProgressWrap'),loadProgressBar=document.getElementById('loadProgressBar'),loadProgressText=document.getElementById('loadProgressText');
 const BOOKS=[
   {id:'genesis',name:'בראשית',nameEn:'Genesis',chapters:50},{id:'exodus',name:'שמות',nameEn:'Exodus',chapters:40},{id:'leviticus',name:'ויקרא',nameEn:'Leviticus',chapters:27},{id:'numbers',name:'במדבר',nameEn:'Numbers',chapters:36},{id:'deuteronomy',name:'דברים',nameEn:'Deuteronomy',chapters:34},
   {id:'joshua',name:'יהושע',nameEn:'Joshua',chapters:24},{id:'judges',name:'שופטים',nameEn:'Judges',chapters:21},{id:'samuel1',name:'שמואל א',nameEn:'I Samuel',chapters:31},{id:'samuel2',name:'שמואל ב',nameEn:'II Samuel',chapters:24},{id:'kings1',name:'מלכים א',nameEn:'I Kings',chapters:22},{id:'kings2',name:'מלכים ב',nameEn:'II Kings',chapters:25},
@@ -885,20 +892,39 @@ const BOOKS=[
   {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
 ];
 let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
+let verseAtTop=0;
+function getTopVisibleVerse(){
+  const main=document.getElementById('main');
+  if(!main||!verseCards.length)return verseAtTop;
+  const top=main.getBoundingClientRect().top+12;
+  const visible=verseCards.findIndex(card=>card.getBoundingClientRect().bottom>top);
+  return visible>=0?visible:Math.max(0,verseCards.length-1);
+}
+function trackTopVisibleVerse(){
+  if(!verseCards.length)return;
+  verseAtTop=getTopVisibleVerse();
+  if(englishOverlay)updateEnglishOverlay(verseAtTop);
+  if(hebrewOverlay)updateHebrewOverlay(verseAtTop);
+}
+document.getElementById('main').addEventListener('scroll',trackTopVisibleVerse,{passive:true});
 function reloadCurrentChapter(){
   if(!current || !currentBook)return;
-  const main=document.getElementById('main');
-  const top=main.getBoundingClientRect().top+50;
-  const visible=verseCards.findIndex(card=>card.getBoundingClientRect().bottom>top);
-  const selected=verseCards.findIndex(card=>card.classList.contains('active'));
-  const verse=visible>=0?visible:Math.max(0,selected);
+  const verse=getTopVisibleVerse();
   loadChapter(current,currentBook,verse);
+}
+function showVerseAtTop(index){
+  if(!Number.isInteger(index)||index<0||!verseCards[index])return;
+  const scroller=document.getElementById('main'),card=verseCards[index];
+  const previous=scroller.style.scrollBehavior;
+  scroller.style.scrollBehavior='auto';
+  scroller.scrollTop+=card.getBoundingClientRect().top-scroller.getBoundingClientRect().top-6;
+  verseAtTop=index;
+  requestAnimationFrame(()=>{scroller.style.scrollBehavior=previous});
 }
 function restoreReloadVerse(index){
   if(!Number.isInteger(index)||index<0||!verseCards[index])return;
   setActive(index,false);
-  const scroller=document.getElementById('main'),card=verseCards[index];
-  scroller.scrollTop+=card.getBoundingClientRect().top-scroller.getBoundingClientRect().top-6;
+  showVerseAtTop(index);
 }
 function renderBookMenu(){
   chapterMenu.className='open bookMode';chapterMenu.innerHTML='';
@@ -907,7 +933,7 @@ function renderBookMenu(){
 function renderChapterMenu(book){
   chapterMenu.className='open chapterMode';chapterMenu.innerHTML='';
   const back=document.createElement('button');back.id='chapterBack';back.textContent=language==='en'?'← Back to books':'← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
-  const firstChapterOnly=['joshua','judges','samuel1'].includes(book.id);
+  const firstChapterOnly=BOOKS.findIndex(item=>item.id===book.id)>BOOKS.findIndex(item=>item.id==='numbers');
   for(let i=1;i<=book.chapters;i++){
     const b=document.createElement('button');b.className='chapterGold';b.textContent=i;b.dataset.chapter=i;
     if(firstChapterOnly && i>1){
@@ -927,7 +953,7 @@ const READALONG_ENDPOINT='';
 endpointInput.value='GitHub BIBLE';
 setTimeout(()=>{try{setLanguageFlag()}catch(e){}},0);
 setTimeout(()=>chapterMenuBtn.classList.add('menuAttention'),0);
-let data=null,images={},verseCards=[],current=0,ideaNow=-1,language='he',lockedVerse=-1,stopAtTime=null,hebrewOverlay=false,ttsMode=false,ttsIndex=0,loadTimer=null,userAudioMuted=false;
+let data=null,images={},verseCards=[],current=0,ideaNow=-1,language='he',lockedVerse=-1,stopAtTime=null,hebrewOverlay=false,englishOverlay=false,ttsMode=false,ttsIndex=0,loadTimer=null,userAudioMuted=false;
 let sequenceMode=false, sequenceLastVerse=-1;
 
 // Trial content for one chapter. Verse numbers are one-based.
@@ -1225,6 +1251,7 @@ function plainHebrewTranslation(s){
 
 async function loadChapter(n,book=currentBook,returnVerse=null){
   if(!n)return;
+  if(n>1 && BOOKS.findIndex(item=>item.id===book?.id)>BOOKS.findIndex(item=>item.id==='numbers'))return;
   closeDidYouKnow();activeDidYouKnow=null;didYouKnowBtn.classList.remove('available');
   quizOpen=false;quizBox.classList.remove('open');updateQuizMainButton();
   startChapterLoadTicker();currentBook=book||currentBook;
@@ -1265,7 +1292,7 @@ async function loadChapter(n,book=currentBook,returnVerse=null){
     // KJV English text, audio and verse timings are stored in chapter.json.
     // Keep audio_en_url exactly as generated by the KJV updater.
 
-    lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;
+    lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;englishOverlay=false;
     data.questions=language==='en'?questionsEn:questionsHe;
     data.questionsData=data.questions;
 
@@ -1614,6 +1641,8 @@ function render(){
   didYouKnowBtn.textContent=language==='en'?'💡 Did you know?':'💡 הידעת?';
   hebrewOnImage.style.display=language==='en'?'block':'none';
   hebrewLine.style.display=(language==='en'&&hebrewOverlay)?'block':'none';
+  englishOnImage.style.display=language==='he'?'block':'none';
+  englishLine.style.display=(language==='he'&&englishOverlay)?'block':'none';
   setActive(0,false)
 }
 function ideaForVerse(v){const a=data.ideas||[];for(let i=0;i<a.length;i++){const x=Number(a[i].start_verse||1),y=Number(a[i].end_verse||x);if(v>=x&&v<=y)return i}return-1}
@@ -1631,6 +1660,7 @@ function setActive(i,scroll=true){
     if(quizOpen){quizIdea=ix;quizIndex=0;renderQuiz()}
   }
   updateHebrewOverlay(i);
+  updateEnglishOverlay(i);
   updateDidYouKnowAvailability(i);
   if(scroll)verseCards[i]?.scrollIntoView({behavior:'smooth',block:'start'});
 }
@@ -1675,6 +1705,7 @@ audio.addEventListener('loadedmetadata',()=>{
   audio.playbackRate=rate;
 });
 function toggleLanguage(){
+  const verseToShow=data?getTopVisibleVerse():0;
   setTimeout(()=>{
     document.body.classList.toggle('lang-en',language==='en');
     document.body.classList.toggle('lang-he',language==='he');
@@ -1683,18 +1714,26 @@ function toggleLanguage(){
   stopTTS();stopAudio();
   closeDidYouKnow();
   language=language==='he'?'en':'he';
-  lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;
+  lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;englishOverlay=false;
   if(data){
     data.questions = language==='en' ? questionsEn : questionsHe;
     data.questionsData = data.questions;
   }
   if(quizOpen){quizIndex=0;}
   render();
+  if(data)showVerseAtTop(verseToShow);
   updateQuizLanguageLabels();
   if(quizOpen) renderQuiz();
 }
 function toggleHebrewOverlay(){hebrewOverlay=!hebrewOverlay;updateHebrewOverlay(lockedVerse>=0?lockedVerse:currentAudioVerse())}
 function updateHebrewOverlay(i){if(language!=='en'){hebrewLine.style.display='none';return}hebrewLine.textContent=cleanBibleDisplayText(stripHebrewTrope((data?.verses||[])[i]||''));hebrewLine.style.display=hebrewOverlay?'block':'none'}
+function toggleEnglishOverlay(){englishOverlay=!englishOverlay;updateEnglishOverlay(getTopVisibleVerse())}
+function updateEnglishOverlay(i){
+  if(language!=='he'){englishLine.style.display='none';return}
+  const verses=arrField('english','english_verses','kjv','en','verses_en');
+  englishLine.textContent=cleanText(verses[i]||'');
+  englishLine.style.display=englishOverlay&&englishLine.textContent?'block':'none';
+}
 
 
 
