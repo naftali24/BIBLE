@@ -1,0 +1,507 @@
+{
+  "book": "Amos",
+  "book_he": "עמוס",
+  "book_chapters": 9,
+  "chapter": 5,
+  "title": "עמוס פרק 5",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1505.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1505.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/AMO/5-29cb71396722741f85733e68dbd1d5ea.mp3?version_id=1",
+  "verses": [
+    "שִׁמְעוּ אֶת-הַדָּבָר הַזֶּה, אֲשֶׁר אָנֹכִי נֹשֵׂא עֲלֵיכֶם קִינָה--בֵּית יִשְׂרָאֵל.",
+    "נָפְלָה לֹא-תוֹסִיף קוּם, בְּתוּלַת יִשְׂרָאֵל; נִטְּשָׁה עַל-אַדְמָתָהּ, אֵין מְקִימָהּ.",
+    "כִּי כֹה אָמַר אֲדֹנָי יְהוִה, הָעִיר הַיֹּצֵאת אֶלֶף תַּשְׁאִיר מֵאָה; וְהַיּוֹצֵאת מֵאָה תַּשְׁאִיר עֲשָׂרָה, לְבֵית יִשְׂרָאֵל.",
+    "כִּי כֹה אָמַר יְהוָה, לְבֵית יִשְׂרָאֵל: דִּרְשׁוּנִי, וִחְיוּ.",
+    "וְאַל-תִּדְרְשׁוּ, בֵּית-אֵל, וְהַגִּלְגָּל לֹא תָבֹאוּ, וּבְאֵר שֶׁבַע לֹא תַעֲבֹרוּ: כִּי הַגִּלְגָּל גָּלֹה יִגְלֶה, וּבֵית-אֵל יִהְיֶה לְאָוֶן.",
+    "דִּרְשׁוּ אֶת-יְהוָה, וִחְיוּ: פֶּן-יִצְלַח כָּאֵשׁ בֵּית יוֹסֵף, וְאָכְלָה וְאֵין-מְכַבֶּה לְבֵית-אֵל.",
+    "הַהֹפְכִים לְלַעֲנָה, מִשְׁפָּט; וּצְדָקָה, לָאָרֶץ הִנִּיחוּ.",
+    "עֹשֵׂה כִימָה וּכְסִיל, וְהֹפֵךְ לַבֹּקֶר צַלְמָוֶת, וְיוֹם, לַיְלָה הֶחְשִׁיךְ; הַקּוֹרֵא לְמֵי-הַיָּם, וַיִּשְׁפְּכֵם עַל-פְּנֵי הָאָרֶץ--יְהוָה שְׁמוֹ.",
+    "הַמַּבְלִיג שֹׁד, עַל-עָז; וְשֹׁד, עַל-מִבְצָר יָבוֹא.",
+    "שָׂנְאוּ בַשַּׁעַר, מוֹכִיחַ; וְדֹבֵר תָּמִים, יְתָעֵבוּ.",
+    "לָכֵן יַעַן בּוֹשַׁסְכֶם עַל-דָּל, וּמַשְׂאַת-בַּר תִּקְחוּ מִמֶּנּוּ--בָּתֵּי גָזִית בְּנִיתֶם, וְלֹא-תֵשְׁבוּ בָם; כַּרְמֵי-חֶמֶד נְטַעְתֶּם, וְלֹא תִשְׁתּוּ אֶת-יֵינָם.",
+    "כִּי יָדַעְתִּי רַבִּים פִּשְׁעֵיכֶם, וַעֲצֻמִים חַטֹּאתֵיכֶם; צֹרְרֵי צַדִּיק לֹקְחֵי כֹפֶר, וְאֶבְיוֹנִים בַּשַּׁעַר הִטּוּ.",
+    "לָכֵן, הַמַּשְׂכִּיל בָּעֵת הַהִיא--יִדֹּם: כִּי עֵת רָעָה, הִיא.",
+    "דִּרְשׁוּ-טוֹב וְאַל-רָע, לְמַעַן תִּחְיוּ; וִיהִי-כֵן יְהוָה אֱלֹהֵי-צְבָאוֹת, אִתְּכֶם--כַּאֲשֶׁר אֲמַרְתֶּם.",
+    "שִׂנְאוּ-רָע וְאֶהֱבוּ טוֹב, וְהַצִּיגוּ בַשַּׁעַר מִשְׁפָּט; אוּלַי, יֶחֱנַן יְהוָה אֱלֹהֵי-צְבָאוֹת--שְׁאֵרִית יוֹסֵף.",
+    "לָכֵן כֹּה-אָמַר יְהוָה אֱלֹהֵי צְבָאוֹת, אֲדֹנָי, בְּכָל-רְחֹבוֹת מִסְפֵּד, וּבְכָל-חוּצוֹת יֹאמְרוּ הוֹ-הוֹ; וְקָרְאוּ אִכָּר אֶל-אֵבֶל, וּמִסְפֵּד אֶל-יוֹדְעֵי נֶהִי.",
+    "וּבְכָל-כְּרָמִים, מִסְפֵּד: כִּי-אֶעֱבֹר בְּקִרְבְּךָ, אָמַר יְהוָה.",
+    "הוֹי הַמִּתְאַוִּים, אֶת-יוֹם יְהוָה: לָמָּה-זֶּה לָכֶם יוֹם יְהוָה, הוּא-חֹשֶׁךְ וְלֹא-אוֹר.",
+    "כַּאֲשֶׁר יָנוּס אִישׁ מִפְּנֵי הָאֲרִי, וּפְגָעוֹ הַדֹּב; וּבָא הַבַּיִת--וְסָמַךְ יָדוֹ עַל-הַקִּיר, וּנְשָׁכוֹ הַנָּחָשׁ.",
+    "הֲלֹא-חֹשֶׁךְ יוֹם יְהוָה, וְלֹא-אוֹר; וְאָפֵל, וְלֹא-נֹגַהּ לוֹ.",
+    "שָׂנֵאתִי מָאַסְתִּי, חַגֵּיכֶם; וְלֹא אָרִיחַ, בְּעַצְּרֹתֵיכֶם.",
+    "כִּי אִם-תַּעֲלוּ-לִי עֹלוֹת וּמִנְחֹתֵיכֶם, לֹא אֶרְצֶה; וְשֶׁלֶם מְרִיאֵיכֶם, לֹא אַבִּיט.",
+    "הָסֵר מֵעָלַי, הֲמוֹן שִׁרֶיךָ; וְזִמְרַת נְבָלֶיךָ, לֹא אֶשְׁמָע.",
+    "וְיִגַּל כַּמַּיִם, מִשְׁפָּט; וּצְדָקָה, כְּנַחַל אֵיתָן.",
+    "הַזְּבָחִים וּמִנְחָה הִגַּשְׁתֶּם-לִי בַמִּדְבָּר, אַרְבָּעִים שָׁנָה--בֵּית יִשְׂרָאֵל.",
+    "וּנְשָׂאתֶם, אֵת סִכּוּת מַלְכְּכֶם, וְאֵת, כִּיּוּן צַלְמֵיכֶם--כּוֹכַב, אֱלֹהֵיכֶם, אֲשֶׁר עֲשִׂיתֶם, לָכֶם.",
+    "וְהִגְלֵיתִי אֶתְכֶם, מֵהָלְאָה לְדַמָּשֶׂק: אָמַר יְהוָה אֱלֹהֵי-צְבָאוֹת, שְׁמוֹ."
+  ],
+  "english": [
+    "Hear ye this word which I take up against you,\neven a lamentation, O house of Israel.",
+    "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land;\nthere is none to raise her up.",
+    "For thus saith the Lord GOD; The city that went out\nby a thousand shall leave an hundred, and that which went forth\nby an hundred shall leave ten, to the house of Israel.",
+    "For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:",
+    "But seek not Bethel, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought.",
+    "Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour\nit, and\nthere be none to quench\nit in Bethel.",
+    "Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
+    "Seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD\nis his name:",
+    "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
+    "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
+    "Forasmuch therefore as your treading\nis upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
+    "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate\nfrom their right.",
+    "Therefore the prudent shall keep silence in that time; for it\nis an evil time.",
+    "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.",
+    "Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.",
+    "Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing\nshall be in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
+    "And in all vineyards\nshall be wailing: for I will pass through thee, saith the LORD.",
+    "Woe unto you that desire the day of the LORD! to what end\nis\n it for you? the day of the LORD\nis darkness, and not light.",
+    "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
+    "Shall not the day of the LORD\nbe darkness, and not light? even very dark, and no brightness in it?",
+    "I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
+    "Though ye offer me burnt offerings and your meat offerings, I will not accept\nthem: neither will I regard the peace offerings of your fat beasts.",
+    "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+    "But let judgment run down as waters, and righteousness as a mighty stream.",
+    "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+    "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
+    "Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name\nis The God of hosts."
+  ],
+  "steinsaltz": [
+    "שִׁמְעוּ אֶת־הַדָּבָר הַזֶּה, אֲשֶׁר אָנֹכִי נֹשֵׂא עֲלֵיכֶם קִינָה, בֵּית יִשְׂרָאֵל.",
+    "היא נָפְלָה ולֹא־תוֹסִיף לקוּם, בְּתוּלַת יִשְׂרָאֵל, נִטְּשָׁה, נעזבה עַל־אַדְמָתָהּ ונפלה שם, אֵין מְקִימָהּ.",
+    "כִּי כֹה אָמַר ה' אֱלוֹהִים: הָעִיר הַיֹּצֵאת, שמוציאה מתוכה, כלומר שיש בה אֶלֶף תושבים – תַּשְׁאִיר מֵאָה בלבד, וְהַיּוֹצֵאת מֵאָה איש תַּשְׁאִיר רק עֲשָׂרָה לְבֵית יִשְׂרָאֵל.",
+    "כִּי כֹה אָמַר ה' לְבֵית יִשְׂרָאֵל: יש לכם רק עצה אחת – דִּרְשׁוּנִי, חפשו ובקשו אותי, וִחְיוּ, ואז תוכלו לחיות.",
+    "וְאַל־תִּדְרְשׁוּ בֵּית־אֵל, מקום הפולחן המרכזי של ממלכת ישראל, שבו עמדו עגלי הזהב, וְאל הַגִּלְגָּל, שגם הוא מקום פולחן, לֹא תָבֹאוּ, וּבְאֵר שֶׁבַע, שכנראה גם בה התקיימה עבודה זרה, לֹא תַעֲבֹרוּ. כִּי הַגִּלְגָּל גָּלֹה יִגְלֶה – לשון נופל על לשון – וּבֵית אֵל יִהְיֶה לְאָוֶן, רִיק, הבל. הנביאים כינו את בית-אל בית אוֶן, הן במשמעות של חטא, שכן הייתה מרכז לפולחן זר, הן בגלל החורבן והשממה העתידה לבוא עליו כעונש על חטאת תושביו.",
+    "דִּרְשׁוּ אֶת־ה' וִחְיוּ, פֶּן־יִצְלַח, יבער כָּאֵשׁ, באש בֵּית יוֹסֵף, וְאָכְלָה האש וְאֵין־מְכַבֶּה לְבֵית־אֵל.",
+    "הפורענויות הללו יבואו על אנשים הַהֹפְכִים לְלַעֲנָה, לצמח מר מִשְׁפָּט, וּצְדָקָה לָאָרֶץ, על הארץ הִנִּיחוּ. הם אדישים לערכה של הצדקה.",
+    "הרי ה' הוא העֹשֵׂה כִימָה וּכְסִיל, מערכות כוכבים, וְהוא ההֹפֵךְ מי שמסוגל להפוך לַבֹּקֶר צַלְמָוֶת, עלטה, וְיוֹם כמו לַיְלָה הֶחְשִׁיךְ, הוא הַקּוֹרֵא לְמֵי־הַיָּם וַיִּשְׁפְּכֵם עַל־פְּנֵי הָאָרֶץ, ה' שְׁמוֹ.",
+    "הַמַּבְלִיג, המחזק ומגביר שֹׁד, שדוד, מי שנתון במצב שפל וכנוע עַל־עָז וחזק, וְשֹׁד, אותו שדוד עַל־מִבְצָר יָבוֹא ויצליח להרסו. אלוקים יכול להפוך סדרי עולם.",
+    "הפורענות תבוא על מי ששָׂנְאוּ את מי שבַשַּׁעַר מוֹכִיחַ, הנביא או חשובי העיר היושבים בשער, וְדֹבֵר תָּמִים וישר הם יְתָעֵבוּ.",
+    "לָכֵן יַעַן, בגלל בּוֹשַׁסְכֶם, השיסוי, השוד והרמיסה שלכם עַל־דָּל, וּמכיוון שמַשְׂאַת־בַּר, את משא התבואה שהעני עמל בו, תִּקְחוּ מִמֶּנּוּ – בָּתֵּי גָזִית, בתים נאים מאבנים מסותתות בְּנִיתֶם מן הרווחים שנשאו מעשי העושק שעשיתם, וְלֹא־תֵשְׁבוּ, לא תזכו לשבת בָם. כַּרְמֵי־חֶמֶד, כרמים נחמדים נְטַעְתֶּם וְלֹא תִשְׁתּוּ אֶת־יֵינָם.",
+    "כִּי יָדַעְתִּי שרַבִּים פִּשְׁעֵיכֶם וַעֲצֻמִים חַטֹּאתֵיכֶם, שהרי אתם צֹרְרֵי, שונאי צַדִּיק, לֹקְחֵי כֹפֶר, שוחד, במקום למצות את עומק הדין עם עושי העוול. וְאת דין האֶבְיוֹנִים בַּשַּׁעַר, מקום המשפט הִטּוּ. השופטים מושחתים.",
+    "לָכֵן הַמַּשְׂכִּיל, מי שמבחין במציאות מושחתת זו, והיה עשוי להוכיח בעת אחרת, בָּעֵת הַהִיא יִדֹּם, ישתוק כדי שלא להזיק לעצמו, כִּי עֵת רָעָה הִיא.",
+    "דִּרְשׁוּ־טוֹב וְאַל־רָע לְמַעַן תִּחְיוּ, וִיהִי־כֵן – ה' אֱלֹהֵי־צְבָאוֹת אִתְּכֶם כַּאֲשֶׁר, כפי שאֲמַרְתֶּם. הרי אתם מאמינים בה' ורוצים ללכת אחריו; הרי שליטיכם מבני משפחת יהוא, והם איבדו מן הארץ את הפולחנים הזרים; והרי עובדי עגלי הזהב שבכם טוענים שהם הולכים עם ה'. אם כך, עשו מה שאלוקיכם אומר לכם לעשות:",
+    "שִׂנְאוּ־רָע וְאֶהֱבוּ טוֹב וְהַצִּיגוּ בַשַּׁעַר מִשְׁפָּט. אוּלַי יֶחֱנַן, יתן חנינה, ירחם ה' אֱלֹהֵי־צְבָאוֹת על שְׁאֵרִית יוֹסֵף.",
+    "לָכֵן כֹּה־אָמַר ה' אֱלֹהֵי צְבָאוֹת אֲדֹנָי: בְּכָל־רְחֹבוֹת יהיה מִסְפֵּד, וּבְכָל־חוּצוֹת יֹאמְרוּ: \"הוֹ־הוֹ\", אוי אוי. ולא רק ברחובות ובחוצות העיר אלא גם בשדות – וְקָרְאוּ לאִכָּר אֶל־אֵבֶל, וּלשם מִסְפֵּד יקראו אֶל־יוֹדְעֵי נֶהִי, היודעים לקונן.",
+    "ואף בְכָל־כְּרָמִים, שהם בדרך כלל מקומות שמחים הנקשרים במחשבה על יין, יהיה מִסְפֵּד, כִּי־אֶעֱבֹר בְּקִרְבְּךָ להענישכם. אָמַר ה'.",
+    "הוֹי, הַמִּתְאַוִּים אֶת־יוֹם ה'. בממלכת ישראל היו אנשים שייחלו ליום ה', שכן בו עתיד העולם להיגאל. לָמָּה־זֶּה לָכֶם יוֹם ה'?! הוא יבוא, אבל הוּא־חֹשֶׁךְ וְלֹא־אוֹר. לפחות בתחילתו יהיה זה זמן נורא של משפט.",
+    "מצבכם יהיה כַּאֲשֶׁר יָנוּס אִישׁ, כמו איש שיברח מִפְּנֵי הָאֲרִי וּפְגָעוֹ הַדֹּב, וּבָא, וכשיימלט מן היער אל הַבַּיִת נרגש ותשוש, וְסָמַךְ, הוא ישעין את יָדוֹ עַל־הַקִּיר – וּנְשָׁכוֹ הַנָּחָשׁ שנמצא בתוך קירות הבית.",
+    "הֲלֹא־חֹשֶׁךְ יוֹם ה' וְלֹא־אוֹר, וְאָפֵל וְלֹא־נֹגַהּ לוֹ, אין בו הילה של אור. בראש ובראשונה יהיה יום זה יום דין כואב. אל תצפו למפלט ולנחמה ביום זה.",
+    "שָׂנֵאתִי מָאַסְתִּי חַגֵּיכֶם, וְלֹא אָרִיחַ את הקרבנות שאתם מביאים בְּעַצְּרֹתֵיכֶם, בימי אספותיכם.",
+    "כִּי אִם־תַּעֲלוּ־לִי עֹלוֹת וּמִנְחֹתֵיכֶם – לֹא אֶרְצֶה בהן, ובשֶׁלֶם, קרבנות השלמים, או: בתשלומים שאתם משלמים לקניית מְרִיאֵיכֶם, הבקר המפוטם שאתם מביאים, לֹא אַבִּיט.",
+    "הָסֵר מֵעָלַי הֲמוֹן, המיית, או: ריבוי שִׁרֶיךָ, שירת הקודש שלך, וְזִמְרַת נְבָלֶיךָ לֹא אֶשְׁמָע. אינני מעוניין בנגינתכם למעני.",
+    "וְתחת זאת אני רוצה שיִגַּל כַּמַּיִם מִשְׁפָּט, המשפט יהיה גלוי כמו המים המתפשטים בכל מקום, וּצְדָקָה תזרום בארץ כְּנַחַל אֵיתָן, שהמים זורמים בו בקביעות.",
+    "הַזְּבָחִים וּמִנְחָה הִגַּשְׁתֶּם־לִי בַמִּדְבָּר אַרְבָּעִים שָׁנָה, בֵּית יִשְׂרָאֵל?! במרבית השנים שהיו ישראל במדבר הוקרבו מעט קרבנות במשכן, ולא בהם היה תלוי הקשר שלי עם אבותיכם. לפיכך, על מה מבוססת הנחתכם שקרבנותיכם יוכלו לכפר ולתקן את כל מה שקלקלתם?!",
+    "אלוהי הנכר שעבדתם לא יעזרו לכם. המוצאות אתכם ימצאו גם אותם: וּנְשָׂאתֶם אֵת סִכּוּת מַלְכְּכֶם וְאֵת כִּיּוּן צַלְמֵיכֶם, וכן את כּוֹכַב – שלושת אלה הם שמות אֱלֹהֵיכֶם אֲשֶׁר עֲשִׂיתֶם לָכֶם.",
+    "וְהִגְלֵתִי אֶתְכֶם, עם אליליכם מֵהָלְאָה לְדַמָּשֶׂק, צפונה לדמשק. אָמַר ה' אֱלֹהֵי־צְבָאוֹת שְׁמוֹ."
+  ],
+  "ai_explanation": [
+    "הנביא מזמין את בית ישראל לשמוע את דבר הקינה שהוא נושא עליהם, כלומר מסר של אבל ופורענות.",
+    "בתולת ישראל, דימוי לממלכת ישראל, נפלה ולא תקום עוד; היא נעזבה בארצה ואין מי שיקים אותה.",
+    "החורבן יביא לצמצום עצום במספר הניצולים: מעיר של אלף יישארו מאה, ומעיר של מאה יישארו עשרה בלבד.",
+    "ה' מציב לפני בית ישראל דרך יחידה להינצל: לדרוש אותו, לחפש ולבקש אותו, וכך לחיות.",
+    "אין לפנות למרכזי הפולחן בבית־אל, בגלגל ובבאר שבע. הגלגל עתיד להיחרב, ובית־אל, מרכז של פולחן זר, יהיה מקום של ריק וחורבן.",
+    "שוב נקרא העם לדרוש את ה' ולחיות, lest אש הפורענות תבער בבית יוסף ולא יהיה מי שיכבה אותה בבית־אל.",
+    "העם הופך את המשפט לדבר מר ומאוס, ומשאיר את הצדקה בארץ בלי לתת לה ביטוי ממשי; הוא אדיש לערכה.",
+    "ה' הוא בורא מערכות הכוכבים והשליט על האור, החושך והמים. הוא יכול להפוך את סדרי הטבע כרצונו.",
+    "ה' יכול לחזק את השודד והחלש מול החזק והמבוצר, ואף להביא חורבן על מבצרים; בכך מתבטאת יכולתו להפוך סדרי עולם.",
+    "החוטאים שונאים את המוכיחים בשער ומתעבים את מי שמדבר ביושר ובתמימות.",
+    "בגלל העושק והרמיסה של העניים ולקיחת תבואתם, העושקים לא ייהנו מבתי האבן שבנו ומן הכרמים שנטעו.",
+    "הפשעים והחטאים רבים: שונאים את הצדיק, מקבלים שוחד במקום לעשות דין, ומטים את משפט העניים.",
+    "בתקופה מושחתת ורעה זו, האדם המשכיל והמבין במציאות נאלץ לשתוק כדי שלא ייפגע.",
+    "העם נקרא לבחור בטוב ולא ברע כדי לחיות, ולפעול בהתאם לטענתו שהוא הולך עם ה'.",
+    "עליהם לשנוא את הרע, לאהוב את הטוב ולהעמיד משפט בשער; אולי כך ירחם ה' על שארית יוסף.",
+    "הפורענות תביא אבל בכל רחובות העיר ובכל חוצותיה, ואף בשדות: האיכרים ויודעי הקינה ייקראו להשתתף באבל.",
+    "גם הכרמים, שבדרך כלל קשורים לשמחה וליין, יהיו מקומות של מספד, מפני שה' יעבור בקרב העם להענישו.",
+    "מי שמייחל ליום ה' מתוך ציפייה לגאולה טועה, שכן עבורו יהיה היום חושך ולא אור, ולפחות בתחילתו יום נורא של משפט.",
+    "הפורענות תהיה בלתי נמנעת: אדם יברח מאריה ויפגוש דוב, וכשיימלט לביתו יינשך שם בידי נחש.",
+    "יום ה' יהיה חושך ואפלה ולא אור או נחמה; אין לצפות בו למפלט.",
+    "ה' דוחה ושונא את החגים וההתכנסויות הדתיות של העם, ואינו מקבל את הקרבנות המובאים בהן.",
+    "גם העולות, המנחות והזבחים המובחרים אינם רצויים לפני ה', משום שהפולחן אינו מתקן את העוול.",
+    "ה' אינו רוצה בשירת הקודש ובנגינת הנבלים של העם, כאשר הן אינן מלוות במשפט ובצדקה.",
+    "במקום ריבוי פולחן מבקש ה' שמשפט יהיה גלוי ומתפשט בכל מקום, ושהצדקה תזרום בקביעות כמו נחל איתן.",
+    "הקרבנות שהוקרבו במדבר במשך ארבעים שנה לא היו הבסיס לקשר בין ה' לאבות, ולכן אין העם יכול להסתמך על קרבנותיו כדי לכפר על עוולותיו.",
+    "אלוהי הנכר שעבדו לא יועילו להם. בגלות הם יישאו עמם את פסילי סיכות, כיון והכוכב, אלוהיהם מעשה ידיהם.",
+    "ה' יגלה את העם ואת אליליו הרחק, עד דמשק צפונה; כך תבוא עליהם הגלות."
+  ],
+  "ai_explanation_en": [
+    "The prophet calls the house of Israel to hear the lament he carries over them, a message of mourning and calamity.",
+    "The Virgin of Israel, a metaphor for the kingdom of Israel, has fallen and will not rise again; she has been abandoned in her land, with no one to restore her.",
+    "The destruction will cause a dramatic reduction in survivors: from a city of one thousand, one hundred will remain, and from a city of one hundred, only ten.",
+    "The Lord presents the house of Israel with one way to survive: to seek Him, search for Him, and ask for Him, and thus live.",
+    "The people must not turn to the religious centers at Bethel, Gilgal, and Beersheba. Gilgal will be destroyed, and Bethel, a center of foreign worship, will become a place of emptiness and ruin.",
+    "The people are again called to seek the Lord and live, lest the fire of calamity burn through the house of Joseph and no one be able to extinguish it at Bethel.",
+    "The people turn justice into something bitter and despised, and leave righteousness on the ground without giving it practical expression; they are indifferent to its value.",
+    "The Lord is the creator of the star formations and the ruler of light, darkness, and the waters. He can overturn the natural order as He wishes.",
+    "The Lord can strengthen the plundered and weak against the strong and fortified, and can bring destruction upon fortresses; this shows His ability to overturn the established order.",
+    "The sinners hate those who rebuke them at the gate and despise anyone who speaks honestly and straightforwardly.",
+    "Because they oppress and trample the poor and take their grain, the oppressors will not enjoy the stone houses they built or the vineyards they planted.",
+    "Their crimes and sins are numerous: they hate the righteous, accept bribes instead of carrying out justice, and pervert the judgment of the poor.",
+    "In this corrupt and evil time, the perceptive person who understands the situation is forced to remain silent so as not to be harmed.",
+    "The people are called to choose good rather than evil in order to live, and to act according to their claim that they follow the Lord.",
+    "They must hate evil, love good, and establish justice at the gate; perhaps then the Lord will show mercy to the remnant of Joseph.",
+    "Calamity will bring mourning in every street and public place, and even in the fields: farmers and those skilled in lamentation will be called to join the mourning.",
+    "Even the vineyards, normally associated with joy and wine, will become places of mourning because the Lord will pass through the people to punish them.",
+    "Those who long for the Day of the Lord while expecting redemption are mistaken, because for them it will be darkness rather than light, at least initially a terrible day of judgment.",
+    "The calamity will be unavoidable: a man will flee from a lion and meet a bear, and when he escapes into his house, a snake will bite him there.",
+    "The Day of the Lord will be darkness and gloom, not light or comfort; no refuge should be expected on that day.",
+    "The Lord rejects and hates the people's festivals and religious assemblies, and does not accept the sacrifices brought there.",
+    "The burnt offerings, grain offerings, and choice sacrifices are also unacceptable to the Lord, because ritual worship does not repair injustice.",
+    "The Lord does not want the people's sacred songs and harp music when they are not accompanied by justice and righteousness.",
+    "Instead of an abundance of ritual, the Lord wants justice to be visible and spread everywhere, and righteousness to flow continually like a perennial stream.",
+    "The sacrifices offered in the wilderness for forty years were not the basis of the relationship between the Lord and the ancestors, so the people cannot rely on sacrifices to atone for their wrongdoing.",
+    "The foreign gods they worshiped will not help them. In exile they will carry the idols of Sakkut, Kaiwan, and the star, gods made by their own hands.",
+    "The Lord will exile the people and their idols far away, as far as Damascus to the north; thus exile will come upon them."
+  ],
+  "perush": [
+    "הנביא מזמין את בית ישראל לשמוע את דבר הקינה שהוא נושא עליהם, כלומר מסר של אבל ופורענות.",
+    "בתולת ישראל, דימוי לממלכת ישראל, נפלה ולא תקום עוד; היא נעזבה בארצה ואין מי שיקים אותה.",
+    "החורבן יביא לצמצום עצום במספר הניצולים: מעיר של אלף יישארו מאה, ומעיר של מאה יישארו עשרה בלבד.",
+    "ה' מציב לפני בית ישראל דרך יחידה להינצל: לדרוש אותו, לחפש ולבקש אותו, וכך לחיות.",
+    "אין לפנות למרכזי הפולחן בבית־אל, בגלגל ובבאר שבע. הגלגל עתיד להיחרב, ובית־אל, מרכז של פולחן זר, יהיה מקום של ריק וחורבן.",
+    "שוב נקרא העם לדרוש את ה' ולחיות, lest אש הפורענות תבער בבית יוסף ולא יהיה מי שיכבה אותה בבית־אל.",
+    "העם הופך את המשפט לדבר מר ומאוס, ומשאיר את הצדקה בארץ בלי לתת לה ביטוי ממשי; הוא אדיש לערכה.",
+    "ה' הוא בורא מערכות הכוכבים והשליט על האור, החושך והמים. הוא יכול להפוך את סדרי הטבע כרצונו.",
+    "ה' יכול לחזק את השודד והחלש מול החזק והמבוצר, ואף להביא חורבן על מבצרים; בכך מתבטאת יכולתו להפוך סדרי עולם.",
+    "החוטאים שונאים את המוכיחים בשער ומתעבים את מי שמדבר ביושר ובתמימות.",
+    "בגלל העושק והרמיסה של העניים ולקיחת תבואתם, העושקים לא ייהנו מבתי האבן שבנו ומן הכרמים שנטעו.",
+    "הפשעים והחטאים רבים: שונאים את הצדיק, מקבלים שוחד במקום לעשות דין, ומטים את משפט העניים.",
+    "בתקופה מושחתת ורעה זו, האדם המשכיל והמבין במציאות נאלץ לשתוק כדי שלא ייפגע.",
+    "העם נקרא לבחור בטוב ולא ברע כדי לחיות, ולפעול בהתאם לטענתו שהוא הולך עם ה'.",
+    "עליהם לשנוא את הרע, לאהוב את הטוב ולהעמיד משפט בשער; אולי כך ירחם ה' על שארית יוסף.",
+    "הפורענות תביא אבל בכל רחובות העיר ובכל חוצותיה, ואף בשדות: האיכרים ויודעי הקינה ייקראו להשתתף באבל.",
+    "גם הכרמים, שבדרך כלל קשורים לשמחה וליין, יהיו מקומות של מספד, מפני שה' יעבור בקרב העם להענישו.",
+    "מי שמייחל ליום ה' מתוך ציפייה לגאולה טועה, שכן עבורו יהיה היום חושך ולא אור, ולפחות בתחילתו יום נורא של משפט.",
+    "הפורענות תהיה בלתי נמנעת: אדם יברח מאריה ויפגוש דוב, וכשיימלט לביתו יינשך שם בידי נחש.",
+    "יום ה' יהיה חושך ואפלה ולא אור או נחמה; אין לצפות בו למפלט.",
+    "ה' דוחה ושונא את החגים וההתכנסויות הדתיות של העם, ואינו מקבל את הקרבנות המובאים בהן.",
+    "גם העולות, המנחות והזבחים המובחרים אינם רצויים לפני ה', משום שהפולחן אינו מתקן את העוול.",
+    "ה' אינו רוצה בשירת הקודש ובנגינת הנבלים של העם, כאשר הן אינן מלוות במשפט ובצדקה.",
+    "במקום ריבוי פולחן מבקש ה' שמשפט יהיה גלוי ומתפשט בכל מקום, ושהצדקה תזרום בקביעות כמו נחל איתן.",
+    "הקרבנות שהוקרבו במדבר במשך ארבעים שנה לא היו הבסיס לקשר בין ה' לאבות, ולכן אין העם יכול להסתמך על קרבנותיו כדי לכפר על עוולותיו.",
+    "אלוהי הנכר שעבדו לא יועילו להם. בגלות הם יישאו עמם את פסילי סיכות, כיון והכוכב, אלוהיהם מעשה ידיהם.",
+    "ה' יגלה את העם ואת אליליו הרחק, עד דמשק צפונה; כך תבוא עליהם הגלות."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "קינה על נפילת ישראל וקריאה לדרוש את ה׳",
+      "title_en": "Lament over Israel’s Fall and the Call to Seek the Lord",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "עמוס נושא קינה על נפילת בתולת ישראל ומתאר את מיעוט הניצולים. מול החורבן הוא קורא לעם לדרוש את ה׳ ולא לפנות למרכזי הפולחן בבית־אל, בגלגל ובבאר שבע.",
+      "summary_en": "Amos laments the fall of the Virgin of Israel and describes the small number of survivors. In the face of destruction, he calls the people to seek the Lord rather than turn to the worship centers at Bethel, Gilgal, and Beersheba.",
+      "image_prompt": "A solemn prophetic scene with a fallen symbolic figure representing Israel, a nearly empty ancient city, and a distant prophet calling people to seek the Lord; no readable text, respectful biblical educational illustration"
+    },
+    {
+      "title": "עוול חברתי וכוחו של ה׳",
+      "title_en": "Social Injustice and the Power of the Lord",
+      "start_verse": 7,
+      "end_verse": 13,
+      "summary": "העם מעוות את המשפט והצדקה, שונא מוכיחים ומנצל את העניים. עמוס מדגיש שה׳ שולט בבריאה ויכול להפוך את יחסי הכוח, אך בעת הרעה גם המשכילים נאלצים לשתוק.",
+      "summary_en": "The people distort justice and righteousness, hate those who rebuke them, and exploit the poor. Amos emphasizes that the Lord rules creation and can overturn power relations, while in this evil time even perceptive people are forced into silence.",
+      "image_prompt": "An ancient city gate with a neglected balance of justice, poor people being mistreated by officials, and a vast sky of stars and storm clouds symbolizing divine power; no readable text"
+    },
+    {
+      "title": "הדרך לתיקון והבשורה על האבל",
+      "title_en": "The Way to Reform and the Coming Mourning",
+      "start_verse": 14,
+      "end_verse": 17,
+      "summary": "הנביא קורא לבחור בטוב, לשנוא את הרע ולהעמיד משפט בשער, בתקווה שה׳ ירחם על שארית יוסף. אם לא יחול תיקון, האבל יתפשט ברחובות, בשדות ובכרמים.",
+      "summary_en": "The prophet calls the people to choose good, hate evil, and establish justice at the gate, hoping that the Lord will show mercy to the remnant of Joseph. Without reform, mourning will spread through the streets, fields, and vineyards.",
+      "image_prompt": "A biblical town and surrounding vineyards under a solemn sky, a public gate symbolizing justice, mourners gathering in streets and farmers stopping their work; no readable text"
+    },
+    {
+      "title": "יום ה׳ כיום של חושך ומשפט",
+      "title_en": "The Day of the Lord as Darkness and Judgment",
+      "start_verse": 18,
+      "end_verse": 20,
+      "summary": "מי שמייחל ליום ה׳ כזמן גאולה עתיד לגלות שהוא יום של חושך ומשפט. עמוס מתאר פורענות שאין ממנה מפלט, בתוך העיר ומחוצה לה.",
+      "summary_en": "Those who long for the Day of the Lord as a time of redemption will discover that it is a day of darkness and judgment. Amos portrays calamity from which there is no escape, inside the house or outside it.",
+      "image_prompt": "A dramatic biblical landscape shifting from daylight into deep darkness, a fleeing person threatened on every side, conveying unavoidable judgment without graphic violence; no readable text"
+    },
+    {
+      "title": "דחיית פולחן ללא משפט וצדקה",
+      "title_en": "Rejection of Worship Without Justice and Righteousness",
+      "start_verse": 21,
+      "end_verse": 24,
+      "summary": "ה׳ דוחה את חגי העם, את קרבנותיו ואת שירתו, משום שהפולחן אינו מלווה במשפט ובצדקה. הדרישה האלוהית היא שמשפט יהיה גלוי ומתפשט, וצדקה תזרום בהתמדה.",
+      "summary_en": "The Lord rejects the people's festivals, sacrifices, and songs because worship is not accompanied by justice and righteousness. The divine demand is for justice to spread openly and for righteousness to flow continually.",
+      "image_prompt": "An abandoned ancient altar and silent musical instruments contrasted with clear flowing water and people establishing fair judgment, symbolizing justice over empty ritual; no readable text"
+    },
+    {
+      "title": "הקרבנות והאלילים לא יצילו מן הגלות",
+      "title_en": "Sacrifices and Idols Cannot Prevent Exile",
+      "start_verse": 25,
+      "end_verse": 27,
+      "summary": "עמוס מערער על ההסתמכות על קרבנות המדבר ועל קרבנות ההווה כדרך לתקן עוול. אלילי הנכר לא יועילו, והעם יוגלה יחד עם פסיליו הרחק עד דמשק.",
+      "summary_en": "Amos challenges reliance on the wilderness sacrifices and on present offerings as a way to repair injustice. The foreign idols will not help, and the people will be exiled far away together with their idols, as far as Damascus.",
+      "image_prompt": "A caravan of exiles carrying symbolic idols away from a ruined land toward a distant horizon, with a prophet standing behind them and an austere biblical atmosphere; no readable text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.34,
+      "usfm": "AMO.5.1"
+    },
+    {
+      "start": 9.34,
+      "end": 18.42,
+      "usfm": "AMO.5.2"
+    },
+    {
+      "start": 18.42,
+      "end": 29.1,
+      "usfm": "AMO.5.3"
+    },
+    {
+      "start": 29.1,
+      "end": 34.78,
+      "usfm": "AMO.5.4"
+    },
+    {
+      "start": 34.78,
+      "end": 46.78,
+      "usfm": "AMO.5.5"
+    },
+    {
+      "start": 46.78,
+      "end": 56.4,
+      "usfm": "AMO.5.6"
+    },
+    {
+      "start": 56.4,
+      "end": 61.38,
+      "usfm": "AMO.5.7"
+    },
+    {
+      "start": 61.38,
+      "end": 77.96,
+      "usfm": "AMO.5.8"
+    },
+    {
+      "start": 77.96,
+      "end": 84.16,
+      "usfm": "AMO.5.9"
+    },
+    {
+      "start": 84.16,
+      "end": 89.98,
+      "usfm": "AMO.5.10"
+    },
+    {
+      "start": 89.98,
+      "end": 105.3,
+      "usfm": "AMO.5.11"
+    },
+    {
+      "start": 105.3,
+      "end": 116.56,
+      "usfm": "AMO.5.12"
+    },
+    {
+      "start": 116.56,
+      "end": 122.94,
+      "usfm": "AMO.5.13"
+    },
+    {
+      "start": 122.94,
+      "end": 130.28,
+      "usfm": "AMO.5.14"
+    },
+    {
+      "start": 130.28,
+      "end": 139.04,
+      "usfm": "AMO.5.15"
+    },
+    {
+      "start": 139.04,
+      "end": 156.94,
+      "usfm": "AMO.5.16"
+    },
+    {
+      "start": 156.94,
+      "end": 162.54,
+      "usfm": "AMO.5.17"
+    },
+    {
+      "start": 162.54,
+      "end": 170.82,
+      "usfm": "AMO.5.18"
+    },
+    {
+      "start": 170.82,
+      "end": 181.7,
+      "usfm": "AMO.5.19"
+    },
+    {
+      "start": 181.7,
+      "end": 187.76,
+      "usfm": "AMO.5.20"
+    },
+    {
+      "start": 187.76,
+      "end": 194.66,
+      "usfm": "AMO.5.21"
+    },
+    {
+      "start": 194.66,
+      "end": 203.5,
+      "usfm": "AMO.5.22"
+    },
+    {
+      "start": 203.5,
+      "end": 209.68,
+      "usfm": "AMO.5.23"
+    },
+    {
+      "start": 209.68,
+      "end": 214.56,
+      "usfm": "AMO.5.24"
+    },
+    {
+      "start": 214.56,
+      "end": 220.04,
+      "usfm": "AMO.5.25"
+    },
+    {
+      "start": 220.04,
+      "end": 228.74,
+      "usfm": "AMO.5.26"
+    },
+    {
+      "start": 228.74,
+      "end": 243.72,
+      "usfm": "AMO.5.27"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.34,
+    18.42,
+    29.1,
+    34.78,
+    46.78,
+    56.4,
+    61.38,
+    77.96,
+    84.16,
+    89.98,
+    105.3,
+    116.56,
+    122.94,
+    130.28,
+    139.04,
+    156.94,
+    162.54,
+    170.82,
+    181.7,
+    187.76,
+    194.66,
+    203.5,
+    209.68,
+    214.56,
+    220.04,
+    228.74,
+    243.72
+  ],
+  "times_en_usfm": [
+    "AMO.5.1",
+    "AMO.5.2",
+    "AMO.5.3",
+    "AMO.5.4",
+    "AMO.5.5",
+    "AMO.5.6",
+    "AMO.5.7",
+    "AMO.5.8",
+    "AMO.5.9",
+    "AMO.5.10",
+    "AMO.5.11",
+    "AMO.5.12",
+    "AMO.5.13",
+    "AMO.5.14",
+    "AMO.5.15",
+    "AMO.5.16",
+    "AMO.5.17",
+    "AMO.5.18",
+    "AMO.5.19",
+    "AMO.5.20",
+    "AMO.5.21",
+    "AMO.5.22",
+    "AMO.5.23",
+    "AMO.5.24",
+    "AMO.5.25",
+    "AMO.5.26",
+    "AMO.5.27"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? עמוס פותח את הפרק בקינה על בית ישראל, כלומר הוא מתאר את מצבה העתידי של האומה כאילו כבר נפלה וזקוקה לאבל.",
+      "text_he": "הידעת? עמוס פותח את הפרק בקינה על בית ישראל, כלומר הוא מתאר את מצבה העתידי של האומה כאילו כבר נפלה וזקוקה לאבל.",
+      "text_en": "Did you know? Amos opens the chapter with a lament over the house of Israel, describing the nation’s future condition as though it had already fallen and needed to be mourned."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? הביטוי בתולת ישראל הוא דימוי פיוטי לעם ישראל; בפסוק היא מתוארת כנופלת על אדמתה, ללא מי שיקים אותה.",
+      "text_he": "הידעת? הביטוי בתולת ישראל הוא דימוי פיוטי לעם ישראל; בפסוק היא מתוארת כנופלת על אדמתה, ללא מי שיקים אותה.",
+      "text_en": "Did you know? The phrase “Virgin Israel” is a poetic image for the people of Israel. In the verse, she is depicted as fallen on her land, with no one to raise her up."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? עמוס מתאר את ממדי החורבן באמצעות יחס מספרי: מעיר שיצאו ממנה אלף יישארו מאה, ומעיר שיצאו ממנה מאה יישארו עשרה.",
+      "text_he": "הידעת? עמוס מתאר את ממדי החורבן באמצעות יחס מספרי: מעיר שיצאו ממנה אלף יישארו מאה, ומעיר שיצאו ממנה מאה יישארו עשרה.",
+      "text_en": "Did you know? Amos conveys the scale of the destruction through numerical ratios: of a city from which a thousand go out, a hundred will remain; and of a city from which a hundred go out, ten will remain."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? בלב אזהרות החורבן מופיעה קריאה לחיים: דרשו את ה׳ וחיו. לפי הפרק, חיפוש ה׳ הוא הדרך להינצל.",
+      "text_he": "הידעת? בלב אזהרות החורבן מופיעה קריאה לחיים: דרשו את ה׳ וחיו. לפי הפרק, חיפוש ה׳ הוא הדרך להינצל.",
+      "text_en": "Did you know? At the heart of the warnings of destruction is a call to life: “Seek me and live.” According to the chapter, seeking the LORD is the way to be saved."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? עמוס מזהיר שלא לפנות למרכזי הפולחן בבית־אל, בגלגל ובבאר שבע, ומציג את בית־אל כמקום שיהפוך לאוון ואת הגלגל כמי שיגלה.",
+      "text_he": "הידעת? עמוס מזהיר שלא לפנות למרכזי הפולחן בבית־אל, בגלגל ובבאר שבע, ומציג את בית־אל כמקום שיהפוך לאוון ואת הגלגל כמי שיגלה.",
+      "text_en": "Did you know? Amos warns against turning to the worship centers at Bethel, Gilgal, and Beersheba. He presents Bethel as a place that will become nothing, and Gilgal as one that will go into exile."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? עמוס מתאר את ה׳ כריבון הבריאה: הוא עושה את כימה וכסיל, הופך יום ללילה, קורא למי הים ושופך אותם על הארץ.",
+      "text_he": "הידעת? עמוס מתאר את ה׳ כריבון הבריאה: הוא עושה את כימה וכסיל, הופך יום ללילה, קורא למי הים ושופך אותם על הארץ.",
+      "text_en": "Did you know? Amos describes the LORD as sovereign over creation: he made the Pleiades and Orion, turns day into night, calls for the waters of the sea, and pours them out over the earth."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? השער העירוני היה מקום מרכזי לעשיית משפט, אך אנשי החברה המתוארת בפרק שונאים את המוכיחים ודוחים את דוברי האמת.",
+      "text_he": "הידעת? השער העירוני היה מקום מרכזי לעשיית משפט, אך אנשי החברה המתוארת בפרק שונאים את המוכיחים ודוחים את דוברי האמת.",
+      "text_en": "Did you know? The city gate was a central place for administering justice, but the people described in the chapter hate those who rebuke them and reject those who speak the truth."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? העוול החברתי מתבטא בכך שהעשירים מנצלים את העניים; לכן הם אמנם בונים בתי גזית ונוטעים כרמים, אך לא ייהנו מפירות עמלם.",
+      "text_he": "הידעת? העוול החברתי מתבטא בכך שהעשירים מנצלים את העניים; לכן הם אמנם בונים בתי גזית ונוטעים כרמים, אך לא ייהנו מפירות עמלם.",
+      "text_en": "Did you know? Social injustice is evident in the way the rich exploit the poor. Therefore, although they build houses of hewn stone and plant vineyards, they will not enjoy the fruits of their labor."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? השיא המוסרי של הפרק הוא הדרישה שמשפט יזרום כמים וצדקה כנחל איתן — דימוי לצדק מתמשך ולא למעשה חד־פעמי.",
+      "text_he": "הידעת? השיא המוסרי של הפרק הוא הדרישה שמשפט יזרום כמים וצדקה כנחל איתן — דימוי לצדק מתמשך ולא למעשה חד־פעמי.",
+      "text_en": "Did you know? The moral climax of the chapter is the demand that justice roll on like water and righteousness like a never-failing stream—a picture of justice that is continuous, not a one-time act."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? עמוס מזהיר מפני ציפייה נאיבית ליום ה׳: עבור החוטאים הוא לא יהיה יום של אור וגאולה, אלא יום של חושך ומשפט.",
+      "text_he": "הידעת? עמוס מזהיר מפני ציפייה נאיבית ליום ה׳: עבור החוטאים הוא לא יהיה יום של אור וגאולה, אלא יום של חושך ומשפט.",
+      "text_en": "Did you know? Amos warns against a naïve expectation of the day of the LORD: for sinners, it will not be a day of light and salvation, but a day of darkness and judgment."
+    }
+  ]
+}
