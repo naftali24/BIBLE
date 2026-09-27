@@ -1,0 +1,1070 @@
+<!doctype html>
+<html lang="he" dir="rtl"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>התנ״ך בתמונות</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:#090703;color:#fff;font-family:Arial,"Noto Sans Hebrew",sans-serif}
+body{padding-bottom:82px}
+header{position:sticky;top:0;z-index:20;background:#120d05;border-bottom:1px solid #a87914;padding:7px 9px}
+.bar{max-width:1050px;margin:auto;display:flex;align-items:center;gap:8px}
+.menuBtn{border:2px solid #e2b63e;background:#f8e8ad;color:#241805;border-radius:11px;padding:9px 15px;font-size:18px;font-weight:900;cursor:pointer;white-space:nowrap}
+.menuBtn.attn{animation:pulse 1.05s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(255,199,45,.2);transform:scale(1)}50%{box-shadow:0 0 18px 5px rgba(255,199,45,.72);transform:scale(1.07)}}
+#where{flex:1;text-align:center;color:#f1cf70;font-weight:800;font-size:18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+main{max-width:1050px;margin:auto;padding:10px}
+h1{text-align:center;color:#e8bd4c;font-size:clamp(22px,5vw,35px);margin:6px 0 10px}
+.stage{border:1px solid #8b650e;border-radius:17px;overflow:hidden;background:#151006;min-height:300px}
+#picture{display:block;width:100%;height:min(43vw,410px);object-fit:contain;background:#030302}
+.content{text-align:center;padding:12px 17px 18px}
+#idea{font-size:clamp(21px,4.4vw,31px);font-weight:900;color:#f1c85d;margin:0 0 10px}
+.verseLine{margin:7px 0}.verseLine b{color:#e8bd4c}#verses{font-family:"Times New Roman","Noto Serif Hebrew",serif;font-size:clamp(21px,4vw,29px);line-height:1.65;max-width:930px;margin:auto}
+#counter{color:#c9b77d;margin-top:9px}
+.empty{padding:80px 20px;text-align:center;color:#e4c36b;font-size:22px}
+.nav{position:fixed;z-index:15;bottom:0;left:0;right:0;background:#120d05ee;border-top:1px solid #8b650e;padding:8px;display:flex;justify-content:center;gap:12px}
+.nav button{border:1px solid #e0b23a;background:#d8a72c;color:#171006;border-radius:11px;padding:11px 24px;min-width:150px;font-weight:900;font-size:18px}
+.overlay{display:none;position:fixed;z-index:50;inset:0;background:#070502f2;padding:12px;overflow:auto}
+.overlay.open{display:block}
+.panel{max-width:790px;margin:12px auto;background:#171006;border:1px solid #9b7114;border-radius:18px;padding:13px}
+.panelTop{display:flex;align-items:center;gap:8px;margin-bottom:12px}
+.panelTop h2{flex:1;margin:0;color:#efc75d;text-align:center}
+.close{border:1px solid #d2a633;background:#8e1d1d;color:#fff;border-radius:9px;padding:8px 13px;font-weight:900}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.bookBtn,.chapterBtn{border:1px solid #b88719;background:#fff;color:#171006;border-radius:8px;min-height:43px;font-size:16px;font-weight:800;padding:6px}
+.bookBtn.active,.chapterBtn.active{background:#f0c64f}
+.backBooks{width:100%;margin-bottom:10px;border:1px solid #d6aa37;background:#f4df9b;border-radius:9px;padding:9px;font-weight:900}
+.loading{padding:70px 20px;text-align:center;color:#efc75d;font-size:22px}
+@media(max-width:600px){
+.grid{grid-template-columns:repeat(3,1fr)}.bookBtn{font-size:14px}
+.nav{gap:6px;padding:7px 6px}.nav button{min-width:0;width:calc((100% - 12px)/3);padding:10px 4px}
+#where{font-size:15px}
+}
+
+.versesToggle{
+ border:1px solid #e0b23a;background:#d8a72c;color:#171006;
+ border-radius:11px;padding:11px 12px;min-width:150px;font-weight:900;font-size:18px;cursor:pointer
+}
+#verseOverlay{
+ display:none;position:static;
+ background:#0d0904;padding:8px 16px 4px;
+ max-height:calc(100vh - 185px);
+ overflow-y:auto;overscroll-behavior:contain;
+ -webkit-overflow-scrolling:touch;
+ text-align:right;direction:rtl
+}
+#verseOverlay.open{display:block}
+#verseOverlay .overlayIdea{text-align:center;color:#ffd85b;font-size:clamp(23px,4vw,32px);font-weight:900;margin-bottom:15px}
+#verseOverlay .overlayVerses{font-family:"Times New Roman","Noto Serif Hebrew",serif;font-size:clamp(23px,4vw,32px);line-height:1.7;color:#fff}
+#verseOverlay .verseLine{margin:9px 0}
+#verseOverlay .verseLine b{color:#ffd85b}
+@media(max-width:600px){.versesToggle{min-width:0;padding:10px 4px;font-size:16px}}
+
+#verseOverlay .levelBox{margin:12px 0 20px;padding:14px 16px;border:1px solid #8b650e;border-radius:13px;background:rgba(30,22,8,.72)}
+#verseOverlay .levelTitle{color:#ffd85b;font-weight:900;font-size:clamp(20px,3.5vw,27px);margin-bottom:8px}
+#verseOverlay .levelText{font-family:Arial,"Noto Sans Hebrew",sans-serif;font-size:clamp(20px,3.4vw,27px);line-height:1.48;color:#fff}
+
+.karaokeWord{display:inline;padding:0 1px;border-radius:4px;transition:background .08s,color .08s}
+.karaokeWord.active{background:#ffd84d;color:#161006}
+.karaokeWord.done{color:#f4d77c}
+#karaokeBtn.playing{background:#b93232;color:#fff;border-color:#ff7777}
+#karaokeAudio{display:none}
+.sourcePicker{display:flex;gap:12px;align-items:center;justify-content:center;padding:6px;background:#211906;color:#efce67;font-size:13px}.sourcePicker input{max-width:220px;font-size:12px}
+
+
+#where{position:relative!important;padding-right:55px!important;padding-left:55px!important;box-sizing:border-box}
+#where::after{
+ content:"";
+ position:absolute;right:10px;top:50%;transform:translateY(-50%);
+ font-size:15px;font-weight:900;color:#f2d38a;white-space:nowrap;
+}
+
+
+/* Wider top counter, especially on Android */
+#where{
+ width:360px!important;
+ max-width:calc(100vw - 190px)!important;
+ min-width:280px!important;
+ margin:0 auto!important;
+ white-space:nowrap!important;
+}
+@media(max-width:600px){
+ #where{
+   width:300px!important;
+   max-width:calc(100vw - 125px)!important;
+   min-width:210px!important;
+   font-size:16px!important;
+ }
+}
+
+
+@media(max-width:600px){
+ header .bar{
+   display:flex!important;
+   align-items:center!important;
+   gap:6px!important;
+ }
+ #where{
+   position:absolute!important;
+   left:6px!important;
+   right:170px!important;
+   width:auto!important;
+   min-width:0!important;
+   max-width:none!important;
+   padding:0!important;
+   margin:0!important;
+   font-size:14px!important;
+   line-height:1.1!important;
+   text-align:center!important;
+   white-space:nowrap!important;
+   overflow:visible!important;
+   text-overflow:clip!important;
+ }
+ #where::after{display:none!important}
+}
+
+
+/* Move only the current idea verse-range counter slightly left */
+#where .verseRangeTop{position:relative;left:-10px;}
+
+
+@media(max-width:600px){
+ header .bar::after{
+   content:"";
+   position:absolute;
+   right:150px;
+   top:50%;
+   transform:translateY(-50%);
+   font-size:14px;
+   font-weight:900;
+   color:#f2d38a;
+ }
+}
+
+
+#whereQuizBtn{position:absolute;left:12px;top:12px;z-index:20;border:2px solid #e3ad25;border-radius:18px;background:#fff1bd;color:#171008;font-weight:900;font-size:18px;padding:7px 14px;cursor:pointer}
+#whereQuestion{display:none;position:absolute;z-index:19;left:50%;top:12px;transform:translateX(-50%);width:min(86%,720px);box-sizing:border-box;background:#100b05ee;border:2px solid #e3ad25;border-radius:14px;color:#ffe06b;font-size:22px;font-weight:900;text-align:center;direction:rtl;padding:9px 12px;pointer-events:none}
+#whereHit{display:none;position:absolute;z-index:18;cursor:crosshair;background:transparent}
+#whereQuizMsg{display:none;position:absolute;z-index:21;left:25%;top:50%;transform:translate(-50%,-50%);background:#111e;border-radius:12px;padding:8px 16px;font-size:20px;font-weight:900;color:#7dff8a;border:2px solid #7dff8a;direction:rtl}
+.stage.whereQuizOn #whereHit,.stage.whereQuizOn #whereQuestion{display:block}
+@media(max-width:600px){#whereQuizBtn{left:7px;top:7px;font-size:15px;padding:5px 10px}#whereQuestion{top:45px;font-size:17px;width:92%}}
+
+
+.wherePoint{
+ position:absolute;z-index:22;width:30px;height:30px;border-radius:50%;
+ transform:translate(-50%,-50%);border:3px solid #ffd64a;background:#171006dd;
+ color:#ffd64a;font-weight:900;font-size:16px;line-height:24px;text-align:center;
+ box-shadow:0 0 0 3px #0008;cursor:pointer;display:none;
+}
+.stage.whereQuizOn .wherePoint{display:block}
+.whereBubble{
+ display:none;position:absolute;z-index:24;min-width:110px;max-width:220px;
+ transform:translate(-50%,-115%);background:#fff3c4;color:#171006;
+ border:2px solid #d89f16;border-radius:16px;padding:7px 10px;
+ font-size:16px;font-weight:900;text-align:center;direction:rtl;
+ box-shadow:0 4px 12px #0009;pointer-events:none;
+}
+.whereBubble::after{
+ content:"";position:absolute;left:50%;bottom:-9px;transform:translateX(-50%);
+ border-left:8px solid transparent;border-right:8px solid transparent;border-top:9px solid #d89f16;
+}
+@media(max-width:600px){
+ .wherePoint{width:27px;height:27px;font-size:14px;line-height:21px}
+ .whereBubble{font-size:14px;max-width:165px}
+}
+
+
+.wherePoint{font-size:0!important}
+.wherePoint::before{content:"?";font-size:20px!important;line-height:22px}
+.wherePoint.correct{background:#168a32!important;border-color:#78ff91!important;color:white!important;box-shadow:0 0 12px #55ff77!important}
+.wherePoint.wrong{background:#9b2525!important;border-color:#ff7777!important;color:white!important}
+#whereScore{
+ display:none;position:absolute;z-index:25;right:10px;bottom:10px;
+ background:#0b0805e8;border:1px solid #d7a62c;border-radius:12px;
+ padding:9px 18px;color:#fff;font-size:20px;font-weight:900;direction:rtl;min-width:300px;text-align:center;white-space:nowrap;
+}
+.stage.whereQuizOn #whereScore{display:block}
+@media(max-width:600px){#whereScore{font-size:18px!important;min-width:280px!important;padding:9px 14px!important}}
+
+
+#whereQuizBtn{
+ min-width:210px!important;max-width:390px!important;
+ white-space:nowrap!important;overflow:visible!important;
+}
+@media(max-width:600px){
+ #whereQuizBtn{min-width:170px!important;max-width:300px!important;font-size:15px!important}
+}
+
+
+.wherePoint.solvedWord{
+ width:auto!important;min-width:44px!important;height:auto!important;
+ padding:1px 8px!important;border-radius:12px!important;
+ background:#168a32!important;border-color:#78ff91!important;color:#fff!important;
+ font-size:15px!important;line-height:18px!important;
+}
+.wherePoint.solvedWord::before{content:""!important;font-size:0!important}
+
+</style>
+
+<style>
+html,body{
+  margin:0 !important;
+  width:100% !important;
+  height:100% !important;
+  min-height:100vh !important;
+  overflow-x:hidden !important;
+}
+body{min-height:100dvh !important;width:100vw !important;}
+main{
+  width:100% !important;
+  max-width:none !important;
+  margin:0 !important;
+  padding:0 !important;
+}
+.stage{
+  width:100% !important;
+  max-width:none !important;
+  margin:0 !important;
+  border-left:0 !important;
+  border-right:0 !important;
+  border-radius:0 !important;
+}
+header .bar{
+  width:100% !important;
+  max-width:none !important;
+  box-sizing:border-box !important;
+}
+.nav{
+  width:100% !important;
+  box-sizing:border-box !important;
+}
+
+/* איפה? — fixed just above the bottom navigation */
+#whereQuizBtn{
+  position:fixed!important;
+  left:50%!important;
+  right:auto!important;
+  top:auto!important;
+  bottom:72px!important;
+  transform:translateX(-50%)!important;
+  z-index:40!important;
+}
+@media(max-width:600px){
+  #whereQuizBtn{
+    left:50%!important;
+    right:auto!important;
+    top:auto!important;
+    bottom:67px!important;
+    transform:translateX(-50%)!important;
+  }
+}
+
+/* Persistent score counter — always directly above the Where button */
+#whereScore{
+  position:fixed!important;
+  left:50%!important;
+  right:auto!important;
+  top:auto!important;
+  bottom:124px!important;
+  transform:translateX(-50%)!important;
+  z-index:41!important;
+  min-width:340px!important;
+  text-align:center!important;
+  font-size:20px!important;
+  padding:9px 16px!important;
+  white-space:nowrap!important;
+}
+@media(max-width:600px){
+  #whereScore{
+    bottom:115px!important;
+    min-width:290px!important;
+    max-width:94vw!important;
+    font-size:19px!important;
+  }
+}
+
+/* Question / finished message moved away from the top, above the score */
+#whereQuestion{
+  position:fixed!important;
+  left:50%!important;
+  right:auto!important;
+  top:auto!important;
+  bottom:174px!important;
+  transform:translateX(-50%)!important;
+  z-index:42!important;
+  width:min(86%,720px)!important;
+}
+@media(max-width:600px){
+  #whereQuestion{
+    top:auto!important;
+    bottom:164px!important;
+    width:92%!important;
+  }
+}
+</style>
+
+
+<style>
+/* Hide the separate question/finished bar; the text is shown only on the bottom Where button */
+#whereQuestion, .stage.whereQuizOn #whereQuestion{display:none!important;}
+
+/* Score bar at top: correct green, wrong red, percent blue; numbers only */
+#whereScore{
+  position:fixed!important;
+  top:6px!important; bottom:auto!important;
+  left:6px!important; right:auto!important;
+  transform:none!important;
+  z-index:60!important;
+  display:none;
+  width:auto!important; min-width:0!important; max-width:none!important;
+  padding:4px 7px!important;
+  background:#0b0805ee!important;
+  border:1px solid #d7a62c!important;
+  border-radius:9px!important;
+  text-align:center!important; white-space:nowrap!important;
+  font-size:18px!important; font-weight:900!important; direction:ltr!important;
+}
+.stage.whereQuizOn #whereScore{display:block!important}
+#whereScore .scoreCorrect{color:#36e45f!important}
+#whereScore .scoreWrong{color:#ff4b4b!important}
+#whereScore .scorePct{color:#49a8ff!important}
+#whereScore .scoreSep{color:#d7a62c!important;padding:0 3px!important}
+@media(max-width:600px){#whereScore{top:5px!important;left:5px!important;min-width:0!important;font-size:17px!important;padding:3px 6px!important}}
+</style>
+
+<style>
+/* Move only the top verse counter slightly left */
+#where .verseRangeTop{display:inline-block;transform:translateX(-15px);}
+</style>
+
+<style id="final-header-adjustment">
+/* Requested header adjustment: owl only; keep score at left; move center info toward owl */
+#menuBtn .menuText{display:none!important;}
+#menuBtn{padding-left:12px!important;padding-right:12px!important;}
+#where{transform:translateX(32px)!important;}
+@media(max-width:600px){#where{transform:translateX(26px)!important;}}
+</style>
+
+<style id="header-middle-final-v2">
+/* Move verse counter right and slightly enlarge all center header text */
+#where{font-size:20px!important;}
+#where .verseRangeTop{display:inline-block!important;transform:translateX(10px)!important;}
+@media(max-width:600px){
+  #where{font-size:16px!important;}
+  #where .verseRangeTop{transform:translateX(10px)!important;}
+}
+</style>
+
+<style id="header-next-to-owl-big-final">
+/* Center header information: immediately beside the owl, with larger type. */
+#where{
+  flex:0 0 auto!important;
+  width:auto!important;
+  min-width:0!important;
+  max-width:none!important;
+  margin:0 4px 0 0!important;
+  padding:0!important;
+  transform:none!important;
+  font-size:24px!important;
+  overflow:visible!important;
+  text-overflow:clip!important;
+}
+#where .verseRangeTop{
+  display:inline-block!important;
+  transform:none!important;
+  font-size:1em!important;
+}
+@media(max-width:600px){
+  header .bar{position:relative!important;}
+  #where{
+    position:static!important;
+    left:auto!important;
+    right:auto!important;
+    width:auto!important;
+    min-width:0!important;
+    max-width:none!important;
+    margin:0 4px 0 0!important;
+    padding:0!important;
+    transform:none!important;
+    font-size:20px!important;
+    line-height:1.15!important;
+    text-align:right!important;
+    overflow:visible!important;
+  }
+}
+</style>
+
+<style id="header-closer-larger-final-v3">
+/* Final adjustment: keep score at far left; move all middle header info closer to owl and enlarge it. */
+header .bar{gap:1px!important;}
+#where{
+  margin:0 -2px 0 0!important;
+  font-size:27px!important;
+  font-weight:900!important;
+}
+#where .verseRangeTop{
+  transform:translateX(0)!important;
+  font-size:1em!important;
+}
+@media(max-width:600px){
+  header .bar{gap:1px!important;}
+  #where{
+    margin:0 -3px 0 0!important;
+    font-size:23px!important;
+    font-weight:900!important;
+    line-height:1.1!important;
+  }
+}
+</style>
+
+<style id="verse-counter-50-left-final">
+/* Requested: move verse counter and chapter total 50 slightly left. */
+#where .verseRangeTop{transform:translateX(-8px)!important;}
+@media(max-width:600px){
+  #where .verseRangeTop{transform:translateX(-8px)!important;}
+  header .bar::after{right:160px!important;}
+}
+</style>
+
+<style id="remove-book-chapter-total-final">
+#where::after, header .bar::after{content:""!important;display:none!important;}
+</style>
+<style id="new-bubbles-and-questions">
+.stage{position:relative!important}
+.landmarkBubble{display:none;position:absolute;z-index:23;transform:translate(-50%,-50%);padding:5px 9px;border:2px solid #9dffad;border-radius:14px;background:#168a32;color:#fff;font-size:clamp(13px,1.6vw,18px);font-weight:900;white-space:nowrap;box-shadow:0 0 10px #35dd6b88;pointer-events:none}
+.stage.bubbleOn .landmarkBubble{display:block}
+#bubbleToggle,#quizLauncher{position:fixed;z-index:42;bottom:72px;border:2px solid #e3ad25;border-radius:14px;background:#fff1bd;color:#171008;font-weight:900;font-size:17px;padding:8px 12px;cursor:pointer}
+#bubbleToggle{left:8px}#quizLauncher{left:50%;transform:translateX(-50%);min-width:150px}
+#quizPanel{display:none;position:absolute;z-index:35;top:7%;left:50%;transform:translateX(-50%);width:min(88%,720px);max-height:72%;overflow:auto;background:#150f09f2;border:2px solid #d9ae35;border-radius:17px;padding:15px;box-shadow:0 7px 25px #000b;direction:rtl;text-align:center}
+.stage.quizOpen #quizPanel{display:block}
+.quizLevels{display:flex;gap:7px;justify-content:center;margin-bottom:12px}
+.quizLevel{flex:1;max-width:150px;border:1px solid #b78a28;border-radius:9px;background:#e7d49a;color:#201607;font-size:16px;font-weight:900;padding:7px;cursor:pointer}
+.quizLevel.active{background:#d49b20;color:#fff;border-color:#fff}
+.quizCount{color:#f2ce68;font-size:15px;margin-bottom:5px}.quizPrompt{font-size:clamp(19px,2.5vw,26px);font-weight:900;line-height:1.35;margin:8px 0 14px}
+.quizAnswers{display:grid;gap:8px}.quizAnswer{border:2px solid #d8a835;border-radius:11px;background:#fff0bd;color:#1c1307;font-size:clamp(16px,2vw,21px);font-weight:800;padding:10px;cursor:pointer;line-height:1.25}
+.quizAnswer.correct{background:#17893a;color:white;border-color:#8cf5a5}.quizAnswer.wrong{background:#a52a2a;color:white;border-color:#ff9c9c}
+.quizNext{display:block;margin:10px auto 0;border:2px solid #e3ad25;border-radius:10px;background:#e9bd49;color:#211608;font-weight:900;font-size:18px;padding:7px 22px;cursor:pointer}.quizNext[hidden]{display:none!important}
+.quizExplain{min-height:22px;margin-top:9px;color:#ffe8a7;font-size:16px}.quizDone{font-size:22px;color:#85f39c;font-weight:900;padding:25px 5px}
+@media(max-width:600px){#bubbleToggle,#quizLauncher{bottom:67px;font-size:15px;padding:6px 8px}#quizLauncher{min-width:105px}#quizPanel{top:5%;width:92%;max-height:77%;padding:10px}.quizPrompt{font-size:18px}.quizAnswer{font-size:16px;padding:8px}.landmarkBubble{font-size:12px;padding:3px 6px}}
+</style><style>
+.bubbleEditor{margin:12px auto 82px;max-width:960px;background:#fff9e8;color:#281c0b;border:2px solid #c9a038;border-radius:14px;padding:16px;font:15px Arial;line-height:1.35}
+.bubbleEditor[hidden],.bubbleEditor [hidden]{display:none!important}.editHead{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}.bubbleEditor button{background:#5c4319;color:white;border:0;border-radius:8px;padding:8px 12px;cursor:pointer;font:14px Arial}.bubbleEditor .editRow{margin:3px;background:#f1e1ad;color:#261a04}.bubbleEditor .editRow.active{background:#46ab72}.bubbleEditor input{font:15px Arial;padding:7px;border:1px solid #8e7a53;border-radius:7px;width:min(90%,400px)}#editForm{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.editVerses{margin-top:16px;border-top:1px solid #caa86a;padding-top:10px}.editVerseLine{padding:6px 0;border-bottom:1px solid #e9d8af}.editingBubbles #picture{cursor:crosshair}.editingBubbles .landmarkBubble{cursor:pointer;pointer-events:auto!important}
+</style><style>
+#quizLauncher,#quizPanel{display:none!important}#bubbleToggle,#whereLauncher{position:fixed;z-index:42;bottom:67px;border:2px solid #e3ad25;border-radius:12px;background:#fff1bd;color:#171008;font-weight:800;font-size:15px;padding:6px 10px;cursor:pointer}#bubbleToggle{left:8px}#whereLauncher{left:50%;transform:translateX(-50%)}
+#wherePromptBox{position:absolute;z-index:40;left:50%;bottom:12px;transform:translateX(-50%);width:min(90%,650px);background:#fff8dc;color:#241605;padding:9px 12px;border-radius:12px;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;font-size:17px;text-align:center}#wherePromptBox[hidden],#whereNext[hidden]{display:none!important}#whereNext{background:#17864a;color:white;border:0;border-radius:8px;padding:5px 12px;font-size:15px}.stage.whereActive .landmarkBubble{display:block!important;cursor:pointer;background:#e6ba27;color:#241605;pointer-events:auto!important}.stage.whereActive .landmarkBubble.correct{background:#168a32;color:white}.stage.whereActive .landmarkBubble.wrong{background:#9b2525;color:white}.bubbleEditor input{width:min(95%,350px)}.editVerses{max-height:180px;overflow:auto;font-size:15px}#where{font-size:15px}.nav button{font-size:15px!important;padding:7px 10px!important}.menuBtn{font-size:16px}.landmarkBubble{font-size:14px!important}.overlayIdea{font-size:19px!important}.overlayVerses{font-size:17px!important}@media(max-width:600px){#picture{height:min(55vw,320px)}#wherePromptBox{bottom:8px;font-size:15px}.bubbleEditor{padding:9px;font-size:14px}}
+</style><style>
+.localPerush{margin:9px 0 2px;padding:8px 10px;border:1px solid #927343;border-radius:9px;background:#211a0e;color:#eee1c7;text-align:right;font:clamp(12px,1.4vw,14px)/1.45 Arial,"Noto Sans Hebrew",sans-serif;max-height:140px;overflow:auto}.localPerush strong{color:#e7bd59}.localPerushLine{margin:4px 0}
+</style><style>
+#editPerush{margin-top:10px;font-size:13px;line-height:1.45}#editPerush .localPerush{max-height:none;background:#f1e9d6;color:#332712;border-color:#cab784;font-size:13px!important}#editPerush .localPerush strong{color:#694b19}.perushEmpty{font-size:13px;color:#715e42}
+</style><style>
+.bubbleEditor .editVerses{max-height:42vh;overflow-y:auto}.bubbleEditor #editPerush{margin:2px 0 12px}.bubbleEditor #editPerush .localPerush{margin:4px 0;background:#f1e9d6;color:#332712;border:1px solid #cab784;max-height:none;font-size:14px!important}.bubbleEditor #editPerush .localPerush strong{display:block;color:#694b19;margin-bottom:4px}
+</style><style>
+/* Android layout: questions stay above the fixed controls; editor text scrolls. */
+.bubbleEditor .editVerses{
+ height:clamp(150px,30dvh,300px);max-height:none;
+ overflow-y:auto;overscroll-behavior:contain;
+ -webkit-overflow-scrolling:touch;
+ padding:9px 12px;background:#fffdf5;border:1px solid #dbc99f;border-radius:10px;
+}
+.bubbleEditor #editPerush .localPerush{max-height:none;overflow:visible}
+#wherePromptBox{
+ position:fixed;z-index:44;left:50%;right:auto;top:auto;
+ bottom:calc(118px + env(safe-area-inset-bottom, 0px));
+ transform:translateX(-50%);width:min(94vw,650px);max-height:28dvh;
+ overflow-y:auto;box-shadow:0 4px 16px #0009;
+}
+.nav{padding-bottom:calc(7px + env(safe-area-inset-bottom, 0px))}
+#bubbleToggle,#whereLauncher{bottom:calc(63px + env(safe-area-inset-bottom, 0px))}
+@media(max-width:600px){
+ body{padding-bottom:calc(70px + env(safe-area-inset-bottom, 0px));}
+ header{padding:5px 7px}
+ .bar{gap:4px}
+ .menuBtn{padding:6px 8px;font-size:14px}
+ .menuText{font-size:13px}
+ #where{font-size:13px!important}
+ #picture{height:min(52vw,34dvh,280px)}
+ .stage{min-height:0}
+ .bubbleEditor{margin:6px 6px 90px;padding:8px;max-width:none}
+ .bubbleEditor .editVerses{height:clamp(155px,32dvh,260px);font-size:14px}
+ #wherePromptBox{bottom:calc(112px + env(safe-area-inset-bottom, 0px));width:96vw;max-height:24dvh;padding:7px 9px;font-size:15px;gap:5px}
+ #bubbleToggle,#whereLauncher{bottom:calc(61px + env(safe-area-inset-bottom, 0px));font-size:14px}
+ .nav{gap:4px;padding:5px 4px calc(5px + env(safe-area-inset-bottom, 0px))}
+ .nav button{width:auto;flex:1;min-width:0;padding:7px 2px!important;font-size:12px!important;white-space:nowrap}
+ .sourcePicker{font-size:11px;gap:6px;flex-wrap:wrap}
+ .sourcePicker input{max-width:170px}
+}
+</style><style>
+/* One scroll area contains the idea summary, its verses, and their commentary. */
+#verseOverlay{
+ max-height:clamp(200px,48dvh,520px);overflow-y:auto;
+ overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
+}
+#verseOverlay .localPerush{max-height:none;overflow:visible}
+.bubbleEditor .editVerses{overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.bubbleEditor #editPerush .localPerush{max-height:none;overflow:visible}
+#bubbleToggle{display:none!important}
+#wherePromptBox{
+ position:relative!important;display:flex;left:auto!important;right:auto!important;
+ top:auto!important;bottom:auto!important;transform:none!important;
+ z-index:4!important;width:calc(100% - 20px)!important;max-width:650px!important;
+ max-height:none!important;overflow:visible!important;
+ margin:8px auto!important;box-shadow:none!important;
+}
+@media(max-width:600px){
+ #verseOverlay{max-height:42dvh;padding:6px 10px}
+ #wherePromptBox{width:calc(100% - 12px)!important;padding:7px 9px!important;font-size:15px!important}
+}
+</style><style>#wherePromptBox{top:15px!important;margin-bottom:23px!important}</style><style>
+#verseOverlay .verseScrollBox{margin-top:6px}
+#verseOverlay .verseScrollBox>strong{display:block;color:#ffd85b;margin-bottom:6px;font:700 17px Arial,sans-serif}
+#verseOverlay .verseScroll{max-height:clamp(130px,25dvh,280px);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;padding:4px 5px;direction:rtl}
+#verseOverlay .ideaVerse{padding:7px 2px;border-bottom:1px solid #786330;font:clamp(18px,3.2vw,25px)/1.6 "Times New Roman",serif}
+#verseOverlay .ideaVerse:last-child{border-bottom:0}
+#verseOverlay .ideaVerse b{color:#eec95c}
+@media(max-width:600px){#verseOverlay{max-height:48dvh}#verseOverlay .verseScroll{max-height:25dvh}}
+</style><style>
+#verseOverlay .verseScroll{max-height:clamp(65px,12.5dvh,140px)}
+@media(max-width:600px){#verseOverlay .verseScroll{max-height:12.5dvh}}
+#verseOverlay .localPerush{font-size:clamp(14px,1.65vw,16px)!important;line-height:1.5}
+.bubbleEditor #editPerush .localPerush{font-size:15px!important;line-height:1.5}
+#verseOverlay .ideaVerse{display:flex;align-items:center;gap:9px}
+#verseOverlay .verseWords{flex:1;min-width:0}
+#verseOverlay .verseAudio{flex:0 0 auto;border:1px solid #d2a840;border-radius:8px;background:#372509;color:#fff;font-size:19px;padding:4px 7px;cursor:pointer}
+#verseOverlay .verseAudio.playing{background:#9a2b22}
+</style><style>
+#verseOverlay .localPerush{font-size:clamp(16px,1.85vw,18px)!important;line-height:1.55}
+.bubbleEditor #editPerush .localPerush{font-size:16px!important;line-height:1.55}
+.stage.whereActive .landmarkBubble.correct{background:#168a32!important;color:#fff!important;border-color:#87f5a8!important}
+</style><style>
+#langToggle{border:1px solid #d9ad3e;background:#231907;color:#efce70;border-radius:10px;padding:5px 8px;font-size:16px;white-space:nowrap;cursor:pointer}
+#langToggle .current{filter:drop-shadow(0 0 4px #ffec78);font-size:20px}
+html[lang="en"] #verseOverlay,html[lang="en"] .bubbleEditor{direction:ltr;text-align:left}
+html[lang="en"] .localPerush,html[lang="en"] .verseScroll{direction:ltr;text-align:left}
+@media(max-width:600px){#langToggle{font-size:13px;padding:4px}#langToggle .current{font-size:16px}}
+</style><style>
+header .bar #where{position:static!important;left:auto!important;right:auto!important;min-width:0!important;width:auto!important;max-width:none!important;flex:1!important;overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important;padding:0 3px!important}
+header .bar::after{display:none!important}
+@media(max-width:600px){header .bar{gap:4px!important}.menuBtn{padding:6px!important}.menuText{font-size:12px!important}#langToggle{flex:0 0 auto}header .bar #where{font-size:12px!important}}
+</style><style id="genesis-fullscreen-layout">
+html,body{height:100%!important;min-height:0!important;overflow:hidden!important}
+body{height:100dvh!important;min-height:0!important;padding-bottom:0!important;display:flex!important;flex-direction:column!important}
+header{position:relative!important;top:auto!important;flex:0 0 auto!important}
+main{flex:1 1 auto!important;min-height:0!important;display:flex!important;flex-direction:column!important;overflow:hidden!important}
+#title,.stage .content{display:none!important}
+.stage{flex:1 1 auto!important;min-height:0!important;height:100%!important;display:flex!important;flex-direction:column!important;overflow:hidden!important}
+#picture{flex:1 1 auto!important;min-height:0!important;height:0!important;width:100%!important;object-fit:contain!important}
+#verseOverlay{flex:0 1 auto!important;min-height:0!important;max-height:44dvh!important;overflow-y:auto!important}
+.nav{position:relative!important;bottom:auto!important;flex:0 0 auto!important;padding-bottom:calc(7px + env(safe-area-inset-bottom, 0px))!important}
+#fullscreenBtn{flex:0 0 auto;border:2px solid #e2b63e;background:#f8e8ad;color:#241805;border-radius:10px;font-size:24px;font-weight:900;line-height:1;padding:4px 9px;cursor:pointer}
+#wherePromptBox{flex:0 0 auto!important;max-height:22dvh!important;overflow-y:auto!important}
+@media(max-width:600px){#verseOverlay{max-height:42dvh!important}.nav button{min-width:0!important}}
+</style><style id="genesis-always-visible">
+#verseOverlay{display:block!important;max-height:46dvh!important}
+#whereLauncher{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;transform:none!important;align-self:center!important;flex:0 0 auto!important;margin:6px auto 2px!important;z-index:25!important}
+#wherePromptBox{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;transform:none!important;order:0!important;align-self:center!important;flex:0 0 auto!important;margin:4px auto 7px!important;width:min(96%,650px)!important;max-height:20dvh!important;overflow-y:auto!important}
+#wherePromptBox[hidden]{display:none!important}
+.nav button{flex:1 1 0!important}
+</style><style id="genesis-answer-feedback">
+.landmarkBubble.correct::after{content:" ✓";font-weight:900;color:#fff}
+.landmarkBubble.wrong::after{content:" ✕";font-weight:900;color:#fff}
+#whereFeedback.correctFeedback{color:#096a32;font-weight:900}
+#whereFeedback.incorrectFeedback{color:#a11d1d;font-weight:900}
+</style><style id="genesis-answer-counters">
+#answerCounters{flex:0 0 auto;display:flex;direction:ltr;align-items:center;gap:4px;margin-left:3px}
+.answerCount{display:inline-flex;align-items:center;justify-content:center;min-width:28px;height:29px;padding:0 4px;border-radius:9px;color:#fff;font:900 18px/1 Arial,sans-serif;text-shadow:0 1px 2px #000}
+.correctCount{background:#168a32}.wrongCount{background:#b92727}.totalCount{background:#1978c8}.percentCount{background:#111;border:1px solid #777;min-width:43px}
+@media(max-width:600px){#answerCounters{gap:2px}.answerCount{min-width:24px;height:27px;font-size:16px;padding:0 2px}}
+</style></head>
+<body>
+<header><div class="bar">
+<button id="langToggle" type="button" aria-label="Switch language" onclick="switchLanguage()">🇮🇱 ⇄ 🇬🇧</button><div id="where">בראשית-2 <span class="verseRangeTop" dir="ltr">4–7/25</span></div><div id="answerCounters" aria-label="מוני תשובות"><span id="correctCount" class="answerCount correctCount" aria-label="נכונות" title="תשובות נכונות">0</span><span id="wrongCount" class="answerCount wrongCount" aria-label="שגויות" title="תשובות שגויות">0</span><span id="totalCount" class="answerCount totalCount" aria-label="שאלות שהוצגו" title="שאלות שהוצגו">0</span><span id="percentCount" class="answerCount percentCount" aria-label="אחוז תשובות נכונות" title="אחוז תשובות נכונות">0%</span></div>
+</div></header>
+
+<main>
+<h1 id="title" style="display:none">בראשית — פרק 2</h1>
+<div id="stage" class="stage"><img id="picture" src="https://raw.githubusercontent.com/naftali24/BIBLE/main/בראשית/chapter_002/images/idea_02_v4-7.jpg" onerror="if(!this.dataset.try){this.dataset.try='png';this.src=this.src.replace(/.jpg$/i,'.png')}
+else if(this.dataset.try==='png'){this.dataset.try='jpeg';this.src=this.src.replace(/.png$/i,'.jpeg')}
+else if(this.dataset.try==='jpeg'){this.dataset.try='webp';this.src=this.src.replace(/.jpeg$/i,'.webp')}
+else{this.style.display='none'}">
+ <span class="landmarkBubble" data-index="0" data-x="58.37" data-y="97.56" onclick="if(whereOpen)event.stopPropagation();wherePick(0)" style="left: 1003.98px; top: 400.996px;">7</span><span class="landmarkBubble" data-index="1" data-x="7.97" data-y="87.8" onclick="if(whereOpen)event.stopPropagation();wherePick(1)" style="left: 694.015px; top: 360.98px;">כִּי לֹא הִמְטִיר ...</span><span class="landmarkBubble" data-index="2" data-x="6.18" data-y="24.63" onclick="if(whereOpen)event.stopPropagation();wherePick(2)" style="left: 683.007px; top: 101.983px;">העצים</span><span class="landmarkBubble" data-index="3" data-x="22.6" data-y="42.2" onclick="if(whereOpen)event.stopPropagation();wherePick(3)" style="left: 783.99px; top: 174.02px;">וְאֵד יַעֲלֶה...</span><span class="landmarkBubble" data-index="4" data-x="69.27" data-y="51.22" onclick="if(whereOpen)event.stopPropagation();wherePick(4)" style="left: 1071.01px; top: 211.002px;">נשמת חיים</span><span class="landmarkBubble" data-index="5" data-x="42.76" data-y="88.54" onclick="if(whereOpen)event.stopPropagation();wherePick(5)" style="left: 907.974px; top: 364.014px;">עָפָר מִן הָאֲדָמָה</span><div id="wherePromptBox" hidden=""><span id="whereCounter"></span><strong id="wherePrompt"></strong><span id="whereFeedback"></span><button id="whereNext" type="button" hidden="" onclick="event.stopPropagation();nextWhere()">הבא ▶</button></div>
+ <div id="verseOverlay" class="open">
+   <div class="overlayIdea">בריאת האדם מן האדמה</div>
+   <div class="overlayVerses"><div class="levelBox verseScrollBox"><strong>${ui('הפסוקים','Verses')}</strong><div class="verseScroll karaokeText"><div class="ideaVerse" data-verse="4"><span class="verseWords"><b>4.</b> <span class="karaokeWord" data-start="30.42" data-end="31.18">אֵלֶּה</span> <span class="karaokeWord" data-start="31.24" data-end="31.77">תוֹלְדוֹת</span> <span class="karaokeWord" data-start="31.77" data-end="32.8">הַשָּׁמַיִם</span> <span class="karaokeWord" data-start="32.8" data-end="33.73">וְהָאָרֶץ</span> <span class="karaokeWord" data-start="34.18" data-end="35.61">בְּהִבָּרְאָם</span> <span class="karaokeWord" data-start="35.61" data-end="36">בְּיוֹם</span> <span class="karaokeWord" data-start="36" data-end="36.73">עֲשׂוֹת</span> <span class="karaokeWord" data-start="36.73" data-end="36.96">יְהוָה</span> <span class="karaokeWord" data-start="36.96" data-end="38.08">אֱלֹהִים</span> <span class="karaokeWord" data-start="38.22" data-end="38.87">אֶרֶץ</span> <span class="karaokeWord" data-start="38.87" data-end="39.71">וְשָׁמָיִם׃</span></span><button class="verseAudio" type="button" aria-label="השמע פסוק 4" onclick="event.stopPropagation();toggleVerseAudio(4)">🔊</button></div><div class="ideaVerse" data-verse="5"><span class="verseWords"><b>5.</b> <span class="karaokeWord" data-start="40.51" data-end="41.03">וְכֹל</span> <span class="karaokeWord" data-start="41.03" data-end="41.59">שִׂיחַ</span> <span class="karaokeWord" data-start="41.72" data-end="42.56">הַשָּׂדֶה</span> <span class="karaokeWord" data-start="42.93" data-end="43.46">טֶרֶם</span> <span class="karaokeWord" data-start="43.46" data-end="44.09">יִהְיֶה</span> <span class="karaokeWord" data-start="44.09" data-end="44.88">בָאָרֶץ</span> <span class="karaokeWord" data-start="45.17" data-end="45.69">וְכָל</span> <span class="karaokeWord" data-start="45.69" data-end="46.13">עֵשֶׂב</span> <span class="karaokeWord" data-start="46.13" data-end="46.85">הַשָּׂדֶה</span> <span class="karaokeWord" data-start="47.1" data-end="47.64">טֶרֶם</span> <span class="karaokeWord" data-start="47.64" data-end="48.18">יִצְמָח</span> <span class="karaokeWord" data-start="48.65" data-end="48.83">כִּי</span> <span class="karaokeWord" data-start="48.83" data-end="48.97">לֹא</span> <span class="karaokeWord" data-start="48.97" data-end="49.55">הִמְטִיר</span> <span class="karaokeWord" data-start="49.55" data-end="49.73">יְהוָה</span> <span class="karaokeWord" data-start="49.73" data-end="50.42">אֱלֹהִים</span> <span class="karaokeWord" data-start="50.42" data-end="51.4">עַל</span> <span class="karaokeWord" data-start="51.4" data-end="51.88">הָאָרֶץ</span> <span class="karaokeWord" data-start="52.32" data-end="53.2">וְאָדָם</span> <span class="karaokeWord" data-start="53.27" data-end="53.94">אַיִן</span> <span class="karaokeWord" data-start="54.11" data-end="54.94">לַעֲבֹד</span> <span class="karaokeWord" data-start="55.02" data-end="55.3">אֶת</span> <span class="karaokeWord" data-start="55.3" data-end="56.06">הָאֲדָמָה׃</span></span><button class="verseAudio" type="button" aria-label="השמע פסוק 5" onclick="event.stopPropagation();toggleVerseAudio(5)">🔊</button></div><div class="ideaVerse" data-verse="6"><span class="verseWords"><b>6.</b> <span class="karaokeWord" data-start="56.91" data-end="57.66">וְאֵד</span> <span class="karaokeWord" data-start="57.79" data-end="58.44">יַעֲלֶה</span> <span class="karaokeWord" data-start="58.44" data-end="58.65">מִן</span> <span class="karaokeWord" data-start="58.65" data-end="59.35">הָאָרֶץ</span> <span class="karaokeWord" data-start="59.69" data-end="60.63">וְהִשְׁקָה</span> <span class="karaokeWord" data-start="60.68" data-end="60.94">אֶת</span> <span class="karaokeWord" data-start="60.98" data-end="61.28">כָּל</span> <span class="karaokeWord" data-start="61.28" data-end="61.81">פְּנֵי</span> <span class="karaokeWord" data-start="61.81" data-end="62.61">הָאֲדָמָה׃</span></span><button class="verseAudio" type="button" aria-label="השמע פסוק 6" onclick="event.stopPropagation();toggleVerseAudio(6)">🔊</button></div><div class="ideaVerse" data-verse="7"><span class="verseWords"><b>7.</b> <span class="karaokeWord" data-start="63.27" data-end="64.22">וַיִּיצֶר</span> <span class="karaokeWord" data-start="64.22" data-end="64.92">יְהוָה</span> <span class="karaokeWord" data-start="64.92" data-end="65.41">אֱלֹהִים</span> <span class="karaokeWord" data-start="65.41" data-end="65.63">אֶת</span> <span class="karaokeWord" data-start="65.63" data-end="66.46">הָאָדָם</span> <span class="karaokeWord" data-start="66.67" data-end="67.59">עָפָר</span> <span class="karaokeWord" data-start="67.59" data-end="67.86">מִן</span> <span class="karaokeWord" data-start="67.86" data-end="68.74">הָאֲדָמָה</span> <span class="karaokeWord" data-start="69.36" data-end="70.23">וַיִּפַּח</span> <span class="karaokeWord" data-start="70.97" data-end="72.05">בְּאַפָּיו</span> <span class="karaokeWord" data-start="72.05" data-end="72.81">נִשְׁמַת</span> <span class="karaokeWord" data-start="72.91" data-end="73.55">חַיִּים</span> <span class="karaokeWord" data-start="73.79" data-end="74.58">וַיְהִי</span> <span class="karaokeWord" data-start="74.58" data-end="75.46">הָאָדָם</span> <span class="karaokeWord" data-start="75.61" data-end="76.51">לְנֶפֶשׁ</span> <span class="karaokeWord" data-start="76.66" data-end="77.08">חַיָּה׃</span></span><button class="verseAudio" type="button" aria-label="השמע פסוק 7" onclick="event.stopPropagation();toggleVerseAudio(7)">🔊</button></div></div></div>
+         <div class="levelBox"><div class="levelText">לפני צמיחת הצמחייה והגשם, ערפל השקה את האדמה. האדם נוצר מעפר, ונפח בו אלוהים נשמת חיים.</div></div><section class="localPerush"><strong>פירוש הפסוקים</strong><div class="localPerushLine"><b>4.</b> אלה הם תולדות השמים והארץ בזמן בריאתם, ביום שבו עשה ה' אלוהים ארץ ושמים.</div><div class="localPerushLine"><b>5.</b> בשלב הזה העולם עדיין לא היה שלם: הצמחים עדיין לא צמחו בשלמות, מפני שלא ירד גשם. גם האדם עדיין לא היה כדי לעבוד את האדמה.</div><div class="localPerushLine"><b>6.</b> תמצית הגשם כבר הייתה קיימת, אך עדיין לא היה מחזור גשמים שלם. האד עלה מן הארץ, ולאחר מכן התעבה והשקה את האדמה.</div><div class="localPerushLine"><b>7.</b> האדם נוצר בשלבים: תחילה היה גוש עפר, ואחר כך ה' נפח בו נשמת חיים והוא נעשה אדם. נשמת החיים מעניקה לו חיות מיוחדת ונפש מדברת, והיא גם מקרינה ממנו החוצה.</div></section></div>
+ </div>
+ <div class="content">
+ </div></div>
+</main>
+
+<div class="nav"><button id="prev">◀ הקודם</button><button id="next">הבא ▶</button></div>
+
+<audio id="karaokeAudio" preload="metadata"></audio>
+<script>
+async function chapterJSON(name){return getJSON(base()+'/'+name)}
+const RAW='https://raw.githubusercontent.com/naftali24/BIBLE/main';
+const API='https://api.github.com/repos/naftali24/BIBLE/contents';
+const BOOKS={'בראשית':50};
+const BUBBLE_EN={"labels":{"4":"4","7":"7","אדם":"Adam","אהלה":"her tent","אנוש":"Enosh","ארם":"Aram","ארץ החוילה":"land of Havilah","אשתו":"his wife","את האדם":"the human","בארץ":"on the earth","בבל":"Babel","בגן":"in the garden","בהמות":"animals","בני":"my son","בניו":"his sons","בניך":"your sons","בנים":"sons","בענן":"in the cloud","בשר":"flesh","בתבה":"in the ark","גן בעדן":"a garden in Eden","דֶּשֶׁא ,עֵשֶׂב , פְּרִי ":"grass, plants, fruit","דגים,עופות,חיות":"fish, birds, animals","האדם":"the human","האדמה":"the ground","הארץ":"the earth","האשה":"the woman","הבהמה":"the livestock","הבל":"Abel","הגוים":"the nations","הגשם":"the rain","ההרים":"the mountains","הזמן":"time","החיה":"the animal","החרב":"the sword","היבשה":"dry land","היונה":"the dove","הירח":"the moon","הכרבים":"the cherubim","המים":"the water","הנחש":"the serpent","הסירה והבתים":"the boat and houses","העוף":"the bird","העופות, הרומשים":"birds and creeping creatures","העץ":"the tree","העצים":"the trees","הערב":"evening","הקדם":"the east","הקשת":"the rainbow","הרקיע":"the expanse","השדה":"the field","השלישי":"the third","השמים":"the heavens","השמש":"the sun","התבה":"the ark","התנינים":"the great sea creatures","וְאֵד יַעֲלֶה...":"and a mist went up...","ואשתו":"and his wife","ובנות":"and daughters","והנחש":"and the serpent","ויום":"and a day","ויכולו":"were finished","ויפת":"and Japheth","וכנען":"and Canaan","ולאדם":"and for the human","ומקנה":"and livestock","ונח":"and Noah","ונקבה":"and female","וקציר":"and harvest","זית":"olive","זכר":"male","זכר ונקבה":"male and female","זרע":"seed","חוה":"Eve","חושך":"darkness","חיה ועוף":"animal and bird","חית":"wild animal","חלון":"window","חם":"Ham","חנוך":"Enoch","יד שלישית ":"a third hand","יהוה , אלוהים , אדוני , ועוד ":"the LORD, God, Adonai, and more","יום השישי":"the sixth day","ימים":"seas","יעשה לו עזר כנגדו":"make him a suitable helper","יפת":"Japheth","יקטן":"Joktan","ירד":"Jared","כִּי לֹא הִמְטִיר ...":"for it had not rained...","כוש":"Cush","כי מאיש לוקחה":"for she was taken from man","כנען":"Canaan","כרם":"vineyard","כתנות":"garments","לא":"no","לא יתבוששו":"were not ashamed","לאור":"the light","לאישה":"the woman","לארץ כוש":"to the land of Cush","לחץ כאן":"tap here","לחשך":"the darkness","ליפת":"to Japheth","למינה ":"according to its kind","למך":"Lamech","למשפחתם":"by their families","לנוע או לזחול ":"to move or crawl","לנח":"to Noah","לנשיו":"to his wives","לפתח":"at the entrance","לקבוע זמנים":"to mark times","לקדמת אשור":"east of Assyria","לשמים":"the heavens","מאכל":"food","מברך אותו":"blesses him","מהללאל":"Mahalalel","מזבח":"altar","מזרח":"east","מים":"water","מעץ הדעת":"from the tree of knowledge","מפרי":"from fruit","מפריו":"from its fruit","מצלע האדם":"from the human's side","מתושלח":"Methuselah","נח":"Noah","נמרד":"Nimrod","נשמת חיים":"breath of life","עָפָר מִן הָאֲדָמָה":"dust from the ground","עבדה וישמרה":"work and tend it","עבר":"Eber","עיר":"city","עץ":"tree","עץ הדעת":"tree of knowledge","עץ החיים":"tree of life","עצי":"my trees","ערומים":"naked","עשב":"plant","פלג":"Peleg","פרו ורבו":"be fruitful and multiply","פרי":"fruit","פרת":"Euphrates","צאן":"flock","צלע":"side","קין":"Cain","קינן":"Kenan","ריבוי אנשים":"many people","רמש":"creeping creature","שבת- עצר ונח":"rested — stopped working","שהאדם חייב להדבק לאישתו":"that a man should cling to his wife","שטוב מאד":"that it was very good","שם":"Shem","שרצו":"swarmed","שת":"Seth","תבת":"ark","תוהו ובבואו":"formless and void","תרדמה":"deep sleep"},"questions":{" בתמונה הם לא.....":"In the picture, they are not...","איזה עץ נותן חיי נצח ?":"Which tree gives eternal life?","איזה עץ נותן ידע על מה מותר ?":"Which tree gives knowledge of good and evil?","איך ברא אלהים את האישה בפרק הזה ?":"How did God create the woman in this chapter?","איך נוצר הגשם הראשון ?":"How did the first rain form?","איך קוראים למקווה המים ?":"What is the gathered water called?","איפא המים בתמונה שמתחת לרקיע ?":"Where is the water below the expanse in the picture?","את מה אלוהים ברא ראשון ?":"What did God create first?","את מה נטע אלוהים ?":"What did God plant?","את מי ברא אחרי ההחיות והעופות בשמים ?":"Whom did God create after the animals and birds?","את מי יצר אלוהים בדמותו (בצלמו) ?":"Whom did God make in His image?","את מי שם אלוהים בגן עדן ?":"Whom did God place in the garden of Eden?","באיזה יום אנחנו בסיפור ?":"Which day are we on in the story?","האם יש עוד עצים שלאדם אסור לאכול ?":"Are there other trees from which the human may not eat?","השלם את המיון: נפש חיה.....":"Complete the category: living creature...","כמה הסתעפויות יש לנהר שיוצא מהגן ?":"Into how many branches does the river from the garden divide?","כמה ימות הבריאה ?":"How many days of creation are there?","כשיש ערב ויש בוקר. מה נוצר ?":"When there is evening and morning, what is formed?","לאיזה שם שינה אלוהים את הרקיע ?":"What did God name the expanse?","לאן זורם הגיחון ?":"Where does the Gihon flow?","לאן זורם החידקל":"Where does the Tigris flow?","לאן זורם הפישון ?":"Where does the Pishon flow?","למה האדמה צחיחה ?":"Why is the ground dry?","למה עוד נבראו המאורות הגדולים ?":"What other purpose do the great lights serve?","למה קוראים לאישה אישה ?":"Why is the woman called woman?","למי קרא אלוהים יום ?":"What did God call Day?","למי קרא אלוהים לילה ?":"What did God call Night?","מה אלוהים יעשה כי האדם לבד ?":"What will God make because the human is alone?","מה אלוהים מפיל על האדם ?":"What does God cause to fall upon the human?","מה הברכה שבירך אותה אלוהים ?":"What blessing did God give her?","מה היה לפני האור ?":"What was there before the light?","מה היה מעל פני תהום ?":"What was over the face of the deep?","מה הם כבש,פרה,אנטילופה וכו ?":"What category includes sheep, cows, antelopes, and so on?","מה הפסוק מסביר?":"What does the verse explain?","מה הצמח שנתן אלוהים לחיות לאכול?":"Which plant did God give the animals for food?","מה התגלה שניקוו המים ?":"What appeared when the waters gathered?","מה זה קדם ?":"What does east mean?","מה יוציא העץ ?":"What will the tree produce?","מה יעשה האדם לגן ?":"What will the human do in the garden?","מה לא נכון בתמונה ?":"What is inaccurate in the picture?","מה לקח אלוהים מהאדם ?":"What did God take from the human?","מה מבדיל בין מים למים ?":"What separates water from water?","מה מוזר בתמונה ?":"What is strange in the picture?","מה מצמיחה האדמה הראשונה ?":"What does the ground first bring forth?","מה נפח אלוהים לאדם ?":"What did God breathe into the human?","מה עושה אלוהים ביום השביעי ?":"What does God do on the seventh day?","מה עושה אלוהים ליום שבו שבת ?":"What does God do to the day on which He rests?","מה פירוש הרומשים":"What does creeping creatures mean?","מה ראה אלוהים  ?":"What did God see?","מהו הצמח הראשון ?":"What is the first plant?","מהו הצמח השני שברא אלוהים ?":"What is the second plant God created?","מהי המילה התנכית ליגמרו ?":"What is the biblical word for were finished?","מהם החרקים. העכבישים. הנחשים ועוד ?":"What category includes insects, spiders, snakes, and more?","מי בחר את שמות החיות ?":"Who chose the animals' names?","מי בשמים ?":"Who is in the sky?","מי עוד יאכל עשב ?":"Who else will eat plants?","מי שולט ביום ?":"Who rules the day?","מיהו המאור הקטן ?":"What is the lesser light?","מיהו הנהר הרביעי ?":"Which is the fourth river?","מיהו הקדוש ברוך הוא ?":"Who is the Holy One, blessed be He?","מילה תנכית ללא התביישו":"What is the biblical phrase for were not ashamed?","מילה תנכית למילאו ?":"What is the biblical word for filled?","ממה ימות האדם אם יאכל ?":"What will cause the human to die if he eats?","ממה נבנתה האישה ?":"From what was the woman made?","ממה עשוי האדם ?":"What is the human made from?","על מה הזכר והנקבה ישלטו ?":"Over what will the male and female rule?","על פני מה ריחפה רוח אלוהים ?":"Over what did the spirit of God hover?"}};
+const BOOK_EN={'בראשית':'Genesis','שמות':'Exodus','ויקרא':'Leviticus','במדבר':'Numbers','דברים':'Deuteronomy','יהושע':'Joshua','שופטים':'Judges','שמואל א':'1 Samuel','שמואל ב':'2 Samuel','מלכים א':'1 Kings','מלכים ב':'2 Kings','ישעיהו':'Isaiah','ירמיהו':'Jeremiah','יחזקאל':'Ezekiel','הושע':'Hosea','יואל':'Joel','עמוס':'Amos','עובדיה':'Obadiah','יונה':'Jonah','מיכה':'Micah','נחום':'Nahum','חבקוק':'Habakkuk','צפניה':'Zephaniah','חגי':'Haggai','זכריה':'Zechariah','מלאכי':'Malachi','תהלים':'Psalms','משלי':'Proverbs','איוב':'Job','שיר השירים':'Song of Songs','רות':'Ruth','איכה':'Lamentations','קהלת':'Ecclesiastes','אסתר':'Esther','דניאל':'Daniel','עזרא':'Ezra','נחמיה':'Nehemiah','דברי הימים א':'1 Chronicles','דברי הימים ב':'2 Chronicles'};
+let language='he';
+const inEnglish=()=>language==='en';
+const bookTitle=()=>inEnglish()?(BOOK_EN[book]||book):book;
+const labelText=p=>inEnglish()?(p.label_en||BUBBLE_EN.labels[p.label]||p.label):p.label;
+const questionText=p=>inEnglish()?(p.question_en||BUBBLE_EN.questions[p.question]||('Where is '+labelText(p)+'?')):(p.question||('איפה '+p.label+'?'));
+function ui(he,en){return inEnglish()?en:he}
+function applyLanguage(){
+ document.documentElement.lang=language;
+ document.documentElement.dir=inEnglish()?'ltr':'rtl';
+ $('langToggle').innerHTML=`<span class="${inEnglish()?'':'current'}">🇮🇱</span> ⇄ <span class="${inEnglish()?'current':''}">🇬🇧</span>`;
+ $('prev').textContent=ui('◀ הקודם','◀ Previous');
+ $('next').textContent=ui('הבא ▶','Next ▶');
+}
+function switchLanguage(){
+ language=inEnglish()?'he':'en';
+ $('title').textContent=`${bookTitle()} — ${ui('פרק','Chapter')} ${chapter}`;
+ if(ideas.length)render();
+ applyLanguage();
+}
+function tryEnterFullScreen(){
+ if(document.fullscreenElement||!document.documentElement.requestFullscreen)return;
+ document.documentElement.requestFullscreen().catch(()=>{});
+}
+document.addEventListener('pointerdown',tryEnterFullScreen,true);
+document.addEventListener('keydown',tryEnterFullScreen,true);
+
+let book='בראשית', chapter=1, data=null, readalong=null, hebrewVerses=[], ideas=[], ideaIndex=0, imageNames=[];
+let versesOpen=true;
+const $=id=>document.getElementById(id);
+const enc=s=>encodeURIComponent(s);
+const base=()=>`${RAW}/${enc(book)}/chapter_${String(chapter).padStart(3,'0')}`;
+
+async function getJSON(url){
+ const r=await fetch(url,{cache:'no-store'});
+ if(!r.ok) throw new Error(r.status+' '+r.statusText);
+ return r.json();
+}
+function versesArray(d){
+ if(Array.isArray(hebrewVerses) && hebrewVerses.length) return hebrewVerses;
+ for(const k of ['verses','hebrew','text_he','hebrew_verses','text']){
+   if(Array.isArray(d?.[k]) && d[k].length) return d[k];
+ }
+ return [];
+}
+function buildHebrewVersesFromReadalong(r){
+ const words=Array.isArray(r?.words)?r.words:[];
+ const verses=[]; let buf=[];
+ for(const w of words){
+   const h=String(w?.hebrew ?? w?.h ?? '').trim();
+   if(!h) continue;
+   const pos=Number(w?.position);
+   if(pos===0 && buf.length){
+     verses.push(buf.join(' ')); buf=[];
+   }
+   buf.push(h);
+   // Same method as the working Tanakh app: sof-pasuq marks verse end.
+   if(h.includes('׃')){
+     verses.push(buf.join(' ')); buf=[];
+   }
+ }
+ if(buf.length) verses.push(buf.join(' '));
+ return verses;
+}
+function vText(v){
+ if(typeof v==='string')return v;
+ return v?.hebrew||v?.text||v?.verse||v?.he||'';
+}
+function normalizeIdeas(d){
+ const a=Array.isArray(d?.ideas)?d.ideas:[];
+ return a.map((x,i)=>({
+   ...x,
+   idea:x.title||x.idea||x.name||'',
+   image:x.image||x.image_file||x.filename||x.file||'',
+   start:Number(x.start_verse??x.startVerse??1),
+   end:Number(x.end_verse??x.endVerse??x.start_verse??x.startVerse??1)
+ }));
+}
+async function listImages(){
+ try{
+   const a=await getJSON(`${API}/${enc(book)}/chapter_${String(chapter).padStart(3,'0')}/images`);
+   return a.filter(x=>x.type==='file'&&/\.(png|jpe?g|webp|gif)$/i.test(x.name)).map(x=>({name:x.name,url:x.download_url})).sort((a,b)=>a.name.localeCompare(b.name,undefined,{numeric:true}));
+ }catch(e){return []}
+}
+function inferIdeasFromData(d,imgs){
+ // Additional common structures: each item may already contain verse/idea/image.
+ for(const k of ['pictures','scenes','concepts']){
+   if(Array.isArray(d?.[k])&&d[k].length)return d[k].map((x,i)=>({...x,idea:x.idea||x.title||x.caption||'',image:x.image||x.filename||'',start:Number(x.start||x.start_verse||0),end:Number(x.end||x.end_verse||x.start||0)}));
+ }
+ return imgs.map((im,i)=>({idea:'',image:im.name,start:0,end:0}));
+}
+async function loadChapter(){
+ whereOpen=true;whereIndex=0;whereAnswered=false;whereOrder=[];whereSolved.clear();bubblesVisible=true;
+ 
+ $('title').textContent=`${bookTitle()} — ${ui('פרק','Chapter')} ${chapter}`;
+ stopKaraoke();
+ $('stage').innerHTML=`<div class="loading">${ui('טוען פרק…','Loading chapter…')}</div>`;
+ try{
+   try{ data=await chapterJSON('chapter.json'); }catch(e){ data={}; }
+   try{readalong=await chapterJSON('readalong_words.json')}catch(e){readalong=null}
+   hebrewVerses=buildHebrewVersesFromReadalong(readalong);
+   if(!hebrewVerses.length) hebrewVerses=Array.isArray(data?.verses)?data.verses:[];
+   imageNames=await listImages();
+   ideas=normalizeIdeas(data);
+   if(!ideas.length) ideas=inferIdeasFromData(data,imageNames);
+   ideaIndex=0;
+   if(!ideas.length){$('stage').innerHTML=`<div class="empty">${ui('לא נמצאו תמונות/רעיונות בפרק הזה','No images or ideas found for this chapter')}</div>`;return}
+   resetWhereForIdea();
+   render();
+ }catch(e){
+   $('stage').innerHTML=`<div class="empty">${ui('הפרק עדיין אינו זמין ב־GitHub','The chapter is not available on GitHub')}<br><small>${String(e.message||e)}</small></div>`;
+ }
+}
+function imageFor(it){
+ const ix=ideas.indexOf(it);
+ const stem='idea_'+String(ix+1).padStart(2,'0');
+ for(const im of imageNames) if(im.name===stem+'.jpg'||im.name===stem+'.jpeg'||im.name===stem+'.png'||im.name===stem+'.webp'||im.name===stem+'.avif') return im.url;
+ for(const im of imageNames) if(im.name.startsWith(stem+'_')||im.name.startsWith(stem+'-')) return im.url;
+ const a=Number(it?.start||1), b=Number(it?.end||a);
+ for(const im of imageNames) if(im.name.includes('v'+a+'-'+b)) return im.url;
+ let name=String(it.image||'').split('/').pop();
+ if(/^https?:/i.test(it.image||''))return it.image;
+ if(name){
+   const hit=imageNames.find(x=>x.name===name);
+   if(hit)return hit.url;
+ }
+ if(imageNames[ix]?.url)return imageNames[ix].url;
+ const n=String(ix+1).padStart(2,'0');
+ return `${base()}/images/idea_${n}.jpg`;
+}
+function escHtml(x){
+ return String(x??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+function normKaraokeWord(x){
+ return String(x||'')
+   .normalize('NFD').replace(/[\u0591-\u05C7]/g,'')
+   .replace(/[^\u05D0-\u05EA]/g,'');
+}
+function timedHardHtml(x){
+ const txt=String(x.hard||'');
+ if(!txt) return '';
+ const rd=readalong;
+ if(!rd || !Array.isArray(rd.words)) return escHtml(txt);
+
+ // Add verse numbers to the word stream. Sof-pasuq (׃) closes a verse.
+ let verse=1;
+ const stream=rd.words.map(w=>{
+   const z={...w,verse};
+   if(String(w.hebrew||'').includes('׃')) verse++;
+   return z;
+ });
+ const a=Number(x.start_verse||1), b=Number(x.end_verse||a);
+ const pool=stream.filter(w=>w.verse>=a && w.verse<=b);
+
+ // Match the merged displayed text sequentially against the original timed words.
+ let pi=0;
+ return txt.split(/(\s+)/).map(part=>{
+   if(/^\s+$/.test(part)) return part;
+   const key=normKaraokeWord(part);
+   if(!key) return escHtml(part);
+   let hit=-1;
+   for(let j=pi;j<pool.length;j++){
+     if(normKaraokeWord(pool[j].hebrew)===key){hit=j;break;}
+   }
+   if(hit<0) return escHtml(part);
+   const w=pool[hit]; pi=hit+1;
+   return `<span class="karaokeWord" data-start="${Number(w.start)}" data-end="${Number(w.end)}">${escHtml(part)}</span>`;
+ }).join('');
+}
+function perushForIdea(it){
+ const start=Math.max(1,Number(it.start||it.start_verse||1));
+ const end=Math.max(start,Number(it.end||it.end_verse||start));
+ const explanations=(inEnglish()?[data?.ai_explanation_en,data?.perush_en]:[data?.ai_explanation,data?.perush,data?.steinsaltz]).find(v=>Array.isArray(v)&&v.some(Boolean))||[];
+ const rows=[];
+ for(let n=start;n<=end;n++){
+   const raw=explanations[n-1];if(!raw)continue;
+   const text=String(raw).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
+   if(text)rows.push(`<div class="localPerushLine"><b>${n}.</b> ${escHtml(text)}</div>`);
+ }
+ return rows.length?`<section class="localPerush"><strong>${ui('פירוש הפסוקים','Verse commentary')}</strong>${rows.join('')}</section>`:'';
+}
+function extractText(it){
+ const start=Math.max(1,Number(it.start||it.start_verse||1));
+ const end=Math.max(start,Number(it.end||it.end_verse||start));
+ const verseRows=[];
+ for(let n=start;n<=end;n++){
+  const verse=inEnglish()?String(data?.english?.[n-1]||''):vText(hebrewVerses[n-1]);
+  if(verse)verseRows.push(`<div class="ideaVerse" data-verse="${n}"><span class="verseWords"><b>${n}.</b> ${inEnglish()?`<span class="karaokeWord" data-start="${Number(data?.times_en?.[n-1]?.start)}" data-end="${Number(data?.times_en?.[n-1]?.end)}">${escHtml(verse)}</span>`:timedHardHtml({hard:verse,start_verse:n,end_verse:n})}</span><button class="verseAudio" type="button" aria-label="${ui('השמע פסוק','Play verse')} ${n}" onclick="event.stopPropagation();toggleVerseAudio(${n})">🔊</button></div>`);
+ }
+ const verses=verseRows.length?verseRows.join(''):`<div>${ui('פסוקי הרעיון אינם זמינים כרגע.','Verses are not available right now.')}</div>`;
+ const summary=(inEnglish()?(it.summary_en||it.description_en):null)||it.summary||it.easy||it.description||'';
+ return `<div class="levelBox verseScrollBox"><strong>${ui('הפסוקים','Verses')}</strong><div class="verseScroll karaokeText">${verses}</div></div>
+         <div class="levelBox"><div class="levelText">${escHtml(summary)}</div></div>${perushForIdea(it)}`;
+}
+
+function chapterAudioUrl(){
+ const code=String(readalong?.audio_code||'').trim();
+ return (inEnglish()&&data?.audio_en_url) || readalong?.audio_url || data?.audio_he_url || data?.audio_url || (/^t\d{4}$/.test(code)?`https://mechon-mamre.org/mp3/${code}.mp3`:'');
+}
+let karaokeStopAt=null,verseAudioActive=null;
+function stopKaraoke(){
+ const a=$('karaokeAudio');
+ if(a){a.pause();a.onloadedmetadata=null;karaokeStopAt=null;}
+ verseAudioActive=null;document.querySelectorAll('.verseAudio').forEach(b=>{b.textContent='🔊';b.classList.remove('playing')});
+ document.querySelectorAll('.karaokeWord').forEach(x=>x.classList.remove('active','done'));
+}
+function updateKaraoke(){
+ const a=$('karaokeAudio'); if(!a)return;
+ const t=a.currentTime;
+ document.querySelectorAll('.karaokeWord').forEach(w=>{
+   const st=Number(w.dataset.start), en=Number(w.dataset.end);
+   w.classList.toggle('active',t>=st && t<en);
+   w.classList.toggle('done',t>=en);
+   if(t>=st && t<en) w.scrollIntoView({block:'nearest',behavior:'smooth'});
+ });
+ if(karaokeStopAt!=null && t>=karaokeStopAt){stopKaraoke();}
+}
+function toggleVerseAudio(n){
+ const audio=$('karaokeAudio'),row=document.querySelector(`.ideaVerse[data-verse="${n}"]`),url=chapterAudioUrl();
+ if(!audio||!row||!url)return;
+ if(verseAudioActive===n){stopKaraoke();return}
+ const words=[...row.querySelectorAll('.karaokeWord')];
+ if(!words.length)return;
+ const start=Number(words[0].dataset.start),end=Number(words[words.length-1].dataset.end);
+ if(!Number.isFinite(start)||!Number.isFinite(end))return;
+ stopKaraoke();verseAudioActive=n;karaokeStopAt=end+0.12;
+ const button=row.querySelector('.verseAudio');button.textContent='🔇';button.classList.add('playing');
+ if(audio.src!==url)audio.src=url;
+ const seek=()=>{try{audio.currentTime=Math.max(0,start-0.05)}catch(e){}};
+ if(audio.readyState>=1)seek();
+ else audio.onloadedmetadata=()=>{audio.onloadedmetadata=null;seek();audio.play().catch(()=>stopKaraoke())};
+ audio.play().catch(()=>{});
+}
+const GENESIS_LANDMARKS={"1":[[{"label":"השמים","x":51,"y":25,"question":"את מה אלוהים ברא ראשון ?"},{"label":"חושך","x":25,"y":35,"question":"מה היה מעל פני תהום ?"},{"label":"המים","x":52,"y":75,"question":"על פני מה ריחפה רוח אלוהים ?"},{"x":53.5,"y":98.29,"label":"יהוה , אלוהים , אדוני , ועוד ","question":"מיהו הקדוש ברוך הוא ?"}],[{"label":"לאור","x":72,"y":32,"question":"למי קרא אלוהים יום ?"},{"label":"לחשך","x":22,"y":31,"question":"למי קרא אלוהים לילה ?"},{"x":52.52,"y":97.07,"label":"תוהו ובבואו","question":"מה היה לפני האור ?"},{"x":98.7,"y":97.8,"label":"הזמן","question":"כשיש ערב ויש בוקר. מה נוצר ?"}],[{"label":"לשמים","x":57,"y":20,"question":"לאיזה שם שינה אלוהים את הרקיע ?"},{"label":"לחץ כאן","x":55,"y":74,"question":"איפא המים בתמונה שמתחת לרקיע ?"},{"x":48.29,"y":37.8,"label":"הרקיע","question":"מה מבדיל בין מים למים ?"}],[{"label":"היבשה","x":47,"y":66,"question":"מה התגלה שניקוו המים ?"},{"x":92.2,"y":43.9,"label":"ימים","question":"איך קוראים למקווה המים ?"},{"x":44.72,"y":97.32,"label":"דֶּשֶׁא ,עֵשֶׂב , פְּרִי ","question":"מה מצמיחה האדמה הראשונה ?"},{"x":98.54,"y":97.8,"label":"השלישי","question":"באיזה יום אנחנו בסיפור ?"}],[{"label":"השמש","x":26,"y":25,"question":"מי שולט ביום ?"},{"x":76.75,"y":12.44,"label":"הירח","question":"מיהו המאור הקטן ?"},{"x":52.03,"y":98.29,"label":"לקבוע זמנים","question":"למה עוד נבראו המאורות הגדולים ?"}],[{"x":22.76,"y":56.59,"label":"התנינים","question":"את מי ברא אחרי ההחיות והעופות בשמים ?"},{"x":58.7,"y":12.68,"label":"חיה ועוף","question":"מי בשמים ?"},{"x":50.73,"y":98.54,"label":"הסירה והבתים","question":"מה לא נכון בתמונה ?"},{"x":97.07,"y":96.83,"label":"שרצו","question":"מילה תנכית למילאו ?"}],[{"x":84.72,"y":38.78,"label":"בהמות","question":"מה הם כבש,פרה,אנטילופה וכו ?"},{"x":49.76,"y":86.83,"label":"רמש","question":"מהם החרקים. העכבישים. הנחשים ועוד ?"},{"x":89.27,"y":97.07,"label":"למינה ","question":"השלם את המיון: נפש חיה....."}],[{"label":"זכר ונקבה","x":57,"y":56,"question":"איך ברא אלהים את האישה בפרק הזה ?"},{"label":"דגים,עופות,חיות","x":79,"y":76,"question":"על מה הזכר והנקבה ישלטו ?"},{"x":54.63,"y":98.29,"label":"פרו ורבו","question":"מה הברכה שבירך אותה אלוהים ?"},{"x":25.04,"y":31.46,"label":"האדם","question":"את מי יצר אלוהים בדמותו (בצלמו) ?"}],[{"label":"עץ","x":27,"y":40,"question":"מהו הצמח השני שברא אלוהים ?"},{"x":90.89,"y":67.32,"label":"פרי","question":"מה יוציא העץ ?"},{"x":38.86,"y":55.37,"label":"עשב","question":"מהו הצמח הראשון ?"}],[{"label":"עשב","x":46,"y":73,"question":"מה הצמח שנתן אלוהים לחיות לאכול?"},{"x":75.28,"y":40.49,"label":"העופות, הרומשים","question":"מי עוד יאכל עשב ?"},{"x":53.5,"y":96.83,"label":"לנוע או לזחול ","question":"מה פירוש הרומשים"}],[{"x":47.32,"y":95.85,"label":"יום השישי","question":"באיזה יום אנחנו בסיפור ?"},{"x":86.5,"y":97.07,"label":"שטוב מאד","question":"מה ראה אלוהים  ?"}]],"2":[[{"x":54.15,"y":98.54,"label":"ויכולו","question":"מהי המילה התנכית ליגמרו ?"},{"x":93.33,"y":96.1,"label":"שבת- עצר ונח","question":"מה עושה אלוהים ביום השביעי ?"},{"x":9.76,"y":92.68,"label":"מברך אותו","question":"מה עושה אלוהים ליום שבו שבת ?"}],[{"x":7.97,"y":87.8,"label":"כִּי לֹא הִמְטִיר ...","question":"למה האדמה צחיחה ?"},{"x":6.18,"y":24.63,"label":"העצים","question":"מה לא נכון בתמונה ?"},{"x":22.6,"y":42.2,"label":"וְאֵד יַעֲלֶה...","question":"איך נוצר הגשם הראשון ?"},{"x":69.27,"y":51.22,"label":"נשמת חיים","question":"מה נפח אלוהים לאדם ?"},{"x":89.43,"y":96.34,"label":"עָפָר מִן הָאֲדָמָה","question":"ממה עשוי האדם ?"},{"x":42.76,"y":94.88,"label":"7","question":"כמה ימות הבריאה ?"}],[{"x":53.5,"y":97.07,"label":"גן בעדן","question":"את מה נטע אלוהים ?"},{"x":17.72,"y":37.56,"label":"את האדם","question":"את מי שם אלוהים בגן עדן ?"},{"x":98.54,"y":97.32,"label":"מזרח","question":"מה זה קדם ?"},{"x":50.73,"y":57.8,"label":"עץ החיים","question":"איזה עץ נותן חיי נצח ?"},{"x":61.3,"y":10,"label":"עץ הדעת","question":"איזה עץ נותן ידע על מה מותר ?"}],[{"x":49.76,"y":52.68,"label":"4","question":"כמה הסתעפויות יש לנהר שיוצא מהגן ?"},{"x":88.78,"y":58.78,"label":"ארץ החוילה","question":"לאן זורם הפישון ?"},{"x":23.41,"y":50.73,"label":"לארץ כוש","question":"לאן זורם הגיחון ?"},{"x":24.72,"y":24.15,"label":"לקדמת אשור","question":"לאן זורם החידקל"},{"x":70.73,"y":28.78,"label":"פרת","question":"מיהו הנהר הרביעי ?"}],[{"x":13.5,"y":84.39,"label":"עבדה וישמרה","question":"מה יעשה האדם לגן ?"},{"x":74.31,"y":26.83,"label":"מעץ הדעת","question":"ממה ימות האדם אם יאכל ?"},{"x":52.36,"y":97.32,"label":"לא","question":"האם יש עוד עצים שלאדם אסור לאכול ?"}],[{"x":67.97,"y":58.78,"label":"האדם","question":"מי בחר את שמות החיות ?"},{"x":51.22,"y":95.85,"label":"יעשה לו עזר כנגדו","question":"מה אלוהים יעשה כי האדם לבד ?"},{"x":24.72,"y":19.02,"label":"יד שלישית ","question":"מה מוזר בתמונה ?"}],[{"x":51.22,"y":96.59,"label":"צלע","question":"מה לקח אלוהים מהאדם ?"},{"x":16.59,"y":36.59,"label":"תרדמה","question":"מה אלוהים מפיל על האדם ?"},{"x":54.31,"y":19.51,"label":"מצלע האדם","question":"ממה נבנתה האישה ?"},{"x":91.87,"y":92.93,"label":"כי מאיש לוקחה","question":"למה קוראים לאישה אישה ?"},{"x":21.46,"y":80.98,"label":"ריבוי אנשים","question":"מה מוזר בתמונה ?"}],[{"x":48.13,"y":95.12,"label":"שהאדם חייב להדבק לאישתו","question":"מה הפסוק מסביר?"},{"x":58.54,"y":14.88,"label":"ערומים","question":" בתמונה הם לא....."},{"x":98.37,"y":96.34,"label":"לא יתבוששו","question":"מילה תנכית ללא התביישו"}]],"3":[[{"label":"והנחש","x":20,"y":54},{"label":"האשה","x":55,"y":56},{"label":"העץ","x":62,"y":35}],[{"label":"האשה","x":28,"y":35},{"label":"מפריו","x":36,"y":30},{"label":"לאישה","x":47,"y":42}],[{"label":"האדם","x":29,"y":66},{"label":"ואשתו","x":39,"y":68},{"label":"בגן","x":63,"y":55}],[{"label":"הנחש","x":28,"y":77},{"label":"האשה","x":55,"y":58}],[{"label":"ולאדם","x":61,"y":66},{"label":"האדמה","x":55,"y":82},{"label":"השדה","x":79,"y":75}],[{"label":"חוה","x":61,"y":60},{"label":"האדם","x":39,"y":59},{"label":"כתנות","x":56,"y":69}],[{"label":"האדם","x":20,"y":75},{"label":"הכרבים","x":68,"y":48},{"label":"החרב","x":73,"y":57}]],"4":[[{"label":"קין","x":58,"y":64},{"label":"הבל","x":35,"y":60},{"label":"צאן","x":84,"y":72}],[{"label":"קין","x":31,"y":53},{"label":"הבל","x":73,"y":51},{"label":"מפרי","x":42,"y":65}],[{"label":"קין","x":51,"y":58},{"label":"לפתח","x":76,"y":57}],[{"label":"קין","x":23,"y":59},{"label":"האדמה","x":62,"y":77}],[{"label":"האדמה","x":59,"y":79},{"label":"בארץ","x":56,"y":82}],[{"label":"קין","x":42,"y":66},{"label":"בארץ","x":75,"y":77}],[{"label":"עיר","x":69,"y":42},{"label":"קין","x":33,"y":63},{"label":"ומקנה","x":20,"y":66}],[{"label":"למך","x":42,"y":58},{"label":"לנשיו","x":69,"y":72}],[{"label":"שת","x":43,"y":72},{"label":"אשתו","x":35,"y":65}]],"5":[[{"label":"אדם","x":37,"y":57},{"label":"ונקבה","x":60,"y":57}],[{"label":"אדם","x":45,"y":47},{"label":"שת","x":37,"y":57}],[{"label":"שת","x":33,"y":55},{"label":"אנוש","x":50,"y":72},{"label":"בנים","x":72,"y":73}],[{"label":"קינן","x":33,"y":57},{"label":"מהללאל","x":61,"y":72},{"label":"בנים","x":80,"y":71}],[{"label":"ירד","x":35,"y":55},{"label":"חנוך","x":51,"y":56},{"label":"ובנות","x":69,"y":60}],[{"label":"חנוך","x":43,"y":60},{"label":"בנים","x":74,"y":72}],[{"label":"מתושלח","x":52,"y":56},{"label":"למך","x":76,"y":66},{"label":"ובנות","x":25,"y":69}],[{"label":"למך","x":64,"y":59},{"label":"נח","x":39,"y":70}],[{"label":"למך","x":45,"y":69}],[{"label":"נח","x":43,"y":55},{"label":"שם","x":21,"y":65},{"label":"יפת","x":66,"y":65}]],"6":[[{"label":"האדם","x":47,"y":70},{"label":"ובנות","x":62,"y":69},{"label":"בארץ","x":52,"y":81}],[{"label":"ונח","x":40,"y":68},{"label":"האדמה","x":53,"y":79}],[{"label":"נח","x":50,"y":59},{"label":"שם","x":20,"y":61},{"label":"יפת","x":75,"y":63}],[{"label":"תבת","x":64,"y":45},{"label":"לנח","x":25,"y":68},{"label":"עצי","x":73,"y":79}],[{"label":"התבה","x":66,"y":42},{"label":"מים","x":20,"y":75},{"label":"בניך","x":46,"y":65}],[{"label":"התבה","x":63,"y":40},{"label":"הבהמה","x":28,"y":73},{"label":"זכר","x":54,"y":72}],[{"label":"מאכל","x":41,"y":74},{"label":"נח","x":26,"y":57}]],"7":[[{"label":"התבה","x":64,"y":41},{"label":"נח","x":42,"y":62},{"label":"הבהמה","x":18,"y":70}],[{"label":"התבה","x":53,"y":42},{"label":"העוף","x":45,"y":26},{"label":"הבהמה","x":78,"y":68}],[{"label":"התבה","x":60,"y":51},{"label":"הגשם","x":54,"y":25},{"label":"השמים","x":58,"y":18}],[{"label":"התבה","x":52,"y":32},{"label":"המים","x":52,"y":75},{"label":"ההרים","x":17,"y":64}],[{"label":"בתבה","x":49,"y":53},{"label":"המים","x":51,"y":80},{"label":"נח","x":44,"y":53}]],"8":[[{"label":"התבה","x":65,"y":54},{"label":"המים","x":43,"y":65},{"label":"ההרים","x":77,"y":50}],[{"label":"הערב","x":66,"y":42},{"label":"היונה","x":79,"y":28},{"label":"חלון","x":38,"y":48}],[{"label":"היונה","x":71,"y":37},{"label":"זית","x":72,"y":37},{"label":"התבה","x":20,"y":40}],[{"label":"התבה","x":51,"y":46},{"label":"האדמה","x":73,"y":82},{"label":"נח","x":23,"y":59}],[{"label":"התבה","x":72,"y":44},{"label":"החיה","x":17,"y":64},{"label":"נח","x":53,"y":65}],[{"label":"נח","x":48,"y":58},{"label":"העוף","x":69,"y":35},{"label":"התבה","x":63,"y":40}],[{"label":"מזבח","x":50,"y":71},{"label":"נח","x":42,"y":54},{"label":"העוף","x":43,"y":34}],[{"label":"זרע","x":55,"y":73},{"label":"וקציר","x":64,"y":70},{"label":"ויום","x":22,"y":38}]],"9":[[{"label":"נח","x":48,"y":51},{"label":"בניו","x":66,"y":54},{"label":"חית","x":82,"y":71}],[{"label":"בשר","x":51,"y":74},{"label":"האדם","x":79,"y":54}],[{"label":"נח","x":39,"y":55},{"label":"בניו","x":71,"y":54},{"label":"התבה","x":38,"y":44}],[{"label":"הקשת","x":51,"y":28},{"label":"בענן","x":61,"y":22},{"label":"הארץ","x":49,"y":79}],[{"label":"התבה","x":33,"y":43},{"label":"שם","x":36,"y":69},{"label":"ויפת","x":65,"y":69}],[{"label":"כרם","x":26,"y":69},{"label":"אהלה","x":69,"y":42},{"label":"נח","x":77,"y":67}],[{"label":"שם","x":56,"y":63},{"label":"ליפת","x":73,"y":63},{"label":"כנען","x":44,"y":70}],[{"label":"נח","x":47,"y":59}]],"10":[[{"label":"יפת","x":42,"y":57},{"label":"בני","x":72,"y":69},{"label":"הגוים","x":63,"y":76}],[{"label":"חם","x":43,"y":58},{"label":"כוש","x":59,"y":64},{"label":"וכנען","x":73,"y":66}],[{"label":"נמרד","x":31,"y":55},{"label":"בבל","x":74,"y":48},{"label":"עיר","x":77,"y":45}],[{"label":"וכנען","x":53,"y":55}],[{"label":"שם","x":57,"y":57},{"label":"עבר","x":29,"y":67},{"label":"ארם","x":74,"y":66}],[{"label":"פלג","x":44,"y":56},{"label":"הארץ","x":70,"y":72},{"label":"יקטן","x":23,"y":70}],[{"label":"יקטן","x":36,"y":72},{"label":"הקדם","x":70,"y":51}],[{"label":"שם","x":39,"y":57},{"label":"למשפחתם","x":61,"y":68}],[{"label":"נח","x":29,"y":73},{"label":"הגוים","x":55,"y":73},{"label":"בארץ","x":69,"y":79}]]};
+
+let bubblesVisible=true, whereOpen=true, whereIndex=0, whereAnswered=false, whereOrder=[], whereSolved=new Set();
+function currentLandmarks(){return book==='בראשית'?(bubbleEdits[chapter]?.[ideaIndex]||(GENESIS_LANDMARKS[chapter]||[])[ideaIndex]||[]):[]}
+function toggleBubbles(){bubblesVisible=!bubblesVisible;render()}
+function whereQuestions(){const points=currentLandmarks();return whereOrder.map(i=>({...points[i],index:i})).filter(p=>String(p.label||'').trim())}
+function resetWhereForIdea(){
+ whereOpen=true;whereIndex=0;whereAnswered=false;whereSolved.clear();
+ whereOrder=currentLandmarks().map((p,i)=>String(p.label||'').trim()?i:-1).filter(i=>i>=0);
+ for(let i=whereOrder.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[whereOrder[i],whereOrder[j]]=[whereOrder[j],whereOrder[i]]}
+ bubblesVisible=true;
+ if(whereOrder.length){questionsAsked++;updateAnswerCounters()}
+}
+function nextWhere(){stopKaraoke();whereIndex++;whereAnswered=false;if(whereIndex<whereOrder.length){questionsAsked++;updateAnswerCounters()}render()}
+function wordDistance(a,b){
+ const row=Array.from({length:b.length+1},(_,i)=>i);
+ for(let i=1;i<=a.length;i++){
+  let prev=row[0];row[0]=i;
+  for(let j=1;j<=b.length;j++){
+   const old=row[j];row[j]=Math.min(row[j]+1,row[j-1]+1,prev+(a[i-1]===b[j-1]?0:1));prev=old;
+  }
+ }
+ return row[b.length];
+}
+function wordScore(target,spoken){
+ if(target===spoken)return 0;
+ const skeleton=x=>x.replace(/[וי]/g,'');
+ const variants=x=>{
+  const out=[x];
+  if(/^[ובלמהכש]/.test(x)&&x.length>3)out.push(x.slice(1));
+  if(/^(מה|וה|ול|וב|ומ|וכ|לה|בה|כה)/.test(x)&&x.length>4)out.push(x.slice(2));
+  return out;
+ };
+ for(const t of variants(target))for(const w of variants(spoken)){
+  if(t.length<3||w.length<3)continue;
+  if(t===w)return t===target&&w===spoken?0:0.12;
+  if(skeleton(t)===skeleton(w) && skeleton(t).length>=3)return 0.25;
+ }
+ if(target.length<4 || spoken.length<4)return Infinity;
+ const distance=wordDistance(target,spoken);
+ return distance===1 && Math.abs(target.length-spoken.length)<=1?1.4:Infinity;
+}
+function findTimedAnswer(label){
+ const rd=readalong;if(!Array.isArray(rd?.words))return null;
+ const targets=String(label||'').split(/[\s,،;־]+/).map(normKaraokeWord).filter(x=>x.length>=3&&!['לחץ','כאן','ועוד'].includes(x));
+ if(!targets.length)return null;
+ const idea=ideas[ideaIndex]||{},start=Math.max(1,Number(idea.start||idea.start_verse||1));
+ const end=Math.max(start,Number(idea.end||idea.end_verse||start));
+ let verse=1,best=null,bestScore=Infinity;
+ for(const word of rd.words){
+  const spoken=normKaraokeWord(word.hebrew||word.h);
+  if(verse>=start && verse<=end && spoken && Number.isFinite(Number(word.start)) && Number.isFinite(Number(word.end))){
+   for(let i=0;i<targets.length;i++){
+    const score=wordScore(targets[i],spoken)+i*0.01;
+    if(score<bestScore){best=word;bestScore=score}
+   }
+  }
+  if(String(word.hebrew||word.h||'').includes('׃'))verse++;
+ }
+ return bestScore<Infinity?best:null;
+}
+function playAnswerWord(label){
+ const word=findTimedAnswer(label),audio=$('karaokeAudio');
+ const audioUrl=readalong?.audio_url || data?.audio_he_url || (/^t\d{4}$/.test(String(readalong?.audio_code||''))?`https://mechon-mamre.org/mp3/${readalong.audio_code}.mp3`:'');
+ if(!word||!audio||!audioUrl)return;
+ stopKaraoke();
+ const start=Math.max(0,Number(word.start)-1),end=Number(word.end)+1;
+ karaokeStopAt=end;
+ if(audio.src!==audioUrl)audio.src=audioUrl;
+ const seek=()=>{try{audio.currentTime=start}catch(e){}};
+ if(audio.readyState>=1)seek();
+ else audio.onloadedmetadata=()=>{audio.onloadedmetadata=null;seek();audio.play().catch(()=>{})};
+ // Calling play inside the tap also permits playback in Android Chrome.
+ audio.play().catch(()=>{const msg=$('whereFeedback');if(msg)msg.textContent=ui('התשובה נכונה; ההקלטה לא נפתחה בדפדפן.','Correct answer; the browser could not open the recording.')});
+}
+let correctAnswers=0,wrongAnswers=0,questionsAsked=0;
+function updateAnswerCounters(){
+ $('correctCount').textContent=correctAnswers;
+ $('wrongCount').textContent=wrongAnswers;
+ $('totalCount').textContent=questionsAsked;
+ $('percentCount').textContent=(questionsAsked?Math.round(100*correctAnswers/questionsAsked):0)+'%';
+}
+let feedbackAudioContext=null;
+function playFeedbackTone(correct){
+ try{
+  const AudioContextClass=window.AudioContext||window.webkitAudioContext;
+  if(!AudioContextClass)return;
+  const ctx=feedbackAudioContext||(feedbackAudioContext=new AudioContextClass());
+  if(ctx.state==='suspended')ctx.resume().catch(()=>{});
+  const notes=correct?[[523,0],[784,0.12]]:[[260,0],[195,0.12]];
+  notes.forEach(([frequency,delay])=>{
+   const start=ctx.currentTime+delay,osc=ctx.createOscillator(),gain=ctx.createGain();
+   osc.type=correct?'sine':'triangle';osc.frequency.setValueAtTime(frequency,start);
+   gain.gain.setValueAtTime(0.0001,start);
+   gain.gain.exponentialRampToValueAtTime(correct?0.08:0.065,start+0.018);
+   gain.gain.exponentialRampToValueAtTime(0.0001,start+0.11);
+   osc.connect(gain).connect(ctx.destination);osc.start(start);osc.stop(start+0.12);
+  });
+ }catch(e){}
+}
+function wherePick(index){
+ if(!whereOpen)return;
+ const point=currentLandmarks()[index];
+ if(whereSolved.has(index)){playAnswerWord(point?.label);return}
+ if(whereAnswered)return;
+ const q=whereQuestions()[whereIndex];if(!q)return;
+ const pin=document.querySelector(`.landmarkBubble[data-index="${index}"]`);
+ if(index!==q.index){
+  pin?.classList.add('wrong');
+  const msg=$('whereFeedback');if(msg){msg.textContent=ui('❌ נסה שוב','❌ Try again');msg.className='incorrectFeedback'}
+  wrongAnswers++;updateAnswerCounters();playFeedbackTone(false);return;
+ }
+ whereAnswered=true;whereSolved.add(index);pin?.classList.remove('wrong');pin?.classList.add('correct');
+ const msg=$('whereFeedback');if(msg){msg.textContent=ui('✅ נכון! ','✅ Correct! ')+labelText(q);msg.className='correctFeedback';$('whereNext').hidden=false}
+ correctAnswers++;updateAnswerCounters();playFeedbackTone(true);
+ const answerChapter=chapter,answerIdea=ideaIndex;
+ setTimeout(()=>{if(chapter===answerChapter&&ideaIndex===answerIdea)playAnswerWord(q.label)},280);
+}
+function updateWherePrompt(){if(!whereOpen)return;const q=whereQuestions()[whereIndex],prompt=$('wherePrompt');if(!prompt)return;if(!q){prompt.textContent=ui('סיימת את כל השאלות ברעיון הזה.','You finished all the questions for this idea.');$('whereNext').hidden=true;return}prompt.textContent=questionText(q);$('whereCounter').textContent=`${whereIndex+1} / ${whereQuestions().length}`}
+function positionWherePoints(){
+ const st=$('stage'),pic=$('picture');if(!st||!pic||!pic.naturalWidth)return;
+ const sr=st.getBoundingClientRect(),er=pic.getBoundingClientRect(),nr=pic.naturalWidth/pic.naturalHeight,ar=er.width/er.height;
+ let vw,vh,vl,vt;if(nr>ar){vw=er.width;vh=vw/nr;vl=er.left;vt=er.top+(er.height-vh)/2}else{vh=er.height;vw=vh*nr;vt=er.top;vl=er.left+(er.width-vw)/2}
+ document.querySelectorAll('.landmarkBubble').forEach(btn=>{let x=vl+Number(btn.dataset.x)/100*vw,y=vt+Number(btn.dataset.y)/100*vh;btn.style.left=(x-sr.left)+'px';btn.style.top=(y-sr.top)+'px'});
+}
+function render(){
+ const it=ideas[ideaIndex], img=imageFor(it), text=extractText(it);
+ // Verse counter from image filenames:
+ // current image gives its verse range; last image gives the chapter's final verse.
+ {
+   const fileName=decodeURIComponent(String(img||'')).split('/').pop()||'';
+   let mm=fileName.match(/_v(\d+)-(\d+)/i);
+   let v1='',v2='';
+
+   if(mm){
+     v1=mm[1]; v2=mm[2];
+   }else{
+     // idea_01 has no verse suffix: infer 1..(next image start - 1)
+     const ni=ideas[ideaIndex+1];
+     const nextName=ni ? decodeURIComponent(String(imageFor(ni)||'')).split('/').pop() : '';
+     const nn=nextName.match(/_v(\d+)-(\d+)/i);
+     if(nn){v1='1';v2=String(Math.max(1,Number(nn[1])-1));}
+   }
+
+   let totalVerses='';
+   const lastIt=ideas[ideas.length-1];
+   const lastName=lastIt ? decodeURIComponent(String(imageFor(lastIt)||'')).split('/').pop() : '';
+   const lm=lastName.match(/_v(\d+)-(\d+)/i);
+   if(lm) totalVerses=lm[2];
+
+   const currentRange=v1 ? (v1===v2 ? v1 : `${v1}–${v2}`) : '';
+   // Keep the range visually in Hebrew order: current verse/range, then total chapter verses.
+   $('where').innerHTML=`${bookTitle()}-${chapter} <span class="verseRangeTop" dir="ltr">${currentRange}${totalVerses?'/'+totalVerses:''}</span>`;
+ }
+ $('stage').innerHTML=
+ `${img?`<img id="picture" src="${img}" onerror="if(!this.dataset.try){this.dataset.try='png';this.src=this.src.replace(/\.jpg$/i,'.png')}
+else if(this.dataset.try==='png'){this.dataset.try='jpeg';this.src=this.src.replace(/\.png$/i,'.jpeg')}
+else if(this.dataset.try==='jpeg'){this.dataset.try='webp';this.src=this.src.replace(/\.jpeg$/i,'.webp')}
+else{this.style.display='none'}">`:`<div class="empty">${ui('אין תמונה','No image')}</div>`}
+ ${(()=>{const points=currentLandmarks();return `${points.map((p,i)=>`<span class="landmarkBubble${whereSolved.has(i)?' correct':''}" data-index="${i}" data-x="${p.x}" data-y="${p.y}" onclick="if(whereOpen)event.stopPropagation();wherePick(${i})">${escHtml(labelText(p))}</span>`).join('')}<div id="wherePromptBox"><span id="whereCounter"></span><strong id="wherePrompt"></strong><span id="whereFeedback"></span><button id="whereNext" type="button" hidden onclick="event.stopPropagation();nextWhere()">${ui('הבא ▶','Next ▶')}</button></div>`})()}
+ <div id="verseOverlay">
+   <div class="overlayIdea">${escHtml((inEnglish()?(it.title_en||it.idea_en):null)||it.idea||'')}</div>
+   <div class="overlayVerses">${text||`<span style="color:#c9b77d">${ui('לא נמצא הסבר לרעיון זה','No explanation found for this idea')}</span>`}</div>
+ </div>
+ <div class="content">
+ </div>`;
+ $('stage').classList.toggle('bubbleOn',bubblesVisible);
+ if(whereOpen){$('stage').classList.add('whereActive');updateWherePrompt()}else $('stage').classList.remove('whereActive');
+ // Always position the newly-created question markers after every render.
+ const renderedPic=$('picture');
+ if(renderedPic){
+   const placeMarkers=()=>{
+     requestAnimationFrame(positionWherePoints);
+     setTimeout(positionWherePoints,60);
+     setTimeout(positionWherePoints,180);
+   };
+   if(renderedPic.complete && renderedPic.naturalWidth) placeMarkers();
+   renderedPic.addEventListener('load',placeMarkers,{once:true});
+ }
+ const ov=$('verseOverlay');
+ if(ov) ov.classList.add('open');
+ applyLanguage();
+}
+function move(d){
+ stopKaraoke();
+ if(!ideas.length)return;
+ const n=ideaIndex+d;
+ if(n>=0&&n<ideas.length){bubbleSelected=-1;ideaIndex=n;resetWhereForIdea();render();return}
+ const c=chapter+d;
+ if(c>=1&&c<=BOOKS[book]){chapter=c;loadChapter()}
+}
+$('karaokeAudio').ontimeupdate=updateKaraoke;
+$('karaokeAudio').onended=stopKaraoke;
+$('prev').onclick=()=>move(-1);
+$('next').onclick=()=>move(1);
+
+let bubbleEditing=false,bubbleSelected=-1;
+let bubbleEdits={};
+
+applyLanguage();loadChapter();
+window.addEventListener('resize',()=>requestAnimationFrame(positionWherePoints));
+window.addEventListener('orientationchange',()=>setTimeout(positionWherePoints,180));
+</script>
+
+
+<style>
+.nav{gap:6px!important;padding-left:6px!important;padding-right:6px!important}
+.nav button,.nav .versesToggle{min-width:0!important;flex:1 1 0!important;padding-left:5px!important;padding-right:5px!important}
+@media(max-width:600px){.nav button,.nav .versesToggle{width:auto!important;font-size:15px!important}}
+</style>
+
+<style>#whereHit,#whereQuizMsg{display:none!important}</style>
+
+<style>
+#whereScore{font-size:22px!important;}
+@media(max-width:600px){#whereScore{font-size:20px!important;}}
+</style>
+
+<style>
+#whereQuizBtn{width:min(92vw,920px)!important;max-width:min(92vw,920px)!important;white-space:normal!important;overflow-y:auto!important;max-height:24vh!important;line-height:1.28!important;padding:7px 12px!important;font-size:clamp(15px,2.2vw,20px)!important;direction:rtl;text-align:center}
+.whereAnswerShelf{display:none;min-height:48px;background:#171006;border-top:1px solid #8b650e;padding:8px;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap;direction:rtl}
+.stage.whereQuizOn .whereAnswerShelf{display:flex}
+.whereAnswerShelf .wherePoint{position:static!important;transform:none!important;display:block!important;width:auto!important;min-width:65px!important;height:auto!important;min-height:37px!important;padding:5px 12px!important;border-radius:12px!important;font-size:17px!important;line-height:1.2!important;color:#ffe78a!important}
+.whereAnswerShelf .wherePoint::before{display:none!important}
+.whereAnswerShelf .wherePoint.correct{color:white!important}
+@media(max-width:600px){#whereQuizBtn{max-height:22vh!important;font-size:15px!important}.whereAnswerShelf .wherePoint{font-size:15px!important;min-height:40px!important}}
+</style>
+
+
+</body></html>
