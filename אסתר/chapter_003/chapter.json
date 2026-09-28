@@ -1,0 +1,348 @@
+{
+  "book": "Esther",
+  "book_he": "אסתר",
+  "book_chapters": 10,
+  "chapter": 3,
+  "title": "אסתר פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3303.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3303.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EST/3-262bb4697747403b8f7e3ccbf843886a.mp3?version_id=1",
+  "verses": [
+    "אַחַר הַדְּבָרִים הָאֵלֶּה, גִּדַּל הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ אֶת-הָמָן בֶּן-הַמְּדָתָא הָאֲגָגִי--וַיְנַשְּׂאֵהוּ; וַיָּשֶׂם, אֶת-כִּסְאוֹ, מֵעַל, כָּל-הַשָּׂרִים אֲשֶׁר אִתּוֹ.",
+    "וְכָל-עַבְדֵי הַמֶּלֶךְ אֲשֶׁר-בְּשַׁעַר הַמֶּלֶךְ, כֹּרְעִים וּמִשְׁתַּחֲוִים לְהָמָן--כִּי-כֵן, צִוָּה-לוֹ הַמֶּלֶךְ; וּמָרְדֳּכַי--לֹא יִכְרַע, וְלֹא יִשְׁתַּחֲוֶה.",
+    "וַיֹּאמְרוּ עַבְדֵי הַמֶּלֶךְ, אֲשֶׁר-בְּשַׁעַר הַמֶּלֶךְ--לְמָרְדֳּכָי: מַדּוּעַ אַתָּה עוֹבֵר, אֵת מִצְוַת הַמֶּלֶךְ.",
+    "וַיְהִי, באמרם כְּאָמְרָם אֵלָיו יוֹם וָיוֹם, וְלֹא שָׁמַע, אֲלֵיהֶם; וַיַּגִּידוּ לְהָמָן, לִרְאוֹת הֲיַעַמְדוּ דִּבְרֵי מָרְדֳּכַי--כִּי-הִגִּיד לָהֶם, אֲשֶׁר-הוּא יְהוּדִי.",
+    "וַיַּרְא הָמָן--כִּי-אֵין מָרְדֳּכַי, כֹּרֵעַ וּמִשְׁתַּחֲוֶה לוֹ; וַיִּמָּלֵא הָמָן, חֵמָה.",
+    "וַיִּבֶז בְּעֵינָיו, לִשְׁלֹחַ יָד בְּמָרְדֳּכַי לְבַדּוֹ--כִּי-הִגִּידוּ לוֹ, אֶת-עַם מָרְדֳּכָי; וַיְבַקֵּשׁ הָמָן, לְהַשְׁמִיד אֶת-כָּל-הַיְּהוּדִים אֲשֶׁר בְּכָל-מַלְכוּת אֲחַשְׁוֵרוֹשׁ--עַם מָרְדֳּכָי.",
+    "בַּחֹדֶשׁ הָרִאשׁוֹן, הוּא-חֹדֶשׁ נִיסָן, בִּשְׁנַת שְׁתֵּים עֶשְׂרֵה, לַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ: הִפִּיל פּוּר הוּא הַגּוֹרָל לִפְנֵי הָמָן, מִיּוֹם לְיוֹם וּמֵחֹדֶשׁ לְחֹדֶשׁ שְׁנֵים-עָשָׂר--הוּא-חֹדֶשׁ אֲדָר.",
+    "וַיֹּאמֶר הָמָן, לַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ--יֶשְׁנוֹ עַם-אֶחָד מְפֻזָּר וּמְפֹרָד בֵּין הָעַמִּים, בְּכֹל מְדִינוֹת מַלְכוּתֶךָ; וְדָתֵיהֶם שֹׁנוֹת מִכָּל-עָם, וְאֶת-דָּתֵי הַמֶּלֶךְ אֵינָם עֹשִׂים, וְלַמֶּלֶךְ אֵין-שֹׁוֶה, לְהַנִּיחָם.",
+    "אִם-עַל-הַמֶּלֶךְ טוֹב, יִכָּתֵב לְאַבְּדָם; וַעֲשֶׂרֶת אֲלָפִים כִּכַּר-כֶּסֶף, אֶשְׁקוֹל עַל-יְדֵי עֹשֵׂי הַמְּלָאכָה, לְהָבִיא, אֶל-גִּנְזֵי הַמֶּלֶךְ.",
+    "וַיָּסַר הַמֶּלֶךְ אֶת-טַבַּעְתּוֹ, מֵעַל יָדוֹ; וַיִּתְּנָהּ, לְהָמָן בֶּן-הַמְּדָתָא הָאֲגָגִי--צֹרֵר הַיְּהוּדִים.",
+    "וַיֹּאמֶר הַמֶּלֶךְ לְהָמָן, הַכֶּסֶף נָתוּן לָךְ; וְהָעָם, לַעֲשׂוֹת בּוֹ כַּטּוֹב בְּעֵינֶיךָ.",
+    "וַיִּקָּרְאוּ סֹפְרֵי הַמֶּלֶךְ בַּחֹדֶשׁ הָרִאשׁוֹן, בִּשְׁלוֹשָׁה עָשָׂר יוֹם בּוֹ, וַיִּכָּתֵב כְּכָל-אֲשֶׁר-צִוָּה הָמָן אֶל אֲחַשְׁדַּרְפְּנֵי-הַמֶּלֶךְ וְאֶל-הַפַּחוֹת אֲשֶׁר עַל-מְדִינָה וּמְדִינָה וְאֶל-שָׂרֵי עַם וָעָם, מְדִינָה וּמְדִינָה כִּכְתָבָהּ וְעַם וָעָם כִּלְשׁוֹנוֹ: בְּשֵׁם הַמֶּלֶךְ אֲחַשְׁוֵרֹשׁ נִכְתָּב, וְנֶחְתָּם בְּטַבַּעַת הַמֶּלֶךְ.",
+    "וְנִשְׁלוֹחַ סְפָרִים בְּיַד הָרָצִים, אֶל-כָּל-מְדִינוֹת הַמֶּלֶךְ--לְהַשְׁמִיד לַהֲרֹג וּלְאַבֵּד אֶת-כָּל-הַיְּהוּדִים מִנַּעַר וְעַד-זָקֵן טַף וְנָשִׁים בְּיוֹם אֶחָד, בִּשְׁלוֹשָׁה עָשָׂר לְחֹדֶשׁ שְׁנֵים-עָשָׂר הוּא-חֹדֶשׁ אֲדָר; וּשְׁלָלָם, לָבוֹז.",
+    "פַּתְשֶׁגֶן הַכְּתָב, לְהִנָּתֵן דָּת בְּכָל-מְדִינָה וּמְדִינָה, גָּלוּי, לְכָל-הָעַמִּים--לִהְיוֹת עֲתִדִים, לַיּוֹם הַזֶּה.",
+    "הָרָצִים יָצְאוּ דְחוּפִים, בִּדְבַר הַמֶּלֶךְ, וְהַדָּת נִתְּנָה, בְּשׁוּשַׁן הַבִּירָה; וְהַמֶּלֶךְ וְהָמָן יָשְׁבוּ לִשְׁתּוֹת, וְהָעִיר שׁוּשָׁן נָבוֹכָה."
+  ],
+  "english": [
+    "After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that\nwere with him.",
+    "And all the king’s servants, that\nwere in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did\nhim reverence.",
+    "Then the king’s servants, which\nwere in the king’s gate, said unto Mordecai, Why transgressest thou the king’s commandment?",
+    "Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he\nwas a Jew.",
+    "And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.",
+    "And he thought scorn to lay hands on Mordecai alone; for they had shewed him the people of Mordecai: wherefore Haman sought to destroy all the Jews that\nwere throughout the whole kingdom of Ahasuerus,\neven\n the people of Mordecai.",
+    "In the first month, that\nis, the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that\nis, the lot, before Haman from day to day, and from month to month,\nto the twelfth\nmonth, that\nis, the month Adar.",
+    "And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the people in all the provinces of thy kingdom; and their laws\nare diverse from all people; neither keep they the king’s laws: therefore it\nis not for the king’s profit to suffer them.",
+    "If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring\nit into the king’s treasuries.",
+    "And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews’ enemy.",
+    "And the king said unto Haman, The silver\nis given to thee, the people also, to do with them as it seemeth good to thee.",
+    "Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that\nwere over every province, and to the rulers of every people of every province according to the writing thereof, and\nto every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring.",
+    "And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day,\neven upon the thirteenth\nday\n of the twelfth month, which\nis the month Adar, and\nto take the spoil of them for a prey.",
+    "The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day.",
+    "The posts went out, being hastened by the king’s commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed."
+  ],
+  "steinsaltz": [
+    "אַחַר הַדְּבָרִים הָאֵלֶּה – מינוי אסתר ומזימת בגתן ותרש גִּדַּל הַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ בין שריו אֶת־הָמָן בֶּן־הַמְּדָתָא הָאֲגָגִי, כנראה מזרע אגג מלך עמלקי. ייתכן ששינה את שמו העמלקי המקורי ואימץ שם בעל צליל פרסי. וַיְנַשְּׂאֵהוּ, העלה את מעמדו וַיָּשֶׂם אֶת־כִּסְאוֹ מֵעַל כָּל־הַשָּׂרִים אֲשֶׁר אִתּוֹ. הגבהת מעמדו של שר מן השרים והפיכתו למקורבו של המלך ידועה גם ממקורות אחרים בני התקופה.",
+    "וְכָל־עַבְדֵי הַמֶּלֶךְ, שריו ומשרתיו אֲשֶׁר־בְּשַׁעַר הַמֶּלֶךְ כֹּרְעִים וּמִשְׁתַּחֲוִים לְהָמָן כִּי־כֵן צִוָּה־ לוֹ, בעבורו הַמֶּלֶךְ. וּמָרְדֳּכַי לֹא יִכְרַע וְלֹא יִשְׁתַּחֲוֶה, מטעם שאינו ידוע.",
+    "וַיֹּאמְרוּ עַבְדֵי הַמֶּלֶךְ אֲשֶׁר־בְּשַׁעַר הַמֶּלֶךְ לְמָרְדֳּכָי: מַדּוּעַ אַתָּה עוֹבֵר אֵת מִצְוַת הַמֶּלֶךְ להשתחוות להמן?",
+    "וַיְהִי כְּאָמְרָם אֵלָיו יוֹם וָיוֹם, וְלֹא שָׁמַע אֲלֵיהֶם, וַיַּגִּידוּ זאת לְהָמָן. ייתכן שהמן לא הבחין בכך מתחילה, שכן עבר לפניו קהל גדול של משתחווים, אבל הנוכחים, שביקשו לעורר מדנים, סיפרו את הדבר להמן כדי לִרְאוֹת הֲיַעַמְדוּ דִּבְרֵי מָרְדֳּכַי, האם יצליח לעמוד מרדכי בהחלטתו שלא להשתחוות להמן, כִּי־הִגִּיד לָהֶם אֲשֶׁר־הוּא יְהוּדִי, ועל כן לא יוכל להשתחוות להמן.",
+    "וַיַּרְא גם הָמָן עצמו כִּי־אֵין מָרְדֳּכַי כֹּרֵעַ וּמִשְׁתַּחֲוֶה לוֹ, וַיִּמָּלֵא הָמָן חֵמָה, זעם על הביזיון הפומבי.",
+    "המן אמור היה להעניש על כך את מרדכי או להיפטר ממנו, אבל – וַיִּבֶז בְּעֵינָיו לִשְׁלֹחַ יָד בְּמָרְדֳּכַי לְבַדּוֹ. הפגיעה האישית במרדכי לא נראתה לו מספקת כִּי־הִגִּידוּ לוֹ אֶת־עַם מָרְדֳּכָי. מכאן שבימים ההם לא היה סימן חיצוני ברור לכול להבחנה בין יהודי לבין מי שאינו יהודי. גם בשמותיהם לא ניכרו היהודים מהנכרים. וַיְבַקֵּשׁ הָמָן לְהַשְׁמִיד אֶת־כָּל־הַיְּהוּדִים אֲשֶׁר בְּכָל־מַלְכוּת אֲחַשְׁוֵרוֹשׁ. למרות עיסוקיו הרבים של המן, שהיה שר בכיר בממלכה אדירה, הוא פיתח אובססיה ליהודים משום שהם עַם מָרְדֳּכָי, ותכנן כיצד להיפטר מהם.",
+    "המן גמר בדעתו להשמיד את היהודים, וזמם כיצד להוציא את תכנית ההשמדה אל הפועל: בַּחֹדֶשׁ הָרִאשׁוֹן הוּא־חֹדֶשׁ נִיסָן, בִּשְׁנַת שְׁתֵּים עֶשְׂרֵה לַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ, הִפִּיל פּוּר – מלה פרסית – הוּא בעברית: הַגּוֹרָל, אמצעי לניחוש או למשחקים, המשמש לקבוע מה טוב או ראוי לעשות, ומהו הזמן הנכון למעשה, לִפְנֵי הָמָן. כנהוג בקרב מלכי קדם שניסו למצוא סימנים לעתיד להיות, לטובה או לרעה. המן רצה לקבוע תאריך מתאים, ולשם כך ערך חישובים והטיל גורלות מִיּוֹם לְיוֹם וּמֵחֹדֶשׁ לְחֹדֶשׁ שְׁנֵים־עָשָׂר הוּא־חֹדֶשׁ אֲדָר. הוא הסיק שבחודש אדר, מן הסתם בשנה הקרובה, תהיה מפלתם של היהודים.",
+    "מכיוון שלהמן לא היה כוח משל עצמו, הוא ביקש להסית את אחשורוש. וַיֹּאמֶר הָמָן לַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ: יֶשְׁנוֹ עַם־אֶחָד מְפֻזָּר וּמְפֹרָד בֵּין הָעַמִּים בְּכֹל מְדִינוֹת מַלְכוּתֶךָ, ואיננו ממלא מדינה שלמה, וְדָתֵיהֶם, חוקיהם, דרכי החיים שלהם שֹׁנוֹת מִכָּל־עָם. חלק ניכר ממצוות התורה אכן מושתת על היבדלות מן הגויים והימנעות היהודים מעבודת אלילים. את חוקיהם שלהם הם שומרים וְאולם אֶת־דָּתֵי הַמֶּלֶךְ אֵינָם עֹשִׂים, וְלַמֶּלֶךְ אֵין־שֹׁוֶה לְהַנִּיחָם. הם עם קטן שאין בו חשיבות, אך זהו גורם מטריד המפר את ההרמוניה, ולכן לא כדאי לך להניח להם.",
+    "אִם־עַל, בעיני הַמֶּלֶךְ טוֹב לשמוע להצעתי, יִכָּתֵב בפקודה רשמית לְאַבְּדָם, להשמיד את היהודים. וַעֲשֶׂרֶת אֲלָפִים כִּכַּר־כֶּסֶף אֶשְׁקוֹל עַל־יְדֵי עֹשֵׂי הַמְּלָאכָה. אתנדב לתת בעצמי עשרת אלפים כיכרות כסף בידי בעלי המלאכה, והם יהפכו אותן למטבעות או למטילי כסף כדי לְהָבִיא אֶל־גִּנְזֵי הַמֶּלֶךְ. התרומה לאוצר המלך נועדה לפצות על הפסד אפשרי הכרוך במעשה שמציע המן. המלך עלול לחשוש מאבדן משלמי המסים כשיושמדו אנשים רבים.",
+    "בהיותו אדיש לגורלם של היהודים, היה אחשורוש כנראה נרגש מהמחווה הנדיבה של השר הראשי. על כן – וַיָּסַר הַמֶּלֶךְ אֶת־טַבַּעְתּוֹ, שבה החותם המלכותי מֵעַל יָדוֹ וַיִּתְּנָהּ לְהָמָן בֶּן־הַמְּדָתָא הָאֲגָגִי צֹרֵר הַיְּהוּדִים. לא הייתה זו הסכמה בעל-פה בלבד, אלא הענקת האישור והסמכות להמן לחתום בפועל בשם המלך.",
+    "וַיֹּאמֶר הַמֶּלֶךְ לְהָמָן: הַכֶּסֶף שהצעת לתת, נָתוּן לָךְ. הוא יישאר בידך. הממלכה תקבל על עצמה את ההפסד. וְאף הָעָם נתון לך לַעֲשׂוֹת בּוֹ כַּטּוֹב בְּעֵינֶיךָ, כרצונך.",
+    "המן פעל במהירות רבה. אם פתח בצעדיו המעשיים בתחילת חודש ניסן, כבר ביום השלושה-עשר בניסן היה הכול מוכן לקראת השלב הבא של תכניתו: וַיִּקָּרְאוּ סֹפְרֵי הַמֶּלֶךְ בַּחֹדֶשׁ הָרִאשׁוֹן בִּשְׁלוֹשָׁה עָשָׂר יוֹם בּוֹ. וַיִּכָּתֵב כְּכָל־אֲשֶׁר־צִוָּה הָמָן אֶל אֲחַשְׁדַּרְפְּנֵי־הַמֶּלֶךְ, מושלי הפרובינציות וְאֶל־הַפַּחוֹת, מושלי האזורים הקטנים יותר, הפחוות אֲשֶׁר עַל־מְדִינָה וּמְדִינָה וְאֶל־שָׂרֵי עַם וָעָם, מְדִינָה וּמְדִינָה כִּכְתָבָהּ וְעַם וָעָם כִּלְשׁוֹנוֹ, בְּשֵׁם הַמֶּלֶךְ אֲחַשְׁוֵרֹשׁ נִכְתָּב מכתב הפקודה וְנֶחְתָּם בְּטַבַּעַת הַמֶּלֶךְ.",
+    "וְנִשְׁלוֹחַ, נשלחו סְפָרִים בְּיַד הָרָצִים אֶל־כָּל־מְדִינוֹת הַמֶּלֶךְ, שבהם נכתב כי המלך מתיר לְהַשְׁמִיד לַהֲרֹג וּלְאַבֵּד אֶת־כָּל־הַיְּהוּדִים מִנַּעַר וְעַד־זָקֵן טַף וְנָשִׁים בְּיוֹם אֶחָד, בִּשְׁלוֹשָׁה עָשָׂר לְחֹדֶשׁ שְׁנֵים־עָשָׂר שהוּא־חֹדֶשׁ אֲדָר. ההוראות נשלחו כמעט שנה לפני המועד, אולי כדי לקבוע עובדות בשטח ככל האפשר וכדי להספיק להגיע לכל מקום ברחבי הממלכה. בגלל אמונתו של המן בפור שלו הוא היה נחוש להיצמד אל התאריך שעלה מן הגורל, שבו יוצאו היהודים מחוץ לחוק, ואז יוּתר דמם ואת שְׁלָלָם, רכושם מותר יהיה לָבוֹז, לבזוז. המלך לא הוציא את ההחלטה אל הפועל בכוח צבאו או משטרתו. הוא הודיע שבתאריך זה תימנע הגנתו של החוק מן היהודים, בהניחו כי בני העמים השונים ינצלו את ההזדמנות לבצע את תכניתו של המן.",
+    "פַּתְשֶׁגֶן, נוסח, העתק הַכְּתָב של הגזרה לְהִנָּתֵן דָּת, חוק בְּכָל־מְדִינָה וּמְדִינָה, גָּלוּי לְכָל־הָעַמִּים לִהְיוֹת עֲתִדִים, מוכנים לַיּוֹם הַזֶּה. אף שכנראה לא בכל פינה נידחת באימפריה הפרסית ישבו יהודים, ההודעה נשלחה לכל המדינות מטעמים בירוקרטיים: הוראתו הכללית של המלך צריכה להגיע לכל מקום.",
+    "הָרָצִים ובידם הגזרה יָצְאוּ דְחוּפִים בִּדְבַר הַמֶּלֶךְ, וְהַדָּת נִתְּנָה בְּשׁוּשַׁן הַבִּירָה. וְהַמֶּלֶךְ וְהָמָן יָשְׁבוּ לִשְׁתּוֹת להצלחת התכנית. מתוך שמחתם במימוש התכנית ערכו אחשורוש והמן משתה קטן. וְהָעִיר שׁוּשָׁן – בעיקר תושביה היהודים, שחיו סביב מרדכי ובקרבתו, נָבוֹכָה בגלל התדהמה מן הגזרה הקשה שהתרגשה לבוא עליהם."
+  ],
+  "ai_explanation": [
+    "לאחר מינוי אסתר ומזימת בגתן ותרש, המלך אחשורוש קידם את המן בן המדתא האגגי והעלה את כיסאו מעל כיסאות השרים האחרים. לפי שטיינזלץ, ייתכן שהמן היה מזרע אגג מלך עמלק ושאימץ שם בעל צליל פרסי.",
+    "כל עבדי המלך שבשער המלך כרעו והשתחוו להמן, מפני שהמלך ציווה זאת לכבודו. מרדכי לא כרע ולא השתחווה, מטעם שאינו ידוע.",
+    "עבדי המלך שאלו את מרדכי מדוע הוא עובר על מצוות המלך ואינו משתחווה להמן.",
+    "העבדים שאלו את מרדכי שוב ושוב, יום אחר יום, והוא לא שמע להם. הם סיפרו זאת להמן כדי לבדוק אם מרדכי יעמוד בהחלטתו, לאחר שהודיע להם שהוא יהודי ולכן אינו יכול להשתחוות להמן.",
+    "המן עצמו הבחין שמרדכי אינו כורע ומשתחווה לו, והתמלא זעם על הביזיון הפומבי.",
+    "המן לא הסתפק בפגיעה במרדכי לבדו, לאחר שנודע לו שמרדכי יהודי. הוא החליט להשמיד את כל היהודים בממלכת אחשורוש, משום שראה בהם את עמו של מרדכי ופיתח כלפיהם אובססיה.",
+    "בחודש ניסן, בשנה השתים עשרה למלכות אחשורוש, הטיל המן פור, כלומר גורל, כדי לקבוע את המועד המתאים לתכניתו. לאחר חישובים והטלות גורל מיום ליום ומחודש לחודש, נקבע חודש אדר כמועד מפלת היהודים.",
+    "המן ניסה להסית את אחשורוש נגד היהודים, אותם תיאר כעם מפוזר ומפורד בעל חוקים שונים משל שאר העמים. הוא טען שהם אינם מקיימים את חוקי המלך ולכן אינם ראויים שיניחו להם.",
+    "המן הציע לכתוב פקודה להשמדת היהודים והתחייב לתת עשרת אלפים כיכרות כסף לאוצר המלך באמצעות בעלי המלאכה. התרומה נועדה לפצות על הפסד אפשרי של מסים בעקבות השמדת אנשים רבים.",
+    "אחשורוש הסיר את טבעתו, שבה היה החותם המלכותי, ומסר אותה להמן. בכך העניק להמן סמכות לחתום בפועל בשם המלך על הגזרה נגד היהודים.",
+    "המלך אמר להמן שהכסף שהציע לתת יישאר בידו, ושהעם נתון לו לעשות בו כרצונו. הממלכה תקבל על עצמה את ההפסד הכרוך בכך.",
+    "ביום השלושה עשר בחודש ניסן נקראו סופרי המלך וכתבו את הגזרה לפי הוראות המן. הפקודה נשלחה למושלי הפרובינציות, למושלים המקומיים ולשרי העמים, בכל מדינה בלשונה, ונחתמה בטבעת המלך.",
+    "ספרי הגזרה נשלחו לכל מדינות המלך, ובהם הוראה להשמיד, להרוג ולאבד את כל היהודים, אנשים, נשים וטף, ביום השלושה עשר בחודש אדר, ולבוז את רכושם. לפי שטיינזלץ, ההוראות נשלחו כמעט שנה מראש כדי להגיע לכל רחבי הממלכה ולקבוע את התאריך שנקבע בגורל.",
+    "העתק הגזרה נועד להתפרסם כחוק בכל מדינה ומדינה, כדי שכל העמים יהיו מוכנים ליום שנקבע. שליחת ההודעה לכל המדינות נעשתה גם מטעמים בירוקרטיים, אף שלא בכל מקום היו יהודים.",
+    "הרצים יצאו במהירות בשליחות המלך, והגזרה ניתנה בשושן הבירה. בזמן שהמלך והמן ישבו לשתות בחגיגת הצלחת התכנית, העיר שושן נבוכה, ובעיקר תושביה היהודים, שנדהמו מן הגזרה הקשה."
+  ],
+  "ai_explanation_en": [
+    "After Esther’s appointment and the plot of Bigthan and Teresh, King Ahasuerus promoted Haman son of Hammedatha and raised his seat above those of the other officials. According to Steinsaltz, Haman may have descended from Agag, king of Amalek, and may have adopted a name with a Persian sound.",
+    "All the king’s servants at the king’s gate bowed and prostrated themselves before Haman because the king had commanded it in his honor. Mordecai did not bow or prostrate himself, for a reason that is not known.",
+    "The king’s servants asked Mordecai why he was violating the king’s command and refusing to bow to Haman.",
+    "The servants questioned Mordecai repeatedly, day after day, but he did not listen to them. They told Haman in order to see whether Mordecai would stand by his decision, after he had told them that he was a Jew and therefore could not bow to Haman.",
+    "Haman himself noticed that Mordecai did not kneel or bow before him, and he became furious at the public humiliation.",
+    "Haman was not satisfied with harming Mordecai alone once he learned that Mordecai was a Jew. He decided to destroy all the Jews in Ahasuerus’s kingdom because he viewed them as Mordecai’s people and developed an obsession with them.",
+    "In the month of Nisan, in the twelfth year of Ahasuerus’s reign, Haman cast a pur, that is, a lot, to determine the appropriate time for his plan. After calculating and casting lots from day to day and month to month, the month of Adar was chosen as the time of the Jews’ downfall.",
+    "Haman tried to incite Ahasuerus against the Jews, whom he described as a scattered people with laws different from those of all other nations. He claimed that they did not observe the king’s laws and therefore should not be allowed to remain undisturbed.",
+    "Haman proposed issuing a decree to destroy the Jews and promised to give ten thousand talents of silver to the royal treasury through the craftsmen. The contribution was meant to compensate for a possible loss of tax revenue resulting from the destruction of many people.",
+    "Ahasuerus removed his ring, which bore the royal seal, and gave it to Haman. In this way, he granted Haman the authority to sign the decree against the Jews in the king’s name.",
+    "The king told Haman that the silver he had offered could remain in his possession, and that the people were given to him to do with as he pleased. The kingdom would bear the resulting loss.",
+    "On the thirteenth day of Nisan, the king’s scribes were summoned and wrote the decree according to Haman’s instructions. It was sent to the provincial governors, local administrators, and officials of the various peoples, in each province’s and people’s language, and was sealed with the king’s ring.",
+    "The written decrees were sent to all the king’s provinces, ordering the destruction, killing, and annihilation of all the Jews—men, women, and children—on the thirteenth day of Adar, and authorizing the plundering of their property. According to Steinsaltz, the orders were sent almost a year in advance so they could reach the entire kingdom and establish the date determined by the lot.",
+    "A copy of the decree was to be publicly issued as law in every province so that all the peoples would be ready for the appointed day. The announcement was sent to every province for bureaucratic reasons as well, even though Jews did not live in every place.",
+    "The couriers left quickly on the king’s orders, and the decree was issued in Susa the capital. While the king and Haman sat drinking to celebrate the plan’s success, the city of Susa was bewildered, especially its Jewish inhabitants, who were shocked by the severe decree."
+  ],
+  "perush": [
+    "לאחר מינוי אסתר ומזימת בגתן ותרש, המלך אחשורוש קידם את המן בן המדתא האגגי והעלה את כיסאו מעל כיסאות השרים האחרים. לפי שטיינזלץ, ייתכן שהמן היה מזרע אגג מלך עמלק ושאימץ שם בעל צליל פרסי.",
+    "כל עבדי המלך שבשער המלך כרעו והשתחוו להמן, מפני שהמלך ציווה זאת לכבודו. מרדכי לא כרע ולא השתחווה, מטעם שאינו ידוע.",
+    "עבדי המלך שאלו את מרדכי מדוע הוא עובר על מצוות המלך ואינו משתחווה להמן.",
+    "העבדים שאלו את מרדכי שוב ושוב, יום אחר יום, והוא לא שמע להם. הם סיפרו זאת להמן כדי לבדוק אם מרדכי יעמוד בהחלטתו, לאחר שהודיע להם שהוא יהודי ולכן אינו יכול להשתחוות להמן.",
+    "המן עצמו הבחין שמרדכי אינו כורע ומשתחווה לו, והתמלא זעם על הביזיון הפומבי.",
+    "המן לא הסתפק בפגיעה במרדכי לבדו, לאחר שנודע לו שמרדכי יהודי. הוא החליט להשמיד את כל היהודים בממלכת אחשורוש, משום שראה בהם את עמו של מרדכי ופיתח כלפיהם אובססיה.",
+    "בחודש ניסן, בשנה השתים עשרה למלכות אחשורוש, הטיל המן פור, כלומר גורל, כדי לקבוע את המועד המתאים לתכניתו. לאחר חישובים והטלות גורל מיום ליום ומחודש לחודש, נקבע חודש אדר כמועד מפלת היהודים.",
+    "המן ניסה להסית את אחשורוש נגד היהודים, אותם תיאר כעם מפוזר ומפורד בעל חוקים שונים משל שאר העמים. הוא טען שהם אינם מקיימים את חוקי המלך ולכן אינם ראויים שיניחו להם.",
+    "המן הציע לכתוב פקודה להשמדת היהודים והתחייב לתת עשרת אלפים כיכרות כסף לאוצר המלך באמצעות בעלי המלאכה. התרומה נועדה לפצות על הפסד אפשרי של מסים בעקבות השמדת אנשים רבים.",
+    "אחשורוש הסיר את טבעתו, שבה היה החותם המלכותי, ומסר אותה להמן. בכך העניק להמן סמכות לחתום בפועל בשם המלך על הגזרה נגד היהודים.",
+    "המלך אמר להמן שהכסף שהציע לתת יישאר בידו, ושהעם נתון לו לעשות בו כרצונו. הממלכה תקבל על עצמה את ההפסד הכרוך בכך.",
+    "ביום השלושה עשר בחודש ניסן נקראו סופרי המלך וכתבו את הגזרה לפי הוראות המן. הפקודה נשלחה למושלי הפרובינציות, למושלים המקומיים ולשרי העמים, בכל מדינה בלשונה, ונחתמה בטבעת המלך.",
+    "ספרי הגזרה נשלחו לכל מדינות המלך, ובהם הוראה להשמיד, להרוג ולאבד את כל היהודים, אנשים, נשים וטף, ביום השלושה עשר בחודש אדר, ולבוז את רכושם. לפי שטיינזלץ, ההוראות נשלחו כמעט שנה מראש כדי להגיע לכל רחבי הממלכה ולקבוע את התאריך שנקבע בגורל.",
+    "העתק הגזרה נועד להתפרסם כחוק בכל מדינה ומדינה, כדי שכל העמים יהיו מוכנים ליום שנקבע. שליחת ההודעה לכל המדינות נעשתה גם מטעמים בירוקרטיים, אף שלא בכל מקום היו יהודים.",
+    "הרצים יצאו במהירות בשליחות המלך, והגזרה ניתנה בשושן הבירה. בזמן שהמלך והמן ישבו לשתות בחגיגת הצלחת התכנית, העיר שושן נבוכה, ובעיקר תושביה היהודים, שנדהמו מן הגזרה הקשה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "קידום המן וסירובו של מרדכי",
+      "title_en": "Haman’s Promotion and Mordecai’s Refusal",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "המן עולה למעמד הגבוה ביותר בין השרים, וכל עבדי המלך מצווים להשתחוות לו. מרדכי מסרב, והמן מתמלא זעם לאחר שהדבר נודע לו.",
+      "summary_en": "Haman is raised above the other officials, and all the king’s servants are commanded to bow before him. Mordecai refuses, and Haman becomes furious when he learns of it.",
+      "image_prompt": "A dignified royal court gate in ancient Susa, officials bowing before Haman while Mordecai stands upright and refuses, with a tense and dramatic atmosphere, no modern objects"
+    },
+    {
+      "title": "מן הפגיעה במרדכי לתכנית נגד היהודים",
+      "title_en": "From Personal Offense to a Plan against the Jews",
+      "start_verse": 6,
+      "end_verse": 7,
+      "summary": "המן אינו מסתפק בפגיעה במרדכי ומחליט להשמיד את כל היהודים. הוא מטיל פור כדי לקבוע את המועד, והגורל מוביל אותו לחודש אדר.",
+      "summary_en": "Haman is not satisfied with attacking Mordecai and decides to destroy all the Jews. He casts lots to determine the date, and the lot points to the month of Adar.",
+      "image_prompt": "Haman in a private chamber casting small lots on a table covered with writing materials, conveying a dangerous plan and the passage of time, ancient Persian setting, no invented symbols"
+    },
+    {
+      "title": "הסתת המלך והצעת המן",
+      "title_en": "Haman’s Appeal to the King",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "המן מציג את היהודים כעם מפוזר בעל חוקים שונים ומציע להשמידם. הוא מציע כסף לאוצר, ואחשורוש מוסר לו את טבעתו ואת הסמכות לעשות בעם כרצונו.",
+      "summary_en": "Haman portrays the Jews as a scattered people with different laws and proposes their destruction. He offers money for the treasury, and Ahasuerus gives him the royal ring and authority to do with the people as he wishes.",
+      "image_prompt": "Haman speaking before King Ahasuerus in a royal audience hall, with a sealed royal ring being handed to Haman, solemn courtly atmosphere, ancient Persian setting, no modern objects"
+    },
+    {
+      "title": "כתיבת הגזרה והפצתה ברחבי הממלכה",
+      "title_en": "Writing and Distributing the Decree",
+      "start_verse": 12,
+      "end_verse": 14,
+      "summary": "סופרי המלך כותבים את הגזרה בשם המלך ובחותמו, והיא נשלחת לכל מדינות הממלכה. הגזרה קובעת את יום השלושה עשר באדר ומורה להשמיד את היהודים ולבוז את רכושם.",
+      "summary_en": "The king’s scribes write the decree in the king’s name and seal it with his ring, sending it throughout the kingdom. The decree sets the thirteenth of Adar and orders the destruction of the Jews and the plundering of their property.",
+      "image_prompt": "Royal scribes writing and sealing official scrolls, couriers preparing to carry them across the empire, detailed ancient Persian administrative setting, no modern objects"
+    },
+    {
+      "title": "יציאת הרצים ותדהמת שושן",
+      "title_en": "The Couriers Depart and Susa Is Shocked",
+      "start_verse": 15,
+      "end_verse": 15,
+      "summary": "הרצים יוצאים במהירות עם הגזרה, והחוק מתפרסם בשושן. המלך והמן שותים בחגיגת הצלחת התכנית, בעוד העיר נבוכה ובעיקר היהודים נדהמים מן הסכנה.",
+      "summary_en": "The couriers leave quickly with the decree, and the law is issued in Susa. The king and Haman drink to celebrate the plan, while the city, especially its Jewish inhabitants, is bewildered and shocked by the danger.",
+      "image_prompt": "Fast couriers leaving a palace in Susa with sealed scrolls while people in the city react with confusion and alarm; the king and Haman visible at a banquet in the background, ancient Persian setting, no modern objects"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 15.06,
+      "usfm": "EST.3.1"
+    },
+    {
+      "start": 15.06,
+      "end": 28.04,
+      "usfm": "EST.3.2"
+    },
+    {
+      "start": 28.04,
+      "end": 35.7,
+      "usfm": "EST.3.3"
+    },
+    {
+      "start": 35.7,
+      "end": 48.7,
+      "usfm": "EST.3.4"
+    },
+    {
+      "start": 48.7,
+      "end": 56.22,
+      "usfm": "EST.3.5"
+    },
+    {
+      "start": 56.22,
+      "end": 70.62,
+      "usfm": "EST.3.6"
+    },
+    {
+      "start": 70.62,
+      "end": 85.5,
+      "usfm": "EST.3.7"
+    },
+    {
+      "start": 85.5,
+      "end": 104.08,
+      "usfm": "EST.3.8"
+    },
+    {
+      "start": 104.08,
+      "end": 117.88,
+      "usfm": "EST.3.9"
+    },
+    {
+      "start": 117.88,
+      "end": 126.66,
+      "usfm": "EST.3.10"
+    },
+    {
+      "start": 126.66,
+      "end": 135.52,
+      "usfm": "EST.3.11"
+    },
+    {
+      "start": 135.52,
+      "end": 162.2,
+      "usfm": "EST.3.12"
+    },
+    {
+      "start": 162.2,
+      "end": 183.42,
+      "usfm": "EST.3.13"
+    },
+    {
+      "start": 183.42,
+      "end": 192.14,
+      "usfm": "EST.3.14"
+    },
+    {
+      "start": 192.14,
+      "end": 212.76,
+      "usfm": "EST.3.15"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.06,
+    28.04,
+    35.7,
+    48.7,
+    56.22,
+    70.62,
+    85.5,
+    104.08,
+    117.88,
+    126.66,
+    135.52,
+    162.2,
+    183.42,
+    192.14,
+    212.76
+  ],
+  "times_en_usfm": [
+    "EST.3.1",
+    "EST.3.2",
+    "EST.3.3",
+    "EST.3.4",
+    "EST.3.5",
+    "EST.3.6",
+    "EST.3.7",
+    "EST.3.8",
+    "EST.3.9",
+    "EST.3.10",
+    "EST.3.11",
+    "EST.3.12",
+    "EST.3.13",
+    "EST.3.14",
+    "EST.3.15"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? אחשוורוש קידם את המן בן המדתא האגגי והציב את כיסאו מעל כל השרים שהיו עמו.",
+      "text_he": "הידעת? אחשוורוש קידם את המן בן המדתא האגגי והציב את כיסאו מעל כל השרים שהיו עמו.",
+      "text_en": "Did you know? King Ahasuerus promoted Haman son of Hammedatha the Agagite and elevated him above all the officials who served with him."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? עבדי המלך בשער המלך נצטוו לכרוע ולהשתחוות להמן, אך מרדכי סירב לקיים את הצו.",
+      "text_he": "הידעת? עבדי המלך בשער המלך נצטוו לכרוע ולהשתחוות להמן, אך מרדכי סירב לקיים את הצו.",
+      "text_en": "Did you know? The king’s servants at the royal gate were commanded to kneel and bow down to Haman, but Mordecai refused to obey the order."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? לאחר שעבדי המלך שאלו את מרדכי שוב ושוב מדוע אינו מציית, הם הודיעו להמן שמרדכי יהודי.",
+      "text_he": "הידעת? לאחר שעבדי המלך שאלו את מרדכי שוב ושוב מדוע אינו מציית, הם הודיעו להמן שמרדכי יהודי.",
+      "text_en": "Did you know? After the king’s servants repeatedly asked Mordecai why he would not obey, they told Haman that Mordecai was a Jew."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? המן לא הסתפק בפגיעה במרדכי בלבד, אלא ביקש להשמיד את כל היהודים בממלכת אחשוורוש.",
+      "text_he": "הידעת? המן לא הסתפק בפגיעה במרדכי בלבד, אלא ביקש להשמיד את כל היהודים בממלכת אחשוורוש.",
+      "text_en": "Did you know? Haman was not satisfied with harming Mordecai alone; he sought to destroy all the Jews throughout the kingdom of Ahasuerus."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? המן הפיל פור, כלומר גורל, בניסן בשנת שתים־עשרה למלכות אחשוורוש; הגורל קבע את חודש אדר, החודש השנים־עשר.",
+      "text_he": "הידעת? המן הפיל פור, כלומר גורל, בניסן בשנת שתים־עשרה למלכות אחשוורוש; הגורל קבע את חודש אדר, החודש השנים־עשר.",
+      "text_en": "Did you know? Haman cast the pur—that is, the lot—in the month of Nisan, in the twelfth year of King Ahasuerus’s reign. The lot fell on the month of Adar, the twelfth month."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? המן תיאר את היהודים כעם מפוזר ומפורד, בעל חוקים שונים, וטען שהם אינם מקיימים את דתי המלך.",
+      "text_he": "הידעת? המן תיאר את היהודים כעם מפוזר ומפורד, בעל חוקים שונים, וטען שהם אינם מקיימים את דתי המלך.",
+      "text_en": "Did you know? Haman described the Jews as a scattered and separate people with different laws, claiming that they did not obey the king’s laws."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? המן הציע לשקול עשרת אלפים כיכר כסף אל גנזי המלך, אם תינתן הסכמה להשמיד את היהודים.",
+      "text_he": "הידעת? המן הציע לשקול עשרת אלפים כיכר כסף אל גנזי המלך, אם תינתן הסכמה להשמיד את היהודים.",
+      "text_en": "Did you know? Haman offered to pay ten thousand talents of silver into the royal treasury if permission was granted to destroy the Jews."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? אחשוורוש מסר להמן את טבעתו, ובכך העניק לו את הסמכות לפעול בשם המלך.",
+      "text_he": "הידעת? אחשוורוש מסר להמן את טבעתו, ובכך העניק לו את הסמכות לפעול בשם המלך.",
+      "text_en": "Did you know? Ahasuerus gave Haman his signet ring, thereby granting him authority to act in the king’s name."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? הגזרה נכתבה בשלושה עשר בניסן, בשם המלך ובחותמו, ונשלחה אל פקידי הממלכה בשפות הכתיבה של העמים השונים.",
+      "text_he": "הידעת? הגזרה נכתבה בשלושה עשר בניסן, בשם המלך ובחותמו, ונשלחה אל פקידי הממלכה בשפות הכתיבה של העמים השונים.",
+      "text_en": "Did you know? The decree was written on the thirteenth day of Nisan in the king’s name and sealed with his signet ring, then sent to the officials of the empire in the writing and language of each people."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הגזרה קבעה תאריך אחיד בכל הממלכה — שלושה עשר באדר — וציוותה להרוג את כל היהודים, מנער ועד זקן, טף ונשים, ולבוז את רכושם.",
+      "text_he": "הידעת? הגזרה קבעה תאריך אחיד בכל הממלכה — שלושה עשר באדר — וציוותה להרוג את כל היהודים, מנער ועד זקן, טף ונשים, ולבוז את רכושם.",
+      "text_en": "Did you know? The decree set the same date throughout the empire—the thirteenth day of Adar—and ordered the Jews to be killed, young and old, children and women, and their possessions to be plundered."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? הרצים יצאו במהירות להפיץ את הגזרה, והמלך והמן ישבו לשתות בעוד העיר שושן נבוכה.",
+      "text_he": "הידעת? הרצים יצאו במהירות להפיץ את הגזרה, והמלך והמן ישבו לשתות בעוד העיר שושן נבוכה.",
+      "text_en": "Did you know? The couriers set out quickly to spread the decree, while the king and Haman sat down to drink, and the city of Susa was thrown into confusion."
+    }
+  ]
+}
