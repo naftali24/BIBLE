@@ -55,87 +55,96 @@
     "ונוסף על כך, לְךָ, אֲדֹנָי, חָסֶד, אתה הוא הנותן והמשפיע לעולם, כִּי אַתָּה תְשַׁלֵּם לְאִישׁ כְּמַעֲשֵׂהוּ, אם רע ואם טוב."
   ],
   "ai_explanation": [
-    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון שחיבר ידותון, שהיה מראשי המשוררים במקדש; ייתכן ש״ידותון״ הוא גם כינוי לכלי נגינה שיוחס לו.",
-    "הנפש שותקת בהקשבה ובציפייה רק אל האלוהים, משום שממנו תבוא הישועה.",
-    "האלוהים לבדו הוא הסלע, התוקף, הישועה והמעוז של הדובר, ולכן הוא לא יתמוטט בעת צרה גדולה, או לא יתמוטט הרבה.",
-    "הדובר פונה לרשעים ושואל עד מתי יתנפלו או יאיימו על אדם ויהיו כולם כרוצחים, בפועל או ברצון. מסוכן להיות במחיצתם, כמו ליד קיר נטוי או גדר הדחויה ועומדת ליפול.",
-    "השונאים מנסים להפיל אדם לאחר שהתנשא ועלה לגדולה. כאשר אינם יכולים להילחם בו בגלוי, הם בוחרים בשקרים: בפיהם הם מברכים, אך בקרבם מקללים.",
-    "הנפש נקראת שוב לשתוק, לעמוד ולצפות רק אל האלוהים, מפני שממנו באה התקווה.",
-    "האלוהים לבדו הוא הסלע, הישועה והמעוז של הדובר, ובזכותו הוא לא יתמוטט.",
-    "בגלל האלוהים יש לדובר ישועה וכבוד; האלוהים הוא המושיע, המעניק לו חיים ומקום בעולם, והוא מקור כוחו ומחסו.",
-    "העם נקרא לבטוח באלוהים בכל עת ולשפוך לפניו את הלב, כלומר לספר לו את המציק, מפני שרק הוא המחסה.",
-    "בני האדם חולפים ואין לבטוח בהם; הם שווא ושקר. כאשר שוקלים את כולם יחד, הם קלים אפילו מהבל.",
-    "אין לבטוח בעושק ובגזל או לבנות עליהם את החיים, משום שהם הבל ואי אפשר לסמוך עליהם. גם עושר שנראה כמניב פירות הוא זמני, ועל כן אין לתת לו את הלב.",
-    "דבר האלוהים נתפס כצו עליון, שיש לו שני צדדים: לעשות את רצון ה' ולנהוג בטוב, ולהימנע מן ההפך. תמצית התורה היא לסור מרע ולעשות טוב, מפני שהכוח ביד האלוהים ולכן ראוי שדבריו ינחו את האדם.",
-    "לאלוהים יש חסד, משום שהוא הנותן והמשפיע לעולם, והוא משלם לכל אדם בהתאם למעשיו, לטוב או לרע."
+    "זהו מזמור לדוד, המיועד לניגון שחיבר ידותון, שהיה מראשי המשוררים במקדש; ייתכן שידותון הוא גם כינוי לכלי נגינה.",
+    "נפשו של הדובר שותקת בהקשבה ובציפייה רק אל האלוהים, מפני שממנו תבוא ישועתו.",
+    "רק האלוהים הוא צורו, כוחו, ישועתו ומעוזו, ולכן הוא לא יתמוטט בעת צרה גדולה, או לא יתמוטט לחלוטין.",
+    "הדובר פונה לרשעים ושואל עד מתי יתנפלו או יאיימו על אדם ויהיו כרוצחים. השהייה במחיצתם מסוכנת כמו ליד קיר נטוי או גדר המטה ליפול.",
+    "השונאים מנסים להפיל אדם המתנשא או עולה לגדולה. כשהם אינם יכולים להילחם בו בגלוי, הם משתמשים בשקרים: בפיהם מברכים, אך בקרבם מקללים.",
+    "נפשו של הדובר נקראת שוב לעמוד בציפייה ולהמתין רק לאלוהים, מפני שממנו תקוותה.",
+    "האלוהים לבדו הוא צורו, ישועתו ומעוזו, ובזכותו הדובר לא יתמוטט.",
+    "ישועתו וכבודו של הדובר נובעים מן האלוהים, המושיע אותו, מעניק לו חיים ומקום בעולם, ומשמש לו מקור כוח ומחסה.",
+    "העם נקרא לבטוח באלוהים בכל עת ולספר לפניו את כל המציק לו, מפני שרק הוא המחסה האמיתי.",
+    "בני האדם חולפים ואין לבטוח בהם; הם שווא ושקר, ובשקילה הם קלים אפילו מהבל, כולם יחד.",
+    "אין לבטוח בעושק ובגזל או לבנות עליהם את החיים, משום שהם הבל. גם עושר המניב לכאורה פירות הוא זמני, ועלול להשחית את בעליו ולעבור מן העולם.",
+    "הדובר מסכם את צו האלוהים בשני צדדים: לעשות את רצונו וללכת בדרך הטוב, ולהימנע מן ההפך. לאלוהים יש כוח, ולכן ראוי שדבריו ינחו את האדם.",
+    "לאלוהים יש חסד, מפני שהוא הנותן והמשפיע לעולם, והוא משלם לכל אדם בהתאם למעשיו, לטוב או לרע."
   ],
   "ai_explanation_en": [
-    "The heading states that the psalm is for the leader, set to a melody composed by Jeduthun, one of the chief singers in the Temple; alternatively, “Jeduthun” may be a name for a musical instrument associated with him.",
-    "The soul remains silent in attentive expectation only before God, because salvation comes from Him.",
-    "God alone is the speaker’s rock, strength, salvation, and stronghold; therefore he will not collapse in great trouble, or will not collapse greatly.",
-    "The speaker addresses the wicked and asks how long they will attack or threaten a person and all be like murderers, either in action or in intention. Being near them is dangerous, like being beside a leaning wall or a pushed-over fence about to fall.",
-    "The enemies seek to bring down a person after he has become proud and risen to greatness. When they cannot fight him openly, they choose lies: they bless with their mouths but curse inwardly.",
-    "The soul is again called to remain silent, stand, and wait only for God, because hope comes from Him.",
-    "God alone is the speaker’s rock, salvation, and stronghold, and through Him the speaker will not collapse.",
-    "Because of God, the speaker has salvation and honor; God saves him, grants him life and a place in the world, and is the source of his strength and refuge.",
-    "The people are called to trust God at all times and pour out their hearts before Him—to tell Him what troubles them—because He alone is their refuge.",
-    "Human beings pass away and cannot be trusted; they are vanity and falsehood. When weighed together, they are lighter than vanity itself.",
-    "One should not trust in oppression or robbery, or build life upon them, because they are vanity and unreliable. Even wealth that appears to produce results is temporary, so one should not set one’s heart upon it.",
-    "God’s word is understood as a supreme command with two sides: doing God’s will and following the good, and avoiding the opposite. The essence of the Torah is to turn away from evil and do good, because power belongs to God and His words should guide people.",
-    "God possesses loving-kindness because He gives and sustains the world, and He repays each person according to his deeds, whether good or bad."
+    "This is a psalm of David, intended for a melody composed by Jeduthun, one of the chief singers in the Temple; Jeduthun may also be a name for a musical instrument.",
+    "The speaker’s soul waits in silent listening and expectation only for God, because salvation comes from Him.",
+    "God alone is the speaker’s rock, strength, salvation, and refuge; therefore he will not collapse in a great time of trouble, or will not collapse completely.",
+    "The speaker asks the wicked how long they will attack or threaten a person and act like murderers. Being near them is dangerous, like being beside a leaning wall or a fence about to fall.",
+    "The enemies try to bring down a person who has risen to prominence. When they cannot fight him openly, they resort to lies: they bless with their mouths but curse inwardly.",
+    "The speaker’s soul is again called to wait and remain expectant only before God, because its hope comes from Him.",
+    "God alone is the speaker’s rock, salvation, and refuge, and through Him the speaker will not collapse.",
+    "The speaker’s salvation and honor come from God, who saves him, grants him life and a place in the world, and serves as his source of strength and refuge.",
+    "The people are called to trust God at all times and to pour out before Him everything that troubles them, because He alone is the true refuge.",
+    "Human beings pass quickly and cannot be trusted; they are falsehood and emptiness, and when weighed they are lighter than vapor, all of them together.",
+    "One should not trust in oppression or robbery or build one’s life on them, because they are empty and unreliable. Wealth that seems to produce profit is also temporary, may corrupt its owner, and will eventually pass away.",
+    "The speaker summarizes God’s command in two aspects: to do His will and follow the good path, and to avoid the opposite. God has power, so His words should guide human beings.",
+    "God possesses kindness because He gives and sustains the world, and He repays each person according to his deeds, whether good or evil."
   ],
   "perush": [
-    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון שחיבר ידותון, שהיה מראשי המשוררים במקדש; ייתכן ש״ידותון״ הוא גם כינוי לכלי נגינה שיוחס לו.",
-    "הנפש שותקת בהקשבה ובציפייה רק אל האלוהים, משום שממנו תבוא הישועה.",
-    "האלוהים לבדו הוא הסלע, התוקף, הישועה והמעוז של הדובר, ולכן הוא לא יתמוטט בעת צרה גדולה, או לא יתמוטט הרבה.",
-    "הדובר פונה לרשעים ושואל עד מתי יתנפלו או יאיימו על אדם ויהיו כולם כרוצחים, בפועל או ברצון. מסוכן להיות במחיצתם, כמו ליד קיר נטוי או גדר הדחויה ועומדת ליפול.",
-    "השונאים מנסים להפיל אדם לאחר שהתנשא ועלה לגדולה. כאשר אינם יכולים להילחם בו בגלוי, הם בוחרים בשקרים: בפיהם הם מברכים, אך בקרבם מקללים.",
-    "הנפש נקראת שוב לשתוק, לעמוד ולצפות רק אל האלוהים, מפני שממנו באה התקווה.",
-    "האלוהים לבדו הוא הסלע, הישועה והמעוז של הדובר, ובזכותו הוא לא יתמוטט.",
-    "בגלל האלוהים יש לדובר ישועה וכבוד; האלוהים הוא המושיע, המעניק לו חיים ומקום בעולם, והוא מקור כוחו ומחסו.",
-    "העם נקרא לבטוח באלוהים בכל עת ולשפוך לפניו את הלב, כלומר לספר לו את המציק, מפני שרק הוא המחסה.",
-    "בני האדם חולפים ואין לבטוח בהם; הם שווא ושקר. כאשר שוקלים את כולם יחד, הם קלים אפילו מהבל.",
-    "אין לבטוח בעושק ובגזל או לבנות עליהם את החיים, משום שהם הבל ואי אפשר לסמוך עליהם. גם עושר שנראה כמניב פירות הוא זמני, ועל כן אין לתת לו את הלב.",
-    "דבר האלוהים נתפס כצו עליון, שיש לו שני צדדים: לעשות את רצון ה' ולנהוג בטוב, ולהימנע מן ההפך. תמצית התורה היא לסור מרע ולעשות טוב, מפני שהכוח ביד האלוהים ולכן ראוי שדבריו ינחו את האדם.",
-    "לאלוהים יש חסד, משום שהוא הנותן והמשפיע לעולם, והוא משלם לכל אדם בהתאם למעשיו, לטוב או לרע."
+    "זהו מזמור לדוד, המיועד לניגון שחיבר ידותון, שהיה מראשי המשוררים במקדש; ייתכן שידותון הוא גם כינוי לכלי נגינה.",
+    "נפשו של הדובר שותקת בהקשבה ובציפייה רק אל האלוהים, מפני שממנו תבוא ישועתו.",
+    "רק האלוהים הוא צורו, כוחו, ישועתו ומעוזו, ולכן הוא לא יתמוטט בעת צרה גדולה, או לא יתמוטט לחלוטין.",
+    "הדובר פונה לרשעים ושואל עד מתי יתנפלו או יאיימו על אדם ויהיו כרוצחים. השהייה במחיצתם מסוכנת כמו ליד קיר נטוי או גדר המטה ליפול.",
+    "השונאים מנסים להפיל אדם המתנשא או עולה לגדולה. כשהם אינם יכולים להילחם בו בגלוי, הם משתמשים בשקרים: בפיהם מברכים, אך בקרבם מקללים.",
+    "נפשו של הדובר נקראת שוב לעמוד בציפייה ולהמתין רק לאלוהים, מפני שממנו תקוותה.",
+    "האלוהים לבדו הוא צורו, ישועתו ומעוזו, ובזכותו הדובר לא יתמוטט.",
+    "ישועתו וכבודו של הדובר נובעים מן האלוהים, המושיע אותו, מעניק לו חיים ומקום בעולם, ומשמש לו מקור כוח ומחסה.",
+    "העם נקרא לבטוח באלוהים בכל עת ולספר לפניו את כל המציק לו, מפני שרק הוא המחסה האמיתי.",
+    "בני האדם חולפים ואין לבטוח בהם; הם שווא ושקר, ובשקילה הם קלים אפילו מהבל, כולם יחד.",
+    "אין לבטוח בעושק ובגזל או לבנות עליהם את החיים, משום שהם הבל. גם עושר המניב לכאורה פירות הוא זמני, ועלול להשחית את בעליו ולעבור מן העולם.",
+    "הדובר מסכם את צו האלוהים בשני צדדים: לעשות את רצונו וללכת בדרך הטוב, ולהימנע מן ההפך. לאלוהים יש כוח, ולכן ראוי שדבריו ינחו את האדם.",
+    "לאלוהים יש חסד, מפני שהוא הנותן והמשפיע לעולם, והוא משלם לכל אדם בהתאם למעשיו, לטוב או לרע."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "הישענות שקטה על האלוהים מול אויבים",
-      "title_en": "Quiet Reliance on God in the Face of Enemies",
+      "title": "הביטחון באלוהים מול הסכנה",
+      "title_en": "Trust in God Amid Danger",
       "start_verse": 1,
-      "end_verse": 5,
-      "summary": "המזמור נפתח בכותרת הנוגעת לניגון, ומציג נפש המצפה בשתיקה לישועת האלוהים. מול אויבים המתנפלים, מאיימים ומשתמשים בשקרים ובברכות חיצוניות, האלוהים הוא הסלע והמעוז היחיד.",
-      "summary_en": "The psalm opens with a musical heading and presents a soul waiting silently for God’s salvation. In the face of enemies who attack, threaten, and use lies and outward blessings, God alone is the rock and stronghold.",
-      "image_prompt": "A symbolic biblical-style scene of a solitary person standing calmly beside a strong rock while a leaning wall and a collapsing fence appear in the distance; quiet, contemplative atmosphere, no specific historical setting, dramatic natural light."
+      "end_verse": 3,
+      "summary": "המזמור נפתח בהפניית הנפש אל האלוהים בלבד. הוא מוצג כצור, ישועה ומשגב, ולכן הדובר יכול לעמוד גם בעת צרה.",
+      "summary_en": "The psalm begins by directing the soul toward God alone. God is presented as the speaker’s rock, salvation, and refuge, enabling him to endure even in trouble.",
+      "image_prompt": "A contemplative biblical figure standing quietly on a rocky height, looking toward a distant radiant horizon, symbolizing trust, refuge, and salvation; subdued ancient Near Eastern atmosphere, no specific historical event."
     },
     {
-      "title": "האלוהים כמקור התקווה, הכבוד והמחסה",
-      "title_en": "God as the Source of Hope, Honor, and Refuge",
+      "title": "השונאים והסכנה שבצביעות",
+      "title_en": "Enemies and the Danger of Hypocrisy",
+      "start_verse": 4,
+      "end_verse": 5,
+      "summary": "הדובר מתאר אויבים המאיימים להפיל אדם ופועלים כמו מבנה רעוע. הם מסתירים את שנאתם מאחורי ברכות חיצוניות, בעוד שבתוכם הם מקללים ומשתמשים בשקרים.",
+      "summary_en": "The speaker describes enemies who threaten to bring a person down and are as dangerous as an unstable structure. They hide their hatred behind outward blessings while inwardly cursing and using lies.",
+      "image_prompt": "A symbolic leaning wall beside a fragile fence, with shadowy figures offering insincere gestures while dark expressions remain hidden; poetic biblical visual language, no violence or specific historical setting."
+    },
+    {
+      "title": "האלוהים כמחסה וכתקווה לכל העם",
+      "title_en": "God as Refuge and Hope for All",
       "start_verse": 6,
       "end_verse": 9,
-      "summary": "הנפש נקראת לשוב ולצפות באלוהים, שממנו באה התקווה. הוא מעניק ישועה וכבוד, משמש מקור כוח ומחסה, ולכן העם כולו נקרא לבטוח בו ולספר לפניו את מצוקותיו.",
-      "summary_en": "The soul is called again to wait for God, from whom hope comes. He grants salvation and honor, serves as the source of strength and refuge, and therefore all the people are called to trust Him and tell Him their troubles.",
-      "image_prompt": "A symbolic gathering of people turning toward a luminous refuge formed by a great rock, with open hands suggesting trust and the pouring out of one’s heart; serene spiritual mood, no specific historical details."
+      "summary": "הדובר חוזר להמתין לאלוהים, שממנו באה תקוותו ושבזכותו לא ימוט. הוא קורא לעם כולו לבטוח בו, לשפוך לפניו את הלב ולהכיר בו כמחסה.",
+      "summary_en": "The speaker returns to waiting for God, from whom his hope comes and through whom he will not fall. He calls the entire people to trust God, pour out their hearts before Him, and recognize Him as their refuge.",
+      "image_prompt": "A gathered community beneath a broad shelter of light, with individuals expressing their hopes and troubles in prayer; serene biblical landscape, emphasis on refuge and shared trust, no specific historical details."
     },
     {
       "title": "אפסות האדם והעושר",
-      "title_en": "The Emptiness of Human Power and Wealth",
+      "title_en": "The Emptiness of People and Wealth",
       "start_verse": 10,
       "end_verse": 11,
-      "summary": "בני האדם מתוארים כהבל וככזב, קלים וחולפים מכדי שאפשר יהיה לבטוח בהם. גם עושק, גזל ועושר אינם יסודות יציבים: הם זמניים, הבל, ואין לתת להם את הלב.",
-      "summary_en": "Human beings are described as vanity and falsehood, too light and fleeting to be trusted. Oppression, robbery, and wealth are likewise unstable foundations: they are temporary and vain, and should not receive one’s heart.",
-      "image_prompt": "A balanced scale in a symbolic landscape, with human silhouettes and glittering coins appearing lighter than mist; the scene conveys impermanence and detachment, without specific historical or cultural details."
+      "summary": "בני האדם מוצגים כהבל וכשווא, שאין לבטוח בהם. גם עושק, גזל ועושר אינם יסודות יציבים, ולכן אין לתת להם את הלב.",
+      "summary_en": "Human beings are portrayed as vapor and falsehood, not as something in which one can safely trust. Oppression, robbery, and wealth are likewise unstable foundations and should not command the heart.",
+      "image_prompt": "Ancient balance scales with wisps of vapor rising from one pan and coins fading into dust on the other, set against a quiet desert landscape; symbolic, non-historical biblical style."
     },
     {
-      "title": "כוח האלוהים, החסד והגמול",
-      "title_en": "God’s Power, Loving-Kindness, and Justice",
+      "title": "כוח האלוהים וחסדו ומשפטו",
+      "title_en": "God’s Power, Kindness, and Judgment",
       "start_verse": 12,
       "end_verse": 13,
-      "summary": "המסר האלוהי כולל עשיית טוב והתרחקות מרע, מפני שהכוח ביד האלוהים. לצד כוחו עומד חסדו, והוא משלם לכל אדם בהתאם למעשיו.",
-      "summary_en": "God’s message includes doing good and turning away from evil, because power belongs to Him. Alongside His power is His loving-kindness, and He repays each person according to his deeds.",
-      "image_prompt": "A symbolic path divided between light and shadow, with a radiant source above and balanced scales at the end of the path; contemplative biblical atmosphere, no specific historical setting."
+      "summary": "המסר המסכם הוא שהאלוהים מצווה על האדם לעשות טוב ולהימנע מן הרע, מפני שבידו הכוח. חסדו מתבטא בהשפעתו על העולם ובכך שהוא משלם לכל אדם לפי מעשיו.",
+      "summary_en": "The concluding message is that God commands people to do good and avoid evil because power belongs to Him. His kindness is shown in sustaining the world and repaying each person according to his deeds.",
+      "image_prompt": "Soft light illuminating a path divided between acts of kindness and a shadowed road, with balanced scales in the distance; contemplative biblical symbolism of divine power, kindness, and moral accountability."
     }
   ],
   "times": [],
@@ -237,63 +246,63 @@
   "did_you_know": [
     {
       "verse": 1,
-      "text": "הידעת? המזמור נפתח בכותרת מוזיקלית: \"לַמְנַצֵּחַ עַל־יְדוּתוּן\", ומיוחס לדוד. הכותרת מצביעה על הקשר של המזמור לנגינה או לביצוע מוזיקלי.",
-      "text_he": "הידעת? המזמור נפתח בכותרת מוזיקלית: \"לַמְנַצֵּחַ עַל־יְדוּתוּן\", ומיוחס לדוד. הכותרת מצביעה על הקשר של המזמור לנגינה או לביצוע מוזיקלי.",
-      "text_en": "Did you know? The psalm opens with a musical heading, “For the director of music. According to Jeduthun,” and is attributed to David. The heading points to the psalm’s connection with musical accompaniment or performance."
+      "text": "הכותרת מייחסת את המזמור לדוד ומזכירה את ידותון: \"למנצח על ידותון\". מן הכתוב עצמו לא מתבאר כאן תפקידו המדויק של ידותון.",
+      "text_he": "הכותרת מייחסת את המזמור לדוד ומזכירה את ידותון: \"למנצח על ידותון\". מן הכתוב עצמו לא מתבאר כאן תפקידו המדויק של ידותון.",
+      "text_en": "The title attributes the psalm to David and mentions Jeduthun: “For the director of music, according to Jeduthun.” The text itself does not explain Jeduthun’s exact role here."
     },
     {
       "verse": 2,
-      "text": "הידעת? כבר בתחילת המזמור מופיעה תנועת נפש של המתנה שקטה: \"אַךְ אֶל־אֱלֹהִים דּוּמִיָּה נַפְשִׁי\". מקור הישועה, לפי הפסוק, הוא האלוהים בלבד.",
-      "text_he": "הידעת? כבר בתחילת המזמור מופיעה תנועת נפש של המתנה שקטה: \"אַךְ אֶל־אֱלֹהִים דּוּמִיָּה נַפְשִׁי\". מקור הישועה, לפי הפסוק, הוא האלוהים בלבד.",
-      "text_en": "Did you know? At the very beginning of the psalm, the soul is portrayed as quietly waiting: “Truly my soul finds rest in God.” According to the verse, salvation comes from God alone."
+      "text": "המזמור נפתח במילה \"אך\", המדגישה את הפניית הנפש אל האלוהים בלבד: \"אך אלוהים, דומייה נפשי\". מיד לאחר מכן מופיעה הסיבה לביטחון זה: \"ממנו, ישועתי\".",
+      "text_he": "המזמור נפתח במילה \"אך\", המדגישה את הפניית הנפש אל האלוהים בלבד: \"אך אלוהים, דומייה נפשי\". מיד לאחר מכן מופיעה הסיבה לביטחון זה: \"ממנו, ישועתי\".",
+      "text_en": "The psalm begins with the word “Only,” emphasizing that the soul looks to God alone: “Only toward God my soul waits in silence.” The reason for this confidence follows immediately: “From him comes my salvation.”"
     },
     {
       "verse": 3,
-      "text": "הידעת? האלוהים מתואר בשלושה דימויים של הגנה ויציבות: \"צוּרִי\", \"וִישׁוּעָתִי\" ו\"מִשְׂגַּבִּי\". הדימויים מדגישים ביטחון ואי־התמוטטות מול הסכנה.",
-      "text_he": "הידעת? האלוהים מתואר בשלושה דימויים של הגנה ויציבות: \"צוּרִי\", \"וִישׁוּעָתִי\" ו\"מִשְׂגַּבִּי\". הדימויים מדגישים ביטחון ואי־התמוטטות מול הסכנה.",
-      "text_en": "Did you know? God is described through three images of protection and stability: “my rock,” “my salvation,” and “my fortress.” These images emphasize security and steadfastness in the face of danger."
+      "text": "האלוהים מתואר בשלושה דימויים של הגנה ויציבות: \"צורי\", \"ישועתי\" ו\"משגבי\". בעקבות זאת אומר הדובר: \"לא אמוט רבה\" — לא אתמוטט מאוד.",
+      "text_he": "האלוהים מתואר בשלושה דימויים של הגנה ויציבות: \"צורי\", \"ישועתי\" ו\"משגבי\". בעקבות זאת אומר הדובר: \"לא אמוט רבה\" — לא אתמוטט מאוד.",
+      "text_en": "God is described with three images of protection and stability: “my rock,” “my salvation,” and “my stronghold.” As a result, the speaker says, “I will not be greatly shaken.”"
     },
     {
       "verse": 4,
-      "text": "הידעת? המשורר מתאר את אויביו באמצעות תמונות של מבנים רעועים: \"קִיר נָטוּי\" ו\"גָדֵר הַדְּחוּיָה\". כך נוצרת תחושה של לחץ, ערעור וסכנת התמוטטות.",
-      "text_he": "הידעת? המשורר מתאר את אויביו באמצעות תמונות של מבנים רעועים: \"קִיר נָטוּי\" ו\"גָדֵר הַדְּחוּיָה\". כך נוצרת תחושה של לחץ, ערעור וסכנת התמוטטות.",
-      "text_en": "Did you know? The poet describes his enemies using images of unstable structures: “a leaning wall” and “a tottering fence.” This creates a sense of pressure, instability, and the danger of collapse."
+      "text": "האויבים מתוארים כאילו הם מנסים להפיל אדם, והדימוי לכך הוא מבנה רעוע: \"קיר נטוי\" ו\"גדר הדחויה\". התמונה מדגישה סכנה של קריסה וחוסר יציבות.",
+      "text_he": "האויבים מתוארים כאילו הם מנסים להפיל אדם, והדימוי לכך הוא מבנה רעוע: \"קיר נטוי\" ו\"גדר הדחויה\". התמונה מדגישה סכנה של קריסה וחוסר יציבות.",
+      "text_en": "The enemies are portrayed as trying to bring someone down, using the image of an unstable structure: “a leaning wall” and “a tottering fence.” The picture emphasizes the danger of collapse and instability."
     },
     {
       "verse": 5,
-      "text": "הידעת? הפסוק מציג ניגוד בין הדיבור החיצוני לבין הכוונה הפנימית: בפיהם של האויבים יש ברכה, אך בקרבם קללה. הטקסט מתאר אפוא פער בין מראית עין לבין אמת פנימית.",
-      "text_he": "הידעת? הפסוק מציג ניגוד בין הדיבור החיצוני לבין הכוונה הפנימית: בפיהם של האויבים יש ברכה, אך בקרבם קללה. הטקסט מתאר אפוא פער בין מראית עין לבין אמת פנימית.",
-      "text_en": "Did you know? The verse contrasts outward speech with inner intent: the enemies’ mouths offer blessing, but their hearts contain curses. The text therefore describes a gap between outward appearance and inner truth."
+      "text": "המזמור מציג פער בין הדיבור החיצוני לבין הכוונה הפנימית: \"בפיו יברכו; ובקרבם, יקללו\". זהו תיאור מפורש של ברכה כלפי חוץ לצד קללה ושקר בפנים.",
+      "text_he": "המזמור מציג פער בין הדיבור החיצוני לבין הכוונה הפנימית: \"בפיו יברכו; ובקרבם, יקללו\". זהו תיאור מפורש של ברכה כלפי חוץ לצד קללה ושקר בפנים.",
+      "text_en": "The psalm contrasts outward speech with inward intent: “With their mouths they bless, but in their hearts they curse.” It explicitly describes outward blessing alongside inward cursing and deceit."
     },
     {
       "verse": 6,
-      "text": "הידעת? בפסוק זה חוזרת הקריאה לנפש להמתין לאלוהים, אך הפעם מודגש שהוא מקור התקווה: \"כִּי מִמֶּנּוּ תִּקְוָתִי\". החזרה מחזקת את רעיון ההישענות הבלעדית עליו.",
-      "text_he": "הידעת? בפסוק זה חוזרת הקריאה לנפש להמתין לאלוהים, אך הפעם מודגש שהוא מקור התקווה: \"כִּי מִמֶּנּוּ תִּקְוָתִי\". החזרה מחזקת את רעיון ההישענות הבלעדית עליו.",
-      "text_en": "Did you know? In this verse, the call for the soul to wait for God appears again, but this time He is emphasized as the source of hope: “For my hope comes from him.” The repetition reinforces the idea of relying on Him alone."
+      "text": "בפסוקים ו–ז חוזר הביטוי \"אך\" יחד עם ההמתנה לאלוהים. בפסוק ו הדגש הוא על התקווה: \"כי ממנו, תקוותי\", ובפסוק ז חוזרים הדימויים \"צורי\", \"ישועתי\" ו\"משגבי\".",
+      "text_he": "בפסוקים ו–ז חוזר הביטוי \"אך\" יחד עם ההמתנה לאלוהים. בפסוק ו הדגש הוא על התקווה: \"כי ממנו, תקוותי\", ובפסוק ז חוזרים הדימויים \"צורי\", \"ישועתי\" ו\"משגבי\".",
+      "text_en": "In verses 6–7, the word “Only” appears again together with waiting for God. Verse 6 emphasizes hope: “For my hope comes from him,” while verse 7 repeats the images “my rock,” “my salvation,” and “my stronghold.”"
     },
     {
       "verse": 8,
-      "text": "הידעת? המזמור מרחיב את הביטחון האישי לביטחון לאומי וקהילתי: האלוהים הוא ישע, כבוד, צור עוז ומחסה, ולכן העם כולו נקרא לבטוח בו.",
-      "text_he": "הידעת? המזמור מרחיב את הביטחון האישי לביטחון לאומי וקהילתי: האלוהים הוא ישע, כבוד, צור עוז ומחסה, ולכן העם כולו נקרא לבטוח בו.",
-      "text_en": "Did you know? The psalm expands personal trust into national and communal trust: God is salvation, honor, a strong rock, and a refuge, so all the people are called to trust in Him."
-    },
-    {
-      "verse": 9,
-      "text": "הידעת? הציווי \"שִׁפְכוּ לְפָנָיו לְבַבְכֶם\" מזמין את העם להביא לפני האלוהים את רגשותיו ומצוקותיו בגלוי. מיד לאחר מכן מכונה האלוהים \"מַחֲסֶה לָנוּ\".",
-      "text_he": "הידעת? הציווי \"שִׁפְכוּ לְפָנָיו לְבַבְכֶם\" מזמין את העם להביא לפני האלוהים את רגשותיו ומצוקותיו בגלוי. מיד לאחר מכן מכונה האלוהים \"מַחֲסֶה לָנוּ\".",
-      "text_en": "Did you know? The command “Pour out your hearts to him” invites the people to bring their feelings and troubles openly before God. Immediately afterward, God is called “our refuge.”"
+      "text": "הדובר מרחיב את הביטחון האישי לקריאה לכל העם: \"בטחו בו בכל עת, עם\". הוא גם מזמין את העם לשתף את האלוהים בכל אשר בלבם: \"שפכו לפניו לבבכם\".",
+      "text_he": "הדובר מרחיב את הביטחון האישי לקריאה לכל העם: \"בטחו בו בכל עת, עם\". הוא גם מזמין את העם לשתף את האלוהים בכל אשר בלבם: \"שפכו לפניו לבבכם\".",
+      "text_en": "The speaker expands personal trust into a call to all the people: “Trust in him at all times, you people.” He also invites them to share everything in their hearts with God: “Pour out your hearts before him.”"
     },
     {
       "verse": 10,
-      "text": "הידעת? בני האדם מתוארים כאן כ\"הֶבֶל\" וכ\"כָזָב\", ובמאזניים הם נעשים קלים אף יותר מן ההבל. הדימוי מדגיש את ארעיות האדם ואת חוסר היציבות של הסתמכות עליו בלבד.",
-      "text_he": "הידעת? בני האדם מתוארים כאן כ\"הֶבֶל\" וכ\"כָזָב\", ובמאזניים הם נעשים קלים אף יותר מן ההבל. הדימוי מדגיש את ארעיות האדם ואת חוסר היציבות של הסתמכות עליו בלבד.",
-      "text_en": "Did you know? Human beings are described here as “a breath” and “a lie”; on the scales, they weigh even less than a breath. The image emphasizes human transience and the instability of relying on people alone."
+      "text": "בני האדם מתוארים כ\"הבל\" וכ\"כזב\", והפסוק מוסיף שגם יחד הם קלים וחסרי משקל אמיתי: \"במאזניים לעלות; המה, מהבל יחד\".",
+      "text_he": "בני האדם מתוארים כ\"הבל\" וכ\"כזב\", והפסוק מוסיף שגם יחד הם קלים וחסרי משקל אמיתי: \"במאזניים לעלות; המה, מהבל יחד\".",
+      "text_en": "Human beings are described as “a breath” and “a lie,” and the verse adds that, taken together, they are light and have no real weight: “On the scales they rise; together they are lighter than a breath.”"
+    },
+    {
+      "verse": 11,
+      "text": "המזמור מזהיר מפני שלושה יסודות שאסור להפוך למוקד הביטחון: עושק, גזל ועושר. גם כאשר \"חיל\" — רכוש או עושר — מתרבה, אין לתת לו את הלב.",
+      "text_he": "המזמור מזהיר מפני שלושה יסודות שאסור להפוך למוקד הביטחון: עושק, גזל ועושר. גם כאשר \"חיל\" — רכוש או עושר — מתרבה, אין לתת לו את הלב.",
+      "text_en": "The psalm warns against making three things the focus of one’s trust: oppression, robbery, and wealth. Even when “riches” increase, one must not set one’s heart on them."
     },
     {
       "verse": 12,
-      "text": "הידעת? בסיום נאמר: \"אַחַת דִּבֶּר אֱלֹהִים, שְׁתַּיִם זוּ שָׁמָעְתִּי\". לאחר ניסוח פיוטי זה מופיעים שני עקרונות מרכזיים: עוזו של האלוהים וחסדו, לצד גמול לאדם לפי מעשיו.",
-      "text_he": "הידעת? בסיום נאמר: \"אַחַת דִּבֶּר אֱלֹהִים, שְׁתַּיִם זוּ שָׁמָעְתִּי\". לאחר ניסוח פיוטי זה מופיעים שני עקרונות מרכזיים: עוזו של האלוהים וחסדו, לצד גמול לאדם לפי מעשיו.",
-      "text_en": "Did you know? The conclusion says, “One thing God has spoken; two things I have heard.” After this poetic formulation, two central principles are presented: God’s strength and His unfailing love, along with His rewarding each person according to their deeds."
+      "text": "בסיום נאמר שהכוח שייך לאלוהים: \"כי עוז, לאלוהים\". מיד אחר כך מצטרף אליו החסד, כך שהמסר המסכם כולל גם עוצמה וגם חסד.",
+      "text_he": "בסיום נאמר שהכוח שייך לאלוהים: \"כי עוז, לאלוהים\". מיד אחר כך מצטרף אליו החסד, כך שהמסר המסכם כולל גם עוצמה וגם חסד.",
+      "text_en": "The conclusion declares that power belongs to God: “Power belongs to God.” Immediately afterward, steadfast love is mentioned alongside it, so the closing message includes both strength and mercy."
     }
   ]
 }

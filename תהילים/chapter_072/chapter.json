@@ -77,126 +77,117 @@
     "כָּלּוּ תְפִלּוֹת דָּוִד בֶּן יִשָׁי. ייתכן שאת המזמור הזה אמר דוד בסוף חייו, והוא סודר כאן משום שרובם הגדול של שני הספרים הראשונים שבתהלים הם מזמוריו של דוד עצמו, ומסודרים כספרים לעצמם; ואילו מכאן והלאה יש מזמורים שבחלקם לא מצוין שם המחבר, ובאחדים מהם מצוינים שמות מחברים אחרים, אף שגם ביניהם יש עוד ממזמוריו ומתפילותיו של דוד."
   ],
   "ai_explanation": [
-    "דוד מבקש שהמלך יקבל מאת ה׳ את משפטיו ואת צדקתו, כדי שיוכל לממש אותם בארץ ולהביא את צדקת ה׳ לעולם.",
-    "המלך ינהיג את העם בצדק, ובמיוחד ישפוט את העניים במשפט שיש בו גם נאמנות לצדק וגם התחשבות בחלשים ובחסרי האמצעים.",
-    "כאשר המשפט יציב והמדינה שלווה, ההרים יביאו בשורת שלום והגבעות יתעטרו בצדקה, כלומר בצדקה ובישועה.",
-    "המלך ישפוט את עניי העם ויושיע את בני האביון, הזקוקים להתערבות למענם, ובמקביל יכניע את העושק.",
-    "במדינה המתוקנת ייראו את ה׳ בהתמדה, עם זריחת השמש ולפני הירח, במשך דורות רבים.",
-    "הצדק, הברכה והשפע ירדו כגשם על גיזת צמר הסופגת את המים, וכרסיסי גשם הזולגים אל הארץ; השפע ינוצל ולא יתבזבז.",
-    "בימי המלך יפרח הצדיק ויהיה מוגן, ושלום רב ישרור לעולם.",
-    "כדי להבטיח שלווה גם ביחסים הבין־לאומיים, המלך ימשול על מרחב גדול, מן הים עד הים ומנהר פרת עד קצות הארץ.",
-    "עמים יורדי ים או שוכני מדבר יכרעו לפני המלך, ואויביו יושפלו עד עפר; השפעתו תחרוג הרבה מעבר לגבולות הארץ.",
-    "מלכי תרשיש והאיים יביאו מנחה, ומלכי שבא וסבא יקריבו אשכר, כביטוי לבקשת שלום, כבוד, הכנעה והכרת תודה.",
-    "כל המלכים ישתחוו למלך וכל הגויים יעבדו אותו במידה כלשהי, לא רק מפני כוחו הצבאי אלא גם כהוקרה על מעלתו והשפעתו המבורכת.",
-    "המלך יציל את האביון הזועק לעזרה ואת העני שאין לו עוזר.",
-    "הוא ירחם על הדל והאביון ויושיע את העניים ביותר.",
+    "המשורר מבקש שהמלך יקבל מאת ה׳ את משפטיו ואת צדקתו, כדי שיוכל לממש אותם בארץ. לפי הפירוש, הדברים נאמרו ככל הנראה על ידי דוד על בנו ויורשו שלמה.",
+    "המלך ינהיג את העם בצדק, ובייחוד ישפוט את העניים במשפט שיש בו גם צדק מוחלט וגם התחשבות בחלשים ובחסרי האמצעים.",
+    "כאשר המשפט איתן והמדינה מתוקנת, יביאו ההרים בשורת שלום, והגבעות יתעטרו בצדקה ובישועה.",
+    "המלך ישפוט את עניי העם ויושיע את בני האביון, הזקוקים להתערבות למענם. הוא גם ידכא את העושק, מפני שהמשפט אינו רק רחמים ורכות.",
+    "במדינה המתוקנת ייראו את ה׳ בהתמדה ולעולם, כפי שהשמש זורחת בכל יום והירח נראה בזמנו, במשך דורות רבים.",
+    "הצדק, הברכה ודבר המלך ירדו על הארץ כגשם על גיזת צמר הסופגת את המים. השפע ינוצל כולו ולא יתבזבז, וירד כרסיסי גשם על הארץ.",
+    "בימי המלך יפרח הצדיק ויהיה מוגן מכל רע, ושלום רב ישרור לעולם.",
+    "כדי להשיג שלום גם ביחסים הבין-לאומיים, המלך ימשול בתחום רחב ויהיה בעל עוצמה והשפעה מן הים ועד קצות הארץ.",
+    "עמים יורדי ים או שוכני מדבר יכרעו לפני המלך, ואויביו יושפלו לחלוטין עד שכביכול יגיעו פניהם לעפר.",
+    "מלכים מארצות רחוקות ומאיים יביאו מנחות, ומלכי שבא וסבא יקריבו לו אשכר, כאות הכנעה, כבוד והכרת תודה.",
+    "כל המלכים ישתחוו למלך וכל הגויים יעבדו אותו במידה כלשהי. הכבוד אליו נובע לא רק מכוחו הצבאי, אלא גם ממעלתו הפנימית ומהשפעתו המבורכת.",
+    "המלך יציל את האביון הזועק לעזרה ואת העני שאין לו מי שיעזור לו, הן בממלכתו והן מחוצה לה.",
+    "המלך ירחם על הדל והאביון ויושיע את נפשותיהם, ובייחוד את הדלים שבדלים.",
     "המלך יגאל את העניים מתככים, ניצול, מרמה וחמס, ודם העניים יהיה יקר ונכבד בעיניו.",
-    "המלך יחיה בטוב ויקבל עושר רב; בני האדם יתפללו בעדו ויברכו אותו תמיד, ובכך תתווסף ברכת השלום והשמים גם לברכת האדמה.",
-    "תהיה תבואה בשפע בכל הארץ, אפילו בראשי ההרים; האילנות יהיו עמוסי פירות, וצמחים טובים יצוצו גם במקומות שאינם מעובדים.",
-    "שם המלך יתקיים לעולם ויגדל ויתברך. הוא יהיה סמל ומופת לברכה, וכל הגויים יאשרו את גדולתו ויאמרו אשרי המלך הזה.",
-    "כאן מופיעים דברי סיום לחלק זה של תהילים: ברכה לה׳, אלוהי ישראל, העושה לבדו נפלאות.",
-    "מבקשים ששם כבודו של ה׳ יהיה מבורך לעולם, ושכבודו ימלא את כל הארץ; הפסוק נחתם באמן ואמן.",
-    "זהו סיום תפילות דוד בן ישי. ייתכן שהמזמור נאמר בסוף חייו, והוא נחתם כאן כסיום לשני הספרים הראשונים, שרוב מזמוריהם מיוחסים לדוד."
+    "המלך יחיה בטוב ויקבל עושר רב, המתואר כזהב שבא. הכול יתפללו בעדו ויברכוהו תמיד, וברכתו תלווה את השלום, השמים, הגדולה, התפארת והאדמה.",
+    "הארץ תתברך בשפע תבואה, אפילו בראשי ההרים. האילנות יהיו עמוסי פרי, וצמחים טובים יצמחו גם במקומות שאינם מעובדים כרגיל.",
+    "שמו של המלך יתקיים לעולם ויגדל ויתברך, והוא יהיה סמל ומופת לברכה. כל הגויים יכירו באושרו וישבחו אותו.",
+    "כאן מופיעה חתימת החלק הזה בתהילים: ברכה לה׳, אלוהי ישראל, העושה נפלאות לבדו.",
+    "המשורר מברך את שם כבודו של ה׳ לעולם ומבקש שכבודו ימלא את כל הארץ, ומסיים באמן כפול.",
+    "הפסוק חותם את תפילות דוד בן ישי. ייתכן שהמזמור נאמר בסוף חייו, והוא מסיים את שני הספרים הראשונים, שרוב מזמוריהם מיוחסים לדוד."
   ],
   "ai_explanation_en": [
-    "David asks that the king receive God’s judgments and righteousness, so that he can apply them in the land and bring God’s righteousness into the world.",
-    "The king will govern the people justly, especially judging the poor with a justice that remains faithful to absolute fairness while also taking the weak and disadvantaged into account.",
-    "When justice is firm and the country is peaceful, the mountains will bring news of peace and the hills will be crowned with righteousness, meaning charity and salvation.",
-    "The king will judge the poor of the people and save the children of the needy, who require active intervention on their behalf, while also crushing the oppressor.",
-    "In this just society, people will fear and revere God continually, from sunrise and before the moon, throughout many generations.",
-    "Justice, blessing, and abundance will descend like rain on sheared wool that absorbs all the water, and like drops of rain flowing down to the earth; the abundance will be fully used and not wasted.",
-    "In the king’s days the righteous person will flourish and be protected, and great peace will endure forever.",
-    "To secure peace also in international relations, the king will rule over a vast area, from sea to sea and from the Euphrates River to the ends of the earth.",
-    "Seafaring peoples or desert dwellers will bow before the king, and his enemies will be humiliated to the dust; his influence will extend far beyond the borders of the land.",
-    "The kings of Tarshish and the islands will bring tribute, and the kings of Sheba and Seba will offer gifts, expressing a request for peace, honor, submission, and gratitude.",
-    "All kings will bow to him and all nations will serve him in some measure, not only because of his military power but also in recognition of his inner excellence and beneficial influence.",
-    "The king will save the needy person who cries out for help and the poor person who has no one to help him.",
-    "He will have compassion on the weak and the needy and save the most destitute.",
-    "The king will redeem the poor from schemes, exploitation, deceit, and violence, and their blood will be precious and honored in his eyes.",
-    "The king will live in prosperity and receive great wealth; people will pray for him and bless him continually. Along with the blessings of peace and heaven, the land itself will also be blessed.",
-    "There will be abundant grain throughout the land, even on the mountaintops; the trees will be heavily laden with fruit, and good plants will sprout even in uncultivated places.",
-    "The king’s name will endure forever and will grow and be blessed. He will become a symbol and model of blessing, and all nations will praise him and say, Fortunate is this king.",
-    "These are closing words for this section of Psalms: a blessing to the Lord, the God of Israel, who alone performs wonders.",
-    "May the name of His glory be blessed forever, and may His glory fill the whole earth. The verse ends with Amen and Amen.",
-    "This concludes the prayers of David son of Jesse. The psalm may have been spoken near the end of his life, and it is placed here as a conclusion to the first two books, most of whose psalms are attributed to David."
+    "The psalmist asks that the king receive God’s judgments and righteousness so that he can carry them out in the land. According to the commentary, David probably spoke these words about his son and successor Solomon.",
+    "The king will govern the people justly, especially judging the poor with a justice that combines absolute fairness with consideration for the weak and those without means.",
+    "When justice is firm and the state is properly ordered, the mountains will bring tidings of peace, and the hills will be crowned with righteousness and salvation.",
+    "The king will judge the poor and save the needy, who require active intervention on their behalf. He will also crush the oppressor, because justice is not merely mercy and gentleness.",
+    "In this restored state, people will fear and revere God continually and forever, as the sun rises each day and the moon appears in its time, for many generations.",
+    "Justice, blessing, and the king’s word will descend upon the land like rain on shorn wool that absorbs the water. The abundance will be fully used rather than wasted, falling like drops of rain upon the earth.",
+    "In the king’s days, the righteous person will flourish and be protected from harm, and abundant peace will endure forever.",
+    "To achieve peace in international relations as well, the king will rule over a broad realm and possess power and influence from sea to the ends of the earth.",
+    "Seafaring peoples or desert dwellers will bow before the king, and his enemies will be completely humbled, as though their faces reached the dust.",
+    "Kings from distant lands and islands will bring tribute, while the kings of Sheba and Seba will offer gifts as signs of submission, honor, and gratitude.",
+    "All kings will bow to him and all nations will serve him to some degree. Their honor is due not only to his military power, but also to his inner virtue and beneficial influence.",
+    "The king will rescue the needy person crying for help and the poor person who has no one to assist him, both within his kingdom and beyond it.",
+    "The king will have compassion on the weak and needy and save their lives, especially those who are among the poorest of all.",
+    "He will redeem the poor from intrigue, exploitation, deceit, and violence, and their blood will be precious and honored in his eyes.",
+    "The king will live in prosperity and receive great wealth, symbolized by the gold of Sheba. Everyone will pray for him and bless him continually, and his blessing will accompany peace, heaven, greatness, glory, and the land.",
+    "The land will be blessed with abundant grain, even on the tops of mountains. The trees will be laden with fruit, and good plants will grow even in places that are not normally cultivated.",
+    "The king’s name will endure forever and continue to grow and be blessed, becoming a symbol and model of blessing. All nations will recognize his happiness and praise him.",
+    "This is the conclusion of this section of Psalms: a blessing to the Lord, the God of Israel, who alone performs wonders.",
+    "The psalmist blesses God’s glorious name forever and asks that His glory fill the whole earth, ending with a double Amen.",
+    "This verse concludes the prayers of David son of Jesse. The psalm may have been spoken near the end of his life, and it closes the first two books, most of whose psalms are attributed to David."
   ],
   "perush": [
-    "דוד מבקש שהמלך יקבל מאת ה׳ את משפטיו ואת צדקתו, כדי שיוכל לממש אותם בארץ ולהביא את צדקת ה׳ לעולם.",
-    "המלך ינהיג את העם בצדק, ובמיוחד ישפוט את העניים במשפט שיש בו גם נאמנות לצדק וגם התחשבות בחלשים ובחסרי האמצעים.",
-    "כאשר המשפט יציב והמדינה שלווה, ההרים יביאו בשורת שלום והגבעות יתעטרו בצדקה, כלומר בצדקה ובישועה.",
-    "המלך ישפוט את עניי העם ויושיע את בני האביון, הזקוקים להתערבות למענם, ובמקביל יכניע את העושק.",
-    "במדינה המתוקנת ייראו את ה׳ בהתמדה, עם זריחת השמש ולפני הירח, במשך דורות רבים.",
-    "הצדק, הברכה והשפע ירדו כגשם על גיזת צמר הסופגת את המים, וכרסיסי גשם הזולגים אל הארץ; השפע ינוצל ולא יתבזבז.",
-    "בימי המלך יפרח הצדיק ויהיה מוגן, ושלום רב ישרור לעולם.",
-    "כדי להבטיח שלווה גם ביחסים הבין־לאומיים, המלך ימשול על מרחב גדול, מן הים עד הים ומנהר פרת עד קצות הארץ.",
-    "עמים יורדי ים או שוכני מדבר יכרעו לפני המלך, ואויביו יושפלו עד עפר; השפעתו תחרוג הרבה מעבר לגבולות הארץ.",
-    "מלכי תרשיש והאיים יביאו מנחה, ומלכי שבא וסבא יקריבו אשכר, כביטוי לבקשת שלום, כבוד, הכנעה והכרת תודה.",
-    "כל המלכים ישתחוו למלך וכל הגויים יעבדו אותו במידה כלשהי, לא רק מפני כוחו הצבאי אלא גם כהוקרה על מעלתו והשפעתו המבורכת.",
-    "המלך יציל את האביון הזועק לעזרה ואת העני שאין לו עוזר.",
-    "הוא ירחם על הדל והאביון ויושיע את העניים ביותר.",
+    "המשורר מבקש שהמלך יקבל מאת ה׳ את משפטיו ואת צדקתו, כדי שיוכל לממש אותם בארץ. לפי הפירוש, הדברים נאמרו ככל הנראה על ידי דוד על בנו ויורשו שלמה.",
+    "המלך ינהיג את העם בצדק, ובייחוד ישפוט את העניים במשפט שיש בו גם צדק מוחלט וגם התחשבות בחלשים ובחסרי האמצעים.",
+    "כאשר המשפט איתן והמדינה מתוקנת, יביאו ההרים בשורת שלום, והגבעות יתעטרו בצדקה ובישועה.",
+    "המלך ישפוט את עניי העם ויושיע את בני האביון, הזקוקים להתערבות למענם. הוא גם ידכא את העושק, מפני שהמשפט אינו רק רחמים ורכות.",
+    "במדינה המתוקנת ייראו את ה׳ בהתמדה ולעולם, כפי שהשמש זורחת בכל יום והירח נראה בזמנו, במשך דורות רבים.",
+    "הצדק, הברכה ודבר המלך ירדו על הארץ כגשם על גיזת צמר הסופגת את המים. השפע ינוצל כולו ולא יתבזבז, וירד כרסיסי גשם על הארץ.",
+    "בימי המלך יפרח הצדיק ויהיה מוגן מכל רע, ושלום רב ישרור לעולם.",
+    "כדי להשיג שלום גם ביחסים הבין-לאומיים, המלך ימשול בתחום רחב ויהיה בעל עוצמה והשפעה מן הים ועד קצות הארץ.",
+    "עמים יורדי ים או שוכני מדבר יכרעו לפני המלך, ואויביו יושפלו לחלוטין עד שכביכול יגיעו פניהם לעפר.",
+    "מלכים מארצות רחוקות ומאיים יביאו מנחות, ומלכי שבא וסבא יקריבו לו אשכר, כאות הכנעה, כבוד והכרת תודה.",
+    "כל המלכים ישתחוו למלך וכל הגויים יעבדו אותו במידה כלשהי. הכבוד אליו נובע לא רק מכוחו הצבאי, אלא גם ממעלתו הפנימית ומהשפעתו המבורכת.",
+    "המלך יציל את האביון הזועק לעזרה ואת העני שאין לו מי שיעזור לו, הן בממלכתו והן מחוצה לה.",
+    "המלך ירחם על הדל והאביון ויושיע את נפשותיהם, ובייחוד את הדלים שבדלים.",
     "המלך יגאל את העניים מתככים, ניצול, מרמה וחמס, ודם העניים יהיה יקר ונכבד בעיניו.",
-    "המלך יחיה בטוב ויקבל עושר רב; בני האדם יתפללו בעדו ויברכו אותו תמיד, ובכך תתווסף ברכת השלום והשמים גם לברכת האדמה.",
-    "תהיה תבואה בשפע בכל הארץ, אפילו בראשי ההרים; האילנות יהיו עמוסי פירות, וצמחים טובים יצוצו גם במקומות שאינם מעובדים.",
-    "שם המלך יתקיים לעולם ויגדל ויתברך. הוא יהיה סמל ומופת לברכה, וכל הגויים יאשרו את גדולתו ויאמרו אשרי המלך הזה.",
-    "כאן מופיעים דברי סיום לחלק זה של תהילים: ברכה לה׳, אלוהי ישראל, העושה לבדו נפלאות.",
-    "מבקשים ששם כבודו של ה׳ יהיה מבורך לעולם, ושכבודו ימלא את כל הארץ; הפסוק נחתם באמן ואמן.",
-    "זהו סיום תפילות דוד בן ישי. ייתכן שהמזמור נאמר בסוף חייו, והוא נחתם כאן כסיום לשני הספרים הראשונים, שרוב מזמוריהם מיוחסים לדוד."
+    "המלך יחיה בטוב ויקבל עושר רב, המתואר כזהב שבא. הכול יתפללו בעדו ויברכוהו תמיד, וברכתו תלווה את השלום, השמים, הגדולה, התפארת והאדמה.",
+    "הארץ תתברך בשפע תבואה, אפילו בראשי ההרים. האילנות יהיו עמוסי פרי, וצמחים טובים יצמחו גם במקומות שאינם מעובדים כרגיל.",
+    "שמו של המלך יתקיים לעולם ויגדל ויתברך, והוא יהיה סמל ומופת לברכה. כל הגויים יכירו באושרו וישבחו אותו.",
+    "כאן מופיעה חתימת החלק הזה בתהילים: ברכה לה׳, אלוהי ישראל, העושה נפלאות לבדו.",
+    "המשורר מברך את שם כבודו של ה׳ לעולם ומבקש שכבודו ימלא את כל הארץ, ומסיים באמן כפול.",
+    "הפסוק חותם את תפילות דוד בן ישי. ייתכן שהמזמור נאמר בסוף חייו, והוא מסיים את שני הספרים הראשונים, שרוב מזמוריהם מיוחסים לדוד."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "מלך של משפט וצדקה",
-      "title_en": "A King of Justice and Righteousness",
+      "title": "המלך הצדיק והשלום בארץ",
+      "title_en": "The Righteous King and Peace in the Land",
       "start_verse": 1,
       "end_verse": 4,
-      "summary": "המלך מקבל מאת ה׳ את היכולת לממש משפט וצדקה, להגן על העניים והאביונים ולהכניע את העושק.",
-      "summary_en": "The king receives from God the ability to enact justice and righteousness, protect the poor and needy, and crush oppression.",
-      "image_prompt": "A dignified ancient king listening carefully to poor and needy people in a public court, balanced scales of justice, compassionate and solemn atmosphere, no text"
+      "summary": "המלך מקבל את משפטי ה׳ וצדקתו, שופט את העם ואת העניים בצדק, מושיע את האביונים ומדכא את העושק. שלטון כזה מביא שלום, צדקה וישועה בארץ.",
+      "summary_en": "The king receives God’s judgments and righteousness, judges the people and the poor fairly, saves the needy, and crushes oppression. Such rule brings peace, righteousness, and salvation to the land.",
+      "image_prompt": "A dignified ancient king judging fairly before the people, with poor and needy individuals receiving protection, peaceful mountains and hills in the background, symbolic and reverent biblical style, no text"
     },
     {
-      "title": "שלום, יראת ה׳ ושפע",
-      "title_en": "Peace, Reverence for God, and Abundance",
+      "title": "יראת ה׳, גשם ושלום מתמשך",
+      "title_en": "Reverence for God, Rain, and Enduring Peace",
       "start_verse": 5,
       "end_verse": 7,
-      "summary": "החברה המתוקנת חיה ביראת ה׳ לאורך דורות, והברכה והשלום יורדים עליה כשפע של גשם; הצדיק פורח והשלום מתרבה.",
-      "summary_en": "The just society lives in reverence for God across generations, while blessing and peace descend upon it like abundant rain; the righteous flourish and peace increases.",
-      "image_prompt": "Peaceful mountains and green hills beneath gentle rain, a flourishing righteous figure in the landscape, warm sunlight and a sense of enduring blessing, no text"
+      "summary": "המדינה המתוקנת מתאפיינת ביראת ה׳ הנמשכת לדורות, בשפע היורד כגשם, בפריחת הצדיק ובשלום רב שאינו פוסק.",
+      "summary_en": "The restored state is marked by enduring reverence for God, abundance descending like rain, the flourishing of the righteous, and lasting abundant peace.",
+      "image_prompt": "Gentle rain falling over fertile hills and fields, a righteous figure flourishing peacefully beneath sunlight and moonlight, calm and hopeful biblical atmosphere, no text"
     },
     {
-      "title": "שלטון רחב והכרעת אויבים",
-      "title_en": "Broad Rule and the Subduing of Enemies",
+      "title": "עוצמת המלך והכרעת העמים",
+      "title_en": "The King’s Power and the Submission of Nations",
       "start_verse": 8,
       "end_verse": 11,
-      "summary": "המלך משליט סדר ושלווה במרחב גדול, אויבים ועמים כורעים לפניו, ומלכים רחוקים מביאים מנחות ואשכר.",
-      "summary_en": "The king establishes order and peace across a vast realm; enemies and peoples bow before him, and distant kings bring tribute and gifts.",
-      "image_prompt": "A vast peaceful realm stretching between seas and a great river, distant kings approaching with respectful gifts, solemn ceremonial scene, no text"
+      "summary": "המלך מושל במרחב גדול, אויביו מושפלים, ומלכים ועמים רחוקים מביאים לו מנחות ומשתחווים לו. הכבוד אליו נובע גם ממעלתו הפנימית ומהשפעתו המבורכת.",
+      "summary_en": "The king rules over a vast realm, his enemies are humbled, and distant kings and nations bring tribute and bow before him. Their honor reflects not only his power but also his inner virtue and beneficial influence.",
+      "image_prompt": "A peaceful royal audience with distant kings bringing gifts and bowing respectfully, broad seas and far horizons behind them, emphasizing moral authority rather than warfare, biblical artistic style, no text"
     },
     {
-      "title": "הצלת העניים ויקר דמם",
-      "title_en": "Deliverance of the Poor and the Value of Their Lives",
+      "title": "הצלת העניים וברכת הארץ",
+      "title_en": "Rescue of the Poor and Blessing of the Land",
       "start_verse": 12,
-      "end_verse": 14,
-      "summary": "עיקר מעלתו של המלך הוא הצלת האביון והעני, הרחמים על הדלים וגאולתם מתככים, ניצול, מרמה וחמס.",
-      "summary_en": "The king’s central virtue is saving the needy and poor, showing compassion to the weak, and redeeming them from schemes, exploitation, deceit, and violence.",
-      "image_prompt": "A compassionate king reaching out to rescue a vulnerable poor person from danger, oppressed people finding safety, dignified realistic ancient setting, no text"
-    },
-    {
-      "title": "ברכת המלך והארץ",
-      "title_en": "Blessing for the King and the Land",
-      "start_verse": 15,
       "end_verse": 17,
-      "summary": "המלך זוכה לחיים טובים, לעושר, לתפילות ולברכות, ובימיו הארץ מתברכת בתבואה ובפירות; שמו נעשה סמל לברכה לעולם.",
-      "summary_en": "The king enjoys prosperity, wealth, prayers, and blessings; in his days the land produces abundant grain and fruit, and his name becomes an enduring symbol of blessing.",
-      "image_prompt": "Abundant harvest across fertile fields and mountain slopes, fruit-laden trees, people blessing a benevolent king, radiant hopeful atmosphere, no text"
+      "summary": "המלך מציל את האביון והעני, מרחם על הדלים וגואל אותם מחמס ומניצול. בזכות שלטונו יש שפע בארץ, פריון, ברכה, ושמו נעשה סמל לברכה בעיני כל הגויים.",
+      "summary_en": "The king rescues the needy and poor, shows compassion to the weak, and redeems them from violence and exploitation. Under his rule the land becomes abundant and fruitful, and his name becomes a symbol of blessing among all nations.",
+      "image_prompt": "A compassionate king protecting poor and vulnerable people while abundant grain, fruit trees, and wild plants fill the land, mountains and fertile fields under bright light, biblical symbolic illustration, no text"
     },
     {
-      "title": "ברכת ה׳ וסיום תפילות דוד",
-      "title_en": "Blessing of God and the Conclusion of David’s Prayers",
+      "title": "ברכת ה׳ וחתימת תפילות דוד",
+      "title_en": "Blessing of the Lord and the Conclusion of David’s Prayers",
       "start_verse": 18,
       "end_verse": 20,
-      "summary": "הפסוקים חותמים את החלק בתהילה לה׳ העושה נפלאות, בתפילה שכבודו ימלא את הארץ, ובציון סיום תפילות דוד בן ישי.",
-      "summary_en": "The section closes with praise to God who alone performs wonders, a prayer that His glory fill the earth, and the notation that the prayers of David son of Jesse have ended.",
-      "image_prompt": "A majestic sacred landscape filled with light, people offering praise, a sense of completion and reverence, expansive earth beneath the heavens, no text"
+      "summary": "המזמור מסתיים בברכה לה׳, העושה נפלאות לבדו, ובבקשה שכבודו ימלא את הארץ. הפסוק האחרון חותם את תפילות דוד בן ישי ואת שני הספרים הראשונים של תהילים.",
+      "summary_en": "The psalm ends by blessing the Lord, who alone performs wonders, and by asking that His glory fill the earth. The final verse closes the prayers of David son of Jesse and the first two books of Psalms.",
+      "image_prompt": "A reverent scene of worship with light filling the earth, people offering praise, and an ancient scroll symbolizing the conclusion of David’s prayers, solemn biblical atmosphere, no text"
     }
   ],
   "times": [],
@@ -354,63 +345,63 @@
   "did_you_know": [
     {
       "verse": 1,
-      "text": "הידעת? המזמור נפתח בכותרת «לִשְׁלֹמֹה» ובבקשה שהמלך יקבל מאת ה׳ משפט וצדקה, כדי שיוכל לשפוט את העם בצדק.",
-      "text_he": "הידעת? המזמור נפתח בכותרת «לִשְׁלֹמֹה» ובבקשה שהמלך יקבל מאת ה׳ משפט וצדקה, כדי שיוכל לשפוט את העם בצדק.",
-      "text_en": "Did you know? The psalm opens with the heading “For Solomon” and a request that the king receive justice and righteousness from the LORD, so that he may judge the people fairly."
+      "text": "הידעת? המזמור נפתח בכותרת „לִשְׁלֹמֹה” ובתפילה שהמלך יקבל מה׳ משפט וצדקה, כדי שיוכל למלוך ביושר.",
+      "text_he": "הידעת? המזמור נפתח בכותרת „לִשְׁלֹמֹה” ובתפילה שהמלך יקבל מה׳ משפט וצדקה, כדי שיוכל למלוך ביושר.",
+      "text_en": "Did you know? The psalm opens with the title “For Solomon” and a prayer that God would grant the king justice and righteousness so that he could rule fairly."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? תפקידו המרכזי של המלך בפסוקים הראשונים הוא לשפוט בצדק ולהגן במיוחד על העניים והחלשים בעם.",
+      "text_he": "הידעת? תפקידו המרכזי של המלך בפסוקים הראשונים הוא לשפוט בצדק ולהגן במיוחד על העניים והחלשים בעם.",
+      "text_en": "Did you know? In the opening verses, the king’s central role is to judge fairly and especially to protect the poor and vulnerable among the people."
     },
     {
       "verse": 4,
-      "text": "הידעת? לפי המזמור, תפקידו של המלך אינו רק לשפוט, אלא גם להושיע את בני האביון ולהכניע את העושק.",
-      "text_he": "הידעת? לפי המזמור, תפקידו של המלך אינו רק לשפוט, אלא גם להושיע את בני האביון ולהכניע את העושק.",
-      "text_en": "Did you know? According to the psalm, the king’s role is not only to judge, but also to save the children of the poor and crush the oppressor."
+      "text": "הידעת? לפי המזמור, שלטון ראוי נמדד גם ביכולתו להושיע את בני האביון ולדכא את העושק, ולא רק בכוחו המדיני.",
+      "text_he": "הידעת? לפי המזמור, שלטון ראוי נמדד גם ביכולתו להושיע את בני האביון ולדכא את העושק, ולא רק בכוחו המדיני.",
+      "text_en": "Did you know? According to the psalm, worthy rule is measured not only by political power but also by the ability to rescue the needy and crush the oppressor."
     },
     {
       "verse": 6,
-      "text": "הידעת? שלטון מתוקן מתואר באמצעות דימוי של גשם: המלך יורד «כמטר על גז» וכרביבים המרווים את הארץ.",
-      "text_he": "הידעת? שלטון מתוקן מתואר באמצעות דימוי של גשם: המלך יורד «כמטר על גז» וכרביבים המרווים את הארץ.",
-      "text_en": "Did you know? Just rule is portrayed through the image of rain: the king descends “like rain on mown grass” and like showers that water the earth."
+      "text": "הידעת? הצלחתו של המלך נמשלה לגשם היורד על גז — עשב שנקצר — ולרביבים המרווים את הארץ. הדימוי מבטא השפעה מחייה, עדינה ומועילה.",
+      "text_he": "הידעת? הצלחתו של המלך נמשלה לגשם היורד על גז — עשב שנקצר — ולרביבים המרווים את הארץ. הדימוי מבטא השפעה מחייה, עדינה ומועילה.",
+      "text_en": "Did you know? The king’s success is compared to rain falling on grass that has been mown and to showers that water the earth. The image conveys a life-giving, gentle, and beneficial influence."
     },
     {
       "verse": 7,
-      "text": "הידעת? פריחת הצדיק וריבוי השלום מוצגים במזמור כברכה המתמשכת לאורך ימי המלך — «עד בלי ירח».",
-      "text_he": "הידעת? פריחת הצדיק וריבוי השלום מוצגים במזמור כברכה המתמשכת לאורך ימי המלך — «עד בלי ירח».",
-      "text_en": "Did you know? The flourishing of the righteous and the abundance of peace are presented in the psalm as blessings that continue throughout the king’s reign—“until there is no moon.”"
+      "text": "הידעת? פריחת הצדיק ו„רֹב שָׁלוֹם” מוצגים יחד, כאילו צדק חברתי ושלום הם שני צדדים של הנהגה מתוקנת.",
+      "text_he": "הידעת? פריחת הצדיק ו„רֹב שָׁלוֹם” מוצגים יחד, כאילו צדק חברתי ושלום הם שני צדדים של הנהגה מתוקנת.",
+      "text_en": "Did you know? The flourishing of the righteous and “abundant peace” are presented together, as though social justice and peace were two sides of good governance."
     },
     {
       "verse": 8,
-      "text": "הידעת? גבולות שלטונו של המלך מתוארים בלשון רחבה: «מים עד ים» ו«מנהר עד אפסי ארץ».",
-      "text_he": "הידעת? גבולות שלטונו של המלך מתוארים בלשון רחבה: «מים עד ים» ו«מנהר עד אפסי ארץ».",
-      "text_en": "Did you know? The boundaries of the king’s rule are described in expansive terms: “from sea to sea” and “from the river to the ends of the earth.”"
+      "text": "הידעת? תיאור ממלכת המלך „מִיָּם עַד יָם” ועד קצות הארץ מציג שלטון בעל היקף עולמי, בלשון פיוטית רחבה.",
+      "text_he": "הידעת? תיאור ממלכת המלך „מִיָּם עַד יָם” ועד קצות הארץ מציג שלטון בעל היקף עולמי, בלשון פיוטית רחבה.",
+      "text_en": "Did you know? The description of the king’s kingdom as extending “from sea to sea” and to the ends of the earth presents a realm of worldwide scope, expressed in broad poetic language."
     },
     {
       "verse": 10,
-      "text": "הידעת? המזמור מזכיר מלכים מארצות רחוקות — תרשיש, איים, שבא וסבא — המביאים למלך מנחה ואשכר.",
-      "text_he": "הידעת? המזמור מזכיר מלכים מארצות רחוקות — תרשיש, איים, שבא וסבא — המביאים למלך מנחה ואשכר.",
-      "text_en": "Did you know? The psalm mentions kings from distant lands—Tarshish, the coastlands, Sheba, and Seba—who bring the king tribute and gifts."
+      "text": "הידעת? המזמור מזכיר מלכים מארצות רחוקות — תרשיש, האיים, שבא וסבא — המביאים מנחות ומתנות למלך.",
+      "text_he": "הידעת? המזמור מזכיר מלכים מארצות רחוקות — תרשיש, האיים, שבא וסבא — המביאים מנחות ומתנות למלך.",
+      "text_en": "Did you know? The psalm mentions kings from distant lands—Tarshish, the islands, Sheba, and Seba—bringing tribute and gifts to the king."
     },
     {
       "verse": 12,
-      "text": "הידעת? המבחן המרכזי של המלך הוא יחסו לחלשים: הוא מציל את האביון המשווע לעזרה ואת העני שאין לו עוזר.",
-      "text_he": "הידעת? המבחן המרכזי של המלך הוא יחסו לחלשים: הוא מציל את האביון המשווע לעזרה ואת העני שאין לו עוזר.",
-      "text_en": "Did you know? The central test of the king is how he treats the vulnerable: he rescues the poor who cry out for help and the needy who have no one to help them."
+      "text": "הידעת? בפסוקים 12–14 חוזר הדגש על הצלת האביון, העני והדל; ערך האדם והצלת נפשו עומדים במרכז תיאור המלך האידיאלי.",
+      "text_he": "הידעת? בפסוקים 12–14 חוזר הדגש על הצלת האביון, העני והדל; ערך האדם והצלת נפשו עומדים במרכז תיאור המלך האידיאלי.",
+      "text_en": "Did you know? Verses 12–14 repeatedly emphasize rescuing the needy, the poor, and the helpless; human dignity and the saving of their lives are at the center of the description of the ideal king."
     },
     {
-      "verse": 14,
-      "text": "הידעת? המילים «וְיֵיקַר דָּמָם בְּעֵינָיו» מדגישות שחיי העניים והאביונים יקרים וראויים להגנה בעיני המלך.",
-      "text_he": "הידעת? המילים «וְיֵיקַר דָּמָם בְּעֵינָיו» מדגישות שחיי העניים והאביונים יקרים וראויים להגנה בעיני המלך.",
-      "text_en": "Did you know? The words “their blood is precious in his sight” emphasize that the lives of the poor and needy are valuable and worthy of protection in the king’s eyes."
-    },
-    {
-      "verse": 16,
-      "text": "הידעת? בימי המלך מבקש המזמור שפע חקלאי בארץ: תבואה בראש ההרים ופירות שירעשו כלבנון, לצד צמיחה רבה בערים.",
-      "text_he": "הידעת? בימי המלך מבקש המזמור שפע חקלאי בארץ: תבואה בראש ההרים ופירות שירעשו כלבנון, לצד צמיחה רבה בערים.",
-      "text_en": "Did you know? During the king’s reign, the psalm asks for agricultural abundance in the land: grain on the mountaintops and fruit that rustles like Lebanon, along with abundant growth in the cities."
+      "verse": 17,
+      "text": "הידעת? שמו של המלך מתואר כשם הקיים לעולם וכמקור ברכה: „וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם”. כך המלך מוצג לא רק כשליט, אלא גם כסמל לברכה.",
+      "text_he": "הידעת? שמו של המלך מתואר כשם הקיים לעולם וכמקור ברכה: „וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם”. כך המלך מוצג לא רק כשליט, אלא גם כסמל לברכה.",
+      "text_en": "Did you know? The king’s name is described as enduring forever and as a source of blessing: “May all nations be blessed through him.” Thus, the king is presented not only as a ruler but also as a symbol of blessing."
     },
     {
       "verse": 20,
-      "text": "הידעת? הפסוק האחרון מציין במפורש: «כָּלּוּ תְפִלּוֹת דָּוִד, בֶּן יִשָׁי», ובכך חותם את אוסף התפילות המיוחס לדוד בחלק זה.",
-      "text_he": "הידעת? הפסוק האחרון מציין במפורש: «כָּלּוּ תְפִלּוֹת דָּוִד, בֶּן יִשָׁי», ובכך חותם את אוסף התפילות המיוחס לדוד בחלק זה.",
-      "text_en": "Did you know? The final verse states explicitly, “The prayers of David son of Jesse are ended,” thereby concluding the collection of prayers attributed to David in this section."
+      "text": "הידעת? הפסוק האחרון מציין: „כָּלּוּ תְפִלּוֹת דָּוִד, בֶּן יִשָׁי”. פסוק זה חותם את קובץ תפילות דוד בפרק ומופיע בסיום הספר השני של תהילים.",
+      "text_he": "הידעת? הפסוק האחרון מציין: „כָּלּוּ תְפִלּוֹת דָּוִד, בֶּן יִשָׁי”. פסוק זה חותם את קובץ תפילות דוד בפרק ומופיע בסיום הספר השני של תהילים.",
+      "text_en": "Did you know? The final verse states: “The prayers of David son of Jesse are ended.” This verse concludes the collection of David’s prayers in the psalm and appears at the end of the second book of Psalms."
     }
   ]
 }

@@ -79,111 +79,129 @@
     "ומאז נָחִיתָ כַצֹּאן עַמֶּךָ בְּיַד מֹשֶׁה וְאַהֲרֹן. כאשר אני נזכר בדברים אלה, מתעוררת בי תקווה למרות צרותי בהווה."
   ],
   "ai_explanation": [
-    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון או כלי נגינה הקשורים לידיתון, ולאָסָף.",
-    "המשורר מרים את קולו אל האל וזועק אליו, ומבקש שהאל יאזין לו.",
-    "ביום צרתו הוא דורש את ה'. ידו, כוחו, מקומו או מכתו, נשפכת בלילה ואינה פוסקת, ונפשו מסרבת להינחם.",
-    "כשהוא נזכר באלוהים הוא הומה, מדבר, שר, נאנח ובוכה או משתוקק. הוא מפרט את צרותיו, ורוחו מתעטפת ומתעלפת מתפילתו.",
-    "האל אוחז בעפעפי עיניו ואינו מניח לו להירדם. הוא נרעש ונדהם, עד שאינו מסוגל לדבר.",
-    "מול צרות ההווה הוא מהרהר בימים קדומים ובשנים רחוקות.",
-    "הוא נזכר בשירת ההודיה ששר בעבר לאלוהים על חסדיו. בלילה הוא ממשיך להרהר ולהתחבט עם לבו, ורוחו מחפשת תשובות ופתרונות.",
-    "הוא תוהה אם אדונָי יזנח לעולם ולא ירצה עוד בעמו.",
-    "הוא שואל אם חסדו של האל נגמר לנצח, ואם תמה הבטחתו מדור לדור.",
-    "הוא שואל אם האל שכח לרחם, או שמא מתוך כעס חסם את רחמיו.",
-    "הוא אומר לעצמו שעליו להתבונן בשנות ימינו של העליון — בשנים שבהן פעלה יד ימינו והשפיעה חסד על עמו.",
-    "הוא זוכר את מעשי ה' ואת הפלאות שחולל בימי קדם.",
-    "הוא הוגה בכל פועלו ומספר על עלילותיו שבעבר.",
-    "דרכו של האל מתגלה בקדושה ובנשגבות, ואין אל גדול כאלוהים.",
-    "האל הוא העושה פלא, ובעבר הודיע לעמים את כוחו.",
-    "האל גאל בכוחו את עמו, את בני יעקב ויוסף.",
-    "מתוארות צורות התגלות של האל: המים ראו אותו, נחרדו ונסוגו, ואף התהומות רעדו, בקריעת ים סוף.",
-    "המים העבים זרמו, השמים השמיעו קול, וחצי האל — הברקים — נעו.",
-    "קול הרעם נשמע ברקיע, בסביבת העולם או בסופה המתגלגלת. הברקים האירו את העולם, והארץ רעדה.",
-    "דרכו של האל הייתה בים, כשבקע דרך בים סוף; שבילו היה במים רבים, ולאחר שעבר עם עמו לא נותרו עקבותיו, שכן העולם חזר לקדמותו.",
-    "האל הנהיג את עמו כצאן ביד משה ואהרן. הזיכרון הזה מעורר במשורר תקווה למרות צרות ההווה."
+    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון או כלי נגינה הקשורים לידיתון, והוא מזמור לאסף.",
+    "המשורר מרים את קולו אל אלוהים וזועק אליו, ומבקש שאלוהים יאזין לו.",
+    "ביום צרתו הוא דורש את ה', אך ידו, כלומר כוחו, מקומו או מכתו, ניגרת בלילה ואינה פוסקת; נפשו ממאנת להינחם.",
+    "כשהוא נזכר באלוהים הוא נאנח, בוכה, שר או משתוקק. הוא משיח את צרותיו, ורוחו מתעלפת מתפילתו.",
+    "המשורר חש שעפעפיו אחוזים ואינו מצליח להירדם. הוא מוכה תדהמה ואינו מסוגל לדבר.",
+    "נוכח צרות ההווה הוא מהרהר בימים קדומים ובשנים רחוקות.",
+    "הוא נזכר בשירת ההודיה ששר בעבר על חסדי אלוהים. בלילה הוא מהרהר ומתחבט עם לבו, ורוחו מחפשת תשובות ופתרונות.",
+    "הוא תוהה אם ה' יזנח לעולם ולא ירצה עוד בעמו.",
+    "הוא שואל אם חסדו של ה' נגמר לנצח, ואם הבטחתו תמה לדור ודור.",
+    "הוא שואל אם אלוהים שכח לרחם, ואם מתוך כעס חסם את רחמיו.",
+    "הוא אומר שעליו להתבונן בשנות ימינו של העליון, כלומר בשנים שבהן פעלה יד ימינו והשפיעה חסד על עמו.",
+    "הוא נזכר במעשי ה' ובפלאות שחולל בימי קדם.",
+    "הוא יהרהר בכל פועלו של ה' ויספר על עלילותיו מן העבר.",
+    "דרכו של אלוהים היא בקודש, בהתגלות קדושה ונשגבה; אין אל גדול כאלוהים.",
+    "אלוהים הוא העושה פלא, ובעבר הודיע לעמים את כוחו.",
+    "אלוהים גאל בכוחו את עמו, את בני יעקב ויוסף.",
+    "המים ראו את אלוהים, פחדו ונסוגו, ואף התהומות רעדו; התיאור נקשר לקריעת ים סוף.",
+    "המים זרמו בעבים, השמים השמיעו קול, והחצים או הברקים של אלוהים נעו.",
+    "קול הרעם נשמע ברקיע, בסופה או סביב העולם; הברקים האירו את העולם, והארץ רעדה.",
+    "אלוהים עשה דרך בים ושביל במים רבים, אך לאחר שעבר, עקבותיו לא נודעו והעולם חזר לקדמותו.",
+    "אלוהים הנהיג את עמו כצאן ביד משה ואהרן. הזיכרון הזה מעורר במשורר תקווה למרות צרות ההווה."
   ],
   "ai_explanation_en": [
-    "The superscription states that the psalm is intended for the chief musician, according to a melody or instrument associated with Jeduthun, and that it is a psalm of Asaph.",
-    "The speaker raises his voice to God and cries out to Him, asking God to listen.",
-    "On the day of distress he seeks the Lord. His hand, strength, place, or wound flows through the night and does not cease, and his soul refuses to be comforted.",
-    "When he remembers God, he becomes agitated, speaks, sings, sighs and weeps, or longs. He recounts his troubles, and his spirit faints under the burden of his prayer.",
-    "God holds his eyelids and does not let him sleep. He is shaken and astonished, unable to speak.",
-    "In contrast to the burdens of the present, he reflects on ancient days and distant years.",
-    "He remembers the song of thanksgiving that he once sang to God for His kindnesses. At night he continues to reflect and struggle within himself, while his spirit searches for answers and solutions.",
-    "He wonders whether the Lord will reject His people forever and never again be willing to accept them.",
-    "He asks whether God's kindness has ended forever and whether His promise has come to an end from generation to generation.",
-    "He asks whether God has forgotten to show mercy, or whether, in anger, He has shut up His compassion.",
-    "He tells himself that he must look toward the years of the right hand of the Most High—the years in which God's right hand acted and bestowed kindness on His people.",
-    "He remembers the deeds of the Lord and the wonders He performed in ancient times.",
-    "He reflects on all God's works and recounts His deeds of the past.",
-    "God's way is revealed in holiness and transcendence, and there is no god as great as God.",
+    "The heading states that the psalm is intended for the chief musician, to a melody or instrument associated with Jeduthun, and that it is a psalm of Asaph.",
+    "The psalmist raises his voice to God and cries out, asking God to listen to him.",
+    "On the day of his trouble he seeks the Lord, but his hand—understood as his strength, his place, or his wound—flows through the night and does not cease; his soul refuses to be comforted.",
+    "When he remembers God, he groans, weeps, sings, or longs. He recounts his troubles, and his spirit faints from his prayer.",
+    "The psalmist feels that his eyelids are held open and that he cannot sleep. He is overwhelmed with astonishment and cannot speak.",
+    "In the face of his present troubles, he reflects on ancient days and distant years.",
+    "He remembers the songs of thanksgiving he once sang for God’s kindness. At night he reflects and struggles within himself, while his spirit searches for answers and solutions.",
+    "He wonders whether the Lord will reject him forever and never again show favor to His people.",
+    "He asks whether God’s kindness has ended forever and whether His promise has come to an end from generation to generation.",
+    "He asks whether God has forgotten to show mercy and whether, in anger, He has shut off His compassion.",
+    "He says that he must consider the years of the Most High’s right hand—the years in which God’s right hand acted and bestowed kindness upon His people.",
+    "He remembers God’s deeds and the wonders He performed in ancient times.",
+    "He will reflect on all God’s works and recount His deeds from the past.",
+    "God’s way is in holiness, through a sacred and exalted revelation; there is no god as great as God.",
     "God is the One who performs wonders, and in the past He made His power known among the nations.",
-    "God redeemed His people by His power: the descendants of Jacob and Joseph.",
-    "Several forms of divine manifestation are described: the waters saw Him, were terrified and retreated, and even the depths trembled at the splitting of the Red Sea.",
-    "The thick waters poured forth, the heavens gave forth a sound, and God's arrows—His lightning—moved.",
-    "The sound of God's thunder was heard in the heavens, around the world, or in the rolling storm. The lightning illuminated the world, and the earth trembled.",
-    "God's way was through the sea, when He opened a path through the Red Sea; His pathway was through many waters, and after He passed with His people, no traces remained, as the world returned to its former state.",
-    "God led His people like sheep by the hand of Moses and Aaron. Remembering this awakens hope in the speaker despite his present troubles."
+    "God redeemed His people by His power—the descendants of Jacob and Joseph.",
+    "The waters saw God, feared, and retreated, while the depths also trembled; the description is connected with the splitting of the Red Sea.",
+    "The waters poured through the clouds, the heavens gave forth a sound, and God’s arrows or flashes of lightning moved about.",
+    "The sound of God’s thunder was heard in the sky, in the storm, or around the world; lightning illuminated the earth, and the land trembled.",
+    "God made a way in the sea and a path through mighty waters, but after He passed, His tracks were unknown and the world returned to its former state.",
+    "God led His people like a flock by the hand of Moses and Aaron. This memory awakens hope in the psalmist despite his present troubles."
   ],
   "perush": [
-    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון או כלי נגינה הקשורים לידיתון, ולאָסָף.",
-    "המשורר מרים את קולו אל האל וזועק אליו, ומבקש שהאל יאזין לו.",
-    "ביום צרתו הוא דורש את ה'. ידו, כוחו, מקומו או מכתו, נשפכת בלילה ואינה פוסקת, ונפשו מסרבת להינחם.",
-    "כשהוא נזכר באלוהים הוא הומה, מדבר, שר, נאנח ובוכה או משתוקק. הוא מפרט את צרותיו, ורוחו מתעטפת ומתעלפת מתפילתו.",
-    "האל אוחז בעפעפי עיניו ואינו מניח לו להירדם. הוא נרעש ונדהם, עד שאינו מסוגל לדבר.",
-    "מול צרות ההווה הוא מהרהר בימים קדומים ובשנים רחוקות.",
-    "הוא נזכר בשירת ההודיה ששר בעבר לאלוהים על חסדיו. בלילה הוא ממשיך להרהר ולהתחבט עם לבו, ורוחו מחפשת תשובות ופתרונות.",
-    "הוא תוהה אם אדונָי יזנח לעולם ולא ירצה עוד בעמו.",
-    "הוא שואל אם חסדו של האל נגמר לנצח, ואם תמה הבטחתו מדור לדור.",
-    "הוא שואל אם האל שכח לרחם, או שמא מתוך כעס חסם את רחמיו.",
-    "הוא אומר לעצמו שעליו להתבונן בשנות ימינו של העליון — בשנים שבהן פעלה יד ימינו והשפיעה חסד על עמו.",
-    "הוא זוכר את מעשי ה' ואת הפלאות שחולל בימי קדם.",
-    "הוא הוגה בכל פועלו ומספר על עלילותיו שבעבר.",
-    "דרכו של האל מתגלה בקדושה ובנשגבות, ואין אל גדול כאלוהים.",
-    "האל הוא העושה פלא, ובעבר הודיע לעמים את כוחו.",
-    "האל גאל בכוחו את עמו, את בני יעקב ויוסף.",
-    "מתוארות צורות התגלות של האל: המים ראו אותו, נחרדו ונסוגו, ואף התהומות רעדו, בקריעת ים סוף.",
-    "המים העבים זרמו, השמים השמיעו קול, וחצי האל — הברקים — נעו.",
-    "קול הרעם נשמע ברקיע, בסביבת העולם או בסופה המתגלגלת. הברקים האירו את העולם, והארץ רעדה.",
-    "דרכו של האל הייתה בים, כשבקע דרך בים סוף; שבילו היה במים רבים, ולאחר שעבר עם עמו לא נותרו עקבותיו, שכן העולם חזר לקדמותו.",
-    "האל הנהיג את עמו כצאן ביד משה ואהרן. הזיכרון הזה מעורר במשורר תקווה למרות צרות ההווה."
+    "הכותרת מציינת שהמזמור מיועד למנצח, על ניגון או כלי נגינה הקשורים לידיתון, והוא מזמור לאסף.",
+    "המשורר מרים את קולו אל אלוהים וזועק אליו, ומבקש שאלוהים יאזין לו.",
+    "ביום צרתו הוא דורש את ה', אך ידו, כלומר כוחו, מקומו או מכתו, ניגרת בלילה ואינה פוסקת; נפשו ממאנת להינחם.",
+    "כשהוא נזכר באלוהים הוא נאנח, בוכה, שר או משתוקק. הוא משיח את צרותיו, ורוחו מתעלפת מתפילתו.",
+    "המשורר חש שעפעפיו אחוזים ואינו מצליח להירדם. הוא מוכה תדהמה ואינו מסוגל לדבר.",
+    "נוכח צרות ההווה הוא מהרהר בימים קדומים ובשנים רחוקות.",
+    "הוא נזכר בשירת ההודיה ששר בעבר על חסדי אלוהים. בלילה הוא מהרהר ומתחבט עם לבו, ורוחו מחפשת תשובות ופתרונות.",
+    "הוא תוהה אם ה' יזנח לעולם ולא ירצה עוד בעמו.",
+    "הוא שואל אם חסדו של ה' נגמר לנצח, ואם הבטחתו תמה לדור ודור.",
+    "הוא שואל אם אלוהים שכח לרחם, ואם מתוך כעס חסם את רחמיו.",
+    "הוא אומר שעליו להתבונן בשנות ימינו של העליון, כלומר בשנים שבהן פעלה יד ימינו והשפיעה חסד על עמו.",
+    "הוא נזכר במעשי ה' ובפלאות שחולל בימי קדם.",
+    "הוא יהרהר בכל פועלו של ה' ויספר על עלילותיו מן העבר.",
+    "דרכו של אלוהים היא בקודש, בהתגלות קדושה ונשגבה; אין אל גדול כאלוהים.",
+    "אלוהים הוא העושה פלא, ובעבר הודיע לעמים את כוחו.",
+    "אלוהים גאל בכוחו את עמו, את בני יעקב ויוסף.",
+    "המים ראו את אלוהים, פחדו ונסוגו, ואף התהומות רעדו; התיאור נקשר לקריעת ים סוף.",
+    "המים זרמו בעבים, השמים השמיעו קול, והחצים או הברקים של אלוהים נעו.",
+    "קול הרעם נשמע ברקיע, בסופה או סביב העולם; הברקים האירו את העולם, והארץ רעדה.",
+    "אלוהים עשה דרך בים ושביל במים רבים, אך לאחר שעבר, עקבותיו לא נודעו והעולם חזר לקדמותו.",
+    "אלוהים הנהיג את עמו כצאן ביד משה ואהרן. הזיכרון הזה מעורר במשורר תקווה למרות צרות ההווה."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "זעקה מתוך צרה וחוסר מנוחה",
-      "title_en": "A Cry from Distress and Restlessness",
+      "title": "הכותרת והזעקה אל אלוהים",
+      "title_en": "The Heading and the Cry to God",
       "start_verse": 1,
+      "end_verse": 2,
+      "summary": "המזמור נפתח בכותרת מוזיקלית ובזעקה אישית של המשורר אל אלוהים, תוך בקשה שיאזין לו.",
+      "summary_en": "The psalm opens with a musical heading and the psalmist’s personal cry to God, asking Him to listen.",
+      "image_prompt": "A solitary ancient worshipper raising his voice toward the heavens in prayer, a simple lyre nearby, solemn atmosphere, no text"
+    },
+    {
+      "title": "מצוקת הלילה וחוסר הנחמה",
+      "title_en": "Nighttime Distress and Lack of Comfort",
+      "start_verse": 3,
       "end_verse": 5,
-      "summary": "המשורר פונה אל האל בזעקה, מתאר את צרתו, את חוסר היכולת להירגע או להירדם, ואת התדהמה המשתיקה אותו.",
-      "summary_en": "The speaker cries out to God, describing his distress, his inability to find comfort or sleep, and the astonishment that leaves him unable to speak.",
-      "image_prompt": "A solitary person awake at night, raising a pleading voice toward the unseen heavens, with a troubled expression and a sense of spiritual exhaustion; subdued biblical-poetic atmosphere, no text."
+      "summary": "המשורר מתאר את צרתו המתמשכת, את נפשו שאינה מתנחמת, את מחשבותיו ואת חוסר יכולתו לישון או לדבר.",
+      "summary_en": "The psalmist describes his continuing distress, his uncomforted soul, his troubled thoughts, and his inability to sleep or speak.",
+      "image_prompt": "A distressed ancient figure awake at night in a dim room, unable to sleep, hands tense, contemplative and sorrowful mood, no text"
     },
     {
-      "title": "זיכרון העבר והשאלות על החסד",
-      "title_en": "Remembering the Past and Questioning Divine Kindness",
+      "title": "הרהור בעבר ושאלות על חסד אלוהים",
+      "title_en": "Reflection on the Past and Questions About God’s Kindness",
       "start_verse": 6,
-      "end_verse": 11,
-      "summary": "מתוך מצוקת ההווה המשורר חוזר בזיכרונו לימים קדומים ולשירת הודיה, אך שואל אם חסד האל ורחמיו נפסקו.",
-      "summary_en": "From the distress of the present, the speaker turns in memory to ancient days and songs of thanksgiving, while asking whether God's kindness and compassion have ended.",
-      "image_prompt": "A thoughtful figure seated at night, surrounded by faint visual echoes of distant memories and an old song, balancing sorrowful questions with a small emerging sense of hope; contemplative biblical-poetic style, no text."
+      "end_verse": 10,
+      "summary": "המשורר פונה אל זיכרונות העבר ומעלה שאלות קשות: האם אלוהים זנח, שכח את חסדו או חסם את רחמיו.",
+      "summary_en": "The psalmist turns to memories of the past and raises painful questions: Has God rejected him, forgotten His kindness, or shut off His compassion?",
+      "image_prompt": "A lone contemplative figure at night recalling former songs, faint memories suggested by a distant lyre and fading light, no text"
     },
     {
-      "title": "היזכרות במעשי האל ובגאולת עמו",
-      "title_en": "Remembering God's Deeds and Redemption",
-      "start_verse": 12,
+      "title": "החלטה להיזכר במעשי ה' ובפלאותיו",
+      "title_en": "Choosing to Remember God’s Deeds and Wonders",
+      "start_verse": 11,
       "end_verse": 16,
-      "summary": "המשורר מחזק את עצמו בזכירת מעשי ה', פלאותיו, דרכו הקדושה, כוחו וגאולתו של עמו.",
-      "summary_en": "The speaker strengthens himself by remembering God's deeds, wonders, holy way, power, and redemption of His people.",
-      "image_prompt": "A vast symbolic scene of divine wonders and deliverance, with light breaking through darkness and a people gathered in remembrance; majestic, reverent biblical-poetic atmosphere, no text."
+      "summary": "מתוך המשבר המשורר בוחר להתבונן בשנות פעולתו של ה', להיזכר בפלאותיו, בפועלו, בכוחו ובגאולת עמו.",
+      "summary_en": "Amid the crisis, the psalmist chooses to consider God’s years of action, remembering His wonders, works, power, and redemption of His people.",
+      "image_prompt": "A reflective worshipper looking toward a luminous vision symbolizing ancient divine wonders and deliverance, reverent biblical atmosphere, no text"
     },
     {
-      "title": "התגלות האל בים והנהגת עמו",
-      "title_en": "Divine Manifestation in the Sea and Guidance of the People",
+      "title": "התגלות עוצמתית במים ובסערה",
+      "title_en": "A Powerful Revelation in Water and Storm",
       "start_verse": 17,
+      "end_verse": 19,
+      "summary": "המים, התהומות, העננים, הרעמים והברקים מתוארים כמי שמגיבים בפחד וברעד להתגלות עוצמתו של אלוהים.",
+      "summary_en": "The waters, depths, clouds, thunder, and lightning are portrayed as responding with fear and trembling to God’s powerful revelation.",
+      "image_prompt": "Dramatic biblical storm over immense waters, trembling depths, heavy clouds, thunder and lightning illuminating the world, no text"
+    },
+    {
+      "title": "דרך אלוהים בים והנהגת עמו",
+      "title_en": "God’s Way Through the Sea and His Guidance of the People",
+      "start_verse": 20,
       "end_verse": 21,
-      "summary": "המים, התהומות, הרעם והברקים מתארים את התגלות האל; הוא פותח דרך בים ומנהיג את עמו כצאן ביד משה ואהרן, וזיכרון זה מעורר תקווה.",
-      "summary_en": "The waters, depths, thunder, and lightning portray God's manifestation; He opens a path through the sea and leads His people like sheep by the hand of Moses and Aaron, awakening hope.",
-      "image_prompt": "A dramatic sea opening into a clear path, with storm clouds, lightning, trembling earth, and a distant guided people; Moses and Aaron leading symbolically, reverent biblical-poetic style, no text."
+      "summary": "אלוהים עושה דרך בים בלי להשאיר עקבות, ולאחר מכן מנהיג את עמו כצאן ביד משה ואהרן; זיכרון זה מחזיר למשורר תקווה.",
+      "summary_en": "God makes a path through the sea without leaving visible tracks and then leads His people like a flock by Moses and Aaron; this memory restores hope to the psalmist.",
+      "image_prompt": "A vast sea opening into a temporary path, a people guided forward by two leaders, the water later becoming calm and leaving no trace, no text"
     }
   ],
   "times": [],
@@ -341,63 +359,63 @@
   "did_you_know": [
     {
       "verse": 1,
-      "text": "הכותרת מייחסת את המזמור לאסף ומציינת שהוא מיועד לַמְנַצֵּחַ וקשור לִידוּתוּן; כך היא מציגה אותו כמזמור בעל הקשר מוזיקלי וליטורגי.",
-      "text_he": "הכותרת מייחסת את המזמור לאסף ומציינת שהוא מיועד לַמְנַצֵּחַ וקשור לִידוּתוּן; כך היא מציגה אותו כמזמור בעל הקשר מוזיקלי וליטורגי.",
-      "text_en": "The title attributes the psalm to Asaph and indicates that it is intended for the director of music and associated with Jeduthun. In this way, it presents the psalm as having a musical and liturgical setting."
+      "text": "הידעת? תהילים פרק ע״ז נפתח בכותרת מוזיקלית: „למנצח על ידותון”, ומיוחס לאסף; הכותרת מציינת שהמזמור נועד לביצוע או להנחיה מוזיקלית.",
+      "text_he": "הידעת? תהילים פרק ע״ז נפתח בכותרת מוזיקלית: „למנצח על ידותון”, ומיוחס לאסף; הכותרת מציינת שהמזמור נועד לביצוע או להנחיה מוזיקלית.",
+      "text_en": "Did you know? Psalm 77 opens with a musical heading: “For the director of music; according to Jeduthun,” and is attributed to Asaph. The heading indicates that the psalm was intended for musical performance or direction."
     },
     {
       "verse": 2,
-      "text": "המשורר פותח בחזרה מודגשת על המילים «קוֹלִי אֶל אֱלֹהִים», ומדגיש שהוא זועק אל האל ומבקש שהאל יאזין לו.",
-      "text_he": "המשורר פותח בחזרה מודגשת על המילים «קוֹלִי אֶל אֱלֹהִים», ומדגיש שהוא זועק אל האל ומבקש שהאל יאזין לו.",
-      "text_en": "The psalmist opens with an emphatic repetition of the words “My voice is to God,” stressing that he cries out to God and asks him to listen."
+      "text": "הידעת? בפסוק ב׳ המילה „קולי” חוזרת פעמיים. החזרה מדגישה את עוצמת הזעקה ואת בקשת המשורר שאלוהים יאזין לו.",
+      "text_he": "הידעת? בפסוק ב׳ המילה „קולי” חוזרת פעמיים. החזרה מדגישה את עוצמת הזעקה ואת בקשת המשורר שאלוהים יאזין לו.",
+      "text_en": "Did you know? In verse 2, the word “voice” is repeated twice. This repetition emphasizes the intensity of the cry and the psalmist’s plea for God to listen to him."
     },
     {
       "verse": 3,
-      "text": "בפסוק זה מתוארת מצוקה מתמשכת: המשורר פונה אל ה' ביום צרתו, ידו נמשכת בלילה, ונפשו מסרבת להינחם.",
-      "text_he": "בפסוק זה מתוארת מצוקה מתמשכת: המשורר פונה אל ה' ביום צרתו, ידו נמשכת בלילה, ונפשו מסרבת להינחם.",
-      "text_en": "This verse describes ongoing distress: the psalmist turns to the Lord on the day of his trouble, his hand remains outstretched through the night, and his soul refuses to be comforted."
-    },
-    {
-      "verse": 4,
-      "text": "הזיכרון של האל אינו מביא בתחילה רוגע, אלא מעורר המיה; המשורר מתאר את רוחו כמתעטפת וכבדה.",
-      "text_he": "הזיכרון של האל אינו מביא בתחילה רוגע, אלא מעורר המיה; המשורר מתאר את רוחו כמתעטפת וכבדה.",
-      "text_en": "At first, remembering God does not bring calm but causes inner turmoil; the psalmist describes his spirit as overwhelmed and heavy."
+      "text": "הידעת? המשורר מתאר מצוקה שאינה מוגבלת ליום בלבד: גם בלילה ידו נמתחת בתפילה, אך נפשו עדיין אינה מוצאת נחמה.",
+      "text_he": "הידעת? המשורר מתאר מצוקה שאינה מוגבלת ליום בלבד: גם בלילה ידו נמתחת בתפילה, אך נפשו עדיין אינה מוצאת נחמה.",
+      "text_en": "Did you know? The psalmist describes distress that is not limited to the daytime: even at night, his hand is stretched out in prayer, yet his soul still finds no comfort."
     },
     {
       "verse": 5,
-      "text": "המשורר מתאר מצב של תדהמה וחוסר יכולת לדבר, באמצעות הביטוי «נִפְעַמְתִּי, וְלֹא אֲדַבֵּר».",
-      "text_he": "המשורר מתאר מצב של תדהמה וחוסר יכולת לדבר, באמצעות הביטוי «נִפְעַמְתִּי, וְלֹא אֲדַבֵּר».",
-      "text_en": "The psalmist describes a state of shock and an inability to speak through the words, “I am troubled, and I cannot speak.”"
-    },
-    {
-      "verse": 6,
-      "text": "מתוך המשבר המשורר פונה אל העבר: הוא מחשב ימים קדומים ושנות עולם, ובכך מתחיל מעבר מן המצוקה האישית אל זיכרון ההיסטוריה.",
-      "text_he": "מתוך המשבר המשורר פונה אל העבר: הוא מחשב ימים קדומים ושנות עולם, ובכך מתחיל מעבר מן המצוקה האישית אל זיכרון ההיסטוריה.",
-      "text_en": "In the midst of his crisis, the psalmist turns to the past: he considers ancient days and bygone years, beginning a movement from personal distress toward the memory of history."
+      "text": "הידעת? בפסוק ה׳ המצוקה מתבטאת גם בגוף וגם בדיבור: המשורר מתאר עיניים שאינן נעצמות, סערה פנימית וחוסר יכולת לדבר.",
+      "text_he": "הידעת? בפסוק ה׳ המצוקה מתבטאת גם בגוף וגם בדיבור: המשורר מתאר עיניים שאינן נעצמות, סערה פנימית וחוסר יכולת לדבר.",
+      "text_en": "Did you know? In verse 5, the distress is expressed through both body and speech: the psalmist describes eyes that will not close, inner turmoil, and an inability to speak."
     },
     {
       "verse": 7,
-      "text": "הזיכרון קשור גם למוזיקה: המשורר נזכר בנגינתו בלילה ומשיח עם לבבו תוך חיפוש פנימי של רוחו.",
-      "text_he": "הזיכרון קשור גם למוזיקה: המשורר נזכר בנגינתו בלילה ומשיח עם לבבו תוך חיפוש פנימי של רוחו.",
-      "text_en": "The memory is also connected with music: the psalmist remembers his song in the night and meditates with his heart while searching within his spirit."
+      "text": "הידעת? לצד הזיכרון של „נגינתי בלילה”, המשורר מנהל שיחה פנימית ומחפש תשובות בתוך רוחו; כך הלילה נעשה זמן של חשבון נפש.",
+      "text_he": "הידעת? לצד הזיכרון של „נגינתי בלילה”, המשורר מנהל שיחה פנימית ומחפש תשובות בתוך רוחו; כך הלילה נעשה זמן של חשבון נפש.",
+      "text_en": "Did you know? Alongside the memory of “my song in the night,” the psalmist carries on an inner dialogue and searches for answers within his spirit; thus, the night becomes a time of self-examination."
     },
     {
       "verse": 8,
-      "text": "בפסוקים ח–י מופיעה סדרה של שאלות רטוריות על אפשרות שה' זנח את עמו, שהחסד פסק, שהאמרת הסתיימה ושהרחמים נשכחו.",
-      "text_he": "בפסוקים ח–י מופיעה סדרה של שאלות רטוריות על אפשרות שה' זנח את עמו, שהחסד פסק, שהאמרת הסתיימה ושהרחמים נשכחו.",
-      "text_en": "In verses 8–10, a series of rhetorical questions asks whether the Lord has rejected his people, whether his steadfast love has ceased, whether his promise has failed, and whether his compassion has been forgotten."
+      "text": "הידעת? בפסוקים ח׳–י׳ מופיעה סדרה של שאלות רטוריות על דחייה, הפסקת חסד, שכחת רחמים והסתרת חמלה. השאלות מבטאות את עומק המשבר של המשורר.",
+      "text_he": "הידעת? בפסוקים ח׳–י׳ מופיעה סדרה של שאלות רטוריות על דחייה, הפסקת חסד, שכחת רחמים והסתרת חמלה. השאלות מבטאות את עומק המשבר של המשורר.",
+      "text_en": "Did you know? Verses 8–10 contain a series of rhetorical questions about rejection, the end of steadfast love, the forgetting of mercy, and the withholding of compassion. These questions express the depth of the psalmist’s crisis."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? בפסוק י״א חל שינוי בכיוון המחשבה: לאחר שאלותיו הקשות, המשורר מפנה את תשומת לבו לשנות „ימין עליון” ולפעולתו של אלוהים לאורך הדורות.",
+      "text_he": "הידעת? בפסוק י״א חל שינוי בכיוון המחשבה: לאחר שאלותיו הקשות, המשורר מפנה את תשומת לבו לשנות „ימין עליון” ולפעולתו של אלוהים לאורך הדורות.",
+      "text_en": "Did you know? In verse 11, the direction of the psalmist’s thoughts changes: after his difficult questions, he turns his attention to the years of the “right hand of the Most High” and to God’s work throughout the generations."
     },
     {
       "verse": 12,
-      "text": "נקודת המפנה במזמור היא החלטה לזכור את מעללי האל, את פלאותיו ואת פעולותיו; הזיכרון נעשה מקור לחיזוק.",
-      "text_he": "נקודת המפנה במזמור היא החלטה לזכור את מעללי האל, את פלאותיו ואת פעולותיו; הזיכרון נעשה מקור לחיזוק.",
-      "text_en": "The turning point of the psalm is the decision to remember God’s deeds, his wonders, and his works; memory becomes a source of strength."
+      "text": "הידעת? המשורר בוחר להתמודד עם המצוקה באמצעות זיכרון: הוא מזכיר את מעללי ה׳ ואת הפלאות שנעשו בעבר, במקום להישאר רק בשאלותיו.",
+      "text_he": "הידעת? המשורר בוחר להתמודד עם המצוקה באמצעות זיכרון: הוא מזכיר את מעללי ה׳ ואת הפלאות שנעשו בעבר, במקום להישאר רק בשאלותיו.",
+      "text_en": "Did you know? The psalmist chooses to confront his distress through remembrance: he recalls the deeds of the Lord and the wonders performed in the past, rather than remaining focused only on his questions."
     },
     {
-      "verse": 21,
-      "text": "המזמור מסתיים בתמונה של הנהגה: האל נוהג את עמו כצאן ביד משה ואהרן. כך נחתם תיאור הגאולה וההנהגה לא בגילוי אישי של משה ואהרן, אלא בכך שהם משמשים ידיים המובילות את העם.",
-      "text_he": "המזמור מסתיים בתמונה של הנהגה: האל נוהג את עמו כצאן ביד משה ואהרן. כך נחתם תיאור הגאולה וההנהגה לא בגילוי אישי של משה ואהרן, אלא בכך שהם משמשים ידיים המובילות את העם.",
-      "text_en": "The psalm ends with an image of guidance: God leads his people like a flock by the hand of Moses and Aaron. Thus, the account of deliverance and guidance concludes not with a personal appearance by Moses and Aaron, but with their serving as the hands that lead the people."
+      "verse": 17,
+      "text": "הידעת? המים מתוארים בפסוק י״ז כאילו הם רואים את אלוהים, נבהלים ורועדים; זהו תיאור פיוטי המעניק לטבע תגובה של יראה.",
+      "text_he": "הידעת? המים מתוארים בפסוק י״ז כאילו הם רואים את אלוהים, נבהלים ורועדים; זהו תיאור פיוטי המעניק לטבע תגובה של יראה.",
+      "text_en": "Did you know? In verse 17, the waters are described as though they see God, are terrified, and tremble. This is a poetic description that gives nature a response of awe."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? המזמור מציג ניגוד בין דרך אלוהים בים, שאין לה עקבות נראים, לבין הנהגתו הברורה של עמו: הוא מוביל אותם „כצאן” ביד משה ואהרן.",
+      "text_he": "הידעת? המזמור מציג ניגוד בין דרך אלוהים בים, שאין לה עקבות נראים, לבין הנהגתו הברורה של עמו: הוא מוביל אותם „כצאן” ביד משה ואהרן.",
+      "text_en": "Did you know? The psalm contrasts God’s way through the sea, where no visible footprints remain, with his clear guidance of his people: he leads them “like a flock” by the hand of Moses and Aaron."
     }
   ]
 }

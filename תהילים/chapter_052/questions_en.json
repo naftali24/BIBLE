@@ -5,217 +5,237 @@
   "chapter": 52,
   "paragraphs": [
     {
-      "paragraph": 1,
+      "paragraph": "The psalm is designated a “Maschil” of David. Its opening verses ask why the mighty man boasts in mischief and affirm that the goodness of God endures continually.",
       "start_verse": 1,
-      "end_verse": 6,
-      "title": "The Informer and His Harmful Tongue",
+      "end_verse": 2,
+      "title": "The Psalm’s Heading and Opening Question",
       "easy": [
         {
           "answers": [
+            "Saul",
+            "David",
+            "Doeg"
+          ],
+          "correct": 1,
+          "explanation": "The heading identifies it as a Maschil of David.",
+          "q": "To whom is the Maschil attributed?"
+        },
+        {
+          "answers": [
             "Mischief",
-            "Goodness",
-            "Righteousness"
+            "Righteousness",
+            "Mercy"
           ],
           "correct": 0,
-          "explanation": "The verse begins, “Why boastest thou thyself in mischief?”",
+          "explanation": "The verse asks, “Why boastest thou thyself in mischief?”",
           "q": "What does the mighty man boast in?"
         },
         {
           "answers": [
-            "Like a sharp rasor",
-            "Like a green olive tree",
-            "Like a strong tower"
-          ],
-          "correct": 0,
-          "explanation": "The tongue is compared to “a sharp rasor.”",
-          "q": "How is the tongue described?"
-        },
-        {
-          "answers": [
-            "Mercy",
-            "Deceitfully",
-            "Peacefully"
+            "The riches of men",
+            "The goodness of God",
+            "The strength of kings"
           ],
           "correct": 1,
-          "explanation": "The verse says the tongue is “working deceitfully.”",
-          "q": "What does the tongue work?"
+          "explanation": "The verse declares that the goodness of God endureth continually.",
+          "q": "What endures continually?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Evil",
-            "Riches",
-            "Fear"
+            "A question about boasting in mischief",
+            "A question about building the temple",
+            "A question about offering sacrifices"
           ],
           "correct": 0,
-          "explanation": "The KJV says, “Thou lovest evil more than good.”",
+          "explanation": "The psalm opens by questioning the mighty man’s boasting in mischief.",
+          "q": "What kind of question opens the psalm?"
+        },
+        {
+          "answers": [
+            "Human mischief and God’s enduring goodness",
+            "Earthly riches and royal power",
+            "Fear and military strength"
+          ],
+          "correct": 0,
+          "explanation": "The verse contrasts mischief with the continual goodness of God.",
+          "q": "What contrast appears in the opening verse?"
+        },
+        {
+          "answers": [
+            "God’s goodness is temporary",
+            "God’s goodness is ongoing",
+            "God’s goodness is hidden"
+          ],
+          "correct": 1,
+          "explanation": "“Continually” emphasizes that God’s goodness endures without ceasing.",
+          "q": "What does the word “continually” emphasize?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Taking pride in wrongdoing",
+            "Being grateful for mercy",
+            "Seeking wisdom from God"
+          ],
+          "correct": 0,
+          "explanation": "The question rebukes a person who takes pride in harmful or wicked behavior.",
+          "q": "What moral problem is implied by the question, “Why boastest thou thyself in mischief”?"
+        },
+        {
+          "answers": [
+            "From human boasting to God’s lasting goodness",
+            "From David’s wealth to Saul’s kingdom",
+            "From sacrifice to the priesthood"
+          ],
+          "correct": 0,
+          "explanation": "The verse moves from the mighty man’s mischief to the enduring goodness of God.",
+          "q": "How does the opening verse direct the reader’s attention?"
+        },
+        {
+          "answers": [
+            "Evil is praised forever",
+            "God’s goodness is presented as enduring",
+            "Both are described as equally lasting"
+          ],
+          "correct": 1,
+          "explanation": "The verse specifically says that God’s goodness endureth continually.",
+          "q": "What does the opening suggest about the relative permanence of evil and goodness?"
+        }
+      ],
+      "idea": "The psalm is designated a “Maschil” of David. Its opening verses ask why the mighty man boasts in mischief and affirm that the goodness of God endures continually."
+    },
+    {
+      "paragraph": "The poet condemns the wicked man’s harmful speech and deceit. His tongue devises mischief like a sharp razor, and he loves evil and lying more than goodness and righteousness.",
+      "start_verse": 3,
+      "end_verse": 6,
+      "title": "Condemnation of Evil Speech and Deceit",
+      "easy": [
+        {
+          "answers": [
+            "Mischiefs",
+            "Songs of praise",
+            "Acts of mercy"
+          ],
+          "correct": 0,
+          "explanation": "The KJV says, “Thy tongue deviseth mischiefs.”",
+          "q": "What does the tongue devise?"
+        },
+        {
+          "answers": [
+            "A green olive tree",
+            "A sharp razor",
+            "A strong tower"
+          ],
+          "correct": 1,
+          "explanation": "The tongue is compared to “a sharp rasor.”",
+          "q": "What is the tongue compared to?"
+        },
+        {
+          "answers": [
+            "Evil",
+            "Wisdom",
+            "Mercy"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Thou lovest evil more than good.”",
           "q": "What does the wicked man love more than good?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "It is harmless and quiet",
+            "It is cutting and dangerous",
+            "It is weak and useless"
+          ],
+          "correct": 1,
+          "explanation": "A sharp razor suggests speech that can cut, wound, and destroy.",
+          "q": "What does the comparison to a sharp razor suggest about the tongue?"
         },
         {
           "answers": [
             "Lying",
-            "Praise",
-            "Mercy"
+            "Praising God",
+            "Keeping silence"
           ],
           "correct": 0,
-          "explanation": "He loves “lying rather than to speak righteousness.”",
-          "q": "What does he love instead of speaking righteousness?"
+          "explanation": "The verse says he loves lying rather than speaking righteousness.",
+          "q": "What does the wicked man prefer to speaking righteousness?"
         },
         {
           "answers": [
-            "Comforting words",
-            "Devouring words",
-            "Wise words"
+            "Deceitful work",
+            "Healing work",
+            "Agricultural work"
           ],
-          "correct": 1,
-          "explanation": "The verse calls them “all devouring words.”",
-          "q": "What kind of words does the deceitful tongue love?"
+          "correct": 0,
+          "explanation": "The tongue is described as “working deceitfully.”",
+          "q": "What kind of work does the tongue perform according to the passage?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "God’s goodness endures, while his mischief is condemned",
-            "Both are said to endure forever",
-            "Mischief is praised above goodness"
+            "The wicked man prefers evil and lying to good and righteousness",
+            "The righteous prefer wealth to mercy",
+            "The mighty man prefers silence to speech"
           ],
           "correct": 0,
-          "explanation": "God’s goodness “endureth continually,” while the man boasts in mischief.",
-          "q": "What contrast is made between God’s goodness and the man’s mischief?"
+          "explanation": "The passage presents a deliberate preference for evil and lying over goodness and righteousness.",
+          "q": "What ethical reversal is described in these verses?"
         },
         {
           "answers": [
-            "It is harmless",
-            "It can cut and deceive",
-            "It brings physical healing"
+            "It portrays speech as sharp and harmful",
+            "It portrays speech as soft and comforting",
+            "It portrays speech as musical"
           ],
-          "correct": 1,
-          "explanation": "A sharp razor pictures speech that is cutting and deceitful.",
-          "q": "What does the razor image suggest about the man’s tongue?"
+          "correct": 0,
+          "explanation": "A razor can cut, making it an image of damaging and dangerous words.",
+          "q": "Why is the razor image especially fitting for deceitful speech?"
         },
         {
           "answers": [
-            "The passage condemns boasting, lies, and harmful speech",
-            "The passage celebrates wealth and power",
-            "The passage teaches how to grow olive trees"
+            "His wrongdoing is presented as a chosen preference",
+            "His wrongdoing is shown as an accident",
+            "His wrongdoing is described as something he hates"
           ],
           "correct": 0,
-          "explanation": "These verses condemn the man’s evil boasting, lying, and destructive tongue.",
-          "q": "Which statement best summarizes verses 1–6?"
+          "explanation": "The repeated statements that he loves evil and lying show a settled moral preference.",
+          "q": "What does the repeated emphasis on love reveal about the wicked man?"
         }
       ],
-      "idea": 1
+      "idea": "The poet condemns the wicked man’s harmful speech and deceit. His tongue devises mischief like a sharp razor, and he loves evil and lying more than goodness and righteousness."
     },
     {
-      "paragraph": 2,
+      "paragraph": "God will destroy and uproot the wicked man from his dwelling place and from the land of the living. The righteous will see, fear, and laugh at him because he trusted in riches and strengthened himself in wickedness instead of making God his strength.",
       "start_verse": 7,
-      "end_verse": 8,
-      "title": "The Punishment of the Wicked",
+      "end_verse": 9,
+      "title": "The Punishment of the Wicked Informer",
       "easy": [
         {
           "answers": [
-            "God",
-            "The righteous man",
-            "The king"
+            "Destroy and uproot him",
+            "Make him king",
+            "Give him greater riches"
           ],
           "correct": 0,
-          "explanation": "The verse says, “God shall likewise destroy thee for ever.”",
-          "q": "Who will destroy the wicked man?"
-        },
-        {
-          "answers": [
-            "Build it higher",
-            "Take him away from it",
-            "Fill it with riches"
-          ],
-          "correct": 1,
-          "explanation": "God will take him away and pluck him out of his dwelling place.",
-          "q": "What will God do to his dwelling place?"
+          "explanation": "The passage says God will destroy him and root him out of the land of the living.",
+          "q": "What will God do to the wicked man?"
         },
         {
           "answers": [
             "The righteous",
-            "The wicked",
-            "The merchants"
+            "The merchants",
+            "The mighty men"
           ],
           "correct": 0,
           "explanation": "The KJV says, “The righteous also shall see, and fear.”",
           "q": "Who will see and fear?"
-        }
-      ],
-      "medium": [
-        {
-          "answers": [
-            "Destroy, take away, and root out",
-            "Praise, protect, and establish",
-            "Hide, strengthen, and bless"
-          ],
-          "correct": 0,
-          "explanation": "The passage describes destruction, removal, and being rooted out.",
-          "q": "Which sequence describes the punishment?"
         },
-        {
-          "answers": [
-            "The house of God",
-            "The land of the living",
-            "The city gate"
-          ],
-          "correct": 1,
-          "explanation": "He will be rooted out “of the land of the living.”",
-          "q": "From what place will the wicked man be rooted out?"
-        },
-        {
-          "answers": [
-            "They fear and laugh at him",
-            "They hide him",
-            "They honor him"
-          ],
-          "correct": 0,
-          "explanation": "The righteous “shall see, and fear, and shall laugh at him.”",
-          "q": "How do the righteous respond to his downfall?"
-        }
-      ],
-      "challenge": [
-        {
-          "answers": [
-            "Complete removal and loss of life",
-            "Greater earthly prosperity",
-            "A temporary journey"
-          ],
-          "correct": 0,
-          "explanation": "The image indicates severe removal from life and community.",
-          "q": "What does being rooted out of the land of the living suggest?"
-        },
-        {
-          "answers": [
-            "Because the judgment is severe",
-            "Because they envy his riches",
-            "Because they want to join him"
-          ],
-          "correct": 0,
-          "explanation": "Their fear reflects the seriousness of God’s judgment.",
-          "q": "Why do the righteous fear when they see the wicked man’s punishment?"
-        },
-        {
-          "answers": [
-            "A deceitful life leads to removal and destruction",
-            "Wickedness guarantees protection",
-            "Evil leads to lasting honor"
-          ],
-          "correct": 0,
-          "explanation": "The wicked man’s evil conduct is followed by divine destruction and removal.",
-          "q": "What relationship does the passage show between wickedness and judgment?"
-        }
-      ],
-      "idea": 2
-    },
-    {
-      "paragraph": 3,
-      "start_verse": 9,
-      "end_verse": 10,
-      "title": "Trust in Wealth versus Trust in God",
-      "easy": [
         {
           "answers": [
             "The abundance of his riches",
@@ -223,134 +243,102 @@
             "The prayers of the righteous"
           ],
           "correct": 0,
-          "explanation": "He “trusted in the abundance of his riches.”",
+          "explanation": "He trusted in the abundance of his riches.",
           "q": "In what did the wicked man trust?"
-        },
-        {
-          "answers": [
-            "A barren fig tree",
-            "A green olive tree",
-            "A cedar tree"
-          ],
-          "correct": 1,
-          "explanation": "He says, “I am like a green olive tree.”",
-          "q": "What kind of tree does the psalmist say he is like?"
-        },
-        {
-          "answers": [
-            "In the house of God",
-            "In the land of the living",
-            "At the king’s gate"
-          ],
-          "correct": 0,
-          "explanation": "The tree is “in the house of God.”",
-          "q": "Where is the green olive tree located?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "The wicked trusts riches, while the psalmist trusts God’s mercy",
-            "Both trust in riches",
-            "The wicked trusts God, while the psalmist trusts evil"
+            "A source of help and security",
+            "A measure of wealth",
+            "A sign of fear"
           ],
           "correct": 0,
-          "explanation": "The verses contrast trust in riches with trust in God’s mercy.",
-          "q": "What is the main difference between the wicked man and the psalmist?"
+          "explanation": "Here, strength means a source of protection, help, and security.",
+          "q": "What does “strength” mean in the phrase “made not God his strength”?"
         },
         {
           "answers": [
-            "He did not rely on God",
-            "He praised God continually",
-            "He lived in God’s house"
+            "His false confidence will be exposed",
+            "They want to imitate his wickedness",
+            "They are afraid of his riches"
           ],
           "correct": 0,
-          "explanation": "The phrase means that he did not make God his source of strength.",
-          "q": "What does the phrase “made not God his strength” mean?"
+          "explanation": "His trust in riches and wickedness will be shown to be vain.",
+          "q": "Why will the righteous laugh at the wicked man?"
         },
         {
           "answers": [
-            "He trusts in the mercy of God",
-            "He has great earthly riches",
-            "He loves deceitful speech"
+            "He trusted riches and wickedness instead of God, so he is uprooted",
+            "He trusted God, so he was destroyed",
+            "He gave away his riches, so he was praised"
           ],
           "correct": 0,
-          "explanation": "The comparison follows his statement, “I trust in the mercy of God.”",
-          "q": "Why does the psalmist compare himself to a green olive tree?"
+          "explanation": "The passage connects his downfall with refusing to make God his strength.",
+          "q": "What is the connection between the wicked man’s trust and his punishment?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "Life, flourishing, and security in God",
-            "Deceit and destruction",
-            "Removal from the land of the living"
+            "The wicked trusts riches and wickedness, while God is the true strength",
+            "The wicked trusts God, while the righteous trust riches",
+            "The wicked praises righteousness, while the righteous praise deceit"
           ],
           "correct": 0,
-          "explanation": "The flourishing tree represents the psalmist’s secure trust in God.",
-          "q": "What does the green olive tree symbolize in this passage?"
+          "explanation": "The verses contrast misplaced human confidence with God as the true source of strength.",
+          "q": "What is the central contrast in these verses?"
         },
         {
           "answers": [
-            "He depends on evil rather than God",
-            "He has become righteous",
-            "He has abandoned all earthly possessions"
+            "Complete removal from earthly life and society",
+            "A temporary move to another house",
+            "A season of renewed growth"
           ],
           "correct": 0,
-          "explanation": "He strengthens himself through wickedness instead of relying on God.",
-          "q": "What does the wicked man’s self-strengthening in wickedness reveal?"
+          "explanation": "The phrase portrays complete removal from the living community.",
+          "q": "What does being rooted out of “the land of the living” communicate?"
         },
         {
           "answers": [
-            "Trust in wealth differs greatly from trust in God’s mercy",
-            "All sources of trust have the same result",
-            "Riches always produce righteousness"
+            "They fear God’s judgment but mock the wicked man’s failed confidence",
+            "They fear the wicked man and desire his riches",
+            "They laugh because judgment has disappeared"
           ],
           "correct": 0,
-          "explanation": "The passage contrasts the unstable trust of the wicked with faithful trust in God.",
-          "q": "What principle is taught by the contrast in these verses?"
+          "explanation": "The righteous respond with awe at judgment and derision toward the wicked man’s ruin.",
+          "q": "Why are both fear and laughter attributed to the righteous?"
         }
       ],
-      "idea": 3
+      "idea": "God will destroy and uproot the wicked man from his dwelling place and from the land of the living. The righteous will see, fear, and laugh at him because he trusted in riches and strengthened himself in wickedness instead of making God his strength."
     },
     {
-      "paragraph": 4,
-      "start_verse": 11,
+      "paragraph": "In contrast to the wicked man, the poet is like a green olive tree in the house of God. He trusts in God’s mercy forever, praises God because of what He has done, and waits on His good name before the saints.",
+      "start_verse": 10,
       "end_verse": 11,
-      "title": "Gratitude and Hope before God’s Faithful Ones",
+      "title": "The Poet’s Trust and Thanksgiving",
       "easy": [
         {
           "answers": [
-            "The Lord",
-            "The wicked man",
-            "The king"
+            "A sharp razor",
+            "A green olive tree",
+            "A broken tent"
           ],
-          "correct": 0,
-          "explanation": "He says, “I will praise thee for ever.”",
-          "q": "Whom will the psalmist praise?"
+          "correct": 1,
+          "explanation": "He says, “I am like a green olive tree in the house of God.”",
+          "q": "What is the poet compared to?"
         },
         {
           "answers": [
-            "For ever",
-            "For one day",
-            "Until evening"
+            "The abundance of riches",
+            "The mercy of God",
+            "His own wickedness"
           ],
-          "correct": 0,
-          "explanation": "The verse says, “I will praise thee for ever.”",
-          "q": "How long will the psalmist praise God?"
+          "correct": 1,
+          "explanation": "The poet says, “I trust in the mercy of God.”",
+          "q": "In what does the poet trust?"
         },
-        {
-          "answers": [
-            "God’s name",
-            "His riches",
-            "The wicked man’s approval"
-          ],
-          "correct": 0,
-          "explanation": "He says, “I will wait on thy name.”",
-          "q": "In what will the psalmist wait?"
-        }
-      ],
-      "medium": [
         {
           "answers": [
             "Because God has done it",
@@ -358,63 +346,75 @@
             "Because the wicked praised him"
           ],
           "correct": 0,
-          "explanation": "The reason given is, “because thou hast done it.”",
-          "q": "Why will the psalmist praise God?"
+          "explanation": "He says, “I will praise thee for ever, because thou hast done it.”",
+          "q": "Why will the poet praise God?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Life, flourishing, and stability",
+            "Violence and deceit",
+            "Removal from the land of the living"
+          ],
+          "correct": 0,
+          "explanation": "A green olive tree suggests vitality and flourishing in God’s house.",
+          "q": "What does the image of a green olive tree suggest?"
         },
         {
           "answers": [
-            "God’s faithful people",
-            "Deceitful speakers",
-            "The wealthy wicked"
+            "For ever and ever",
+            "For one day",
+            "Until his riches increase"
           ],
           "correct": 0,
-          "explanation": "The saints are God’s faithful and holy people.",
-          "q": "What does “thy saints” refer to in this verse?"
+          "explanation": "The verse says, “I trust in the mercy of God for ever and ever.”",
+          "q": "How long does the poet say he will trust in God’s mercy?"
         },
         {
           "answers": [
-            "Praise and waiting",
-            "Lying and boasting",
-            "Fear and destruction"
+            "Before the saints",
+            "Before the wicked man",
+            "Before earthly kings only"
           ],
           "correct": 0,
-          "explanation": "He promises to praise God and wait on His name.",
-          "q": "Which two responses does the psalmist express?"
+          "explanation": "The poet waits on God’s name because it is good before His saints.",
+          "q": "Before whom is God’s name described as good?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "It is lasting and continual",
-            "It is temporary",
-            "It is offered only in trouble"
+            "He trusts God’s mercy and flourishes, rather than trusting riches and wickedness",
+            "He boasts in evil more than the wicked man",
+            "He is uprooted from the land of the living"
           ],
           "correct": 0,
-          "explanation": "The phrase expresses enduring praise.",
-          "q": "What does “for ever” show about the psalmist’s praise?"
+          "explanation": "The poet’s trust in God’s mercy contrasts with the wicked man’s trust in riches and evil.",
+          "q": "How does the poet contrast himself with the wicked man?"
         },
         {
           "answers": [
-            "The psalmist praises God for His actions and continues trusting His name",
-            "The psalmist stops trusting after praising",
-            "The psalmist waits for earthly riches"
+            "Trust in God’s mercy leads the poet to continual praise",
+            "Trust in riches leads the poet to righteousness",
+            "Fear of the saints leads the poet to deceit"
           ],
           "correct": 0,
-          "explanation": "Gratitude for what God has done is joined with continued trust in His name.",
-          "q": "How are praise and waiting connected in this verse?"
+          "explanation": "Because he trusts God’s mercy, the poet promises to praise Him forever.",
+          "q": "What relationship between trust and praise appears in these verses?"
         },
         {
           "answers": [
-            "The testimony is given in the presence of God’s faithful people",
-            "The psalmist hides his faith",
-            "The saints oppose the psalmist"
+            "It is intended to be continual",
+            "It is limited to one occasion",
+            "It is offered only when wealth is present"
           ],
           "correct": 0,
-          "explanation": "The phrase places the psalmist’s praise and hope before the faithful community.",
-          "q": "What does the phrase “before thy saints” add to the meaning?"
+          "explanation": "The phrase indicates lasting and continual praise.",
+          "q": "What does “for ever” imply about the poet’s praise?"
         }
       ],
-      "idea": 4
+      "idea": "In contrast to the wicked man, the poet is like a green olive tree in the house of God. He trusts in God’s mercy forever, praises God because of what He has done, and waits on His good name before the saints."
     }
   ]
 }
