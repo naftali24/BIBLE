@@ -1,0 +1,425 @@
+{
+  "book": "Ecclesiastes",
+  "book_he": "קהלת",
+  "book_chapters": 12,
+  "chapter": 10,
+  "title": "קהלת פרק 10",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3110.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3110.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ECC/10-613e2e9bfdca743de2edcb2a7accc3f7.mp3?version_id=1",
+  "verses": [
+    "זְבוּבֵי מָוֶת, יַבְאִישׁ יַבִּיעַ שֶׁמֶן רוֹקֵחַ; יָקָר מֵחָכְמָה מִכָּבוֹד, סִכְלוּת מְעָט.",
+    "לֵב חָכָם לִימִינוֹ, וְלֵב כְּסִיל לִשְׂמֹאלוֹ.",
+    "וְגַם-בַּדֶּרֶךְ כשהסכל כְּשֶׁסָּכָל הֹלֵךְ, לִבּוֹ חָסֵר; וְאָמַר לַכֹּל, סָכָל הוּא.",
+    "אִם-רוּחַ הַמּוֹשֵׁל תַּעֲלֶה עָלֶיךָ, מְקוֹמְךָ אַל-תַּנַּח: כִּי מַרְפֵּא, יַנִּיחַ חֲטָאִים גְּדוֹלִים.",
+    "יֵשׁ רָעָה, רָאִיתִי תַּחַת הַשָּׁמֶשׁ--כִּשְׁגָגָה, שֶׁיֹּצָא מִלִּפְנֵי הַשַּׁלִּיט.",
+    "נִתַּן הַסֶּכֶל, בַּמְּרוֹמִים רַבִּים; וַעֲשִׁירִים, בַּשֵּׁפֶל יֵשֵׁבוּ.",
+    "רָאִיתִי עֲבָדִים, עַל-סוּסִים; וְשָׂרִים הֹלְכִים כַּעֲבָדִים, עַל-הָאָרֶץ.",
+    "חֹפֵר גּוּמָּץ, בּוֹ יִפּוֹל; וּפֹרֵץ גָּדֵר, יִשְּׁכֶנּוּ נָחָשׁ.",
+    "מַסִּיעַ אֲבָנִים, יֵעָצֵב בָּהֶם; בּוֹקֵעַ עֵצִים, יִסָּכֶן בָּם.",
+    "אִם-קֵהָה הַבַּרְזֶל, וְהוּא לֹא-פָנִים קִלְקַל, וַחֲיָלִים, יְגַבֵּר; וְיִתְרוֹן הַכְשֵׁיר, חָכְמָה.",
+    "אִם-יִשֹּׁךְ הַנָּחָשׁ, בְּלוֹא-לָחַשׁ; וְאֵין יִתְרוֹן, לְבַעַל הַלָּשׁוֹן.",
+    "דִּבְרֵי פִי-חָכָם, חֵן; וְשִׂפְתוֹת כְּסִיל, תְּבַלְּעֶנּוּ.",
+    "תְּחִלַּת דִּבְרֵי-פִיהוּ, סִכְלוּת; וְאַחֲרִית פִּיהוּ, הוֹלֵלוּת רָעָה.",
+    "וְהַסָּכָל, יַרְבֶּה דְבָרִים; לֹא-יֵדַע הָאָדָם, מַה-שֶּׁיִּהְיֶה, וַאֲשֶׁר יִהְיֶה מֵאַחֲרָיו, מִי יַגִּיד לוֹ.",
+    "עֲמַל הַכְּסִילִים, תְּיַגְּעֶנּוּ--אֲשֶׁר לֹא-יָדַע, לָלֶכֶת אֶל-עִיר.",
+    "אִי-לָךְ אֶרֶץ, שֶׁמַּלְכֵּךְ נָעַר; וְשָׂרַיִךְ, בַּבֹּקֶר יֹאכֵלוּ.",
+    "אַשְׁרֵיךְ אֶרֶץ, שֶׁמַּלְכֵּךְ בֶּן-חוֹרִים; וְשָׂרַיִךְ בָּעֵת יֹאכֵלוּ, בִּגְבוּרָה וְלֹא בַשְּׁתִי.",
+    "בַּעֲצַלְתַּיִם, יִמַּךְ הַמְּקָרֶה; וּבְשִׁפְלוּת יָדַיִם, יִדְלֹף הַבָּיִת.",
+    "לִשְׂחוֹק עֹשִׂים לֶחֶם, וְיַיִן יְשַׂמַּח חַיִּים; וְהַכֶּסֶף, יַעֲנֶה אֶת-הַכֹּל.",
+    "גַּם בְּמַדָּעֲךָ, מֶלֶךְ אַל-תְּקַלֵּל, וּבְחַדְרֵי מִשְׁכָּבְךָ, אַל-תְּקַלֵּל עָשִׁיר: כִּי עוֹף הַשָּׁמַיִם יוֹלִיךְ אֶת-הַקּוֹל, וּבַעַל הכנפים כְּנָפַיִם יַגֵּיד דָּבָר."
+  ],
+  "english": [
+    "Dead flies cause the ointment of the apothecary to send forth a stinking savour:\nso doth a little folly him that is in reputation for wisdom\nand honour.",
+    "A wise man’s heart\nis at his right hand; but a fool’s heart at his left.",
+    "Yea also, when he that is a fool walketh by the way, his wisdom faileth\nhim, and he saith to every one\nthat he\nis a fool.",
+    "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+    "There is an evil\nwhich I have seen under the sun, as an error\nwhich proceedeth from the ruler:",
+    "Folly is set in great dignity, and the rich sit in low place.",
+    "I have seen servants upon horses, and princes walking as servants upon the earth.",
+    "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+    "Whoso removeth stones shall be hurt therewith;\nand he that cleaveth wood shall be endangered thereby.",
+    "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom\nis profitable to direct.",
+    "Surely the serpent will bite without enchantment; and a babbler is no better.",
+    "The words of a wise man’s mouth\nare gracious; but the lips of a fool will swallow up himself.",
+    "The beginning of the words of his mouth\nis foolishness: and the end of his talk\nis mischievous madness.",
+    "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+    "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+    "Woe to thee, O land, when thy king\nis a child, and thy princes eat in the morning!",
+    "Blessed\nart thou, O land, when thy king\nis the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+    "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+    "A feast is made for laughter, and wine maketh merry: but money answereth all\nthings.",
+    "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter."
+  ],
+  "steinsaltz": [
+    "כיוצא בזה – זְבוּבֵי מָוֶת, זבובים מתים או: זבובי קלקול, אפילו אחד מהם יַבְאִישׁ, יסריח, יַבִּיעַ, יעלה אבעבועות בשֶׁמֶן רוֹקֵחַ, שמן ריחני ויקר. אף שהם יצורים זעירים, די בהם כדי לפגום בריחו של שמן מבושם. כך יָקָר, בעלת משקל יותר מֵחָכְמָה ומִכָּבוֹד סִכְלוּת, טיפשות מְעָט. די במעט סכלות להזיק לסביבה מעודנת ואנינה, ובהמשך לאמור לעיל: די בחוטא אחד שיבאיש את מפעליו של החכם.",
+    "לֵב חָכָם פונה לִימִינוֹ, לצד הנכון והטוב לו, וְאילו לֵב כְּסִיל – לִשְׂמֹאלוֹ, לצד הלא נכון.",
+    "וְגַם־בַּדֶּרֶךְ כְּשֶׁסָּכָל הֹלֵךְ, לִבּוֹ חָסֵר דעת, וְאָמַר לַכֹּל שסָכָל הוּא. הילוכו, הנהגתו ודיבוריו הסתמיים של הטיפש מעידים על טיפשותו. מהותו ניכרת לעין כול.",
+    "עצה לאיש החכם: אִם־רוּחַ הַמּוֹשֵׁל תַּעֲלֶה עָלֶיךָ, אם המושל יכעס עליך, את מְקוֹמְךָ אַל־תַּנַּח, תעזוב. הישאר במקומך הטוב ואל תסתלק ממנו מחמת הנזיפה או הבושה, כִּי מַרְפֵּא יַנִּיחַ חֲטָאִים גְּדוֹלִים. אפילו חטאים גדולים ייסלחו במשך הזמן, כשכעס המושל ירפה, יחלש או יפוג, אבל אם תיטוש את מקומך מתוך מבוכה תאבד הכול.",
+    "יֵשׁ רָעָה רָאִיתִי תַּחַת הַשָּׁמֶשׁ – כִּשְׁגָגָה שֶׁיֹּצָא, שיוצאת מִלִּפְנֵי הַשַּׁלִּיט. אחת הרעות בעולם היא טעותו של בעל שררה. טעותו של בעל הסמכות עלולה להביא לרעה גדולה מטעותו של אדם פשוט. ממנה נובעים עיוות וחוסר צדק –",
+    "לעתים נִתַּן הַסֶּכֶל, הטיפשות בַּמְּרוֹמִים רַבִּים. קורה שחדלי האישים הם העולים לגדולה, ואילו עֲשִׁירִים ברוחם בַּשֵּׁפֶל יֵשֵׁבוּ.",
+    "רָאִיתִי עֲבָדִים המתנהגים כאדונים ורוכבים עַל־סוּסִים, וְשָׂרִים הֹלְכִים כַּעֲבָדִים עַל־הָאָרֶץ.",
+    "יש שאנשים נכשלים דווקא מתוך מעשיהם שלהם, ובניגוד לכוונותיהם: חֹפֵר גּוּמָּץ, גומה, בור – בּוֹ יִפּוֹל, וּפֹרֵץ גָּדֵר – יִשְּׁכֶנּוּ נָחָשׁ שהתחבא בין אבני הגדר וסדקיה.",
+    "לא ברור אם העבודה תביא עמה גמול הגון, שהרי מי שמַסִּיעַ אֲבָנִים לתכלית חיובית, לא תמיד יעלה בידו להשיגה. מכל מקום צפוי וידוע שהוא יֵעָצֵב בָּהֶם, באבנים. הסבל והצער בעמלו בעת הולכתן ודאיים. כך גם הבּוֹקֵעַ, חוטב עֵצִים יִסָּכֶן, יסתכן בָּם, שכן הוא עלול להידקר ולהיפצע משבביהם; או: גופו יתחמם מדי בעת העבודה הקשה.",
+    "אִם־קֵהָה הַבַּרְזֶל של הגרזן או של כלי חיתוך אחר, וְהוּא, בוקע העצים לֹא את פָנִים, פי הסכין, צדו החד קִלְקַל, השחיז – אז וַחֲיָלִים יְגַבֵּר, יהיה צורך להשקיע כוח רב מיותר בעבודה בכלי כזה, וללא הועיל. מבחינה זו – וְיִתְרוֹן הַכְשֵׁיר חָכְמָה. יתרון החכמה על העמל הפיזי הוא בכך שהיא מכשירה ומתקנת את המציאות בלא מאמץ והפעלת כוח.",
+    "אִם־יִשֹּׁךְ הַנָּחָשׁ – בְּלוֹא, בלי ששום לָחַשׁ מגן. לעתים שום לחש אינו עוזר, והנחש מכיש, ופגיעתו רעה – וְאֵין יִתְרוֹן לְבַעַל הַלָּשׁוֹן. כך רעה היא פגיעתו של המדבר רעות, ואי-אפשר לעצור את הנזקים המשתלשלים ממנה.",
+    "לעומת בעל הלשון דִּבְרֵי פִי־חָכָם הם דברי חֵן. ואילו הדברים היוצאים משִׂפְתוֹת כְּסִיל תְּבַלְּעֶנּוּ, יביאו לאבדן הכסיל או לאבדן חנו בעיני הזולת.",
+    "תְּחִלַּת דִּבְרֵי־פִיהוּ סִכְלוּת, וְאַחֲרִית פִּיהוּ הוֹלֵלוּת רָעָה. דבריו המתחילים בטיפשות מסתיימים בשיגעון.",
+    "ולעומת החכם, המשתדל לשתוק, שהרי סייג לחכמה שתיקה, הַסָּכָל יַרְבֶּה דְבָרִים. בדיבוריו הרבים הוא מתיימר לנבא את העתידות, אף על פי שלֹא־יֵדַע הָאָדָם מַה־שֶּׁיִּהְיֶה, ואת אֲשֶׁר יִהְיֶה מֵאַחֲרָיו, לאחר מכן, בעתיד מִי יַגִּיד לוֹ?!",
+    "עֲמַל הַכְּסִילִים תְּיַגְּעֶנּוּ, אֲשֶׁר, כי לֹא־יָדַע לָלֶכֶת אֶל־עִיר. מכיוון שהכסיל אינו יודע ללכת אל יעדיו, הוא מתעייף ומאבד כוחותיו לריק.",
+    "חכמתו וסכלותו של אדם מתבטאות, בין השאר, באופן התנהלותו: אִי, אוי לָךְ, אֶרֶץ שֶׁמַּלְכֵּךְ נָעַר, צעיר ובלתי מנוסה, ההורס אותך בהבליו, וְשָׂרַיִךְ בַּבֹּקֶר יֹאכֵלוּ, במקום לעבוד ולעשות לטובת המדינה.",
+    "אַשְׁרֵיךְ, אֶרֶץ שֶׁמַּלְכֵּךְ בֶּן־חוֹרִים, בנם של חשובים, איש מעלה, וְשָׂרַיִךְ בָּעֵת יֹאכֵלוּ. הם אינם אוכלים מיד בקומם מן השינה אלא בזמן הראוי, המתאים למשימותיהם. אז הם אוכלים בִּגְבוּרָה, די צורכם להזינם בכוח וְלֹא בַשְּׁתִי, ואינם שותים לשכרה.",
+    "בַּעֲצַלְתַּיִם, מתוך עצלות יִמַּךְ, נעשה נמוך הַמְּקָרֶה, התקרה. אם אין מתחזקים אותה כראוי, היא נוטה מטה ועלולה ליפול לבסוף. וּבְשִׁפְלוּת יָדַיִם, באי-מעש יִדְלֹף הַבָּיִת. בעקבות הזנחת הבית ייווצרו חורים בתקרתו, ומים ידלפו לתוכו.",
+    "בצד ערכן של החכמה והחריצות מזכיר קהלת את כוחו של הכסף: לִשְׂחוֹק, לשם שעשוע עֹשִׂים לֶחֶם, סעודה, וְיַיִן יְשַׂמַּח את האנשים החַיִּים, וְהַכֶּסֶף יַעֲנֶה אֶת־הַכֹּל, מספק מענה לכל דבר.",
+    "גַּם בְּמַדָּעֲךָ, אפילו במחשבתך מֶלֶךְ אַל־תְּקַלֵּל. ואפילו בהיותך לבד בְחַדְרֵי מִשְׁכָּבְךָ אַל־תְּקַלֵּל עָשִׁיר, כִּי עוֹף הַשָּׁמַיִם יוֹלִיךְ אֶת־הַקּוֹל, וּבַעַל כְּנָפַיִם, עוף יַגֵּיד דָּבָר. סופם של דברים להתגלות, אם לא באמצעות אדם – על ידי עופות וקשרים אווריריים נעלמים. עליך להיזהר אפוא אפילו ממחשבות, ובוודאי ממלים העלולות להמיט עליך צרות."
+  ],
+  "ai_explanation": [
+    "אפילו זבוב קטן ומת יכול להסריח שמן ריחני ויקר ולפגום בו. כך גם מעט סכלות עלולה להזיק לסביבה מעודנת, ואף חוטא אחד עלול לפגום במפעליו של החכם.",
+    "לבו של החכם פונה לצד הנכון והטוב, המסומל בימין, ואילו לבו של הכסיל פונה לצד הלא נכון, המסומל בשמאל.",
+    "הכסיל ניכר בהליכתו, בהנהגתו ובדיבוריו, משום שלבו חסר דעת. טיפשותו גלויה לעיני כול.",
+    "אם המושל כועס עליך, אל תעזוב את מקומך הטוב מתוך נזיפה או מבוכה. עם הזמן הכעס עשוי להיחלש ואף חטאים גדולים עשויים להיסלח, אך עזיבת המקום עלולה לגרום לך לאבד הכול.",
+    "טעות של בעל שררה היא רעה גדולה, משום שטעותו של אדם בעל סמכות עלולה להביא לעיוות ולחוסר צדק.",
+    "לעיתים הטיפשות עולה למעמד גבוה, ואילו אנשים עשירים ברוחם ובמעלותיהם יושבים בשפל.",
+    "לעיתים נראים עבדים מתנהגים כאדונים ורוכבים על סוסים, ואילו שרים הולכים על הארץ כאילו היו עבדים.",
+    "אנשים עלולים להיכשל דווקא במעשיהם שלהם ובניגוד לכוונותיהם: החופר בור נופל בו, ופורץ גדר עלול להישכו בידי נחש שהסתתר בה.",
+    "הסובל בהסעת אבנים צפוי לצער ולעמל, גם אם מטרתו חיובית. גם חוטב העצים מסתכן בפציעה או בחימום גופו עקב העבודה הקשה.",
+    "כאשר הברזל קהה והחוטב אינו משחיז את צדו החד, נדרש כוח רב והעבודה נעשית ללא תועלת. יתרון החכמה הוא ביכולתה לתקן ולהכשיר את המציאות בלי מאמץ פיזי מיותר.",
+    "לעיתים הנחש מכיש בלי שלחש כלשהו יוכל להגן מפניו. כך גם פגיעתו של המדבר רעות עלולה לגרום נזק, ואין לבעל הלשון יתרון לעצור את תוצאותיה.",
+    "דברי החכם נושאים חן, ואילו דברי הכסיל עלולים להביא לאובדנו או לאבדן חנו בעיני הזולת.",
+    "דברי הכסיל מתחילים בטיפשות ומסתיימים בהוללות רעה, כלומר בדברים הנראים כשיגעון.",
+    "הכסיל מרבה לדבר ומתיימר לדעת מה יהיה בעתיד, אף שאין האדם יודע מה יקרה בהמשך ומי יוכל לגלות לו זאת.",
+    "עמל הכסילים מתיש אותם, משום שאינם יודעים כיצד להגיע אל יעדיהם ולכן מכלים את כוחם לריק.",
+    "אוי לארץ שמלכה צעיר וחסר ניסיון, ושריה אוכלים כבר בבוקר במקום לעבוד ולפעול לטובת המדינה.",
+    "אשרי הארץ שמלכה הוא בן חורין ואיש מעלה, ושריה אוכלים בזמן הראוי, בכמות המספקת כוח, ואינם שותים לשכרה.",
+    "עצלות ואי-מעש גורמות לתקרה לשקוע ולבית להיפגע. הזנחת הבית עלולה ליצור חורים בתקרה ולגרום לדליפת מים.",
+    "לחם וסעודה עשויים לשמש לשעשוע, יין משמח את החיים, והכסף מספק מענה לכל דבר.",
+    "אין לקלל מלך או עשיר אפילו במחשבה ובפרטיות, משום שהדברים עלולים להתגלות בסופו של דבר, באמצעות אדם או בדרכים נסתרות."
+  ],
+  "ai_explanation_en": [
+    "Even a small dead fly can make expensive, fragrant oil smell bad and spoil it. Likewise, a little foolishness can damage a refined setting, and even one sinner can spoil a wise person's work.",
+    "The wise person's heart turns toward what is right and good, symbolized by the right side, while the fool's heart turns toward what is wrong, symbolized by the left side.",
+    "The fool is recognizable in his walking, conduct, and speech because he lacks understanding. His foolishness is visible to everyone.",
+    "If the ruler becomes angry with you, do not leave your good position out of embarrassment or because of the rebuke. In time, the ruler's anger may weaken and even serious sins may be forgiven, whereas abandoning your position could make you lose everything.",
+    "A mistake made by a person in authority is a serious evil, because the error of someone with power can produce distortion and injustice.",
+    "At times foolishness is placed in a high position, while people who are rich in spirit and virtue sit in lowly positions.",
+    "Sometimes servants are seen acting like masters and riding horses, while officials walk on the ground as though they were servants.",
+    "People may fail precisely through their own actions and contrary to their intentions: one who digs a pit may fall into it, and one who breaks through a fence may be bitten by a snake hiding there.",
+    "The person who moves stones is certain to experience toil and distress, even if the goal is positive. Similarly, a woodcutter risks injury or overheating because of the hard work.",
+    "When the iron is dull and the woodcutter does not sharpen its cutting edge, great force is required and the work is ineffective. The advantage of wisdom is that it can prepare and repair reality without unnecessary physical effort.",
+    "Sometimes a snake bites without any spell being able to protect against it. Similarly, the harm caused by a person who speaks evil may spread, and the speaker has no advantage for stopping its consequences.",
+    "The wise person's words are gracious, while the fool's words may bring about his ruin or cause him to lose favor in the eyes of others.",
+    "The fool's words begin in foolishness and end in harmful folly—in speech that appears almost insane.",
+    "The fool speaks at length and pretends to know what the future will bring, even though no person knows what will happen later or who can tell him.",
+    "The labor of fools exhausts them because they do not know how to reach their goals and therefore waste their strength.",
+    "Woe to a land whose king is young and inexperienced, and whose officials eat in the morning instead of working for the good of the country.",
+    "Happy is the land whose king is a freeborn and distinguished person, and whose officials eat at the proper time, in an amount that gives them strength, without drinking to excess.",
+    "Laziness and inactivity cause the ceiling to sag and the house to deteriorate. Neglect may create holes in the roof and cause water to leak into the house.",
+    "Bread and a meal may be used for enjoyment, wine gladdens the living, and money provides an answer for everything.",
+    "One should not curse a king or a wealthy person even in thought and in private, because the matter may eventually become known, through a person or by hidden means."
+  ],
+  "perush": [
+    "אפילו זבוב קטן ומת יכול להסריח שמן ריחני ויקר ולפגום בו. כך גם מעט סכלות עלולה להזיק לסביבה מעודנת, ואף חוטא אחד עלול לפגום במפעליו של החכם.",
+    "לבו של החכם פונה לצד הנכון והטוב, המסומל בימין, ואילו לבו של הכסיל פונה לצד הלא נכון, המסומל בשמאל.",
+    "הכסיל ניכר בהליכתו, בהנהגתו ובדיבוריו, משום שלבו חסר דעת. טיפשותו גלויה לעיני כול.",
+    "אם המושל כועס עליך, אל תעזוב את מקומך הטוב מתוך נזיפה או מבוכה. עם הזמן הכעס עשוי להיחלש ואף חטאים גדולים עשויים להיסלח, אך עזיבת המקום עלולה לגרום לך לאבד הכול.",
+    "טעות של בעל שררה היא רעה גדולה, משום שטעותו של אדם בעל סמכות עלולה להביא לעיוות ולחוסר צדק.",
+    "לעיתים הטיפשות עולה למעמד גבוה, ואילו אנשים עשירים ברוחם ובמעלותיהם יושבים בשפל.",
+    "לעיתים נראים עבדים מתנהגים כאדונים ורוכבים על סוסים, ואילו שרים הולכים על הארץ כאילו היו עבדים.",
+    "אנשים עלולים להיכשל דווקא במעשיהם שלהם ובניגוד לכוונותיהם: החופר בור נופל בו, ופורץ גדר עלול להישכו בידי נחש שהסתתר בה.",
+    "הסובל בהסעת אבנים צפוי לצער ולעמל, גם אם מטרתו חיובית. גם חוטב העצים מסתכן בפציעה או בחימום גופו עקב העבודה הקשה.",
+    "כאשר הברזל קהה והחוטב אינו משחיז את צדו החד, נדרש כוח רב והעבודה נעשית ללא תועלת. יתרון החכמה הוא ביכולתה לתקן ולהכשיר את המציאות בלי מאמץ פיזי מיותר.",
+    "לעיתים הנחש מכיש בלי שלחש כלשהו יוכל להגן מפניו. כך גם פגיעתו של המדבר רעות עלולה לגרום נזק, ואין לבעל הלשון יתרון לעצור את תוצאותיה.",
+    "דברי החכם נושאים חן, ואילו דברי הכסיל עלולים להביא לאובדנו או לאבדן חנו בעיני הזולת.",
+    "דברי הכסיל מתחילים בטיפשות ומסתיימים בהוללות רעה, כלומר בדברים הנראים כשיגעון.",
+    "הכסיל מרבה לדבר ומתיימר לדעת מה יהיה בעתיד, אף שאין האדם יודע מה יקרה בהמשך ומי יוכל לגלות לו זאת.",
+    "עמל הכסילים מתיש אותם, משום שאינם יודעים כיצד להגיע אל יעדיהם ולכן מכלים את כוחם לריק.",
+    "אוי לארץ שמלכה צעיר וחסר ניסיון, ושריה אוכלים כבר בבוקר במקום לעבוד ולפעול לטובת המדינה.",
+    "אשרי הארץ שמלכה הוא בן חורין ואיש מעלה, ושריה אוכלים בזמן הראוי, בכמות המספקת כוח, ואינם שותים לשכרה.",
+    "עצלות ואי-מעש גורמות לתקרה לשקוע ולבית להיפגע. הזנחת הבית עלולה ליצור חורים בתקרה ולגרום לדליפת מים.",
+    "לחם וסעודה עשויים לשמש לשעשוע, יין משמח את החיים, והכסף מספק מענה לכל דבר.",
+    "אין לקלל מלך או עשיר אפילו במחשבה ובפרטיות, משום שהדברים עלולים להתגלות בסופו של דבר, באמצעות אדם או בדרכים נסתרות."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "כוחה המזיק של הסכלות",
+      "title_en": "The Damaging Power of Foolishness",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "מעט סכלות עלולה לפגום בדבר יקר ומעודן, והכסיל ניכר בהתנהגותו. החכם נדרש להישאר במקומו גם כאשר המושל כועס, מתוך אמון בכך שהכעס עשוי לחלוף.",
+      "summary_en": "A little foolishness can spoil something precious and refined, and the fool is recognizable by his conduct. The wise person should remain in his position even when the ruler is angry, trusting that the anger may pass.",
+      "image_prompt": "A tiny dead fly floating in a valuable perfume bottle, contrasted with a composed wise official remaining calmly in his place while an angry ruler gestures in the background, symbolic biblical study illustration, no text"
+    },
+    {
+      "title": "סכנתה של טעות השלטון",
+      "title_en": "The Danger of a Ruler's Mistake",
+      "start_verse": 5,
+      "end_verse": 7,
+      "summary": "טעות של בעל שררה עלולה להביא עיוות וחוסר צדק, ובמציאות כזאת הטיפשים עולים לגדולה ואנשים ראויים נדחקים לשפל. היפוך הסדר ניכר בעבדים הרוכבים על סוסים ובשרים ההולכים על הארץ.",
+      "summary_en": "A mistake by a person in authority can produce distortion and injustice; in such a reality, fools rise to prominence while worthy people are pushed down. This reversal is pictured by servants riding horses and officials walking on the ground.",
+      "image_prompt": "A symbolic ancient royal road showing servants riding horses while dignified officials walk on foot, a foolish-looking ruler elevated in the background, restrained biblical illustration, no historical specifics, no text"
+    },
+    {
+      "title": "סכנות המעשה והיתרון שבחכמה",
+      "title_en": "The Risks of Action and the Advantage of Wisdom",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "מעשים עלולים להתהפך נגד העושה אותם, והעמל עצמו כרוך בצער ובסכנה. הכנה נכונה והשחזת הכלי חוסכות כוח, והחכמה עדיפה על הפעלת כוח; גם פגיעת הלשון עלולה להיות קשה לעצירה.",
+      "summary_en": "Actions can turn against the person performing them, and labor itself involves distress and danger. Proper preparation and sharpening save strength, showing the advantage of wisdom over brute force; the harm caused by speech may likewise be difficult to stop.",
+      "image_prompt": "A worker near a pit and a broken fence with a hidden snake, beside a woodcutter sharpening an axe and a warning image of a snake bite, symbolic wisdom illustration, no text"
+    },
+    {
+      "title": "דיבורי החכם והכסיל",
+      "title_en": "The Speech of the Wise and the Fool",
+      "start_verse": 12,
+      "end_verse": 15,
+      "summary": "דברי החכם נושאים חן, ואילו דיבורי הכסיל מתחילים בטיפשות ומסתיימים בהוללות רעה. הכסיל מרבה לדבר, מתיימר לדעת את העתיד, ומתייגע משום שאינו יודע כיצד להגיע ליעדיו.",
+      "summary_en": "The wise person's words are gracious, while the fool's speech begins in foolishness and ends in harmful folly. The fool talks excessively, pretends to know the future, and becomes exhausted because he does not know how to reach his goals.",
+      "image_prompt": "A calm wise speaker with gracious listeners contrasted with a foolish man speaking wildly and wandering without direction on a road, symbolic biblical illustration, no text"
+    },
+    {
+      "title": "איכות ההנהגה במדינה",
+      "title_en": "The Quality of Government",
+      "start_verse": 16,
+      "end_verse": 17,
+      "summary": "ארץ סובלת כאשר מלכה צעיר וחסר ניסיון ושריה עסוקים באכילה במקום בעבודה. לעומתה, ארץ מאושרת כאשר מנהיגה איש מעלה ושריה אוכלים בזמן הראוי, בכוח ובמידה, בלי להשתכר.",
+      "summary_en": "A land suffers when its king is young and inexperienced and its officials spend their time eating instead of working. A land is fortunate when its ruler is a distinguished person and its officials eat at the proper time, with strength and moderation, without drunkenness.",
+      "image_prompt": "Two contrasting royal court scenes: one disorderly court with idle officials eating at dawn, and one disciplined court with a dignified ruler and officials eating moderately after their duties, symbolic illustration, no text"
+    },
+    {
+      "title": "עצלות, הנאות וכוח הכסף",
+      "title_en": "Laziness, Enjoyment, and the Power of Money",
+      "start_verse": 18,
+      "end_verse": 19,
+      "summary": "עצלות והזנחה גורמות לבית להתדרדר ולדלוף. לצד החכמה והחריצות, קהלת מזכיר את כוחו של הכסף לספק סעודה, שמחה ומענה לצרכים שונים.",
+      "summary_en": "Laziness and neglect cause a house to deteriorate and leak. Alongside wisdom and diligence, Ecclesiastes notes the power of money to provide meals, enjoyment, and answers to various needs.",
+      "image_prompt": "A neglected house with a sagging roof and rain leaking inside, contrasted with a well-prepared meal, bread, wine, and coins on a table, symbolic biblical study illustration, no text"
+    },
+    {
+      "title": "זהירות בדיבור נגד בעלי כוח",
+      "title_en": "Caution in Speaking Against the Powerful",
+      "start_verse": 20,
+      "end_verse": 20,
+      "summary": "אין לקלל מלך או עשיר אפילו במחשבה ובפרטיות. דברים שנאמרים בסתר עלולים להתגלות בדרכים גלויות או נסתרות ולהמיט צרות.",
+      "summary_en": "One should not curse a king or a wealthy person even in private thought. Words spoken secretly may eventually be revealed through visible or hidden means and bring trouble.",
+      "image_prompt": "A solitary person whispering in a private chamber while a bird carries the sound toward a distant royal palace, symbolic biblical illustration of secrets being revealed, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 14.3,
+      "usfm": "ECC.10.1"
+    },
+    {
+      "start": 14.3,
+      "end": 19.96,
+      "usfm": "ECC.10.2"
+    },
+    {
+      "start": 19.96,
+      "end": 29.2,
+      "usfm": "ECC.10.3"
+    },
+    {
+      "start": 29.2,
+      "end": 38.96,
+      "usfm": "ECC.10.4"
+    },
+    {
+      "start": 38.96,
+      "end": 45.56,
+      "usfm": "ECC.10.5"
+    },
+    {
+      "start": 45.56,
+      "end": 51.4,
+      "usfm": "ECC.10.6"
+    },
+    {
+      "start": 51.4,
+      "end": 56.72,
+      "usfm": "ECC.10.7"
+    },
+    {
+      "start": 56.72,
+      "end": 64.86,
+      "usfm": "ECC.10.8"
+    },
+    {
+      "start": 64.86,
+      "end": 72.72,
+      "usfm": "ECC.10.9"
+    },
+    {
+      "start": 72.72,
+      "end": 84.0,
+      "usfm": "ECC.10.10"
+    },
+    {
+      "start": 84.0,
+      "end": 88.9,
+      "usfm": "ECC.10.11"
+    },
+    {
+      "start": 88.9,
+      "end": 95.22,
+      "usfm": "ECC.10.12"
+    },
+    {
+      "start": 95.22,
+      "end": 103.58,
+      "usfm": "ECC.10.13"
+    },
+    {
+      "start": 103.58,
+      "end": 111.94,
+      "usfm": "ECC.10.14"
+    },
+    {
+      "start": 111.94,
+      "end": 118.56,
+      "usfm": "ECC.10.15"
+    },
+    {
+      "start": 118.56,
+      "end": 124.82,
+      "usfm": "ECC.10.16"
+    },
+    {
+      "start": 124.82,
+      "end": 134.9,
+      "usfm": "ECC.10.17"
+    },
+    {
+      "start": 134.9,
+      "end": 143.26,
+      "usfm": "ECC.10.18"
+    },
+    {
+      "start": 143.26,
+      "end": 151.08,
+      "usfm": "ECC.10.19"
+    },
+    {
+      "start": 151.08,
+      "end": 170.88,
+      "usfm": "ECC.10.20"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    14.3,
+    19.96,
+    29.2,
+    38.96,
+    45.56,
+    51.4,
+    56.72,
+    64.86,
+    72.72,
+    84.0,
+    88.9,
+    95.22,
+    103.58,
+    111.94,
+    118.56,
+    124.82,
+    134.9,
+    143.26,
+    151.08,
+    170.88
+  ],
+  "times_en_usfm": [
+    "ECC.10.1",
+    "ECC.10.2",
+    "ECC.10.3",
+    "ECC.10.4",
+    "ECC.10.5",
+    "ECC.10.6",
+    "ECC.10.7",
+    "ECC.10.8",
+    "ECC.10.9",
+    "ECC.10.10",
+    "ECC.10.11",
+    "ECC.10.12",
+    "ECC.10.13",
+    "ECC.10.14",
+    "ECC.10.15",
+    "ECC.10.16",
+    "ECC.10.17",
+    "ECC.10.18",
+    "ECC.10.19",
+    "ECC.10.20"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? קהלת משתמש בדימוי חד: אפילו זבובים מתים עלולים להבאיש שמן יקר של רוקח. כך גם מעט סכלות עלולה לפגום בחכמה ובכבוד.",
+      "text_he": "הידעת? קהלת משתמש בדימוי חד: אפילו זבובים מתים עלולים להבאיש שמן יקר של רוקח. כך גם מעט סכלות עלולה לפגום בחכמה ובכבוד.",
+      "text_en": "Did you know? Ecclesiastes uses a striking image: even dead flies can ruin a perfumer’s expensive oil. In the same way, a little foolishness can spoil wisdom and honor."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? קהלת מתאר את לב החכם הנוטה לימין ואת לב הכסיל הנוטה לשמאל. כבר בהתנהגותו בדרך, הכסיל חושף את חוסר תבונתו ומכריז על כך ברבים.",
+      "text_he": "הידעת? קהלת מתאר את לב החכם הנוטה לימין ואת לב הכסיל הנוטה לשמאל. כבר בהתנהגותו בדרך, הכסיל חושף את חוסר תבונתו ומכריז על כך ברבים.",
+      "text_en": "Did you know? Ecclesiastes describes the wise person’s heart as inclined to the right and the fool’s heart as inclined to the left. Even as he goes along the road, the fool reveals his lack of understanding and makes it known to everyone."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? כאשר רוחו של המושל עולה על האדם, קהלת מייעץ שלא לעזוב את מקומו. לפי הפסוק, איפוק ורוגע עשויים להניח ולמתן חטאים או כעסים גדולים.",
+      "text_he": "הידעת? כאשר רוחו של המושל עולה על האדם, קהלת מייעץ שלא לעזוב את מקומו. לפי הפסוק, איפוק ורוגע עשויים להניח ולמתן חטאים או כעסים גדולים.",
+      "text_en": "Did you know? When a ruler’s anger rises against you, Ecclesiastes advises you not to leave your place. According to the verse, patience and calmness can quiet and moderate serious offenses or anger."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? קהלת מכנה טעות של בעל שלטון 'רעה תחת השמש', מפני שטעות כזאת עלולה ליצור עיוות בסדר החברתי והמדיני.",
+      "text_he": "הידעת? קהלת מכנה טעות של בעל שלטון 'רעה תחת השמש', מפני שטעות כזאת עלולה ליצור עיוות בסדר החברתי והמדיני.",
+      "text_en": "Did you know? Ecclesiastes calls a ruler’s mistake “an evil under the sun,” because such an error can distort the social and political order."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? כדי להמחיש את היפוך הסדר, קהלת מתאר עבדים הרוכבים על סוסים, בעוד שרים הולכים על הארץ. זהו תיאור של מצב שבו המעמדות אינם מתנהלים כראוי.",
+      "text_he": "הידעת? כדי להמחיש את היפוך הסדר, קהלת מתאר עבדים הרוכבים על סוסים, בעוד שרים הולכים על הארץ. זהו תיאור של מצב שבו המעמדות אינם מתנהלים כראוי.",
+      "text_en": "Did you know? To illustrate the reversal of the proper order, Ecclesiastes describes servants riding on horses while princes walk on the ground. It portrays a situation in which social classes are not functioning as they should."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? בפרק מופיעות כמה אזהרות מפני מעשים העלולים להתהפך נגד העושה אותם: החופר עלול ליפול לבור, והפורץ גדר עלול להישך בידי נחש.",
+      "text_he": "הידעת? בפרק מופיעות כמה אזהרות מפני מעשים העלולים להתהפך נגד העושה אותם: החופר עלול ליפול לבור, והפורץ גדר עלול להישך בידי נחש.",
+      "text_en": "Did you know? The chapter contains several warnings about actions that can turn against the person who carries them out: the one who digs a pit may fall into it, and the one who breaks through a wall may be bitten by a snake."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? קהלת מציין שברזל קהה דורש מאמץ רב יותר, ומסיק שהכשרת הכלי מעניקה יתרון. זהו משל לחשיבות ההכנה, המיומנות והחכמה לפני פעולה.",
+      "text_he": "הידעת? קהלת מציין שברזל קהה דורש מאמץ רב יותר, ומסיק שהכשרת הכלי מעניקה יתרון. זהו משל לחשיבות ההכנה, המיומנות והחכמה לפני פעולה.",
+      "text_en": "Did you know? Ecclesiastes notes that a blunt iron tool requires more effort and concludes that sharpening the tool gives an advantage. This illustrates the importance of preparation, skill, and wisdom before taking action."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? הפסוק על הנחש מדגיש שתועלתו של בעל הלשון תלויה בתזמון: אם הנחש כבר נשך ואין לחש שהקדים את הנשיכה, אין יתרון למי שאמור לשלוט בו בלשונו.",
+      "text_he": "הידעת? הפסוק על הנחש מדגיש שתועלתו של בעל הלשון תלויה בתזמון: אם הנחש כבר נשך ואין לחש שהקדים את הנשיכה, אין יתרון למי שאמור לשלוט בו בלשונו.",
+      "text_en": "Did you know? The verse about the snake emphasizes that the charmer’s usefulness depends on timing: if the snake has already bitten and no charm came before the bite, there is no advantage for the one who is supposed to control it with his words."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? קהלת מעמיד זה מול זה את דברי פי החכם, שיש בהם חן, ואת שפתי הכסיל, שעלולות לבלוע ולהזיק לו עצמו.",
+      "text_he": "הידעת? קהלת מעמיד זה מול זה את דברי פי החכם, שיש בהם חן, ואת שפתי הכסיל, שעלולות לבלוע ולהזיק לו עצמו.",
+      "text_en": "Did you know? Ecclesiastes contrasts the words of the wise, which are gracious, with the lips of the fool, which can swallow up and harm him."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? קהלת מזהיר שלא לקלל מלך או עשיר אפילו בחדרי משכב ובמחשבה, מפני שהקול או הדבר שנאמר בסתר עלול להתגלות ולהגיע אל בעל הכוח.",
+      "text_he": "הידעת? קהלת מזהיר שלא לקלל מלך או עשיר אפילו בחדרי משכב ובמחשבה, מפני שהקול או הדבר שנאמר בסתר עלול להתגלות ולהגיע אל בעל הכוח.",
+      "text_en": "Did you know? Ecclesiastes warns against cursing a king or a rich person even in the privacy of your bedroom or in your thoughts, because what is said or thought in secret may be revealed and reach the powerful person."
+    }
+  ]
+}

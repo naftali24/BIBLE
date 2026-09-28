@@ -1,0 +1,533 @@
+{
+  "book": "Ecclesiastes",
+  "book_he": "קהלת",
+  "book_chapters": 12,
+  "chapter": 7,
+  "title": "קהלת פרק 7",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3107.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3107.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ECC/7-e6da654f7f3e0c3f0d070a2dc45c60db.mp3?version_id=1",
+  "verses": [
+    "ט וֹב שֵׁם, מִשֶּׁמֶן טוֹב; וְיוֹם הַמָּוֶת, מִיּוֹם הִוָּלְדוֹ.",
+    "טוֹב לָלֶכֶת אֶל-בֵּית-אֵבֶל, מִלֶּכֶת אֶל-בֵּית מִשְׁתֶּה--בַּאֲשֶׁר, הוּא סוֹף כָּל-הָאָדָם; וְהַחַי, יִתֵּן אֶל-לִבּוֹ.",
+    "טוֹב כַּעַס, מִשְּׂחוֹק: כִּי-בְרֹעַ פָּנִים, יִיטַב לֵב.",
+    "לֵב חֲכָמִים בְּבֵית אֵבֶל, וְלֵב כְּסִילִים בְּבֵית שִׂמְחָה.",
+    "טוֹב, לִשְׁמֹעַ גַּעֲרַת חָכָם--מֵאִישׁ, שֹׁמֵעַ שִׁיר כְּסִילִים.",
+    "כִּי כְקוֹל הַסִּירִים תַּחַת הַסִּיר, כֵּן שְׂחֹק הַכְּסִיל; וְגַם-זֶה, הָבֶל.",
+    "כִּי הָעֹשֶׁק, יְהוֹלֵל חָכָם; וִיאַבֵּד אֶת-לֵב, מַתָּנָה.",
+    "טוֹב אַחֲרִית דָּבָר, מֵרֵאשִׁיתוֹ; טוֹב אֶרֶךְ-רוּחַ, מִגְּבַהּ-רוּחַ.",
+    "אַל-תְּבַהֵל בְּרוּחֲךָ, לִכְעוֹס: כִּי כַעַס, בְּחֵיק כְּסִילִים יָנוּחַ.",
+    "אַל-תֹּאמַר, מֶה הָיָה--שֶׁהַיָּמִים הָרִאשֹׁנִים, הָיוּ טוֹבִים מֵאֵלֶּה: כִּי לֹא מֵחָכְמָה, שָׁאַלְתָּ עַל-זֶה.",
+    "טוֹבָה חָכְמָה, עִם-נַחֲלָה; וְיֹתֵר, לְרֹאֵי הַשָּׁמֶשׁ.",
+    "כִּי בְּצֵל הַחָכְמָה, בְּצֵל הַכָּסֶף; וְיִתְרוֹן דַּעַת, הַחָכְמָה תְּחַיֶּה בְעָלֶיהָ.",
+    "רְאֵה, אֶת-מַעֲשֵׂה הָאֱלֹהִים: כִּי מִי יוּכַל לְתַקֵּן, אֵת אֲשֶׁר עִוְּתוֹ.",
+    "בְּיוֹם טוֹבָה הֱיֵה בְטוֹב, וּבְיוֹם רָעָה רְאֵה; גַּם אֶת-זֶה לְעֻמַּת-זֶה, עָשָׂה הָאֱלֹהִים, עַל-דִּבְרַת שֶׁלֹּא יִמְצָא הָאָדָם אַחֲרָיו, מְאוּמָה.",
+    "אֶת-הַכֹּל רָאִיתִי, בִּימֵי הֶבְלִי; יֵשׁ צַדִּיק, אֹבֵד בְּצִדְקוֹ, וְיֵשׁ רָשָׁע, מַאֲרִיךְ בְּרָעָתוֹ.",
+    "אַל-תְּהִי צַדִּיק הַרְבֵּה, וְאַל-תִּתְחַכַּם יוֹתֵר: לָמָּה, תִּשּׁוֹמֵם.",
+    "אַל-תִּרְשַׁע הַרְבֵּה, וְאַל-תְּהִי סָכָל: לָמָּה תָמוּת, בְּלֹא עִתֶּךָ.",
+    "טוֹב אֲשֶׁר תֶּאֱחֹז בָּזֶה, וְגַם-מִזֶּה אַל-תַּנַּח אֶת-יָדֶךָ: כִּי-יְרֵא אֱלֹהִים, יֵצֵא אֶת-כֻּלָּם.",
+    "הַחָכְמָה, תָּעֹז לֶחָכָם--מֵעֲשָׂרָה, שַׁלִּיטִים, אֲשֶׁר הָיוּ, בָּעִיר.",
+    "כִּי אָדָם, אֵין צַדִּיק בָּאָרֶץ--אֲשֶׁר יַעֲשֶׂה-טּוֹב, וְלֹא יֶחֱטָא.",
+    "גַּם לְכָל-הַדְּבָרִים אֲשֶׁר יְדַבֵּרוּ, אַל-תִּתֵּן לִבֶּךָ: אֲשֶׁר לֹא-תִשְׁמַע אֶת-עַבְדְּךָ, מְקַלְלֶךָ.",
+    "כִּי גַּם-פְּעָמִים רַבּוֹת, יָדַע לִבֶּךָ: אֲשֶׁר גַּם-את אַתָּה , קִלַּלְתָּ אֲחֵרִים.",
+    "כָּל-זֹה, נִסִּיתִי בַחָכְמָה; אָמַרְתִּי אֶחְכָּמָה, וְהִיא רְחוֹקָה מִמֶּנִּי.",
+    "רָחוֹק, מַה-שֶּׁהָיָה; וְעָמֹק עָמֹק, מִי יִמְצָאֶנּוּ.",
+    "סַבּוֹתִי אֲנִי וְלִבִּי לָדַעַת וְלָתוּר, וּבַקֵּשׁ חָכְמָה וְחֶשְׁבּוֹן; וְלָדַעַת רֶשַׁע כֶּסֶל, וְהַסִּכְלוּת הוֹלֵלוֹת.",
+    "וּמוֹצֶא אֲנִי מַר מִמָּוֶת, אֶת-הָאִשָּׁה אֲשֶׁר-הִיא מְצוֹדִים וַחֲרָמִים לִבָּהּ--אֲסוּרִים יָדֶיהָ; טוֹב לִפְנֵי הָאֱלֹהִים, יִמָּלֵט מִמֶּנָּה, וְחוֹטֵא, יִלָּכֶד בָּהּ.",
+    "רְאֵה זֶה מָצָאתִי, אָמְרָה קֹהֶלֶת; אַחַת לְאַחַת, לִמְצֹא חֶשְׁבּוֹן.",
+    "אֲשֶׁר עוֹד-בִּקְשָׁה נַפְשִׁי, וְלֹא מָצָאתִי: אָדָם אֶחָד מֵאֶלֶף, מָצָאתִי--וְאִשָּׁה בְכָל-אֵלֶּה, לֹא מָצָאתִי.",
+    "לְבַד רְאֵה-זֶה מָצָאתִי, אֲשֶׁר עָשָׂה הָאֱלֹהִים אֶת-הָאָדָם יָשָׁר; וְהֵמָּה בִקְשׁוּ, חִשְּׁבֹנוֹת רַבִּים."
+  ],
+  "english": [
+    "A good name\nis better than precious ointment; and the day of death than the day of one’s birth.",
+    "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay\nit to his heart.",
+    "Sorrow\nis better than laughter: for by the sadness of the countenance the heart is made better.",
+    "The heart of the wise\nis in the house of mourning; but the heart of fools\nis in the house of mirth.",
+    "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+    "For as the crackling of thorns under a pot, so\nis the laughter of the fool: this also\nis vanity.",
+    "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+    "Better\nis the end of a thing than the beginning thereof:\nand the patient in spirit\nis better than the proud in spirit.",
+    "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+    "Say not thou, What is\nthe cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
+    "Wisdom\nis good with an inheritance: and\nby it there is\n profit to them that see the sun.",
+    "For wisdom\nis a defence,\nand money\nis\n a defence: but the excellency of knowledge\nis, that wisdom giveth life to them that have it.",
+    "Consider the work of God: for who can make\nthat straight, which he hath made crooked?",
+    "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+    "All\nthings have I seen in the days of my vanity: there is a just\nman that perisheth in his righteousness, and there is a wicked\nman that prolongeth\nhis life in his wickedness.",
+    "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
+    "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+    "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+    "Wisdom strengtheneth the wise more than ten mighty\nmen which are in the city.",
+    "For\nthere is not a just man upon earth, that doeth good, and sinneth not.",
+    "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+    "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+    "All this have I proved by wisdom: I said, I will be wise; but it\nwas far from me.",
+    "That which is far off, and exceeding deep, who can find it out?",
+    "I applied mine heart to know, and to search, and to seek out wisdom, and the reason\nof things, and to know the wickedness of folly, even of foolishness\nand madness:",
+    "And I find more bitter than death the woman, whose heart\nis\n snares and nets,\nand her hands\nas bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+    "Behold, this have I found, saith the preacher,\ncounting one by one, to find out the account:",
+    "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+    "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions."
+  ],
+  "steinsaltz": [
+    "טוֹב, עדיף שֵׁם מִשֶּׁמֶן טוֹב. את השמן מריחים רק הקרובים, ואילו שמו הטוב של אדם יוצא למרחוק ונשמר בתודעתם של השומעים עליו. וְיוֹם הַמָּוֶת של האדם טוב מִיּוֹם הִוָּלְדוֹ, משום שביום המוות אפשר לראות במה זכה אדם לשמו הטוב, ואילו ביום הלידה אי-אפשר לדעת מה יעלה בסופו.",
+    "ובהמשך ליתרון המוות – טוֹב לָלֶכֶת אֶל־בֵּית־אֵבֶל מִלֶּכֶת אֶל־בֵּית מִשְׁתֶּה, בַּאֲשֶׁר המוות הוּא סוֹף כָּל־הָאָדָם, וְלכן אולי הַחַי ההולך אל בית אבל יִתֵּן אֶל־לִבּוֹ: הרי אם הכול נגמר במוות, מן הראוי לעשות משהו בשנות החיים. בשגרת החיים נוטים להדחיק שאלות אלה, אבל נוכח אפשרות המוות אדם יכול להתנער ולהחליט לשנות את דרכיו. קהלת מעדיף מצבים שאינם נעימים, משום שהם עשויים להניע את האדם להתקדם.",
+    "על כן הוא קובע גם שטוֹב ומקדם יותר כַּעַס של הזולת מִשְּׂחוֹק, כִּי בְרֹעַ פָּנִים יִיטַב לֵב. לבו של אדם עשוי להשתפר, להתעדן ולהתקדם בעקבות הביקורת של הזולת.",
+    "לֵב חֲכָמִים בְּבֵית אֵבֶל. החכמים נותנים דעתם על המוות, ועל כן הם הוגים בעתיד האדם ובתכליתו, כאמור, וְאילו לֵב כְּסִילִים בְּבֵית שִׂמְחָה, שם נהנים לעת עתה.",
+    "טוֹב יותר ב לִשְׁמוֹעַ גַּעֲרַת חָכָם, אף על פי שאינה נעימה, אך היא עשויה להנחות את השומע, מֵאִישׁ השֹׁמֵעַ שִׁיר כְּסִילִים. שיר ההבאי והשטות של הכסילים עשוי להיות ערב לאוזן, אך אין הוא מורה לשומעו דבר, ואין בו כדי להציב בפניו אתגר.",
+    "כִּי כְקוֹל הַסִּירִים, סוג של קוצים הנשרפים תַּחַת הַסִּיר, כֵּן שְׂחֹק הַכְּסִיל. אין בשחוק הכסיל יותר מאשר בקולות הפצפוץ של קוצים נשרפים, קולות חלשים, רגעיים וחסרי כל משמעות. וְגַם־זֶה – שחוק הכסיל; או להיפך: העדפת גערת החכם הָבֶל, שכן אחרי כל העצות ודברי החכמה, בסופו של דבר גם המחכים עלול בנקל לאבד את מעלתו,",
+    "כִּי הָעֹשֶׁק יְהוֹלֵל חָכָם. העושק מוציא אפילו את החכם משיקול הדעת שלו, והעושק יאַבֵּד וישחית גם אֶת־לֵב מַתָּנָה, את הלב ההגון שניתן לאדם.",
+    "קהלת חוזר לומר דברי מוסר ועצה בכיוון שבו החל – העדפתו של מה שאינו מספק מיד אך יש בו כדי לתרום בטווח הארוך: טוֹב להביט אל אַחֲרִית דָּבָר מֵאשר אל רֵאשִׁיתוֹ. ההתחלה עשויה להיות מרשימה, אך מה שנשאר בסיכומו הסופי הוא החשוב. טוֹב אֶרֶךְ־רוּחַ, סבלן מִגְּבַהּ רוּחַ, אדם גאה.",
+    "גם המימרה הבאה משבחת את הסבלנות, ואף בה נזכרת רוחו של אדם: אַל־תְּבַהֵל בְּרוּחֲךָ, תניח לעצמך בקלות לִכְעוֹס, כִּי כַעַס בְּחֵיק כְּסִילִים יָנוּחַ. התפרצויות זעם עשויות להביא לסיפוק רגשי ולפורקן מידי, אבל ביטוי מהיר לכעס שאין בו שיקול דעת, הוא מידתם של שוטים.",
+    "ומול העיסוק ביחס אל האחרית, מימרה המתייחסת אל העבר: אַל־תֹּאמַר: מֶה הָיָה בעבר, ואל תאמר שֶׁהַיָּמִים הָרִאשֹׁנִים הָיוּ טוֹבִים מֵאֵלֶּה, כִּי לֹא מֵחָכְמָה שָׁאַלְתָּ עַל־זֶה. אל תתרפק על העבר, בין שזה עברך האישי ובין שזה העבר הקולקטיבי – ימי האבות, שכן ימי קדם לא היו טובים מן ההווה. יש שהבינו דבר זה במשמעות הנפוצה: אכן העולם מידרדר במשך הדורות, ועל כן לא חכם לבטא משאלה בלתי ראלית זאת. על כל פנים אין טעם באמירה שאינה מביאה לתוצאות, אלא יש לקבל את המציאות כמות שהיא.",
+    "קהלת מקבץ כאן דברי חכמה מקובלים, ובסוף הוא הורס את התפיסות המקובלות על החכמה המשוקעת בהם: טוֹבָה חָכְמָה עִם־נַחֲלָה, נכסים חומריים. צירופם של נכסי רוח עם משאבים גשמיים מיטיב עם האדם. וְיֹתֵר – לְרֹאֵי הַשָּׁמֶשׁ, ויתרונו של החכם בעל הנכסים גדל אם נכסיו גלויים וידועים לאנשים המקיפים אותו.",
+    "כִּי החכם שהוא בעל נחלה חוסה בְּצֵל הַחָכְמָה ובְצֵל הַכָּסֶף. הוא מוגן יותר, וממילא השפעתו על הבריות מרובה. וְיִתְרוֹן הדַּעַת על הכסף הוא בכך שהַחָכְמָה תְּחַיֶּה בְעָלֶיהָ. החכמה והדעת עשויות להביא לבעליהן חיים.",
+    "רְאֵה אֶת־מַעֲשֵׂה הָאֱלֹהִים, התבונן בעולם וקבל אותו כאשר עשאו האלוקים, כִּי מִי יוּכַל לְתַקֵּן אֵת אֲשֶׁר עִוְּתוֹ?! גם אם לדעתך העולם נברא מעוות, לא תוכל לתקנו.",
+    "ומכיוון שכך בְּיוֹם טוֹבָה הֱיֵה בְטוֹב, וּבְיוֹם רָעָה רְאֵה מה תוכל לעשות כדי שלא יהיה גרוע יותר. או: סבול וקבל. גַּם אֶת־זֶה, הטוב לְעֻמַּת־זֶה, הרע עָשָׂה הָאֱלֹהִים, עַל־דִּבְרַת, כך שֶׁלֹּא יִמְצָא הָאָדָם אַחֲרָיו מְאוּמָה, לא יגיע לכלל תובנה ומסקנה; או: כדי שהאדם לא יוכל לטעון כנגד הטיה וחוסר איזון.",
+    "אֶת־הַכֹּל רָאִיתִי בִּימֵי הֶבְלִי, בחיי החולפים. ראיתי מצד אחד שיֵשׁ צַדִּיק שאֹבֵד בְּצִדְקוֹ, אף שראוי היה שיהיה לו המשך; וְיֵשׁ מצד שני רָשָׁע המַאֲרִיךְ לחיות בְּרָעָתוֹ, אף שראוי היה שיאבד מן העולם.",
+    "בשל מורכבות ההוויה ועיוותיה, היה זהיר. כיווני ההמלצות שלהלן מנוגדים זה לזה. הוראות אלה באות כדי לאזן זו את זו. אַל־תְּהִי צַדִּיק הַרְבֵּה, אל תפריז במידות טובות כגון רחמנות מוגזמת, בסיגופים או בחששות והרחקות יתר מעבר למקובל, וְאַל־תִּתְחַכַּם, תהיה חכם יוֹתֵר מדי, לָמָּה תִּשּׁוֹמֵם, תשתגע או תיבעת מתוך הפרזתך?! ריבוי צדקות וחכמה יכול להפוך לך לרועץ.",
+    "מאידך גיסא, אַל־תִּרְשַׁע הַרְבֵּה, מדי, גם אם רשעת מעט. וְאַל־תְּהִי סָכָל, טיפש – לָמָּה תָמוּת בְּלֹא עִתֶּךָ, לפני זמנך?! הרי הרשעים והסכלים מוּעדים יותר להיהרג בקיצור ימים.",
+    "טוֹב אֲשֶׁר תֶּאֱחֹז בָּזֶה וְגַם־מִזֶּה אַל־תַּנַּח אֶת־יָדֶךָ. ראוי אפוא שתנהג במידה ממוצעת, ולא תִּטה אל הקצוות, כִּי־יְרֵא אֱלֹהִים, הוא האדם המתון, יֵצֵא, יינצל אֶת־כֻּלָּם, מן הבעיות הצפויות למי שפונה אל הקצוות בכל כיוון.",
+    "הַחָכְמָה תָּעֹז לֶחָכָם, תחזק את החכם יותר מֵעֲשָׂרָה, מהרבה שַׁלִּיטִים אֲשֶׁר הָיוּ בָּעִיר, מבעלי כוח רב.",
+    "באשר להוראה שלא להיות צדיק הרבה – כִּי אָדָם אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה־טּוֹב וְלֹא יֶחֱטָא. במציאות הפגומה אין צדיקים מושלמים. גם אם האדם יתאמץ, הוא לא יוכל להגיע אל האידיאל.",
+    "גַּם לְכָל־הַדְּבָרִים אֲשֶׁר יְדַבֵּרוּ הבריות – אַל־תִּתֵּן לִבֶּךָ. אל תשים לבך יותר מדי לדיבורים עליך, אֲשֶׁר, כדי שלֹא־תִשְׁמַע אֶת־עַבְדְּךָ מְקַלְלֶךָ. אם תקשיב לכל דבר, אתה עלול לשמוע דברים שאינם מעלים ואינם מורידים, אך גם אינם נעימים לשמיעה – כקללת עבדך. לכן עדיף שלא תכרה אוזן לכל דיבור.",
+    "ובעצם, גם אם תשמע דיבורים אלו, רצוי שהם לא יעוררו בך כעס, כִּי גַּם־פְּעָמִים רַבּוֹת יָדַע לִבֶּךָ אֲשֶׁר גַּם־אַתָּה קִלַּלְתָּ אֲחֵרִים. כשם שמפיך יוצאים דיבורים שאינם ראויים, עושים זאת גם אחרים.",
+    "ובעניין התחכמות יתר – כָּל־זֹה נִסִּיתִי בַחָכְמָה. אָמַרְתִּי: \"אֶחְכָּמָה\", ניסיתי לצעוד בנתיב החכמה, וְנוכחתי לדעת שהִיא, החכמה רְחוֹקָה מִמֶּנִּי. גם מי שמתאמץ להשיגה, לא יגיע אל שלמותה.",
+    "ניסיתי להקיף הכול בתודעתי, אך הגעתי למסקנה שרָחוֹק מַה־שֶּׁהָיָה בעבר, ועל כן אי-אפשר לדעת אותו ולהבינו, וְגם מה שאינו נחלת העבר – עָמֹק עָמֹק, מִי יִמְצָאֶנּוּ?! ועל כן הוא נבצר מבינתנו. מניסיוני, החכמה והידיעה מוגבלות.",
+    "אף על פי ששוחר הדעת המבקש להחכים לא ימצא את מבוקשו במלואו, קהלת מצביע על דברים שמצא בחכמתו: תחילה הוא מזהיר את מבקש החכמה המבקש לחיות חיים שקולים, מפני סכנתה של אשה מפתה – סַבּוֹתִי, הסתובבתי אֲנִי וְהפניתי את לִבִּי לָדַעַת וְלָתוּר, לחקור וּלבַקֵּשׁ חָכְמָה וְחֶשְׁבּוֹן, מחשבה מתוחכמת, תחבולה. וְלָדַעַת, ולהיווכח שהרֶשַׁע הוא כֶּסֶל, טיפשות, וְהַסִּכְלוּת היא הוֹלֵלוֹת, שיגעון.",
+    "וּמוֹצֶא אֲנִי מַר, קשה מִמָּוֶת אֶת־הָאִשָּׁה אֲשֶׁר הִיא מְצוֹדִים, מוקשים, וַחֲרָמִים, רשתות לכידה, מכמורות – לִבָּהּ. האשה המפתה גרועה בעיני מן המוות. אֲסוּרִים, כבלים הן יָדֶיהָ. על כן ראוי שמי שהוא טוֹב לִפְנֵי הָאֱלֹהִים, האדם הטוב והישר יִמָּלֵט מִמֶּנָּה, וְאילו חוֹטֵא יִלָּכֶד בָּהּ, ברשתה. קהלת אינו מטיף לנזירות, אלא קורא לגבר להתבונן בפיכחון ובזהירות בתשוקתו ובעצמת השפעותיה של האשה עליו, פן יילכד באשת מצודים.",
+    "רְאֵה זֶה מה שמָצָאתִי, אָמְרָה חכמת קֹהֶלֶת: בדקתי בפרטי המציאות אַחַת לְאַחַת לִמְצֹא חֶשְׁבּוֹן, לערוך מעין סטטיסטיקה:",
+    "ישנם דברים אֲשֶׁר עוֹד־בִּקְשָׁה נַפְשִׁי, חיפשתי וְלֹא מָצָאתִי בחשבונותי – אָדָם אֶחָד מושלם מתוך אֶלֶף מָצָאתִי, וְאִשָּׁה מושלמת בְכָל־אֵלֶּה לֹא מָצָאתִי. קביעה זו אולי רומזת לאלף הנשים שהיו לשלמה.",
+    "תובנות רבות חיפשתי ולא מצאתי, ומה שמצאתי אינו חשוב בעיני, לְבַד, אך רְאֵה, את זֶה מָצָאתִי, ולדבר חכמה זה ראוי לשים לב – אֲשֶׁר עָשָׂה הָאֱלֹהִים אֶת־הָאָדָם יָשָׁר, וְהֵמָּה – האנשים בִקְשׁוּ לעשות חִשְּׁבֹנוֹת רַבִּים, לעוות וליצור תחבולות. גיליתי שהאנושות היא המחבלת בעולם. לולא המקח והממכר של בני האדם, הימוריהם, מזימותיהם ותכניותיהם, יכול היה העולם להיות מתוקן הרבה יותר."
+  ],
+  "ai_explanation": [
+    "שם טוב עדיף משמן טוב, מפני שהשמן מורגש רק בקרבת האדם, ואילו שמו הטוב מתפרסם ונשמר למרחוק. יום המוות עדיף מיום הלידה, משום שבו מתברר מה השיג האדם ובמה זכה לשמו הטוב.",
+    "בית אבל עדיף מבית משתה, מפני שהמוות מזכיר לאדם את תכלית חייו ומניע אותו לבחון את דרכיו. קהלת מעדיף מצבים לא נעימים כאשר הם עשויים להביא את האדם להתקדמות.",
+    "כעס או גערה של הזולת עשויים לקדם את האדם יותר מצחוק, מפני שביקורת יכולה לשפר ולעדן את לבו.",
+    "החכמים נותנים דעתם על המוות ועל עתיד האדם ותכליתו, ולכן לבם בבית אבל. הכסילים מעדיפים את ההנאה המיידית שבבית השמחה.",
+    "עדיף לשמוע גערת חכם, אף שאינה נעימה, מפני שהיא עשויה להדריך ולהציב אתגר. שיר הכסילים ערב אולי לאוזן, אך אינו מלמד דבר.",
+    "שחוק הכסיל חסר משמעות וחולף במהירות, כמו קולות הפצפוץ של קוצים הנשרפים תחת הסיר. אפשר גם להבין את הפסוק כרמז לכך שגם העדפת גערת החכם עלולה להתברר כהבל, שכן גם אדם חכם עלול לאבד את מעלתו.",
+    "העושק עלול להוציא אפילו חכם משיקול דעתו ולשחית את לבו ההגון של האדם.",
+    "חשוב לבחון את אחרית הדבר ולא רק את ראשיתו, מפני שהערך האמיתי מתברר בתוצאה הסופית. סבלנות וארך רוח עדיפים על גאווה.",
+    "אין להיחפז לכעוס, מפני שכעס המתפרץ ללא שיקול דעת הוא ממידתם של הכסילים, גם אם הוא מעניק פורקן רגשי מיידי.",
+    "אין טעם להתרפק על העבר ולטעון שהימים הראשונים היו טובים יותר. אין זו אמירה חכמה, מפני שאינה מביאה לתוצאה ויש לקבל את המציאות כפי שהיא.",
+    "חכמה יחד עם נחלה ונכסים חומריים מועילה לאדם. יתרונו של החכם בעל הנכסים גדול יותר כאשר נכסיו גלויים וידועים לסובבים אותו.",
+    "האדם נהנה הן מצל החכמה והן מצל הכסף, אך יתרון החכמה הוא שהיא עשויה להחיות את בעליה ולהעניק לו חיים.",
+    "יש להתבונן במעשה האלוקים ולקבל את העולם כפי שנעשה. גם אם האדם סבור שהעולם מעוות, אין בכוחו לתקנו.",
+    "ביום טובה יש ליהנות מן הטוב, וביום רעה יש לבחון מה אפשר לעשות כדי שלא יחמיר המצב, או לקבל ולסבול את המצב. האלוקים עשה את הטוב ואת הרע זה מול זה, כך שהאדם אינו יכול להגיע למסקנה שלמה או לטעון לחוסר איזון.",
+    "קהלת ראה בחייו צדיק שאובד אף שהיה ראוי להמשיך לחיות, ורשע שמאריך ימים ברשעתו אף שהיה ראוי להיעלם מן העולם.",
+    "אין להפריז בצדקות, ברחמנות, בסיגופים או בהרחקות מעבר למקובל, ואין להתחכם יתר על המידה. הפרזה בצדקות ובחכמה עלולה להפוך לרועץ ולהביא את האדם לידי שיגעון או פחד.",
+    "גם אין להרשיע הרבה או להיות סכל, מפני שרשעים וכסילים עלולים למות קודם זמנם.",
+    "ראוי לאחוז בשני הכיוונים ולא לנטות אל הקצוות. יראת אלוהים מתפרשת כאן כמידה מתונה המגינה על האדם מן הסכנות שבקיצוניות.",
+    "החכמה מחזקת את החכם יותר מעשרה שליטים בעלי כוח בעיר.",
+    "אין אדם צדיק מושלם שאינו חוטא. במציאות הפגומה, גם מי שמתאמץ אינו יכול להגיע לאידיאל של שלמות.",
+    "אין לתת את הלב לכל הדברים שהבריות מדברות על האדם. מי שמקשיב לכל דבר עלול לשמוע גם קללות ודיבורים לא נעימים, שאין בהם תועלת.",
+    "אין ראוי לכעוס גם כאשר שומעים דיבורים כאלה, מפני שגם האדם עצמו קילל אחרים פעמים רבות.",
+    "קהלת ניסה ללכת בנתיב החכמה, אך גילה שהיא רחוקה ממנו. גם מי שמתאמץ להשיג אותה אינו מגיע לשלמותה.",
+    "החכמה והידיעה מוגבלות: מה שהיה בעבר רחוק מהשגתנו, ומה שאינו מושג לנו עמוק מכדי שנמצא אותו.",
+    "קהלת חקר וביקש חכמה, מחשבה ותחבולה, והגיע למסקנה שהרשע הוא טיפשות ושסכלות היא שיגעון.",
+    "האישה המפתה נתפסת כמסוכנת מן המוות, מפני שלבה הוא רשת ומוקש וידיה כבלים. האדם הטוב והישר יימלט ממנה, ואילו החוטא יילכד בה; אין כאן הטפה לנזירות אלא אזהרה מפני עוצמת התשוקה והשפעתה.",
+    "קהלת בדק את פרטי המציאות אחד לאחד כדי לערוך חשבון או מעין סטטיסטיקה של הדברים שמצא.",
+    "קהלת חיפש אדם מושלם ולא מצא אלא אדם אחד מתוך אלף, ואישה מושלמת לא מצא כלל. ייתכן שהדבר רומז לאלף הנשים שהיו לשלמה.",
+    "האלוקים עשה את האדם ישר, אך בני האדם ביקשו תחבולות וחישובים רבים ועיוותו את המציאות. האנושות היא שמחבלת בעולם באמצעות מזימותיה ותכניותיה."
+  ],
+  "ai_explanation_en": [
+    "A good name is better than fine oil because oil is sensed only by those nearby, whereas a person’s good reputation spreads far and remains in people’s memory. The day of death is better than the day of birth because it reveals what a person achieved and what earned him his good name.",
+    "A house of mourning is better than a house of feasting because death reminds a person of life’s purpose and moves him to examine his ways. Qohelet prefers unpleasant situations when they may lead a person to progress.",
+    "Anger or rebuke from another person may advance someone more than laughter, because criticism can improve and refine the heart.",
+    "The wise consider death, the human future, and life’s purpose, so their hearts are in a house of mourning. Fools prefer the immediate pleasure found in a house of joy.",
+    "It is better to hear the rebuke of a wise person, even though it is unpleasant, because it may guide the listener and set a challenge before him. The song of fools may be pleasant to the ear, but it teaches nothing.",
+    "The laughter of a fool is meaningless and short-lived, like the crackling sound of thorns burning under a pot. The verse may also suggest that even preferring the wise person’s rebuke can prove futile, since even a wise person may easily lose his virtue.",
+    "Oppression can drive even a wise person away from sound judgment and corrupt the honest heart a person has been given.",
+    "One should consider the outcome of a matter rather than only its beginning, because its true value is revealed in the final result. Patience and forbearance are better than pride.",
+    "One should not be quick to anger, because uncontrolled anger is characteristic of fools, even if it provides immediate emotional release.",
+    "There is no point in longing for the past and claiming that earlier days were better. Such a statement is not wise because it produces no result; reality should be accepted as it is.",
+    "Wisdom together with an inheritance and material resources benefits a person. The advantage of a wise person who owns property is greater when his resources are visible and known to those around him.",
+    "A person benefits from both the shelter of wisdom and the shelter of money, but wisdom has the advantage that it can give life to its owner.",
+    "One should contemplate God’s work and accept the world as it was made. Even if a person thinks the world is distorted, he cannot repair it.",
+    "On a good day one should enjoy the good, and on a bad day one should consider what can be done to prevent matters from worsening, or accept and endure the situation. God made good and evil correspond to one another, so a person cannot reach a complete conclusion or claim that reality is unbalanced.",
+    "Qohelet saw in his life a righteous person who perished even though he deserved to continue living, and a wicked person who lived long in his wickedness even though he deserved to disappear from the world.",
+    "One should not exaggerate in righteousness, compassion, ascetic practices, or excessive restrictions, and one should not become overly clever. Exaggerated righteousness and wisdom may turn against a person and lead to madness or fear.",
+    "One should also not be excessively wicked or foolish, because the wicked and the fools are more likely to die before their time.",
+    "A person should hold on to both directions and avoid extremes. Here, fear of God is understood as moderation, which protects a person from the dangers of extremism.",
+    "Wisdom strengthens the wise person more than ten rulers possessing power in the city.",
+    "There is no perfectly righteous person who never sins. In a flawed reality, even someone who makes great efforts cannot reach complete perfection.",
+    "One should not take to heart everything people say about him. Whoever listens to every remark may hear curses and unpleasant words that have no benefit.",
+    "A person should not become angry even when hearing such remarks, because he himself has also cursed others many times.",
+    "Qohelet tried to follow the path of wisdom, but discovered that it was far from him. Even someone who strives to attain it cannot reach its perfection.",
+    "Wisdom and knowledge are limited: what happened in the past is beyond our full understanding, and what is not yet grasped is too deep for us to find.",
+    "Qohelet investigated and sought wisdom, thought, and clever schemes, and concluded that wickedness is foolishness and folly is madness.",
+    "The seductive woman is portrayed as more dangerous than death because her heart is a snare and a trap, and her hands are chains. A good and upright person will escape her, while a sinner will be caught by her; this is not a call to asceticism but a warning about the power of desire and its influence.",
+    "Qohelet examined the details of reality one by one in order to make an account, or something like a statistical survey, of what he had found.",
+    "Qohelet searched for a perfect person and found only one man among a thousand, while he found no perfect woman at all. This may allude to the thousand women who belonged to Solomon.",
+    "God made humanity upright, but people sought many schemes and calculations and distorted reality. Humanity itself damages the world through its plots and plans."
+  ],
+  "perush": [
+    "שם טוב עדיף משמן טוב, מפני שהשמן מורגש רק בקרבת האדם, ואילו שמו הטוב מתפרסם ונשמר למרחוק. יום המוות עדיף מיום הלידה, משום שבו מתברר מה השיג האדם ובמה זכה לשמו הטוב.",
+    "בית אבל עדיף מבית משתה, מפני שהמוות מזכיר לאדם את תכלית חייו ומניע אותו לבחון את דרכיו. קהלת מעדיף מצבים לא נעימים כאשר הם עשויים להביא את האדם להתקדמות.",
+    "כעס או גערה של הזולת עשויים לקדם את האדם יותר מצחוק, מפני שביקורת יכולה לשפר ולעדן את לבו.",
+    "החכמים נותנים דעתם על המוות ועל עתיד האדם ותכליתו, ולכן לבם בבית אבל. הכסילים מעדיפים את ההנאה המיידית שבבית השמחה.",
+    "עדיף לשמוע גערת חכם, אף שאינה נעימה, מפני שהיא עשויה להדריך ולהציב אתגר. שיר הכסילים ערב אולי לאוזן, אך אינו מלמד דבר.",
+    "שחוק הכסיל חסר משמעות וחולף במהירות, כמו קולות הפצפוץ של קוצים הנשרפים תחת הסיר. אפשר גם להבין את הפסוק כרמז לכך שגם העדפת גערת החכם עלולה להתברר כהבל, שכן גם אדם חכם עלול לאבד את מעלתו.",
+    "העושק עלול להוציא אפילו חכם משיקול דעתו ולשחית את לבו ההגון של האדם.",
+    "חשוב לבחון את אחרית הדבר ולא רק את ראשיתו, מפני שהערך האמיתי מתברר בתוצאה הסופית. סבלנות וארך רוח עדיפים על גאווה.",
+    "אין להיחפז לכעוס, מפני שכעס המתפרץ ללא שיקול דעת הוא ממידתם של הכסילים, גם אם הוא מעניק פורקן רגשי מיידי.",
+    "אין טעם להתרפק על העבר ולטעון שהימים הראשונים היו טובים יותר. אין זו אמירה חכמה, מפני שאינה מביאה לתוצאה ויש לקבל את המציאות כפי שהיא.",
+    "חכמה יחד עם נחלה ונכסים חומריים מועילה לאדם. יתרונו של החכם בעל הנכסים גדול יותר כאשר נכסיו גלויים וידועים לסובבים אותו.",
+    "האדם נהנה הן מצל החכמה והן מצל הכסף, אך יתרון החכמה הוא שהיא עשויה להחיות את בעליה ולהעניק לו חיים.",
+    "יש להתבונן במעשה האלוקים ולקבל את העולם כפי שנעשה. גם אם האדם סבור שהעולם מעוות, אין בכוחו לתקנו.",
+    "ביום טובה יש ליהנות מן הטוב, וביום רעה יש לבחון מה אפשר לעשות כדי שלא יחמיר המצב, או לקבל ולסבול את המצב. האלוקים עשה את הטוב ואת הרע זה מול זה, כך שהאדם אינו יכול להגיע למסקנה שלמה או לטעון לחוסר איזון.",
+    "קהלת ראה בחייו צדיק שאובד אף שהיה ראוי להמשיך לחיות, ורשע שמאריך ימים ברשעתו אף שהיה ראוי להיעלם מן העולם.",
+    "אין להפריז בצדקות, ברחמנות, בסיגופים או בהרחקות מעבר למקובל, ואין להתחכם יתר על המידה. הפרזה בצדקות ובחכמה עלולה להפוך לרועץ ולהביא את האדם לידי שיגעון או פחד.",
+    "גם אין להרשיע הרבה או להיות סכל, מפני שרשעים וכסילים עלולים למות קודם זמנם.",
+    "ראוי לאחוז בשני הכיוונים ולא לנטות אל הקצוות. יראת אלוהים מתפרשת כאן כמידה מתונה המגינה על האדם מן הסכנות שבקיצוניות.",
+    "החכמה מחזקת את החכם יותר מעשרה שליטים בעלי כוח בעיר.",
+    "אין אדם צדיק מושלם שאינו חוטא. במציאות הפגומה, גם מי שמתאמץ אינו יכול להגיע לאידיאל של שלמות.",
+    "אין לתת את הלב לכל הדברים שהבריות מדברות על האדם. מי שמקשיב לכל דבר עלול לשמוע גם קללות ודיבורים לא נעימים, שאין בהם תועלת.",
+    "אין ראוי לכעוס גם כאשר שומעים דיבורים כאלה, מפני שגם האדם עצמו קילל אחרים פעמים רבות.",
+    "קהלת ניסה ללכת בנתיב החכמה, אך גילה שהיא רחוקה ממנו. גם מי שמתאמץ להשיג אותה אינו מגיע לשלמותה.",
+    "החכמה והידיעה מוגבלות: מה שהיה בעבר רחוק מהשגתנו, ומה שאינו מושג לנו עמוק מכדי שנמצא אותו.",
+    "קהלת חקר וביקש חכמה, מחשבה ותחבולה, והגיע למסקנה שהרשע הוא טיפשות ושסכלות היא שיגעון.",
+    "האישה המפתה נתפסת כמסוכנת מן המוות, מפני שלבה הוא רשת ומוקש וידיה כבלים. האדם הטוב והישר יימלט ממנה, ואילו החוטא יילכד בה; אין כאן הטפה לנזירות אלא אזהרה מפני עוצמת התשוקה והשפעתה.",
+    "קהלת בדק את פרטי המציאות אחד לאחד כדי לערוך חשבון או מעין סטטיסטיקה של הדברים שמצא.",
+    "קהלת חיפש אדם מושלם ולא מצא אלא אדם אחד מתוך אלף, ואישה מושלמת לא מצא כלל. ייתכן שהדבר רומז לאלף הנשים שהיו לשלמה.",
+    "האלוקים עשה את האדם ישר, אך בני האדם ביקשו תחבולות וחישובים רבים ועיוותו את המציאות. האנושות היא שמחבלת בעולם באמצעות מזימותיה ותכניותיה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "העדפת ההתמודדות והביקורת על פני ההנאה הרגעית",
+      "title_en": "Preferring Confrontation and Criticism to Immediate Pleasure",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "קהלת מעדיף שם טוב, התבוננות במוות, אבל, גערה וביקורת על פני הנאות חולפות, מפני שהם עשויים לעצב את האדם ולקדם אותו.",
+      "summary_en": "Qohelet prefers a good name, reflection on death, mourning, rebuke, and criticism over fleeting pleasures because they can shape and advance a person.",
+      "image_prompt": "A thoughtful person leaving a lively feast and entering a quiet house of mourning, with an older wise figure offering calm advice; symbolic, respectful, realistic lighting"
+    },
+    {
+      "title": "העושק, הסבלנות והבחינה של התוצאה",
+      "title_en": "Oppression, Patience, and Attention to Outcomes",
+      "start_verse": 7,
+      "end_verse": 10,
+      "summary": "העושק עלול להשחית גם חכם; לכן יש להעדיף ארך רוח, להימנע מכעס מהיר ולא להתרפק על העבר.",
+      "summary_en": "Oppression can corrupt even a wise person; therefore one should cultivate patience, avoid quick anger, and not idealize the past.",
+      "image_prompt": "A calm person pausing before reacting to an accusation, while a distant fading landscape symbolizes the past; contemplative realistic scene"
+    },
+    {
+      "title": "החכמה, הכסף וקבלת המציאות",
+      "title_en": "Wisdom, Wealth, and Accepting Reality",
+      "start_verse": 11,
+      "end_verse": 14,
+      "summary": "חכמה ונכסים יחד מגינים על האדם, אך לחכמה יש יתרון משום שהיא עשויה להחיות את בעליה. האדם נדרש ליהנות ביום טוב, להתמודד ביום רע ולהכיר במגבלות יכולתו לתקן את העולם.",
+      "summary_en": "Wisdom and wealth together protect a person, but wisdom has the advantage of giving life. A person should enjoy good days, respond to bad days, and recognize the limits of his ability to repair the world.",
+      "image_prompt": "A wise person standing beneath two symbolic shelters, one formed by books and one by coins, observing a landscape of sunshine and clouds; balanced realistic composition"
+    },
+    {
+      "title": "המידה הראויה בין צדקות לרשעות",
+      "title_en": "The Proper Measure Between Righteousness and Wickedness",
+      "start_verse": 15,
+      "end_verse": 20,
+      "summary": "המציאות אינה מציגה תמיד גמול מובן: צדיק עלול לאבד ורשע להאריך ימים. לכן אין להפריז בצדקות, בחכמה, ברשעות או בסכלות, אלא לשמור על מתינות, הנתמכת בחכמה וביראת אלוהים.",
+      "summary_en": "Reality does not always display an obvious moral order: a righteous person may perish and a wicked person may live long. Therefore one should avoid extremes of righteousness, wisdom, wickedness, and folly, and maintain moderation supported by wisdom and fear of God.",
+      "image_prompt": "A person walking steadily along a narrow path between two steep cliffs, with balanced scales and a soft dawn in the background; symbolic realistic art"
+    },
+    {
+      "title": "היחס לדיבורי אחרים ולמגבלות החכמה",
+      "title_en": "Responding to Others’ Words and the Limits of Wisdom",
+      "start_verse": 21,
+      "end_verse": 24,
+      "summary": "אין להקשיב לכל דיבור או להתרגז מקללות, מפני שגם האדם עצמו נכשל בדיבור. אפילו מי שמבקש חכמה מגלה שהיא עמוקה ורחוקה מהשגה מלאה.",
+      "summary_en": "One should not listen to every remark or become angry at curses, since one’s own speech also contains failures. Even a person who seeks wisdom discovers that it is deep and beyond complete understanding.",
+      "image_prompt": "A contemplative scholar turning away from a noisy crowd while looking toward a deep, misty valley representing knowledge beyond reach; realistic atmospheric scene"
+    },
+    {
+      "title": "חקר הרשע, הסכנה שבפיתוי והישרות האנושית",
+      "title_en": "Investigating Wickedness, the Danger of Temptation, and Human Uprightness",
+      "start_verse": 25,
+      "end_verse": 29,
+      "summary": "קהלת חוקר את הרשע והסכלות, מזהיר מפני האישה המפתה ומכיר במגבלות מציאת האדם המושלם. מסקנתו היא שהאלוקים עשה את האדם ישר, אך בני האדם יצרו תחבולות רבות ועיוותו את העולם.",
+      "summary_en": "Qohelet investigates wickedness and folly, warns against the seductive woman, and acknowledges the difficulty of finding a perfect person. He concludes that God made humanity upright, but people created many schemes and distorted the world.",
+      "image_prompt": "A seeker examining a path filled with snares and tangled nets, while a clear straight road leads toward light in the distance; symbolic, non-sensational realistic illustration"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.2,
+      "usfm": "ECC.7.1"
+    },
+    {
+      "start": 9.2,
+      "end": 19.14,
+      "usfm": "ECC.7.2"
+    },
+    {
+      "start": 19.14,
+      "end": 25.36,
+      "usfm": "ECC.7.3"
+    },
+    {
+      "start": 25.36,
+      "end": 32.84,
+      "usfm": "ECC.7.4"
+    },
+    {
+      "start": 32.84,
+      "end": 39.84,
+      "usfm": "ECC.7.5"
+    },
+    {
+      "start": 39.84,
+      "end": 47.8,
+      "usfm": "ECC.7.6"
+    },
+    {
+      "start": 47.8,
+      "end": 53.8,
+      "usfm": "ECC.7.7"
+    },
+    {
+      "start": 53.8,
+      "end": 60.84,
+      "usfm": "ECC.7.8"
+    },
+    {
+      "start": 60.84,
+      "end": 68.12,
+      "usfm": "ECC.7.9"
+    },
+    {
+      "start": 68.12,
+      "end": 77.98,
+      "usfm": "ECC.7.10"
+    },
+    {
+      "start": 77.98,
+      "end": 84.08,
+      "usfm": "ECC.7.11"
+    },
+    {
+      "start": 84.08,
+      "end": 93.7,
+      "usfm": "ECC.7.12"
+    },
+    {
+      "start": 93.7,
+      "end": 99.92,
+      "usfm": "ECC.7.13"
+    },
+    {
+      "start": 99.92,
+      "end": 112.78,
+      "usfm": "ECC.7.14"
+    },
+    {
+      "start": 112.78,
+      "end": 124.28,
+      "usfm": "ECC.7.15"
+    },
+    {
+      "start": 124.28,
+      "end": 131.16,
+      "usfm": "ECC.7.16"
+    },
+    {
+      "start": 131.16,
+      "end": 138.02,
+      "usfm": "ECC.7.17"
+    },
+    {
+      "start": 138.02,
+      "end": 147.88,
+      "usfm": "ECC.7.18"
+    },
+    {
+      "start": 147.88,
+      "end": 153.26,
+      "usfm": "ECC.7.19"
+    },
+    {
+      "start": 153.26,
+      "end": 158.28,
+      "usfm": "ECC.7.20"
+    },
+    {
+      "start": 158.28,
+      "end": 164.38,
+      "usfm": "ECC.7.21"
+    },
+    {
+      "start": 164.38,
+      "end": 171.78,
+      "usfm": "ECC.7.22"
+    },
+    {
+      "start": 171.78,
+      "end": 178.46,
+      "usfm": "ECC.7.23"
+    },
+    {
+      "start": 178.46,
+      "end": 183.82,
+      "usfm": "ECC.7.24"
+    },
+    {
+      "start": 183.82,
+      "end": 195.98,
+      "usfm": "ECC.7.25"
+    },
+    {
+      "start": 195.98,
+      "end": 211.02,
+      "usfm": "ECC.7.26"
+    },
+    {
+      "start": 211.02,
+      "end": 217.56,
+      "usfm": "ECC.7.27"
+    },
+    {
+      "start": 217.56,
+      "end": 228.76,
+      "usfm": "ECC.7.28"
+    },
+    {
+      "start": 228.76,
+      "end": 244.44,
+      "usfm": "ECC.7.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.2,
+    19.14,
+    25.36,
+    32.84,
+    39.84,
+    47.8,
+    53.8,
+    60.84,
+    68.12,
+    77.98,
+    84.08,
+    93.7,
+    99.92,
+    112.78,
+    124.28,
+    131.16,
+    138.02,
+    147.88,
+    153.26,
+    158.28,
+    164.38,
+    171.78,
+    178.46,
+    183.82,
+    195.98,
+    211.02,
+    217.56,
+    228.76,
+    244.44
+  ],
+  "times_en_usfm": [
+    "ECC.7.1",
+    "ECC.7.2",
+    "ECC.7.3",
+    "ECC.7.4",
+    "ECC.7.5",
+    "ECC.7.6",
+    "ECC.7.7",
+    "ECC.7.8",
+    "ECC.7.9",
+    "ECC.7.10",
+    "ECC.7.11",
+    "ECC.7.12",
+    "ECC.7.13",
+    "ECC.7.14",
+    "ECC.7.15",
+    "ECC.7.16",
+    "ECC.7.17",
+    "ECC.7.18",
+    "ECC.7.19",
+    "ECC.7.20",
+    "ECC.7.21",
+    "ECC.7.22",
+    "ECC.7.23",
+    "ECC.7.24",
+    "ECC.7.25",
+    "ECC.7.26",
+    "ECC.7.27",
+    "ECC.7.28",
+    "ECC.7.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? קהלת מציב זה מול זה שם טוב ושמן טוב, ומעניק עדיפות לשם הטוב; הוא גם מציג את יום המוות כנקודת התבוננות משמעותית יותר מיום הלידה.",
+      "text_he": "הידעת? קהלת מציב זה מול זה שם טוב ושמן טוב, ומעניק עדיפות לשם הטוב; הוא גם מציג את יום המוות כנקודת התבוננות משמעותית יותר מיום הלידה.",
+      "text_en": "Did you know? Ecclesiastes sets a good name alongside good oil and gives priority to the good name; he also presents the day of death as a more meaningful point for reflection than the day of birth."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? לפי קהלת, בית אבל עשוי ללמד את האדם יותר מבית משתה, מפני שהוא מזכיר לו את סופו של כל אדם ומעודד את החיים לחשוב על דרכם.",
+      "text_he": "הידעת? לפי קהלת, בית אבל עשוי ללמד את האדם יותר מבית משתה, מפני שהוא מזכיר לו את סופו של כל אדם ומעודד את החיים לחשוב על דרכם.",
+      "text_en": "Did you know? According to Ecclesiastes, a house of mourning may teach a person more than a house of feasting, because it reminds them of every person’s end and encourages the living to reflect on their ways."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? קהלת מעדיף גערה של חכם על פני שיריו של כסיל, מפני שביקורת עשויה לתקן את האדם, בעוד שהנאה ריקה עלולה להישאר שטחית וחולפת.",
+      "text_he": "הידעת? קהלת מעדיף גערה של חכם על פני שיריו של כסיל, מפני שביקורת עשויה לתקן את האדם, בעוד שהנאה ריקה עלולה להישאר שטחית וחולפת.",
+      "text_en": "Did you know? Ecclesiastes prefers the rebuke of a wise person to the songs of fools, because criticism can correct a person, while empty amusement may remain shallow and fleeting."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? צחוקו של הכסיל נמשל לקול הסירים הבוערים תחת הסיר: רעשני וקצר, אך חסר תועלת עמוקה. לכן גם הוא מכונה בפסוק 'הבל'.",
+      "text_he": "הידעת? צחוקו של הכסיל נמשל לקול הסירים הבוערים תחת הסיר: רעשני וקצר, אך חסר תועלת עמוקה. לכן גם הוא מכונה בפסוק 'הבל'.",
+      "text_en": "Did you know? The laughter of fools is compared to the sound of burning thorns beneath a pot: noisy and brief, yet lacking lasting usefulness. That is why it is also called “vanity” in the verse."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? קהלת מזהיר שעושק אינו פוגע רק בחלשים; הוא עלול להשפיע גם על החכם ולערער את שיקול דעתו. הפסוק מוסיף שמתנה או שוחד עלולים להשחית את הלב.",
+      "text_he": "הידעת? קהלת מזהיר שעושק אינו פוגע רק בחלשים; הוא עלול להשפיע גם על החכם ולערער את שיקול דעתו. הפסוק מוסיף שמתנה או שוחד עלולים להשחית את הלב.",
+      "text_en": "Did you know? Ecclesiastes warns that oppression does not harm only the weak; it can also affect the wise and undermine their judgment. The verse adds that a gift or bribe can corrupt the heart."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? קהלת מדגיש שתוצאה או אחרית עשויות להתברר כטובות יותר מן ההתחלה, ומעמיד את ארך הרוח מעל גבהות הרוח.",
+      "text_he": "הידעת? קהלת מדגיש שתוצאה או אחרית עשויות להתברר כטובות יותר מן ההתחלה, ומעמיד את ארך הרוח מעל גבהות הרוח.",
+      "text_en": "Did you know? Ecclesiastes emphasizes that the outcome or end may prove better than the beginning, and he places patience above pride."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? קהלת מתנגד לאידיאליזציה של העבר: השאלה 'מדוע הימים הראשונים היו טובים מאלה?' אינה מוצגת אצלו בהכרח כשאלה של חכמה, משום שהעבר אינו תמיד כפי שאנו זוכרים אותו.",
+      "text_he": "הידעת? קהלת מתנגד לאידיאליזציה של העבר: השאלה 'מדוע הימים הראשונים היו טובים מאלה?' אינה מוצגת אצלו בהכרח כשאלה של חכמה, משום שהעבר אינו תמיד כפי שאנו זוכרים אותו.",
+      "text_en": "Did you know? Ecclesiastes opposes idealizing the past: the question “Why were the former days better than these?” is not necessarily presented as a question of wisdom, because the past is not always as we remember it."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? קהלת מתאר גם את החכמה וגם את הכסף כצל המגן על האדם, אך מעניק לחכמה יתרון ייחודי: היא עשויה להחיות את בעליה.",
+      "text_he": "הידעת? קהלת מתאר גם את החכמה וגם את הכסף כצל המגן על האדם, אך מעניק לחכמה יתרון ייחודי: היא עשויה להחיות את בעליה.",
+      "text_en": "Did you know? Ecclesiastes describes both wisdom and money as a protective shade, but gives wisdom a unique advantage: it can preserve the life of its possessor."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? קהלת מציין שהמציאות אינה תמיד מציגה גמול מיידי וברור: הוא ראה צדיק שאבד בצדקתו ורשע שהאריך ברעתו.",
+      "text_he": "הידעת? קהלת מציין שהמציאות אינה תמיד מציגה גמול מיידי וברור: הוא ראה צדיק שאבד בצדקתו ורשע שהאריך ברעתו.",
+      "text_en": "Did you know? Ecclesiastes notes that reality does not always present immediate and clear rewards: he saw a righteous person perish despite their righteousness and a wicked person live long in their wickedness."
+    },
+    {
+      "verse": 29,
+      "text": "הידעת? מסקנת הפרק היא שהאלוהים עשה את האדם ישר, אך בני האדם ביקשו לעצמם 'חשבונות רבים'—תחבולות, תכנונים ודרכים מסובכות שהתרחקו מן הישרות המקורית.",
+      "text_he": "הידעת? מסקנת הפרק היא שהאלוהים עשה את האדם ישר, אך בני האדם ביקשו לעצמם 'חשבונות רבים'—תחבולות, תכנונים ודרכים מסובכות שהתרחקו מן הישרות המקורית.",
+      "text_en": "Did you know? The chapter concludes that God made human beings upright, but they sought out “many schemes” for themselves—plots, plans, and complicated ways that departed from their original uprightness."
+    }
+  ]
+}
