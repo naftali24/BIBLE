@@ -1,0 +1,538 @@
+{
+  "book": "Proverbs",
+  "book_he": "משלי",
+  "book_chapters": 31,
+  "chapter": 12,
+  "title": "משלי פרק 12",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2812.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2812.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/PRO/12-6b9c3291ba8d60d7c0938f5267883d16.mp3?version_id=1",
+  "verses": [
+    "אֹהֵב מוּסָר, אֹהֵב דָּעַת; וְשׂוֹנֵא תוֹכַחַת בָּעַר.",
+    "טוֹב--יָפִיק רָצוֹן, מֵיְהוָה; וְאִישׁ מְזִמּוֹת יַרְשִׁיעַ.",
+    "לֹא-יִכּוֹן אָדָם בְּרֶשַׁע; וְשֹׁרֶשׁ צַדִּיקִים, בַּל-יִמּוֹט.",
+    "אֵשֶׁת-חַיִל, עֲטֶרֶת בַּעְלָהּ; וּכְרָקָב בְּעַצְמוֹתָיו מְבִישָׁה.",
+    "מַחְשְׁבוֹת צַדִּיקִים מִשְׁפָּט; תַּחְבֻּלוֹת רְשָׁעִים מִרְמָה.",
+    "דִּבְרֵי רְשָׁעִים אֱרָב-דָּם; וּפִי יְשָׁרִים, יַצִּילֵם.",
+    "הָפוֹךְ רְשָׁעִים וְאֵינָם; וּבֵית צַדִּיקִים יַעֲמֹד.",
+    "לְפִי-שִׂכְלוֹ, יְהֻלַּל-אִישׁ; וְנַעֲוֵה-לֵב, יִהְיֶה לָבוּז.",
+    "טוֹב נִקְלֶה, וְעֶבֶד לוֹ-- מִמִּתְכַּבֵּד, וַחֲסַר-לָחֶם.",
+    "יוֹדֵעַ צַדִּיק, נֶפֶשׁ בְּהֶמְתּוֹ; וְרַחֲמֵי רְשָׁעִים, אַכְזָרִי.",
+    "עֹבֵד אַדְמָתוֹ, יִשְׂבַּע-לָחֶם; וּמְרַדֵּף רֵיקִים חֲסַר-לֵב.",
+    "חָמַד רָשָׁע, מְצוֹד רָעִים; וְשֹׁרֶשׁ צַדִּיקִים יִתֵּן.",
+    "בְּפֶשַׁע שְׂפָתַיִם, מוֹקֵשׁ רָע; וַיֵּצֵא מִצָּרָה צַדִּיק.",
+    "מִפְּרִי פִי-אִישׁ, יִשְׂבַּע-טוֹב; וּגְמוּל יְדֵי-אָדָם, ישוב יָשִׁיב לוֹ.",
+    "דֶּרֶךְ אֱוִיל, יָשָׁר בְּעֵינָיו; וְשֹׁמֵעַ לְעֵצָה חָכָם.",
+    "אֱוִיל--בַּיּוֹם, יִוָּדַע כַּעְסוֹ; וְכֹסֶה קָלוֹן עָרוּם.",
+    "יָפִיחַ אֱמוּנָה, יַגִּיד צֶדֶק; וְעֵד שְׁקָרִים מִרְמָה.",
+    "יֵשׁ בּוֹטֶה, כְּמַדְקְרוֹת חָרֶב; וּלְשׁוֹן חֲכָמִים מַרְפֵּא.",
+    "שְׂפַת-אֱמֶת, תִּכּוֹן לָעַד; וְעַד-אַרְגִּיעָה, לְשׁוֹן שָׁקֶר.",
+    "מִרְמָה, בְּלֶב-חֹרְשֵׁי רָע; וּלְיֹעֲצֵי שָׁלוֹם שִׂמְחָה.",
+    "לֹא-יְאֻנֶּה לַצַּדִּיק כָּל-אָוֶן; וּרְשָׁעִים, מָלְאוּ רָע.",
+    "תּוֹעֲבַת יְהוָה, שִׂפְתֵי-שָׁקֶר; וְעֹשֵׂי אֱמוּנָה רְצוֹנוֹ.",
+    "אָדָם עָרוּם, כֹּסֶה דָּעַת; וְלֵב כְּסִילִים, יִקְרָא אִוֶּלֶת.",
+    "יַד-חָרוּצִים תִּמְשׁוֹל; וּרְמִיָּה, תִּהְיֶה לָמַס.",
+    "דְּאָגָה בְלֶב-אִישׁ יַשְׁחֶנָּה; וְדָבָר טוֹב יְשַׂמְּחֶנָּה.",
+    "יָתֵר מֵרֵעֵהוּ צַדִּיק; וְדֶרֶךְ רְשָׁעִים תַּתְעֵם.",
+    "לֹא-יַחֲרֹךְ רְמִיָּה צֵידוֹ; וְהוֹן-אָדָם יָקָר חָרוּץ.",
+    "בְּאֹרַח-צְדָקָה חַיִּים; וְדֶרֶךְ נְתִיבָה אַל-מָוֶת."
+  ],
+  "english": [
+    "Whoso loveth instruction loveth knowledge: but he that hateth reproof\nis brutish.",
+    "A good\nman obtaineth favour of the LORD: but a man of wicked devices will he condemn.",
+    "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+    "A virtuous woman\nis a crown to her husband: but she that maketh ashamed\nis as rottenness in his bones.",
+    "The thoughts of the righteous\nare right:\nbut the counsels of the wicked\nare deceit.",
+    "The words of the wicked\nare to lie in wait for blood: but the mouth of the upright shall deliver them.",
+    "The wicked are overthrown, and\nare not: but the house of the righteous shall stand.",
+    "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+    "He that is despised, and hath a servant,\nis better than he that honoureth himself, and lacketh bread.",
+    "A righteous\nman regardeth the life of his beast: but the tender mercies of the wicked\nare cruel.",
+    "He that tilleth his land shall be satisfied with bread: but he that followeth vain\npersons is void of understanding.",
+    "The wicked desireth the net of evil\nmen: but the root of the righteous yieldeth\nfruit.",
+    "The wicked is snared by the transgression of\nhis lips: but the just shall come out of trouble.",
+    "A man shall be satisfied with good by the fruit of\nhis mouth: and the recompense of a man’s hands shall be rendered unto him.",
+    "The way of a fool\nis right in his own eyes: but he that hearkeneth unto counsel\nis wise.",
+    "A fool’s wrath is presently known: but a prudent\nman covereth shame.",
+    "He that speaketh truth sheweth forth righteousness: but a false witness deceit.",
+    "There is that speaketh like the piercings of a sword: but the tongue of the wise\nis health.",
+    "The lip of truth shall be established for ever: but a lying tongue\nis but for a moment.",
+    "Deceit\nis in the heart of them that imagine evil: but to the counsellors of peace\nis joy.",
+    "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
+    "Lying lips\nare abomination to the LORD: but they that deal truly\nare his delight.",
+    "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
+    "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+    "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+    "The righteous\nis more excellent than his neighbour: but the way of the wicked seduceth them.",
+    "The slothful\nman roasteth not that which he took in hunting: but the substance of a diligent man\nis precious.",
+    "In the way of righteousness\nis life; and\nin the pathway\nthereof there is no death."
+  ],
+  "steinsaltz": [
+    "מי שאֹהֵב לשמוע מוּסָר הוא אֹהֵב דָּעַת. מכיוון שהוא אוהב לדעת ולהבין יותר, הוא מקשיב לביקורת ומתקן את שגיאותיו. וְאילו מי ששׂוֹנֵא תוֹכַחַת הוא בָּעַר, שאינו מבין שהתוכחה היא אמצעי לתיקון ולרכישת בינה, ולכן הוא יישאר בבערותו.",
+    "איש טוֹב יָפִיק רָצוֹן, ימצא ברכה וחסד מֵה', וְאִישׁ מְזִמּוֹת, חושב תחבולות להרע – יַרְשִׁעַ, יורשע, או: ירשיע את הטובים.",
+    "לֹא־יִכּוֹן, יתבסס אָדָם בְּרֶשַׁע, ומנגד – שֹׁרֶשׁ צַדִּיקִים בַּל־יִמּוֹט, לא יתמוטט. גם אם הם נופלים לעתים, שורשם יחזור ויצמיח.",
+    "אֵשֶׁת־חַיִל היא כעֲטֶרֶת, כתר לראש בַּעְלָהּ, וּכְרָקָב, ריקבון בְּעַצְמוֹתָיו האשה המְבִישָׁה. כמו פתגמי חכמה רבים, יותר משיש פה עצה, זהו ניסיון לתאר מצב, והמבין יבין ויעשה מה שביכולתו.",
+    "מַחְשְׁבוֹת צַדִּיקִים נתונות תמיד למִשְׁפָּט, יושר וצדק, ותַּחְבֻּלוֹת רְשָׁעִים – מִרְמָה. במחשבתם של הרשעים פעיל תמיד השיקול כיצד לרמות ולהערים.",
+    "גם כאשר כלפי חוץ הדברים טובים, דִּבְרֵי, ענייניהם ודיבוריהם של רְשָׁעִים לאֱרָב־דָּם, העוול אורב בלבם, וּפִי יְשָׁרִים יַצִּילֵם – אותם עצמם, או: את המסכנים שהרשעים אורבים להם.",
+    "הָפוֹךְ רְשָׁעִים וְאֵינָם. הרשעים נראים יציבים, אבל מיד כשהופכים אותם – לא נשאר מהם דבר, וּלעומת זאת בֵית צַדִּיקִים, גם אם יעמוד בפני קשיים, הוא יַעֲמֹד, יתקיים.",
+    "לְפִי־שִׂכְלוֹ יְהֻלַּל־אִישׁ. לפי מידת שכלו של אדם, אם פחות ואם יותר, נקבעים תהילתו ושמו הטוב, וְנַעֲוֵה־לֵב, מי שלבו עקום יִהְיֶה לָבוּז, לביזיון. הלב בספר הזה הוא משכן הדעת ולא רק משכן הרגש.",
+    "טוֹב אדם שנחשב לנִקְלֶה, נחות מבחינה כלכלית, וְעֶבֶד לוֹ, יש לו מי שעושה את מלאכתו, יותר מִמִּתְכַּבֵּד בעיני אחרים ובעיני עצמו, ולאמתו של דבר הוא חֲסַר־לָחֶם. מי שאינו נחשב לעשיר בעיני הבריות, אבל יש לו די ממון כדי לרכוש עבד, עדיף על מי שהכול מכבדים אותו, אך אין בידו די לחם.",
+    "יוֹדֵעַ, מכיר ודואג צַדִּיק לנֶפֶשׁ, תאוותה וצרכיה של בְּהֶמְתּוֹ, וְרַחֲמֵי רְשָׁעִים אַכְזָרִי. אפילו כשרשע מרחם על הבריות ומפנק אותן כביכול, מעורבת בכך אכזריות. לעתים אפשר לראות אנשים רעים, שאף כאשר הם משחקים עם חיות המחמד שלהם, הם עושים זאת באכזריות וגורמים להן כאב.",
+    "עֹבֵד אַדְמָתוֹ שלוֹ יִשְׂבַּע־לָחֶם, ידושן ממעשה ידיו, ואילו מְרַדֵּף אחר דברים רֵיקִים, דברי הבאי חסרי קיום הוא חֲסַר־לֵב, שכל; וכמובן גם לחם הוא יחסר.",
+    "חָמַד רָשָׁע, שבניגוד לאוויל ולפתי הוא אדם בעל תכניות זדון, להשיג מְצוֹד, מלכודת של רָעִים לתפוס בה את הזולת, וְשֹׁרֶשׁ צַדִּיקִים, יסודו של הצדיק, או: מי ששורשו אצל הצדיקים, יִתֵּן, מעניק תמיד טובה וברכה לאחרים.",
+    "בְּעקבות פֶשַׁע שְׂפָתַיִם מוֹקֵשׁ רָע. דיבורים רעים אינם נשארים באוויר; הם מגיעים למישהו ומחוללים צרות ובעיות, וַיֵּצֵא, נחלץ מִצָּרָה – מאותו מוקש צַדִּיק, המשתדל שלא לדבר דיבורים כאלה.",
+    "מִפְּרִי, מתנובת פִי־אִישׁ יִשְׂבַּע־טוֹב. דיבוריו הטובים של אדם יחזרו אליו ויביאו לו טובה, וּגְמוּל עבודת יְדֵי־אָדָם יָשִׁיב, יחזיר לוֹ את מה שהשקיע.",
+    "דֶּרֶךְ אֱוִיל יָשָׁר בְּעֵינָיו. לשוטה יש ביטחון עצמי מופרז, ולכן הוא בטוח בצדקת דרכו ואינו מקשיב לעצה, ולעומתו שֹׁמֵעַ לְעֵצָה – חָכָם. החכם מברר, חוקר ומוכן להקשיב לעצה. משמעות נוספת: השומע לעצה נעשה חכם.",
+    "האֱוִיל, בַּיּוֹם, לעין כול, או: בו ביום שכועס יִוָּדַע כַּעְסוֹ, ואז גם איוולתו תיחשף, כמו שאמרו חכמים \"אדם ניכר בכיסו, בכוסו ובכעסו\", וְכֹסֶה, מכסה קָלוֹן, חרפה, השומר רגשותיו מהתפרצות הוא עָרוּם, נבון, פועל באופן מושכל.",
+    "ועוד בעניין הדיבור – יָפִיחַ, מפיץ ומרבה אֱמוּנָה, נאמנות, הוא זה שיַגִּיד צֶדֶק. המדבר ביושר ומספר דברים כהווייתם מרבה מהימנות, וְעֵד שְׁקָרִים, מי שמסלף את האמת מרבה מִרְמָה.",
+    "יֵשׁ בּוֹטֶה, מבטא דברים כְּמַדְקְרוֹת, דקירות חָרֶב, וּלְשׁוֹן חֲכָמִים מַרְפֵּא. גם כשחכמים אומרים דבר שאינו לשבח, אין דבריהם פוצעים אלא מרפאים.",
+    "שְׂפַת אֱמֶת תִּכּוֹן, תתקיים לָעַד, וְעַד־אַרְגִּיעָה, ולרגע אחד לְשׁוֹן שָׁקֶר. השקר אינו מתמיד. זוהי אחת ההבחנות בין אמת לשקר, בין מבחינה עיונית-פילוסופית בין מבחינה מעשית: דברים שקיומם מתמשך הם אמת, ומה שאין לו קיום הוא במהותו שקר.",
+    "המִרְמָה שוכנת בְּלֶב אנשים חֹרְשֵׁי רָע, הזוממים להרע, ואילו לְיֹעֲצֵי שָׁלוֹם יש שִׂמְחָה, שהרי אינם מתייראים לגלות את מצפוני לבם וגם נהנים מפרי דיבוריהם.",
+    "לֹא־יְאֻנֶּה לַצַּדִּיק, שאין מרמה בלבו, ואינו מתאווה לה, כָּל־אָוֶן, עוול ומרמה, וּרְשָׁעִים מָלְאוּ, בא בהם הרבה רָע.",
+    "תּוֹעֲבַת ה' שִׂפְתֵי־שָׁקֶר. ה' שונא דברי שקר, וְעֹשֵׂי אֱמוּנָה, אמת הם רְצוֹנוֹ של ה'. בהם הוא חפץ, ואליהם הוא קרוב.",
+    "אָדָם עָרוּם, נבון כֹּסֶה, שומר בתוכו את הדָּעַת, וְלֵב כְּסִילִים יִקְרָא אִוֶּלֶת. הטיפש אינו מסתיר דבר, והוא מכריז באוזני כול את איוולתו.",
+    "יַד־חָרוּצִים, אלה שעובדים כראוי תִּמְשׁוֹל. בגלל איכות עבודתם ידם תגבר, וּלעומת זאת הרְמִיָּה תִּהְיֶה לָמַס. סופה חולשה ועבדות, או: התמוססות. עשייה מזויפת תרד לטמיון.",
+    "דְּאָגָה בְלֶב־אִישׁ – טוב לו שיַשְׁחֶנָּה, ידכא אותה. אל לו להתמסר לדאגה אלא יכבשנה. וְדָבָר, עניין או דיבור טוֹב יְשַׂמְּחֶנָּה – את הדאגה.",
+    "יָתֵר מֵרֵעֵהוּ צַדִּיק. לצדיק יתרון על פני חברו. או: הצדיק מפיק יתרון מרעהו, וְדֶרֶךְ רְשָׁעִים, שנראית בעיניהם מובילה למקום טוב כלשהו, תַּתְעֵם, תוליכם שולל.",
+    "לֹא־יַחֲרֹךְ בעל הרְמִיָּה, הרמאי את צֵידוֹ, כדרכם של ציידים, שהיו שוברים או חורכים קצת את כנפי העופות הניצודים כדי שלא יברחו. מה שהושג במרמה לא יישמר, ולעומת זאת הוֹן־אָדָם יָקָר, הונו של אדם נכבד הוא חָרוּץ – זהב משובח. לחלופין: הונו של אדם חרוץ – יקר לו. או: הון יקר של אדם נובע מהיותו חרוץ וישר. הרמאי מנסה לעגל פינות ולמצוא דרכים עקלקלות, אך סופו שלא יישאר בידו דבר, ואילו האנשים החרוצים, העושים את עבודתם נאמנה והולכים בדרך הישר, שומרים על ממונם ולהם תאיר ההצלחה פניה.",
+    "בְּאֹרַח־צְדָקָה יתרבו חַיִּים, וְדֶרֶךְ נְתִיבָה, מסלול הצדקה הוא אַל־מָוֶת, דרך שאין בה מוות."
+  ],
+  "ai_explanation": [
+    "מי שאוהב לשמוע מוסר אוהב דעת, מפני שהוא מקשיב לביקורת ומתקן את שגיאותיו. מי ששונא תוכחה הוא בער, שאינו מבין שהתוכחה מסייעת לתיקון ולרכישת בינה.",
+    "איש טוב ימצא רצון, ברכה וחסד מאת ה'. איש מזימות, החושב תחבולות להרע, יורשע או ירשיע את הטובים.",
+    "אדם אינו מתבסס ברשע, ואילו שורש הצדיקים אינו מתמוטט. גם אם הצדיקים נופלים לעיתים, שורשם עשוי לחזור ולהצמיח.",
+    "אשת חיל היא כתר לראש בעלה, ואילו אישה המבישה את בעלה היא כריקבון בעצמותיו. הפסוק מתאר מצב ומניח למבין להסיק כיצד לפעול.",
+    "מחשבות הצדיקים מכוונות תמיד ליושר ולצדק. תחבולות הרשעים מכוונות למרמה ולהערמה.",
+    "ענייניהם ודיבוריהם של הרשעים עלולים להסתיר ארב לעוול ולפגיעה. פי הישרים יציל אותם עצמם או את המסכנים שהרשעים אורבים להם.",
+    "הרשעים נראים יציבים, אך כאשר הופכים אותם לא נשאר מהם דבר. בית הצדיקים, גם אם יעמוד בקשיים, יתקיים.",
+    "לפי מידת שכלו של האדם נקבעים תהילתו ושמו הטוב. מי שלבו עקום יהיה לבוז; בספר משלי הלב הוא גם משכן הדעת.",
+    "אדם הנחשב לנחות מבחינה כלכלית, אך יש לו עבד או אמצעים למחייתו, טוב ממי שמתכבד בעיני הבריות אך חסר לחם.",
+    "הצדיק מכיר ודואג לצורכי בהמתו. אפילו רחמי הרשעים עלולים להיות מעורבים באכזריות ולגרום כאב, גם כאשר הם מפנקים כביכול.",
+    "העובד את אדמתו ישבע לחם וייהנה מתוצרת מעשיו. הרודף אחר דברים ריקים וחסרי קיום יחסר שכל, וכמובן גם לחם.",
+    "הרשע חומד להשיג מלכודת של אנשים רעים כדי לתפוס בה את הזולת. שורש הצדיקים מעניק תמיד טובה וברכה לאחרים.",
+    "דיבורים רעים אינם נשארים באוויר אלא מגיעים לאנשים ומחוללים צרות. הצדיק, הנזהר מדיבורים כאלה, נחלץ מן הצרה.",
+    "מדיבוריו הטובים של אדם הוא ישבע טובה, והדברים הטובים יחזרו אליו. גם גמול עבודת ידיו יחזיר לו את מה שהשקיע.",
+    "האויל בטוח שדרכו ישרה בעיניו ואינו מקשיב לעצה, ואילו החכם מברר, חוקר ומוכן לשמוע. אפשר להבין גם שהשומע לעצה נעשה חכם.",
+    "כעסו של האויל ניכר לעין כול ובאותו זמן נחשפת גם איוולתו. מי שמכסה את חרפתו ושומר את רגשותיו מהתפרצות הוא ערום ונבון.",
+    "מי שמפיץ נאמנות ומהימנות אומר את האמת ומציג את הדברים כהווייתם. עד שקרים מסלף את האמת ומרבה מרמה.",
+    "יש אדם הבוטה בדבריו ודיבורו דוקר כחרב. לשון חכמים, גם כשהיא אומרת דבר שאינו לשבח, היא לשון מרפא.",
+    "שפת אמת מתקיימת לאורך זמן, ואילו לשון שקר אינה מתמידה אלא מתקיימת אפילו לרגע בלבד. לפי ההסבר, דברים שקיומם מתמשך הם אמת, ומה שאין לו קיום הוא במהותו שקר.",
+    "המרמה נמצאת בלבם של הזוממים להרע. ליועצי שלום יש שמחה, מפני שאינם חוששים לגלות את מצפונם ונהנים מפרי דיבוריהם.",
+    "לצדיק, שאין מרמה בלבו ואינו מתאווה לה, לא יאונה עוול ומרמה. הרשעים, לעומת זאת, מלאים ברע.",
+    "ה' מתעב שפתיים המדברות שקר. הוא חפץ בעושי אמת ונאמן להם.",
+    "אדם ערום ונבון שומר את הדעת בתוכו. הכסילים אינם מסתירים דבר ומכריזים באוזני הכול את איוולתם.",
+    "יד החרוצים תגבר בזכות איכות עבודתם. הרמייה תביא בסופה חולשה, עבדות או התמוססות, ועשייה מזויפת תרד לטמיון.",
+    "הדאגה שבלב אינה צריכה להשתלט על האדם, אלא יש לדכא ולכבוש אותה. דבר או עניין טוב עשוי לשמח ולהפיג אותה.",
+    "לצדיק יש יתרון על פני חברו, או שהוא מפיק יתרון מרעהו. דרך הרשעים, גם אם נדמה להם שהיא מובילה לטוב, מוליכה אותם שולל.",
+    "הרמאי אינו מצליח לשמור את שללו; מה שהושג במרמה לא יישמר. לעומת זאת הונו של אדם חרוץ וישר יקר ויציב, והצלחה מאירה לו פנים.",
+    "בדרך הצדקה מתרבים החיים. נתיב הצדקה הוא דרך שאין בה מוות."
+  ],
+  "ai_explanation_en": [
+    "One who loves to hear moral instruction loves knowledge, because he listens to criticism and corrects his mistakes. One who hates rebuke is foolish and does not understand that rebuke helps a person improve and acquire insight.",
+    "A good person finds favor, blessing, and kindness from God. A scheming person who plans to harm will be condemned, or will condemn the good.",
+    "A person cannot become firmly established through wickedness, whereas the root of the righteous will not collapse. Even if the righteous sometimes fall, their root can grow again.",
+    "A capable wife is like a crown on her husband's head, while a wife who brings shame is like decay in his bones. The verse describes a situation and leaves the understanding reader to draw the practical conclusion.",
+    "The thoughts of the righteous are always directed toward justice and integrity. The schemes of the wicked are directed toward deception and trickery.",
+    "The affairs and words of the wicked may conceal an ambush of injustice and harm. The speech of the upright will save either the upright themselves or those whom the wicked are waiting to harm.",
+    "The wicked may appear stable, but when they are overturned, nothing remains of them. The house of the righteous will endure even when it faces difficulties.",
+    "A person's praise and good reputation are determined by the measure of his understanding. Someone with a crooked heart will be disgraced; in Proverbs, the heart is also the seat of knowledge.",
+    "A person considered economically insignificant but able to support himself and have a servant is better off than someone honored by others but lacking bread.",
+    "The righteous recognize and care for the needs of their animals. Even the compassion of the wicked may contain cruelty and cause pain, despite appearing to be indulgent.",
+    "One who works his land will have enough bread and enjoy the results of his labor. One who pursues empty, unreal things will lack sense and, of course, bread as well.",
+    "The wicked person desires a trap devised by evil people in order to catch others. The root of the righteous continually gives goodness and blessing to others.",
+    "Bad speech does not simply disappear; it reaches people and creates trouble. The righteous person, who avoids such speech, escapes the resulting danger.",
+    "A person will be satisfied by the good produced by his speech, and his good words will return to benefit him. The reward of his labor will also return to him what he invested.",
+    "The fool is certain that his way is right and does not listen to advice, while the wise person investigates and is willing to listen. The verse can also mean that one who listens to advice becomes wise.",
+    "The fool's anger is visible to everyone, and his foolishness is exposed at the same time. One who covers his disgrace and restrains his emotions from erupting is prudent and sensible.",
+    "The person who spreads trustworthiness and reliability speaks truthfully and reports matters as they are. A false witness distorts the truth and increases deceit.",
+    "Some people speak bluntly, and their words stab like a sword. The tongue of the wise, even when it expresses criticism, brings healing rather than injury.",
+    "Truthful speech endures over time, while false speech does not last and survives only for a moment. According to this interpretation, what continues to exist is true, while what cannot endure is essentially false.",
+    "Deceit lies in the hearts of those who plot harm. Those who advise peace have joy because they do not fear revealing their intentions and they benefit from the results of their words.",
+    "No injustice or deceit will happen to the righteous person, who has no deceit in his heart and does not desire it. The wicked, by contrast, are filled with evil.",
+    "God detests lips that speak lies. He desires those who act faithfully and truthfully and is close to them.",
+    "A prudent and intelligent person keeps knowledge within himself. Fools hide nothing and announce their foolishness to everyone.",
+    "The hand of the diligent will prevail because of the quality of their work. Deceit ultimately leads to weakness, servitude, or dissolution, and false work comes to nothing.",
+    "A person should not allow worry in his heart to control him, but should restrain and overcome it. A good word or a good matter can bring joy and dispel the worry.",
+    "The righteous person has an advantage over his companion, or gains an advantage from him. The way of the wicked, even if it appears to lead somewhere good, leads them astray.",
+    "The deceitful person cannot preserve his plunder; what is obtained through fraud will not last. The wealth of a diligent and upright person is valuable and secure, and success favors him.",
+    "Life increases along the path of righteousness. The way of righteousness is a path without death."
+  ],
+  "perush": [
+    "מי שאוהב לשמוע מוסר אוהב דעת, מפני שהוא מקשיב לביקורת ומתקן את שגיאותיו. מי ששונא תוכחה הוא בער, שאינו מבין שהתוכחה מסייעת לתיקון ולרכישת בינה.",
+    "איש טוב ימצא רצון, ברכה וחסד מאת ה'. איש מזימות, החושב תחבולות להרע, יורשע או ירשיע את הטובים.",
+    "אדם אינו מתבסס ברשע, ואילו שורש הצדיקים אינו מתמוטט. גם אם הצדיקים נופלים לעיתים, שורשם עשוי לחזור ולהצמיח.",
+    "אשת חיל היא כתר לראש בעלה, ואילו אישה המבישה את בעלה היא כריקבון בעצמותיו. הפסוק מתאר מצב ומניח למבין להסיק כיצד לפעול.",
+    "מחשבות הצדיקים מכוונות תמיד ליושר ולצדק. תחבולות הרשעים מכוונות למרמה ולהערמה.",
+    "ענייניהם ודיבוריהם של הרשעים עלולים להסתיר ארב לעוול ולפגיעה. פי הישרים יציל אותם עצמם או את המסכנים שהרשעים אורבים להם.",
+    "הרשעים נראים יציבים, אך כאשר הופכים אותם לא נשאר מהם דבר. בית הצדיקים, גם אם יעמוד בקשיים, יתקיים.",
+    "לפי מידת שכלו של האדם נקבעים תהילתו ושמו הטוב. מי שלבו עקום יהיה לבוז; בספר משלי הלב הוא גם משכן הדעת.",
+    "אדם הנחשב לנחות מבחינה כלכלית, אך יש לו עבד או אמצעים למחייתו, טוב ממי שמתכבד בעיני הבריות אך חסר לחם.",
+    "הצדיק מכיר ודואג לצורכי בהמתו. אפילו רחמי הרשעים עלולים להיות מעורבים באכזריות ולגרום כאב, גם כאשר הם מפנקים כביכול.",
+    "העובד את אדמתו ישבע לחם וייהנה מתוצרת מעשיו. הרודף אחר דברים ריקים וחסרי קיום יחסר שכל, וכמובן גם לחם.",
+    "הרשע חומד להשיג מלכודת של אנשים רעים כדי לתפוס בה את הזולת. שורש הצדיקים מעניק תמיד טובה וברכה לאחרים.",
+    "דיבורים רעים אינם נשארים באוויר אלא מגיעים לאנשים ומחוללים צרות. הצדיק, הנזהר מדיבורים כאלה, נחלץ מן הצרה.",
+    "מדיבוריו הטובים של אדם הוא ישבע טובה, והדברים הטובים יחזרו אליו. גם גמול עבודת ידיו יחזיר לו את מה שהשקיע.",
+    "האויל בטוח שדרכו ישרה בעיניו ואינו מקשיב לעצה, ואילו החכם מברר, חוקר ומוכן לשמוע. אפשר להבין גם שהשומע לעצה נעשה חכם.",
+    "כעסו של האויל ניכר לעין כול ובאותו זמן נחשפת גם איוולתו. מי שמכסה את חרפתו ושומר את רגשותיו מהתפרצות הוא ערום ונבון.",
+    "מי שמפיץ נאמנות ומהימנות אומר את האמת ומציג את הדברים כהווייתם. עד שקרים מסלף את האמת ומרבה מרמה.",
+    "יש אדם הבוטה בדבריו ודיבורו דוקר כחרב. לשון חכמים, גם כשהיא אומרת דבר שאינו לשבח, היא לשון מרפא.",
+    "שפת אמת מתקיימת לאורך זמן, ואילו לשון שקר אינה מתמידה אלא מתקיימת אפילו לרגע בלבד. לפי ההסבר, דברים שקיומם מתמשך הם אמת, ומה שאין לו קיום הוא במהותו שקר.",
+    "המרמה נמצאת בלבם של הזוממים להרע. ליועצי שלום יש שמחה, מפני שאינם חוששים לגלות את מצפונם ונהנים מפרי דיבוריהם.",
+    "לצדיק, שאין מרמה בלבו ואינו מתאווה לה, לא יאונה עוול ומרמה. הרשעים, לעומת זאת, מלאים ברע.",
+    "ה' מתעב שפתיים המדברות שקר. הוא חפץ בעושי אמת ונאמן להם.",
+    "אדם ערום ונבון שומר את הדעת בתוכו. הכסילים אינם מסתירים דבר ומכריזים באוזני הכול את איוולתם.",
+    "יד החרוצים תגבר בזכות איכות עבודתם. הרמייה תביא בסופה חולשה, עבדות או התמוססות, ועשייה מזויפת תרד לטמיון.",
+    "הדאגה שבלב אינה צריכה להשתלט על האדם, אלא יש לדכא ולכבוש אותה. דבר או עניין טוב עשוי לשמח ולהפיג אותה.",
+    "לצדיק יש יתרון על פני חברו, או שהוא מפיק יתרון מרעהו. דרך הרשעים, גם אם נדמה להם שהיא מובילה לטוב, מוליכה אותם שולל.",
+    "הרמאי אינו מצליח לשמור את שללו; מה שהושג במרמה לא יישמר. לעומת זאת הונו של אדם חרוץ וישר יקר ויציב, והצלחה מאירה לו פנים.",
+    "בדרך הצדקה מתרבים החיים. נתיב הצדקה הוא דרך שאין בה מוות."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "אהבת המוסר ויציבות הצדיקים",
+      "title_en": "Love of Instruction and the Stability of the Righteous",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "הפסוקים מציבים ניגוד בין מי שמקבל מוסר ותוכחה לבין מי ששונא אותם, בין הטוב לבין איש המזימות, ובין יציבות הצדיקים לבין חולשת הרשעים. הם כוללים גם תיאור של אשת חיל כמקור כבוד ושל אישה מבישה כמקור ריקבון.",
+      "summary_en": "These verses contrast the person who accepts instruction and rebuke with the one who hates them, the good person with the schemer, and the stability of the righteous with the weakness of the wicked. They also portray the capable wife as a source of honor and the shameful wife as a source of decay.",
+      "image_prompt": "A symbolic household scene showing a wise person listening attentively to guidance, a strong tree with deep roots, and a radiant crown representing a capable wife; contrasting shadows suggest instability and shame. No text."
+    },
+    {
+      "title": "מחשבות, דיבורים ובית הצדיקים",
+      "title_en": "Thoughts, Speech, and the House of the Righteous",
+      "start_verse": 5,
+      "end_verse": 7,
+      "summary": "מחשבות הצדיקים מכוונות לצדק, בעוד תחבולות הרשעים מכוונות למרמה ולפגיעה. דברי הישרים מצילים, ובית הצדיקים מתקיים לעומת הרשעים שאינם עומדים כאשר הם מתהפכים.",
+      "summary_en": "The thoughts of the righteous are directed toward justice, while the schemes of the wicked aim at deceit and harm. The speech of the upright saves, and the house of the righteous endures, unlike the wicked who vanish when overturned.",
+      "image_prompt": "A balanced symbolic composition with bright scales of justice, a protective house, and a clear-speaking upright person shielding vulnerable people from dark concealed traps. No text."
+    },
+    {
+      "title": "שכל, כבוד ופרנסה",
+      "title_en": "Understanding, Honor, and Livelihood",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "השכל והיושר קובעים את כבוד האדם, ואילו לב עקום מוביל לביזיון. הפסוקים מעדיפים פרנסה ממשית ועבודה מועילה על פני כבוד חיצוני, ומדגישים את דאגת הצדיק לבהמתו לעומת אכזריות הרשעים.",
+      "summary_en": "Understanding and integrity determine a person's honor, while a crooked heart leads to disgrace. The verses value real livelihood and useful work over outward status, and emphasize the righteous person's care for animals in contrast to the cruelty of the wicked.",
+      "image_prompt": "A humble worker tending fertile land and caring gently for an animal, while distant empty symbols of status fade into shadow; warm, realistic, moral illustration. No text."
+    },
+    {
+      "title": "עבודה, מלכודות וגמול הדיבור",
+      "title_en": "Work, Traps, and the Return of Speech",
+      "start_verse": 12,
+      "end_verse": 14,
+      "summary": "הרשע מבקש ללכוד אחרים, אך שורש הצדיקים מעניק ברכה. דיבור רע יוצר מוקש, ואילו דיבור טוב ומעשה טוב מחזירים לאדם טובה וגמול.",
+      "summary_en": "The wicked seek to trap others, while the root of the righteous gives blessing. Evil speech creates a snare, whereas good speech and good work return benefit and reward to the person.",
+      "image_prompt": "A symbolic path where a dark snare lies beside harmful speech, while a rooted tree produces fruit and a person receives the benefits of honest words and labor. No text."
+    },
+    {
+      "title": "עצה, כעס ואמת בדיבור",
+      "title_en": "Advice, Anger, and Truthful Speech",
+      "start_verse": 15,
+      "end_verse": 18,
+      "summary": "הפסוקים משבחים את הקשבת החכם לעצה ואת שליטת הערום בכעסו. הם מבחינים בין עדות אמת ומילים מרפאות לבין שקר, מרמה ודיבור הפוצע כחרב.",
+      "summary_en": "These verses praise the wise person's willingness to accept advice and the prudent person's restraint of anger. They distinguish truthful testimony and healing words from falsehood, deceit, and speech that wounds like a sword.",
+      "image_prompt": "A calm wise counselor speaking gently while an angry figure is restrained from exploding; one side shows a healing light, the other a sharp sword formed from harsh words. No text."
+    },
+    {
+      "title": "אמת, שלום ורצון ה׳",
+      "title_en": "Truth, Peace, and God's Desire",
+      "start_verse": 19,
+      "end_verse": 22,
+      "summary": "האמת מתקיימת לאורך זמן ואילו השקר חולף. מרמה שוכנת אצל חורשי הרע, אך יועצי שלום שמחים, וה׳ מתעב שקר וחפץ בעושי אמת.",
+      "summary_en": "Truth endures, while falsehood passes away. Deceit belongs to those who plot harm, whereas advisers of peace have joy, and God detests lies and desires those who act truthfully.",
+      "image_prompt": "A bright enduring path of truth and peace contrasted with a fading shadow of lies and deceit; peaceful counselors stand together in clear light. No text."
+    },
+    {
+      "title": "תבונה, חריצות ודאגה",
+      "title_en": "Prudence, Diligence, and Worry",
+      "start_verse": 23,
+      "end_verse": 25,
+      "summary": "האדם הנבון שומר את דעתו ואינו מכריז את איוולתו. החרוצים מתחזקים בעבודתם, ואילו הרמייה נכשלת; מול הדאגה מוצעים כיבוש עצמי ודבר טוב המשמח את הלב.",
+      "summary_en": "The prudent person keeps knowledge within and does not proclaim foolishness. The diligent grow strong through their work while deceit fails; against worry, the verses present self-control and a good word that brings joy.",
+      "image_prompt": "A thoughtful person quietly holding a small lamp of knowledge, diligent hands completing honest work, and a warm encouraging conversation easing a worried heart. No text."
+    },
+    {
+      "title": "יתרון הצדיק ודרך החיים",
+      "title_en": "The Advantage of the Righteous and the Way of Life",
+      "start_verse": 26,
+      "end_verse": 28,
+      "summary": "הצדיק מפיק יתרון ואילו דרך הרשעים מוליכה אותם שולל. מה שהושג ברמייה אינו נשמר, אך הון שנצבר בחריצות וביושר יציב; דרך הצדקה מובילה לחיים ולנתיב שאין בו מוות.",
+      "summary_en": "The righteous gain an advantage, while the way of the wicked leads them astray. What is obtained through deceit cannot be preserved, but wealth gained through diligence and integrity is secure; the path of righteousness leads to life and is free of death.",
+      "image_prompt": "A clear radiant path of righteousness leading toward abundant life, with a secure store of honest wealth nearby, while a crooked shadowy road of deceit fades away. No text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.34,
+      "usfm": "PRO.12.1"
+    },
+    {
+      "start": 9.34,
+      "end": 16.6,
+      "usfm": "PRO.12.2"
+    },
+    {
+      "start": 16.6,
+      "end": 23.66,
+      "usfm": "PRO.12.3"
+    },
+    {
+      "start": 23.66,
+      "end": 32.7,
+      "usfm": "PRO.12.4"
+    },
+    {
+      "start": 32.7,
+      "end": 38.68,
+      "usfm": "PRO.12.5"
+    },
+    {
+      "start": 38.68,
+      "end": 46.14,
+      "usfm": "PRO.12.6"
+    },
+    {
+      "start": 46.14,
+      "end": 52.92,
+      "usfm": "PRO.12.7"
+    },
+    {
+      "start": 52.92,
+      "end": 61.32,
+      "usfm": "PRO.12.8"
+    },
+    {
+      "start": 61.32,
+      "end": 68.6,
+      "usfm": "PRO.12.9"
+    },
+    {
+      "start": 68.6,
+      "end": 76.28,
+      "usfm": "PRO.12.10"
+    },
+    {
+      "start": 76.28,
+      "end": 84.56,
+      "usfm": "PRO.12.11"
+    },
+    {
+      "start": 84.56,
+      "end": 91.84,
+      "usfm": "PRO.12.12"
+    },
+    {
+      "start": 91.84,
+      "end": 99.08,
+      "usfm": "PRO.12.13"
+    },
+    {
+      "start": 99.08,
+      "end": 108.56,
+      "usfm": "PRO.12.14"
+    },
+    {
+      "start": 108.56,
+      "end": 116.22,
+      "usfm": "PRO.12.15"
+    },
+    {
+      "start": 116.22,
+      "end": 123.2,
+      "usfm": "PRO.12.16"
+    },
+    {
+      "start": 123.2,
+      "end": 130.72,
+      "usfm": "PRO.12.17"
+    },
+    {
+      "start": 130.72,
+      "end": 137.6,
+      "usfm": "PRO.12.18"
+    },
+    {
+      "start": 137.6,
+      "end": 145.1,
+      "usfm": "PRO.12.19"
+    },
+    {
+      "start": 145.1,
+      "end": 152.58,
+      "usfm": "PRO.12.20"
+    },
+    {
+      "start": 152.58,
+      "end": 159.94,
+      "usfm": "PRO.12.21"
+    },
+    {
+      "start": 159.94,
+      "end": 167.58,
+      "usfm": "PRO.12.22"
+    },
+    {
+      "start": 167.58,
+      "end": 174.98,
+      "usfm": "PRO.12.23"
+    },
+    {
+      "start": 174.98,
+      "end": 181.72,
+      "usfm": "PRO.12.24"
+    },
+    {
+      "start": 181.72,
+      "end": 189.86,
+      "usfm": "PRO.12.25"
+    },
+    {
+      "start": 189.86,
+      "end": 196.44,
+      "usfm": "PRO.12.26"
+    },
+    {
+      "start": 196.44,
+      "end": 205.12,
+      "usfm": "PRO.12.27"
+    },
+    {
+      "start": 205.12,
+      "end": 220.76,
+      "usfm": "PRO.12.28"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.34,
+    16.6,
+    23.66,
+    32.7,
+    38.68,
+    46.14,
+    52.92,
+    61.32,
+    68.6,
+    76.28,
+    84.56,
+    91.84,
+    99.08,
+    108.56,
+    116.22,
+    123.2,
+    130.72,
+    137.6,
+    145.1,
+    152.58,
+    159.94,
+    167.58,
+    174.98,
+    181.72,
+    189.86,
+    196.44,
+    205.12,
+    220.76
+  ],
+  "times_en_usfm": [
+    "PRO.12.1",
+    "PRO.12.2",
+    "PRO.12.3",
+    "PRO.12.4",
+    "PRO.12.5",
+    "PRO.12.6",
+    "PRO.12.7",
+    "PRO.12.8",
+    "PRO.12.9",
+    "PRO.12.10",
+    "PRO.12.11",
+    "PRO.12.12",
+    "PRO.12.13",
+    "PRO.12.14",
+    "PRO.12.15",
+    "PRO.12.16",
+    "PRO.12.17",
+    "PRO.12.18",
+    "PRO.12.19",
+    "PRO.12.20",
+    "PRO.12.21",
+    "PRO.12.22",
+    "PRO.12.23",
+    "PRO.12.24",
+    "PRO.12.25",
+    "PRO.12.26",
+    "PRO.12.27",
+    "PRO.12.28"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? משלי 12 פותח בקביעה שמי שאוהב מוסר אוהב דעת, ואילו מי ששונא תוכחת מתואר כבער; כך הפסוק מציג קבלת ביקורת כחלק מן החכמה.",
+      "text_he": "הידעת? משלי 12 פותח בקביעה שמי שאוהב מוסר אוהב דעת, ואילו מי ששונא תוכחת מתואר כבער; כך הפסוק מציג קבלת ביקורת כחלק מן החכמה.",
+      "text_en": "Did you know? Proverbs 12 opens by stating that those who love discipline love knowledge, while those who hate correction are described as foolish. The verse presents accepting criticism as part of wisdom."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? אשת חיל מתוארת כ\"עטרת בעלה\" — ככתר שמוסיף כבוד — ואילו אישה מבישה נמשלת לריקבון בעצמותיו, דימוי לנזק עמוק ומתמשך.",
+      "text_he": "הידעת? אשת חיל מתוארת כ\"עטרת בעלה\" — ככתר שמוסיף כבוד — ואילו אישה מבישה נמשלת לריקבון בעצמותיו, דימוי לנזק עמוק ומתמשך.",
+      "text_en": "Did you know? A virtuous wife is described as “a crown to her husband”—like a crown that brings honor—while a disgraceful wife is compared to decay in his bones, a picture of deep and lasting harm."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? הפסוק מבחין בין דברי רשעים, המתוארים כמארב דמים, לבין פי ישרים שמסוגל להציל; הדיבור מוצג כאן ככוח העלול להזיק או להגן.",
+      "text_he": "הידעת? הפסוק מבחין בין דברי רשעים, המתוארים כמארב דמים, לבין פי ישרים שמסוגל להציל; הדיבור מוצג כאן ככוח העלול להזיק או להגן.",
+      "text_en": "Did you know? The verse contrasts the words of the wicked, described as a deadly ambush, with the speech of the upright, which can save. Here, speech is presented as a force that can either harm or protect."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? משלי 12 מזכיר במפורש את יחס האדם לבהמתו: הצדיק יודע ומכיר את נפש בהמתו, ואילו רחמי הרשעים מתוארים כאכזריים.",
+      "text_he": "הידעת? משלי 12 מזכיר במפורש את יחס האדם לבהמתו: הצדיק יודע ומכיר את נפש בהמתו, ואילו רחמי הרשעים מתוארים כאכזריים.",
+      "text_en": "Did you know? Proverbs 12 explicitly mentions how people treat their animals: a righteous person knows and cares for the needs of his animal, while the compassion of the wicked is described as cruel."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? הפסוק מעדיף עבודה ממשית ופרנסה יציבה: מי שעובד את אדמתו ישבע לחם, בניגוד למי שרודף אחר דברים ריקים.",
+      "text_he": "הידעת? הפסוק מעדיף עבודה ממשית ופרנסה יציבה: מי שעובד את אדמתו ישבע לחם, בניגוד למי שרודף אחר דברים ריקים.",
+      "text_en": "Did you know? The verse favors meaningful work and a stable livelihood: those who work their land will have plenty of bread, unlike those who chase after empty pursuits."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? לפי הפסוק, האוויל רואה את דרכו כישרה בעיניו, ואילו החכם הוא מי ששומע לעצה; החכמה קשורה כאן לנכונות להקשיב לאחרים.",
+      "text_he": "הידעת? לפי הפסוק, האוויל רואה את דרכו כישרה בעיניו, ואילו החכם הוא מי ששומע לעצה; החכמה קשורה כאן לנכונות להקשיב לאחרים.",
+      "text_en": "Did you know? According to the verse, a fool considers his own way right, while a wise person listens to advice. Wisdom is linked here with a willingness to listen to others."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? משלי 12 משווה דיבור פוגעני לדקירות חרב, ומנגד מתאר את לשון החכמים כמרפאת; זהו ניגוד חד בין פגיעה מילולית לבין עידוד ותיקון.",
+      "text_he": "הידעת? משלי 12 משווה דיבור פוגעני לדקירות חרב, ומנגד מתאר את לשון החכמים כמרפאת; זהו ניגוד חד בין פגיעה מילולית לבין עידוד ותיקון.",
+      "text_en": "Did you know? Proverbs 12 compares hurtful speech to the thrusts of a sword, while describing the tongue of the wise as healing. This is a sharp contrast between verbal harm and encouragement that brings restoration."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? הפסוק קובע ששפת אמת תיכון לעד, בעוד שלשון שקר מתקיימת רק לזמן קצר; האמת מוצגת כיציבה והשקר כחולף.",
+      "text_he": "הידעת? הפסוק קובע ששפת אמת תיכון לעד, בעוד שלשון שקר מתקיימת רק לזמן קצר; האמת מוצגת כיציבה והשקר כחולף.",
+      "text_en": "Did you know? The verse states that truthful lips endure forever, while a lying tongue lasts only for a moment. Truth is presented as lasting, and lies as temporary."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? משלי 12 מכיר בכך שדאגה מכבידה על לב האדם, ומציע כנגדה דבר טוב המשמח את הלב; מילה מעודדת מוצגת כאמצעי להקלה.",
+      "text_he": "הידעת? משלי 12 מכיר בכך שדאגה מכבידה על לב האדם, ומציע כנגדה דבר טוב המשמח את הלב; מילה מעודדת מוצגת כאמצעי להקלה.",
+      "text_en": "Did you know? Proverbs 12 acknowledges that anxiety weighs heavily on a person’s heart and offers a good word as a source of joy. An encouraging word is presented as a means of bringing relief."
+    },
+    {
+      "verse": 28,
+      "text": "הידעת? הפרק מסתיים בקביעה שדרך הצדקה מובילה לחיים, ובנתיב שלה אין מוות; בכך הוא מסכם את הניגוד המתמשך בין דרך הצדיקים לדרך הרשע.",
+      "text_he": "הידעת? הפרק מסתיים בקביעה שדרך הצדקה מובילה לחיים, ובנתיב שלה אין מוות; בכך הוא מסכם את הניגוד המתמשך בין דרך הצדיקים לדרך הרשע.",
+      "text_en": "Did you know? The chapter concludes by stating that the way of righteousness leads to life, and that there is no death along its path. In this way, it sums up the ongoing contrast between the way of the righteous and the way of the wicked."
+    }
+  ]
+}

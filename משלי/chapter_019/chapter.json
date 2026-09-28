@@ -1,0 +1,524 @@
+{
+  "book": "Proverbs",
+  "book_he": "משלי",
+  "book_chapters": 31,
+  "chapter": 19,
+  "title": "משלי פרק 19",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2819.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2819.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/PRO/19-401243d282ae6870e2626da72c8bd2c7.mp3?version_id=1",
+  "verses": [
+    "טוֹב-רָשׁ, הוֹלֵךְ בְּתֻמּוֹ-- מֵעִקֵּשׁ שְׂפָתָיו, וְהוּא כְסִיל.",
+    "גַּם בְּלֹא-דַעַת נֶפֶשׁ לֹא-טוֹב; וְאָץ בְּרַגְלַיִם חוֹטֵא.",
+    "אִוֶּלֶת אָדָם, תְּסַלֵּף דַּרְכּוֹ; וְעַל-יְהוָה, יִזְעַף לִבּוֹ.",
+    "הוֹן--יֹסִיף, רֵעִים רַבִּים; וְדָל, מֵרֵעֵהוּ יִפָּרֵד.",
+    "עֵד שְׁקָרִים, לֹא יִנָּקֶה; וְיָפִיחַ כְּזָבִים, לֹא יִמָּלֵט.",
+    "רַבִּים, יְחַלּוּ פְנֵי-נָדִיב; וְכָל-הָרֵעַ, לְאִישׁ מַתָּן.",
+    "כָּל אֲחֵי-רָשׁ, שְׂנֵאֻהוּ-- אַף כִּי מְרֵעֵהוּ, רָחֲקוּ מִמֶּנּוּ; מְרַדֵּף אֲמָרִים לא- לוֹ- הֵמָּה.",
+    "קֹנֶה-לֵּב, אֹהֵב נַפְשׁוֹ; שֹׁמֵר תְּבוּנָה, לִמְצֹא-טוֹב.",
+    "עֵד שְׁקָרִים, לֹא יִנָּקֶה; וְיָפִיחַ כְּזָבִים יֹאבֵד.",
+    "לֹא-נָאוֶה לִכְסִיל תַּעֲנוּג; אַף, כִּי-לְעֶבֶד מְשֹׁל בְּשָׂרִים.",
+    "שֵׂכֶל אָדָם, הֶאֱרִיךְ אַפּוֹ; וְתִפְאַרְתּוֹ, עֲבֹר עַל-פָּשַׁע.",
+    "נַהַם כַּכְּפִיר, זַעַף מֶלֶךְ; וּכְטַל עַל-עֵשֶׂב רְצוֹנוֹ.",
+    "הַוֺּת לְאָבִיו, בֵּן כְּסִיל; וְדֶלֶף טֹרֵד, מִדְיְנֵי אִשָּׁה.",
+    "בַּיִת וָהוֹן, נַחֲלַת אָבוֹת; וּמֵיְהוָה, אִשָּׁה מַשְׂכָּלֶת.",
+    "עַצְלָה, תַּפִּיל תַּרְדֵּמָה; וְנֶפֶשׁ רְמִיָּה תִרְעָב.",
+    "שֹׁמֵר מִצְוָה, שֹׁמֵר נַפְשׁוֹ; בּוֹזֵה דְרָכָיו יומת יָמוּת .",
+    "מַלְוֵה יְהוָה, חוֹנֵן דָּל; וּגְמֻלוֹ, יְשַׁלֶּם-לוֹ.",
+    "יַסֵּר בִּנְךָ, כִּי-יֵשׁ תִּקְוָה; וְאֶל-הֲמִיתוֹ, אַל-תִּשָּׂא נַפְשֶׁךָ.",
+    "גרל- גְּדָל- חֵמָה, נֹשֵׂא עֹנֶשׁ: כִּי אִם-תַּצִּיל, וְעוֹד תּוֹסִף.",
+    "שְׁמַע עֵצָה, וְקַבֵּל מוּסָר-- לְמַעַן, תֶּחְכַּם בְּאַחֲרִיתֶךָ.",
+    "רַבּוֹת מַחֲשָׁבוֹת בְּלֶב-אִישׁ; וַעֲצַת יְהוָה, הִיא תָקוּם.",
+    "תַּאֲוַת אָדָם חַסְדּוֹ; וְטוֹב-רָשׁ, מֵאִישׁ כָּזָב.",
+    "יִרְאַת יְהוָה לְחַיִּים; וְשָׂבֵעַ יָלִין, בַּל-יִפָּקֶד רָע.",
+    "טָמַן עָצֵל יָדוֹ, בַּצַּלָּחַת; גַּם-אֶל-פִּיהוּ, לֹא יְשִׁיבֶנָּה.",
+    "לֵץ תַּכֶּה, וּפֶתִי יַעְרִם; וְהוֹכִיחַ לְנָבוֹן, יָבִין דָּעַת.",
+    "מְשַׁדֶּד-אָב, יַבְרִיחַ אֵם-- בֵּן, מֵבִישׁ וּמַחְפִּיר.",
+    "חֲדַל-בְּנִי, לִשְׁמֹעַ מוּסָר; לִשְׁגוֹת, מֵאִמְרֵי-דָעַת.",
+    "עֵד בְּלִיַּעַל, יָלִיץ מִשְׁפָּט; וּפִי רְשָׁעִים, יְבַלַּע-אָוֶן.",
+    "נָכוֹנוּ לַלֵּצִים שְׁפָטִים; וּמַהֲלֻמוֹת, לְגֵו כְּסִילִים."
+  ],
+  "english": [
+    "Better\nis the poor that walketh in his integrity, than\nhe that is perverse in his lips, and is a fool.",
+    "Also,\nthat the soul\nbe without knowledge,\nit is\n not good; and he that hasteth with\nhis feet sinneth.",
+    "The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
+    "Wealth maketh many friends; but the poor is separated from his neighbour.",
+    "A false witness shall not be unpunished, and\nhe that speaketh lies shall not escape.",
+    "Many will intreat the favour of the prince: and every man\nis\n a friend to him that giveth gifts.",
+    "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth\nthem with words,\nyet they\nare wanting\nto him.",
+    "He that getteth wisdom loveth his own soul:\nhe that keepeth understanding shall find good.",
+    "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
+    "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+    "The discretion of a man deferreth his anger; and\nit is his glory to pass over a transgression.",
+    "The king’s wrath\nis as the roaring of a lion; but his favour\nis as dew upon the grass.",
+    "A foolish son\nis the calamity of his father: and the contentions of a wife\nare a continual dropping.",
+    "House and riches\nare the inheritance of fathers and a prudent wife\nis from the LORD.",
+    "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+    "He that keepeth the commandment keepeth his own soul;\nbut\n he that despiseth his ways shall die.",
+    "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+    "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+    "A man of great wrath shall suffer punishment: for if thou deliver\nhim, yet thou must do it again.",
+    "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+    "There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.",
+    "The desire of a man\nis his kindness: and a poor man\nis better than a liar.",
+    "The fear of the LORD\ntendeth to life: and\nhe that hath it shall abide satisfied; he shall not be visited with evil.",
+    "A slothful\nman hideth his hand in\nhis bosom, and will not so much as bring it to his mouth again.",
+    "Smite a scorner, and the simple will beware: and reprove one that hath understanding,\nand he will understand knowledge.",
+    "He that wasteth\nhis father,\nand chaseth away\nhis mother,\nis a son that causeth shame, and bringeth reproach.",
+    "Cease, my son, to hear the instruction\nthat causeth to err from the words of knowledge.",
+    "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+    "Judgments are prepared for scorners, and stripes for the back of fools."
+  ],
+  "steinsaltz": [
+    "טוֹב רָשׁ, עני שהוֹלֵךְ בְּתֻמּוֹ, הגון יותר מֵעִקֵּשׁ שְׂפָתָיו, נפתל ומתוחכם וְהוּא, שהוא בעצם כְסִיל, חסר דעת.",
+    "גַּם בְּלֹא־דַעַת נֶפֶשׁ לֹא־טוֹב. מי שאין בו דעת אין לו גם נפש טובה, ואילו נפשו של מי שנוהג בדעת – הגונה; בפעולות הנעשות ללא דעת, לא טוב לנפש; או: לא טוב לאיש שאינו יודע ומכיר את נפשו. וְאָץ, רץ בְּרַגְלַיִם בלי לדעת לאן הוא רץ ולמה, הוא בעצם חוֹטֵא. מן הראוי לפעול מתוך יישוב דעת ושיקול דעת.",
+    "אִוֶּלֶת, שטותו של אָדָם תְּסַלֵּף, תעוות את דַּרְכּוֹ, ולבסוף כשהוא ייכשל, עַל־ה' יִזְעַף לִבּוֹ. אנשים טועים או פועלים בזדון וגורמים לעצמם מפלה או אינם רואים הצלחה בדרכם, ובמקום לייחס את כישלונם לעצמם הם מאשימים את ה'.",
+    "הוֹן יֹסִיף רֵעִים רַבִּים, רבים רוצים בקרבתו של העשיר, וְאילו דָל מֵרֵעֵהוּ יִפָּרֵד. חבריו של העני נוטשים אותו.",
+    "עֵד שְׁקָרִים לֹא יִנָּקֶה מעונש בסופו של דבר, וְאף יָפִיחַ, מי שמפריח ומפזר כְּזָבִים, שקרים לֹא יִמָּלֵט.",
+    "קודם נאמר שרבים רוצים להתרועע עם העשיר, ואילו כאן מדובר על אדם שאינו רק בעל הון אלא הוא גם ידוע כנדיב: רַבִּים יְחַלּוּ פְנֵי, יבקשו לפגוש נָדִיב, וְכָל־הָרֵעַ, הכול מגלים רעוּת לְאִישׁ מַתָּן, אדם המעניק מרכושו לזולת.",
+    "לעומת זאת כָּל אֲחֵי־רָשׁ, העני, שהוא דווקא נזקק לעזרה, שְׂנֵאֻהוּ, אַף כִּי, ובוודאי מְרֵעֵהוּ, אלו שהתקרבו אליו להתרועע אתו, רָחֲקוּ מִמֶּנּוּ בתואנה שהרש מְרַדֵּף אֲמָרִים לוֹ־הֵמָּה, מחפש וממציא הבטחות שניתנו לו, כביכול. פירוש אחר (על פי הכתוב – 'לֹא'): אנשים מחפשים לעני דיבורים שלא היו כדי להצדיק את התרחקותם ממנו. אותם דברים שלא היו גורמים רעה אילו נאמרו על ידי אדם אחר, כאשר אומר אותם עני ומסכן, גם אם לא לכך הייתה כוונתו, מביאים עליו צרות.",
+    "קֹנֶה־לֵּב, שֵֹכל, הוא זה שאֹהֵב את נַפְשׁוֹ; שֹׁמֵר, הממתין ומצפה לתְּבוּנָה יגרום לעצמו לִמְצֹא־טוֹב.",
+    "עֵד שְׁקָרִים לֹא יִנָּקֶה כאמור לעיל, אלא שההמשך חריף יותר: וְיָפִיחַ כְּזָבִים, לא רק לא יימלט מעונש אלא גם יֹאבֵד.",
+    "לֹא־נָאוֶה, נאה, הולם לִכְסִיל תַּעֲנוּג. כסיל החי חיי פינוקים ותענוגות מרגיש שליט עליון, ותופעה זו אינה נאה ואינה נעימה. אַף כִּי, ובוודאי שלא מתאים ולא כדאי לְעֶבֶד, לעלות לגדולה ולמְשֹׁל בְּשָׂרִים ונכבדים.",
+    "שֵׂכֶל אָדָם מלמד אותו להארִיךְ אַפּוֹ, למשול ברוחו, להתאפק ולא להתפרץ. וְתִפְאַרְתּוֹ של האדם היא לעֲבֹר, למחול עַל־פָּשַׁע, חטא. ההקפדה, הקטטה והזעם אינם באים מחכמה.",
+    "נַהַם, נהמה מאיימת כַּכְּפִיר, כמו שמשמיע אריה – כך זַעַף של מֶלֶךְ, וּמנגד – כְטַל עַל־עֵשֶׂב, שהוא מצמיח ומועיל רְצוֹנוֹ. כעסו של מלך עלול להיות מסוכן, ואילו שביעות רצונו יכולה להועיל מאוד.",
+    "הַוֹּת, אסון לְאָבִיו בֵּן כְּסִיל, וְכדֶלֶף, טפטוף טֹרֵד מִדְיְנֵי, קטטות עם אִשָּׁה. גם אם מריבות אתה, הקנטותיה ותלונותיה אינן הוות, הן עשויות להוציא את הגבר מדעתו.",
+    "בַּיִת וָהוֹן אדם מקבל כנַחֲלַת אָבוֹת, וּלעומת זאת מֵה' הוא מקבל אִשָּׁה מַשְׂכָּלֶת, חכמה. אותה אין אביו יכול להנחיל לו. על האדם להכיר ולהעריך שאותה קיבל מיד ה', ולהודות לו על כך.",
+    "עַצְלָה, עצלות תַּפִּיל תַּרְדֵּמָה. מי שמתעצל סופו להתעייף ולישון, וְנֶפֶשׁ רְמִיָּה, המחבלת תחבולות במקום לעבוד, תִרְעָב.",
+    "האיש ששֹׁמֵר מִצְוָה הוא בעצם שֹׁמֵר נַפְשׁוֹ, ומי שבּוֹזֵה, מבזה את דְרָכָיו והולך בשרירות לבו יָמוּת בעוונו.",
+    "מַלְוֵה לה' חוֹנֵן דָּל. הנותן מתנה לעני נחשב כאילו הלווה לה', כי בכך הוא ממלא את תפקידו של הקדוש ברוך הוא, ולכן הוא זה שיפרע את החוב – ואת גְמֻלוֹ, שכרו יְשַׁלֶּם־לוֹ ה'.",
+    "יַסֵּר את בִּנְךָ כִּי־יֵשׁ תִּקְוָה. התוכחה וההכאה יועילו לתקן את הבן, אבל יש לנהוג בזהירות רבה – וְאֶל־הֲמִיתוֹ אַל־תִּשָּׂא נַפְשֶׁךָ, תפנה. עליך להימנע מן העונשים המדכאים את הבן וממיתים אותו במובנים שונים.",
+    "אדרבא, גְּדָל־חֵמָה, מי שכעסו גדול נֹשֵׂא עֹנֶשׁ. התפרצויות זעם אינן מתקנות את המצב אלא רק גורמות רעה לכועס עצמו, כִּי אִם, אלא במקום לזעום על מה שאין, תַּצִּיל את הקיים וְעוֹד תּוֹסִף עזרה למי שזקוק לה.",
+    "שְׁמַע עֵצָה וְקַבֵּל מוּסָר, לְמַעַן תֶּחְכַּם בְּאַחֲרִיתֶךָ, בסופך. גם אם לא תקלוט את העצה והמוסר ששמעת מיד, סופך שהם יחכימו אותך. על כן ראוי שתראה בעין טובה את המבקרים והמוכיחים אותך.",
+    "רַבּוֹת הן המַחֲשָׁבוֹת והתכניות בְּלֶב־אִישׁ, ואולם לבסוף עֲצַת, מחשבתו של ה' הִיא תָקוּם, תתקיים. פירוש נוסף: בין המחשבות הרבות המקננות בלב, על האדם לחפש ולנסות לזהות את עצת ה', הקיימת גם היא בקרבו.",
+    "תַּאֲוַת אָדָם תהיה מופנית לחַסְדּוֹ. טוב שאדם יתאווה לעשות חסד. או: חסדו של אדם הוא נויו בעיני הבריות והוא המושך אליו את אהדתם. וְטוֹב־רָשׁ, אף על פי שלא שפר עליו מזלו, יותר מֵאִישׁ כָּזָב.",
+    "יִרְאַת ה' מוליכה לְחַיִּים, וְהירא – שָׂבֵעַ, מרוצה ושלם יָלִין, בַּל־יִפָּקֶד רָע.",
+    "טָמַן עָצֵל את יָדוֹ בַּצַּלָּחַת, כלי אוכל גַּם אֶל־פִּיהוּ, פיו לֹא יְשִׁיבֶנָּה. הוא כה עצל שאין לו כוח אפילו להחזיר את ידו לפה. העצל מתחיל לעשות דבר, אך אינו משלים מלאכתו, אף לא את צרכיו שלו, וכך הוא נשאר חסר ורעב. לפי המפרשים שצלחת היא מעין כיס, זהו חסר המעש הטומן ידו בחיקו, שעצלותו תביא לכך שלא יהיה לו מזון להכניס אל פיו.",
+    "כאשר לֵץ, אדם יהיר ולא הגון תַּכֶּה – וּפֶתִי יַעְרִם, יחכים. הלץ, הבוטח תמיד בצדקתו, אינו נוטה ללמוד מהמכות שהוא מקבל, אבל הפתי, שאינו מבין הרבה, ולכן אינו לוקה כמו הלץ, יוכל ללמוד ממה שקורה ללץ. וְהוֹכִיחַ, אם תוכיח לְנָבוֹן הוא יָבִין דָּעַת, וימצא בתוכחה ובביקורת תועלת.",
+    "בן שמְשַׁדֶּד, רומס או גוזל אָב – יַבְרִיחַ אֵם. הפגיעה באב תבריח גם את האם מהבית, אף אם הבן אינו מתנכל לה ישירות. זהו בֵּן מֵבִישׁ וּמַחְפִּיר. על אדם לכבד את הוריו גם כשאינם מושלמים, וגם כשהוא מוצא טעם להגיב לדבריהם, משום שכך נשמרת יציבותו של הבית.",
+    "חֲדַל, בְּנִי, לִשְׁמֹעַ מוּסָר, אם ברצונך לִשְׁגּוֹת, לסטות מֵאִמְרֵי־דָעַת. אם אינך שומע מוסר, תמצא את עצמך פונה מהדרך המאוזנת. או: אין תועלת שתשמע מוסר אם אינך מעוניין לפעול בהתאם.",
+    "עֵד בְּלִיַּעַל, רשע יָלִיץ, ישים ללעג את המִשְׁפָּט, ויהפוך אותו למעשה רשעות, וּפִי רְשָׁעִים יְבַלַּע, יסתיר אָוֶן, רוע.",
+    "נָכוֹנוּ, מזומנים לַלֵּצִים, המתהלכים בעולם שאננים ובוטחים בעצמם, שְׁפָטִים, עונשים, וּמַהֲלֻמוֹת נכונו לְגֵו, לגוף הכְּסִילִים."
+  ],
+  "ai_explanation": [
+    "עני ההולך בתום וביושר עדיף על אדם נפתל ומתוחכם, שהוא למעשה כסיל חסר דעת.",
+    "פעולה ללא דעת אינה טובה לנפש, ומי שרץ ופועל בלי לדעת לאן ולמה הוא הולך עלול לחטוא. ראוי לפעול ביישוב הדעת ובשיקול דעת.",
+    "שטותו של האדם מעוותת את דרכו, וכשהוא נכשל הוא עלול להאשים את ה' במקום להכיר באחריותו לכישלון.",
+    "העושר מוסיף לאדם חברים רבים, ואילו העני עלול להישאר בלי חברים, משום שחבריו נוטשים אותו.",
+    "עד שקר לא יינקה מעונש בסופו של דבר, וגם מי שמפזר שקרים לא יימלט מעונש.",
+    "רבים מבקשים את קרבתו של אדם נדיב ומגלים לו ידידות, משום שהוא מעניק מרכושו לאחרים.",
+    "קרובי העני ואף חבריו מתרחקים ממנו, ולעיתים הם אף ממציאים אמירות או הבטחות שלא היו כדי להצדיק את התרחקותם. דברים שאינם מזיקים כשאדם אחר אומרם עלולים להביא צרות כאשר אומר אותם עני ומסכן.",
+    "האדם השכלי אוהב את נפשו, ומי ששומר וממתין לתבונה יזכה למצוא טוב.",
+    "עד שקר לא יינקה, ומי שמפזר כזבים לא רק שלא יימלט מעונש אלא גם יאבד.",
+    "תענוגות אינם הולמים כסיל, משום שהם עלולים לגרום לו להרגיש כשליט עליון. ובוודאי שאין ראוי לעבד לעלות לגדולה ולמשול באנשים נכבדים.",
+    "שכלו של האדם מלמד אותו להתאפק ולמשול ברוחו, וגדולתו היא ביכולתו למחול על פשע. כעס, קטטה והקפדה אינם ביטוי לחכמה.",
+    "נהמת אריה דומה לזעפו של מלך, שעלול להיות מסוכן; לעומת זאת, רצונו של המלך דומה לטל המועיל לעשב ויכול להועיל מאוד.",
+    "בן כסיל הוא אסון לאביו, ומריבות, הקנטות ותלונות של אישה הן כטפטוף מטריד העלול להוציא את הגבר מדעתו.",
+    "בית והון עשויים לעבור לאדם בירושת אבות, אך אישה משכילה היא מתנה מאת ה', ועל האדם להכיר בכך ולהעריך אותה.",
+    "העצלות גורמת לאדם לשקוע בתרדמה, ומי שמנסה להתחכם במקום לעבוד סופו לרעוב.",
+    "השומר מצווה שומר בכך על נפשו, ואילו מי שמבזה את דרכיו והולך בשרירות לבו ימות בעוונו.",
+    "הנותן לעני נחשב כאילו הלווה לה', ולכן ה' ישלם לו את גמולו.",
+    "יש לייסר ולחנך את הבן משום שיש תקווה לתיקונו, אך יש להיזהר מעונשים המדכאים אותו או ממיתים אותו במובנים שונים.",
+    "מי שכעסו גדול נושא את עונש כעסו, שכן התפרצויות זעם אינן מתקנות את המצב אלא גורמות רעה לכועס. במקום לזעום יש להציל את הקיים ולהוסיף עזרה למי שזקוק לה.",
+    "יש לשמוע עצה ולקבל מוסר, משום שגם אם אינם מובנים מיד, הם עשויים להחכים את האדם בהמשך. לכן ראוי לקבל בעין טובה את המבקרים והמוכיחים.",
+    "לאדם יש מחשבות ותכניות רבות, אך בסופו של דבר עצת ה' היא שתתקיים. אפשר גם לחפש בין המחשבות את עצת ה' המצויה בקרבו.",
+    "ראוי שאדם יתאווה לעשות חסד, שכן חסד הוא נויו ומושך אליו אהדה. עני ישר וטוב עדיף על אדם שקרן.",
+    "יראת ה' מוליכה לחיים, והירא ממנה יישן שבע רצון ושלם, בלי שייפקד עליו רע.",
+    "העצל מטמין את ידו בצלחת ואפילו אינו מחזיר אותה אל פיו. עצלותו גורמת לו שלא להשלים את מלאכתו ואף להישאר רעב.",
+    "כאשר מכים או מענישים לץ, הפתי יכול ללמוד מכך ולהחכים, אף שהלץ עצמו אינו נוטה ללמוד ממכותיו. לעומת זאת, הנבון מפיק תועלת מתוכחה ומביקורת.",
+    "בן הרומס או גוזל את אביו מבריח גם את אמו מן הבית, והוא בן מביש ומחפיר. יש לכבד את ההורים כדי לשמור על יציבות הבית, גם כאשר אינם מושלמים.",
+    "מי שאינו שומע מוסר סוטה מאמרי דעת ומהדרך המאוזנת. אין תועלת בשמיעת מוסר אם אין כוונה לפעול לפיו.",
+    "רשע המשמש כעד לץ למשפט והופך אותו למעשה רשעות, ואילו פי הרשעים מסתיר ובולע את העוון.",
+    "ללצים ולכסילים מזומנים עונשים ומכות, מפני שהם מתהלכים בביטחון עצמי ואינם לומדים מדרכם."
+  ],
+  "ai_explanation_en": [
+    "A poor person who walks in integrity and honesty is better than a crooked and calculating person who is actually a foolish person lacking understanding.",
+    "Acting without knowledge is not good for the soul, and one who rushes without knowing where or why he is going may sin. One should act with composure and sound judgment.",
+    "A person's foolishness distorts his path, and when he fails he may blame God instead of recognizing his own responsibility for the failure.",
+    "Wealth brings a person many friends, while a poor person may be left without friends because his companions abandon him.",
+    "A false witness will ultimately not escape punishment, and one who spreads lies will not get away either.",
+    "Many people seek the company of a generous person and show him friendship because he gives from his wealth to others.",
+    "The poor person's relatives and even his friends may distance themselves from him, sometimes inventing statements or promises that were never made to justify their withdrawal. Words that would cause no harm when spoken by someone else may bring trouble when spoken by a poor and vulnerable person.",
+    "A sensible person loves his own soul, and one who preserves and waits for understanding will find what is good.",
+    "A false witness will not escape punishment, and one who spreads falsehoods will not merely be punished but will also perish.",
+    "Pleasures do not suit a fool, because they may make him feel like an absolute ruler. Certainly, it is not fitting for a servant to rise to power and rule over honored people.",
+    "A person's understanding teaches him to restrain himself and control his temper, and his glory lies in forgiving an offense. Anger, quarrels, and resentment are not signs of wisdom.",
+    "A lion's roar resembles a king's anger, which can be dangerous; by contrast, the king's favor is like dew that benefits the grass and can be greatly helpful.",
+    "A foolish son is a disaster to his father, and quarrels, provocations, and complaints from a wife are like an irritating drip that can drive a man out of his mind.",
+    "A house and wealth may come to a person as an inheritance from his ancestors, but a wise wife is a gift from God, and one should recognize and value her as such.",
+    "Laziness causes a person to sink into sleep, and one who tries to scheme instead of working will eventually go hungry.",
+    "One who keeps a commandment thereby guards his own soul, while one who despises his ways and follows his stubborn heart will die because of his sin.",
+    "One who gives to the poor is considered as though he had lent to God, and therefore God will repay him for his deed.",
+    "A son should be disciplined because there is hope of correcting him, but one must avoid punishments that crush him or kill him in various senses.",
+    "A person with great anger bears the consequences of his own anger, because outbursts do not repair the situation but harm the angry person. Instead of raging, one should preserve what exists and add help for whoever needs it.",
+    "One should listen to advice and accept correction, because even if they are not understood immediately, they may make a person wiser later. Therefore, criticism and reproof should be received positively.",
+    "A person has many thoughts and plans, but ultimately God's counsel will stand. One may also search among one's thoughts for God's counsel within.",
+    "A person should desire to perform kindness, since kindness is his beauty and attracts goodwill. A good and honest poor person is better than a deceitful person.",
+    "Fear of God leads to life, and the one who possesses it will sleep satisfied and whole, without being visited by evil.",
+    "The lazy person buries his hand in the dish and does not even bring it back to his mouth. His laziness prevents him from completing his work and can leave him hungry.",
+    "When a scoffer is struck or punished, a simple person may learn and become wiser, although the scoffer himself is not inclined to learn from his blows. A discerning person, however, benefits from correction and criticism.",
+    "A son who tramples on or robs his father also drives away his mother, and he is a shameful and disgraceful son. Parents should be honored in order to preserve the stability of the household, even when they are not perfect.",
+    "One who refuses to listen to correction strays from words of knowledge and from the balanced path. There is no benefit in hearing instruction without intending to act upon it.",
+    "A wicked person serving as a witness mocks justice and turns it into an act of wrongdoing, while the mouths of the wicked conceal and swallow up iniquity.",
+    "Punishments and blows await scoffers and fools because they move through the world with misplaced self-confidence and do not learn from their ways."
+  ],
+  "perush": [
+    "עני ההולך בתום וביושר עדיף על אדם נפתל ומתוחכם, שהוא למעשה כסיל חסר דעת.",
+    "פעולה ללא דעת אינה טובה לנפש, ומי שרץ ופועל בלי לדעת לאן ולמה הוא הולך עלול לחטוא. ראוי לפעול ביישוב הדעת ובשיקול דעת.",
+    "שטותו של האדם מעוותת את דרכו, וכשהוא נכשל הוא עלול להאשים את ה' במקום להכיר באחריותו לכישלון.",
+    "העושר מוסיף לאדם חברים רבים, ואילו העני עלול להישאר בלי חברים, משום שחבריו נוטשים אותו.",
+    "עד שקר לא יינקה מעונש בסופו של דבר, וגם מי שמפזר שקרים לא יימלט מעונש.",
+    "רבים מבקשים את קרבתו של אדם נדיב ומגלים לו ידידות, משום שהוא מעניק מרכושו לאחרים.",
+    "קרובי העני ואף חבריו מתרחקים ממנו, ולעיתים הם אף ממציאים אמירות או הבטחות שלא היו כדי להצדיק את התרחקותם. דברים שאינם מזיקים כשאדם אחר אומרם עלולים להביא צרות כאשר אומר אותם עני ומסכן.",
+    "האדם השכלי אוהב את נפשו, ומי ששומר וממתין לתבונה יזכה למצוא טוב.",
+    "עד שקר לא יינקה, ומי שמפזר כזבים לא רק שלא יימלט מעונש אלא גם יאבד.",
+    "תענוגות אינם הולמים כסיל, משום שהם עלולים לגרום לו להרגיש כשליט עליון. ובוודאי שאין ראוי לעבד לעלות לגדולה ולמשול באנשים נכבדים.",
+    "שכלו של האדם מלמד אותו להתאפק ולמשול ברוחו, וגדולתו היא ביכולתו למחול על פשע. כעס, קטטה והקפדה אינם ביטוי לחכמה.",
+    "נהמת אריה דומה לזעפו של מלך, שעלול להיות מסוכן; לעומת זאת, רצונו של המלך דומה לטל המועיל לעשב ויכול להועיל מאוד.",
+    "בן כסיל הוא אסון לאביו, ומריבות, הקנטות ותלונות של אישה הן כטפטוף מטריד העלול להוציא את הגבר מדעתו.",
+    "בית והון עשויים לעבור לאדם בירושת אבות, אך אישה משכילה היא מתנה מאת ה', ועל האדם להכיר בכך ולהעריך אותה.",
+    "העצלות גורמת לאדם לשקוע בתרדמה, ומי שמנסה להתחכם במקום לעבוד סופו לרעוב.",
+    "השומר מצווה שומר בכך על נפשו, ואילו מי שמבזה את דרכיו והולך בשרירות לבו ימות בעוונו.",
+    "הנותן לעני נחשב כאילו הלווה לה', ולכן ה' ישלם לו את גמולו.",
+    "יש לייסר ולחנך את הבן משום שיש תקווה לתיקונו, אך יש להיזהר מעונשים המדכאים אותו או ממיתים אותו במובנים שונים.",
+    "מי שכעסו גדול נושא את עונש כעסו, שכן התפרצויות זעם אינן מתקנות את המצב אלא גורמות רעה לכועס. במקום לזעום יש להציל את הקיים ולהוסיף עזרה למי שזקוק לה.",
+    "יש לשמוע עצה ולקבל מוסר, משום שגם אם אינם מובנים מיד, הם עשויים להחכים את האדם בהמשך. לכן ראוי לקבל בעין טובה את המבקרים והמוכיחים.",
+    "לאדם יש מחשבות ותכניות רבות, אך בסופו של דבר עצת ה' היא שתתקיים. אפשר גם לחפש בין המחשבות את עצת ה' המצויה בקרבו.",
+    "ראוי שאדם יתאווה לעשות חסד, שכן חסד הוא נויו ומושך אליו אהדה. עני ישר וטוב עדיף על אדם שקרן.",
+    "יראת ה' מוליכה לחיים, והירא ממנה יישן שבע רצון ושלם, בלי שייפקד עליו רע.",
+    "העצל מטמין את ידו בצלחת ואפילו אינו מחזיר אותה אל פיו. עצלותו גורמת לו שלא להשלים את מלאכתו ואף להישאר רעב.",
+    "כאשר מכים או מענישים לץ, הפתי יכול ללמוד מכך ולהחכים, אף שהלץ עצמו אינו נוטה ללמוד ממכותיו. לעומת זאת, הנבון מפיק תועלת מתוכחה ומביקורת.",
+    "בן הרומס או גוזל את אביו מבריח גם את אמו מן הבית, והוא בן מביש ומחפיר. יש לכבד את ההורים כדי לשמור על יציבות הבית, גם כאשר אינם מושלמים.",
+    "מי שאינו שומע מוסר סוטה מאמרי דעת ומהדרך המאוזנת. אין תועלת בשמיעת מוסר אם אין כוונה לפעול לפיו.",
+    "רשע המשמש כעד לץ למשפט והופך אותו למעשה רשעות, ואילו פי הרשעים מסתיר ובולע את העוון.",
+    "ללצים ולכסילים מזומנים עונשים ומכות, מפני שהם מתהלכים בביטחון עצמי ואינם לומדים מדרכם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "יושר, דעת ואחריות אישית",
+      "title_en": "Integrity, Judgment, and Personal Responsibility",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "הפסוקים מעמידים את היושר וההליכה בתום מעל תחכום מעוקם, מזהירים מפעולה ללא דעת ומלמדים שהאדם אינו צריך להאשים את ה' בכישלון שנגרם מאיוולתו.",
+      "summary_en": "These verses place integrity above crooked cleverness, warn against acting without understanding, and teach that a person should not blame God for a failure caused by his own foolishness.",
+      "image_prompt": "A symbolic path divided into two directions: one straight and simple, the other crooked and confusing, with a thoughtful traveler choosing the straight path; no text, biblical-inspired but non-historical"
+    },
+    {
+      "title": "עושר, עוני, חברות ואמת",
+      "title_en": "Wealth, Poverty, Friendship, and Truth",
+      "start_verse": 4,
+      "end_verse": 9,
+      "summary": "הפסוקים מתארים כיצד עושר ונדיבות מושכים חברים, בעוד עוני גורם להתרחקות, ומדגישים את חומרת השקר ואת ערך התבונה והדאגה לנפש.",
+      "summary_en": "These verses describe how wealth and generosity attract companions while poverty leads to abandonment, and they emphasize the seriousness of lying and the value of wisdom and care for one's soul.",
+      "image_prompt": "A balanced symbolic scene showing a generous person sharing food on one side, a lonely poor traveler on the other, and a clear light representing truth above them; no text"
+    },
+    {
+      "title": "מידות האדם, שלטון ומשפחה",
+      "title_en": "Character, Authority, and Family",
+      "start_verse": 10,
+      "end_verse": 18,
+      "summary": "הפסוקים עוסקים בהתאמת מעמדו של האדם לאופיו, בשליטה בכעס ובמחילה, בסכנת זעמו של שליט, בקשיי הבית, בערכה של אישה משכילה, בעצלות, במצוות ובחינוך זהיר של בן.",
+      "summary_en": "These verses address the fit between a person's character and status, self-control and forgiveness, the danger of a ruler's anger, household difficulties, the value of a wise wife, laziness, commandments, and careful discipline of a child.",
+      "image_prompt": "A symbolic household scene with a calm parent guiding a child, a wise woman, a lamp, and a distant royal figure whose expression contrasts anger with favor; no text, no specific historical setting"
+    },
+    {
+      "title": "כעס, עצה, תכנית ה' וחסד",
+      "title_en": "Anger, Counsel, Divine Purpose, and Kindness",
+      "start_verse": 19,
+      "end_verse": 23,
+      "summary": "הפסוקים מזהירים שכעס פוגע בכועס, מעודדים לקבל עצה ומוסר, מזכירים שעצת ה' מתקיימת, ומציגים חסד ויראת ה' כדרכים לחיים וליחסים טובים.",
+      "summary_en": "These verses warn that anger harms the angry person, encourage accepting advice and correction, affirm that God's counsel will stand, and present kindness and fear of God as paths to life and good relationships.",
+      "image_prompt": "A symbolic transition from a storm of anger to a calm garden watered by dew, with an open scroll and a helping hand; no text, no historical details"
+    },
+    {
+      "title": "עצלות, תוכחה, כיבוד הורים ומשפט",
+      "title_en": "Laziness, Correction, Honoring Parents, and Justice",
+      "start_verse": 24,
+      "end_verse": 29,
+      "summary": "הפסוקים מתארים את קיצוניות העצלות, את התועלת שבהפקת לקחים ובקבלת תוכחה, את חובת כיבוד ההורים, ואת فساد הרשעים והעונש הצפוי ללצים ולכסילים.",
+      "summary_en": "These verses portray the extreme nature of laziness, the value of learning from events and accepting correction, the duty to honor parents, and the corruption of the wicked along with the punishment awaiting scoffers and fools.",
+      "image_prompt": "A symbolic scene with a neglected bowl, a teacher correcting a thoughtful student, a respectful child beside parents, and scales of justice facing shadowy figures; no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.86,
+      "usfm": "PRO.19.1"
+    },
+    {
+      "start": 9.86,
+      "end": 17.74,
+      "usfm": "PRO.19.2"
+    },
+    {
+      "start": 17.74,
+      "end": 23.78,
+      "usfm": "PRO.19.3"
+    },
+    {
+      "start": 23.78,
+      "end": 30.0,
+      "usfm": "PRO.19.4"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "usfm": "PRO.19.5"
+    },
+    {
+      "start": 37.0,
+      "end": 42.84,
+      "usfm": "PRO.19.6"
+    },
+    {
+      "start": 42.84,
+      "end": 53.4,
+      "usfm": "PRO.19.7"
+    },
+    {
+      "start": 53.4,
+      "end": 61.02,
+      "usfm": "PRO.19.8"
+    },
+    {
+      "start": 61.02,
+      "end": 66.88,
+      "usfm": "PRO.19.9"
+    },
+    {
+      "start": 66.88,
+      "end": 74.26,
+      "usfm": "PRO.19.10"
+    },
+    {
+      "start": 74.26,
+      "end": 81.54,
+      "usfm": "PRO.19.11"
+    },
+    {
+      "start": 81.54,
+      "end": 89.66,
+      "usfm": "PRO.19.12"
+    },
+    {
+      "start": 89.66,
+      "end": 98.5,
+      "usfm": "PRO.19.13"
+    },
+    {
+      "start": 98.5,
+      "end": 106.62,
+      "usfm": "PRO.19.14"
+    },
+    {
+      "start": 106.62,
+      "end": 114.14,
+      "usfm": "PRO.19.15"
+    },
+    {
+      "start": 114.14,
+      "end": 122.16,
+      "usfm": "PRO.19.16"
+    },
+    {
+      "start": 122.16,
+      "end": 130.82,
+      "usfm": "PRO.19.17"
+    },
+    {
+      "start": 130.82,
+      "end": 137.26,
+      "usfm": "PRO.19.18"
+    },
+    {
+      "start": 137.26,
+      "end": 145.62,
+      "usfm": "PRO.19.19"
+    },
+    {
+      "start": 145.62,
+      "end": 152.66,
+      "usfm": "PRO.19.20"
+    },
+    {
+      "start": 152.66,
+      "end": 160.56,
+      "usfm": "PRO.19.21"
+    },
+    {
+      "start": 160.56,
+      "end": 166.78,
+      "usfm": "PRO.19.22"
+    },
+    {
+      "start": 166.78,
+      "end": 176.6,
+      "usfm": "PRO.19.23"
+    },
+    {
+      "start": 176.6,
+      "end": 184.24,
+      "usfm": "PRO.19.24"
+    },
+    {
+      "start": 184.24,
+      "end": 193.96,
+      "usfm": "PRO.19.25"
+    },
+    {
+      "start": 193.96,
+      "end": 201.78,
+      "usfm": "PRO.19.26"
+    },
+    {
+      "start": 201.78,
+      "end": 207.58,
+      "usfm": "PRO.19.27"
+    },
+    {
+      "start": 207.58,
+      "end": 214.18,
+      "usfm": "PRO.19.28"
+    },
+    {
+      "start": 214.18,
+      "end": 226.64,
+      "usfm": "PRO.19.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.86,
+    17.74,
+    23.78,
+    30.0,
+    37.0,
+    42.84,
+    53.4,
+    61.02,
+    66.88,
+    74.26,
+    81.54,
+    89.66,
+    98.5,
+    106.62,
+    114.14,
+    122.16,
+    130.82,
+    137.26,
+    145.62,
+    152.66,
+    160.56,
+    166.78,
+    176.6,
+    184.24,
+    193.96,
+    201.78,
+    207.58,
+    214.18,
+    226.64
+  ],
+  "times_en_usfm": [
+    "PRO.19.1",
+    "PRO.19.2",
+    "PRO.19.3",
+    "PRO.19.4",
+    "PRO.19.5",
+    "PRO.19.6",
+    "PRO.19.7",
+    "PRO.19.8",
+    "PRO.19.9",
+    "PRO.19.10",
+    "PRO.19.11",
+    "PRO.19.12",
+    "PRO.19.13",
+    "PRO.19.14",
+    "PRO.19.15",
+    "PRO.19.16",
+    "PRO.19.17",
+    "PRO.19.18",
+    "PRO.19.19",
+    "PRO.19.20",
+    "PRO.19.21",
+    "PRO.19.22",
+    "PRO.19.23",
+    "PRO.19.24",
+    "PRO.19.25",
+    "PRO.19.26",
+    "PRO.19.27",
+    "PRO.19.28",
+    "PRO.19.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? משלי מציב את היושר וההליכה בתום כיתרון על פני דיבור עיקש או מעוות, גם כאשר האדם עני.",
+      "text_he": "הידעת? משלי מציב את היושר וההליכה בתום כיתרון על פני דיבור עיקש או מעוות, גם כאשר האדם עני.",
+      "text_en": "Did you know? Proverbs presents integrity and walking uprightly as better than crooked or deceitful speech, even when a person is poor."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? הפסוק מזהיר שלא די ברצון טוב: פעולה הנעשית בלי דעת ועל פי דחף עלולה להוביל לחטא.",
+      "text_he": "הידעת? הפסוק מזהיר שלא די ברצון טוב: פעולה הנעשית בלי דעת ועל פי דחף עלולה להוביל לחטא.",
+      "text_en": "Did you know? This verse warns that good intentions are not enough: acting without knowledge and on impulse can lead to sin."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? לפי הפסוק, אדם עלול לקלקל את דרכו באיוולתו—ואחר כך להפנות את כעסו כלפי ה', במקום לבחון את אחריותו למעשיו.",
+      "text_he": "הידעת? לפי הפסוק, אדם עלול לקלקל את דרכו באיוולתו—ואחר כך להפנות את כעסו כלפי ה', במקום לבחון את אחריותו למעשיו.",
+      "text_en": "Did you know? According to this verse, a person may ruin his way through his own foolishness—and then turn his anger against the Lord instead of examining his responsibility for his actions."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? משלי מציג את העושר כגורם המוסיף לאדם רעים, ואילו הדלות עלולה לגרום להתרחקותם של רעים.",
+      "text_he": "הידעת? משלי מציג את העושר כגורם המוסיף לאדם רעים, ואילו הדלות עלולה לגרום להתרחקותם של רעים.",
+      "text_en": "Did you know? Proverbs portrays wealth as something that brings a person more friends, while poverty may cause friends to distance themselves."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? בפרק חוזרת האזהרה שעֵד שקר לא יינקה; השקר אינו מוצג רק כפגם מוסרי, אלא כמעשה שיש לו תוצאות.",
+      "text_he": "הידעת? בפרק חוזרת האזהרה שעֵד שקר לא יינקה; השקר אינו מוצג רק כפגם מוסרי, אלא כמעשה שיש לו תוצאות.",
+      "text_en": "Did you know? The chapter repeats the warning that a false witness will not go unpunished; lying is presented not merely as a moral flaw, but as an act with consequences."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? רכישת חכמה ותבונה מתוארת כאן כאהבה לנפש: מי ששומר על תבונתו פועל לטובת עצמו ומוצא טוב.",
+      "text_he": "הידעת? רכישת חכמה ותבונה מתוארת כאן כאהבה לנפש: מי ששומר על תבונתו פועל לטובת עצמו ומוצא טוב.",
+      "text_en": "Did you know? Acquiring wisdom and understanding is described here as loving one’s own soul: those who guard their understanding act for their own good and find what is good."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? משלי קושר בין שכל לבין איפוק: אדם בעל תבונה מאריך את אפו, ויכולתו לעבור על פשע נחשבת לו לתפארת.",
+      "text_he": "הידעת? משלי קושר בין שכל לבין איפוק: אדם בעל תבונה מאריך את אפו, ויכולתו לעבור על פשע נחשבת לו לתפארת.",
+      "text_en": "Did you know? Proverbs connects understanding with self-control: a person of insight is slow to anger, and overlooking an offense is considered his glory."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? בית והון יכולים לעבור בירושה מן האבות, אך אישה משכילה מתוארת בפרק כמתנה מאת ה'.",
+      "text_he": "הידעת? בית והון יכולים לעבור בירושה מן האבות, אך אישה משכילה מתוארת בפרק כמתנה מאת ה'.",
+      "text_en": "Did you know? A house and wealth may be inherited from one’s parents, but a wise wife is described in the chapter as a gift from the Lord."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? הפרק מתאר את החונן דל כמי שמלווה לה': החסד כלפי העני מוצג כמעשה שה' עתיד להשיב עליו גמול.",
+      "text_he": "הידעת? הפרק מתאר את החונן דל כמי שמלווה לה': החסד כלפי העני מוצג כמעשה שה' עתיד להשיב עליו גמול.",
+      "text_en": "Did you know? The chapter describes anyone who shows kindness to the poor as lending to the Lord; kindness toward the needy is presented as an act for which the Lord will repay him."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? האדם עשוי להרבות בתכניות, אך משלי מדגיש שעצת ה' היא שתקום ותתקיים.",
+      "text_he": "הידעת? האדם עשוי להרבות בתכניות, אך משלי מדגיש שעצת ה' היא שתקום ותתקיים.",
+      "text_en": "Did you know? A person may make many plans, but Proverbs emphasizes that it is the Lord’s purpose that will stand and be fulfilled."
+    }
+  ]
+}

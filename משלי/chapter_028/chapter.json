@@ -1,0 +1,511 @@
+{
+  "book": "Proverbs",
+  "book_he": "משלי",
+  "book_chapters": 31,
+  "chapter": 28,
+  "title": "משלי פרק 28",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2828.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2828.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/PRO/28-c37a6d9641496ab64e96d3ac8f7a6823.mp3?version_id=1",
+  "verses": [
+    "נָסוּ וְאֵין-רֹדֵף רָשָׁע; וְצַדִּיקִים, כִּכְפִיר יִבְטָח.",
+    "בְּפֶשַׁע אֶרֶץ, רַבִּים שָׂרֶיהָ; וּבְאָדָם מֵבִין יֹדֵעַ, כֵּן יַאֲרִיךְ.",
+    "גֶּבֶר-רָשׁ, וְעֹשֵׁק דַּלִּים-- מָטָר סֹחֵף, וְאֵין לָחֶם.",
+    "עֹזְבֵי תוֹרָה, יְהַלְלוּ רָשָׁע; וְשֹׁמְרֵי תוֹרָה, יִתְגָּרוּ בָם.",
+    "אַנְשֵׁי-רָע, לֹא-יָבִינוּ מִשְׁפָּט; וּמְבַקְשֵׁי יְהוָה, יָבִינוּ כֹל.",
+    "טוֹב-רָשׁ, הוֹלֵךְ בְּתֻמּוֹ-- מֵעִקֵּשׁ דְּרָכַיִם, וְהוּא עָשִׁיר.",
+    "נוֹצֵר תּוֹרָה, בֵּן מֵבִין; וְרֹעֶה זוֹלְלִים, יַכְלִים אָבִיו.",
+    "מַרְבֶּה הוֹנוֹ, בְּנֶשֶׁךְ ובתרבית וְתַרְבִּית -- לְחוֹנֵן דַּלִּים יִקְבְּצֶנּוּ.",
+    "מֵסִיר אָזְנוֹ, מִשְּׁמֹעַ תּוֹרָה-- גַּם תְּפִלָּתוֹ, תּוֹעֵבָה.",
+    "מַשְׁגֶּה יְשָׁרִים, בְּדֶרֶךְ רָע--בִּשְׁחוּתוֹ הוּא-יִפּוֹל; וּתְמִימִים, יִנְחֲלוּ-טוֹב.",
+    "חָכָם בְּעֵינָיו, אִישׁ עָשִׁיר; וְדַל מֵבִין יַחְקְרֶנּוּ.",
+    "בַּעֲלֹץ צַדִּיקִים, רַבָּה תִפְאָרֶת; וּבְקוּם רְשָׁעִים, יְחֻפַּשׂ אָדָם.",
+    "מְכַסֶּה פְשָׁעָיו, לֹא יַצְלִיחַ; וּמוֹדֶה וְעֹזֵב יְרֻחָם.",
+    "אַשְׁרֵי אָדָם, מְפַחֵד תָּמִיד; וּמַקְשֶׁה לִבּוֹ, יִפּוֹל בְּרָעָה.",
+    "אֲרִי-נֹהֵם, וְדֹב שׁוֹקֵק-- מוֹשֵׁל רָשָׁע, עַל עַם-דָּל.",
+    "נָגִיד--חֲסַר תְּבוּנוֹת, וְרַב מַעֲשַׁקּוֹת; שנאי שֹׂנֵא בֶצַע, יַאֲרִיךְ יָמִים.",
+    "אָ דָ ם, עָשֻׁק בְּדַם-נָפֶשׁ-- עַד-בּוֹר יָנוּס, אַל-יִתְמְכוּ-בוֹ.",
+    "הוֹלֵךְ תָּמִים, יִוָּשֵׁעַ; וְנֶעְקַשׁ דְּרָכַיִם, יִפּוֹל בְּאֶחָת.",
+    "עֹבֵד אַדְמָתוֹ, יִשְׂבַּע-לָחֶם; וּמְרַדֵּף רֵיקִים, יִשְׂבַּע-רִישׁ.",
+    "אִישׁ אֱמוּנוֹת, רַב-בְּרָכוֹת; וְאָץ לְהַעֲשִׁיר, לֹא יִנָּקֶה.",
+    "הַכֵּר-פָּנִים לֹא-טוֹב; וְעַל-פַּת-לֶחֶם, יִפְשַׁע-גָּבֶר.",
+    "נִבְהָל לַהוֹן--אִישׁ, רַע עָיִן; וְלֹא-יֵדַע, כִּי-חֶסֶר יְבֹאֶנּוּ.",
+    "מוֹכִיחַ אָדָם אַחֲרַי, חֵן יִמְצָא-- מִמַּחֲלִיק לָשׁוֹן.",
+    "גּוֹזֵל, אָבִיו וְאִמּוֹ--וְאֹמֵר אֵין-פָּשַׁע: חָבֵר הוּא, לְאִישׁ מַשְׁחִית.",
+    "רְחַב-נֶפֶשׁ, יְגָרֶה מָדוֹן; וּבֹטֵחַ עַל-יְהוָה יְדֻשָּׁן.",
+    "בּוֹטֵחַ בְּלִבּוֹ, הוּא כְסִיל; וְהוֹלֵךְ בְּחָכְמָה, הוּא יִמָּלֵט.",
+    "נוֹתֵן לָרָשׁ, אֵין מַחְסוֹר; וּמַעְלִים עֵינָיו, רַב-מְאֵרוֹת.",
+    "בְּקוּם רְשָׁעִים, יִסָּתֵר אָדָם; וּבְאָבְדָם, יִרְבּוּ צַדִּיקִים."
+  ],
+  "english": [
+    "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+    "For the transgression of a land many\nare the princes thereof: but by a man of understanding\nand knowledge the state\nthereof\n shall be prolonged.",
+    "A poor man that oppresseth the poor\nis like a sweeping rain which leaveth no food.",
+    "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+    "Evil men understand not judgment: but they that seek the LORD understand all\nthings.",
+    "Better\nis the poor that walketh in his uprightness, than\nhe that is perverse\nin his ways, though he\nbe\n rich.",
+    "Whoso keepeth the law\nis a wise son: but he that is a companion of riotous\nmen shameth his father.",
+    "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+    "He that turneth away his ear from hearing the law, even his prayer\nshall be abomination.",
+    "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good\nthings\n in possession.",
+    "The rich man\nis wise in his own conceit; but the poor that hath understanding searcheth him out.",
+    "When righteous\nmen do rejoice,\nthere is great glory: but when the wicked rise, a man is hidden.",
+    "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh\nthem shall have mercy.",
+    "Happy\nis the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+    "As a roaring lion, and a ranging bear;\nso is a wicked ruler over the poor people.",
+    "The prince that wanteth understanding\nis also a great oppressor:\nbut he that hateth covetousness shall prolong\nhis\n days.",
+    "A man that doeth violence to the blood of\nany person shall flee to the pit; let no man stay him.",
+    "Whoso walketh uprightly shall be saved: but\nhe that is perverse\nin his ways shall fall at once.",
+    "He that tilleth his land shall have plenty of bread: but he that followeth after vain\npersons shall have poverty enough.",
+    "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+    "To have respect of persons\nis not good: for for a piece of bread\nthat man will transgress.",
+    "He that hasteth to be rich\nhath an evil eye, and considereth not that poverty shall come upon him.",
+    "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+    "Whoso robbeth his father or his mother, and saith,\nIt is\n no transgression; the same\nis the companion of a destroyer.",
+    "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+    "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+    "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+    "When the wicked rise, men hide themselves: but when they perish, the righteous increase."
+  ],
+  "steinsaltz": [
+    "נָסוּ וְאֵין־רֹדֵף – רָשָׁע. הרשעים – סופם לפחד גם כשאין אחריהם רודף, וְאילו צַדִּיקִים, כל אחד מהם כִּכְפִיר, כאריה שאין עליו מוראן של חיות אחרות, יִבְטָח, ישב לבטח.",
+    "בְּפֶשַׁע אֶרֶץ, כאשר אנשי הארץ אינם נוהגים כראוי, רַבִּים שָׂרֶיהָ, משום שאין די בשלטון מצומצם כדי לרסן את העם. ופירוש נוסף: ריבוי אנשים הנושאים בתפקידים שלטוניים או מעין-שלטוניים על חשבון היחלשות השלטון המרכזי מאותת ששחיתות פושה במדינה. ואילו בְאָדָם מֵבִין ויֹדֵעַ – כֵּן יַאֲרִיךְ, מעמדו יתבסס, והנושא שבסמכותו לא יתפזר בין כל אותם שרים.",
+    "גֶּבֶר רָשׁ, עני וְעֹשֵׁק, גוזל דַּלִּים דומה למָטָר סֹחֵף וְאֵין לָחֶם. מי שעושק עניים ואינו מרוויח דבר מכך – רעתו מוחלטת. המציק לאחרים ללא כל תועלת משול לגשם סוחף, הגורם נזקים ואי-נעימות, ואף לא מצמיח תבואה המוציאה לחם.",
+    "עֹזְבֵי תוֹרָה יְהַלְלוּ רָשָׁע, הם שמחים בו ומפארים את הצלחתו, וְאילו שֹׁמְרֵי תוֹרָה אינם משלימים עם הרשעים ואף יִתְגָּרוּ, מעוררים תגרות בָם. מעבר לשאלה כיצד נוהגים אנשים לעצמם, הם נבחנים גם בתגובתם כלפי אחרים. עוזבי תורה שאין להם שום קנה מידה מוסרי, עשויים להלל רשעים, ואילו שומרי התורה יביעו את התנגדותם.",
+    "אַנְשֵׁי־רָע, אנשים רעים לֹא־יָבִינוּ מִשְׁפָּט. הם אינם מסוגלים אפילו להבין את עקרונות היושר והמשפט כי הם חוסמים את עצמם, וּלעומתם מְבַקְשֵׁי ה' באמת יָבִינוּ כֹל. הם מוכנים לשמוע ופתוחים להבין גם דעות שאינן הולמות את עניינם ומצבם.",
+    "טוֹב־רָשׁ שהוֹלֵךְ בְּתֻמּוֹ, ביושר, מֵעִקֵּשׁ דְּרָכַיִם, ממי שמעקם את דרכיו וְהוּא עָשִׁיר. צורת הריבוי הזוגי 'דרכיִם' מורה על מי שלפניו לפחות שתי דרכים, ובכל פעם הוא בוחר בנתיב אחר כפי שנוח לו. גם אם הוא עשיר, הוא גרוע מאיש פשוט ההולך בתמימות בדרכו שלו, ואינו מעקם אותה שוב ושוב.",
+    "נוֹצֵר, השומר את התּוֹרָה הוא בֵּן מֵבִין, וְאילו רֹעֶה, המתרועע עם זוֹלְלִים יַכְלִים, גורם בושה לאָבִיו.",
+    "מַרְבֶּה הוֹנוֹ בְּאמצעות נֶשֶׁךְ, הלוואה נושכת, שככל שעובר עליה הזמן על הלווה להוסיף תשלום. וְתַרְבִּית, ריבית, הלוואה קצובה בזמן שעל הלווה להוסיף יותר ממה שלקח. אלו דברים אסורים וגם אינם מוסריים. מי שצובר כספו בצורה זו – בסופו של דבר לְמען חוֹנֵן דַּלִּים האיש שהולך בדרך הפוכה ממנו, שהוא נותן משלו לעניים, יִקְבְּצֶנּוּ, יאסוף את הכסף. הכסף יגיע לבסוף לידיו של האדם הנדיב.",
+    "מֵסִיר אָזְנוֹ מִלשְׁמֹעַ תּוֹרָה – גַּם־תְּפִלָּתוֹ תּוֹעֵבָה, שנואה. יש אנשים שאינם מעוניינים ללמוד ולשמוע לתורת ה', אבל עדיין יש להם ציפיות מהקדוש ברוך הוא. כיוון שהם אינם מקשיבים לקול ה' שבתורתו, אף הוא אינו רוצה להקשיב לתפילותיהם.",
+    "מַשְׁגֶּה, מטעה יְשָׁרִים ללכת בְּדֶרֶךְ רָע, בִּשְׁחוּתוֹ, בשוחתו, בבור שחפר בעצמו הוּא־יִפּוֹל. וּלעומת זאת תְמִימִים, למרות תמימותם יִנְחֲלוּ־טוֹב ולא יפלו לתוך אותו בור.",
+    "חָכָם בְּעֵינָיו – אִישׁ עָשִׁיר. העשיר עשוי להידמות בעיני עצמו כחכם, וכבעל דעה בכל נושא, וְדַל שהוא מֵבִין יַחְקְרֶנּוּ, בודק את דבריו ומגלה מה הוא באמת יודע ומה לא.",
+    "בַּעֲלֹץ, בשמחת צַדִּיקִים – רַבָּה תִפְאָרֶת. חברה שבה הצדיקים שמחים היא חברה מפוארת, שרבים ייהנו ממנה, וּמנגד, בְקוּם רְשָׁעִים לשלוט יְחֻפַּשׂ אָדָם הגון ולא יימצא, משום שהאנשים ההגונים יחביאו את עצמם.",
+    "מְכַסֶּה, מסתיר פְשָׁעָיו, מי שאינו מודה במעשיו הרעים – אין תשובתו תשובה גמורה ולכן לֹא יַצְלִיחַ, ואנשים לא ימחלו לו גם כשלא ידעו בוודאות אם חטא, ואילו מוֹדֶה בחטאיו וְגם עֹזֵב אותם בסופו של דבר יְרֻחָם, אנשים עשויים לרחם עליו ולסלוח לו.",
+    "אַשְׁרֵי אָדָם, טוב לו לאדם שיהיה מְפַחֵד, זהיר בצעדיו, יחשוש מטעויות ויכין את עצמו לקראת כל מיני פורענויות תָּמִיד, וּמַקְשֶׁה לִבּוֹ, מי שבטוח בעצמו ואינו מפחד, יִפּוֹל בְּרָעָה שאיננו מוכן לה.",
+    "כמו אֲרִי־נֹהֵם וְדֹב שׁוֹקֵק, משמיע קול מעין ליקוק או השתוקקות, הוא מוֹשֵׁל רָשָׁע השולט עַל עַם־דָּל. אין מנוס משליט כזה, כשם שאי-אפשר להימלט מחיה רעה המשחרת לטרף.",
+    "יש נָגִיד, איש חזק ובעל מעמד, שהוא חֲסַר תְּבוּנוֹת, אינו חכם וְרַב מַעֲשַׁקּוֹת, מרבה לגזול כדי לצבור הון, והוא מסתכן לשם כך בקיצור ימיו. לעומתו, מי ששֹׂנֵא בֶצַע, ממון המגיע שלא כדין יַאֲרִיךְ יָמִים.",
+    "אָדָם שעָשֻׁק, מואשם בּשפיכות דַם־נָפֶשׁ ונרדף – גם כשעַד־בּוֹר יָנוּס, וייפול בו, אַל־יִתְמְכוּ־בוֹ. איש אינו עוזר לו. הוא איבד את עולמו וכל מעשיו הטובים אינם עומדים לו.",
+    "הוֹלֵךְ תָּמִים יִוָּשֵׁעַ, יזכה לישועה, וְנֶעְקַשׁ דְּרָכַיִם, מי שבתחבולות מאמץ בכל פעם דרך אחרת, יִפּוֹל בְּבת אֶחָת.",
+    "עֹבֵד אַדְמָתוֹ יִשְׂבַּע־לָחֶם מפרי עמלו, וּמי שבמקום לעבוד מְרַדֵּף דברים רֵיקִים יִשְׂבַּע־רִישׁ, עניות. לא יישאר בידו דבר.",
+    "אִישׁ אֱמוּנוֹת, המחזיק באמונה הוא גם רַב־בְּרָכוֹת, יש לו ברכות לרוב, וְאילו אָץ, להוט לְהַעֲשִׁיר, להתעשר בלא להבחין את מי הוא דורס, ואילו עוולות הוא עושה במרוצתו, לֹא יִנָּקֶה מעונש בעולם הזה או בעולם הבא.",
+    "הַכֵּר־פָּנִים, העדפת אדם לטובה שלא כדין, היא מעשה לֹא־טוֹב. קביעה זו מתייחסת במיוחד לשופט, אבל היא נכונה גם לגבי אנשים אחרים המעדיפים את מי שהם יודעים שאינו נוהג כשורה, וְאולם בצד החובה לנהוג באנשים לפי מידת הדין והצדק, ולא מתוך אינטרס אישי, יש להביא בחשבון שעַל־פַּת־לֶחֶם יִפְשַׁע־גָּבֶר. קורה שאנשים חוטאים בגלל רעב. יש להתחשב במצבו של החוטא כפי שהוא.",
+    "נִבֳהָל, נחפז לַהוֹן אִישׁ רַע עָיִן. הקמצן רדוף תמיד לחטוף עוד ועוד, וְלֹא־יֵדַע כִּי בסופו של דבר חֶסֶר יְבֹאֶנּוּ. המרדָּף יביא לו הפסד ולא תוספת.",
+    "מי שמוֹכִיחַ אָדָם, אַחֲרַי, לאחר זמן חֵן יִמְצָא, לבסוף ימצא חן גם בעיני זה שקיבל את התוכחה, יותר מִמַּחֲלִיק לָשׁוֹן, מתחנף. אף על פי שאנשים נוטים לחבב את מי שמחניף להם, בסופו של דבר הם יפסיקו להאמין לו, והוא יאבד את אהדתם.",
+    "מי שגּוֹזֵל מאָבִיו וְאִמּוֹ וְאֹמֵר: \"אֵין בכך פָּשַׁע, שהרי הם תמיד יגעים בשבילי ומעניקים לי, וגם רכושם עתיד להגיע אלי בירושה\", חָבֵר, דומה הוּא לְאִישׁ מַשְׁחִית. אף הוא גזלן, כי בהווה הוא עושה מעשה אסור.",
+    "רְחַב־נֶפֶשׁ, בעל תאווה, חמדן יְגָרֶה מָדוֹן, מעורר מריבות, כי אנשים לא יסכימו אתו ולא ייענו לדרישותיו הגדולות. יתרה מזו, אדם שאינו מסופק מרבה לכעוס ורב בנקל, ואילו הבֹטֵחַ עַל־ה' ומסתפק במועט יְדֻשָּׁן, יזכה בטובה ובתענוג.",
+    "הבּוֹטֵחַ בְּלִבּוֹ כאילו יודע הכול הוּא כְסִיל, וְההוֹלֵךְ בְּחָכְמָה הוּא יִמָּלֵט מצרות, מפני שהוא מביא בחשבון אפשרויות של מכשולים, תקלות ולבטים בדרך, ואין לו ביטחון גמור בעצמו.",
+    "הנוֹתֵן נדבות לָרָשׁ, לעניים אֵין לו מַחְסוֹר, והמַעְלִים עֵינָיו מסבלם של אחרים הוא רַב־מְאֵרוֹת, יבואו עליו קללות רבות.",
+    "בְּקוּם רְשָׁעִים, כאשר הרשעים זוכים במעמד גבוה, יִסָּתֵר, ישתדל שלא להתבלט אָדָם הגון, וּבְאָבְדָם יִרְבּוּ הצַדִּיקִים, כי אז הם ירשו לעצמם להתגלות, ויתברר שקיימים צדיקים רבים משהיה נדמה."
+  ],
+  "ai_explanation": [
+    "הרשעים מפחדים ונמלטים גם כשאין איש הרודף אחריהם, ואילו הצדיקים בוטחים ויושבים לבטח ככפיר, אריה שאינו ירא מחיות אחרות.",
+    "כאשר אנשי הארץ חוטאים ואינם נוהגים כראוי, מתרבים השרים, משום שנדרש שלטון מפוצל כדי לרסן את העם. ריבוי בעלי תפקידים על חשבון השלטון המרכזי עשוי גם להעיד על שחיתות; לעומת זאת, אדם מבין ויודע מבסס את סמכותו לאורך זמן.",
+    "עני העושק דלים דומה לגשם סוחף שאינו מצמיח לחם: הוא גורם נזק ואי־נעימות, אך אינו מפיק תועלת אמיתית ממעשיו.",
+    "עוזבי תורה מהללים את הרשע ושמחים בהצלחתו, ואילו שומרי תורה אינם משלימים עם הרשעים ומביעים את התנגדותם אליהם.",
+    "אנשי רע אינם מסוגלים להבין את עקרונות היושר והמשפט, משום שהם חוסמים את עצמם. מבקשי ה' פתוחים לשמוע ולהבין גם דברים שאינם נוחים להם, ולכן יבינו הכול.",
+    "עני ההולך בתומו וביושר טוב ממי שמעקם את דרכיו, גם אם הוא עשיר. מי שנע בין דרכים שונות ובוחר בכל פעם במה שנוח לו נחות מן האדם הישר הדבק בדרכו.",
+    "השומר את התורה הוא בן מבין. לעומתו, המתרועע עם זוללים גורם בושה לאביו.",
+    "מי שמרבה את הונו באמצעות נשך וריבית צובר כסף בדרכים אסורות ולא מוסריות. בסופו של דבר הכסף ייאסף בידי אדם החונן את הדלים ונותן משלו לעניים.",
+    "מי שמסרב להקשיב לתורה אך עדיין מצפה שה' יקשיב לתפילתו, תפילתו תועבה. אין ראוי לבקש את הקשבת ה' בלי להקשיב לקולו שבתורתו.",
+    "מי שמטעה ישרים ללכת בדרך רעה ייפול בבור שחפר בעצמו. התמימים, לעומת זאת, ינחלו טוב ולא ייפלו בבור הזה.",
+    "העשיר עלול להיחשב חכם בעיני עצמו ובעל דעה בכל נושא. הדל המבין בוחן את דבריו ומגלה מה הוא באמת יודע ומה אינו יודע.",
+    "כאשר הצדיקים שמחים, החברה מתמלאת תפארת ורבים נהנים ממנה. כאשר הרשעים קמים לשלוט, אנשים הגונים מסתתרים כדי שלא ייפגעו.",
+    "מי שמסתיר את פשעיו ואינו מודה בהם אינו זוכה לתשובה שלמה ואינו מצליח. מי שמודה בחטאיו ועוזב אותם עשוי לזכות לרחמים ולסליחה.",
+    "טוב לאדם להיות זהיר, לחשוש מטעויות ולהתכונן לפורענויות. מי שמקשה את לבו ובטוח בעצמו עלול ליפול ברעה שלא היה מוכן לה.",
+    "שליט רשע על עם דל דומה לאריה נוהם או לדוב שוקק: הוא שליט מאיים שאין מנוס ממנו, כשם שקשה להימלט מחיה רעה המשחרת לטרף.",
+    "נגיד חסר תבונות המרבה לעשוק מסכן את חייו בקיצור ימים. לעומתו, מי ששונא בצע ומתרחק מממון שלא כדין יאריך ימים.",
+    "אדם המואשם בשפיכות דמים ונרדף על כך, גם אם ינוס עד שייפול לבור, לא יימצא מי שיתמוך בו. הוא איבד את עולמו, ומעשיו הטובים אינם עומדים לו.",
+    "ההולך בתמימות יזכה לישועה. מי שמעקם את דרכיו ומחליף תחבולות ודרכים ייפול לפתע.",
+    "מי שעובד את אדמתו ישבע לחם מפרי עמלו. מי שרודף אחר דברים ריקים במקום לעבוד ישבע עניות ולא יישאר בידו דבר.",
+    "איש נאמן זוכה לברכות רבות. מי שנחפז להתעשר בלי להתחשב באנשים שהוא דורס ובעוולות שהוא עושה לא יינקה מעונש.",
+    "העדפת אדם שלא כדין, במיוחד במשפט, אינה טובה. עם זאת, יש להתחשב בכך שלעתים אדם חוטא בגלל רעב ולבחון גם את מצבו.",
+    "הקמצן הנחפז להשיג הון ורודף לתפוס עוד ועוד אינו יודע שבסופו של דבר יבוא עליו מחסור והמרדף יגרום לו הפסד.",
+    "מי שמוכיח אדם עשוי למצוא חן בעיניו לאחר זמן, יותר ממי שמחליק את לשונו ומתחנף. בסופו של דבר המתחנף מאבד את אמון האדם ואת אהדתו.",
+    "הגוזל מאביו ומאמו וטוען שאין בכך פשע, מפני שהם עובדים עבורו או מפני שיירש אותם, דומה לאיש משחית. גם אם הרכוש עתיד להגיע אליו, הגזל בהווה אסור.",
+    "בעל תאווה וחמדן מעורר מריבות, מפני שאנשים אינם מסכימים לדרישותיו הגדולות. הבוטח בה' ומסתפק במועט יזכה בטובה ובתענוג.",
+    "הבוטח בלבו כאילו הוא יודע הכול הוא כסיל. מי שהולך בחכמה מביא בחשבון מכשולים, תקלות ולבטים, ולכן יימלט מצרות.",
+    "הנותן צדקה לעניים לא יחסר לו, ואילו מי שמעלים את עיניו מסבלם של אחרים יביא עליו קללות רבות.",
+    "כאשר הרשעים עולים לשלטון, האדם ההגון מסתתר ואינו מתבלט. כאשר הרשעים אובדים, הצדיקים מתגלים, ואז מתברר שהם רבים יותר מכפי שנדמה."
+  ],
+  "ai_explanation_en": [
+    "The wicked flee in fear even when no one is pursuing them, while the righteous are secure and confident like a lion that fears no other animal.",
+    "When the people of a land sin and do not behave properly, many officials arise because a divided government is needed to restrain the people. A proliferation of officeholders at the expense of central authority may also signal corruption; by contrast, a perceptive and knowledgeable person establishes his authority over time.",
+    "A poor man who oppresses the weak is like a driving rain that produces no bread: he causes damage and discomfort but gains no real benefit from his actions.",
+    "Those who abandon the Torah praise the wicked and rejoice in their success, while those who observe the Torah do not accept the wicked and express their opposition to them.",
+    "Evil people cannot understand the principles of justice because they close themselves off. Those who seek God are open to listening and understanding even ideas that are inconvenient to them, and therefore they understand everything.",
+    "A poor person who walks honestly and straightforwardly is better than someone who twists his ways, even if that person is rich. One who shifts between different paths and chooses whatever is convenient is inferior to the person who remains honest and faithful to his way.",
+    "One who guards the Torah is an understanding son. By contrast, one who associates with gluttons brings shame to his father.",
+    "One who increases his wealth through exploitative interest and usury accumulates money through forbidden and immoral means. In the end, the money will be gathered by a person who shows generosity to the poor and gives from his own resources.",
+    "One who refuses to listen to the Torah but still expects God to hear his prayer has a detestable prayer. A person should not ask God to listen while refusing to listen to God's voice in the Torah.",
+    "One who misleads honest people into an evil path will fall into the pit he dug himself. The innocent, by contrast, will inherit good and will not fall into that pit.",
+    "A rich person may regard himself as wise and as an authority on every subject. The perceptive poor person examines his words and discovers what he truly knows and what he does not know.",
+    "When the righteous rejoice, society becomes glorious and many people benefit from it. When the wicked rise to power, decent people hide themselves so that they will not be harmed.",
+    "One who hides his sins and refuses to admit them does not achieve complete repentance and will not succeed. One who admits his sins and abandons them may receive mercy and forgiveness.",
+    "It is good for a person to be cautious, fear mistakes, and prepare for possible troubles. One who hardens his heart and feels overly secure may fall into a calamity for which he was unprepared.",
+    "A wicked ruler over a poor people is like a roaring lion or a charging bear: he is a threatening ruler from whom there is no escape, just as it is difficult to flee a predatory animal.",
+    "A leader lacking understanding who commits much robbery endangers himself and may shorten his life. By contrast, one who hates dishonest gain and avoids unlawful wealth will live long.",
+    "A person accused and pursued for shedding blood will find no one to support him, even if he flees until he falls into a pit. He has lost his world, and his good deeds cannot protect him.",
+    "One who walks innocently will be saved. One who twists his ways and continually changes tactics and paths will suddenly fall.",
+    "One who works his land will have enough bread from the fruit of his labor. One who pursues empty things instead of working will have poverty and nothing will remain in his possession.",
+    "A faithful person receives many blessings. One who rushes to become rich without considering whom he tramples or what wrongs he commits will not escape punishment.",
+    "Showing improper favoritism, especially in judgment, is wrong. Nevertheless, one should consider that a person may sometimes sin because of hunger and should take his circumstances into account.",
+    "The miser who hurries after wealth and constantly tries to seize more does not realize that lack will eventually come upon him and that his pursuit will bring loss rather than gain.",
+    "One who rebukes a person may eventually find favor in that person's eyes, more than one who flatters him. In the end, the flatterer loses the person's trust and affection.",
+    "One who robs his father and mother and claims that there is no wrongdoing because they work for him or because he will inherit them is like a destructive person. Even if the property will eventually come to him, taking it now is still theft.",
+    "A person driven by desire and greed provokes quarrels because others will not agree to his excessive demands. One who trusts in God and is content with little will receive goodness and pleasure.",
+    "One who trusts his own heart as though he knows everything is a fool. One who walks wisely considers obstacles, difficulties, and uncertainties, and therefore escapes troubles.",
+    "One who gives charity to the poor will not lack, while one who ignores the suffering of others will bring many curses upon himself.",
+    "When the wicked rise to power, decent people hide and avoid standing out. When the wicked perish, the righteous emerge, revealing that they are more numerous than had seemed."
+  ],
+  "perush": [
+    "הרשעים מפחדים ונמלטים גם כשאין איש הרודף אחריהם, ואילו הצדיקים בוטחים ויושבים לבטח ככפיר, אריה שאינו ירא מחיות אחרות.",
+    "כאשר אנשי הארץ חוטאים ואינם נוהגים כראוי, מתרבים השרים, משום שנדרש שלטון מפוצל כדי לרסן את העם. ריבוי בעלי תפקידים על חשבון השלטון המרכזי עשוי גם להעיד על שחיתות; לעומת זאת, אדם מבין ויודע מבסס את סמכותו לאורך זמן.",
+    "עני העושק דלים דומה לגשם סוחף שאינו מצמיח לחם: הוא גורם נזק ואי־נעימות, אך אינו מפיק תועלת אמיתית ממעשיו.",
+    "עוזבי תורה מהללים את הרשע ושמחים בהצלחתו, ואילו שומרי תורה אינם משלימים עם הרשעים ומביעים את התנגדותם אליהם.",
+    "אנשי רע אינם מסוגלים להבין את עקרונות היושר והמשפט, משום שהם חוסמים את עצמם. מבקשי ה' פתוחים לשמוע ולהבין גם דברים שאינם נוחים להם, ולכן יבינו הכול.",
+    "עני ההולך בתומו וביושר טוב ממי שמעקם את דרכיו, גם אם הוא עשיר. מי שנע בין דרכים שונות ובוחר בכל פעם במה שנוח לו נחות מן האדם הישר הדבק בדרכו.",
+    "השומר את התורה הוא בן מבין. לעומתו, המתרועע עם זוללים גורם בושה לאביו.",
+    "מי שמרבה את הונו באמצעות נשך וריבית צובר כסף בדרכים אסורות ולא מוסריות. בסופו של דבר הכסף ייאסף בידי אדם החונן את הדלים ונותן משלו לעניים.",
+    "מי שמסרב להקשיב לתורה אך עדיין מצפה שה' יקשיב לתפילתו, תפילתו תועבה. אין ראוי לבקש את הקשבת ה' בלי להקשיב לקולו שבתורתו.",
+    "מי שמטעה ישרים ללכת בדרך רעה ייפול בבור שחפר בעצמו. התמימים, לעומת זאת, ינחלו טוב ולא ייפלו בבור הזה.",
+    "העשיר עלול להיחשב חכם בעיני עצמו ובעל דעה בכל נושא. הדל המבין בוחן את דבריו ומגלה מה הוא באמת יודע ומה אינו יודע.",
+    "כאשר הצדיקים שמחים, החברה מתמלאת תפארת ורבים נהנים ממנה. כאשר הרשעים קמים לשלוט, אנשים הגונים מסתתרים כדי שלא ייפגעו.",
+    "מי שמסתיר את פשעיו ואינו מודה בהם אינו זוכה לתשובה שלמה ואינו מצליח. מי שמודה בחטאיו ועוזב אותם עשוי לזכות לרחמים ולסליחה.",
+    "טוב לאדם להיות זהיר, לחשוש מטעויות ולהתכונן לפורענויות. מי שמקשה את לבו ובטוח בעצמו עלול ליפול ברעה שלא היה מוכן לה.",
+    "שליט רשע על עם דל דומה לאריה נוהם או לדוב שוקק: הוא שליט מאיים שאין מנוס ממנו, כשם שקשה להימלט מחיה רעה המשחרת לטרף.",
+    "נגיד חסר תבונות המרבה לעשוק מסכן את חייו בקיצור ימים. לעומתו, מי ששונא בצע ומתרחק מממון שלא כדין יאריך ימים.",
+    "אדם המואשם בשפיכות דמים ונרדף על כך, גם אם ינוס עד שייפול לבור, לא יימצא מי שיתמוך בו. הוא איבד את עולמו, ומעשיו הטובים אינם עומדים לו.",
+    "ההולך בתמימות יזכה לישועה. מי שמעקם את דרכיו ומחליף תחבולות ודרכים ייפול לפתע.",
+    "מי שעובד את אדמתו ישבע לחם מפרי עמלו. מי שרודף אחר דברים ריקים במקום לעבוד ישבע עניות ולא יישאר בידו דבר.",
+    "איש נאמן זוכה לברכות רבות. מי שנחפז להתעשר בלי להתחשב באנשים שהוא דורס ובעוולות שהוא עושה לא יינקה מעונש.",
+    "העדפת אדם שלא כדין, במיוחד במשפט, אינה טובה. עם זאת, יש להתחשב בכך שלעתים אדם חוטא בגלל רעב ולבחון גם את מצבו.",
+    "הקמצן הנחפז להשיג הון ורודף לתפוס עוד ועוד אינו יודע שבסופו של דבר יבוא עליו מחסור והמרדף יגרום לו הפסד.",
+    "מי שמוכיח אדם עשוי למצוא חן בעיניו לאחר זמן, יותר ממי שמחליק את לשונו ומתחנף. בסופו של דבר המתחנף מאבד את אמון האדם ואת אהדתו.",
+    "הגוזל מאביו ומאמו וטוען שאין בכך פשע, מפני שהם עובדים עבורו או מפני שיירש אותם, דומה לאיש משחית. גם אם הרכוש עתיד להגיע אליו, הגזל בהווה אסור.",
+    "בעל תאווה וחמדן מעורר מריבות, מפני שאנשים אינם מסכימים לדרישותיו הגדולות. הבוטח בה' ומסתפק במועט יזכה בטובה ובתענוג.",
+    "הבוטח בלבו כאילו הוא יודע הכול הוא כסיל. מי שהולך בחכמה מביא בחשבון מכשולים, תקלות ולבטים, ולכן יימלט מצרות.",
+    "הנותן צדקה לעניים לא יחסר לו, ואילו מי שמעלים את עיניו מסבלם של אחרים יביא עליו קללות רבות.",
+    "כאשר הרשעים עולים לשלטון, האדם ההגון מסתתר ואינו מתבלט. כאשר הרשעים אובדים, הצדיקים מתגלים, ואז מתברר שהם רבים יותר מכפי שנדמה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "רשעה, צדקות והנהגת החברה",
+      "title_en": "Wickedness, Righteousness, and Social Leadership",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "הפסוקים מציגים את הפחד והאי־יציבות של הרשעים מול ביטחון הצדיקים, את הקשר בין חטאי הארץ לריבוי שרים, ואת ההבדל בין עושק, עזיבת תורה והיעדר הבנת משפט לבין פתיחותם של מבקשי ה'.",
+      "summary_en": "These verses contrast the fear and instability of the wicked with the security of the righteous, connect national wrongdoing with the proliferation of officials, and distinguish oppression, abandonment of Torah, and lack of justice from the openness of those who seek God.",
+      "image_prompt": "A symbolic ancient-style city scene without identifiable historical details: frightened wicked figures fleeing through empty streets, a calm lion beside upright people, many arguing officials in the background, and attentive seekers studying a scroll of law."
+    },
+    {
+      "title": "יושר, תורה ותוצאות המעשים",
+      "title_en": "Integrity, Torah, and the Consequences of Actions",
+      "start_verse": 6,
+      "end_verse": 10,
+      "summary": "הפסוקים מדגישים שיושר ותמימות עדיפים על עושר ותחבולה, שמירת תורה עדיפה על התרועעות עם זוללים, ושצבירת הון בעושק או התעלמות מתורה מובילות לתוצאה רעה.",
+      "summary_en": "These verses emphasize that honesty and integrity are better than wealth and cunning, that observing Torah is better than associating with gluttons, and that exploitative wealth or rejection of Torah leads to harmful consequences.",
+      "image_prompt": "A clear moral allegory: a poor honest traveler walking straight on a bright path, a wealthy schemer choosing among crooked roads, a respectful student guarding a scroll, and a deceiver falling into a pit of his own making."
+    },
+    {
+      "title": "ענווה, שלטון ותשובה",
+      "title_en": "Humility, Rule, and Repentance",
+      "start_verse": 11,
+      "end_verse": 16,
+      "summary": "הפסוקים עוסקים בסכנת הביטחון העצמי של העשיר, בתפארת חברה שבה הצדיקים שמחים, ברחמים על המודה ועוזב, בזהירות מפני פורענות ובנזק של שלטון רשע ועושק.",
+      "summary_en": "These verses address the rich person's danger of overconfidence, the glory of a society where the righteous rejoice, mercy toward one who confesses and abandons wrongdoing, caution before calamity, and the harm caused by a wicked and exploitative ruler.",
+      "image_prompt": "A symbolic civic scene: a self-satisfied wealthy figure questioned by a thoughtful poor person, a joyful upright community, a repentant person receiving compassion, and a menacing ruler looming over a vulnerable population."
+    },
+    {
+      "title": "אחריות אישית, עבודה ונאמנות",
+      "title_en": "Personal Responsibility, Work, and Faithfulness",
+      "start_verse": 17,
+      "end_verse": 21,
+      "summary": "הפסוקים מתארים את בידודו של מי שנאשם בשפיכות דמים, את הישועה שבהליכה בתמימות, את הברכה שבעבודה ובנאמנות, את הסכנה ברדיפה אחר עושר ואת הצורך להתחשב במצוקת הרעב בלי לעוות את הדין.",
+      "summary_en": "These verses describe the isolation of one accused of bloodshed, the salvation found in integrity, the blessing of work and faithfulness, the danger of pursuing wealth, and the need to consider hunger without distorting justice.",
+      "image_prompt": "A symbolic landscape: an isolated fugitive near a deep pit, an honest worker cultivating fertile soil, a faithful person surrounded by blessings, a reckless fortune seeker rushing past others, and a balanced scale beside a hungry person."
+    },
+    {
+      "title": "תאווה, חכמה וחסד מול רשעה",
+      "title_en": "Desire, Wisdom, and Compassion versus Wickedness",
+      "start_verse": 22,
+      "end_verse": 28,
+      "summary": "הפסוקים מזהירים מפני קמצנות, חנופה, גזל הורים, תאווה וביטחון עצמי מופרז, ומעודדים תוכחה מועילה, ביטחון בה', צדקה, חכמה והופעת הצדיקים לאחר נפילת הרשעים.",
+      "summary_en": "These verses warn against greed, flattery, robbing parents, excessive desire, and overconfidence, while encouraging constructive rebuke, trust in God, charity, wisdom, and the emergence of the righteous after the wicked fall.",
+      "image_prompt": "A symbolic moral tableau: a miser clutching coins while lack approaches, a sincere rebuker beside a flatterer, a family boundary protecting parents' property, a generous giver helping the poor, and righteous people emerging into daylight after wicked rulers disappear."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.14,
+      "usfm": "PRO.28.1"
+    },
+    {
+      "start": 9.14,
+      "end": 18.28,
+      "usfm": "PRO.28.2"
+    },
+    {
+      "start": 18.28,
+      "end": 24.36,
+      "usfm": "PRO.28.3"
+    },
+    {
+      "start": 24.36,
+      "end": 31.0,
+      "usfm": "PRO.28.4"
+    },
+    {
+      "start": 31.0,
+      "end": 38.88,
+      "usfm": "PRO.28.5"
+    },
+    {
+      "start": 38.88,
+      "end": 47.58,
+      "usfm": "PRO.28.6"
+    },
+    {
+      "start": 47.58,
+      "end": 58.1,
+      "usfm": "PRO.28.7"
+    },
+    {
+      "start": 58.1,
+      "end": 66.88,
+      "usfm": "PRO.28.8"
+    },
+    {
+      "start": 66.88,
+      "end": 73.16,
+      "usfm": "PRO.28.9"
+    },
+    {
+      "start": 73.16,
+      "end": 83.96,
+      "usfm": "PRO.28.10"
+    },
+    {
+      "start": 83.96,
+      "end": 90.96,
+      "usfm": "PRO.28.11"
+    },
+    {
+      "start": 90.96,
+      "end": 97.46,
+      "usfm": "PRO.28.12"
+    },
+    {
+      "start": 97.46,
+      "end": 105.32,
+      "usfm": "PRO.28.13"
+    },
+    {
+      "start": 105.32,
+      "end": 112.12,
+      "usfm": "PRO.28.14"
+    },
+    {
+      "start": 112.12,
+      "end": 118.66,
+      "usfm": "PRO.28.15"
+    },
+    {
+      "start": 118.66,
+      "end": 127.72,
+      "usfm": "PRO.28.16"
+    },
+    {
+      "start": 127.72,
+      "end": 135.78,
+      "usfm": "PRO.28.17"
+    },
+    {
+      "start": 135.78,
+      "end": 143.74,
+      "usfm": "PRO.28.18"
+    },
+    {
+      "start": 143.74,
+      "end": 151.84,
+      "usfm": "PRO.28.19"
+    },
+    {
+      "start": 151.84,
+      "end": 159.28,
+      "usfm": "PRO.28.20"
+    },
+    {
+      "start": 159.28,
+      "end": 166.14,
+      "usfm": "PRO.28.21"
+    },
+    {
+      "start": 166.14,
+      "end": 172.84,
+      "usfm": "PRO.28.22"
+    },
+    {
+      "start": 172.84,
+      "end": 179.82,
+      "usfm": "PRO.28.23"
+    },
+    {
+      "start": 179.82,
+      "end": 188.42,
+      "usfm": "PRO.28.24"
+    },
+    {
+      "start": 188.42,
+      "end": 196.68,
+      "usfm": "PRO.28.25"
+    },
+    {
+      "start": 196.68,
+      "end": 205.22,
+      "usfm": "PRO.28.26"
+    },
+    {
+      "start": 205.22,
+      "end": 212.36,
+      "usfm": "PRO.28.27"
+    },
+    {
+      "start": 212.36,
+      "end": 226.28,
+      "usfm": "PRO.28.28"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.14,
+    18.28,
+    24.36,
+    31.0,
+    38.88,
+    47.58,
+    58.1,
+    66.88,
+    73.16,
+    83.96,
+    90.96,
+    97.46,
+    105.32,
+    112.12,
+    118.66,
+    127.72,
+    135.78,
+    143.74,
+    151.84,
+    159.28,
+    166.14,
+    172.84,
+    179.82,
+    188.42,
+    196.68,
+    205.22,
+    212.36,
+    226.28
+  ],
+  "times_en_usfm": [
+    "PRO.28.1",
+    "PRO.28.2",
+    "PRO.28.3",
+    "PRO.28.4",
+    "PRO.28.5",
+    "PRO.28.6",
+    "PRO.28.7",
+    "PRO.28.8",
+    "PRO.28.9",
+    "PRO.28.10",
+    "PRO.28.11",
+    "PRO.28.12",
+    "PRO.28.13",
+    "PRO.28.14",
+    "PRO.28.15",
+    "PRO.28.16",
+    "PRO.28.17",
+    "PRO.28.18",
+    "PRO.28.19",
+    "PRO.28.20",
+    "PRO.28.21",
+    "PRO.28.22",
+    "PRO.28.23",
+    "PRO.28.24",
+    "PRO.28.25",
+    "PRO.28.26",
+    "PRO.28.27",
+    "PRO.28.28"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? הפסוק מציב ניגוד בין הרשע, הנס גם כשאין רודף אחריו, לבין הצדיקים המדומים לכפיר הבוטח בעצמו. כך הביטחון מוצג כתוצאה של עמדה מוסרית, ולא רק של כוח חיצוני.",
+      "text_he": "הידעת? הפסוק מציב ניגוד בין הרשע, הנס גם כשאין רודף אחריו, לבין הצדיקים המדומים לכפיר הבוטח בעצמו. כך הביטחון מוצג כתוצאה של עמדה מוסרית, ולא רק של כוח חיצוני.",
+      "text_en": "Did you know? The verse contrasts the wicked person, who flees even when no one is pursuing him, with the righteous, who are compared to a young lion confident in its strength. Confidence is thus presented as the result of moral character, not merely external power."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? משלי כח קושר בין פשע בארץ לבין ריבוי שרים, ואילו אדם מבין ויודע מוצג כמי שבזכותו ההנהגה מתקיימת ומתארכת. הפסוק עוסק אפוא גם ביציבותה המוסרית של החברה.",
+      "text_he": "הידעת? משלי כח קושר בין פשע בארץ לבין ריבוי שרים, ואילו אדם מבין ויודע מוצג כמי שבזכותו ההנהגה מתקיימת ומתארכת. הפסוק עוסק אפוא גם ביציבותה המוסרית של החברה.",
+      "text_en": "Did you know? Proverbs 28 connects crime in a land with the multiplication of rulers, while a discerning and knowledgeable person is portrayed as someone through whom leadership endures and is prolonged. The verse therefore also addresses the moral stability of society."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? הפסוק מבחין בין עוזבי תורה, המהללים את הרשע, לבין שומרי תורה, המתנגדים להם. שמירת התורה מתוארת כאן לא רק כאמונה אישית, אלא גם כעמדה ציבורית נגד הרֶשע.",
+      "text_he": "הידעת? הפסוק מבחין בין עוזבי תורה, המהללים את הרשע, לבין שומרי תורה, המתנגדים להם. שמירת התורה מתוארת כאן לא רק כאמונה אישית, אלא גם כעמדה ציבורית נגד הרֶשע.",
+      "text_en": "Did you know? The verse distinguishes between those who forsake the law and praise the wicked, and those who keep the law and oppose them. Keeping the law is portrayed not only as a personal faith, but also as a public stance against evil."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? לפי הפסוק, רש עני ההולך בתומו עדיף על אדם עשיר שעיקש את דרכיו. הערך המכריע אינו העושר, אלא היושר והשלמות המוסרית של האדם.",
+      "text_he": "הידעת? לפי הפסוק, רש עני ההולך בתומו עדיף על אדם עשיר שעיקש את דרכיו. הערך המכריע אינו העושר, אלא היושר והשלמות המוסרית של האדם.",
+      "text_en": "Did you know? According to the verse, a poor person who walks in integrity is better than a rich person whose ways are perverse. What matters most is not wealth, but a person's honesty and moral integrity."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? משלי כח מציג את ההקשבה לתורה כתנאי בעל משמעות גם לתפילה: מי שמסיר את אוזנו משמוע תורה, גם תפילתו מתוארת כתועבה. הפסוק מדגיש קשר בין התנהגות מוסרית לבין עבודת ה'.",
+      "text_he": "הידעת? משלי כח מציג את ההקשבה לתורה כתנאי בעל משמעות גם לתפילה: מי שמסיר את אוזנו משמוע תורה, גם תפילתו מתוארת כתועבה. הפסוק מדגיש קשר בין התנהגות מוסרית לבין עבודת ה'.",
+      "text_en": "Did you know? Proverbs 28 presents listening to the law as important even for prayer: whoever turns away from hearing the law—even that person's prayer is described as detestable. The verse emphasizes the connection between moral conduct and worship of God."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? הפסוק אינו מסתפק בהודאה על החטא: הוא מבטיח רחמים למי שמודה בפשעיו וגם עוזב אותם. מכאן שהתשובה כוללת הן הכרה במעשה והן שינוי כיוון.",
+      "text_he": "הידעת? הפסוק אינו מסתפק בהודאה על החטא: הוא מבטיח רחמים למי שמודה בפשעיו וגם עוזב אותם. מכאן שהתשובה כוללת הן הכרה במעשה והן שינוי כיוון.",
+      "text_en": "Did you know? The verse does not stop at confessing sin: it promises mercy to the person who confesses his sins and abandons them. Repentance therefore includes both acknowledging one's actions and changing direction."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? הפסוק משבח אדם המפחד תמיד, כלומר נזהר ובוחן את דרכיו, ומזהיר מפני הקשיית הלב. הזהירות מוצגת בו כהגנה מפני נפילה ברעה.",
+      "text_he": "הידעת? הפסוק משבח אדם המפחד תמיד, כלומר נזהר ובוחן את דרכיו, ומזהיר מפני הקשיית הלב. הזהירות מוצגת בו כהגנה מפני נפילה ברעה.",
+      "text_en": "Did you know? The verse praises the person who is always cautious—that is, someone who takes care and examines his ways—and warns against hardening the heart. Caution is presented as protection from falling into trouble."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? משלי כח מציב זה מול זה את עובד האדמה, השבע לחם, ואת רודף הרֵיקים, השבע ריש. הפסוק משבח עבודה מועילה ומתמשכת ומזהיר מפני רדיפה אחר דברים חסרי תועלת.",
+      "text_he": "הידעת? משלי כח מציב זה מול זה את עובד האדמה, השבע לחם, ואת רודף הרֵיקים, השבע ריש. הפסוק משבח עבודה מועילה ומתמשכת ומזהיר מפני רדיפה אחר דברים חסרי תועלת.",
+      "text_en": "Did you know? Proverbs 28 contrasts the person who works the land and has plenty of bread with the person who pursues worthless things and ends up with poverty. The verse commends useful, sustained work and warns against chasing things of no value."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? איש האמונה מתואר כמי שרב ברכות, ואילו האדם האץ להתעשר אינו נקי מאשמה. הפסוק מעדיף נאמנות והתמדה על פני התעשרות חפוזה.",
+      "text_he": "הידעת? איש האמונה מתואר כמי שרב ברכות, ואילו האדם האץ להתעשר אינו נקי מאשמה. הפסוק מעדיף נאמנות והתמדה על פני התעשרות חפוזה.",
+      "text_en": "Did you know? A faithful person is described as receiving abundant blessings, while the one who hastens to become rich will not go unpunished. The verse favors faithfulness and perseverance over hurried enrichment."
+    },
+    {
+      "verse": 27,
+      "text": "הידעת? הפסוק מחבר בין נתינה לעני לבין היעדר מחסור, ובין העלמת עיניים מן העני לבין ריבוי מאֵרות. הוא מציג את היחס לחלש כמבחן מוסרי בעל השלכות חברתיות.",
+      "text_he": "הידעת? הפסוק מחבר בין נתינה לעני לבין היעדר מחסור, ובין העלמת עיניים מן העני לבין ריבוי מאֵרות. הוא מציג את היחס לחלש כמבחן מוסרי בעל השלכות חברתיות.",
+      "text_en": "Did you know? The verse connects giving to the poor with having no lack, and turning one's eyes away from the poor with receiving many curses. It presents one's treatment of the vulnerable as a moral test with social consequences."
+    }
+  ]
+}

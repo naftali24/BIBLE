@@ -1,0 +1,498 @@
+{
+  "book": "Proverbs",
+  "book_he": "משלי",
+  "book_chapters": 31,
+  "chapter": 7,
+  "title": "משלי פרק 7",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2807.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2807.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/PRO/7-e615dc1ff2aaa09ca89725a0f95f4da4.mp3?version_id=1",
+  "verses": [
+    "בְּנִי, שְׁמֹר אֲמָרָי; וּמִצְוֺתַי, תִּצְפֹּן אִתָּךְ.",
+    "שְׁמֹר מִצְוֺתַי וֶחְיֵה; וְתוֹרָתִי, כְּאִישׁוֹן עֵינֶיךָ.",
+    "קָשְׁרֵם עַל-אֶצְבְּעֹתֶיךָ; כָּתְבֵם, עַל-לוּחַ לִבֶּךָ.",
+    "אֱמֹר לַחָכְמָה, אֲחֹתִי אָתְּ; וּמֹדָע, לַבִּינָה תִקְרָא.",
+    "לִשְׁמָרְךָ, מֵאִשָּׁה זָרָה; מִנָּכְרִיָּה, אֲמָרֶיהָ הֶחֱלִיקָה.",
+    "כִּי, בְּחַלּוֹן בֵּיתִי-- בְּעַד אֶשְׁנַבִּי נִשְׁקָפְתִּי.",
+    "וָאֵרֶא בַפְּתָאיִם, אָבִינָה בַבָּנִים-- נַעַר חֲסַר-לֵב.",
+    "עֹבֵר בַּשּׁוּק, אֵצֶל פִּנָּהּ; וְדֶרֶךְ בֵּיתָהּ יִצְעָד.",
+    "בְּנֶשֶׁף-בְּעֶרֶב יוֹם; בְּאִישׁוֹן לַיְלָה, וַאֲפֵלָה.",
+    "וְהִנֵּה אִשָּׁה, לִקְרָאתוֹ; שִׁית זוֹנָה, וּנְצֻרַת לֵב.",
+    "הֹמִיָּה הִיא וְסֹרָרֶת; בְּבֵיתָהּ, לֹא-יִשְׁכְּנוּ רַגְלֶיהָ.",
+    "פַּעַם, בַּחוּץ--פַּעַם בָּרְחֹבוֹת; וְאֵצֶל כָּל-פִּנָּה תֶאֱרֹב.",
+    "וְהֶחֱזִיקָה בּוֹ, וְנָשְׁקָה לּוֹ; הֵעֵזָה פָנֶיהָ, וַתֹּאמַר לוֹ.",
+    "זִבְחֵי שְׁלָמִים עָלָי; הַיּוֹם, שִׁלַּמְתִּי נְדָרָי.",
+    "עַל-כֵּן, יָצָאתִי לִקְרָאתֶךָ; לְשַׁחֵר פָּנֶיךָ, וָאֶמְצָאֶךָּ.",
+    "מַרְבַדִּים, רָבַדְתִּי עַרְשִׂי; חֲטֻבוֹת, אֵטוּן מִצְרָיִם.",
+    "נַפְתִּי מִשְׁכָּבִי-- מֹר אֲהָלִים, וְקִנָּמוֹן.",
+    "לְכָה נִרְוֶה דֹדִים, עַד-הַבֹּקֶר; נִתְעַלְּסָה, בָּאֳהָבִים.",
+    "כִּי אֵין הָאִישׁ בְּבֵיתוֹ; הָלַךְ, בְּדֶרֶךְ מֵרָחוֹק.",
+    "צְרוֹר-הַכֶּסֶף, לָקַח בְּיָדוֹ; לְיוֹם הַכֵּסֶא, יָבֹא בֵיתוֹ.",
+    "הִטַּתּוּ, בְּרֹב לִקְחָהּ; בְּחֵלֶק שְׂפָתֶיהָ, תַּדִּיחֶנּוּ.",
+    "הוֹלֵךְ אַחֲרֶיהָ, פִּתְאֹם: כְּשׁוֹר, אֶל-טֶבַח יָבֹא; וּכְעֶכֶס, אֶל-מוּסַר אֱוִיל.",
+    "עַד יְפַלַּח חֵץ, כְּבֵדוֹ-- כְּמַהֵר צִפּוֹר אֶל-פָּח; וְלֹא-יָדַע, כִּי-בְנַפְשׁוֹ הוּא.",
+    "וְעַתָּה בָנִים, שִׁמְעוּ-לִי; וְהַקְשִׁיבוּ, לְאִמְרֵי-פִי.",
+    "אַל-יֵשְׂטְ אֶל-דְּרָכֶיהָ לִבֶּךָ; אַל-תֵּתַע, בִּנְתִיבוֹתֶיהָ.",
+    "כִּי-רַבִּים חֲלָלִים הִפִּילָה; וַעֲצֻמִים, כָּל-הֲרֻגֶיהָ.",
+    "דַּרְכֵי שְׁאוֹל בֵּיתָהּ; יֹרְדוֹת, אֶל-חַדְרֵי-מָוֶת."
+  ],
+  "english": [
+    "My son, keep my words, and lay up my commandments with thee.",
+    "Keep my commandments, and live; and my law as the apple of thine eye.",
+    "Bind them upon thy fingers, write them upon the table of thine heart.",
+    "Say unto wisdom, Thou\nart my sister; and call understanding\nthy kinswoman:",
+    "That they may keep thee from the strange woman, from the stranger\nwhich flattereth with her words.",
+    "For at the window of my house I looked through my casement,",
+    "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
+    "Passing through the street near her corner; and he went the way to her house,",
+    "In the twilight, in the evening, in the black and dark night:",
+    "And, behold, there met him a woman\nwith the attire of an harlot, and subtil of heart.",
+    "(She\nis loud and stubborn; her feet abide not in her house:",
+    "Now\nis she without, now in the streets, and lieth in wait at every corner.)",
+    "So she caught him, and kissed him,\nand with an impudent face said unto him,",
+    "I have peace offerings with me; this day have I payed my vows.",
+    "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.",
+    "I have decked my bed with coverings of tapestry, with carved\nworks,\n with fine linen of Egypt.",
+    "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+    "Come, let us take our fill of love until the morning: let us solace ourselves with loves.",
+    "For the goodman\nis not at home, he is gone a long journey:",
+    "He hath taken a bag of money with him,\nand will come home at the day appointed.",
+    "With her much fair speech she caused him to yield, with the flattering of her lips she forced him.",
+    "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
+    "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it\nis for his life.",
+    "Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
+    "Let not thine heart decline to her ways, go not astray in her paths.",
+    "For she hath cast down many wounded: yea, many strong\nmen\n have been slain by her.",
+    "Her house\nis the way to hell, going down to the chambers of death."
+  ],
+  "steinsaltz": [
+    "ושוב – בְּנִי, שְׁמֹר אֲמָרָי, דברי, וּמִצְוֹתַי תִּצְפֹּן אִתָּךְ.",
+    "שְׁמֹר מִצְוֹתַי ובכך תחְיֵה, וְתוֹרָתִי תהיה שמורה כְּאִישׁוֹן עֵינֶיךָ. שמירה תמידית ורפלקסיבית, כפי שהעפעפיים שומרים על האבר הרגיש והפגיע ביותר.",
+    "קָשְׁרֵם – את דברי עַל־אֶצְבְּעֹתֶיךָ, כשם שקושרים לאצבע תכשיט, חותמת או סימן לתזכורת; כָּתְבֵם עַל־לוּחַ לִבֶּךָ.",
+    "אֱמֹר לַחָכְמָה: אֲחֹתִי אָתְּ. היה קשור לחכמה ביחסי אחווה, ידידות, קרבה ואהבה; וּמֹדָע לַבִּינָה תִקְרָא. הבינה תהיה לך כמו מַכָּר.",
+    "תמצית הדברים, המוזכרים קודם ובהמשך – לִשְׁמָרְךָ מֵאִשָּׁה זָרָה, מִנָּכְרִיָּה שאת אֲמָרֶיהָ הֶחֱלִיקָה, המדברת דברי חלקות.",
+    "בעיית הצעיר, כפשוטה וכמדרשה, מומחשת על ידי האב-המחנך המתבונן על הצעיר הנמשך אחר אשה נשואה פתיינית, ואינו מודע לנזק שהוא מביא על עצמו: כִּי בְּחַלּוֹן בֵּיתִי, בְּעַד, דרך אֶשְׁנַבִּי – אולי חלון עם שבכה, נִשְׁקָפְתִּי.",
+    "וָאֵרֶא בַפְּתָאיִם, הסתכלתי בחבורת קלי-דעת, אָבִינָה, אני מבחין בַבָּנִים בנַעַר חֲסַר־לֵב, שאינו נבון ביותר.",
+    "עֹבֵר הצעיר בַּשּׁוּק אֵצֶל פִּנָּהּ שבה הזרה יושבת, וְדֶרֶךְ בֵּיתָהּ יִצְעָד.",
+    "כל זה קורה בְּנֶשֶׁף – בְּעֶרֶב, בערוב היוֹם, בְּאִישׁוֹן לַיְלָה וַאֲפֵלָה, כשהנער נפרד מחבריו והולך לדרכו או חוזר הביתה.",
+    "וְהִנֵּה אִשָּׁה מופיעה לִקְרָאתוֹ, שִׁית, לבושה ונוהגת כמו זוֹנָה וּנְצֻרַת לֵב. אין בלבה פקפוקים וייסורי מצפון. היא בטוחה בעצמה ואינה מהססת.",
+    "הֹמִיָּה, רוגשת וסוערת הִיא וְסֹרָרֶת, מרדנית ופורקת עול, בְּבֵיתָהּ לֹא־יִשְׁכְּנוּ רַגְלֶיהָ. היא יוצאת תמיד מהבית.",
+    "פַּעַם הולכת בַּחוּץ, פַּעַם בָּרְחֹבוֹת, בכיכרות, וְאֵצֶל כָּל־פִּנָּה תֶאֱרֹב. מחפשת הרפתקאות בכל מקום.",
+    "כאשר היא רואה שמגיע קרבן, וְהֶחֱזִיקָה בּוֹ – בנער התמים, וְנָשְׁקָה לּוֹ, הֵעֵזָה פָנֶיהָ ללא בושה, וַתֹּאמַר לוֹ׃",
+    "זִבְחֵי שְׁלָמִים היו חובה עָלָי בנדר, ובדיוק הַיּוֹם שִׁלַּמְתִּי נְדָרָי. ראשית, היא מרמזת לו שביתה מלא כל טוב, ושנית, בעקבות תשלום הנדרים היא מקווה שיבואו לה שפע וברכה.",
+    "עַל־כֵּן יָצָאתִי לִקְרָאתֶךָ, לְשַׁחֵר פָּנֶיךָ, לפגוש אותך, וָאֶמְצָאֶךָּ, אכן מצאתי אותך.",
+    "מַרְבַדִּים, מצעים, כיסויי מיטה רָבַדְתִּי עַרְשִׂי, מיטתי, השמיכות חֲטֻבוֹת, נאות בגזרתן ומתואמות באֵטוּן, פשתן מעולה של מִצְרָיִם, שהוא יפה ומהודר.",
+    "נַפְתִּי, בישמתי את מִשְׁכָּבִי במֹר, אֲהָלִים םוְקִנָּמוֹן – מיני בשמים. וכעת מגיעה ההצעה, שהיא הזמנה מאוד גלויה, פשוטה וחד-משמעית:",
+    "לְכָה נִרְוֶה דֹדִים, תענוגות אהבה עַד־הַבֹּקֶר. בוא ובלה אצלי את הלילה; נִתְעַלְּסָה בָּאֳהָבִים.",
+    "כִּי אם אתה חושש לבעלי, אֵין הָאִישׁ בְּבֵיתוֹ, הָלַךְ בְּדֶרֶךְ מֵרָחוֹק, רחוקה.",
+    "את צְרוֹר־הַכֶּסֶף לָקַח בְּיָדוֹ, הוא יצא לעסקיו, ורק לְיוֹם הַכֶּסֶא, לזמן שנקבע מראש יָבֹא חזרה לבֵיתוֹ, ובינתיים יש לי ולך פנאי, ואיש לא יפריע לנו.",
+    "הִטַּתּוּ, היא מטה את הנער בְּרֹב לִקְחָהּ, דיבורה, בְּחֵלֶק שְׂפָתֶיהָ, בשפתה החלקלקה תַּדִּיחֶנּוּ, היא מסיטה אותו מן הדרך. היא מסבירה לו כמה טוב יהיה לו, וכיצד הכול מוכן, מסודר ובטוח.",
+    "והוא הוֹלֵךְ אַחֲרֶיהָ פִּתְאֹם, לא מוּדע, מפותה כְּשׁוֹר אֶל־טֶבַח יָבֹא, מובל לשחיטה, וּכְעֶכֶס, כנחש הנע בביטחון אֶל־מוּסַר אֱוִיל, לייסר את חסר הדעת, שיינשך ללא ספק.",
+    "עַד אשר יְפַלַּח חֵץ את כְּבֵדוֹ. הפתי הצעיר ממהר כְּמַהֵר צִפּוֹר אֶל־פָּח, כמו ציפור שממהרת אל המלכודת, וְלֹא־יָדַע כִּי־בְנַפְשׁוֹ הוּא, בלי לדעת שהמעשה הזה יעלה לו בחייו.",
+    "וְעַתָּה, בָנִים, שִׁמְעוּ־לִי, וְהַקְשִׁיבוּ לְאִמְרֵי־פִי:",
+    "כל אחד ואחד מכם, אַל־יֵשְׂטְ, יסטה אֶל־דְּרָכֶיהָ של האשה הזו לִבֶּךָ, אַל־תֵּתַע, תיכשל בִּנְתִיבוֹתֶיהָ, בכיוון שהיא מציעה.",
+    "לאמתו של דבר, אינך הראשון, ולא תהיה האחרון – כִּי־רַבִּים חֲלָלִים הִפִּילָה, וַעֲצֻמִים כָּל־הֲרֻגֶיהָ. היא אינה חדלה לקטול גברים כך או אחרת. היא מפתה אותם, ולאחר מכן משליכה אותם.",
+    "דַּרְכֵי שְׁאוֹל הן הדרכים ההולכות אל בֵּיתָהּ, והן יֹרְדוֹת אֶל־חַדְרֵי־מָוֶת. אולי פיתויה של האשה המקושטת והמרשימה המבטיחה לך אהבה יהיה גדול, אולם בסופו של דבר אתה תרד לשאול – צרות וייסורים, כאבי לב ומצפון, הפסדים, עונשים ונקמות. כאמור, כשם שהעצות הללו נכונות בנוגע לאשה מופקרת, כך הן מועילות ביחס לחכמה רעה. גם חכמה של כפירה היא חכמה. היא יפה ומפתה כמו חכמת התורה, אך למעשה היא יוצרת תרבות-נגד, ובסופו של דבר 'רגליה יורדות מוות'."
+  ],
+  "ai_explanation": [
+    "האב פונה אל בנו ומבקש ממנו לשמור את דבריו ואת מצוותיו, כלומר להצפין אותם בקרבו.",
+    "שמירת המצוות מביאה לחיים, והתורה צריכה להיות שמורה תמיד, כמו אישון העין שהעפעפיים מגינים עליו באופן טבעי ורפלקסיבי.",
+    "יש לקשור את דברי החכמה על האצבעות כאמצעי תזכורת, ולכתוב אותם על לוח הלב כדי שיהיו חקוקים בתודעה.",
+    "יש ליצור עם החכמה יחסי אחווה, ידידות, קרבה ואהבה, ולהתייחס לבינה כמו אל מכר קרוב.",
+    "מטרת ההוראות היא לשמור על האדם מפני אישה זרה ונוכרייה, המדברת דברי חלקות.",
+    "האב-המחנך מתבונן מן החלון, דרך האשנב, בצעיר הנמשך אחר אישה נשואה פתיינית ואינו מודע לנזק שהוא גורם לעצמו.",
+    "הוא רואה בין קלי הדעת נער חסר לב, כלומר צעיר שאינו נבון דיו ואינו מבין את הסכנה.",
+    "הנער עובר בשוק ליד הפינה שבה האישה יושבת, ופוסע בדרך המובילה אל ביתה.",
+    "האירוע מתרחש בערב, עם הסתלקות היום, בלילה ובאפלה, כאשר הנער נפרד מחבריו או חוזר לביתו.",
+    "האישה יוצאת לקראתו כשהיא לבושה ונוהגת כזונה, ונצורת לב: בטוחה בעצמה, ללא היסוס, פקפוק או ייסורי מצפון.",
+    "היא רוגשת, סוערת, מרדנית ופורקת עול; רגליה אינן שוכנות בביתה, והיא נמצאת תמיד בחוץ.",
+    "היא עוברת פעם בחוץ ופעם ברחובות, ואורבת ליד כל פינה בחיפוש אחר הרפתקאות.",
+    "כשהיא מזהה קורבן, היא אוחזת בו, מנשקת אותו ומעזה לדבר אליו ללא בושה.",
+    "היא מספרת שזבחי השלמים היו חובה שהוטלה עליה ושבדיוק היום שילמה את נדריה. בכך היא רומזת שביתה מלא כל טוב ושבעקבות הנדרים תזכה לשפע ולברכה.",
+    "היא טוענת שיצאה לקראתו כדי לפגוש אותו, ומציגה את מציאתו כהגשמת מטרתה.",
+    "היא מתארת מיטה ערוכה במצעים ובכיסויים נאים, העשויים מפשתן מצרי מעולה ומהודר.",
+    "היא מספרת שבישמה את מיטתה במור, באהלים ובקינמון, וכך מכינה את הקרקע להזמנה גלויה.",
+    "היא מזמינה אותו לבלות איתה את הלילה בתענוגות אהבה.",
+    "היא מרגיעה אותו שאם הוא חושש מבעלה, הרי שהאיש אינו בבית והוא נסע למקום רחוק.",
+    "היא מוסיפה שבעלה לקח את צרור הכסף ויחזור רק במועד שנקבע מראש, ולכן יש להם זמן ואין מי שיפריע להם.",
+    "בדיבור משכנע ובשפתיים חלקלקות היא מטה את הנער מן הדרך, מסבירה לו שהכול מוכן, בטוח ונוח.",
+    "הנער הולך אחריה בלי להיות מודע לסכנה, כמו שור המובל לשחיטה וכמו נחש המתקדם בביטחון אל העונש הצפוי לו.",
+    "הוא ממשיך עד שהחץ מפלח את כבדו, וממהר אל המלכודת כמו ציפור, בלי לדעת שהמעשה מסכן את נפשו.",
+    "לאחר תיאור הסכנה האב חוזר לפנות אל בניו, ומבקש מהם לשמוע ולהקשיב לאמרי פיו.",
+    "הוא מזהיר אותם שלא יסטו בלבם אל דרכי האישה ולא ייכשלו בנתיבות שהיא מציעה.",
+    "רבים כבר נפלו קורבן לה, ואנשים רבים וחזקים נהרגו או הושלכו לאחר שפיתתה אותם.",
+    "דרכי ביתה מובילות אל השאול ואל חדרי המוות. הפיתוי עשוי להבטיח אהבה, אך סופו צרות, ייסורים, כאבי לב ומצפון, הפסדים, עונשים ונקמות; הדברים מתאימים גם לחכמה רעה ולכפירה, המפתות כמו חכמת התורה אך מובילות בסופו של דבר למוות."
+  ],
+  "ai_explanation_en": [
+    "The father addresses his son and asks him to guard his words and commandments by storing them within himself.",
+    "Keeping the commandments brings life, and the Torah should be guarded constantly, like the pupil of the eye protected naturally and reflexively by the eyelids.",
+    "The words of wisdom should be tied onto the fingers as a reminder and written on the tablet of the heart so that they are engraved in one's consciousness.",
+    "One should form a relationship of brotherhood, friendship, closeness, and love with wisdom, and treat understanding like a close acquaintance.",
+    "The purpose of these instructions is to protect a person from a strange woman and a foreign woman who speaks flattering words.",
+    "The father-educator looks through the window, through the lattice, at a young man attracted to a seductive married woman and unaware of the harm he is bringing upon himself.",
+    "He sees among the foolish a senseless young man, meaning someone not wise enough to recognize the danger.",
+    "The young man passes through the market near the corner where the woman sits and walks along the road leading to her house.",
+    "This takes place at evening, as the day fades, at night and in darkness, when the young man has left his companions or is returning home.",
+    "The woman comes toward him dressed and behaving like a prostitute, and she is brazen-hearted: self-assured and free of hesitation, doubt, or remorse.",
+    "She is restless, turbulent, rebellious, and free of restraint; her feet do not remain at home, and she is always outside.",
+    "She moves sometimes outside and sometimes in the streets, waiting near every corner in search of adventures.",
+    "When she recognizes a victim, she grabs him, kisses him, and boldly speaks to him without shame.",
+    "She says that peace offerings were required of her by a vow and that she has paid her vows that very day. In this way, she hints that her house is full of good things and that the vows will bring her abundance and blessing.",
+    "She claims that she went out to meet him and presents finding him as the fulfillment of her purpose.",
+    "She describes a bed prepared with attractive coverings and fine, elegant Egyptian linen.",
+    "She says that she has perfumed her bed with myrrh, aloes, and cinnamon, preparing the setting for an explicit invitation.",
+    "She invites him to spend the night with her in the pleasures of love.",
+    "She reassures him that if he is worried about her husband, the man is not at home and has gone to a distant place.",
+    "She adds that her husband took a money pouch and will return only at the appointed time, so they have time and no one will disturb them.",
+    "With persuasive speech and smooth lips, she turns the young man away from the right path, telling him that everything is prepared, safe, and convenient.",
+    "The young man follows her without recognizing the danger, like an ox led to slaughter and like a snake moving confidently toward the punishment awaiting it.",
+    "He continues until an arrow pierces his liver, hurrying into the trap like a bird, without knowing that the deed endangers his life.",
+    "After describing the danger, the father again addresses his sons and asks them to listen and pay attention to his words.",
+    "He warns them not to let their hearts turn toward the woman's ways or to stumble along the paths she offers.",
+    "Many have already fallen victim to her, and numerous strong men have been killed or cast aside after she seduced them.",
+    "The paths to her house lead to Sheol and the chambers of death. The temptation may promise love, but its end is trouble, suffering, pangs of heart and conscience, losses, punishments, and vengeance; the warning also applies to evil or heretical wisdom, which may entice like Torah wisdom but ultimately leads to death."
+  ],
+  "perush": [
+    "האב פונה אל בנו ומבקש ממנו לשמור את דבריו ואת מצוותיו, כלומר להצפין אותם בקרבו.",
+    "שמירת המצוות מביאה לחיים, והתורה צריכה להיות שמורה תמיד, כמו אישון העין שהעפעפיים מגינים עליו באופן טבעי ורפלקסיבי.",
+    "יש לקשור את דברי החכמה על האצבעות כאמצעי תזכורת, ולכתוב אותם על לוח הלב כדי שיהיו חקוקים בתודעה.",
+    "יש ליצור עם החכמה יחסי אחווה, ידידות, קרבה ואהבה, ולהתייחס לבינה כמו אל מכר קרוב.",
+    "מטרת ההוראות היא לשמור על האדם מפני אישה זרה ונוכרייה, המדברת דברי חלקות.",
+    "האב-המחנך מתבונן מן החלון, דרך האשנב, בצעיר הנמשך אחר אישה נשואה פתיינית ואינו מודע לנזק שהוא גורם לעצמו.",
+    "הוא רואה בין קלי הדעת נער חסר לב, כלומר צעיר שאינו נבון דיו ואינו מבין את הסכנה.",
+    "הנער עובר בשוק ליד הפינה שבה האישה יושבת, ופוסע בדרך המובילה אל ביתה.",
+    "האירוע מתרחש בערב, עם הסתלקות היום, בלילה ובאפלה, כאשר הנער נפרד מחבריו או חוזר לביתו.",
+    "האישה יוצאת לקראתו כשהיא לבושה ונוהגת כזונה, ונצורת לב: בטוחה בעצמה, ללא היסוס, פקפוק או ייסורי מצפון.",
+    "היא רוגשת, סוערת, מרדנית ופורקת עול; רגליה אינן שוכנות בביתה, והיא נמצאת תמיד בחוץ.",
+    "היא עוברת פעם בחוץ ופעם ברחובות, ואורבת ליד כל פינה בחיפוש אחר הרפתקאות.",
+    "כשהיא מזהה קורבן, היא אוחזת בו, מנשקת אותו ומעזה לדבר אליו ללא בושה.",
+    "היא מספרת שזבחי השלמים היו חובה שהוטלה עליה ושבדיוק היום שילמה את נדריה. בכך היא רומזת שביתה מלא כל טוב ושבעקבות הנדרים תזכה לשפע ולברכה.",
+    "היא טוענת שיצאה לקראתו כדי לפגוש אותו, ומציגה את מציאתו כהגשמת מטרתה.",
+    "היא מתארת מיטה ערוכה במצעים ובכיסויים נאים, העשויים מפשתן מצרי מעולה ומהודר.",
+    "היא מספרת שבישמה את מיטתה במור, באהלים ובקינמון, וכך מכינה את הקרקע להזמנה גלויה.",
+    "היא מזמינה אותו לבלות איתה את הלילה בתענוגות אהבה.",
+    "היא מרגיעה אותו שאם הוא חושש מבעלה, הרי שהאיש אינו בבית והוא נסע למקום רחוק.",
+    "היא מוסיפה שבעלה לקח את צרור הכסף ויחזור רק במועד שנקבע מראש, ולכן יש להם זמן ואין מי שיפריע להם.",
+    "בדיבור משכנע ובשפתיים חלקלקות היא מטה את הנער מן הדרך, מסבירה לו שהכול מוכן, בטוח ונוח.",
+    "הנער הולך אחריה בלי להיות מודע לסכנה, כמו שור המובל לשחיטה וכמו נחש המתקדם בביטחון אל העונש הצפוי לו.",
+    "הוא ממשיך עד שהחץ מפלח את כבדו, וממהר אל המלכודת כמו ציפור, בלי לדעת שהמעשה מסכן את נפשו.",
+    "לאחר תיאור הסכנה האב חוזר לפנות אל בניו, ומבקש מהם לשמוע ולהקשיב לאמרי פיו.",
+    "הוא מזהיר אותם שלא יסטו בלבם אל דרכי האישה ולא ייכשלו בנתיבות שהיא מציעה.",
+    "רבים כבר נפלו קורבן לה, ואנשים רבים וחזקים נהרגו או הושלכו לאחר שפיתתה אותם.",
+    "דרכי ביתה מובילות אל השאול ואל חדרי המוות. הפיתוי עשוי להבטיח אהבה, אך סופו צרות, ייסורים, כאבי לב ומצפון, הפסדים, עונשים ונקמות; הדברים מתאימים גם לחכמה רעה ולכפירה, המפתות כמו חכמת התורה אך מובילות בסופו של דבר למוות."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "שמירת החכמה והמצוות",
+      "title_en": "Guarding Wisdom and the Commandments",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "האב מצווה על בנו לשמור את דבריו, את המצוות, את התורה, את החכמה ואת הבינה, כדי להישמר מפני האישה הזרה ודברי החלקות שלה.",
+      "summary_en": "The father instructs his son to guard his words, the commandments, the Torah, wisdom, and understanding in order to be protected from the strange woman and her flattering speech.",
+      "image_prompt": "A father teaching a young student beside an open scroll, with symbolic ribbons around fingers and writing on a glowing heart, warm instructional atmosphere, no text"
+    },
+    {
+      "title": "הנער והאישה האורבת",
+      "title_en": "The Young Man and the Waiting Woman",
+      "start_verse": 6,
+      "end_verse": 12,
+      "summary": "האב מתבונן בנער חסר לב ההולך בשעת ערב אל בית האישה, ומתאר את אופייה הסוער ואת מנהגה לארוב ברחובות ובפינות.",
+      "summary_en": "The father observes a senseless young man walking toward the woman's house at evening and describes her turbulent character and habit of waiting in streets and at corners.",
+      "image_prompt": "A dim evening market street seen from behind a window lattice, a naive young man approaching a corner while a restless woman waits nearby, symbolic and non-graphic"
+    },
+    {
+      "title": "הפיתוי וההזמנה",
+      "title_en": "The Seduction and the Invitation",
+      "start_verse": 13,
+      "end_verse": 20,
+      "summary": "האישה פונה אל הנער ללא בושה, מציגה את ביתה כמקום עשיר, נעים ובטוח, ומזמינה אותו לבלות איתה בלילה תוך הרגעתו שבעלה רחוק.",
+      "summary_en": "The woman boldly approaches the young man, presents her home as rich, pleasant, and safe, and invites him to spend the night with her while reassuring him that her husband is away.",
+      "image_prompt": "An elegantly prepared bedroom with fine linens, perfume vessels, and dim lamplight, while a persuasive woman gestures toward it and a hesitant young man listens, no explicit content"
+    },
+    {
+      "title": "ההיסחפות אל המלכודת",
+      "title_en": "Being Drawn into the Trap",
+      "start_verse": 21,
+      "end_verse": 23,
+      "summary": "בדיבור חלקלק האישה מסיטה את הנער מן הדרך, והוא הולך אחריה בלי להבין שהוא דומה לשור לשחיטה או לציפור הממהרת אל הפח.",
+      "summary_en": "Through smooth speech the woman turns the young man from the right path, and he follows her without realizing that he is like an ox led to slaughter or a bird rushing into a snare.",
+      "image_prompt": "A symbolic young man walking toward a concealed snare, with visual motifs of an ox, a bird trap, and a distant arrow, dark cautionary mood, non-graphic"
+    },
+    {
+      "title": "אזהרה מפני הדרך המובילה למוות",
+      "title_en": "Warning Against the Path to Death",
+      "start_verse": 24,
+      "end_verse": 27,
+      "summary": "האב מסכם את אזהרתו: אין לסטות אל דרכי האישה, שרבים כבר נפלו בגללה, משום שדרכי ביתה מובילות לשאול ולחדרי המוות. האזהרה מורחבת גם לחכמה רעה ולכפירה המפתות אך מובילות למוות.",
+      "summary_en": "The father concludes his warning: one must not turn toward the woman's ways, since many have already fallen because of her, and the paths to her house lead to Sheol and the chambers of death. The warning is also extended to evil or heretical wisdom, which entices but leads to death.",
+      "image_prompt": "Several diverging paths in a dark landscape, one leading from a seductive house toward a shadowy descent, with a smaller bright path representing wisdom and restraint, solemn symbolic style"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 8.34,
+      "usfm": "PRO.7.1"
+    },
+    {
+      "start": 8.34,
+      "end": 13.4,
+      "usfm": "PRO.7.2"
+    },
+    {
+      "start": 13.4,
+      "end": 18.64,
+      "usfm": "PRO.7.3"
+    },
+    {
+      "start": 18.64,
+      "end": 25.9,
+      "usfm": "PRO.7.4"
+    },
+    {
+      "start": 25.9,
+      "end": 31.82,
+      "usfm": "PRO.7.5"
+    },
+    {
+      "start": 31.82,
+      "end": 34.64,
+      "usfm": "PRO.7.6"
+    },
+    {
+      "start": 34.64,
+      "end": 41.1,
+      "usfm": "PRO.7.7"
+    },
+    {
+      "start": 41.1,
+      "end": 46.92,
+      "usfm": "PRO.7.8"
+    },
+    {
+      "start": 46.92,
+      "end": 50.36,
+      "usfm": "PRO.7.9"
+    },
+    {
+      "start": 50.36,
+      "end": 57.08,
+      "usfm": "PRO.7.10"
+    },
+    {
+      "start": 57.08,
+      "end": 61.74,
+      "usfm": "PRO.7.11"
+    },
+    {
+      "start": 61.74,
+      "end": 67.02,
+      "usfm": "PRO.7.12"
+    },
+    {
+      "start": 67.02,
+      "end": 73.6,
+      "usfm": "PRO.7.13"
+    },
+    {
+      "start": 73.6,
+      "end": 79.26,
+      "usfm": "PRO.7.14"
+    },
+    {
+      "start": 79.26,
+      "end": 86.4,
+      "usfm": "PRO.7.15"
+    },
+    {
+      "start": 86.4,
+      "end": 93.8,
+      "usfm": "PRO.7.16"
+    },
+    {
+      "start": 93.8,
+      "end": 98.38,
+      "usfm": "PRO.7.17"
+    },
+    {
+      "start": 98.38,
+      "end": 107.84,
+      "usfm": "PRO.7.18"
+    },
+    {
+      "start": 107.84,
+      "end": 112.6,
+      "usfm": "PRO.7.19"
+    },
+    {
+      "start": 112.6,
+      "end": 117.6,
+      "usfm": "PRO.7.20"
+    },
+    {
+      "start": 117.6,
+      "end": 126.12,
+      "usfm": "PRO.7.21"
+    },
+    {
+      "start": 126.12,
+      "end": 135.12,
+      "usfm": "PRO.7.22"
+    },
+    {
+      "start": 135.12,
+      "end": 145.72,
+      "usfm": "PRO.7.23"
+    },
+    {
+      "start": 145.72,
+      "end": 152.06,
+      "usfm": "PRO.7.24"
+    },
+    {
+      "start": 152.06,
+      "end": 159.26,
+      "usfm": "PRO.7.25"
+    },
+    {
+      "start": 159.26,
+      "end": 166.08,
+      "usfm": "PRO.7.26"
+    },
+    {
+      "start": 166.08,
+      "end": 181.0,
+      "usfm": "PRO.7.27"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    8.34,
+    13.4,
+    18.64,
+    25.9,
+    31.82,
+    34.64,
+    41.1,
+    46.92,
+    50.36,
+    57.08,
+    61.74,
+    67.02,
+    73.6,
+    79.26,
+    86.4,
+    93.8,
+    98.38,
+    107.84,
+    112.6,
+    117.6,
+    126.12,
+    135.12,
+    145.72,
+    152.06,
+    159.26,
+    166.08,
+    181.0
+  ],
+  "times_en_usfm": [
+    "PRO.7.1",
+    "PRO.7.2",
+    "PRO.7.3",
+    "PRO.7.4",
+    "PRO.7.5",
+    "PRO.7.6",
+    "PRO.7.7",
+    "PRO.7.8",
+    "PRO.7.9",
+    "PRO.7.10",
+    "PRO.7.11",
+    "PRO.7.12",
+    "PRO.7.13",
+    "PRO.7.14",
+    "PRO.7.15",
+    "PRO.7.16",
+    "PRO.7.17",
+    "PRO.7.18",
+    "PRO.7.19",
+    "PRO.7.20",
+    "PRO.7.21",
+    "PRO.7.22",
+    "PRO.7.23",
+    "PRO.7.24",
+    "PRO.7.25",
+    "PRO.7.26",
+    "PRO.7.27"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הפרק נפתח בציווי לשמור את אמרי האב ואת המצוות, ומציג את ההקשבה והציות כבסיס להגנה רוחנית ומוסרית.",
+      "text_he": "הפרק נפתח בציווי לשמור את אמרי האב ואת המצוות, ומציג את ההקשבה והציות כבסיס להגנה רוחנית ומוסרית.",
+      "text_en": "The chapter opens with a command to keep the father’s words and commandments, presenting listening and obedience as the foundation of spiritual and moral protection."
+    },
+    {
+      "verse": 2,
+      "text": "המצוות והתורה מתוארות כדבר שיש לשמור עליו כמו על אישון העין — דבר יקר ורגיש שיש להגן עליו במיוחד.",
+      "text_he": "המצוות והתורה מתוארות כדבר שיש לשמור עליו כמו על אישון העין — דבר יקר ורגיש שיש להגן עליו במיוחד.",
+      "text_en": "The commandments and teaching are described as something to guard like the pupil of the eye—something precious and delicate that requires special protection."
+    },
+    {
+      "verse": 3,
+      "text": "הביטויים \"קָשְׁרֵם עַל אֶצְבְּעֹתֶיךָ\" ו\"כָּתְבֵם עַל לוּחַ לִבֶּךָ\" מדגישים שלא די בשמיעה חיצונית; יש להפוך את החכמה לחלק קבוע מן האדם.",
+      "text_he": "הביטויים \"קָשְׁרֵם עַל אֶצְבְּעֹתֶיךָ\" ו\"כָּתְבֵם עַל לוּחַ לִבֶּךָ\" מדגישים שלא די בשמיעה חיצונית; יש להפוך את החכמה לחלק קבוע מן האדם.",
+      "text_en": "The expressions “Tie them to your fingers” and “Write them on the tablet of your heart” emphasize that it is not enough to hear outwardly; wisdom must become a lasting part of who you are."
+    },
+    {
+      "verse": 4,
+      "text": "החכמה והבינה מוצגות בדימויי קרבה משפחתית: \"אֲחֹתִי\" ו\"מֹדָע\". כך הפרק מעודד קשר קרוב ואישי עם החכמה.",
+      "text_he": "החכמה והבינה מוצגות בדימויי קרבה משפחתית: \"אֲחֹתִי\" ו\"מֹדָע\". כך הפרק מעודד קשר קרוב ואישי עם החכמה.",
+      "text_en": "Wisdom and understanding are presented through images of family closeness: “my sister” and “my intimate friend.” In this way, the chapter encourages a close and personal relationship with wisdom."
+    },
+    {
+      "verse": 6,
+      "text": "מכאן משתנה נקודת המבט: האב מספר שצפה מביתו בנעשה בחוץ, ומתאר את הסכנה דרך התבוננות בנער ההולך אל בית האישה.",
+      "text_he": "מכאן משתנה נקודת המבט: האב מספר שצפה מביתו בנעשה בחוץ, ומתאר את הסכנה דרך התבוננות בנער ההולך אל בית האישה.",
+      "text_en": "At this point, the perspective changes: the father says that he watched from his house what was happening outside and describes the danger by observing a young man going toward the woman’s house."
+    },
+    {
+      "verse": 10,
+      "text": "האישה מתוארת כ\"שִׁית זוֹנָה וּנְצֻרַת לֵב\"; תיאור זה מציג אותה כדמות הפועלת בפיתוי ובתחבולה, ולא כמי שמצויה בשקט בביתה.",
+      "text_he": "האישה מתוארת כ\"שִׁית זוֹנָה וּנְצֻרַת לֵב\"; תיאור זה מציג אותה כדמות הפועלת בפיתוי ובתחבולה, ולא כמי שמצויה בשקט בביתה.",
+      "text_en": "The woman is described as “dressed as a prostitute and crafty of heart.” This portrays her as someone who acts through seduction and deception, rather than as someone quietly remaining at home."
+    },
+    {
+      "verse": 14,
+      "text": "האישה משתמשת בשפה דתית כדי לפתות: היא מזכירה זבחי שלמים ונדרים ששילמה. בכך הפיתוי משלב בין מראה של מכובדות לבין הזמנה אסורה.",
+      "text_he": "האישה משתמשת בשפה דתית כדי לפתות: היא מזכירה זבחי שלמים ונדרים ששילמה. בכך הפיתוי משלב בין מראה של מכובדות לבין הזמנה אסורה.",
+      "text_en": "The woman uses religious language to seduce him: she mentions peace offerings and vows that she has paid. In this way, the temptation combines an appearance of respectability with a forbidden invitation."
+    },
+    {
+      "verse": 21,
+      "text": "הפרק מדגיש את כוחו של הדיבור המשכנע: \"בְּרֹב לִקְחָהּ\" וב\"חֵלֶק שְׂפָתֶיהָ\" היא מסיטה את הנער מן הדרך.",
+      "text_he": "הפרק מדגיש את כוחו של הדיבור המשכנע: \"בְּרֹב לִקְחָהּ\" וב\"חֵלֶק שְׂפָתֶיהָ\" היא מסיטה את הנער מן הדרך.",
+      "text_en": "The chapter emphasizes the power of persuasive speech: through “much seductive talk” and “the smoothness of her lips,” she leads the young man away from the right path."
+    },
+    {
+      "verse": 22,
+      "text": "הנער נמשל לשור המובל לטבח ולעוף הממהר אל הפח. שתי ההשוואות מדגישות שהוא מתקדם אל הסכנה בלי להבין את תוצאות מעשיו.",
+      "text_he": "הנער נמשל לשור המובל לטבח ולעוף הממהר אל הפח. שתי ההשוואות מדגישות שהוא מתקדם אל הסכנה בלי להבין את תוצאות מעשיו.",
+      "text_en": "The young man is compared to an ox led to the slaughter and a bird hurrying into a snare. Both comparisons emphasize that he is moving toward danger without understanding the consequences of his actions."
+    },
+    {
+      "verse": 27,
+      "text": "סיום הפרק מציב מסקנה חריפה: בית האישה מתואר כדרך היורדת אל שאול ואל חדרי מוות, ולכן האזהרה אינה רק מפני מעידה רגעית אלא מפני מסלול הרסני.",
+      "text_he": "סיום הפרק מציב מסקנה חריפה: בית האישה מתואר כדרך היורדת אל שאול ואל חדרי מוות, ולכן האזהרה אינה רק מפני מעידה רגעית אלא מפני מסלול הרסני.",
+      "text_en": "The chapter ends with a stark conclusion: the woman’s house is described as a road descending to Sheol and the chambers of death. The warning is therefore not merely against a momentary stumble, but against a destructive path."
+    }
+  ]
+}
