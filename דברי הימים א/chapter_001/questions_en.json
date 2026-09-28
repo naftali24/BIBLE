@@ -1,0 +1,832 @@
+{
+  "version": 1,
+  "book": "i_chronicles",
+  "book_name": "I Chronicles",
+  "chapter": 1,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 4,
+      "title": "From Adam to Noah’s Sons",
+      "easy": [
+        {
+          "answers": [
+            "Adam",
+            "Noah",
+            "Abraham"
+          ],
+          "correct": 0,
+          "explanation": "The list begins, “Adam, Sheth, Enosh.”",
+          "q": "Who appears at the beginning of the genealogy?"
+        },
+        {
+          "answers": [
+            "Enosh",
+            "Sheth",
+            "Noah"
+          ],
+          "correct": 1,
+          "explanation": "Adam begat Sheth, and Sheth’s line continued to Enosh.",
+          "q": "Who was Adam’s son according to the list?"
+        },
+        {
+          "answers": [
+            "Shem, Ham, and Japheth",
+            "Esau and Israel",
+            "Isaac and Ishmael"
+          ],
+          "correct": 0,
+          "explanation": "Verse 4 names Shem, Ham, and Japheth as Noah’s sons.",
+          "q": "Who were the sons of Noah?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Adam–Sheth–Enosh",
+            "Adam–Noah–Sheth",
+            "Sheth–Adam–Enosh"
+          ],
+          "correct": 0,
+          "explanation": "The genealogy begins with Adam, Sheth, and Enosh.",
+          "q": "Which sequence correctly gives the beginning of the genealogy?"
+        },
+        {
+          "answers": [
+            "Lamech",
+            "Methuselah",
+            "Japheth"
+          ],
+          "correct": 0,
+          "explanation": "Henoch, Methuselah, and Lamech appear before Noah.",
+          "q": "Who appears immediately before Noah in the list?"
+        },
+        {
+          "answers": [
+            "A family line",
+            "A list of battles",
+            "A list of cities"
+          ],
+          "correct": 0,
+          "explanation": "The verses give a succession of fathers, sons, and descendants.",
+          "q": "What does the genealogy mainly present?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "From Adam to Noah’s sons",
+            "From Isaac to the kings of Edom",
+            "From Japheth to the sons of Keturah"
+          ],
+          "correct": 0,
+          "explanation": "The passage starts with Adam and ends with Noah’s three sons.",
+          "q": "What family span is formed in these verses?"
+        },
+        {
+          "answers": [
+            "Shem",
+            "Ham",
+            "Enosh"
+          ],
+          "correct": 2,
+          "explanation": "Enosh appears earlier in the genealogy, not among Noah’s sons.",
+          "q": "Which name is not one of Noah’s sons?"
+        },
+        {
+          "answers": [
+            "A succession of generations",
+            "A list of kings",
+            "A list of cities"
+          ],
+          "correct": 0,
+          "explanation": "The names are arranged as a genealogical chain.",
+          "q": "What is emphasized by the presentation of the names?"
+        }
+      ],
+      "idea": 1
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 5,
+      "end_verse": 16,
+      "title": "The Descendants of Japheth and Ham",
+      "easy": [
+        {
+          "answers": [
+            "Japheth and Ham",
+            "Shem and Abraham",
+            "Isaac and Ishmael"
+          ],
+          "correct": 0,
+          "explanation": "The passage lists the descendants of Japheth and Ham.",
+          "q": "Which sons of Noah are considered in this passage?"
+        },
+        {
+          "answers": [
+            "Nimrod",
+            "Canaan",
+            "Mizraim"
+          ],
+          "correct": 0,
+          "explanation": "The text says, “Cush begat Nimrod: he began to be mighty upon the earth.”",
+          "q": "Who was begotten by Cush and became mighty upon the earth?"
+        },
+        {
+          "answers": [
+            "Ham",
+            "Zidon",
+            "Heth"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “Canaan begat Zidon his firstborn.”",
+          "q": "Who was Canaan’s firstborn?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Gomer",
+            "Cush",
+            "Canaan"
+          ],
+          "correct": 0,
+          "explanation": "Gomer is listed among Japheth’s sons.",
+          "q": "Which name belongs to the sons of Japheth?"
+        },
+        {
+          "answers": [
+            "Sheba and Dedan",
+            "Elishah and Tarshish",
+            "Ludim and Lehabim"
+          ],
+          "correct": 0,
+          "explanation": "The verse names Sheba and Dedan as the sons of Raamah.",
+          "q": "Who were the sons of Raamah?"
+        },
+        {
+          "answers": [
+            "His first son",
+            "His youngest son",
+            "His brother"
+          ],
+          "correct": 0,
+          "explanation": "A firstborn is the first child born.",
+          "q": "What does “firstborn” mean in the phrase “Zidon his firstborn”?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Cush–Nimrod",
+            "Japheth–Gomer",
+            "Shem–Arphaxad"
+          ],
+          "correct": 0,
+          "explanation": "Cush was a son of Ham, and Nimrod was begotten by Cush.",
+          "q": "Which chain belongs to the line of Ham?"
+        },
+        {
+          "answers": [
+            "The Philistines",
+            "The Canaanites",
+            "The Midianites"
+          ],
+          "correct": 0,
+          "explanation": "The passage says the Philistines came from the Casluhim.",
+          "q": "Which people came from the Casluhim?"
+        },
+        {
+          "answers": [
+            "The sons of Cush",
+            "The sons of Mizraim",
+            "The sons of Joktan"
+          ],
+          "correct": 2,
+          "explanation": "Joktan belongs to the line of Shem, not Ham.",
+          "q": "Which group does not belong to the descendants of Ham in this passage?"
+        }
+      ],
+      "idea": 2
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 17,
+      "end_verse": 23,
+      "title": "The Sons of Shem and the Line of Joktan",
+      "easy": [
+        {
+          "answers": [
+            "Arphaxad",
+            "Eber",
+            "Joktan"
+          ],
+          "correct": 0,
+          "explanation": "The text says, “Arphaxad begat Shelah.”",
+          "q": "Who was the father of Shelah?"
+        },
+        {
+          "answers": [
+            "Shelah",
+            "Peleg",
+            "Shem"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Shelah begat Eber.”",
+          "q": "Who was the father of Eber?"
+        },
+        {
+          "answers": [
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correct": 0,
+          "explanation": "The text says, “Unto Eber were born two sons.”",
+          "q": "How many sons were born to Eber?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Peleg and Joktan",
+            "Shelah and Arphaxad",
+            "Shem and Ham"
+          ],
+          "correct": 0,
+          "explanation": "Eber’s sons were Peleg and Joktan.",
+          "q": "Who were Eber’s two sons?"
+        },
+        {
+          "answers": [
+            "Because in his days the earth was divided",
+            "Because he was the firstborn",
+            "Because he was a king"
+          ],
+          "correct": 0,
+          "explanation": "The verse explains that the earth was divided in his days.",
+          "q": "Why was one son named Peleg?"
+        },
+        {
+          "answers": [
+            "Separated or divided",
+            "Built up",
+            "Burned"
+          ],
+          "correct": 0,
+          "explanation": "The word describes the earth as being divided or separated.",
+          "q": "What does “divided” mean in the statement about the earth?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Shem–Arphaxad–Shelah–Eber",
+            "Shem–Joktan–Peleg–Eber",
+            "Shem–Shelah–Arphaxad–Eber"
+          ],
+          "correct": 0,
+          "explanation": "This is the sequence given in the genealogy.",
+          "q": "Which sequence leads from Shem to Eber?"
+        },
+        {
+          "answers": [
+            "Almodad",
+            "Peleg",
+            "Shelah"
+          ],
+          "correct": 0,
+          "explanation": "Almodad is listed among Joktan’s sons.",
+          "q": "Which of these was a son of Joktan?"
+        },
+        {
+          "answers": [
+            "All these were the sons of Joktan",
+            "All these were the sons of Shem",
+            "All these were the kings of Edom"
+          ],
+          "correct": 0,
+          "explanation": "Verse 23 concludes, “All these were the sons of Joktan.”",
+          "q": "Which statement concludes the list of Joktan’s descendants?"
+        }
+      ],
+      "idea": 3
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 24,
+      "end_verse": 28,
+      "title": "Abraham’s Direct Genealogy",
+      "easy": [
+        {
+          "answers": [
+            "Abram",
+            "Isaac",
+            "Ishmael"
+          ],
+          "correct": 0,
+          "explanation": "The sequence ends with Terah and then names Abram.",
+          "q": "Who appears after Terah in the genealogy?"
+        },
+        {
+          "answers": [
+            "Abram is Abraham",
+            "Jacob is Israel",
+            "Esau is Edom"
+          ],
+          "correct": 0,
+          "explanation": "The text says, “Abram; the same is Abraham.”",
+          "q": "Which name change is stated in the passage?"
+        },
+        {
+          "answers": [
+            "Isaac and Ishmael",
+            "Esau and Israel",
+            "Peleg and Joktan"
+          ],
+          "correct": 0,
+          "explanation": "Verse 28 names Isaac and Ishmael as Abraham’s sons.",
+          "q": "Who were Abraham’s sons mentioned here?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Shem–Arphaxad–Shelah–Eber–Peleg–Reu–Serug–Nahor–Terah–Abram",
+            "Shem–Eber–Arphaxad–Terah–Peleg–Abraham",
+            "Arphaxad–Shem–Shelah–Eber–Abraham"
+          ],
+          "correct": 0,
+          "explanation": "This is the full sequence presented in verses 24–27.",
+          "q": "Which sequence correctly leads to Abraham?"
+        },
+        {
+          "answers": [
+            "Abram’s name is identified as Abraham",
+            "Abraham’s son is named Abram",
+            "Abram was Abraham’s brother"
+          ],
+          "correct": 0,
+          "explanation": "The verse identifies Abram with the name Abraham.",
+          "q": "What does “Abram; the same is Abraham” indicate?"
+        },
+        {
+          "answers": [
+            "Terah",
+            "Nahor",
+            "Reu"
+          ],
+          "correct": 0,
+          "explanation": "The sequence ends, “Nahor, Terah, Abram.”",
+          "q": "Which name appears immediately before Abram?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Through Arphaxad, Shelah, and Eber",
+            "Through Ham, Cush, and Nimrod",
+            "Through Japheth, Gomer, and Javan"
+          ],
+          "correct": 0,
+          "explanation": "Abraham’s direct line proceeds through Arphaxad, Shelah, and Eber.",
+          "q": "Which line connects Shem with Abraham?"
+        },
+        {
+          "answers": [
+            "Both are sons of Abraham",
+            "Both are sons of Isaac",
+            "Both were kings of Edom"
+          ],
+          "correct": 0,
+          "explanation": "The verse explicitly calls them the sons of Abraham.",
+          "q": "What can be understood from Isaac and Ishmael being listed together?"
+        },
+        {
+          "answers": [
+            "Nimrod",
+            "Terah",
+            "Eber"
+          ],
+          "correct": 0,
+          "explanation": "Nimrod belongs to the line of Cush, not Abraham’s direct genealogy.",
+          "q": "Which name is not part of the direct line to Abraham?"
+        }
+      ],
+      "idea": 4
+    },
+    {
+      "paragraph": 5,
+      "start_verse": 29,
+      "end_verse": 33,
+      "title": "Ishmael and Keturah",
+      "easy": [
+        {
+          "answers": [
+            "Nebaioth",
+            "Kedar",
+            "Tema"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “The firstborn of Ishmael, Nebaioth.”",
+          "q": "Who was Ishmael’s firstborn?"
+        },
+        {
+          "answers": [
+            "Abraham’s concubine",
+            "Ishmael’s daughter",
+            "Esau’s wife"
+          ],
+          "correct": 0,
+          "explanation": "The passage calls Keturah “Abraham’s concubine.”",
+          "q": "How is Keturah described?"
+        },
+        {
+          "answers": [
+            "Ephah, Epher, Henoch, Abida, and Eldaah",
+            "Sheba and Dedan only",
+            "Esau and Israel"
+          ],
+          "correct": 0,
+          "explanation": "These five names are listed as the sons of Midian.",
+          "q": "Who were the sons of Midian listed here?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Mishma",
+            "Medan",
+            "Shuah"
+          ],
+          "correct": 0,
+          "explanation": "Mishma is included in the list of Ishmael’s sons.",
+          "q": "Which name belongs to the sons of Ishmael?"
+        },
+        {
+          "answers": [
+            "Sheba and Dedan",
+            "Ephah and Epher",
+            "Nebaioth and Kedar"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “The sons of Jokshan; Sheba, and Dedan.”",
+          "q": "Who were the sons of Jokshan?"
+        },
+        {
+          "answers": [
+            "A recognized female companion who was not the chief wife",
+            "Abraham’s daughter",
+            "Abraham’s sister"
+          ],
+          "correct": 0,
+          "explanation": "The passage describes Keturah as Abraham’s concubine.",
+          "q": "What does “concubine” mean in the description of Keturah?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "They appear both as sons of Raamah and as sons of Jokshan",
+            "They are sons of Isaac",
+            "They are kings of Edom"
+          ],
+          "correct": 0,
+          "explanation": "The names Sheba and Dedan occur in both family lists.",
+          "q": "What connection do Sheba and Dedan have in the genealogy?"
+        },
+        {
+          "answers": [
+            "The sons of Keturah",
+            "The sons of Ishmael",
+            "The sons of Isaac"
+          ],
+          "correct": 0,
+          "explanation": "These names are listed among the sons of Keturah.",
+          "q": "Which branch includes Medan, Midian, Ishbak, and Shuah?"
+        },
+        {
+          "answers": [
+            "They present two different branches descended from Abraham",
+            "They list exactly the same sons",
+            "They describe the kings of Edom"
+          ],
+          "correct": 0,
+          "explanation": "The passage separately lists Ishmael’s descendants and Keturah’s descendants.",
+          "q": "What is the main difference between the Ishmael and Keturah lists?"
+        }
+      ],
+      "idea": 5
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 34,
+      "end_verse": 42,
+      "title": "Isaac, Esau, and Seir",
+      "easy": [
+        {
+          "answers": [
+            "Esau and Israel",
+            "Jacob and Joseph",
+            "Ishmael and Isaac"
+          ],
+          "correct": 0,
+          "explanation": "The text says, “The sons of Isaac; Esau and Israel.”",
+          "q": "Who were the sons of Isaac?"
+        },
+        {
+          "answers": [
+            "Amalek",
+            "Nahath",
+            "Lotan"
+          ],
+          "correct": 0,
+          "explanation": "Amalek is listed among Eliphaz’s sons.",
+          "q": "Who was one of the sons of Eliphaz?"
+        },
+        {
+          "answers": [
+            "Timna",
+            "Adah",
+            "Aholibamah"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Timna was Lotan’s sister.”",
+          "q": "Who was Lotan’s sister?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Esau–Eliphaz–Amalek",
+            "Esau–Seir–Lotan",
+            "Esau–Isaac–Israel"
+          ],
+          "correct": 0,
+          "explanation": "Eliphaz was Esau’s son, and Amalek was Eliphaz’s son.",
+          "q": "Which sequence describes the line of Esau?"
+        },
+        {
+          "answers": [
+            "Nahath, Zerah, Shammah, and Mizzah",
+            "Hori and Homam",
+            "Uz and Aran"
+          ],
+          "correct": 0,
+          "explanation": "These four names are listed as Reuel’s sons.",
+          "q": "Who were the sons of Reuel?"
+        },
+        {
+          "answers": [
+            "A female member of the same family",
+            "His mother",
+            "His daughter"
+          ],
+          "correct": 0,
+          "explanation": "The verse identifies Timna as Lotan’s female sibling.",
+          "q": "What does “sister” mean in “Lotan’s sister”?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The sons of Seir",
+            "The sons of Joktan",
+            "The sons of Canaan"
+          ],
+          "correct": 0,
+          "explanation": "The passage also lists the sons and families of Seir.",
+          "q": "Which branch is described alongside the families of Esau?"
+        },
+        {
+          "answers": [
+            "Lotan",
+            "Eliphaz",
+            "Reuel"
+          ],
+          "correct": 0,
+          "explanation": "Lotan is listed among the sons of Seir.",
+          "q": "Which name belongs to the sons of Seir?"
+        },
+        {
+          "answers": [
+            "Esau was Isaac’s son",
+            "Esau was Isaac’s brother",
+            "Esau was Seir’s son"
+          ],
+          "correct": 0,
+          "explanation": "The genealogy states that Esau was one of Isaac’s sons.",
+          "q": "What family relationship does the passage state between Isaac and Esau?"
+        }
+      ],
+      "idea": 6
+    },
+    {
+      "paragraph": 7,
+      "start_verse": 43,
+      "end_verse": 50,
+      "title": "The Kings of Edom",
+      "easy": [
+        {
+          "answers": [
+            "Bela",
+            "Jobab",
+            "Hadad"
+          ],
+          "correct": 0,
+          "explanation": "The list begins with Bela the son of Beor.",
+          "q": "Who was the first king in the list of Edom’s kings?"
+        },
+        {
+          "answers": [
+            "Jobab the son of Zerah",
+            "Husham",
+            "Samlah"
+          ],
+          "correct": 0,
+          "explanation": "Jobab reigned in Bela’s stead.",
+          "q": "Who reigned after Bela?"
+        },
+        {
+          "answers": [
+            "Dinhabah",
+            "Avith",
+            "Pai"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “the name of his city was Dinhabah.”",
+          "q": "What was the name of Bela’s city?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Hadad the son of Bedad",
+            "Shaul",
+            "Baal-hanan"
+          ],
+          "correct": 0,
+          "explanation": "Hadad the son of Bedad reigned after Husham.",
+          "q": "Who reigned after Husham?"
+        },
+        {
+          "answers": [
+            "Hadad the son of Bedad",
+            "Jobab the son of Zerah",
+            "Samlah"
+          ],
+          "correct": 0,
+          "explanation": "Hadad is described as the one who smote Midian.",
+          "q": "Which king smote Midian in the field of Moab?"
+        },
+        {
+          "answers": [
+            "In his place",
+            "Before him",
+            "Beside him"
+          ],
+          "correct": 0,
+          "explanation": "The phrase means that the next king took the former king’s place.",
+          "q": "What does “in his stead” mean in this context?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Bela–Jobab–Husham–Hadad",
+            "Jobab–Bela–Hadad–Husham",
+            "Husham–Jobab–Bela–Hadad"
+          ],
+          "correct": 0,
+          "explanation": "This is the order given at the beginning of the list.",
+          "q": "Which order of kings is correct?"
+        },
+        {
+          "answers": [
+            "His city was Pai and his wife was Mehetabel",
+            "He was the son of Zerah",
+            "He reigned immediately after Bela"
+          ],
+          "correct": 0,
+          "explanation": "The passage names Hadad’s city and his wife.",
+          "q": "What detail is given about the last Hadad in the list?"
+        },
+        {
+          "answers": [
+            "The former king dies and another reigns in his stead",
+            "Two kings reign together",
+            "Each king is chosen from Joktan’s family"
+          ],
+          "correct": 0,
+          "explanation": "The repeated wording describes one king dying and another replacing him.",
+          "q": "What pattern characterizes the succession of the kings?"
+        }
+      ],
+      "idea": 7
+    },
+    {
+      "paragraph": 8,
+      "start_verse": 51,
+      "end_verse": 54,
+      "title": "The Chiefs of Edom",
+      "easy": [
+        {
+          "answers": [
+            "The dukes of Edom",
+            "The sons of Noah",
+            "The sons of Keturah"
+          ],
+          "correct": 0,
+          "explanation": "After Hadad’s death, the passage lists the dukes of Edom.",
+          "q": "What is listed after the kings of Edom?"
+        },
+        {
+          "answers": [
+            "Timnah",
+            "Isaac",
+            "Nimrod"
+          ],
+          "correct": 0,
+          "explanation": "Duke Timnah appears in the list.",
+          "q": "Which name is one of the dukes of Edom?"
+        },
+        {
+          "answers": [
+            "Iram",
+            "Bela",
+            "Peleg"
+          ],
+          "correct": 0,
+          "explanation": "The list ends with Duke Magdiel and Duke Iram.",
+          "q": "Who appears at the end of the list of dukes?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Iram",
+            "Kenaz",
+            "Aliah"
+          ],
+          "correct": 0,
+          "explanation": "The final words name “Duke Magdiel, duke Iram.”",
+          "q": "Which name appears beside Magdiel at the end of the list?"
+        },
+        {
+          "answers": [
+            "Three",
+            "Two",
+            "Five"
+          ],
+          "correct": 0,
+          "explanation": "The names are arranged in three lines or groups.",
+          "q": "How many lines of names of dukes are given in the passage?"
+        },
+        {
+          "answers": [
+            "Tribal chiefs or rulers",
+            "Sons of kings only",
+            "Merchants"
+          ],
+          "correct": 0,
+          "explanation": "The term refers to leaders or chiefs of Edom.",
+          "q": "What are “dukes” in this context?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The list moves from kings to tribal leaders",
+            "The list moves from kings to Noah’s sons",
+            "The list moves from families to Egyptian kings"
+          ],
+          "correct": 0,
+          "explanation": "The passage changes from a royal succession to a list of tribal chiefs.",
+          "q": "What change in government is reflected by the move from kings to dukes?"
+        },
+        {
+          "answers": [
+            "Kenaz",
+            "Noah",
+            "Arphaxad"
+          ],
+          "correct": 0,
+          "explanation": "Kenaz appears among Eliphaz’s descendants and later as a duke of Edom.",
+          "q": "Which name appears earlier in the chapter and later as a duke?"
+        },
+        {
+          "answers": [
+            "These are the dukes of Edom",
+            "These are the sons of Joktan",
+            "These are the kings of Egypt"
+          ],
+          "correct": 0,
+          "explanation": "The final verse says, “These are the dukes of Edom.”",
+          "q": "Which statement concludes the list?"
+        }
+      ],
+      "idea": 8
+    }
+  ]
+}

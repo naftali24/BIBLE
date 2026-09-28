@@ -1,0 +1,532 @@
+{
+  "book": "I Chronicles",
+  "book_he": "דברי הימים א",
+  "book_chapters": 29,
+  "chapter": 25,
+  "title": "דברי הימים א פרק 25",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a25.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a25.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1CH/25-bcb2716a4874d39c374b480420cfa208.mp3?version_id=1",
+  "verses": [
+    "וַיַּבְדֵּל דָּוִיד וְשָׂרֵי הַצָּבָא לַעֲבֹדָה, לִבְנֵי אָסָף וְהֵימָן וִידוּתוּן, הנביאים הַנִּבְּאִים בְּכִנֹּרוֹת בִּנְבָלִים, וּבִמְצִלְתָּיִם; וַיְהִי, מִסְפָּרָם, אַנְשֵׁי מְלָאכָה, לַעֲבֹדָתָם.",
+    "לִבְנֵי אָסָף, זַכּוּר וְיוֹסֵף וּנְתַנְיָה וַאֲשַׂרְאֵלָה--בְּנֵי אָסָף: עַל, יַד-אָסָף, הַנִּבָּא, עַל-יְדֵי הַמֶּלֶךְ.",
+    "לִידוּתוּן--בְּנֵי יְדוּתוּן גְּדַלְיָהוּ וּצְרִי וִישַׁעְיָהוּ חֲשַׁבְיָהוּ וּמַתִּתְיָהוּ שִׁשָּׁה, עַל יְדֵי אֲבִיהֶם יְדוּתוּן בַּכִּנּוֹר, הַנִּבָּא, עַל-הֹדוֹת וְהַלֵּל לַיהוָה.",
+    "לְהֵימָן--בְּנֵי הֵימָן בֻּקִּיָּהוּ מַתַּנְיָהוּ עֻזִּיאֵל שְׁבוּאֵל וִירִימוֹת חֲנַנְיָה חֲנָנִי, אֱלִיאָתָה גִדַּלְתִּי וְרֹמַמְתִּי עֶזֶר, יָשְׁבְּקָשָׁה מַלּוֹתִי, הוֹתִיר מַחֲזִיאֹת.",
+    "כָּל-אֵלֶּה בָנִים לְהֵימָן, חֹזֵה הַמֶּלֶךְ בְּדִבְרֵי הָאֱלֹהִים--לְהָרִים קָרֶן; וַיִּתֵּן הָאֱלֹהִים לְהֵימָן, בָּנִים אַרְבָּעָה עָשָׂר--וּבָנוֹת שָׁלוֹשׁ.",
+    "כָּל-אֵלֶּה עַל-יְדֵי אֲבִיהֶם בַּשִּׁיר בֵּית יְהוָה, בִּמְצִלְתַּיִם נְבָלִים וְכִנֹּרוֹת, לַעֲבֹדַת, בֵּית הָאֱלֹהִים--עַל יְדֵי הַמֶּלֶךְ, אָסָף וִידוּתוּן וְהֵימָן.",
+    "וַיְהִי מִסְפָּרָם עִם-אֲחֵיהֶם, מְלֻמְּדֵי-שִׁיר לַיהוָה: כָּל-הַמֵּבִין--מָאתַיִם, שְׁמוֹנִים וּשְׁמוֹנָה.",
+    "וַיַּפִּילוּ גּוֹרָלוֹת מִשְׁמֶרֶת, לְעֻמַּת כַּקָּטֹן כַּגָּדוֹל--מֵבִין, עִם-תַּלְמִיד.",
+    "וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן, לְאָסָף--לְיוֹסֵף; {ס} גְּדַלְיָהוּ, הַשֵּׁנִי--הוּא-וְאֶחָיו {ר} וּבָנָיו, שְׁנֵים עָשָׂר.",
+    "הַשְּׁלִשִׁי זַכּוּר, בָּנָיו וְאֶחָיו שְׁנֵים {ר} עָשָׂר.",
+    "הָרְבִיעִי, לַיִּצְרִי--בָּנָיו וְאֶחָיו, שְׁנֵים עָשָׂר.",
+    "הַחֲמִישִׁי {ר} נְתַנְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "הַשִּׁשִּׁי בֻקִּיָּהוּ, בָּנָיו וְאֶחָיו שְׁנֵים {ר} עָשָׂר.",
+    "הַשְּׁבִעִי יְשַׂרְאֵלָה, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "הַשְּׁמִינִי {ר} יְשַׁעְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "הַתְּשִׁיעִי מַתַּנְיָהוּ, בָּנָיו וְאֶחָיו {ר} שְׁנֵים עָשָׂר.",
+    "הָעֲשִׂירִי שִׁמְעִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "עַשְׁתֵּי- {ר} עָשָׂר עֲזַרְאֵל, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "הַשְּׁנֵים עָשָׂר לַחֲשַׁבְיָה, {ר} בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לִשְׁלֹשָׁה עָשָׂר שׁוּבָאֵל, בָּנָיו וְאֶחָיו שְׁנֵים {ר} עָשָׂר.",
+    "לְאַרְבָּעָה עָשָׂר מַתִּתְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לַחֲמִשָּׁה {ר} עָשָׂר לִירֵמוֹת, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לְשִׁשָּׁה עָשָׂר לַחֲנַנְיָהוּ, בָּנָיו {ר} וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לְשִׁבְעָה עָשָׂר לְיָשְׁבְּקָשָׁה, בָּנָיו וְאֶחָיו שְׁנֵים {ר} עָשָׂר.",
+    "לִשְׁמוֹנָה עָשָׂר לַחֲנָנִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לְתִשְׁעָה {ר} עָשָׂר לְמַלּוֹתִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לְעֶשְׂרִים, לֶאֱלִיָּתָה--בָּנָיו {ר} וְאֶחָיו, שְׁנֵים עָשָׂר.",
+    "לְאֶחָד וְעֶשְׂרִים לְהוֹתִיר, בָּנָיו וְאֶחָיו שְׁנֵים {ר} עָשָׂר.",
+    "לִשְׁנַיִם וְעֶשְׂרִים לְגִדַּלְתִּי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לִשְׁלֹשָׁה {ר} וְעֶשְׂרִים לְמַחֲזִיאוֹת, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר.",
+    "לְאַרְבָּעָה וְעֶשְׂרִים {ר} לְרוֹמַמְתִּי עָזֶר, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר."
+  ],
+  "english": [
+    "Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:",
+    "Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.",
+    "Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.",
+    "Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir,\nand Mahazioth:",
+    "All these\nwere the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.",
+    "All these\nwere under the hands of their father for song\nin the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.",
+    "So the number of them, with their brethren that were instructed in the songs of the LORD,\neven all that were cunning, was two hundred fourscore and eight.",
+    "And they cast lots, ward against\nward, as well the small as the great, the teacher as the scholar.",
+    "Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons\nwere twelve:",
+    "The third to Zaccur,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The fourth to Izri,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The fifth to Nethaniah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The sixth to Bukkiah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The seventh to Jesharelah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The eighth to Jeshaiah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The ninth to Mattaniah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The tenth to Shimei,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The eleventh to Azareel,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The twelfth to Hashabiah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The thirteenth to Shubael,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The fourteenth to Mattithiah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The fifteenth to Jeremoth,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The sixteenth to Hananiah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The seventeenth to Joshbekashah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The eighteenth to Hanani,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The nineteenth to Mallothi,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The twentieth to Eliathah,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The one and twentieth to Hothir,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The two and twentieth to Giddalti,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The three and twentieth to Mahazioth,\nhe, his sons, and his brethren,\nwere twelve:",
+    "The four and twentieth to Romamti-ezer,\nhe, his sons, and his brethren,\nwere twelve."
+  ],
+  "steinsaltz": [
+    "וַיַּבְדֵּל דָּוִיד וְשָׂרֵי הַצָּבָא לַעֲבֹדָה, צבא העובדים בקודש, לִבְנֵי, את בני אָסָף וְהֵימָן וִידוּתוּן שהם היו הַנִּבְּאִים בְּכִנֹּרוֹת, בִּנְבָלִים וּבִמְצִלְתָּיִם. שלושה אלו, הנזכרים בספר תהלים, לא רק נשאו בתפקיד השירה אלא היו אנשי מעלה שחיברו חלק מהמזמורים שהושרו במקדש ונשארו לדורות. וַיְהִי מִסְפָּרָם כדלהלן, וכולם אַנְשֵׁי מְלָאכָה המוכשרים לַעֲבֹדָתָם.",
+    "המשמרות לִבְנֵי אָסָף: זַכּוּר וְיוֹסֵף וּנְתַנְיָה וַאֲשַׂרְאֵלָה בְּנֵי אָסָף, השָּׁרים עַל יַד, בחסות, או: באמצעות הדרכתו של אָסָף אביהם הַנִּבָּא את שיריו עַל־יְדֵי, לצד, או: בהדרכת הַמֶּלֶךְ.",
+    "לִידוּתוּן – בְּנֵי יְדוּתוּן: גְּדַלְיָהוּ וּצְרִי וִישַׁעְיָהוּ, חֲשַׁבְיָהוּ וּמַתִּתְיָהוּ – שִׁשָּׁה כאשר נמנה עמם שמעי, שיוזכר להלן, שאולי הפך משורר מן המניין מאוחר יותר. ואף הם עַל יְדֵי אֲבִיהֶם יְדוּתוּן המנגן בַּכִּנּוֹר הַנִּבָּא עַל הוֹדוֹת, מזמורי הודיה וְהַלֵּל לַה'.",
+    "לְהֵימָן היו בנים רבים – בְּנֵי הֵימָן: בֻּקִּיָּהוּ, מַתַּנְיָהוּ, עֻזִּיאֵל, שְׁבוּאֵל, וִירִימוֹת, חֲנַנְיָה, חֲנָנִי, אֱלִיאָתָה, גִדַּלְתִּי וְרֹמַמְתִּי עֶזֶר, 'רֹממתי עֶזר' הוא שם אחד, יָשְׁבְּקָשָׁה, מַלּוֹתִי, הוֹתִיר, מַחֲזִיאֹת.",
+    "כָּל־אֵלֶּה בָנִים לְהֵימָן חֹזֵה, נביא הַמֶּלֶךְ בְּדִבְרֵי הָאֱלֹהִים לְהָרִים קָרֶן. שירתם מגדילה את תפארת המלך ואת תפארת בית ה'. וַיִּתֵּן הָאֱלֹהִים לְהֵימָן משפחה גדולה, ובה בָּנִים אַרְבָּעָה עָשָׂר וּבָנוֹת שָׁלוֹשׁ.",
+    "כָּל־אֵלֶּה – ראשי המשמרות, עַל־יְדֵי אֲבִיהֶם ניגנו בַּשִּׁיר בתוך בֵּית ה' בִּמְצִלְתַּיִם, נְבָלִים וְכִנֹּרוֹת לַעֲבֹדַת בֵּית הָאֱלֹהִים עַל יְדֵי הַמֶּלֶךְ, אבותיהם היו, כאמור: אָסָף וִידוּתוּן וְהֵימָן.",
+    "וַיְהִי מִסְפָּרָם של ראשי המשמרות עִם־אֲחֵיהֶם, קרוביהם מְלֻמְּדֵי־שִׁיר לַה', כָּל־הַמֵּבִין, המומחים לשיר – מָאתַיִם שְׁמוֹנִים וּשְׁמֹנָה.",
+    "וַיַּפִּילוּ גּוֹרָלוֹת מִשְׁמֶרֶת לְעֻמַּת משמרת, כַּקָּטֹן כַּגָּדוֹל, מֵבִין, מומחים מנוסים עִם־תַּלְמִיד, כולם שווים בגורל. וכאן מובאת שוב רשימה מפורטת של סדר הגורלות.",
+    "וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן לְאָסָף, לְיוֹסֵף בנו; גְּדַלְיָהוּ הַשֵּׁנִי, הוּא־וְאֶחָיו וּבָנָיו, שְׁנֵים עָשָׂר;",
+    "הַשְּׁלִשִׁי – זַכּוּר, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר. נראה שיצרו מעין יחידות עבודה שהורכבו מקבוצה של שנים-עשר בנים ואחים שכולם יודעי נגן.",
+    "הגורל הָרְבִיעִי יצא לַיִּצְרִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הַחֲמִישִׁי – נְתַנְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הַשִּׁשִּׁי – בֻּקִּיָּהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הַשְּׁבִעִי – יְשַׂרְאֵלָה, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הַשְּׁמִינִי – יְשַׁעְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הַתְּשִׁיעִי – מַתַּנְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הָעֲשִׂירִי – שִׁמְעִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "העַשְׁתֵּי־עָשָׂר, אחד-עשר – עֲזַרְאֵל, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "הגורל הַשְּׁנֵים עָשָׂר יצא לַחֲשַׁבְיָה, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לִשְׁלֹשָׁה עָשָׂר – שׁוּבָאֵל, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְאַרְבָּעָה עָשָׂר – מַתִּתְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לַחֲמִשָּׁה עָשָׂר – לִירֵמוֹת, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְשִׁשָּׁה עָשָׂר – לַחֲנַנְיָהוּ, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְשִׁבְעָה עָשָׂר – לְיָשְׁבְּקָשָׁה, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לִשְׁמוֹנָה עָשָׂר – לַחֲנָנִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְתִשְׁעָה עָשָׂר – לְמַלּוֹתִי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְעֶשְׂרִים – לֶאֱלִיָּתָה, שהוא שם בעל משמעות שהופיע בשינוי קל קודם – אליאתה, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְאֶחָד וְעֶשְׂרִים – לְהוֹתִיר, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לִשְׁנַיִם וְעֶשְׂרִים – לְגִדַּלְתִּי, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לִשְׁלֹשָׁה וְעֶשְׂרִים – לְמַחֲזִיאוֹת, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר;",
+    "לְאַרְבָּעָה וְעֶשְׂרִים – לְרוֹמַמְתִּי עָזֶר, בָּנָיו וְאֶחָיו שְׁנֵים עָשָׂר."
+  ],
+  "ai_explanation": [
+    "דוד ושרי הצבא הבדילו לעבודת הקודש את בני אסף, הימן וידותון. שלושת האבות היו נביאים ומשוררים, שניגנו בכינורות, בנבלים ובמצלתיים, וכל העובדים היו מוכשרים לתפקידם.",
+    "המשמרת של בני אסף כללה את זכור, יוסף, נתניה ואשראלה. הם שרו בהדרכת אסף אביהם, שהיה נביא, ובמסגרת המלך או לצד הנהגתו.",
+    "בני ידותון היו גדליהו, צרי, ישעיהו, חשביהו ומתתיהו; הם נמנים כשישה אם מצרפים את שמעי, שאולי הצטרף מאוחר יותר. הם פעלו בהדרכת אביהם ידותון, שניגן בכינור וניבא בשירי הודיה והלל לה'.",
+    "להימן היו בנים רבים: בוקיהו, מתניהו, עוזיאל, שבואל, ירימות, חנניה, חנני, אליאתה, גדלתי ורוממתי עזר, ישבקשׁה, מלותי, הותיר ומחזיאות. \"רוממתי עזר\" נחשב כאן לשם אחד.",
+    "כל אלה היו בני הימן, שהיה נביא המלך בדברי האלוהים. שירתם נועדה להרים את קרן המלך ואת תפארת בית ה', ולהימן היו ארבעה־עשר בנים ושלוש בנות.",
+    "ראשי המשמרות ניגנו עם אבותיהם בשיר בבית ה', במצלתיים, בנבלים ובכינורות. עבודתם נעשתה במסגרת בית האלוהים ובהנהגת דוד, ואבותיהם היו אסף, ידותון והימן.",
+    "מספרם של ראשי המשמרות ושל קרוביהם, שהיו מומחים ומלומדים בשיר לה', היה מאתיים שמונים ושמונה.",
+    "המשמרות נקבעו באמצעות גורלות, בלי להעדיף את הגדול על הקטן או את המומחה על התלמיד. כולם נחשבו שווים בקביעת הגורל, ולאחר מכן מובאת רשימת סדר המשמרות.",
+    "הגורל הראשון יצא ליוסף, בנו של אסף. הגורל השני יצא לגדליהו, עם אחיו ובניו, קבוצה של שנים־עשר.",
+    "הגורל השלישי יצא לזכור, עם בניו ואחיו, שנים־עשר איש. נראה שהיחידות הורכבו מקבוצות קבועות של שנים־עשר יודעי נגן.",
+    "הגורל הרביעי יצא ליצרי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל החמישי יצא לנתניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השישי יצא לבוקיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השביעי יצא לישראלה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השמיני יצא לישעיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל התשיעי יצא למתניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשירי יצא לשמעי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל האחד־עשר יצא לעזר־אל, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השנים־עשר יצא לחשביה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השלושה־עשר יצא לשובאל, עם בניו ואחיו, שנים־עשר.",
+    "הגורל הארבעה־עשר יצא למתתיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל החמישה־עשר יצא לירמות, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השישה־עשר יצא לחנניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השבעה־עשר יצא לישבקשׁה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השמונה־עשר יצא לחנני, עם בניו ואחיו, שנים־עשר.",
+    "הגורל התשעה־עשר יצא למלותי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים יצא לאליאתה, ששמו דומה לשם אליאתה שנזכר קודם, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ואחד יצא להותיר, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ושניים יצא לגדלתי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ושלושה יצא למחזיאות, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים וארבעה יצא לרוממתי עזר, עם בניו ואחיו, שנים־עשר."
+  ],
+  "ai_explanation_en": [
+    "David and the army commanders set apart the sons of Asaph, Heman, and Jeduthun for sacred service. These three fathers were prophets and musicians who played lyres, harps, and cymbals, and all the workers were skilled for their duties.",
+    "The division of Asaph's descendants consisted of Zaccur, Joseph, Nethaniah, and Asharelah. They sang under the direction of their father Asaph, who was a prophet, within the framework of the king or alongside his leadership.",
+    "Jeduthun's sons were Gedaliah, Zeri, Jeshaiah, Hashabiah, and Mattithiah; they are counted as six if Shimei is included, perhaps because he joined later. They served under their father Jeduthun, who played the lyre and prophesied in songs of thanksgiving and praise to the Lord.",
+    "Heman had many sons: Bukkiah, Mattaniah, Uzziel, Shubael, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti and Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth. Here, “Romamti-ezer” is treated as one name.",
+    "All these were sons of Heman, who was a royal prophet in the words of God. Their singing was intended to exalt the king and the glory of the house of the Lord, and Heman had fourteen sons and three daughters.",
+    "The heads of the divisions played with their fathers in song in the house of the Lord, using cymbals, harps, and lyres. Their service was carried out for the house of God under David's leadership, and their fathers were Asaph, Jeduthun, and Heman.",
+    "The number of the heads of the divisions and their relatives, who were trained and skilled in singing to the Lord, was 288.",
+    "The divisions were assigned by lot, without favoring the older over the younger or the experienced over the student. Everyone was treated equally in the drawing of lots, followed by the detailed list of the divisions.",
+    "The first lot fell to Joseph, the son of Asaph. The second fell to Gedaliah, together with his brothers and sons, a group of twelve.",
+    "The third lot fell to Zaccur, together with his sons and brothers, twelve in all. The groups appear to have been fixed units of twelve skilled musicians.",
+    "The fourth lot fell to Izri, together with his sons and brothers, twelve in all.",
+    "The fifth lot fell to Nethaniah, together with his sons and brothers, twelve in all.",
+    "The sixth lot fell to Bukkiah, together with his sons and brothers, twelve in all.",
+    "The seventh lot fell to Jesharelah, together with his sons and brothers, twelve in all.",
+    "The eighth lot fell to Jeshaiah, together with his sons and brothers, twelve in all.",
+    "The ninth lot fell to Mattaniah, together with his sons and brothers, twelve in all.",
+    "The tenth lot fell to Shimei, together with his sons and brothers, twelve in all.",
+    "The eleventh lot fell to Azarel, together with his sons and brothers, twelve in all.",
+    "The twelfth lot fell to Hashabiah, together with his sons and brothers, twelve in all.",
+    "The thirteenth lot fell to Shubael, together with his sons and brothers, twelve in all.",
+    "The fourteenth lot fell to Mattithiah, together with his sons and brothers, twelve in all.",
+    "The fifteenth lot fell to Jeremoth, together with his sons and brothers, twelve in all.",
+    "The sixteenth lot fell to Hananiah, together with his sons and brothers, twelve in all.",
+    "The seventeenth lot fell to Joshbekashah, together with his sons and brothers, twelve in all.",
+    "The eighteenth lot fell to Hanani, together with his sons and brothers, twelve in all.",
+    "The nineteenth lot fell to Mallothi, together with his sons and brothers, twelve in all.",
+    "The twentieth lot fell to Eliathah, whose name is similar to the previously mentioned Eliathah, together with his sons and brothers, twelve in all.",
+    "The twenty-first lot fell to Hothir, together with his sons and brothers, twelve in all.",
+    "The twenty-second lot fell to Giddalti, together with his sons and brothers, twelve in all.",
+    "The twenty-third lot fell to Mahazioth, together with his sons and brothers, twelve in all.",
+    "The twenty-fourth lot fell to Romamti-ezer, together with his sons and brothers, twelve in all."
+  ],
+  "perush": [
+    "דוד ושרי הצבא הבדילו לעבודת הקודש את בני אסף, הימן וידותון. שלושת האבות היו נביאים ומשוררים, שניגנו בכינורות, בנבלים ובמצלתיים, וכל העובדים היו מוכשרים לתפקידם.",
+    "המשמרת של בני אסף כללה את זכור, יוסף, נתניה ואשראלה. הם שרו בהדרכת אסף אביהם, שהיה נביא, ובמסגרת המלך או לצד הנהגתו.",
+    "בני ידותון היו גדליהו, צרי, ישעיהו, חשביהו ומתתיהו; הם נמנים כשישה אם מצרפים את שמעי, שאולי הצטרף מאוחר יותר. הם פעלו בהדרכת אביהם ידותון, שניגן בכינור וניבא בשירי הודיה והלל לה'.",
+    "להימן היו בנים רבים: בוקיהו, מתניהו, עוזיאל, שבואל, ירימות, חנניה, חנני, אליאתה, גדלתי ורוממתי עזר, ישבקשׁה, מלותי, הותיר ומחזיאות. \"רוממתי עזר\" נחשב כאן לשם אחד.",
+    "כל אלה היו בני הימן, שהיה נביא המלך בדברי האלוהים. שירתם נועדה להרים את קרן המלך ואת תפארת בית ה', ולהימן היו ארבעה־עשר בנים ושלוש בנות.",
+    "ראשי המשמרות ניגנו עם אבותיהם בשיר בבית ה', במצלתיים, בנבלים ובכינורות. עבודתם נעשתה במסגרת בית האלוהים ובהנהגת דוד, ואבותיהם היו אסף, ידותון והימן.",
+    "מספרם של ראשי המשמרות ושל קרוביהם, שהיו מומחים ומלומדים בשיר לה', היה מאתיים שמונים ושמונה.",
+    "המשמרות נקבעו באמצעות גורלות, בלי להעדיף את הגדול על הקטן או את המומחה על התלמיד. כולם נחשבו שווים בקביעת הגורל, ולאחר מכן מובאת רשימת סדר המשמרות.",
+    "הגורל הראשון יצא ליוסף, בנו של אסף. הגורל השני יצא לגדליהו, עם אחיו ובניו, קבוצה של שנים־עשר.",
+    "הגורל השלישי יצא לזכור, עם בניו ואחיו, שנים־עשר איש. נראה שהיחידות הורכבו מקבוצות קבועות של שנים־עשר יודעי נגן.",
+    "הגורל הרביעי יצא ליצרי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל החמישי יצא לנתניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השישי יצא לבוקיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השביעי יצא לישראלה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השמיני יצא לישעיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל התשיעי יצא למתניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשירי יצא לשמעי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל האחד־עשר יצא לעזר־אל, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השנים־עשר יצא לחשביה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השלושה־עשר יצא לשובאל, עם בניו ואחיו, שנים־עשר.",
+    "הגורל הארבעה־עשר יצא למתתיהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל החמישה־עשר יצא לירמות, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השישה־עשר יצא לחנניהו, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השבעה־עשר יצא לישבקשׁה, עם בניו ואחיו, שנים־עשר.",
+    "הגורל השמונה־עשר יצא לחנני, עם בניו ואחיו, שנים־עשר.",
+    "הגורל התשעה־עשר יצא למלותי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים יצא לאליאתה, ששמו דומה לשם אליאתה שנזכר קודם, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ואחד יצא להותיר, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ושניים יצא לגדלתי, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים ושלושה יצא למחזיאות, עם בניו ואחיו, שנים־עשר.",
+    "הגורל העשרים וארבעה יצא לרוממתי עזר, עם בניו ואחיו, שנים־עשר."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ייסוד משמרות הנגנים ותפקידם",
+      "title_en": "Establishing the Musicians’ Divisions and Their Role",
+      "start_verse": 1,
+      "end_verse": 8,
+      "summary": "דוד ושרי הצבא קבעו את עבודת בני אסף, הימן וידותון, את תפקידי האבות ובניהם, את מספר המומחים ואת העיקרון של חלוקת המשמרות בגורל בשוויון בין כולם.",
+      "summary_en": "David and the army commanders organized the service of the sons of Asaph, Heman, and Jeduthun, described the roles of the fathers and their sons, gave the number of skilled musicians, and established equal assignment of the divisions by lot.",
+      "image_prompt": "A respectful biblical-era temple music organization scene: David and commanders overseeing skilled musicians with lyres, harps, and cymbals, families of musicians gathered, balanced groups prepared for a fair drawing of lots, historically restrained, no modern objects."
+    },
+    {
+      "title": "הגורלות הראשונים והיחידות של שנים־עשר",
+      "title_en": "The First Lots and the Groups of Twelve",
+      "start_verse": 9,
+      "end_verse": 16,
+      "summary": "רשימת הגורלות מתחילה ביוסף ובגדליהו וממשיכה בזכור, יצרי, נתניהו, בוקיהו, ישראלה, ישעיהו ומתניהו. כל יחידה מתוארת ככוללת שנים־עשר בנים ואחים.",
+      "summary_en": "The list of lots begins with Joseph and Gedaliah and continues with Zaccur, Izri, Nethaniah, Bukkiah, Jesharelah, Jeshaiah, and Mattaniah. Each division is described as consisting of twelve sons and brothers.",
+      "image_prompt": "A parchment-style biblical roster showing the first sequence of temple musician divisions, family groups standing in orderly sets of twelve, musicians holding ancient lyres and harps, neutral educational composition, no invented historical details."
+    },
+    {
+      "title": "המשך סדר עשרים וארבעה הגורלות",
+      "title_en": "Completion of the Twenty-Four Lots",
+      "start_verse": 17,
+      "end_verse": 31,
+      "summary": "הרשימה נמשכת מן הגורל העשירי ועד הגורל העשרים וארבעה, משמעי ועד רוממתי עזר. גם כאן כל משמרת מתוארת כקבוצה של שנים־עשר בנים ואחים.",
+      "summary_en": "The list continues from the tenth through the twenty-fourth lot, from Shimei to Romamti-ezer. Here too, each division is described as a group of twelve sons and brothers.",
+      "image_prompt": "An educational biblical manuscript scene displaying the later entries of a twenty-four-part musician roster, orderly temple musicians and family groups, ancient instruments, clear sequential arrangement, historically restrained and without extra narrative details."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 17.8,
+      "usfm": "1CH.25.1"
+    },
+    {
+      "start": 17.8,
+      "end": 28.58,
+      "usfm": "1CH.25.2"
+    },
+    {
+      "start": 28.58,
+      "end": 44.0,
+      "usfm": "1CH.25.3"
+    },
+    {
+      "start": 44.0,
+      "end": 63.82,
+      "usfm": "1CH.25.4"
+    },
+    {
+      "start": 63.82,
+      "end": 73.12,
+      "usfm": "1CH.25.5"
+    },
+    {
+      "start": 73.12,
+      "end": 85.28,
+      "usfm": "1CH.25.6"
+    },
+    {
+      "start": 85.28,
+      "end": 93.54,
+      "usfm": "1CH.25.7"
+    },
+    {
+      "start": 93.54,
+      "end": 100.56,
+      "usfm": "1CH.25.8"
+    },
+    {
+      "start": 100.56,
+      "end": 108.08,
+      "usfm": "1CH.25.9"
+    },
+    {
+      "start": 108.08,
+      "end": 112.84,
+      "usfm": "1CH.25.10"
+    },
+    {
+      "start": 112.84,
+      "end": 117.32,
+      "usfm": "1CH.25.11"
+    },
+    {
+      "start": 117.32,
+      "end": 121.48,
+      "usfm": "1CH.25.12"
+    },
+    {
+      "start": 121.48,
+      "end": 126.08,
+      "usfm": "1CH.25.13"
+    },
+    {
+      "start": 126.08,
+      "end": 130.7,
+      "usfm": "1CH.25.14"
+    },
+    {
+      "start": 130.7,
+      "end": 134.9,
+      "usfm": "1CH.25.15"
+    },
+    {
+      "start": 134.9,
+      "end": 139.68,
+      "usfm": "1CH.25.16"
+    },
+    {
+      "start": 139.68,
+      "end": 143.7,
+      "usfm": "1CH.25.17"
+    },
+    {
+      "start": 143.7,
+      "end": 147.84,
+      "usfm": "1CH.25.18"
+    },
+    {
+      "start": 147.84,
+      "end": 152.68,
+      "usfm": "1CH.25.19"
+    },
+    {
+      "start": 152.68,
+      "end": 157.18,
+      "usfm": "1CH.25.20"
+    },
+    {
+      "start": 157.18,
+      "end": 162.5,
+      "usfm": "1CH.25.21"
+    },
+    {
+      "start": 162.5,
+      "end": 166.8,
+      "usfm": "1CH.25.22"
+    },
+    {
+      "start": 166.8,
+      "end": 171.8,
+      "usfm": "1CH.25.23"
+    },
+    {
+      "start": 171.8,
+      "end": 176.38,
+      "usfm": "1CH.25.24"
+    },
+    {
+      "start": 176.38,
+      "end": 180.96,
+      "usfm": "1CH.25.25"
+    },
+    {
+      "start": 180.96,
+      "end": 186.06,
+      "usfm": "1CH.25.26"
+    },
+    {
+      "start": 186.06,
+      "end": 191.08,
+      "usfm": "1CH.25.27"
+    },
+    {
+      "start": 191.08,
+      "end": 196.2,
+      "usfm": "1CH.25.28"
+    },
+    {
+      "start": 196.2,
+      "end": 201.16,
+      "usfm": "1CH.25.29"
+    },
+    {
+      "start": 201.16,
+      "end": 207.32,
+      "usfm": "1CH.25.30"
+    },
+    {
+      "start": 207.32,
+      "end": 222.76,
+      "usfm": "1CH.25.31"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    17.8,
+    28.58,
+    44.0,
+    63.82,
+    73.12,
+    85.28,
+    93.54,
+    100.56,
+    108.08,
+    112.84,
+    117.32,
+    121.48,
+    126.08,
+    130.7,
+    134.9,
+    139.68,
+    143.7,
+    147.84,
+    152.68,
+    157.18,
+    162.5,
+    166.8,
+    171.8,
+    176.38,
+    180.96,
+    186.06,
+    191.08,
+    196.2,
+    201.16,
+    207.32,
+    222.76
+  ],
+  "times_en_usfm": [
+    "1CH.25.1",
+    "1CH.25.2",
+    "1CH.25.3",
+    "1CH.25.4",
+    "1CH.25.5",
+    "1CH.25.6",
+    "1CH.25.7",
+    "1CH.25.8",
+    "1CH.25.9",
+    "1CH.25.10",
+    "1CH.25.11",
+    "1CH.25.12",
+    "1CH.25.13",
+    "1CH.25.14",
+    "1CH.25.15",
+    "1CH.25.16",
+    "1CH.25.17",
+    "1CH.25.18",
+    "1CH.25.19",
+    "1CH.25.20",
+    "1CH.25.21",
+    "1CH.25.22",
+    "1CH.25.23",
+    "1CH.25.24",
+    "1CH.25.25",
+    "1CH.25.26",
+    "1CH.25.27",
+    "1CH.25.28",
+    "1CH.25.29",
+    "1CH.25.30",
+    "1CH.25.31"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? דוד ושרי הצבא ייעדו את בני אסף, הימן וידותון לעבודת המקדש כנגנים וכמי שנקראו \"הנביאים\" המנגנים בכינורות, בנבלים ובמצלתיים.",
+      "text_he": "הידעת? דוד ושרי הצבא ייעדו את בני אסף, הימן וידותון לעבודת המקדש כנגנים וכמי שנקראו \"הנביאים\" המנגנים בכינורות, בנבלים ובמצלתיים.",
+      "text_en": "Did you know? David and the commanders of the army assigned the sons of Asaph, Heman, and Jeduthun to serve in the temple as musicians and as those called “prophets,” playing lyres, harps, and cymbals."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? בני אסף — זכור, יוסף, נתניה ואשראלה — שירתו תחת הנהגת אסף, והכתוב מתאר את אסף כמי שניבא על ידי המלך.",
+      "text_he": "הידעת? בני אסף — זכור, יוסף, נתניה ואשראלה — שירתו תחת הנהגת אסף, והכתוב מתאר את אסף כמי שניבא על ידי המלך.",
+      "text_en": "Did you know? The sons of Asaph—Zaccur, Joseph, Nethaniah, and Asharelah—served under Asaph’s direction, and Scripture describes Asaph as one who prophesied under the king."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? לידותון היו שישה בנים: גדליהו, צרי, ישעיהו, חשביהו, מתתיהו ושמעי; הם שירתו בנגינה בכינור ובהודאה ובהלל לה'.",
+      "text_he": "הידעת? לידותון היו שישה בנים: גדליהו, צרי, ישעיהו, חשביהו, מתתיהו ושמעי; הם שירתו בנגינה בכינור ובהודאה ובהלל לה'.",
+      "text_en": "Did you know? Jeduthun had six sons: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah. They served by playing the lyre and giving thanks and praise to the LORD."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? להימן היו ארבעה עשר בנים ושלוש בנות. הימן עצמו מתואר כ\"חֹזֵה הַמֶּלֶךְ בְּדִבְרֵי הָאֱלֹהִים\".",
+      "text_he": "הידעת? להימן היו ארבעה עשר בנים ושלוש בנות. הימן עצמו מתואר כ\"חֹזֵה הַמֶּלֶךְ בְּדִבְרֵי הָאֱלֹהִים\".",
+      "text_en": "Did you know? Heman had fourteen sons and three daughters. Heman himself is described as “the king’s seer in the words of God.”"
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? עבודת השירה נעשתה בהנהגת האבות — אסף, ידותון והימן — וכללה מצלתיים, נבלים וכינורות לעבודת בית האלוהים.",
+      "text_he": "הידעת? עבודת השירה נעשתה בהנהגת האבות — אסף, ידותון והימן — וכללה מצלתיים, נבלים וכינורות לעבודת בית האלוהים.",
+      "text_en": "Did you know? The musical service was led by the heads of the families—Asaph, Jeduthun, and Heman—and included cymbals, harps, and lyres for the service of the house of God."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? מספר הלויים המיומנים בשירה, יחד עם אחיהם, היה 288.",
+      "text_he": "הידעת? מספר הלויים המיומנים בשירה, יחד עם אחיהם, היה 288.",
+      "text_en": "Did you know? The number of skilled Levite musicians, together with their brothers, was 288."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? חלוקת המשמרות נעשתה בגורל, בשוויון בין הקטן לגדול ובין המומחה לתלמיד.",
+      "text_he": "הידעת? חלוקת המשמרות נעשתה בגורל, בשוויון בין הקטן לגדול ובין המומחה לתלמיד.",
+      "text_en": "Did you know? The divisions were assigned by lot, equally for the youngest and the oldest, and for the teacher and the student."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? הגורל הראשון נפל לאסף — ליוסף — והגורל השני לגדליהו; מכאן מתחילה רשימת עשרים וארבע משמרות הנגנים.",
+      "text_he": "הידעת? הגורל הראשון נפל לאסף — ליוסף — והגורל השני לגדליהו; מכאן מתחילה רשימת עשרים וארבע משמרות הנגנים.",
+      "text_en": "Did you know? The first lot fell to Asaph—to Joseph—and the second to Gedaliah. This begins the list of the twenty-four divisions of musicians."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? ברשימת הגורלות, הגורל השישה עשר נפל לחנניהו, והכתוב מציין שלכל אחת מן הקבוצות היו שנים עשר בנים ואחים.",
+      "text_he": "הידעת? ברשימת הגורלות, הגורל השישה עשר נפל לחנניהו, והכתוב מציין שלכל אחת מן הקבוצות היו שנים עשר בנים ואחים.",
+      "text_en": "Did you know? In the list of lots, the sixteenth lot fell to Hananiah, and Scripture notes that each group had twelve sons and brothers."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? הגורל העשרים וארבעה והאחרון נפל לרוממתי־עזר, ובכך מסתיימת רשימת עשרים וארבע משמרות הנגנים.",
+      "text_he": "הידעת? הגורל העשרים וארבעה והאחרון נפל לרוממתי־עזר, ובכך מסתיימת רשימת עשרים וארבע משמרות הנגנים.",
+      "text_en": "Did you know? The twenty-fourth and final lot fell to Romamti-Ezer, bringing the list of the twenty-four divisions of musicians to an end."
+    }
+  ]
+}

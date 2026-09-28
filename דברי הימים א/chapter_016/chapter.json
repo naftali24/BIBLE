@@ -1,0 +1,706 @@
+{
+  "book": "I Chronicles",
+  "book_he": "דברי הימים א",
+  "book_chapters": 29,
+  "chapter": 16,
+  "title": "דברי הימים א פרק 16",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a16.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a16.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1CH/16-a144f839098644201d83c14f83f27c9d.mp3?version_id=1",
+  "verses": [
+    "וַיָּבִיאוּ, אֶת-אֲרוֹן הָאֱלֹהִים, וַיַּצִּיגוּ אֹתוֹ, בְּתוֹךְ הָאֹהֶל אֲשֶׁר נָטָה-לוֹ דָּוִיד; וַיַּקְרִיבוּ עֹלוֹת וּשְׁלָמִים, לִפְנֵי הָאֱלֹהִים.",
+    "וַיְכַל דָּוִיד, מֵהַעֲלוֹת הָעֹלָה וְהַשְּׁלָמִים; וַיְבָרֶךְ אֶת-הָעָם, בְּשֵׁם יְהוָה.",
+    "וַיְחַלֵּק לְכָל-אִישׁ יִשְׂרָאֵל, מֵאִישׁ וְעַד-אִשָּׁה--לְאִישׁ, כִּכַּר-לֶחֶם, וְאֶשְׁפָּר, וַאֲשִׁישָׁה.",
+    "וַיִּתֵּן לִפְנֵי אֲרוֹן יְהוָה, מִן-הַלְוִיִּם--מְשָׁרְתִים; וּלְהַזְכִּיר וּלְהוֹדוֹת וּלְהַלֵּל, לַיהוָה אֱלֹהֵי יִשְׂרָאֵל.",
+    "אָסָף הָרֹאשׁ, וּמִשְׁנֵהוּ זְכַרְיָה; יְעִיאֵל וּשְׁמִירָמוֹת וִיחִיאֵל וּמַתִּתְיָה וֶאֱלִיאָב וּבְנָיָהוּ וְעֹבֵד אֱדֹם וִיעִיאֵל, בִּכְלֵי נְבָלִים וּבְכִנֹּרוֹת, וְאָסָף, בַּמְצִלְתַּיִם מַשְׁמִיעַ.",
+    "וּבְנָיָהוּ וְיַחֲזִיאֵל, הַכֹּהֲנִים--בַּחֲצֹצְרוֹת תָּמִיד, לִפְנֵי אֲרוֹן בְּרִית-הָאֱלֹהִים.",
+    "בַּיּוֹם הַהוּא, אָז נָתַן דָּוִיד בָּרֹאשׁ, לְהֹדוֹת, לַיהוָה--בְּיַד-אָסָף, וְאֶחָיו. {ש}",
+    "הוֹדוּ לַיהוָה, קִרְאוּ בִשְׁמוֹ-- {ס} הוֹדִיעוּ בָעַמִּים, עֲלִילֹתָיו. {ר}",
+    "שִׁירוּ לוֹ, זַמְּרוּ-לוֹ-- {ס} שִׂיחוּ, בְּכָל-נִפְלְאֹתָיו. {ר}",
+    "הִתְהַלְלוּ, בְּשֵׁם קָדְשׁוֹ-- {ס} יִשְׂמַח, לֵב מְבַקְשֵׁי יְהוָה. {ר}",
+    "דִּרְשׁוּ יְהוָה, וְעֻזּוֹ-- {ס} בַּקְּשׁוּ פָנָיו, תָּמִיד. {ר}",
+    "זִכְרוּ, נִפְלְאֹתָיו אֲשֶׁר עָשָׂה-- {ס} מֹפְתָיו, וּמִשְׁפְּטֵי-פִיהוּ. {ר}",
+    "זֶרַע, יִשְׂרָאֵל עַבְדּוֹ-- {ס} בְּנֵי יַעֲקֹב, בְּחִירָיו. {ר}",
+    "הוּא, יְהוָה אֱלֹהֵינוּ-- {ס} בְּכָל-הָאָרֶץ, מִשְׁפָּטָיו. {ר}",
+    "זִכְרוּ לְעוֹלָם, בְּרִיתוֹ-- {ס} דָּבָר צִוָּה, לְאֶלֶף דּוֹר. {ר}",
+    "אֲשֶׁר כָּרַת, אֶת-אַבְרָהָם-- {ס} וּשְׁבוּעָתוֹ, לְיִצְחָק. {ר}",
+    "וַיַּעֲמִידֶהָ לְיַעֲקֹב, לְחֹק-- {ס} לְיִשְׂרָאֵל, בְּרִית עוֹלָם. {ר}",
+    "לֵאמֹר, לְךָ אֶתֵּן אֶרֶץ-כְּנָעַן-- {ס} חֶבֶל, נַחֲלַתְכֶם. {ר}",
+    "בִּהְיוֹתְכֶם, מְתֵי מִסְפָּר-- {ס} כִּמְעַט, וְגָרִים בָּהּ. {ר}",
+    "וַיִּתְהַלְּכוּ, מִגּוֹי אֶל-גּוֹי-- {ס} וּמִמַּמְלָכָה, אֶל-עַם אַחֵר. {ר}",
+    "לֹא-הִנִּיחַ לְאִישׁ, לְעָשְׁקָם-- {ס} וַיּוֹכַח עֲלֵיהֶם, מְלָכִים. {ר}",
+    "אַל-תִּגְּעוּ, בִּמְשִׁיחָי-- {ס} וּבִנְבִיאַי, אַל-תָּרֵעוּ. {ר} {ש}",
+    "שִׁירוּ לַיהוָה, כָּל-הָאָרֶץ-- {ס} בַּשְּׂרוּ מִיּוֹם-אֶל-יוֹם, יְשׁוּעָתוֹ. {ר}",
+    "סַפְּרוּ בַגּוֹיִם, אֶת-כְּבוֹדוֹ-- {ס} בְּכָל-הָעַמִּים, נִפְלְאֹתָיו. {ר}",
+    "כִּי גָדוֹל יְהוָה וּמְהֻלָּל, מְאֹד-- {ס} וְנוֹרָא הוּא, עַל-כָּל-אֱלֹהִים. {ר}",
+    "כִּי כָּל-אֱלֹהֵי הָעַמִּים, אֱלִילִים-- {ס} וַיהוָה, שָׁמַיִם עָשָׂה. {ר}",
+    "הוֹד וְהָדָר, לְפָנָיו-- {ס} עֹז וְחֶדְוָה, בִּמְקֹמוֹ. {ר}",
+    "הָבוּ לַיהוָה, מִשְׁפְּחוֹת עַמִּים-- {ס} הָבוּ לַיהוָה, כָּבוֹד וָעֹז. {ר}",
+    "הָבוּ לַיהוָה, כְּבוֹד שְׁמוֹ; {ס} שְׂאוּ מִנְחָה, וּבֹאוּ לְפָנָיו-- {ר} הִשְׁתַּחֲווּ לַיהוָה, בְּהַדְרַת-קֹדֶשׁ.",
+    "חִילוּ מִלְּפָנָיו, כָּל-הָאָרֶץ-- {ר} אַף-תִּכּוֹן תֵּבֵל, בַּל-תִּמּוֹט.",
+    "יִשְׂמְחוּ הַשָּׁמַיִם, וְתָגֵל הָאָרֶץ-- {ר} וְיֹאמְרוּ בַגּוֹיִם, יְהוָה מָלָךְ.",
+    "יִרְעַם הַיָּם, וּמְלוֹאוֹ-- {ר} יַעֲלֹץ הַשָּׂדֶה, וְכָל-אֲשֶׁר-בּוֹ.",
+    "אָז יְרַנְּנוּ, עֲצֵי הַיָּעַר: {ר} מִלִּפְנֵי יְהוָה--כִּי-בָא, לִשְׁפּוֹט אֶת-הָאָרֶץ.",
+    "הוֹדוּ לַיהוָה, כִּי טוֹב-- {ר} כִּי לְעוֹלָם, חַסְדּוֹ.",
+    "וְאִמְרוּ--הוֹשִׁיעֵנוּ אֱלֹהֵי יִשְׁעֵנוּ, {ר} וְקַבְּצֵנוּ וְהַצִּילֵנוּ מִן-הַגּוֹיִם: {ס} לְהֹדוֹת לְשֵׁם קָדְשֶׁךָ, {ר} לְהִשְׁתַּבֵּחַ בִּתְהִלָּתֶךָ.",
+    "בָּרוּךְ יְהוָה, אֱלֹהֵי יִשְׂרָאֵל-- {ר} מִן-הָעוֹלָם, וְעַד הָעֹלָם; וַיֹּאמְרוּ כָל-הָעָם, אָמֵן-- {ס} וְהַלֵּל, לַיהוָה. {ר} {ש}",
+    "וַיַּעֲזָב-שָׁם, לִפְנֵי אֲרוֹן בְּרִית-יְהוָה, לְאָסָף, וּלְאֶחָיו: לְשָׁרֵת לִפְנֵי הָאָרוֹן, תָּמִיד--לִדְבַר-יוֹם בְּיוֹמוֹ.",
+    "וְעֹבֵד אֱדֹם וַאֲחֵיהֶם, שִׁשִּׁים וּשְׁמוֹנָה; {ס} וְעֹבֵד אֱדֹם בֶּן-יְדִיתוּן וְחֹסָה, לְשֹׁעֲרִים.",
+    "וְאֵת צָדוֹק הַכֹּהֵן, וְאֶחָיו הַכֹּהֲנִים, לִפְנֵי, מִשְׁכַּן יְהוָה--בַּבָּמָה, אֲשֶׁר בְּגִבְעוֹן.",
+    "לְהַעֲלוֹת עֹלוֹת לַיהוָה עַל-מִזְבַּח הָעֹלָה, תָּמִיד--לַבֹּקֶר וְלָעָרֶב; וּלְכָל-הַכָּתוּב בְּתוֹרַת יְהוָה, אֲשֶׁר צִוָּה עַל-יִשְׂרָאֵל.",
+    "וְעִמָּהֶם, הֵימָן וִידוּתוּן, וּשְׁאָר הַבְּרוּרִים, אֲשֶׁר נִקְּבוּ בְּשֵׁמוֹת--לְהֹדוֹת, לַיהוָה, כִּי לְעוֹלָם, חַסְדּוֹ.",
+    "וְעִמָּהֶם הֵימָן וִידוּתוּן חֲצֹצְרוֹת וּמְצִלְתַּיִם, לְמַשְׁמִיעִים, וּכְלֵי, שִׁיר הָאֱלֹהִים; וּבְנֵי יְדוּתוּן, לַשָּׁעַר.",
+    "וַיֵּלְכוּ כָל-הָעָם, אִישׁ לְבֵיתוֹ; וַיִּסֹּב דָּוִיד, לְבָרֵךְ אֶת-בֵּיתוֹ."
+  ],
+  "english": [
+    "So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.",
+    "And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.",
+    "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon\nof wine.",
+    "And he appointed\ncertain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:",
+    "Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;",
+    "Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.",
+    "Then on that day David delivered first\nthis psalm to thank the LORD into the hand of Asaph and his brethren.",
+    "Give thanks unto the LORD, call upon his name, make known his deeds among the people.",
+    "Sing unto him, sing psalms unto him, talk ye of all his wondrous works.",
+    "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
+    "Seek the LORD and his strength, seek his face continually.",
+    "Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth;",
+    "O ye seed of Israel his servant, ye children of Jacob, his chosen ones.",
+    "He\nis the LORD our God; his judgments\nare in all the earth.",
+    "Be ye mindful always of his covenant; the word\nwhich he commanded to a thousand generations;",
+    "Even of the covenant which he made with Abraham, and of his oath unto Isaac;",
+    "And hath confirmed the same to Jacob for a law,\nand to Israel\nfor an everlasting covenant,",
+    "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;",
+    "When ye were but few, even a few, and strangers in it.",
+    "And\nwhen they went from nation to nation, and from\none\n kingdom to another people;",
+    "He suffered no man to do them wrong: yea, he reproved kings for their sakes,",
+    "Saying, Touch not mine anointed, and do my prophets no harm.",
+    "Sing unto the LORD, all the earth; shew forth from day to day his salvation.",
+    "Declare his glory among the heathen; his marvellous works among all nations.",
+    "For great\nis the LORD, and greatly to be praised: he also\nis to be feared above all gods.",
+    "For all the gods of the people\nare idols: but the LORD made the heavens.",
+    "Glory and honour\nare in his presence; strength and gladness\nare in his place.",
+    "Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength.",
+    "Give unto the LORD the glory\ndue unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.",
+    "Fear before him, all the earth: the world also shall be stable, that it be not moved.",
+    "Let the heavens be glad, and let the earth rejoice: and let\nmen\n say among the nations, The LORD reigneth.",
+    "Let the sea roar, and the fulness thereof: let the fields rejoice, and all that\nis therein.",
+    "Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth.",
+    "O give thanks unto the LORD; for\nhe is good; for his mercy\nendureth for ever.",
+    "And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name,\nand glory in thy praise.",
+    "Blessed\nbe the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.",
+    "So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required:",
+    "And Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah\nto be porters:",
+    "And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that\nwas at Gibeon,",
+    "To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and\nto do according to all that is written in the law of the LORD, which he commanded Israel;",
+    "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy\nendureth for ever;",
+    "And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun\nwere porters.",
+    "And all the people departed every man to his house: and David returned to bless his house."
+  ],
+  "steinsaltz": [
+    "וַיָּבִיאוּ אֶת־אֲרוֹן הָאֱלֹהִים וַיַּצִּיגוּ, הציבו אֹתוֹ בְּתוֹךְ הָאֹהֶל אֲשֶׁר נָטָה, פרש לוֹ דָּוִיד. וַיַּקְרִיבוּ קרבנות עֹלוֹת וּשְׁלָמִים לִפְנֵי הָאֱלֹהִים.",
+    "וַיְכַל, סיים דָּוִיד מֵהַעֲלוֹת הָעֹלָה וְהַשְּׁלָמִים, וַיְבָרֶךְ אֶת־הָעָם בְּשֵׁם ה'.",
+    "וַיְחַלֵּק לְכָל־אִישׁ יִשְׂרָאֵל מֵאִישׁ וְעַד־אִשָּׁה מתנה לכבוד המאורע הגדול של הכנסת הארון למקומו, לְאִישׁ, לכל אחד מהנאספים נתן כִּכַּר־לֶחֶם וְאֶשְׁפָּר, חתיכת בשר, ויש שדרשו את המלה: 'אחד משישה בפר', שישית פר, וַאֲשִׁישָׁה, מאכל או משקה מענבים, או: קנקן יין.",
+    "וַיִּתֵּן לִפְנֵי אֲרוֹן ה' אנשים קבועים מִן־הַלְוִיִּם שיהיו מְשָׁרְתִים, וּלְהַזְכִּיר, לומר שיר המזכיר כביכול את ישראל לפני ה', או: המודיע את מעשי ה', וּלְהוֹדוֹת וּלְהַלֵּל לַה' אֱלֹהֵי יִשְׂרָאֵל. אף על פי שעדיין לא הוקם בית המקדש, כבר היה אוהל מקודש. על כן ראוי שיעמדו ליד הארון אנשים שישרתו שם בקביעות.",
+    "אָסָף הָרֹאשׁ וּמִשְׁנֵהוּ זְכַרְיָה, ואִתם יְעִיאֵל וּשְׁמִירָמוֹת וִיחִיאֵל וּמַתִּתְיָה וֶאֱלִיאָב וּבְנָיָהוּ וְעֹבֵד אֱדֹם וִיעִיאֵל מנגנים בִּכְלֵי נְבָלִים וּבְכִנֹּרוֹת, וְאָסָף בַּמְצִלְתַּיִם מַשְׁמִיעַ.",
+    "וּבְנָיָהוּ וְיַחֲזִיאֵל הַכֹּהֲנִים תוקעים בַּחֲצֹצְרוֹת תָּמִיד לִפְנֵי אֲרוֹן בְּרִית־הָאֱלֹהִים.",
+    "בַּיּוֹם הַהוּא אָז נָתַן דָּוִיד בָּרֹאשׁ, לראשונה את השיר לְהֹדוֹת לַה' בְּיַד־אָסָף וְאֶחָיו. לא ברור אם דויד הוא שחיבר את השירה הבאה, או שהוא רק קבע את תוכן השירה או את מסגרתה, ואחד המשוררים כתב אותה:",
+    "הפסוקים הבאים מופיעים בשינויים קלים כחלק ממזמור גדול יותר בספר תהלים. הוֹדוּ לַה', קִרְאוּ בִשְׁמוֹ, הוֹדִיעוּ בָעַמִּים את עֲלִילֹתָיו, מעשיו.",
+    "שִׁירוּ לוֹ, זַמְּרוּ־לוֹ, שִׂיחוּ, דברו בְּכָל־נִפְלְאוֹתָיו.",
+    "הִתְהַלְלוּ, השתבחו בְּשֵׁם קָדְשׁוֹ שנקרא עליכם, ועל כך שאתם מאמינים בו ומתברכים על ידו. יִשְׂמַח לֵב מְבַקְשֵׁי ה' בשמעם את כל אלה.",
+    "דִּרְשׁוּ, פנו, חפשו את ה' וְעֻזּוֹ, כוחו, בַּקְּשׁוּ את פָנָיו תָּמִיד.",
+    "זִכְרוּ את נִפְלְאֹתָיו אֲשֶׁר עָשָׂה, את מֹפְתָיו וגם את מִשְׁפְּטֵי־פִיהוּ, שציווה אותנו לעשות,",
+    "זֶרַע יִשְׂרָאֵל עַבְדּוֹ, בְּנֵי יַעֲקֹב בְּחִירָיו.",
+    "הוּא ה' אֱלֹהֵינוּ שבְּכָל־הָאָרֶץ, העולם יוצאים לפועל מִשְׁפָּטָיו, גזרותיו.",
+    "זִכְרוּ לְעוֹלָם את בְּרִיתוֹ הנצחית, את הדָּבָר שצִוָּה לְאֶלֶף דּוֹר, לדור דורים.",
+    "זוהי הברית אֲשֶׁר כָּרַת בתחילה אֶת, עם אַבְרָהָם, והיא שְׁבוּעָתוֹ לְיִצְחָק,",
+    "וַיַּעֲמִידֶהָ – את השבועה לְיַעֲקֹב לְחֹק קבוע, לְיִשְׂרָאֵל העמיד אותה בתור בְּרִית עוֹלָם.",
+    "לֵאמֹר: \"לְךָ אֶתֵּן את אֶרֶץ־כְּנָעַן, חֶבֶל, חלק, אזור נַחֲלַתְכֶם\". הבטחת הארץ הייתה חלק מהברית שכרת ה' עם אבות האומה.",
+    "גם בִּהְיוֹתְכֶם מְתֵי מִסְפָּר, אנשים ספורים, כִּמְעַט וְגָרִים בָּהּ. לא הייתם תושבי הארץ אלא רק גֵּרים בה, מועטים וחלשים.",
+    "וַיִּתְהַלְּכוּ, נדדו אבותיכם מִגּוֹי אֶל־גּוֹי, וּמִמַּמְלָכָה אֶל־עַם אַחֵר, בתוך גבולות הארץ, ולעתים מחוץ להם, כמו אברהם שהלך למצרים ולארץ פלשתים.",
+    "ואף על פי שהם היו גרים ותלושים, לֹא־הִנִּיחַ לְאִישׁ לְעָשְׁקָם, לקפחם, לגזלם, וַיּוֹכַח, ה' הזהיר וייסר עֲלֵיהֶם, למענם ובענייניהם את המְלָכִים, כמו שמסופר על אברהם ויצחק בעניין פרעה ואבימלך, ואמר להם:",
+    "אַל־תִּגְּעוּ בִּמְשִׁיחָי, אלה שמשחתי להיות נסיכי. גם אם כלפי חוץ, הם אינם נראים מלכים גדולים, אלו הם המלכים שלי. וּבִנְבִיאַי, אבות האומה, שהיו גם נביאים, אַל־תָּרֵעוּ, תפגעו.",
+    "גם פסוקים אלה מופיעים, בכמה שינויים, כמזמור לעצמו בספר תהלים: שִׁירוּ לַה', כָּל־הָאָרֶץ, בַּשְּׂרוּ מִיּוֹם־אֶל־יוֹם, בכל יום ויום את יְשׁוּעָתוֹ מחדש.",
+    "סַפְּרוּ בַגּוֹיִם אֶת־כְּבוֹדוֹ, בְּכָל־הָעַמִּים ספרו את נִפְלְאֹתָיו.",
+    "כִּי גָדוֹל ה' וּמְהֻלָּל מְאֹד, וְנוֹרָא, נשגב, מעורר יראה הוּא עַל־כָּל־אֱלֹהִים.",
+    "כִּי כָּל־אֱלֹהֵי הָעַמִּים אינם אלים אמתיים אלא אֱלִילִים, ביטוי להקטנה וזלזול, כצעצועים, וַה' הוא אשר שָׁמַיִם עָשָׂה.",
+    "הוֹד וְהָדָר לְפָנָיו, עֹז וְחֶדְוָה בִּמְקֹמוֹ.",
+    "הָבוּ, תנו לַה', מִשְׁפְּחוֹת עַמִּים, הָבוּ לַה' כָּבוֹד וָעֹז, פאר והדר.",
+    "הָבוּ לַה' את כְּבוֹד שְׁמוֹ, הכבוד שראוי לתת לשמו. שְׂאוּ מִנְחָה וּבֹאוּ לְפָנָיו, הִשְׁתַּחֲווּ לַה' בְּהַדְרַת־קֹדֶשׁ.",
+    "חִילוּ, רעדו מִלְּפָנָיו, כָּל תושבי הָאָרֶץ, העולם. אַף־תִּכּוֹן, תתייצב תֵּבֵל בַּל־תִּמּוֹט. העולם, שנראה לעתים רופף, יעמוד איתן כאשר כל יושביו יכבדו את ה' וייכנעו מלפניו. אז השמחה והשירה יקיפו את הבריאה כולה –",
+    "יִשְׂמְחוּ הַשָּׁמַיִם, וְתָגֵל, תשמח גם הָאָרֶץ, וְיֹאמְרוּ בַגּוֹיִם: ה' מָלָךְ.",
+    "יִרְעַם, יגעש, ירעיש הַיָּם וּמְלוֹאוֹ, כל מה שבו. קולות הגלים נתפסים כשירתו של הים. יַעֲלֹץ, ישמח הַשָּׂדֶה וְכָל־אֲשֶׁר־בּוֹ.",
+    "אָז יְרַנְּנוּ עֲצֵי הַיָּעַר, מִלִּפְנֵי ה', כִּי, כאשר בָא לִשְׁפּוֹט אֶת־הָאָרֶץ. גם הטבע שאינו בתחום שלטונו של האדם, יתמלא שמחה ורגש כאשר ה' יתגלה בעולם באמצעות משפטו.",
+    "ולסיום, מעין הפתיחה: הוֹדוּ לַה' כִּי טוֹב, כִּי לְעוֹלָם חַסְדּוֹ.",
+    "וְאִמְרוּ: \"הוֹשִׁיעֵנוּ, אֱלֹהֵי יִשְׁעֵנוּ, וְקַבְּצֵנוּ וְהַצִּילֵנוּ מִן־הַגּוֹיִם, לְהֹדוֹת לְשֵׁם קָדְשֶׁךָ ולְהִשְׁתַּבֵּחַ בִּתְהִלָּתֶךָ\".",
+    "בָּרוּךְ ה' אֱלֹהֵי יִשְׂרָאֵל מִן־הָעוֹלָם וְעַד־הָעֹלָם, לנצח נצחים. זו שירתו של דויד לכבוד הבאת ארון ה' למקומו הקבוע. וַיֹּאמְרוּ כָל־הָעָם: אָמֵן וְהַלֵּל לַה'.",
+    "וַיַּעֲזָב, דויד השאיר שָׁם לִפְנֵי אֲרוֹן בְּרִית־ה' לְאָסָף וּלְאֶחָיו, את אסף ואחיו כדי לְשָׁרֵת לִפְנֵי הָאָרוֹן תָּמִיד לִדְבַר־יוֹם בְּיוֹמוֹ, כפי המעשה הנצרך בכל יום.",
+    "וְעֹבֵד אֱדֹם וַאֲחֵיהֶם המשוררים היו בסך הכול שִׁשִּׁים וּשְׁמוֹנָה, וְעֹבֵד אֱדֹם בֶּן־יְדִיתוּן וְחֹסָה ממונים לְשֹׁעֲרִים.",
+    "וְאֵת צָדוֹק הַכֹּהֵן וְאֶחָיו הַכֹּהֲנִים העמיד דויד לשרת לִפְנֵי מִשְׁכַּן ה' בַּבָּמָה, מקום מוגבה שעליו הוקם מזבח, אֲשֶׁר בְּגִבְעוֹן. שם היה מעין מקדש.",
+    "לְהַעֲלוֹת שם עֹלוֹת לַה' עַל־מִזְבַּח הָעֹלָה תָּמִיד לַבֹּקֶר וְלָעָרֶב, וּלְפי כָל הַכָּתוּב בְּתוֹרַת ה' אֲשֶׁר צִוָּה עַל־יִשְׂרָאֵל. את הארון הביאו למקום מרכזי ומכובד יותר – ליד המלך וצבאו – עד שייבנה בית המקדש הקבוע. בינתיים הקריבו את קרבנות התמיד בבמה המרכזית שבגבעון. לאחר זמן יקריב שם גם שלמה המלך קרבנות.",
+    "וְעִמָּהֶם – עם הכהנים המעלים את העולות היו הֵימָן וִידוּתוּן וּשְׁאָר הַבְּרוּרִים, הנבחרים אֲשֶׁר נִקְּבוּ, נזכרו בְּשֵׁמוֹת, לְהֹדוֹת לַה' כִּי לְעוֹלָם חַסְדּוֹ. הם היו שרים עם קרבנות הציבור.",
+    "וְשוב, בפירוט – עִמָּהֶם הֵימָן וִידוּתוּן מנגנים בחֲצֹצְרוֹת וּמְצִלְתַּיִם להיות מַשְׁמִיעִים קול רם, וּשאר כְלֵי שִׁיר הָאֱלֹהִים. וּבְנֵי יְדוּתוּן לא שרו אלא היו אחראים לַשָּׁעַר.",
+    "כשהסתיימה החגיגה, וַיֵּלְכוּ כָל־הָעָם אִישׁ לְבֵיתוֹ, ולאחר שדויד נפרד לשלום מישראל – וַיִּסֹּב, פנה דָּוִיד לְבָרֵךְ אֶת בני בֵּיתוֹ ולשמוח עמם."
+  ],
+  "ai_explanation": [
+    "מביאים את ארון האלוהים ומציבים אותו באוהל שדוד הכין עבורו, ולאחר מכן מקריבים לפני האלוהים קרבנות עולה ושלמים.",
+    "לאחר שדוד מסיים להעלות את קרבנות העולה והשלמים, הוא מברך את העם בשם ה'.",
+    "דוד מחלק לכל בני ישראל, גברים ונשים, מתנה לכבוד הכנסת הארון: כיכר לחם, חתיכת בשר או שישית פר, ואשישה – מאכל או משקה מענבים, ואולי קנקן יין.",
+    "דוד ממנה לווים לשרת בקביעות לפני ארון ה', להזכיר, להודות ולהלל את ה' אלוהי ישראל. אף שעדיין לא נבנה בית המקדש, כבר היה אוהל מקודש שבו עמד הארון.",
+    "אסף עומד בראש, ולצדו זכריה ושאר המשוררים המוזכרים בפסוק, המנגנים בנבלים ובכינורות; אסף משמיע את קול המצלתיים.",
+    "בניהו ויחזיאל, הכוהנים, תוקעים תמיד בחצוצרות לפני ארון ברית האלוהים.",
+    "באותו יום דוד מוסר לראשונה לאסף ולאחיו את השיר להודות לה'. לא ברור אם דוד חיבר את השירה בעצמו או רק קבע את תוכנה או את מסגרתה.",
+    "העם נקרא להודות לה', לקרוא בשמו ולספר לעמים על מעשיו ונפלאותיו.",
+    "יש לשיר ולזמר לה' ולדבר על כל נפלאותיו.",
+    "יש להתהלל ולהשתבח בשם קודשו, ולשמוח בלבם של מבקשי ה' כשהם שומעים את מעשיו.",
+    "יש לפנות אל ה' ולבקש את כוחו ואת קרבת פניו תמיד.",
+    "יש לזכור את נפלאות ה', את אותותיו ואת משפטי פיו – המצוות והציוויים שנתן.",
+    "זרע ישראל הם עבדי ה', ובני יעקב הם בחיריו.",
+    "ה' הוא אלוהי ישראל, ובכל הארץ יוצאים לפועל משפטיו וגזרותיו.",
+    "יש לזכור לעולם את בריתו ואת הדבר שציווה לאלף דור, כלומר לדורות רבים ולנצח.",
+    "הברית היא זו שכרת ה' עם אברהם, והשבועה שנשבע ליצחק.",
+    "ה' העמיד את השבועה ליעקב כחוק קבוע, ולישראל כברית עולם.",
+    "ההבטחה בברית הייתה לתת את ארץ כנען לישראל כחלק מנחלתם.",
+    "הבטחה זו ניתנה אף בתקופה שבה היו האבות מעטים במספר, כמעט רק גרים בארץ.",
+    "האבות נדדו מגוי לגוי ומממלכה לעם אחר, בתוך הארץ ולעיתים גם מחוצה לה.",
+    "אף שהיו גרים וחלשים, ה' לא הניח לאיש לעשוק אותם, ואף הזהיר מלכים למענם, כפי שנראה בסיפורי פרעה ואבימלך.",
+    "המלכים נקראים שלא לפגוע במשיחי ה', כלומר באבות שנמשחו ונבחרו, ובנביאיו – האבות שהיו גם נביאים.",
+    "כל הארץ נקראת לשיר לה' ולבשר בכל יום מחדש את ישועתו.",
+    "יש לספר בגויים את כבוד ה' ובכל העמים את נפלאותיו.",
+    "ה' גדול ומהולל מאוד, ונורא ונשגב מעל כל האלוהים.",
+    "אלוהי העמים אינם אלים אמיתיים אלא אלילים, ואילו ה' הוא שעשה את השמים.",
+    "לפני ה' יש הוד והדר, ובמקומו נמצאים עוז וחדווה.",
+    "משפחות העמים נקראות לתת לה' כבוד ועוז, כלומר פאר והדר.",
+    "יש לתת לה' את כבוד שמו, להביא מנחה ולבוא לפניו, ולהשתחוות לו בהדרת קודש.",
+    "כל תושבי הארץ נקראים לירוא מלפני ה'; כאשר העולם יעמוד איתן ולא ימוט, תהיה בו יציבות תחת מלכות ה'.",
+    "השמים והארץ נקראים לשמוח, והעמים להכריז שה' מלך.",
+    "הים וכל אשר בו נקראים לרעום ולגעוש, והשדה וכל אשר בו נקראים לשמוח.",
+    "אפילו עצי היער ירננו לפני ה', כאשר הוא בא לשפוט את הארץ; הטבע כולו מגיב בשמחה להתגלותו במשפט.",
+    "השיר מסתיים בחזרה על הקריאה להודות לה', כי הוא טוב וחסדו לעולם.",
+    "העם נקרא לבקש מה' ישועה, קיבוץ והצלה מן הגויים, כדי להודות לשמו הקדוש ולהשתבח בתהילתו.",
+    "ה' אלוהי ישראל מבורך מן העולם ועד העולם. כל העם עונה אמן ומהלל את ה'.",
+    "דוד משאיר את אסף ואת אחיו לפני ארון ברית ה' כדי לשרת לפניו תמיד, בכל יום לפי הצורך.",
+    "עובד אדום ואחיו, שמספרם שישים ושמונה, משמשים יחד עם עובד אדום בן ידיתון וחסה כשוערים.",
+    "דוד ממנה את צדוק הכוהן ואת אחיו הכוהנים לשרת לפני משכן ה' בבמה שבגבעון, שם היה מקום מקודש ומזבח.",
+    "הכוהנים מעלים שם תמיד עולות לה' על מזבח העולה, בבוקר ובערב, בהתאם לכל הכתוב בתורת ה'. בינתיים הארון נמצא במקום מרכזי אחר, עד לבניית בית המקדש הקבוע.",
+    "עם הכוהנים נמצאים הימן, ידותון ושאר הנבחרים שנקבו בשמות, כדי להודות לה' ולשיר שחסדו לעולם.",
+    "הימן וידותון משמיעים בחצוצרות ובמצלתיים ובכלי השיר של האלוהים; בני ידותון מופקדים על השער.",
+    "לאחר סיום החגיגה העם חוזר איש לביתו, ודוד פונה לברך את בני ביתו ולשמוח עמם."
+  ],
+  "ai_explanation_en": [
+    "The Ark of God is brought and placed in the tent David prepared for it, and burnt offerings and fellowship offerings are then presented before God.",
+    "After David finishes presenting the burnt offerings and fellowship offerings, he blesses the people in the name of the Lord.",
+    "David gives every Israelite, men and women alike, a gift marking the bringing of the Ark: a loaf of bread, a piece of meat or one-sixth of an ox, and an ashishah—a food or drink made from grapes, perhaps a jug of wine.",
+    "David appoints Levites to serve regularly before the Ark of the Lord, to commemorate, give thanks, and praise the Lord, God of Israel. Although the Temple has not yet been built, a sacred tent already stands there.",
+    "Asaph is chief, with Zechariah and the other musicians named in the verse, who play lyres and harps; Asaph sounds the cymbals.",
+    "Benaiah and Jahaziel, the priests, continually blow trumpets before the Ark of the Covenant of God.",
+    "On that day David gives Asaph and his brothers the song of thanksgiving for the first time. It is unclear whether David composed the song himself or only determined its content or framework.",
+    "The people are called to give thanks to the Lord, call on His name, and tell the nations about His deeds and wonders.",
+    "They are to sing and make music to the Lord and speak of all His wonders.",
+    "They are to boast in and praise His holy name, and let the hearts of those who seek the Lord rejoice when they hear of His deeds.",
+    "They are to turn to the Lord, seek His strength, and seek His presence continually.",
+    "They are to remember the Lord's wonders, signs, and the judgments of His mouth—the commands He gave.",
+    "The descendants of Israel are the Lord's servants, and the children of Jacob are His chosen ones.",
+    "The Lord is Israel's God, and throughout the earth His judgments and decrees are carried out.",
+    "His covenant and the word He commanded for a thousand generations—that is, for many generations and forever—are to be remembered eternally.",
+    "This is the covenant the Lord made with Abraham, and the oath He swore to Isaac.",
+    "The Lord established the oath to Jacob as a fixed statute and made it an everlasting covenant with Israel.",
+    "The covenant included the promise to give the land of Canaan to Israel as its inheritance.",
+    "This promise was given even when the ancestors were few in number and were almost merely resident strangers in the land.",
+    "The ancestors wandered from nation to nation and from one kingdom to another, within the land and sometimes beyond it.",
+    "Although they were strangers and weak, the Lord allowed no one to oppress them and warned kings on their behalf, as in the stories of Pharaoh and Abimelech.",
+    "The kings are warned not to harm the Lord's anointed ones—the chosen ancestors—and not to injure His prophets, since the ancestors were also prophets.",
+    "All the earth is called to sing to the Lord and announce His salvation anew each day.",
+    "The nations are to recount the Lord's glory and tell all peoples of His wonders.",
+    "The Lord is great and greatly praised, and He is awesome and exalted above all gods.",
+    "The gods of the nations are not real gods but idols, while the Lord is the One who made the heavens.",
+    "Splendor and majesty are before the Lord, and strength and joy are in His place.",
+    "The families of the nations are called to give the Lord honor and strength—splendor and majesty.",
+    "They are to give the Lord the honor due to His name, bring an offering, come before Him, and bow in holy splendor.",
+    "All the inhabitants of the earth are called to fear before the Lord; when the world stands firm and does not totter, it has stability under His kingship.",
+    "The heavens and the earth are called to rejoice, and the nations to proclaim that the Lord reigns.",
+    "The sea and all it contains are called to roar and surge, while the field and everything in it are called to rejoice.",
+    "Even the trees of the forest will sing before the Lord when He comes to judge the earth; all nature responds joyfully to His manifestation through judgment.",
+    "The song concludes by repeating the call to give thanks to the Lord, because He is good and His kindness endures forever.",
+    "The people are called to ask the Lord for salvation, gathering, and deliverance from the nations, so that they may give thanks to His holy name and praise His glory.",
+    "The Lord, God of Israel, is blessed from everlasting to everlasting. All the people answer, 'Amen,' and praise the Lord.",
+    "David leaves Asaph and his brothers before the Ark of the Covenant of the Lord to serve before it continually, each day according to its needs.",
+    "Obed-edom and his brothers, sixty-eight in all, together with Obed-edom son of Jeduthun and Hosah, serve as gatekeepers.",
+    "David appoints Zadok the priest and his fellow priests to serve before the Lord's Tabernacle at the high place in Gibeon, a sacred site with an altar.",
+    "There the priests continually offer burnt offerings to the Lord on the altar of burnt offering, morning and evening, according to everything written in the Law of the Lord. Meanwhile, the Ark is in another central location until the permanent Temple is built.",
+    "Heman, Jeduthun, and the other chosen people listed by name are with the priests to give thanks to the Lord and sing that His kindness endures forever.",
+    "Heman and Jeduthun sound trumpets, cymbals, and the other instruments of God's song; the sons of Jeduthun are responsible for the gate.",
+    "When the celebration ends, the people return to their homes, and David goes to bless his household and rejoice with them."
+  ],
+  "perush": [
+    "מביאים את ארון האלוהים ומציבים אותו באוהל שדוד הכין עבורו, ולאחר מכן מקריבים לפני האלוהים קרבנות עולה ושלמים.",
+    "לאחר שדוד מסיים להעלות את קרבנות העולה והשלמים, הוא מברך את העם בשם ה'.",
+    "דוד מחלק לכל בני ישראל, גברים ונשים, מתנה לכבוד הכנסת הארון: כיכר לחם, חתיכת בשר או שישית פר, ואשישה – מאכל או משקה מענבים, ואולי קנקן יין.",
+    "דוד ממנה לווים לשרת בקביעות לפני ארון ה', להזכיר, להודות ולהלל את ה' אלוהי ישראל. אף שעדיין לא נבנה בית המקדש, כבר היה אוהל מקודש שבו עמד הארון.",
+    "אסף עומד בראש, ולצדו זכריה ושאר המשוררים המוזכרים בפסוק, המנגנים בנבלים ובכינורות; אסף משמיע את קול המצלתיים.",
+    "בניהו ויחזיאל, הכוהנים, תוקעים תמיד בחצוצרות לפני ארון ברית האלוהים.",
+    "באותו יום דוד מוסר לראשונה לאסף ולאחיו את השיר להודות לה'. לא ברור אם דוד חיבר את השירה בעצמו או רק קבע את תוכנה או את מסגרתה.",
+    "העם נקרא להודות לה', לקרוא בשמו ולספר לעמים על מעשיו ונפלאותיו.",
+    "יש לשיר ולזמר לה' ולדבר על כל נפלאותיו.",
+    "יש להתהלל ולהשתבח בשם קודשו, ולשמוח בלבם של מבקשי ה' כשהם שומעים את מעשיו.",
+    "יש לפנות אל ה' ולבקש את כוחו ואת קרבת פניו תמיד.",
+    "יש לזכור את נפלאות ה', את אותותיו ואת משפטי פיו – המצוות והציוויים שנתן.",
+    "זרע ישראל הם עבדי ה', ובני יעקב הם בחיריו.",
+    "ה' הוא אלוהי ישראל, ובכל הארץ יוצאים לפועל משפטיו וגזרותיו.",
+    "יש לזכור לעולם את בריתו ואת הדבר שציווה לאלף דור, כלומר לדורות רבים ולנצח.",
+    "הברית היא זו שכרת ה' עם אברהם, והשבועה שנשבע ליצחק.",
+    "ה' העמיד את השבועה ליעקב כחוק קבוע, ולישראל כברית עולם.",
+    "ההבטחה בברית הייתה לתת את ארץ כנען לישראל כחלק מנחלתם.",
+    "הבטחה זו ניתנה אף בתקופה שבה היו האבות מעטים במספר, כמעט רק גרים בארץ.",
+    "האבות נדדו מגוי לגוי ומממלכה לעם אחר, בתוך הארץ ולעיתים גם מחוצה לה.",
+    "אף שהיו גרים וחלשים, ה' לא הניח לאיש לעשוק אותם, ואף הזהיר מלכים למענם, כפי שנראה בסיפורי פרעה ואבימלך.",
+    "המלכים נקראים שלא לפגוע במשיחי ה', כלומר באבות שנמשחו ונבחרו, ובנביאיו – האבות שהיו גם נביאים.",
+    "כל הארץ נקראת לשיר לה' ולבשר בכל יום מחדש את ישועתו.",
+    "יש לספר בגויים את כבוד ה' ובכל העמים את נפלאותיו.",
+    "ה' גדול ומהולל מאוד, ונורא ונשגב מעל כל האלוהים.",
+    "אלוהי העמים אינם אלים אמיתיים אלא אלילים, ואילו ה' הוא שעשה את השמים.",
+    "לפני ה' יש הוד והדר, ובמקומו נמצאים עוז וחדווה.",
+    "משפחות העמים נקראות לתת לה' כבוד ועוז, כלומר פאר והדר.",
+    "יש לתת לה' את כבוד שמו, להביא מנחה ולבוא לפניו, ולהשתחוות לו בהדרת קודש.",
+    "כל תושבי הארץ נקראים לירוא מלפני ה'; כאשר העולם יעמוד איתן ולא ימוט, תהיה בו יציבות תחת מלכות ה'.",
+    "השמים והארץ נקראים לשמוח, והעמים להכריז שה' מלך.",
+    "הים וכל אשר בו נקראים לרעום ולגעוש, והשדה וכל אשר בו נקראים לשמוח.",
+    "אפילו עצי היער ירננו לפני ה', כאשר הוא בא לשפוט את הארץ; הטבע כולו מגיב בשמחה להתגלותו במשפט.",
+    "השיר מסתיים בחזרה על הקריאה להודות לה', כי הוא טוב וחסדו לעולם.",
+    "העם נקרא לבקש מה' ישועה, קיבוץ והצלה מן הגויים, כדי להודות לשמו הקדוש ולהשתבח בתהילתו.",
+    "ה' אלוהי ישראל מבורך מן העולם ועד העולם. כל העם עונה אמן ומהלל את ה'.",
+    "דוד משאיר את אסף ואת אחיו לפני ארון ברית ה' כדי לשרת לפניו תמיד, בכל יום לפי הצורך.",
+    "עובד אדום ואחיו, שמספרם שישים ושמונה, משמשים יחד עם עובד אדום בן ידיתון וחסה כשוערים.",
+    "דוד ממנה את צדוק הכוהן ואת אחיו הכוהנים לשרת לפני משכן ה' בבמה שבגבעון, שם היה מקום מקודש ומזבח.",
+    "הכוהנים מעלים שם תמיד עולות לה' על מזבח העולה, בבוקר ובערב, בהתאם לכל הכתוב בתורת ה'. בינתיים הארון נמצא במקום מרכזי אחר, עד לבניית בית המקדש הקבוע.",
+    "עם הכוהנים נמצאים הימן, ידותון ושאר הנבחרים שנקבו בשמות, כדי להודות לה' ולשיר שחסדו לעולם.",
+    "הימן וידותון משמיעים בחצוצרות ובמצלתיים ובכלי השיר של האלוהים; בני ידותון מופקדים על השער.",
+    "לאחר סיום החגיגה העם חוזר איש לביתו, ודוד פונה לברך את בני ביתו ולשמוח עמם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הבאת הארון והקמת עבודת הלווים",
+      "title_en": "Bringing the Ark and Establishing Levitical Service",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "ארון האלוהים מוצב באוהל שהכין דוד, קרבנות מוקרבים, העם מקבל מתנות, ודוד קובע לווים, משוררים וכוהנים שישרתו לפני הארון.",
+      "summary_en": "The Ark of God is placed in David's tent, offerings are presented, the people receive gifts, and David appoints Levites, musicians, and priests to serve before the Ark.",
+      "image_prompt": "A respectful biblical scene of the Ark of the Covenant being placed inside a sacred tent, priests offering sacrifices, Levite musicians with harps, lyres, cymbals, and trumpets, warm ceremonial light, no modern objects"
+    },
+    {
+      "title": "פתיחת שירת ההודיה וזיכרון הברית",
+      "title_en": "The Opening Thanksgiving Song and the Covenant",
+      "start_verse": 7,
+      "end_verse": 22,
+      "summary": "דוד מוסר לאסף ולאחיו שיר הודיה הקורא להלל את ה', לזכור את נפלאותיו ואת בריתו עם אברהם, יצחק ויעקב, ולהגן על משיחיו ונביאיו.",
+      "summary_en": "David gives Asaph and his brothers a song of thanksgiving that calls for praise, remembrance of God's wonders and covenant with Abraham, Isaac, and Jacob, and protection of His anointed ones and prophets.",
+      "image_prompt": "Ancient Israelite singers performing a solemn thanksgiving song before the Ark, with symbolic visual hints of Abraham, Isaac, and Jacob, scrolls and musical instruments, reverent biblical atmosphere"
+    },
+    {
+      "title": "קריאה לכל הארץ להלל את ה'",
+      "title_en": "A Call for All the Earth to Praise the Lord",
+      "start_verse": 23,
+      "end_verse": 36,
+      "summary": "השירה פונה לכל הארץ ולעמים לספר את כבוד ה', להכיר בכך שהוא בורא השמים ומלך העולם, ולהצטרף לשמחת הבריאה ולהודיה על חסדו.",
+      "summary_en": "The song calls all the earth and the nations to proclaim God's glory, recognize Him as Creator and King, join the joy of creation, and give thanks for His enduring kindness.",
+      "image_prompt": "A vast symbolic biblical landscape with heavens, earth, sea, fields, and forests rejoicing in harmony, diverse nations praising the Lord, majestic but restrained sacred visual style"
+    },
+    {
+      "title": "חלוקת התפקידים בין הארון, גבעון והשוערים",
+      "title_en": "Assigning Duties for the Ark, Gibeon, and the Gatekeepers",
+      "start_verse": 37,
+      "end_verse": 42,
+      "summary": "דוד משאיר את אסף ואחיו לשרת לפני הארון, ממנה שוערים, ומעמיד את צדוק והכוהנים בגבעון להקריב את קרבנות התמיד ולשיר עם המקריבים.",
+      "summary_en": "David leaves Asaph and his brothers to serve before the Ark, appoints gatekeepers, and establishes Zadok and the priests at Gibeon to offer the regular sacrifices and sing with the worshippers.",
+      "image_prompt": "A split biblical worship scene showing Levites serving before the Ark in a tent and priests offering morning and evening sacrifices at Gibeon, gatekeepers nearby, musicians with trumpets and cymbals"
+    },
+    {
+      "title": "סיום החגיגה וחזרת העם לביתו",
+      "title_en": "The Celebration Ends and the People Return Home",
+      "start_verse": 43,
+      "end_verse": 43,
+      "summary": "לאחר סיום החגיגה העם חוזר לביתו, ודוד פונה לברך את בני ביתו ולשמוח עמם.",
+      "summary_en": "After the celebration ends, the people return home, and David goes to bless his household and rejoice with them.",
+      "image_prompt": "A peaceful biblical evening after a public celebration, families returning home while David turns toward his household to bless and celebrate with them, warm natural light"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 12.24,
+      "usfm": "1CH.16.1"
+    },
+    {
+      "start": 12.24,
+      "end": 19.2,
+      "usfm": "1CH.16.2"
+    },
+    {
+      "start": 19.2,
+      "end": 27.54,
+      "usfm": "1CH.16.3"
+    },
+    {
+      "start": 27.54,
+      "end": 35.52,
+      "usfm": "1CH.16.4"
+    },
+    {
+      "start": 35.52,
+      "end": 52.7,
+      "usfm": "1CH.16.5"
+    },
+    {
+      "start": 52.7,
+      "end": 59.98,
+      "usfm": "1CH.16.6"
+    },
+    {
+      "start": 59.98,
+      "end": 66.4,
+      "usfm": "1CH.16.7"
+    },
+    {
+      "start": 66.4,
+      "end": 71.94,
+      "usfm": "1CH.16.8"
+    },
+    {
+      "start": 71.94,
+      "end": 78.04,
+      "usfm": "1CH.16.9"
+    },
+    {
+      "start": 78.04,
+      "end": 83.46,
+      "usfm": "1CH.16.10"
+    },
+    {
+      "start": 83.46,
+      "end": 87.68,
+      "usfm": "1CH.16.11"
+    },
+    {
+      "start": 87.68,
+      "end": 93.36,
+      "usfm": "1CH.16.12"
+    },
+    {
+      "start": 93.36,
+      "end": 97.86,
+      "usfm": "1CH.16.13"
+    },
+    {
+      "start": 97.86,
+      "end": 102.32,
+      "usfm": "1CH.16.14"
+    },
+    {
+      "start": 102.32,
+      "end": 108.08,
+      "usfm": "1CH.16.15"
+    },
+    {
+      "start": 108.08,
+      "end": 112.88,
+      "usfm": "1CH.16.16"
+    },
+    {
+      "start": 112.88,
+      "end": 118.84,
+      "usfm": "1CH.16.17"
+    },
+    {
+      "start": 118.84,
+      "end": 124.52,
+      "usfm": "1CH.16.18"
+    },
+    {
+      "start": 124.52,
+      "end": 128.3,
+      "usfm": "1CH.16.19"
+    },
+    {
+      "start": 128.3,
+      "end": 132.7,
+      "usfm": "1CH.16.20"
+    },
+    {
+      "start": 132.7,
+      "end": 137.04,
+      "usfm": "1CH.16.21"
+    },
+    {
+      "start": 137.04,
+      "end": 141.3,
+      "usfm": "1CH.16.22"
+    },
+    {
+      "start": 141.3,
+      "end": 146.64,
+      "usfm": "1CH.16.23"
+    },
+    {
+      "start": 146.64,
+      "end": 151.52,
+      "usfm": "1CH.16.24"
+    },
+    {
+      "start": 151.52,
+      "end": 157.52,
+      "usfm": "1CH.16.25"
+    },
+    {
+      "start": 157.52,
+      "end": 162.08,
+      "usfm": "1CH.16.26"
+    },
+    {
+      "start": 162.08,
+      "end": 167.02,
+      "usfm": "1CH.16.27"
+    },
+    {
+      "start": 167.02,
+      "end": 172.5,
+      "usfm": "1CH.16.28"
+    },
+    {
+      "start": 172.5,
+      "end": 181.18,
+      "usfm": "1CH.16.29"
+    },
+    {
+      "start": 181.18,
+      "end": 188.24,
+      "usfm": "1CH.16.30"
+    },
+    {
+      "start": 188.24,
+      "end": 195.06,
+      "usfm": "1CH.16.31"
+    },
+    {
+      "start": 195.06,
+      "end": 201.2,
+      "usfm": "1CH.16.32"
+    },
+    {
+      "start": 201.2,
+      "end": 208.48,
+      "usfm": "1CH.16.33"
+    },
+    {
+      "start": 208.48,
+      "end": 214.28,
+      "usfm": "1CH.16.34"
+    },
+    {
+      "start": 214.28,
+      "end": 225.5,
+      "usfm": "1CH.16.35"
+    },
+    {
+      "start": 225.5,
+      "end": 233.58,
+      "usfm": "1CH.16.36"
+    },
+    {
+      "start": 233.58,
+      "end": 243.58,
+      "usfm": "1CH.16.37"
+    },
+    {
+      "start": 243.58,
+      "end": 251.42,
+      "usfm": "1CH.16.38"
+    },
+    {
+      "start": 251.42,
+      "end": 258.32,
+      "usfm": "1CH.16.39"
+    },
+    {
+      "start": 258.32,
+      "end": 269.88,
+      "usfm": "1CH.16.40"
+    },
+    {
+      "start": 269.88,
+      "end": 279.38,
+      "usfm": "1CH.16.41"
+    },
+    {
+      "start": 279.38,
+      "end": 291.16,
+      "usfm": "1CH.16.42"
+    },
+    {
+      "start": 291.16,
+      "end": 305.08,
+      "usfm": "1CH.16.43"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    12.24,
+    19.2,
+    27.54,
+    35.52,
+    52.7,
+    59.98,
+    66.4,
+    71.94,
+    78.04,
+    83.46,
+    87.68,
+    93.36,
+    97.86,
+    102.32,
+    108.08,
+    112.88,
+    118.84,
+    124.52,
+    128.3,
+    132.7,
+    137.04,
+    141.3,
+    146.64,
+    151.52,
+    157.52,
+    162.08,
+    167.02,
+    172.5,
+    181.18,
+    188.24,
+    195.06,
+    201.2,
+    208.48,
+    214.28,
+    225.5,
+    233.58,
+    243.58,
+    251.42,
+    258.32,
+    269.88,
+    279.38,
+    291.16,
+    305.08
+  ],
+  "times_en_usfm": [
+    "1CH.16.1",
+    "1CH.16.2",
+    "1CH.16.3",
+    "1CH.16.4",
+    "1CH.16.5",
+    "1CH.16.6",
+    "1CH.16.7",
+    "1CH.16.8",
+    "1CH.16.9",
+    "1CH.16.10",
+    "1CH.16.11",
+    "1CH.16.12",
+    "1CH.16.13",
+    "1CH.16.14",
+    "1CH.16.15",
+    "1CH.16.16",
+    "1CH.16.17",
+    "1CH.16.18",
+    "1CH.16.19",
+    "1CH.16.20",
+    "1CH.16.21",
+    "1CH.16.22",
+    "1CH.16.23",
+    "1CH.16.24",
+    "1CH.16.25",
+    "1CH.16.26",
+    "1CH.16.27",
+    "1CH.16.28",
+    "1CH.16.29",
+    "1CH.16.30",
+    "1CH.16.31",
+    "1CH.16.32",
+    "1CH.16.33",
+    "1CH.16.34",
+    "1CH.16.35",
+    "1CH.16.36",
+    "1CH.16.37",
+    "1CH.16.38",
+    "1CH.16.39",
+    "1CH.16.40",
+    "1CH.16.41",
+    "1CH.16.42",
+    "1CH.16.43"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הארון הוצב באוהל שדוד הכין עבורו, ובאותו מעמד הקריבו לפני ה' עולות ושלמים.",
+      "text_he": "הארון הוצב באוהל שדוד הכין עבורו, ובאותו מעמד הקריבו לפני ה' עולות ושלמים.",
+      "text_en": "The ark was placed in the tent David had prepared for it, and burnt offerings and fellowship offerings were presented before the LORD on that occasion."
+    },
+    {
+      "verse": 3,
+      "text": "דוד חילק לכל איש ואישה מישראל מנה של מזון, ובכך שילב את העם כולו בשמחת הבאת הארון.",
+      "text_he": "דוד חילק לכל איש ואישה מישראל מנה של מזון, ובכך שילב את העם כולו בשמחת הבאת הארון.",
+      "text_en": "David gave every man and woman in Israel a portion of food, thereby involving the entire nation in the joy of bringing the ark."
+    },
+    {
+      "verse": 4,
+      "text": "דוד מינה לווים לשרת לפני הארון בתפקידי הזכרה, הודיה והלל לה' אלוהי ישראל.",
+      "text_he": "דוד מינה לווים לשרת לפני הארון בתפקידי הזכרה, הודיה והלל לה' אלוהי ישראל.",
+      "text_en": "David appointed Levites to minister before the ark by commemorating, giving thanks, and praising the LORD, the God of Israel."
+    },
+    {
+      "verse": 5,
+      "text": "אסף הוצב בראש המנגנים והכה במצלתיים, בעוד לווים אחרים ניגנו בנבלים ובכינורות.",
+      "text_he": "אסף הוצב בראש המנגנים והכה במצלתיים, בעוד לווים אחרים ניגנו בנבלים ובכינורות.",
+      "text_en": "Asaph was appointed leader of the musicians and played the cymbals, while other Levites played harps and lyres."
+    },
+    {
+      "verse": 6,
+      "text": "בניהו ויחזיאל הכוהנים תקעו בחצוצרות לפני ארון ברית האלוהים, והדבר מתואר כשירות קבוע.",
+      "text_he": "בניהו ויחזיאל הכוהנים תקעו בחצוצרות לפני ארון ברית האלוהים, והדבר מתואר כשירות קבוע.",
+      "text_en": "Benaiah and Jahaziel, the priests, blew the trumpets before the ark of God’s covenant; this is described as a regular ministry."
+    },
+    {
+      "verse": 7,
+      "text": "ביום הבאת הארון מסר דוד לאסף ולאחיו שיר הודיה, ובכך קבע את פתיחת עבודת השירה לפני הארון.",
+      "text_he": "ביום הבאת הארון מסר דוד לאסף ולאחיו שיר הודיה, ובכך קבע את פתיחת עבודת השירה לפני הארון.",
+      "text_en": "On the day the ark was brought, David gave Asaph and his fellow Levites a song of thanks, thereby establishing the beginning of musical worship before the ark."
+    },
+    {
+      "verse": 14,
+      "text": "שיר ההודיה מזכיר לישראל שהם זרעו של יעקב ובחיריו, ומדגיש שעליהם לזכור את נפלאות ה' ומשפטיו.",
+      "text_he": "שיר ההודיה מזכיר לישראל שהם זרעו של יעקב ובחיריו, ומדגיש שעליהם לזכור את נפלאות ה' ומשפטיו.",
+      "text_en": "The song of thanks reminds Israel that they are Jacob’s descendants and God’s chosen ones, emphasizing that they must remember the LORD’s wonders and judgments."
+    },
+    {
+      "verse": 17,
+      "text": "השיר מתאר את הברית האלוהית כברית עולם עם יעקב ועם ישראל, ומקשר אותה להבטחת ארץ כנען.",
+      "text_he": "השיר מתאר את הברית האלוהית כברית עולם עם יעקב ועם ישראל, ומקשר אותה להבטחת ארץ כנען.",
+      "text_en": "The song describes God’s covenant with Jacob and Israel as an everlasting covenant and connects it with the promise of the land of Canaan."
+    },
+    {
+      "verse": 23,
+      "text": "השיר פונה לא רק לישראל אלא לכל הארץ ולעמים, וקורא להם לבשר את ישועת ה' ולספר את כבודו.",
+      "text_he": "השיר פונה לא רק לישראל אלא לכל הארץ ולעמים, וקורא להם לבשר את ישועת ה' ולספר את כבודו.",
+      "text_en": "The song addresses not only Israel but the whole earth and all nations, calling them to proclaim the LORD’s salvation and declare his glory."
+    },
+    {
+      "verse": 37,
+      "text": "לאחר החגיגה חולקו תפקידי הפולחן בין שני מרכזים: אסף ואחיו נשארו לשרת לפני הארון, ואילו צדוק והכוהנים שירתו במשכן ה' בגבעון.",
+      "text_he": "לאחר החגיגה חולקו תפקידי הפולחן בין שני מרכזים: אסף ואחיו נשארו לשרת לפני הארון, ואילו צדוק והכוהנים שירתו במשכן ה' בגבעון.",
+      "text_en": "After the celebration, the responsibilities for worship were divided between two centers: Asaph and his fellow Levites remained to minister before the ark, while Zadok and the priests served at the LORD’s tabernacle in Gibeon."
+    }
+  ]
+}

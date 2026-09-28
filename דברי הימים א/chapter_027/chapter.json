@@ -1,0 +1,580 @@
+{
+  "book": "I Chronicles",
+  "book_he": "דברי הימים א",
+  "book_chapters": 29,
+  "chapter": 27,
+  "title": "דברי הימים א פרק 27",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a27.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a27.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1CH/27-4c1229424b035b0fc0d6170c97c3fe13.mp3?version_id=1",
+  "verses": [
+    "וּבְנֵי יִשְׂרָאֵל לְמִסְפָּרָם רָאשֵׁי הָאָבוֹת וְשָׂרֵי הָאֲלָפִים וְהַמֵּאוֹת וְשֹׁטְרֵיהֶם הַמְשָׁרְתִים אֶת-הַמֶּלֶךְ לְכֹל דְּבַר הַמַּחְלְקוֹת, הַבָּאָה וְהַיֹּצֵאת חֹדֶשׁ בְּחֹדֶשׁ, לְכֹל, חָדְשֵׁי הַשָּׁנָה: הַמַּחֲלֹקֶת, הָאַחַת--עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "עַל הַמַּחֲלֹקֶת הָרִאשׁוֹנָה, לַחֹדֶשׁ הָרִאשׁוֹן--יָשָׁבְעָם, בֶּן-זַבְדִּיאֵל; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "מִן-בְּנֵי-פֶרֶץ, הָרֹאשׁ לְכָל-שָׂרֵי הַצְּבָאוֹת--לַחֹדֶשׁ הָרִאשׁוֹן.",
+    "וְעַל מַחֲלֹקֶת הַחֹדֶשׁ הַשֵּׁנִי, דּוֹדַי הָאֲחוֹחִי וּמַחֲלֻקְתּוֹ, וּמִקְלוֹת, הַנָּגִיד; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "שַׂר הַצָּבָא הַשְּׁלִישִׁי לַחֹדֶשׁ הַשְּׁלִישִׁי, בְּנָיָהוּ בֶן-יְהוֹיָדָע הַכֹּהֵן רֹאשׁ; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הוּא בְנָיָהוּ גִּבּוֹר הַשְּׁלֹשִׁים, וְעַל-הַשְּׁלֹשִׁים; וּמַחֲלֻקְתּוֹ, עַמִּיזָבָד בְּנוֹ.",
+    "הָרְבִיעִי לַחֹדֶשׁ הָרְבִיעִי, עֲשָׂהאֵל אֲחִי יוֹאָב, וּזְבַדְיָה בְנוֹ, אַחֲרָיו; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַחֲמִישִׁי לַחֹדֶשׁ הַחֲמִישִׁי, הַשַּׂר שַׁמְהוּת הַיִּזְרָח; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַשִּׁשִּׁי לַחֹדֶשׁ הַשִּׁשִּׁי, עִירָא בֶן-עִקֵּשׁ הַתְּקוֹעִי; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַשְּׁבִיעִי לַחֹדֶשׁ הַשְּׁבִיעִי, חֶלֶץ הַפְּלוֹנִי מִן-בְּנֵי אֶפְרָיִם; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַשְּׁמִינִי לַחֹדֶשׁ הַשְּׁמִינִי, סִבְּכַי הַחֻשָׁתִי לַזַּרְחִי; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַתְּשִׁיעִי לַחֹדֶשׁ הַתְּשִׁיעִי, אֲבִיעֶזֶר הָעַנְּתוֹתִי לבנימיני לַבֵּן יְמִינִי ; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הָעֲשִׂירִי לַחֹדֶשׁ הָעֲשִׂירִי, מַהְרַי הַנְּטוֹפָתִי לַזַּרְחִי; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "עַשְׁתֵּי-עָשָׂר לְעַשְׁתֵּי עָשָׂר הַחֹדֶשׁ, בְּנָיָה הַפִּרְעָתוֹנִי מִן-בְּנֵי אֶפְרָיִם; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "הַשְּׁנֵים עָשָׂר לִשְׁנֵים עָשָׂר הַחֹדֶשׁ, חֶלְדַּי הַנְּטוֹפָתִי לְעָתְנִיאֵל; וְעַל, מַחֲלֻקְתּוֹ, עֶשְׂרִים וְאַרְבָּעָה, אָלֶף.",
+    "וְעַל, שִׁבְטֵי יִשְׂרָאֵל--לָראוּבֵנִי נָגִיד, אֱלִיעֶזֶר בֶּן-זִכְרִי; {ס} לַשִּׁמְעוֹנִי--שְׁפַטְיָהוּ, בֶּן-מַעֲכָה.",
+    "לְלֵוִי חֲשַׁבְיָה בֶן-קְמוּאֵל, לְאַהֲרֹן צָדוֹק.",
+    "לִיהוּדָה, אֱלִיהוּ מֵאֲחֵי דָוִיד; {ס} לְיִשָּׂשכָר--עָמְרִי, בֶּן-מִיכָאֵל.",
+    "לִזְבוּלֻן, יִשְׁמַעְיָהוּ בֶּן-עֹבַדְיָהוּ; {ס} לְנַפְתָּלִי--יְרִימוֹת, בֶּן-עַזְרִיאֵל.",
+    "לִבְנֵי אֶפְרַיִם, הוֹשֵׁעַ בֶּן-עֲזַזְיָהוּ; לַחֲצִי שֵׁבֶט מְנַשֶּׁה, יוֹאֵל בֶּן-פְּדָיָהוּ.",
+    "לַחֲצִי הַמְנַשֶּׁה גִּלְעָדָה, יִדּוֹ בֶּן-זְכַרְיָהוּ; {ס} לְבִנְיָמִן--יַעֲשִׂיאֵל, בֶּן-אַבְנֵר.",
+    "לְדָן, עֲזַרְאֵל בֶּן-יְרֹחָם; אֵלֶּה, שָׂרֵי שִׁבְטֵי יִשְׂרָאֵל.",
+    "וְלֹא-נָשָׂא דָוִיד מִסְפָּרָם, לְמִבֶּן עֶשְׂרִים שָׁנָה וּלְמָטָּה: כִּי אָמַר יְהוָה, לְהַרְבּוֹת אֶת-יִשְׂרָאֵל כְּכוֹכְבֵי הַשָּׁמָיִם.",
+    "יוֹאָב בֶּן-צְרוּיָה הֵחֵל לִמְנוֹת, וְלֹא כִלָּה, וַיְהִי בָזֹאת קֶצֶף, עַל-יִשְׂרָאֵל; וְלֹא עָלָה הַמִּסְפָּר, בְּמִסְפַּר דִּבְרֵי-הַיָּמִים לַמֶּלֶךְ דָּוִיד.",
+    "וְעַל אֹצְרוֹת הַמֶּלֶךְ, עַזְמָוֶת בֶּן-עֲדִיאֵל; {ס} וְעַל הָאֹצָרוֹת בַּשָּׂדֶה בֶּעָרִים וּבַכְּפָרִים, וּבַמִּגְדָּלוֹת, יְהוֹנָתָן, בֶּן-עֻזִּיָּהוּ.",
+    "וְעַל, עֹשֵׂי מְלֶאכֶת הַשָּׂדֶה, לַעֲבֹדַת, הָאֲדָמָה--עֶזְרִי, בֶּן-כְּלוּב.",
+    "וְעַל-הַכְּרָמִים--שִׁמְעִי, הָרָמָתִי; {ס} וְעַל שֶׁבַּכְּרָמִים לְאֹצְרוֹת הַיַּיִן, זַבְדִּי הַשִּׁפְמִי.",
+    "וְעַל-הַזֵּיתִים וְהַשִּׁקְמִים אֲשֶׁר בַּשְּׁפֵלָה, בַּעַל חָנָן הַגְּדֵרִי; {ס} וְעַל-אֹצְרוֹת הַשֶּׁמֶן, יוֹעָשׁ.",
+    "וְעַל-הַבָּקָר הָרֹעִים בַּשָּׁרוֹן, שטרי שִׁרְטַי הַשָּׁרוֹנִי; {ס} וְעַל-הַבָּקָר, בָּעֲמָקִים, שָׁפָט, בֶּן-עַדְלָי.",
+    "וְעַל-הַגְּמַלִּים--אוֹבִיל, הַיִּשְׁמְעֵלִי; {ס} וְעַל-הָאֲתֹנוֹת, יֶחְדְּיָהוּ הַמֵּרֹנֹתִי.",
+    "וְעַל-הַצֹּאן, יָזִיז הַהַגְרִי; כָּל-אֵלֶּה שָׂרֵי הָרְכוּשׁ, אֲשֶׁר לַמֶּלֶךְ דָּוִיד.",
+    "וִיהוֹנָתָן דּוֹד-דָּוִיד יוֹעֵץ, אִישׁ-מֵבִין וְסוֹפֵר הוּא; וִיחִיאֵל בֶּן-חַכְמוֹנִי, עִם-בְּנֵי הַמֶּלֶךְ.",
+    "וַאֲחִיתֹפֶל, יוֹעֵץ לַמֶּלֶךְ; וְחוּשַׁי הָאַרְכִּי, רֵעַ הַמֶּלֶךְ.",
+    "וְאַחֲרֵי אֲחִיתֹפֶל, יְהוֹיָדָע בֶּן-בְּנָיָהוּ וְאֶבְיָתָר, וְשַׂר-צָבָא לַמֶּלֶךְ, יוֹאָב."
+  ],
+  "english": [
+    "Now the children of Israel after their number,\nto wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course\nwere\n twenty and four thousand.",
+    "Over the first course for the first month\nwas Jashobeam the son of Zabdiel: and in his course\nwere twenty and four thousand.",
+    "Of the children of Perez\nwas the chief of all the captains of the host for the first month.",
+    "And over the course of the second month\nwas Dodai an Ahohite, and of his course\nwas Mikloth also the ruler: in his course likewise\nwere twenty and four thousand.",
+    "The third captain of the host for the third month\nwas Benaiah the son of Jehoiada, a chief priest: and in his course\nwere twenty and four thousand.",
+    "This\nis that Benaiah,\nwho was mighty\namong\n the thirty, and above the thirty: and in his course\nwas Ammizabad his son.",
+    "The fourth\ncaptain for the fourth month\nwas Asahel the brother of Joab, and Zebadiah his son after him: and in his course\nwere twenty and four thousand.",
+    "The fifth captain for the fifth month\nwas Shamhuth the Izrahite: and in his course\nwere twenty and four thousand.",
+    "The sixth\ncaptain for the sixth month\nwas Ira the son of Ikkesh the Tekoite: and in his course\nwere twenty and four thousand.",
+    "The seventh\ncaptain for the seventh month\nwas Helez the Pelonite, of the children of Ephraim: and in his course\nwere\n twenty and four thousand.",
+    "The eighth\ncaptain for the eighth month\nwas Sibbecai the Hushathite, of the Zarhites: and in his course\nwere twenty and four thousand.",
+    "The ninth\ncaptain for the ninth month\nwas Abiezer the Anetothite, of the Benjamites: and in his course\nwere twenty and four thousand.",
+    "The tenth\ncaptain for the tenth month\nwas Maharai the Netophathite, of the Zarhites: and in his course\nwere twenty and four thousand.",
+    "The eleventh\ncaptain for the eleventh month\nwas\n Benaiah the Pirathonite, of the children of Ephraim: and in his course\nwere twenty and four thousand.",
+    "The twelfth\ncaptain for the twelfth month\nwas Heldai the Netophathite, of Othniel: and in his course\nwere twenty and four thousand.",
+    "Furthermore over the tribes of Israel: the ruler of the Reubenites\nwas Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:",
+    "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:",
+    "Of Judah, Elihu,\none of the brethren of David: of Issachar, Omri the son of Michael:",
+    "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:",
+    "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:",
+    "Of the half\ntribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:",
+    "Of Dan, Azareel the son of Jeroham. These\nwere the princes of the tribes of Israel.",
+    "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.",
+    "Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.",
+    "And over the king’s treasures\nwas Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles,\nwas Jehonathan the son of Uzziah:",
+    "And over them that did the work of the field for tillage of the ground\nwas Ezri the son of Chelub:",
+    "And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars\nwas Zabdi the Shiphmite:",
+    "And over the olive trees and the sycomore trees that\nwere\n in the low plains\nwas Baal-hanan the Gederite: and over the cellars of oil\nwas Joash:",
+    "And over the herds that fed in Sharon\nwas Shitrai the Sharonite: and over the herds\nthat were in the valleys\nwas\n Shaphat the son of Adlai:",
+    "Over the camels also was Obil the Ishmaelite: and over the asses\nwas Jehdeiah the Meronothite:",
+    "And over the flocks\nwas Jaziz the Hagerite. All these\nwere the rulers of the substance which\nwas king David’s.",
+    "Also Jonathan David’s uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni\nwas with the king’s sons:",
+    "And Ahithophel\nwas the king’s counsellor: and Hushai the Archite\nwas the king’s companion:",
+    "And after Ahithophel\nwas Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army\nwas Joab."
+  ],
+  "steinsaltz": [
+    "וּבְנֵי יִשְׂרָאֵל בהתאם לְמִסְפָּרָם חולקו גם הם למשמרות כמו הכהנים והלויים, על רָאשֵׁי הָאָבוֹת וְשָׂרֵי הָאֲלָפִים וְהַמֵּאוֹת וְשֹׁטְרֵיהֶם הַמְשָׁרְתִים אֶת־הַמֶּלֶךְ לְכֹל דְּבַר, בכל הנוגע לניהול הַמַּחְלְקוֹת, למחלקה הַבָּאָה וְהַיֹּצֵאת חֹדֶשׁ בְּחֹדֶשׁ לְכֹל חָדְשֵׁי הַשָּׁנָה. הַמַּחֲלֹקֶת, המחלקה הָאַחַת מנתה עֶשְׂרִים וְאַרְבָּעָה אָלֶף גברים.",
+    "עַל הַמַּחֲלֹקֶת הָרִאשׁוֹנָה לַחֹדֶשׁ הָרִאשׁוֹן היה ממונה יָשָׁבְעָם בֶּן־זַבְדִּיאֵל, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "הוא היה מִן־בְּנֵי־פֶרֶץ בן יהודה ושימש הָרֹאשׁ לְכָל־שָׂרֵי הַצְּבָאוֹת לַחֹדֶשׁ הָרִאשׁוֹן.",
+    "וְעַל מַחֲלֹקֶת הַחֹדֶשׁ הַשֵּׁנִי התמנה דּוֹדַי הָאֲחוֹחִי, וּמַחֲלֻקְתּוֹ וּמִקְלוֹת, ומחלקתו של דודי הונהגה בסיוע מִקלות הַנָּגִיד, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "שַׂר הַצָּבָא הַשְּׁלִישִׁי לַחֹדֶשׁ הַשְּׁלִישִׁי היה בְּנָיָהוּ בֶן־יְהוֹיָדָע הַכֹּהֵן רֹאשׁ, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף. בניהו בן יהוידע פעל בעיקר כאיש צבא, ולא נאמר שהוא שימש בכהונה, אף על פי שהיה כהן ראשי.",
+    "הוּא בְנָיָהוּ גִּבּוֹר הַשְּׁלֹשִׁים מגיבורי דויד, וממונה עַל־הַשְּׁלֹשִׁים. והנהגת מַחֲלֻקְתּוֹ הייתה יחד עם עַמִּיזָבָד בְּנוֹ.",
+    "המשמר הָרְבִיעִי לַחֹדֶשׁ הָרְבִיעִי עמד תחת פיקודו של עֲשָׂהאֵל אֲחִי יוֹאָב וּזְבַדְיָה בְנוֹ אַחֲרָיו, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "המשמר הַחֲמִישִׁי לַחֹדֶשׁ הַחֲמִישִׁי היה תחת הַשַּׂר ששמו שַׁמְהוּת הַיִּזְרָח, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על הַשִּׁשִּׁי לַחֹדֶשׁ הַשִּׁשִּׁי היה ממונה עִירָא בֶן־עִקֵּשׁ הַתְּקוֹעִי, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על הַשְּׁבִיעִי לַחֹדֶשׁ הַשְּׁבִיעִי – חֵלֶץ הַפְּלוֹנִי מִן־בְּנֵי אֶפְרָיִם, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על הַשְּׁמִינִי לַחֹדֶשׁ הַשְּׁמִינִי – סִבְּכַי הַחֻשָׁתִי למשפחת הזַּרְחִי, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על הַתְּשִׁיעִי לַחֹדֶשׁ הַתְּשִׁיעִי – אֲבִיעֶזֶר הָעַנְּתוֹתִי לַבֵּן יְמִינִי, משבט בנימין, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על הָעֲשִׂירִי לַחֹדֶשׁ הָעֲשִׂירִי – מַהְרַי הַנְּטוֹפָתִי לַזַּרְחִי, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על עַשְׁתֵּי־עָשָׂר, האחד-עשר לְעַשְׁתֵּי עָשָׂר הַחֹדֶשׁ – בְּנָיָה הַפִּרְעָתֹנִי מִן־בְּנֵי אֶפְרָיִם, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף.",
+    "על המשמר הַשְּׁנֵים עָשָׂר לִשְׁנֵים עָשָׂר הַחֹדֶשׁ – חֶלְדַּי הַנְּטוֹפָתִי לְעָתְנִיאֵל, וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף. לכל חודש נקבע משמר של עשרים וארבעה אלף איש. שמות הממונים – שהיו קצינים מגיבורי דויד – מעידים כי מדובר ביחידות של מעין צבא מילואים.",
+    "וְעַל שִׁבְטֵי יִשְׂרָאֵל היה מינוי נוסף, מלבד שרי המחלקות שהיו אחראים ליחידות מעין-צבאיות. לָראוּבֵנִי היה נָגִיד, נשיא בשם אֱלִיעֶזֶר בֶּן־זִכְרִי, לַשִּׁמְעוֹנִי – שְׁפַטְיָהוּ בֶּן־מַעֲכָה,",
+    "לְלֵוִי – חֲשַׁבְיָה בֶן־קְמוּאֵל, לכהנים בני אַהֲרֹן – צָדוֹק,",
+    "לִיהוּדָה – אֱלִיהוּ מֵאֲחֵי דָוִיד, אולי אחיו הבכור, אליאב, לְיִשָּׂשכָר – עָמְרִי בֶּן־מִיכָאֵל,",
+    "לִזְבוּלֻן – יִשְׁמַעְיָהוּ בֶּן־עֹבַדְיָהוּ, לְנַפְתָּלִי – יְרִימוֹת בֶּן־עַזְרִיאֵל,",
+    "לִבְנֵי אֶפְרַיִם – הוֹשֵׁעַ בֶּן־עֲזַזְיָהוּ, לַחֲצִי שֵׁבֶט מְנַשֶּׁה – יוֹאֵל בֶּן־פְּדָיָהוּ,",
+    "לַחֲצִי שבט הַמְנַשֶּׁה גִלְעָדָה, שהתגוררו בגלעד שבעבר הירדן – יִדּוֹ בֶּן־זְכַרְיָהוּ, לְבִנְיָמִן – יַעֲשִׂיאֵל בֶּן־אַבְנֵר, כנראה בנו של אבנר בן נר.",
+    "לְדָן – עֲזַרְאֵל בֶּן־יְרֹחָם. אֵלֶּה שָׂרֵי שִׁבְטֵי יִשְׂרָאֵל.",
+    "וְלֹא־נָשָׂא, ספר דָוִיד את מִסְפָּרָם של ישראל הצעירים לְמִבֶּן עֶשְׂרִים שָׁנָה וּלְמָטָּה, כִּי אָמַר ה' לְהַרְבּוֹת אֶת־יִשְׂרָאֵל כְּכוֹכְבֵי הַשָּׁמָיִם, ודויד לא רצה לערוך מפקד שלם ומפורט של כל ישראל.",
+    "יוֹאָב בֶּן־צְרוּיָה הֵחֵל לִמְנוֹת וְלֹא כִלָּה, סיים. יואב לא רצה לקיים את פקודת דויד במלואה. הוא ערך ספירה משוערת ודילג על כמה קבוצות. אף על פי כן – וַיְהִי בָזֹאת קֶצֶף עַל־יִשְׂרָאֵל. וְלֹא עָלָה על הכתב הַמִּסְפָּר בְּמִסְפַּר, בסיפור דִּבְרֵי הַיָּמִים לַמֶּלֶךְ דָּוִיד.",
+    "וְעַל אֹצְרוֹת הַמֶּלֶךְ היה ממונה עַזְמָוֶת בֶּן־עֲדִיאֵל, וְעַל הָאֹצָרוֹת שבַּשָּׂדֶה, בֶּעָרִים וּבַכְּפָרִים וּבַמִּגְדָּלוֹת – יְהוֹנָתָן בֶּן־עֻזִּיָּהוּ,",
+    "וְעַל עֹשֵׂי מְלֶאכֶת הַשָּׂדֶה לַעֲבֹדַת הָאֲדָמָה – עֶזְרִי בֶּן־כְּלוּב,",
+    "וְעַל־הַכְּרָמִים התמנה שִׁמְעִי הָרָמָתִי, וְעַל הענבים שֶׁבַּכְּרָמִים המיועדים לְאֹצְרוֹת הַיַּיִן – זַבְדִּי הַשִּׁפְמִי,",
+    "וְעַל־הַזֵּיתִים וְהַשִּׁקְמִים אֲשֶׁר בַּשְּׁפֵלָה – בַּעַל חָנָן הַגְּדֵרִי, וְעַל־אֹצְרוֹת הַשֶּׁמֶן – יוֹעָשׁ,",
+    "וְעַל־הַבָּקָר הָרֹעִים בַּשָּׁרוֹן – שִׁרְטַי הַשָּׁרוֹנִי, וְעַל־הַבָּקָר בָּעֲמָקִים – שָׁפָט בֶּן־עַדְלָי,",
+    "וְעַל־הַגְּמַלִּים – אוֹבִיל הַיִּשְׁמְעֵלִי, שאולי מפני שגר בין הישמעאלים או היה מבני ישמעאל היה מומחה לגמלים, וְעַל־הָאֲתֹנוֹת – יֶחְדְּיָהוּ הַמֵּרֹנֹתִי,",
+    "וְעַל־הַצֹּאן – יָזִיז הַהַגְרִי, שכיוון שהגיע מן הערבים היה מומחה לטיפול בצאן. כָּל־אֵלֶּה שָׂרֵי הָרְכוּשׁ אֲשֶׁר לַמֶּלֶךְ דָּוִיד.",
+    "וִיהוֹנָתָן דּוֹד־דָּוִיד היה יוֹעֵץ ואִישׁ־מֵבִין, משכיל ומלומד וְסוֹפֵר היודע לכתוב גם בשפות זרות. הוּא וִיחִיאֵל בֶּן־חַכְמוֹנִי היו עִם־בְּנֵי הַמֶּלֶךְ ללמדם חכמה ותכסיסי מלכות.",
+    "וַאֲחִיתֹפֶל היה יוֹעֵץ לַמֶּלֶךְ בשאלות העומדות על הפרק, וְחוּשַׁי הָאַרְכִּי הוא רֵעַ הַמֶּלֶךְ, שאינו תפקיד רשמי כמו היועץ, אלא מעין ממונה אישי מטעם המלך על הממשלה, שקרבתו אל המלך אינטימית יותר.",
+    "וְאַחֲרֵי אֲחִיתֹפֶל מבחינת הדרגה בשלטון או סדר קבלת ההחלטות היו יְהוֹיָדָע בֶּן־בְּנָיָהוּ וְאֶבְיָתָר הכהן, וְשַׂר־צָבָא לַמֶּלֶךְ – יוֹאָב, שמבחינות רבות, תפקידו הוא המרכזי והחשוב ביותר במלכות דויד."
+  ],
+  "ai_explanation": [
+    "בני ישראל חולקו גם הם למשמרות, לפי בתי אבות, שרי אלפים, שרי מאות ושוטרים, כדי לשרת את המלך ולנהל את המחלקות. בכל חודש שירתה מחלקה אחרת, ובה עשרים וארבעה אלף איש.",
+    "על המחלקה הראשונה, בחודש הראשון, היה ממונה ישבעם בן זבדיאל. במחלקתו היו עשרים וארבעה אלף איש.",
+    "ישבעם היה מבני פרץ, בן יהודה, ושימש ראש לכל שרי הצבאות בחודש הראשון.",
+    "על מחלקת החודש השני היה ממונה דודי האחוחי. מחלקתו הונהגה בסיוע מִקְלוֹת הנגיד, ובה עשרים וארבעה אלף איש.",
+    "על המחלקה השלישית, בחודש השלישי, היה ממונה בניהו בן יהוידע הכהן. הוא פעל בעיקר כאיש צבא, ולא נאמר ששימש בכהונה, אף שהיה כהן ראשי.",
+    "בניהו היה מגיבורי דויד וממונה על השלושים. הנהגת המחלקה שלו נעשתה יחד עם עַמִּיזָבָד בנו.",
+    "המחלקה הרביעית, בחודש הרביעי, עמדה תחת פיקודם של עֲשָׂהאֵל אחי יואב ושל זבדיה בנו אחריו. גם במחלקה זו היו עשרים וארבעה אלף איש.",
+    "המחלקה החמישית, בחודש החמישי, הייתה תחת פיקודו של שַׁמְהוּת הַיִּזְרָח. מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה השישית, בחודש השישי, היה ממונה עירא בן עקש התקועי. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה השביעית, בחודש השביעי, היה ממונה חלץ הפלוני מבני אפרים. גם מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה השמינית, בחודש השמיני, היה ממונה סבכי החושתי, למשפחת הזרחי. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה התשיעית, בחודש התשיעי, היה ממונה אביעזר הענתותי, בן בנימין. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה העשירית, בחודש העשירי, היה ממונה מהרי הנטופתי, מן הזרחי. מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה האחת־עשרה, בחודש האחד־עשר, היה ממונה בניה הפרעתוני מבני אפרים. גם במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה השתים־עשרה, בחודש השנים־עשר, היה ממונה חלדי הנטופתי, לעתניאל. לכל חודש נקבע משמר של עשרים וארבעה אלף איש, והממונים היו קצינים מגיבורי דויד, ולכן מדובר ביחידות מעין צבא מילואים.",
+    "נוסף על שרי המחלקות הצבאיות היו ממונים על שבטי ישראל. על ראובן היה אליעזר בן זכרי, ועל שמעון – שפטיהו בן מעכה.",
+    "על שבט לוי היה חשביה בן קמואל, ועל הכוהנים, בני אהרן, היה צדוק.",
+    "על יהודה היה אליהו מאחי דויד, אולי אחיו הבכור אליאב, ועל יששכר היה עמרי בן מיכאל.",
+    "על זבולון היה ישמעיהו בן עובדיהו, ועל נפתלי היה ירימות בן עזריאל.",
+    "על בני אפרים היה הושע בן עזזיהו, ועל חצי שבט מנשה היה יואל בן פדיהו.",
+    "על חצי שבט מנשה שישב בגלעד שבעבר הירדן היה יִדּוֹ בן זכריהו. על בנימין היה יעשיאל בן אבנר, כנראה בנו של אבנר בן נר.",
+    "על דן היה עזריאל בן ירוחם. אלה היו שרי שבטי ישראל.",
+    "דויד לא כלל במניין את הישראלים שגילם פחות מעשרים שנה, מפני שה' הבטיח להרבות את ישראל ככוכבי השמים. לפי הפירוש, דויד לא רצה לערוך מפקד מלא ומפורט של כל ישראל.",
+    "יואב התחיל למנות את העם אך לא השלים את המפקד, משום שלא רצה לבצע את פקודת דויד במלואה. הוא ערך ספירה משוערת ודילג על קבוצות מסוימות, אך למרות זאת הדבר גרם קצף על ישראל, והמספר לא נרשם במלואו בדברי הימים של דויד.",
+    "על אוצרות המלך היה ממונה עזמות בן עדיאל, ועל האוצרות שבשדות, בערים, בכפרים ובמגדלים היה ממונה יהונתן בן עוזיהו.",
+    "על עובדי השדה ועל עבודת האדמה היה ממונה עזרי בן כלוב.",
+    "על הכרמים היה ממונה שמעִי הרמתי, ועל הענבים שנועדו לאוצרות היין היה ממונה זבדי השפמי.",
+    "על עצי הזית והשקמים שבשפלה היה ממונה בעל חנן הגדרי, ועל אוצרות השמן היה ממונה יועש.",
+    "על הבקר שרעה בשרון היה ממונה שטרי השרוני, ועל הבקר שבעמקים היה ממונה שפט בן עדלי.",
+    "על הגמלים היה ממונה עוביל הישמעאלי, שהיה אולי מבני ישמעאל או גר ביניהם ולכן התמחה בגמלים. על האתונות היה ממונה יחדיהו המרנותי.",
+    "על הצאן היה ממונה יזיז ההגרי, שמוצאו מן הערבים הקנה לו, לפי הפירוש, מומחיות בטיפול בצאן. כל אלה היו שרי הרכוש של המלך דויד.",
+    "יהונתן, דודו של דויד, היה יועץ, איש משכיל ומלומד וסופר היודע לכתוב גם בשפות זרות. הוא ויחיאל בן חכמוני היו עם בני המלך כדי ללמדם חכמה ותכסיסי מלכות.",
+    "אחיתופל היה יועץ למלך בעניינים העומדים על הפרק. חושי הארכי היה רע המלך, תפקיד אישי וקרוב יותר למלך, ולא תפקיד רשמי של יועץ.",
+    "אחרי אחיתופל, מבחינת דרגת השלטון או סדר קבלת ההחלטות, היו יהוידע בן בניהו ואביתר הכוהן. שר הצבא של המלך היה יואב, שתפקידו היה מרכזי וחשוב במלכות דויד."
+  ],
+  "ai_explanation_en": [
+    "The Israelites were also divided into divisions according to ancestral houses, commanders of thousands, commanders of hundreds, and officers, in order to serve the king and administer the divisions. Each month a different division served, and it contained twenty-four thousand men.",
+    "Jashobeam son of Zabdiel was appointed over the first division, serving in the first month. His division consisted of twenty-four thousand men.",
+    "Jashobeam was one of the descendants of Perez, from the tribe of Judah, and served as chief of all the army commanders for the first month.",
+    "Dodai the Ahohite was appointed over the division for the second month. His division was led with the assistance of Mikloth the officer, and it contained twenty-four thousand men.",
+    "Benaiah son of Jehoiada the priest commanded the third division, serving in the third month. He functioned mainly as a military man; the text does not say that he served as a priest, even though he was a chief priest.",
+    "Benaiah was one of David’s warriors and was appointed over the thirty. His division was administered together with Ammizabad his son.",
+    "The fourth division, serving in the fourth month, was under the command of Asahel, Joab’s brother, and afterward under his son Zebadiah. This division also contained twenty-four thousand men.",
+    "The fifth division, serving in the fifth month, was under the command of Shamhuth the Izrahite. His division contained twenty-four thousand men.",
+    "Ira son of Ikkesh the Tekoite commanded the sixth division in the sixth month. His division contained twenty-four thousand men.",
+    "Helez the Pelonite, from the descendants of Ephraim, commanded the seventh division in the seventh month. His division also contained twenty-four thousand men.",
+    "Sibbecai the Hushathite, of the family of the Zerahites, commanded the eighth division in the eighth month. His division contained twenty-four thousand men.",
+    "Abiezer the Anathothite, a Benjaminite, commanded the ninth division in the ninth month. His division contained twenty-four thousand men.",
+    "Maharai the Netophathite, of the Zerahites, commanded the tenth division in the tenth month. His division contained twenty-four thousand men.",
+    "Benaiah the Pirathonite, from the descendants of Ephraim, commanded the eleventh division in the eleventh month. His division also contained twenty-four thousand men.",
+    "Heldai the Netophathite, of Othniel, commanded the twelfth division in the twelfth month. Each month had a division of twenty-four thousand men, and the commanders were officers among David’s warriors; therefore, these were units resembling a reserve army.",
+    "In addition to the commanders of the military divisions, officials were appointed over the tribes of Israel. Eliezer son of Zichri was over Reuben, and Shephatiah son of Maacah was over Simeon.",
+    "Hashabiah son of Kemuel was over Levi, and Zadok was over the priests, the descendants of Aaron.",
+    "Elihu, possibly David’s older brother Eliab, was over Judah, and Omri son of Michael was over Issachar.",
+    "Ishmaiah son of Obadiah was over Zebulun, and Jerimoth son of Azriel was over Naphtali.",
+    "Hoshea son of Azaziah was over the descendants of Ephraim, and Joel son of Pedaiah was over half the tribe of Manasseh.",
+    "Iddo son of Zechariah was over the half-tribe of Manasseh that lived in Gilead, east of the Jordan. Jaasiel son of Abner was over Benjamin, probably the son of Abner son of Ner.",
+    "Azarel son of Jeroham was over Dan. These were the commanders of the tribes of Israel.",
+    "David did not include Israelites younger than twenty in the census, because God had promised to multiply Israel like the stars of the heavens. According to the explanation, David did not wish to conduct a complete and detailed census of all Israel.",
+    "Joab began counting the people but did not complete the census because he did not wish to carry out David’s command fully. He made an approximate count and skipped certain groups; nevertheless, this brought anger upon Israel, and the total was not fully recorded in the account of David’s reign.",
+    "Azmaveth son of Adiel was responsible for the king’s treasuries, while Jonathan son of Uzziah was responsible for the treasuries in the fields, cities, villages, and towers.",
+    "Ezri son of Chelub was responsible for the field workers and for working the land.",
+    "Shimei the Ramathite was responsible for the vineyards, and Zabdi the Shiphmite was responsible for the grapes intended for the wine stores.",
+    "Baal-hanan the Gederite was responsible for the olive trees and sycamores in the Shephelah, and Joash was responsible for the oil stores.",
+    "Shitrai the Sharonite was responsible for the cattle grazing in Sharon, and Shaphat son of Adlai was responsible for the cattle in the valleys.",
+    "Obil the Ishmaelite was responsible for the camels; he may have been descended from the Ishmaelites or lived among them, and therefore was skilled with camels. Jehdeiah the Meronothite was responsible for the donkeys.",
+    "Jaziz the Hagrite was responsible for the sheep; according to the explanation, his Arab origin gave him expertise in caring for sheep. All of these were officials over King David’s property.",
+    "Jonathan, David’s uncle, was a counselor, an educated and learned man, and a scribe who could also write in foreign languages. He and Jehiel son of Hachmoni were with the king’s sons to teach them wisdom and royal strategy.",
+    "Ahithophel was a counselor to the king concerning matters under consideration. Hushai the Archite was the king’s companion, a personal position closer to the king rather than an official advisory office.",
+    "After Ahithophel, in terms of rank in government or the order of decision-making, came Jehoiada son of Benaiah and Abiathar the priest. Joab was the king’s army commander, and his role was central and important in David’s kingdom."
+  ],
+  "perush": [
+    "בני ישראל חולקו גם הם למשמרות, לפי בתי אבות, שרי אלפים, שרי מאות ושוטרים, כדי לשרת את המלך ולנהל את המחלקות. בכל חודש שירתה מחלקה אחרת, ובה עשרים וארבעה אלף איש.",
+    "על המחלקה הראשונה, בחודש הראשון, היה ממונה ישבעם בן זבדיאל. במחלקתו היו עשרים וארבעה אלף איש.",
+    "ישבעם היה מבני פרץ, בן יהודה, ושימש ראש לכל שרי הצבאות בחודש הראשון.",
+    "על מחלקת החודש השני היה ממונה דודי האחוחי. מחלקתו הונהגה בסיוע מִקְלוֹת הנגיד, ובה עשרים וארבעה אלף איש.",
+    "על המחלקה השלישית, בחודש השלישי, היה ממונה בניהו בן יהוידע הכהן. הוא פעל בעיקר כאיש צבא, ולא נאמר ששימש בכהונה, אף שהיה כהן ראשי.",
+    "בניהו היה מגיבורי דויד וממונה על השלושים. הנהגת המחלקה שלו נעשתה יחד עם עַמִּיזָבָד בנו.",
+    "המחלקה הרביעית, בחודש הרביעי, עמדה תחת פיקודם של עֲשָׂהאֵל אחי יואב ושל זבדיה בנו אחריו. גם במחלקה זו היו עשרים וארבעה אלף איש.",
+    "המחלקה החמישית, בחודש החמישי, הייתה תחת פיקודו של שַׁמְהוּת הַיִּזְרָח. מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה השישית, בחודש השישי, היה ממונה עירא בן עקש התקועי. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה השביעית, בחודש השביעי, היה ממונה חלץ הפלוני מבני אפרים. גם מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה השמינית, בחודש השמיני, היה ממונה סבכי החושתי, למשפחת הזרחי. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה התשיעית, בחודש התשיעי, היה ממונה אביעזר הענתותי, בן בנימין. במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה העשירית, בחודש העשירי, היה ממונה מהרי הנטופתי, מן הזרחי. מחלקתו מנתה עשרים וארבעה אלף איש.",
+    "על המחלקה האחת־עשרה, בחודש האחד־עשר, היה ממונה בניה הפרעתוני מבני אפרים. גם במחלקתו היו עשרים וארבעה אלף איש.",
+    "על המחלקה השתים־עשרה, בחודש השנים־עשר, היה ממונה חלדי הנטופתי, לעתניאל. לכל חודש נקבע משמר של עשרים וארבעה אלף איש, והממונים היו קצינים מגיבורי דויד, ולכן מדובר ביחידות מעין צבא מילואים.",
+    "נוסף על שרי המחלקות הצבאיות היו ממונים על שבטי ישראל. על ראובן היה אליעזר בן זכרי, ועל שמעון – שפטיהו בן מעכה.",
+    "על שבט לוי היה חשביה בן קמואל, ועל הכוהנים, בני אהרן, היה צדוק.",
+    "על יהודה היה אליהו מאחי דויד, אולי אחיו הבכור אליאב, ועל יששכר היה עמרי בן מיכאל.",
+    "על זבולון היה ישמעיהו בן עובדיהו, ועל נפתלי היה ירימות בן עזריאל.",
+    "על בני אפרים היה הושע בן עזזיהו, ועל חצי שבט מנשה היה יואל בן פדיהו.",
+    "על חצי שבט מנשה שישב בגלעד שבעבר הירדן היה יִדּוֹ בן זכריהו. על בנימין היה יעשיאל בן אבנר, כנראה בנו של אבנר בן נר.",
+    "על דן היה עזריאל בן ירוחם. אלה היו שרי שבטי ישראל.",
+    "דויד לא כלל במניין את הישראלים שגילם פחות מעשרים שנה, מפני שה' הבטיח להרבות את ישראל ככוכבי השמים. לפי הפירוש, דויד לא רצה לערוך מפקד מלא ומפורט של כל ישראל.",
+    "יואב התחיל למנות את העם אך לא השלים את המפקד, משום שלא רצה לבצע את פקודת דויד במלואה. הוא ערך ספירה משוערת ודילג על קבוצות מסוימות, אך למרות זאת הדבר גרם קצף על ישראל, והמספר לא נרשם במלואו בדברי הימים של דויד.",
+    "על אוצרות המלך היה ממונה עזמות בן עדיאל, ועל האוצרות שבשדות, בערים, בכפרים ובמגדלים היה ממונה יהונתן בן עוזיהו.",
+    "על עובדי השדה ועל עבודת האדמה היה ממונה עזרי בן כלוב.",
+    "על הכרמים היה ממונה שמעִי הרמתי, ועל הענבים שנועדו לאוצרות היין היה ממונה זבדי השפמי.",
+    "על עצי הזית והשקמים שבשפלה היה ממונה בעל חנן הגדרי, ועל אוצרות השמן היה ממונה יועש.",
+    "על הבקר שרעה בשרון היה ממונה שטרי השרוני, ועל הבקר שבעמקים היה ממונה שפט בן עדלי.",
+    "על הגמלים היה ממונה עוביל הישמעאלי, שהיה אולי מבני ישמעאל או גר ביניהם ולכן התמחה בגמלים. על האתונות היה ממונה יחדיהו המרנותי.",
+    "על הצאן היה ממונה יזיז ההגרי, שמוצאו מן הערבים הקנה לו, לפי הפירוש, מומחיות בטיפול בצאן. כל אלה היו שרי הרכוש של המלך דויד.",
+    "יהונתן, דודו של דויד, היה יועץ, איש משכיל ומלומד וסופר היודע לכתוב גם בשפות זרות. הוא ויחיאל בן חכמוני היו עם בני המלך כדי ללמדם חכמה ותכסיסי מלכות.",
+    "אחיתופל היה יועץ למלך בעניינים העומדים על הפרק. חושי הארכי היה רע המלך, תפקיד אישי וקרוב יותר למלך, ולא תפקיד רשמי של יועץ.",
+    "אחרי אחיתופל, מבחינת דרגת השלטון או סדר קבלת ההחלטות, היו יהוידע בן בניהו ואביתר הכוהן. שר הצבא של המלך היה יואב, שתפקידו היה מרכזי וחשוב במלכות דויד."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "מחלקות הצבא החודשיות",
+      "title_en": "The Monthly Military Divisions",
+      "start_verse": 1,
+      "end_verse": 15,
+      "summary": "הפסוקים מתארים את חלוקת בני ישראל לשנים־עשר משמרות חודשיים, שכל אחד מהם מנה עשרים וארבעה אלף איש, ומונים את המפקדים של כל מחלקה.",
+      "summary_en": "These verses describe the division of the Israelites into twelve monthly units, each consisting of twenty-four thousand men, and list the commanders of each division.",
+      "image_prompt": "A historically grounded biblical administrative scene showing twelve military divisions represented around a central royal court, scrolls and commanders, realistic ancient Near Eastern setting, no modern objects"
+    },
+    {
+      "title": "שרי שבטי ישראל והמפקד",
+      "title_en": "The Tribal Officials and the Census",
+      "start_verse": 16,
+      "end_verse": 24,
+      "summary": "הפסוקים מפרטים את השרים שמונו על שבטי ישראל, מסבירים את אי־מניית הצעירים מגיל עשרים, ומתארים את המפקד שיואב החל בו אך לא השלים.",
+      "summary_en": "These verses list the officials appointed over the tribes of Israel, explain the exclusion of those under twenty from the count, and describe the census that Joab began but did not complete.",
+      "image_prompt": "An ancient Israelite administrative gathering with tribal officials, census scrolls, and a commander pausing an incomplete count, realistic biblical-era clothing and architecture"
+    },
+    {
+      "title": "אוצרות המלך וניהול הרכוש",
+      "title_en": "The King’s Treasuries and Property Management",
+      "start_verse": 25,
+      "end_verse": 31,
+      "summary": "הפסוקים מציגים את בעלי התפקידים האחראים על אוצרות המלך, עבודת האדמה, הכרמים, השמן, הבקר, הגמלים והצאן.",
+      "summary_en": "These verses present the officials responsible for the king’s treasuries, agriculture, vineyards, oil, cattle, camels, and sheep.",
+      "image_prompt": "A detailed biblical royal estate with storehouses, fields, vineyards, olive trees, cattle, camels, donkeys, and sheep, overseers recording supplies on scrolls, realistic ancient Near Eastern style"
+    },
+    {
+      "title": "יועצי המלך והנהגת הממלכה",
+      "title_en": "The King’s Counselors and Royal Leadership",
+      "start_verse": 32,
+      "end_verse": 34,
+      "summary": "הפסוקים מתארים את יהונתן ויחיאל המלמדים את בני המלך, את אחיתופל כיועץ, את חושי כרע המלך, ואת יהוידע, אביתר ויואב בתפקידי ההנהגה המרכזיים.",
+      "summary_en": "These verses describe Jonathan and Jehiel teaching the king’s sons, Ahithophel as a counselor, Hushai as the king’s companion, and Jehoiada, Abiathar, and Joab in central leadership roles.",
+      "image_prompt": "A biblical royal court with a learned counselor teaching the king’s sons, senior advisers gathered nearby, and the army commander standing at the side, realistic ancient Near Eastern palace interior"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 20.06,
+      "usfm": "1CH.27.1"
+    },
+    {
+      "start": 20.06,
+      "end": 28.48,
+      "usfm": "1CH.27.2"
+    },
+    {
+      "start": 28.48,
+      "end": 33.46,
+      "usfm": "1CH.27.3"
+    },
+    {
+      "start": 33.46,
+      "end": 44.18,
+      "usfm": "1CH.27.4"
+    },
+    {
+      "start": 44.18,
+      "end": 53.54,
+      "usfm": "1CH.27.5"
+    },
+    {
+      "start": 53.54,
+      "end": 61.86,
+      "usfm": "1CH.27.6"
+    },
+    {
+      "start": 61.86,
+      "end": 71.94,
+      "usfm": "1CH.27.7"
+    },
+    {
+      "start": 71.94,
+      "end": 79.46,
+      "usfm": "1CH.27.8"
+    },
+    {
+      "start": 79.46,
+      "end": 88.36,
+      "usfm": "1CH.27.9"
+    },
+    {
+      "start": 88.36,
+      "end": 96.66,
+      "usfm": "1CH.27.10"
+    },
+    {
+      "start": 96.66,
+      "end": 104.94,
+      "usfm": "1CH.27.11"
+    },
+    {
+      "start": 104.94,
+      "end": 113.74,
+      "usfm": "1CH.27.12"
+    },
+    {
+      "start": 113.74,
+      "end": 122.16,
+      "usfm": "1CH.27.13"
+    },
+    {
+      "start": 122.16,
+      "end": 132.22,
+      "usfm": "1CH.27.14"
+    },
+    {
+      "start": 132.22,
+      "end": 140.16,
+      "usfm": "1CH.27.15"
+    },
+    {
+      "start": 140.16,
+      "end": 148.44,
+      "usfm": "1CH.27.16"
+    },
+    {
+      "start": 148.44,
+      "end": 153.58,
+      "usfm": "1CH.27.17"
+    },
+    {
+      "start": 153.58,
+      "end": 159.2,
+      "usfm": "1CH.27.18"
+    },
+    {
+      "start": 159.2,
+      "end": 165.38,
+      "usfm": "1CH.27.19"
+    },
+    {
+      "start": 165.38,
+      "end": 173.44,
+      "usfm": "1CH.27.20"
+    },
+    {
+      "start": 173.44,
+      "end": 181.68,
+      "usfm": "1CH.27.21"
+    },
+    {
+      "start": 181.68,
+      "end": 187.62,
+      "usfm": "1CH.27.22"
+    },
+    {
+      "start": 187.62,
+      "end": 195.56,
+      "usfm": "1CH.27.23"
+    },
+    {
+      "start": 195.56,
+      "end": 206.78,
+      "usfm": "1CH.27.24"
+    },
+    {
+      "start": 206.78,
+      "end": 219.94,
+      "usfm": "1CH.27.25"
+    },
+    {
+      "start": 219.94,
+      "end": 225.36,
+      "usfm": "1CH.27.26"
+    },
+    {
+      "start": 225.36,
+      "end": 233.46,
+      "usfm": "1CH.27.27"
+    },
+    {
+      "start": 233.46,
+      "end": 242.5,
+      "usfm": "1CH.27.28"
+    },
+    {
+      "start": 242.5,
+      "end": 250.1,
+      "usfm": "1CH.27.29"
+    },
+    {
+      "start": 250.1,
+      "end": 257.14,
+      "usfm": "1CH.27.30"
+    },
+    {
+      "start": 257.14,
+      "end": 264.66,
+      "usfm": "1CH.27.31"
+    },
+    {
+      "start": 264.66,
+      "end": 274.62,
+      "usfm": "1CH.27.32"
+    },
+    {
+      "start": 274.62,
+      "end": 281.84,
+      "usfm": "1CH.27.33"
+    },
+    {
+      "start": 281.84,
+      "end": 297.76,
+      "usfm": "1CH.27.34"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    20.06,
+    28.48,
+    33.46,
+    44.18,
+    53.54,
+    61.86,
+    71.94,
+    79.46,
+    88.36,
+    96.66,
+    104.94,
+    113.74,
+    122.16,
+    132.22,
+    140.16,
+    148.44,
+    153.58,
+    159.2,
+    165.38,
+    173.44,
+    181.68,
+    187.62,
+    195.56,
+    206.78,
+    219.94,
+    225.36,
+    233.46,
+    242.5,
+    250.1,
+    257.14,
+    264.66,
+    274.62,
+    281.84,
+    297.76
+  ],
+  "times_en_usfm": [
+    "1CH.27.1",
+    "1CH.27.2",
+    "1CH.27.3",
+    "1CH.27.4",
+    "1CH.27.5",
+    "1CH.27.6",
+    "1CH.27.7",
+    "1CH.27.8",
+    "1CH.27.9",
+    "1CH.27.10",
+    "1CH.27.11",
+    "1CH.27.12",
+    "1CH.27.13",
+    "1CH.27.14",
+    "1CH.27.15",
+    "1CH.27.16",
+    "1CH.27.17",
+    "1CH.27.18",
+    "1CH.27.19",
+    "1CH.27.20",
+    "1CH.27.21",
+    "1CH.27.22",
+    "1CH.27.23",
+    "1CH.27.24",
+    "1CH.27.25",
+    "1CH.27.26",
+    "1CH.27.27",
+    "1CH.27.28",
+    "1CH.27.29",
+    "1CH.27.30",
+    "1CH.27.31",
+    "1CH.27.32",
+    "1CH.27.33",
+    "1CH.27.34"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? דוד ארגן את הצבא בשנים־עשר מחזורים חודשיים; בכל חודש שירתה מחלקה אחרת, ולכל מחלקה היו 24,000 איש.",
+      "text_he": "הידעת? דוד ארגן את הצבא בשנים־עשר מחזורים חודשיים; בכל חודש שירתה מחלקה אחרת, ולכל מחלקה היו 24,000 איש.",
+      "text_en": "Did you know? David organized the army into twelve monthly divisions. A different division served each month, and each division had 24,000 men."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? יָשָׁבְעָם בן זַבְדִּיאֵל, מן האישים של בית פֶּרֶץ, נזכר כראש שרי הצבאות לחודש הראשון.",
+      "text_he": "הידעת? יָשָׁבְעָם בן זַבְדִּיאֵל, מן האישים של בית פֶּרֶץ, נזכר כראש שרי הצבאות לחודש הראשון.",
+      "text_en": "Did you know? Jashobeam son of Zabdiel, one of the descendants of Perez, is listed as the chief of the army officers for the first month."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? בְּנָיָהוּ בן יְהוֹיָדָע פיקד על המחלקה של החודש השלישי, והכתוב מתאר אותו גם כגיבור מן השלושים.",
+      "text_he": "הידעת? בְּנָיָהוּ בן יְהוֹיָדָע פיקד על המחלקה של החודש השלישי, והכתוב מתאר אותו גם כגיבור מן השלושים.",
+      "text_en": "Did you know? Benaiah son of Jehoiada commanded the division for the third month, and the text also describes him as a mighty warrior among the Thirty."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? חֶלְדַּי הַנְּטוֹפָתִי היה מפקד המחלקה של החודש השנים־עשר, וכך מסתיימת רשימת שנים־עשר מפקדי המחלקות.",
+      "text_he": "הידעת? חֶלְדַּי הַנְּטוֹפָתִי היה מפקד המחלקה של החודש השנים־עשר, וכך מסתיימת רשימת שנים־עשר מפקדי המחלקות.",
+      "text_en": "Did you know? Heldai the Netophathite commanded the division for the twelfth month, bringing the list of the twelve division commanders to an end."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? לצד מפקדי המחלקות הצבאיות, מונה הפרק גם נציבים על שבטי ישראל, ובהם אליעזר על ראובן, שפטיהו על שמעון וצדוק על אהרן.",
+      "text_he": "הידעת? לצד מפקדי המחלקות הצבאיות, מונה הפרק גם נציבים על שבטי ישראל, ובהם אליעזר על ראובן, שפטיהו על שמעון וצדוק על אהרן.",
+      "text_en": "Did you know? In addition to the commanders of the military divisions, the chapter also lists officials over the tribes of Israel, including Eliezer over Reuben, Shephatiah over Simeon, and Zadok over Aaron."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? דוד לא מנה במפקד את בני ישראל מגיל עשרים ומטה, מפני שה' הבטיח להרבות את ישראל ככוכבי השמים.",
+      "text_he": "הידעת? דוד לא מנה במפקד את בני ישראל מגיל עשרים ומטה, מפני שה' הבטיח להרבות את ישראל ככוכבי השמים.",
+      "text_en": "Did you know? David did not count the Israelites who were twenty years old or younger, because the LORD had promised to multiply Israel like the stars of the heavens."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? יואב בן צרויה החל במפקד אך לא השלים אותו; לפי הפרק, הדבר עורר קצף על ישראל, ולכן תוצאות המפקד לא נכללו ברשומות ימי דוד.",
+      "text_he": "הידעת? יואב בן צרויה החל במפקד אך לא השלים אותו; לפי הפרק, הדבר עורר קצף על ישראל, ולכן תוצאות המפקד לא נכללו ברשומות ימי דוד.",
+      "text_en": "Did you know? Joab son of Zeruiah began the census but did not complete it. According to the chapter, this brought wrath upon Israel, so the census results were not included in the records of King David's reign."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? ניהול רכוש המלך כלל תחומים רבים: אוצרות, שדות, כרמים, שמן, בקר, גמלים, אתונות וצאן, ולכל תחום מונה אחראי.",
+      "text_he": "הידעת? ניהול רכוש המלך כלל תחומים רבים: אוצרות, שדות, כרמים, שמן, בקר, גמלים, אתונות וצאן, ולכל תחום מונה אחראי.",
+      "text_en": "Did you know? The administration of the king's possessions covered many areas: treasuries, fields, vineyards, olive oil, cattle, camels, donkeys, and flocks. An official was appointed over each area."
+    },
+    {
+      "verse": 32,
+      "text": "הידעת? יהונתן, דודו של דוד, מתואר כיועץ איש מבין וסופר, ואילו יחיאל בן חכמוני שירת לצד בני המלך.",
+      "text_he": "הידעת? יהונתן, דודו של דוד, מתואר כיועץ איש מבין וסופר, ואילו יחיאל בן חכמוני שירת לצד בני המלך.",
+      "text_en": "Did you know? Jonathan, David's uncle, is described as a wise counselor and a scribe, while Jehiel son of Hachmoni served alongside the king's sons."
+    },
+    {
+      "verse": 33,
+      "text": "הידעת? אחיתופל היה יועץ למלך, וחושי הארכי מתואר כ\"רֵעַ הַמֶּלֶךְ\"; בסיום הפרק נזכרים גם יהוידע, אביתר ויואב בתפקידי הנהגה מרכזיים.",
+      "text_he": "הידעת? אחיתופל היה יועץ למלך, וחושי הארכי מתואר כ\"רֵעַ הַמֶּלֶךְ\"; בסיום הפרק נזכרים גם יהוידע, אביתר ויואב בתפקידי הנהגה מרכזיים.",
+      "text_en": "Did you know? Ahithophel was the king's counselor, and Hushai the Archite is described as the king's friend. At the end of the chapter, Jehoiada, Abiathar, and Joab are also mentioned in key leadership roles."
+    }
+  ]
+}

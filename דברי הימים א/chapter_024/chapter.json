@@ -1,0 +1,550 @@
+{
+  "book": "I Chronicles",
+  "book_he": "דברי הימים א",
+  "book_chapters": 29,
+  "chapter": 24,
+  "title": "דברי הימים א פרק 24",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a24.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25a24.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1CH/24-7f0047d4f74df1d114c2247c3e26aa79.mp3?version_id=1",
+  "verses": [
+    "וְלִבְנֵי אַהֲרֹן, מַחְלְקוֹתָם: בְּנֵי אַהֲרֹן--נָדָב וַאֲבִיהוּא, אֶלְעָזָר וְאִיתָמָר.",
+    "וַיָּמָת נָדָב וַאֲבִיהוּא לִפְנֵי אֲבִיהֶם, וּבָנִים לֹא-הָיוּ לָהֶם; וַיְכַהֲנוּ, אֶלְעָזָר וְאִיתָמָר.",
+    "וַיֶּחָלְקֵם דָּוִיד--וְצָדוֹק מִן-בְּנֵי אֶלְעָזָר, וַאֲחִימֶלֶךְ מִן-בְּנֵי אִיתָמָר: לִפְקֻדָּתָם, בַּעֲבֹדָתָם.",
+    "וַיִּמָּצְאוּ בְנֵי-אֶלְעָזָר רַבִּים לְרָאשֵׁי הַגְּבָרִים, מִן-בְּנֵי אִיתָמָר--וַיַּחְלְקוּם: לִבְנֵי אֶלְעָזָר רָאשִׁים לְבֵית-אָבוֹת, שִׁשָּׁה עָשָׂר, וְלִבְנֵי אִיתָמָר לְבֵית אֲבוֹתָם, שְׁמוֹנָה.",
+    "וַיַּחְלְקוּם בְּגוֹרָלוֹת, אֵלֶּה עִם-אֵלֶּה: כִּי-הָיוּ שָׂרֵי-קֹדֶשׁ וְשָׂרֵי הָאֱלֹהִים, מִבְּנֵי אֶלְעָזָר וּבִבְנֵי אִיתָמָר.",
+    "וַיִּכְתְּבֵם שְׁמַעְיָה בֶן-נְתַנְאֵל הַסּוֹפֵר מִן-הַלֵּוִי, לִפְנֵי הַמֶּלֶךְ וְהַשָּׂרִים וְצָדוֹק הַכֹּהֵן וַאֲחִימֶלֶךְ בֶּן-אֶבְיָתָר, וְרָאשֵׁי הָאָבוֹת, לַכֹּהֲנִים וְלַלְוִיִּם--בֵּית-אָב אֶחָד, אָחֻז לְאֶלְעָזָר, וְאָחֻז אָחֻז, לְאִיתָמָר.",
+    "וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן, לִיהוֹיָרִיב, {ס} לִידַעְיָה, הַשֵּׁנִי.",
+    "לְחָרִם, {ר} הַשְּׁלִישִׁי, {ס} לִשְׂעֹרִים, הָרְבִעִי.",
+    "לְמַלְכִּיָּה, {ר} הַחֲמִישִׁי, {ס} לְמִיָּמִן, הַשִּׁשִּׁי.",
+    "לְהַקּוֹץ, {ר} הַשְּׁבִעִי, {ס} לַאֲבִיָּה, הַשְּׁמִינִי.",
+    "לְיֵשׁוּעַ, {ר} הַתְּשִׁעִי, {ס} לִשְׁכַנְיָהוּ, הָעֲשִׂרִי.",
+    "לְאֶלְיָשִׁיב, {ר} עַשְׁתֵּי עָשָׂר, {ס} לְיָקִים, שְׁנֵים עָשָׂר.",
+    "לְחֻפָּה, {ר} שְׁלֹשָׁה עָשָׂר, {ס} לְיֶשֶׁבְאָב, אַרְבָּעָה עָשָׂר.",
+    "לְבִלְגָּה, {ר} חֲמִשָּׁה עָשָׂר, {ס} לְאִמֵּר, שִׁשָּׁה עָשָׂר.",
+    "לְחֵזִיר, שִׁבְעָה {ר} עָשָׂר, {ס} לְהַפִּצֵּץ, שְׁמוֹנָה עָשָׂר.",
+    "לִפְתַחְיָה, תִּשְׁעָה {ר} עָשָׂר, {ס} לִיחֶזְקֵאל, הָעֶשְׂרִים.",
+    "לְיָכִין, אֶחָד {ר} וְעֶשְׂרִים, {ס} לְגָמוּל, שְׁנַיִם וְעֶשְׂרִים.",
+    "לִדְלָיָהוּ, שְׁלֹשָׁה {ר} וְעֶשְׂרִים, {ס} לְמַעַזְיָהוּ, אַרְבָּעָה וְעֶשְׂרִים.",
+    "אֵלֶּה פְקֻדָּתָם לַעֲבֹדָתָם, לָבוֹא לְבֵית-יְהוָה כְּמִשְׁפָּטָם, בְּיַד, אַהֲרֹן אֲבִיהֶם: כַּאֲשֶׁר צִוָּהוּ, יְהוָה אֱלֹהֵי יִשְׂרָאֵל.",
+    "וְלִבְנֵי לֵוִי, הַנּוֹתָרִים: לִבְנֵי עַמְרָם שׁוּבָאֵל, לִבְנֵי שׁוּבָאֵל יֶחְדְּיָהוּ.",
+    "לִרְחַבְיָהוּ--לִבְנֵי רְחַבְיָהוּ, הָרֹאשׁ יִשִּׁיָּה.",
+    "לַיִּצְהָרִי שְׁלֹמוֹת, לִבְנֵי שְׁלֹמוֹת יָחַת.",
+    "וּבְנָי, יְרִיָּהוּ; אֲמַרְיָהוּ, הַשֵּׁנִי, יַחֲזִיאֵל הַשְּׁלִישִׁי, יְקַמְעָם הָרְבִיעִי.",
+    "בְּנֵי עֻזִּיאֵל מִיכָה, לִבְנֵי מִיכָה שמור שָׁמִיר .",
+    "אֲחִי מִיכָה יִשִּׁיָּה, {ס} לִבְנֵי יִשִּׁיָּה זְכַרְיָהוּ.",
+    "בְּנֵי מְרָרִי מַחְלִי וּמוּשִׁי, {ס} בְּנֵי יַעֲזִיָּהוּ בְנוֹ.",
+    "בְּנֵי, מְרָרִי--לְיַעֲזִיָּהוּ בְנוֹ, וְשֹׁהַם וְזַכּוּר וְעִבְרִי.",
+    "לְמַחְלִי, אֶלְעָזָר, וְלֹא-הָיָה לוֹ, בָּנִים.",
+    "לְקִישׁ, בְּנֵי-קִישׁ יְרַחְמְאֵל.",
+    "וּבְנֵי מוּשִׁי, מַחְלִי וְעֵדֶר וִירִימוֹת; אֵלֶּה בְּנֵי הַלְוִיִּם, לְבֵית אֲבֹתֵיהֶם.",
+    "וַיַּפִּילוּ גַם-הֵם גּוֹרָלוֹת לְעֻמַּת אֲחֵיהֶם בְּנֵי-אַהֲרֹן, לִפְנֵי דָוִיד הַמֶּלֶךְ וְצָדוֹק וַאֲחִימֶלֶךְ, וְרָאשֵׁי הָאָבוֹת, לַכֹּהֲנִים וְלַלְוִיִּם--אָבוֹת הָרֹאשׁ, לְעֻמַּת אָחִיו הַקָּטָן."
+  ],
+  "english": [
+    "Now\nthese are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+    "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.",
+    "And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.",
+    "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and\nthus were they divided. Among the sons of Eleazar\nthere were sixteen chief men of the house of\ntheir\n fathers, and eight among the sons of Ithamar according to the house of their fathers.",
+    "Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors\nof the house of God, were of the sons of Eleazar, and of the sons of Ithamar.",
+    "And Shemaiah the son of Nethaneel the scribe,\none of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and\nbefore the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and\none taken for Ithamar.",
+    "Now the first lot came forth to Jehoiarib, the second to Jedaiah,",
+    "The third to Harim, the fourth to Seorim,",
+    "The fifth to Malchijah, the sixth to Mijamin,",
+    "The seventh to Hakkoz, the eighth to Abijah,",
+    "The ninth to Jeshua, the tenth to Shecaniah,",
+    "The eleventh to Eliashib, the twelfth to Jakim,",
+    "The thirteenth to Huppah, the fourteenth to Jeshebeab,",
+    "The fifteenth to Bilgah, the sixteenth to Immer,",
+    "The seventeenth to Hezir, the eighteenth to Aphses,",
+    "The nineteenth to Pethahiah, the twentieth to Jehezekel,",
+    "The one and twentieth to Jachin, the two and twentieth to Gamul,",
+    "The three and twentieth to Delaiah, the four and twentieth to Maaziah.",
+    "These\nwere the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.",
+    "And the rest of the sons of Levi\nwere these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.",
+    "Concerning Rehabiah: of the sons of Rehabiah, the first\nwas\n Isshiah.",
+    "Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.",
+    "And the sons\nof Hebron; Jeriah\nthe first, Amariah the second, Jahaziel the third, Jekameam the fourth.",
+    "Of the sons of Uzziel; Michah: of the sons of Michah; Shamir.",
+    "The brother of Michah\nwas Isshiah: of the sons of Isshiah; Zechariah.",
+    "The sons of Merari\nwere Mahli and Mushi: the sons of Jaaziah; Beno.",
+    "The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.",
+    "Of Mahli\ncame Eleazar, who had no sons.",
+    "Concerning Kish: the son of Kish\nwas Jerahmeel.",
+    "The sons also of Mushi; Mahli, and Eder, and Jerimoth. These\nwere\n the sons of the Levites after the house of their fathers.",
+    "These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren."
+  ],
+  "steinsaltz": [
+    "וְלִבְנֵי אַהֲרֹן היו מַחְלְקוֹתָם כדלהלן: שוב פותחים בראשית השושלת הידועה. בְּנֵי אַהֲרֹן: נָדָב וַאֲבִיהוּא, אֶלְעָזָר וְאִיתָמָר.",
+    "וַיָּמָת נָדָב וַאֲבִיהוּ לִפְנֵי, בחיי אֲבִיהֶם, וּבָנִים לֹא־הָיוּ לָהֶם. ייתכן שהלשון מרמזת שהיו להם בנות, שאולי התחתנו עם בני האחים. אך גם אם לא, אין זה המקרה היחיד שרשימה במקרא מזכירה בנים שמתו בלא ילדים. וַיְכַהֲנוּ, נשארו לשמש ככהנים אֶלְעָזָר וְאִיתָמָר.",
+    "וַיֶּחָלְקֵם דָּוִיד וְצָדוֹק שהיה מִן־בְּנֵי אֶלְעָזָר וַאֲחִימֶלֶךְ שהיה מִן־בְּנֵי אִיתָמָר, לִפְקֻדָּתָם בַּעֲבֹדָתָם. דויד ושני הכהנים החשובים חילקו את כל הכהנים כדי לקבוע את סדרי עבודתם. נראה כי מינויו של צדוק לכהן ראשי היה חדש יחסית, ואילו בית איתמר, שגם עלי הכהן נמנה עליו, החזיק אז בכהונה הגדולה.",
+    "וַיִּמָּצְאוּ במפקד הכהנים בְנֵי־אֶלְעָזָר רַבִּים לְרָאשֵׁי הַגְּבָרִים יותר מִן־בְּנֵי אִיתָמָר. וַיַּחְלְקוּם לִבְנֵי אֶלְעָזָר רָאשִׁים לְבֵית־אָבוֹת שִׁשָּׁה עָשָׂר, וְלִבְנֵי אִיתָמָר לְבֵית אֲבוֹתָם שְׁמוֹנָה. דויד חילק את העבודה במתכונת קבועה של עשרים וארבע מחלקות, שיש ביניהן קשר לאורכה של השנה. כמה פרטים של העבודה נעשים משבת לשבת; ואם מוציאים מן החשבון את הרגלים, שבהם כל הכהנים עובדים יחד במרבית העבודות, הרי שעשרים וארבעה משמרות בני שבועיים מכסים פחות או יותר את מספר השבועות שיש בשנה שלמה, אם כל משמר מגיע אל המקדש פעמיים בשנה.",
+    "וַיַּחְלְקוּם – את סדר המשמרות בְּגוֹרָלוֹת אֵלֶּה עִם־אֵלֶּה, כִּי־הָיוּ שָׂרֵי־קֹדֶשׁ וְשָׂרֵי הָאֱלֹהִים מִבְּנֵי אֶלְעָזָר וּבִבְנֵי אִיתָמָר. כיוון שהיו אנשים גדולים וחשובים בשתי המשפחות, נעשתה החלוקה בגורלות ולא לפי העדפה כלשהי. עם זאת, מסתבר שלאחר זמן לקחו בני אלעזר כמעט את כל הבכורה במקדש.",
+    "וַיִּכְתְּבֵם שְׁמַעְיָה בֶן־נְתַנְאֵל הַסּוֹפֵר שמוצאו מִן השבט הַלֵּוִי לִפְנֵי הַמֶּלֶךְ וְהַשָּׂרִים וְצָדוֹק הַכֹּהֵן וַאֲחִימֶלֶךְ בֶּן־אֶבְיָתָר וְרָאשֵׁי הָאָבוֹת לַכֹּהֲנִים וְלַלְוִיִּם, בֵּית־אָב אֶחָד אָחֻז, לקוח לְאֶלְעָזָר, וכנגדו אָחֻז אָחֻז, חלק מהלקוח, כלומר חצי מבתי אבות שהופרשו לאלעזר הופרשו לְאִיתָמָר.",
+    "כאן מובאת הרשימה של עשרים וארבעה משמרות הכהונה: וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן לִיהוֹיָרִיב, שהיה המשמר הראשון בחלוקת סדרי העבודות במשך שנים רבות, ולִידַעְיָה – הגורל הַשֵּׁנִי,",
+    "לְחָרִם – הַשְּׁלִישִׁי, לִשְׂעֹרִים – הָרְבִעִי,",
+    "לְמַלְכִּיָּה – הַחֲמִישִׁי, לְמִיָּמִן – הַשִּׁשִּׁי,",
+    "לְהַקּוֹץ – הַשְּׁבִעִי, לַאֲבִיָּה – הַשְּׁמִינִי,",
+    "לְיֵשׁוּעַ – הַתְּשִׁעִי, לִשְׁכַנְיָהוּ – הָעֲשִׂרִי,",
+    "לְאֶלְיָשִׁיב – עַשְׁתֵּי עָשָׂר, האחד-עשר, לְיָקִים – שְׁנֵים עָשָׂר,",
+    "לְחֻפָּה – שְׁלֹשָׁה עָשָׂר, לְיֶשֶׁבְאָב – אַרְבָּעָה עָשָׂר,",
+    "לְבִלְגָּה – חֲמִשָּׁה עָשָׂר, לְאִמֵּר – שִׁשָּׁה עָשָׂר,",
+    "לְחֵזִיר – שִׁבְעָה עָשָׂר, לְהַפִּצֵּץ – שְׁמוֹנָה עָשָׂר,",
+    "לִפְתַחְיָה – תִּשְׁעָה עָשָׂר, לִיחֶזְקֵאל – הָעֶשְׂרִים,",
+    "לְיָכִין – אֶחָד וְעֶשְׂרִים, לְגָמוּל – שְׁנַיִם וְעֶשְׂרִים,",
+    "לִדְלָיָהוּ – שְׁלֹשָׁה וְעֶשְׂרִים, לְמַעַזְיָהוּ – אַרְבָּעָה וְעֶשְׂרִים.",
+    "אֵלֶּה סדרי פְקֻדָּתָם, תפקיד הכהנים לַעֲבֹדָתָם לָבוֹא לְבֵית־ה' כְּמִשְׁפָּטָם, בְּיַד, בגלל אַהֲרֹן אֲבִיהֶם. הכהנים בני אהרן ממשיכים את אביהם ובאים במקומו, כַּאֲשֶׁר, כפי שצִוָּהוּ ה' אֱלֹהֵי יִשְׂרָאֵל.",
+    "וְלִבְנֵי לֵוִי הַנּוֹתָרִים, מלבד אלו שנמנו לעיל: לִבְנֵי עַמְרָם: שׁוּבָאֵל. לִבְנֵי שׁוּבָאֵל: יֶחְדְּיָהוּ.",
+    "לִרְחַבְיָהוּ: לִבְנֵי רְחַבְיָהוּ היה הָרֹאשׁ אדם בשם יִשִּׁיָּה.",
+    "למשפחת היִּצְהָרִי: שְׁלֹמוֹת. לִבְנֵי שְׁלֹמוֹת: יָחַת.",
+    "וּבְנָי יְרִיָּהוּ: אֲמַרְיָהוּ הַשֵּׁנִי, יַחֲזִיאֵל הַשְּׁלִישִׁי, יְקַמְעָם הָרְבִיעִי.",
+    "בְּנֵי עֻזִּיאֵל: מִיכָה. לִבְנֵי מִיכָה: שָׁמִיר.",
+    "אֲחִי מִיכָה היה יִשִּׁיָּה. לִבְנֵי יִשִּׁיָּה: זְכַרְיָהוּ.",
+    "בְּנֵי מְרָרִי: מַחְלִי וּמוּשִׁי. בְּנֵי יַעֲזִיָּהוּ, שהיה גם הוא מצאצאי מררי: בְּנוֹ.",
+    "בְּנֵי מְרָרִי שלְיַעֲזִיָּהוּ: בְנוֹ וְשֹׁהַם וְזַכּוּר וְעִבְרִי.",
+    "לְמַחְלִי – אֶלְעָזָר, וְלֹא־הָיָה לוֹ בָּנִים. כאמור, אפשר שהיו לו רק בנות, ובני אחיו לקחו אותן לנשים.",
+    "לְקִישׁ: בְּנֵי־קִישׁ, ועמד בראשם יְרַחְמְאֵל.",
+    "וּבְנֵי מוּשִׁי: מַחְלִי וְעֵדֶר וִירִימוֹת. אֵלֶּה בְּנֵי הַלְוִיִּם לְבֵית אֲבֹתֵיהֶם.",
+    "וַיַּפִּילוּ גַם־הֵם גּוֹרָלוֹת לעשרים וארבעה משמרות לְעֻמַּת, כנגד אֲחֵיהֶם בְּנֵי־אַהֲרֹן, הגורלות הופלו לִפְנֵי דָוִיד הַמֶּלֶךְ וְצָדוֹק וַאֲחִימֶלֶךְ וְרָאשֵׁי הָאָבוֹת לַכֹּהֲנִים וְלַלְוִיִּם. נראה שלכל משמר כהנים היה צמוד משמר לויים, והם היו באים לעבודת המקדש יחד ממקומות מגוריהם. אָבוֹת שהיה הָרֹאשׁ הופל בגורל לְעֻמַּת, כמו אָחִיו הַקָּטָן. לא הייתה העדפה למשמר החשוב על פני הקטן."
+  ],
+  "ai_explanation": [
+    "בני אהרן נחלקו למשפחות ולמסגרות שירות. הפסוק פותח מחדש את השושלת הידועה ומונה את נדב, אביהוא, אלעזר ואיתמר.",
+    "נדב ואביהוא מתו בחיי אביהם ולא היו להם בנים. ייתכן שהיו להם בנות, אך גם אם לא, המקרא מזכיר לעיתים בנים שמתו בלי להשאיר ילדים; לאחר מותם שירתו אלעזר ואיתמר ככוהנים.",
+    "דוד חילק את הכוהנים יחד עם צדוק בן אלעזר ואחימלך בן איתמר, כדי לקבוע את סדרי עבודתם. נראה שמינוי צדוק לכהן ראשי היה חדש יחסית, ואילו בית איתמר, שאליו השתייך גם עלי, החזיק אז בכהונה הגדולה.",
+    "במפקד נמצא שבני אלעזר רבים יותר מראשי הגברים מבני איתמר, ולכן נקבעו להם שש־עשרה משפחות כהונה, ואילו לבני איתמר שמונה. כך נוצרו עשרים וארבע מחלקות, שנועדו להשתלב במחזור עבודתי הקשור לאורך השנה.",
+    "החלוקה בין משפחות אלעזר ואיתמר נעשתה בגורלות, מפני שבשתי המשפחות היו אנשים חשובים וראויים. עם הזמן נראה שבני אלעזר נטלו כמעט את כל הבכורה במקדש.",
+    "שמעיה בן נתנאל, שהיה סופר מן הלויים, כתב את שמות המחלקות לפני המלך, השרים, הכוהנים וראשי האבות. כל בית אב אחד נבחר לאלעזר, ומולו נבחרו בתי אב בחלקים מקבילים לאיתמר.",
+    "כאן מתחילה רשימת עשרים וארבע מחלקות הכהונה. יהויריב נבחר בגורל הראשון, והוא היה במשך שנים רבות המשמר הראשון, וידעיה נבחר בגורל השני.",
+    "חרים נבחר בגורל השלישי ושעורים בגורל הרביעי.",
+    "מלכיה נבחר בגורל החמישי ומימין בגורל השישי.",
+    "הקוץ נבחר בגורל השביעי ואביה בגורל השמיני.",
+    "ישוע נבחר בגורל התשיעי ושכניהו בגורל העשירי.",
+    "אלישיב נבחר בגורל האחד־עשר ויקים בגורל השנים־עשר.",
+    "חופה נבחר בגורל השלושה־עשר וישבאב בגורל הארבעה־עשר.",
+    "בלגה נבחר בגורל החמישה־עשר ואימר בגורל השישה־עשר.",
+    "חזיר נבחר בגורל השבעה־עשר והפיצץ בגורל השמונה־עשר.",
+    "פתחיה נבחר בגורל התשעה־עשר ויחזקאל בגורל העשרים.",
+    "יכין נבחר בגורל עשרים ואחד וגמול בגורל עשרים ושניים.",
+    "דליהו נבחר בגורל עשרים ושלושה ומעזיהו בגורל עשרים וארבעה.",
+    "אלה היו סדרי המחלקות ותפקידיהן בבואן לבית ה' לעבוד לפי משפטיהן. הכוהנים בני אהרן ממשיכים את עבודת אביהם, כפי שציווה ה' את אהרן.",
+    "מכאן עובר הפסוק אל בני לוי שלא נמנו ברשימת הכוהנים. מבני עמרם נמנה שובאל, ומבני שובאל נמנה יחדיהו.",
+    "מרחביהו נמנה בין משפחות הלויים, ובראש בני רחביה עמד אדם בשם ישיה.",
+    "למשפחת היצהרִי נמנה שלמות, ומבני שלמות נמנה יחד.",
+    "בני יריהו היו אמריהו, יחזיאל ויקמעם, לפי סדר זה: שני, שלישי ורביעי.",
+    "מבני עוזיאל נמנה מיכה, ומבני מיכה נמנה שמיר.",
+    "ישיה היה אחיו של מיכה, ומבני ישיה נמנה זכריהו.",
+    "בני מררי היו מחלי ומושי, וכן נמנה יעזיהו שהיה מצאצאי מררי.",
+    "מבני מררי, דרך יעזיהו, נמנו בנו, שוהם, זכור ועברי.",
+    "למחלי היה בן בשם אלעזר, אך לא היו לו בנים. ייתכן שהיו לו רק בנות, ובני אחיו נשאו אותן לנשים.",
+    "מבני קיש נמנה ירחמאל, שעמד בראשם.",
+    "מבני מושי נמנו מחלי, עדר וירימות. כל אלה היו בני לוי לפי בתי אבותיהם.",
+    "גם הלויים הפילו גורלות, כנגד מחלקות בני אהרן, לפני דוד, צדוק, אחימלך וראשי האבות. נראה שלכל משמר כוהנים היה משמר לויים מקביל, והגורל לא העדיף את המשמר החשוב על פני אחיו הקטן."
+  ],
+  "ai_explanation_en": [
+    "Aaron's descendants were organized into families and service divisions. The verse begins again with the familiar genealogy and lists Nadab, Abihu, Eleazar, and Ithamar.",
+    "Nadab and Abihu died during their father's lifetime and had no sons. They may have had daughters, but even if they did not, Scripture sometimes mentions sons who died without leaving children; after their deaths, Eleazar and Ithamar served as priests.",
+    "David organized the priests together with Zadok son of Eleazar and Ahimelech son of Ithamar in order to establish their order of service. Zadok's appointment as chief priest appears to have been relatively recent, while the house of Ithamar, to which Eli also belonged, still held the high priesthood at that time.",
+    "The census showed that the descendants of Eleazar had more heads of major families than the descendants of Ithamar. They were therefore assigned sixteen priestly families, while Ithamar's descendants received eight, creating twenty-four divisions connected with the yearly cycle of service.",
+    "The division between the families of Eleazar and Ithamar was made by lot because both families included important and worthy men. In later times, it appears that the descendants of Eleazar assumed nearly all the precedence in the Temple.",
+    "Shemaiah son of Nethanel, a scribe from the Levites, recorded the names of the divisions in the presence of the king, officials, priests, and heads of the ancestral houses. One ancestral house was selected for Eleazar, with corresponding portions of ancestral houses selected for Ithamar.",
+    "The list of the twenty-four priestly divisions now begins. Jehoiarib was chosen by the first lot and was for many years the first division, while Jedaiah was chosen by the second lot.",
+    "Harim was chosen by the third lot and Seorim by the fourth.",
+    "Malchijah was chosen by the fifth lot and Mijamin by the sixth.",
+    "Hakkoz was chosen by the seventh lot and Abijah by the eighth.",
+    "Jeshua was chosen by the ninth lot and Shecaniah by the tenth.",
+    "Eliashib was chosen by the eleventh lot and Jakim by the twelfth.",
+    "Huppah was chosen by the thirteenth lot and Jeshebeab by the fourteenth.",
+    "Bilgah was chosen by the fifteenth lot and Immer by the sixteenth.",
+    "Hezir was chosen by the seventeenth lot and Happizzez by the eighteenth.",
+    "Pethahiah was chosen by the nineteenth lot and Jehezkel by the twentieth.",
+    "Jachin was chosen by the twenty-first lot and Gamul by the twenty-second.",
+    "Delaiah was chosen by the twenty-third lot and Maaziah by the twenty-fourth.",
+    "These were the divisions and their duties when they came to the House of the Lord to serve according to their assigned regulations. The priests, descendants of Aaron, continued their father's service as the Lord had commanded Aaron.",
+    "The verse now turns to the remaining Levites, who were not included in the priestly list. From the descendants of Amram came Shubael, and from Shubael came Jehdeiah.",
+    "Rehabiah was listed among the Levitical families, and Ishshiah was the head of the descendants of Rehabiah.",
+    "From the family of the Izharites came Shelomoth, and from Shelomoth came Jahath.",
+    "The sons of Jeriah were Amariah, Jahaziel, and Jekameam, in that order: second, third, and fourth.",
+    "From the descendants of Uzziel came Micah, and from Micah came Shamir.",
+    "Ishshiah was Micah's brother, and Zechariah was among the descendants of Ishshiah.",
+    "The sons of Merari were Mahli and Mushi, and Jeaziah, also a descendant of Merari, was listed as well.",
+    "Among the descendants of Merari through Jeaziah were his son, Shoham, Zaccur, and Ibri.",
+    "Mahli had a son named Eleazar, but he had no sons. He may have had only daughters, whom the sons of his brothers married.",
+    "From the descendants of Kish came Jerahmeel, who stood at their head.",
+    "The sons of Mushi were Mahli, Eder, and Jerimoth. All these were Levites organized according to their ancestral houses.",
+    "The Levites also cast lots corresponding to the divisions of Aaron's descendants, before David, Zadok, Ahimelech, and the heads of the ancestral houses. It appears that each priestly division had a corresponding Levitical division, and the lot did not give preference to the more important division over its younger counterpart."
+  ],
+  "perush": [
+    "בני אהרן נחלקו למשפחות ולמסגרות שירות. הפסוק פותח מחדש את השושלת הידועה ומונה את נדב, אביהוא, אלעזר ואיתמר.",
+    "נדב ואביהוא מתו בחיי אביהם ולא היו להם בנים. ייתכן שהיו להם בנות, אך גם אם לא, המקרא מזכיר לעיתים בנים שמתו בלי להשאיר ילדים; לאחר מותם שירתו אלעזר ואיתמר ככוהנים.",
+    "דוד חילק את הכוהנים יחד עם צדוק בן אלעזר ואחימלך בן איתמר, כדי לקבוע את סדרי עבודתם. נראה שמינוי צדוק לכהן ראשי היה חדש יחסית, ואילו בית איתמר, שאליו השתייך גם עלי, החזיק אז בכהונה הגדולה.",
+    "במפקד נמצא שבני אלעזר רבים יותר מראשי הגברים מבני איתמר, ולכן נקבעו להם שש־עשרה משפחות כהונה, ואילו לבני איתמר שמונה. כך נוצרו עשרים וארבע מחלקות, שנועדו להשתלב במחזור עבודתי הקשור לאורך השנה.",
+    "החלוקה בין משפחות אלעזר ואיתמר נעשתה בגורלות, מפני שבשתי המשפחות היו אנשים חשובים וראויים. עם הזמן נראה שבני אלעזר נטלו כמעט את כל הבכורה במקדש.",
+    "שמעיה בן נתנאל, שהיה סופר מן הלויים, כתב את שמות המחלקות לפני המלך, השרים, הכוהנים וראשי האבות. כל בית אב אחד נבחר לאלעזר, ומולו נבחרו בתי אב בחלקים מקבילים לאיתמר.",
+    "כאן מתחילה רשימת עשרים וארבע מחלקות הכהונה. יהויריב נבחר בגורל הראשון, והוא היה במשך שנים רבות המשמר הראשון, וידעיה נבחר בגורל השני.",
+    "חרים נבחר בגורל השלישי ושעורים בגורל הרביעי.",
+    "מלכיה נבחר בגורל החמישי ומימין בגורל השישי.",
+    "הקוץ נבחר בגורל השביעי ואביה בגורל השמיני.",
+    "ישוע נבחר בגורל התשיעי ושכניהו בגורל העשירי.",
+    "אלישיב נבחר בגורל האחד־עשר ויקים בגורל השנים־עשר.",
+    "חופה נבחר בגורל השלושה־עשר וישבאב בגורל הארבעה־עשר.",
+    "בלגה נבחר בגורל החמישה־עשר ואימר בגורל השישה־עשר.",
+    "חזיר נבחר בגורל השבעה־עשר והפיצץ בגורל השמונה־עשר.",
+    "פתחיה נבחר בגורל התשעה־עשר ויחזקאל בגורל העשרים.",
+    "יכין נבחר בגורל עשרים ואחד וגמול בגורל עשרים ושניים.",
+    "דליהו נבחר בגורל עשרים ושלושה ומעזיהו בגורל עשרים וארבעה.",
+    "אלה היו סדרי המחלקות ותפקידיהן בבואן לבית ה' לעבוד לפי משפטיהן. הכוהנים בני אהרן ממשיכים את עבודת אביהם, כפי שציווה ה' את אהרן.",
+    "מכאן עובר הפסוק אל בני לוי שלא נמנו ברשימת הכוהנים. מבני עמרם נמנה שובאל, ומבני שובאל נמנה יחדיהו.",
+    "מרחביהו נמנה בין משפחות הלויים, ובראש בני רחביה עמד אדם בשם ישיה.",
+    "למשפחת היצהרִי נמנה שלמות, ומבני שלמות נמנה יחד.",
+    "בני יריהו היו אמריהו, יחזיאל ויקמעם, לפי סדר זה: שני, שלישי ורביעי.",
+    "מבני עוזיאל נמנה מיכה, ומבני מיכה נמנה שמיר.",
+    "ישיה היה אחיו של מיכה, ומבני ישיה נמנה זכריהו.",
+    "בני מררי היו מחלי ומושי, וכן נמנה יעזיהו שהיה מצאצאי מררי.",
+    "מבני מררי, דרך יעזיהו, נמנו בנו, שוהם, זכור ועברי.",
+    "למחלי היה בן בשם אלעזר, אך לא היו לו בנים. ייתכן שהיו לו רק בנות, ובני אחיו נשאו אותן לנשים.",
+    "מבני קיש נמנה ירחמאל, שעמד בראשם.",
+    "מבני מושי נמנו מחלי, עדר וירימות. כל אלה היו בני לוי לפי בתי אבותיהם.",
+    "גם הלויים הפילו גורלות, כנגד מחלקות בני אהרן, לפני דוד, צדוק, אחימלך וראשי האבות. נראה שלכל משמר כוהנים היה משמר לויים מקביל, והגורל לא העדיף את המשמר החשוב על פני אחיו הקטן."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "משפחות הכהונה וחלוקתן",
+      "title_en": "The Priestly Families and Their Organization",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "הפרק מתאר את משפחות בני אהרן, את מות נדב ואביהוא, ואת חלוקת הכהנים בידי דוד, צדוק ואחימלך לשש־עשרה מחלקות של בני אלעזר ולשמונה של בני איתמר, באמצעות גורלות.",
+      "summary_en": "The passage presents Aaron's priestly families, the death of Nadab and Abihu, and David's organization of the priests with Zadok and Ahimelech into sixteen divisions from Eleazar and eight from Ithamar, using lots.",
+      "image_prompt": "A dignified biblical-era administrative scene showing David, priestly leaders, Levite scribes, family records, and lots being prepared, no modern objects, historically restrained"
+    },
+    {
+      "title": "רשימת עשרים וארבע מחלקות הכהונה",
+      "title_en": "The List of the Twenty-Four Priestly Divisions",
+      "start_verse": 7,
+      "end_verse": 19,
+      "summary": "הפסוקים מונים את עשרים וארבע מחלקות הכהונה לפי סדר הגורל, מיהויריב ועד מעזיהו, ומסבירים שאלה היו סדרי עבודתם בבואם לבית ה' כפי שנמסר מאהרן.",
+      "summary_en": "These verses list the twenty-four priestly divisions in the order determined by lot, from Jehoiarib to Maaziah, and explain that these were their service arrangements when they came to the House of the Lord according to the tradition received from Aaron.",
+      "image_prompt": "A carefully arranged ancient scroll displaying a numbered list of twenty-four priestly divisions beside a Temple service schedule, warm historical atmosphere, no invented symbols"
+    },
+    {
+      "title": "משפחות הלויים מצאצאי עמרם, רחביה ויצהר",
+      "title_en": "Levitical Families from Amram, Rehabiah, and Izhar",
+      "start_verse": 20,
+      "end_verse": 25,
+      "summary": "הפרק עובר לרשימת משפחות הלויים שלא נמנו בין הכהנים, ומונה את צאצאי עמרם, שובאל, רחביה, היצהרִי, מיכה וישיה.",
+      "summary_en": "The passage turns to the remaining Levitical families, apart from the priests, and lists descendants of Amram, Shubael, Rehabiah, the Izharites, Micah, and Ishshiah.",
+      "image_prompt": "An ancient genealogical record being read by a Levite scribe, with family branches carefully organized on parchment, restrained biblical setting, no modern elements"
+    },
+    {
+      "title": "משפחות מררי וצאצאיהן",
+      "title_en": "The Families of Merari and Their Descendants",
+      "start_verse": 26,
+      "end_verse": 30,
+      "summary": "נמנים בני מררי וצאצאי יעזיהו, מחלי, קיש ומושי, כולל אזכורו של אלעזר שלא היו לו בנים, ולבסוף מסוכמות משפחות הלויים לפי בתי אבותיהם.",
+      "summary_en": "The verses list the descendants of Merari, including the lines of Jeaziah, Mahli, Kish, and Mushi, mention Eleazar who had no sons, and conclude by organizing the Levites according to their ancestral houses.",
+      "image_prompt": "A structured family genealogy of Levitical clans on parchment, with several branches and ancestral-house labels, biblical-era scribal setting, accurate and uncluttered"
+    },
+    {
+      "title": "גורלות הלויים כנגד מחלקות הכהונה",
+      "title_en": "The Levites Cast Lots Corresponding to the Priests",
+      "start_verse": 31,
+      "end_verse": 31,
+      "summary": "גם הלויים הפילו גורלות לפני דוד, צדוק, אחימלך וראשי האבות, כנגד מחלקות בני אהרן; נראה שלכל משמר כהנים היה משמר לויים מקביל, ללא העדפה של המשמר החשוב על פני הקטן.",
+      "summary_en": "The Levites also cast lots before David, Zadok, Ahimelech, and the heads of the ancestral houses, corresponding to Aaron's priestly divisions. It appears that each priestly division had a matching Levitical division, without preference for the more important division over the smaller one.",
+      "image_prompt": "Priestly and Levitical representatives casting lots together before royal and priestly leaders, balanced composition emphasizing equal treatment, biblical-era setting, no modern objects"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.62,
+      "usfm": "1CH.24.1"
+    },
+    {
+      "start": 9.62,
+      "end": 17.52,
+      "usfm": "1CH.24.2"
+    },
+    {
+      "start": 17.52,
+      "end": 26.48,
+      "usfm": "1CH.24.3"
+    },
+    {
+      "start": 26.48,
+      "end": 41.52,
+      "usfm": "1CH.24.4"
+    },
+    {
+      "start": 41.52,
+      "end": 53.16,
+      "usfm": "1CH.24.5"
+    },
+    {
+      "start": 53.16,
+      "end": 73.96,
+      "usfm": "1CH.24.6"
+    },
+    {
+      "start": 73.96,
+      "end": 78.78,
+      "usfm": "1CH.24.7"
+    },
+    {
+      "start": 78.78,
+      "end": 82.06,
+      "usfm": "1CH.24.8"
+    },
+    {
+      "start": 82.06,
+      "end": 86.22,
+      "usfm": "1CH.24.9"
+    },
+    {
+      "start": 86.22,
+      "end": 89.38,
+      "usfm": "1CH.24.10"
+    },
+    {
+      "start": 89.38,
+      "end": 93.46,
+      "usfm": "1CH.24.11"
+    },
+    {
+      "start": 93.46,
+      "end": 97.06,
+      "usfm": "1CH.24.12"
+    },
+    {
+      "start": 97.06,
+      "end": 100.96,
+      "usfm": "1CH.24.13"
+    },
+    {
+      "start": 100.96,
+      "end": 104.46,
+      "usfm": "1CH.24.14"
+    },
+    {
+      "start": 104.46,
+      "end": 108.72,
+      "usfm": "1CH.24.15"
+    },
+    {
+      "start": 108.72,
+      "end": 114.12,
+      "usfm": "1CH.24.16"
+    },
+    {
+      "start": 114.12,
+      "end": 118.6,
+      "usfm": "1CH.24.17"
+    },
+    {
+      "start": 118.6,
+      "end": 123.92,
+      "usfm": "1CH.24.18"
+    },
+    {
+      "start": 123.92,
+      "end": 134.44,
+      "usfm": "1CH.24.19"
+    },
+    {
+      "start": 134.44,
+      "end": 143.22,
+      "usfm": "1CH.24.20"
+    },
+    {
+      "start": 143.22,
+      "end": 147.94,
+      "usfm": "1CH.24.21"
+    },
+    {
+      "start": 147.94,
+      "end": 152.96,
+      "usfm": "1CH.24.22"
+    },
+    {
+      "start": 152.96,
+      "end": 160.3,
+      "usfm": "1CH.24.23"
+    },
+    {
+      "start": 160.3,
+      "end": 165.0,
+      "usfm": "1CH.24.24"
+    },
+    {
+      "start": 165.0,
+      "end": 169.74,
+      "usfm": "1CH.24.25"
+    },
+    {
+      "start": 169.74,
+      "end": 174.54,
+      "usfm": "1CH.24.26"
+    },
+    {
+      "start": 174.54,
+      "end": 181.48,
+      "usfm": "1CH.24.27"
+    },
+    {
+      "start": 181.48,
+      "end": 185.0,
+      "usfm": "1CH.24.28"
+    },
+    {
+      "start": 185.0,
+      "end": 188.38,
+      "usfm": "1CH.24.29"
+    },
+    {
+      "start": 188.38,
+      "end": 196.42,
+      "usfm": "1CH.24.30"
+    },
+    {
+      "start": 196.42,
+      "end": 219.24,
+      "usfm": "1CH.24.31"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.62,
+    17.52,
+    26.48,
+    41.52,
+    53.16,
+    73.96,
+    78.78,
+    82.06,
+    86.22,
+    89.38,
+    93.46,
+    97.06,
+    100.96,
+    104.46,
+    108.72,
+    114.12,
+    118.6,
+    123.92,
+    134.44,
+    143.22,
+    147.94,
+    152.96,
+    160.3,
+    165.0,
+    169.74,
+    174.54,
+    181.48,
+    185.0,
+    188.38,
+    196.42,
+    219.24
+  ],
+  "times_en_usfm": [
+    "1CH.24.1",
+    "1CH.24.2",
+    "1CH.24.3",
+    "1CH.24.4",
+    "1CH.24.5",
+    "1CH.24.6",
+    "1CH.24.7",
+    "1CH.24.8",
+    "1CH.24.9",
+    "1CH.24.10",
+    "1CH.24.11",
+    "1CH.24.12",
+    "1CH.24.13",
+    "1CH.24.14",
+    "1CH.24.15",
+    "1CH.24.16",
+    "1CH.24.17",
+    "1CH.24.18",
+    "1CH.24.19",
+    "1CH.24.20",
+    "1CH.24.21",
+    "1CH.24.22",
+    "1CH.24.23",
+    "1CH.24.24",
+    "1CH.24.25",
+    "1CH.24.26",
+    "1CH.24.27",
+    "1CH.24.28",
+    "1CH.24.29",
+    "1CH.24.30",
+    "1CH.24.31"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בני אהרן היו ארבעה: נדב, אביהוא, אלעזר ואיתמר. פרק זה מתמקד בחלוקת משפחות הכהונה לעבודת המקדש.",
+      "text_he": "הידעת? בני אהרן היו ארבעה: נדב, אביהוא, אלעזר ואיתמר. פרק זה מתמקד בחלוקת משפחות הכהונה לעבודת המקדש.",
+      "text_en": "Did you know? Aaron had four sons: Nadab, Abihu, Eleazar, and Ithamar. This chapter focuses on organizing the priestly families for service in the Temple."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? נדב ואביהוא מתו לפני אהרן ולא היו להם בנים, ולכן הכהונה המשיכה דרך אלעזר ואיתמר.",
+      "text_he": "הידעת? נדב ואביהוא מתו לפני אהרן ולא היו להם בנים, ולכן הכהונה המשיכה דרך אלעזר ואיתמר.",
+      "text_en": "Did you know? Nadab and Abihu died before Aaron and had no sons, so the priesthood continued through Eleazar and Ithamar."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? דוד המלך ארגן את מחלקות הכהנים יחד עם צדוק, שהיה מבני אלעזר, ועם אחימלך, שהיה מבני איתמר.",
+      "text_he": "הידעת? דוד המלך ארגן את מחלקות הכהנים יחד עם צדוק, שהיה מבני אלעזר, ועם אחימלך, שהיה מבני איתמר.",
+      "text_en": "Did you know? King David organized the divisions of the priests together with Zadok, a descendant of Eleazar, and Ahimelech, a descendant of Ithamar."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? מאחר שבני אלעזר היו רבים יותר מראשי הגברים מבני איתמר, נקבעו להם שש־עשרה מחלקות, ואילו לבני איתמר נקבעו שמונה.",
+      "text_he": "הידעת? מאחר שבני אלעזר היו רבים יותר מראשי הגברים מבני איתמר, נקבעו להם שש־עשרה מחלקות, ואילו לבני איתמר נקבעו שמונה.",
+      "text_en": "Did you know? Because there were more male heads of families among Eleazar’s descendants than among Ithamar’s, sixteen divisions were assigned to Eleazar’s descendants and eight to Ithamar’s."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? חלוקת המחלקות נעשתה בגורלות, כדי לקבוע את הסדר בין בני אלעזר ובני איתמר באופן שווה ומוסכם.",
+      "text_he": "הידעת? חלוקת המחלקות נעשתה בגורלות, כדי לקבוע את הסדר בין בני אלעזר ובני איתמר באופן שווה ומוסכם.",
+      "text_en": "Did you know? The divisions were assigned by lot to establish an orderly, fair, and mutually accepted arrangement between the descendants of Eleazar and Ithamar."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? שמעיה בן נתנאל, שהיה סופר מן הלויים, כתב את סדר המחלקות בנוכחות המלך, השרים, הכוהנים וראשי האבות.",
+      "text_he": "הידעת? שמעיה בן נתנאל, שהיה סופר מן הלויים, כתב את סדר המחלקות בנוכחות המלך, השרים, הכוהנים וראשי האבות.",
+      "text_en": "Did you know? Shemaiah son of Nethanel, a Levite scribe, recorded the order of the divisions in the presence of the king, the officials, the priests, and the heads of the families."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? המחלקה הראשונה שעלתה בגורל הייתה יהויריב, ואחריה ידעיָה; כך החל מניין עשרים וארבע מחלקות הכהונה.",
+      "text_he": "הידעת? המחלקה הראשונה שעלתה בגורל הייתה יהויריב, ואחריה ידעיָה; כך החל מניין עשרים וארבע מחלקות הכהונה.",
+      "text_en": "Did you know? The first division chosen by lot was Jehoiarib, followed by Jedaiah; this began the listing of the twenty-four priestly divisions."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? המחלקה העשרים וארבע שעלתה בגורל הייתה מעזיהו. הרשימה כולה נועדה לקבוע את סדר עבודת הכוהנים בבית ה'.",
+      "text_he": "הידעת? המחלקה העשרים וארבע שעלתה בגורל הייתה מעזיהו. הרשימה כולה נועדה לקבוע את סדר עבודת הכוהנים בבית ה'.",
+      "text_en": "Did you know? The twenty-fourth division chosen by lot was Maaziah. The entire list was intended to establish the order of the priests’ service in the house of the Lord."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? לאחר פירוט מחלקות הכהונה עובר הפרק למנות משפחות לויים אחרות, ובהן צאצאי עמרם, רחביה, היצהרִי, מיכה וישיה.",
+      "text_he": "הידעת? לאחר פירוט מחלקות הכהונה עובר הפרק למנות משפחות לויים אחרות, ובהן צאצאי עמרם, רחביה, היצהרִי, מיכה וישיה.",
+      "text_en": "Did you know? After listing the priestly divisions, the chapter goes on to list other Levite families, including the descendants of Amram, Rehabiah, the Izharites, Micah, and Ishiah."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? גם הלויים הפילו גורלות לפני דוד, צדוק, אחימלך וראשי האבות, כנגד מחלקות בני אהרן, כדי להסדיר את עבודתם לפי בתי אבותיהם.",
+      "text_he": "הידעת? גם הלויים הפילו גורלות לפני דוד, צדוק, אחימלך וראשי האבות, כנגד מחלקות בני אהרן, כדי להסדיר את עבודתם לפי בתי אבותיהם.",
+      "text_en": "Did you know? The Levites also cast lots in the presence of David, Zadok, Ahimelech, and the heads of the families, just as the descendants of Aaron had done, to organize their service according to their ancestral families."
+    }
+  ]
+}
