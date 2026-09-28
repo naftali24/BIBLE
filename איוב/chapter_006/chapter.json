@@ -1,0 +1,546 @@
+{
+  "book": "Job",
+  "book_he": "איוב",
+  "book_chapters": 42,
+  "chapter": 6,
+  "title": "איוב פרק 6",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2706.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2706.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOB/6-f469a3b1ad973505c3d17002ec60c119.mp3?version_id=1",
+  "verses": [
+    "וַיַּעַן אִיּוֹב, וַיֹּאמַר.",
+    "לוּ--שָׁקוֹל יִשָּׁקֵל כַּעְשִׂי; והיתי וְהַוָּתִי , בְּמֹאזְנַיִם יִשְׂאוּ-יָחַד.",
+    "כִּי-עַתָּה--מֵחוֹל יַמִּים יִכְבָּד; עַל-כֵּן, דְּבָרַי לָעוּ.",
+    "כִּי חִצֵּי שַׁדַּי, עִמָּדִי--אֲשֶׁר חֲמָתָם, שֹׁתָה רוּחִי; בִּעוּתֵי אֱלוֹהַּ יַעַרְכוּנִי.",
+    "הֲיִנְהַק-פֶּרֶא עֲלֵי-דֶשֶׁא; אִם יִגְעֶה-שּׁוֹר, עַל-בְּלִילוֹ.",
+    "הֲיֵאָכֵל תָּפֵל, מִבְּלִי-מֶלַח; אִם-יֶשׁ-טַעַם, בְּרִיר חַלָּמוּת.",
+    "מֵאֲנָה לִנְגּוֹעַ נַפְשִׁי; הֵמָּה, כִּדְוֵי לַחְמִי.",
+    "מִי-יִתֵּן, תָּבוֹא שֶׁאֱלָתִי; וְתִקְוָתִי, יִתֵּן אֱלוֹהַּ.",
+    "וְיֹאֵל אֱלוֹהַּ, וִידַכְּאֵנִי; יַתֵּר יָדוֹ, וִיבַצְּעֵנִי.",
+    "וּתְהִי-עוֹד, נֶחָמָתִי-- וַאֲסַלְּדָה בְחִילָה, לֹא יַחְמוֹל: כִּי-לֹא כִחַדְתִּי, אִמְרֵי קָדוֹשׁ.",
+    "מַה-כֹּחִי כִי-אֲיַחֵל; וּמַה-קִּצִּי, כִּי-אַאֲרִיךְ נַפְשִׁי.",
+    "אִם-כֹּחַ אֲבָנִים כֹּחִי; אִם-בְּשָׂרִי נָחוּשׁ.",
+    "הַאִם אֵין עֶזְרָתִי בִי; וְתֻשִׁיָּה, נִדְּחָה מִמֶּנִּי.",
+    "לַמָּס מֵרֵעֵהוּ חָסֶד; וְיִרְאַת שַׁדַּי יַעֲזוֹב.",
+    "אַחַי, בָּגְדוּ כְמוֹ-נָחַל; כַּאֲפִיק נְחָלִים יַעֲבֹרוּ.",
+    "הַקֹּדְרִים מִנִּי-קָרַח; עָלֵימוֹ, יִתְעַלֶּם-שָׁלֶג.",
+    "בְּעֵת יְזֹרְבוּ נִצְמָתוּ; בְּחֻמּוֹ, נִדְעֲכוּ מִמְּקוֹמָם.",
+    "יִלָּפְתוּ, אָרְחוֹת דַּרְכָּם; יַעֲלוּ בַתֹּהוּ וְיֹאבֵדוּ.",
+    "הִבִּיטוּ, אָרְחוֹת תֵּמָא; הֲלִיכֹת שְׁבָא, קִוּוּ-לָמוֹ.",
+    "בֹּשׁוּ כִּי-בָטָח; בָּאוּ עָדֶיהָ, וַיֶּחְפָּרוּ.",
+    "כִּי-עַתָּה, הֱיִיתֶם לֹא; תִּרְאוּ חֲתַת, וַתִּירָאוּ.",
+    "הֲכִי-אָמַרְתִּי, הָבוּ לִי; וּמִכֹּחֲכֶם, שִׁחֲדוּ בַעֲדִי.",
+    "וּמַלְּטוּנִי מִיַּד-צָר; וּמִיַּד עָרִיצִים תִּפְדּוּנִי.",
+    "הוֹרוּנִי, וַאֲנִי אַחֲרִישׁ; וּמַה-שָּׁגִיתִי, הָבִינוּ לִי.",
+    "מַה-נִּמְרְצוּ אִמְרֵי-יֹשֶׁר; וּמַה-יּוֹכִיחַ הוֹכֵחַ מִכֶּם.",
+    "הַלְהוֹכַח מִלִּים תַּחְשֹׁבוּ; וּלְרוּחַ, אִמְרֵי נֹאָשׁ.",
+    "אַף-עַל-יָתוֹם תַּפִּילוּ; וְתִכְרוּ, עַל-רֵיעֲכֶם.",
+    "וְעַתָּה, הוֹאִילוּ פְנוּ-בִי; וְעַל-פְּנֵיכֶם, אִם-אֲכַזֵּב.",
+    "שׁוּבוּ-נָא, אַל-תְּהִי עַוְלָה; ושבי וְשֻׁבוּ עוֹד, צִדְקִי-בָהּ.",
+    "הֲיֵשׁ-בִּלְשׁוֹנִי עַוְלָה; אִם-חִכִּי, לֹא-יָבִין הַוּוֹת."
+  ],
+  "english": [
+    "But Job answered and said,",
+    "O that my grief were throughly weighed, and my calamity laid in the balances together!",
+    "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+    "For the arrows of the Almighty\nare within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
+    "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
+    "Can that which is unsavoury be eaten without salt? or is there\nany taste in the white of an egg?",
+    "The things\nthat my soul refused to touch\nare as my sorrowful meat.",
+    "Oh that I might have my request; and that God would grant\nme\n the thing that I long for!",
+    "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
+    "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+    "What\nis my strength, that I should hope? and what\nis\n mine end, that I should prolong my life?",
+    "Is my strength the strength of stones? or\nis my flesh of brass?",
+    "Is not my help in me? and is wisdom driven quite from me?",
+    "To him that is afflicted pity\nshould be shewed from his friend; but he forsaketh the fear of the Almighty.",
+    "My brethren have dealt deceitfully as a brook,\nand as the stream of brooks they pass away;",
+    "Which are blackish by reason of the ice,\nand wherein the snow is hid:",
+    "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+    "The paths of their way are turned aside; they go to nothing, and perish.",
+    "The troops of Tema looked, the companies of Sheba waited for them.",
+    "They were confounded because they had hoped; they came thither, and were ashamed.",
+    "For now ye are no thing; ye see\nmy casting down, and are afraid.",
+    "Did I say, Bring unto me? or, Give a reward for me of your substance?",
+    "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+    "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+    "How forcible are right words! but what doth your arguing reprove?",
+    "Do ye imagine to reprove words, and the speeches of one that is desperate,\nwhich are as wind?",
+    "Yea, ye overwhelm the fatherless, and ye dig\na pit for your friend.",
+    "Now therefore be content, look upon me; for\nit is evident unto you if I lie.",
+    "Return, I pray you, let it not be iniquity; yea, return again, my righteousness\nis in it.",
+    "Is there iniquity in my tongue? cannot my taste discern perverse things?"
+  ],
+  "steinsaltz": [
+    "וַיַּעַן אִיּוֹב וַיֹּאמַר׃",
+    "לוּ שָׁקוֹל יִשָּׁקֵל כַּעְשִׂי, כעסי וכאבי, וְאילו את הַוָּתִי, אסוני, שברי בְּמֹאזְנַיִם יִשְׂאוּ־יָחַד,",
+    "כִּי־עַתָּה משקל כאבי ומכתי יותר מֵחוֹל כל היַמִּים שבעולם יִכְבָּד. סבלי וכאבי כבדים ממה שאפשר למדוד. עַל־כֵּן דְּבָרַי לָעוּ, מגומגמים ואינם יוצאים כראוי.",
+    "כִּי חִצֵּי שַׁדַּי, החצים שירה בי אלוקים עדיין עִמָּדִי, אֲשֶׁר את חֲמָתָם, החֵמה והארס שבהם שֹׁתָה רוּחִי. בִּעוּתֵי אֱלוֹהַּ, הביעותים ששולח אלי ה' יַעַרְכוּנִי, עומדים במערכה, בקרב נגדי.",
+    "אין קינותי ותלונותי מגיעות מתוך מצב של שובע וסיפוק. אילו היה הכול כשורה, לא הייתי משמיע את קולות הכאב שלי: האם יִנְהַק, ינער, ישמיע קולות של אי-שביעות רצון פֶּרֶא, חמור בר עֲלֵי־דֶשֶׁא?! כאשר מזונו לפניו הוא אוכל בשקט. אִם יִגְעֶה־שּׁוֹר עַל־בְּלִילוֹ, תערובת האוכל שלו?!",
+    "ולגבי תשובתך, אליפז – הרי היא אינה מספקת את הרעב והמחסור שלי: הֲיֵאָכֵל תָּפֵל מִבְּלִי־מֶלַח?! אי-אפשר לאכול מאכל כזה. אִם־יֶשׁ־טַעַם בְּרִיר חַלָּמוּת, צמח שיש לו ריר חסר טעם?!",
+    "דבריך דומים למאכלים חסרי טעם אלה. מֵאֲנָה לִנְגּוֹעַ בהן נַפְשִׁי, הֵמָּה כִּדְוֵי לַחְמִי, כמו לחם של מכאוב בשבילי.",
+    "מִי־יִתֵּן, הלוואי שתָּבוֹא, תתקבל שֶׁאֱלָתִי, בקשתי, וְאת תִקְוָתִי יִתֵּן, יממש אֱלוֹהַּ.",
+    "וְיֹאֵל אֱלוֹהַּ וִידַכְּאֵנִי, הלוואי שאלוקים יסכים לשבור אותי לחלוטין. יַתֵּר, ישחרר את יָדוֹ וִיבַצְּעֵנִי, ויכרית אותי. אילו הרג אותי היו נגמרים ייסורי.",
+    "וּתְהִי מיתתי זאת עוֹד נֶחָמָתִי, וַאֲסַלְּדָה, ארָתע, ארעד בְחִילָה, באימה בבקשתי ממנו שימית אותי ולֹא יַחְמוֹל, כִּי־לֹא כִחַדְתִּי, הסתרתי, טשטשתי את אִמְרֵי קָדוֹשׁ, הקדוש ברוך הוא.",
+    "מַה־כֹּחִי כִי־אֲיַחֵל?? כִי־אֲיַחֵל אין לי כוח לצפות ולקוות עוד. וּמַה־קִּצִּי יעלה בסופי כִּי, אם אַאֲרִיךְ נַפְשִׁי, אמשוך את סבלנותי לסבול עוד?! לְמה אוכל לצפות? הרי אני שבור מבחינה כלכלית, מבחינה חברתית, מבחינה אנושית ומבחינה גופנית.",
+    "האִם־כֹּחַ אֲבָנִים כֹּחִי?! אִם־בְּשָׂרִי נָחוּשׁ, עשוי נחושת?! הרי אינני אלא אדם, ואינני מחושל ועמיד כאבנים וכנחושת.",
+    "הַאִם אֵין עֶזְרָתִי בִי, האם אפילו אותם רֵעים שבאו לנחמני אינם באים לעזרתי, וְתֻשִׁיָּה, עצה נִדְּחָה, רחקה מִמֶּנִּי?!",
+    "האם העזרה והתושיה שעזבו אותי עברו לַמָּס, למי שממוסס וחומס מֵרֵעֵהוּ חָסֶד, ולמי שיִרְאַת שַׁדַּי יַעֲזוֹב?!",
+    "אַחַי, רעי, שלכאורה ראוי שאסמוך עליהם, בָּגְדוּ כְמוֹ־נָחַל אכזב, שבו לפעמים זורמים מים ולפעמים הם חדלים, כַּאֲפִיק שבו נְחָלִים יַעֲבֹרוּ, אך כעת הוא יבש. מי הנחלים מכזיבים את הבוטח בהם בקור ובחום:",
+    "הַקֹּדְרִים, הקופאים מִנִּי־קָרַח, בגלל קרח; עָלֵימוֹ, עליהם יִתְעַלֶּם, נערם שָׁלֶג.",
+    "ואילו בְּעֵת יְזֹרְבוּ בשעת השרב הם נִצְמָתוּ, נכרתים. בְּחֻמּוֹ של האפיק המים נִדְעֲכוּ, נמסים, נעלמים מִמְּקוֹמָם, ולא נשאר מהם דבר.",
+    "יִלָּפְתוּ, מתעקמות אָרְחוֹת דַּרְכָּם של הנחלים, יַעֲלוּ בַתֹּהוּ וְיֹאבֵדוּ.",
+    "הצמאים המאוכזבים מיובש הנחלים, הִבִּיטוּ אל אָרְחוֹת, השיירות ההולכות ובאות מתֵּמָא, עיר בערב; להֲלִיכֹת, השיירות ההולכות ובאות משְׁבָא קִוּוּ־לָמוֹ, להן.",
+    "אבל בפועל בֹּשׁוּ, התביישו, התאכזבו כִי בָטָח, ממה שבטחו בו קודם, בָּאוּ עָדֶיהָ – עד כל אחת מהשיירות שבה תלו את תקוותם, וַיֶּחְפָּרוּ, אכזבתם הביאה אותם לידי בושה ונמיכות רוח. אחיו של איוב, ואולי הכוונה למנחמיו, מאכזבים אותו. הוא מתאר את ציפייתו לדברי ניחומים של אמת בדימוי של הצמֵא למים, המשליך יהבו תחילה על נחלי אכזב שאינם משיבים את נפשו בצמָא, ואחר כך הוא מצפה למים מבני אדם הנודדים במדבר, אך גם אלה אינם מספקים לו את מבוקשו.",
+    "כִּי־עַתָּה אינכם מסורים אלי, אלא הֱיִיתֶם לוֹ – נעשיתם כאותו נחל מכזיב. או: אינכם אתי אלא שייכים למישהו אחר, אולי לאלוקים. תִּרְאוּ חֲתַת, שבר כלשהו – וַתִּירָאוּ. אינכם משתתפים עמי, ואינכם עוזרים לי.",
+    "הֲכִי, האם אָמַרְתִּי: \"הָבוּ, תנו לִי?! הרי לא ביקשתי מכם דבר. והאם ביקשתי שמִכֹּחֲכֶם ומהונכם שִׁחֲדוּ בַעֲדִי, תשלמו כופר למעני?!",
+    "והאם ציפיתי מכם שתמַלְּטוּנִי, תצילו אותי מִיַּד־צָר, מאויב, וּמִיַּד עָרִיצִים, חזקים תִּפְדּוּנִי, תושיעו אותי?!\" דבר לא ביקשתי מכם. מדוע אפוא התנערתם ממני?!",
+    "אם רצונכם ללמד אותי – אדרבא, הוֹרוּנִי, לַמדו אותי וַאֲנִי אַחֲרִישׁ, אשתוק. וּמַה־ששָּׁגִיתִי הָבִינוּ, הַסבירו לִי.",
+    "מַה־נִּמְרְצוּ, מאוד חזקים הם אִמְרֵי־יֹשֶׁר, והבה אשמע מַה־יּוֹכִיחַ הוֹכֵחַ, איזו תוכחה תישמע מִכֶּם.",
+    "הַלְהוֹכַח מִלִּים תַּחְשֹׁבוּ?! האם אתם חושבים שאם רק תגידו מלים יהיה בכך כדי תוכחה?! וּבדברכם מלים ריקות מול ייסורי מתברר שלְרוּחַ, להבל החשבתם אִמְרֵי נוֹאָשׁ, את דברי ייאושי.",
+    "אַף־עַל־יָתוֹם, שבחולשתו נבצר ממנו לענות ולהתגונן, תַּפִּילוּ נזק. ההתייחסות המילולית שאין בה כדי לכבד את מצבי הנואש כמוה כפגיעה ביתום. וְתִכְרוּ, תחפרו בור עַל־רֵיעֲכֶם, להכשיל בו את ידידכם.",
+    "ייתכן שבשלב זה הפנו הרעים את פניהם ממנו. איוב קורא: וְעַתָּה אדרבא, אם יש לכם טענות עלי, הוֹאִילוּ פְנוּ־בִי, אלי, וְעַל־פְּנֵיכֶם, ובפניכם אִם־אֲכַזֵּב. אני מתחייב שלא אשקר. אולי עתה רואה איוב שרעיו קמו ללכת. על כן הוא אומר להם:",
+    "שֻׁבוּ־נָא, אַל־תְּהִי עַוְלָה, והיווכחו לדעת שאין בי חטא. וְשֻׁבוּ, התעכבו עוֹד, צִדְקִי־בָהּ – בטענתי.",
+    "הֲיֵשׁ־בִּלְשׁוֹנִי עַוְלָה, עיוות?! האִם־חִכִּי, פי, דיבורי לֹא־יָבִין הַוּוֹת, את האסונות שאירעו אותי?!"
+  ],
+  "ai_explanation": [
+    "איוב פותח את תשובתו לאחר דברי אליפז.",
+    "איוב מבקש שכעסו, כאבו ואסונו יישקלו יחד, כדי שאפשר יהיה להעריך את גודל סבלו.",
+    "לדבריו, משקל סבלו כבד מחול הימים, ולכן דבריו יוצאים מגומגמים ואינם נאמרים כראוי.",
+    "איוב מרגיש שחצי האל עדיין נעוצים בו ושארס זעמם שותה את רוחו. פחדי האל עומדים מולו כאויבים במערכה.",
+    "תלונותיו אינן נובעות משובע או מפינוק: כשם שחמור בר אינו נוהק כשיש לו מזון, כך אין אדם זועק ללא סיבה.",
+    "דברי אליפז נראים לאיוב כתפלים וחסרי טעם, שאינם יכולים לספק את רעבונו ואת מצוקתו.",
+    "איוב מסרב לגעת בדברי רעיו, מפני שהם דומים בעיניו למאכלים חסרי טעם וללחם של מכאוב.",
+    "איוב מייחל שבקשתו תתקבל ושאלוהים יממש את תקוותו.",
+    "הוא מבקש שאלוהים ישבור אותו לחלוטין ויכרית אותו, משום שהמוות היה מסיים את ייסוריו.",
+    "איוב רואה במותו נחמה, ואף על פי שהוא נרתע באימה, הוא מבקש שלא ירחמו עליו. הוא טוען שלא הסתיר או טשטש את דברי הקדוש ברוך הוא.",
+    "איוב שואל מה כוחו להמשיך לקוות ולצפות, ומה יוכל להשיג אם יאריך את נפשו ויסבול עוד. הוא מרגיש שבור מבחינה כלכלית, חברתית, אנושית וגופנית.",
+    "הוא אינו עשוי מאבן או מנחושת, ולכן אין לו כוח בלתי מוגבל לעמוד בסבל.",
+    "איוב שואל אם אין בו עוד עזרה, ואם אפילו עצה ותושייה התרחקו ממנו; גם רעיו אינם מסייעים לו.",
+    "הוא מתרעם שמא החסד עבר לאדם שממוסס וחומס את חסד רעו, ולאדם שעוזב את יראת האל.",
+    "רעיו של איוב בוגדים בו כנחל אכזב: לעיתים יש בו מים ולעיתים הוא מתייבש, ולכן אי אפשר לסמוך עליו.",
+    "הנחלים קופאים בגלל הקרח, ועליהם נערם שלג.",
+    "בעת החום והשרב הנחלים נכרתים, מימיהם נמסים ונעלמים ממקומם.",
+    "דרכי הנחלים מתעקמות, הם עולים אל התוהו ונעלמים.",
+    "הצמאים מביטים בשיירות מתימא ומקווים לשיירות משבא שיביאו להם מים.",
+    "אך השיירות אינן מספקות את תקוותם, ולכן הם מתביישים ומתאכזבים. כך גם אחיו או מנחמיו של איוב מאכזבים אותו.",
+    "איוב טוען שעכשיו רעיו אינם עמו אלא נעשו כנחל מכזיב, ואולי אף שייכים לצד אחר. הם רואים את שברו ופוחדים במקום להשתתף בצערו ולעזור לו.",
+    "הוא לא ביקש מהם מתנות או כסף, ולא דרש שישחדו אחרים או ישלמו כופר למענו.",
+    "איוב גם לא ביקש שיצילו אותו מיד אויבים או יפדו אותו מיד חזקים; לכן אינו מבין מדוע התנערו ממנו.",
+    "אם רצונם ללמד אותו, הוא מוכן לשתוק ולהקשיב. הוא מבקש שיסבירו לו במה שגה.",
+    "איוב מכיר בכוחם של דברי יושר, אך דורש לדעת איזו תוכחה ממשית יש בפי רעיו.",
+    "הוא דוחה את המחשבה שמילים בלבד הן תוכחה, וטוען שדבריהם הריקים הופכים את דברי ייאושו להבל.",
+    "לדבריו, הם פוגעים באדם חלש וחסר יכולת להתגונן, ואף חופרים בור כדי להכשיל את ידידם.",
+    "איוב מזמין אותם לפנות אליו ישירות, ומבטיח שיעמדו מולו פנים אל פנים ואם יוכיחו אותו לא יכחיש או ישקר.",
+    "הוא מבקש מהם להישאר ולבדוק את טענתו, כדי שיתברר שאין בו עוול ושהוא צודק בטענתו.",
+    "איוב חותם בשאלה אם יש עוול בלשונו, ואם פיו אינו מסוגל להבין ולבטא את האסונות שפקדו אותו."
+  ],
+  "ai_explanation_en": [
+    "Job begins his reply after Eliphaz’s words.",
+    "Job asks that his anger, pain, and disaster be weighed together so that the full scale of his suffering can be understood.",
+    "He says that the weight of his suffering is heavier than the sand of the seas, and therefore his words come out confused and inarticulate.",
+    "Job feels that God’s arrows are still lodged in him and that their poison drinks his spirit. The terrors sent by God stand against him like enemies in battle.",
+    "His complaints do not come from satisfaction or indulgence: just as a wild donkey does not bray when it has food, a person does not cry out without cause.",
+    "Eliphaz’s words seem to Job tasteless and unable to satisfy his hunger and distress.",
+    "Job refuses to touch his friends’ words because they seem like tasteless food and like bread made of pain.",
+    "Job wishes that his request would be accepted and that God would fulfill his hope.",
+    "He asks God to break him completely and cut him off, because death would bring his suffering to an end.",
+    "Job regards death as a consolation. Although he recoils in fear, he asks that God not spare him, claiming that he has not hidden or blurred the words of the Holy One.",
+    "Job asks what strength he has left to continue hoping and waiting, and what he could gain by prolonging his life and suffering further. He feels broken economically, socially, humanly, and physically.",
+    "He is not made of stone or bronze, so he does not have unlimited strength to endure suffering.",
+    "Job asks whether he has any help left in him and whether even counsel and practical wisdom have departed from him; his friends are not helping him either.",
+    "He complains that kindness may have passed to one who dissolves and robs his friend’s kindness, and to one who abandons reverence for God.",
+    "Job’s friends betray him like a failing stream: sometimes it flows with water and sometimes it dries up, so it cannot be trusted.",
+    "The streams freeze because of the ice, and snow piles up over them.",
+    "In the heat and drought the streams are cut off; their waters melt and disappear from their place.",
+    "The paths of the streams twist, rise into emptiness, and vanish.",
+    "The thirsty look toward the caravans from Tema and hope for caravans from Sheba to bring them water.",
+    "But the caravans do not fulfill their hope, so the travelers become ashamed and disappointed. In the same way, Job’s brothers or comforters disappoint him.",
+    "Job claims that his friends are no longer with him but have become like a failing stream, and perhaps belong to another side. They see his calamity and become afraid instead of sharing his grief and helping him.",
+    "He did not ask them for gifts or money, nor did he ask them to bribe others or pay a ransom for him.",
+    "Job also did not ask them to rescue him from an enemy or redeem him from powerful people; therefore he cannot understand why they withdrew from him.",
+    "If they wish to teach him, he is willing to be silent and listen. He asks them to explain how he has gone wrong.",
+    "Job acknowledges the power of truthful words, but demands to know what real rebuke his friends can offer.",
+    "He rejects the idea that words alone constitute rebuke, arguing that their empty speech turns his words of despair into something worthless.",
+    "He says that they harm a weak person who cannot defend himself and even dig a pit to trip their friend.",
+    "Job invites them to address him directly and promises that, if they prove him wrong face to face, he will not deny or lie.",
+    "He asks them to remain and examine his claim, so that it will become clear that there is no injustice in him and that his case is right.",
+    "Job concludes by asking whether there is injustice in his tongue and whether his mouth is unable to understand and express the disasters that have happened to him."
+  ],
+  "perush": [
+    "איוב פותח את תשובתו לאחר דברי אליפז.",
+    "איוב מבקש שכעסו, כאבו ואסונו יישקלו יחד, כדי שאפשר יהיה להעריך את גודל סבלו.",
+    "לדבריו, משקל סבלו כבד מחול הימים, ולכן דבריו יוצאים מגומגמים ואינם נאמרים כראוי.",
+    "איוב מרגיש שחצי האל עדיין נעוצים בו ושארס זעמם שותה את רוחו. פחדי האל עומדים מולו כאויבים במערכה.",
+    "תלונותיו אינן נובעות משובע או מפינוק: כשם שחמור בר אינו נוהק כשיש לו מזון, כך אין אדם זועק ללא סיבה.",
+    "דברי אליפז נראים לאיוב כתפלים וחסרי טעם, שאינם יכולים לספק את רעבונו ואת מצוקתו.",
+    "איוב מסרב לגעת בדברי רעיו, מפני שהם דומים בעיניו למאכלים חסרי טעם וללחם של מכאוב.",
+    "איוב מייחל שבקשתו תתקבל ושאלוהים יממש את תקוותו.",
+    "הוא מבקש שאלוהים ישבור אותו לחלוטין ויכרית אותו, משום שהמוות היה מסיים את ייסוריו.",
+    "איוב רואה במותו נחמה, ואף על פי שהוא נרתע באימה, הוא מבקש שלא ירחמו עליו. הוא טוען שלא הסתיר או טשטש את דברי הקדוש ברוך הוא.",
+    "איוב שואל מה כוחו להמשיך לקוות ולצפות, ומה יוכל להשיג אם יאריך את נפשו ויסבול עוד. הוא מרגיש שבור מבחינה כלכלית, חברתית, אנושית וגופנית.",
+    "הוא אינו עשוי מאבן או מנחושת, ולכן אין לו כוח בלתי מוגבל לעמוד בסבל.",
+    "איוב שואל אם אין בו עוד עזרה, ואם אפילו עצה ותושייה התרחקו ממנו; גם רעיו אינם מסייעים לו.",
+    "הוא מתרעם שמא החסד עבר לאדם שממוסס וחומס את חסד רעו, ולאדם שעוזב את יראת האל.",
+    "רעיו של איוב בוגדים בו כנחל אכזב: לעיתים יש בו מים ולעיתים הוא מתייבש, ולכן אי אפשר לסמוך עליו.",
+    "הנחלים קופאים בגלל הקרח, ועליהם נערם שלג.",
+    "בעת החום והשרב הנחלים נכרתים, מימיהם נמסים ונעלמים ממקומם.",
+    "דרכי הנחלים מתעקמות, הם עולים אל התוהו ונעלמים.",
+    "הצמאים מביטים בשיירות מתימא ומקווים לשיירות משבא שיביאו להם מים.",
+    "אך השיירות אינן מספקות את תקוותם, ולכן הם מתביישים ומתאכזבים. כך גם אחיו או מנחמיו של איוב מאכזבים אותו.",
+    "איוב טוען שעכשיו רעיו אינם עמו אלא נעשו כנחל מכזיב, ואולי אף שייכים לצד אחר. הם רואים את שברו ופוחדים במקום להשתתף בצערו ולעזור לו.",
+    "הוא לא ביקש מהם מתנות או כסף, ולא דרש שישחדו אחרים או ישלמו כופר למענו.",
+    "איוב גם לא ביקש שיצילו אותו מיד אויבים או יפדו אותו מיד חזקים; לכן אינו מבין מדוע התנערו ממנו.",
+    "אם רצונם ללמד אותו, הוא מוכן לשתוק ולהקשיב. הוא מבקש שיסבירו לו במה שגה.",
+    "איוב מכיר בכוחם של דברי יושר, אך דורש לדעת איזו תוכחה ממשית יש בפי רעיו.",
+    "הוא דוחה את המחשבה שמילים בלבד הן תוכחה, וטוען שדבריהם הריקים הופכים את דברי ייאושו להבל.",
+    "לדבריו, הם פוגעים באדם חלש וחסר יכולת להתגונן, ואף חופרים בור כדי להכשיל את ידידם.",
+    "איוב מזמין אותם לפנות אליו ישירות, ומבטיח שיעמדו מולו פנים אל פנים ואם יוכיחו אותו לא יכחיש או ישקר.",
+    "הוא מבקש מהם להישאר ולבדוק את טענתו, כדי שיתברר שאין בו עוול ושהוא צודק בטענתו.",
+    "איוב חותם בשאלה אם יש עוול בלשונו, ואם פיו אינו מסוגל להבין ולבטא את האסונות שפקדו אותו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "עוצמת הסבל והבקשה למוות",
+      "title_en": "The Weight of Suffering and the Wish for Death",
+      "start_verse": 1,
+      "end_verse": 10,
+      "summary": "איוב מתאר את עוצמת כאבו, את תחושת הפגיעה מידי האל ואת חוסר הטעם שהוא מוצא בדברי אליפז. מתוך כך הוא מבקש שהאל ישים קץ לייסוריו ורואה במוות נחמה.",
+      "summary_en": "Job describes the overwhelming weight of his pain, his sense of being wounded by God, and the emptiness he finds in Eliphaz’s words. He therefore asks God to end his suffering and regards death as a consolation.",
+      "image_prompt": "A solitary suffering man seated in darkness, symbolic arrows and storm clouds around him, a faint distant light suggesting consolation, solemn biblical-style illustration, no text"
+    },
+    {
+      "title": "חולשת האדם מול הסבל",
+      "title_en": "Human Frailty in the Face of Suffering",
+      "start_verse": 11,
+      "end_verse": 14,
+      "summary": "איוב שואל מה כוחו להמשיך לקוות ולסבול, ומדגיש שאינו עשוי מאבן או מנחושת. הוא מתרעם על היעדר העזרה והתושייה ועל כך שהחסד ויראת האל אינם ניכרים ביחס אליו.",
+      "summary_en": "Job asks what strength he has left to continue hoping and suffering, emphasizing that he is not made of stone or bronze. He protests the absence of help and wisdom and the apparent lack of kindness and reverence for God in the way he is treated.",
+      "image_prompt": "A weary man leaning against a rough stone wall, with a broken bronze shield beside him and empty space where help should be, restrained ancient Near Eastern visual style, no text"
+    },
+    {
+      "title": "רעיו כנחלי אכזב",
+      "title_en": "Friends Like Failing Streams",
+      "start_verse": 15,
+      "end_verse": 21,
+      "summary": "איוב מדמה את רעיו לנחלים שאי אפשר לסמוך עליהם: הם קופאים, נעלמים ומתייבשים בחום. כמו צמאים המצפים לשיירות מים ומתאכזבים, כך גם הוא ציפה לנחמה ולא קיבל אותה.",
+      "summary_en": "Job compares his friends to unreliable streams that freeze, disappear, and dry up in the heat. Like thirsty travelers who hope for water from passing caravans and are disappointed, he expected comfort but did not receive it.",
+      "image_prompt": "A dry winding streambed beneath harsh sunlight, distant travelers looking toward caravans on the horizon, atmosphere of thirst and disappointment, symbolic biblical landscape, no text"
+    },
+    {
+      "title": "מה איוב לא ביקש מרעיו",
+      "title_en": "What Job Never Asked of His Friends",
+      "start_verse": 22,
+      "end_verse": 23,
+      "summary": "איוב מבהיר שלא ביקש מרעיו כסף, שוחד, כופר או הצלה מאויבים. לכן הוא אינו מבין מדוע נסוגו ממנו והתנערו ממנו.",
+      "summary_en": "Job explains that he never asked his friends for money, a bribe, a ransom, or rescue from enemies. He therefore cannot understand why they withdrew from him and abandoned him.",
+      "image_prompt": "A grieving man addressing several distant companions with open empty hands, no treasure or weapons present, visual emphasis on misunderstanding and abandonment, solemn ancient setting, no text"
+    },
+    {
+      "title": "דרישה לתוכחה אמיתית",
+      "title_en": "A Demand for Genuine Reproof",
+      "start_verse": 24,
+      "end_verse": 27,
+      "summary": "איוב מוכן להקשיב אם רעיו יוכיחו אותו בדברי אמת ויסבירו במה שגה. הוא דוחה מילים ריקות ותוכחה שאינה מתחשבת במצבו, ומאשים אותם בפגיעה בחלש ובידיד.",
+      "summary_en": "Job is willing to listen if his friends offer truthful correction and explain his error. He rejects empty words that ignore his condition and accuses them of harming the weak and betraying a friend.",
+      "image_prompt": "A vulnerable man seated before stern speakers, one side holding scrolls and the other showing empty gestures, visual metaphor for truthful instruction versus hollow speech, no text"
+    },
+    {
+      "title": "הזמנה לבדוק את צדקתו",
+      "title_en": "An Invitation to Examine His Integrity",
+      "start_verse": 28,
+      "end_verse": 30,
+      "summary": "איוב מבקש מרעיו לפנות אליו ישירות ולהישאר כדי לבדוק את טענותיו. הוא בטוח שאין עוול בלשונו ושפיו מבטא בכנות את האסונות שפקדו אותו.",
+      "summary_en": "Job asks his friends to address him directly and remain to examine his claims. He is confident that there is no injustice in his speech and that his mouth honestly expresses the disasters that have befallen him.",
+      "image_prompt": "A determined suffering man facing his companions directly in an open circle, expression of honest self-defense, austere biblical-style scene, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 5.72,
+      "usfm": "JOB.6.1"
+    },
+    {
+      "start": 5.72,
+      "end": 12.62,
+      "usfm": "JOB.6.2"
+    },
+    {
+      "start": 12.62,
+      "end": 18.7,
+      "usfm": "JOB.6.3"
+    },
+    {
+      "start": 18.7,
+      "end": 29.34,
+      "usfm": "JOB.6.4"
+    },
+    {
+      "start": 29.34,
+      "end": 35.54,
+      "usfm": "JOB.6.5"
+    },
+    {
+      "start": 35.54,
+      "end": 42.34,
+      "usfm": "JOB.6.6"
+    },
+    {
+      "start": 42.34,
+      "end": 47.54,
+      "usfm": "JOB.6.7"
+    },
+    {
+      "start": 47.54,
+      "end": 53.64,
+      "usfm": "JOB.6.8"
+    },
+    {
+      "start": 53.64,
+      "end": 59.9,
+      "usfm": "JOB.6.9"
+    },
+    {
+      "start": 59.9,
+      "end": 71.06,
+      "usfm": "JOB.6.10"
+    },
+    {
+      "start": 71.06,
+      "end": 76.88,
+      "usfm": "JOB.6.11"
+    },
+    {
+      "start": 76.88,
+      "end": 82.44,
+      "usfm": "JOB.6.12"
+    },
+    {
+      "start": 82.44,
+      "end": 87.9,
+      "usfm": "JOB.6.13"
+    },
+    {
+      "start": 87.9,
+      "end": 95.56,
+      "usfm": "JOB.6.14"
+    },
+    {
+      "start": 95.56,
+      "end": 102.34,
+      "usfm": "JOB.6.15"
+    },
+    {
+      "start": 102.34,
+      "end": 107.5,
+      "usfm": "JOB.6.16"
+    },
+    {
+      "start": 107.5,
+      "end": 113.58,
+      "usfm": "JOB.6.17"
+    },
+    {
+      "start": 113.58,
+      "end": 119.1,
+      "usfm": "JOB.6.18"
+    },
+    {
+      "start": 119.1,
+      "end": 123.32,
+      "usfm": "JOB.6.19"
+    },
+    {
+      "start": 123.32,
+      "end": 129.12,
+      "usfm": "JOB.6.20"
+    },
+    {
+      "start": 129.12,
+      "end": 134.18,
+      "usfm": "JOB.6.21"
+    },
+    {
+      "start": 134.18,
+      "end": 139.28,
+      "usfm": "JOB.6.22"
+    },
+    {
+      "start": 139.28,
+      "end": 145.26,
+      "usfm": "JOB.6.23"
+    },
+    {
+      "start": 145.26,
+      "end": 152.42,
+      "usfm": "JOB.6.24"
+    },
+    {
+      "start": 152.42,
+      "end": 158.54,
+      "usfm": "JOB.6.25"
+    },
+    {
+      "start": 158.54,
+      "end": 165.44,
+      "usfm": "JOB.6.26"
+    },
+    {
+      "start": 165.44,
+      "end": 170.82,
+      "usfm": "JOB.6.27"
+    },
+    {
+      "start": 170.82,
+      "end": 175.96,
+      "usfm": "JOB.6.28"
+    },
+    {
+      "start": 175.96,
+      "end": 182.84,
+      "usfm": "JOB.6.29"
+    },
+    {
+      "start": 182.84,
+      "end": 196.56,
+      "usfm": "JOB.6.30"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    5.72,
+    12.62,
+    18.7,
+    29.34,
+    35.54,
+    42.34,
+    47.54,
+    53.64,
+    59.9,
+    71.06,
+    76.88,
+    82.44,
+    87.9,
+    95.56,
+    102.34,
+    107.5,
+    113.58,
+    119.1,
+    123.32,
+    129.12,
+    134.18,
+    139.28,
+    145.26,
+    152.42,
+    158.54,
+    165.44,
+    170.82,
+    175.96,
+    182.84,
+    196.56
+  ],
+  "times_en_usfm": [
+    "JOB.6.1",
+    "JOB.6.2",
+    "JOB.6.3",
+    "JOB.6.4",
+    "JOB.6.5",
+    "JOB.6.6",
+    "JOB.6.7",
+    "JOB.6.8",
+    "JOB.6.9",
+    "JOB.6.10",
+    "JOB.6.11",
+    "JOB.6.12",
+    "JOB.6.13",
+    "JOB.6.14",
+    "JOB.6.15",
+    "JOB.6.16",
+    "JOB.6.17",
+    "JOB.6.18",
+    "JOB.6.19",
+    "JOB.6.20",
+    "JOB.6.21",
+    "JOB.6.22",
+    "JOB.6.23",
+    "JOB.6.24",
+    "JOB.6.25",
+    "JOB.6.26",
+    "JOB.6.27",
+    "JOB.6.28",
+    "JOB.6.29",
+    "JOB.6.30"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 2,
+      "text": "הידעת? איוב מבקש שכאבו וייסוריו יישקלו יחד במאזניים, כדי להמחיש את כובדם העצום.",
+      "text_he": "הידעת? איוב מבקש שכאבו וייסוריו יישקלו יחד במאזניים, כדי להמחיש את כובדם העצום.",
+      "text_en": "Did you know? Job wishes that his anguish and suffering could be weighed together on scales to show how immense their burden is."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? איוב מתאר את סבלו באמצעות דימוי של חיצים מאת שדי, שארסם שותה את רוחו; כך הוא מבטא את תחושת הפגיעה העמוקה מידי האל.",
+      "text_he": "הידעת? איוב מתאר את סבלו באמצעות דימוי של חיצים מאת שדי, שארסם שותה את רוחו; כך הוא מבטא את תחושת הפגיעה העמוקה מידי האל.",
+      "text_en": "Did you know? Job describes his suffering using the image of arrows from the Almighty whose poison drains his spirit, expressing how deeply he feels wounded by God."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? איוב משתמש בשאלות על חמור פרא ושור כדי לטעון שגם בעלי חיים אינם משמיעים קולות תלונה ללא סיבה; לכן גם תלונתו נובעת מסבל ממשי.",
+      "text_he": "הידעת? איוב משתמש בשאלות על חמור פרא ושור כדי לטעון שגם בעלי חיים אינם משמיעים קולות תלונה ללא סיבה; לכן גם תלונתו נובעת מסבל ממשי.",
+      "text_en": "Did you know? Job asks whether a wild donkey brays or an ox bellows without reason. In this way, he argues that even animals do not complain without cause, so his own complaint arises from genuine suffering."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? דימוי המאכל התפל ללא מלח מבטא את תחושתו של איוב שדברי רעיו חסרי טעם ואינם מספקים נחמה.",
+      "text_he": "הידעת? דימוי המאכל התפל ללא מלח מבטא את תחושתו של איוב שדברי רעיו חסרי טעם ואינם מספקים נחמה.",
+      "text_en": "Did you know? The image of tasteless food without salt expresses Job’s feeling that his friends’ words are empty and offer no comfort."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? איוב אינו מבקש עושר או פתרון מעשי, אלא מתפלל שתבוא בקשתו ושהאל ייתן לו את תקוותו.",
+      "text_he": "הידעת? איוב אינו מבקש עושר או פתרון מעשי, אלא מתפלל שתבוא בקשתו ושהאל ייתן לו את תקוותו.",
+      "text_en": "Did you know? Job is not asking for wealth or a practical solution; he is praying that his request will be granted and that God will give him what he hopes for."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? אף שאיוב מבקש שהאל ישים קץ לייסוריו, הוא מדגיש שלא כיחד ולא הסתיר את דברי הקדוש; כלומר, הוא רואה בכנותו ערך גם בתוך מצוקתו.",
+      "text_he": "הידעת? אף שאיוב מבקש שהאל ישים קץ לייסוריו, הוא מדגיש שלא כיחד ולא הסתיר את דברי הקדוש; כלומר, הוא רואה בכנותו ערך גם בתוך מצוקתו.",
+      "text_en": "Did you know? Although Job asks God to put an end to his suffering, he emphasizes that he has not denied or concealed the words of the Holy One. In other words, he sees value in his honesty even in the midst of his distress."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? איוב שואל מה כוחו להמשיך לקוות ולהאריך את נפשו, ובכך מציג את הסבל המתמשך כמבחן לגבולות הסיבולת האנושית.",
+      "text_he": "הידעת? איוב שואל מה כוחו להמשיך לקוות ולהאריך את נפשו, ובכך מציג את הסבל המתמשך כמבחן לגבולות הסיבולת האנושית.",
+      "text_en": "Did you know? Job asks what strength he has left to keep hoping and prolong his life, presenting ongoing suffering as a test of the limits of human endurance."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? איוב מדמה את אחיו לנחל בוגדני: נחל שנראה מבטיח אך אכזב את מי שסמכו עליו.",
+      "text_he": "הידעת? איוב מדמה את אחיו לנחל בוגדני: נחל שנראה מבטיח אך אכזב את מי שסמכו עליו.",
+      "text_en": "Did you know? Job compares his brothers to a treacherous stream—a stream that appears promising but disappoints those who rely on it."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? אזכור אורחות תימא והליכת שבא מצייר תמונה של נוסעים הצמאים למים וממתינים להם, אך לבסוף מתאכזבים; זהו משל לציפייתו של איוב לנחמה מרעיו.",
+      "text_he": "הידעת? אזכור אורחות תימא והליכת שבא מצייר תמונה של נוסעים הצמאים למים וממתינים להם, אך לבסוף מתאכזבים; זהו משל לציפייתו של איוב לנחמה מרעיו.",
+      "text_en": "Did you know? The mention of the caravans of Tema and the travelers of Sheba paints a picture of people thirsting for water and waiting for it, only to be disappointed in the end. This illustrates Job’s expectation of comfort from his friends."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? למרות תוכחתו החריפה, איוב מצהיר שהוא מוכן להקשיב אם רעיו יראו לו במה שגה ויסבירו לו את טעותו בדברי אמת.",
+      "text_he": "הידעת? למרות תוכחתו החריפה, איוב מצהיר שהוא מוכן להקשיב אם רעיו יראו לו במה שגה ויסבירו לו את טעותו בדברי אמת.",
+      "text_en": "Did you know? Despite his sharp rebuke, Job declares that he is willing to listen if his friends can show him where he went wrong and explain his error with truthful words."
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "book": "Job",
+  "book_he": "איוב",
+  "book_chapters": 42,
+  "chapter": 40,
+  "title": "איוב פרק 40",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2740.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2740.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOB/40-befd5d729599390f662763304d57b3fd.mp3?version_id=1",
+  "verses": [
+    "וַיַּעַן יְהוָה אֶת-אִיּוֹב; וַיֹּאמַר.",
+    "הֲרֹב, עִם-שַׁדַּי יִסּוֹר; מוֹכִיחַ אֱלוֹהַּ יַעֲנֶנָּה.",
+    "וַיַּעַן אִיּוֹב אֶת-יְהוָה; וַיֹּאמַר.",
+    "הֵן קַלֹּתִי, מָה אֲשִׁיבֶךָּ; יָדִי, שַׂמְתִּי לְמוֹ-פִי.",
+    "אַחַת דִּבַּרְתִּי, וְלֹא אֶעֱנֶה; וּשְׁתַּיִם, וְלֹא אוֹסִיף.",
+    "וַיַּעַן-יְהוָה אֶת-אִיּוֹב, מנסערה מִן סְעָרָה ; וַיֹּאמַר.",
+    "אֱזָר-נָא כְגֶבֶר חֲלָצֶיךָ; אֶשְׁאָלְךָ, וְהוֹדִיעֵנִי.",
+    "הַאַף, תָּפֵר מִשְׁפָּטִי; תַּרְשִׁיעֵנִי, לְמַעַן תִּצְדָּק.",
+    "וְאִם-זְרוֹעַ כָּאֵל לָךְ; וּבְקוֹל, כָּמֹהוּ תַרְעֵם.",
+    "עֲדֵה נָא גָאוֹן וָגֹבַהּ; וְהוֹד וְהָדָר תִּלְבָּשׁ.",
+    "הָפֵץ, עֶבְרוֹת אַפֶּךָ; וּרְאֵה כָל-גֵּאֶה, וְהַשְׁפִּילֵהוּ.",
+    "רְאֵה כָל-גֵּאֶה, הַכְנִיעֵהוּ; וַהֲדֹךְ רְשָׁעִים תַּחְתָּם.",
+    "טָמְנֵם בֶּעָפָר יָחַד; פְּנֵיהֶם, חֲבֹשׁ בַּטָּמוּן.",
+    "וְגַם-אֲנִי אוֹדֶךָּ: כִּי-תוֹשִׁעַ לְךָ יְמִינֶךָ.",
+    "הִנֵּה-נָא בְהֵמוֹת, אֲשֶׁר-עָשִׂיתִי עִמָּךְ; חָצִיר, כַּבָּקָר יֹאכֵל.",
+    "הִנֵּה-נָא כֹחוֹ בְמָתְנָיו; וְאוֹנוֹ, בִּשְׁרִירֵי בִטְנוֹ.",
+    "יַחְפֹּץ זְנָבוֹ כְמוֹ-אָרֶז; גִּידֵי פַחֲדָו יְשֹׂרָגוּ.",
+    "עֲצָמָיו, אֲפִיקֵי נְחֻשָׁה; גְּרָמָיו, כִּמְטִיל בַּרְזֶל.",
+    "הוּא, רֵאשִׁית דַּרְכֵי-אֵל; הָעֹשׂוֹ, יַגֵּשׁ חַרְבּוֹ.",
+    "כִּי-בוּל, הָרִים יִשְׂאוּ-לוֹ; וְכָל-חַיַּת הַשָּׂדֶה, יְשַׂחֲקוּ-שָׁם.",
+    "תַּחַת-צֶאֱלִים יִשְׁכָּב-- בְּסֵתֶר קָנֶה וּבִצָּה.",
+    "יְסֻכֻּהוּ צֶאֱלִים צִלְלוֹ; יְסֻבּוּהוּ, עַרְבֵי-נָחַל.",
+    "הֵן יַעֲשֹׁק נָהָר, לֹא יַחְפּוֹז; יִבְטַח, כִּי-יָגִיחַ יַרְדֵּן אֶל-פִּיהוּ.",
+    "בְּעֵינָיו יִקָּחֶנּוּ; בְּמוֹקְשִׁים, יִנְקָב-אָף.",
+    "תִּמְשֹׁךְ לִוְיָתָן בְּחַכָּה; וּבְחֶבֶל, תַּשְׁקִיעַ לְשֹׁנוֹ.",
+    "הֲתָשִׂים אַגְמֹן בְּאַפּוֹ; וּבְחוֹחַ, תִּקֹּב לֶחֱיוֹ.",
+    "הֲיַרְבֶּה אֵלֶיךָ, תַּחֲנוּנִים; אִם-יְדַבֵּר אֵלֶיךָ רַכּוֹת.",
+    "הֲיִכְרֹת בְּרִית עִמָּךְ; תִּקָּחֶנּוּ, לְעֶבֶד עוֹלָם.",
+    "הַתְשַׂחֶק-בּוֹ, כַּצִּפּוֹר; וְתִקְשְׁרֶנּוּ, לְנַעֲרוֹתֶיךָ.",
+    "יִכְרוּ עָלָיו, חַבָּרִים; יֶחֱצוּהוּ, בֵּין כְּנַעֲנִים.",
+    "הַתְמַלֵּא בְשֻׂכּוֹת עוֹרוֹ; וּבְצִלְצַל דָּגִים רֹאשׁוֹ.",
+    "שִׂים-עָלָיו כַּפֶּךָ; זְכֹר מִלְחָמָה, אַל-תּוֹסַף."
+  ],
+  "english": [
+    "Moreover the LORD answered Job, and said,",
+    "Shall he that contendeth with the Almighty instruct\nhim? he that reproveth God, let him answer it.",
+    "Then Job answered the LORD, and said,",
+    "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
+    "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.",
+    "Then answered the LORD unto Job out of the whirlwind, and said,",
+    "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.",
+    "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?",
+    "Hast thou an arm like God? or canst thou thunder with a voice like him?",
+    "Deck thyself now\nwith majesty and excellency; and array thyself with glory and beauty.",
+    "Cast abroad the rage of thy wrath: and behold every one\nthat is\n proud, and abase him.",
+    "Look on every one\nthat is proud,\nand bring him low; and tread down the wicked in their place.",
+    "Hide them in the dust together;\nand bind their faces in secret.",
+    "Then will I also confess unto thee that thine own right hand can save thee.",
+    "Behold now behemoth, which I made with thee; he eateth grass as an ox.",
+    "Lo now, his strength\nis in his loins, and his force\nis in the navel of his belly.",
+    "He moveth his tail like a cedar: the sinews of his stones are wrapped together.",
+    "His bones\nare as strong pieces of brass; his bones\nare\n like bars of iron.",
+    "He\nis the chief of the ways of God: he that made him can make his sword to approach\nunto him.",
+    "Surely the mountains bring him forth food, where all the beasts of the field play.",
+    "He lieth under the shady trees, in the covert of the reed, and fens.",
+    "The shady trees cover him\nwith their shadow; the willows of the brook compass him about.",
+    "Behold, he drinketh up a river,\nand hasteth not: he trusteth that he can draw up Jordan into his mouth.",
+    "He taketh it with his eyes:\nhis nose pierceth through snares."
+  ],
+  "steinsaltz": [
+    "לאחר שה' הסב את תשומת לבו של איוב לכך שאין הוא אלא אחד מברואיו הרבים, ולמרות תודעתו המפותחת אין הוא יכול לנהל את העולם. טענותיו של איוב מסתתמות, והוא מעדיף לשתוק. וַיַּעַן ה' אֶת־אִיּוֹב וַיֹּאמַר׃",
+    "הֲאם רֹב, מי שרב עִם־שַׁדַּי יִסּוֹר, נוהג באופן מוסרי, או: עשוי לקבל מוסר?! אנא, מי שמוֹכִיחַ אותי – את אֱלוֹהַּ – יַעֲנֶנָּה, מוזמן לנסות להשיב לדברי!",
+    "וַיַּעַן אִיּוֹב אֶת־ה' וַיֹּאמַר׃",
+    "הֵן קַלֹּתִי, אני קל בעיני עצמי. מָה אֲשִׁיבֶךָּ, אוכל לענות לך?! יָדִי שַׂמְתִּי לְמוֹ, על פִי לאות שתיקה.",
+    "אַחַת דִּבַּרְתִּי וְלֹא אֶעֱנֶה יותר, וּשְׁתַּיִם וְלֹא אוֹסִיף. אכן, דיברתי יותר מדי.",
+    "וַיַּעַן־ה' אֶת־אִיּוֹב מִן סְעָרָה וַיֹּאמַר׃",
+    "אֱזָר־נָא כְגֶבֶר חֲלָצֶיךָ, חגור מתניך, הכן עצמך, אֶשְׁאָלְךָ על תופעות נוספות, וְהוֹדִיעֵנִי.",
+    "הַאַף תָּפֵר, אתה טוען שאני מבטל את מִשְׁפָּטִי, כלומר שמשפטי אינו הוגן?! האם תַּרְשִׁיעֵנִי, אתה טעון שאני רשע לְמַעַן תִּצְדָּק?!",
+    "אם חכם אתה וצודק יותר ממני, אולי גם כוחך ככוחי – וְאִם־זְרוֹעַ, כוח כּכוחו של האֵל יש לָךְ, וּבְקוֹל כָּמֹהוּ תַרְעֵם, תרעיש?!",
+    "עֲדֵה, קשט עצמך נָא בגָאוֹן וָגֹבַהּ, וְהוֹד וְהָדָר תִּלְבָּשׁ כמוני.",
+    "הָפֵץ את עַבְרוֹת אַפֶּךָ, זעמך, וּרְאֵה כָל־גֵּאֶה וְהַשְׁפִּילֵהוּ.",
+    "רְאֵה כָל־גֵּאֶה והַכְנִיעֵהוּ, וַהֲדֹךְ, כְּתוש רְשָׁעִים תַּחְתָּם.",
+    "טָמְנֵם בֶּעָפָר יָחַד, את פְּנֵיהֶם חֲבֹשׁ, כסה, אסור בַּטָּמוּן, במקום נסתר.",
+    "וְגַם־אֲנִי אוֹדֶךָּ, אודה בצדקתך, כִּי, אם תוֹשִׁעַ לְךָ יְמִינֶךָ. אם תוכל לעשות את אשר אני יכול לעשות בכוחך שלך. אלוקים לועג לאיוב המעמיד עצמו מולו, כאילו יש צד של דמיון בינו לבין יוצרו, ואומר לו: אדרבא, נהל אתה את העולם טוב יותר וגם אני אודה ואשבח אותך.",
+    "אם לא תוכל לשלוט על הגאים שבבני אדם, לך נא אל יצורים אחרים: הִנֵּה־נָא בְהֵמוֹת, שֵׁם בהמה גדולה אֲשֶׁר־עָשִׂיתִי עִמָּךְ, החולקת אתך את העולם, חָצִיר, עשב כַּבָּקָר יֹאכֵל, הוא יצור צמחוני.",
+    "הִנֵּה־נָא כֹחוֹ בְמָתְנָיו, וְאוֹנוֹ, כוחו בִּשְׁרִירֵי בִטְנוֹ.",
+    "כשיַחְפֹּץ, יחפוז, ימהר לנענע בזְנָבוֹ כְמוֹ־אָרֶז. זנבו האדיר ייראה כעץ ארז נע ברוח, גִּידֵי פַחֲדָו, אשכיו יְשֹׂרָגוּ, מסורגים ומסועפים כענפי עץ.",
+    "עֲצָמָיו, עצמותיו דומות לאֲפִיקֵי, גושי נְחֻשָׁה, נחושת. גְּרָמָיו, עצמותיו כִּמְטִיל בַּרְזֶל.",
+    "הוּא רֵאשִׁית, הראשון בחשיבותו בדַרְכֵי, בין היצורים שברא אֵל, או: הוא הבהמה הראשונה שברא ה'. הוא חסין מפני כל פגיעה של צייד או חיית טרף. רק הָעֹשׂוֹ, מי שעשה אותו יַגֵּשׁ חַרְבּוֹ אליו להרגו.",
+    "כִּי את בוּל, יבול ההָרִים יִשְׂאוּ ויביאו לוֹ, וְכָל־חַיַּת הַשָּׂדֶה יְשַׂחֲקוּ־שָׁם – במקום מרבצו. הוא אינו טורף ואינו פוגע בשום חיה.",
+    "תַּחַת־צֶאֱלִים, עצי צאלה, או: שם כללי לעצים מצלים, או: צללים יִשְׁכָּב, בְּסֵתֶר קָנֶה וּבִצָּה.",
+    "יְסֻכֻּהוּ, מסוככים עליו צֶאֱלִים ויהיו לו צִלְלוֹ, צלו. יְסֻבּוּהוּ, סובבים ומקיפים אותו עַרְבֵי־נָחַל.",
+    "הֵן הוא כה גדול שיַעֲשֹׁק, בכוחו לבלוע נָהָר, וְלֹא יַחְפּוֹז, ייחפז, ימהר מחרדה כלשהי, שכן הוא אינו ירא משום יצור אחר. יִבְטַח, הוא ירגיש בטוח גם כִּי, כאשר יָגִיחַ, ימשוך את כל נהר היַרְדֵּן אֶל־פִּיהוּ.",
+    "בְּעֵינָיו של הבהמות יִקָּחֶנּוּ – יבלע את הירדן כולו. בתשוקתו לשתות אותו הוא ישפיל את פניו ויגמע אותו עד אשר בְּמוֹקְשִׁים, באבני הנגף ובמכשולים שעל קרקעית הנהר יִנְקָב הבהמות את האָף של עצמו.",
+    "מן הבהמות – החיה העצומה ביבשה, הוא עובר ללווייתן – החיה הגדולה שבים. תִּמְשֹׁךְ, האם תוכל למשוך לִוְיָתָן בְּאמצעות חַכָּה, וּבְאמצעות חֶבֶל תַּשְׁקִיעַ לְשֹׁנוֹ, תתפוס אותו באמצעות נעיצתו בלשונו?!",
+    "הֲתָשִׂים אַגְמֹן, קרס כפוף בְּאַפּוֹ, וּבְחוֹחַ, קוץ תִּקֹּב, תנקב את לֶחֱיוֹ לשם לכידתו?!",
+    "ואילו ניסית לדוג את הלווייתן העצום – האם היית מצפה שהוא יַרְבֶּה אֵלֶיךָ תַּחֲנוּנִים אִם, או יְדַבֵּר אֵלֶיךָ רַכּוֹת, בלשון רכה כדי להפציר בך שלא תבצע את זממך?!",
+    "הֲיִכְרֹת בְּרִית עִמָּךְ כדי להינצל מאיומך ויסכים שתִּקָּחֶנּוּ לְעֶבֶד עוֹלָם?!",
+    "הַתְשַׂחֶק־בּוֹ כּמו שמשחקים בצִּפּוֹר, וְתִקְשְׁרֶנּוּ לְנַעֲרוֹתֶיךָ, לילדיך כדי שיוכלו להשתעשע בו?!",
+    "האם יִכְרוּ, יערכו סעודה עָלָיו חַבָּרִים, חכמים ומכשפים, או: חבורות סוחרים, ויֶחֱצוּהוּ, יחלקו את בשרו בֵּין כְּנַעֲנִים, סוחרים?!",
+    "הַתְמַלֵּא בְשֻׂכּוֹת, קוצים או יתדות דוקרות את עוֹרוֹ כדי לצוד אותו, וּבְצִלְצַל דָּגִים, כלי חד ללכידת הדג הגדול תדקור ברֹאשׁוֹ?!",
+    "אילו ניסית לשִׂים־עָלָיו את כַּפֶּיךָ, אילו התאמצת ללכדו – זְכֹר, זכרהּ של מִלְחָמָה אַל־תּוֹסַף, לא היה ממשיך להתעורר בך, מחמת הטראומה שהייתה מותירה בך ההתגרות בו."
+  ],
+  "ai_explanation": [
+    "ה' עונה לאיוב לאחר שהתברר לו שהוא, אף שהוא בעל תודעה מפותחת, אינו מסוגל לנהל את העולם. טענותיו של איוב מסתתמות והוא מעדיף לשתוק.",
+    "ה' שואל אם מי שרב עם שדי ראוי לקבל מוסר, ומזמין את מי שמוכיח את האל להשיב לדבריו.",
+    "איוב עונה לה' ומתחיל להגיב לדבריו.",
+    "איוב מכיר בשפלותו ואומר שאינו יודע מה להשיב. הוא שם את ידו על פיו לאות שתיקה.",
+    "איוב מצהיר שדיבר פעם ופעמיים, אך לא יוסיף לדבר; הוא מודה שדיבר יותר מדי.",
+    "ה' עונה לאיוב מתוך הסערה.",
+    "ה' מצווה על איוב לחגור את מתניו ולהכין את עצמו, מפני שהוא עומד להישאל על תופעות נוספות ולהשיב עליהן.",
+    "ה' שואל אם איוב טוען שמשפטו אינו הוגן, ואם הוא מרשיע את האל כדי להצדיק את עצמו.",
+    "ה' מציב אתגר לאיוב: אם כוחו ככוח האל, שירעים בקולו וישתמש בו כפי שהאל משתמש בכוחו.",
+    "איוב מתבקש לקשט את עצמו בגאווה ובגובה וללבוש הוד והדר כמו האל.",
+    "על איוב להפיץ את זעם אפו, לראות כל אדם גאה ולהשפילו.",
+    "עליו להכניע כל גאה ולרמוס את הרשעים תחתיהם.",
+    "עליו להטמין את הרשעים בעפר יחד, לכסות את פניהם ולאסור אותם במקום נסתר.",
+    "אם יצליח לעשות זאת בכוחו שלו, האל יודה בצדקתו. זהו לעג לאיוב, המעמיד את עצמו מול יוצרו, והזמנה לנהל את העולם טוב יותר.",
+    "ה' מפנה את איוב אל הבהמות, יצור גדול שחולק עמו את העולם ואוכל עשב כמו בקר.",
+    "כוחו של הבהמות נמצא במתניו ובשרירי בטנו.",
+    "כאשר הוא מנענע את זנבו, הוא נראה כארז הנע ברוח; גידיו ואשכיו מסורגים ומסועפים כענפי עץ.",
+    "עצמותיו של הבהמות חזקות כגושי נחושת, ועצמותיו האחרות קשות כמטיל ברזל.",
+    "הבהמות הוא הראשון או החשוב ביותר בין יצורי האל, והוא חסין מפגיעת ציידים וחיות טרף. רק מי שעשה אותו, האל, יכול לגשת אליו בחרב ולהרגו.",
+    "יבול ההרים מובא לו למאכל, וחיות השדה משחקות סביב מקום מרבצו; הוא אינו טורף ואינו פוגע בחיות.",
+    "הבהמות שוכב בצל עצים, במקום נסתר בין קנים וביצה.",
+    "עצים מצלים מסוככים עליו, וערבי הנחל מקיפים אותו.",
+    "הבהמות גדול ובטוח כל כך עד שהוא יכול לבלוע נהר ואינו ממהר מפחד. גם כאשר הירדן יגיח אל פיו, הוא ירגיש בטוח.",
+    "בתשוקתו לשתות את הירדן הוא משפיל את פניו וגומע אותו, עד שאבני המכשול שבקרקעית הנהר ינקבו את אפו.",
+    "ה' עובר מן הבהמות, החיה העצומה ביבשה, אל הלווייתן, החיה הגדולה שבים, ושואל אם איוב יכול למשוך אותו בחכה ולהשקיע חבל בלשונו.",
+    "ה' שואל אם איוב יכול לשים קרס כפוף באפו ולנקוב את לחיו בקוץ כדי ללכוד אותו.",
+    "ה' שואל אם הלווייתן ירבה תחנונים או ידבר ברכות כדי למנוע מאיוב לבצע את זממו.",
+    "ה' שואל אם הלווייתן יכרות ברית עם איוב ויסכים להילקח לעבד עולם.",
+    "ה' שואל אם איוב יכול לשחק בלווייתן כפי שמשחקים בציפור ולקשור אותו לילדיו כדי שישתעשעו בו.",
+    "ה' שואל אם חבורות של חכמים, מכשפים או סוחרים יוכלו לערוך עליו סעודה ולחלק את בשרו בין סוחרים.",
+    "ה' שואל אם אפשר לדקור את עורו בקוצים או ביתדות ולנקב את ראשו בכלי חד ללכידת דגים.",
+    "ה' מזהיר שאם איוב ינסה לשים עליו את כפו וללכוד אותו, יזכור את המלחמה ולא יעורר אותה עוד, בגלל הטראומה שההתגרות בו תותיר בו."
+  ],
+  "ai_explanation_en": [
+    "God answers Job after Job realizes that, despite his developed awareness, he cannot manage the world. Job's arguments are silenced, and he prefers to remain quiet.",
+    "God asks whether someone who quarrels with Shaddai is fit to be taught a lesson, and invites anyone who rebukes God to answer his words.",
+    "Job answers God and begins to respond to him.",
+    "Job acknowledges his lowliness and says that he does not know what to answer. He puts his hand over his mouth as a sign of silence.",
+    "Job declares that he has spoken once and twice but will not continue; he admits that he has spoken too much.",
+    "God answers Job from the storm.",
+    "God commands Job to gird his loins and prepare himself, because he is about to be questioned about additional phenomena and must answer.",
+    "God asks whether Job claims that his judgment is unfair, and whether he condemns God in order to prove himself righteous.",
+    "God challenges Job: if his power is like God's power, let him thunder with his voice and use it as God uses his power.",
+    "Job is told to adorn himself with pride and majesty and to clothe himself with glory and splendor like God.",
+    "Job is told to spread the anger of his wrath, see every proud person, and humble him.",
+    "He is told to subdue every proud person and crush the wicked beneath them.",
+    "He is told to bury the wicked together in the dust, cover their faces, and bind them in a hidden place.",
+    "If Job can do this through his own power, God will acknowledge his righteousness. This mocks Job for placing himself opposite his Creator and challenges him to manage the world better.",
+    "God directs Job to the behemoth, a great creature that shares the world with him and eats grass like cattle.",
+    "The behemoth's strength is in its loins and in the muscles of its belly.",
+    "When it moves its tail, it looks like a cedar tree swaying in the wind; its sinews and testicles are intertwined and branching like tree limbs.",
+    "The behemoth's bones are strong like masses of bronze, and its other bones are hard like a bar of iron.",
+    "The behemoth is the first or most important among God's creatures, and it is immune to hunters and predatory animals. Only its Maker, God, can approach it with a sword and kill it.",
+    "The produce of the mountains is brought to it for food, and the animals of the field play around its resting place; it does not prey on or harm animals.",
+    "The behemoth lies in the shade of trees, in a hidden place among reeds and marshland.",
+    "Shading trees shelter it, and willows of the stream surround it.",
+    "The behemoth is so large and secure that it can swallow a river and does not hurry in fear. Even when the Jordan rushes toward its mouth, it feels safe.",
+    "In its desire to drink the Jordan, it lowers its face and gulps it down, until the obstacles on the riverbed pierce its nose.",
+    "God moves from the behemoth, the enormous land animal, to Leviathan, the great creature of the sea, and asks whether Job can draw it with a hook and sink a cord into its tongue.",
+    "God asks whether Job can place a curved hook in its nose and pierce its cheek with a thorn in order to capture it.",
+    "God asks whether Leviathan would plead with Job or speak gently to persuade him not to carry out his plan.",
+    "God asks whether Leviathan would make a covenant with Job and agree to become his slave forever.",
+    "God asks whether Job can play with Leviathan as people play with a bird and tie it up for his children to enjoy.",
+    "God asks whether groups of sages, magicians, or merchants could hold a feast over Leviathan and divide its flesh among traders.",
+    "God asks whether its skin can be filled with thorns or stakes and its head pierced with a sharp instrument for catching fish.",
+    "God warns that if Job tries to put his hand on Leviathan and capture it, he will remember the battle and never provoke it again, because the confrontation would leave him traumatized."
+  ],
+  "perush": [
+    "ה' עונה לאיוב לאחר שהתברר לו שהוא, אף שהוא בעל תודעה מפותחת, אינו מסוגל לנהל את העולם. טענותיו של איוב מסתתמות והוא מעדיף לשתוק.",
+    "ה' שואל אם מי שרב עם שדי ראוי לקבל מוסר, ומזמין את מי שמוכיח את האל להשיב לדבריו.",
+    "איוב עונה לה' ומתחיל להגיב לדבריו.",
+    "איוב מכיר בשפלותו ואומר שאינו יודע מה להשיב. הוא שם את ידו על פיו לאות שתיקה.",
+    "איוב מצהיר שדיבר פעם ופעמיים, אך לא יוסיף לדבר; הוא מודה שדיבר יותר מדי.",
+    "ה' עונה לאיוב מתוך הסערה.",
+    "ה' מצווה על איוב לחגור את מתניו ולהכין את עצמו, מפני שהוא עומד להישאל על תופעות נוספות ולהשיב עליהן.",
+    "ה' שואל אם איוב טוען שמשפטו אינו הוגן, ואם הוא מרשיע את האל כדי להצדיק את עצמו.",
+    "ה' מציב אתגר לאיוב: אם כוחו ככוח האל, שירעים בקולו וישתמש בו כפי שהאל משתמש בכוחו.",
+    "איוב מתבקש לקשט את עצמו בגאווה ובגובה וללבוש הוד והדר כמו האל.",
+    "על איוב להפיץ את זעם אפו, לראות כל אדם גאה ולהשפילו.",
+    "עליו להכניע כל גאה ולרמוס את הרשעים תחתיהם.",
+    "עליו להטמין את הרשעים בעפר יחד, לכסות את פניהם ולאסור אותם במקום נסתר.",
+    "אם יצליח לעשות זאת בכוחו שלו, האל יודה בצדקתו. זהו לעג לאיוב, המעמיד את עצמו מול יוצרו, והזמנה לנהל את העולם טוב יותר.",
+    "ה' מפנה את איוב אל הבהמות, יצור גדול שחולק עמו את העולם ואוכל עשב כמו בקר.",
+    "כוחו של הבהמות נמצא במתניו ובשרירי בטנו.",
+    "כאשר הוא מנענע את זנבו, הוא נראה כארז הנע ברוח; גידיו ואשכיו מסורגים ומסועפים כענפי עץ.",
+    "עצמותיו של הבהמות חזקות כגושי נחושת, ועצמותיו האחרות קשות כמטיל ברזל.",
+    "הבהמות הוא הראשון או החשוב ביותר בין יצורי האל, והוא חסין מפגיעת ציידים וחיות טרף. רק מי שעשה אותו, האל, יכול לגשת אליו בחרב ולהרגו.",
+    "יבול ההרים מובא לו למאכל, וחיות השדה משחקות סביב מקום מרבצו; הוא אינו טורף ואינו פוגע בחיות.",
+    "הבהמות שוכב בצל עצים, במקום נסתר בין קנים וביצה.",
+    "עצים מצלים מסוככים עליו, וערבי הנחל מקיפים אותו.",
+    "הבהמות גדול ובטוח כל כך עד שהוא יכול לבלוע נהר ואינו ממהר מפחד. גם כאשר הירדן יגיח אל פיו, הוא ירגיש בטוח.",
+    "בתשוקתו לשתות את הירדן הוא משפיל את פניו וגומע אותו, עד שאבני המכשול שבקרקעית הנהר ינקבו את אפו.",
+    "ה' עובר מן הבהמות, החיה העצומה ביבשה, אל הלווייתן, החיה הגדולה שבים, ושואל אם איוב יכול למשוך אותו בחכה ולהשקיע חבל בלשונו.",
+    "ה' שואל אם איוב יכול לשים קרס כפוף באפו ולנקוב את לחיו בקוץ כדי ללכוד אותו.",
+    "ה' שואל אם הלווייתן ירבה תחנונים או ידבר ברכות כדי למנוע מאיוב לבצע את זממו.",
+    "ה' שואל אם הלווייתן יכרות ברית עם איוב ויסכים להילקח לעבד עולם.",
+    "ה' שואל אם איוב יכול לשחק בלווייתן כפי שמשחקים בציפור ולקשור אותו לילדיו כדי שישתעשעו בו.",
+    "ה' שואל אם חבורות של חכמים, מכשפים או סוחרים יוכלו לערוך עליו סעודה ולחלק את בשרו בין סוחרים.",
+    "ה' שואל אם אפשר לדקור את עורו בקוצים או ביתדות ולנקב את ראשו בכלי חד ללכידת דגים.",
+    "ה' מזהיר שאם איוב ינסה לשים עליו את כפו וללכוד אותו, יזכור את המלחמה ולא יעורר אותה עוד, בגלל הטראומה שההתגרות בו תותיר בו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "איוב משתתק מול דברי ה'",
+      "title_en": "Job Falls Silent Before God's Words",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "ה' מציג את איוב כמי שאינו יכול לנהל את העולם, ואיוב מודה בשפלותו, שותק ומכיר בכך שדיבר יותר מדי.",
+      "summary_en": "God presents Job as unable to manage the world, and Job acknowledges his lowliness, falls silent, and admits that he has spoken too much.",
+      "image_prompt": "A solemn biblical scene of a humble man standing silently with one hand over his mouth, dark clouds and a storm behind him, symbolic and respectful, no text"
+    },
+    {
+      "title": "האתגר: לנהל את העולם ולהכניע את הרשעים",
+      "title_en": "The Challenge to Govern the World and Subdue the Wicked",
+      "start_verse": 6,
+      "end_verse": 14,
+      "summary": "מתוך הסערה ה' דורש מאיוב להתכונן, מציג את הטענה שהוא מבטל את משפט האל, ומאתגר אותו להפגין כוח, גאווה, משפט ויכולת להכניע את הרשעים.",
+      "summary_en": "From the storm, God commands Job to prepare, confronts the claim that divine judgment is being overturned, and challenges him to display power, majesty, judgment, and the ability to subdue the wicked.",
+      "image_prompt": "A dramatic storm over a vast landscape, a small human figure preparing himself while symbols of justice, pride, and humbled arrogant figures appear in the distance, biblical-inspired and symbolic, no text"
+    },
+    {
+      "title": "הבהמות: עוצמה ושלווה בטבע",
+      "title_en": "Behemoth: Strength and Peace in Nature",
+      "start_verse": 15,
+      "end_verse": 24,
+      "summary": "ה' מציג את הבהמות כיצור עצום, חזק וחסין, החי בין חיות השדה, ניזון מיבול ההרים, נח בצל ומרגיש בטוח גם מול נהר אדיר.",
+      "summary_en": "God presents Behemoth as an enormous, powerful, and invulnerable creature that lives among the animals, feeds on the produce of the mountains, rests in the shade, and remains secure even before a mighty river.",
+      "image_prompt": "A massive peaceful herbivorous creature resting beneath shady trees beside reeds, marshland, mountains, and a powerful river, smaller animals nearby, biblical poetic symbolism, no text"
+    },
+    {
+      "title": "הלווייתן: יצור שאי אפשר ללכוד",
+      "title_en": "Leviathan: The Creature That Cannot Be Captured",
+      "start_verse": 25,
+      "end_verse": 32,
+      "summary": "ה' עובר אל הלווייתן ושואל אם אדם יכול לדוג אותו, לכבול אותו, לשחק בו, לפגוע בו או להפוך אותו לעבד; ההתגרות בו תסתיים בטראומה.",
+      "summary_en": "God turns to Leviathan and asks whether a human can fish for it, bind it, play with it, injure it, or make it a slave; provoking it would end in trauma.",
+      "image_prompt": "A vast sea with a powerful Leviathan emerging beyond the reach of a small boat and fishing tools, emphasizing human helplessness and the creature's overwhelming strength, biblical symbolic style, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 6.9,
+      "usfm": "JOB.40.1"
+    },
+    {
+      "start": 6.9,
+      "end": 15.2,
+      "usfm": "JOB.40.2"
+    },
+    {
+      "start": 15.2,
+      "end": 18.42,
+      "usfm": "JOB.40.3"
+    },
+    {
+      "start": 18.42,
+      "end": 27.34,
+      "usfm": "JOB.40.4"
+    },
+    {
+      "start": 27.34,
+      "end": 34.08,
+      "usfm": "JOB.40.5"
+    },
+    {
+      "start": 34.08,
+      "end": 38.5,
+      "usfm": "JOB.40.6"
+    },
+    {
+      "start": 38.5,
+      "end": 45.46,
+      "usfm": "JOB.40.7"
+    },
+    {
+      "start": 45.46,
+      "end": 51.88,
+      "usfm": "JOB.40.8"
+    },
+    {
+      "start": 51.88,
+      "end": 56.42,
+      "usfm": "JOB.40.9"
+    },
+    {
+      "start": 56.42,
+      "end": 62.32,
+      "usfm": "JOB.40.10"
+    },
+    {
+      "start": 62.32,
+      "end": 68.22,
+      "usfm": "JOB.40.11"
+    },
+    {
+      "start": 68.22,
+      "end": 74.82,
+      "usfm": "JOB.40.12"
+    },
+    {
+      "start": 74.82,
+      "end": 78.98,
+      "usfm": "JOB.40.13"
+    },
+    {
+      "start": 78.98,
+      "end": 83.46,
+      "usfm": "JOB.40.14"
+    },
+    {
+      "start": 83.46,
+      "end": 88.76,
+      "usfm": "JOB.40.15"
+    },
+    {
+      "start": 88.76,
+      "end": 94.58,
+      "usfm": "JOB.40.16"
+    },
+    {
+      "start": 94.58,
+      "end": 99.8,
+      "usfm": "JOB.40.17"
+    },
+    {
+      "start": 99.8,
+      "end": 106.1,
+      "usfm": "JOB.40.18"
+    },
+    {
+      "start": 106.1,
+      "end": 112.5,
+      "usfm": "JOB.40.19"
+    },
+    {
+      "start": 112.5,
+      "end": 118.02,
+      "usfm": "JOB.40.20"
+    },
+    {
+      "start": 118.02,
+      "end": 122.46,
+      "usfm": "JOB.40.21"
+    },
+    {
+      "start": 122.46,
+      "end": 127.74,
+      "usfm": "JOB.40.22"
+    },
+    {
+      "start": 127.74,
+      "end": 137.24,
+      "usfm": "JOB.40.23"
+    },
+    {
+      "start": 137.24,
+      "end": 148.52,
+      "usfm": "JOB.40.24"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    6.9,
+    15.2,
+    18.42,
+    27.34,
+    34.08,
+    38.5,
+    45.46,
+    51.88,
+    56.42,
+    62.32,
+    68.22,
+    74.82,
+    78.98,
+    83.46,
+    88.76,
+    94.58,
+    99.8,
+    106.1,
+    112.5,
+    118.02,
+    122.46,
+    127.74,
+    137.24,
+    148.52
+  ],
+  "times_en_usfm": [
+    "JOB.40.1",
+    "JOB.40.2",
+    "JOB.40.3",
+    "JOB.40.4",
+    "JOB.40.5",
+    "JOB.40.6",
+    "JOB.40.7",
+    "JOB.40.8",
+    "JOB.40.9",
+    "JOB.40.10",
+    "JOB.40.11",
+    "JOB.40.12",
+    "JOB.40.13",
+    "JOB.40.14",
+    "JOB.40.15",
+    "JOB.40.16",
+    "JOB.40.17",
+    "JOB.40.18",
+    "JOB.40.19",
+    "JOB.40.20",
+    "JOB.40.21",
+    "JOB.40.22",
+    "JOB.40.23",
+    "JOB.40.24"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הפרק נפתח בכך שה' עונה לאיוב; זהו המשך ישיר להתגלות ה' אליו מתוך הסערה.",
+      "text_he": "הפרק נפתח בכך שה' עונה לאיוב; זהו המשך ישיר להתגלות ה' אליו מתוך הסערה.",
+      "text_en": "The chapter opens with the Lord answering Job, continuing directly from the Lord’s appearance to him out of the storm."
+    },
+    {
+      "verse": 4,
+      "text": "איוב אומר: \"הֵן קַלֹּתִי\" ומכיר במעמדו המוגבל; הוא מצהיר שהניח את ידו על פיו, כלומר בחר לשתוק.",
+      "text_he": "איוב אומר: \"הֵן קַלֹּתִי\" ומכיר במעמדו המוגבל; הוא מצהיר שהניח את ידו על פיו, כלומר בחר לשתוק.",
+      "text_en": "Job says, “Behold, I am insignificant,” acknowledging his limited position; he declares that he has put his hand over his mouth, meaning that he has chosen to remain silent."
+    },
+    {
+      "verse": 8,
+      "text": "ה' מציג בפני איוב שאלה עקרונית: האם הוא מבטל את משפט האל ומרשיע את ה', כדי להצדיק את עצמו?",
+      "text_he": "ה' מציג בפני איוב שאלה עקרונית: האם הוא מבטל את משפט האל ומרשיע את ה', כדי להצדיק את עצמו?",
+      "text_en": "The Lord poses a fundamental question to Job: Will he annul God’s judgment and condemn the Lord in order to justify himself?"
+    },
+    {
+      "verse": 14,
+      "text": "ה' אומר שאם איוב יוכל להושיע את עצמו בכוח ימינו, גם ה' יודה לו; זהו אתגר המדגיש את גבולות כוחו של האדם.",
+      "text_he": "ה' אומר שאם איוב יוכל להושיע את עצמו בכוח ימינו, גם ה' יודה לו; זהו אתגר המדגיש את גבולות כוחו של האדם.",
+      "text_en": "The Lord says that if Job can save himself by his own strength, then the Lord will also acknowledge him; this challenge highlights the limits of human power."
+    },
+    {
+      "verse": 15,
+      "text": "הבהמות מתואר כיצור שה' עשה, והוא ניזון מחציר כמו בקר; הטקסט אינו מזהה אותו במפורש עם בעל חיים מסוים בימינו.",
+      "text_he": "הבהמות מתואר כיצור שה' עשה, והוא ניזון מחציר כמו בקר; הטקסט אינו מזהה אותו במפורש עם בעל חיים מסוים בימינו.",
+      "text_en": "Behemoth is described as a creature made by the Lord that feeds on grass like cattle; the text does not explicitly identify it with any particular animal known today."
+    },
+    {
+      "verse": 18,
+      "text": "עצמות הבהמות מתוארות כ\"אֲפִיקֵי נְחֻשָּׁה\" וכגרמים הדומים למטיל ברזל, ביטוי לעוצמתו יוצאת הדופן.",
+      "text_he": "עצמות הבהמות מתוארות כ\"אֲפִיקֵי נְחֻשָּׁה\" וכגרמים הדומים למטיל ברזל, ביטוי לעוצמתו יוצאת הדופן.",
+      "text_en": "Behemoth’s bones are described as “channels of bronze” and as being like bars of iron, expressing its extraordinary strength."
+    },
+    {
+      "verse": 21,
+      "text": "למרות גודלו ועוצמתו, הבהמות מתואר כמי ששוכב תחת צל, בין קני הסוף והביצה; הוא חלק מן הטבע ואינו מוצג כיצור הרסני בלבד.",
+      "text_he": "למרות גודלו ועוצמתו, הבהמות מתואר כמי ששוכב תחת צל, בין קני הסוף והביצה; הוא חלק מן הטבע ואינו מוצג כיצור הרסני בלבד.",
+      "text_en": "Despite its size and strength, Behemoth is described as lying under the shade among the reeds and marsh plants; it is part of nature and is not presented merely as a destructive creature."
+    },
+    {
+      "verse": 23,
+      "text": "הבהמות אינו נבהל מנהר גועש; אפילו כאשר הירדן מגיע אל פיו, הוא מתואר כמי שבוטח ואינו נחפז.",
+      "text_he": "הבהמות אינו נבהל מנהר גועש; אפילו כאשר הירדן מגיע אל פיו, הוא מתואר כמי שבוטח ואינו נחפז.",
+      "text_en": "Behemoth is not frightened by a raging river; even when the Jordan surges up to its mouth, it is portrayed as confident and unhurried."
+    },
+    {
+      "verse": 25,
+      "text": "המעבר ללויתן נפתח בשאלה אם אדם יכול למשוך אותו בחכה או ללכוד את לשונו בחבל; השאלות מדגישות שאי אפשר לשלוט בו בקלות.",
+      "text_he": "המעבר ללויתן נפתח בשאלה אם אדם יכול למשוך אותו בחכה או ללכוד את לשונו בחבל; השאלות מדגישות שאי אפשר לשלוט בו בקלות.",
+      "text_en": "The passage about Leviathan begins by asking whether a person can pull it out with a hook or tie down its tongue with a rope; these questions emphasize that it cannot easily be controlled."
+    },
+    {
+      "verse": 29,
+      "text": "ה' שואל אם אפשר לכרות ברית עם הלויתן, לקחת אותו לעבד עולם או לשחק בו כציפור; בכך מודגשת עצמאותו ועוצמתו של היצור.",
+      "text_he": "ה' שואל אם אפשר לכרות ברית עם הלויתן, לקחת אותו לעבד עולם או לשחק בו כציפור; בכך מודגשת עצמאותו ועוצמתו של היצור.",
+      "text_en": "The Lord asks whether anyone can make a bargain with Leviathan, take it as a lifelong servant, or play with it like a bird; this highlights the creature’s independence and power."
+    }
+  ]
+}

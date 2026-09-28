@@ -1,0 +1,629 @@
+{
+  "book": "Job",
+  "book_he": "איוב",
+  "book_chapters": 42,
+  "chapter": 15,
+  "title": "איוב פרק 15",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2715.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2715.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOB/15-8b4b1e29d8faa8daeb3d46c6b2dccd22.mp3?version_id=1",
+  "verses": [
+    "וַיַּעַן, אֱלִיפַז הַתֵּימָנִי; וַיֹּאמַר.",
+    "הֶחָכָם, יַעֲנֶה דַעַת-רוּחַ; וִימַלֵּא קָדִים בִּטְנוֹ.",
+    "הוֹכֵחַ בְּדָבָר, לֹא יִסְכּוֹן; וּמִלִּים, לֹא-יוֹעִיל בָּם.",
+    "אַף-אַתָּה, תָּפֵר יִרְאָה; וְתִגְרַע שִׂיחָה, לִפְנֵי-אֵל.",
+    "כִּי יְאַלֵּף עֲוֺנְךָ פִיךָ; וְתִבְחַר, לְשׁוֹן עֲרוּמִים.",
+    "יַרְשִׁיעֲךָ פִיךָ וְלֹא-אָנִי; וּשְׂפָתֶיךָ, יַעֲנוּ-בָךְ.",
+    "הֲרִאישׁוֹן אָדָם, תִּוָּלֵד; וְלִפְנֵי גְבָעוֹת חוֹלָלְתָּ.",
+    "הַבְסוֹד אֱלוֹהַּ תִּשְׁמָע; וְתִגְרַע אֵלֶיךָ חָכְמָה.",
+    "מַה-יָּדַעְתָּ, וְלֹא נֵדָע; תָּבִין, וְלֹא-עִמָּנוּ הוּא.",
+    "גַּם-שָׂב גַּם-יָשִׁישׁ בָּנוּ-- כַּבִּיר מֵאָבִיךָ יָמִים.",
+    "הַמְעַט מִמְּךָ, תַּנְחוּמוֹת אֵל; וְדָבָר, לָאַט עִמָּךְ.",
+    "מַה-יִּקָּחֲךָ לִבֶּךָ; וּמַה-יִּרְזְמוּן עֵינֶיךָ.",
+    "כִּי-תָשִׁיב אֶל-אֵל רוּחֶךָ; וְהֹצֵאתָ מִפִּיךָ מִלִּין.",
+    "מָה-אֱנוֹשׁ כִּי-יִזְכֶּה; וְכִי-יִצְדַּק, יְלוּד אִשָּׁה.",
+    "הֵן בִּקְדֹשָׁו, לֹא יַאֲמִין; וְשָׁמַיִם, לֹא-זַכּוּ בְעֵינָיו.",
+    "אַף, כִּי-נִתְעָב וְנֶאֱלָח; אִישׁ-שֹׁתֶה כַמַּיִם עַוְלָה.",
+    "אֲחַוְךָ שְׁמַע-לִי; וְזֶה-חָזִיתִי, וַאֲסַפֵּרָה.",
+    "אֲשֶׁר-חֲכָמִים יַגִּידוּ; וְלֹא כִחֲדוּ, מֵאֲבוֹתָם.",
+    "לָהֶם לְבַדָּם, נִתְּנָה הָאָרֶץ; וְלֹא-עָבַר זָר בְּתוֹכָם.",
+    "כָּל-יְמֵי רָשָׁע, הוּא מִתְחוֹלֵל; וּמִסְפַּר שָׁנִים, נִצְפְּנוּ לֶעָרִיץ.",
+    "קוֹל-פְּחָדִים בְּאָזְנָיו; בַּשָּׁלוֹם, שׁוֹדֵד יְבוֹאֶנּוּ.",
+    "לֹא-יַאֲמִין שׁוּב, מִנִּי-חֹשֶׁךְ; וצפו וְצָפוּי הוּא אֱלֵי-חָרֶב.",
+    "נֹדֵד הוּא לַלֶּחֶם אַיֵּה; יָדַע, כִּי-נָכוֹן בְּיָדוֹ יוֹם-חֹשֶׁךְ.",
+    "יְבַעֲתֻהוּ, צַר וּמְצוּקָה; תִּתְקְפֵהוּ, כְּמֶלֶךְ עָתִיד לַכִּידוֹר.",
+    "כִּי-נָטָה אֶל-אֵל יָדוֹ; וְאֶל-שַׁדַּי, יִתְגַּבָּר.",
+    "יָרוּץ אֵלָיו בְּצַוָּאר; בַּעֲבִי, גַּבֵּי מָגִנָּיו.",
+    "כִּי-כִסָּה פָנָיו בְּחֶלְבּוֹ; וַיַּעַשׂ פִּימָה עֲלֵי-כָסֶל.",
+    "וַיִּשְׁכּוֹן, עָרִים נִכְחָדוֹת--בָּתִּים, לֹא-יֵשְׁבוּ לָמוֹ: אֲשֶׁר הִתְעַתְּדוּ לְגַלִּים.",
+    "לֹא-יֶעְשַׁר, וְלֹא-יָקוּם חֵילוֹ; וְלֹא-יִטֶּה לָאָרֶץ מִנְלָם.",
+    "לֹא-יָסוּר, מִנִּי-חֹשֶׁךְ--יֹנַקְתּוֹ, תְּיַבֵּשׁ שַׁלְהָבֶת; וְיָסוּר, בְּרוּחַ פִּיו.",
+    "אַל-יַאֲמֵן בַּשָּׁו נִתְעָה: כִּי-שָׁוְא, תִּהְיֶה תְמוּרָתוֹ.",
+    "בְּלֹא-יוֹמוֹ, תִּמָּלֵא; וְכִפָּתוֹ, לֹא רַעֲנָנָה.",
+    "יַחְמֹס כַּגֶּפֶן בִּסְרוֹ; וְיַשְׁלֵךְ כַּזַּיִת, נִצָּתוֹ.",
+    "כִּי-עֲדַת חָנֵף גַּלְמוּד; וְאֵשׁ, אָכְלָה אָהֳלֵי-שֹׁחַד.",
+    "הָרֹה עָמָל, וְיָלֹד אָוֶן; וּבִטְנָם, תָּכִין מִרְמָה."
+  ],
+  "english": [
+    "Then answered Eliphaz the Temanite, and said,",
+    "Should a wise man utter vain knowledge, and fill his belly with the east wind?",
+    "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?",
+    "Yea, thou castest off fear, and restrainest prayer before God.",
+    "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.",
+    "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.",
+    "Art thou the first man\nthat was born? or wast thou made before the hills?",
+    "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?",
+    "What knowest thou, that we know not?\nwhat understandest thou, which\nis not in us?",
+    "With us\nare both the grayheaded and very aged men, much elder than thy father.",
+    "Are the consolations of God small with thee? is there any secret thing with thee?",
+    "Why doth thine heart carry thee away? and what do thy eyes wink at,",
+    "That thou turnest thy spirit against God, and lettest\nsuch\n words go out of thy mouth?",
+    "What\nis man, that he should be clean? and\nhe which is\n born of a woman, that he should be righteous?",
+    "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.",
+    "How much more abominable and filthy\nis man, which drinketh iniquity like water?",
+    "I will shew thee, hear me; and that\nwhich I have seen I will declare;",
+    "Which wise men have told from their fathers, and have not hid\nit:",
+    "Unto whom alone the earth was given, and no stranger passed among them.",
+    "The wicked man travaileth with pain all\nhis days, and the number of years is hidden to the oppressor.",
+    "A dreadful sound\nis in his ears: in prosperity the destroyer shall come upon him.",
+    "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
+    "He wandereth abroad for bread,\nsaying, Where\nis it?\n he knoweth that the day of darkness is ready at his hand.",
+    "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
+    "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.",
+    "He runneth upon him,\neven on\nhis neck, upon the thick bosses of his bucklers:",
+    "Because he covereth his face with his fatness, and maketh collops of fat on\nhis flanks.",
+    "And he dwelleth in desolate cities,\nand in houses which no man inhabiteth, which are ready to become heaps.",
+    "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.",
+    "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.",
+    "Let not him that is deceived trust in vanity: for vanity shall be his recompence.",
+    "It shall be accomplished before his time, and his branch shall not be green.",
+    "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.",
+    "For the congregation of hypocrites\nshall be desolate, and fire shall consume the tabernacles of bribery.",
+    "They conceive mischief, and bring forth vanity, and their belly prepareth deceit."
+  ],
+  "steinsaltz": [
+    "וַיַּעַן אֱלִיפַז הַתֵּימָנִי וַיֹּאמַר׃",
+    "האם חָכָם יַעֲנֶה דַעַת־רוּחַ, דברי הבל, וִימַלֵּא ברוח קָדִים, מזרחית יבשה את בִּטְנוֹ?! כיצד בקרבך, אדם הנחשב חכם, אין שום חכמה ממשית?! עולים מבטנך דברי רוח ריקניים בלבד.",
+    "הוֹכֵחַ, אתה מוכיח, שופט בְּדָבָר שלֹא יִסְכּוֹן, יועיל, וּמשתמש במִלִּים לֹא־יוֹעִיל בָּם, חסרות תועלת.",
+    "אַף־אַתָּה בדבריך תָּפֵר יִרְאָה, יראת ה', וְתִגְרַע שִׂיחָה, שיחתך גרועה ופגומה לִפְנֵי־אֵל.",
+    "כִּי יְאַלֵּף, ילמֵד עֲוֹנְךָ את פִיךָ מה לומר. דבריך אינם נובעים מתוך לבו של האדם הצדיק שהכרתי בך, אלא הם מבטאים את החוטא שבך. וְזאת – אף על פי שאינך אומר בגלוי שום דבר איסור או כפירה, אלא תִבְחַר לְשׁוֹן עֲרוּמִים, שפה מתוחכמת המרמזת לדברים כאלה.",
+    "יַרְשִׁיעֲךָ פִיךָ, וְלֹא־אָנִי. די במה שאמרת אתה כדי להרשיעך, ואינני צריך להוסיף דבר. וּשְׂפָתֶיךָ שלך הן שיַעֲנוּ, יעידו בָךְ.",
+    "אתה מדבר בביטחון כאילו מעולם לא היה אדם כמוך. האם אתה רִאישׁוֹן אָדָם תִּוָּלֵד, הראשון שנולד בעולם?! וְהאם לִפְנֵי גְבָעוֹת חוֹלָלְתָּ, נוצרת?! האם לא הצטבר בעולם עד כה כל ניסיון וידע?! הרי יש ממי לשאול וללמוד. מהו מקור הידע הוודאי שלך?",
+    "האם בְסוֹד, במועצתו של אֱלוֹהַּ תִּשְׁמָע, ומשם תִגְרַע אֵלֶיךָ, אתה לוקח לעצמך פיסות חָכְמָה?!",
+    "מַה־יָּדַעְתָּ אתה וְלֹא נֵדָע אנחנו?! מה תָּבִין אתה וְלֹא־עִמָּנוּ, מצוי בתודעתנו הוּא?!",
+    "גַּם־שָׂב, סב, גַּם־יָשִׁישׁ בָּנוּ, בינינו, כַּבִּיר מֵאָבִיךָ יָמִים. אחד או אחדים מאתנו מבוגרים אפילו יותר מאביך.",
+    "הַמְעַט מִמְּךָ, האם לא די לך בתַּנְחוּמוֹת אֵל, בדברים הטובים שה' עשה לך עד כה, או: בדברינו המנחמים על ה'?! וְהאם אינך מסתפק בדָבָר שלָאַט, לחש ה' עִמָּךְ, לך, שגילה לך באמצעות רעיך?!",
+    "מַה, לאן יִּקָּחֲךָ, מושך אותך לִבֶּךָ, וּמַה־יִּרְזְמוּן, רומזות עֵינֶיךָ?!",
+    "כִּי, כאשר תָשִׁיב אֶל־אֵל רוּחֶךָ, תפנה אל ה', רק אז – וְהֹצֵאתָ מִפִּיךָ מִלִּין, מלים, כלומר מילות אמת.",
+    "מָה־אֱנוֹשׁ כִּי־יִזְכֶּה, וְכִי־יִצְדַּק יְלוּד אִשָּׁה?! האדם אינו יכול להיות חף וצדיק מכול וכול.",
+    "הֵן אפילו בִּקְדֹשָׁו, במלאכיו לֹא יַאֲמִין ה'. אף חסרונותיהם גלויים לפניו, ועל כן אין הוא סומך עליהם לחלוטין. ואפילו שָׁמַיִם לֹא־זַכּוּ, נקיים בְעֵינָיו.",
+    "אם במלאכים ובשרפים אין הוא בוטח – אַף כִּי, בוודאי לא יסמוך על אדם נִתְעָב וְנֶאֱלָח, מאוס ועל אִישׁ־שֹׁתֶה כַמַּיִם עַוְלָה, מי שנוהה אחר הפשע ומזין את עצמו בעוד ועוד חטאים.",
+    "אֲחַוְךָ, אספר לך – שְׁמַע־לִי. וְזֶה אשר חָזִיתִי, ראיתי בחזון או במחשבה וַאֲסַפֵּרָה.",
+    "אֲשֶׁר־חֲכָמִים יַגִּידוּ וְלֹא כִחֲדוּ, ואינם מסתירים את מה שקיבלו מֵאֲבוֹתָם,",
+    "אשר לָהֶם, לאבות הצדיקים וההגונים לְבַדָּם נִתְּנָה הָאָרֶץ, ניתן העולם, וְלֹא־עָבַר זָר בְּתוֹכָם. אם יש גם אחרים הנוחלים ארץ, אין הם נחשבים כלל:",
+    "כָּל־יְמֵי רָשָׁע הוּא מִתְחוֹלֵל, רועד ופוחד וּמִסְפַּר שָׁנִים נִצְפְּנוּ, נקבעו לאיש העָרִיץ, ועד קצו ההולך וקרב הוא חי חיי אימה.",
+    "קוֹל־פְּחָדִים הוא שומע תמיד בְּאָזְנָיו. ואפילו בּעת שָׁלוֹם, בזמנים שלווים שׁוֹדֵד יְבוֹאֶנּוּ.",
+    "לֹא־יַאֲמִין שישׁוּב מִנִּי, מן החֹשֶׁךְ, וְלמרות החושך צָפוּי הוּא אֱלֵי־חָרֶב, אוחז החרב רואה אותו.",
+    "נֹדֵד הוּא לַלֶּחֶם אַיֵּה, כדי למצוא איפה יש לחם, יָדַע כִּי־נָכוֹן בְּיָדוֹ, מוכן לו יוֹם־חֹשֶׁךְ.",
+    "יְבַעֲתֻהוּ, יבהילו אותו צַר, צרות, או: אויבים, וּמְצוּקָה תִּתְקְפֵהוּ כְּמֶלֶךְ העָתִיד, המתעתד לַכִּידוֹר, למצור.",
+    "כִּי־נָטָה הרשע הטיח אֶל־אֵל יָדוֹ, וְאֶל, כנגד שַׁדַּי יִתְגַּבָּר. הרשע נכון להילחם באלוקים:",
+    "יָרוּץ אֵלָיו – לעומת ה' בְּצַוָּאר, במצח נחושה, בַּעֲבִי גַּבֵּי מָגִנָּיו, במגִנים עבים וחשופים כלפיו.",
+    "עד כה חי הרשע חיים מדושני עונג. כִּי־כִסָּה פָנָיו בְּחֶלְבּוֹ, בשומן שלו. וַיַּעַשׂ פִּימָה, כפל שומן הדומה לפה, עֲלֵי־כָסֶל, חלציו. ואולם בעקבות חטאיו בא עונשו:",
+    "וַיִּשְׁכּוֹן בעָרִים נִכְחָדוֹת, במקומות שאינם מיושבים, ובתוך בָּתִּים לֹא־יֵשְׁבוּ לָמוֹ. במבנים אֲשֶׁר הִתְעַתְּדוּ, נועדו לְגַלִּים, עיי חרבות.",
+    "לֹא־יֶעְשַׁר, יתעשר וְלֹא־יָקוּם, יהיה קיום לחֵילוֹ, רכושו, ובגלל המחסור של הרשעים לֹא־יִטֶּה, יפנה לָאָרֶץ, לא יישאר דבר לזולתם מִנְלָם, משלהם.",
+    "לֹא־יָסוּר מִנִּי־חֹשֶׁךְ, ממקומו האפל; את יֹנַקְתּוֹ, השורש או השתיל שישלח, תְּיַבֵּשׁ שַׁלְהָבֶת, וְיָסוּר, ייעקר מהעולם בְּרוּחַ פִּיו של ה'.",
+    "אַל־יַאֲמֵן, לא כדאי לרשע להאמין בַּשָּׁוְא, בשקר ובהבל אשר נִתְעָה, תועים בו לפי שעה, כִּי־שָׁוְא תִּהְיֶה תְמוּרָתוֹ. שווא לא יוליד אלא שווא.",
+    "בְּלֹא־יוֹמוֹ תִּמָּלֵא שעתו. הוא ימות קודם זמנו, וְכִפָּתוֹ, צמרתו לֹא רַעֲנָנָה.",
+    "יַחְמֹס, יאבד כַּגֶּפֶן שטרם הבשילו אשכולותיה את בִּסְרוֹ, פרותיו בעודם בוסר, וְיַשְׁלֵךְ כַּזַּיִת נִצָּתוֹ, פרחיו. צאצאיו, חייו או מעשיו של הרשע יכלו קודם שיגיעו לכלל מימוש כענבי בוסר וכפרחי הזית הנושרים ומתפזרים, ובכך נמנעת הבשלתם לכדי פרי אכיל.",
+    "כִּי־עֲדַת חָנֵף, חברתם של הצבועים והרמאים – סופה גַּלְמוּד, בודדת ושוממה, וְאֵשׁ אָכְלָה, תאכל לבסוף את אָהֳלֵי, משכנותיהם של האנשים שנבנו בכספי שֹׁחַד.",
+    "הָרֹה, רשעים אלה זוממים, כביכול מתעברים בהרהורי עָמָל, חטא, וְעל כן יָלֹד, יולדים אָוֶן, רשע, וּבִטְנָם תָּכִין מִרְמָה."
+  ],
+  "ai_explanation": [
+    "אליפז התימני משיב ואומר.",
+    "אליפז שואל אם אדם חכם ישיב בדברי רוח והבל וימלא את בטנו ברוח קדים, כלומר בדברים ריקים וחסרי חכמה ממשית.",
+    "לדבריו, תוכחתו של איוב אינה מועילה, ומילותיו חסרות תועלת.",
+    "אליפז טוען שדברי איוב פוגעים ביראת ה' ומגרעים מערכה של שיחה ראויה לפני האל.",
+    "לדבריו, חטאו של איוב מלמד את פיו מה לומר, והוא בוחר בלשון מתוחכמת המרמזת לדברי איסור או כפירה.",
+    "אליפז אומר שפיו של איוב עצמו מרשיע אותו, ולכן אין צורך שאליפז יוסיף עליו; שפתיו מעידות בו.",
+    "איוב מדבר כאילו הוא הראשון שנולד וכאילו נוצר לפני הגבעות. אליפז שואל אם אין בעולם ניסיון וידע קדומים שמהם אפשר ללמוד.",
+    "אליפז שואל אם איוב שמע בסודו ובמועצתו של האל, ומשם לקח לעצמו פיסות חכמה.",
+    "הוא שואל מה יודע איוב שאינו ידוע להם, ומה הוא מבין שאינו מצוי גם בתודעתם.",
+    "אליפז מזכיר שביניהם יש אנשים זקנים וישישים, שאחד מהם או אחדים מהם מבוגרים אפילו מאביו של איוב.",
+    "אליפז שואל אם אין די לאיוב בתנחומי האל ובדברים המנחמים שקיבל, או בדבר שנאמר לו באמצעות רעיו.",
+    "הוא שואל מה מושך את לבו של איוב ולאן רומזות עיניו.",
+    "לדברי אליפז, כאשר איוב יפנה אל האל, רק אז יוציא מפיו מילות אמת.",
+    "אליפז קובע שהאדם אינו יכול להיות נקי וצדיק לחלוטין.",
+    "אפילו במלאכיו אין האל נותן אמון מוחלט, מפני שחסרונותיהם גלויים לפניו; ואף השמים אינם נקיים לגמרי בעיניו.",
+    "אם האל אינו בוטח במלאכים ובשרפים, קל וחומר שלא יסמוך על אדם מאוס וחוטא, הרודף אחר פשע ומרבה בחטאים.",
+    "אליפז מבקש מאיוב להקשיב לו ומציג דברים שראה בחזון או במחשבה.",
+    "הוא מביא דברים שחכמים מוסרים ואינם מסתירים את מה שקיבלו מאבותיהם.",
+    "לדבריו, הארץ או העולם ניתנו לאבות הצדיקים וההגונים בלבד, ומי שאינו ראוי אינו נחשב בין נוחליהם.",
+    "כל ימי הרשע עוברים עליו ברעד ובפחד, ומספר השנים שנקבע לאיש העריץ מוגבל עד קצו הקרב.",
+    "הרשע שומע תמיד קולות פחד באוזניו, וגם בזמן שלום מגיע אליו שודד.",
+    "הרשע אינו מאמין שיחזור מן החושך, ולמרות החושך בעל החרב רואה אותו והוא צפוי לה.",
+    "הרשע נודד לחפש לחם, בעודו יודע שיום חושך מוכן לו.",
+    "צרות, אויבים ומצוקה מבהילים ותוקפים אותו, כאילו מלך עומד להתכונן למצור.",
+    "הרשע מטיח את ידו אל האל ונכון להילחם בו, כלומר הוא מתריס כנגד שדי.",
+    "הרשע רץ נגד האל במצח נחושה ומתגונן בפניו במגנים עבים המופנים כלפיו.",
+    "הרשע חי עד כה חיי עונג ושומן, אך בעקבות חטאיו מגיע עונשו.",
+    "הרשע שוכן בערים חרבות ובבתים שאינם מיושבים, שנועדו להיות עיי חורבות.",
+    "הרשע לא יתעשר ולא יתקיים רכושו; דבר משלו לא יישאר לאחרים.",
+    "הרשע לא יינצל ממקומו האפל, והשורש או השתיל שלו יתייבש בלהבת אש וייעקר מן העולם ברוח ה'.",
+    "אל לו לרשע להאמין בשקר ובהבל שבהם הוא תועה, כי תוצאתם תהיה שווא.",
+    "שעתו של הרשע תבוא בטרם יומו, והוא ימות קודם זמנו; צמרתו לא תהיה רעננה.",
+    "הרשע יאבד את פירותיו בעודם בוסר, כגפן, וישליך את פרחיו כזית. כך צאצאיו, חייו או מעשיו יכלו לפני שיבשילו.",
+    "חברת הצבועים והרמאים תישאר לבסוף בודדה ושוממה, ואש תאכל את משכנותיהם של מי שבנו אותם בכספי שוחד.",
+    "הרשעים זוממים חטא כאילו הם מתעברים בו, יולדים רשע, ובקרבם מתכוננת מרמה."
+  ],
+  "ai_explanation_en": [
+    "Eliphaz the Temanite answers and speaks.",
+    "Eliphaz asks whether a wise person should answer with empty words and fill his belly with east wind—that is, with hollow and unwise speech.",
+    "He says that Job’s rebuke is useless and that his words have no benefit.",
+    "Eliphaz claims that Job’s words undermine fear of God and diminish the value of proper speech before God.",
+    "He says that Job’s sin teaches his mouth what to say, and that he chooses clever language hinting at forbidden or heretical ideas.",
+    "Eliphaz says that Job’s own mouth condemns him, so Eliphaz need add nothing; Job’s lips testify against him.",
+    "Job speaks as though he were the first human ever born and created before the hills. Eliphaz asks whether the world has not accumulated earlier experience and knowledge from which one can learn.",
+    "Eliphaz asks whether Job has heard God’s secret counsel and taken fragments of wisdom from it for himself.",
+    "He asks what Job knows that they do not know, and what he understands that is not also present in their awareness.",
+    "Eliphaz points out that among them are old and aged people, one or more of whom are even older than Job’s father.",
+    "Eliphaz asks whether Job is not satisfied with God’s consolations and with the comforting words he has received, or with the message conveyed to him through his friends.",
+    "He asks what is drawing Job’s heart and what his eyes are hinting at.",
+    "According to Eliphaz, when Job turns to God, only then will he utter truthful words.",
+    "Eliphaz declares that a human being cannot be completely pure and righteous.",
+    "Even regarding His angels God does not have complete trust, because their shortcomings are visible before Him; even the heavens are not entirely pure in His eyes.",
+    "If God does not trust angels and seraphim, all the more will He not rely on a repulsive and sinful person who pursues crime and continually adds to his sins.",
+    "Eliphaz asks Job to listen to him and presents what he has seen in vision or thought.",
+    "He reports what wise people transmit and do not conceal from what they received from their ancestors.",
+    "He says that the land or world was given only to righteous and worthy ancestors, while those who are unworthy are not counted among its heirs.",
+    "All the wicked person’s days pass in trembling and fear, and the number of years allotted to the tyrant is limited until his approaching end.",
+    "The wicked person constantly hears sounds of fear in his ears, and even in peaceful times a robber comes upon him.",
+    "The wicked person does not believe that he will return from the darkness, and despite the darkness the sword-bearer sees him and he is destined for the sword.",
+    "The wicked person wanders in search of bread while knowing that a day of darkness awaits him.",
+    "Trouble, enemies, and distress terrify and attack him, as though a king were preparing for a siege.",
+    "The wicked person raises his hand against God and is ready to fight Him; he defies Shaddai.",
+    "The wicked person rushes against God boldly and protects himself with thick shields held toward Him.",
+    "The wicked person has so far lived a life of pleasure and fatness, but because of his sins punishment comes upon him.",
+    "The wicked person dwells in ruined cities and uninhabited houses destined to become heaps of ruins.",
+    "The wicked person will not become rich, and his possessions will not endure; nothing of his will remain for others.",
+    "The wicked person will not escape his dark place, and his root or shoot will dry up in flame and be uprooted from the world by God’s breath.",
+    "The wicked person should not trust in the falsehood and vanity in which he wanders, because their result will be emptiness.",
+    "His time will come before his proper day, and he will die prematurely; his crown will not remain fresh.",
+    "The wicked person will lose his fruit while it is still unripe, like a vine, and shed his blossoms like an olive tree. Thus his descendants, life, or works will perish before reaching maturity.",
+    "The company of hypocrites and deceivers will ultimately become solitary and desolate, and fire will consume the dwellings of those who built them with bribes.",
+    "These wicked people conceive wrongdoing as though carrying it in the womb, give birth to evil, and prepare deceit within themselves."
+  ],
+  "perush": [
+    "אליפז התימני משיב ואומר.",
+    "אליפז שואל אם אדם חכם ישיב בדברי רוח והבל וימלא את בטנו ברוח קדים, כלומר בדברים ריקים וחסרי חכמה ממשית.",
+    "לדבריו, תוכחתו של איוב אינה מועילה, ומילותיו חסרות תועלת.",
+    "אליפז טוען שדברי איוב פוגעים ביראת ה' ומגרעים מערכה של שיחה ראויה לפני האל.",
+    "לדבריו, חטאו של איוב מלמד את פיו מה לומר, והוא בוחר בלשון מתוחכמת המרמזת לדברי איסור או כפירה.",
+    "אליפז אומר שפיו של איוב עצמו מרשיע אותו, ולכן אין צורך שאליפז יוסיף עליו; שפתיו מעידות בו.",
+    "איוב מדבר כאילו הוא הראשון שנולד וכאילו נוצר לפני הגבעות. אליפז שואל אם אין בעולם ניסיון וידע קדומים שמהם אפשר ללמוד.",
+    "אליפז שואל אם איוב שמע בסודו ובמועצתו של האל, ומשם לקח לעצמו פיסות חכמה.",
+    "הוא שואל מה יודע איוב שאינו ידוע להם, ומה הוא מבין שאינו מצוי גם בתודעתם.",
+    "אליפז מזכיר שביניהם יש אנשים זקנים וישישים, שאחד מהם או אחדים מהם מבוגרים אפילו מאביו של איוב.",
+    "אליפז שואל אם אין די לאיוב בתנחומי האל ובדברים המנחמים שקיבל, או בדבר שנאמר לו באמצעות רעיו.",
+    "הוא שואל מה מושך את לבו של איוב ולאן רומזות עיניו.",
+    "לדברי אליפז, כאשר איוב יפנה אל האל, רק אז יוציא מפיו מילות אמת.",
+    "אליפז קובע שהאדם אינו יכול להיות נקי וצדיק לחלוטין.",
+    "אפילו במלאכיו אין האל נותן אמון מוחלט, מפני שחסרונותיהם גלויים לפניו; ואף השמים אינם נקיים לגמרי בעיניו.",
+    "אם האל אינו בוטח במלאכים ובשרפים, קל וחומר שלא יסמוך על אדם מאוס וחוטא, הרודף אחר פשע ומרבה בחטאים.",
+    "אליפז מבקש מאיוב להקשיב לו ומציג דברים שראה בחזון או במחשבה.",
+    "הוא מביא דברים שחכמים מוסרים ואינם מסתירים את מה שקיבלו מאבותיהם.",
+    "לדבריו, הארץ או העולם ניתנו לאבות הצדיקים וההגונים בלבד, ומי שאינו ראוי אינו נחשב בין נוחליהם.",
+    "כל ימי הרשע עוברים עליו ברעד ובפחד, ומספר השנים שנקבע לאיש העריץ מוגבל עד קצו הקרב.",
+    "הרשע שומע תמיד קולות פחד באוזניו, וגם בזמן שלום מגיע אליו שודד.",
+    "הרשע אינו מאמין שיחזור מן החושך, ולמרות החושך בעל החרב רואה אותו והוא צפוי לה.",
+    "הרשע נודד לחפש לחם, בעודו יודע שיום חושך מוכן לו.",
+    "צרות, אויבים ומצוקה מבהילים ותוקפים אותו, כאילו מלך עומד להתכונן למצור.",
+    "הרשע מטיח את ידו אל האל ונכון להילחם בו, כלומר הוא מתריס כנגד שדי.",
+    "הרשע רץ נגד האל במצח נחושה ומתגונן בפניו במגנים עבים המופנים כלפיו.",
+    "הרשע חי עד כה חיי עונג ושומן, אך בעקבות חטאיו מגיע עונשו.",
+    "הרשע שוכן בערים חרבות ובבתים שאינם מיושבים, שנועדו להיות עיי חורבות.",
+    "הרשע לא יתעשר ולא יתקיים רכושו; דבר משלו לא יישאר לאחרים.",
+    "הרשע לא יינצל ממקומו האפל, והשורש או השתיל שלו יתייבש בלהבת אש וייעקר מן העולם ברוח ה'.",
+    "אל לו לרשע להאמין בשקר ובהבל שבהם הוא תועה, כי תוצאתם תהיה שווא.",
+    "שעתו של הרשע תבוא בטרם יומו, והוא ימות קודם זמנו; צמרתו לא תהיה רעננה.",
+    "הרשע יאבד את פירותיו בעודם בוסר, כגפן, וישליך את פרחיו כזית. כך צאצאיו, חייו או מעשיו יכלו לפני שיבשילו.",
+    "חברת הצבועים והרמאים תישאר לבסוף בודדה ושוממה, ואש תאכל את משכנותיהם של מי שבנו אותם בכספי שוחד.",
+    "הרשעים זוממים חטא כאילו הם מתעברים בו, יולדים רשע, ובקרבם מתכוננת מרמה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "תוכחת אליפז על דברי איוב",
+      "title_en": "Eliphaz Rebukes Job’s Words",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "אליפז טוען שדברי איוב ריקים, חסרי תועלת ופוגעים ביראת האל. לדבריו, פיו ושפתיו של איוב עצמו מעידים ומרשיעים אותו.",
+      "summary_en": "Eliphaz claims that Job’s words are empty, useless, and damaging to reverence for God. In his view, Job’s own mouth and lips testify against and condemn him.",
+      "image_prompt": "A symbolic biblical scene of a serious speaker confronting a suffering man, with empty wind and broken speech represented visually, restrained ancient Near Eastern atmosphere, no readable text"
+    },
+    {
+      "title": "הוויכוח על מקור החכמה",
+      "title_en": "The Debate over the Source of Wisdom",
+      "start_verse": 7,
+      "end_verse": 13,
+      "summary": "אליפז דוחה את ביטחונו של איוב בייחודיות דעתו. הוא מזכיר את ניסיון הזקנים וטוען שאיוב אינו מחזיק בחכמה סודית שאינה ידועה לאחרים.",
+      "summary_en": "Eliphaz rejects Job’s confidence in the uniqueness of his knowledge. He invokes the experience of the elders and argues that Job possesses no secret wisdom unknown to others.",
+      "image_prompt": "A symbolic gathering of elders and a younger disputant beneath distant hills, visualizing accumulated wisdom and a questioning gesture toward hidden counsel, biblical illustration, no readable text"
+    },
+    {
+      "title": "אי־טוהר האדם",
+      "title_en": "Human Impurity",
+      "start_verse": 14,
+      "end_verse": 16,
+      "summary": "אליפז קובע שהאדם אינו יכול להיות צדיק וטהור לחלוטין. אפילו המלאכים והשמים אינם נקיים לגמרי בעיני האל, ולכן קל וחומר האדם החוטא.",
+      "summary_en": "Eliphaz declares that a human being cannot be completely righteous and pure. Even angels and the heavens are not entirely pure before God, so this is even more true of sinful humanity.",
+      "image_prompt": "A symbolic contrast between a human figure, luminous heavenly beings, and the heavens beneath a divine gaze, conveying imperfect purity without depicting God directly, biblical art style"
+    },
+    {
+      "title": "המסורת שבפי החכמים",
+      "title_en": "Wisdom Handed Down by the Sages",
+      "start_verse": 17,
+      "end_verse": 19,
+      "summary": "אליפז מציג את דבריו כראייה שקיבל מתוך חזון או מחשבה וכמסורת שמסרו חכמים מאבותיהם. הוא מתאר את האבות הצדיקים כמי שניתנה להם הארץ או העולם.",
+      "summary_en": "Eliphaz presents his words as insight gained through vision or thought and as a tradition transmitted by sages from their ancestors. He describes the righteous ancestors as those to whom the land or world was given.",
+      "image_prompt": "Wise elders passing spoken tradition to one another in a quiet symbolic setting, with a broad landscape representing the world entrusted to the righteous, no historical claims, no readable text"
+    },
+    {
+      "title": "פחדיו וחייו של הרשע",
+      "title_en": "The Wicked Person’s Fearful Life",
+      "start_verse": 20,
+      "end_verse": 24,
+      "summary": "הרשע חי ברעד ובפחד, שומע איומים גם בזמן שלום, נודד אחר לחם ויודע שיום חושך מוכן לו. צרות ומצוקה תוקפות אותו כאילו מצור עומד בפתח.",
+      "summary_en": "The wicked person lives in trembling and fear, hearing threats even in peaceful times, wandering in search of bread, and knowing that a dark day awaits him. Trouble and distress attack him as though a siege were approaching.",
+      "image_prompt": "A lone fearful wanderer moving through a dark landscape while distant threats close in, sparse bread imagery and looming siege-like shadows, symbolic biblical illustration, no readable text"
+    },
+    {
+      "title": "התרסת הרשע נגד האל",
+      "title_en": "The Wicked Person Defies God",
+      "start_verse": 25,
+      "end_verse": 26,
+      "summary": "אליפז מתאר את הרשע כמי שמתריס נגד האל ונכון להילחם בו. הוא רץ אליו במצח נחושה ומתגונן במגנים עבים.",
+      "summary_en": "Eliphaz portrays the wicked person as defying God and being ready to fight Him. He rushes forward boldly and shields himself with thick defenses.",
+      "image_prompt": "A symbolic defiant figure advancing against an unseen divine presence behind heavy shields, dramatic but nonliteral biblical composition, no readable text"
+    },
+    {
+      "title": "עושר מדומה וחורבן",
+      "title_en": "False Prosperity and Ruin",
+      "start_verse": 27,
+      "end_verse": 30,
+      "summary": "הרשע נהנה תחילה משפע ומחיי עונג, אך לבסוף שוכן במקומות חרבים, מאבד את רכושו ונעקר מן העולם. שורשו מתייבש ונעלם בחשכה וברוח האל.",
+      "summary_en": "The wicked person initially enjoys abundance and luxury, but ultimately dwells in ruins, loses his wealth, and is uprooted from the world. His root dries up and disappears in darkness and by God’s breath.",
+      "image_prompt": "A visual transition from a prosperous figure with abundant fullness to abandoned houses, a dried root, and extinguished flame, symbolic biblical scene, no readable text"
+    },
+    {
+      "title": "סופו של השקר והרשע",
+      "title_en": "The End of Falsehood and Wickedness",
+      "start_verse": 31,
+      "end_verse": 35,
+      "summary": "אליפז מסיים בתיאור תוצאות השווא, המוות המוקדם, אובדן הפרי, בדידות חברת הרשעים ואכילת משכנות השוחד באש. הרשעים מתוארים כמי שהוגים חטא, מולידים רשע ומכינים מרמה.",
+      "summary_en": "Eliphaz concludes with the consequences of vanity: premature death, loss of fruit, the isolation of the wicked community, and the destruction by fire of bribe-built dwellings. The wicked are portrayed as conceiving sin, giving birth to evil, and preparing deceit.",
+      "image_prompt": "A symbolic sequence of fallen unripe fruit, a withered crown, an isolated ruined camp, and flames consuming corrupt dwellings, solemn biblical illustration, no readable text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 6.82,
+      "usfm": "JOB.15.1"
+    },
+    {
+      "start": 6.82,
+      "end": 12.98,
+      "usfm": "JOB.15.2"
+    },
+    {
+      "start": 12.98,
+      "end": 19.0,
+      "usfm": "JOB.15.3"
+    },
+    {
+      "start": 19.0,
+      "end": 24.4,
+      "usfm": "JOB.15.4"
+    },
+    {
+      "start": 24.4,
+      "end": 29.94,
+      "usfm": "JOB.15.5"
+    },
+    {
+      "start": 29.94,
+      "end": 36.32,
+      "usfm": "JOB.15.6"
+    },
+    {
+      "start": 36.32,
+      "end": 41.34,
+      "usfm": "JOB.15.7"
+    },
+    {
+      "start": 41.34,
+      "end": 47.2,
+      "usfm": "JOB.15.8"
+    },
+    {
+      "start": 47.2,
+      "end": 53.74,
+      "usfm": "JOB.15.9"
+    },
+    {
+      "start": 53.74,
+      "end": 59.42,
+      "usfm": "JOB.15.10"
+    },
+    {
+      "start": 59.42,
+      "end": 65.44,
+      "usfm": "JOB.15.11"
+    },
+    {
+      "start": 65.44,
+      "end": 70.86,
+      "usfm": "JOB.15.12"
+    },
+    {
+      "start": 70.86,
+      "end": 76.94,
+      "usfm": "JOB.15.13"
+    },
+    {
+      "start": 76.94,
+      "end": 82.48,
+      "usfm": "JOB.15.14"
+    },
+    {
+      "start": 82.48,
+      "end": 88.5,
+      "usfm": "JOB.15.15"
+    },
+    {
+      "start": 88.5,
+      "end": 93.42,
+      "usfm": "JOB.15.16"
+    },
+    {
+      "start": 93.42,
+      "end": 98.5,
+      "usfm": "JOB.15.17"
+    },
+    {
+      "start": 98.5,
+      "end": 102.6,
+      "usfm": "JOB.15.18"
+    },
+    {
+      "start": 102.6,
+      "end": 106.72,
+      "usfm": "JOB.15.19"
+    },
+    {
+      "start": 106.72,
+      "end": 113.04,
+      "usfm": "JOB.15.20"
+    },
+    {
+      "start": 113.04,
+      "end": 118.66,
+      "usfm": "JOB.15.21"
+    },
+    {
+      "start": 118.66,
+      "end": 124.54,
+      "usfm": "JOB.15.22"
+    },
+    {
+      "start": 124.54,
+      "end": 131.76,
+      "usfm": "JOB.15.23"
+    },
+    {
+      "start": 131.76,
+      "end": 137.02,
+      "usfm": "JOB.15.24"
+    },
+    {
+      "start": 137.02,
+      "end": 142.78,
+      "usfm": "JOB.15.25"
+    },
+    {
+      "start": 142.78,
+      "end": 147.56,
+      "usfm": "JOB.15.26"
+    },
+    {
+      "start": 147.56,
+      "end": 153.04,
+      "usfm": "JOB.15.27"
+    },
+    {
+      "start": 153.04,
+      "end": 160.0,
+      "usfm": "JOB.15.28"
+    },
+    {
+      "start": 160.0,
+      "end": 167.26,
+      "usfm": "JOB.15.29"
+    },
+    {
+      "start": 167.26,
+      "end": 175.12,
+      "usfm": "JOB.15.30"
+    },
+    {
+      "start": 175.12,
+      "end": 181.3,
+      "usfm": "JOB.15.31"
+    },
+    {
+      "start": 181.3,
+      "end": 186.5,
+      "usfm": "JOB.15.32"
+    },
+    {
+      "start": 186.5,
+      "end": 193.16,
+      "usfm": "JOB.15.33"
+    },
+    {
+      "start": 193.16,
+      "end": 200.68,
+      "usfm": "JOB.15.34"
+    },
+    {
+      "start": 200.68,
+      "end": 215.16,
+      "usfm": "JOB.15.35"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    6.82,
+    12.98,
+    19.0,
+    24.4,
+    29.94,
+    36.32,
+    41.34,
+    47.2,
+    53.74,
+    59.42,
+    65.44,
+    70.86,
+    76.94,
+    82.48,
+    88.5,
+    93.42,
+    98.5,
+    102.6,
+    106.72,
+    113.04,
+    118.66,
+    124.54,
+    131.76,
+    137.02,
+    142.78,
+    147.56,
+    153.04,
+    160.0,
+    167.26,
+    175.12,
+    181.3,
+    186.5,
+    193.16,
+    200.68,
+    215.16
+  ],
+  "times_en_usfm": [
+    "JOB.15.1",
+    "JOB.15.2",
+    "JOB.15.3",
+    "JOB.15.4",
+    "JOB.15.5",
+    "JOB.15.6",
+    "JOB.15.7",
+    "JOB.15.8",
+    "JOB.15.9",
+    "JOB.15.10",
+    "JOB.15.11",
+    "JOB.15.12",
+    "JOB.15.13",
+    "JOB.15.14",
+    "JOB.15.15",
+    "JOB.15.16",
+    "JOB.15.17",
+    "JOB.15.18",
+    "JOB.15.19",
+    "JOB.15.20",
+    "JOB.15.21",
+    "JOB.15.22",
+    "JOB.15.23",
+    "JOB.15.24",
+    "JOB.15.25",
+    "JOB.15.26",
+    "JOB.15.27",
+    "JOB.15.28",
+    "JOB.15.29",
+    "JOB.15.30",
+    "JOB.15.31",
+    "JOB.15.32",
+    "JOB.15.33",
+    "JOB.15.34",
+    "JOB.15.35"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בפרק זה אליפז התימני משיב לאיוב וממשיך את הוויכוח ביניהם על משמעות סבלו של איוב ועל דרכי האל.",
+      "text_he": "הידעת? בפרק זה אליפז התימני משיב לאיוב וממשיך את הוויכוח ביניהם על משמעות סבלו של איוב ועל דרכי האל.",
+      "text_en": "Did you know? In this chapter, Eliphaz the Temanite responds to Job and continues their debate about the meaning of Job’s suffering and God’s ways."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? אליפז טוען שדברי תוכחה רבים אינם מועילים כאשר הם אינם מחזקים את יראת האל, ואף עלולים להיות חסרי תועלת.",
+      "text_he": "הידעת? אליפז טוען שדברי תוכחה רבים אינם מועילים כאשר הם אינם מחזקים את יראת האל, ואף עלולים להיות חסרי תועלת.",
+      "text_en": "Did you know? Eliphaz argues that many words of rebuke are useless when they do not strengthen reverence for God and may even be of no benefit."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? אליפז משתמש בשאלות רטוריות כדי לדחות את תחושת הייחודיות של איוב, ושואל אם איוב היה האדם הראשון שנולד או אם היה נוכח בבריאת העולם.",
+      "text_he": "הידעת? אליפז משתמש בשאלות רטוריות כדי לדחות את תחושת הייחודיות של איוב, ושואל אם איוב היה האדם הראשון שנולד או אם היה נוכח בבריאת העולם.",
+      "text_en": "Did you know? Eliphaz uses rhetorical questions to challenge Job’s sense of uniqueness, asking whether Job was the first human ever born or was present at the creation of the world."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? אליפז מסתמך על חכמת הזקנים וטוען שגם בין שומעיו יש אנשים מבוגרים ממנו ומנוסים ממנו.",
+      "text_he": "הידעת? אליפז מסתמך על חכמת הזקנים וטוען שגם בין שומעיו יש אנשים מבוגרים ממנו ומנוסים ממנו.",
+      "text_en": "Did you know? Eliphaz appeals to the wisdom of the elders, claiming that even among his listeners there are people older and more experienced than Job."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? אליפז מציג את האדם כיצור שאינו יכול לטעון לטוהר ולצדקה מוחלטים, משום שהוא ילוד אישה.",
+      "text_he": "הידעת? אליפז מציג את האדם כיצור שאינו יכול לטעון לטוהר ולצדקה מוחלטים, משום שהוא ילוד אישה.",
+      "text_en": "Did you know? Eliphaz presents human beings as unable to claim absolute purity and righteousness because they are born of woman."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? אליפז מרחיב את טענתו ואומר שאפילו הקדושים והשמים אינם נחשבים טהורים לחלוטין בעיני האל; זו עמדתו במסגרת הוויכוח, ולא תיאור מוסכם על כל דעות ספר איוב.",
+      "text_he": "הידעת? אליפז מרחיב את טענתו ואומר שאפילו הקדושים והשמים אינם נחשבים טהורים לחלוטין בעיני האל; זו עמדתו במסגרת הוויכוח, ולא תיאור מוסכם על כל דעות ספר איוב.",
+      "text_en": "Did you know? Eliphaz extends his argument by saying that even the holy ones and the heavens are not considered completely pure in God’s sight; this is his position in the debate, not a view presented as universally accepted throughout the Book of Job."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? אליפז מציג את דבריו כידע שהוא עומד לספר מתוך מה שראה ושמע, ומייחס אותם למסורת שעברה בין חכמים מאבותיהם.",
+      "text_he": "הידעת? אליפז מציג את דבריו כידע שהוא עומד לספר מתוך מה שראה ושמע, ומייחס אותם למסורת שעברה בין חכמים מאבותיהם.",
+      "text_en": "Did you know? Eliphaz presents his words as knowledge he is about to share from what he has seen and heard, attributing them to a tradition passed down among the wise from their ancestors."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בתיאור אליפז, הרשע חי כל ימיו בפחד ובסערה פנימית, גם כאשר כלפי חוץ שורר שלום.",
+      "text_he": "הידעת? בתיאור אליפז, הרשע חי כל ימיו בפחד ובסערה פנימית, גם כאשר כלפי חוץ שורר שלום.",
+      "text_en": "Did you know? In Eliphaz’s description, the wicked live their entire lives in fear and inner turmoil, even when there is outward peace."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? אליפז מתאר את הרשע כמי שמרים את ידו נגד האל ומנסה להתייצב מולו בעזרת מגנים עבים, תמונה המבטאת מרד והתרסה.",
+      "text_he": "הידעת? אליפז מתאר את הרשע כמי שמרים את ידו נגד האל ומנסה להתייצב מולו בעזרת מגנים עבים, תמונה המבטאת מרד והתרסה.",
+      "text_en": "Did you know? Eliphaz describes the wicked person as raising his hand against God and trying to confront Him with thick shields—a picture of rebellion and defiance."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? בסיום הפרק אליפז מזהיר שהבוטח בשווא לא יפיק ממנו תועלת, ומתאר את סופו של הרשע באמצעות דימויים של פרי שאינו מבשיל, ענף שמתייבש ומרמה שנולדת בלב.",
+      "text_he": "הידעת? בסיום הפרק אליפז מזהיר שהבוטח בשווא לא יפיק ממנו תועלת, ומתאר את סופו של הרשע באמצעות דימויים של פרי שאינו מבשיל, ענף שמתייבש ומרמה שנולדת בלב.",
+      "text_en": "Did you know? At the end of the chapter, Eliphaz warns that those who trust in what is worthless will gain nothing from it, and he describes the wicked person’s end using images of fruit that never ripens, a withering branch, and deceit conceived in the heart."
+    }
+  ]
+}

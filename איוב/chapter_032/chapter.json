@@ -1,0 +1,424 @@
+{
+  "book": "Job",
+  "book_he": "איוב",
+  "book_chapters": 42,
+  "chapter": 32,
+  "title": "איוב פרק 32",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2732.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t2732.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOB/32-21fec206bfe95cd91edcf9ee6efc6ce1.mp3?version_id=1",
+  "verses": [
+    "וַיִּשְׁבְּתוּ, שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה-- מֵעֲנוֹת אֶת-אִיּוֹב: כִּי הוּא צַדִּיק בְּעֵינָיו.",
+    "וַיִּחַר אַף, אֱלִיהוּא בֶן-בַּרַכְאֵל הַבּוּזִי-- מִמִּשְׁפַּחַת-רָם: בְּאִיּוֹב, חָרָה אַפּוֹ-- עַל-צַדְּקוֹ נַפְשׁוֹ, מֵאֱלֹהִים.",
+    "וּבִשְׁלֹשֶׁת רֵעָיו, חָרָה אַפּוֹ: עַל אֲשֶׁר לֹא-מָצְאוּ מַעֲנֶה-- וַיַּרְשִׁיעוּ, אֶת-אִיּוֹב.",
+    "וֶאֱלִיהוּ--חִכָּה אֶת-אִיּוֹב, בִּדְבָרִים: כִּי זְקֵנִים-הֵמָּה מִמֶּנּוּ לְיָמִים.",
+    "וַיַּרְא אֱלִיהוּא--כִּי אֵין מַעֲנֶה, בְּפִי שְׁלֹשֶׁת הָאֲנָשִׁים; וַיִּחַר אַפּוֹ.",
+    "וַיַּעַן, אֱלִיהוּא בֶן-בַּרַכְאֵל הַבּוּזִי-- וַיֹּאמַר: צָעִיר אֲנִי לְיָמִים, וְאַתֶּם יְשִׁישִׁים; עַל-כֵּן זָחַלְתִּי וָאִירָא, מֵחַוֺּת דֵּעִי אֶתְכֶם.",
+    "אָמַרְתִּי, יָמִים יְדַבֵּרוּ; וְרֹב שָׁנִים, יֹדִיעוּ חָכְמָה.",
+    "אָכֵן, רוּחַ-הִיא בֶאֱנוֹשׁ; וְנִשְׁמַת שַׁדַּי תְּבִינֵם.",
+    "לֹא-רַבִּים יֶחְכָּמוּ; וּזְקֵנִים, יָבִינוּ מִשְׁפָּט.",
+    "לָכֵן אָמַרְתִּי, שִׁמְעָה-לִּי; אֲחַוֶּה דֵעִי אַף-אָנִי.",
+    "הֵן הוֹחַלְתִּי, לְדִבְרֵיכֶם--אָזִין, עַד-תְּבוּנֹתֵיכֶם: עַד-תַּחְקְרוּן מִלִּין.",
+    "וְעָדֵיכֶם, אֶתְבּוֹנָן: וְהִנֵּה אֵין לְאִיּוֹב מוֹכִיחַ--עוֹנֶה אֲמָרָיו מִכֶּם.",
+    "פֶּן-תֹּאמְרוּ, מָצָאנוּ חָכְמָה; אֵל יִדְּפֶנּוּ לֹא-אִישׁ.",
+    "וְלֹא-עָרַךְ אֵלַי מִלִּין; וּבְאִמְרֵיכֶם, לֹא אֲשִׁיבֶנּוּ.",
+    "חַתּוּ, לֹא-עָנוּ עוֹד; הֶעְתִּיקוּ מֵהֶם מִלִּים.",
+    "וְהוֹחַלְתִּי, כִּי-לֹא יְדַבֵּרוּ: כִּי עָמְדוּ, לֹא-עָנוּ עוֹד.",
+    "אַעֲנֶה אַף-אֲנִי חֶלְקִי; אֲחַוֶּה דֵעִי אַף-אָנִי.",
+    "כִּי, מָלֵתִי מִלִּים; הֱצִיקַתְנִי, רוּחַ בִּטְנִי.",
+    "הִנֵּה-בִטְנִי--כְּיַיִן לֹא-יִפָּתֵחַ; כְּאֹבוֹת חֲדָשִׁים, יִבָּקֵעַ.",
+    "אֲדַבְּרָה וְיִרְוַח-לִי; אֶפְתַּח שְׂפָתַי וְאֶעֱנֶה.",
+    "אַל-נָא, אֶשָּׂא פְנֵי-אִישׁ; וְאֶל-אָדָם, לֹא אֲכַנֶּה.",
+    "כִּי לֹא יָדַעְתִּי אֲכַנֶּה; כִּמְעַט, יִשָּׂאֵנִי עֹשֵׂנִי."
+  ],
+  "english": [
+    "So these three men ceased to answer Job, because he\nwas righteous in his own eyes.",
+    "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.",
+    "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.",
+    "Now Elihu had waited till Job had spoken, because they were elder than he.",
+    "When Elihu saw that\nthere was no answer in the mouth of\nthese three men, then his wrath was kindled.",
+    "And Elihu the son of Barachel the Buzite answered and said, I\nam\n young, and ye\nare very old; wherefore I was afraid, and durst not shew you mine opinion.",
+    "I said, Days should speak, and multitude of years should teach wisdom.",
+    "But\nthere is a spirit in man: and the inspiration of the Almighty giveth them understanding.",
+    "Great men are not\nalways wise: neither do the aged understand judgment.",
+    "Therefore I said, Hearken to me; I also will shew mine opinion.",
+    "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.",
+    "Yea, I attended unto you, and, behold,\nthere was none of you that convinced Job, or that answered his words:",
+    "Lest ye should say, We have found out wisdom: God thrusteth him down, not man.",
+    "Now he hath not directed\nhis words against me: neither will I answer him with your speeches.",
+    "They were amazed, they answered no more: they left off speaking.",
+    "When I had waited, (for they spake not, but stood still,\nand\n answered no more;)",
+    "I said, I will answer also my part, I also will shew mine opinion.",
+    "For I am full of matter, the spirit within me constraineth me.",
+    "Behold, my belly\nis as wine\nwhich hath no vent; it is ready to burst like new bottles.",
+    "I will speak, that I may be refreshed: I will open my lips and answer.",
+    "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.",
+    "For I know not to give flattering titles;\nin so doing my maker would soon take me away."
+  ],
+  "steinsaltz": [
+    "וַיִּשְׁבְּתוּ, פסקו שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה מלעֲנוֹת אֶת־אִיּוֹב, כִּי הבינו שאיוב לא ישתכנע מדבריהם, וכי הוּא צַדִּיק בְּעֵינָיו, ובטוח בצדקתו.",
+    "וַיִּחַר אַף, כעס אֱלִיהוּא בֶן־בַּרַכְאֵל הַבּוּזִי מִמִּשְׁפַּחַת רָם – בְּאִיּוֹב חָרָה אַפּוֹ עַל־צַדְּקוֹ נַפְשׁוֹ יותר מֵאֱלֹהִים,",
+    "ואילו בִשְׁלֹשֶׁת רֵעָיו חָרָה אַפּוֹ עַל אֲשֶׁר לֹא־מָצְאוּ מַעֲנֶה למצוקתו של איוב, ומשום כך – וַיַּרְשִׁיעוּ אֶת־אִיּוֹב.",
+    "וֶאֱלִיהוּ חִכָּה עד כה אֶת, ליד אִיּוֹב בִּדְבָרִים, ולא אמר דבר כִּי זְקֵנִים־הֵמָּה מִמֶּנּוּ לְיָמִים.",
+    "וַיַּרְא אֱלִיהוּא כִּי אֵין מַעֲנֶה בְּפִי שְׁלֹשֶׁת הָאֲנָשִׁים, וַיִּחַר אַפּוֹ עד שהרגיש שעליו להתערב.",
+    "וַיַּעַן אֱלִיהוּא בֶן־בַּרַכְאֵל הַבּוּזִי וַיֹּאמַר: צָעִיר אֲנִי לְיָמִים, וְאַתֶּם יְשִׁישִׁים, זקנים, עַל־כֵּן זָחַלְתִּי, פחדתי וָאִירָא מֵחַוֹּת דֵּעִי, דעתי אֶתְכֶם, ביניכם.",
+    "אָמַרְתִּי בלבי: יָמִים יְדַבֵּרוּ, וְרֹב שָׁנִים יֹדִיעוּ חָכְמָה. הנחתי שככל שאדם חי שנים רבות יותר – רבה חכמתו.",
+    "אָכֵן, לאמתו של דבר, רוּחַ־הִיא – החכמה בֶאֱנוֹשׁ, וְנִשְׁמַת שַׁדַּי תְּבִינֵם. ההבנה מגיעה מן הנשמה שמקורה באלוקים, ואין היא תלויה בגיל.",
+    "לֹא־רַבִּים, המבוגרים שיֶחְכָּמוּ, ולא תמיד הזְקֵנִים הם שיָבִינוּ מִשְׁפָּט.",
+    "לָכֵן אָמַרְתִּי: שִׁמְעָה־לִי, אֲחַוֶּה דֵעִי אַף־אָנִי.",
+    "הֵן הוֹחַלְתִּי, ציפיתי והמתנתי לְדִבְרֵיכֶם, אָזִין, האזנתי עַד שאשמע את תְּבוּנֹתֵיכֶם, תובנותיכם, עַד־תַּחְקְרוּן מִלִּין, תבררו מלים, עד שתשלימו את כל טיעוניכם.",
+    "וְעָדֵיכֶם אֶתְבּוֹנָן, אני מסתכל בכם, וְהִנֵּה אֵין לְאִיּוֹב מוֹכִיחַ, מטיף או משכנע ועוֹנֶה כראוי על אֲמָרָיו, דבריו מִכֶּם.",
+    "פֶּן־תֹּאמְרוּ, שמא אתם סבורים: אנחנו אמנם מָצָאנוּ חָכְמָה ועמדנו על פשר ייסורי איוב, אבל את איוב עצמו – רק אֵל יִדְּפֶנּוּ, יהדפנו, לֹא־אִישׁ. שום אדם לא יוכל לעמוד כנגדו ולנצחו.",
+    "וְאמנם איוב לֹא־עָרַךְ אֵלַי מִלִּין, לא אתי הוא התווכח – ואולם אילו היה פונה אלי, בְאִמְרֵיכֶם, את תשובותיכם לֹא אֲשִׁיבֶנּוּ, לא הייתי משיב לו.",
+    "הרֵעים חַתּוּ, פחדו לֹא־עָנוּ עוֹד, הֶעְתִּיקוּ מֵהֶם, הסירו מפיהם מִלִּים.",
+    "וְהוֹחַלְתִּי, חיכיתי וראיתי כִּי־לֹא יְדַבֵּרוּ, כִּי עָמְדוּ, חדלו הרעים לדבר, שתקו ולֹא־עָנוּ עוֹד.",
+    "כיוון שהם לא הצליחו בוויכוח, אַעֲנֶה אַף־אֲנִי חֶלְקִי, אֲחַוֶּה דֵעִי אַף־אָנִי.",
+    "כִּי מָלֵתִי, אני מלא מִלִּים, הֱצִיקַתְנִי הרוּחַ, ההרהורים והרגשות הסוערים בתוך בִּטְנִי.",
+    "הִנֵּה בִטְנִי תוססת כְּיַיִן המשומר בקנקן סגור, לֹא־יִפָּתֵחַ, כְּאֹבוֹת, כמו נאדות חֲדָשִׁים שיִבָּקֵעַ, יתבקעו. כאשר יין תוסס בכלי חדש, הלחץ מבפנים גובר מחמת התסיסה ובסופו של דבר הוא ישבור את הכלי או יבקע את הנאד.",
+    "לכן אֲדַבְּרָה וְיִרְוַח־לִי, אֶפְתַּח שְׂפָתַי וְאֶעֱנֶה. סוף סוף אביע את עצמי.",
+    "אַל־נָא אֶשָּׂא פְנֵי, לא אחניף לאִישׁ, וְאֶל־אָדָם לֹא אֲכַנֶּה, אפנה בכינוי כבוד ובלשון עקיפה,",
+    "כִּי לֹא יָדַעְתִּי אֲכַנֶּה, לכנות, לפנות לאנשים בגינוני כבוד או לדבר בלשון נקייה ומעודנת. ואף אינני מחשיב מאמצים כאלה, שהרי הדברים חשובים כפי שהם, ויש בהם מידה של דחיפות – כִּמְעַט, כהרף עין יִשָּׂאֵנִי, יכול לקחת את נפשי, להמית אותי עֹשֵׂנִי, בוראי, אלוקים."
+  ],
+  "ai_explanation": [
+    "שלושת רעיו של איוב הפסיקו לענות לו, מפני שהבינו שאיוב לא ישתכנע מדבריהם והוא בטוח בצדקתו.",
+    "אליהוא כעס על איוב, מפני שאיוב הצדיק את עצמו יותר משהצדיק את האלוהים.",
+    "אליהוא כעס גם על שלושת הרֵעים, משום שלא מצאו מענה למצוקתו של איוב ולכן הרשיעו אותו.",
+    "אליהוא המתין ולא דיבר, מפני שהרֵעים היו מבוגרים ממנו בשנים.",
+    "כאשר ראה אליהוא שאין בפי שלושת האנשים מענה, כעס והרגיש שעליו להתערב.",
+    "אליהוא מסביר שהוא צעיר מהם ולכן פחד להביע בפניהם את דעתו.",
+    "הוא חשב תחילה שהחיים הארוכים והניסיון הרב הם שמביאים לאדם חכמה.",
+    "אולם למעשה החכמה וההבנה מגיעות מן הרוח ומנשמת האלוהים, ולכן אינן תלויות בגיל.",
+    "לא כל המבוגרים חכמים, ולא תמיד הזקנים הם שמבינים את המשפט והדין.",
+    "לכן אליהוא מבקש שיקשיבו לו, מפני שגם הוא רוצה להביע את דעתו.",
+    "אליהוא המתין לדבריהם והאזין להם עד שביררו את כל טיעוניהם וניסו להשלים את דבריהם.",
+    "הוא בחן את דברי הרֵעים, אך ראה שאין בהם מענה משכנע או תשובה ראויה לדבריו של איוב.",
+    "אליהוא מזהיר אותם שלא יאמרו שמצאו את החכמה והבינו את ייסורי איוב, ושאין אדם שיכול להתמודד עמו; לדעתו, רק האל יכול להדוף את איוב.",
+    "איוב לא התווכח עם אליהוא ישירות, אך אליהוא אומר שאילו פנה אליו, לא היה משיב לו באותן תשובות של הרֵעים.",
+    "הרֵעים נבהלו ושתקו; הם חדלו לדבר ולא מצאו עוד מילים.",
+    "אליהוא המתין וראה שהרֵעים אינם מדברים עוד, משום שכבר חדלו מלהשיב.",
+    "מאחר שהרֵעים לא הצליחו בוויכוח, אליהוא מחליט להשיב בעצמו ולהביע את דעתו.",
+    "אליהוא מרגיש שהוא מלא מילים ושהרוח, כלומר ההרהורים והרגשות הסוערים שבתוכו, לוחצת עליו.",
+    "הוא מדמה את תחושתו ליין התוסס בתוך כלי סגור: הלחץ גובר עד שהכלי עלול להיבקע.",
+    "לכן הוא עומד לדבר כדי להקל על עצמו ולבסוף לפתוח את שפתיו ולענות.",
+    "אליהוא מצהיר שלא יחניף לאיש ולא יפנה אליו בגינוני כבוד או בלשון עקיפה.",
+    "הוא אומר שאינו יודע להשתמש בכינויים ובגינוני כבוד, וגם אינו מתעכב על לשון מעודנת, מפני שהדברים דחופים ובורא האדם עלול לקחת את נפשו בכל רגע."
+  ],
+  "ai_explanation_en": [
+    "Job’s three friends stopped answering him because they understood that he would not be convinced by their arguments and was sure of his own righteousness.",
+    "Elihu became angry with Job because Job justified himself more than he justified God.",
+    "Elihu was also angry with the three friends because they had found no answer to Job’s suffering and therefore condemned him.",
+    "Elihu had remained silent because the friends were older than he was.",
+    "When Elihu saw that the three men had no answer, he became angry and felt that he had to intervene.",
+    "Elihu explains that he is younger than they are, and therefore he was afraid to express his opinion before them.",
+    "At first, he thought that long life and extensive experience were what gave a person wisdom.",
+    "But in truth, wisdom and understanding come from the spirit and from the soul given by God, so they do not depend on age.",
+    "Not all older people are wise, and the elderly are not always the ones who understand judgment.",
+    "Therefore Elihu asks them to listen to him, because he too wants to express his opinion.",
+    "Elihu waited for their words and listened until they had examined their arguments and finished presenting them.",
+    "He considered the friends’ words, but saw that they contained no convincing answer or proper response to Job’s arguments.",
+    "Elihu warns them not to claim that they have found wisdom and understood Job’s suffering, and that no person can oppose him; in his view, only God can drive Job back.",
+    "Job had not argued directly with Elihu, but Elihu says that if Job had addressed him, he would not have answered him with the same replies as the friends.",
+    "The friends were frightened and fell silent; they stopped speaking and could find no more words.",
+    "Elihu waited and saw that the friends were no longer speaking because they had stopped answering.",
+    "Since the friends had not succeeded in the debate, Elihu decides to answer for himself and express his opinion.",
+    "Elihu feels that he is full of words and that the spirit—the thoughts and turbulent feelings within him—is pressing him.",
+    "He compares his feeling to fermenting wine in a closed container: the pressure increases until the container may burst.",
+    "Therefore he is ready to speak in order to relieve himself, finally opening his lips and answering.",
+    "Elihu declares that he will not flatter anyone or address anyone with honorific expressions or indirect language.",
+    "He says that he does not know how to use titles and formal courtesies, and does not dwell on refined wording, because the matter is urgent and the Creator may take a person’s life at any moment."
+  ],
+  "perush": [
+    "שלושת רעיו של איוב הפסיקו לענות לו, מפני שהבינו שאיוב לא ישתכנע מדבריהם והוא בטוח בצדקתו.",
+    "אליהוא כעס על איוב, מפני שאיוב הצדיק את עצמו יותר משהצדיק את האלוהים.",
+    "אליהוא כעס גם על שלושת הרֵעים, משום שלא מצאו מענה למצוקתו של איוב ולכן הרשיעו אותו.",
+    "אליהוא המתין ולא דיבר, מפני שהרֵעים היו מבוגרים ממנו בשנים.",
+    "כאשר ראה אליהוא שאין בפי שלושת האנשים מענה, כעס והרגיש שעליו להתערב.",
+    "אליהוא מסביר שהוא צעיר מהם ולכן פחד להביע בפניהם את דעתו.",
+    "הוא חשב תחילה שהחיים הארוכים והניסיון הרב הם שמביאים לאדם חכמה.",
+    "אולם למעשה החכמה וההבנה מגיעות מן הרוח ומנשמת האלוהים, ולכן אינן תלויות בגיל.",
+    "לא כל המבוגרים חכמים, ולא תמיד הזקנים הם שמבינים את המשפט והדין.",
+    "לכן אליהוא מבקש שיקשיבו לו, מפני שגם הוא רוצה להביע את דעתו.",
+    "אליהוא המתין לדבריהם והאזין להם עד שביררו את כל טיעוניהם וניסו להשלים את דבריהם.",
+    "הוא בחן את דברי הרֵעים, אך ראה שאין בהם מענה משכנע או תשובה ראויה לדבריו של איוב.",
+    "אליהוא מזהיר אותם שלא יאמרו שמצאו את החכמה והבינו את ייסורי איוב, ושאין אדם שיכול להתמודד עמו; לדעתו, רק האל יכול להדוף את איוב.",
+    "איוב לא התווכח עם אליהוא ישירות, אך אליהוא אומר שאילו פנה אליו, לא היה משיב לו באותן תשובות של הרֵעים.",
+    "הרֵעים נבהלו ושתקו; הם חדלו לדבר ולא מצאו עוד מילים.",
+    "אליהוא המתין וראה שהרֵעים אינם מדברים עוד, משום שכבר חדלו מלהשיב.",
+    "מאחר שהרֵעים לא הצליחו בוויכוח, אליהוא מחליט להשיב בעצמו ולהביע את דעתו.",
+    "אליהוא מרגיש שהוא מלא מילים ושהרוח, כלומר ההרהורים והרגשות הסוערים שבתוכו, לוחצת עליו.",
+    "הוא מדמה את תחושתו ליין התוסס בתוך כלי סגור: הלחץ גובר עד שהכלי עלול להיבקע.",
+    "לכן הוא עומד לדבר כדי להקל על עצמו ולבסוף לפתוח את שפתיו ולענות.",
+    "אליהוא מצהיר שלא יחניף לאיש ולא יפנה אליו בגינוני כבוד או בלשון עקיפה.",
+    "הוא אומר שאינו יודע להשתמש בכינויים ובגינוני כבוד, וגם אינו מתעכב על לשון מעודנת, מפני שהדברים דחופים ובורא האדם עלול לקחת את נפשו בכל רגע."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "שתיקת הרֵעים וכעסו של אליהוא",
+      "title_en": "The Friends’ Silence and Elihu’s Anger",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "שלושת רעי איוב מפסיקים להשיב לו, ואליהוא כועס הן על איוב המצדיק את עצמו והן על הרֵעים שלא מצאו מענה אלא הרשיעו את איוב.",
+      "summary_en": "Job’s three friends stop answering him, while Elihu becomes angry both with Job for justifying himself and with the friends for condemning Job without finding a proper answer.",
+      "image_prompt": "A solemn ancient gathering of four older men sitting in silence while a younger man watches with restrained anger, desert landscape, dramatic natural light, no text"
+    },
+    {
+      "title": "החכמה אינה תלויה בגיל",
+      "title_en": "Wisdom Does Not Depend on Age",
+      "start_verse": 6,
+      "end_verse": 10,
+      "summary": "אליהוא מסביר ששתק מפני שהיה צעיר, אך מבין שהחכמה אינה מובטחת על ידי גיל רב; היא נובעת מן הרוח ומנשמת האלוהים.",
+      "summary_en": "Elihu explains that he remained silent because he was young, but realizes that wisdom is not guaranteed by age; it comes from the spirit and from the soul given by God.",
+      "image_prompt": "A young speaker respectfully addressing several elderly men, with a gentle symbolic glow suggesting inner wisdom, simple ancient setting, no text"
+    },
+    {
+      "title": "בחינת דברי הרֵעים והחלטת אליהוא לדבר",
+      "title_en": "Assessing the Friends’ Arguments and Deciding to Speak",
+      "start_verse": 11,
+      "end_verse": 17,
+      "summary": "אליהוא מתאר כיצד המתין והאזין לכל טיעוני הרֵעים, אך גילה שאין בפיהם תשובה מספקת לאיוב. לאחר שתיקתם הוא מחליט להביע את דעתו בעצמו.",
+      "summary_en": "Elihu describes how he waited and listened to all the friends’ arguments, but found that they had no sufficient answer for Job. After they fall silent, he decides to express his own view.",
+      "image_prompt": "A thoughtful young man listening carefully to three silent speakers, then preparing to address the gathering, ancient Near Eastern atmosphere, no text"
+    },
+    {
+      "title": "הלחץ הפנימי והצורך לדבר בלי חנופה",
+      "title_en": "Inner Pressure and the Need to Speak Honestly",
+      "start_verse": 18,
+      "end_verse": 22,
+      "summary": "אליהוא מרגיש שמילים ורגשות מצטברים בתוכו כמו יין תוסס בכלי סגור, ולכן עליו לדבר כדי להקל על עצמו. הוא מבטיח לדבר ישירות, בלי חנופה ובלי גינוני כבוד, מפני שהזמן דוחק.",
+      "summary_en": "Elihu feels that words and emotions are building up inside him like fermenting wine in a sealed container, so he must speak to gain relief. He promises to speak directly, without flattery or formal courtesies, because time is urgent.",
+      "image_prompt": "A symbolic sealed leather vessel filled with fermenting wine beside a determined speaker opening his mouth to address a gathering, warm dramatic light, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.52,
+      "usfm": "JOB.32.1"
+    },
+    {
+      "start": 9.52,
+      "end": 22.32,
+      "usfm": "JOB.32.2"
+    },
+    {
+      "start": 22.32,
+      "end": 30.0,
+      "usfm": "JOB.32.3"
+    },
+    {
+      "start": 30.0,
+      "end": 34.52,
+      "usfm": "JOB.32.4"
+    },
+    {
+      "start": 34.52,
+      "end": 41.64,
+      "usfm": "JOB.32.5"
+    },
+    {
+      "start": 41.64,
+      "end": 52.66,
+      "usfm": "JOB.32.6"
+    },
+    {
+      "start": 52.66,
+      "end": 58.02,
+      "usfm": "JOB.32.7"
+    },
+    {
+      "start": 58.02,
+      "end": 64.92,
+      "usfm": "JOB.32.8"
+    },
+    {
+      "start": 64.92,
+      "end": 71.22,
+      "usfm": "JOB.32.9"
+    },
+    {
+      "start": 71.22,
+      "end": 76.54,
+      "usfm": "JOB.32.10"
+    },
+    {
+      "start": 76.54,
+      "end": 84.7,
+      "usfm": "JOB.32.11"
+    },
+    {
+      "start": 84.7,
+      "end": 92.96,
+      "usfm": "JOB.32.12"
+    },
+    {
+      "start": 92.96,
+      "end": 99.9,
+      "usfm": "JOB.32.13"
+    },
+    {
+      "start": 99.9,
+      "end": 106.54,
+      "usfm": "JOB.32.14"
+    },
+    {
+      "start": 106.54,
+      "end": 112.22,
+      "usfm": "JOB.32.15"
+    },
+    {
+      "start": 112.22,
+      "end": 116.68,
+      "usfm": "JOB.32.16"
+    },
+    {
+      "start": 116.68,
+      "end": 122.2,
+      "usfm": "JOB.32.17"
+    },
+    {
+      "start": 122.2,
+      "end": 126.76,
+      "usfm": "JOB.32.18"
+    },
+    {
+      "start": 126.76,
+      "end": 134.5,
+      "usfm": "JOB.32.19"
+    },
+    {
+      "start": 134.5,
+      "end": 140.26,
+      "usfm": "JOB.32.20"
+    },
+    {
+      "start": 140.26,
+      "end": 147.9,
+      "usfm": "JOB.32.21"
+    },
+    {
+      "start": 147.9,
+      "end": 160.64,
+      "usfm": "JOB.32.22"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.52,
+    22.32,
+    30.0,
+    34.52,
+    41.64,
+    52.66,
+    58.02,
+    64.92,
+    71.22,
+    76.54,
+    84.7,
+    92.96,
+    99.9,
+    106.54,
+    112.22,
+    116.68,
+    122.2,
+    126.76,
+    134.5,
+    140.26,
+    147.9,
+    160.64
+  ],
+  "times_en_usfm": [
+    "JOB.32.1",
+    "JOB.32.2",
+    "JOB.32.3",
+    "JOB.32.4",
+    "JOB.32.5",
+    "JOB.32.6",
+    "JOB.32.7",
+    "JOB.32.8",
+    "JOB.32.9",
+    "JOB.32.10",
+    "JOB.32.11",
+    "JOB.32.12",
+    "JOB.32.13",
+    "JOB.32.14",
+    "JOB.32.15",
+    "JOB.32.16",
+    "JOB.32.17",
+    "JOB.32.18",
+    "JOB.32.19",
+    "JOB.32.20",
+    "JOB.32.21",
+    "JOB.32.22"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הפרק נפתח בכך ששלושת רעי איוב מפסיקים לענות לו, משום שאיוב נותר צדיק בעיניו.",
+      "text_he": "הפרק נפתח בכך ששלושת רעי איוב מפסיקים לענות לו, משום שאיוב נותר צדיק בעיניו.",
+      "text_en": "The chapter opens with Job’s three friends no longer answering him, because Job remained righteous in his own eyes."
+    },
+    {
+      "verse": 2,
+      "text": "אליהוא בן ברכאל הבוזי כועס על איוב, שלדעתו מצדיק את עצמו יותר מאשר את האלוהים.",
+      "text_he": "אליהוא בן ברכאל הבוזי כועס על איוב, שלדעתו מצדיק את עצמו יותר מאשר את האלוהים.",
+      "text_en": "Elihu son of Barachel the Buzite is angry with Job because, in his view, Job justified himself rather than God."
+    },
+    {
+      "verse": 3,
+      "text": "אליהוא כועס גם על רעי איוב, מפני שלא מצאו תשובה לדבריו ובכל זאת הרשיעו אותו.",
+      "text_he": "אליהוא כועס גם על רעי איוב, מפני שלא מצאו תשובה לדבריו ובכל זאת הרשיעו אותו.",
+      "text_en": "Elihu is also angry with Job’s friends because they could not answer him, yet still declared him guilty."
+    },
+    {
+      "verse": 6,
+      "text": "אליהוא מסביר ששתק בתחילה מפני שהיה צעיר מן האנשים שישבו לפניו, ולכן נהג בהם בכבוד ובזהירות.",
+      "text_he": "אליהוא מסביר ששתק בתחילה מפני שהיה צעיר מן האנשים שישבו לפניו, ולכן נהג בהם בכבוד ובזהירות.",
+      "text_en": "Elihu explains that he remained silent at first because he was younger than the men seated before him, and therefore treated them with respect and caution."
+    },
+    {
+      "verse": 8,
+      "text": "לדברי אליהוא, ההבנה אינה נובעת רק מן הגיל: הרוח שבאדם ונשמת שדי הן שמעניקות לו תבונה.",
+      "text_he": "לדברי אליהוא, ההבנה אינה נובעת רק מן הגיל: הרוח שבאדם ונשמת שדי הן שמעניקות לו תבונה.",
+      "text_en": "According to Elihu, understanding does not come from age alone; it is the human spirit and the breath of the Almighty that give a person insight."
+    },
+    {
+      "verse": 11,
+      "text": "אליהוא מתאר כיצד המתין בסבלנות, הקשיב לדברי הרֵעים ובחן את טיעוניהם עד שסיימו לדבר.",
+      "text_he": "אליהוא מתאר כיצד המתין בסבלנות, הקשיב לדברי הרֵעים ובחן את טיעוניהם עד שסיימו לדבר.",
+      "text_en": "Elihu describes how he waited patiently, listened to the friends’ words, and examined their arguments until they had finished speaking."
+    },
+    {
+      "verse": 15,
+      "text": "כאשר הרֵעים נאלמים ואינם משיבים עוד, אליהוא מחליט לדבר בעצמו ולהציג את חלקו בדברים.",
+      "text_he": "כאשר הרֵעים נאלמים ואינם משיבים עוד, אליהוא מחליט לדבר בעצמו ולהציג את חלקו בדברים.",
+      "text_en": "When the friends fall silent and no longer reply, Elihu decides to speak for himself and present his own contribution."
+    },
+    {
+      "verse": 19,
+      "text": "אליהוא מדמה את המילים והרגשות שבתוכו ליין חדש הנתון בכלי סגור, העלול לבקוע את הכלי מרוב לחץ.",
+      "text_he": "אליהוא מדמה את המילים והרגשות שבתוכו ליין חדש הנתון בכלי סגור, העלול לבקוע את הכלי מרוב לחץ.",
+      "text_en": "Elihu compares the words and feelings within him to new wine kept in a sealed container, which may burst because of the pressure."
+    },
+    {
+      "verse": 21,
+      "text": "אליהוא מצהיר שידבר בלי להחניף לאיש ובלי להעניק לאדם תוארי כבוד שאינם ראויים לו.",
+      "text_he": "אליהוא מצהיר שידבר בלי להחניף לאיש ובלי להעניק לאדם תוארי כבוד שאינם ראויים לו.",
+      "text_en": "Elihu declares that he will speak without flattering anyone or giving a person undeserved titles of honor."
+    },
+    {
+      "verse": 22,
+      "text": "בסיום הפרק אליהוא אומר שאינו יודע להחניף, ומזהיר שחנופה עלולה להביא עליו עונש מצד עושׂו.",
+      "text_he": "בסיום הפרק אליהוא אומר שאינו יודע להחניף, ומזהיר שחנופה עלולה להביא עליו עונש מצד עושׂו.",
+      "text_en": "At the end of the chapter, Elihu says that he does not know how to flatter and warns that flattery could bring punishment upon him from his Maker."
+    }
+  ]
+}
