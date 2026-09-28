@@ -1,0 +1,359 @@
+{
+  "book": "II Chronicles",
+  "book_he": "דברי הימים ב",
+  "book_chapters": 36,
+  "chapter": 3,
+  "title": "דברי הימים ב פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25b03.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25b03.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2CH/3-0d1d9b0ce226054178aeded535e8111f.mp3?version_id=1",
+  "verses": [
+    "וַיָּחֶל שְׁלֹמֹה, לִבְנוֹת אֶת-בֵּית-יְהוָה בִּירוּשָׁלִַם, בְּהַר הַמּוֹרִיָּה, אֲשֶׁר נִרְאָה לְדָוִיד אָבִיהוּ--אֲשֶׁר הֵכִין בִּמְקוֹם דָּוִיד, בְּגֹרֶן אָרְנָן הַיְבוּסִי.",
+    "וַיָּחֶל לִבְנוֹת בַּחֹדֶשׁ הַשֵּׁנִי, בַּשֵּׁנִי, בִּשְׁנַת אַרְבַּע, לְמַלְכוּתוֹ.",
+    "וְאֵלֶּה הוּסַד שְׁלֹמֹה, לִבְנוֹת אֶת-בֵּית הָאֱלֹהִים: הָאֹרֶךְ אַמּוֹת בַּמִּדָּה הָרִאשׁוֹנָה, אַמּוֹת שִׁשִּׁים, וְרֹחַב, אַמּוֹת עֶשְׂרִים.",
+    "וְהָאוּלָם אֲשֶׁר עַל-פְּנֵי הָאֹרֶךְ עַל-פְּנֵי רֹחַב-הַבַּיִת, אַמּוֹת עֶשְׂרִים, וְהַגֹּבַהּ, מֵאָה וְעֶשְׂרִים; וַיְצַפֵּהוּ מִפְּנִימָה, זָהָב טָהוֹר.",
+    "וְאֵת הַבַּיִת הַגָּדוֹל, חִפָּה עֵץ בְּרוֹשִׁים, וַיְחַפֵּהוּ, זָהָב טוֹב; וַיַּעַל עָלָיו תִּמֹרִים, וְשַׁרְשְׁרֹת.",
+    "וַיְצַף אֶת-הַבַּיִת אֶבֶן יְקָרָה, לְתִפְאָרֶת; וְהַזָּהָב, זְהַב פַּרְוָיִם.",
+    "וַיְחַף אֶת-הַבַּיִת הַקֹּרוֹת הַסִּפִּים, וְקִירוֹתָיו וְדַלְתוֹתָיו--זָהָב; וּפִתַּח כְּרוּבִים, עַל-הַקִּירוֹת.",
+    "וַיַּעַשׂ, אֶת-בֵּית-קֹדֶשׁ הַקֳּדָשִׁים--אָרְכּוֹ עַל-פְּנֵי רֹחַב-הַבַּיִת אַמּוֹת עֶשְׂרִים, וְרָחְבּוֹ אַמּוֹת עֶשְׂרִים; וַיְחַפֵּהוּ זָהָב טוֹב, לְכִכָּרִים שֵׁשׁ מֵאוֹת.",
+    "וּמִשְׁקָל לְמִסְמְרוֹת לִשְׁקָלִים, חֲמִשִּׁים זָהָב; וְהָעֲלִיּוֹת, חִפָּה זָהָב.",
+    "וַיַּעַשׂ בְּבֵית-קֹדֶשׁ הַקֳּדָשִׁים, כְּרוּבִים שְׁנַיִם--מַעֲשֵׂה, צַעֲצֻעִים; וַיְצַפּוּ אֹתָם, זָהָב.",
+    "וְכַנְפֵי, הַכְּרוּבִים--אָרְכָּם, אַמּוֹת עֶשְׂרִים; כְּנַף הָאֶחָד לְאַמּוֹת חָמֵשׁ, מַגַּעַת לְקִיר הַבַּיִת, וְהַכָּנָף הָאַחֶרֶת אַמּוֹת חָמֵשׁ, מַגִּיעַ לִכְנַף הַכְּרוּב הָאַחֵר.",
+    "וּכְנַף הַכְּרוּב הָאֶחָד אַמּוֹת חָמֵשׁ, מַגִּיעַ לְקִיר הַבָּיִת; וְהַכָּנָף הָאַחֶרֶת, אַמּוֹת חָמֵשׁ--דְּבֵקָה, לִכְנַף הַכְּרוּב הָאַחֵר.",
+    "כַּנְפֵי הַכְּרוּבִים הָאֵלֶּה, פֹּרְשִׂים אַמּוֹת עֶשְׂרִים; וְהֵם עֹמְדִים עַל-רַגְלֵיהֶם, וּפְנֵיהֶם לַבָּיִת.",
+    "וַיַּעַשׂ, אֶת-הַפָּרֹכֶת, תְּכֵלֶת וְאַרְגָּמָן, וְכַרְמִיל וּבוּץ; וַיַּעַל עָלָיו, כְּרוּבִים.",
+    "וַיַּעַשׂ לִפְנֵי הַבַּיִת, עַמּוּדִים שְׁנַיִם, אַמּוֹת, שְׁלֹשִׁים וְחָמֵשׁ אֹרֶךְ; וְהַצֶּפֶת אֲשֶׁר-עַל-רֹאשׁוֹ, אַמּוֹת חָמֵשׁ.",
+    "וַיַּעַשׂ שַׁרְשְׁרוֹת בַּדְּבִיר, וַיִּתֵּן עַל-רֹאשׁ הָעַמֻּדִים; וַיַּעַשׂ רִמּוֹנִים מֵאָה, וַיִּתֵּן בַּשַּׁרְשְׁרוֹת.",
+    "וַיָּקֶם אֶת-הָעַמּוּדִים עַל-פְּנֵי הַהֵיכָל, אֶחָד מִיָּמִין וְאֶחָד מֵהַשְּׂמֹאול; וַיִּקְרָא שֵׁם-הימיני הַיְמָנִי יָכִין, וְשֵׁם הַשְּׂמָאלִי בֹּעַז."
+  ],
+  "english": [
+    "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where\nthe LORD appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.",
+    "And he began to build in the second\nday of the second month, in the fourth year of his reign.",
+    "Now these\nare the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure\nwas threescore cubits, and the breadth twenty cubits.",
+    "And the porch that\nwas in the front\nof the house,\n the length\nof it was according to the breadth of the house, twenty cubits, and the height\nwas an hundred and twenty: and he overlaid it within with pure gold.",
+    "And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.",
+    "And he garnished the house with precious stones for beauty: and the gold\nwas gold of Parvaim.",
+    "He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and graved cherubims on the walls.",
+    "And he made the most holy house, the length whereof\nwas according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold,\namounting to six hundred talents.",
+    "And the weight of the nails\nwas fifty shekels of gold. And he overlaid the upper chambers with gold.",
+    "And in the most holy house he made two cherubims of image work, and overlaid them with gold.",
+    "And the wings of the cherubims\nwere twenty cubits long: one wing\nof the one cherub was five cubits, reaching to the wall of the house: and the other wing\nwas likewise five cubits, reaching to the wing of the other cherub.",
+    "And\none wing of the other cherub\nwas five cubits, reaching to the wall of the house: and the other wing\nwas five cubits\nalso, joining to the wing of the other cherub.",
+    "The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces\nwere inward.",
+    "And he made the vail\nof blue, and purple, and crimson, and fine linen, and wrought cherubims thereon.",
+    "Also he made before the house two pillars of thirty and five cubits high, and the chapiter that\nwas on the top of each of them\nwas five cubits.",
+    "And he made chains,\nas in the oracle, and put\nthem\n on the heads of the pillars; and made an hundred pomegranates, and put\nthem on the chains.",
+    "And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz."
+  ],
+  "steinsaltz": [
+    "וַיָּחֶל שְׁלֹמֹה לִבְנוֹת אֶת־בֵּית־ה' בִּירוּשָׁלִַם בְּהַר הַמּוֹרִיָּה, במקום אֲשֶׁר נִרְאָה לְדָוִיד אָבִיהוּ, אביו, הבית אֲשֶׁר הֵכִין שלמה בִּמְקוֹם המזבח שבנה דָּוִיד, בְּגֹרֶן אָרְנָן הַיְבוּסִי.",
+    "וַיָּחֶל לִבְנוֹת בַּחֹדֶשׁ הַשֵּׁנִי בַּשֵּׁנִי בחודש, ולא בראש חודש, בִּשְׁנַת אַרְבַּע לְמַלְכוּתוֹ. נראה שבארבע השנים הראשונות הוא עסק בהשלמת ההכנות לעבודת הבניין.",
+    "וְאֵלֶּה המידות אשר הוּסַד, ייסד שְׁלֹמֹה לִבְנוֹת בהן אֶת־בֵּית הָאֱלֹהִים: הָאֹרֶךְ אַמּוֹת בַּמִּדָּה הָרִאשׁוֹנָה, הבסיסית, עיקרו של הבניין – אַמּוֹת שִׁשִּׁים, וְרֹחַב – אַמּוֹת עֶשְׂרִים.",
+    "וְהָאוּלָם אֲשֶׁר עַל־פְּנֵי הָאֹרֶךְ, ששטח אורכו נתון עַל־פְּנֵי, לפני רֹחַב־הַבַּיִת – אַמּוֹת עֶשְׂרִים. אורכו של האולם, העשוי כמבוא לבית, היה עשרים אמה, כמידת רוחב הבית. וְהַגֹּבַהּ של האולם – מֵאָה וְעֶשְׂרִים אמות. וַיְצַפֵּהוּ – את הבית מִפְּנִימָה, מבפנים זָהָב טָהוֹר.",
+    "וְאֵת הַבַּיִת הַגָּדוֹל – את המקדש כולו חִפָּה עֵץ בְּרוֹשִׁים, וַיְחַפֵּהוּ זָהָב טוֹב, וַיַּעַל עָלָיו קישוטים בצורת תִּמֹרִים, עצי תמר וְשַׁרְשְׁרֹת.",
+    "וַיְצַף אֶת־הַבַּיִת אֶבֶן יְקָרָה, אבנים טובות ויפות לְתִפְאָרֶת. וְהַזָּהָב זְהַב פַּרְוָיִם, ייתכן זהב אדום כדם פָּרים.",
+    "וַיְחַף, ציפה אֶת־הַבַּיִת – הַקֹּרוֹת, הַסִּפִּים וְקִירוֹתָיו וְדַלְתוֹתָיו זָהָב, וּפִתַּח, גילף קישוטים בצורות כְּרוּבִים עַל־הַקִּירוֹת.",
+    "וַיַּעַשׂ אֶת־בֵּית־קֹדֶשׁ הַקֳּדָשִׁים, החדר הפנימי של הבית – אָרְכּוֹ עַל־פְּנֵי רֹחַב־הַבַּיִת אַמּוֹת עֶשְׂרִים, וְרָחְבּוֹ אַמּוֹת עֶשְׂרִים, בצורת ריבוע, וַיְחַפֵּהוּ זָהָב טוֹב בכמות גדולה מאוד שעלתה לְכִכָּרִים שֵׁשׁ מֵאוֹת.",
+    "וּמִשְׁקָל לְמִסְמְרוֹת עלה לִשְׁקָלִים חֲמִשִּׁים זָהָב, וְגם את הָעֲלִיּוֹת חִפָּה זָהָב.",
+    "וַיַּעַשׂ בְּבֵית־קֹדֶשׁ הַקֳּדָשִׁים כְּרוּבִים שְׁנַיִם מַעֲשֵׁה צַעֲצֻעִים, קישוטים מגולפים. אלה אינם הכרובים שעל מכסה ארון הברית אלא כרובים אחרים העשויים כדוגמתם. וַיְצַפּוּ אֹתָם זָהָב.",
+    "וְכַנְפֵי הַכְּרוּבִים – אָרְכָּם אַמּוֹת עֶשְׂרִים באופן הבא: כְּנַף הָאֶחָד – לְאַמּוֹת חָמֵשׁ, באורך חמש אמות מַגַּעַת לְקִיר הַבַּיִת, וְהַכָּנָף הָאַחֶרֶת ארוכה גם היא אַמּוֹת חָמֵשׁ ומַגִּיעַ לִכְנַף הַכְּרוּב הָאַחֵר.",
+    "וּכְנַף הַכְּרוּב הָאֶחָד, השני – אַמּוֹת חָמֵשׁ מַגִּיעַ לְקִיר הַבָּיִת שמנגד, וְהַכָּנָף הָאַחֶרֶת – אַמּוֹת חָמֵשׁ דְּבֵקָה לִכְנַף הַכְּרוּב הָאַחֵר. נמצא ששתי כנפיו של כל כרוב רחבות עשר אמות, וכנפי שניהם יחד עשרים אמה, מקיר אל קיר.",
+    "כַּנְפֵי הַכְּרוּבִים הָאֵלֶּה פֹּרְשִׂים אַמּוֹת עֶשְׂרִים, כאמור, וְהֵם עֹמְדִים עַל־רַגְלֵיהֶם וּפְנֵיהֶם לַבָּיִת. הם אינם עומדים זה מול זה כמו הכרובים שעל הארון, אלא שניהם פונים אל חלל הבית. מכאן עולה שיש להם כנפיים ורגליים, אבל גופם לא מתואר כלל, ונראה שהוא כלול בכנפיים באופן כלשהו.",
+    "וַיַּעַשׂ אֶת־הַפָּרֹכֶת שבפתח בית קודש הקודשים תְּכֵלֶת וְאַרְגָּמָן וְכַרְמִיל, תולעת שני וּבוּץ, פשתן, וַיַּעַל עָלָיו – על הפרוכת צורת כְּרוּבִים.",
+    "וַיַּעַשׂ לִפְנֵי הַבַּיִת עַמּוּדִים שְׁנַיִם, אַמּוֹת שְׁלֹשִׁים וְחָמֵשׁ אֹרֶךְ, גובה, וְהַצֶּפֶת, הכותרת המקושטת אֲשֶׁר־עַל־רֹאשׁוֹ של כל עמוד אַמּוֹת חָמֵשׁ.",
+    "וַיַּעַשׂ שַׁרְשְׁרוֹת בַּכניסה אל הדְּבִיר, קודש הקודשים, וַיִּתֵּן שרשרות עַל־רֹאשׁ הָעַמֻּדִים. וַיַּעַשׂ צורות רִמּוֹנִים מֵאָה, וַיִּתֵּן אותם בַּשַּׁרְשְׁרוֹת.",
+    "וַיָּקֶם אֶת־הָעַמּוּדִים עַל־פְּנֵי הַהֵיכָל, לפני הפתח, אֶחָד מִיָּמִין וְאֶחָד מֵהַשְּׂמֹאול, וַיִּקְרָא שֵׁם־הַיְמָנִי יָכִין וְשֵׁם הַשְּׂמָאלִי בֹּעַז."
+  ],
+  "ai_explanation": [
+    "שלמה החל לבנות את בית ה' בירושלים, בהר המוריה, במקום שבו נראה המקום לדוד אביו. זה היה המקום שבו הכין שלמה את הבית, במקום המזבח שבנה דוד בגורן ארנן היבוסי.",
+    "הבנייה החלה בחודש השני, ביום השני של החודש, ולא בראש חודש, בשנה הרביעית למלכות שלמה. לפי הפירוש, ארבע השנים הראשונות הוקדשו להשלמת ההכנות לבנייה.",
+    "אלה היו המידות הבסיסיות שייסד שלמה לבית האלוהים: אורכו שישים אמה ורוחבו עשרים אמה.",
+    "האולם שלפני הבית היה באורך ובעומק של עשרים אמה, כמידת רוחב הבית, וגובהו מאה ועשרים אמה. את הבית מבפנים ציפה שלמה בזהב טהור.",
+    "את המקדש כולו חיפו בעצי ברושים, ועליהם ציפו אותו בזהב טוב. על הזהב הוסיפו קישוטים בצורת תמרים ושרשרות.",
+    "את הבית ציפה שלמה באבנים יקרות ויפות לתפארת. זהב פרווים עשוי להתפרש כזהב אדום כדם פרים.",
+    "הבית, הקורות, הספים, הקירות והדלתות צופו בזהב. על הקירות גילפו קישוטים בצורת כרובים.",
+    "בית קודש הקודשים היה חדר פנימי מרובע, שאורכו ורוחבו עשרים אמה. הוא צופה בזהב טוב בכמות גדולה מאוד, ששקלה שש מאות כיכרים.",
+    "משקל המסמרים היה חמישים שקלי זהב. גם את העליות ציפו בזהב.",
+    "בקודש הקודשים עשה שלמה שני כרובים מגולפים ומקושטים וציפה אותם בזהב. לפי הפירוש, אלה אינם הכרובים שעל מכסה ארון הברית, אלא כרובים אחרים שנעשו בדמותם.",
+    "לכרובים היו כנפיים באורך כולל של עשרים אמה. כנף אחת של הכרוב האחד הגיעה אל קיר הבית, והכנף האחרת נגעה בכנף הכרוב השני.",
+    "לכרוב השני הייתה כנף באורך חמש אמות שהגיעה אל הקיר שמנגד, וכנף אחרת שנצמדה לכנף הכרוב הראשון. כך היו שתי כנפי כל כרוב ברוחב עשר אמות, וכנפי שני הכרובים השתרעו יחד מקיר אל קיר.",
+    "כנפי הכרובים השתרעו על פני עשרים אמה, והם עמדו על רגליהם ופנו אל חלל הבית. הם לא פנו זה אל זה כמו הכרובים שעל הארון; גופם אינו מתואר בפירוט ונראה שהוא כלול בכנפיים באופן כלשהו.",
+    "הפרוכת שבפתח קודש הקודשים נעשתה מתכלת, ארגמן, כרמיל ובוץ, ועליה נרקמו כרובים.",
+    "לפני הבית העמיד שלמה שני עמודים, שגובה כל אחד מהם היה שלושים וחמש אמות. בראש כל עמוד הייתה צפת, כלומר כותרת מקושטת, בגובה חמש אמות.",
+    "בכניסה לדביר, הוא קודש הקודשים, עשה שלמה שרשרות והניח אותן על ראשי העמודים. הוא גם עשה מאה רימונים ונתן אותם בשרשרות.",
+    "את העמודים העמיד לפני ההיכל, אחד מימין ואחד משמאל. לעמוד הימני קרא יכין, ולעמוד השמאלי קרא בעז."
+  ],
+  "ai_explanation_en": [
+    "Solomon began building the Temple of the Lord in Jerusalem, on Mount Moriah, at the place where the site had appeared to his father David. This was the place where Solomon prepared the Temple, at the site of the altar David had built at the threshing floor of Ornan the Jebusite.",
+    "The construction began in the second month, on the second day of the month, not on the first day, in the fourth year of Solomon's reign. According to the interpretation, the first four years were devoted to completing the preparations for the building.",
+    "These were the basic dimensions established by Solomon for the House of God: its length was sixty cubits and its width was twenty cubits.",
+    "The vestibule in front of the building was twenty cubits in length and depth, matching the width of the building, and its height was one hundred and twenty cubits. Solomon covered the inside of the building with pure gold.",
+    "The entire Temple was lined with cypress wood and then covered with fine gold. Decorations shaped like palm trees and chains were added to the gold.",
+    "The building was covered with precious and beautiful stones for splendor. Parvaim gold may mean gold that was red like the blood of bulls.",
+    "The building, its beams, thresholds, walls, and doors were covered with gold. Cherub-shaped decorations were carved on the walls.",
+    "The Most Holy Place was a square inner chamber, twenty cubits long and twenty cubits wide. It was covered with fine gold in a very large quantity, weighing six hundred talents.",
+    "The nails weighed fifty shekels of gold. The upper rooms were also covered with gold.",
+    "In the Most Holy Place Solomon made two carved and decorated cherubim and covered them with gold. According to the interpretation, these were not the cherubim on the cover of the Ark, but other cherubim made in their likeness.",
+    "The cherubim's wings had a total span of twenty cubits. One wing of the first cherub reached the wall of the building, while its other wing touched the wing of the second cherub.",
+    "The second cherub had one wing, five cubits long, reaching the opposite wall, and another wing joined to the wing of the first cherub. Thus, each cherub's two wings measured ten cubits, and the wings of both cherubim extended from wall to wall.",
+    "The cherubim's wings extended across twenty cubits, and the cherubim stood on their feet facing the open space of the building. They did not face each other like the cherubim on the Ark; their bodies are not described in detail and seem to be incorporated into the wings in some way.",
+    "The curtain at the entrance to the Most Holy Place was made of blue, purple, crimson, and fine linen, with cherubim woven onto it.",
+    "In front of the building Solomon made two pillars, each thirty-five cubits high. At the top of each pillar was a decorative capital, five cubits high.",
+    "At the entrance to the Debir, the Most Holy Place, Solomon made chains and placed them on the tops of the pillars. He also made one hundred pomegranates and attached them to the chains.",
+    "He set the pillars in front of the sanctuary, one on the right and one on the left. He named the right-hand pillar Jachin and the left-hand pillar Boaz."
+  ],
+  "perush": [
+    "שלמה החל לבנות את בית ה' בירושלים, בהר המוריה, במקום שבו נראה המקום לדוד אביו. זה היה המקום שבו הכין שלמה את הבית, במקום המזבח שבנה דוד בגורן ארנן היבוסי.",
+    "הבנייה החלה בחודש השני, ביום השני של החודש, ולא בראש חודש, בשנה הרביעית למלכות שלמה. לפי הפירוש, ארבע השנים הראשונות הוקדשו להשלמת ההכנות לבנייה.",
+    "אלה היו המידות הבסיסיות שייסד שלמה לבית האלוהים: אורכו שישים אמה ורוחבו עשרים אמה.",
+    "האולם שלפני הבית היה באורך ובעומק של עשרים אמה, כמידת רוחב הבית, וגובהו מאה ועשרים אמה. את הבית מבפנים ציפה שלמה בזהב טהור.",
+    "את המקדש כולו חיפו בעצי ברושים, ועליהם ציפו אותו בזהב טוב. על הזהב הוסיפו קישוטים בצורת תמרים ושרשרות.",
+    "את הבית ציפה שלמה באבנים יקרות ויפות לתפארת. זהב פרווים עשוי להתפרש כזהב אדום כדם פרים.",
+    "הבית, הקורות, הספים, הקירות והדלתות צופו בזהב. על הקירות גילפו קישוטים בצורת כרובים.",
+    "בית קודש הקודשים היה חדר פנימי מרובע, שאורכו ורוחבו עשרים אמה. הוא צופה בזהב טוב בכמות גדולה מאוד, ששקלה שש מאות כיכרים.",
+    "משקל המסמרים היה חמישים שקלי זהב. גם את העליות ציפו בזהב.",
+    "בקודש הקודשים עשה שלמה שני כרובים מגולפים ומקושטים וציפה אותם בזהב. לפי הפירוש, אלה אינם הכרובים שעל מכסה ארון הברית, אלא כרובים אחרים שנעשו בדמותם.",
+    "לכרובים היו כנפיים באורך כולל של עשרים אמה. כנף אחת של הכרוב האחד הגיעה אל קיר הבית, והכנף האחרת נגעה בכנף הכרוב השני.",
+    "לכרוב השני הייתה כנף באורך חמש אמות שהגיעה אל הקיר שמנגד, וכנף אחרת שנצמדה לכנף הכרוב הראשון. כך היו שתי כנפי כל כרוב ברוחב עשר אמות, וכנפי שני הכרובים השתרעו יחד מקיר אל קיר.",
+    "כנפי הכרובים השתרעו על פני עשרים אמה, והם עמדו על רגליהם ופנו אל חלל הבית. הם לא פנו זה אל זה כמו הכרובים שעל הארון; גופם אינו מתואר בפירוט ונראה שהוא כלול בכנפיים באופן כלשהו.",
+    "הפרוכת שבפתח קודש הקודשים נעשתה מתכלת, ארגמן, כרמיל ובוץ, ועליה נרקמו כרובים.",
+    "לפני הבית העמיד שלמה שני עמודים, שגובה כל אחד מהם היה שלושים וחמש אמות. בראש כל עמוד הייתה צפת, כלומר כותרת מקושטת, בגובה חמש אמות.",
+    "בכניסה לדביר, הוא קודש הקודשים, עשה שלמה שרשרות והניח אותן על ראשי העמודים. הוא גם עשה מאה רימונים ונתן אותם בשרשרות.",
+    "את העמודים העמיד לפני ההיכל, אחד מימין ואחד משמאל. לעמוד הימני קרא יכין, ולעמוד השמאלי קרא בעז."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "תחילת בניית המקדש ומידותיו",
+      "title_en": "The Beginning of the Temple Construction and Its Dimensions",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "שלמה מתחיל את בניית בית ה' בהר המוריה, במקום המזבח שבנה דוד. מתוארים מועד תחילת הבנייה, מידות הבית ומידות האולם, וכן ציפויו בזהב.",
+      "summary_en": "Solomon begins building the Temple on Mount Moriah, at the site of David's altar. The passage gives the date of construction, the dimensions of the building and vestibule, and their gold covering.",
+      "image_prompt": "A respectful ancient biblical architectural illustration of Solomon's Temple under construction on Mount Moriah, showing the main building and its tall vestibule, with builders preparing gold-covered interiors. No modern elements, no text."
+    },
+    {
+      "title": "עיטורי הבית וקודש הקודשים",
+      "title_en": "The Decoration of the Building and the Most Holy Place",
+      "start_verse": 5,
+      "end_verse": 9,
+      "summary": "הבית מצופה בעצי ברושים, בזהב ובאבנים יקרות, ומעוטר בתמרים, שרשרות וכרובים. קודש הקודשים מתואר כחדר מרובע המצופה בזהב, וגם המסמרים והעליות מצופים בזהב.",
+      "summary_en": "The building is lined with cypress wood, gold, and precious stones, and decorated with palms, chains, and cherubim. The Most Holy Place is described as a square chamber covered with gold, while the nails and upper rooms are also covered with gold.",
+      "image_prompt": "Detailed interior view of a richly decorated ancient biblical sanctuary, with cypress wood, polished gold, precious stones, palm motifs, chains, carved cherubim, and a square inner chamber. No text, no modern objects."
+    },
+    {
+      "title": "הכרובים והפרוכת",
+      "title_en": "The Cherubim and the Curtain",
+      "start_verse": 10,
+      "end_verse": 14,
+      "summary": "בקודש הקודשים מוצבים שני כרובים מצופים זהב, שכנפיהם משתרעות מקיר אל קיר ופניהם אל חלל הבית. בפתח קודש הקודשים נמצאת פרוכת צבעונית שעליה כרובים.",
+      "summary_en": "Two gold-covered cherubim stand in the Most Holy Place, their wings extending from wall to wall and their faces turned toward the interior of the building. At the entrance to the Most Holy Place hangs a colorful curtain decorated with cherubim.",
+      "image_prompt": "Interior of the Most Holy Place in an ancient biblical Temple, showing two large gold-covered cherubim standing with outstretched wings from wall to wall, and a richly colored curtain with cherubim motifs at the entrance. No text."
+    },
+    {
+      "title": "העמודים יכין ובעז",
+      "title_en": "The Pillars Jachin and Boaz",
+      "start_verse": 15,
+      "end_verse": 17,
+      "summary": "לפני ההיכל מוצבים שני עמודים גבוהים בעלי כותרות מקושטות, שרשרות ורימונים. העמוד הימני נקרא יכין והעמוד השמאלי בעז.",
+      "summary_en": "Two tall pillars with decorated capitals, chains, and pomegranates stand before the sanctuary. The right-hand pillar is called Jachin and the left-hand pillar Boaz.",
+      "image_prompt": "Front view of two monumental pillars standing before an ancient biblical sanctuary, with ornate capitals, hanging chains, and pomegranate decorations. One pillar is on the right and one on the left; no labels or text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 19.2,
+      "usfm": "2CH.3.1"
+    },
+    {
+      "start": 19.2,
+      "end": 24.02,
+      "usfm": "2CH.3.2"
+    },
+    {
+      "start": 24.02,
+      "end": 34.86,
+      "usfm": "2CH.3.3"
+    },
+    {
+      "start": 34.86,
+      "end": 45.76,
+      "usfm": "2CH.3.4"
+    },
+    {
+      "start": 45.76,
+      "end": 53.72,
+      "usfm": "2CH.3.5"
+    },
+    {
+      "start": 53.72,
+      "end": 60.14,
+      "usfm": "2CH.3.6"
+    },
+    {
+      "start": 60.14,
+      "end": 68.88,
+      "usfm": "2CH.3.7"
+    },
+    {
+      "start": 68.88,
+      "end": 80.2,
+      "usfm": "2CH.3.8"
+    },
+    {
+      "start": 80.2,
+      "end": 86.4,
+      "usfm": "2CH.3.9"
+    },
+    {
+      "start": 86.4,
+      "end": 92.58,
+      "usfm": "2CH.3.10"
+    },
+    {
+      "start": 92.58,
+      "end": 104.5,
+      "usfm": "2CH.3.11"
+    },
+    {
+      "start": 104.5,
+      "end": 114.08,
+      "usfm": "2CH.3.12"
+    },
+    {
+      "start": 114.08,
+      "end": 121.5,
+      "usfm": "2CH.3.13"
+    },
+    {
+      "start": 121.5,
+      "end": 127.48,
+      "usfm": "2CH.3.14"
+    },
+    {
+      "start": 127.48,
+      "end": 135.34,
+      "usfm": "2CH.3.15"
+    },
+    {
+      "start": 135.34,
+      "end": 144.2,
+      "usfm": "2CH.3.16"
+    },
+    {
+      "start": 144.2,
+      "end": 161.12,
+      "usfm": "2CH.3.17"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    19.2,
+    24.02,
+    34.86,
+    45.76,
+    53.72,
+    60.14,
+    68.88,
+    80.2,
+    86.4,
+    92.58,
+    104.5,
+    114.08,
+    121.5,
+    127.48,
+    135.34,
+    144.2,
+    161.12
+  ],
+  "times_en_usfm": [
+    "2CH.3.1",
+    "2CH.3.2",
+    "2CH.3.3",
+    "2CH.3.4",
+    "2CH.3.5",
+    "2CH.3.6",
+    "2CH.3.7",
+    "2CH.3.8",
+    "2CH.3.9",
+    "2CH.3.10",
+    "2CH.3.11",
+    "2CH.3.12",
+    "2CH.3.13",
+    "2CH.3.14",
+    "2CH.3.15",
+    "2CH.3.16",
+    "2CH.3.17"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? שלמה החל לבנות את בית ה' בהר המוריה בירושלים, במקום שבו נראה הדבר לדוד אביו ושבו הכין דוד את המקום בגורן ארנן היבוסי.",
+      "text_he": "הידעת? שלמה החל לבנות את בית ה' בהר המוריה בירושלים, במקום שבו נראה הדבר לדוד אביו ושבו הכין דוד את המקום בגורן ארנן היבוסי.",
+      "text_en": "Did you know? Solomon began building the house of the Lord on Mount Moriah in Jerusalem, at the place where the Lord had appeared to his father David and where David had prepared the site at the threshing floor of Ornan the Jebusite."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? בניית המקדש החלה בחודש השני, ביום השני בחודש, בשנתו הרביעית של שלמה למלוכה.",
+      "text_he": "הידעת? בניית המקדש החלה בחודש השני, ביום השני בחודש, בשנתו הרביעית של שלמה למלוכה.",
+      "text_en": "Did you know? The construction of the temple began in the second month, on the second day of the month, in the fourth year of Solomon’s reign."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? מידות הבית היו שישים אמה אורך ועשרים אמה רוחב, לפי המידה הראשונה שהוזכרה בפסוק.",
+      "text_he": "הידעת? מידות הבית היו שישים אמה אורך ועשרים אמה רוחב, לפי המידה הראשונה שהוזכרה בפסוק.",
+      "text_en": "Did you know? The dimensions of the house were sixty cubits long and twenty cubits wide, according to the first measurement mentioned in the verse."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? אולם הכניסה היה ברוחב עשרים אמה ובגובה מאה ועשרים אמה, והוא צופה מבפנים בזהב טהור.",
+      "text_he": "הידעת? אולם הכניסה היה ברוחב עשרים אמה ובגובה מאה ועשרים אמה, והוא צופה מבפנים בזהב טהור.",
+      "text_en": "Did you know? The entrance hall was twenty cubits wide and one hundred twenty cubits high, and it was overlaid inside with pure gold."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? הבית הגדול חופה בעצי ברושים ובזהב, ועוטר בתימורים ובשרשרות.",
+      "text_he": "הידעת? הבית הגדול חופה בעצי ברושים ובזהב, ועוטר בתימורים ובשרשרות.",
+      "text_en": "Did you know? The main hall was covered with cypress wood and gold, and decorated with palm-tree motifs and chains."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? קירות הבית צופו באבן יקרה לתפארת, והזהב שבו נקרא בפסוק ״זהב פרווים״.",
+      "text_he": "הידעת? קירות הבית צופו באבן יקרה לתפארת, והזהב שבו נקרא בפסוק ״זהב פרווים״.",
+      "text_en": "Did you know? The walls of the house were covered with precious stones for splendor, and the gold used in it was called “gold of Parvaim” in the verse."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? קודש הקודשים היה חדר מרובע: אורכו ורוחבו עשרים אמה, והוא צופה בזהב במשקל שש מאות כיכרים.",
+      "text_he": "הידעת? קודש הקודשים היה חדר מרובע: אורכו ורוחבו עשרים אמה, והוא צופה בזהב במשקל שש מאות כיכרים.",
+      "text_en": "Did you know? The Most Holy Place was a square room: its length and width were twenty cubits, and it was overlaid with gold weighing six hundred talents."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? בקודש הקודשים הוצבו שני כרובים עשויים ומצופים זהב, וכנפיהם יחד השתרעו על פני עשרים אמה.",
+      "text_he": "הידעת? בקודש הקודשים הוצבו שני כרובים עשויים ומצופים זהב, וכנפיהם יחד השתרעו על פני עשרים אמה.",
+      "text_en": "Did you know? Two cherubim made of wood and overlaid with gold were placed in the Most Holy Place, and their wings together stretched across twenty cubits."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? הפרוכת נעשתה מתכלת, ארגמן, כרמיל ובוץ, ועליה הועלו כרובים.",
+      "text_he": "הידעת? הפרוכת נעשתה מתכלת, ארגמן, כרמיל ובוץ, ועליה הועלו כרובים.",
+      "text_en": "Did you know? The curtain was made of blue, purple, crimson, and fine linen, with cherubim embroidered on it."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? שני העמודים שלפני ההיכל נקראו יכין — העמוד הימני, ובעז — העמוד השמאלי.",
+      "text_he": "הידעת? שני העמודים שלפני ההיכל נקראו יכין — העמוד הימני, ובעז — העמוד השמאלי.",
+      "text_en": "Did you know? The two pillars in front of the temple were called Jachin—the pillar on the right—and Boaz—the pillar on the left."
+    }
+  ]
+}

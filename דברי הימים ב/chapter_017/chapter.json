@@ -1,0 +1,385 @@
+{
+  "book": "II Chronicles",
+  "book_he": "דברי הימים ב",
+  "book_chapters": 36,
+  "chapter": 17,
+  "title": "דברי הימים ב פרק 17",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25b17.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t25b17.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2CH/17-9362284f9a672df0ad255e911c62605c.mp3?version_id=1",
+  "verses": [
+    "וַיִּמְלֹךְ יְהוֹשָׁפָט בְּנוֹ, תַּחְתָּיו; וַיִּתְחַזֵּק, עַל-יִשְׂרָאֵל.",
+    "וַיִּתֶּן-חַיִל--בְּכָל-עָרֵי יְהוּדָה, הַבְּצֻרוֹת; וַיִּתֵּן נְצִיבִים, בְּאֶרֶץ יְהוּדָה, וּבְעָרֵי אֶפְרַיִם, אֲשֶׁר לָכַד אָסָא אָבִיו.",
+    "וַיְהִי יְהוָה, עִם-יְהוֹשָׁפָט: כִּי הָלַךְ, בְּדַרְכֵי דָּוִיד אָבִיו הָרִאשֹׁנִים, וְלֹא דָרַשׁ, לַבְּעָלִים.",
+    "כִּי לֵאלֹהֵי אָבִיו, דָּרָשׁ, וּבְמִצְוֺתָיו, הָלָךְ; וְלֹא, כְּמַעֲשֵׂה יִשְׂרָאֵל.",
+    "וַיָּכֶן יְהוָה אֶת-הַמַּמְלָכָה בְּיָדוֹ, וַיִּתְּנוּ כָל-יְהוּדָה מִנְחָה לִיהוֹשָׁפָט; וַיְהִי-לוֹ עֹשֶׁר-וְכָבוֹד, לָרֹב.",
+    "וַיִּגְבַּהּ לִבּוֹ, בְּדַרְכֵי יְהוָה; וְעוֹד, הֵסִיר אֶת-הַבָּמוֹת וְאֶת-הָאֲשֵׁרִים--מִיהוּדָה.",
+    "וּבִשְׁנַת שָׁלוֹשׁ לְמָלְכוֹ, שָׁלַח לְשָׂרָיו לְבֶן-חַיִל וּלְעֹבַדְיָה וְלִזְכַרְיָה, וְלִנְתַנְאֵל, וּלְמִיכָיָהוּ--לְלַמֵּד, בְּעָרֵי יְהוּדָה.",
+    "וְעִמָּהֶם הַלְוִיִּם, שְׁמַעְיָהוּ וּנְתַנְיָהוּ וּזְבַדְיָהוּ וַעֲשָׂהאֵל ושמרימות וּשְׁמִירָמוֹת וִיהוֹנָתָן וַאֲדֹנִיָּהוּ וְטוֹבִיָּהוּ וְטוֹב אֲדוֹנִיָּה--הַלְוִיִּם; וְעִמָּהֶם אֱלִישָׁמָע וִיהוֹרָם, הַכֹּהֲנִים.",
+    "וַיְלַמְּדוּ, בִּיהוּדָה, וְעִמָּהֶם, סֵפֶר תּוֹרַת יְהוָה; וַיָּסֹבּוּ בְּכָל-עָרֵי יְהוּדָה, וַיְלַמְּדוּ בָּעָם.",
+    "וַיְהִי פַּחַד יְהוָה, עַל כָּל-מַמְלְכוֹת הָאֲרָצוֹת, אֲשֶׁר, סְבִיבוֹת יְהוּדָה; וְלֹא נִלְחֲמוּ, עִם-יְהוֹשָׁפָט.",
+    "וּמִן-פְּלִשְׁתִּים, מְבִיאִים לִיהוֹשָׁפָט מִנְחָה--וְכֶסֶף מַשָּׂא; גַּם הָעַרְבִיאִים, מְבִיאִים לוֹ צֹאן, אֵילִים שִׁבְעַת אֲלָפִים וּשְׁבַע מֵאוֹת, וּתְיָשִׁים שִׁבְעַת אֲלָפִים וּשְׁבַע מֵאוֹת.",
+    "וַיְהִי יְהוֹשָׁפָט הֹלֵךְ וְגָדֵל, עַד-לְמָעְלָה; וַיִּבֶן בִּיהוּדָה בִּירָנִיּוֹת, וְעָרֵי מִסְכְּנוֹת.",
+    "וּמְלָאכָה רַבָּה הָיָה לוֹ, בְּעָרֵי יְהוּדָה; וְאַנְשֵׁי מִלְחָמָה גִּבּוֹרֵי חַיִל, בִּירוּשָׁלִָם.",
+    "וְאֵלֶּה פְקֻדָּתָם, לְבֵית אֲבוֹתֵיהֶם: לִיהוּדָה, שָׂרֵי אֲלָפִים-- {ס} עַדְנָה הַשָּׂר, וְעִמּוֹ גִּבּוֹרֵי חַיִל שְׁלֹשׁ מֵאוֹת אָלֶף.",
+    "וְעַל-יָדוֹ, יְהוֹחָנָן הַשָּׂר; וְעִמּוֹ, מָאתַיִם וּשְׁמוֹנִים אָלֶף.",
+    "וְעַל-יָדוֹ עֲמַסְיָה בֶן-זִכְרִי, הַמִּתְנַדֵּב לַיהוָה; וְעִמּוֹ מָאתַיִם אֶלֶף, גִּבּוֹר חָיִל.",
+    "וּמִן-בִּנְיָמִן--גִּבּוֹר חַיִל, אֶלְיָדָע; וְעִמּוֹ נֹשְׁקֵי-קֶשֶׁת וּמָגֵן, מָאתַיִם אָלֶף.",
+    "וְעַל-יָדוֹ, יְהוֹזָבָד; וְעִמּוֹ מֵאָה-וּשְׁמוֹנִים אֶלֶף, חֲלוּצֵי צָבָא.",
+    "אֵלֶּה, הַמְשָׁרְתִים אֶת-הַמֶּלֶךְ: מִלְּבַד אֲשֶׁר-נָתַן הַמֶּלֶךְ, בְּעָרֵי הַמִּבְצָר--בְּכָל-יְהוּדָה."
+  ],
+  "english": [
+    "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.",
+    "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.",
+    "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;",
+    "But sought to the\nLORD God of his father, and walked in his commandments, and not after the doings of Israel.",
+    "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.",
+    "And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah.",
+    "Also in the third year of his reign he sent to his princes,\neven\n to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.",
+    "And with them\nhe sent Levites,\neven Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests.",
+    "And they taught in Judah, and\nhad the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.",
+    "And the fear of the LORD fell upon all the kingdoms of the lands that\nwere round about Judah, so that they made no war against Jehoshaphat.",
+    "Also\nsome of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.",
+    "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.",
+    "And he had much business in the cities of Judah: and the men of war, mighty men of valour,\nwere in Jerusalem.",
+    "And these\nare the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.",
+    "And next to him\nwas Jehohanan the captain, and with him two hundred and fourscore thousand.",
+    "And next him\nwas Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.",
+    "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.",
+    "And next him\nwas Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.",
+    "These waited on the king, beside\nthose whom the king put in the fenced cities throughout all Judah."
+  ],
+  "steinsaltz": [
+    "וַיִּמְלֹךְ יְהוֹשָׁפָט בְּנוֹ של אסא תַּחְתָּיו, וַיִּתְחַזֵּק במלכותו עַל־יִשְׂרָאֵל.",
+    "וַיִּתֶּן־חַיִל בְּכָל־עָרֵי יְהוּדָה הַבְּצֻרוֹת, וַיִּתֵּן נְצִיבִים, מפקדי יחידות משמר בְּאֶרֶץ יְהוּדָה וּבְעָרֵי אֶפְרַיִם אֲשֶׁר לָכַד אָסָא אָבִיו. אלה היו מקומות שאביו כבש על הגבול.",
+    "וַיְהִי ה' עִם־יְהוֹשָׁפָט, כִּי הָלַךְ בְּדַרְכֵי דָּוִיד אָבִיו הָרִאשֹׁנִים וְלֹא דָרַשׁ, פנה לַבְּעָלִים,",
+    "כִּי אם לֵאלֹהֵי אָבִיו דָּרָשׁ וּבְמִצְוֹתָיו הָלָךְ, וְלֹא כְּמַעֲשֵׂה ממלכת יִשְׂרָאֵל.",
+    "וַיָּכֶן, ביסס ה' אֶת־הַמַּמְלָכָה בְּיָדוֹ. וַיִּתְּנוּ כָל־יְהוּדָה מִנְחָה, מתנות לאות כניעה ונאמנות לִיהוֹשָׁפָט, וַיְהִי־לוֹ עֹשֶׁר וְכָבוֹד לָרֹב.",
+    "וַיִּגְבַּהּ לִבּוֹ, התנשא, התפאר, כלומר הלך ביתר עוז ואומץ בְּדַרְכֵי ה'. וְעוֹד הוסיף על מעשי אביו והֵסִיר אֶת־הַבָּמוֹת וְאֶת־הָאֲשֵׁרִים מִיהוּדָה. העבודה בבמה פרטית ועבודת האלילים שוב צצו ועלו, ומפעם לפעם היה צורך לבער מִיהוּדָה. את שרידיהן.",
+    "וּבִשְׁנַת שָׁלוֹשׁ לְמָלְכוֹ שָׁלַח לְשָׂרָיו, את שריו – לְבֶן־חַיִל – שם פרטי וּלְעֹבַדְיָה וְלִזְכַרְיָה וְלִנְתַנְאֵל וּלְמִיכָיָהוּ כדי לְלַמֵּד, להנהיג לימוד תורה פומבי מטעם המלכות בְּעָרֵי יְהוּדָה.",
+    "וְעִמָּהֶם באו גם הַלְוִיִּם, שהיו כנראה המורים הקבועים, שְׁמַעְיָהוּ וּנְתַנְיָהוּ וּזְבַדְיָהוּ וַעֲשָׂהאֵל וּשְׁמִירָמוֹת וִיהוֹנָתָן וַאֲדֹנִיָּהוּ וְטוֹבִיָּהוּ וְטוֹב אֲדוֹנִיָּה הַלְוִיִּם, וְעִמָּהֶם אֱלִישָׁמָע וִיהוֹרָם הַכֹּהֲנִים. תָן וַאֲדֹנִיָּהוּ וְטוֹבִיָּהוּ וְטוֹב אֲדוֹנִיָּה הַלְוִיִּם, וְעִמָּהֶם אֱלִישָׁמָע וִיהוֹרָם הַכֹּהֲנִים.",
+    "וַיְלַמְּדוּ בִּיהוּדָה, וְעִמָּהֶם סֵפֶר תּוֹרַת ה', וַיָּסֹבּוּ, הסתובבו בְּכָל־עָרֵי יְהוּדָה וַיְלַמְּדוּ בָּעָם.",
+    "וַיְהִי פַּחַד ה' עַל כָּל־מַמְלְכוֹת הָאֲרָצוֹת אֲשֶׁר סְבִיבוֹת יְהוּדָה, וְלֹא נִלְחֲמוּ עִם־יְהוֹשָׁפָט.",
+    "וּמִן־פְּלִשְׁתִּים מְבִיאִים לִיהוֹשָׁפָט מִנְחָה וְכֶסֶף מַשָּׂא, מטען של מתנות. גַּם הָעַרְבִיאִים מְבִיאִים לוֹ צֹאן אֵילִים שִׁבְעַת אֲלָפִים וּשְׁבַע מֵאוֹת וּתְיָשִׁים שִׁבְעַת אֲלָפִים וּשְׁבַע מֵאוֹת. אמנם העמים הסובבים לא היו משועבדים לו לחלוטין, אבל הם התייחסו אליו בתור גדול המלכים, וכל אחד מהם הביא לו מתנות לפי דרכו. בגלל הביטחון המדיני היה באפשרותו לערוך תיקונים ולפתח את המדינה באופן רוחני וחומרי –",
+    "וַיְהִי יְהוֹשָׁפָט הֹלֵךְ וְגָדֵל עַד־לְמָעְלָה: וַיִּבֶן בִּיהוּדָה בִּירָנִיּוֹת, מצודות, ערי מבצר קטנות וְעָרֵי מִסְכְּנוֹת, מחסנים ואוצרות.",
+    "וּמְלָאכָה, עבודה ותוצרת רַבָּה הָיָה לוֹ בְּעָרֵי יְהוּדָה, וְאַנְשֵׁי מִלְחָמָה גִּבּוֹרֵי חַיִל היו לו גם בִּירוּשָׁלִָם.",
+    "וְאֵלֶּה פְקֻדָּתָם, כלל הפקידים לְבֵית אֲבוֹתֵיהֶם: לִיהוּדָה היו שָׂרֵי אֲלָפִים: עַדְנָה הַשָּׂר, הממונה על צבא יהודה, וְעִמּוֹ גִּבּוֹרֵי חַיִל שְׁלֹשׁ מֵאוֹת אָלֶף.",
+    "וְעַל־יָדוֹ, לצדו היה יְהוֹחָנָן הַשָּׂר, וְעִמּוֹ מָאתַיִם וּשְׁמוֹנִים אָלֶף.",
+    "וְעַל־יָדוֹ עֲמַסְיָה בֶן־זִכְרִי הַמִּתְנַדֵּב לַה', בגופו או ברכושו, וְעִמּוֹ מָאתַיִם אֶלֶף גִּבּוֹר חָיִל. נראה שהיחידות העצומות הללו היו בעיקרן יחידות מילואים. מסתבר שישראל נהגו לפקוד לצבא את כל מי שמוכשר לאחוז בנשק, אף על פי שבפועל שירתו רק כמה גדודים.",
+    "וּמִן־בִּנְיָמִן היה גִּבּוֹר חַיִל שנקרא אֶלְיָדָע, וְעִמּוֹ נֹשְׁקֵי־קֶשֶׁת וּמָגֵן מָאתַיִם אָלֶף.",
+    "וְעַל־יָדוֹ יְהוֹזָבָד, וְעִמּוֹ מֵאָה־וּשְׁמוֹנִים אֶלֶף חֲלוּצֵי צָבָא.",
+    "אֵלֶּה הַמְשָׁרְתִים אֶת־הַמֶּלֶךְ מִלְּבַד האנשים אֲשֶׁר־נָתַן הַמֶּלֶךְ בְּעָרֵי הַמִּבְצָר בְּכָל־יְהוּדָה. ממלכת יהודה ישבה בשלווה, ויהושפט המשיך את מעשיו של אסא אביו ופעל ברוח ובחומר לחזק ולרומם את יושבי הארץ."
+  ],
+  "ai_explanation": [
+    "יהושפט, בנו של אסא, מלך תחתיו והתחזק במלכותו על ישראל.",
+    "יהושפט חיזק את כל ערי יהודה הבצורות והציב בהן מפקדי יחידות משמר. הוא הציב מפקדים גם בערי אפרים שאביו אסא כבש על הגבול.",
+    "ה' היה עם יהושפט, מפני שהלך בדרכיו הראשונות והטובות של דוד אביו ולא פנה לעבודת הבעלים.",
+    "יהושפט דרש את אלוהי אביו, קיים את מצוותיו ולא נהג כמעשי ממלכת ישראל.",
+    "ה' ביסס את הממלכה ביד יהושפט. כל יהודה הביאה לו מתנות לאות כניעה ונאמנות, והוא זכה לעושר ולכבוד רב.",
+    "יהושפט התחזק והתפאר בהליכה בדרכי ה'. נוסף על מעשי אביו, הוא הסיר מיהודה את הבמות ואת האשרים, שעבודתם שוב צצה מפעם לפעם והיה צורך לבער את שרידיה.",
+    "בשנתו השלישית שלח יהושפט את שריו לערי יהודה כדי להנהיג בהן לימוד תורה פומבי מטעם המלכות.",
+    "עם השרים באו הלויים, שהיו כנראה המורים הקבועים, וכן אלישמע ויהורם הכוהנים.",
+    "המלמדים עברו בכל ערי יהודה, כשספר תורת ה' עמם, ולימדו את העם.",
+    "פחד ה' חל על הממלכות שסבבו את יהודה, ולכן הן לא נלחמו ביהושפט.",
+    "הפלשתים הביאו ליהושפט מנחה וכסף בכמות גדולה, וגם הערבים הביאו לו צאן. העמים הסובבים לא היו משועבדים לו לחלוטין, אך ראו בו מלך גדול והביאו לו מתנות; הביטחון המדיני אפשר לו לפתח את המדינה מבחינה רוחנית וחומרית.",
+    "יהושפט הלך וגדל עד למעלה ובנה ביהודה בירניות, כלומר מצודות וערי מבצר קטנות, וכן ערי מסכנות ששימשו מחסנים ואוצרות.",
+    "בכל ערי יהודה הייתה ליהושפט עבודה ותוצרת רבה, ובירושלים היו לו אנשי מלחמה גיבורי חיל.",
+    "ביהודה היו שרי אלפים. עדנה היה השר הממונה על צבא יהודה, ועמו היו שלוש מאות אלף גיבורי חיל.",
+    "לצדו של עדנה היה יהוחנן השר, ועמו מאתיים ושמונים אלף איש.",
+    "לצדו היה עמסיה בן זכרי, שהתנדב לה' בגופו או ברכושו, ועמו מאתיים אלף גיבורי חיל. ייתכן שמספרים עצומים אלה מתייחסים בעיקר ליחידות מילואים, אף שבפועל שירתו רק כמה גדודים.",
+    "מבנימין היה אלידע, גיבור חיל, ועמו מאתיים אלף נושקי קשת ומגן.",
+    "לצדו היה יהוזבד, ועמו מאה ושמונים אלף חלוצי צבא.",
+    "אלה היו האנשים ששירתו את המלך, מלבד האנשים שהמלך הציב בערי המבצר בכל יהודה. הממלכה ישבה בשלווה, ויהושפט המשיך את פעולות אסא אביו לחיזוק הארץ ולרוממות יושביה ברוח ובחומר."
+  ],
+  "ai_explanation_en": [
+    "Jehoshaphat, Asa’s son, became king in his place and grew strong in his rule over Israel.",
+    "Jehoshaphat strengthened all the fortified cities of Judah and placed commanders of guard units in them. He also stationed commanders in the cities of Ephraim that his father Asa had captured on the border.",
+    "The Lord was with Jehoshaphat because he followed the earlier, good ways of David his ancestor and did not turn to the worship of the Baals.",
+    "Jehoshaphat sought the God of his father, followed His commandments, and did not act like the kingdom of Israel.",
+    "The Lord established the kingdom in Jehoshaphat’s hands. All Judah brought him gifts as a sign of submission and loyalty, and he gained great wealth and honor.",
+    "Jehoshaphat grew confident and took pride in following the ways of the Lord. In addition to his father’s actions, he removed from Judah the high places and the Asherim, whose worship had reappeared from time to time and whose remnants had to be destroyed.",
+    "In the third year of his reign, Jehoshaphat sent his officials to the cities of Judah to organize public Torah instruction on behalf of the monarchy.",
+    "The Levites went with the officials; they were apparently the regular teachers. Elishama and Jehoram the priests also accompanied them.",
+    "The teachers traveled through all the cities of Judah with the Book of the Law of the Lord and taught the people.",
+    "The fear of the Lord fell upon the kingdoms surrounding Judah, so they did not wage war against Jehoshaphat.",
+    "The Philistines brought Jehoshaphat tribute and a large amount of silver, and the Arabians also brought him flocks. The surrounding peoples were not completely subject to him, but they regarded him as a great king and brought him gifts; this political security enabled him to develop the state spiritually and materially.",
+    "Jehoshaphat continued to grow in greatness. He built in Judah fortresses, meaning small fortified strongholds, as well as storage cities for warehouses and treasuries.",
+    "Jehoshaphat had extensive labor and production in the cities of Judah, and in Jerusalem he had men of war, mighty warriors.",
+    "Judah had commanders of thousands. Adnah was the commander in charge of Judah’s army, and with him were three hundred thousand mighty warriors.",
+    "Beside Adnah was Jehohanan the commander, with two hundred and eighty thousand men.",
+    "Beside him was Amasiah son of Zichri, who volunteered for the Lord with his person or property, and with him were two hundred thousand mighty warriors. These enormous numbers may have referred mainly to reserve units, although only a few battalions actually served at a given time.",
+    "From Benjamin there was Eliada, a mighty warrior, with two hundred thousand men armed with bows and shields.",
+    "Beside him was Jehozabad, with one hundred and eighty thousand trained soldiers.",
+    "These were the men who served the king, in addition to those whom the king stationed in the fortified cities throughout Judah. The kingdom lived in security, and Jehoshaphat continued the work of his father Asa, strengthening and elevating the people both spiritually and materially."
+  ],
+  "perush": [
+    "יהושפט, בנו של אסא, מלך תחתיו והתחזק במלכותו על ישראל.",
+    "יהושפט חיזק את כל ערי יהודה הבצורות והציב בהן מפקדי יחידות משמר. הוא הציב מפקדים גם בערי אפרים שאביו אסא כבש על הגבול.",
+    "ה' היה עם יהושפט, מפני שהלך בדרכיו הראשונות והטובות של דוד אביו ולא פנה לעבודת הבעלים.",
+    "יהושפט דרש את אלוהי אביו, קיים את מצוותיו ולא נהג כמעשי ממלכת ישראל.",
+    "ה' ביסס את הממלכה ביד יהושפט. כל יהודה הביאה לו מתנות לאות כניעה ונאמנות, והוא זכה לעושר ולכבוד רב.",
+    "יהושפט התחזק והתפאר בהליכה בדרכי ה'. נוסף על מעשי אביו, הוא הסיר מיהודה את הבמות ואת האשרים, שעבודתם שוב צצה מפעם לפעם והיה צורך לבער את שרידיה.",
+    "בשנתו השלישית שלח יהושפט את שריו לערי יהודה כדי להנהיג בהן לימוד תורה פומבי מטעם המלכות.",
+    "עם השרים באו הלויים, שהיו כנראה המורים הקבועים, וכן אלישמע ויהורם הכוהנים.",
+    "המלמדים עברו בכל ערי יהודה, כשספר תורת ה' עמם, ולימדו את העם.",
+    "פחד ה' חל על הממלכות שסבבו את יהודה, ולכן הן לא נלחמו ביהושפט.",
+    "הפלשתים הביאו ליהושפט מנחה וכסף בכמות גדולה, וגם הערבים הביאו לו צאן. העמים הסובבים לא היו משועבדים לו לחלוטין, אך ראו בו מלך גדול והביאו לו מתנות; הביטחון המדיני אפשר לו לפתח את המדינה מבחינה רוחנית וחומרית.",
+    "יהושפט הלך וגדל עד למעלה ובנה ביהודה בירניות, כלומר מצודות וערי מבצר קטנות, וכן ערי מסכנות ששימשו מחסנים ואוצרות.",
+    "בכל ערי יהודה הייתה ליהושפט עבודה ותוצרת רבה, ובירושלים היו לו אנשי מלחמה גיבורי חיל.",
+    "ביהודה היו שרי אלפים. עדנה היה השר הממונה על צבא יהודה, ועמו היו שלוש מאות אלף גיבורי חיל.",
+    "לצדו של עדנה היה יהוחנן השר, ועמו מאתיים ושמונים אלף איש.",
+    "לצדו היה עמסיה בן זכרי, שהתנדב לה' בגופו או ברכושו, ועמו מאתיים אלף גיבורי חיל. ייתכן שמספרים עצומים אלה מתייחסים בעיקר ליחידות מילואים, אף שבפועל שירתו רק כמה גדודים.",
+    "מבנימין היה אלידע, גיבור חיל, ועמו מאתיים אלף נושקי קשת ומגן.",
+    "לצדו היה יהוזבד, ועמו מאה ושמונים אלף חלוצי צבא.",
+    "אלה היו האנשים ששירתו את המלך, מלבד האנשים שהמלך הציב בערי המבצר בכל יהודה. הממלכה ישבה בשלווה, ויהושפט המשיך את פעולות אסא אביו לחיזוק הארץ ולרוממות יושביה ברוח ובחומר."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ביסוס מלכות יהושפט והליכה בדרכי ה'",
+      "title_en": "The Establishment of Jehoshaphat’s Kingdom and His Faithfulness",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "יהושפט מתחזק במלכותו, מבצר את ערי יהודה, פועל בנאמנות לאלוהי אביו, זוכה לביסוס הממלכה ולעושר, ומסיר את הבמות והאשרים.",
+      "summary_en": "Jehoshaphat strengthens his rule, fortifies the cities of Judah, remains faithful to his father’s God, gains an established and prosperous kingdom, and removes the high places and Asherim.",
+      "image_prompt": "Biblical-era king Jehoshaphat overseeing fortified cities in Judah, soldiers at the gates, royal officials, and the removal of pagan symbols, dignified historical illustration, no modern elements"
+    },
+    {
+      "title": "לימוד התורה בערי יהודה",
+      "title_en": "Teaching the Torah in the Cities of Judah",
+      "start_verse": 7,
+      "end_verse": 9,
+      "summary": "בשנה השלישית למלכותו שולח יהושפט שרים, לויים וכוהנים לערי יהודה כדי ללמד את העם באמצעות ספר תורת ה'.",
+      "summary_en": "In the third year of his reign, Jehoshaphat sends officials, Levites, and priests through the cities of Judah to teach the people from the Book of the Law of the Lord.",
+      "image_prompt": "Levites, priests, and royal officials teaching a gathered crowd in an ancient Judahite town, an open scroll of Torah held prominently, respectful biblical historical scene"
+    },
+    {
+      "title": "ביטחון מדיני, בנייה ושגשוג",
+      "title_en": "Political Security, Construction, and Prosperity",
+      "start_verse": 10,
+      "end_verse": 13,
+      "summary": "פחד ה' מונע מהממלכות הסובבות להילחם ביהודה, עמים מביאים ליהושפט מתנות, והוא בונה מצודות, ערי מסכנות ומפתח את הארץ.",
+      "summary_en": "The fear of the Lord prevents the surrounding kingdoms from attacking Judah; peoples bring Jehoshaphat gifts, and he builds fortresses and storage cities while developing the land.",
+      "image_prompt": "Prosperous ancient Judah with small fortified strongholds, storage buildings, caravans bringing gifts and livestock, peaceful countryside, biblical historical illustration"
+    },
+    {
+      "title": "ארגון הצבא ושירות המלך",
+      "title_en": "The Organization of the Army and Royal Service",
+      "start_verse": 14,
+      "end_verse": 19,
+      "summary": "הכתוב מונה את שרי האלפים ואת גיבורי החיל של יהודה ובנימין, ומבהיר שהם מצטרפים לאנשים שהוצבו בערי המבצר.",
+      "summary_en": "The passage lists the commanders of thousands and the mighty warriors of Judah and Benjamin, in addition to the men stationed in the fortified cities.",
+      "image_prompt": "Ancient Judahite military commanders reviewing organized troops with bows, shields, and spears near a fortified city, solemn biblical historical scene, no modern weapons"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 8.82,
+      "usfm": "2CH.17.1"
+    },
+    {
+      "start": 8.82,
+      "end": 19.42,
+      "usfm": "2CH.17.2"
+    },
+    {
+      "start": 19.42,
+      "end": 27.9,
+      "usfm": "2CH.17.3"
+    },
+    {
+      "start": 27.9,
+      "end": 33.62,
+      "usfm": "2CH.17.4"
+    },
+    {
+      "start": 33.62,
+      "end": 43.1,
+      "usfm": "2CH.17.5"
+    },
+    {
+      "start": 43.1,
+      "end": 50.06,
+      "usfm": "2CH.17.6"
+    },
+    {
+      "start": 50.06,
+      "end": 63.08,
+      "usfm": "2CH.17.7"
+    },
+    {
+      "start": 63.08,
+      "end": 80.84,
+      "usfm": "2CH.17.8"
+    },
+    {
+      "start": 80.84,
+      "end": 89.38,
+      "usfm": "2CH.17.9"
+    },
+    {
+      "start": 89.38,
+      "end": 97.92,
+      "usfm": "2CH.17.10"
+    },
+    {
+      "start": 97.92,
+      "end": 109.82,
+      "usfm": "2CH.17.11"
+    },
+    {
+      "start": 109.82,
+      "end": 116.88,
+      "usfm": "2CH.17.12"
+    },
+    {
+      "start": 116.88,
+      "end": 122.96,
+      "usfm": "2CH.17.13"
+    },
+    {
+      "start": 122.96,
+      "end": 132.52,
+      "usfm": "2CH.17.14"
+    },
+    {
+      "start": 132.52,
+      "end": 137.66,
+      "usfm": "2CH.17.15"
+    },
+    {
+      "start": 137.66,
+      "end": 146.7,
+      "usfm": "2CH.17.16"
+    },
+    {
+      "start": 146.7,
+      "end": 153.88,
+      "usfm": "2CH.17.17"
+    },
+    {
+      "start": 153.88,
+      "end": 159.98,
+      "usfm": "2CH.17.18"
+    },
+    {
+      "start": 159.98,
+      "end": 172.16,
+      "usfm": "2CH.17.19"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    8.82,
+    19.42,
+    27.9,
+    33.62,
+    43.1,
+    50.06,
+    63.08,
+    80.84,
+    89.38,
+    97.92,
+    109.82,
+    116.88,
+    122.96,
+    132.52,
+    137.66,
+    146.7,
+    153.88,
+    159.98,
+    172.16
+  ],
+  "times_en_usfm": [
+    "2CH.17.1",
+    "2CH.17.2",
+    "2CH.17.3",
+    "2CH.17.4",
+    "2CH.17.5",
+    "2CH.17.6",
+    "2CH.17.7",
+    "2CH.17.8",
+    "2CH.17.9",
+    "2CH.17.10",
+    "2CH.17.11",
+    "2CH.17.12",
+    "2CH.17.13",
+    "2CH.17.14",
+    "2CH.17.15",
+    "2CH.17.16",
+    "2CH.17.17",
+    "2CH.17.18",
+    "2CH.17.19"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? יהושפט התחזק במלכותו לאחר שעלה על כס המלוכה, והכתוב מציין שהוא התחזק גם מול ממלכת ישראל.",
+      "text_he": "הידעת? יהושפט התחזק במלכותו לאחר שעלה על כס המלוכה, והכתוב מציין שהוא התחזק גם מול ממלכת ישראל.",
+      "text_en": "Did you know? Jehoshaphat strengthened his position in the kingdom after ascending the throne, and the text notes that he also grew stronger against the kingdom of Israel."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? יהושפט הציב חילות ונציבים בערי יהודה הבצורות, וכן בערי אפרים שאסא אביו לכד.",
+      "text_he": "הידעת? יהושפט הציב חילות ונציבים בערי יהודה הבצורות, וכן בערי אפרים שאסא אביו לכד.",
+      "text_en": "Did you know? Jehoshaphat stationed troops and officials in the fortified cities of Judah, as well as in the cities of Ephraim that his father Asa had captured."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? נאמנותו של יהושפט מתוארת בכך שהלך בדרכי דוד, לא דרש את הבעלים ודרש את אלוהי אביו.",
+      "text_he": "הידעת? נאמנותו של יהושפט מתוארת בכך שהלך בדרכי דוד, לא דרש את הבעלים ודרש את אלוהי אביו.",
+      "text_en": "Did you know? Jehoshaphat’s faithfulness is shown by the fact that he followed the ways of David, did not seek the Baals, and sought the God of his father."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? לצד התחזקותו במלכות, יהושפט הסיר מיהודה את הבמות ואת האשרים, ובכך המשיך את תיקוני עבודת ה' בממלכה.",
+      "text_he": "הידעת? לצד התחזקותו במלכות, יהושפט הסיר מיהודה את הבמות ואת האשרים, ובכך המשיך את תיקוני עבודת ה' בממלכה.",
+      "text_en": "Did you know? Along with strengthening his rule, Jehoshaphat removed the high places and Asherah poles from Judah, thus continuing the reforms in the worship of the Lord throughout the kingdom."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? בשנה השלישית למלכותו שלח יהושפט שרים לערי יהודה כדי ללמד את העם.",
+      "text_he": "הידעת? בשנה השלישית למלכותו שלח יהושפט שרים לערי יהודה כדי ללמד את העם.",
+      "text_en": "Did you know? In the third year of his reign, Jehoshaphat sent officials to the cities of Judah to teach the people."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? משלחת ההוראה כללה שרים, לויים וכוהנים, והם עברו בערי יהודה כשעמם ספר תורת ה' ולימדו את העם.",
+      "text_he": "הידעת? משלחת ההוראה כללה שרים, לויים וכוהנים, והם עברו בערי יהודה כשעמם ספר תורת ה' ולימדו את העם.",
+      "text_en": "Did you know? The teaching delegation included officials, Levites, and priests. They traveled throughout the cities of Judah with the Book of the Law of the Lord and taught the people."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? לפי הכתוב, פחד ה' נפל על הממלכות שסביב יהודה, ולכן הן לא נלחמו ביהושפט.",
+      "text_he": "הידעת? לפי הכתוב, פחד ה' נפל על הממלכות שסביב יהודה, ולכן הן לא נלחמו ביהושפט.",
+      "text_en": "Did you know? According to the text, the fear of the Lord fell on the kingdoms surrounding Judah, so they did not wage war against Jehoshaphat."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? הפלשתים הביאו ליהושפט מנחה וכסף, והערבים הביאו לו 7,700 אילים ו-7,700 תיישים.",
+      "text_he": "הידעת? הפלשתים הביאו ליהושפט מנחה וכסף, והערבים הביאו לו 7,700 אילים ו-7,700 תיישים.",
+      "text_en": "Did you know? The Philistines brought Jehoshaphat tribute and silver, and the Arabs brought him 7,700 rams and 7,700 male goats."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? יהושפט הלך וגדל, ובנה ביהודה בירניות — מבצרים או מצודות — וכן ערי מסכנות, כלומר ערי אחסון ואוצרות.",
+      "text_he": "הידעת? יהושפט הלך וגדל, ובנה ביהודה בירניות — מבצרים או מצודות — וכן ערי מסכנות, כלומר ערי אחסון ואוצרות.",
+      "text_en": "Did you know? Jehoshaphat continued to grow stronger. He built fortresses, or strongholds, in Judah, as well as store cities for supplies and treasures."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? בסוף הפרק נמנים שרי האלפים וגיבורי החיל של יהודה ובנימין, והכתוב מדגיש שהם שירתו את המלך נוסף על החיילים שהוצבו בערי המבצר.",
+      "text_he": "הידעת? בסוף הפרק נמנים שרי האלפים וגיבורי החיל של יהודה ובנימין, והכתוב מדגיש שהם שירתו את המלך נוסף על החיילים שהוצבו בערי המבצר.",
+      "text_en": "Did you know? At the end of the chapter, the commanders of thousands and the mighty warriors of Judah and Benjamin are listed, and the text emphasizes that they served the king in addition to the soldiers stationed in the fortified cities."
+    }
+  ]
+}
