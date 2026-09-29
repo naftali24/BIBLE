@@ -1,0 +1,516 @@
+{
+  "book": "I Samuel",
+  "book_he": "שמואל א",
+  "book_chapters": 31,
+  "chapter": 9,
+  "title": "שמואל א פרק 9",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a09.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a09.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1SA/9-a1b280ce887e20870d40f019a575fa8c.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי-אִישׁ מבן ימין מִבִּנְיָמִין , וּשְׁמוֹ קִישׁ בֶּן-אֲבִיאֵל בֶּן-צְרוֹר בֶּן-בְּכוֹרַת בֶּן-אֲפִיחַ--בֶּן-אִישׁ יְמִינִי: גִּבּוֹר, חָיִל.",
+    "וְלוֹ-הָיָה בֵן וּשְׁמוֹ שָׁאוּל, בָּחוּר וָטוֹב, וְאֵין אִישׁ מִבְּנֵי יִשְׂרָאֵל, טוֹב מִמֶּנּוּ; מִשִּׁכְמוֹ וָמַעְלָה, גָּבֹהַּ מִכָּל-הָעָם.",
+    "וַתֹּאבַדְנָה, הָאֲתֹנוֹת, לְקִישׁ, אֲבִי שָׁאוּל; וַיֹּאמֶר קִישׁ אֶל-שָׁאוּל בְּנוֹ, קַח-נָא אִתְּךָ אֶת-אַחַד מֵהַנְּעָרִים, וְקוּם לֵךְ, בַּקֵּשׁ אֶת-הָאֲתֹנֹת.",
+    "וַיַּעֲבֹר בְּהַר-אֶפְרַיִם וַיַּעֲבֹר בְּאֶרֶץ-שָׁלִשָׁה, וְלֹא מָצָאוּ; וַיַּעַבְרוּ בְאֶרֶץ-שַׁעֲלִים וָאַיִן, וַיַּעֲבֹר בְּאֶרֶץ-יְמִינִי וְלֹא מָצָאוּ.",
+    "הֵמָּה, בָּאוּ בְּאֶרֶץ צוּף, וְשָׁאוּל אָמַר לְנַעֲרוֹ אֲשֶׁר-עִמּוֹ, לְכָה וְנָשׁוּבָה--פֶּן-יֶחְדַּל אָבִי מִן-הָאֲתֹנוֹת, וְדָאַג לָנוּ.",
+    "וַיֹּאמֶר לוֹ, הִנֵּה-נָא אִישׁ-אֱלֹהִים בָּעִיר הַזֹּאת, וְהָאִישׁ נִכְבָּד, כֹּל אֲשֶׁר-יְדַבֵּר בּוֹא יָבוֹא; עַתָּה, נֵלְכָה שָּׁם--אוּלַי יַגִּיד לָנוּ, אֶת-דַּרְכֵּנוּ אֲשֶׁר-הָלַכְנוּ עָלֶיהָ.",
+    "וַיֹּאמֶר שָׁאוּל לְנַעֲרוֹ, וְהִנֵּה נֵלֵךְ וּמַה-נָּבִיא לָאִישׁ--כִּי הַלֶּחֶם אָזַל מִכֵּלֵינוּ, וּתְשׁוּרָה אֵין-לְהָבִיא לְאִישׁ הָאֱלֹהִים: מָה, אִתָּנוּ.",
+    "וַיֹּסֶף הַנַּעַר, לַעֲנוֹת אֶת-שָׁאוּל, וַיֹּאמֶר, הִנֵּה נִמְצָא בְיָדִי רֶבַע שֶׁקֶל כָּסֶף; וְנָתַתִּי לְאִישׁ הָאֱלֹהִים, וְהִגִּיד לָנוּ אֶת-דַּרְכֵּנוּ.",
+    "לְפָנִים בְּיִשְׂרָאֵל, כֹּה-אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ אֱלֹהִים, לְכוּ וְנֵלְכָה, עַד-הָרֹאֶה: כִּי לַנָּבִיא הַיּוֹם, יִקָּרֵא לְפָנִים הָרֹאֶה.",
+    "וַיֹּאמֶר שָׁאוּל לְנַעֲרוֹ טוֹב דְּבָרְךָ, לְכָה נֵלֵכָה; וַיֵּלְכוּ, אֶל-הָעִיר, אֲשֶׁר-שָׁם, אִישׁ הָאֱלֹהִים.",
+    "הֵמָּה, עֹלִים בְּמַעֲלֵה הָעִיר, וְהֵמָּה מָצְאוּ נְעָרוֹת, יֹצְאוֹת לִשְׁאֹב מָיִם; וַיֹּאמְרוּ לָהֶן, הֲיֵשׁ בָּזֶה הָרֹאֶה.",
+    "וַתַּעֲנֶינָה אוֹתָם וַתֹּאמַרְנָה יֵּשׁ, הִנֵּה לְפָנֶיךָ; מַהֵר עַתָּה, כִּי הַיּוֹם בָּא לָעִיר--כִּי זֶבַח הַיּוֹם לָעָם, בַּבָּמָה.",
+    "כְּבֹאֲכֶם הָעִיר כֵּן תִּמְצְאוּן אֹתוֹ בְּטֶרֶם יַעֲלֶה הַבָּמָתָה לֶאֱכֹל, כִּי לֹא-יֹאכַל הָעָם עַד-בֹּאוֹ--כִּי-הוּא יְבָרֵךְ הַזֶּבַח, אַחֲרֵי-כֵן יֹאכְלוּ הַקְּרֻאִים; וְעַתָּה עֲלוּ, כִּי-אֹתוֹ כְהַיּוֹם תִּמְצְאוּן אֹתוֹ.",
+    "וַיַּעֲלוּ, הָעִיר; הֵמָּה, בָּאִים בְּתוֹךְ הָעִיר, וְהִנֵּה שְׁמוּאֵל יֹצֵא לִקְרָאתָם, לַעֲלוֹת הַבָּמָה.",
+    "וַיהוָה, גָּלָה אֶת-אֹזֶן שְׁמוּאֵל, יוֹם אֶחָד, לִפְנֵי בוֹא-שָׁאוּל לֵאמֹר.",
+    "כָּעֵת מָחָר אֶשְׁלַח אֵלֶיךָ אִישׁ מֵאֶרֶץ בִּנְיָמִן, וּמְשַׁחְתּוֹ לְנָגִיד עַל-עַמִּי יִשְׂרָאֵל, וְהוֹשִׁיעַ אֶת-עַמִּי, מִיַּד פְּלִשְׁתִּים: כִּי רָאִיתִי אֶת-עַמִּי, כִּי בָּאָה צַעֲקָתוֹ אֵלָי.",
+    "וּשְׁמוּאֵל, רָאָה אֶת-שָׁאוּל; וַיהוָה עָנָהוּ--הִנֵּה הָאִישׁ אֲשֶׁר אָמַרְתִּי אֵלֶיךָ, זֶה יַעְצֹר בְּעַמִּי.",
+    "וַיִּגַּשׁ שָׁאוּל אֶת-שְׁמוּאֵל, בְּתוֹךְ הַשָּׁעַר; וַיֹּאמֶר הַגִּידָה-נָּא לִי, אֵי-זֶה בֵּית הָרֹאֶה.",
+    "וַיַּעַן שְׁמוּאֵל אֶת-שָׁאוּל, וַיֹּאמֶר אָנֹכִי הָרֹאֶה--עֲלֵה לְפָנַי הַבָּמָה, וַאֲכַלְתֶּם עִמִּי הַיּוֹם; וְשִׁלַּחְתִּיךָ בַבֹּקֶר, וְכֹל אֲשֶׁר בִּלְבָבְךָ אַגִּיד לָךְ.",
+    "וְלָאֲתֹנוֹת הָאֹבְדוֹת לְךָ, הַיּוֹם שְׁלֹשֶׁת הַיָּמִים--אַל-תָּשֶׂם אֶת-לִבְּךָ לָהֶם, כִּי נִמְצָאוּ; וּלְמִי, כָּל-חֶמְדַּת יִשְׂרָאֵל--הֲלוֹא לְךָ, וּלְכֹל בֵּית אָבִיךָ.",
+    "וַיַּעַן שָׁאוּל וַיֹּאמֶר, הֲלוֹא בֶן-יְמִינִי אָנֹכִי מִקְּטַנֵּי שִׁבְטֵי יִשְׂרָאֵל, וּמִשְׁפַּחְתִּי הַצְּעִרָה, מִכָּל-מִשְׁפְּחוֹת שִׁבְטֵי בִנְיָמִן; וְלָמָּה דִּבַּרְתָּ אֵלַי, כַּדָּבָר הַזֶּה.",
+    "וַיִּקַּח שְׁמוּאֵל אֶת-שָׁאוּל וְאֶת-נַעֲרוֹ, וַיְבִיאֵם לִשְׁכָּתָה; וַיִּתֵּן לָהֶם מָקוֹם בְּרֹאשׁ הַקְּרוּאִים, וְהֵמָּה כִּשְׁלֹשִׁם אִישׁ.",
+    "וַיֹּאמֶר שְׁמוּאֵל, לַטַּבָּח, תְּנָה אֶת-הַמָּנָה, אֲשֶׁר נָתַתִּי לָךְ--אֲשֶׁר אָמַרְתִּי אֵלֶיךָ, שִׂים אֹתָהּ עִמָּךְ.",
+    "וַיָּרֶם הַטַּבָּח אֶת-הַשּׁוֹק וְהֶעָלֶיהָ וַיָּשֶׂם לִפְנֵי שָׁאוּל, וַיֹּאמֶר הִנֵּה הַנִּשְׁאָר שִׂים-לְפָנֶיךָ אֱכֹל--כִּי לַמּוֹעֵד שָׁמוּר-לְךָ לֵאמֹר, הָעָם קָרָאתִי; וַיֹּאכַל שָׁאוּל עִם-שְׁמוּאֵל, בַּיּוֹם הַהוּא.",
+    "וַיֵּרְדוּ מֵהַבָּמָה, הָעִיר; וַיְדַבֵּר עִם-שָׁאוּל, עַל-הַגָּג.",
+    "וַיַּשְׁכִּמוּ, וַיְהִי כַּעֲלוֹת הַשַּׁחַר וַיִּקְרָא שְׁמוּאֵל אֶל-שָׁאוּל הגג הַגָּגָה לֵאמֹר, קוּמָה, וַאֲשַׁלְּחֶךָּ; וַיָּקָם שָׁאוּל, וַיֵּצְאוּ שְׁנֵיהֶם הוּא וּשְׁמוּאֵל--הַחוּצָה.",
+    "הֵמָּה, יוֹרְדִים בִּקְצֵה הָעִיר, וּשְׁמוּאֵל אָמַר אֶל-שָׁאוּל אֱמֹר לַנַּעַר וְיַעֲבֹר לְפָנֵינוּ, וַיַּעֲבֹר; וְאַתָּה עֲמֹד כַּיּוֹם, וְאַשְׁמִיעֲךָ אֶת-דְּבַר אֱלֹהִים."
+  ],
+  "english": [
+    "Now there was a man of Benjamin, whose name\nwas Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.",
+    "And he had a son, whose name\nwas Saul, a choice young man, and a goodly: and\nthere was not among the children of Israel a goodlier person than he: from his shoulders and upward\nhe was higher than any of the people.",
+    "And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses.",
+    "And he passed through mount Ephraim, and passed through the land of Shalisha, but they found\nthem not: then they passed through the land of Shalim, and\nthere they were not: and he passed through the land of the Benjamites, but they found\nthem not.",
+    "And when they were come to the land of Zuph, Saul said to his servant that\nwas with him, Come, and let us return; lest my father leave\ncaring for the asses, and take thought for us.",
+    "And he said unto him, Behold now,\nthere is in this city a man of God, and\nhe is an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go.",
+    "Then said Saul to his servant, But, behold,\nif we go, what shall we bring the man? for the bread is spent in our vessels, and\nthere is not a present to bring to the man of God: what have we?",
+    "And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver:\nthat will I give to the man of God, to tell us our way.",
+    "(Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for\nhe that is now\ncalled\n a Prophet was beforetime called a Seer.)",
+    "Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God\nwas.",
+    "And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?",
+    "And they answered them, and said, He is; behold,\nhe is before you: make haste now, for he came to day to the city; for\nthere is\n a sacrifice of the people to day in the high place:",
+    "As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice;\nand afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him.",
+    "And they went up into the city:\nand when they were come into the city, behold, Samuel came out against them, for to go up to the high place.",
+    "Now the LORD had told Samuel in his ear a day before Saul came, saying,",
+    "To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him\nto be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.",
+    "And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people.",
+    "Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house\nis.",
+    "And Samuel answered Saul, and said, I\nam the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that\nis in thine heart.",
+    "And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And on whom\nis all the desire of Israel?\nIs it not on thee, and on all thy father’s house?",
+    "And Saul answered and said,\nAm not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?",
+    "And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which\nwere about thirty persons.",
+    "And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee.",
+    "And the cook took up the shoulder, and\nthat which\nwas\n upon it, and set\nit before Saul. And\nSamuel said, Behold that which is left! set\nit before thee,\nand eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day.",
+    "And when they were come down from the high place into the city,\nSamuel communed with Saul upon the top of the house.",
+    "And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad.",
+    "And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God."
+  ],
+  "steinsaltz": [
+    "וַיְהִי אִישׁ מִשבט בִּנְיָמִין, וּשְׁמוֹ קִישׁ בֶּן אֲבִיאֵל בֶּן צְרוֹר בֶּן בְּכוֹרַת בֶּן אֲפִיחַ בֶּן אִישׁ יְמִינִי. ייחוסו הגיע לאחד מראשי השושלת השבטית. קיש היה גִּבּוֹר חָיִל, רב כוח או עשיר ומכובד.",
+    "וְלוֹ הָיָה בֵן, וּשְׁמוֹ שָׁאוּל, והוא בָּחוּר, מובחר וטוֹב מראה, וְאֵין אִישׁ מִבְּנֵי יִשְׂרָאֵל טוֹב מִמֶּנּוּ, מִשִּׁכְמוֹ, מכתפו וָמַעְלָה גָּבֹהַּ מִכָּל הָעָם, גבוה בראש מאדם רגיל, גבה קומה באופן בולט. נראה שלא היה חריג בגובהו בלבד, אלא שבלט ביופיו ובשאר מעלותיו.",
+    "וַתֹּאבַדְנָה הָאֲתֹנוֹת שהיו לְקִישׁ אֲבִי שָׁאוּל. וַיֹּאמֶר קִישׁ אֶל שָׁאוּל בְּנוֹ: קַח נָא אִתְּךָ אֶת אַחַד מֵהַנְּעָרִים, וְקוּם לֵךְ, בַּקֵּשׁ, חפש אֶת הָאֲתֹנֹת. נראה שהיה זה עדר אתונות. לכן בין אם הן תעו בדרך או שנגנבו, יש להניח שנשארו יחד כקבוצה.",
+    "כך עשה שאול, וַיַּעֲבֹר בְּהַר אֶפְרַיִם, וַיַּעֲבֹר בְּחבל אֶרֶץ שָׁלִשָׁה – והוא ונערו לֹא מָצָאוּ. וַיַּעַבְרוּ בְאֶרֶץ שַׁעֲלִים – וָאַיִן, וַיַּעֲבֹר בְּאֶרֶץ יְמִינִי, מקום מושבם של בני בנימין – וְלֹא מָצָאוּ.",
+    "הֵמָּה בָּאוּ בְּאֶרֶץ צוּף, שהיא שוב בתחום אפרים, וְשָׁאוּל אָמַר לְנַעֲרוֹ אֲשֶׁר עִמּוֹ: לְכָה וְנָשׁוּבָה הביתה, פֶּן יֶחְדַּל אָבִי מִן המחשבה על הָאֲתֹנוֹת וְדָאַג לָנוּ.",
+    "וַיֹּאמֶר לוֹ הנער: הִנֵּה נָא אִישׁ אֱלֹהִים, אדם קדוש, נביא בָּעִיר הַזֹּאת הסמוכה לנו, היא רמה שבארץ צוף, ובמקום אחר נקראת 'רמתיים צופים'. וְהָאִישׁ נִכְבָּד. כֹּל אֲשֶׁר יְדַבֵּר – בּוֹא יָבוֹא, מתקיים. עַתָּה הבה נֵלֲכָה שָּׁם, אוּלַי יַגִּיד לָנוּ אֶת דַּרְכֵּנוּ אֲשֶׁר הָלַכְנוּ עָלֶיהָ. באיזו דרך יש ללכת כדי למצוא את האתונות.",
+    "שאול לא התלהב. וַיֹּאמֶר שָׁאוּל לְנַעֲרוֹ: וְהִנֵּה, נניח שנֵלֵךְ – וּמַה תהיה המתנה שנָּבִיא לָאִישׁ?! ברור לו שאם באים לבקש שירות או סיוע, עליהם לתת דבר-מה כתשורה. כִּי הַלֶּחֶם, המזון שלקחנו לכמה ימים, כשחשבנו שהאתונות יימצאו מהר יותר, אָזַל מִכֵּלֵינוּ. וּתְשׁוּרָה, מתנה אחרת אֵין בידנו לְהָבִיא לְאִישׁ הָאֱלֹהִים. מָה אִתָּנוּ? מה נוכל להביא?",
+    "וַיֹּסֶף הַנַּעַר לַעֲנוֹת אֶת שָׁאוּל, וַיֹּאמֶר: הִנֵּה נִמְצָא בְיָדִי רֶבַע שֶׁקֶל כָּסֶף, שבוודאי איננו סכום גדול, וְנָתַתִּי אותו לְאִישׁ הָאֱלֹהִים, וְהִגִּיד לָנוּ אֶת דַּרְכֵּנוּ.",
+    "כאן מופיעה הערת אגב לביאור השיחה שבהמשך: לְפָנִים, בדורות קדומים בְּיִשְׂרָאֵל כֹּה אָמַר הָאִישׁ בְּלֶכְתּוֹ לִדְרוֹשׁ, לשאול בדבר אֱלֹהִים: \"לְכוּ וְנֵלְכָה, הבה ונלך עַד הָרֹאֶה\". כִּי לַנָּבִיא הַיּוֹם יִקָּרֵא לְפָנִים 'הָרֹאֶה'. בנוסח הדיבור העתיק לא הייתה המלה 'נביא' מצויה. למי שנקרא היום 'נביא' קראו בעבר 'הרואה' על שום יכולתו לראות את העתיד.",
+    "וַיֹּאמֶר שָׁאוּל לְנַעֲרוֹ: טוֹב, יפה דְּבָרְךָ, לְכָה נֵלֵכָה, הבה נלך. וַיֵּלְכוּ אֶל הָעִיר אֲשֶׁר שָׁם אִישׁ הָאֱלֹהִים.",
+    "הֵמָּה עֹלִים בְּמַעֲלֵה הָעִיר. כרוב הערים באותם זמנים, העיר שכנה על גבעה מטעמי הגנה וביטחון. וְהֵמָּה מָצְאוּ נְעָרוֹת יֹצְאוֹת לִשְׁאֹב מָיִם מהמעיין הנובע בדרך כלל לרגלי העיר, וַיֹּאמְרוּ לָהֶן: הֲיֵשׁ בָּזֶה הָרֹאֶה? האם הנביא נמצא? ייתכן שלא היו בטוחים שזו העיר, ושמא לא ידעו אם שמואל במקומו או שהוא נודד עתה.",
+    "וַתַּעֲנֶינָה אוֹתָם וַתֹּאמַרְנָה: יֵּשׁ, הוא ישנו, הִנֵּה לְפָנֶיךָ. מַהֵר עַתָּה, כִּי הַיּוֹם בדיוק הוא בָּא לָעִיר, כִּי זֶבַח, סעודה חגיגית הַיּוֹם לָעָם בַּבָּמָה. מבנה מורם, תל או רמה, שבו זובחים לה' את הזבח.",
+    "מיד כְּבֹאֲכֶם אל הָעִיר כֵּן תִּמְצְאוּן אֹתוֹ בְּטֶרֶם יַעֲלֶה הַבָּמָתָה לֶאֱכֹל, כִּי לֹא יֹאכַל הָעָם עַד בֹּאוֹ, כִּי הוּא יְבָרֵךְ על הַזֶּבַח, ורק אַחֲרֵי כֵן יֹאכְלוּ הַקְּרֻאִים. וְעַתָּה עֲלוּ, כִּי אֹתוֹ – את האדם שאתם מחפשים כְהַיּוֹם, היום תִּמְצְאוּן אֹתוֹ.",
+    "וַיַּעֲלוּ הָעִיר. הֵמָּה בָּאִים בְּתוֹךְ הָעִיר, וְהִנֵּה שְׁמוּאֵל יֹצֵא לִקְרָאתָם, לכיוון שלהם לַעֲלוֹת הַבָּמָה, כמו שאמרו הנערות.",
+    "וַה' גָּלָה אֶת אֹזֶן שְׁמוּאֵל יוֹם אֶחָד לִפְנֵי בוֹא שָׁאוּל, לֵאמֹר:",
+    "כָּעֵת, בשעה זו מָחָר אֶשְׁלַח אֵלֶיךָ אִישׁ מֵאֶרֶץ בִּנְיָמִן, וּמְשַׁחְתּוֹ לְנָגִיד, למושל, למלך עַל עַמִּי יִשְׂרָאֵל, וְהוֹשִׁיעַ אֶת עַמִּי מִיַּד פְּלִשְׁתִּים, האויב הגדול של ישראל עתה. כִּי רָאִיתִי אֶת עַמִּי, כִּי בָּאָה צַעֲקָתוֹ אֵלָי. מבחינה זו ישראל צודקים. הם זקוקים למנהיג שיערוך מלחמה באויביהם המציקים להם.",
+    "וּשְׁמוּאֵל רָאָה אֶת שָׁאוּל נכנס לעיר, וַה' עָנָהוּ, השמיע לשמואל: הִנֵּה הָאִישׁ אֲשֶׁר אָמַרְתִּי אֵלֶיךָ \"זֶה יַעְצֹר, יחזיק, ימשול בְּעַמִּי\".",
+    "וַיִּגַּשׁ שָׁאוּל אֶת, אל שְׁמוּאֵל בְּתוֹךְ הַשָּׁעַר. שער העיר נחשב למרכז העיר, ובתוכו או לידו היו נוהגים נציגי הציבור ואנשי העיר להתאסף. שאול פגש את שמואל, שנראה איש מכובד, ופנה אליו, וַיֹּאמֶר: הַגִּידָה נָּא לִי אֵי זֶה, היכן בֵּית הָרֹאֶה?",
+    "וַיַּעַן שְׁמוּאֵל אֶת שָׁאוּל וַיֹּאמֶר: אָנֹכִי הָרֹאֶה. עֲלֵה לְפָנַי הַבָּמָה וַאֲכַלְתֶּם – אתה ונערך עִמִּי הַיּוֹם בחגיגה הציבורית. וְשִׁלַּחְתִּיךָ בַבֹּקֶר, וְעל כֹל אֲשֶׁר בִּלְבָבְךָ, השאלות המעסיקות אותך אַגִּיד לָךְ, בתור רואה.",
+    "וְלָאֲתֹנוֹת הָאֹבְדוֹת לְךָ הַיּוֹם שְׁלֹשֶׁת הַיָּמִים, זה היום השלישי, אַל תָּשֶׂם אֶת לִבְּךָ לָהֶם, אינך צריך לדאוג להן או להמשיך לחפש אחריהן, כִּי נִמְצָאוּ. שמואל כבר גילה לו את התשובה לשאלה ששאול ביקש לשאול אותו. הדבר מוכיח לשאול שאכן שמואל הוא הרואה. שמואל הוסיף גם ביטוי מחמיא, שיש בו רמז לבאות: וּלְמִי כָּל חֶמְדַּת, אוצרות יִשְׂרָאֵל?! – הֲלוֹא לְךָ וּלְכֹל בֵּית אָבִיךָ. מכיוון שכל נכסי ישראל וכבודו מיועדים לכם, אל לך לחוש לאתונות אבודות.",
+    "את התשובה על האתונות שאול הבין, כמובן, אבל סוף דברי שמואל הפתיע אותו לחלוטין. וַיַּעַן שָׁאוּל וַיֹּאמֶר: הֲלוֹא בֶן יְמִינִי, שבט בנימין אָנֹכִי, מִקְּטַנֵּי שִׁבְטֵי יִשְׂרָאֵל. במעשה פילגש בגבעה סופר כי שבט בנימין כמעט הושמד. אמנם עברו מאז שנים רבות, ושרידי השבט השתקמו בינתיים, אבל הוא עדיין נותר שבט קטן. וּמִשְׁפַּחְתִּי הַצְּעִרָה מִכָּל מִשְׁפְּחוֹת שִׁבְטֵי בִנְיָמִן, וְלָמָּה דִּבַּרְתָּ אֵלַי כַּדָּבָר הַזֶּה? תגובתו של שאול היא בעיקרה מענה נימוסי לדברי השבח המופלגים שאומר לו שמואל.",
+    "וַיִּקַּח שְׁמוּאֵל אֶת שָׁאוּל וְאֶת נַעֲרוֹ וַיְבִיאֵם לִשְׁכָּתָה, אל החדר המיוחד, וַיִּתֵּן לָהֶם מָקוֹם, לידו בְּרֹאשׁ הַקְּרוּאִים, וְהֵמָּה הקרואים הנוכחים כִּשְׁלֹשִׁים אִישׁ.",
+    "וַיֹּאמֶר שְׁמוּאֵל לַטַּבָּח: תְּנָה אֶת הַמָּנָה אֲשֶׁר נָתַתִּי לָךְ קודם לכן, אֲשֶׁר אָמַרְתִּי אֵלֶיךָ: שִׂים, שמור אֹתָהּ עִמָּךְ.",
+    "וַיָּרֶם, הפריש הַטַּבָּח אֶת הַשּׁוֹק של הבהמה וְהֶעָלֶיהָ, החלק שנמצא עליה, חתיכה מהירך, וַיָּשֶׂם לִפְנֵי שָׁאוּל. וַיֹּאמֶר: הִנֵּה החלק הַנִּשְׁאָר, שִׂים, שהושם לְפָנֶיךָ – אֱכֹל. המנה הזו אינה שארית עודפת – כִּי לַמּוֹעֵד, לשעה היעודה היה החלק הזה שָׁמוּר לְךָ כדבר שמואל לֵאמֹר: \"הָעָם קָרָאתִי\". כבר כאשר שמואל הודיע לי על הזמנת הציבור, הוא שמר לך את המנה היפה. בעצם, החגיגה הזאת אינה אלא בגללך ולמענך. שאול, שראה עצמו אורח משבט בנימין שנקלע למקום, כלל לא הבין מדוע שמואל, שמעולם לא ראה אותו, מכבד אותו כך, אך הוא נענה להזמנתו – וַיֹּאכַל שָׁאוּל עִם שְׁמוּאֵל בַּיּוֹם הַהוּא.",
+    "וַיֵּרְדוּ מֵהַבָּמָה אל הָעִיר, וַיְדַבֵּר עִם שָׁאוּל עַל הַגָּג. הגגות היו שטוחים, רחבים ועל פי רוב גלויים, כך שאפשר היה להתהלך ולשוחח עליהם.",
+    "וַיַּשְׁכִּמוּ, וַיְהִי כַּעֲלוֹת הַשַּׁחַר וַיִּקְרָא שְׁמוּאֵל אֶל שָׁאוּל הַגָּגָה, אל הגג לֵאמֹר: קוּמָה וַאֲשַׁלְּחֶךָּ. וַיָּקָם שָׁאוּל, וַיֵּצְאוּ שְׁנֵיהֶם הוּא וּשְׁמוּאֵל הַחוּצָה, והנער אחריהם.",
+    "הֵמָּה יוֹרְדִים בִּקְצֵה הָעִיר, שמואל מלווה את שאול בדרכו אל מחוץ לעיר, וּשְׁמוּאֵל אָמַר אֶל שָׁאוּל: אֱמֹר לַנַּעַר וְיַעֲבֹר לְפָנֵינוּ, מפני שאני מבקש לומר לך דבר באופן פרטי. וַיַּעֲבֹר הנער. וְאַתָּה, ממשיך שמואל לומר לשאול, עֲמֹד כַּיּוֹם, עכשיו וְאַשְׁמִיעֲךָ אֶת דְּבַר אֱלֹהִים."
+  ],
+  "ai_explanation": [
+    "קיש היה איש משבט בנימין, וייחוסו הגיע עד לאחד מראשי השושלת השבטית. הוא מתואר כגיבור חיל, כלומר כאדם רב־כוח או עשיר ומכובד.",
+    "לשָׁאוּל, בנו של קיש, היו מראה טוב ומעלות בולטות, והוא היה גבוה מכל העם, מן הכתפיים ומעלה. נראה שלא בלט רק בגובהו, אלא גם ביופיו ובמעלותיו האחרות.",
+    "האתונות של קיש, אביו של שאול, אבדו. קיש שלח את שאול עם אחד הנערים לחפש אותן, ונראה שמדובר היה בעדר אתונות שנשאר יחד, בין שתעה ובין שנגנב.",
+    "שאול ונערו עברו באזורים שונים בהר אפרים ובסביבתו, אך לא מצאו את האתונות. לבסוף הגיעו גם לארץ ימיני, מקום מושבם של בני בנימין, ועדיין לא מצאו אותן.",
+    "כאשר הגיעו לארץ צוף, שאול הציע לחזור כדי שאביו לא יפסיק לדאוג לאתונות ויתחיל לדאוג להם. לפי הפירוש, אזור זה היה שוב בתחום אפרים.",
+    "הנער הציע לפנות אל איש האלוהים שבעיר הסמוכה, שהיה אדם מכובד וכל דבר שאמר התקיים. הם קיוו שהוא יוכל להדריך אותם בדרך למציאת האתונות.",
+    "שאול חשש שאין להם מה לתת לאיש האלוהים, מפני שהמזון שלקחו אזל ואין בידם תשורה. דבריו מלמדים שלדעתו ראוי להביא מתנה למי שמבקשים ממנו עזרה.",
+    "הנער גילה שיש בידו רבע שקל כסף, סכום שאינו גדול, והציע לתת אותו לאיש האלוהים כדי שזה יגיד להם את דרכם.",
+    "זהו הסבר של המחבר למונח 'הרואה': בדורות קדומים קראו לנביא 'רואה', ואילו בתקופה המאוחרת יותר השתמשו במילה 'נביא'.",
+    "שאול קיבל את הצעת הנער, והשניים הלכו אל העיר שבה נמצא איש האלוהים.",
+    "כאשר עלו במעלה העיר, הם פגשו נערות שיצאו לשאוב מים ושאלו אותן אם הרואה נמצא. העיר שכנה על גבעה, והמעיין היה בדרך כלל למרגלותיה.",
+    "הנערות השיבו שהרואה נמצא בעיר, והפצירו בהם למהר, מפני שבאותו יום התקיימה סעודה חגיגית של העם בבמה.",
+    "הנערות הסבירו שמיד עם כניסתם לעיר ימצאו את שמואל, לפני שיעלה לבמה לאכול. העם לא יאכל עד שיברך על הזבח, ולאחר מכן יאכלו הקרואים.",
+    "שאול ונערו עלו לעיר, ובדיוק אז שמואל יצא לקראתם בדרכו לעלות לבמה.",
+    "ה' גילה לשמואל יום אחד לפני בוא שאול מה עומד להתרחש. בכך הוכן שמואל לפגישתו עם שאול.",
+    "ה' הודיע לשמואל שישלח אליו איש מארץ בנימין, ושעליו למשוח אותו לנגיד על ישראל. האיש עתיד להושיע את ישראל מיד הפלשתים, מפני שה' שמע את צעקת עמו.",
+    "שמואל ראה את שאול, וה' הודיע לו שזהו האיש שעליו דיבר: מי שימשול ויחזיק בעם ישראל.",
+    "שאול ניגש אל שמואל בשער העיר וביקש ממנו להראות לו היכן נמצא בית הרואה.",
+    "שמואל הזדהה כרואה והזמין את שאול לעלות לבמה ולאכול עמו ועם נערו. הוא הבטיח לשלוח אותו בבוקר ולגלות לו את כל מה שמעסיק אותו.",
+    "שמואל הודיע לשאול שהאתונות שנעלמו לפני שלושה ימים כבר נמצאו, ולכן אין לו סיבה לדאוג להן. לאחר מכן רמז לו שכל חמדה וכבוד בישראל עתידים להיות קשורים אליו ולבית אביו.",
+    "שאול הופתע מדברי השבח והציג את עצמו כבן שבט קטן ומשפחה צעירה בתוך שבט בנימין. תגובתו מוצגת בעיקר כמענה מנומס לשבח המופלג של שמואל.",
+    "שמואל הביא את שאול ואת נערו אל החדר המיוחד, והושיב אותם בראש הקרואים. בסעודה היו בערך שלושים אנשים.",
+    "שמואל ביקש מהטבח להביא את המנה ששמר מראש עבור האורח, כפי שציווה עליו קודם.",
+    "הטבח הגיש לשאול את השוק ואת החלק שעליה, והסביר שהמנה נשמרה עבורו מראש. שאול אכל עם שמואל באותו יום, אף שלא הבין עדיין מדוע זכה לכבוד מיוחד כזה.",
+    "לאחר שירדו מן הבמה אל העיר, שמואל שוחח עם שאול על הגג. הגגות היו שטוחים, רחבים ופתוחים, ולכן התאימו לשיחה.",
+    "עם עלות השחר קרא שמואל לשאול מן הגג, ביקש ממנו לקום ושלח אותו לדרכו. שאול קם ויצא עם שמואל, והנער הלך אחריהם.",
+    "כאשר ירדו אל קצה העיר, שמואל ביקש מהנער לעבור לפניהם, כדי שיוכל לדבר עם שאול בפרטיות. לאחר שהנער עבר, הודיע שמואל לשאול שהוא עומד להשמיע לו את דבר האלוהים."
+  ],
+  "ai_explanation_en": [
+    "Kish was a man from the tribe of Benjamin, and his genealogy reached back to one of the leading ancestral lines. He is described as a mighty man, meaning someone powerful or wealthy and respected.",
+    "Saul, Kish’s son, had an attractive appearance and outstanding qualities, and he was taller than all the people, from the shoulders upward. He seems to have stood out not only because of his height but also because of his beauty and other virtues.",
+    "Kish’s donkeys had gone missing. Kish sent Saul with one of the young men to search for them, and the explanation suggests that they were a herd of donkeys that remained together, whether they had strayed or been stolen.",
+    "Saul and his young attendant passed through various areas in and around Mount Ephraim but did not find the donkeys. They eventually reached the land of Benjamin, where the Benjaminites lived, but still did not find them.",
+    "When they reached the land of Zuph, Saul suggested returning so that his father would stop worrying about the donkeys and begin worrying about them. According to the explanation, this area was again within the region of Ephraim.",
+    "The young attendant suggested turning to the man of God in the nearby city, who was respected and whose words always came true. They hoped he could guide them to the donkeys.",
+    "Saul worried that they had nothing to give the man of God, since the food they had brought was gone and they had no gift. His words show that he thought it appropriate to bring a present to someone from whom they requested help.",
+    "The young attendant discovered that he had a quarter shekel of silver, a small sum, and offered to give it to the man of God so that he would tell them their way.",
+    "This is the narrator’s explanation of the term “seer”: in earlier generations a prophet was called a “seer,” while in the later period the word “prophet” was used.",
+    "Saul accepted the young attendant’s suggestion, and the two went to the city where the man of God was staying.",
+    "As they climbed toward the city, they met young women who were going out to draw water and asked whether the seer was there. The city stood on a hill, while the spring was generally located at its foot.",
+    "The young women answered that the seer was in the city and urged them to hurry, because that day the people were holding a festive meal at the high place.",
+    "The young women explained that as soon as they entered the city they would find Samuel, before he went up to the high place to eat. The people would not eat until he blessed the sacrifice, after which the invited guests would eat.",
+    "Saul and his attendant went up into the city, and at that very moment Samuel came out toward them on his way to the high place.",
+    "The Lord had revealed to Samuel, one day before Saul’s arrival, what was about to happen. Samuel was thus prepared for his meeting with Saul.",
+    "The Lord told Samuel that He would send him a man from the land of Benjamin, whom he was to anoint as leader over Israel. This man would save Israel from the Philistines, because the Lord had heard the cry of His people.",
+    "Samuel saw Saul, and the Lord told him that this was the man He had spoken about—the one who would rule and hold authority over Israel.",
+    "Saul approached Samuel at the city gate and asked him to show him where the seer’s house was.",
+    "Samuel identified himself as the seer and invited Saul to go up to the high place and eat with him and his attendant. He promised to send him away in the morning and tell him everything that concerned him.",
+    "Samuel told Saul that the donkeys that had been missing for three days had already been found, so he no longer needed to worry about them. He then hinted that all the treasure and honor of Israel would be connected with him and his father’s household.",
+    "Saul was surprised by Samuel’s praise and described himself as belonging to a small tribe and a minor family within Benjamin. His response is presented mainly as a polite reply to Samuel’s exaggerated praise.",
+    "Samuel brought Saul and his attendant into the special chamber and seated them at the head of the invited guests. About thirty people were present at the meal.",
+    "Samuel asked the cook to bring the portion he had previously instructed him to reserve for the guest.",
+    "The cook served Saul the thigh and the portion attached to it, explaining that the dish had been reserved for him in advance. Saul ate with Samuel that day, although he still did not understand why he was receiving such special honor.",
+    "After they went down from the high place to the city, Samuel spoke with Saul on the roof. The roofs were flat, spacious, and open, making them suitable for conversation.",
+    "At dawn Samuel called to Saul from the roof, asked him to rise, and sent him on his way. Saul got up and went out with Samuel, while the young attendant followed them.",
+    "As they descended to the edge of the city, Samuel asked the young attendant to go ahead of them so that he could speak privately with Saul. After the attendant passed on, Samuel told Saul that he was about to declare the word of God to him."
+  ],
+  "perush": [
+    "קיש היה איש משבט בנימין, וייחוסו הגיע עד לאחד מראשי השושלת השבטית. הוא מתואר כגיבור חיל, כלומר כאדם רב־כוח או עשיר ומכובד.",
+    "לשָׁאוּל, בנו של קיש, היו מראה טוב ומעלות בולטות, והוא היה גבוה מכל העם, מן הכתפיים ומעלה. נראה שלא בלט רק בגובהו, אלא גם ביופיו ובמעלותיו האחרות.",
+    "האתונות של קיש, אביו של שאול, אבדו. קיש שלח את שאול עם אחד הנערים לחפש אותן, ונראה שמדובר היה בעדר אתונות שנשאר יחד, בין שתעה ובין שנגנב.",
+    "שאול ונערו עברו באזורים שונים בהר אפרים ובסביבתו, אך לא מצאו את האתונות. לבסוף הגיעו גם לארץ ימיני, מקום מושבם של בני בנימין, ועדיין לא מצאו אותן.",
+    "כאשר הגיעו לארץ צוף, שאול הציע לחזור כדי שאביו לא יפסיק לדאוג לאתונות ויתחיל לדאוג להם. לפי הפירוש, אזור זה היה שוב בתחום אפרים.",
+    "הנער הציע לפנות אל איש האלוהים שבעיר הסמוכה, שהיה אדם מכובד וכל דבר שאמר התקיים. הם קיוו שהוא יוכל להדריך אותם בדרך למציאת האתונות.",
+    "שאול חשש שאין להם מה לתת לאיש האלוהים, מפני שהמזון שלקחו אזל ואין בידם תשורה. דבריו מלמדים שלדעתו ראוי להביא מתנה למי שמבקשים ממנו עזרה.",
+    "הנער גילה שיש בידו רבע שקל כסף, סכום שאינו גדול, והציע לתת אותו לאיש האלוהים כדי שזה יגיד להם את דרכם.",
+    "זהו הסבר של המחבר למונח 'הרואה': בדורות קדומים קראו לנביא 'רואה', ואילו בתקופה המאוחרת יותר השתמשו במילה 'נביא'.",
+    "שאול קיבל את הצעת הנער, והשניים הלכו אל העיר שבה נמצא איש האלוהים.",
+    "כאשר עלו במעלה העיר, הם פגשו נערות שיצאו לשאוב מים ושאלו אותן אם הרואה נמצא. העיר שכנה על גבעה, והמעיין היה בדרך כלל למרגלותיה.",
+    "הנערות השיבו שהרואה נמצא בעיר, והפצירו בהם למהר, מפני שבאותו יום התקיימה סעודה חגיגית של העם בבמה.",
+    "הנערות הסבירו שמיד עם כניסתם לעיר ימצאו את שמואל, לפני שיעלה לבמה לאכול. העם לא יאכל עד שיברך על הזבח, ולאחר מכן יאכלו הקרואים.",
+    "שאול ונערו עלו לעיר, ובדיוק אז שמואל יצא לקראתם בדרכו לעלות לבמה.",
+    "ה' גילה לשמואל יום אחד לפני בוא שאול מה עומד להתרחש. בכך הוכן שמואל לפגישתו עם שאול.",
+    "ה' הודיע לשמואל שישלח אליו איש מארץ בנימין, ושעליו למשוח אותו לנגיד על ישראל. האיש עתיד להושיע את ישראל מיד הפלשתים, מפני שה' שמע את צעקת עמו.",
+    "שמואל ראה את שאול, וה' הודיע לו שזהו האיש שעליו דיבר: מי שימשול ויחזיק בעם ישראל.",
+    "שאול ניגש אל שמואל בשער העיר וביקש ממנו להראות לו היכן נמצא בית הרואה.",
+    "שמואל הזדהה כרואה והזמין את שאול לעלות לבמה ולאכול עמו ועם נערו. הוא הבטיח לשלוח אותו בבוקר ולגלות לו את כל מה שמעסיק אותו.",
+    "שמואל הודיע לשאול שהאתונות שנעלמו לפני שלושה ימים כבר נמצאו, ולכן אין לו סיבה לדאוג להן. לאחר מכן רמז לו שכל חמדה וכבוד בישראל עתידים להיות קשורים אליו ולבית אביו.",
+    "שאול הופתע מדברי השבח והציג את עצמו כבן שבט קטן ומשפחה צעירה בתוך שבט בנימין. תגובתו מוצגת בעיקר כמענה מנומס לשבח המופלג של שמואל.",
+    "שמואל הביא את שאול ואת נערו אל החדר המיוחד, והושיב אותם בראש הקרואים. בסעודה היו בערך שלושים אנשים.",
+    "שמואל ביקש מהטבח להביא את המנה ששמר מראש עבור האורח, כפי שציווה עליו קודם.",
+    "הטבח הגיש לשאול את השוק ואת החלק שעליה, והסביר שהמנה נשמרה עבורו מראש. שאול אכל עם שמואל באותו יום, אף שלא הבין עדיין מדוע זכה לכבוד מיוחד כזה.",
+    "לאחר שירדו מן הבמה אל העיר, שמואל שוחח עם שאול על הגג. הגגות היו שטוחים, רחבים ופתוחים, ולכן התאימו לשיחה.",
+    "עם עלות השחר קרא שמואל לשאול מן הגג, ביקש ממנו לקום ושלח אותו לדרכו. שאול קם ויצא עם שמואל, והנער הלך אחריהם.",
+    "כאשר ירדו אל קצה העיר, שמואל ביקש מהנער לעבור לפניהם, כדי שיוכל לדבר עם שאול בפרטיות. לאחר שהנער עבר, הודיע שמואל לשאול שהוא עומד להשמיע לו את דבר האלוהים."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "קיש, שאול והחיפוש אחר האתונות",
+      "title_en": "Kish, Saul, and the Search for the Donkeys",
+      "start_verse": 1,
+      "end_verse": 5,
+      "summary": "הפרק מציג את קיש ואת בנו שאול, ולאחר מכן מתאר את שליחתו של שאול עם נער לחיפוש אחר האתונות שאבדו. לאחר שעברו באזורים שונים בלי למצוא אותן, שאול מציע לשוב לביתו.",
+      "summary_en": "The chapter introduces Kish and his son Saul, then describes Saul’s journey with a young attendant to search for the missing donkeys. After passing through several regions without finding them, Saul suggests returning home.",
+      "image_prompt": "A biblical-era young man named Saul traveling through rugged hill country with a young attendant, searching for a small herd of donkeys, ancient rural landscape, realistic historical atmosphere, no text"
+    },
+    {
+      "title": "הנער מציע לפנות אל איש האלוהים",
+      "title_en": "The Attendant Suggests Consulting the Man of God",
+      "start_verse": 6,
+      "end_verse": 10,
+      "summary": "הנער מציע לפנות אל איש האלוהים שבעיר, ששמו נחשב אמין ודבריו מתקיימים. לאחר ששאול מעלה את בעיית התשורה, הנער מציע את רבע השקל שבידו, ושאול מסכים ללכת.",
+      "summary_en": "The attendant suggests consulting the man of God in the city, whose reputation is trustworthy and whose words come true. When Saul raises the problem of bringing a gift, the attendant offers his quarter shekel, and Saul agrees to go.",
+      "image_prompt": "Saul and his young attendant speaking on a hillside road, discussing whether to visit a respected holy man, ancient Israelite clothing and landscape, realistic biblical illustration, no text"
+    },
+    {
+      "title": "המפגש עם הנערות וההכוונה אל הבמה",
+      "title_en": "Meeting the Young Women and Finding the Way to the High Place",
+      "start_verse": 11,
+      "end_verse": 14,
+      "summary": "בעלייה אל העיר פוגשים שאול ונערו נערות השואבות מים. הן מודיעות להם שהרואה נמצא בעיר ושעליהם למהר, מפני שהעם עומד להשתתף בסעודה חגיגית בבמה.",
+      "summary_en": "As Saul and his attendant climb toward the city, they meet young women drawing water. The women tell them that the seer is in the city and that they should hurry because the people are about to participate in a festive meal at the high place.",
+      "image_prompt": "Young women drawing water near the foot of a hill while two travelers ask for directions to a biblical city, ancient Israelite setting, warm natural light, realistic historical scene, no text"
+    },
+    {
+      "title": "ה' מכין את שמואל לקראת שאול",
+      "title_en": "The Lord Prepares Samuel for Saul",
+      "start_verse": 15,
+      "end_verse": 17,
+      "summary": "ה' מגלה לשמואל מראש על בואו של איש מבנימין, שעליו למשוח לנגיד ושיושיע את ישראל מיד הפלשתים. כאשר שמואל רואה את שאול, ה' מזהה אותו כאיש המיועד למשול בעם.",
+      "summary_en": "The Lord reveals in advance to Samuel that a man from Benjamin will come, whom Samuel is to anoint as leader and who will save Israel from the Philistines. When Samuel sees Saul, the Lord identifies him as the man destined to rule the people.",
+      "image_prompt": "The prophet Samuel standing near the entrance of an ancient hilltop city, looking toward the tall young Saul approaching, subtle sense of divine purpose, realistic biblical art, no text"
+    },
+    {
+      "title": "שאול פוגש את שמואל ומקבל רמז לייעודו",
+      "title_en": "Saul Meets Samuel and Receives a Hint of His Destiny",
+      "start_verse": 18,
+      "end_verse": 21,
+      "summary": "שאול מבקש משמואל את בית הרואה, ושמואל מזדהה ומזמין אותו לסעודה. הוא מגלה לו שהאתונות נמצאו ורומז שכל חמדה וכבוד בישראל עתידים להיות קשורים לשאול ולבית אביו, אך שאול מגיב בענווה ובהפתעה.",
+      "summary_en": "Saul asks Samuel where the seer’s house is, and Samuel identifies himself and invites him to the meal. He tells Saul that the donkeys have been found and hints that Israel’s treasure and honor will be connected with Saul and his father’s house, while Saul responds with humility and surprise.",
+      "image_prompt": "Samuel and Saul speaking at the gate of an ancient Israelite city, Saul looking surprised and humble as Samuel addresses him with prophetic knowledge, realistic biblical scene, no text"
+    },
+    {
+      "title": "הסעודה והכבוד המיוחד לשאול",
+      "title_en": "The Meal and the Special Honor Given to Saul",
+      "start_verse": 22,
+      "end_verse": 24,
+      "summary": "שמואל מושיב את שאול ואת נערו בראש הקרואים ומורה לטבח להגיש את המנה ששמר עבור שאול. שאול אוכל עם שמואל, אף שעדיין אינו מבין מדוע הוא זוכה לכבוד מיוחד.",
+      "summary_en": "Samuel seats Saul and his attendant at the head of the invited guests and orders the cook to serve the portion reserved for Saul. Saul eats with Samuel, although he still does not understand why he is receiving special honor.",
+      "image_prompt": "A festive communal meal in an ancient Israelite chamber, Samuel seating Saul at the place of honor while a cook serves a special portion, realistic biblical historical illustration, no text"
+    },
+    {
+      "title": "השיחה על הגג וההודעה על דבר האלוהים",
+      "title_en": "The Rooftop Conversation and the Promise of God’s Word",
+      "start_verse": 25,
+      "end_verse": 27,
+      "summary": "לאחר הסעודה שמואל משוחח עם שאול על הגג. עם שחר הוא מלווה אותו אל מחוץ לעיר, מבקש מהנער להקדים, ומתכונן להשמיע לשאול בפרטיות את דבר האלוהים.",
+      "summary_en": "After the meal, Samuel speaks with Saul on the roof. At dawn he accompanies Saul outside the city, asks the attendant to go ahead, and prepares to tell Saul privately the word of God.",
+      "image_prompt": "At dawn outside an ancient hilltop city, Samuel asks a young attendant to walk ahead while he speaks privately with Saul, quiet prophetic atmosphere, realistic biblical art, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 14.62,
+      "usfm": "1SA.9.1"
+    },
+    {
+      "start": 14.62,
+      "end": 29.26,
+      "usfm": "1SA.9.2"
+    },
+    {
+      "start": 29.26,
+      "end": 39.68,
+      "usfm": "1SA.9.3"
+    },
+    {
+      "start": 39.68,
+      "end": 54.58,
+      "usfm": "1SA.9.4"
+    },
+    {
+      "start": 54.58,
+      "end": 67.0,
+      "usfm": "1SA.9.5"
+    },
+    {
+      "start": 67.0,
+      "end": 82.82,
+      "usfm": "1SA.9.6"
+    },
+    {
+      "start": 82.82,
+      "end": 95.96,
+      "usfm": "1SA.9.7"
+    },
+    {
+      "start": 95.96,
+      "end": 107.62,
+      "usfm": "1SA.9.8"
+    },
+    {
+      "start": 107.62,
+      "end": 119.48,
+      "usfm": "1SA.9.9"
+    },
+    {
+      "start": 119.48,
+      "end": 126.64,
+      "usfm": "1SA.9.10"
+    },
+    {
+      "start": 126.64,
+      "end": 135.64,
+      "usfm": "1SA.9.11"
+    },
+    {
+      "start": 135.64,
+      "end": 147.0,
+      "usfm": "1SA.9.12"
+    },
+    {
+      "start": 147.0,
+      "end": 164.92,
+      "usfm": "1SA.9.13"
+    },
+    {
+      "start": 164.92,
+      "end": 173.52,
+      "usfm": "1SA.9.14"
+    },
+    {
+      "start": 173.52,
+      "end": 178.54,
+      "usfm": "1SA.9.15"
+    },
+    {
+      "start": 178.54,
+      "end": 197.78,
+      "usfm": "1SA.9.16"
+    },
+    {
+      "start": 197.78,
+      "end": 209.3,
+      "usfm": "1SA.9.17"
+    },
+    {
+      "start": 209.3,
+      "end": 215.74,
+      "usfm": "1SA.9.18"
+    },
+    {
+      "start": 215.74,
+      "end": 231.16,
+      "usfm": "1SA.9.19"
+    },
+    {
+      "start": 231.16,
+      "end": 247.3,
+      "usfm": "1SA.9.20"
+    },
+    {
+      "start": 247.3,
+      "end": 261.3,
+      "usfm": "1SA.9.21"
+    },
+    {
+      "start": 261.3,
+      "end": 273.2,
+      "usfm": "1SA.9.22"
+    },
+    {
+      "start": 273.2,
+      "end": 281.16,
+      "usfm": "1SA.9.23"
+    },
+    {
+      "start": 281.16,
+      "end": 304.1,
+      "usfm": "1SA.9.24"
+    },
+    {
+      "start": 304.1,
+      "end": 311.04,
+      "usfm": "1SA.9.25"
+    },
+    {
+      "start": 311.04,
+      "end": 328.72,
+      "usfm": "1SA.9.26"
+    },
+    {
+      "start": 328.72,
+      "end": 352.2,
+      "usfm": "1SA.9.27"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    14.62,
+    29.26,
+    39.68,
+    54.58,
+    67.0,
+    82.82,
+    95.96,
+    107.62,
+    119.48,
+    126.64,
+    135.64,
+    147.0,
+    164.92,
+    173.52,
+    178.54,
+    197.78,
+    209.3,
+    215.74,
+    231.16,
+    247.3,
+    261.3,
+    273.2,
+    281.16,
+    304.1,
+    311.04,
+    328.72,
+    352.2
+  ],
+  "times_en_usfm": [
+    "1SA.9.1",
+    "1SA.9.2",
+    "1SA.9.3",
+    "1SA.9.4",
+    "1SA.9.5",
+    "1SA.9.6",
+    "1SA.9.7",
+    "1SA.9.8",
+    "1SA.9.9",
+    "1SA.9.10",
+    "1SA.9.11",
+    "1SA.9.12",
+    "1SA.9.13",
+    "1SA.9.14",
+    "1SA.9.15",
+    "1SA.9.16",
+    "1SA.9.17",
+    "1SA.9.18",
+    "1SA.9.19",
+    "1SA.9.20",
+    "1SA.9.21",
+    "1SA.9.22",
+    "1SA.9.23",
+    "1SA.9.24",
+    "1SA.9.25",
+    "1SA.9.26",
+    "1SA.9.27"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? שאול היה בן למשפחת קיש משבט בנימין. קיש מתואר כ\"גיבור חיל\", כלומר אדם בעל מעמד ויכולת.",
+      "text_he": "הידעת? שאול היה בן למשפחת קיש משבט בנימין. קיש מתואר כ\"גיבור חיל\", כלומר אדם בעל מעמד ויכולת.",
+      "text_en": "Did you know? Saul was from the family of Kish, from the tribe of Benjamin. Kish is described as a “mighty man of valor,” meaning a man of status and ability."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? שאול מתואר כ\"בחור וטוב\", וכמי שהיה גבוה מכל העם — \"משכמו ומעלה\".",
+      "text_he": "הידעת? שאול מתואר כ\"בחור וטוב\", וכמי שהיה גבוה מכל העם — \"משכמו ומעלה\".",
+      "text_en": "Did you know? Saul is described as “a choice and handsome man,” and as taller than everyone else—“from his shoulders upward.”"
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? דרכו של שאול אל שמואל התחילה במשימה משפחתית פשוטה: חיפוש האתונות שאבדו לקיש.",
+      "text_he": "הידעת? דרכו של שאול אל שמואל התחילה במשימה משפחתית פשוטה: חיפוש האתונות שאבדו לקיש.",
+      "text_en": "Did you know? Saul’s journey to Samuel began with a simple family task: searching for the donkeys that Kish had lost."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? לאחר שחיפשו האתונות בכמה אזורים ולא מצאו אותן, שאול חשש שאביו יחדל לדאוג לאתונות ויתחיל לדאוג להם.",
+      "text_he": "הידעת? לאחר שחיפשו האתונות בכמה אזורים ולא מצאו אותן, שאול חשש שאביו יחדל לדאוג לאתונות ויתחיל לדאוג להם.",
+      "text_en": "Did you know? After searching several areas without finding the donkeys, Saul worried that his father would stop worrying about the donkeys and start worrying about them."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? הנער שהיה עם שאול הציע לתת לאיש האלוהים רבע שקל כסף, שהיה בידו, כדי שיגלה להם את דרכם.",
+      "text_he": "הידעת? הנער שהיה עם שאול הציע לתת לאיש האלוהים רבע שקל כסף, שהיה בידו, כדי שיגלה להם את דרכם.",
+      "text_en": "Did you know? The young man who was with Saul suggested giving the man of God a quarter shekel of silver, which he had with him, so that he would tell them which way to go."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? הפרק מסביר את ההבדל בין המונחים \"רואה\" ו\"נביא\": בעבר נקרא הנביא בישראל \"רואה\".",
+      "text_he": "הידעת? הפרק מסביר את ההבדל בין המונחים \"רואה\" ו\"נביא\": בעבר נקרא הנביא בישראל \"רואה\".",
+      "text_en": "Did you know? The chapter explains the difference between the terms “seer” and “prophet”: in the past, a prophet in Israel was called a “seer.”"
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? בעיר נערכה סעודה חגיגית בבמה, והעם המתין לשמואל מפני שהוא היה אמור לברך על הזבח לפני האכילה.",
+      "text_he": "הידעת? בעיר נערכה סעודה חגיגית בבמה, והעם המתין לשמואל מפני שהוא היה אמור לברך על הזבח לפני האכילה.",
+      "text_en": "Did you know? A festive meal was being held at the high place, and the people were waiting for Samuel because he was supposed to bless the sacrifice before they ate."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? עוד לפני ששאול הגיע, ה' גילה לשמואל שהוא עתיד לפגוש איש מבנימין, למשוח אותו לנגיד ולשלוח אותו להושיע את ישראל מיד הפלשתים.",
+      "text_he": "הידעת? עוד לפני ששאול הגיע, ה' גילה לשמואל שהוא עתיד לפגוש איש מבנימין, למשוח אותו לנגיד ולשלוח אותו להושיע את ישראל מיד הפלשתים.",
+      "text_en": "Did you know? Before Saul arrived, the LORD had revealed to Samuel that he would meet a man from Benjamin, anoint him as leader, and send him to save Israel from the Philistines."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? שמואל הודיע לשאול שהאתונות נמצאו, אך מיד רמז לו ש\"כל חמדת ישראל\" קשורה אליו ואל בית אביו — רמז למעמדו העתידי.",
+      "text_he": "הידעת? שמואל הודיע לשאול שהאתונות נמצאו, אך מיד רמז לו ש\"כל חמדת ישראל\" קשורה אליו ואל בית אביו — רמז למעמדו העתידי.",
+      "text_en": "Did you know? Samuel told Saul that the donkeys had been found, but immediately hinted that “all that is desirable in Israel” was connected with him and his father’s family—a hint of his future status."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? שמואל הושיב את שאול בראש הקרואים וציווה להגיש לו מנה מיוחדת שהטבח שמר מראש, אף ששאול עדיין לא ידע מדוע זכה לכבוד הזה.",
+      "text_he": "הידעת? שמואל הושיב את שאול בראש הקרואים וציווה להגיש לו מנה מיוחדת שהטבח שמר מראש, אף ששאול עדיין לא ידע מדוע זכה לכבוד הזה.",
+      "text_en": "Did you know? Samuel seated Saul at the head of the guests and ordered a special portion to be served to him, which the cook had set aside in advance, even though Saul still did not know why he was being honored in this way."
+    }
+  ]
+}
