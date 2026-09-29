@@ -1,0 +1,507 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 3,
+  "title": "מלכים ב פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b03.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b03.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/3-9f81bebea2af0adc8b59d49af06873ea.mp3?version_id=1",
+  "verses": [
+    "וִיהוֹרָם בֶּן-אַחְאָב, מָלַךְ עַל-יִשְׂרָאֵל בְּשֹׁמְרוֹן, בִּשְׁנַת שְׁמֹנֶה עֶשְׂרֵה, לִיהוֹשָׁפָט מֶלֶךְ יְהוּדָה; וַיִּמְלֹךְ, שְׁתֵּים-עֶשְׂרֵה שָׁנָה.",
+    "וַיַּעֲשֶׂה הָרַע, בְּעֵינֵי יְהוָה--רַק, לֹא כְאָבִיו וּכְאִמּוֹ; וַיָּסַר אֶת-מַצְּבַת הַבַּעַל, אֲשֶׁר עָשָׂה אָבִיו.",
+    "רַק בְּחַטֹּאות יָרָבְעָם בֶּן-נְבָט, אֲשֶׁר-הֶחֱטִיא אֶת-יִשְׂרָאֵל--דָּבֵק: לֹא-סָר, מִמֶּנָּה.",
+    "וּמֵישַׁע מֶלֶךְ-מוֹאָב, הָיָה נֹקֵד; וְהֵשִׁיב לְמֶלֶךְ-יִשְׂרָאֵל מֵאָה-אֶלֶף כָּרִים, וּמֵאָה אֶלֶף אֵילִים צָמֶר.",
+    "וַיְהִי, כְּמוֹת אַחְאָב; וַיִּפְשַׁע מֶלֶךְ-מוֹאָב, בְּמֶלֶךְ יִשְׂרָאֵל.",
+    "וַיֵּצֵא הַמֶּלֶךְ יְהוֹרָם, בַּיּוֹם הַהוּא--מִשֹּׁמְרוֹן; וַיִּפְקֹד, אֶת-כָּל-יִשְׂרָאֵל.",
+    "וַיֵּלֶךְ וַיִּשְׁלַח אֶל-יְהוֹשָׁפָט מֶלֶךְ-יְהוּדָה לֵאמֹר, מֶלֶךְ מוֹאָב פָּשַׁע בִּי--הֲתֵלֵךְ אִתִּי אֶל-מוֹאָב, לַמִּלְחָמָה; וַיֹּאמֶר אֶעֱלֶה, כָּמוֹנִי כָמוֹךָ כְּעַמִּי כְעַמֶּךָ כְּסוּסַי כְּסוּסֶיךָ.",
+    "וַיֹּאמֶר, אֵי-זֶה הַדֶּרֶךְ נַעֲלֶה; וַיֹּאמֶר, דֶּרֶךְ מִדְבַּר אֱדוֹם.",
+    "וַיֵּלֶךְ מֶלֶךְ יִשְׂרָאֵל וּמֶלֶךְ-יְהוּדָה, וּמֶלֶךְ אֱדוֹם, וַיָּסֹבּוּ, דֶּרֶךְ שִׁבְעַת יָמִים; וְלֹא-הָיָה מַיִם לַמַּחֲנֶה וְלַבְּהֵמָה, אֲשֶׁר בְּרַגְלֵיהֶם.",
+    "וַיֹּאמֶר, מֶלֶךְ יִשְׂרָאֵל: אֲהָהּ--כִּי-קָרָא יְהוָה לִשְׁלֹשֶׁת הַמְּלָכִים הָאֵלֶּה, לָתֵת אוֹתָם בְּיַד-מוֹאָב.",
+    "וַיֹּאמֶר יְהוֹשָׁפָט, הַאֵין פֹּה נָבִיא לַיהוָה, וְנִדְרְשָׁה אֶת-יְהוָה, מֵאוֹתוֹ; וַיַּעַן אֶחָד מֵעַבְדֵי מֶלֶךְ-יִשְׂרָאֵל, וַיֹּאמֶר, פֹּה אֱלִישָׁע בֶּן-שָׁפָט, אֲשֶׁר-יָצַק מַיִם עַל-יְדֵי אֵלִיָּהוּ.",
+    "וַיֹּאמֶר, יְהוֹשָׁפָט, יֵשׁ אוֹתוֹ, דְּבַר-יְהוָה; וַיֵּרְדוּ אֵלָיו, מֶלֶךְ יִשְׂרָאֵל וִיהוֹשָׁפָט--וּמֶלֶךְ אֱדוֹם.",
+    "וַיֹּאמֶר אֱלִישָׁע אֶל-מֶלֶךְ יִשְׂרָאֵל, מַה-לִּי וָלָךְ--לֵךְ אֶל-נְבִיאֵי אָבִיךָ, וְאֶל-נְבִיאֵי אִמֶּךָ; וַיֹּאמֶר לוֹ, מֶלֶךְ יִשְׂרָאֵל, אַל כִּי-קָרָא יְהוָה לִשְׁלֹשֶׁת הַמְּלָכִים הָאֵלֶּה, לָתֵת אוֹתָם בְּיַד-מוֹאָב.",
+    "וַיֹּאמֶר אֱלִישָׁע, חַי-יְהוָה צְבָאוֹת אֲשֶׁר עָמַדְתִּי לְפָנָיו, כִּי לוּלֵי פְּנֵי יְהוֹשָׁפָט מֶלֶךְ-יְהוּדָה, אֲנִי נֹשֵׂא--אִם-אַבִּיט אֵלֶיךָ, וְאִם-אֶרְאֶךָּ.",
+    "וְעַתָּה, קְחוּ-לִי מְנַגֵּן; וְהָיָה כְּנַגֵּן הַמְנַגֵּן, וַתְּהִי עָלָיו יַד-יְהוָה.",
+    "וַיֹּאמֶר, כֹּה אָמַר יְהוָה: עָשֹׂה הַנַּחַל הַזֶּה, גֵּבִים גֵּבִים.",
+    "כִּי-כֹה אָמַר יְהוָה, לֹא-תִרְאוּ רוּחַ וְלֹא-תִרְאוּ גֶשֶׁם, וְהַנַּחַל הַהוּא, יִמָּלֵא מָיִם; וּשְׁתִיתֶם אַתֶּם וּמִקְנֵיכֶם, וּבְהֶמְתְּכֶם.",
+    "וְנָקַל זֹאת, בְּעֵינֵי יְהוָה; וְנָתַן אֶת-מוֹאָב, בְּיֶדְכֶם.",
+    "וְהִכִּיתֶם כָּל-עִיר מִבְצָר, וְכָל-עִיר מִבְחוֹר, וְכָל-עֵץ טוֹב תַּפִּילוּ, וְכָל-מַעְיְנֵי-מַיִם תִּסְתֹּמוּ; וְכֹל הַחֶלְקָה הַטּוֹבָה, תַּכְאִבוּ בָּאֲבָנִים.",
+    "וַיְהִי בַבֹּקֶר כַּעֲלוֹת הַמִּנְחָה, וְהִנֵּה-מַיִם בָּאִים מִדֶּרֶךְ אֱדוֹם; וַתִּמָּלֵא הָאָרֶץ, אֶת-הַמָּיִם.",
+    "וְכָל-מוֹאָב, שָׁמְעוּ, כִּי-עָלוּ הַמְּלָכִים, לְהִלָּחֶם בָּם; וַיִּצָּעֲקוּ, מִכֹּל חֹגֵר חֲגֹרָה וָמַעְלָה, וַיַּעַמְדוּ, עַל-הַגְּבוּל.",
+    "וַיַּשְׁכִּימוּ בַבֹּקֶר, וְהַשֶּׁמֶשׁ זָרְחָה עַל-הַמָּיִם; וַיִּרְאוּ מוֹאָב מִנֶּגֶד אֶת-הַמַּיִם, אֲדֻמִּים כַּדָּם.",
+    "וַיֹּאמְרוּ, דָּם זֶה, הָחֳרֵב נֶחֶרְבוּ הַמְּלָכִים, וַיַּכּוּ אִישׁ אֶת-רֵעֵהוּ; וְעַתָּה לַשָּׁלָל, מוֹאָב.",
+    "וַיָּבֹאוּ, אֶל-מַחֲנֵה יִשְׂרָאֵל, וַיָּקֻמוּ יִשְׂרָאֵל וַיַּכּוּ אֶת-מוֹאָב, וַיָּנֻסוּ מִפְּנֵיהֶם; ויבו- וַיַּכּוּ- בָהּ, וְהַכּוֹת אֶת-מוֹאָב.",
+    "וְהֶעָרִים יַהֲרֹסוּ וְכָל-חֶלְקָה טוֹבָה יַשְׁלִיכוּ אִישׁ-אַבְנוֹ וּמִלְאוּהָ, וְכָל-מַעְיַן-מַיִם יִסְתֹּמוּ וְכָל-עֵץ-טוֹב יַפִּילוּ, עַד-הִשְׁאִיר אֲבָנֶיהָ בַּקִּיר, חֲרָשֶׂת; וַיָּסֹבּוּ הַקַּלָּעִים, וַיַּכּוּהָ.",
+    "וַיַּרְא מֶלֶךְ מוֹאָב, כִּי-חָזַק מִמֶּנּוּ הַמִּלְחָמָה; וַיִּקַּח אוֹתוֹ שְׁבַע-מֵאוֹת אִישׁ שֹׁלֵף חֶרֶב, לְהַבְקִיעַ אֶל-מֶלֶךְ אֱדוֹם--וְלֹא יָכֹלוּ.",
+    "וַיִּקַּח אֶת-בְּנוֹ הַבְּכוֹר אֲשֶׁר-יִמְלֹךְ תַּחְתָּיו, וַיַּעֲלֵהוּ עֹלָה עַל-הַחֹמָה, וַיְהִי קֶצֶף-גָּדוֹל, עַל-יִשְׂרָאֵל; וַיִּסְעוּ, מֵעָלָיו, וַיָּשֻׁבוּ, לָאָרֶץ."
+  ],
+  "english": [
+    "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.",
+    "And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.",
+    "Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.",
+    "And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.",
+    "But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.",
+    "And king Jehoram went out of Samaria the same time, and numbered all Israel.",
+    "And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I\nam as thou\nart, my people as thy people,\nand my horses as thy horses.",
+    "And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom.",
+    "So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them.",
+    "And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!",
+    "But Jehoshaphat said,\nIs there not here a prophet of the LORD, that we may enquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here\nis Elisha the son of Shaphat, which poured water on the hands of Elijah.",
+    "And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.",
+    "And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab.",
+    "And Elisha said,\nAs the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.",
+    "But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.",
+    "And he said, Thus saith the LORD, Make this valley full of ditches.",
+    "For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts.",
+    "And this is\nbut a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.",
+    "And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.",
+    "And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.",
+    "And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.",
+    "And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side\nas red as blood:",
+    "And they said, This\nis blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.",
+    "And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in\ntheir country.",
+    "And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir-haraseth left they the stones thereof; howbeit the slingers went about\nit, and smote it.",
+    "And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through\neven\n unto the king of Edom: but they could not.",
+    "Then he took his eldest son that should have reigned in his stead, and offered him\nfor a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to\ntheir own land."
+  ],
+  "steinsaltz": [
+    "וִיהוֹרָם בֶּן־אַחְאָב מָלַךְ עַל־יִשְׂרָאֵל בְּשֹׁמְרוֹן בִּשְׁנַת שְׁמֹנֶה עֶשְׂרֵה לִיהוֹשָׁפָט מֶלֶךְ יְהוּדָה, וַיִּמְלֹךְ שְׁתֵּים־עֶשְׂרֵה שָׁנָה.",
+    "וַיַּעֲשֶׂה הָרַע בְּעֵינֵי ה', רַק לֹא עבד עבודה זרה כְאָבִיו וּכְאִמּוֹ, וַיָּסַר אֶת־מַצְּבַת הַבַּעַל אֲשֶׁר עָשָׂה אָבִיו.",
+    "רַק בְּחַטֹּאות יָרָבְעָם בֶּן־נְבָט אֲשֶׁר־הֶחֱטִיא אֶת־יִשְׂרָאֵל דָּבֵק, לֹא־סָר מִמֶּנָּה, והמשיך לקיים את מרכזי הפולחן בדן ובבית-אל כשאר מלכי ישראל.",
+    "וּמֵישַׁע מֶלֶךְ־מוֹאָב הָיָה נֹקֵד, בעל מקנה, כלומר ביסס את כלכלתו על הצאן שכן ארצו הייתה אזור מרעה. אף שמואב הייתה מדינה עצמאית שבראשה עמד מלך, מלכה היה משועבד לישראל – וְהֵשִׁיב, העלה מס קבוע לְמֶלֶךְ־יִשְׂרָאֵל מֵאָה־אֶלֶף כָּרִים, בני צאן שמנים שגודלו לשם השימוש בבשרם, וּמֵאָה אֶלֶף אֵילִים המיועדים לגזיזת צָמֶר.",
+    "ייתכן שאחאב נחשב למלך גדול ולאיש מלחמה, ולכן המואבים לא העזו להתקומם נגדו, אבל – וַיְהִי כְּמוֹת אַחְאָב, וַיִּפְשַׁע, מרד מֶלֶךְ־מוֹאָב בְּמֶלֶךְ יִשְׂרָאֵל, והכריז על עצמאות גמורה. פרט זה הובא כבר במקומו הכרונולוגי, ועתה יורחב בו.",
+    "אשר על כן – וַיֵּצֵא הַמֶּלֶךְ יְהוֹרָם בַּיּוֹם הַהוּא, ביום מן הימים מִשֹּׁמְרוֹן, וַיִּפְקֹד אֶת־כָּל־יִשְׂרָאֵל. ערך מפקד צבאי כולל.",
+    "וַיֵּלֶךְ וַיִּשְׁלַח אֶל־יְהוֹשָׁפָט מֶלֶךְ־יְהוּדָה לֵאמֹר: מֶלֶךְ מוֹאָב פָּשַׁע בִּי, הֲתֵלֵךְ אִתִּי אֶל־מוֹאָב לַמִּלְחָמָה? הממלכות השלימו זו עם זו, ומלכיהן גם יצרו קשרים משפחתיים זה עם זה. כאן היה להן אינטרס משותף מובהק. למרות פיצול הממלכה שתי הממלכות ידעו שהן עם אחד, ושתיהן היו מעוניינות שיישמר קיומן. וַיֹּאמֶר יהושפט: אֶעֱלֶה אתך למלחמה. כָּמֹנִי כָמוֹךָ, כְּעַמִּי כְעַמֶּךָ, כְּסוּסַי כְּסוּסֶיךָ. נצא למלחמה שווה בשווה. זוהי אותה תשובה שענה יהושפט לאחאב בזמנו.",
+    "וַיֹּאמֶר מלך ישראל: אֵי־זֶה הַדֶּרֶךְ נַעֲלֶה? וַיֹּאמֶר יהושפט: דֶּרֶךְ מִדְבַּר אֱדוֹם. אדום הייתה משועבדת ליהודה, ויהושפט חשב שיוכלו להישען על כוחותיה. ואולי העדיף להדרים למדבר אדום ואחר כך לעלות צפונה, ולא לחצות את הירדן, משום שדרך הירדן היא דרך קשה למדי.",
+    "וַיֵּלֶךְ מֶלֶךְ יִשְׂרָאֵל וּמֶלֶךְ יְהוּדָה וּמֶלֶךְ אֱדוֹם, שהסתפח אליהם. אפשר שהצטרף לא רק משום שהיה משועבד למלך יהודה, אלא גם בגלל האינטרס שלו, כשכנה של מואב. אולי קיווה שהחלשתה של מואב תגדיל את כוחו שלו. וַיָּסֹבּוּ, הסתובבו דֶּרֶךְ שִׁבְעַת יָמִים במדבר אדום, וְלֹא־הָיָה מַיִם לַמַּחֲנֶה הגדול וְלַבְּהֵמָה אֲשֶׁר בְּרַגְלֵיהֶם, שהתלוותה להם.",
+    "וַיֹּאמֶר מֶלֶךְ יִשְׂרָאֵל: אֲהָהּ! קריאת אבל, כִּי־קָרָא, ייעד ה' לִשְׁלֹשֶׁת הַמְּלָכִים הָאֵלֶּה – לשלושתנו לָתֵת אוֹתָם בְּיַד־מוֹאָב. היעדר המים יגרום לתבוסתנו בידי המואבים.",
+    "וַיֹּאמֶר יְהוֹשָׁפָט: הַאֵין פֹּה נָבִיא לַה', וְנִדְרְשָׁה אֶת־ה' מֵאוֹתוֹ? יהושפט, שהיה מלך צדיק באופן כללי, ידע שכשהוא ניצב מול החלטה או חיפוש אחר פתרון שלראשי הצבא אין מענה עליהם, ראוי לשאול בדבר ה' מפי נביא. וַיַּעַן אֶחָד מֵעַבְדֵי מֶלֶךְ־יִשְׂרָאֵל וַיֹּאמֶר: פֹּה אתנו במחנה אֱלִישָׁע בֶּן־שָׁפָט. אלישע אינו איש צבא והוא לא גויס למלחמה, אך אולי צורף למחנה דווקא משום שהוא נביא, והיה האיש אֲשֶׁר־יָצַק מַיִם עַל־יְדֵי, שירת את אֵלִיָּהוּ.",
+    "וַיֹּאמֶר יְהוֹשָׁפָט: אם כך, בוודאי יֵשׁ אוֹתוֹ, אצלו דְּבַר־ה'. וַיֵּרְדוּ אֵלָיו מֶלֶךְ יִשְׂרָאֵל וִיהוֹשָׁפָט וּמֶלֶךְ אֱדוֹם.",
+    "וַיֹּאמֶר אֱלִישָׁע אֶל־מֶלֶךְ יִשְׂרָאֵל בלעג: מַה־לִּי וָלָךְ?! מה יש בינינו?! מדוע אתה בא אלי?! לֵךְ אֶל־נְבִיאֵי הבעל והעשתורת של אָבִיךָ וְאֶל־נְבִיאֵי הבעל והעשתורת של אִמֶּךָ לשמוע מהם על העתיד. וַיֹּאמֶר לוֹ מֶלֶךְ יִשְׂרָאֵל: אַל תאמר כך, כִּי־קָרָא ה' לִשְׁלֹשֶׁת הַמְּלָכִים הָאֵלֶּה לָתֵת אוֹתָם בְּיַד מוֹאָב. לא ראוי שבנסיבות כה חמורות תפטור אותי בלעג.",
+    "וַיֹּאמֶר אֱלִישָׁע בשבועה: חַי־ה' צְבָאוֹת אֲשֶׁר עָמַדְתִּי לְפָנָיו, ששירַתִּי אותו, שהייתי כפוף ונאמן לו, כִּי לוּלֵי פְּנֵי־יְהוֹשָׁפָט מֶלֶךְ־יְהוּדָה אֲנִי נֹשֵׂא, אילו לא כיבדתי את יהושפט המלך – אִם־אַבִּיט אֵלֶיךָ וְאִם־אֶרְאֶךָּ, לא הייתי מדבר אתך כלל.",
+    "וְעַתָּה קְחוּ, הביאו לִי מְנַגֵּן. לאחר שאלישע ביטא את כעסו הישן והמתמשך על בית אחאב, הוא נזקק לשמוע נגינה כדי להירגע, משום שהנבואה אינה שורה על אדם בעת שאין הוא נינוח ופתוח לקראתה. וְהָיָה כְּנַגֵּן הַמְנַגֵּן – וַתְּהִי עָלָיו – על אלישע יַד ה'.",
+    "וַיֹּאמֶר אלישע: כֹּה אָמַר ה': עָשֹׂה הַנַּחַל הַזֶּה גֵּבִים גֵּבִים. הנחל הזה יתמלא בורות מים.",
+    "כִּי־כֹה אָמַר ה': לֹא־תִרְאוּ רוּחַ וְלֹא־תִרְאוּ גֶשֶׁם, וְלמרות זאת הַנַּחַל הַהוּא, הערוץ הזה יִמָּלֵא מָיִם, וּשְׁתִיתֶם אַתֶּם וּמִקְנֵיכֶם וּבְהֶמְתְּכֶם.",
+    "וְנָקַל זֹאת בְּעֵינֵי ה', יתרה מזו, וְנָתַן אֶת־מוֹאָב בְּיֶדְכֶם.",
+    "ומלבד הניצחון על מואב עליכם לערוך מסע עונשין כבד: וְהִכִּיתֶם כָּל־עִיר מִבְצָר וְכָל־עִיר מִבְחוֹר, נבחרת, וְכָל־עֵץ טוֹב תַּפִּילוּ, וְכָל־מַעְיְנֵי־מַיִם תִּסְתֹּמוּ, וְכֹל הַחֶלְקָה הַטּוֹבָה תַּכְאִבוּ, תקלקלו לאורך זמן בָּאֲבָנִים, כדי שאי-אפשר יהיה לעבדה.",
+    "וַיְהִי בַבֹּקֶר כַּעֲלוֹת הַמִּנְחָה, בעת הבאת מנחת הבוקר, וְהִנֵּה־מַיִם בָּאִים בתוך הנחל מִדֶּרֶךְ אֱדוֹם, וַתִּמָּלֵא הָאָרֶץ אֶת־הַמָּיִם. לכל הצבא היו מים לשתות, והמלכים היו מוכנים למלחמה.",
+    "וְכָל־מוֹאָב שָׁמְעוּ כִּי־עָלוּ הַמְּלָכִים לְהִלָּחֶם בָּם, וַיִּצָּעֲקוּ, נאספו מִכֹּל חֹגֵר חֲגֹרָה וָמַעְלָה, כל המסוגלים לחגור חרב, וַיַּעַמְדוּ עַל־הַגְּבוּל.",
+    "וַיַּשְׁכִּימוּ בַבֹּקֶר, וְהַשֶּׁמֶשׁ זָרְחָה עַל־הַמָּיִם, וַיִּרְאוּ מוֹאָב מִנֶּגֶד אֶת־הַמַּיִם אֲדֻמִּים כַּדָּם בגלל זריחת השמש על המים בשעות הבוקר, שבהן היא נראית אדומה יותר.",
+    "וַיֹּאמְרוּ: דָּם זֶה, ולא נחל מים. הָחֳרֵב נֶחֶרְבוּ הַמְּלָכִים וַיַּכּוּ אִישׁ אֶת־רֵעֵהוּ. הנחל המלא דם מעיד על טבח הדדי גדול במחנה של אויבינו, וְעַתָּה גשו לַשָּׁלָל, מוֹאָב.",
+    "וַיָּבֹאוּ אֶל־מַחֲנֵה יִשְׂרָאֵל, וַיָּקֻמוּ יִשְׂרָאֵל וַיַּכּוּ אֶת־מוֹאָב, בהיותם צבא גדול וחזק יותר, וַיָּנֻסוּ המואבים מִפְּנֵיהֶם. וַיַּכּוּ־בָהּ – בארצם, וְהוסיפו להַכּוֹת אֶת־מוֹאָב.",
+    "וְהֶעָרִים יַהֲרֹסוּ, וְכָל־חֶלְקָה טוֹבָה יַשְׁלִיכוּ אִישׁ־אַבְנוֹ וּמִלְאוּהָ – את החלקה באבנים, וְכָל־מַעְיַן־מַיִם יִסְתֹּמוּ, וְכָל־עֵץ־טוֹב יַפִּילוּ, עַד־הִשְׁאִיר, עד שנותרו רק אֲבָנֶיהָ, אבני החומה בַּקִּיר חֲרָשֶׂת, קיר מואב, הבירה המדינית של ארץ מואב. וַיָּסֹבּוּ, הסתובבו הַקַּלָּעִים, היורים באבני הקלע של המלכים וַיַּכּוּהָ, הכו את החומה.",
+    "וַיַּרְא מֶלֶךְ מוֹאָב כִּי־חָזַק מִמֶּנּוּ הַמִּלְחָמָה, וַיִּקַּח אוֹתוֹ, אתו שְׁבַע־מֵאוֹת אִישׁ שֹׁלֵף חֶרֶב לְהַבְקִיעַ בתוך מחנה האויבים ולהגיע אֶל־מֶלֶךְ אֱדוֹם, וְלֹא יָכֹלוּ לעמוד במשימתם, כי אנשי אדום התגוננו.",
+    "וַיִּקַּח מלך מואב אֶת־בְּנוֹ הַבְּכוֹר אֲשֶׁר־יִמְלֹךְ תַּחְתָּיו, וַיַּעֲלֵהוּ קרבן עֹלָה עַל־הַחֹמָה. מלך מואב ביטא את מסירותו לאלוהיו בהקריבו את היקר לו ביותר, את יורש העצר שלו, לעולה על חומת העיר. אפילו בין הכנענים קרבנות אדם לא היו מעשה שכיח. גם בהקרבה למולך לרוב נעשו מעשים סמליים, והילדים הועברו באש בחיים, אך לא נשרפו. על כן – וַיְהִי קֶצֶף, כעס וקטרוג גָּדוֹל עַל־יִשְׂרָאֵל מאת ה'. מידת הדין של מעלה קטרגה, כביכול: כיצד מלך מואבי זה נכון להעלות את בנו שלו לקרבן, ואילו אתם אינכם מתמסרים לרצוני?! אלוקים אינו מעוניין כמובן בקרבנות אדם, אלא בנכונות של עובדיו להתמסר אליו. כנראה בעקבות מעשהו של מישע חשו אנשי הצבא שהמלחמה אינה ראויה ומוצדקת, וַיִּסְעוּ מֵעָלָיו, עזבו את מלך מואב, וַיָּשֻׁבוּ לָאָרֶץ, איש איש לארצו."
+  ],
+  "ai_explanation": [
+    "יהורם בן אחאב מלך על ישראל בשומרון בשנת שמונה עשרה למלכות יהושפט מלך יהודה, ומלך שתים־עשרה שנה.",
+    "יהורם עשה הרע בעיני ה', אך לא עבד עבודה זרה כאביו וכאמו. הוא הסיר את מצבת הבעל שעשה אביו.",
+    "עם זאת, יהורם נשאר דבק בחטאות ירבעם בן נבט, כלומר המשיך לקיים את מרכזי הפולחן בדן ובבית־אל, כפי שעשו מלכי ישראל.",
+    "מישע מלך מואב היה בעל מקנה, משום שמואב הייתה אזור מרעה. אף שמואב הייתה מדינה עצמאית, היא הייתה משועבדת לישראל והעלתה לו מס קבוע של מאה אלף כבשים ומאה אלף אילים לצמר.",
+    "לאחר מות אחאב, שנחשב למלך גדול ולאיש מלחמה, מרד מישע במלך ישראל והכריז על עצמאות גמורה. הפרט הוזכר כבר במקומו הכרונולוגי, וכאן הסיפור מורחב.",
+    "יהורם יצא משומרון וערך מפקד צבאי כולל של כל ישראל, כדי להכין את המלחמה במואב.",
+    "יהורם ביקש מיהושפט מלך יהודה להצטרף אליו למלחמה במואב. יהושפט הסכים והדגיש את השותפות בין הממלכות, בין העמים ובין הצבאות, כפי שאמר בעבר לאחאב.",
+    "יהושפט הציע לצאת דרך מדבר אדום. אדום הייתה משועבדת ליהודה, ולכן אפשר היה להישען על כוחותיה; ייתכן גם שהדרך נבחרה כדי להימנע מחציית הירדן.",
+    "מלכי ישראל, יהודה ואדום צעדו יחד שבעה ימים במדבר אדום, אך לא נמצאו מים למחנה ולבהמות שהתלוו לצבא.",
+    "מלך ישראל ראה במחסור במים סימן לכך שה' זימן את שלושת המלכים כדי למסור אותם ביד מואב, שכן הצבא לא יוכל להילחם ללא מים.",
+    "יהושפט ביקש למצוא נביא לה' ולדרוש באמצעותו את דבר ה'. אחד מעבדי מלך ישראל הודיע שאלישע נמצא במחנה; הוא היה מי ששירת את אליהו.",
+    "יהושפט הבין שאצל אלישע נמצא דבר ה', ולכן שלושת המלכים ירדו אליו.",
+    "אלישע גער במלך ישראל ושאל מדוע בא אליו במקום לפנות לנביאי הבעל והעשתורת של הוריו. מלך ישראל השיב שהמצב חמור, שהרי לדעתו ה' הוא שהביא את שלושת המלכים לידי סכנת מואב.",
+    "אלישע הצהיר בשבועה שהוא לא היה פונה אל יהורם ולא מדבר עמו אילולא כיבד את יהושפט מלך יהודה.",
+    "אלישע ביקש להביא מנגן. לאחר שביטא את כעסו על בית אחאב, נזקק לנגינה כדי להירגע, ואז שרתה עליו יד ה'.",
+    "אלישע מסר את דבר ה': עליהם לחפור בנחל בורות רבים, כדי שיוכלו לקלוט את המים שיגיעו אליו.",
+    "המים יגיעו בלי שהצבא יראה רוח או גשם, ובכל זאת הנחל יתמלא מים, והאנשים, המקנה והבהמות יוכלו לשתות.",
+    "לדברי אלישע, הבאת המים היא דבר קל בעיני ה', והוא גם ימסור את מואב ביד שלושת המלכים.",
+    "הניצחון ילווה במסע עונשין: הורסים ערים מבוצרות, מפילים עצים טובים, סותמים מעיינות ומקלקלים את החלקות הטובות באבנים, כדי שלא יהיה אפשר לעבדן.",
+    "בבוקר, בעת עלות מנחת הבוקר, הגיעו מים מכיוון אדום והארץ התמלאה בהם. כך קיבל הצבא מים והיה מוכן למלחמה.",
+    "המואבים שמעו ששלושת המלכים עלו להילחם בהם, ואספו את כל האנשים המסוגלים להילחם, מחגור חגורה ומעלה, והעמידו אותם בגבול.",
+    "בבוקר ראו המואבים את המים ממרחק אדומים כדם, מפני שאור השמש בזריחה גרם להם להיראות אדומים יותר.",
+    "המואבים טעו וחשבו שהמים הם דם, וששלושת המלכים נחרבו והרגו זה את זה. לכן יצאו לקחת את השלל.",
+    "כאשר המואבים הגיעו למחנה ישראל, קמו ישראל והכו בהם, והמואבים נסו מפניהם. ישראל המשיכו להכות בהם גם בתוך ארצם.",
+    "הצבא הרס את הערים, מילא את החלקות הטובות באבנים, סתם את המעיינות והפיל עצים טובים. לבסוף נותרו רק אבני החומה של קיר חרשת, והקלעים הקיפו אותה והכו בה.",
+    "מלך מואב ראה שהמלחמה גוברת עליו. הוא ניסה לפרוץ אל מלך אדום בראש שבע מאות לוחמים שולפי חרב, אך לא הצליח.",
+    "מלך מואב הקריב על החומה את בנו הבכור, שהיה אמור לרשת אותו. בעקבות המעשה היה קצף גדול על ישראל; הצבאות עזבו את מלך מואב וחזרו איש לארצו."
+  ],
+  "ai_explanation_en": [
+    "Jehoram son of Ahab ruled Israel from Samaria in the eighteenth year of Jehoshaphat’s reign in Judah, and he ruled for twelve years.",
+    "Jehoram did what was evil in the eyes of the Lord, but he did not worship idols as his father and mother had. He removed the pillar of Baal that his father had made.",
+    "Nevertheless, Jehoram remained attached to the sins of Jeroboam son of Nebat. He continued to maintain the worship centers at Dan and Bethel, as the kings of Israel had done.",
+    "Mesha king of Moab was a man with large flocks, since Moab was a grazing region. Although Moab was an independent kingdom, it was subject to Israel and paid a regular tribute of one hundred thousand sheep and one hundred thousand rams for their wool.",
+    "After Ahab’s death, Ahab—who was regarded as a great king and warrior—Mesha rebelled against the king of Israel and declared complete independence. This event was already mentioned in its chronological place, and the account is now expanded.",
+    "Jehoram left Samaria and conducted a general military census of all Israel in preparation for the war against Moab.",
+    "Jehoram asked Jehoshaphat king of Judah to join him in the war against Moab. Jehoshaphat agreed and emphasized the partnership between the kingdoms, peoples, and armies, as he had previously told Ahab.",
+    "Jehoshaphat suggested traveling through the wilderness of Edom. Edom was subject to Judah, so its forces might be available; the route may also have been chosen to avoid crossing the Jordan.",
+    "The kings of Israel, Judah, and Edom marched together for seven days through the wilderness of Edom, but there was no water for the camp or for the animals accompanying the army.",
+    "The king of Israel viewed the lack of water as a sign that the Lord had summoned the three kings in order to deliver them into Moab’s hands, since an army could not fight without water.",
+    "Jehoshaphat asked whether there was a prophet of the Lord through whom they could seek God’s word. One of the king of Israel’s servants said that Elisha was in the camp; he was the man who had served Elijah.",
+    "Jehoshaphat understood that the word of the Lord was with Elisha, so the three kings went down to him.",
+    "Elisha rebuked the king of Israel and asked why he had come to him instead of going to the prophets of Baal and Ashtoreth worshiped by his parents. The king of Israel replied that the situation was grave, since he believed that the Lord had brought the three kings into danger before Moab.",
+    "Elisha swore that he would not have addressed Jehoram at all had he not respected Jehoshaphat king of Judah.",
+    "Elisha asked for a musician. After expressing his anger at the house of Ahab, he needed music in order to calm himself, and then the hand of the Lord rested upon him.",
+    "Elisha delivered the word of the Lord: the army was to dig many pits in the valley so that they could collect the water that would come there.",
+    "The water would arrive without the army seeing wind or rain, yet the valley would fill with water, and the people, livestock, and animals would be able to drink.",
+    "According to Elisha, providing the water was a small thing in the Lord’s eyes, and He would also deliver Moab into the hands of the three kings.",
+    "The victory would be accompanied by a punitive campaign: fortified cities would be destroyed, good trees cut down, springs stopped, and fertile plots ruined with stones so that they could no longer be cultivated.",
+    "In the morning, at the time of the morning offering, water came from the direction of Edom and filled the land. The army thus had water and was ready for battle.",
+    "The Moabites heard that the three kings had come to fight them. They gathered everyone capable of fighting, all who could wear a belt, and positioned them at the border.",
+    "In the morning the Moabites saw the water from a distance, red like blood, because the rising sunlight made it appear redder.",
+    "The Moabites mistakenly thought that the water was blood and that the three kings had been destroyed and killed one another. They therefore went out to take the spoil.",
+    "When the Moabites reached Israel’s camp, the Israelites rose and struck them, and the Moabites fled. Israel continued to strike them even within their own land.",
+    "The army destroyed the cities, filled the fertile plots with stones, stopped the springs, and cut down good trees. Eventually only the stones of the wall of Kir-hareseth remained, and the slingers surrounded it and attacked it.",
+    "The king of Moab saw that the battle was overwhelming him. He tried to break through to the king of Edom with seven hundred sword-bearing men, but he failed.",
+    "The king of Moab sacrificed his firstborn son, who was to succeed him, on the wall. A great anger then came against Israel; the armies withdrew from the king of Moab and returned, each to his own land."
+  ],
+  "perush": [
+    "יהורם בן אחאב מלך על ישראל בשומרון בשנת שמונה עשרה למלכות יהושפט מלך יהודה, ומלך שתים־עשרה שנה.",
+    "יהורם עשה הרע בעיני ה', אך לא עבד עבודה זרה כאביו וכאמו. הוא הסיר את מצבת הבעל שעשה אביו.",
+    "עם זאת, יהורם נשאר דבק בחטאות ירבעם בן נבט, כלומר המשיך לקיים את מרכזי הפולחן בדן ובבית־אל, כפי שעשו מלכי ישראל.",
+    "מישע מלך מואב היה בעל מקנה, משום שמואב הייתה אזור מרעה. אף שמואב הייתה מדינה עצמאית, היא הייתה משועבדת לישראל והעלתה לו מס קבוע של מאה אלף כבשים ומאה אלף אילים לצמר.",
+    "לאחר מות אחאב, שנחשב למלך גדול ולאיש מלחמה, מרד מישע במלך ישראל והכריז על עצמאות גמורה. הפרט הוזכר כבר במקומו הכרונולוגי, וכאן הסיפור מורחב.",
+    "יהורם יצא משומרון וערך מפקד צבאי כולל של כל ישראל, כדי להכין את המלחמה במואב.",
+    "יהורם ביקש מיהושפט מלך יהודה להצטרף אליו למלחמה במואב. יהושפט הסכים והדגיש את השותפות בין הממלכות, בין העמים ובין הצבאות, כפי שאמר בעבר לאחאב.",
+    "יהושפט הציע לצאת דרך מדבר אדום. אדום הייתה משועבדת ליהודה, ולכן אפשר היה להישען על כוחותיה; ייתכן גם שהדרך נבחרה כדי להימנע מחציית הירדן.",
+    "מלכי ישראל, יהודה ואדום צעדו יחד שבעה ימים במדבר אדום, אך לא נמצאו מים למחנה ולבהמות שהתלוו לצבא.",
+    "מלך ישראל ראה במחסור במים סימן לכך שה' זימן את שלושת המלכים כדי למסור אותם ביד מואב, שכן הצבא לא יוכל להילחם ללא מים.",
+    "יהושפט ביקש למצוא נביא לה' ולדרוש באמצעותו את דבר ה'. אחד מעבדי מלך ישראל הודיע שאלישע נמצא במחנה; הוא היה מי ששירת את אליהו.",
+    "יהושפט הבין שאצל אלישע נמצא דבר ה', ולכן שלושת המלכים ירדו אליו.",
+    "אלישע גער במלך ישראל ושאל מדוע בא אליו במקום לפנות לנביאי הבעל והעשתורת של הוריו. מלך ישראל השיב שהמצב חמור, שהרי לדעתו ה' הוא שהביא את שלושת המלכים לידי סכנת מואב.",
+    "אלישע הצהיר בשבועה שהוא לא היה פונה אל יהורם ולא מדבר עמו אילולא כיבד את יהושפט מלך יהודה.",
+    "אלישע ביקש להביא מנגן. לאחר שביטא את כעסו על בית אחאב, נזקק לנגינה כדי להירגע, ואז שרתה עליו יד ה'.",
+    "אלישע מסר את דבר ה': עליהם לחפור בנחל בורות רבים, כדי שיוכלו לקלוט את המים שיגיעו אליו.",
+    "המים יגיעו בלי שהצבא יראה רוח או גשם, ובכל זאת הנחל יתמלא מים, והאנשים, המקנה והבהמות יוכלו לשתות.",
+    "לדברי אלישע, הבאת המים היא דבר קל בעיני ה', והוא גם ימסור את מואב ביד שלושת המלכים.",
+    "הניצחון ילווה במסע עונשין: הורסים ערים מבוצרות, מפילים עצים טובים, סותמים מעיינות ומקלקלים את החלקות הטובות באבנים, כדי שלא יהיה אפשר לעבדן.",
+    "בבוקר, בעת עלות מנחת הבוקר, הגיעו מים מכיוון אדום והארץ התמלאה בהם. כך קיבל הצבא מים והיה מוכן למלחמה.",
+    "המואבים שמעו ששלושת המלכים עלו להילחם בהם, ואספו את כל האנשים המסוגלים להילחם, מחגור חגורה ומעלה, והעמידו אותם בגבול.",
+    "בבוקר ראו המואבים את המים ממרחק אדומים כדם, מפני שאור השמש בזריחה גרם להם להיראות אדומים יותר.",
+    "המואבים טעו וחשבו שהמים הם דם, וששלושת המלכים נחרבו והרגו זה את זה. לכן יצאו לקחת את השלל.",
+    "כאשר המואבים הגיעו למחנה ישראל, קמו ישראל והכו בהם, והמואבים נסו מפניהם. ישראל המשיכו להכות בהם גם בתוך ארצם.",
+    "הצבא הרס את הערים, מילא את החלקות הטובות באבנים, סתם את המעיינות והפיל עצים טובים. לבסוף נותרו רק אבני החומה של קיר חרשת, והקלעים הקיפו אותה והכו בה.",
+    "מלך מואב ראה שהמלחמה גוברת עליו. הוא ניסה לפרוץ אל מלך אדום בראש שבע מאות לוחמים שולפי חרב, אך לא הצליח.",
+    "מלך מואב הקריב על החומה את בנו הבכור, שהיה אמור לרשת אותו. בעקבות המעשה היה קצף גדול על ישראל; הצבאות עזבו את מלך מואב וחזרו איש לארצו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "מלכות יהורם ומרד מואב",
+      "title_en": "Jehoram’s Reign and Moab’s Revolt",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "הפרק פותח בתיאור מלכות יהורם: הוא הסיר את מצבת הבעל אך המשיך בחטאות ירבעם. לאחר מות אחאב מרד מישע מלך מואב, ויהורם נערך למלחמה באמצעות מפקד צבאי.",
+      "summary_en": "The chapter opens with an account of Jehoram’s reign: he removed Baal’s pillar but continued in the sins of Jeroboam. After Ahab’s death, Mesha king of Moab rebelled, and Jehoram prepared for war by conducting a military census.",
+      "image_prompt": "A biblical-era king in Samaria organizing a military census, with a distant rocky landscape and pastoral flocks suggesting Moab, historically restrained and without modern objects."
+    },
+    {
+      "title": "ברית שלושת המלכים והמחסור במים",
+      "title_en": "The Alliance of the Three Kings and the Lack of Water",
+      "start_verse": 7,
+      "end_verse": 10,
+      "summary": "יהורם מבקש את עזרת יהושפט, ומלך אדום מצטרף למסע. שלושת הצבאות בוחרים לעבור במדבר אדום, אך לאחר שבעה ימים נשארים ללא מים, ויהורם חושש מתבוסה.",
+      "summary_en": "Jehoram seeks Jehoshaphat’s help, and the king of Edom joins the campaign. The three armies travel through the wilderness of Edom, but after seven days they have no water, and Jehoram fears defeat.",
+      "image_prompt": "Three ancient Near Eastern kings and their armies traveling through a dry wilderness, with exhausted animals and empty water vessels, realistic biblical setting."
+    },
+    {
+      "title": "פנייה לאלישע ונבואת המים",
+      "title_en": "Appeal to Elisha and the Prophecy of Water",
+      "start_verse": 11,
+      "end_verse": 20,
+      "summary": "יהושפט מבקש דבר ה' מפי נביא, ואלישע מובא לפני המלכים. לאחר שהביע את הסתייגותו מיהורם ונרגע באמצעות נגינה, הוא מבטיח מים ללא רוח או גשם וניצחון על מואב.",
+      "summary_en": "Jehoshaphat seeks the word of the Lord through a prophet, and Elisha is brought before the kings. After expressing his disapproval of Jehoram and calming himself with music, Elisha promises water without wind or rain and victory over Moab.",
+      "image_prompt": "The prophet Elisha speaking before three kings in a desert camp, with a musician nearby and soldiers listening, solemn biblical atmosphere."
+    },
+    {
+      "title": "המים, טעות המואבים והניצחון",
+      "title_en": "The Water, the Moabite Mistake, and the Victory",
+      "start_verse": 21,
+      "end_verse": 24,
+      "summary": "המואבים מתאספים בגבול, ורואים את המים האדומים באור השמש. הם טועים לחשוב שהמלכים הרגו זה את זה, יוצאים לשלל, ואז מובסים בידי צבא ישראל.",
+      "summary_en": "The Moabites gather at the border and see the water appear red in the sunlight. They mistakenly believe that the kings have killed one another, go out for the spoil, and are then defeated by Israel’s army.",
+      "image_prompt": "Moabite soldiers looking across a valley at red-tinted water in the morning light, while an opposing army prepares nearby, cinematic but historically restrained."
+    },
+    {
+      "title": "הרס ערי מואב והמצור על קיר חרשת",
+      "title_en": "The Destruction of Moabite Cities and the Siege of Kir-hareseth",
+      "start_verse": 25,
+      "end_verse": 25,
+      "summary": "צבאות המלכים הורסים את ערי מואב, פוגעים בשדות, סותמים מעיינות ומפילים עצים. קיר חרשת נשארה כמבצר המרכזי, והקלעים תוקפים את חומתה.",
+      "summary_en": "The allied armies destroy Moabite cities, ruin the fields, stop the springs, and cut down trees. Kir-hareseth remains as the principal stronghold, and the slingers attack its wall.",
+      "image_prompt": "Ancient soldiers surrounding a fortified Moabite city, with damaged fields, blocked springs, fallen trees, and slingers facing the stone wall."
+    },
+    {
+      "title": "ניסיון הפריצה והקרבת בן מלך מואב",
+      "title_en": "The Failed Breakthrough and the Sacrifice of Moab’s Prince",
+      "start_verse": 26,
+      "end_verse": 27,
+      "summary": "מלך מואב מנסה לפרוץ אל מלך אדום בראש שבע מאות לוחמים אך נכשל. לאחר מכן הוא מקריב את בנו הבכור על החומה, ובעקבות הקצף הגדול הצבאות עוזבים וחוזרים לארצותיהם.",
+      "summary_en": "The king of Moab tries to break through to the king of Edom with seven hundred warriors but fails. He then sacrifices his firstborn son on the wall, and following the great anger, the armies withdraw and return to their lands.",
+      "image_prompt": "A somber ancient fortified city at dusk, with the Moabite king on the wall and withdrawing armies in the distance; imply the tragic sacrifice without graphic depiction."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 13.52,
+      "usfm": "2KI.3.1"
+    },
+    {
+      "start": 13.52,
+      "end": 23.02,
+      "usfm": "2KI.3.2"
+    },
+    {
+      "start": 23.02,
+      "end": 31.6,
+      "usfm": "2KI.3.3"
+    },
+    {
+      "start": 31.6,
+      "end": 41.24,
+      "usfm": "2KI.3.4"
+    },
+    {
+      "start": 41.24,
+      "end": 48.02,
+      "usfm": "2KI.3.5"
+    },
+    {
+      "start": 48.02,
+      "end": 53.56,
+      "usfm": "2KI.3.6"
+    },
+    {
+      "start": 53.56,
+      "end": 73.0,
+      "usfm": "2KI.3.7"
+    },
+    {
+      "start": 73.0,
+      "end": 80.72,
+      "usfm": "2KI.3.8"
+    },
+    {
+      "start": 80.72,
+      "end": 93.98,
+      "usfm": "2KI.3.9"
+    },
+    {
+      "start": 93.98,
+      "end": 102.24,
+      "usfm": "2KI.3.10"
+    },
+    {
+      "start": 102.24,
+      "end": 117.74,
+      "usfm": "2KI.3.11"
+    },
+    {
+      "start": 117.74,
+      "end": 126.02,
+      "usfm": "2KI.3.12"
+    },
+    {
+      "start": 126.02,
+      "end": 144.18,
+      "usfm": "2KI.3.13"
+    },
+    {
+      "start": 144.18,
+      "end": 158.5,
+      "usfm": "2KI.3.14"
+    },
+    {
+      "start": 158.5,
+      "end": 165.72,
+      "usfm": "2KI.3.15"
+    },
+    {
+      "start": 165.72,
+      "end": 172.18,
+      "usfm": "2KI.3.16"
+    },
+    {
+      "start": 172.18,
+      "end": 185.98,
+      "usfm": "2KI.3.17"
+    },
+    {
+      "start": 185.98,
+      "end": 193.42,
+      "usfm": "2KI.3.18"
+    },
+    {
+      "start": 193.42,
+      "end": 206.64,
+      "usfm": "2KI.3.19"
+    },
+    {
+      "start": 206.64,
+      "end": 218.28,
+      "usfm": "2KI.3.20"
+    },
+    {
+      "start": 218.28,
+      "end": 228.0,
+      "usfm": "2KI.3.21"
+    },
+    {
+      "start": 228.0,
+      "end": 237.58,
+      "usfm": "2KI.3.22"
+    },
+    {
+      "start": 237.58,
+      "end": 246.74,
+      "usfm": "2KI.3.23"
+    },
+    {
+      "start": 246.74,
+      "end": 259.26,
+      "usfm": "2KI.3.24"
+    },
+    {
+      "start": 259.26,
+      "end": 280.88,
+      "usfm": "2KI.3.25"
+    },
+    {
+      "start": 280.88,
+      "end": 291.62,
+      "usfm": "2KI.3.26"
+    },
+    {
+      "start": 291.62,
+      "end": 315.08,
+      "usfm": "2KI.3.27"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    13.52,
+    23.02,
+    31.6,
+    41.24,
+    48.02,
+    53.56,
+    73.0,
+    80.72,
+    93.98,
+    102.24,
+    117.74,
+    126.02,
+    144.18,
+    158.5,
+    165.72,
+    172.18,
+    185.98,
+    193.42,
+    206.64,
+    218.28,
+    228.0,
+    237.58,
+    246.74,
+    259.26,
+    280.88,
+    291.62,
+    315.08
+  ],
+  "times_en_usfm": [
+    "2KI.3.1",
+    "2KI.3.2",
+    "2KI.3.3",
+    "2KI.3.4",
+    "2KI.3.5",
+    "2KI.3.6",
+    "2KI.3.7",
+    "2KI.3.8",
+    "2KI.3.9",
+    "2KI.3.10",
+    "2KI.3.11",
+    "2KI.3.12",
+    "2KI.3.13",
+    "2KI.3.14",
+    "2KI.3.15",
+    "2KI.3.16",
+    "2KI.3.17",
+    "2KI.3.18",
+    "2KI.3.19",
+    "2KI.3.20",
+    "2KI.3.21",
+    "2KI.3.22",
+    "2KI.3.23",
+    "2KI.3.24",
+    "2KI.3.25",
+    "2KI.3.26",
+    "2KI.3.27"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? יהורם בן אחאב מלך על ישראל בשומרון שתים עשרה שנה, והחל את מלכותו בשנת שמונה עשרה ליהושפט מלך יהודה.",
+      "text_he": "הידעת? יהורם בן אחאב מלך על ישראל בשומרון שתים עשרה שנה, והחל את מלכותו בשנת שמונה עשרה ליהושפט מלך יהודה.",
+      "text_en": "Did you know? Jehoram son of Ahab ruled over Israel in Samaria for twelve years, beginning his reign in the eighteenth year of Jehoshaphat king of Judah."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? יהורם עשה הרע בעיני ה', אך בשונה מאביו ומאמו הסיר את מצבת הבעל שעשה אביו.",
+      "text_he": "הידעת? יהורם עשה הרע בעיני ה', אך בשונה מאביו ומאמו הסיר את מצבת הבעל שעשה אביו.",
+      "text_en": "Did you know? Jehoram did evil in the eyes of the Lord, but unlike his father and mother, he removed the sacred pillar of Baal that his father had made."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? למרות שהסיר את מצבת הבעל, יהורם המשיך לדבוק בחטאות ירבעם בן נבט, כלומר בעבודת העגלים שהנהיג ירבעם.",
+      "text_he": "הידעת? למרות שהסיר את מצבת הבעל, יהורם המשיך לדבוק בחטאות ירבעם בן נבט, כלומר בעבודת העגלים שהנהיג ירבעם.",
+      "text_en": "Did you know? Although Jehoram removed the sacred pillar of Baal, he continued in the sins of Jeroboam son of Nebat—that is, the worship of the golden calves that Jeroboam had introduced."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? מישע מלך מואב מתואר כ\"נוקד\", והוא היה משיב למלך ישראל מאה אלף כבשים ומאה אלף אילים בצמרם.",
+      "text_he": "הידעת? מישע מלך מואב מתואר כ\"נוקד\", והוא היה משיב למלך ישראל מאה אלף כבשים ומאה אלף אילים בצמרם.",
+      "text_en": "Did you know? Mesha king of Moab is described as a sheep breeder, and he used to provide the king of Israel with one hundred thousand lambs and the wool of one hundred thousand rams."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? יהורם ביקש מיהושפט מלך יהודה להצטרף אליו למלחמה במואב, ומלך אדום הצטרף אף הוא למסע.",
+      "text_he": "הידעת? יהורם ביקש מיהושפט מלך יהודה להצטרף אליו למלחמה במואב, ומלך אדום הצטרף אף הוא למסע.",
+      "text_en": "Did you know? Jehoram asked Jehoshaphat king of Judah to join him in the war against Moab, and the king of Edom also joined the campaign."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? שלושת המלכים — ישראל, יהודה ואדום — בחרו לצעוד בדרך מדבר אדום, אך לאחר שבעה ימים לא נותרו מים למחנה ולבהמות.",
+      "text_he": "הידעת? שלושת המלכים — ישראל, יהודה ואדום — בחרו לצעוד בדרך מדבר אדום, אך לאחר שבעה ימים לא נותרו מים למחנה ולבהמות.",
+      "text_en": "Did you know? The three kings—of Israel, Judah, and Edom—chose to travel by way of the wilderness of Edom, but after seven days there was no water left for the army or the animals."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? יהושפט ביקש נביא לה', ואז הובא אלישע, אשר מתואר כמי שיצק מים על ידי אליהו.",
+      "text_he": "הידעת? יהושפט ביקש נביא לה', ואז הובא אלישע, אשר מתואר כמי שיצק מים על ידי אליהו.",
+      "text_en": "Did you know? Jehoshaphat asked for a prophet of the Lord, and Elisha was brought to him. Elisha is described as the one who poured water on Elijah’s hands."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? לפני שנאמרה נבואת המים, ביקש אלישע להביא מנגן; בזמן שהמנגן ניגן הייתה עליו יד ה'.",
+      "text_he": "הידעת? לפני שנאמרה נבואת המים, ביקש אלישע להביא מנגן; בזמן שהמנגן ניגן הייתה עליו יד ה'.",
+      "text_en": "Did you know? Before the prophecy about the water was given, Elisha asked for a musician to be brought. While the musician played, the hand of the Lord came upon Elisha."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? אלישע הבטיח שהנחל יתמלא מים בלי שהצבא יראה רוח או גשם, והמים יספיקו גם לאנשים וגם למקנה.",
+      "text_he": "הידעת? אלישע הבטיח שהנחל יתמלא מים בלי שהצבא יראה רוח או גשם, והמים יספיקו גם לאנשים וגם למקנה.",
+      "text_en": "Did you know? Elisha promised that the valley would be filled with water, even though the army would see neither wind nor rain, and that the water would be enough for both the people and the animals."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? המואבים ראו את המים אדומים באור השמש, פירשו אותם בטעות כדם, וחשבו שהמלכים הרגו זה את זה ולכן יצאו לקחת שלל.",
+      "text_he": "הידעת? המואבים ראו את המים אדומים באור השמש, פירשו אותם בטעות כדם, וחשבו שהמלכים הרגו זה את זה ולכן יצאו לקחת שלל.",
+      "text_en": "Did you know? The Moabites saw the water looking red in the sunlight, mistakenly interpreted it as blood, and assumed that the kings had killed one another. So they went out to take the spoil."
+    }
+  ]
+}

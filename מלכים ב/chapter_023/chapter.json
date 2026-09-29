@@ -1,0 +1,632 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 23,
+  "title": "מלכים ב פרק 23",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b23.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b23.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/23-402c73a0faf038f8bd61e494b74605ac.mp3?version_id=1",
+  "verses": [
+    "וַיִּשְׁלַח, הַמֶּלֶךְ; וַיַּאַסְפוּ אֵלָיו, כָּל-זִקְנֵי יְהוּדָה וִירוּשָׁלִָם.",
+    "וַיַּעַל הַמֶּלֶךְ בֵּית-יְהוָה וְכָל-אִישׁ יְהוּדָה וְכָל-יֹשְׁבֵי יְרוּשָׁלִַם אִתּוֹ, וְהַכֹּהֲנִים וְהַנְּבִיאִים, וְכָל-הָעָם, לְמִקָּטֹן וְעַד-גָּדוֹל; וַיִּקְרָא בְאָזְנֵיהֶם, אֶת-כָּל-דִּבְרֵי סֵפֶר הַבְּרִית, הַנִּמְצָא, בְּבֵית יְהוָה.",
+    "וַיַּעֲמֹד הַמֶּלֶךְ עַל-הָעַמּוּד וַיִּכְרֹת אֶת-הַבְּרִית לִפְנֵי יְהוָה, לָלֶכֶת אַחַר יְהוָה וְלִשְׁמֹר מִצְוֺתָיו וְאֶת-עֵדְוֺתָיו וְאֶת-חֻקֹּתָיו בְּכָל-לֵב וּבְכָל-נֶפֶשׁ, לְהָקִים אֶת-דִּבְרֵי הַבְּרִית הַזֹּאת, הַכְּתֻבִים עַל-הַסֵּפֶר הַזֶּה; וַיַּעֲמֹד כָּל-הָעָם, בַּבְּרִית.",
+    "וַיְצַו הַמֶּלֶךְ אֶת-חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל וְאֶת-כֹּהֲנֵי הַמִּשְׁנֶה, וְאֶת-שֹׁמְרֵי הַסַּף, לְהוֹצִיא מֵהֵיכַל יְהוָה, אֵת כָּל-הַכֵּלִים הָעֲשׂוּיִם לַבַּעַל וְלָאֲשֵׁרָה וּלְכֹל צְבָא הַשָּׁמָיִם; וַיִּשְׂרְפֵם מִחוּץ לִירוּשָׁלִַם, בְּשַׁדְמוֹת קִדְרוֹן, וְנָשָׂא אֶת-עֲפָרָם, בֵּית-אֵל.",
+    "וְהִשְׁבִּית אֶת-הַכְּמָרִים, אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה, וַיְקַטֵּר בַּבָּמוֹת בְּעָרֵי יְהוּדָה, וּמְסִבֵּי יְרוּשָׁלִָם; וְאֶת-הַמְקַטְּרִים לַבַּעַל, לַשֶּׁמֶשׁ וְלַיָּרֵחַ וְלַמַּזָּלוֹת, וּלְכֹל, צְבָא הַשָּׁמָיִם.",
+    "וַיֹּצֵא אֶת-הָאֲשֵׁרָה מִבֵּית יְהוָה מִחוּץ לִירוּשָׁלִַם, אֶל-נַחַל קִדְרוֹן, וַיִּשְׂרֹף אֹתָהּ בְּנַחַל קִדְרוֹן, וַיָּדֶק לְעָפָר; וַיַּשְׁלֵךְ, אֶת-עֲפָרָהּ, עַל-קֶבֶר, בְּנֵי הָעָם.",
+    "וַיִּתֹּץ אֶת-בָּתֵּי הַקְּדֵשִׁים, אֲשֶׁר בְּבֵית יְהוָה: אֲשֶׁר הַנָּשִׁים, אֹרְגוֹת שָׁם בָּתִּים--לָאֲשֵׁרָה.",
+    "וַיָּבֵא אֶת-כָּל-הַכֹּהֲנִים, מֵעָרֵי יְהוּדָה, וַיְטַמֵּא אֶת-הַבָּמוֹת אֲשֶׁר קִטְּרוּ-שָׁמָּה הַכֹּהֲנִים, מִגֶּבַע עַד-בְּאֵר שָׁבַע; וְנָתַץ אֶת-בָּמוֹת הַשְּׁעָרִים, אֲשֶׁר-פֶּתַח שַׁעַר יְהוֹשֻׁעַ שַׂר-הָעִיר, אֲשֶׁר-עַל-שְׂמֹאול אִישׁ, בְּשַׁעַר הָעִיר.",
+    "אַךְ, לֹא יַעֲלוּ כֹּהֲנֵי הַבָּמוֹת, אֶל-מִזְבַּח יְהוָה, בִּירוּשָׁלִָם: כִּי אִם-אָכְלוּ מַצּוֹת, בְּתוֹךְ אֲחֵיהֶם.",
+    "וְטִמֵּא אֶת-הַתֹּפֶת, אֲשֶׁר בְּגֵי בני- בֶן- הִנֹּם: לְבִלְתִּי, לְהַעֲבִיר אִישׁ אֶת-בְּנוֹ וְאֶת-בִּתּוֹ בָּאֵשׁ--לַמֹּלֶךְ.",
+    "וַיַּשְׁבֵּת אֶת-הַסּוּסִים, אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה לַשֶּׁמֶשׁ מִבֹּא בֵית-יְהוָה, אֶל-לִשְׁכַּת נְתַן-מֶלֶךְ הַסָּרִיס, אֲשֶׁר בַּפַּרְוָרִים; וְאֶת-מַרְכְּבוֹת הַשֶּׁמֶשׁ, שָׂרַף בָּאֵשׁ.",
+    "וְאֶת-הַמִּזְבְּחוֹת אֲשֶׁר עַל-הַגָּג עֲלִיַּת אָחָז אֲשֶׁר-עָשׂוּ מַלְכֵי יְהוּדָה, וְאֶת-הַמִּזְבְּחוֹת אֲשֶׁר-עָשָׂה מְנַשֶּׁה בִּשְׁתֵּי חַצְרוֹת בֵּית-יְהוָה--נָתַץ הַמֶּלֶךְ; וַיָּרָץ מִשָּׁם, וְהִשְׁלִיךְ אֶת-עֲפָרָם אֶל-נַחַל קִדְרוֹן.",
+    "וְאֶת-הַבָּמוֹת אֲשֶׁר עַל-פְּנֵי יְרוּשָׁלִַם, אֲשֶׁר מִימִין לְהַר-הַמַּשְׁחִית, אֲשֶׁר בָּנָה שְׁלֹמֹה מֶלֶךְ-יִשְׂרָאֵל לְעַשְׁתֹּרֶת שִׁקֻּץ צִידֹנִים וְלִכְמוֹשׁ שִׁקֻּץ מוֹאָב, וּלְמִלְכֹּם תּוֹעֲבַת בְּנֵי-עַמּוֹן--טִמֵּא, הַמֶּלֶךְ.",
+    "וְשִׁבַּר, אֶת-הַמַּצֵּבוֹת, וַיִּכְרֹת, אֶת-הָאֲשֵׁרִים; וַיְמַלֵּא אֶת-מְקוֹמָם, עַצְמוֹת אָדָם.",
+    "וְגַם אֶת-הַמִּזְבֵּחַ אֲשֶׁר בְּבֵית-אֵל, הַבָּמָה אֲשֶׁר עָשָׂה יָרָבְעָם בֶּן-נְבָט אֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל--גַּם אֶת-הַמִּזְבֵּחַ הַהוּא וְאֶת-הַבָּמָה, נָתָץ; וַיִּשְׂרֹף אֶת-הַבָּמָה הֵדַק לְעָפָר, וְשָׂרַף אֲשֵׁרָה.",
+    "וַיִּפֶן יֹאשִׁיָּהוּ, וַיַּרְא אֶת-הַקְּבָרִים אֲשֶׁר-שָׁם בָּהָר, וַיִּשְׁלַח וַיִּקַּח אֶת-הָעֲצָמוֹת מִן-הַקְּבָרִים, וַיִּשְׂרֹף עַל-הַמִּזְבֵּחַ וַיְטַמְּאֵהוּ--כִּדְבַר יְהוָה, אֲשֶׁר קָרָא אִישׁ הָאֱלֹהִים, אֲשֶׁר קָרָא, אֶת-הַדְּבָרִים הָאֵלֶּה.",
+    "וַיֹּאמֶר--מָה הַצִּיּוּן הַלָּז, אֲשֶׁר אֲנִי רֹאֶה; וַיֹּאמְרוּ אֵלָיו אַנְשֵׁי הָעִיר, הַקֶּבֶר אִישׁ-הָאֱלֹהִים אֲשֶׁר-בָּא מִיהוּדָה, וַיִּקְרָא אֶת-הַדְּבָרִים הָאֵלֶּה אֲשֶׁר עָשִׂיתָ, עַל הַמִּזְבַּח בֵּית-אֵל.",
+    "וַיֹּאמֶר הַנִּיחוּ לוֹ, אִישׁ אַל-יָנַע עַצְמוֹתָיו; וַיְמַלְּטוּ, עַצְמוֹתָיו--אֵת עַצְמוֹת הַנָּבִיא, אֲשֶׁר-בָּא מִשֹּׁמְרוֹן.",
+    "וְגַם אֶת-כָּל-בָּתֵּי הַבָּמוֹת אֲשֶׁר בְּעָרֵי שֹׁמְרוֹן, אֲשֶׁר עָשׂוּ מַלְכֵי יִשְׂרָאֵל לְהַכְעִיס--הֵסִיר, יֹאשִׁיָּהוּ; וַיַּעַשׂ לָהֶם--כְּכָל-הַמַּעֲשִׂים, אֲשֶׁר עָשָׂה בְּבֵית-אֵל.",
+    "וַיִּזְבַּח אֶת-כָּל-כֹּהֲנֵי הַבָּמוֹת אֲשֶׁר-שָׁם, עַל-הַמִּזְבְּחוֹת, וַיִּשְׂרֹף אֶת-עַצְמוֹת אָדָם, עֲלֵיהֶם; וַיָּשָׁב, יְרוּשָׁלִָם.",
+    "וַיְצַו הַמֶּלֶךְ, אֶת-כָּל-הָעָם לֵאמֹר, עֲשׂוּ פֶסַח, לַיהוָה אֱלֹהֵיכֶם--כַּכָּתוּב, עַל סֵפֶר הַבְּרִית הַזֶּה.",
+    "כִּי לֹא נַעֲשָׂה, כַּפֶּסַח הַזֶּה, מִימֵי הַשֹּׁפְטִים, אֲשֶׁר שָׁפְטוּ אֶת-יִשְׂרָאֵל; וְכֹל, יְמֵי מַלְכֵי יִשְׂרָאֵל--וּמַלְכֵי יְהוּדָה.",
+    "כִּי, אִם-בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה, לַמֶּלֶךְ, יֹאשִׁיָּהוּ: נַעֲשָׂה הַפֶּסַח הַזֶּה, לַיהוָה--בִּירוּשָׁלִָם.",
+    "וְגַם אֶת-הָאֹבוֹת וְאֶת-הַיִּדְּעֹנִים וְאֶת-הַתְּרָפִים וְאֶת-הַגִּלֻּלִים וְאֵת כָּל-הַשִּׁקֻּצִים, אֲשֶׁר נִרְאוּ בְּאֶרֶץ יְהוּדָה וּבִירוּשָׁלִַם--בִּעֵר, יֹאשִׁיָּהוּ: לְמַעַן הָקִים אֶת-דִּבְרֵי הַתּוֹרָה, הַכְּתֻבִים עַל-הַסֵּפֶר, אֲשֶׁר מָצָא חִלְקִיָּהוּ הַכֹּהֵן, בֵּית יְהוָה.",
+    "וְכָמֹהוּ לֹא-הָיָה לְפָנָיו מֶלֶךְ, אֲשֶׁר-שָׁב אֶל-יְהוָה בְּכָל-לְבָבוֹ וּבְכָל-נַפְשׁוֹ וּבְכָל-מְאֹדוֹ--כְּכֹל, תּוֹרַת מֹשֶׁה; וְאַחֲרָיו, לֹא-קָם כָּמֹהוּ.",
+    "אַךְ לֹא-שָׁב יְהוָה, מֵחֲרוֹן אַפּוֹ הַגָּדוֹל, אֲשֶׁר-חָרָה אַפּוֹ, בִּיהוּדָה--עַל, כָּל-הַכְּעָסִים, אֲשֶׁר הִכְעִיסוֹ, מְנַשֶּׁה.",
+    "וַיֹּאמֶר יְהוָה, גַּם אֶת-יְהוּדָה אָסִיר מֵעַל פָּנַי, כַּאֲשֶׁר הֲסִרֹתִי, אֶת-יִשְׂרָאֵל; וּמָאַסְתִּי אֶת-הָעִיר הַזֹּאת אֲשֶׁר-בָּחַרְתִּי, אֶת-יְרוּשָׁלִַם, וְאֶת-הַבַּיִת, אֲשֶׁר אָמַרְתִּי יִהְיֶה שְׁמִי שָׁם.",
+    "וְיֶתֶר דִּבְרֵי יֹאשִׁיָּהוּ, וְכָל-אֲשֶׁר עָשָׂה: הֲלֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יְהוּדָה.",
+    "בְּיָמָיו עָלָה פַרְעֹה נְכֹה מֶלֶךְ-מִצְרַיִם, עַל-מֶלֶךְ אַשּׁוּר--עַל-נְהַר-פְּרָת; וַיֵּלֶךְ הַמֶּלֶךְ יֹאשִׁיָּהוּ, לִקְרָאתוֹ, וַיְמִיתֵהוּ בִּמְגִדּוֹ, כִּרְאֹתוֹ אֹתוֹ.",
+    "וַיַּרְכִּבֻהוּ עֲבָדָיו מֵת, מִמְּגִדּוֹ, וַיְבִאֻהוּ יְרוּשָׁלִַם, וַיִּקְבְּרֻהוּ בִּקְבֻרָתוֹ; וַיִּקַּח עַם-הָאָרֶץ, אֶת-יְהוֹאָחָז בֶּן-יֹאשִׁיָּהוּ, וַיִּמְשְׁחוּ אֹתוֹ וַיַּמְלִיכוּ אֹתוֹ, תַּחַת אָבִיו.",
+    "בֶּן-עֶשְׂרִים וְשָׁלֹשׁ שָׁנָה, יְהוֹאָחָז בְּמָלְכוֹ, וּשְׁלֹשָׁה חֳדָשִׁים, מָלַךְ בִּירוּשָׁלִָם; וְשֵׁם אִמּוֹ, חֲמוּטַל בַּת-יִרְמְיָהוּ מִלִּבְנָה.",
+    "וַיַּעַשׂ הָרַע, בְּעֵינֵי יְהוָה, כְּכֹל אֲשֶׁר-עָשׂוּ, אֲבֹתָיו.",
+    "וַיַּאַסְרֵהוּ פַרְעֹה נְכֹה בְרִבְלָה בְּאֶרֶץ חֲמָת, במלך מִמְּלֹךְ בִּירוּשָׁלִָם; וַיִּתֶּן-עֹנֶשׁ, עַל-הָאָרֶץ, מֵאָה כִכַּר-כֶּסֶף, וְכִכַּר זָהָב.",
+    "וַיַּמְלֵךְ פַּרְעֹה נְכֹה אֶת-אֶלְיָקִים בֶּן-יֹאשִׁיָּהוּ, תַּחַת יֹאשִׁיָּהוּ אָבִיו, וַיַּסֵּב אֶת-שְׁמוֹ, יְהוֹיָקִים; וְאֶת-יְהוֹאָחָז לָקַח, וַיָּבֹא מִצְרַיִם וַיָּמָת שָׁם.",
+    "וְהַכֶּסֶף וְהַזָּהָב, נָתַן יְהוֹיָקִים לְפַרְעֹה--אַךְ הֶעֱרִיךְ אֶת-הָאָרֶץ, לָתֵת אֶת-הַכֶּסֶף עַל-פִּי פַרְעֹה: אִישׁ כְּעֶרְכּוֹ, נָגַשׂ אֶת-הַכֶּסֶף וְאֶת-הַזָּהָב אֶת-עַם הָאָרֶץ, לָתֵת, לְפַרְעֹה נְכֹה.",
+    "בֶּן-עֶשְׂרִים וְחָמֵשׁ שָׁנָה, יְהוֹיָקִים בְּמָלְכוֹ, וְאַחַת עֶשְׂרֵה שָׁנָה, מָלַךְ בִּירוּשָׁלִָם; וְשֵׁם אִמּוֹ, זבידה זְבוּדָּה בַת-פְּדָיָה מִן-רוּמָה."
+  ],
+  "english": [
+    "And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.",
+    "And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.",
+    "And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all\ntheir heart and all\ntheir soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.",
+    "And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.",
+    "And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.",
+    "And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped\nit small to powder, and cast the powder thereof upon the graves of the children of the people.",
+    "And he brake down the houses of the sodomites, that\nwere by the house of the LORD, where the women wove hangings for the grove.",
+    "And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beer-sheba, and brake down the high places of the gates that\nwere in the entering in of the gate of Joshua the governor of the city, which\nwere\n on a man’s left hand at the gate of the city.",
+    "Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat of the unleavened bread among their brethren.",
+    "And he defiled Topheth, which\nis in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.",
+    "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which\nwas in the suburbs, and burned the chariots of the sun with fire.",
+    "And the altars that\nwere on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake\nthem down from thence, and cast the dust of them into the brook Kidron.",
+    "And the high places that\nwere before Jerusalem, which\nwere on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.",
+    "And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.",
+    "Moreover the altar that\nwas at Bethel,\nand the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place,\nand stamped\nit small to powder, and burned the grove.",
+    "And as Josiah turned himself, he spied the sepulchres that\nwere\n there in the mount, and sent, and took the bones out of the sepulchres, and burned\nthem upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.",
+    "Then he said, What title\nis that that I see? And the men of the city told him,\nIt is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel.",
+    "And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.",
+    "And all the houses also of the high places that\nwere in the cities of Samaria, which the kings of Israel had made to provoke\nthe LORD to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.",
+    "And he slew all the priests of the high places that\nwere\n there upon the altars, and burned men’s bones upon them, and returned to Jerusalem.",
+    "And the king commanded all the people, saying, Keep the passover unto the LORD your God, as\nit is written in the book of this covenant.",
+    "Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;",
+    "But in the eighteenth year of king Josiah,\nwherein this passover was holden to the LORD in Jerusalem.",
+    "Moreover the\nworkers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.",
+    "And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there\nany like him.",
+    "Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.",
+    "And the LORD said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.",
+    "Now the rest of the acts of Josiah, and all that he did,\nare\n they not written in the book of the chronicles of the kings of Judah?",
+    "In his days Pharaoh-nechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.",
+    "And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.",
+    "Jehoahaz\nwas twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name\nwas Hamutal, the daughter of Jeremiah of Libnah.",
+    "And he did\nthat which was evil in the sight of the LORD, according to all that his fathers had done.",
+    "And Pharaoh-nechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.",
+    "And Pharaoh-nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.",
+    "And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give\nit unto Pharaoh-nechoh.",
+    "Jehoiakim\nwas twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother’s name\nwas Zebudah, the daughter of Pedaiah of Rumah.",
+    "And he did\nthat which was evil in the sight of the LORD, according to all that his fathers had done."
+  ],
+  "steinsaltz": [
+    "וַיִּשְׁלַח הַמֶּלֶךְ וַיַּאַסְפוּ אֵלָיו את כָּל־זִקְנֵי, מכובדי יְהוּדָה וִירוּשָׁלִָם.",
+    "וַיַּעַל הַמֶּלֶךְ אל בֵּית־ה' וְכָל־אִישׁ יְהוּדָה וְכָל־יֹשְׁבֵי יְרוּשָׁלִַם אִתּוֹ וְהַכֹּהֲנִים וְהַנְּבִיאִים וְכָל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל, וַיִּקְרָא בְאָזְנֵיהֶם אֶת־כָּל־דִּבְרֵי סֵפֶר הַבְּרִית הַנִּמְצָא בְּבֵית ה', דברי התוכחות שבסוף ספר דברים.",
+    "וַיַּעֲמֹד הַמֶּלֶךְ עַל־הָעַמּוּד, מקום מוגבה במקדש שהיה מיועד למלך. וַיִּכְרֹת אֶת־הַבְּרִית לִפְנֵי ה', לָלֶכֶת אַחַר ה' וְלִשְׁמֹר מִצְוֹתָיו וְאֶת־עֵדְוֹתָיו וְאֶת־חֻקֹּתָיו בְּכָל־לֵב וּבְכָל־נֶפֶשׁ, לְהָקִים, לקיים אֶת־דִּבְרֵי הַבְּרִית הַזֹּאת הַכְּתֻבִים עַל־הַסֵּפֶר הַזֶּה. וַיַּעֲמֹד כָּל־הָעָם בַּבְּרִית. כל העם קיבל על עצמו את הברית באופן טקסי ורשמי.",
+    "וַיְצַו הַמֶּלֶךְ אֶת־חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל וְאֶת־כֹּהֲנֵי הַמִּשְׁנֶה, סגני הכהן וְאֶת־שֹׁמְרֵי הַסַּף, לְהוֹצִיא מֵהֵיכַל ה' אֵת כָּל־הַכֵּלִים הָעֲשׂוּיִם לַבַּעַל וְלָאֲשֵׁרָה וּלְכֹל צְבָא הַשָּׁמָיִם, כלי העבודה הזרה שנשמרו במקדש מימים עברו. וַיִּשְׂרְפֵם מִחוּץ לִירוּשָׁלִַם בְּשַׁדְמוֹת, שדות קִדְרוֹן. נחל קדרון הקרוב למעיין השילוח הוא נחל אכזב הפונה לכיוון ים המלח. גיא בן הִנֹּם הסמוך אליו היה מקום פולחן קדום לעבודה זרה. וְנָשָׂא, אדם כלשהו יוביל אֶת עֲפָרָם, האפר של הכלים השרופים אל בֵּית־אֵל, שאינה באזור זה, ובה עמד אחד מעגלי ירבעם.",
+    "וְהִשְׁבִּית, ביטל מעבודה אֶת־הַכְּמָרִים, כהני העבודה הזרה אֲשֶׁר נָתְנוּ, מינו מַלְכֵי יְהוּדָה וַיְקַטֵּר, שהיו זובחים בַּבָּמוֹת בְּעָרֵי יְהוּדָה וּמְסִבֵּי, בסביבות יְרוּשָׁלִָם, וְכן אֶת־הַמְקַטְּרִים לַבַּעַל, לַשֶּׁמֶשׁ וְלַיָּרֵחַ וְלַמַּזָּלוֹת וּלְכֹל צְבָא הַשָּׁמָיִם.",
+    "וַיֹּצֵא אֶת־הָאֲשֵׁרָה מִבֵּית ה' מִחוּץ לִירוּשָׁלִַם אֶל־נַחַל קִדְרוֹן, וַיִּשְׂרֹף אֹתָהּ בְּנַחַל קִדְרוֹן וַיָּדֶק, כתש אותה לְעָפָר, וַיַּשְׁלֵךְ אֶת־עֲפָרָהּ עַל־קֶבֶר בְּנֵי הָעָם. ההשלכה על הקבר הטמא מבטאת ביזיון נוסף של שרידי האשרה, והיא נועדה גם לוודא שלא ישתמשו בהם בעתיד לשום צורך.",
+    "וַיִּתֹּץ, הרס אֶת־בָּתֵּי הַקְּדֵשִׁים, האנשים ששימשו לזנות פולחנית אֲשֶׁר בְּבֵית ה', אֲשֶׁר הַנָּשִׁים אֹרְגוֹת שָׁם בָּתִּים, כיסויים לָאֲשֵׁרָה.",
+    "וַיָּבֵא אֶת־כָּל־הַכֹּהֲנִים, כהני הבמות שאמנם הקריבו בהן לה', אך גם זה היה אסור, מֵעָרֵי יְהוּדָה. וַיְטַמֵּא אֶת־הַבָּמוֹת אֲשֶׁר קִטְּרוּ־שָׁמָּה הַכֹּהֲנִים כדי שיתרחקו מהן מִגֶּבַע עַד־בְּאֵר שָׁבַע בכל תחום ארץ יהודה. וְנָתַץ גם אֶת־בָּמוֹת הַשְּׁעָרִים, ובכללן הבמה המיוחדת אֲשֶׁר ליד פֶּתַח שַׁעַר יְהוֹשֻׁעַ שַׂר־הָעִיר אֲשֶׁר ניצבה עַל־שְׂמֹאול אִישׁ הנכנס בְּשַׁעַר הָעִיר.",
+    "אַךְ לֹא יַעֲלוּ כֹּהֲנֵי הַבָּמוֹת אֶל־מִזְבַּח ה' בִּירוּשָׁלִָם, כִּי אִם־אָכְלוּ מַצּוֹת בְּתוֹךְ אֲחֵיהֶם. הכהנים הללו היו בעיקרם כהנים כשרים, אלא שמכיוון שעבדו בבמות, פסל אותם יאשיהו מלעבוד בבית ה' לעולם, והשווה את מעמדם למעמד כהנים בעלי מום, האוכלים חלק ממתנות המקדש אבל אינם עובדים בו.",
+    "וְטִמֵּא אֶת־הַתֹּפֶת אֲשֶׁר בְּגֵי בֶן־הִנֹּם, לְבִלְתִּי לְהַעֲבִיר אִישׁ אֶת־בְּנוֹ וְאֶת־בִּתּוֹ באופן טקסי בָּאֵשׁ לאליל מֹּלֶךְ.",
+    "וַיַּשְׁבֵּת, ביטל אֶת־הַסּוּסִים אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה לפולחן הקשור לַשֶּׁמֶשׁ, שעליהם היו רוכבים לקראתה מִבֹּא בֵית־ה', מן המקדש מזרחה אֶל־לִשְׁכַּת נְתַן־מֶלֶךְ הַסָּרִיס אֲשֶׁר בַּפַּרְוָרִים, בפרוורי העיר. בין הפולחנים הזרים שהובאו ליהודה בשנות שלטונם של מנשה ואמון, הוכנס אל המקדש הפולחן שבו ביטאה תהלוכת סוסים טקסית את מהלך השמש בשמים. וְאֶת־מַרְכְּבוֹת הַשֶּׁמֶשׁ, שנסיעתן סימלה את תנועת השמש בשמים, שָׂרַף יאשיהו בָּאֵשׁ.",
+    "וְאֶת־הַמִּזְבְּחוֹת המיוחדים אֲשֶׁר עַל־הַגָּג של עֲלִיַּת אָחָז, אֲשֶׁר־עָשׂוּ מַלְכֵי יְהוּדָה דוגמת המזבחות האשוריים או הארמיים וְאֶת־הַמִּזְבְּחוֹת אֲשֶׁר עָשָׂה מְנַשֶּׁה בִּשְׁתֵּי חַצְרוֹת בֵּית־ה' נָתַץ הַמֶּלֶךְ יאשיהו, וַיָּרָץ, רוצץ אותם מִשָּׁם וְהִשְׁלִיךְ גם אֶת־עֲפָרָם אֶל־נַחַל קִדְרוֹן.",
+    "וְאֶת־הַבָּמוֹת אֲשֶׁר עַל־פְּנֵי יְרוּשָׁלִַם אֲשֶׁר מִימִין לְהַר־הַמַּשְׁחִית, הר הזיתים. אולי היה זה כינוי גנאי לשמו של הר המשחה, משום שסמוך לו עמדו במות, אֲשֶׁר בָּנָה שְׁלֹמֹה מֶלֶךְ־יִשְׂרָאֵל לְעַשְׁתֹּרֶת שִׁקֻּץ, כינוי גנאי לאליל צִידֹנִים וְלִכְמוֹשׁ שִׁקֻּץ מוֹאָב וּלְמִלְכֹּם תּוֹעֲבַת, אליל בְּנֵי־עַמּוֹן, שאותן לא הרסו עד כה, אולי משום שבנה אותן שלמה המלך, טִמֵּא הַמֶּלֶךְ.",
+    "וְשִׁבַּר אֶת־הַמַּצֵּבוֹת וַיִּכְרֹת אֶת־הָאֲשֵׁרִים, וַיְמַלֵּא אֶת־מְקוֹמָם עַצְמוֹת אָדָם כדי לטמאם. יאשיהו המלך לא הגביל את פעולותיו לארץ יהודה בלבד; הוא גם פנה צפונה.",
+    "וְגַם אֶת־הַמִּזְבֵּחַ אֲשֶׁר בְּבֵית־אֵל, הַבָּמָה אֲשֶׁר עָשָׂה יָרָבְעָם בֶּן־נְבָט אֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל – גַּם אֶת־הַמִּזְבֵּחַ הַהוּא וְאֶת־הַבָּמָה נָתָץ, וַיִּשְׂרֹף אֶת־הַבָּמָה, הֵדַק אותה לְעָפָר וְשָׂרַף את האֲשֵׁרָה.",
+    "וַיִּפֶן יֹאשִׁיָּהוּ וַיַּרְא אֶת־הַקְּבָרִים אֲשֶׁר־שָׁם בָּהָר, וַיִּשְׁלַח וַיִּקַּח אֶת־הָעֲצָמוֹת מִן־הַקְּבָרִים וַיִּשְׂרֹף אותן עַל־הַמִּזְבֵּחַ של ירבעם, מרכז הפולחן של ישראל, שבו עמד אחד מעגלי הזהב, וַיְטַמְּאֵהוּ, כִּדְבַר ה' אֲשֶׁר קָרָא אִישׁ הָאֱלֹהִים אֲשֶׁר קָרָא אֶת־הַדְּבָרִים הָאֵלֶּה, בין שיאשיהו שמע על נבואתו של איש האלוקים לירבעם על מלך בשם יאשיהו שעתיד לשרוף על המזבח בבית-אל עצמות אדם – ואולי גם את עצמותיו של ירבעם עצמו – ובין שמימש נבואה זו שלא מדעת.",
+    "וַיֹּאמֶר יאשיהו: מָה הַצִּיּוּן, סימן הקבר הַלָּז, ההוא אֲשֶׁר אֲנִי רֹאֶה? וַיֹּאמְרוּ אֵלָיו אַנְשֵׁי הָעִיר: זהו הַקֶּבֶר של אִישׁ־הָאֱלֹהִים אֲשֶׁר־בָּא מִיהוּדָה וַיִּקְרָא הכריז מראש, הזמין אֶת־הַדְּבָרִים הָאֵלֶּה אֲשֶׁר עָשִׂיתָ עַל הַמִּזְבַּח של בֵּית־אֵל.",
+    "וַיֹּאמֶר: הַנִּיחוּ לוֹ, אִישׁ אַל־יָנַע, יניע את עַצְמֹתָיו, שכן הוא אדם קדוש. וַיְמַלְּטוּ, הצילו עַצְמֹתָיו אֵת עַצְמוֹת הַנָּבִיא אֲשֶׁר־בָּא מִשֹּׁמְרוֹן, שפיתה את איש האלוקים מיהודה לחזור עמו, ושביקש להיקבר לידו. בזכות איש האלוקים זכה באותה שעה גם הוא שעצמותיו יישארו במקומן, שהרי יאשיהו לא יכול היה להבחין בין עצמות לעצמות, ולכן נמנע מכל מגע בקבר.",
+    "וְגַם אֶת־כָּל־בָּתֵי הַבָּמוֹת אֲשֶׁר בְּעָרֵי שֹׁמְרוֹן אֲשֶׁר עָשׂוּ מַלְכֵי יִשְׂרָאֵל לְהַכְעִיס הֵסִיר יֹאשִׁיָּהוּ, וַיַּעַשׂ לָהֶם כְּכָל־הַמַּעֲשִׂים אֲשֶׁר עָשָׂה בְּבֵית־אֵל. הוא טיהר את כל ערי שומרון, בכך ששרף, השמיד וטימא את כל מזבחות העבודה הזרה ואת כל במות הפולחן.",
+    "וַיִּזְבַּח, טבח אֶת־כָּל־כֹּהֲנֵי הַבָּמוֹת אֲשֶׁר־ שָׁם עַל־הַמִּזְבְּחוֹת, וַיִּשְׂרֹף אֶת־עַצְמוֹת אָדָם עֲלֵיהֶם, וַיָּשָׁב יְרוּשָׁלִָם, לאחר שניקה את הארץ עד כמה שידו הייתה מגעת.",
+    "וַיְצַו הַמֶּלֶךְ אֶת־כָּל־הָעָם לֵאמֹר: כיוון שאנו מתחזקים כעת בעבודת ה', עֲשׂוּ פֶסַח לַה' אֱלֹהֵיכֶם, כַּכָּתוּב עַל סֵפֶר הַבְּרִית הַזֶּה, בספר התורה.",
+    "כִּי, ואכן לֹא נַעֲשָׂה כַּפֶּסַח הַזֶּה מִימֵי הַשֹּׁפְטִים אֲשֶׁר שָׁפְטוּ אֶת־יִשְׂרָאֵל וְכֹל יְמֵי מַלְכֵי יִשְׂרָאֵל וּמַלְכֵי יְהוּדָה. בכל התקופה הזאת לא התקבץ העם כולו בירושלים להקריב קרבן פסח.",
+    "כִּי אִם־בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ יֹאשִׁיָּהוּ נַעֲשָׂה הַפֶּסַח הַזֶּה לַה' בִּירוּשָׁלִָם.",
+    "וְגַם אֶת־הָאֹבוֹת וְאֶת־הַיִּדְּעֹנִים וְאֶת־הַתְּרָפִים, אמצעים שונים לניחוש ולידיעת העתיד וְאֶת־הַגִּלֻּלִים וְאֵת כָּל־הַשִּׁקֻּצִים, כינויי גנאי לעבודה זרה אֲשֶׁר נִרְאוּ בְּאֶרֶץ יְהוּדָה וּבִירוּשָׁלִַם בִּעֵר יֹאשִׁיָּהוּ, לְמַעַן הָקִים אֶת־דִּבְרֵי הַתּוֹרָה הַכְּתֻבִים עַל־הַסֵּפֶר אֲשֶׁר מָצָא חִלְקִיָּהוּ הַכֹּהֵן בֵּית ה'.",
+    "וְכָמֹהוּ לֹא־הָיָה לְפָנָיו מֶלֶךְ אֲשֶׁר־שָׁב אֶל־ה' בְּכָל־לְבָבוֹ וּבְכָל־נַפְשׁוֹ וּבְכָל־מְאֹדוֹ כְּכֹל תּוֹרַת מֹשֶׁה, וְאַחֲרָיו לֹא־קָם כָּמֹהוּ. אפילו בין מלכי יהודה בלט יאשיהו בצדקתו. פעולותיו היו נמרצות אף יותר מאלה של חזקיהו.",
+    "אַךְ, בכל זאת לֹא־שָׁב ה' מֵחֲרוֹן אַפּוֹ, כעסו הַגָּדוֹל אֲשֶׁר־חָרָה אַפּוֹ בִּיהוּדָה עַל כָּל־הַכְּעָסִים אֲשֶׁר הִכְעִיסוֹ מְנַשֶּׁה. בכל מעשיו הטובים של יאשיהו לא היה די לתיקון הרעות שעשה מנשה.",
+    "וַיֹּאמֶר ה': גַּם אֶת־יְהוּדָה אָסִיר מֵעַל פָּנַי, כַּאֲשֶׁר, כמו שהֲסִרֹתִי אֶת־יִשְׂרָאֵל, וּמָאַסְתִּי, ואמאס אֶת־הָעִיר הַזֹּאת אֲשֶׁר־בָּחַרְתִּי, אֶת־יְרוּשָׁלִַם, וְאֶת־הַבַּיִת אֲשֶׁר אָמַרְתִּי שיִהְיֶה שְׁמִי שָׁם. בימי מנשה כבר נגזרה הגזרה שירושלים והמקדש שבה ייחרבו. גורלה של ממלכת יהודה כבר נחרץ.",
+    "וְיֶתֶר דִּבְרֵי יֹאשִׁיָּהוּ וְכָל־אֲשֶׁר עָשָׂה הֲלֹא־הֵם כְּתוּבִים עַל־ סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יְהוּדָה. הַיָּמִים לְמַלְכֵי יְהוּדָה.",
+    "בְּיָמָיו עָלָה פַרְעֹה נְכֹה מֶלֶךְ־מִצְרַיִם למלחמה עַל־מֶלֶךְ אַשּׁוּר עַל־נְהַר פְּרָת. היה זה אחד הניסיונות האחרונים של מלך מצרי לפתוח במלחמת הכרעה במעצמה הצפונית. שלא כמלכים המצריים שלפניו ושאחריו, שהגיבו להתקפות שבאו מן הצפון, עלה פרעה נכה עד נהר פרת ויזם מערכה גדולה נגד אשור. וַיֵּלֶךְ הַמֶּלֶךְ יֹאשִׁיָּהוּ לִקְרָאתוֹ כדי לעצור את מצרים. וַיְמִיתֵהוּ, פרעה הורה להמיתו בִּמְגִדּוֹ כִּרְאֹתוֹ אֹתוֹ.",
+    "כנראה נורה ונפצע תחילה, אך לא החזיק מעמד – וַיַּרְכִּבֻהוּ עֲבָדָיו מֵת מִמְּגִדּוֹ, וַיְבִאֻהוּ יְרוּשָׁלִַם וַיִּקְבְּרֻהוּ בִּקְבֻרָתוֹ. וַיִּקַּח עַם־הָאָרֶץ אֶת־יְהוֹאָחָז בֶּן־יֹאשִׁיָּהוּ, וַיִּמְשְׁחוּ אֹתוֹ, וַיַּמְלִיכוּ אֹתוֹ תַּחַת אָבִיו.",
+    "בֶּן־עֶשְׂרִים וְשָׁלֹשׁ שָׁנָה יְהוֹאָחָז בְּמָלְכוֹ וּשְׁלֹשָׁה חֳדָשִׁים בלבד מָלַךְ בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ חֲמוּטַל בַּת־יִרְמְיָהוּ מִלִּבְנָה.",
+    "וַיַּעַשׂ הָרַע בְּעֵינֵי ה' כְּכֹל אֲשֶׁר־עָשׂוּ אֲבֹתָיו.",
+    "וַיַּאַסְרֵהוּ פַרְעֹה נְכֹה בְרִבְלָה בְּאֶרֶץ חֲמָת, עיר בצפון סוריה מִמְּלֹךְ בִּירוּשָׁלִָם. פרעה נכה ראה בעצמו את השליט העליון על ארץ יהודה. מכיוון שיהואחז הומלך שלא ברשותו, פרעה נכה הסירוֹ מן המלוכה ואסר אותו. יתרה מזו – וַיִּתֶּן־עֹנֶשׁ עַל־הָאָרֶץ מֵאָה כִכַּר־כֶּסֶף וְכִכַּר זָהָב, קנס משמעותי.",
+    "וַיַּמְלֵךְ פַּרְעֹה נְכֹה אֶת־אֶלְיָקִים בֶּן־יֹאשִׁיָּהוּ תַּחַת יֹאשִׁיָּהוּ אָבִיו. ייתכן שפרעה הסיר את יהואחז ממלכותו לא בגלל אישיותו או התנהגותו של יהואחז, אלא רק משום שלא הוא היה מי שהמליך אותו. כדי לבטא את שררתו ושלטונו הוא החליף אותו באחיו. וַיַּסֵּב אֶת־שְׁמוֹ יְהוֹיָקִים. הוא העניק לו שם מלכות. וְאֶת־יְהוֹאָחָז לָקַח בשבי, וַיָּבֹא מִצְרַיִם וַיָּמָת שָׁם.",
+    "וְהַכֶּסֶף וְהַזָּהָב נָתַן יְהוֹיָקִים לְפַרְעֹה, כיוון שהוא היה למלך יהודה, הוא שילם את הקנסות מיד, אך לא מכיסו – אַךְ הֶעֱרִיךְ אֶת־הָאָרֶץ, קצב מס על תושביה לָתֵת אֶת־הַכֶּסֶף עַל־פִּי דרישת פַרְעֹה. אִישׁ כְּעֶרְכּוֹ, לפי רכושו נָגַשׂ, גבה אֶת־הַכֶּסֶף וְאֶת־הַזָּהָב מאֶת־עַם הָאָרֶץ לָתֵת לְפַרְעֹה נְכֹה.",
+    "בֶּן־עֶשְׂרִים וְחָמֵשׁ שָׁנָה יְהוֹיָקִים בְּמָלְכוֹ וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ זְבוּדָּה בַת־פְּדָיָה מִן־רוּמָה. הוא היה אחיו מאב של יהואחז, בן לאם אחרת. וְחָמֵשׁ שָׁנָה יְהוֹיָקִים בְּמָלְכוֹ וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ זְבוּדָּה בַת־פְּדָיָה מִן־רוּמָה."
+  ],
+  "ai_explanation": [
+    "המלך יאשיהו שלח לאסוף אליו את כל זקני ומכובדי יהודה וירושלים.",
+    "יאשיהו עלה לבית המקדש עם כל העם, הכוהנים והנביאים, וקרא באוזניהם את דברי ספר הברית, כלומר את דברי התוכחה שבסוף ספר דברים.",
+    "המלך עמד על מקום מוגבה במקדש וכרת ברית לפני ה'. הוא התחייב לקיים את מצוות ה' בכל לב ובכל נפש, וכל העם קיבל עליו את הברית בטקס רשמי.",
+    "יאשיהו ציווה להוציא מהמקדש את כלי העבודה הזרה שנעשו לבעל, לאשרה ולצבא השמים, לשרוף אותם בשדות קדרון ולהעביר את אפרם לבית־אל, שם עמד אחד ממעגלי ירבעם.",
+    "המלך ביטל את הכמרים, כוהני העבודה הזרה, שמינו מלכי יהודה ושפעלו בבמות שבערי יהודה ובסביבות ירושלים. הוא ביטל גם את הפולחן לבעל, לשמש, לירח, למזלות ולכל צבא השמים.",
+    "האשרה הוצאה מבית ה', נשרפה ונכתשה לעפר בנחל קדרון. את עפרה השליכו על קבר בני העם, כדי לבזותה ולמנוע שימוש עתידי בשרידיה.",
+    "יאשיהו הרס את בתי הקדשים שבבית ה', שבהם שימשו אנשים לזנות פולחנית ושבהם ארגו הנשים כיסויים לאשרה.",
+    "המלך הביא לירושלים את כוהני הבמות מערי יהודה וטימא את הבמות שבהן הקריבו, אף שהקריבו בהן לה'. הוא הרס גם את במות השערים, ובכללן את הבמה שליד שער יהושע שר העיר.",
+    "כוהני הבמות לא הורשו עוד לעלות אל מזבח ה' בירושלים. אף שהיו בעיקרם כוהנים כשרים, עבודתם בבמות פסלה אותם מעבודת המקדש, והם הושוו לכהנים בעלי מום שיכלו לאכול מן הקודשים אך לא לעבוד.",
+    "יאשיהו טימא את התופת בגיא בן־הנום, כדי למנוע את העברת הבנים והבנות באש בפולחן למֹלֶךְ.",
+    "המלך ביטל את הסוסים שנועדו לפולחן השמש ושעמם היו רוכבים לכיוון השמש ממזרח למקדש. הוא גם שרף באש את מרכבות השמש, שסימלו את תנועתה בשמים.",
+    "יאשיהו הרס את המזבחות שעל גג עליית אחז ואת המזבחות שמנשה הקים בשתי חצרות בית ה'. הוא רוצץ אותם והשליך את עפרם לנחל קדרון.",
+    "המלך טימא את הבמות שממזרח להר המשחית, הוא הר הזיתים, שנבנו בימי שלמה לאשרה, לכמוש ולמלכום. אלה היו כינויי גנאי לאלילי צידון, מואב ובני עמון.",
+    "יאשיהו שבר את המצבות וכרת את האשרים, ומילא את מקומם בעצמות אדם כדי לטמא את מקומות הפולחן. לאחר מכן פנה גם צפונה.",
+    "בבית־אל הרס יאשיהו את המזבח ואת הבמה שבנה ירבעם בן נבט, שרקבע את מרכז הפולחן שהחטיא את ישראל. הוא שרף וריסק את הבמה לעפר וכן שרף את האשרה.",
+    "יאשיהו שרף על מזבח בית־אל את העצמות מן הקברים וטימא אותו, ובכך קיים את דבר איש האלוהים שניבא בעבר על מעשה זה. שטיינזלץ מעלה אפשרות שיאשיהו ידע על הנבואה, או שקיים אותה בלי לדעת עליה.",
+    "כאשר ראה יאשיהו את המצבה, שאל על זהותה. אנשי העיר הסבירו שזה קבר איש האלוהים מיהודה, שהכריז מראש על הדברים שעשה יאשיהו במזבח בית־אל.",
+    "יאשיהו ציווה שלא לגעת בעצמות איש האלוהים, מפני שהיה אדם קדוש. כך ניצלו גם עצמות הנביא משומרון, שנקבר לידו, משום שלא ניתן היה להבחין בין העצמות.",
+    "יאשיהו הסיר גם את בתי הבמות שבערי שומרון, שנבנו בידי מלכי ישראל כדי להכעיס את ה'. הוא טיהר אותם כפי שטיהר את בית־אל, בהרס, בשרפה ובטומאה.",
+    "המלך טבח את כל כוהני הבמות שבשומרון על מזבחותיהם, שרף עליהם עצמות אדם, ולאחר מכן שב לירושלים.",
+    "יאשיהו ציווה על כל העם לעשות פסח לה' בהתאם לכתוב בספר הברית, כלומר בספר התורה.",
+    "נאמר שפסח זה היה ייחודי, מפני שלא נעשה פסח דומה לו מאז ימי השופטים ובמשך כל תקופת מלכי ישראל ומלכי יהודה. בתקופה זו לא התקבץ כל העם בירושלים להקרבת קרבן פסח.",
+    "פסח זה נערך בירושלים בשנה השמונה־עשרה למלכות יאשיהו.",
+    "יאשיהו ביער מן הארץ את האובות, הידעונים, התרפים, הגילולים וכל השיקוצים שנמצאו ביהודה ובירושלים. בכך ביקש לקיים את דברי התורה שבספר שמצא חלקיהו הכוהן בבית ה'.",
+    "לא היה לפני יאשיהו מלך ששב אל ה' בכל לבבו, נפשו ומאודו בהתאם לתורת משה, ואף אחריו לא קם מלך כמוהו. צדקתו בלטה אפילו בין מלכי יהודה, ומעשיו היו נמרצים יותר ממעשי חזקיהו.",
+    "למרות מעשי יאשיהו, ה' לא שב מחרון אפו על חטאי יהודה, שנגרמו במיוחד על ידי מנשה. מעשיו הטובים של יאשיהו לא הספיקו לתקן את הרעות שעשה מנשה.",
+    "ה' הודיע שיסיר גם את יהודה מלפניו כפי שהסיר את ישראל, וימאס בירושלים ובבית המקדש שנבחר להיות המקום שבו ייקרא שמו. לפי שטיינזלץ, בימי מנשה כבר נגזרה חורבן ירושלים והמקדש.",
+    "שאר מעשי יאשיהו וכל אשר עשה נכתבו בספר דברי הימים למלכי יהודה.",
+    "בימי יאשיהו יצא פרעה נכה מלך מצרים למלחמה נגד מלך אשור עד נהר פרת. יאשיהו יצא לקראתו כדי לעצור אותו, ופרעה הורה להמיתו במגידו.",
+    "עבדיו הרכיבו את יאשיהו המת ממגידו לירושלים וקברו אותו בקברו. לאחר מכן לקח עם הארץ את יהואחז, משח אותו והמליך אותו תחת אביו.",
+    "יהואחז היה בן עשרים ושלוש כאשר מלך, ומלך בירושלים שלושה חודשים בלבד. אמו הייתה חמוטל בת ירמיהו מלבנה.",
+    "יהואחז עשה את הרע בעיני ה', כפי שעשו אבותיו.",
+    "פרעה נכה אסר את יהואחז ברבלה שבארץ חמת ומנע ממנו למלוך בירושלים. הוא הטיל על הארץ קנס של מאה כיכר כסף וכיכר זהב.",
+    "פרעה נכה המליך את אליקים בן יאשיהו במקום אביו ושינה את שמו ליהויקים. את יהואחז לקח בשבי למצרים, ושם הוא מת.",
+    "יהויקים שילם לפרעה את הכסף והזהב, אך לא מכספו הפרטי. הוא העריך את תושבי הארץ, גבה מכל אחד לפי רכושו, והעביר את התשלום לפרעה.",
+    "יהויקים היה בן עשרים וחמש במלכו ומלך בירושלים אחת־עשרה שנה. אמו הייתה זבודה בת פדיה מרומה, והוא היה אחיו מאב של יהואחז, אך בן לאם אחרת."
+  ],
+  "ai_explanation_en": [
+    "King Josiah sent to gather all the elders and distinguished men of Judah and Jerusalem.",
+    "Josiah went up to the Temple with all the people, the priests, and the prophets, and read aloud the words of the Book of the Covenant, meaning the words of warning at the end of Deuteronomy.",
+    "The king stood on the raised place in the Temple and made a covenant before the Lord. He pledged to observe God's commandments with all his heart and soul, and all the people formally accepted the covenant.",
+    "Josiah ordered the vessels made for Baal, Asherah, and the host of heaven to be removed from the Temple, burned in the fields of Kidron, and taken as ashes to Bethel, where one of Jeroboam's worship centers stood.",
+    "The king abolished the kemarim, the priests of idolatry appointed by the kings of Judah, who served at the high places in Judah and around Jerusalem. He also abolished worship of Baal, the sun, the moon, the constellations, and the entire host of heaven.",
+    "The Asherah was taken out of the Temple, burned, and crushed into dust in the Kidron Valley. Its dust was thrown onto the graves of the common people to disgrace it and prevent its remains from being used again.",
+    "Josiah destroyed the houses of the sacred prostitutes in the Temple, where women wove coverings for Asherah.",
+    "The king brought the priests of the high places from the cities of Judah to Jerusalem and defiled the high places where they had offered sacrifices, even though they had offered them to the Lord. He also destroyed the high places at the gates, including the one near the gate of Joshua, the city governor.",
+    "The priests of the high places were no longer permitted to go up to the Lord's altar in Jerusalem. Although they were mostly legitimate priests, their service at the high places disqualified them from Temple service, and they were treated like priests with physical defects, who could eat sacred portions but could not serve.",
+    "Josiah defiled the Topheth in the Valley of Ben-Hinnom to prevent sons and daughters from being passed through fire in the worship of Molech.",
+    "The king abolished the horses used in sun worship, with which people rode eastward from the Temple toward the sun. He also burned the chariots of the sun, which symbolized the sun's movement across the heavens.",
+    "Josiah destroyed the altars on the roof of the upper chamber of Ahaz and the altars Manasseh had built in the two courtyards of the Temple. He crushed them and threw their dust into the Kidron Valley.",
+    "The king defiled the high places east of the Mount of Corruption, that is, the Mount of Olives, which had been built in Solomon's time for Asherah, Chemosh, and Milcom. These were derogatory names for the deities of Sidon, Moab, and Ammon.",
+    "Josiah broke the pillars and cut down the Asherim, filling their places with human bones in order to defile the worship sites. He then turned northward as well.",
+    "At Bethel, Josiah destroyed the altar and high place built by Jeroboam son of Nebat, the center of worship that had led Israel into sin. He burned and crushed the high place into dust and also burned the Asherah.",
+    "Josiah burned the bones from the graves on the altar at Bethel and defiled it, thereby fulfilling the words of the man of God who had prophesied this act. Steinsaltz suggests that Josiah may have known the prophecy, or may have fulfilled it without knowing it.",
+    "When Josiah saw the monument, he asked what it was. The townspeople explained that it was the grave of the man of God from Judah who had announced in advance what Josiah would do to the altar at Bethel.",
+    "Josiah ordered that the bones of the man of God not be disturbed because he was a holy man. The bones of the prophet from Samaria, buried beside him, were also spared because the bones could not be distinguished.",
+    "Josiah also removed the houses of the high places in the cities of Samaria, which the kings of Israel had built to provoke the Lord. He purified them as he had purified Bethel, by destroying, burning, and defiling them.",
+    "The king slaughtered all the priests of the high places in Samaria on their altars, burned human bones on them, and then returned to Jerusalem.",
+    "Josiah commanded all the people to celebrate Passover to the Lord according to what was written in the Book of the Covenant, namely, the Torah.",
+    "This Passover was described as unique, because no similar Passover had been held since the days of the judges and throughout the period of the kings of Israel and Judah. During that period the entire people had not gathered in Jerusalem to offer the Passover sacrifice.",
+    "This Passover was held in Jerusalem in the eighteenth year of Josiah's reign.",
+    "Josiah removed from the land the mediums, wizards, teraphim, idols, and all the abominations found in Judah and Jerusalem. In this way he sought to establish the words of the Torah in the book found by Hilkiah the priest in the Temple.",
+    "No king before Josiah had turned to the Lord with all his heart, soul, and might according to the Torah of Moses, and no king like him arose afterward. His righteousness stood out even among the kings of Judah, and his actions were more vigorous than Hezekiah's.",
+    "Despite Josiah's deeds, the Lord did not turn away from His great anger over Judah's sins, especially those caused by Manasseh. Josiah's good deeds were not enough to repair the evils committed by Manasseh.",
+    "The Lord announced that He would remove Judah from His presence as He had removed Israel, and reject Jerusalem and the Temple chosen as the place where His name would dwell. According to Steinsaltz, the destruction of Jerusalem and the Temple had already been decreed in the days of Manasseh.",
+    "The rest of Josiah's deeds and all that he did were recorded in the Book of the Chronicles of the Kings of Judah.",
+    "In Josiah's days, Pharaoh Neco of Egypt went to war against the king of Assyria as far as the Euphrates. Josiah went out to stop him, and Pharaoh ordered him killed at Megiddo.",
+    "Josiah's servants carried his dead body from Megiddo to Jerusalem and buried him in his tomb. The people of the land then took Jehoahaz, anointed him, and made him king in his father's place.",
+    "Jehoahaz was twenty-three years old when he became king and reigned in Jerusalem for only three months. His mother was Hamutal daughter of Jeremiah from Libnah.",
+    "Jehoahaz did what was evil in the eyes of the Lord, as his fathers had done.",
+    "Pharaoh Neco imprisoned Jehoahaz at Riblah in the land of Hamath and prevented him from reigning in Jerusalem. He imposed a fine on the land of one hundred talents of silver and one talent of gold.",
+    "Pharaoh Neco made Eliakim son of Josiah king in place of his father and changed his name to Jehoiakim. He took Jehoahaz captive to Egypt, where he died.",
+    "Jehoiakim paid Pharaoh the silver and gold, but not from his own money. He assessed the inhabitants of the land, collected from each person according to his wealth, and delivered the payment to Pharaoh.",
+    "Jehoiakim was twenty-five years old when he became king and reigned in Jerusalem for eleven years. His mother was Zebudah daughter of Pedaiah from Rumah; he was Jehoahaz's paternal half-brother, born to a different mother."
+  ],
+  "perush": [
+    "המלך יאשיהו שלח לאסוף אליו את כל זקני ומכובדי יהודה וירושלים.",
+    "יאשיהו עלה לבית המקדש עם כל העם, הכוהנים והנביאים, וקרא באוזניהם את דברי ספר הברית, כלומר את דברי התוכחה שבסוף ספר דברים.",
+    "המלך עמד על מקום מוגבה במקדש וכרת ברית לפני ה'. הוא התחייב לקיים את מצוות ה' בכל לב ובכל נפש, וכל העם קיבל עליו את הברית בטקס רשמי.",
+    "יאשיהו ציווה להוציא מהמקדש את כלי העבודה הזרה שנעשו לבעל, לאשרה ולצבא השמים, לשרוף אותם בשדות קדרון ולהעביר את אפרם לבית־אל, שם עמד אחד ממעגלי ירבעם.",
+    "המלך ביטל את הכמרים, כוהני העבודה הזרה, שמינו מלכי יהודה ושפעלו בבמות שבערי יהודה ובסביבות ירושלים. הוא ביטל גם את הפולחן לבעל, לשמש, לירח, למזלות ולכל צבא השמים.",
+    "האשרה הוצאה מבית ה', נשרפה ונכתשה לעפר בנחל קדרון. את עפרה השליכו על קבר בני העם, כדי לבזותה ולמנוע שימוש עתידי בשרידיה.",
+    "יאשיהו הרס את בתי הקדשים שבבית ה', שבהם שימשו אנשים לזנות פולחנית ושבהם ארגו הנשים כיסויים לאשרה.",
+    "המלך הביא לירושלים את כוהני הבמות מערי יהודה וטימא את הבמות שבהן הקריבו, אף שהקריבו בהן לה'. הוא הרס גם את במות השערים, ובכללן את הבמה שליד שער יהושע שר העיר.",
+    "כוהני הבמות לא הורשו עוד לעלות אל מזבח ה' בירושלים. אף שהיו בעיקרם כוהנים כשרים, עבודתם בבמות פסלה אותם מעבודת המקדש, והם הושוו לכהנים בעלי מום שיכלו לאכול מן הקודשים אך לא לעבוד.",
+    "יאשיהו טימא את התופת בגיא בן־הנום, כדי למנוע את העברת הבנים והבנות באש בפולחן למֹלֶךְ.",
+    "המלך ביטל את הסוסים שנועדו לפולחן השמש ושעמם היו רוכבים לכיוון השמש ממזרח למקדש. הוא גם שרף באש את מרכבות השמש, שסימלו את תנועתה בשמים.",
+    "יאשיהו הרס את המזבחות שעל גג עליית אחז ואת המזבחות שמנשה הקים בשתי חצרות בית ה'. הוא רוצץ אותם והשליך את עפרם לנחל קדרון.",
+    "המלך טימא את הבמות שממזרח להר המשחית, הוא הר הזיתים, שנבנו בימי שלמה לאשרה, לכמוש ולמלכום. אלה היו כינויי גנאי לאלילי צידון, מואב ובני עמון.",
+    "יאשיהו שבר את המצבות וכרת את האשרים, ומילא את מקומם בעצמות אדם כדי לטמא את מקומות הפולחן. לאחר מכן פנה גם צפונה.",
+    "בבית־אל הרס יאשיהו את המזבח ואת הבמה שבנה ירבעם בן נבט, שרקבע את מרכז הפולחן שהחטיא את ישראל. הוא שרף וריסק את הבמה לעפר וכן שרף את האשרה.",
+    "יאשיהו שרף על מזבח בית־אל את העצמות מן הקברים וטימא אותו, ובכך קיים את דבר איש האלוהים שניבא בעבר על מעשה זה. שטיינזלץ מעלה אפשרות שיאשיהו ידע על הנבואה, או שקיים אותה בלי לדעת עליה.",
+    "כאשר ראה יאשיהו את המצבה, שאל על זהותה. אנשי העיר הסבירו שזה קבר איש האלוהים מיהודה, שהכריז מראש על הדברים שעשה יאשיהו במזבח בית־אל.",
+    "יאשיהו ציווה שלא לגעת בעצמות איש האלוהים, מפני שהיה אדם קדוש. כך ניצלו גם עצמות הנביא משומרון, שנקבר לידו, משום שלא ניתן היה להבחין בין העצמות.",
+    "יאשיהו הסיר גם את בתי הבמות שבערי שומרון, שנבנו בידי מלכי ישראל כדי להכעיס את ה'. הוא טיהר אותם כפי שטיהר את בית־אל, בהרס, בשרפה ובטומאה.",
+    "המלך טבח את כל כוהני הבמות שבשומרון על מזבחותיהם, שרף עליהם עצמות אדם, ולאחר מכן שב לירושלים.",
+    "יאשיהו ציווה על כל העם לעשות פסח לה' בהתאם לכתוב בספר הברית, כלומר בספר התורה.",
+    "נאמר שפסח זה היה ייחודי, מפני שלא נעשה פסח דומה לו מאז ימי השופטים ובמשך כל תקופת מלכי ישראל ומלכי יהודה. בתקופה זו לא התקבץ כל העם בירושלים להקרבת קרבן פסח.",
+    "פסח זה נערך בירושלים בשנה השמונה־עשרה למלכות יאשיהו.",
+    "יאשיהו ביער מן הארץ את האובות, הידעונים, התרפים, הגילולים וכל השיקוצים שנמצאו ביהודה ובירושלים. בכך ביקש לקיים את דברי התורה שבספר שמצא חלקיהו הכוהן בבית ה'.",
+    "לא היה לפני יאשיהו מלך ששב אל ה' בכל לבבו, נפשו ומאודו בהתאם לתורת משה, ואף אחריו לא קם מלך כמוהו. צדקתו בלטה אפילו בין מלכי יהודה, ומעשיו היו נמרצים יותר ממעשי חזקיהו.",
+    "למרות מעשי יאשיהו, ה' לא שב מחרון אפו על חטאי יהודה, שנגרמו במיוחד על ידי מנשה. מעשיו הטובים של יאשיהו לא הספיקו לתקן את הרעות שעשה מנשה.",
+    "ה' הודיע שיסיר גם את יהודה מלפניו כפי שהסיר את ישראל, וימאס בירושלים ובבית המקדש שנבחר להיות המקום שבו ייקרא שמו. לפי שטיינזלץ, בימי מנשה כבר נגזרה חורבן ירושלים והמקדש.",
+    "שאר מעשי יאשיהו וכל אשר עשה נכתבו בספר דברי הימים למלכי יהודה.",
+    "בימי יאשיהו יצא פרעה נכה מלך מצרים למלחמה נגד מלך אשור עד נהר פרת. יאשיהו יצא לקראתו כדי לעצור אותו, ופרעה הורה להמיתו במגידו.",
+    "עבדיו הרכיבו את יאשיהו המת ממגידו לירושלים וקברו אותו בקברו. לאחר מכן לקח עם הארץ את יהואחז, משח אותו והמליך אותו תחת אביו.",
+    "יהואחז היה בן עשרים ושלוש כאשר מלך, ומלך בירושלים שלושה חודשים בלבד. אמו הייתה חמוטל בת ירמיהו מלבנה.",
+    "יהואחז עשה את הרע בעיני ה', כפי שעשו אבותיו.",
+    "פרעה נכה אסר את יהואחז ברבלה שבארץ חמת ומנע ממנו למלוך בירושלים. הוא הטיל על הארץ קנס של מאה כיכר כסף וכיכר זהב.",
+    "פרעה נכה המליך את אליקים בן יאשיהו במקום אביו ושינה את שמו ליהויקים. את יהואחז לקח בשבי למצרים, ושם הוא מת.",
+    "יהויקים שילם לפרעה את הכסף והזהב, אך לא מכספו הפרטי. הוא העריך את תושבי הארץ, גבה מכל אחד לפי רכושו, והעביר את התשלום לפרעה.",
+    "יהויקים היה בן עשרים וחמש במלכו ומלך בירושלים אחת־עשרה שנה. אמו הייתה זבודה בת פדיה מרומה, והוא היה אחיו מאב של יהואחז, אך בן לאם אחרת."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "כריתת הברית וטיהור המקדש",
+      "title_en": "Making the Covenant and Purifying the Temple",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "יאשיהו מכנס את העם, קורא את ספר הברית, מחדש את הברית ומתחיל לסלק מן המקדש את כלי העבודה הזרה, הכמרים ובתי הקדשים.",
+      "summary_en": "Josiah gathers the people, reads the Book of the Covenant, renews the covenant, and begins removing idolatrous vessels, priests, and cultic houses from the Temple.",
+      "image_prompt": "King Josiah standing on a raised platform in the Temple courtyard as the people, elders, priests, and prophets gather around, with idolatrous vessels being removed in the background; biblical educational illustration, no modern objects"
+    },
+    {
+      "title": "ביטול הבמות והפולחנים הזרים ביהודה",
+      "title_en": "Abolishing High Places and Foreign Worship in Judah",
+      "start_verse": 8,
+      "end_verse": 14,
+      "summary": "המלך מטמא והורס את במות יהודה, מגביל את עבודת כוהני הבמות, מבטל את פולחן המולך והשמש ומטמא את אתרי העבודה הזרה בירושלים.",
+      "summary_en": "The king defiles and destroys Judah's high places, restricts the service of their priests, abolishes Molech and sun worship, and defiles idolatrous sites in Jerusalem.",
+      "image_prompt": "Josiah's reformers dismantling high places and altars around Jerusalem, removing sun-worship symbols and breaking stone pillars, with the Temple visible in the distance; historically restrained biblical illustration"
+    },
+    {
+      "title": "טיהור בית־אל ושומרון",
+      "title_en": "Purging Bethel and Samaria",
+      "start_verse": 15,
+      "end_verse": 20,
+      "summary": "יאשיהו הורס את מזבח ירבעם בבית־אל, מקיים את נבואת איש האלוהים, שומר על קברי אנשי האלוהים ומסיר את בתי הבמות בערי שומרון.",
+      "summary_en": "Josiah destroys Jeroboam's altar at Bethel, fulfills the prophecy of the man of God, preserves the graves of the holy men, and removes the high places in the cities of Samaria.",
+      "image_prompt": "Josiah inspecting the ancient monument and graves near the ruined altar at Bethel, while workers dismantle the high place; respectful biblical landscape illustration, no graphic violence"
+    },
+    {
+      "title": "פסח יאשיהו והנאמנות לתורה",
+      "title_en": "Josiah's Passover and Loyalty to the Torah",
+      "start_verse": 21,
+      "end_verse": 25,
+      "summary": "יאשיהו מצווה על חגיגת פסח בירושלים לפי ספר התורה, מבער את אמצעי הניחוש והעבודה הזרה ומתואר כמלך שאין דומה לו בנאמנותו לה'.",
+      "summary_en": "Josiah commands a Passover in Jerusalem according to the Torah, removes divination practices and idolatry, and is described as an unparalleled king in his devotion to the Lord.",
+      "image_prompt": "A large Passover gathering in Jerusalem with families and priests following a Torah scroll, festive but solemn biblical atmosphere, ancient Jerusalem setting, educational illustration"
+    },
+    {
+      "title": "הגזרה על יהודה ומות יאשיהו",
+      "title_en": "Judgment on Judah and Josiah's Death",
+      "start_verse": 26,
+      "end_verse": 30,
+      "summary": "למרות צדקת יאשיהו, הגזרה על חורבן יהודה וירושלים אינה מתבטלת. יאשיהו נהרג במגידו לאחר שיצא לקראת פרעה נכה, ונקבר בירושלים.",
+      "summary_en": "Despite Josiah's righteousness, the decree against Judah and Jerusalem is not revoked. Josiah is killed at Megiddo after confronting Pharaoh Neco and is buried in Jerusalem.",
+      "image_prompt": "A solemn procession carrying the deceased King Josiah from Megiddo toward Jerusalem, with mourners and servants on an ancient road; restrained biblical historical illustration"
+    },
+    {
+      "title": "יהואחז ויהויקים תחת שלטון מצרים",
+      "title_en": "Jehoahaz and Jehoiakim under Egyptian Rule",
+      "start_verse": 31,
+      "end_verse": 36,
+      "summary": "יהואחז מולך זמן קצר, מודח ונלקח למצרים בידי פרעה נכה, שממליך תחתיו את יהויקים. יהויקים גובה מן העם את הכסף והזהב שנדרשו לתשלום לפרעה.",
+      "summary_en": "Jehoahaz reigns briefly before Pharaoh Neco removes him and takes him to Egypt, replacing him with Jehoiakim. Jehoiakim collects the silver and gold demanded by Pharaoh from the people.",
+      "image_prompt": "Pharaoh Neco enthroning Jehoiakim while officials assess tribute from the people of Judah, with a restrained ancient Near Eastern court setting; biblical educational illustration"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.62,
+      "usfm": "2KI.23.1"
+    },
+    {
+      "start": 9.62,
+      "end": 25.32,
+      "usfm": "2KI.23.2"
+    },
+    {
+      "start": 25.32,
+      "end": 42.6,
+      "usfm": "2KI.23.3"
+    },
+    {
+      "start": 42.6,
+      "end": 63.12,
+      "usfm": "2KI.23.4"
+    },
+    {
+      "start": 63.12,
+      "end": 81.12,
+      "usfm": "2KI.23.5"
+    },
+    {
+      "start": 81.12,
+      "end": 94.44,
+      "usfm": "2KI.23.6"
+    },
+    {
+      "start": 94.44,
+      "end": 101.66,
+      "usfm": "2KI.23.7"
+    },
+    {
+      "start": 101.66,
+      "end": 121.16,
+      "usfm": "2KI.23.8"
+    },
+    {
+      "start": 121.16,
+      "end": 129.98,
+      "usfm": "2KI.23.9"
+    },
+    {
+      "start": 129.98,
+      "end": 139.32,
+      "usfm": "2KI.23.10"
+    },
+    {
+      "start": 139.32,
+      "end": 153.34,
+      "usfm": "2KI.23.11"
+    },
+    {
+      "start": 153.34,
+      "end": 171.42,
+      "usfm": "2KI.23.12"
+    },
+    {
+      "start": 171.42,
+      "end": 190.76,
+      "usfm": "2KI.23.13"
+    },
+    {
+      "start": 190.76,
+      "end": 196.8,
+      "usfm": "2KI.23.14"
+    },
+    {
+      "start": 196.8,
+      "end": 214.52,
+      "usfm": "2KI.23.15"
+    },
+    {
+      "start": 214.52,
+      "end": 230.06,
+      "usfm": "2KI.23.16"
+    },
+    {
+      "start": 230.06,
+      "end": 244.36,
+      "usfm": "2KI.23.17"
+    },
+    {
+      "start": 244.36,
+      "end": 253.98,
+      "usfm": "2KI.23.18"
+    },
+    {
+      "start": 253.98,
+      "end": 266.28,
+      "usfm": "2KI.23.19"
+    },
+    {
+      "start": 266.28,
+      "end": 275.6,
+      "usfm": "2KI.23.20"
+    },
+    {
+      "start": 275.6,
+      "end": 282.42,
+      "usfm": "2KI.23.21"
+    },
+    {
+      "start": 282.42,
+      "end": 291.58,
+      "usfm": "2KI.23.22"
+    },
+    {
+      "start": 291.58,
+      "end": 298.52,
+      "usfm": "2KI.23.23"
+    },
+    {
+      "start": 298.52,
+      "end": 316.44,
+      "usfm": "2KI.23.24"
+    },
+    {
+      "start": 316.44,
+      "end": 331.74,
+      "usfm": "2KI.23.25"
+    },
+    {
+      "start": 331.74,
+      "end": 342.92,
+      "usfm": "2KI.23.26"
+    },
+    {
+      "start": 342.92,
+      "end": 356.74,
+      "usfm": "2KI.23.27"
+    },
+    {
+      "start": 356.74,
+      "end": 365.36,
+      "usfm": "2KI.23.28"
+    },
+    {
+      "start": 365.36,
+      "end": 377.36,
+      "usfm": "2KI.23.29"
+    },
+    {
+      "start": 377.36,
+      "end": 395.28,
+      "usfm": "2KI.23.30"
+    },
+    {
+      "start": 395.28,
+      "end": 407.2,
+      "usfm": "2KI.23.31"
+    },
+    {
+      "start": 407.2,
+      "end": 412.36,
+      "usfm": "2KI.23.32"
+    },
+    {
+      "start": 412.36,
+      "end": 425.4,
+      "usfm": "2KI.23.33"
+    },
+    {
+      "start": 425.4,
+      "end": 439.34,
+      "usfm": "2KI.23.34"
+    },
+    {
+      "start": 439.34,
+      "end": 456.54,
+      "usfm": "2KI.23.35"
+    },
+    {
+      "start": 456.54,
+      "end": 468.86,
+      "usfm": "2KI.23.36"
+    },
+    {
+      "start": 468.86,
+      "end": 483.88,
+      "usfm": "2KI.23.37"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.62,
+    25.32,
+    42.6,
+    63.12,
+    81.12,
+    94.44,
+    101.66,
+    121.16,
+    129.98,
+    139.32,
+    153.34,
+    171.42,
+    190.76,
+    196.8,
+    214.52,
+    230.06,
+    244.36,
+    253.98,
+    266.28,
+    275.6,
+    282.42,
+    291.58,
+    298.52,
+    316.44,
+    331.74,
+    342.92,
+    356.74,
+    365.36,
+    377.36,
+    395.28,
+    407.2,
+    412.36,
+    425.4,
+    439.34,
+    456.54,
+    468.86,
+    483.88
+  ],
+  "times_en_usfm": [
+    "2KI.23.1",
+    "2KI.23.2",
+    "2KI.23.3",
+    "2KI.23.4",
+    "2KI.23.5",
+    "2KI.23.6",
+    "2KI.23.7",
+    "2KI.23.8",
+    "2KI.23.9",
+    "2KI.23.10",
+    "2KI.23.11",
+    "2KI.23.12",
+    "2KI.23.13",
+    "2KI.23.14",
+    "2KI.23.15",
+    "2KI.23.16",
+    "2KI.23.17",
+    "2KI.23.18",
+    "2KI.23.19",
+    "2KI.23.20",
+    "2KI.23.21",
+    "2KI.23.22",
+    "2KI.23.23",
+    "2KI.23.24",
+    "2KI.23.25",
+    "2KI.23.26",
+    "2KI.23.27",
+    "2KI.23.28",
+    "2KI.23.29",
+    "2KI.23.30",
+    "2KI.23.31",
+    "2KI.23.32",
+    "2KI.23.33",
+    "2KI.23.34",
+    "2KI.23.35",
+    "2KI.23.36",
+    "2KI.23.37"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? יאשיהו לא פעל לבדו: הוא כינס אליו את זקני יהודה וירושלים, וכך שיתף את מנהיגי העם ברפורמה הדתית.",
+      "text_he": "הידעת? יאשיהו לא פעל לבדו: הוא כינס אליו את זקני יהודה וירושלים, וכך שיתף את מנהיגי העם ברפורמה הדתית.",
+      "text_en": "Did you know? Josiah did not act alone: he summoned the elders of Judah and Jerusalem, thereby involving the nation’s leaders in the religious reform."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? לאחר שקרא את ספר הברית, יאשיהו כרת ברית לפני ה׳ — והעם כולו התחייב לעמוד בה.",
+      "text_he": "הידעת? לאחר שקרא את ספר הברית, יאשיהו כרת ברית לפני ה׳ — והעם כולו התחייב לעמוד בה.",
+      "text_en": "Did you know? After reading the Book of the Covenant, Josiah made a covenant before the LORD, and all the people pledged themselves to uphold it."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? טיהור המקדש כלל הוצאת כלים שנועדו לעבודת הבעל, האשרה וצבא השמים, שריפתם מחוץ לירושלים והעברת עפרם לבית־אל.",
+      "text_he": "הידעת? טיהור המקדש כלל הוצאת כלים שנועדו לעבודת הבעל, האשרה וצבא השמים, שריפתם מחוץ לירושלים והעברת עפרם לבית־אל.",
+      "text_en": "Did you know? The cleansing of the Temple included removing the objects used in the worship of Baal, Asherah, and the whole host of heaven, burning them outside Jerusalem, and carrying their ashes to Bethel."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? יאשיהו טימא והרס את הבמות ברחבי יהודה, מגבע ועד באר שבע, ובכך ביקש לבטל את הפולחן שנעשה בהן.",
+      "text_he": "הידעת? יאשיהו טימא והרס את הבמות ברחבי יהודה, מגבע ועד באר שבע, ובכך ביקש לבטל את הפולחן שנעשה בהן.",
+      "text_en": "Did you know? Josiah defiled and destroyed the high places throughout Judah, from Geba to Beersheba, seeking to put an end to the worship carried out there."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? המלך טימא את התופת בגיא בן־הינום כדי למנוע העברת ילדים באש למולך.",
+      "text_he": "הידעת? המלך טימא את התופת בגיא בן־הינום כדי למנוע העברת ילדים באש למולך.",
+      "text_en": "Did you know? The king defiled Topheth in the Valley of Ben-Hinnom to prevent the sacrifice of children by fire to Molech."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? יאשיהו הרס את המזבח בבית־אל, שנבנה בימי ירבעם בן נבט ונזכר בפרק כמזבח שהחטיא את ישראל.",
+      "text_he": "הידעת? יאשיהו הרס את המזבח בבית־אל, שנבנה בימי ירבעם בן נבט ונזכר בפרק כמזבח שהחטיא את ישראל.",
+      "text_en": "Did you know? Josiah destroyed the altar at Bethel, which had been built in the days of Jeroboam son of Nebat and is described in the chapter as the altar that led Israel into sin."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? כאשר גילה יאשיהו את קבר איש האלוהים, הוא ציווה שלא לפגוע בעצמותיו; כך נשמרו גם עצמות הנביא שבא משומרון.",
+      "text_he": "הידעת? כאשר גילה יאשיהו את קבר איש האלוהים, הוא ציווה שלא לפגוע בעצמותיו; כך נשמרו גם עצמות הנביא שבא משומרון.",
+      "text_en": "Did you know? When Josiah discovered the tomb of the man of God, he ordered that his bones not be disturbed; in this way, the bones of the prophet who had come from Samaria were also preserved."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? פסח יאשיהו מתואר כאירוע שלא נחוג כמותו מאז ימי השופטים, ובימי כל מלכי ישראל ומלכי יהודה שקדמו לו.",
+      "text_he": "הידעת? פסח יאשיהו מתואר כאירוע שלא נחוג כמותו מאז ימי השופטים, ובימי כל מלכי ישראל ומלכי יהודה שקדמו לו.",
+      "text_en": "Did you know? Josiah’s Passover is described as an event unlike any celebrated since the days of the judges, or during the reigns of any of the kings of Israel or Judah who preceded him."
+    },
+    {
+      "verse": 26,
+      "text": "הידעת? למרות נאמנותו של יאשיהו לה׳, הפרק מדגיש שהחרון הגדול על יהודה לא סר, בגלל חטאי מנשה והכעסים שהכעיסו את ה׳.",
+      "text_he": "הידעת? למרות נאמנותו של יאשיהו לה׳, הפרק מדגיש שהחרון הגדול על יהודה לא סר, בגלל חטאי מנשה והכעסים שהכעיסו את ה׳.",
+      "text_en": "Did you know? Despite Josiah’s faithfulness to the LORD, the chapter emphasizes that the LORD’s great anger against Judah did not subside, because of the sins of Manasseh and the offenses with which he had angered the LORD."
+    },
+    {
+      "verse": 29,
+      "text": "הידעת? יאשיהו נהרג במגידו כאשר יצא לקראת פרעה נכה מלך מצרים, ולאחר מותו הובא לקבורה בירושלים.",
+      "text_he": "הידעת? יאשיהו נהרג במגידו כאשר יצא לקראת פרעה נכה מלך מצרים, ולאחר מותו הובא לקבורה בירושלים.",
+      "text_en": "Did you know? Josiah was killed at Megiddo when he went out to confront Pharaoh Neco, king of Egypt, and after his death he was brought to Jerusalem for burial."
+    }
+  ]
+}

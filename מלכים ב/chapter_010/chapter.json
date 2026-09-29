@@ -1,0 +1,624 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 10,
+  "title": "מלכים ב פרק 10",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b10.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b10.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/10-5304f6f666e60b1f46a58edfa646c524.mp3?version_id=1",
+  "verses": [
+    "וּלְאַחְאָב שִׁבְעִים בָּנִים, בְּשֹׁמְרוֹן; וַיִּכְתֹּב יֵהוּא סְפָרִים וַיִּשְׁלַח שֹׁמְרוֹן, אֶל-שָׂרֵי יִזְרְעֶאל הַזְּקֵנִים, וְאֶל-הָאֹמְנִים אַחְאָב, לֵאמֹר.",
+    "וְעַתָּה, כְּבֹא הַסֵּפֶר הַזֶּה אֲלֵיכֶם, וְאִתְּכֶם, בְּנֵי אֲדֹנֵיכֶם; וְאִתְּכֶם הָרֶכֶב וְהַסּוּסִים, וְעִיר מִבְצָר וְהַנָּשֶׁק.",
+    "וּרְאִיתֶם הַטּוֹב וְהַיָּשָׁר, מִבְּנֵי אֲדֹנֵיכֶם, וְשַׂמְתֶּם, עַל-כִּסֵּא אָבִיו; וְהִלָּחֲמוּ, עַל-בֵּית אֲדֹנֵיכֶם.",
+    "וַיִּרְאוּ, מְאֹד מְאֹד, וַיֹּאמְרוּ, הִנֵּה שְׁנֵי הַמְּלָכִים לֹא עָמְדוּ לְפָנָיו; וְאֵיךְ, נַעֲמֹד אֲנָחְנוּ.",
+    "וַיִּשְׁלַח אֲשֶׁר-עַל-הַבַּיִת וַאֲשֶׁר עַל-הָעִיר וְהַזְּקֵנִים וְהָאֹמְנִים אֶל-יֵהוּא לֵאמֹר, עֲבָדֶיךָ אֲנַחְנוּ, וְכֹל אֲשֶׁר-תֹּאמַר אֵלֵינוּ, נַעֲשֶׂה: לֹא-נַמְלִךְ אִישׁ, הַטּוֹב בְּעֵינֶיךָ עֲשֵׂה.",
+    "וַיִּכְתֹּב אֲלֵיהֶם סֵפֶר שֵׁנִית לֵאמֹר, אִם-לִי אַתֶּם וּלְקֹלִי אַתֶּם שֹׁמְעִים קְחוּ אֶת-רָאשֵׁי אַנְשֵׁי בְנֵי-אֲדֹנֵיכֶם, וּבֹאוּ אֵלַי כָּעֵת מָחָר, יִזְרְעֶאלָה; וּבְנֵי הַמֶּלֶךְ שִׁבְעִים אִישׁ, אֶת-גְּדֹלֵי הָעִיר מְגַדְּלִים אוֹתָם.",
+    "וַיְהִי, כְּבֹא הַסֵּפֶר אֲלֵיהֶם, וַיִּקְחוּ אֶת-בְּנֵי הַמֶּלֶךְ, וַיִּשְׁחֲטוּ שִׁבְעִים אִישׁ; וַיָּשִׂימוּ אֶת-רָאשֵׁיהֶם בַּדּוּדִים, וַיִּשְׁלְחוּ אֵלָיו יִזְרְעֶאלָה.",
+    "וַיָּבֹא הַמַּלְאָךְ וַיַּגֶּד-לוֹ לֵאמֹר, הֵבִיאוּ רָאשֵׁי בְנֵי-הַמֶּלֶךְ; וַיֹּאמֶר, שִׂימוּ אֹתָם שְׁנֵי צִבֻּרִים פֶּתַח הַשַּׁעַר--עַד-הַבֹּקֶר.",
+    "וַיְהִי בַבֹּקֶר, וַיֵּצֵא וַיַּעֲמֹד, וַיֹּאמֶר אֶל-כָּל-הָעָם, צַדִּקִים אַתֶּם; הִנֵּה אֲנִי קָשַׁרְתִּי עַל-אֲדֹנִי, וָאֶהְרְגֵהוּ, וּמִי הִכָּה, אֶת-כָּל-אֵלֶּה.",
+    "דְּעוּ אֵפוֹא, כִּי לֹא יִפֹּל מִדְּבַר יְהוָה אַרְצָה, אֲשֶׁר-דִּבֶּר יְהוָה, עַל-בֵּית אַחְאָב; וַיהוָה עָשָׂה--אֵת אֲשֶׁר דִּבֶּר, בְּיַד עַבְדּוֹ אֵלִיָּהוּ.",
+    "וַיַּךְ יֵהוּא, אֵת כָּל-הַנִּשְׁאָרִים לְבֵית-אַחְאָב בְּיִזְרְעֶאל, וְכָל-גְּדֹלָיו, וּמְיֻדָּעָיו וְכֹהֲנָיו--עַד-בִּלְתִּי הִשְׁאִיר-לוֹ, שָׂרִיד.",
+    "וַיָּקָם, וַיָּבֹא, וַיֵּלֶךְ, שֹׁמְרוֹן--הוּא בֵּית-עֵקֶד הָרֹעִים, בַּדָּרֶךְ.",
+    "וְיֵהוּא, מָצָא אֶת-אֲחֵי אֲחַזְיָהוּ מֶלֶךְ-יְהוּדָה, וַיֹּאמֶר, מִי אַתֶּם; וַיֹּאמְרוּ, אֲחֵי אֲחַזְיָהוּ אֲנַחְנוּ, וַנֵּרֶד לִשְׁלוֹם בְּנֵי-הַמֶּלֶךְ, וּבְנֵי הַגְּבִירָה.",
+    "וַיֹּאמֶר תִּפְשׂוּם חַיִּים, וַיִּתְפְּשׂוּם חַיִּים; וַיִּשְׁחָטוּם אֶל-בּוֹר בֵּית-עֵקֶד, אַרְבָּעִים וּשְׁנַיִם אִישׁ, וְלֹא-הִשְׁאִיר אִישׁ, מֵהֶם.",
+    "וַיֵּלֶךְ מִשָּׁם וַיִּמְצָא אֶת-יְהוֹנָדָב בֶּן-רֵכָב לִקְרָאתוֹ וַיְבָרְכֵהוּ, וַיֹּאמֶר אֵלָיו הֲיֵשׁ אֶת-לְבָבְךָ יָשָׁר כַּאֲשֶׁר לְבָבִי עִם-לְבָבֶךָ, וַיֹּאמֶר יְהוֹנָדָב יֵשׁ וָיֵשׁ, תְּנָה אֶת-יָדֶךָ; וַיִּתֵּן יָדוֹ, וַיַּעֲלֵהוּ אֵלָיו אֶל-הַמֶּרְכָּבָה.",
+    "וַיֹּאמֶר לְכָה אִתִּי, וּרְאֵה בְּקִנְאָתִי לַיהוָה; וַיַּרְכִּבוּ אֹתוֹ, בְּרִכְבּוֹ.",
+    "וַיָּבֹא, שֹׁמְרוֹן, וַיַּךְ אֶת-כָּל-הַנִּשְׁאָרִים לְאַחְאָב בְּשֹׁמְרוֹן, עַד-הִשְׁמִדוֹ--כִּדְבַר יְהוָה, אֲשֶׁר דִּבֶּר אֶל-אֵלִיָּהוּ.",
+    "וַיִּקְבֹּץ יֵהוּא, אֶת-כָּל-הָעָם, וַיֹּאמֶר אֲלֵהֶם, אַחְאָב עָבַד אֶת-הַבַּעַל מְעָט; יֵהוּא, יַעַבְדֶנּוּ הַרְבֵּה.",
+    "וְעַתָּה כָל-נְבִיאֵי הַבַּעַל כָּל-עֹבְדָיו וְכָל-כֹּהֲנָיו קִרְאוּ אֵלַי אִישׁ אַל-יִפָּקֵד, כִּי זֶבַח גָּדוֹל לִי לַבַּעַל--כֹּל אֲשֶׁר-יִפָּקֵד, לֹא יִחְיֶה; וְיֵהוּא עָשָׂה בְעָקְבָּה, לְמַעַן הַאֲבִיד אֶת-עֹבְדֵי הַבָּעַל.",
+    "וַיֹּאמֶר יֵהוּא, קַדְּשׁוּ עֲצָרָה לַבַּעַל--וַיִּקְרָאוּ.",
+    "וַיִּשְׁלַח יֵהוּא, בְּכָל-יִשְׂרָאֵל, וַיָּבֹאוּ כָּל-עֹבְדֵי הַבַּעַל, וְלֹא-נִשְׁאַר אִישׁ אֲשֶׁר לֹא-בָא; וַיָּבֹאוּ בֵּית הַבַּעַל, וַיִּמָּלֵא בֵית-הַבַּעַל פֶּה לָפֶה.",
+    "וַיֹּאמֶר, לַאֲשֶׁר עַל-הַמֶּלְתָּחָה, הוֹצֵא לְבוּשׁ, לְכֹל עֹבְדֵי הַבָּעַל; וַיֹּצֵא לָהֶם, הַמַּלְבּוּשׁ.",
+    "וַיָּבֹא יֵהוּא וִיהוֹנָדָב בֶּן-רֵכָב, בֵּית הַבָּעַל; וַיֹּאמֶר לְעֹבְדֵי הַבַּעַל, חַפְּשׂוּ וּרְאוּ פֶּן-יֶשׁ-פֹּה עִמָּכֶם מֵעַבְדֵי יְהוָה--כִּי אִם-עֹבְדֵי הַבַּעַל, לְבַדָּם.",
+    "וַיָּבֹאוּ, לַעֲשׂוֹת זְבָחִים וְעֹלוֹת; וְיֵהוּא שָׂם-לוֹ בַחוּץ, שְׁמֹנִים אִישׁ, וַיֹּאמֶר הָאִישׁ אֲשֶׁר-יִמָּלֵט מִן-הָאֲנָשִׁים אֲשֶׁר אֲנִי מֵבִיא עַל-יְדֵיכֶם, נַפְשׁוֹ תַּחַת נַפְשׁוֹ.",
+    "וַיְהִי כְּכַלֹּתוֹ לַעֲשׂוֹת הָעֹלָה, וַיֹּאמֶר יֵהוּא לָרָצִים וְלַשָּׁלִשִׁים בֹּאוּ הַכּוּם אִישׁ אַל-יֵצֵא, וַיַּכּוּם, לְפִי-חָרֶב; וַיַּשְׁלִכוּ, הָרָצִים וְהַשָּׁלִשִׁים, וַיֵּלְכוּ, עַד-עִיר בֵּית-הַבָּעַל.",
+    "וַיֹּצִאוּ אֶת-מַצְּבוֹת בֵּית-הַבַּעַל, וַיִּשְׂרְפוּהָ.",
+    "וַיִּתְּצוּ, אֵת מַצְּבַת הַבָּעַל; וַיִּתְּצוּ אֶת-בֵּית הַבַּעַל, וַיְשִׂמֻהוּ למחראות לְמוֹצָאוֹת עַד-הַיּוֹם.",
+    "וַיַּשְׁמֵד יֵהוּא אֶת-הַבַּעַל, מִיִּשְׂרָאֵל.",
+    "רַק חֲטָאֵי יָרָבְעָם בֶּן-נְבָט, אֲשֶׁר הֶחֱטִיא אֶת-יִשְׂרָאֵל--לֹא-סָר יֵהוּא, מֵאַחֲרֵיהֶם: עֶגְלֵי, הַזָּהָב, אֲשֶׁר בֵּית-אֵל, וַאֲשֶׁר בְּדָן.",
+    "וַיֹּאמֶר יְהוָה אֶל-יֵהוּא, יַעַן אֲשֶׁר-הֱטִיבֹתָ לַעֲשׂוֹת הַיָּשָׁר בְּעֵינַי--כְּכֹל אֲשֶׁר בִּלְבָבִי, עָשִׂיתָ לְבֵית אַחְאָב: בְּנֵי רְבִעִים, יֵשְׁבוּ לְךָ עַל-כִּסֵּא יִשְׂרָאֵל.",
+    "וְיֵהוּא, לֹא שָׁמַר לָלֶכֶת בְּתוֹרַת-יְהוָה אֱלֹהֵי-יִשְׂרָאֵל--בְּכָל-לְבָבוֹ: לֹא סָר, מֵעַל חַטֹּאות יָרָבְעָם, אֲשֶׁר הֶחֱטִיא, אֶת-יִשְׂרָאֵל.",
+    "בַּיָּמִים הָהֵם--הֵחֵל יְהוָה, לְקַצּוֹת בְּיִשְׂרָאֵל; וַיַּכֵּם חֲזָאֵל, בְּכָל-גְּבוּל יִשְׂרָאֵל.",
+    "מִן-הַיַּרְדֵּן, מִזְרַח הַשֶּׁמֶשׁ, אֵת כָּל-אֶרֶץ הַגִּלְעָד, הַגָּדִי וְהָראוּבֵנִי וְהַמְנַשִּׁי--מֵעֲרֹעֵר אֲשֶׁר עַל-נַחַל אַרְנֹן, וְהַגִּלְעָד וְהַבָּשָׁן.",
+    "וְיֶתֶר דִּבְרֵי יֵהוּא וְכָל-אֲשֶׁר עָשָׂה, וְכָל-גְּבוּרָתוֹ: הֲלוֹא-הֵם כְּתוּבִים, עַל-סֵפֶר דִּבְרֵי הַיָּמִים--לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב יֵהוּא עִם-אֲבֹתָיו, וַיִּקְבְּרוּ אֹתוֹ בְּשֹׁמְרוֹן; וַיִּמְלֹךְ יְהוֹאָחָז בְּנוֹ, תַּחְתָּיו.",
+    "וְהַיָּמִים, אֲשֶׁר מָלַךְ יֵהוּא עַל-יִשְׂרָאֵל--עֶשְׂרִים-וּשְׁמֹנֶה שָׁנָה, בְּשֹׁמְרוֹן."
+  ],
+  "english": [
+    "And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s\nchildren, saying,",
+    "Now as soon as this letter cometh to you, seeing your master’s sons\nare with you, and\nthere are with you chariots and horses, a fenced city also, and armour;",
+    "Look even out the best and meetest of your master’s sons, and set\nhim on his father’s throne, and fight for your master’s house.",
+    "But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?",
+    "And he that\nwas over the house, and he that\nwas\n over the city, the elders also, and the bringers up\nof the children, sent to Jehu, saying, We are thy servants, and will do all that thou shalt bid us; we will not make any king: do thou\nthat which is\n good in thine eyes.",
+    "Then he wrote a letter the second time to them, saying, If ye\nbe\n mine, and\nif ye will hearken unto my voice, take ye the heads of the men your master’s sons, and come to me to Jezreel by to morrow this time. Now the king’s sons,\nbeing seventy persons,\nwere\n with the great men of the city, which brought them up.",
+    "And it came to pass, when the letter came to them, that they took the king’s sons, and slew seventy persons, and put their heads in baskets, and sent him\nthem to Jezreel.",
+    "And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.",
+    "And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye\nbe righteous: behold, I conspired against my master, and slew him: but who slew all these?",
+    "Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done\nthat which he spake by his servant Elijah.",
+    "So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.",
+    "And he arose and departed, and came to Samaria.\nAnd as he\nwas at the shearing house in the way,",
+    "Jehu met with the brethren of Ahaziah king of Judah, and said, Who\nare ye? And they answered, We\nare the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.",
+    "And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house,\neven two and forty men; neither left he any of them.",
+    "And when he was departed thence, he lighted on Jehonadab the son of Rechab\ncoming to meet him: and he saluted him, and said to him, Is thine heart right, as my heart\nis with thy heart? And Jehonadab answered, It is. If it be, give\nme thine hand. And he gave\nhim his hand; and he took him up to him into the chariot.",
+    "And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.",
+    "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah.",
+    "And Jehu gathered all the people together, and said unto them, Ahab served Baal a little;\nbut Jehu shall serve him much.",
+    "Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice\nto do to Baal; whosoever shall be wanting, he shall not live. But Jehu did\nit in subtilty, to the intent that he might destroy the worshippers of Baal.",
+    "And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed\nit.",
+    "And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.",
+    "And he said unto him that\nwas over the vestry, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.",
+    "And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only.",
+    "And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said,\nIf any of the men whom I have brought into your hands escape,\nhe that letteth him go, his life\nshall be for the life of him.",
+    "And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in,\nand\n slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast\nthem out, and went to the city of the house of Baal.",
+    "And they brought forth the images out of the house of Baal, and burned them.",
+    "And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.",
+    "Thus Jehu destroyed Baal out of Israel.",
+    "Howbeit\nfrom the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them,\nto wit, the golden calves that\nwere in Bethel, and that\nwere in Dan.",
+    "And the LORD said unto Jehu, Because thou hast done well in executing\nthat which is right in mine eyes,\nand hast done unto the house of Ahab according to all that\nwas in mine heart, thy children of the fourth\ngeneration shall sit on the throne of Israel.",
+    "But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.",
+    "In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;",
+    "From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the river Arnon, even Gilead and Bashan.",
+    "Now the rest of the acts of Jehu, and all that he did, and all his might,\nare they not written in the book of the chronicles of the kings of Israel?",
+    "And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.",
+    "And the time that Jehu reigned over Israel in Samaria\nwas\n twenty and eight years."
+  ],
+  "steinsaltz": [
+    "וּלְאַחְאָב שִׁבְעִים בָּנִים בְּשֹׁמְרוֹן, עיר הבירה המבוצרת של ממלכת ישראל. וַיִּכְתֹּב יֵהוּא סְפָרִים, מכתבים וַיִּשְׁלַח אותם לשֹׁמְרוֹן אֶל־שָׂרֵי יִזְרְעֶאל הַזְּקֵנִים, שאולי ברחו מיזרעאל, וְאֶל־הָאֹמְנִים, המטפלים בבני ביתו של אַחְאָב, לֵאמֹר:",
+    "וְעַתָּה כְּבֹא, כאשר יגיע הַסֵּפֶר הַזֶּה אֲלֵיכֶם, וְאִתְּכֶם בְּנֵי אֲדֹנֵיכֶם, בניו הרבים של אחאב, וְאִתְּכֶם הָרֶכֶב וְהַסּוּסִים וְעִיר מִבְצָר וְהַנָּשֶׁק. ואתם מחזיקים בכוח הצבאי וחולשים על הבירה החזקה והמבוצרת, שכבר עמדה במצור פעם אחר פעם ולא נכנעה.",
+    "וּרְאִיתֶם, בחרו לכם את הַטּוֹב וְהַיָּשָׁר, המתאים ביותר מִבְּנֵי אֲדֹנֵיכֶם, וְשַׂמְתֶּם אותו עַל־כִּסֵּא אָבִיו, המליכו אותו, וְהִלָּחֲמוּ עַל־בֵּית אֲדֹנֵיכֶם. יהוא שלח קריאת תגר לאנשי בית אחאב ולצאצאיו: בידיכם כל התנאים והציוד הדרושים להתכונן ולהתגונן מפני. קומו והילחמו עמי.",
+    "וַיִּרְאוּ אנשי בית אחאב מְאֹד מְאֹד. וַיֹּאמְרוּ: הִנֵּה שְׁנֵי הַמְּלָכִים – מלך ישראל ומלך יהודה – לֹא עָמְדוּ לְפָנָיו, וְאֵיךְ נַעֲמֹד אֲנָחְנוּ? אמנם יהורם בא לבדו במרכבה ואולי לֻווה במעט אנשים, וגם אחזיה לא היה מלֻווה אלא בפמליה קטנה, אבל מות המלכים סיפק להם תירוץ טוב להימנע מעימות.",
+    "וַיִּשְׁלַח אֲשֶׁר־עַל־הַבַּיִת, הממונה על בית המלך וַאֲשֶׁר עַל־הָעִיר, ראש העיר מטעם המלך וְהַזְּקֵנִים, הנכבדים וְהָאֹמְנִים אֶל־יֵהוּא לֵאמֹר: עֲבָדֶיךָ אֲנַחְנוּ, וְכֹל אֲשֶׁר־תֹּאמַר אֵלֵינוּ נַעֲשֶׂה. אנחנו מחכים לפקודותיך. לֹא־נַמְלִךְ אִישׁ מרצוננו. הַטּוֹב בְּעֵינֶיךָ עֲשֵׂה. איננו מתכננים להילחם נגדך.",
+    "וַיִּכְתֹּב אֲלֵיהֶם סֵפֶר שֵׁנִית לֵאמֹר: אִם אכן לִי, לצדי אַתֶּם עוברים, וּלְקֹלִי אַתֶּם שֹׁמְעִים – קְחוּ אֶת־רָאשֵׁי אַנְשֵׁי בְנֵי־אֲדֹנֵיכֶם וּבֹאוּ אֵלַי כָּעֵת מָחָר יִזְרְעֶאלָה. אמתין לכם ביזרעאל, ועד מחר עליכם להביא אלי את ראשיהם הכרותים של כל בני אחאב. וּבְנֵי הַמֶּלֶךְ היו שִׁבְעִים אִישׁ אֶת, עם גְּדֹלֵי הָעִיר המְגַדְּלִים אוֹתָם. המטפלים בילדים או בנערים הללו זכו למעמד מכובד בעיר.",
+    "וַיְהִי כְּבֹא הַסֵּפֶר אֲלֵיהֶם, וַיִּקְחוּ אֶת־בְּנֵי הַמֶּלֶךְ וַיִּשְׁחֲטוּ אותם שִׁבְעִים אִישׁ, וַיָּשִׂימוּ אֶת־רָאשֵׁיהֶם הכרותים בַּדּוּדִים, סירים או סלים גדולים וַיִּשְׁלְחוּ אֵלָיו יִזְרְעֶאלָה.",
+    "וַיָּבֹא הַמַּלְאָךְ, השליח, וַיַּגֶּד־לוֹ לֵאמֹר: הֵבִיאוּ את רָאשֵׁי בְנֵי־הַמֶּלֶךְ. וַיֹּאמֶר יהוא: שִׂימוּ אֹתָם שְׁנֵי צִבֻּרִים, ערמות ליד פֶּתַח הַשַּׁעַר עַד־הַבֹּקֶר.",
+    "וַיְהִי בַבֹּקֶר וַיֵּצֵא יהוא וַיַּעֲמֹד, וַיֹּאמֶר אֶל־כָּל־הָעָם שביזרעאל: צַדִּקִים אַתֶּם בעיני עצמכם ממני. הִנֵּה אֲנִי מודה ומודיע שקָשַׁרְתִּי עַל, מרדתי נגד אֲדֹנִי וָאֶהְרְגֵהוּ. ועל כך אשא באחריות. ואולם מִי הִכָּה, הרג אֶת־כָּל־אֵלֶּה?! הרי נכבדי שומרון עשו זאת.",
+    "דְּעוּ אֵפוֹא כִּי לֹא יִפֹּל מִדְּבַר ה' אַרְצָה. במעשי יתמלאו כל הנבואות הקשות אֲשֶׁר־דִּבֶּר ה' עַל־בֵּית אַחְאָב, וַה' עָשָׂה אֵת אֲשֶׁר דִּבֶּר בְּיַד עַבְדּוֹ אֵלִיָּהוּ.",
+    "וַיַּךְ יֵהוּא אֵת כָּל־הַנִּשְׁאָרִים לְבֵית־אַחְאָב בְּיִזְרְעֶאל וְכָל־גְּדֹלָיו וּמְיֻדָּעָיו, ידידיו וְכֹהֲנָיו, את כל מי שהיו קשורים לשושלת בית אחאב, עַד־בִּלְתִּי הִשְׁאִיר־לוֹ שָׂרִיד.",
+    "וַיָּקָם וַיָּבֹא וַיֵּלֶךְ מיזרעאל לשֹׁמְרוֹן, ומסלולו עבר במקום שהוּא בֵּית־עֵקֶד הָרֹעִים, הפונדק שבו הרועים נהגו להתאסף בַּדָּרֶךְ.",
+    "וְיֵהוּא מָצָא שם אֶת־אֲחֵי אֲחַזְיָהוּ מֶלֶךְ־יְהוּדָה, שבאו מיהודה בעקבות אחזיה לביקור מלכותי בעיר הנופש יזרעאל הן מטעמי נימוס – ביקור מלך ישראל המחלים – והן לשם תענוג. וַיֹּאמֶר: מִי אַתֶּם? וַיֹּאמְרוּ: אֲחֵי אֲחַזְיָהוּ אֲנַחְנוּ, וַנֵּרֶד לִשאול לשְׁלוֹם בְּנֵי־הַמֶּלֶךְ וּבְנֵי הַגְּבִירָה, איזבל.",
+    "וַיֹּאמֶר יהוא לאנשיו: תִּפְשׂוּם, תפשו אותם חַיִּים. וַיִּתְפְּשׂוּם חַיִּים, וַיִּשְׁחָטוּם אֶל־בּוֹר בֵּית־עֵקֶד אַרְבָּעִים וּשְׁנַיִם אִישׁ, וְלֹא־הִשְׁאִיר אִישׁ מֵהֶם מכיוון שגם הם היו קשורים למשפחת אחאב.",
+    "וַיֵּלֶךְ מִשָּׁם הלאה בדרכו וַיִּמְצָא אֶת־יְהוֹנָדָב בֶּן־רֵכָב לִקְרָאתוֹ. יהונדב, שהיה אדם נשוא פנים, לא היה קשור לפוליטיקה של אחאב או של אחזיה, ובני שבטו המשיכו לעבוד את ה' במשך שנים. יהוא לא נזקק לתמיכתו הפוליטית אלא לתמיכתו המוסרית. וַיְבָרְכֵהוּ יהוא וַיֹּאמֶר אֵלָיו: הֲיֵשׁ אֶת־לְבָבְךָ יָשָׁר כַּאֲשֶׁר לְבָבִי עִם־לְבָבֶךָ? האם אתה תומך בי, כשם שאני תומך בך? וַיֹּאמֶר יְהוֹנָדָב: יֵשׁ וָיֵשׁ. אני תומך בך לחלוטין. תְּנָה, הושט לי אֶת־יָדֶךָ. וַיִּתֵּן יָדוֹ, וַיַּעֲלֵהוּ אֵלָיו אֶל־הַמֶּרְכָּבָה.",
+    "וַיֹּאמֶר: לְכָה, בוא אִתִּי וּרְאֵה בְּקִנְאָתִי לַה'. וַיַּרְכִּבוּ אֹתוֹ בְּרִכְבּוֹ של יהוא.",
+    "וַיָּבֹא יהוא לשֹׁמְרוֹן. העיר הייתה פתוחה בפניו. איש לא העז למחות בידו. וַיַּךְ אֶת־כָּל־הַנִּשְׁאָרִים לְאַחְאָב בְּשֹׁמְרוֹן עַד־הִשְׁמִדוֹ. הוא טבח את כל תומכי אחאב – ובכללם מן הסתם גם את מי שהרגו את בני אחאב במצוותו קודם לכן – משום שלא סמך עליהם, או משום שרצה להכחיד לא רק את משפחת אחאב אלא גם את כל בית המלוכה שלו ואת מערכת השלטון שעמדה לרשותו, כִּדְבַר ה' אֲשֶׁר דִּבֶּר אֶל־אֵלִיָּהוּ.",
+    "עתה רצה יהוא להכרית את כהני הבעל. מכיוון שלא היה קל לזהותם, הוא נקט תחבולה: וַיִּקְבֹּץ יֵהוּא אֶת־כָּל־הָעָם היושבים בשומרון, וַיֹּאמֶר אֲלֵהֶם: אַחְאָב עָבַד אֶת־הַבַּעַל מְעָט, שכן עשה זאת בעיקר מחמת אשתו, שטענה באוזניו שזוהי האפנה התרבותית המקובלת. לעומת זאת, יֵהוּא יַעַבְדֶנּוּ הַרְבֵּה, בכובד ראש וכראוי.",
+    "וְעַתָּה את כָל־נְבִיאֵי הַבַּעַל, כָּל־עֹבְדָיו וְכָל־כֹּהֲנָיו קִרְאוּ אֵלַי. נערוך אספה גדולה. חשוב שכל עובדי הבעל, הנאמנים לו והאוהדים אותו ינכחו בה. אִישׁ אַל־יִפָּקֵד, לא ייעדר, כִּי זֶבַח גָּדוֹל לִי לַבַּעַל. כֹּל אֲשֶׁר־יִפָּקֵד – לֹא יִחְיֶה. כאן מופיעה הערה מבהירה: וְיֵהוּא עָשָׂה זאת בְעָקְבָּה, במרמה לְמַעַן הַאֲבִיד אֶת־עֹבְדֵי הַבָּעַל.",
+    "וַיֹּאמֶר יֵהוּא: קַדְּשׁוּ, הכריזו על עֲצָרָה, עצרת לכבוד הבַּעַל. וַיִּקְרָאוּ. כך עשו.",
+    "וַיִּשְׁלַח יֵהוּא לפרסם את דבר הכינוס בְּכָל־יִשְׂרָאֵל. הוא הודיע שעם כניסתו של המלך החדש יעלה פולחן הבעל מעלה מעלה; ושאם עד כה הרגישו עובדי הבעל דחויים, מעתה הם יעמדו במרכז החברה. על כן צריכים כולם לבוא ולהביע את תמיכתם במלך. וַיָּבֹאוּ כָּל־עֹבְדֵי הַבַּעַל, וְלֹא־נִשְׁאַר אִישׁ אֲשֶׁר לֹא־בָא. וַיָּבֹאוּ אל בֵּית הַבַּעַל, וַיִּמָּלֵא בֵית־הַבַּעַל פֶּה לָפֶה, עד אפס מקום.",
+    "וַיֹּאמֶר לַאֲשֶׁר עַל־הַמֶּלְתָּחָה, הממונה על הבגדים: הוֹצֵא לְבוּשׁ מיוחד לְכֹל עֹבְדֵי הַבָּעַל לכבוד הטקס, כיאה לאספה מכובדת כזו. וַיֹּצֵא לָהֶם את הַמַּלְבּוּשׁ הייחודי לעובדי הבעל. יהוא ציווה על עובדי הבעל ללבשו.",
+    "וַיָּבֹא יֵהוּא וִיהוֹנָדָב בֶּן־רֵכָב, ידידו ורבו אל בֵּית הַבָּעַל. וַיֹּאמֶר יהוא לְעֹבְדֵי הַבַּעַל: חַפְּשׂוּ וּרְאוּ פֶּן־יֶשׁ־פֹּה עִמָּכֶם מֵעַבְדֵי ה', כִּי אִם־עֹבְדֵי הַבַּעַל לְבַדָּם. וודאו שאין פה איש מעובדי ה'.",
+    "וַיָּבֹאוּ לַעֲשׂוֹת זְבָחִים וְעֹלוֹת בחגיגה הגדולה. וְיֵהוּא שָׂם־לוֹ, העמיד בַחוּץ מראש שְׁמֹנִים אִישׁ, וַיֹּאמֶר להם: עליכם לעמוד פה ולשמור. הָאִישׁ אֲשֶׁר־יִמָּלֵט החוצה מִן־הָאֲנָשִׁים אֲשֶׁר אֲנִי מֵבִיא עַל־יְדֵיכֶם, שכונסו כאן תחת אחריותכם – עליכם להרגו. ומי שיניח לאחד מעובדי הבעל להימלט – נַפְשׁוֹ תַּחַת נַפְשׁוֹ. הוא ימות במקומו.",
+    "נראה שיהוא עצמו השתתף בטקס. וַיְהִי כְּכַלֹּתוֹ לַעֲשׂוֹת הָעֹלָה, וַיֹּאמֶר יֵהוּא לָרָצִים וְלַשָּׁלִשִׁים, ולמפקדים: בֹּאוּ הַכּוּם, הרגו את כולם. אִישׁ אַל־יֵצֵא. וַיַּכּוּם אנשיו החמושים לְפִי־חָרֶב. וַיַּשְׁלִכוּ הָרָצִים וְהַשָּׁלִשִׁים החוצה את גופותיהם של כל מי שהתכנסו במקום, וַיֵּלְכוּ עַד־עִיר בֵּית־הַבָּעַל ושם השלימו את משימתם –",
+    "וַיֹּצִאוּ אֶת־מַצְּבוֹת בֵּית־הַבַּעַל וַיִּשְׂרְפוּהָ.",
+    "וַיִּתְּצוּ, שברו אֵת מַצְּבַת הַבָּעַל, וַיִּתְּצוּ אֶת־בֵּית הַבַּעַל וַיְשִׂימֻהוּ לְמוֹצָאוֹת, לפי הכתיב: למחראות, לשירותים ציבוריים עַד־הַיּוֹם.",
+    "וַיַּשְׁמֵד יֵהוּא אֶת־הַבַּעַל מִיִּשְׂרָאֵל. בעקבות מעשיו נעלמה עבודת הבעל מישראל כליל, שכן הוא כינס במקום אחד לא רק את כהני הבעל, כאליהו, אלא גם את כל המאמינים בבעל והקשורים אליו.",
+    "רַק חֲטָאֵי יָרָבְעָם בֶּן־נְבָט אֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל, לֹא־ סָר יֵהוּא מֵאַחֲרֵיהֶם – עֶגְלֵי הַזָּהָב אֲשֶׁר בֵּית־אֵל וַאֲשֶׁר בְּדָן. יהוא לא חזר לעבוד את ה' בבית המקדש בירושלים. מבחינה זו נהג כמלכי ישראל שחיו לפני אחאב, שלא ראו את עצמם כעובדי עבודה זרה אלא כפלג לגיטימי של עובדי ה', העובדים אותו במקום אחר.",
+    "וַיֹּאמֶר ה' אֶל־יֵהוּא על ידי שליח: יַעַן אֲשֶׁר־הֱטִיבֹתָ לַעֲשׂוֹת הַיָּשָׁר בְּעֵינַי – כְּכֹל אֲשֶׁר בִּלְבָבִי, בדיוק כפי שרציתי עָשִׂיתָ לְבֵית אַחְאָב – לא רק אתה תזכה למלוך, אלא בְּנֵי רְבִעִים, בנים רביעיים, כלומר עד הדור הרביעי יֵשְׁבוּ לְךָ עַל־כִּסֵּא יִשְׂרָאֵל. זו הייתה השושלת היחידה במלכות ישראל שמלכו בה ארבעה דורות רצופים.",
+    "וְכאמור, יֵהוּא לֹא שָׁמַר לָלֶכֶת בְּתוֹרַת־ה' אֱלֹהֵי־יִשְׂרָאֵל בְּכָל־לְבָבוֹ, כי לֹא סָר מֵעַל חַטֹּאות יָרָבְעָם אֲשֶׁר הֶחֱטִיא אֶת־יִשְׂרָאֵל.",
+    "ובגלל חטאיו – בַּיָּמִים הָהֵם הֵחֵל ה' לְקַצּוֹת, לחתוך קצוות, לקצץ בְּיִשְׂרָאֵל. וַיַּכֵּם חֲזָאֵל מלך ארם בְּכָל־גְּבוּל יִשְׂרָאֵל הצפוני.",
+    "מִן־הַיַּרְדֵּן כלפי מִזְרַח הַשֶּׁמֶשׁ, אֵת כָּל־אֶרֶץ הַגִּלְעָד, נחלות שבטי הַגָּדִי וְהָראוּבֵנִי וְהַמְנַשִּׁי, מֵעֲרֹעֵר אֲשֶׁר עַל־נַחַל אַרְנֹן שבדרום לכיוון מואב, וְעד הַגִּלְעָד וְהַבָּשָׁן בצפון.",
+    "וְיֶתֶר דִּבְרֵי יֵהוּא וְכָל־אֲשֶׁר עָשָׂה וְכָל־גְּבוּרָתוֹ, הפרטים ההיסטוריים הקשורים ליהוא המלך, הֲלוֹא־הֵם כְּתוּבִים עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל.",
+    "וַיִּשְׁכַּב יֵהוּא עִם־אֲבֹתָיו וַיִּקְבְּרוּ אֹתוֹ בְּשֹׁמְרוֹן, שהמשיכה להיות בירתו. וַיִּמְלֹךְ יְהוֹאָחָז בְּנוֹ תַּחְתָּיו.",
+    "וְהַיָּמִים אֲשֶׁר מָלַךְ יֵהוּא עַל־יִשְׂרָאֵל – עֶשְׂרִים־וּשְׁמֹנֶה שָׁנָה בְּשֹׁמְרוֹן."
+  ],
+  "ai_explanation": [
+    "לאחאב היו שבעים בנים בשומרון. יהוא שלח מכתבים אל שרי יזרעאל, אל הזקנים ואל האומנים שטיפלו בבני בית אחאב.",
+    "יהוא מזכיר להם שהם מחזיקים בבני אחאב, ברכב, בסוסים, בעיר מבצר ובנשק, ולכן יש בידיהם כוח להתגונן.",
+    "הוא קורא להם לבחור את המתאים ביותר מבני אחאב, להמליכו על כיסא אביו ולהילחם נגד בית אחאב.",
+    "אנשי בית אחאב פחדו מאוד, מפני ששני המלכים, מלך ישראל ומלך יהודה, לא הצליחו לעמוד בפני יהוא.",
+    "הממונה על בית המלך, ראש העיר, הזקנים והאומנים הודיעו ליהוא שהם מקבלים את מרותו ויעשו כל אשר יצווה עליהם.",
+    "יהוא דרש מהם להוכיח את נאמנותם בכך שיכרתו את ראשי שבעים בני אחאב ויביאו אותם אליו ליזרעאל למחרת.",
+    "כאשר הגיע המכתב, אנשי העיר שחטו את שבעים בני המלך, הניחו את ראשיהם בדודים ושלחו אותם אל יהוא ליזרעאל.",
+    "השליח הודיע ליהוא שראשי בני המלך הובאו. יהוא ציווה להניח אותם בשתי ערמות ליד פתח השער עד הבוקר.",
+    "בבוקר הציג יהוא את עצמו בפני העם כמי שמרד באדונו והרג אותו, אך שאל מי הרג את כל בני אחאב, ורמז שאנשי שומרון הם שעשו זאת.",
+    "יהוא הכריז שאין דבר מדברי ה' נופל ארצה, ושבאמצעות מעשיו מתקיימות הנבואות שנאמרו על בית אחאב ביד אליהו.",
+    "יהוא הרג ביזרעאל את כל הנשארים הקשורים לבית אחאב: גדולים, מקורבים, ידידים וכוהנים, ולא השאיר שריד.",
+    "יהוא המשיך בדרכו מיזרעאל לשומרון, דרך מקום שנקרא בית־עֵקֶד הרועים, שבו היו הרועים מתאספים.",
+    "יהוא פגש שם את אחי אחזיהו מלך יהודה, שבאו לבקר את בני המלך ואת בני איזבל, המכונה כאן הגבירה.",
+    "יהוא ציווה לתפוס אותם חיים, אך לאחר מכן שחטו אותם בבור בבית־עֵקֶד. ארבעים ושניים איש נהרגו, ולא נשאר מהם איש.",
+    "יהוא פגש את יהונדב בן רכב, אדם נשוא פנים שלא היה קשור לפוליטיקה של אחאב. יהוא ביקש את תמיכתו המוסרית, העלה אותו למרכבתו והמשיך עמו.",
+    "יהוא הזמין את יהונדב לבוא ולראות את קנאתו לה', ואנשיו הרכיבו את יהונדב במרכבתו.",
+    "בשומרון הרג יהוא את כל הנשארים לבית אחאב, עד שהשמידו, בהתאם לדבר ה' שנאמר לאליהו.",
+    "יהוא כינס את העם והציג את עצמו כמי שיעבוד את הבעל במסירות רבה יותר מאחאב, כדי להכין תחבולה נגד עובדי הבעל.",
+    "הוא קרא לכל נביאי הבעל, עובדיו וכוהניו לבוא לזבח גדול, והזהיר שכל מי שייעדר לא יחיה. הכתוב מבהיר שיהוא עשה זאת במרמה כדי להשמיד את עובדי הבעל.",
+    "יהוא הכריז על עצרת לכבוד הבעל, והעם קרא והזמין את המשתתפים.",
+    "יהוא פרסם את דבר העצרת בכל ישראל, וכל עובדי הבעל הגיעו לבית הבעל, שהתמלא עד אפס מקום.",
+    "יהוא ציווה על הממונה על הבגדים להוציא לבוש מיוחד לכל עובדי הבעל, כדי שיילבשו אותו בטקס.",
+    "יהוא ויהונדב נכנסו לבית הבעל. יהוא ציווה לבדוק שאין במקום אף אחד מעובדי ה', אלא רק עובדי הבעל.",
+    "עובדי הבעל הגיעו להקריב זבחים ועולות. יהוא הציב בחוץ שמונים איש וציווה עליהם להרוג כל מי שיימלט, תוך איום שמי שיניח לאחד להימלט ימות במקומו.",
+    "לאחר סיום הקרבת העולה ציווה יהוא על הרצים, השלישים והמפקדים להכות את כל הנוכחים. הם הרגו אותם בחרב והשליכו את הגופות עד עיר בית הבעל.",
+    "אנשי יהוא הוציאו את המצבות של בית הבעל ושרפו אותן.",
+    "הם ניתצו את מצבת הבעל ואת בית הבעל, והפכו את המקום למחראות, כלומר לשירותים ציבוריים, שנשארו כך עד זמן כתיבת הדברים.",
+    "כך השמיד יהוא את עבודת הבעל מישראל, לאחר שכינס יחד את הכוהנים ואת כל המאמינים והקשורים לפולחן.",
+    "עם זאת, יהוא לא חדל מחטאי ירבעם בן נבט ולא הסיר את עגלי הזהב שבבית־אל ובדן. הוא לא חזר לעבוד את ה' בבית המקדש בירושלים.",
+    "ה' אמר ליהוא שבגלל שהיטיב לעשות את הישר בעיניו והשמיד את בית אחאב כפי שנדרש, בניו עד הדור הרביעי יישבו על כיסא ישראל.",
+    "למרות זאת, יהוא לא שמר בכל לבבו את תורת ה' ולא סר מחטאות ירבעם, שהחטיא את ישראל.",
+    "באותם ימים החל ה' לקצץ בשטחי ישראל, וחזאל מלך ארם הכה את ישראל בכל גבולה הצפוני.",
+    "חזאל השתלט על השטחים שממזרח לירדן: ארץ הגלעד, נחלות גד, ראובן ומנשה, מאֲרֹעֵר שעל נחל ארנון ועד הגלעד והבשן.",
+    "שאר דברי יהוא, מעשיו וגבורתו, מתועדים בספר דברי הימים למלכי ישראל.",
+    "יהוא מת ונקבר בשומרון. בנו יהואחז מלך תחתיו.",
+    "יהוא מלך על ישראל עשרים ושמונה שנה, ושומרון הייתה בירתו."
+  ],
+  "ai_explanation_en": [
+    "Ahab had seventy sons in Samaria. Jehu sent letters to the officials of Jezreel, the elders, and the guardians who cared for Ahab’s household.",
+    "Jehu reminds them that they possess Ahab’s sons, chariots, horses, a fortified city, and weapons, and therefore have the power to defend themselves.",
+    "He calls on them to choose the most suitable of Ahab’s sons, place him on his father’s throne, and fight against Ahab’s dynasty.",
+    "The people connected with Ahab’s house were extremely afraid because the two kings—the king of Israel and the king of Judah—had been unable to stand against Jehu.",
+    "The palace official, the city governor, the elders, and the guardians informed Jehu that they accepted his authority and would do whatever he commanded.",
+    "Jehu demanded proof of their loyalty: they were to cut off the heads of Ahab’s seventy sons and bring them to him at Jezreel the next day.",
+    "When the letter arrived, the city’s leaders slaughtered the seventy royal sons, placed their heads in containers, and sent them to Jehu at Jezreel.",
+    "The messenger told Jehu that the heads of the royal sons had arrived. Jehu ordered them to be placed in two piles beside the city gate until morning.",
+    "In the morning Jehu presented himself to the people as one who had rebelled against his master and killed him, but he asked who had killed all these sons, implying that the people of Samaria had done it.",
+    "Jehu declared that no word of the LORD falls to the ground and that, through his actions, the prophecies against Ahab’s house spoken by the LORD through Elijah were being fulfilled.",
+    "Jehu killed at Jezreel all those still connected with Ahab’s house—officials, acquaintances, friends, and priests—and left no survivor.",
+    "Jehu continued from Jezreel toward Samaria, by a place called Beth-eked of the Shepherds, where shepherds used to gather.",
+    "There Jehu found the brothers of Ahaziah, king of Judah, who had come to visit the royal sons and the sons of Jezebel, called here the queen mother.",
+    "Jehu ordered his men to seize them alive, but they then slaughtered them at the pit of Beth-eked. Forty-two men were killed, and none survived.",
+    "Jehu met Jehonadab son of Rechab, a respected man who had no connection with Ahab’s politics. Jehu sought his moral support, brought him up into his chariot, and continued with him.",
+    "Jehu invited Jehonadab to come and see his zeal for the LORD, and Jehonadab was taken along in Jehu’s chariot.",
+    "In Samaria Jehu killed all who remained from Ahab’s house, destroying them in accordance with the word of the LORD spoken to Elijah.",
+    "Jehu gathered the people and presented himself as someone who would serve Baal even more devotedly than Ahab, preparing a plot against Baal’s worshippers.",
+    "He summoned all the prophets, worshippers, and priests of Baal to a great sacrifice and warned that anyone absent would not live. The text clarifies that Jehu acted deceitfully in order to destroy Baal’s worshippers.",
+    "Jehu proclaimed a festival in honor of Baal, and the people announced it.",
+    "Jehu sent word throughout Israel, and all the worshippers of Baal came to the temple of Baal, which became completely full.",
+    "Jehu ordered the official responsible for the garments to bring special clothing for all the worshippers of Baal, so they could wear it at the ceremony.",
+    "Jehu and Jehonadab entered the temple of Baal. Jehu ordered a search to ensure that no servant of the LORD was there, but only worshippers of Baal.",
+    "The worshippers of Baal came to offer sacrifices and burnt offerings. Jehu stationed eighty men outside and ordered them to kill anyone who escaped, warning that anyone who let a worshipper escape would die in his place.",
+    "When the offering was completed, Jehu ordered the runners, commanders, and officers to strike everyone inside. They killed them with the sword and cast the bodies out toward the city of the temple of Baal.",
+    "Jehu’s men brought out the standing stones of the temple of Baal and burned them.",
+    "They smashed the pillar of Baal and demolished the temple, turning it into a place of refuse—public latrines—which remained so afterward.",
+    "In this way Jehu destroyed Baal worship from Israel by gathering together the priests, believers, and others connected with the cult.",
+    "Nevertheless, Jehu did not turn away from the sins of Jeroboam son of Nebat or remove the golden calves at Bethel and Dan. He did not return to worshiping the LORD at the Temple in Jerusalem.",
+    "The LORD told Jehu that because he had done what was right in His eyes and had destroyed Ahab’s house as required, his sons would sit on Israel’s throne to the fourth generation.",
+    "Even so, Jehu did not carefully follow the Torah of the LORD with all his heart and did not turn away from Jeroboam’s sins, by which he had caused Israel to sin.",
+    "At that time the LORD began to cut back Israel’s territory, and Hazael king of Aram struck Israel along its northern border.",
+    "Hazael took the territories east of the Jordan: Gilead, the lands of Gad, Reuben, and Manasseh, from Aroer by the Arnon Valley to Gilead and Bashan.",
+    "The rest of Jehu’s deeds, his actions, and his military strength are recorded in the Book of the Chronicles of the Kings of Israel.",
+    "Jehu died and was buried in Samaria. His son Jehoahaz became king in his place.",
+    "Jehu ruled over Israel for twenty-eight years, and Samaria remained his capital."
+  ],
+  "perush": [
+    "לאחאב היו שבעים בנים בשומרון. יהוא שלח מכתבים אל שרי יזרעאל, אל הזקנים ואל האומנים שטיפלו בבני בית אחאב.",
+    "יהוא מזכיר להם שהם מחזיקים בבני אחאב, ברכב, בסוסים, בעיר מבצר ובנשק, ולכן יש בידיהם כוח להתגונן.",
+    "הוא קורא להם לבחור את המתאים ביותר מבני אחאב, להמליכו על כיסא אביו ולהילחם נגד בית אחאב.",
+    "אנשי בית אחאב פחדו מאוד, מפני ששני המלכים, מלך ישראל ומלך יהודה, לא הצליחו לעמוד בפני יהוא.",
+    "הממונה על בית המלך, ראש העיר, הזקנים והאומנים הודיעו ליהוא שהם מקבלים את מרותו ויעשו כל אשר יצווה עליהם.",
+    "יהוא דרש מהם להוכיח את נאמנותם בכך שיכרתו את ראשי שבעים בני אחאב ויביאו אותם אליו ליזרעאל למחרת.",
+    "כאשר הגיע המכתב, אנשי העיר שחטו את שבעים בני המלך, הניחו את ראשיהם בדודים ושלחו אותם אל יהוא ליזרעאל.",
+    "השליח הודיע ליהוא שראשי בני המלך הובאו. יהוא ציווה להניח אותם בשתי ערמות ליד פתח השער עד הבוקר.",
+    "בבוקר הציג יהוא את עצמו בפני העם כמי שמרד באדונו והרג אותו, אך שאל מי הרג את כל בני אחאב, ורמז שאנשי שומרון הם שעשו זאת.",
+    "יהוא הכריז שאין דבר מדברי ה' נופל ארצה, ושבאמצעות מעשיו מתקיימות הנבואות שנאמרו על בית אחאב ביד אליהו.",
+    "יהוא הרג ביזרעאל את כל הנשארים הקשורים לבית אחאב: גדולים, מקורבים, ידידים וכוהנים, ולא השאיר שריד.",
+    "יהוא המשיך בדרכו מיזרעאל לשומרון, דרך מקום שנקרא בית־עֵקֶד הרועים, שבו היו הרועים מתאספים.",
+    "יהוא פגש שם את אחי אחזיהו מלך יהודה, שבאו לבקר את בני המלך ואת בני איזבל, המכונה כאן הגבירה.",
+    "יהוא ציווה לתפוס אותם חיים, אך לאחר מכן שחטו אותם בבור בבית־עֵקֶד. ארבעים ושניים איש נהרגו, ולא נשאר מהם איש.",
+    "יהוא פגש את יהונדב בן רכב, אדם נשוא פנים שלא היה קשור לפוליטיקה של אחאב. יהוא ביקש את תמיכתו המוסרית, העלה אותו למרכבתו והמשיך עמו.",
+    "יהוא הזמין את יהונדב לבוא ולראות את קנאתו לה', ואנשיו הרכיבו את יהונדב במרכבתו.",
+    "בשומרון הרג יהוא את כל הנשארים לבית אחאב, עד שהשמידו, בהתאם לדבר ה' שנאמר לאליהו.",
+    "יהוא כינס את העם והציג את עצמו כמי שיעבוד את הבעל במסירות רבה יותר מאחאב, כדי להכין תחבולה נגד עובדי הבעל.",
+    "הוא קרא לכל נביאי הבעל, עובדיו וכוהניו לבוא לזבח גדול, והזהיר שכל מי שייעדר לא יחיה. הכתוב מבהיר שיהוא עשה זאת במרמה כדי להשמיד את עובדי הבעל.",
+    "יהוא הכריז על עצרת לכבוד הבעל, והעם קרא והזמין את המשתתפים.",
+    "יהוא פרסם את דבר העצרת בכל ישראל, וכל עובדי הבעל הגיעו לבית הבעל, שהתמלא עד אפס מקום.",
+    "יהוא ציווה על הממונה על הבגדים להוציא לבוש מיוחד לכל עובדי הבעל, כדי שיילבשו אותו בטקס.",
+    "יהוא ויהונדב נכנסו לבית הבעל. יהוא ציווה לבדוק שאין במקום אף אחד מעובדי ה', אלא רק עובדי הבעל.",
+    "עובדי הבעל הגיעו להקריב זבחים ועולות. יהוא הציב בחוץ שמונים איש וציווה עליהם להרוג כל מי שיימלט, תוך איום שמי שיניח לאחד להימלט ימות במקומו.",
+    "לאחר סיום הקרבת העולה ציווה יהוא על הרצים, השלישים והמפקדים להכות את כל הנוכחים. הם הרגו אותם בחרב והשליכו את הגופות עד עיר בית הבעל.",
+    "אנשי יהוא הוציאו את המצבות של בית הבעל ושרפו אותן.",
+    "הם ניתצו את מצבת הבעל ואת בית הבעל, והפכו את המקום למחראות, כלומר לשירותים ציבוריים, שנשארו כך עד זמן כתיבת הדברים.",
+    "כך השמיד יהוא את עבודת הבעל מישראל, לאחר שכינס יחד את הכוהנים ואת כל המאמינים והקשורים לפולחן.",
+    "עם זאת, יהוא לא חדל מחטאי ירבעם בן נבט ולא הסיר את עגלי הזהב שבבית־אל ובדן. הוא לא חזר לעבוד את ה' בבית המקדש בירושלים.",
+    "ה' אמר ליהוא שבגלל שהיטיב לעשות את הישר בעיניו והשמיד את בית אחאב כפי שנדרש, בניו עד הדור הרביעי יישבו על כיסא ישראל.",
+    "למרות זאת, יהוא לא שמר בכל לבבו את תורת ה' ולא סר מחטאות ירבעם, שהחטיא את ישראל.",
+    "באותם ימים החל ה' לקצץ בשטחי ישראל, וחזאל מלך ארם הכה את ישראל בכל גבולה הצפוני.",
+    "חזאל השתלט על השטחים שממזרח לירדן: ארץ הגלעד, נחלות גד, ראובן ומנשה, מאֲרֹעֵר שעל נחל ארנון ועד הגלעד והבשן.",
+    "שאר דברי יהוא, מעשיו וגבורתו, מתועדים בספר דברי הימים למלכי ישראל.",
+    "יהוא מת ונקבר בשומרון. בנו יהואחז מלך תחתיו.",
+    "יהוא מלך על ישראל עשרים ושמונה שנה, ושומרון הייתה בירתו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "חיסול בית אחאב",
+      "title_en": "The Destruction of Ahab’s House",
+      "start_verse": 1,
+      "end_verse": 11,
+      "summary": "יהוא מאיים על מנהיגי שומרון, והם הורגים את שבעים בני אחאב ומוסרים לו את ראשיהם. לאחר מכן יהוא הורג את שאר הקשורים לבית אחאב ומציג את המעשים כהתגשמות דבר ה'.",
+      "summary_en": "Jehu challenges the leaders of Samaria, who kill Ahab’s seventy sons and send him their heads. Jehu then destroys the remaining people connected with Ahab’s house and presents the events as the fulfillment of the LORD’s word.",
+      "image_prompt": "A dramatic ancient Israelite city gate at dawn, two orderly piles of covered containers near the gate, Jehu standing before the people, solemn biblical historical atmosphere, no gore, cinematic realism"
+    },
+    {
+      "title": "הרג קרובי אחזיהו ופגישת יהונדב",
+      "title_en": "The Killing of Ahaziah’s Relatives and the Meeting with Jehonadab",
+      "start_verse": 12,
+      "end_verse": 17,
+      "summary": "בדרכו לשומרון יהוא פוגש את אחי אחזיהו והורג אותם, ולאחר מכן מצרף אליו את יהונדב בן רכב. בשומרון הוא משלים את השמדת הנשארים לבית אחאב.",
+      "summary_en": "On the way to Samaria, Jehu encounters and kills Ahaziah’s brothers, then joins forces with Jehonadab son of Rechab. In Samaria he completes the destruction of those remaining from Ahab’s house.",
+      "image_prompt": "Jehu’s chariot meeting Jehonadab on an ancient road near a shepherds’ gathering place, with Samaria in the distant background, restrained biblical historical style"
+    },
+    {
+      "title": "תחבולת יהוא נגד עובדי הבעל",
+      "title_en": "Jehu’s Deception Against Baal Worshippers",
+      "start_verse": 18,
+      "end_verse": 24,
+      "summary": "יהוא מכריז שיעבוד את הבעל יותר מאחאב ומכנס את כל עובדיו לעצרת גדולה. הוא דואג שכולם ילבשו לבוש מיוחד, בודק שאין במקום עובדי ה', ומציב שמונים איש סביב הכינוס.",
+      "summary_en": "Jehu claims that he will serve Baal more devotedly than Ahab and gathers all Baal worshippers for a great assembly. He gives them special garments, ensures that no servant of the LORD is present, and stations eighty guards outside.",
+      "image_prompt": "A crowded ancient temple of Baal prepared for a formal ceremony, worshippers wearing matching ceremonial garments, Jehu and Jehonadab inspecting the entrance, no violence, cinematic biblical realism"
+    },
+    {
+      "title": "השמדת בית הבעל",
+      "title_en": "The Destruction of the Temple of Baal",
+      "start_verse": 25,
+      "end_verse": 28,
+      "summary": "לאחר הקרבת העולה יהוא מצווה על אנשיו להרוג את עובדי הבעל. הם שורפים את המצבות, מנתצים את בית הבעל והופכים אותו למקום מוצאות.",
+      "summary_en": "After the burnt offering, Jehu orders his men to kill the worshippers of Baal. They burn the standing stones, demolish the temple, and turn it into a place of refuse.",
+      "image_prompt": "Ancient soldiers dismantling a pagan temple after a judgment scene, broken standing stones being burned, Jehu overseeing the destruction, solemn non-graphic biblical historical illustration"
+    },
+    {
+      "title": "הישגי יהוא ומגבלותיו",
+      "title_en": "Jehu’s Achievement and His Limitation",
+      "start_verse": 29,
+      "end_verse": 33,
+      "summary": "יהוא משמיד את עבודת הבעל, ועל כך הוא זוכה להבטחת שושלת עד הדור הרביעי. אולם הוא ממשיך בחטאות ירבעם ובעגלי הזהב, ובעקבות זאת ישראל מאבדת שטחים לחזאל מלך ארם.",
+      "summary_en": "Jehu destroys Baal worship and is promised a dynasty lasting to the fourth generation. Yet he continues Jeroboam’s sins and the worship of the golden calves, and Israel consequently loses territory to Hazael of Aram.",
+      "image_prompt": "A split symbolic biblical scene: Jehu’s destroyed Baal shrine on one side and golden calves at Bethel and Dan on the other, distant Aramean pressure beyond the Jordan, historically restrained"
+    },
+    {
+      "title": "סיום מלכות יהוא",
+      "title_en": "The End of Jehu’s Reign",
+      "start_verse": 34,
+      "end_verse": 36,
+      "summary": "הכתוב מפנה את הקורא לספר דברי הימים למלכי ישראל לתיאור נוסף של יהוא. יהוא נקבר בשומרון, בנו יהואחז ירש אותו, והוא מלך עשרים ושמונה שנה.",
+      "summary_en": "The text refers the reader to the chronicles of the kings of Israel for further details about Jehu. Jehu is buried in Samaria, his son Jehoahaz succeeds him, and Jehu’s reign lasted twenty-eight years.",
+      "image_prompt": "A solemn burial procession in Samaria followed by a royal succession scene, Jehoahaz receiving the throne, ancient Israelite setting, respectful biblical historical realism"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 13.98,
+      "usfm": "2KI.10.1"
+    },
+    {
+      "start": 13.98,
+      "end": 23.36,
+      "usfm": "2KI.10.2"
+    },
+    {
+      "start": 23.36,
+      "end": 32.54,
+      "usfm": "2KI.10.3"
+    },
+    {
+      "start": 32.54,
+      "end": 39.54,
+      "usfm": "2KI.10.4"
+    },
+    {
+      "start": 39.54,
+      "end": 56.18,
+      "usfm": "2KI.10.5"
+    },
+    {
+      "start": 56.18,
+      "end": 77.32,
+      "usfm": "2KI.10.6"
+    },
+    {
+      "start": 77.32,
+      "end": 89.42,
+      "usfm": "2KI.10.7"
+    },
+    {
+      "start": 89.42,
+      "end": 102.36,
+      "usfm": "2KI.10.8"
+    },
+    {
+      "start": 102.36,
+      "end": 116.62,
+      "usfm": "2KI.10.9"
+    },
+    {
+      "start": 116.62,
+      "end": 129.16,
+      "usfm": "2KI.10.10"
+    },
+    {
+      "start": 129.16,
+      "end": 141.28,
+      "usfm": "2KI.10.11"
+    },
+    {
+      "start": 141.28,
+      "end": 148.02,
+      "usfm": "2KI.10.12"
+    },
+    {
+      "start": 148.02,
+      "end": 160.88,
+      "usfm": "2KI.10.13"
+    },
+    {
+      "start": 160.88,
+      "end": 170.94,
+      "usfm": "2KI.10.14"
+    },
+    {
+      "start": 170.94,
+      "end": 195.44,
+      "usfm": "2KI.10.15"
+    },
+    {
+      "start": 195.44,
+      "end": 203.1,
+      "usfm": "2KI.10.16"
+    },
+    {
+      "start": 203.1,
+      "end": 213.88,
+      "usfm": "2KI.10.17"
+    },
+    {
+      "start": 213.88,
+      "end": 223.94,
+      "usfm": "2KI.10.18"
+    },
+    {
+      "start": 223.94,
+      "end": 243.96,
+      "usfm": "2KI.10.19"
+    },
+    {
+      "start": 243.96,
+      "end": 250.34,
+      "usfm": "2KI.10.20"
+    },
+    {
+      "start": 250.34,
+      "end": 264.0,
+      "usfm": "2KI.10.21"
+    },
+    {
+      "start": 264.0,
+      "end": 273.34,
+      "usfm": "2KI.10.22"
+    },
+    {
+      "start": 273.34,
+      "end": 289.04,
+      "usfm": "2KI.10.23"
+    },
+    {
+      "start": 289.04,
+      "end": 304.56,
+      "usfm": "2KI.10.24"
+    },
+    {
+      "start": 304.56,
+      "end": 322.88,
+      "usfm": "2KI.10.25"
+    },
+    {
+      "start": 322.88,
+      "end": 326.94,
+      "usfm": "2KI.10.26"
+    },
+    {
+      "start": 326.94,
+      "end": 335.56,
+      "usfm": "2KI.10.27"
+    },
+    {
+      "start": 335.56,
+      "end": 339.66,
+      "usfm": "2KI.10.28"
+    },
+    {
+      "start": 339.66,
+      "end": 353.66,
+      "usfm": "2KI.10.29"
+    },
+    {
+      "start": 353.66,
+      "end": 369.84,
+      "usfm": "2KI.10.30"
+    },
+    {
+      "start": 369.84,
+      "end": 380.7,
+      "usfm": "2KI.10.31"
+    },
+    {
+      "start": 380.7,
+      "end": 388.52,
+      "usfm": "2KI.10.32"
+    },
+    {
+      "start": 388.52,
+      "end": 399.6,
+      "usfm": "2KI.10.33"
+    },
+    {
+      "start": 399.6,
+      "end": 408.42,
+      "usfm": "2KI.10.34"
+    },
+    {
+      "start": 408.42,
+      "end": 416.04,
+      "usfm": "2KI.10.35"
+    },
+    {
+      "start": 416.04,
+      "end": 432.08,
+      "usfm": "2KI.10.36"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    13.98,
+    23.36,
+    32.54,
+    39.54,
+    56.18,
+    77.32,
+    89.42,
+    102.36,
+    116.62,
+    129.16,
+    141.28,
+    148.02,
+    160.88,
+    170.94,
+    195.44,
+    203.1,
+    213.88,
+    223.94,
+    243.96,
+    250.34,
+    264.0,
+    273.34,
+    289.04,
+    304.56,
+    322.88,
+    326.94,
+    335.56,
+    339.66,
+    353.66,
+    369.84,
+    380.7,
+    388.52,
+    399.6,
+    408.42,
+    416.04,
+    432.08
+  ],
+  "times_en_usfm": [
+    "2KI.10.1",
+    "2KI.10.2",
+    "2KI.10.3",
+    "2KI.10.4",
+    "2KI.10.5",
+    "2KI.10.6",
+    "2KI.10.7",
+    "2KI.10.8",
+    "2KI.10.9",
+    "2KI.10.10",
+    "2KI.10.11",
+    "2KI.10.12",
+    "2KI.10.13",
+    "2KI.10.14",
+    "2KI.10.15",
+    "2KI.10.16",
+    "2KI.10.17",
+    "2KI.10.18",
+    "2KI.10.19",
+    "2KI.10.20",
+    "2KI.10.21",
+    "2KI.10.22",
+    "2KI.10.23",
+    "2KI.10.24",
+    "2KI.10.25",
+    "2KI.10.26",
+    "2KI.10.27",
+    "2KI.10.28",
+    "2KI.10.29",
+    "2KI.10.30",
+    "2KI.10.31",
+    "2KI.10.32",
+    "2KI.10.33",
+    "2KI.10.34",
+    "2KI.10.35",
+    "2KI.10.36"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? לאחאב היו שבעים בנים בשומרון, והם היו נתונים בידי שרי העיר והאומנים שגידלו אותם.",
+      "text_he": "הידעת? לאחאב היו שבעים בנים בשומרון, והם היו נתונים בידי שרי העיר והאומנים שגידלו אותם.",
+      "text_en": "Did you know? Ahab had seventy sons in Samaria, and they were in the care of the city officials and the tutors who raised them."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? שבעים בני אחאב נהרגו בידי אנשי העיר, וראשיהם נשלחו אל יהוא ביזרעאל.",
+      "text_he": "הידעת? שבעים בני אחאב נהרגו בידי אנשי העיר, וראשיהם נשלחו אל יהוא ביזרעאל.",
+      "text_en": "Did you know? Ahab’s seventy sons were killed by the people of the city, and their heads were sent to Jehu in Jezreel."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? יהוא הציג את חיסול בית אחאב כהתגשמות דבר ה' שנמסר בעבר ביד אליהו הנביא.",
+      "text_he": "הידעת? יהוא הציג את חיסול בית אחאב כהתגשמות דבר ה' שנמסר בעבר ביד אליהו הנביא.",
+      "text_en": "Did you know? Jehu presented the destruction of Ahab’s family as the fulfillment of the word of the LORD previously spoken through the prophet Elijah."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? בדרכו לשומרון פגש יהוא את אחי אחזיהו מלך יהודה, והכתוב מציין שמספרם היה ארבעים ושניים איש.",
+      "text_he": "הידעת? בדרכו לשומרון פגש יהוא את אחי אחזיהו מלך יהודה, והכתוב מציין שמספרם היה ארבעים ושניים איש.",
+      "text_en": "Did you know? On his way to Samaria, Jehu met the brothers of Ahaziah king of Judah, and the text states that there were forty-two of them."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? יהוא צירף אליו את יהונדב בן רכב לאחר ששאל אותו אם לבבו ישר עם לבבו, והשניים נסעו יחד במרכבה.",
+      "text_he": "הידעת? יהוא צירף אליו את יהונדב בן רכב לאחר ששאל אותו אם לבבו ישר עם לבבו, והשניים נסעו יחד במרכבה.",
+      "text_en": "Did you know? Jehu took Jehonadab son of Rechab with him after asking whether his heart was as fully committed to Jehu as Jehu’s was to him, and the two rode together in the chariot."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? יהוא הכריז שהוא מתכוון לעבוד את הבעל יותר מאחאב, אך הכתוב מדגיש שהוא עשה זאת בעורמה כדי להשמיד את עובדי הבעל.",
+      "text_he": "הידעת? יהוא הכריז שהוא מתכוון לעבוד את הבעל יותר מאחאב, אך הכתוב מדגיש שהוא עשה זאת בעורמה כדי להשמיד את עובדי הבעל.",
+      "text_en": "Did you know? Jehu announced that he intended to worship Baal more than Ahab had, but the text emphasizes that he said this deceptively in order to destroy Baal’s worshipers."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? לפני הפגיעה בעובדי הבעל בדק יהוא, יחד עם יהונדב בן רכב, שלא נמצאים במקדש עובדי ה' אלא עובדי הבעל בלבד.",
+      "text_he": "הידעת? לפני הפגיעה בעובדי הבעל בדק יהוא, יחד עם יהונדב בן רכב, שלא נמצאים במקדש עובדי ה' אלא עובדי הבעל בלבד.",
+      "text_en": "Did you know? Before striking down the worshipers of Baal, Jehu and Jehonadab son of Rechab made sure that no worshipers of the LORD were in the temple—only worshipers of Baal."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? יהוא הציב שמונים איש מחוץ למקדש הבעל, והזהיר שמי שיאפשר לעובד בעל להימלט ישלם בחייו.",
+      "text_he": "הידעת? יהוא הציב שמונים איש מחוץ למקדש הבעל, והזהיר שמי שיאפשר לעובד בעל להימלט ישלם בחייו.",
+      "text_en": "Did you know? Jehu stationed eighty men outside the temple of Baal and warned that anyone who allowed a worshiper of Baal to escape would pay with his life."
+    },
+    {
+      "verse": 30,
+      "text": "הידעת? אף שיהוא לא הלך בכל לבבו בתורת ה', ה' שיבח אותו על השמדת בית אחאב והבטיח לו שבניו ישבו על כס מלכות ישראל עד הדור הרביעי.",
+      "text_he": "הידעת? אף שיהוא לא הלך בכל לבבו בתורת ה', ה' שיבח אותו על השמדת בית אחאב והבטיח לו שבניו ישבו על כס מלכות ישראל עד הדור הרביעי.",
+      "text_en": "Did you know? Although Jehu did not wholeheartedly follow the law of the LORD, the LORD commended him for destroying Ahab’s family and promised that his descendants would sit on Israel’s throne to the fourth generation."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? לצד השמדת עבודת הבעל, יהוא המשיך בחטאות ירבעם ובעבודת עגלי הזהב שבבית אל ובדן; בתקופתו החל חזאל מלך ארם לפגוע בגבולות ישראל.",
+      "text_he": "הידעת? לצד השמדת עבודת הבעל, יהוא המשיך בחטאות ירבעם ובעבודת עגלי הזהב שבבית אל ובדן; בתקופתו החל חזאל מלך ארם לפגוע בגבולות ישראל.",
+      "text_en": "Did you know? Alongside the destruction of Baal worship, Jehu continued in the sins of Jeroboam and the worship of the golden calves at Bethel and Dan; during his reign, Hazael king of Aram began attacking Israel’s borders."
+    }
+  ]
+}

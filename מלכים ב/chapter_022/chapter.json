@@ -1,0 +1,416 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 22,
+  "title": "מלכים ב פרק 22",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b22.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b22.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/22-a8147f386389a198f5c01ecf70716208.mp3?version_id=1",
+  "verses": [
+    "בֶּן-שְׁמֹנֶה שָׁנָה, יֹאשִׁיָּהוּ בְמָלְכוֹ, וּשְׁלֹשִׁים וְאַחַת שָׁנָה, מָלַךְ בִּירוּשָׁלִָם; וְשֵׁם אִמּוֹ, יְדִידָה בַת-עֲדָיָה מִבָּצְקַת.",
+    "וַיַּעַשׂ הַיָּשָׁר, בְּעֵינֵי יְהוָה; וַיֵּלֶךְ, בְּכָל-דֶּרֶךְ דָּוִד אָבִיו, וְלֹא-סָר, יָמִין וּשְׂמֹאול.",
+    "וַיְהִי, בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה, לַמֶּלֶךְ, יֹאשִׁיָּהוּ; שָׁלַח הַמֶּלֶךְ אֶת-שָׁפָן בֶּן-אֲצַלְיָהוּ בֶן-מְשֻׁלָּם, הַסֹּפֵר, בֵּית יְהוָה, לֵאמֹר.",
+    "עֲלֵה, אֶל-חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל, וְיַתֵּם אֶת-הַכֶּסֶף, הַמּוּבָא בֵּית יְהוָה--אֲשֶׁר אָסְפוּ שֹׁמְרֵי הַסַּף, מֵאֵת הָעָם.",
+    "ויתנה וְיִתְּנוּהוּ , עַל-יַד עֹשֵׂי הַמְּלָאכָה, הַמֻּפְקָדִים, בבית בֵּית יְהוָה; וְיִתְּנוּ אֹתוֹ, לְעֹשֵׂי הַמְּלָאכָה אֲשֶׁר בְּבֵית יְהוָה, לְחַזֵּק, בֶּדֶק הַבָּיִת.",
+    "לֶחָרָשִׁים, וְלַבֹּנִים וְלַגֹּדְרִים; וְלִקְנוֹת עֵצִים וְאַבְנֵי מַחְצֵב, לְחַזֵּק אֶת-הַבָּיִת.",
+    "אַךְ לֹא-יֵחָשֵׁב אִתָּם, הַכֶּסֶף הַנִּתָּן עַל-יָדָם: כִּי בֶאֱמוּנָה, הֵם עֹשִׂים.",
+    "וַיֹּאמֶר חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל, עַל-שָׁפָן הַסֹּפֵר, סֵפֶר הַתּוֹרָה מָצָאתִי, בְּבֵית יְהוָה; וַיִּתֵּן חִלְקִיָּה אֶת-הַסֵּפֶר אֶל-שָׁפָן, וַיִּקְרָאֵהוּ.",
+    "וַיָּבֹא שָׁפָן הַסֹּפֵר, אֶל-הַמֶּלֶךְ, וַיָּשֶׁב אֶת-הַמֶּלֶךְ, דָּבָר; וַיֹּאמֶר, הִתִּיכוּ עֲבָדֶיךָ אֶת-הַכֶּסֶף הַנִּמְצָא בַבַּיִת, וַיִּתְּנֻהוּ עַל-יַד עֹשֵׂי הַמְּלָאכָה, הַמֻּפְקָדִים בֵּית יְהוָה.",
+    "וַיַּגֵּד שָׁפָן הַסֹּפֵר, לַמֶּלֶךְ לֵאמֹר, סֵפֶר נָתַן לִי, חִלְקִיָּה הַכֹּהֵן; וַיִּקְרָאֵהוּ שָׁפָן, לִפְנֵי הַמֶּלֶךְ.",
+    "וַיְהִי כִּשְׁמֹעַ הַמֶּלֶךְ, אֶת-דִּבְרֵי סֵפֶר הַתּוֹרָה; וַיִּקְרַע, אֶת-בְּגָדָיו.",
+    "וַיְצַו הַמֶּלֶךְ אֶת-חִלְקִיָּה הַכֹּהֵן וְאֶת-אֲחִיקָם בֶּן-שָׁפָן וְאֶת-עַכְבּוֹר בֶּן-מִיכָיָה וְאֵת שָׁפָן הַסֹּפֵר, וְאֵת עֲשָׂיָה עֶבֶד-הַמֶּלֶךְ--לֵאמֹר.",
+    "לְכוּ דִרְשׁוּ אֶת-יְהוָה בַּעֲדִי וּבְעַד-הָעָם, וּבְעַד כָּל-יְהוּדָה, עַל-דִּבְרֵי הַסֵּפֶר הַנִּמְצָא, הַזֶּה: כִּי-גְדוֹלָה חֲמַת יְהוָה, אֲשֶׁר-הִיא נִצְּתָה בָנוּ, עַל אֲשֶׁר לֹא-שָׁמְעוּ אֲבֹתֵינוּ עַל-דִּבְרֵי הַסֵּפֶר הַזֶּה, לַעֲשׂוֹת כְּכָל-הַכָּתוּב עָלֵינוּ.",
+    "וַיֵּלֶךְ חִלְקִיָּהוּ הַכֹּהֵן וַאֲחִיקָם וְעַכְבּוֹר וְשָׁפָן וַעֲשָׂיָה, אֶל-חֻלְדָּה הַנְּבִיאָה אֵשֶׁת שַׁלֻּם בֶּן-תִּקְוָה בֶּן-חַרְחַס שֹׁמֵר הַבְּגָדִים, וְהִיא יֹשֶׁבֶת בִּירוּשָׁלִַם, בַּמִּשְׁנֶה; וַיְדַבְּרוּ, אֵלֶיהָ.",
+    "וַתֹּאמֶר אֲלֵיהֶם, כֹּה-אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל: אִמְרוּ לָאִישׁ, אֲשֶׁר-שָׁלַח אֶתְכֶם אֵלָי.",
+    "כֹּה אָמַר יְהוָה, הִנְנִי מֵבִיא רָעָה אֶל-הַמָּקוֹם הַזֶּה וְעַל-יֹשְׁבָיו--אֵת כָּל-דִּבְרֵי הַסֵּפֶר, אֲשֶׁר קָרָא מֶלֶךְ יְהוּדָה.",
+    "תַּחַת אֲשֶׁר עֲזָבוּנִי, וַיְקַטְּרוּ לֵאלֹהִים אֲחֵרִים, לְמַעַן הַכְעִיסֵנִי, בְּכֹל מַעֲשֵׂה יְדֵיהֶם; וְנִצְּתָה חֲמָתִי בַּמָּקוֹם הַזֶּה, וְלֹא תִכְבֶּה.",
+    "וְאֶל-מֶלֶךְ יְהוּדָה, הַשֹּׁלֵחַ אֶתְכֶם לִדְרֹשׁ אֶת-יְהוָה, כֹּה תֹאמְרוּ, אֵלָיו: כֹּה-אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל, הַדְּבָרִים אֲשֶׁר שָׁמָעְתָּ.",
+    "יַעַן רַךְ-לְבָבְךָ וַתִּכָּנַע מִפְּנֵי יְהוָה, בְּשָׁמְעֲךָ אֲשֶׁר דִּבַּרְתִּי עַל-הַמָּקוֹם הַזֶּה וְעַל-יֹשְׁבָיו לִהְיוֹת לְשַׁמָּה וְלִקְלָלָה, וַתִּקְרַע אֶת-בְּגָדֶיךָ, וַתִּבְכֶּה לְפָנָי; וְגַם אָנֹכִי שָׁמַעְתִּי, נְאֻם-יְהוָה.",
+    "לָכֵן הִנְנִי אֹסִפְךָ עַל-אֲבֹתֶיךָ, וְנֶאֱסַפְתָּ אֶל-קִבְרֹתֶיךָ בְּשָׁלוֹם, וְלֹא-תִרְאֶינָה עֵינֶיךָ, בְּכֹל הָרָעָה אֲשֶׁר-אֲנִי מֵבִיא עַל-הַמָּקוֹם הַזֶּה; וַיָּשִׁבוּ אֶת-הַמֶּלֶךְ, דָּבָר."
+  ],
+  "english": [
+    "Josiah\nwas eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name\nwas\n Jedidah, the daughter of Adaiah of Boscath.",
+    "And he did\nthat which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.",
+    "And it came to pass in the eighteenth year of king Josiah,\nthat\n the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,",
+    "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:",
+    "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which\nis in the house of the LORD, to repair the breaches of the house,",
+    "Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.",
+    "Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.",
+    "And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.",
+    "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD.",
+    "And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king.",
+    "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.",
+    "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,",
+    "Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.",
+    "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.",
+    "And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,",
+    "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof,\neven all the words of the book which the king of Judah hath read:",
+    "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.",
+    "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel,\nAs touching\n the words which thou hast heard;",
+    "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard\nthee,\n saith the LORD.",
+    "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again."
+  ],
+  "steinsaltz": [
+    "בֶּן־שְׁמֹנֶה שָׁנָה יֹאשִׁיָּהוּ בְמָלְכוֹ. אמון אביו נשא אשה כשהיה כבן חמש-עשרה, ואולי מוקדם יותר, שכן אמון מת בגיל עשרים וארבע. וּשְׁלֹשִׁים וְאַחַת שָׁנָה מָלַךְ יאשיהו בִּירוּשָׁלִָם, וְשֵׁם אִמּוֹ יְדִידָה בַת־עֲדָיָה מִבָּצְקַת.",
+    "וַיַּעַשׂ הַיָּשָׁר בְּעֵינֵי ה', וַיֵּלֶךְ בְּכָל־דֶּרֶךְ דָּוִד אָבִיו וְלֹא־סָר יָמִין וּשְׂמֹאול כמו אבי סבו, חזקיהו.",
+    "וַיְהִי בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ יֹאשִׁיָּהוּ שָׁלַח הַמֶּלֶךְ אֶת־שָׁפָן בֶּן־אֲצַלְיָהוּ בֶן־מְשֻׁלָּם הַסֹּפֵר, שהוא ובני משפחתו החזיקו בתפקיד הסופרים, מעין שרי החוץ של המדינה – אל בֵּית ה' בשליחות רשמית לֵאמֹר׃",
+    "עֲלֵה אֶל־חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל, ובקש ממנו וְיַתֵּם, שיוציא עד תום אֶת־הַכֶּסֶף הַמּוּבָא אל בֵּית ה' ונמצא באוצרותיו, אֲשֶׁר אָסְפוּ שֹׁמְרֵי הַסַּף, שקיבלו את הבאים למקדש, מֵאֵת הָעָם. גם בזמנים שישראל עבדו עבודה זרה, הם לא חדלו מלעלות גם לבית ה' ולתרום לו תרומות.",
+    "וְיִתְּנֻהֻ, ושיתנו את הכסף עַל־יַד, בשביל עֹשֵׂי הַמְּלָאכָה הַמֻּפְקָדִים על בֵּית ה', וְהממונים על כך יִתְּנוּ אֹתוֹ לְעֹשֵׂי הַמְּלָאכָה אֲשֶׁר בְּבֵית ה' כדי לְחַזֵּק בֶּדֶק הַבָּיִת. כיוון שתחזוקת הבית הוזנחה, יש להשתמש בכל הכסף הקיים לצורך שיפוצו.",
+    "הכסף יינתן לֶחָרָשִׁים וְלַבֹּנִים וְלַגֹּדְרִים, בוני הגדרות וְלִקְנוֹת עֵצִים וְאַבְנֵי מַחְצֵב לְחַזֵּק אֶת־הַבָּיִת.",
+    "אַךְ לֹא־יֵחָשֵׁב אִתָּם, לא ידרשו מהם את חשבון הַכֶּסֶף הַנִּתָּן עַל־יָדָם, כִּי בֶאֱמוּנָה הֵם עֹשִׂים. עושי המלאכה נחשבו כאנשים נאמנים. על כן יתנו להם את כל הכסף ויסמכו עליהם שישפצו ככל יכולתם.",
+    "וַיֹּאמֶר חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל עַל, אל שָׁפָן הַסֹּפֵר בזמן השיפוצים והבידוק: עותק רשמי של סֵפֶר הַתּוֹרָה מָצָאתִי בְּבֵית ה'. ושמא ספר התורה המקורי שכתב משה רבנו הוא שנשמר בבית ה'. עותק זה שימש מקור לכל ספרי התורה שבישראל. וַיִּתֵּן חִלְקִיָּה אֶת־הַסֵּפֶר אֶל־שָׁפָן וַיִּקְרָאֵהוּ. חִלְקִיָּה אֶת־הַסֵּפֶר אֶל־שָׁפָן וַיִּקְרָאֵהוּ.",
+    "וַיָּבֹא שָׁפָן הַסֹּפֵר אֶל־הַמֶּלֶךְ, וַיָּשֶׁב אֶת־הַמֶּלֶךְ דָּבָר. הוא בא לדווח כיצד התמלאו הפקודות שקיבל. וַיֹּאמֶר: הִתִּיכוּ עֲבָדֶיךָ אֶת־הַכֶּסֶף הַנִּמְצָא בַבַּיִת – מטבעות או חתיכות כסף וזהב, וַיִּתְּנֻהוּ עַל־יַד עֹשֵׂי הַמְּלָאכָה הַמֻּפְקָדִים על בֵּית ה' שישתמשו בו לצורכי המקדש.",
+    "נוסף על כך – וַיַּגֵּד שָׁפָן הַסֹּפֵר לַמֶּלֶךְ לֵאמֹר: סֵפֶר נָתַן לִי חִלְקִיָּה הַכֹּהֵן. וַיִּקְרָאֵהוּ שָׁפָן לִפְנֵי הַמֶּלֶךְ. המלך לא קרא מן הספר בעצמו, אף שמן הסתם ידע לקרוא, אולי משום שכנראה מצב הספר היה גרוע, שכן הוסתר במקום נידח באוצרות המלך.",
+    "וַיְהִי כִּשְׁמֹעַ הַמֶּלֶךְ אֶת־דִּבְרֵי סֵפֶר הַתּוֹרָה. שפן לא קרא באוזניו את ספר התורה מתחילתו, אלא אולי בחר – לאחר שהוא עצמו קרא את הספר – חלקים שנראו לו רלוונטיים יותר. יש להניח שקרא קטעים מתוך ספר דברים, ובהם הוראות ונבואות לגבי עתידם של ישראל בארצם וכן דברי תוכחה חריפים שנשמעו למלך נוקבים מאוד. לכן – וַיִּקְרַע אֶת־בְּגָדָיו.",
+    "וַיְצַו הַמֶּלֶךְ אֶת־חִלְקִיָּה הַכֹּהֵן וְאֶת־אֲחִיקָם בֶּן־שָׁפָן, אולי בנו של הסופר וְאֶת־עַכְבּוֹר בֶּן־מִיכָיָה וְאֵת שָׁפָן הַסֹּפֵר וְאֵת עֲשָׂיָה עֶבֶד־הַמֶּלֶךְ, בעל מעמד בכיר לֵאמֹר׃",
+    "לְכוּ דִרְשׁוּ אֶת־ה', חפשו דרך להתחנן, להתפלל או לברר מה עלינו לעשות בַּעֲדִי וּבְעַד־הָעָם וּבְעַד כָּל־יְהוּדָה עַל־דִּבְרֵי הַסֵּפֶר הַנִּמְצָא הַזֶּה, כִּי־גְדוֹלָה חֲמַת, כעס ה' אֲשֶׁר־הִיא נִצְּתָה, בוערת בָנוּ, עַל אֲשֶׁר לֹא־שָׁמְעוּ אֲבֹתֵינוּ עַל־דִּבְרֵי הַסֵּפֶר הַזֶּה לַעֲשׂוֹת כְּכָל־הַכָּתוּב עָלֵינוּ.",
+    "וַיֵּלֶךְ חִלְקִיָּהוּ הַכֹּהֵן וַאֲחִיקָם וְעַכְבּוֹר וְשָׁפָן וַעֲשָׂיָה אֶל־חֻלְדָּה הַנְּבִיאָה, אֵשֶׁת שַׁלֻּם בֶּן־תִּקְוָה בֶּן־חַרְחַס שֹׁמֵר הַבְּגָדִים, השר האחראי על בגדי המלוכה. הנביאה לא הייתה פרושׁה ומתבודדת, אלא אשה נשואה שישבה בתוך עמה – וְהִיא יֹשֶׁבֶת בִּירוּשָׁלִַם בַּמִּשְׁנֶה, אזור חשוב בעיר. וַיְדַבְּרוּ אֵלֶיהָ. סיפרו לה על מציאת הספר.",
+    "וַתֹּאמֶר אֲלֵיהֶם: כֹּה־אָמַר ה' אֱלֹהֵי יִשְׂרָאֵל: אִמְרוּ לָאִישׁ אֲשֶׁר־שָׁלַח אֶתְכֶם אֵלָי, למלך.",
+    "כֹּה אָמַר ה': הִנְנִי מֵבִיא רָעָה אֶל־הַמָּקוֹם הַזֶּה וְעַל־יֹשְׁבָיו, אֵת כָּל־דִּבְרֵי הַסֵּפֶר אֲשֶׁר קָרָא מֶלֶךְ יְהוּדָה,",
+    "תַּחַת אֲשֶׁר, כי עֲזָבוּנִי וַיְקַטְּרוּ, זבחו לֵאלֹהִים אֲחֵרִים לְמַעַן הַכְעִיסֵנִי בְּכֹל מַעֲשֵׂה יְדֵיהֶם, וְנִצְּתָה, בערה חֲמָתִי בַּמָּקוֹם הַזֶּה וְלֹא תִכְבֶּה.",
+    "וְאֶל־מֶלֶךְ יְהוּדָה הַשֹּׁלֵחַ אֶתְכֶם לִדְרֹשׁ אֶת־ה', כֹּה תֹאמְרוּ אֵלָיו: כֹּה־אָמַר ה' אֱלֹהֵי יִשְׂרָאֵל בנוגע לכל הַדְּבָרִים אֲשֶׁר שָׁמָעְתָּ:",
+    "יַעַן רַךְ־לְבָבְךָ וַתִּכָּנַע מִפְּנֵי ה' בְּשָׁמְעֲךָ את אֲשֶׁר דִּבַּרְתִּי עַל־הַמָּקוֹם הַזֶּה וְעַל־יֹשְׁבָיו לִהְיוֹת לְשַׁמָּה, לשממה וְלִקְלָלָה, וַתִּקְרַע אֶת־בְּגָדֶיךָ וַתִּבְכֶּה לְפָנָי – וְגַם אָנֹכִי שָׁמַעְתִּי, נְאֻם־ה',",
+    "לָכֵן אתה תמשיך לחיות – הִנְנִי אֹסִפְךָ עַל, אאסוף אותך אל אֲבֹתֶיךָ, וְנֶאֱסַפְתָּ אֶל־קִבְרֹתֶיךָ בְּשָׁלוֹם, תמות בכבוד, וְלֹא־תִרְאֶינָה עֵינֶיךָ בְּכֹל הָרָעָה אֲשֶׁר־אֲנִי מֵבִיא עַל־הַמָּקוֹם הַזֶּה. וַיָּשִׁבוּ שליחיו של יאשיהו אֶת־הַמֶּלֶךְ דָּבָר. הם מסרו לו את דברי הנביאה."
+  ],
+  "ai_explanation": [
+    "יאשיהו החל למלוך בגיל שמונה ומלך בירושלים שלושים ואחת שנה. אמו הייתה ידידה בת עדיה מבצקת; לפי שטיינזלץ, אמון אביו נשא אותה כשהיה כבן חמש־עשרה, ואולי אף מוקדם יותר.",
+    "יאשיהו עשה את הישר בעיני ה' והלך בכל דרכי דוד אביו, בלי לסטות מהן. שטיינזלץ מציין שכך נהג גם חזקיהו, אבי סבו.",
+    "בשנה השמונה־עשרה למלכות יאשיהו שלח המלך את שפן בן אצַלְיָהוּ בן משולם, שהיה סופר. משפחתו של שפן החזיקה בתפקיד הסופרים, שתוארו כאן כמעין שרי החוץ של המדינה, והוא נשלח בשליחות רשמית לבית ה'.",
+    "שפן נדרש לפנות אל חלקיהו הכוהן הגדול ולבקש שיוציא עד תום את הכסף שנאסף בבית ה' בידי שומרי הסף מן העם. גם בתקופות שבהן עבדו ישראל עבודה זרה, הם עדיין עלו לבית ה' ותרמו לו.",
+    "הכסף נמסר לממונים על עבודות בית ה', והם העבירו אותו לעושי המלאכה כדי לחזק את בדק הבית. מאחר שתחזוקת המקדש הוזנחה, נצטוו להשתמש בכל הכסף הקיים לצורך שיפוצו.",
+    "הכסף נועד לחרשים, לבונים ולגודרים, וכן לרכישת עצים ואבני מחצב לחיזוק הבית. הגודרים הם בוני הגדרות.",
+    "לא דרשו מעושי המלאכה לתת חשבון מפורט על הכסף שנמסר להם, מפני שנחשבו נאמנים. לכן אפשר היה למסור להם את כל הכסף ולסמוך עליהם שיבצעו את השיפוץ ככל יכולתם.",
+    "בזמן השיפוצים מצא חלקיהו הכוהן הגדול בבית ה' ספר תורה, אולי אפילו את הספר המקורי שכתב משה. הספר נמסר לשפן, והוא קרא בו.",
+    "שפן דיווח למלך שהכסף שנמצא בבית הותך ונמסר לעושי המלאכה הממונים על בית ה', כדי שישתמשו בו לצורכי המקדש. מדובר אולי במטבעות או בחתיכות כסף וזהב.",
+    "שפן הודיע למלך שגם חלקיהו מסר לו ספר. הוא קרא את הספר לפני המלך; לפי שטיינזלץ, ייתכן שהמלך לא קרא בעצמו מפני שמצבו של הספר היה גרוע, לאחר שהוסתר במקום נידח באוצרות המלך.",
+    "כששמע יאשיהו את דברי ספר התורה, הוא קרע את בגדיו. ייתכן ששפן קרא רק חלקים שנראו רלוונטיים, ובייחוד קטעים מספר דברים שכללו תוכחות ואזהרות על עתיד ישראל בארץ.",
+    "המלך ציווה על חלקיהו, אחיקם בן שפן, עכבור בן מיכיה, שפן הסופר ועשיה עבד המלך. אחיקם היה אולי בנו של שפן, ועשיה היה בעל מעמד בכיר.",
+    "יאשיהו ביקש מהם לדרוש את ה' בעדו, בעד העם ובעד יהודה בעקבות דברי הספר. הוא חש שהכעס האלוהי בוער בהם מפני שאבותיהם לא שמעו לדברי הספר ולא קיימו את הכתוב בו.",
+    "השליחים פנו אל חולדה הנביאה, אשת שלום בן תקוה בן חרחרס, שהיה שומר הבגדים ואחראי על בגדי המלוכה. חולדה ישבה בירושלים, באזור חשוב שנקרא במשנה, והייתה אישה נשואה שחיה בתוך עמה.",
+    "חולדה פתחה את נבואתה באמירה בשם ה' אלוהי ישראל. היא ביקשה למסור את דבריה לאיש ששלח את השליחים, כלומר למלך.",
+    "חולדה ניבאה שה' יביא רעה על המקום ועל יושביו, בהתאם לכל דברי הספר שקרא מלך יהודה. בכך היא אישרה את חומרת האזהרות שבספר.",
+    "הסיבה לעונש היא שבני ישראל עזבו את ה', הקטירו לאלוהים אחרים והכעיסו אותו במעשיהם. לכן חמתו בוערת במקום ולא תכבה.",
+    "למלך יהודה, ששלח לדרוש את ה', נמסר שהדברים שישמע הם דברי ה' אלוהי ישראל. חולדה עומדת להסביר לו את משמעות הדברים שקרא.",
+    "המלך זכה להתייחסות מיוחדת מפני שלבו היה רך והוא נכנע לפני ה'. הוא קרע את בגדיו ובכה, ולכן ה' שמע את תפילתו ואת תגובתו.",
+    "בזכות תגובתו ייאסף יאשיהו אל אבותיו וייקבר בשלום, ולא יראה את הרעה שתבוא על המקום. שליחי המלך השיבו לו את דברי חולדה ומסרו לו את נבואתה."
+  ],
+  "ai_explanation_en": [
+    "Josiah began to reign at the age of eight and ruled in Jerusalem for thirty-one years. His mother was Jedidah daughter of Adaiah of Bozkath; according to Steinsaltz, his father Amon married her when he was about fifteen, or perhaps even earlier.",
+    "Josiah did what was right in the eyes of the Lord and followed all the ways of David his ancestor without turning aside. Steinsaltz notes that Hezekiah, his great-grandfather, acted similarly.",
+    "In the eighteenth year of Josiah’s reign, the king sent Shaphan son of Azaliah son of Meshullam, who was a scribe. Shaphan’s family held the scribal office, described here as something like the state’s foreign ministers, and he was sent on an official mission to the Temple.",
+    "Shaphan was instructed to approach Hilkiah the high priest and ask him to use up the money collected in the Temple by the threshold guardians from the people. Even during periods when Israelites worshiped idols, they still went to the Temple and contributed offerings.",
+    "The money was given to the supervisors of the Temple work, who transferred it to the workers in order to repair the Temple. Since its maintenance had been neglected, all the available money was to be used for its renovation.",
+    "The money was intended for craftsmen, builders, and wall builders, as well as for purchasing wood and hewn stones to strengthen the Temple. The wall builders were those who constructed fences or walls.",
+    "The workers were not required to provide an accounting of the money given to them because they were considered trustworthy. The money could therefore be placed entirely in their hands, relying on them to carry out the repairs as well as possible.",
+    "During the renovations, Hilkiah the high priest found a Torah scroll in the Temple, perhaps even the original scroll written by Moses. He gave the scroll to Shaphan, who read it.",
+    "Shaphan reported to the king that the money found in the Temple had been melted down and given to the workers supervising the Temple, so that they could use it for the Temple’s needs. The money may have consisted of coins or pieces of silver and gold.",
+    "Shaphan also told the king that Hilkiah had given him a scroll. He read it before the king; according to Steinsaltz, the king may not have read it himself because the scroll was in poor condition after having been hidden in a remote place among the royal treasuries.",
+    "When Josiah heard the words of the Torah scroll, he tore his clothes. Shaphan may have read only passages that seemed especially relevant, particularly sections from Deuteronomy containing warnings and admonitions about Israel’s future in the land.",
+    "The king commanded Hilkiah, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah the king’s servant. Ahikam may have been Shaphan’s son, and Asaiah held a senior position.",
+    "Josiah asked them to seek the Lord on behalf of himself, the people, and Judah because of the words of the scroll. He felt that divine anger was burning against them because their ancestors had not listened to the scroll or followed what was written in it.",
+    "The messengers went to Huldah the prophetess, the wife of Shallum son of Tikvah son of Harhas, who was the keeper of the royal garments and responsible for the king’s clothing. Huldah lived in Jerusalem, in an important area called the Second Quarter, and was a married woman who lived among her people.",
+    "Huldah began her prophecy in the name of the Lord, the God of Israel. She instructed them to deliver her message to the man who had sent them—that is, to the king.",
+    "Huldah prophesied that the Lord would bring disaster upon the place and its inhabitants, in accordance with all the words of the scroll read by the king of Judah. Thus she confirmed the seriousness of the warnings in the scroll.",
+    "The punishment was caused by the people’s abandoning the Lord, burning offerings to other gods, and angering Him through their deeds. Therefore His anger was burning against that place and would not be extinguished.",
+    "The king of Judah, who had sent them to seek the Lord, was told that the words he would hear were from the Lord, the God of Israel. Huldah was about to explain the meaning of what he had read.",
+    "The king received special consideration because his heart was responsive and he humbled himself before the Lord. He tore his clothes and wept, and therefore the Lord heard his prayer and his reaction.",
+    "Because of his response, Josiah would be gathered to his ancestors and buried in peace, and he would not see the disaster that would come upon the place. The king’s messengers returned and reported Huldah’s prophecy to him."
+  ],
+  "perush": [
+    "יאשיהו החל למלוך בגיל שמונה ומלך בירושלים שלושים ואחת שנה. אמו הייתה ידידה בת עדיה מבצקת; לפי שטיינזלץ, אמון אביו נשא אותה כשהיה כבן חמש־עשרה, ואולי אף מוקדם יותר.",
+    "יאשיהו עשה את הישר בעיני ה' והלך בכל דרכי דוד אביו, בלי לסטות מהן. שטיינזלץ מציין שכך נהג גם חזקיהו, אבי סבו.",
+    "בשנה השמונה־עשרה למלכות יאשיהו שלח המלך את שפן בן אצַלְיָהוּ בן משולם, שהיה סופר. משפחתו של שפן החזיקה בתפקיד הסופרים, שתוארו כאן כמעין שרי החוץ של המדינה, והוא נשלח בשליחות רשמית לבית ה'.",
+    "שפן נדרש לפנות אל חלקיהו הכוהן הגדול ולבקש שיוציא עד תום את הכסף שנאסף בבית ה' בידי שומרי הסף מן העם. גם בתקופות שבהן עבדו ישראל עבודה זרה, הם עדיין עלו לבית ה' ותרמו לו.",
+    "הכסף נמסר לממונים על עבודות בית ה', והם העבירו אותו לעושי המלאכה כדי לחזק את בדק הבית. מאחר שתחזוקת המקדש הוזנחה, נצטוו להשתמש בכל הכסף הקיים לצורך שיפוצו.",
+    "הכסף נועד לחרשים, לבונים ולגודרים, וכן לרכישת עצים ואבני מחצב לחיזוק הבית. הגודרים הם בוני הגדרות.",
+    "לא דרשו מעושי המלאכה לתת חשבון מפורט על הכסף שנמסר להם, מפני שנחשבו נאמנים. לכן אפשר היה למסור להם את כל הכסף ולסמוך עליהם שיבצעו את השיפוץ ככל יכולתם.",
+    "בזמן השיפוצים מצא חלקיהו הכוהן הגדול בבית ה' ספר תורה, אולי אפילו את הספר המקורי שכתב משה. הספר נמסר לשפן, והוא קרא בו.",
+    "שפן דיווח למלך שהכסף שנמצא בבית הותך ונמסר לעושי המלאכה הממונים על בית ה', כדי שישתמשו בו לצורכי המקדש. מדובר אולי במטבעות או בחתיכות כסף וזהב.",
+    "שפן הודיע למלך שגם חלקיהו מסר לו ספר. הוא קרא את הספר לפני המלך; לפי שטיינזלץ, ייתכן שהמלך לא קרא בעצמו מפני שמצבו של הספר היה גרוע, לאחר שהוסתר במקום נידח באוצרות המלך.",
+    "כששמע יאשיהו את דברי ספר התורה, הוא קרע את בגדיו. ייתכן ששפן קרא רק חלקים שנראו רלוונטיים, ובייחוד קטעים מספר דברים שכללו תוכחות ואזהרות על עתיד ישראל בארץ.",
+    "המלך ציווה על חלקיהו, אחיקם בן שפן, עכבור בן מיכיה, שפן הסופר ועשיה עבד המלך. אחיקם היה אולי בנו של שפן, ועשיה היה בעל מעמד בכיר.",
+    "יאשיהו ביקש מהם לדרוש את ה' בעדו, בעד העם ובעד יהודה בעקבות דברי הספר. הוא חש שהכעס האלוהי בוער בהם מפני שאבותיהם לא שמעו לדברי הספר ולא קיימו את הכתוב בו.",
+    "השליחים פנו אל חולדה הנביאה, אשת שלום בן תקוה בן חרחרס, שהיה שומר הבגדים ואחראי על בגדי המלוכה. חולדה ישבה בירושלים, באזור חשוב שנקרא במשנה, והייתה אישה נשואה שחיה בתוך עמה.",
+    "חולדה פתחה את נבואתה באמירה בשם ה' אלוהי ישראל. היא ביקשה למסור את דבריה לאיש ששלח את השליחים, כלומר למלך.",
+    "חולדה ניבאה שה' יביא רעה על המקום ועל יושביו, בהתאם לכל דברי הספר שקרא מלך יהודה. בכך היא אישרה את חומרת האזהרות שבספר.",
+    "הסיבה לעונש היא שבני ישראל עזבו את ה', הקטירו לאלוהים אחרים והכעיסו אותו במעשיהם. לכן חמתו בוערת במקום ולא תכבה.",
+    "למלך יהודה, ששלח לדרוש את ה', נמסר שהדברים שישמע הם דברי ה' אלוהי ישראל. חולדה עומדת להסביר לו את משמעות הדברים שקרא.",
+    "המלך זכה להתייחסות מיוחדת מפני שלבו היה רך והוא נכנע לפני ה'. הוא קרע את בגדיו ובכה, ולכן ה' שמע את תפילתו ואת תגובתו.",
+    "בזכות תגובתו ייאסף יאשיהו אל אבותיו וייקבר בשלום, ולא יראה את הרעה שתבוא על המקום. שליחי המלך השיבו לו את דברי חולדה ומסרו לו את נבואתה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ראשית מלכותו של יאשיהו",
+      "title_en": "The Beginning of Josiah’s Reign",
+      "start_verse": 1,
+      "end_verse": 2,
+      "summary": "הפרק מציג את גילו של יאשיהו, את משך מלכותו ואת אמו, ומתאר את נאמנותו לה' ואת הליכתו בדרך דוד, כדוגמת חזקיהו אבי סבו.",
+      "summary_en": "The chapter introduces Josiah’s age, the length of his reign, and his mother, and describes his faithfulness to the Lord and his following of David’s way, like his great-grandfather Hezekiah.",
+      "image_prompt": "A respectful biblical-era illustration of young King Josiah in Jerusalem, standing in the royal court, with a solemn atmosphere and subtle architectural details of the city, no modern elements"
+    },
+    {
+      "title": "שיפוץ בית ה' וניהול הכספים",
+      "title_en": "Repairing the Temple and Managing Its Funds",
+      "start_verse": 3,
+      "end_verse": 7,
+      "summary": "בשנה השמונה־עשרה למלכותו יאשיהו שולח את שפן לבית ה' כדי להוציא את הכסף שנאסף, למסור אותו למפקחים ולעושי המלאכה, ולחזק את בדק הבית. האמון בעושי המלאכה מבוסס על נאמנותם.",
+      "summary_en": "In the eighteenth year of his reign, Josiah sends Shaphan to the Temple to release the collected funds, give them to the supervisors and workers, and repair the Temple. The workers are trusted because they are considered reliable.",
+      "image_prompt": "Biblical Jerusalem Temple renovation scene with scribes, priests, craftsmen, wood, hewn stones, and carefully organized funds, historically inspired biblical setting, no modern tools"
+    },
+    {
+      "title": "מציאת ספר התורה ותגובת המלך",
+      "title_en": "The Discovery of the Torah Scroll and the King’s Reaction",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "חלקיהו מוצא בבית ה' ספר תורה ומוסר אותו לשפן. שפן קורא בו לפני יאשיהו, והמלך קורע את בגדיו לאחר ששמע את דברי התוכחה והאזהרות שבספר.",
+      "summary_en": "Hilkiah finds a Torah scroll in the Temple and gives it to Shaphan. Shaphan reads it before Josiah, and the king tears his clothes after hearing the scroll’s admonitions and warnings.",
+      "image_prompt": "A priest discovering an ancient Torah scroll during Temple renovations and presenting it to a scribe, with the king listening anxiously nearby, reverent biblical atmosphere"
+    },
+    {
+      "title": "שליחת השליחים אל חולדה הנביאה",
+      "title_en": "The Messengers Sent to Huldah the Prophetess",
+      "start_verse": 12,
+      "end_verse": 14,
+      "summary": "יאשיהו שולח את הכוהן, אנשי החצר ושפן הסופר לדרוש את ה' בעקבות הספר. הם פונים אל חולדה הנביאה, אישה נשואה היושבת בירושלים באזור חשוב בעיר.",
+      "summary_en": "Because of the scroll, Josiah sends the priest, court officials, and Shaphan the scribe to seek the Lord. They approach Huldah the prophetess, a married woman living in an important area of Jerusalem.",
+      "image_prompt": "Five royal messengers approaching Huldah the prophetess in a Jerusalem residence, biblical clothing and architecture, dignified and serious mood, no modern elements"
+    },
+    {
+      "title": "נבואת הפורענות על יהודה",
+      "title_en": "The Prophecy of Disaster upon Judah",
+      "start_verse": 15,
+      "end_verse": 17,
+      "summary": "חולדה מוסרת בשם ה' שהרעה הכתובה בספר תבוא על המקום ועל יושביו. הסיבה היא עזיבת ה', עבודת אלוהים אחרים והמעשים שהכעיסו אותו.",
+      "summary_en": "In the Lord’s name, Huldah declares that the disaster described in the scroll will come upon the place and its inhabitants. The reason is their abandonment of the Lord, worship of other gods, and provoking deeds.",
+      "image_prompt": "Huldah the prophetess delivering a solemn warning to royal messengers, with a symbolic darkened view of Jerusalem in the background, biblical prophetic atmosphere"
+    },
+    {
+      "title": "הקלה בזכות תשובת יאשיהו",
+      "title_en": "Relief Because of Josiah’s Humility",
+      "start_verse": 18,
+      "end_verse": 20,
+      "summary": "חולדה מסבירה שתגובתו הרכה והנכנעת של יאשיהו, קריעת בגדיו ובכיו, נשמעו לפני ה'. לכן הוא ייאסף אל אבותיו בשלום ולא יראה את הרעה העתידה לבוא, ושליחיו מוסרים לו את דברי הנביאה.",
+      "summary_en": "Huldah explains that Josiah’s responsive and humble reaction, his tearing of his clothes and weeping, was heard by the Lord. Therefore he will be gathered to his ancestors in peace and will not see the coming disaster, and his messengers report the prophetess’s words to him.",
+      "image_prompt": "King Josiah receiving the prophetess’s message from returning messengers, showing humility and relief within a solemn royal chamber, biblical-era setting"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 15.8,
+      "usfm": "2KI.22.1"
+    },
+    {
+      "start": 15.8,
+      "end": 27.28,
+      "usfm": "2KI.22.2"
+    },
+    {
+      "start": 27.28,
+      "end": 38.12,
+      "usfm": "2KI.22.3"
+    },
+    {
+      "start": 38.12,
+      "end": 48.3,
+      "usfm": "2KI.22.4"
+    },
+    {
+      "start": 48.3,
+      "end": 60.1,
+      "usfm": "2KI.22.5"
+    },
+    {
+      "start": 60.1,
+      "end": 67.28,
+      "usfm": "2KI.22.6"
+    },
+    {
+      "start": 67.28,
+      "end": 74.18,
+      "usfm": "2KI.22.7"
+    },
+    {
+      "start": 74.18,
+      "end": 85.04,
+      "usfm": "2KI.22.8"
+    },
+    {
+      "start": 85.04,
+      "end": 98.66,
+      "usfm": "2KI.22.9"
+    },
+    {
+      "start": 98.66,
+      "end": 107.42,
+      "usfm": "2KI.22.10"
+    },
+    {
+      "start": 107.42,
+      "end": 113.4,
+      "usfm": "2KI.22.11"
+    },
+    {
+      "start": 113.4,
+      "end": 124.9,
+      "usfm": "2KI.22.12"
+    },
+    {
+      "start": 124.9,
+      "end": 144.28,
+      "usfm": "2KI.22.13"
+    },
+    {
+      "start": 144.28,
+      "end": 161.44,
+      "usfm": "2KI.22.14"
+    },
+    {
+      "start": 161.44,
+      "end": 167.22,
+      "usfm": "2KI.22.15"
+    },
+    {
+      "start": 167.22,
+      "end": 177.38,
+      "usfm": "2KI.22.16"
+    },
+    {
+      "start": 177.38,
+      "end": 191.04,
+      "usfm": "2KI.22.17"
+    },
+    {
+      "start": 191.04,
+      "end": 202.82,
+      "usfm": "2KI.22.18"
+    },
+    {
+      "start": 202.82,
+      "end": 223.16,
+      "usfm": "2KI.22.19"
+    },
+    {
+      "start": 223.16,
+      "end": 245.6,
+      "usfm": "2KI.22.20"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.8,
+    27.28,
+    38.12,
+    48.3,
+    60.1,
+    67.28,
+    74.18,
+    85.04,
+    98.66,
+    107.42,
+    113.4,
+    124.9,
+    144.28,
+    161.44,
+    167.22,
+    177.38,
+    191.04,
+    202.82,
+    223.16,
+    245.6
+  ],
+  "times_en_usfm": [
+    "2KI.22.1",
+    "2KI.22.2",
+    "2KI.22.3",
+    "2KI.22.4",
+    "2KI.22.5",
+    "2KI.22.6",
+    "2KI.22.7",
+    "2KI.22.8",
+    "2KI.22.9",
+    "2KI.22.10",
+    "2KI.22.11",
+    "2KI.22.12",
+    "2KI.22.13",
+    "2KI.22.14",
+    "2KI.22.15",
+    "2KI.22.16",
+    "2KI.22.17",
+    "2KI.22.18",
+    "2KI.22.19",
+    "2KI.22.20"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? יאשיהו החל למלוך כשהיה בן שמונה בלבד, ומלך בירושלים שלושים ואחת שנה. אמו הייתה יְדִידָה בת עֲדָיָה מבָּצְקַת.",
+      "text_he": "הידעת? יאשיהו החל למלוך כשהיה בן שמונה בלבד, ומלך בירושלים שלושים ואחת שנה. אמו הייתה יְדִידָה בת עֲדָיָה מבָּצְקַת.",
+      "text_en": "Did you know? Josiah began to reign when he was only eight years old, and he reigned in Jerusalem for thirty-one years. His mother was Jedidah, the daughter of Adaiah, from Bozkath."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? הפרק מתאר את יאשיהו כמלך שעשה את הישר בעיני ה' והלך בכל דרך דוד אביו, בלי לסטות ימין או שמאל.",
+      "text_he": "הידעת? הפרק מתאר את יאשיהו כמלך שעשה את הישר בעיני ה' והלך בכל דרך דוד אביו, בלי לסטות ימין או שמאל.",
+      "text_en": "Did you know? The chapter describes Josiah as a king who did what was right in the eyes of the LORD and followed in every way the example of his ancestor David, without turning aside to the right or left."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? בשנת שמונה־עשרה למלכותו שלח יאשיהו את שפן הסופר לבית ה', כדי לטפל בכסף שנאסף ולדאוג לתיקון המקדש.",
+      "text_he": "הידעת? בשנת שמונה־עשרה למלכותו שלח יאשיהו את שפן הסופר לבית ה', כדי לטפל בכסף שנאסף ולדאוג לתיקון המקדש.",
+      "text_en": "Did you know? In the eighteenth year of his reign, Josiah sent Shaphan the secretary to the house of the LORD to manage the money that had been collected and oversee the repair of the temple."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? הכסף שנאסף בבית ה' נמסר למפקחים על המלאכה, והם העבירו אותו לעושי המלאכה כדי לחזק את בדק הבית.",
+      "text_he": "הידעת? הכסף שנאסף בבית ה' נמסר למפקחים על המלאכה, והם העבירו אותו לעושי המלאכה כדי לחזק את בדק הבית.",
+      "text_en": "Did you know? The money collected in the house of the LORD was handed over to the supervisors of the work, who gave it to the workers to repair and strengthen the temple."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? עושי המלאכה לא נדרשו לתת דין וחשבון מפורט על הכסף שנמסר להם, מפני שהכתוב מעיד שהם פעלו באמונה.",
+      "text_he": "הידעת? עושי המלאכה לא נדרשו לתת דין וחשבון מפורט על הכסף שנמסר להם, מפני שהכתוב מעיד שהם פעלו באמונה.",
+      "text_en": "Did you know? The workers were not required to provide a detailed account of the money entrusted to them, because the Scripture testifies that they acted faithfully."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? במהלך תיקון בית ה' מצא חלקיהו הכוהן הגדול את ספר התורה, מסר אותו לשפן הסופר, ושפן קרא בו.",
+      "text_he": "הידעת? במהלך תיקון בית ה' מצא חלקיהו הכוהן הגדול את ספר התורה, מסר אותו לשפן הסופר, ושפן קרא בו.",
+      "text_en": "Did you know? During the repair of the house of the LORD, Hilkiah the high priest found the Book of the Law, gave it to Shaphan the secretary, and Shaphan read it."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? כששמע יאשיהו את דברי ספר התורה, הוא קרע את בגדיו — מעשה המבטא צער, זעזוע וכניעה לפני ה'.",
+      "text_he": "הידעת? כששמע יאשיהו את דברי ספר התורה, הוא קרע את בגדיו — מעשה המבטא צער, זעזוע וכניעה לפני ה'.",
+      "text_en": "Did you know? When Josiah heard the words of the Book of the Law, he tore his robes—an act expressing sorrow, shock, and submission before the LORD."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? בעקבות שמיעת הספר שלח יאשיהו משלחת של חמישה אנשים, ובהם חלקיהו הכוהן, שפן הסופר ואנשי חצר נוספים, כדי לדרוש את ה'.",
+      "text_he": "הידעת? בעקבות שמיעת הספר שלח יאשיהו משלחת של חמישה אנשים, ובהם חלקיהו הכוהן, שפן הסופר ואנשי חצר נוספים, כדי לדרוש את ה'.",
+      "text_en": "Did you know? After hearing the book, Josiah sent a delegation of five men, including Hilkiah the priest, Shaphan the secretary, and other court officials, to inquire of the LORD."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? המשלחת פנתה אל חולדה הנביאה, אשת שלום בן תקוה, שישבה בירושלים; בכך הפרק מציג נביאה שאליה פנו שליחי המלך בעניינה של יהודה.",
+      "text_he": "הידעת? המשלחת פנתה אל חולדה הנביאה, אשת שלום בן תקוה, שישבה בירושלים; בכך הפרק מציג נביאה שאליה פנו שליחי המלך בעניינה של יהודה.",
+      "text_en": "Did you know? The delegation went to Huldah the prophetess, the wife of Shallum son of Tikvah, who lived in Jerusalem. In this way, the chapter presents a prophetess whom the king’s messengers consulted concerning Judah."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? חולדה הסבירה שה' שמע את תגובתו של יאשיהו, משום שלבו היה רך והוא נכנע, קרע את בגדיו ובכה; לכן הוא לא יראה בחייו את הרעה העתידה לבוא על המקום.",
+      "text_he": "הידעת? חולדה הסבירה שה' שמע את תגובתו של יאשיהו, משום שלבו היה רך והוא נכנע, קרע את בגדיו ובכה; לכן הוא לא יראה בחייו את הרעה העתידה לבוא על המקום.",
+      "text_en": "Did you know? Huldah explained that the LORD had heard Josiah’s response because his heart was tender and he humbled himself, tore his robes, and wept. Therefore, he would not see in his lifetime the disaster that was to come upon the place."
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 19,
+  "title": "מלכים ב פרק 19",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b19.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b19.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/19-013031df8c3571f11dcbefb5f6b94b47.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, כִּשְׁמֹעַ הַמֶּלֶךְ חִזְקִיָּהוּ, וַיִּקְרַע, אֶת-בְּגָדָיו; וַיִּתְכַּס בַּשָּׂק, וַיָּבֹא בֵּית יְהוָה.",
+    "וַיִּשְׁלַח אֶת-אֶלְיָקִים אֲשֶׁר-עַל-הַבַּיִת וְשֶׁבְנָא הַסֹּפֵר, וְאֵת זִקְנֵי הַכֹּהֲנִים, מִתְכַּסִּים, בַּשַּׂקִּים--אֶל-יְשַׁעְיָהוּ הַנָּבִיא, בֶּן-אָמוֹץ.",
+    "וַיֹּאמְרוּ אֵלָיו, כֹּה אָמַר חִזְקִיָּהוּ, יוֹם-צָרָה וְתוֹכֵחָה וּנְאָצָה, הַיּוֹם הַזֶּה: כִּי בָאוּ בָנִים עַד-מַשְׁבֵּר, וְכֹחַ אַיִן לְלֵדָה.",
+    "אוּלַי יִשְׁמַע יְהוָה אֱלֹהֶיךָ אֵת כָּל-דִּבְרֵי רַבְשָׁקֵה, אֲשֶׁר שְׁלָחוֹ מֶלֶךְ-אַשּׁוּר אֲדֹנָיו לְחָרֵף אֱלֹהִים חַי, וְהוֹכִיחַ בַּדְּבָרִים, אֲשֶׁר שָׁמַע יְהוָה אֱלֹהֶיךָ; וְנָשָׂאתָ תְפִלָּה, בְּעַד הַשְּׁאֵרִית הַנִּמְצָאָה.",
+    "וַיָּבֹאוּ, עַבְדֵי הַמֶּלֶךְ חִזְקִיָּהוּ--אֶל-יְשַׁעְיָהוּ.",
+    "וַיֹּאמֶר לָהֶם יְשַׁעְיָהוּ, כֹּה תֹאמְרוּן אֶל-אֲדֹנֵיכֶם: כֹּה אָמַר יְהוָה, אַל-תִּירָא מִפְּנֵי הַדְּבָרִים אֲשֶׁר שָׁמַעְתָּ, אֲשֶׁר גִּדְּפוּ נַעֲרֵי מֶלֶךְ-אַשּׁוּר, אֹתִי.",
+    "הִנְנִי נֹתֵן בּוֹ רוּחַ, וְשָׁמַע שְׁמוּעָה וְשָׁב לְאַרְצוֹ; וְהִפַּלְתִּיו בַּחֶרֶב, בְּאַרְצוֹ.",
+    "וַיָּשָׁב, רַבְשָׁקֵה, וַיִּמְצָא אֶת-מֶלֶךְ אַשּׁוּר, נִלְחָם עַל-לִבְנָה: כִּי שָׁמַע, כִּי נָסַע מִלָּכִישׁ.",
+    "וַיִּשְׁמַע, אֶל-תִּרְהָקָה מֶלֶךְ-כּוּשׁ לֵאמֹר, הִנֵּה יָצָא, לְהִלָּחֵם אִתָּךְ; וַיָּשָׁב וַיִּשְׁלַח מַלְאָכִים, אֶל-חִזְקִיָּהוּ לֵאמֹר.",
+    "כֹּה תֹאמְרוּן, אֶל-חִזְקִיָּהוּ מֶלֶךְ-יְהוּדָה לֵאמֹר, אַל-יַשִּׁאֲךָ אֱלֹהֶיךָ, אֲשֶׁר אַתָּה בֹּטֵחַ בּוֹ לֵאמֹר: לֹא תִנָּתֵן יְרוּשָׁלִַם, בְּיַד מֶלֶךְ אַשּׁוּר.",
+    "הִנֵּה אַתָּה שָׁמַעְתָּ, אֵת אֲשֶׁר עָשׂוּ מַלְכֵי אַשּׁוּר לְכָל-הָאֲרָצוֹת--לְהַחֲרִימָם; וְאַתָּה, תִּנָּצֵל.",
+    "הַהִצִּילוּ אֹתָם אֱלֹהֵי הַגּוֹיִם, אֲשֶׁר שִׁחֲתוּ אֲבוֹתַי, אֶת-גּוֹזָן, וְאֶת-חָרָן; וְרֶצֶף וּבְנֵי-עֶדֶן, אֲשֶׁר בִּתְלַאשָּׂר.",
+    "אַיּוֹ מֶלֶךְ-חֲמָת וּמֶלֶךְ אַרְפָּד, וּמֶלֶךְ לָעִיר סְפַרְוָיִם, הֵנַע, וְעִוָּה.",
+    "וַיִּקַּח חִזְקִיָּהוּ אֶת-הַסְּפָרִים מִיַּד הַמַּלְאָכִים, וַיִּקְרָאֵם; וַיַּעַל בֵּית יְהוָה, וַיִּפְרְשֵׂהוּ חִזְקִיָּהוּ לִפְנֵי יְהוָה.",
+    "וַיִּתְפַּלֵּל חִזְקִיָּהוּ לִפְנֵי יְהוָה, וַיֹּאמַר, יְהוָה אֱלֹהֵי יִשְׂרָאֵל יֹשֵׁב הַכְּרֻבִים, אַתָּה-הוּא הָאֱלֹהִים לְבַדְּךָ לְכֹל מַמְלְכוֹת הָאָרֶץ; אַתָּה עָשִׂיתָ, אֶת-הַשָּׁמַיִם וְאֶת-הָאָרֶץ.",
+    "הַטֵּה יְהוָה אָזְנְךָ וּשְׁמָע, פְּקַח יְהוָה עֵינֶיךָ וּרְאֵה; וּשְׁמַע, אֵת דִּבְרֵי סַנְחֵרִיב, אֲשֶׁר שְׁלָחוֹ, לְחָרֵף אֱלֹהִים חָי.",
+    "אָמְנָם, יְהוָה: הֶחֱרִיבוּ מַלְכֵי אַשּׁוּר, אֶת-הַגּוֹיִם--וְאֶת-אַרְצָם.",
+    "וְנָתְנוּ אֶת-אֱלֹהֵיהֶם, בָּאֵשׁ: כִּי לֹא אֱלֹהִים הֵמָּה, כִּי אִם-מַעֲשֵׂה יְדֵי-אָדָם עֵץ וָאֶבֶן--וַיְאַבְּדוּם.",
+    "וְעַתָּה יְהוָה אֱלֹהֵינוּ, הוֹשִׁיעֵנוּ נָא מִיָּדוֹ; וְיֵדְעוּ כָּל-מַמְלְכוֹת הָאָרֶץ, כִּי אַתָּה יְהוָה אֱלֹהִים לְבַדֶּךָ.",
+    "וַיִּשְׁלַח יְשַׁעְיָהוּ בֶן-אָמוֹץ, אֶל-חִזְקִיָּהוּ לֵאמֹר: כֹּה-אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל, אֲשֶׁר הִתְפַּלַּלְתָּ אֵלַי אֶל-סַנְחֵרִב מֶלֶךְ-אַשּׁוּר שָׁמָעְתִּי.",
+    "זֶה הַדָּבָר, אֲשֶׁר-דִּבֶּר יְהוָה עָלָיו: בָּזָה לְךָ לָעֲגָה לְךָ, בְּתוּלַת בַּת-צִיּוֹן--אַחֲרֶיךָ רֹאשׁ הֵנִיעָה, בַּת יְרוּשָׁלִָם.",
+    "אֶת-מִי חֵרַפְתָּ וְגִדַּפְתָּ, וְעַל-מִי הֲרִימוֹתָ קּוֹל; וַתִּשָּׂא מָרוֹם עֵינֶיךָ, עַל-קְדוֹשׁ יִשְׂרָאֵל.",
+    "בְּיַד מַלְאָכֶיךָ, חֵרַפְתָּ אֲדֹנָי, וַתֹּאמֶר ברכב בְּרֹב רִכְבִּי אֲנִי עָלִיתִי מְרוֹם הָרִים, יַרְכְּתֵי לְבָנוֹן; וְאֶכְרֹת קוֹמַת אֲרָזָיו, מִבְחוֹר בְּרֹשָׁיו, וְאָבוֹאָה מְלוֹן קִצֹּה, יַעַר כַּרְמִלּוֹ.",
+    "אֲנִי קַרְתִּי, וְשָׁתִיתִי מַיִם זָרִים; וְאַחְרִב, בְּכַף-פְּעָמַי, כֹּל, יְאֹרֵי מָצוֹר.",
+    "הֲלֹא-שָׁמַעְתָּ לְמֵרָחוֹק אֹתָהּ עָשִׂיתִי, לְמִימֵי קֶדֶם וִיצַרְתִּיהָ; עַתָּה הֲבֵיאתִיהָ--וּתְהִי לַהְשׁוֹת גַּלִּים נִצִּים, עָרִים בְּצֻרוֹת.",
+    "וְיֹשְׁבֵיהֶן, קִצְרֵי-יָד--חַתּוּ, וַיֵּבֹשׁוּ; הָיוּ עֵשֶׂב שָׂדֶה, וִירַק דֶּשֶׁא, חֲצִיר גַּגּוֹת, וּשְׁדֵפָה לִפְנֵי קָמָה.",
+    "וְשִׁבְתְּךָ וְצֵאתְךָ וּבֹאֲךָ, יָדָעְתִּי; וְאֵת, הִתְרַגֶּזְךָ אֵלָי.",
+    "יַעַן הִתְרַגֶּזְךָ אֵלַי, וְשַׁאֲנַנְךָ עָלָה בְאָזְנָי--וְשַׂמְתִּי חַחִי בְּאַפֶּךָ, וּמִתְגִּי בִּשְׂפָתֶיךָ, וַהֲשִׁבֹתִיךָ, בַּדֶּרֶךְ אֲשֶׁר-בָּאתָ בָּהּ.",
+    "וְזֶה-לְּךָ הָאוֹת--אָכוֹל הַשָּׁנָה סָפִיחַ, וּבַשָּׁנָה הַשֵּׁנִית סָחִישׁ; וּבַשָּׁנָה הַשְּׁלִישִׁית, זִרְעוּ וְקִצְרוּ וְנִטְעוּ כְרָמִים--וְאִכְלוּ פִרְיָם.",
+    "וְיָסְפָה פְּלֵיטַת בֵּית-יְהוּדָה, הַנִּשְׁאָרָה--שֹׁרֶשׁ לְמָטָּה; וְעָשָׂה פְרִי, לְמָעְלָה.",
+    "כִּי מִירוּשָׁלִַם תֵּצֵא שְׁאֵרִית, וּפְלֵיטָה מֵהַר צִיּוֹן; קִנְאַת יְהוָה צְבָאוֹת , תַּעֲשֶׂה-זֹּאת.",
+    "לָכֵן, כֹּה-אָמַר יְהוָה אֶל-מֶלֶךְ אַשּׁוּר, לֹא יָבֹא אֶל-הָעִיר הַזֹּאת, וְלֹא-יוֹרֶה שָׁם חֵץ; וְלֹא-יְקַדְּמֶנָּה מָגֵן, וְלֹא-יִשְׁפֹּךְ עָלֶיהָ סֹלְלָה.",
+    "בַּדֶּרֶךְ אֲשֶׁר-יָבֹא, בָּהּ יָשׁוּב; וְאֶל-הָעִיר הַזֹּאת לֹא יָבֹא, נְאֻם-יְהוָה.",
+    "וְגַנּוֹתִי אֶל-הָעִיר הַזֹּאת, לְהוֹשִׁיעָהּ--לְמַעֲנִי, וּלְמַעַן דָּוִד עַבְדִּי.",
+    "וַיְהִי, בַּלַּיְלָה הַהוּא, וַיֵּצֵא מַלְאַךְ יְהוָה וַיַּךְ בְּמַחֲנֵה אַשּׁוּר, מֵאָה שְׁמוֹנִים וַחֲמִשָּׁה אָלֶף; וַיַּשְׁכִּימוּ בַבֹּקֶר, וְהִנֵּה כֻלָּם פְּגָרִים מֵתִים.",
+    "וַיִּסַּע וַיֵּלֶךְ, וַיָּשָׁב סַנְחֵרִיב מֶלֶךְ-אַשּׁוּר; וַיֵּשֶׁב, בְּנִינְוֵה.",
+    "וַיְהִי הוּא מִשְׁתַּחֲוֶה בֵּית נִסְרֹךְ אֱלֹהָיו, וְאַדְרַמֶּלֶךְ וְשַׂרְאֶצֶר בָּנָיו הִכֻּהוּ בַחֶרֶב, וְהֵמָּה נִמְלְטוּ, אֶרֶץ אֲרָרָט; וַיִּמְלֹךְ אֵסַר-חַדֹּן בְּנוֹ, תַּחְתָּיו."
+  ],
+  "english": [
+    "And it came to pass, when king Hezekiah heard\nit, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.",
+    "And he sent Eliakim, which\nwas over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.",
+    "And they said unto him, Thus saith Hezekiah, This day\nis a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and\nthere is not strength to bring forth.",
+    "It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up\nthy prayer for the remnant that are left.",
+    "So the servants of king Hezekiah came to Isaiah.",
+    "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.",
+    "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.",
+    "So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.",
+    "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,",
+    "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.",
+    "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
+    "Have the gods of the nations delivered them which my fathers have destroyed;\nas Gozan, and Haran, and Rezeph, and the children of Eden which\nwere in Thelasar?",
+    "Where\nis the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?",
+    "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.",
+    "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest\nbetween the cherubims, thou art the God,\neven\n thou alone, of all the kingdoms of the earth: thou hast made heaven and earth.",
+    "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
+    "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,",
+    "And have cast their gods into the fire: for they\nwere no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them.",
+    "Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou\nart\n the LORD God,\neven thou only.",
+    "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel,\nThat which thou hast prayed to me against Sennacherib king of Assyria I have heard.",
+    "This\nis the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee,\nand laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
+    "Whom hast thou reproached and blasphemed? and against whom hast thou exalted\nthy voice, and lifted up thine eyes on high?\neven\n against the Holy\nOne of Israel.",
+    "By the messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof,\nand\n the choice fir trees thereof: and I will enter into the lodgings of his borders,\nand into the forest of his Carmel.",
+    "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.",
+    "Hast thou not heard long ago\nhow I have done it,\nand\n of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities\ninto ruinous heaps.",
+    "Therefore their inhabitants were of small power, they were dismayed and confounded; they were\nas the grass of the field, and\nas\n the green herb,\nas the grass on the house tops, and\nas corn blasted before it be grown up.",
+    "But I know thy abode, and thy going out, and thy coming in, and thy rage against me.",
+    "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
+    "And this\nshall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.",
+    "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.",
+    "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD\nof hosts shall do this.",
+    "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
+    "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.",
+    "For I will defend this city, to save it, for mine own sake, and for my servant David’s sake.",
+    "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they\nwere all dead corpses.",
+    "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
+    "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead."
+  ],
+  "steinsaltz": [
+    "וַיְהִי כִּשְׁמֹעַ הַמֶּלֶךְ חִזְקִיָּהוּ את דברי ההתפארות של רבשקה, נציג המעצמה הגדולה, וַיִּקְרַע אֶת־בְּגָדָיו וַיִּתְכַּס בַּשָּׂק, לאות אבל, וַיָּבֹא אל בֵּית ה'.",
+    "וַיִּשְׁלַח אֶת־אֶלְיָקִים אֲשֶׁר־עַל־הַבַּיִת וְשֶׁבְנָא הַסֹּפֵר וְאֵת זִקְנֵי הַכֹּהֲנִים, וכולם מִתְכַּסִּים בַּשַּׂקִּים, אֶל־יְשַׁעְיָהוּ הַנָּבִיא בֶּן־אָמוֹץ, הנביא הגדול והנכבד בעיני הכול.",
+    "וַיֹּאמְרוּ אֵלָיו: כֹּה אָמַר חִזְקִיָּהוּ: \"יוֹם־צָרָה וְתוֹכֵחָה, ויכוח, או: עונש וּנְאָצָה, קללה הַיּוֹם הַזֶּה, שכן בעצם השוואת ה' אל אלילי העמים חירף השר האשורי את ה', כִּי־בָאוּ בָנִים עַד־מַשְׁבֵּר, מקום מושב האשה בעת הלידה וְכֹחַ אַיִן לְלֵדָה. מצבנו קשה כמצבה של אשה הכורעת ללדת, בניה כבר כמעט יצאו מן הרחם, אבל היא הותשה בציריה, ולא נותר בה הכוח למאמץ האחרון שיוציא אותה ממצוקתה.",
+    "אוּלַי יִשְׁמַע ה' אֱלֹהֶיךָ אֵת כָּל־דִּבְרֵי רַבְשָׁקֵה, אֲשֶׁר שְׁלָחוֹ מֶלֶךְ־אַשּׁוּר אֲדֹנָיו לְחָרֵף אֱלֹהִים חַי, וְהוֹכִיחַ ה' את כוחו ואת צדקתנו במעשה שיהיה בו אות, או: והתווכח בַּדְּבָרִים, על הדברים הללו אֲשֶׁר שָׁמַע ה' אֱלֹהֶיךָ, וְנָשָׂאתָ תְפִלָּה בְּעַד הַשְּׁאֵרִית של עם ישראל הַנִּמְצָאָה, שנותרה בירושלים לאחר שנכבשו ערי יהודה האחרות\".",
+    "וַיָּבֹאוּ עַבְדֵי הַמֶּלֶךְ חִזְקִיָּהוּ אֶל־יְשַׁעְיָהוּ.",
+    "וַיֹּאמֶר לָהֶם יְשַׁעְיָהוּ: כֹּה תֹאמְרוּן אֶל־אֲדֹנֵיכֶם המלך: כֹּה אָמַר ה': אַל־תִּירָא מִפְּנֵי הַדְּבָרִים אֲשֶׁר שָׁמַעְתָּ, אֲשֶׁר גִּדְּפוּ נַעֲרֵי מֶלֶךְ־אַשּׁוּר – ביטוי מזלזל בנציג הממלכה – אֹתִי.",
+    "הִנְנִי נֹתֵן בּוֹ רוּחַ, אעורר בו רצון, או: בהלה וְשָׁמַע שְׁמוּעָה וְשָׁב לְאַרְצוֹ. יתרה מזו – וְהִפַּלְתִּיו בַּחֶרֶב בְּאַרְצוֹ. הוא אמנם לא ייהרג כאן, אך יתנקשו בחייו בארצו שלו.",
+    "וַיָּשָׁב רַבְשָׁקֵה אל המקום שממנו יצא, סמוך ללכיש הכבושה בדרום יהודה כדי לספר על שליחותו. וַיִּמְצָא אֶת־מֶלֶךְ אַשּׁוּר נִלְחָם עַל־לִבְנָה, כִּי שָׁמַע רבשקה כִּי נָסַע סנחריב בינתיים מִלָּכִישׁ.",
+    "וַיִּשְׁמַע מלך אשור שמועה אֶל, על תִּרְהָקָה מֶלֶךְ־כּוּשׁ, המלך הכושי שמלך אז במצרים, לֵאמֹר: הִנֵּה יָצָא מלך כוש לְהִלָּחֵם אִתָּךְ. מכיוון שמאחורי מלך כוש עמדה מעצמה חזקה, החליט מלך אשור להפנות את צבאו מן המלחמה הקטנה ביהודה לעבר המערכה הגדולה במצרים. וַיָּשָׁב רבשקה וַיִּשְׁלַח מַלְאָכִים, שליחים אֶל־חִזְקִיָּהוּ לֵאמֹר באמצעות איגרות רשמיות:",
+    "כֹּה תֹאמְרוּן אֶל־חִזְקִיָּהוּ מֶלֶךְ־יְהוּדָה לֵאמֹר: נוכח השמועות שאנחנו עוזבים את ירושלים ויהודה ופונים דרומה, אתה בוודאי מקווה שהאיום האשורי יסור ממך, אך אַל־יַשִּׁאֲךָ, יסית אותך אֱלֹהֶיךָ אֲשֶׁר אַתָּה בֹּטֵחַ בּוֹ לֵאמֹר: \"לֹא תִנָּתֵן יְרוּשָׁלִַם בְּיַד מֶלֶךְ אַשּׁוּר\". אין זו אלא פעולה טקטית של שינוי בסדרי המערכה.",
+    "הִנֵּה אַתָּה שָׁמַעְתָּ אֵת אֲשֶׁר עָשׂוּ מַלְכֵי אַשּׁוּר לְכָל־הָאֲרָצוֹת לְהַחֲרִימָם, להביסם, וְאַתָּה חושב שאתה תִּנָּצֵל?!",
+    "הַהִצִּילוּ אֹתָם אֱלֹהֵי הַגּוֹיִם אֲשֶׁר שִׁחֲתוּ אֲבוֹתַי אֶת־גּוֹזָן וְאֶת־חָרָן וְרֶצֶף וּבְנֵי־עֶדֶן אֲשֶׁר בִּתְלַאשָּׂר?? אֲשֶׁר שִׁחֲתוּ אֲבוֹתַי אֶת־גּוֹזָן וְאֶת־חָרָן וְרֶצֶף וּבְנֵי־עֶדֶן אֲשֶׁר בִּתְלַאשָּׂר כל המדינות הללו קרובות יותר לאשור ונכבשו עוד בדורו של שלמנאסר ולפניו.",
+    "אַיּוֹ, איפה הוא מֶלֶךְ־חֲמָת וּמֶלֶךְ אַרְפָּד וּמֶלֶךְ לָעִיר סְפַרְוָיִם?! היכן הם מלכי הֵנַע וְעִוָּה?! כולם נכבשו, נהרגו או הוגלו. גם אתה ברשימה זו, ובמוקדם או במאוחר יהיה גורלך כגורלם.",
+    "וַיִּקַּח חִזְקִיָּהוּ אֶת־הַסְּפָרִים, האיגרות מִיַּד הַמַּלְאָכִים וַיִּקְרָאֵם, וַיַּעַל בֵּית ה', וַיִּפְרְשֵׂהוּ – את מכתבו של רבשקה חִזְקִיָּהוּ לִפְנֵי ה'.",
+    "וַיִּתְפַּלֵּל חִזְקִיָּהוּ לִפְנֵי ה', וַיֹּאמַר: ה' אֱלֹהֵי יִשְׂרָאֵל יֹשֵׁב הַכְּרֻבִים, השוכן בבית הזה, אשר סנחריב בא עליו, אַתָּה־הוּא הָאֱלֹהִים לְבַדְּךָ, היחיד לְכֹל מַמְלְכוֹת הָאָרֶץ. אַתָּה עָשִׂיתָ אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ. הרי אתה בורא הכול ומושל בכול, ויכולתך אינה מוגבלת.",
+    "הַטֵּה, ה', אָזְנְךָ וּשֲׁמָע; פְּקַח, ה', עֵינֶיךָ וּרְאֵה; וּשְׁמַע אֵת דִּבְרֵי סַנְחֵרִיב אֲשֶׁר שְׁלָחוֹ לְחָרֵף אֱלֹהִים חָי.",
+    "אָמְנָם, אכן, ה', הֶחֱרִיבוּ מַלְכֵי אַשּׁוּר אֶת־הַגּוֹיִם וְאֶת־אַרְצָם. הם הכניעו ערים בצורות יותר מירושלים והחריבו אותן.",
+    "וְנָתְנוּ אֶת־אֱלֹהֵיהֶם בָּאֵשׁ ושרפו את מקדשיהם, אבל כל זאת כִּי לֹא אֱלֹהִים הֵמָּה, כִּי אִם־מַעֲשֵׂה יְדֵי־אָדָם עֵץ וָאֶבֶן, ולכן – וַיְאַבְּדוּם.",
+    "וְעַתָּה, ה' אֱלֹהֵינוּ, הוֹשִׁיעֵנוּ נָא מִיָּדוֹ של סנחריב, וְיֵדְעוּ כָּל־מַמְלְכוֹת הָאָרֶץ כִּי אַתָּה ה' אֱלֹהִים לְבַדֶּךָ. ממלכתי אינה חזקה יותר מהממלכות שהחריבו מלכי אשור, וכבודי אינו גדול יותר מכבוד מלכיהן. אני מבקש שעתידי יהיה שונה מהמוצאות את הגויים ההם לשם כבודך.",
+    "וַיִּשְׁלַח יְשַׁעְיָהוּ בֶן־אָמוֹץ אֶל־חִזְקִיָּהוּ לֵאמֹר: כֹּה־אָמַר ה' אֱלֹהֵי יִשְׂרָאֵל: את התפילה אֲשֶׁר הִתְפַּלַּלְתָּ אֵלַי אֶל, על דבר סַנְחֵרִב מֶלֶךְ־ אַשּׁוּר שָׁמָעְתִּי.",
+    "זֶה הַדָּבָר אֲשֶׁר־דִּבֶּר ה' עָלָיו: בָּזָה לְךָ, לָעֲגָה לְךָ בְּתוּלַת בַּת־צִיּוֹן, אַחֲרֶיךָ רֹאשׁ הֵנִיעָה בַּת יְרוּשָׁלִָם. ציון וירושלים מדומות לאשה המניעה ראשה בזלזול.",
+    "אֶת־מִי חֵרַפְתָּ וְגִדַּפְתָּ, וְעַל־מִי הֲרִימוֹתָ קּוֹל, וַתִּשָּׂא מָרוֹם, אל השמים את עֵינֶיךָ בגאווה?! – עַל־קְדוֹשׁ יִשְׂרָאֵל.",
+    "בְּיַד מַלְאָכֶיךָ חֵרַפְתָּ את אֲדֹנָי, וַתֹּאמֶר: \"בְּרֹב רִכְבִּי, ברכבי ובחילי הרב אֲנִי עָלִיתִי אל מְרוֹם, גבהי הָרִים, והגעתי ליַרְכְּתֵי, קצות לְבָנוֹן. הלבנון אינו אלא ביטוי ציורי לכל הממלכות והעמים שבאזור שאותם תכנן מלך אשור להביס. וְאֶכְרֹת את קוֹמַת אֲרָזָיו, ארזיו הגבוהים של הלבנון, מִבְחוֹר בְּרֹשָׁיו, העצים העצומים והמובחרים הצומחים בו. וְאָבוֹאָה אל מְלוֹן קִצֹּה, מקום קצהו, יַעַר כַּרְמִלּוֹ, מטעיו וגניו, היער שממנו בא פריונו.",
+    "אֲנִי קַרְתִּי, חפרתי וְשָׁתִיתִי מַיִם זָרִים, את מימיהם של עמים אחרים. וְאַחֲרִב, ייבשתי בְּכַף־פְּעָמַי, ברגלי את כֹּל יְאֹרֵי מָצוֹר, כל החפירים שחפרו מסביב לחומות ומילאו אותם במים כדי לבלום את התקרבותי לערים. מכיוון שאני וצבאי מיומנים מאוד במצור ובכיבוש ערים, הצלחנו לעבור הן במקום ללא מים והן במקום שבו המים אמורים לבלום אותי, ודבר לא עמד בפני\".",
+    "אולם מדוע תתפאר בהצלחותיך – הֲלֹא־שָׁמַעְתָּ לְמֵרָחוֹק אֹתָהּ – את גזרתי שעָשִׂיתִי, לְמִימֵי קֶדֶם וִיצַרְתִּיהָ. כבר לפני זמן רב גזרתי אני שכך יקרה, ועַתָּה הֲבֵיאתִיהָ, אני הוצאתי אותה אל הפועל באמצעותך, וּתְהִי לַהְשׁוֹת, להחריב עד שיהיו גַּלִּים נִצִּים, תלים חרבים – העָרִים הבְּצֻרוֹת.",
+    "וְיֹשְׁבֵיהֶן של הערים הללו היו קִצְרֵי־יָד, לא היה בהם כוח להתנגד, חַתּוּ, נשברו וַיֵּבֹשׁוּ, ויתביישו. הָיוּ מול כוחך ועצמתך כמו עֵשֶׂב שָׂדֶה וִירַק דֶּשֶׁא המשמשים מאכל, כחֲצִיר, עשב הגדל על גַּגּוֹת. מכיוון שהגגות היו שטוחים ובנויים טיט, העשבים שצמחו בהם הם מועטים ודלים. וּשְׁדֵפָה לִפְנֵי קָמָה, כמו שיבולים שדופות שלא הספיקו להבשיל לכדי קמה. כניעתן של כל האומות לפניך אינה נובעת מגדולתך שלך. גם אתה, סנחריב, אחד השחקנים בתוכניתי הקדומה. כל צעדיך ידועים לי –",
+    "וְשִׁבְתְּךָ וְצֵאתְךָ וּבֹאֲךָ יָדָעְתִּי, וְאֵת הִתְרַגֶּזְךָ אֵלָי, דיבוריך הרוגזים עלי.",
+    "יַעַן, בשל הִתְרַגֶּזְךָ אֵלַי, ומכיוון ששַׁאֲנַנְךָ, ביטחונך העצמי עָלָה בְאָזְנָי כאילו שום אסון אינו נשקף לך. על כן – וְשַׂמְתִּי חַחִי, את טבעת הברזל שלי בְּאַפֶּךָ, ואת מִתְגִּי, יתד המתכת שהיא מחוברת לרסן בִּשְׂפָתֶיךָ. תוגבל ותובל כבעל חיים רתום, הקשור בשרשרת הנתונה בטבעת שבאפו, והוא מכוון באמצעות המתג המחבר אותו לרסן. וַהֲשִׁיבֹתִיךָ בַּדֶּרֶךְ אֲשֶׁר־בָּאתָ בָּהּ.",
+    "כעת פונים הדברים אל חזקיהו: וְזֶה־לְּךָ הָאוֹת, כך יתרחשו המאורעות עד שתצאו לרווחה שלמה – אָכוֹל הַשָּׁנָה סָפִיחַ, גידולי שדה שעלו וצמחו מעצמם, שכן בגלל המלחמה לא זרעו השנה תבואה חדשה. וּבַשָּׁנָה הַשֵּׁנִית, הבאה תאכלו סָחִישׁ, ספיחי ספיחים. וּבַשָּׁנָה הַשְּׁלִישִׁית זִרְעוּ וְקִצְרוּ וְנִטְעוּ כְרָמִים וְאִכְלוּ פִרְיָם. אחרי השנה הנוכחית, שאינה שנה קלה, ואחרי השנה הקשה יותר שתבוא בעקבותיה, בשנה השלישית יבוא הכול על מקומו בשלום.",
+    "וְיָסְפָה פְּלֵיטַת בֵּית־יְהוּדָה הַנִּשְׁאָרָה שֹׁרֶשׁ לְמָטָּה, וְעָשָׂה פְרִי לְמָעְלָה. ממלכת יהודה תוסיף ותשגשג.",
+    "כִּי מִירוּשָׁלִַם תֵּצֵא שְׁאֵרִית, וּפְלֵיטָה תצא מֵהַר צִיּוֹן. קִנְאַת ה' צְבָאוֹת תַּעֲשֶׂה־זֹּאת.",
+    "ומן החלק הפיוטי והמליצי עובר הנביא לדבר בסגנון פרוזאי יותר: לָכֵן כֹּה־אָמַר ה' אֶל־מֶלֶךְ אַשּׁוּר: לֹא יָבֹא אֶל־הָעִיר הַזֹּאת וְלֹא־יוֹרֶה, יירה שָׁם חֵץ, וְלֹא־יְקַדְּמֶנָּה מָגֵן, חייליו לא יגיעו במגניהם להבקיע את חומת העיר, וְלֹא־יִשְׁפֹּךְ עָלֶיהָ סֹלְלָה, סוללת עפר שעורמים ליד החומות כדי לאפשר חדירה אל העיר.",
+    "בַּדֶּרֶךְ אֲשֶׁר־יָבֹא – בָּהּ יָשׁוּב, וְאֶל־הָעִיר הַזֹּאת לֹא יָבֹא, נְאֻם־ה',",
+    "וְגַנּוֹתִי, אגונן אֶל, על הָעִיר הַזֹּאת לְהוֹשִׁיעָהּ לְמַעֲנִי וּלְמַעַן דָּוִד עַבְדִּי.",
+    "וַיְהִי בַּלַּיְלָה הַהוּא – שלאחר נבואת ישעיהו וַיֵּצֵא מַלְאַךְ ה' וַיַּךְ בְּמַחֲנֵה אַשּׁוּר מֵאָה שְׁמוֹנִים וַחֲמִשָּׁה אָלֶף. וַיַּשְׁכִּימוּ הנותרים בחיים בַבֹּקֶר, וְהִנֵּה כֻלָּם פְּגָרִים מֵתִים. הם ראו סביבם מתים מכל צד.",
+    "וַיִּסַּע וַיֵּלֶךְ וַיָּשָׁב סַנְחֵרִיב מֶלֶךְ־אַשּׁוּר וַיֵּשֶׁב בְּנִינְוֵה. אף שסנחריב עצמו לא הוכה במלחמה, צבאו הגדול הוכה, ועל כן חזר סנחריב למקומו.",
+    "ולאחר זמן – וַיְהִי בשעה שהוּא מִשְׁתַּחֲוֶה בתוך בֵּית נִסְרֹךְ אֱלֹהָיו, אחד מאלילי אשור, וְאַדְרַמֶּלֶךְ וְשַׂרְאֶצֶר בָּנָיו הִכֻּהוּ בַחֶרֶב. וְהֵמָּה נִמְלְטוּ לאֶרֶץ אֲרָרָט, שהייתה אז מדינה עצמאית בגבולה הצפוני של ממלכת אשור מחוץ לתחום שלטונה. וַיִּמְלֹךְ אֵסַר־חַדֹּן בְּנוֹ האחר של סנחריב תַּחְתָּיו."
+  ],
+  "ai_explanation": [
+    "חזקיהו שמע את דברי ההתפארות של רבשקה, נציג המעצמה האשורית, וקרע את בגדיו והתכסה בשק לאות אבל. לאחר מכן בא אל בית ה'.",
+    "חזקיהו שלח את אליקים, שבנא וזקני הכוהנים אל ישעיהו הנביא. כולם התכסו בשקים, ויש לעובדה זו גם ביטוי לכבודו ולמעמדו של ישעיהו בעיני העם.",
+    "חזקיהו תיאר את המצב כיום של צרה, תוכחה וקללה, מפני שהאשורים חירפו את ה'. מצבו של העם דומה לאישה הכורעת ללדת, שבניה כבר עומדים לצאת אך אין לה כוח להשלים את הלידה.",
+    "חזקיהו ביקש מישעיהו להתפלל לאחר שה' ישמע את דברי רבשקה, שחירף את האלוהים החיים. הוא מבקש תפילה בעד השארית שנותרה בירושלים לאחר כיבוש ערי יהודה.",
+    "עבדי חזקיהו הגיעו אל ישעיהו.",
+    "ישעיהו מסר להם שלא יפחדו מדברי הנאצה של נציגי מלך אשור, שאותם הוא מכנה בזלזול נערים.",
+    "ה' יעורר במלך אשור רוח או בהלה, והוא ישמע שמועה ויחזור לארצו. שם הוא ייפול בחרב, אף שלא ייהרג בירושלים.",
+    "רבשקה חזר אל המקום שממנו יצא, ומצא את מלך אשור נלחם בלבנה. הוא שמע שסנחריב עזב את לכיש.",
+    "מלך אשור שמע שמלך כוש, שמלך אז במצרים, יצא להילחם בו. לכן הפנה את צבאו אל המערכה הגדולה במצרים, ורבשקה שלח שליחים עם איגרות לחזקיהו.",
+    "באיגרות נאמר לחזקיהו שלא ייתן לאלוהיו להטעות אותו לחשוב שירושלים לא תימסר ביד מלך אשור. נסיגת האשורים היא רק שינוי טקטי בסדרי המערכה.",
+    "מלך אשור מזכיר את החורבן שהמיטו מלכי אשור על ארצות רבות, ושואל בלגלוג אם יהודה תינצל.",
+    "רבשקה מזכיר מקומות ועמים שנכבשו בידי אבותיו של מלך אשור, וטוען שאלוהי הגויים לא הצילו אותם. המדינות הללו היו קרובות לאשור ונכבשו בדורות קודמים.",
+    "רבשקה שואל היכן מלכי חמת, ארפד, ספרווים, הנה ועווה. כולם נכבשו, נהרגו או הוגלו, ולדעתו גם גורלו של חזקיהו יהיה כגורלם.",
+    "חזקיהו קיבל את האיגרות מידי השליחים, קרא אותן, עלה לבית ה' ופרש את מכתבו של רבשקה לפני ה'.",
+    "חזקיהו פנה בתפילה לה', היושב על הכרובים והשוכן בבית המקדש. הוא מכיר בכך שה' הוא האל היחיד על כל ממלכות הארץ, בורא השמים והארץ ובעל יכולת בלתי מוגבלת.",
+    "חזקיהו מבקש שה' יטה אוזן, יפקח עיניים וישמע את דברי סנחריב, שנשלחו כדי לחרף את האלוהים החיים.",
+    "חזקיהו מודה שמלכי אשור אכן החריבו עמים וארצות.",
+    "אולם אלוהי העמים לא היו אלים אמיתיים, אלא מעשי ידי אדם מעץ ומאבן, ולכן האשורים יכלו להשמידם.",
+    "חזקיהו מבקש שה' יושיע את ירושלים מיד סנחריב, כדי שכל ממלכות הארץ ידעו שה' לבדו הוא האלוהים. הוא מבקש זאת גם למען כבוד ה'.",
+    "ישעיהו הודיע לחזקיהו שה' שמע את תפילתו על סנחריב מלך אשור.",
+    "ה' מתאר את תגובתה של ירושלים לסנחריב: ציון וירושלים, המדומות לבתולה, בזות לו ולועגות לו ומניעות את ראשן אחריו בזלזול.",
+    "ה' שואל את סנחריב את מי חירף וגידף, ומבהיר שהוא הרים את קולו והתנשא דווקא נגד קדוש ישראל.",
+    "סנחריב חירף את ה' באמצעות שליחיו והתפאר בכוחו הרב. הוא תיאר את עלייתו אל הרי הלבנון, את כריתת ארזיו וברושיו ואת כניסתו אל יערותיו וגניו.",
+    "סנחריב התפאר בכך שחפר בארצות אחרות ושתה את מימיהן, וכן בכך שייבש ברגליו את תעלות המגן והחפירים שסביב ערים נצורות.",
+    "ה' משיב שסנחריב אינו רשאי להתפאר, מפני שהחורבן כבר נגזר ותוכנן מימי קדם, והוא רק הכלי שבאמצעותו הוצאה הגזרה לפועל.",
+    "יושבי הערים היו חסרי כוח ונשברו בפניו, כמו עשב שדה, דשא, עשב דל הגדל על גגות ושיבולים שנפגעו בשרב. גם סנחריב עצמו הוא חלק מתוכניתו הקדומה של ה'.",
+    "ה' יודע את כל תנועותיו של סנחריב, את יציאתו, ישיבתו ובואו, וכן את כעסו ואת דברי הרוגז שלו נגד ה'.",
+    "מפני גאוותו וביטחונו העצמי של סנחריב, ה' ישים חח באפו ומתג בשפתיו ויוביל אותו כבעל חיים רתום בדרך שממנה בא.",
+    "ה' נותן לחזקיהו אות: בשנה הראשונה יאכלו ספיח, בשנה השנייה ספיחי ספיחים, ובשנה השלישית יוכלו לזרוע, לקצור, לנטוע כרמים ולאכול את פריים. כך יתברר שהמצב יחזור בהדרגה לתקנו.",
+    "השארית של בית יהודה תוסיף להתבסס ולשגשג, כמו שורש היורד למטה ומניב פרי למעלה.",
+    "מירושלים ומן הר ציון תצא השארית והפליטה. קנאת ה' צבאות היא שתביא את הדבר הזה.",
+    "ה' מבטיח שמלך אשור לא יבוא אל ירושלים, לא יירה בה חץ, לא יתקדם אליה עם מגנים ולא ישפוך סוללה על חומותיה.",
+    "סנחריב ישוב בדרך שבה בא, ולא ייכנס אל ירושלים, כדבר ה'.",
+    "ה' יגן על ירושלים ויושיע אותה למענו ולמען דוד עבדו.",
+    "באותו לילה יצא מלאך ה' והכה במחנה אשור מאה שמונים וחמישה אלף איש. בבוקר ראו הנותרים סביבם פגרים מתים.",
+    "סנחריב נסע, חזר לאשור וישב בנינוה. אף שהוא עצמו לא הוכה, צבאו הגדול הובס ולכן שב למקומו.",
+    "לאחר זמן, בעת שסנחריב השתחווה בבית האליל נסרוך, אדְרַמֶּלֶךְ ושַׂרְאֶצֶר, בניו, הכו אותו בחרב ונמלטו לארץ אררט. אסר־חדון, בנו האחר, מלך תחתיו."
+  ],
+  "ai_explanation_en": [
+    "Hezekiah heard Rabshakeh's boastful words as a representative of the Assyrian power. He tore his clothes, put on sackcloth as a sign of mourning, and went to the Temple.",
+    "Hezekiah sent Eliakim, Shebna, and the elders of the priests to the prophet Isaiah. They all wore sackcloth, and the description also reflects Isaiah's great status and honor among the people.",
+    "Hezekiah described the day as one of distress, rebuke, and blasphemy because the Assyrians had insulted God. Judah's condition was like that of a woman in labor whose child is ready to be born but who has no strength to complete the delivery.",
+    "Hezekiah asked Isaiah to pray after God heard Rabshakeh's words, in which he insulted the living God. He requested prayer for the remnant left in Jerusalem after the conquest of Judah's cities.",
+    "Hezekiah's servants came to Isaiah.",
+    "Isaiah told them not to fear the insulting words of the representatives of the king of Assyria, whom he refers to dismissively as young men.",
+    "God would put a spirit or panic into the king of Assyria. He would hear a report and return to his land, where he would fall by the sword, though he would not be killed in Jerusalem.",
+    "Rabshakeh returned to the place from which he had come and found the king of Assyria fighting against Libnah. He had heard that Sennacherib had left Lachish.",
+    "The king of Assyria heard that Tirhakah, king of Cush, who ruled Egypt at that time, had gone out to fight him. He therefore redirected his army toward the larger campaign in Egypt, and Rabshakeh sent messengers with letters to Hezekiah.",
+    "The letters told Hezekiah not to let his God deceive him into thinking that Jerusalem would not be handed over to the king of Assyria. The Assyrian withdrawal was only a tactical change in the campaign.",
+    "The king of Assyria recalled the destruction brought by Assyria's kings upon many lands and mockingly asked whether Judah would escape.",
+    "Rabshakeh mentioned places and peoples conquered by the predecessors of the Assyrian king and claimed that their gods had not saved them. These countries were closer to Assyria and had been conquered in earlier generations.",
+    "Rabshakeh asked where the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah were. They had all been conquered, killed, or exiled, and he claimed that Hezekiah would eventually suffer the same fate.",
+    "Hezekiah took the letters from the messengers, read them, went up to the Temple, and spread Rabshakeh's letter before the Lord.",
+    "Hezekiah prayed to the Lord, who sits above the cherubim and dwells in the Temple. He acknowledged that the Lord alone is God over all the kingdoms of the earth, the Creator of heaven and earth, whose power is unlimited.",
+    "Hezekiah asked the Lord to incline His ear, open His eyes, and hear the words of Sennacherib, which had been sent to insult the living God.",
+    "Hezekiah acknowledged that the kings of Assyria had indeed destroyed peoples and their lands.",
+    "But the gods of those peoples were not real gods; they were human works of wood and stone, and therefore the Assyrians could destroy them.",
+    "Hezekiah asked the Lord to save Jerusalem from Sennacherib so that all the kingdoms of the earth would know that the Lord alone is God. He also asked this for the sake of God's honor.",
+    "Isaiah informed Hezekiah that the Lord had heard his prayer concerning Sennacherib, king of Assyria.",
+    "The Lord described Jerusalem's response to Sennacherib: Zion and Jerusalem, portrayed as a maiden, despise and mock him, shaking their heads at him in contempt.",
+    "The Lord asked Sennacherib whom he had insulted and blasphemed, making clear that he had raised his voice and exalted himself against the Holy One of Israel.",
+    "Sennacherib had insulted the Lord through his messengers and boasted of his great power. He described ascending the mountains of Lebanon, cutting down its cedars and cypresses, and entering its forests and gardens.",
+    "Sennacherib boasted that he had dug wells in other lands and drunk their water, and that he had dried up with his feet the defensive canals and ditches around fortified cities.",
+    "The Lord replied that Sennacherib had no right to boast, because the destruction had been decreed and planned from ancient times. Sennacherib was merely the instrument through which the decree was carried out.",
+    "The inhabitants of the cities were powerless and broken before him, like field grass, greenery, sparse grass growing on rooftops, and grain scorched before it could mature. Sennacherib himself was also part of God's ancient plan.",
+    "The Lord knew all of Sennacherib's movements—his sitting, going out, and coming in—as well as his anger and his angry words against God.",
+    "Because of Sennacherib's arrogance and self-confidence, the Lord would put a hook in his nose and a bridle in his lips and lead him back like a harnessed animal along the road by which he had come.",
+    "The Lord gave Hezekiah a sign: in the first year they would eat volunteer growth, in the second year the growth of the volunteer crop, and in the third year they would sow, reap, plant vineyards, and eat their fruit. This would show that conditions would gradually return to normal.",
+    "The remnant of the house of Judah would continue to take root and flourish, like a root growing downward and producing fruit above.",
+    "A remnant and survivors would emerge from Jerusalem and Mount Zion. The zeal of the Lord of Hosts would accomplish this.",
+    "The Lord promised that the king of Assyria would not enter Jerusalem, shoot an arrow there, advance against it with shields, or build a siege ramp against its walls.",
+    "Sennacherib would return by the road by which he had come and would not enter Jerusalem, according to the word of the Lord.",
+    "The Lord would protect Jerusalem and save it for His own sake and for the sake of David His servant.",
+    "That night the angel of the Lord went out and struck 185,000 men in the Assyrian camp. In the morning, the survivors saw dead bodies all around them.",
+    "Sennacherib departed, returned to Assyria, and settled in Nineveh. Although he himself was not struck in battle, his great army was defeated, so he returned home.",
+    "Later, while Sennacherib was bowing in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him with the sword and fled to the land of Ararat. Esarhaddon, another son, became king in his place."
+  ],
+  "perush": [
+    "חזקיהו שמע את דברי ההתפארות של רבשקה, נציג המעצמה האשורית, וקרע את בגדיו והתכסה בשק לאות אבל. לאחר מכן בא אל בית ה'.",
+    "חזקיהו שלח את אליקים, שבנא וזקני הכוהנים אל ישעיהו הנביא. כולם התכסו בשקים, ויש לעובדה זו גם ביטוי לכבודו ולמעמדו של ישעיהו בעיני העם.",
+    "חזקיהו תיאר את המצב כיום של צרה, תוכחה וקללה, מפני שהאשורים חירפו את ה'. מצבו של העם דומה לאישה הכורעת ללדת, שבניה כבר עומדים לצאת אך אין לה כוח להשלים את הלידה.",
+    "חזקיהו ביקש מישעיהו להתפלל לאחר שה' ישמע את דברי רבשקה, שחירף את האלוהים החיים. הוא מבקש תפילה בעד השארית שנותרה בירושלים לאחר כיבוש ערי יהודה.",
+    "עבדי חזקיהו הגיעו אל ישעיהו.",
+    "ישעיהו מסר להם שלא יפחדו מדברי הנאצה של נציגי מלך אשור, שאותם הוא מכנה בזלזול נערים.",
+    "ה' יעורר במלך אשור רוח או בהלה, והוא ישמע שמועה ויחזור לארצו. שם הוא ייפול בחרב, אף שלא ייהרג בירושלים.",
+    "רבשקה חזר אל המקום שממנו יצא, ומצא את מלך אשור נלחם בלבנה. הוא שמע שסנחריב עזב את לכיש.",
+    "מלך אשור שמע שמלך כוש, שמלך אז במצרים, יצא להילחם בו. לכן הפנה את צבאו אל המערכה הגדולה במצרים, ורבשקה שלח שליחים עם איגרות לחזקיהו.",
+    "באיגרות נאמר לחזקיהו שלא ייתן לאלוהיו להטעות אותו לחשוב שירושלים לא תימסר ביד מלך אשור. נסיגת האשורים היא רק שינוי טקטי בסדרי המערכה.",
+    "מלך אשור מזכיר את החורבן שהמיטו מלכי אשור על ארצות רבות, ושואל בלגלוג אם יהודה תינצל.",
+    "רבשקה מזכיר מקומות ועמים שנכבשו בידי אבותיו של מלך אשור, וטוען שאלוהי הגויים לא הצילו אותם. המדינות הללו היו קרובות לאשור ונכבשו בדורות קודמים.",
+    "רבשקה שואל היכן מלכי חמת, ארפד, ספרווים, הנה ועווה. כולם נכבשו, נהרגו או הוגלו, ולדעתו גם גורלו של חזקיהו יהיה כגורלם.",
+    "חזקיהו קיבל את האיגרות מידי השליחים, קרא אותן, עלה לבית ה' ופרש את מכתבו של רבשקה לפני ה'.",
+    "חזקיהו פנה בתפילה לה', היושב על הכרובים והשוכן בבית המקדש. הוא מכיר בכך שה' הוא האל היחיד על כל ממלכות הארץ, בורא השמים והארץ ובעל יכולת בלתי מוגבלת.",
+    "חזקיהו מבקש שה' יטה אוזן, יפקח עיניים וישמע את דברי סנחריב, שנשלחו כדי לחרף את האלוהים החיים.",
+    "חזקיהו מודה שמלכי אשור אכן החריבו עמים וארצות.",
+    "אולם אלוהי העמים לא היו אלים אמיתיים, אלא מעשי ידי אדם מעץ ומאבן, ולכן האשורים יכלו להשמידם.",
+    "חזקיהו מבקש שה' יושיע את ירושלים מיד סנחריב, כדי שכל ממלכות הארץ ידעו שה' לבדו הוא האלוהים. הוא מבקש זאת גם למען כבוד ה'.",
+    "ישעיהו הודיע לחזקיהו שה' שמע את תפילתו על סנחריב מלך אשור.",
+    "ה' מתאר את תגובתה של ירושלים לסנחריב: ציון וירושלים, המדומות לבתולה, בזות לו ולועגות לו ומניעות את ראשן אחריו בזלזול.",
+    "ה' שואל את סנחריב את מי חירף וגידף, ומבהיר שהוא הרים את קולו והתנשא דווקא נגד קדוש ישראל.",
+    "סנחריב חירף את ה' באמצעות שליחיו והתפאר בכוחו הרב. הוא תיאר את עלייתו אל הרי הלבנון, את כריתת ארזיו וברושיו ואת כניסתו אל יערותיו וגניו.",
+    "סנחריב התפאר בכך שחפר בארצות אחרות ושתה את מימיהן, וכן בכך שייבש ברגליו את תעלות המגן והחפירים שסביב ערים נצורות.",
+    "ה' משיב שסנחריב אינו רשאי להתפאר, מפני שהחורבן כבר נגזר ותוכנן מימי קדם, והוא רק הכלי שבאמצעותו הוצאה הגזרה לפועל.",
+    "יושבי הערים היו חסרי כוח ונשברו בפניו, כמו עשב שדה, דשא, עשב דל הגדל על גגות ושיבולים שנפגעו בשרב. גם סנחריב עצמו הוא חלק מתוכניתו הקדומה של ה'.",
+    "ה' יודע את כל תנועותיו של סנחריב, את יציאתו, ישיבתו ובואו, וכן את כעסו ואת דברי הרוגז שלו נגד ה'.",
+    "מפני גאוותו וביטחונו העצמי של סנחריב, ה' ישים חח באפו ומתג בשפתיו ויוביל אותו כבעל חיים רתום בדרך שממנה בא.",
+    "ה' נותן לחזקיהו אות: בשנה הראשונה יאכלו ספיח, בשנה השנייה ספיחי ספיחים, ובשנה השלישית יוכלו לזרוע, לקצור, לנטוע כרמים ולאכול את פריים. כך יתברר שהמצב יחזור בהדרגה לתקנו.",
+    "השארית של בית יהודה תוסיף להתבסס ולשגשג, כמו שורש היורד למטה ומניב פרי למעלה.",
+    "מירושלים ומן הר ציון תצא השארית והפליטה. קנאת ה' צבאות היא שתביא את הדבר הזה.",
+    "ה' מבטיח שמלך אשור לא יבוא אל ירושלים, לא יירה בה חץ, לא יתקדם אליה עם מגנים ולא ישפוך סוללה על חומותיה.",
+    "סנחריב ישוב בדרך שבה בא, ולא ייכנס אל ירושלים, כדבר ה'.",
+    "ה' יגן על ירושלים ויושיע אותה למענו ולמען דוד עבדו.",
+    "באותו לילה יצא מלאך ה' והכה במחנה אשור מאה שמונים וחמישה אלף איש. בבוקר ראו הנותרים סביבם פגרים מתים.",
+    "סנחריב נסע, חזר לאשור וישב בנינוה. אף שהוא עצמו לא הוכה, צבאו הגדול הובס ולכן שב למקומו.",
+    "לאחר זמן, בעת שסנחריב השתחווה בבית האליל נסרוך, אדְרַמֶּלֶךְ ושַׂרְאֶצֶר, בניו, הכו אותו בחרב ונמלטו לארץ אררט. אסר־חדון, בנו האחר, מלך תחתיו."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "חזקיהו פונה אל ישעיהו",
+      "title_en": "Hezekiah Turns to Isaiah",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "חזקיהו מגיב באבל ובתפילה לאיום האשורי, שולח שליחים אל ישעיהו, והנביא מבטיח שמלך אשור ישוב לארצו וייפגע שם.",
+      "summary_en": "Hezekiah responds to the Assyrian threat with mourning and prayer, sends messengers to Isaiah, and receives the promise that the Assyrian king will return to his land and fall there.",
+      "image_prompt": "Biblical Jerusalem: King Hezekiah in sackcloth before the Temple, royal messengers in sackcloth approaching the prophet Isaiah, solemn atmosphere, historically restrained, no modern objects"
+    },
+    {
+      "title": "איומי מלך אשור",
+      "title_en": "The Assyrian Threats",
+      "start_verse": 8,
+      "end_verse": 13,
+      "summary": "רבשקה שולח לחזקיהו איגרות חדשות, ובהן הוא מזלזל בביטחונו בה' ומזכיר את כיבושי אשור ואת גורלם של מלכים ועמים שנכבשו.",
+      "summary_en": "Rabshakeh sends Hezekiah new letters, mocking his trust in the Lord and recalling Assyria's conquests and the fate of conquered kings and peoples.",
+      "image_prompt": "Assyrian messengers presenting sealed letters before the walls of Jerusalem, distant fortified cities represented symbolically, tense ancient Near Eastern setting, no invented inscriptions"
+    },
+    {
+      "title": "תפילת חזקיהו",
+      "title_en": "Hezekiah's Prayer",
+      "start_verse": 14,
+      "end_verse": 19,
+      "summary": "חזקיהו פורש את האיגרת לפני ה' ומתפלל שה' יראה את חילול שמו ויושיע את ירושלים, כדי שכל ממלכות הארץ יכירו בייחודו.",
+      "summary_en": "Hezekiah spreads the letter before the Lord and prays that God will see the insult to His name and save Jerusalem so that all kingdoms will recognize His uniqueness.",
+      "image_prompt": "King Hezekiah kneeling in the Temple before a spread letter, cherubim imagery subtly suggested, reverent light, ancient Jerusalem, respectful biblical style"
+    },
+    {
+      "title": "תשובת ה' לסנחריב",
+      "title_en": "The Lord's Answer to Sennacherib",
+      "start_verse": 20,
+      "end_verse": 28,
+      "summary": "ישעיהו מוסר את תשובת ה': ירושלים לועגת לסנחריב, וגאוותו נחשפת. הישגיו נעשו בתוך תוכנית ה', והוא יובל בחזרה לארצו.",
+      "summary_en": "Isaiah delivers the Lord's answer: Jerusalem mocks Sennacherib, whose arrogance is exposed. His achievements occurred within God's plan, and he will be led back to his land.",
+      "image_prompt": "Prophetic vision of Jerusalem personified as a dignified maiden mocking a distant arrogant Assyrian ruler, symbolic mountains and forests, poetic biblical composition"
+    },
+    {
+      "title": "האות, ההגנה וההצלה",
+      "title_en": "The Sign, Protection, and Deliverance",
+      "start_verse": 29,
+      "end_verse": 34,
+      "summary": "ה' נותן לחזקיהו אות לשיקום הדרגתי של הארץ, מבטיח את שגשוג שארית יהודה ומצהיר שסנחריב לא ייכנס לירושלים.",
+      "summary_en": "The Lord gives Hezekiah a sign of the land's gradual recovery, promises the flourishing of Judah's remnant, and declares that Sennacherib will not enter Jerusalem.",
+      "image_prompt": "Jerusalem protected behind its walls while fields slowly recover from wartime neglect, roots and new growth symbolizing survival, calm prophetic atmosphere"
+    },
+    {
+      "title": "מפלת אשור וסוף סנחריב",
+      "title_en": "Assyria's Defeat and Sennacherib's End",
+      "start_verse": 35,
+      "end_verse": 37,
+      "summary": "מלאך ה' מכה במחנה אשור, סנחריב חוזר לנינוה, ולימים נרצח בבית האליל שלו בידי בניו; אסר־חדון מולך תחתיו.",
+      "summary_en": "The angel of the Lord strikes the Assyrian camp, Sennacherib returns to Nineveh, and later he is killed in his god's temple by his sons; Esarhaddon succeeds him.",
+      "image_prompt": "Dawn over a silent Assyrian camp with fallen soldiers, followed by a symbolic palace-temple interior and a succession scene, restrained biblical historical art"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 12.94,
+      "usfm": "2KI.19.1"
+    },
+    {
+      "start": 12.94,
+      "end": 23.28,
+      "usfm": "2KI.19.2"
+    },
+    {
+      "start": 23.28,
+      "end": 36.14,
+      "usfm": "2KI.19.3"
+    },
+    {
+      "start": 36.14,
+      "end": 51.4,
+      "usfm": "2KI.19.4"
+    },
+    {
+      "start": 51.4,
+      "end": 56.2,
+      "usfm": "2KI.19.5"
+    },
+    {
+      "start": 56.2,
+      "end": 70.58,
+      "usfm": "2KI.19.6"
+    },
+    {
+      "start": 70.58,
+      "end": 83.68,
+      "usfm": "2KI.19.7"
+    },
+    {
+      "start": 83.68,
+      "end": 93.12,
+      "usfm": "2KI.19.8"
+    },
+    {
+      "start": 93.12,
+      "end": 102.64,
+      "usfm": "2KI.19.9"
+    },
+    {
+      "start": 102.64,
+      "end": 114.42,
+      "usfm": "2KI.19.10"
+    },
+    {
+      "start": 114.42,
+      "end": 123.6,
+      "usfm": "2KI.19.11"
+    },
+    {
+      "start": 123.6,
+      "end": 134.34,
+      "usfm": "2KI.19.12"
+    },
+    {
+      "start": 134.34,
+      "end": 143.1,
+      "usfm": "2KI.19.13"
+    },
+    {
+      "start": 143.1,
+      "end": 152.12,
+      "usfm": "2KI.19.14"
+    },
+    {
+      "start": 152.12,
+      "end": 167.22,
+      "usfm": "2KI.19.15"
+    },
+    {
+      "start": 167.22,
+      "end": 180.32,
+      "usfm": "2KI.19.16"
+    },
+    {
+      "start": 180.32,
+      "end": 185.96,
+      "usfm": "2KI.19.17"
+    },
+    {
+      "start": 185.96,
+      "end": 195.96,
+      "usfm": "2KI.19.18"
+    },
+    {
+      "start": 195.96,
+      "end": 208.66,
+      "usfm": "2KI.19.19"
+    },
+    {
+      "start": 208.66,
+      "end": 220.02,
+      "usfm": "2KI.19.20"
+    },
+    {
+      "start": 220.02,
+      "end": 234.14,
+      "usfm": "2KI.19.21"
+    },
+    {
+      "start": 234.14,
+      "end": 247.04,
+      "usfm": "2KI.19.22"
+    },
+    {
+      "start": 247.04,
+      "end": 269.84,
+      "usfm": "2KI.19.23"
+    },
+    {
+      "start": 269.84,
+      "end": 279.62,
+      "usfm": "2KI.19.24"
+    },
+    {
+      "start": 279.62,
+      "end": 294.36,
+      "usfm": "2KI.19.25"
+    },
+    {
+      "start": 294.36,
+      "end": 310.72,
+      "usfm": "2KI.19.26"
+    },
+    {
+      "start": 310.72,
+      "end": 318.34,
+      "usfm": "2KI.19.27"
+    },
+    {
+      "start": 318.34,
+      "end": 334.46,
+      "usfm": "2KI.19.28"
+    },
+    {
+      "start": 334.46,
+      "end": 351.16,
+      "usfm": "2KI.19.29"
+    },
+    {
+      "start": 351.16,
+      "end": 360.52,
+      "usfm": "2KI.19.30"
+    },
+    {
+      "start": 360.52,
+      "end": 371.3,
+      "usfm": "2KI.19.31"
+    },
+    {
+      "start": 371.3,
+      "end": 387.04,
+      "usfm": "2KI.19.32"
+    },
+    {
+      "start": 387.04,
+      "end": 394.78,
+      "usfm": "2KI.19.33"
+    },
+    {
+      "start": 394.78,
+      "end": 402.68,
+      "usfm": "2KI.19.34"
+    },
+    {
+      "start": 402.68,
+      "end": 421.58,
+      "usfm": "2KI.19.35"
+    },
+    {
+      "start": 421.58,
+      "end": 430.1,
+      "usfm": "2KI.19.36"
+    },
+    {
+      "start": 430.1,
+      "end": 458.68,
+      "usfm": "2KI.19.37"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    12.94,
+    23.28,
+    36.14,
+    51.4,
+    56.2,
+    70.58,
+    83.68,
+    93.12,
+    102.64,
+    114.42,
+    123.6,
+    134.34,
+    143.1,
+    152.12,
+    167.22,
+    180.32,
+    185.96,
+    195.96,
+    208.66,
+    220.02,
+    234.14,
+    247.04,
+    269.84,
+    279.62,
+    294.36,
+    310.72,
+    318.34,
+    334.46,
+    351.16,
+    360.52,
+    371.3,
+    387.04,
+    394.78,
+    402.68,
+    421.58,
+    430.1,
+    458.68
+  ],
+  "times_en_usfm": [
+    "2KI.19.1",
+    "2KI.19.2",
+    "2KI.19.3",
+    "2KI.19.4",
+    "2KI.19.5",
+    "2KI.19.6",
+    "2KI.19.7",
+    "2KI.19.8",
+    "2KI.19.9",
+    "2KI.19.10",
+    "2KI.19.11",
+    "2KI.19.12",
+    "2KI.19.13",
+    "2KI.19.14",
+    "2KI.19.15",
+    "2KI.19.16",
+    "2KI.19.17",
+    "2KI.19.18",
+    "2KI.19.19",
+    "2KI.19.20",
+    "2KI.19.21",
+    "2KI.19.22",
+    "2KI.19.23",
+    "2KI.19.24",
+    "2KI.19.25",
+    "2KI.19.26",
+    "2KI.19.27",
+    "2KI.19.28",
+    "2KI.19.29",
+    "2KI.19.30",
+    "2KI.19.31",
+    "2KI.19.32",
+    "2KI.19.33",
+    "2KI.19.34",
+    "2KI.19.35",
+    "2KI.19.36",
+    "2KI.19.37"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? חזקיהו הגיב לאיום האשורי בקריעת בגדיו, בהתכסות בשק ובכניסה לבית ה'; מעשיו מבטאים אבל, מצוקה ופנייה אל ה'.",
+      "text_he": "הידעת? חזקיהו הגיב לאיום האשורי בקריעת בגדיו, בהתכסות בשק ובכניסה לבית ה'; מעשיו מבטאים אבל, מצוקה ופנייה אל ה'.",
+      "text_en": "Did you know? Hezekiah responded to the Assyrian threat by tearing his clothes, putting on sackcloth, and entering the house of the LORD; his actions expressed mourning, distress, and turning to the LORD."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? חזקיהו שלח אל ישעיהו את אליקים, שבנא וזקני הכוהנים, וכולם היו מכוסים בשקים.",
+      "text_he": "הידעת? חזקיהו שלח אל ישעיהו את אליקים, שבנא וזקני הכוהנים, וכולם היו מכוסים בשקים.",
+      "text_en": "Did you know? Hezekiah sent Eliakim, Shebna, and the elders of the priests to Isaiah, and all of them were wearing sackcloth."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? שליחי חזקיהו תיארו את המצב כ\"יום צרה ותוכחה ונאצה\" ודימו אותו לאישה שהגיעה לשעת הלידה, אך אין לה כוח ללדת.",
+      "text_he": "הידעת? שליחי חזקיהו תיארו את המצב כ\"יום צרה ותוכחה ונאצה\" ודימו אותו לאישה שהגיעה לשעת הלידה, אך אין לה כוח ללדת.",
+      "text_en": "Did you know? Hezekiah’s messengers described the situation as “a day of distress, rebuke, and disgrace” and compared it to a woman who has reached the time of childbirth but has no strength to give birth."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? ישעיהו מסר בשם ה' שסנחריב ישמע שמועה, ישוב לארצו וייפול בחרב בארצו.",
+      "text_he": "הידעת? ישעיהו מסר בשם ה' שסנחריב ישמע שמועה, ישוב לארצו וייפול בחרב בארצו.",
+      "text_en": "Did you know? Isaiah declared in the name of the LORD that Sennacherib would hear a report, return to his own land, and fall by the sword there."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? לאחר ששמע על תרחקה מלך כוש היוצא להילחם בו, שלח סנחריב שוב שליחים אל חזקיהו כדי להפחידו.",
+      "text_he": "הידעת? לאחר ששמע על תרחקה מלך כוש היוצא להילחם בו, שלח סנחריב שוב שליחים אל חזקיהו כדי להפחידו.",
+      "text_en": "Did you know? After hearing that Tirhakah, king of Cush, had set out to fight him, Sennacherib again sent messengers to Hezekiah to intimidate him."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? חזקיהו לקח את האיגרות מסנחריב, קרא אותן, עלה לבית ה' ופרש אותן לפני ה'; כך הפך את האיום הצבאי לנושא של תפילה.",
+      "text_he": "הידעת? חזקיהו לקח את האיגרות מסנחריב, קרא אותן, עלה לבית ה' ופרש אותן לפני ה'; כך הפך את האיום הצבאי לנושא של תפילה.",
+      "text_en": "Did you know? Hezekiah took the letters from Sennacherib, read them, went up to the house of the LORD, and spread them out before the LORD; in this way, he turned the military threat into a matter of prayer."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? בתפילתו מכנה חזקיהו את ה' \"יושב הכרובים\" ומדגיש שהוא האלוהים לבדו לכל ממלכות הארץ, בורא השמים והארץ.",
+      "text_he": "הידעת? בתפילתו מכנה חזקיהו את ה' \"יושב הכרובים\" ומדגיש שהוא האלוהים לבדו לכל ממלכות הארץ, בורא השמים והארץ.",
+      "text_en": "Did you know? In his prayer, Hezekiah calls the LORD “the One enthroned above the cherubim” and emphasizes that he alone is God over all the kingdoms of the earth, the Creator of heaven and earth."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? חזקיהו מבקש ישועה לא רק למען ירושלים, אלא גם כדי שכל ממלכות הארץ יידעו שה' הוא האלוהים לבדו.",
+      "text_he": "הידעת? חזקיהו מבקש ישועה לא רק למען ירושלים, אלא גם כדי שכל ממלכות הארץ יידעו שה' הוא האלוהים לבדו.",
+      "text_en": "Did you know? Hezekiah asks for deliverance not only for Jerusalem’s sake, but also so that all the kingdoms of the earth may know that the LORD alone is God."
+    },
+    {
+      "verse": 29,
+      "text": "הידעת? האות שניתן לחזקיהו מתאר התאוששות הדרגתית של הארץ: בשנה הראשונה יאכלו ספיח, בשנה השנייה סחיש, ובשנה השלישית יזרעו, יקצרו ויאכלו מפרי הכרמים.",
+      "text_he": "הידעת? האות שניתן לחזקיהו מתאר התאוששות הדרגתית של הארץ: בשנה הראשונה יאכלו ספיח, בשנה השנייה סחיש, ובשנה השלישית יזרעו, יקצרו ויאכלו מפרי הכרמים.",
+      "text_en": "Did you know? The sign given to Hezekiah describes the land’s gradual recovery: in the first year they would eat what grows on its own, in the second year what springs up from that, and in the third year they would sow, reap, and eat the fruit of the vineyards."
+    },
+    {
+      "verse": 35,
+      "text": "הידעת? לפי הכתוב, מלאך ה' היכה במחנה אשור מאה שמונים וחמישה אלף איש; בבוקר נמצאו במחנה כולם פגרים מתים.",
+      "text_he": "הידעת? לפי הכתוב, מלאך ה' היכה במחנה אשור מאה שמונים וחמישה אלף איש; בבוקר נמצאו במחנה כולם פגרים מתים.",
+      "text_en": "Did you know? According to the account, the angel of the LORD struck 185,000 men in the Assyrian camp; when morning came, they were all dead bodies."
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "book": "II Kings",
+  "book_he": "מלכים ב",
+  "book_chapters": 25,
+  "chapter": 6,
+  "title": "מלכים ב פרק 6",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b06.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t09b06.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2KI/6-46ae18331e6bd3b26add568fd4363535.mp3?version_id=1",
+  "verses": [
+    "וַיֹּאמְרוּ בְנֵי-הַנְּבִיאִים, אֶל-אֱלִישָׁע: הִנֵּה-נָא הַמָּקוֹם, אֲשֶׁר אֲנַחְנוּ יֹשְׁבִים שָׁם לְפָנֶיךָ--צַר מִמֶּנּוּ.",
+    "נֵלְכָה-נָּא עַד-הַיַּרְדֵּן, וְנִקְחָה מִשָּׁם אִישׁ קוֹרָה אֶחָת, וְנַעֲשֶׂה-לָּנוּ שָׁם מָקוֹם, לָשֶׁבֶת שָׁם; וַיֹּאמֶר, לֵכוּ.",
+    "וַיֹּאמֶר, הָאֶחָד, הוֹאֶל נָא, וְלֵךְ אֶת-עֲבָדֶיךָ; וַיֹּאמֶר, אֲנִי אֵלֵךְ.",
+    "וַיֵּלֶךְ, אִתָּם; וַיָּבֹאוּ, הַיַּרְדֵּנָה, וַיִּגְזְרוּ, הָעֵצִים.",
+    "וַיְהִי הָאֶחָד מַפִּיל הַקּוֹרָה, וְאֶת-הַבַּרְזֶל נָפַל אֶל-הַמָּיִם; וַיִּצְעַק וַיֹּאמֶר אֲהָהּ אֲדֹנִי, וְהוּא שָׁאוּל.",
+    "וַיֹּאמֶר אִישׁ-הָאֱלֹהִים, אָנָה נָפָל; וַיַּרְאֵהוּ, אֶת-הַמָּקוֹם, וַיִּקְצָב-עֵץ וַיַּשְׁלֶךְ-שָׁמָּה, וַיָּצֶף הַבַּרְזֶל.",
+    "וַיֹּאמֶר, הָרֶם לָךְ; וַיִּשְׁלַח יָדוֹ, וַיִּקָּחֵהוּ.",
+    "וּמֶלֶךְ אֲרָם, הָיָה נִלְחָם בְּיִשְׂרָאֵל; וַיִּוָּעַץ אֶל-עֲבָדָיו לֵאמֹר, אֶל-מְקוֹם פְּלֹנִי אַלְמֹנִי תַּחֲנֹתִי.",
+    "וַיִּשְׁלַח אִישׁ הָאֱלֹהִים, אֶל-מֶלֶךְ יִשְׂרָאֵל לֵאמֹר, הִשָּׁמֶר, מֵעֲבֹר הַמָּקוֹם הַזֶּה: כִּי-שָׁם, אֲרָם נְחִתִּים.",
+    "וַיִּשְׁלַח מֶלֶךְ יִשְׂרָאֵל, אֶל-הַמָּקוֹם אֲשֶׁר אָמַר-לוֹ אִישׁ-הָאֱלֹהִים וְהִזְהִירֹה--וְנִשְׁמַר שָׁם: לֹא אַחַת, וְלֹא שְׁתָּיִם.",
+    "וַיִּסָּעֵר לֵב מֶלֶךְ-אֲרָם, עַל-הַדָּבָר הַזֶּה; וַיִּקְרָא אֶל-עֲבָדָיו, וַיֹּאמֶר אֲלֵיהֶם, הֲלוֹא תַּגִּידוּ לִי, מִי מִשֶּׁלָּנוּ אֶל-מֶלֶךְ יִשְׂרָאֵל.",
+    "וַיֹּאמֶר אַחַד מֵעֲבָדָיו, לוֹא אֲדֹנִי הַמֶּלֶךְ: כִּי-אֱלִישָׁע הַנָּבִיא, אֲשֶׁר בְּיִשְׂרָאֵל, יַגִּיד לְמֶלֶךְ יִשְׂרָאֵל, אֶת-הַדְּבָרִים אֲשֶׁר תְּדַבֵּר בַּחֲדַר מִשְׁכָּבֶךָ.",
+    "וַיֹּאמֶר, לְכוּ וּרְאוּ אֵיכֹה הוּא, וְאֶשְׁלַח, וְאֶקָּחֵהוּ; וַיֻּגַּד-לוֹ לֵאמֹר, הִנֵּה בְדֹתָן.",
+    "וַיִּשְׁלַח-שָׁמָּה סוּסִים וְרֶכֶב, וְחַיִל כָּבֵד; וַיָּבֹאוּ לַיְלָה, וַיַּקִּפוּ עַל-הָעִיר.",
+    "וַיַּשְׁכֵּם מְשָׁרֵת אִישׁ הָאֱלֹהִים, לָקוּם, וַיֵּצֵא, וְהִנֵּה-חַיִל סוֹבֵב אֶת-הָעִיר וְסוּס וָרָכֶב; וַיֹּאמֶר נַעֲרוֹ אֵלָיו אֲהָהּ אֲדֹנִי, אֵיכָה נַעֲשֶׂה.",
+    "וַיֹּאמֶר, אַל-תִּירָא: כִּי רַבִּים אֲשֶׁר אִתָּנוּ, מֵאֲשֶׁר אוֹתָם.",
+    "וַיִּתְפַּלֵּל אֱלִישָׁע, וַיֹּאמַר, יְהוָה, פְּקַח-נָא אֶת-עֵינָיו וְיִרְאֶה; וַיִּפְקַח יְהוָה, אֶת-עֵינֵי הַנַּעַר, וַיַּרְא וְהִנֵּה הָהָר מָלֵא סוּסִים וְרֶכֶב אֵשׁ, סְבִיבֹת אֱלִישָׁע.",
+    "וַיֵּרְדוּ, אֵלָיו, וַיִּתְפַּלֵּל אֱלִישָׁע אֶל-יְהוָה וַיֹּאמַר, הַךְ-נָא אֶת-הַגּוֹי-הַזֶּה בַּסַּנְוֵרִים; וַיַּכֵּם בַּסַּנְוֵרִים, כִּדְבַר אֱלִישָׁע.",
+    "וַיֹּאמֶר אֲלֵהֶם אֱלִישָׁע, לֹא זֶה הַדֶּרֶךְ וְלֹא זֹה הָעִיר--לְכוּ אַחֲרַי, וְאוֹלִיכָה אֶתְכֶם אֶל-הָאִישׁ אֲשֶׁר תְּבַקֵּשׁוּן; וַיֹּלֶךְ אוֹתָם, שֹׁמְרוֹנָה.",
+    "וַיְהִי, כְּבֹאָם שֹׁמְרוֹן, וַיֹּאמֶר אֱלִישָׁע, יְהוָה פְּקַח אֶת-עֵינֵי-אֵלֶּה וְיִרְאוּ; וַיִּפְקַח יְהוָה, אֶת-עֵינֵיהֶם, וַיִּרְאוּ, וְהִנֵּה בְּתוֹךְ שֹׁמְרוֹן.",
+    "וַיֹּאמֶר מֶלֶךְ-יִשְׂרָאֵל אֶל-אֱלִישָׁע, כִּרְאֹתוֹ אוֹתָם: הַאַכֶּה אַכֶּה, אָבִי.",
+    "וַיֹּאמֶר לֹא תַכֶּה, הַאֲשֶׁר שָׁבִיתָ בְּחַרְבְּךָ וּבְקַשְׁתְּךָ אַתָּה מַכֶּה; שִׂים לֶחֶם וָמַיִם לִפְנֵיהֶם, וְיֹאכְלוּ וְיִשְׁתּוּ, וְיֵלְכוּ, אֶל-אֲדֹנֵיהֶם.",
+    "וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה, וַיֹּאכְלוּ וַיִּשְׁתּוּ, וַיְשַׁלְּחֵם, וַיֵּלְכוּ אֶל-אֲדֹנֵיהֶם; וְלֹא-יָסְפוּ עוֹד גְּדוּדֵי אֲרָם, לָבוֹא בְּאֶרֶץ יִשְׂרָאֵל.",
+    "וַיְהִי, אַחֲרֵי-כֵן, וַיִּקְבֹּץ בֶּן-הֲדַד מֶלֶךְ-אֲרָם, אֶת-כָּל-מַחֲנֵהוּ; וַיַּעַל, וַיָּצַר עַל-שֹׁמְרוֹן.",
+    "וַיְהִי רָעָב גָּדוֹל בְּשֹׁמְרוֹן, וְהִנֵּה צָרִים עָלֶיהָ: עַד הֱיוֹת רֹאשׁ-חֲמוֹר בִּשְׁמֹנִים כֶּסֶף, וְרֹבַע הַקַּב חרי דִּב- יוֹנִים בַּחֲמִשָּׁה-כָסֶף.",
+    "וַיְהִי מֶלֶךְ יִשְׂרָאֵל, עֹבֵר עַל-הַחֹמָה; וְאִשָּׁה, צָעֲקָה אֵלָיו לֵאמֹר, הוֹשִׁיעָה, אֲדֹנִי הַמֶּלֶךְ.",
+    "וַיֹּאמֶר אַל-יוֹשִׁעֵךְ יְהוָה, מֵאַיִן אוֹשִׁיעֵךְ; הֲמִן-הַגֹּרֶן, אוֹ מִן-הַיָּקֶב.",
+    "וַיֹּאמֶר-לָהּ הַמֶּלֶךְ, מַה-לָּךְ; וַתֹּאמֶר, הָאִשָּׁה הַזֹּאת אָמְרָה אֵלַי תְּנִי אֶת-בְּנֵךְ וְנֹאכְלֶנּוּ הַיּוֹם, וְאֶת-בְּנִי, נֹאכַל מָחָר.",
+    "וַנְּבַשֵּׁל אֶת-בְּנִי, וַנֹּאכְלֵהוּ; וָאֹמַר אֵלֶיהָ בַּיּוֹם הָאַחֵר, תְּנִי אֶת-בְּנֵךְ וְנֹאכְלֶנּוּ, וַתַּחְבִּא, אֶת-בְּנָהּ.",
+    "וַיְהִי כִשְׁמֹעַ הַמֶּלֶךְ אֶת-דִּבְרֵי הָאִשָּׁה, וַיִּקְרַע אֶת-בְּגָדָיו, וְהוּא, עֹבֵר עַל-הַחֹמָה; וַיַּרְא הָעָם, וְהִנֵּה הַשַּׂק עַל-בְּשָׂרוֹ מִבָּיִת.",
+    "וַיֹּאמֶר, כֹּה-יַעֲשֶׂה-לִּי אֱלֹהִים וְכֹה יוֹסִף: אִם-יַעֲמֹד רֹאשׁ אֱלִישָׁע בֶּן-שָׁפָט, עָלָיו--הַיּוֹם.",
+    "וֶאֱלִישָׁע יֹשֵׁב בְּבֵיתוֹ, וְהַזְּקֵנִים יֹשְׁבִים אִתּוֹ; וַיִּשְׁלַח אִישׁ מִלְּפָנָיו, בְּטֶרֶם יָבֹא הַמַּלְאָךְ אֵלָיו וְהוּא אָמַר אֶל-הַזְּקֵנִים הַרְּאִיתֶם כִּי-שָׁלַח בֶּן-הַמְרַצֵּחַ הַזֶּה לְהָסִיר אֶת-רֹאשִׁי, רְאוּ כְּבֹא הַמַּלְאָךְ סִגְרוּ הַדֶּלֶת וּלְחַצְתֶּם אֹתוֹ בַּדֶּלֶת, הֲלוֹא קוֹל רַגְלֵי אֲדֹנָיו אַחֲרָיו.",
+    "עוֹדֶנּוּ מְדַבֵּר עִמָּם, וְהִנֵּה הַמַּלְאָךְ יֹרֵד אֵלָיו; וַיֹּאמֶר, הִנֵּה-זֹאת הָרָעָה מֵאֵת יְהוָה--מָה-אוֹחִיל לַיהוָה, עוֹד."
+  ],
+  "english": [
+    "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.",
+    "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.",
+    "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.",
+    "So he went with them. And when they came to Jordan, they cut down wood.",
+    "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.",
+    "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast\nit in thither; and the iron did swim.",
+    "Therefore said he, Take\nit up to thee. And he put out his hand, and took it.",
+    "Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place\nshall be my camp.",
+    "And the man of God sent unto the king of Israel, saying, Beware that thou pass not such a place; for thither the Syrians are come down.",
+    "And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.",
+    "Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us\nis for the king of Israel?",
+    "And one of his servants said, None, my lord, O king: but Elisha, the prophet that\nis in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.",
+    "And he said, Go and spy where he\nis, that I may send and fetch him. And it was told him, saying, Behold,\nhe is in Dothan.",
+    "Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about.",
+    "And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?",
+    "And he answered, Fear not: for they that\nbe with us\nare more than they that\nbe with them.",
+    "And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain\nwas full of horses and chariots of fire round about Elisha.",
+    "And when they came down to him, Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.",
+    "And Elisha said unto them, This\nis not the way, neither\nis this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.",
+    "And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these\nmen, that they may see. And the LORD opened their eyes, and they saw; and, behold,\nthey were in the midst of Samaria.",
+    "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite\nthem? shall I smite\nthem?",
+    "And he answered, Thou shalt not smite\nthem: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.",
+    "And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.",
+    "And it came to pass after this, that Ben-hadad king of Syria gathered all his host, and went up, and besieged Samaria.",
+    "And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was\nsold for fourscore\npieces of silver, and the fourth part of a cab of dove’s dung for five\npieces\n of silver.",
+    "And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.",
+    "And he said, If the LORD do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?",
+    "And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.",
+    "So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.",
+    "And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold,\nhe had sackcloth within upon his flesh.",
+    "Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.",
+    "But Elisha sat in his house, and the elders sat with him; and\nthe king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door:\nis not the sound of his master’s feet behind him?",
+    "And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil\nis of the LORD; what should I wait for the LORD any longer?"
+  ],
+  "steinsaltz": [
+    "וַיֹּאמְרוּ בְנֵי־הַנְּבִיאִים, תלמידי אלישע שהתרבו ככל ששמו נודע לתהילה, אֶל־אֱלִישָׁע: הִנֵּה־נָא הַמָּקוֹם אֲשֶׁר אֲנַחְנוּ יֹשְׁבִים שָׁם לְפָנֶיךָ צַר מִמֶּנּוּ, בשבילנו.",
+    "נֵלְכָה־נָּא עַד־הַיַּרְדֵּן, ששם גדלים עצים גדולים. נחטוב מהם וְנִקְחָה מִשָּׁם כל אִישׁ קוֹרָה אֶחָת, וְנַעֲשֶׂה־לָּנוּ שָׁם מָקוֹם לָשֶׁבֶת שָׁם, שכן שטח זה פנוי. על כן נבנה בו מקום משכן לנביא ומקום גדול דיו להכיל אותנו, תלמידיו. וַיֹּאמֶר: לֵכוּ. אני מאשר את בקשתכם.",
+    "וַיֹּאמֶר הָאֶחָד: הוֹאֶל נָא וְלֵךְ אֶת, עם עֲבָדֶיךָ, אתנו, משום שאנו עומדים לבנות בניין חדש בעבור ה'מוסד' שלך. וַיֹּאמֶר: אֲנִי אֵלֵךְ.",
+    "וַיֵּלֶךְ אִתָּם, וַיָּבֹאוּ הַיַּרְדֵּנָה וַיִּגְזְרוּ, חטבו את הָעֵצִים כמתוכנן.",
+    "וַיְהִי הָאֶחָד מַפִּיל הַקּוֹרָה, וְאֶת־הַבַּרְזֶל, ולהב הברזל של הגרזן נשמט מהקת ונָפַל אֶל־הַמָּיִם. וַיִּצְעַק וַיֹּאמֶר: אֲהָהּ, אוי, אֲדֹנִי! הברזל אבד, וְלא זו בלבד, הוּא שָׁאוּל מאדם אחר. כיצד אחזיר אותו?",
+    "וַיֹּאמֶר אִישׁ־הָאֱלֹהִים: אָנָה, לאן נָפָל הברזל? וַיַּרְאֵהוּ אֶת־הַמָּקוֹם. וַיִּקְצָב, אלישע חתך עֵץ וַיַּשְׁלֶךְ־שָׁמָּה, ובדרך נס – וַיָּצֶף צף על פני המים הַבַּרְזֶל.",
+    "וַיֹּאמֶר אלישע: הָרֶם לָךְ. וַיִּשְׁלַח יָדוֹ וַיִּקָּחֵהוּ.",
+    "וּמֶלֶךְ אֲרָם הָיָה נִלְחָם, לא ניהל מערכה גדולה אלא יזם פשיטות מפעם לפעם בְּיִשְׂרָאֵל. וַיִּוָּעַץ אֶל־עֲבָדָיו לֵאמֹר: אֶל־מְקוֹם פְּלֹנִי אַלְמֹנִי תַּחֲנֹתִי, יחנה הצבא לצורך מארב.",
+    "וַיִּשְׁלַח אִישׁ הָאֱלֹהִים אֶל־מֶלֶךְ יִשְׂרָאֵל לֵאמֹר: הִשָּׁמֶר מֵעֲבֹר דרך הַמָּקוֹם הַזֶּה, כִּי־שָׁם אֲרָם נְחִתִּים, חונים ואורבים לך.",
+    "וַיִּשְׁלַח מֶלֶךְ יִשְׂרָאֵל שליחים אֶל־הַמָּקוֹם אֲשֶׁר אָמַר־לוֹ אִישׁ־ הָאֱלֹהִים וְהִזְהִירֹה, והזהיר אותו, וְנִשְׁמַר־שָׁם צבאו. וכך אירע לֹא פעם אַחַת וְלֹא שְׁתָּיִם.",
+    "וַיִּסָּעֵר, רגז לֵב מֶלֶךְ־אֲרָם עַל־הַדָּבָר הַזֶּה, שכן שוב ושוב הציב מארבים, ושוב ושוב ישראל לא עברו בקרבתו. וַיִּקְרָא אֶל־עֲבָדָיו וַיֹּאמֶר אֲלֵיהֶם: הֲלוֹא תַּגִּידוּ לִי מִי מִשֶּׁלָּנוּ מדליף מידע אֶל־מֶלֶךְ יִשְׂרָאֵל?",
+    "וַיֹּאמֶר אַחַד מֵעֲבָדָיו: לוֹא, לא מדובר במרגלים, אֲדֹנִי הַמֶּלֶךְ, כִּי־אֱלִישָׁע הַנָּבִיא אֲשֶׁר בְּיִשְׂרָאֵל יַגִּיד לְמֶלֶךְ יִשְׂרָאֵל אפילו אֶת־הַדְּבָרִים אֲשֶׁר תְּדַבֵּר בַּחֲדַר מִשְׁכָּבֶךָ. כל מה שאתה מדבר גלוי לפניו, והוא יודע היכן אתה מציב את חייליך.",
+    "וַיֹּאמֶר: לְכוּ וּרְאוּ אֵיכֹה, איפה הוּא, וְאֶשְׁלַח וְאֶקָּחֵהוּ, אתפוס אותו ואטפל בו. וַיֻּגַּד־לוֹ לֵאמֹר: הִנֵּה הנביא נמצא עכשיו בְדֹתָן.",
+    "וַיִּשְׁלַח מלך ארם שָׁמָּה סוּסִים וְרֶכֶב וְחַיִל כָּבֵד. וַיָּבֹאוּ לַיְלָה וַיַּקִּפוּ עַל, את הָעִיר כדי לחטוף את אלישע.",
+    "וַיַּשְׁכֵּם מְשָׁרֵת אִישׁ הָאֱלֹהִים לָקוּם בבוקר וַיֵּצֵא החוצה, וְהִנֵּה־חַיִל סוֹבֵב אֶת־הָעִיר וְסוּס וָרָכֶב. צבא גדול מקיף את העיר. וַיֹּאמֶר נַעֲרוֹ אֵלָיו: אֲהָהּ, אֲדֹנִי! אֵיכָה נַעֲשֶׂה? כיצד נחמוק מפניהם?",
+    "וַיֹּאמֶר הנביא: אַל־תִּירָא, כִּי רַבִּים החיילים אֲשֶׁר אִתָּנוּ מֵאֲשֶׁר אוֹתָם, אִתם. צבאֵנו גדול מצבאם.",
+    "וַיִּתְפַּלֵּל אֱלִישָׁע וַיֹּאמַר: ה'! פְּקַח־נָא אֶת־עֵינָיו של הנער וְיִרְאֶה עתה ראייה נבואית. וַיִּפְקַח ה' אֶת־עֵינֵי הַנַּעַר, וַיַּרְא וְהִנֵּה הָהָר מָלֵא סוּסִים וְרֶכֶב אֵשׁ, וכולם ניצבים סְבִיבֹת אֱלִישָׁע. הוא ראה שאלישע מוגן היטב בצבא אש המקיף אותו.",
+    "וַיֵּרְדוּ חיילי ארם אֵלָיו. וַיִּתְפַּלֵּל אֱלִישָׁע אֶל־ה' וַיֹּאמַר: הַךְ, הכה נָא אֶת־הַגּוֹי־הַזֶּה בַּסַּנְוֵרִים. סחרר וטשטש את תודעתם, או: הקשה עליהם למקד את מבטם. וַיַּכֵּם ה' בַּסַּנְוֵרִים כִּדְבַר אֱלִישָׁע.",
+    "כאשר הנביא פגש את חיל הארמים, הם לא ידעו מימינם ומשמאלם. וַיֹּאמֶר אֲלֵהֶם אֱלִישָׁע: לֹא־זֶה הַדֶּרֶךְ הנכונה, וְלֹא־זֹה הָעִיר שאתם מחפשים. לְכוּ אַחֲרַי וְאוֹלִיכָה אֶתְכֶם אֶל־הָאִישׁ אֲשֶׁר תְּבַקֵּשׁוּן. וַיֹּלֶךְ אוֹתָם שֹׁמְרוֹנָה, לשומרון, עיר הבירה של הממלכה.",
+    "וַיְהִי כְּבֹאָם שֹׁמְרוֹן, וַיֹּאמֶר אֱלִישָׁע: ה', פְּקַח אֶת־עֵינֵי־אֵלֶּה וְיִרְאוּ. וַיִּפְקַח ה' אֶת־עֵינֵיהֶם, וַיִּרְאוּ וְהִנֵּה הם בְּתוֹךְ שֹׁמְרוֹן.",
+    "וַיֹּאמֶר מֶלֶךְ־יִשְׂרָאֵל אֶל־אֱלִישָׁע כִּרְאֹתוֹ אוֹתָם – צבא של ארמים מוכי סנוורים – הַאַכֶּה אַכֶּה, האם עלי להרוג אותם, אָבִי?",
+    "וַיֹּאמֶר: לֹא תַכֶּה. הַאֲשֶׁר שָׁבִיתָ בְּחַרְבְּךָ וּבְקַשְׁתְּךָ אַתָּה מַכֶּה? כיוון שלא בכישוריך הצבאיים שבית אותם, אינך רשאי להרגם. שִׂים לֶחֶם וָמַיִם לִפְנֵיהֶם, כאילו היו אורחיך, וְיֹאכְלוּ וְיִשְׁתּוּ וְיֵלְכוּ חזרה אֶל־ אֲדֹנֵיהֶם.",
+    "וַיִּכְרֶה לָהֶם כֵּרָה, ערך להם סעודה גְדוֹלָה. וַיֹּאכְלוּ וַיִּשְׁתּוּ. וַיְשַׁלְּחֵם וַיֵּלְכוּ אֶל־אֲדֹנֵיהֶם, מלך ארם, וסיפרו לו את כל הקורות אותם. וְלֹא־יָסְפוּ עוֹד גְּדוּדֵי אֲרָם לָבוֹא בְּאֶרֶץ יִשְׂרָאֵל לפי שעה כיוון שפחדו להיכנס לארצו של אלישע.",
+    "וַיְהִי אַחֲרֵי־כֵן, וַיִּקְבֹּץ בֶּן־הֲדַד מֶלֶךְ־אֲרָם אֶת־כָּל־מַחֲנֵהוּ, וַיַּעַל וַיָּצַר עַל־שֹׁמְרוֹן. נראה שצבא ארם היה גדול וחזק מצבא ישראל, ומלך ישראל לא יכול היה להתגונן מפניו.",
+    "וַיְהִי רָעָב גָּדוֹל בְּשֹׁמְרוֹן, וְהִנֵּה צָרִים עָלֶיהָ עַד הֱיוֹת רֹאשׁ־חֲמוֹר, שערכו הרגיל נמוך מאוד, שכן אינו כשר, ובשרו גרוע, בִּשְׁמֹנִים כֶּסֶף. וְרֹבַע הַקַּב – כ-320 סמ\"ק דִּבְיוֹנִים, צואת יונים הזבה מגופן; בצורת הכתיב: 'חריונים' – בַּחֲמִשָּׁה כָסֶף.",
+    "וַיְהִי מֶלֶךְ יִשְׂרָאֵל עֹבֵר, מסייר עַל־הַחֹמָה, וְאִשָּׁה צָעֲקָה אֵלָיו לֵאמֹר: הוֹשִׁיעָה, אֲדֹנִי הַמֶּלֶךְ!",
+    "וַיֹּאמֶר: אַל, אם לא יוֹשִׁעֵךְ ה' – מֵאַיִן אוֹשִׁיעֵךְ?! הֲמִן־הַגֹּרֶן אוֹ מִן־הַיָּקֶב?! הרי הגרנות והיקבים ריקים.",
+    "וַיֹּאמֶר־לָהּ הַמֶּלֶךְ: מַה־לָּךְ? מה רצונך? וַתֹּאמֶר: הָאִשָּׁה הַזֹּאת אָמְרָה אֵלַי: \"תְּנִי אֶת־בְּנֵךְ וְנֹאכְלֶנּוּ הַיּוֹם, וְאֶת־בְּנִי נֹאכַל מָחָר\". אנחנו גוועים ברעב, הבה נתחלק בבשר ילדינו.",
+    "וַנְּבַשֵּׁל אֶת־בְּנִי וַנֹּאכְלֵהוּ. וָאֹמַר אֵלֶיהָ בַּיּוֹם הָאַחֵר: \"תְּנִי אֶת־בְּנֵךְ וְנֹאכְלֶנּוּ\", וכאשר הגיע תור בנה להיאכל – וַתַּחְבִּא אֶת־בְּנָהּ.",
+    "האשה סיפרה את הסיפור המזעזע לפי תומה, וביקשה שהמלך יעזור לה לקבל את החלק המגיע לה בבן חברתה. וַיְהִי כִשְׁמֹעַ הַמֶּלֶךְ אֶת־דִּבְרֵי הָאִשָּׁה, וַיִּקְרַע אֶת־בְּגָדָיו. המלך נחרד, ולבו נשבר. וְהוּא עֹבֵר עַל־הַחֹמָה, וַיַּרְא הָעָם וְהִנֵּה הַשַּׂק עַל־בְּשָׂרוֹ מִבָּיִת, מבפנים. כאשר בגדיו נקרעו, ראו הכול שתחתיהם הוא עוטה שק על גופו כאבל.",
+    "וַיֹּאמֶר בשבועה: כֹּה־יַעֲשֶׂה־לִּי אֱלֹהִים וְכֹה יוֹסִף, יענישני ה' כך וכך אִם־יַעֲמֹד רֹאשׁ אֱלִישָׁע בֶּן־שָׁפָט עָלָיו, או: בין אם ה' יעשה לי כך, כפי מצבי הקשה, וגם אם הוא יביא אותי למצב גרוע יותר, אדאג לכך שראשו של אלישע יוסר הַיּוֹם. הוא אשם במצב זה, שהרי הוא איננו מציל אותנו, ומן הסתם הוא גם מקטרג עלינו.",
+    "וֶאֱלִישָׁע יֹשֵׁב בְּבֵיתוֹ וְהַזְּקֵנִים יֹשְׁבִים אִתּוֹ. וַיִּשְׁלַח המלך אִישׁ מִלְּפָנָיו, אך בְּטֶרֶם יָבֹא הַמַּלְאָךְ, שליח המלך אֵלָיו – אל אלישע, וְהוּא – אלישע אָמַר אֶל־הַזְּקֵנִים: הַרְּאִיתֶם כִּי־שָׁלַח בֶּן־הַמְרַצֵּחַ הַזֶּה, המלך, בנו של אחאב לְהָסִיר אֶת־רֹאשִׁי?! רְאוּ כְּבֹא הַמַּלְאָךְ הרוצה להמית אותי, סִגְרוּ הַדֶּלֶת וּלְחַצְתֶּם אֹתוֹ בַּדֶּלֶת. מכיוון שאתם מרובים והוא אדם יחיד, תוכלו לעכבו בדלת. הֲלוֹא קוֹל רַגְלֵי אֲדֹנָיו אַחֲרָיו. האדון שלו יגיע מיד אחריו כדי לתפוס אותי.",
+    "עוֹדֶנּוּ מְדַבֵּר עִמָּם, וְהִנֵּה הַמַּלְאָךְ יֹרֵד אֵלָיו. וַיֹּאמֶר אלישע: הִנֵּה־זֹאת הָרָעָה היא מֵאֵת ה', מָה־אוֹחִיל לַה' עוֹד?! לְמה אוכַל לייחל ומה אוכל לבַקש עוד מה'?! לעת עתה אלישע לא ידע מה לעשות. הוא סבל מן הרעב כמו שאר האנשים שמסביבו, ולא ידע לבשר להם דבר, כי אם להדריכם ללכת בדרך הישר והטוב ולהמתין."
+  ],
+  "ai_explanation": [
+    "בני הנביאים, תלמידי אלישע שהתרבו, אומרים לו שהמקום שבו הם יושבים צר מדי עבורם.",
+    "הם מציעים ללכת עד הירדן, שבו גדלים עצים גדולים, לחטוב עצים ולבנות שם מקום מגורים גדול יותר לנביא ולתלמידיו. אלישע מאשר את בקשתם.",
+    "אחד התלמידים מבקש שאלישע ילך איתם, משום שהם עומדים לבנות בניין חדש עבור מוסדו. אלישע מסכים.",
+    "אלישע הולך עם התלמידים אל הירדן, והם חוטבים את העצים כמתוכנן.",
+    "להב הברזל של הגרזן נשמט מן הקת ונפל למים. התלמיד מצטער במיוחד מפני שהברזל היה שאול מאדם אחר.",
+    "אלישע שואל היכן נפל הברזל, חותך עץ ומשליך אותו למקום, ובדרך נס הברזל צף על פני המים.",
+    "אלישע מצווה על התלמיד להרים את הברזל, והתלמיד שולח את ידו ולוקח אותו.",
+    "מלך ארם ניהל פשיטות מפעם לפעם בישראל, והתייעץ עם עבדיו היכן להציב את צבאו למארב.",
+    "אלישע הזהיר את מלך ישראל שלא לעבור במקום מסוים, מפני ששם חנו חיילי ארם וארבו לו.",
+    "מלך ישראל שלח שליחים אל המקומות שעליהם הזהיר אלישע, וכך ניצל צבאו שוב ושוב ממארבי ארם.",
+    "מלך ארם רגז, מפני שכל המארבים נכשלו, וחשד שאחד מעבדיו מוסר מידע למלך ישראל.",
+    "אחד מעבדי המלך הסביר שאין מדובר במרגל, אלא בכך שאלישע יודע גם את הדברים שמלך ארם מדבר בחדר משכבו.",
+    "מלך ארם ציווה למצוא את אלישע כדי לתפוס אותו ולטפל בו. נאמר לו שאלישע נמצא בדותן.",
+    "מלך ארם שלח לדותן סוסים, מרכבות וצבא גדול, שהגיע בלילה והקיף את העיר כדי לחטוף את אלישע.",
+    "משרת איש האלוהים ראה בבוקר את הצבא המקיף את העיר ונבהל, ושאל כיצד יוכלו להימלט.",
+    "אלישע הרגיע אותו ואמר שהכוחות הנמצאים איתם רבים מן הכוחות העומדים נגדם.",
+    "אלישע התפלל שה' יפקח את עיני הנער. הנער ראה את ההגנה הנבואית: ההר מלא סוסים ומרכבות אש סביב אלישע.",
+    "כאשר חיילי ארם ירדו אל אלישע, הוא התפלל שה' יכה אותם בסנוורים, כלומר יסחרר ויטשטש את תודעתם או יקשה עליהם למקד את מבטם. ה' עשה כדבר אלישע.",
+    "אלישע אמר לחיילים שאינם בדרך הנכונה ואינם בעיר שהם מחפשים, והוליך אותם לשומרון, בירת ממלכת ישראל.",
+    "בשומרון התפלל אלישע שה' יפקח את עיני החיילים, ואז הם ראו שהם נמצאים בתוך העיר.",
+    "מלך ישראל שאל את אלישע אם להרוג את חיילי ארם המוכים בסנוורים, ופנה אליו בכינוי 'אבי'.",
+    "אלישע השיב שאין להרוג אותם, מפני שמלך ישראל לא שבה אותם בכוח חרבו וקשתו. במקום זאת עליו להגיש להם לחם ומים ולשלחם אל מלך ארם.",
+    "מלך ישראל ערך להם סעודה גדולה, והם אכלו, שתו וחזרו אל אדוניהם. לאחר מכן חדלו גדודי ארם להיכנס לארץ ישראל לפי שעה, מפני שפחדו להיכנס לארצו של אלישע.",
+    "לאחר מכן קיבץ בן הדד, מלך ארם, את כל צבאו וצר על שומרון. נראה שצבא ארם היה גדול וחזק מצבא ישראל, ולכן ישראל לא יכלה להתגונן מפניו.",
+    "המצור גרם לרעב גדול בשומרון. ראש חמור נמכר במחיר גבוה מאוד, ורבע קב של 'חריונים', כנראה צואת יונים לפי הכתיב, נמכר בחמישה כסף.",
+    "מלך ישראל סייר על חומת העיר, ואישה זעקה אליו וביקשה את עזרתו.",
+    "המלך השיב שאם ה' אינו מושיע אותה, אין ביכולתו להושיע, שהרי הגורן והיקב ריקים ממזון.",
+    "האישה סיפרה שחברתה ביקשה ממנה למסור את בנה כדי שיאכלו אותו באותו יום, וביום שלאחר מכן יאכלו את בנה שלה.",
+    "הן בישלו ואכלו את בנה של האישה, אך כאשר הגיע תורה של חברתה למסור את בנה, היא החביאה אותו.",
+    "המלך נחרד, קרע את בגדיו, והעם ראה שמתחת לבגדיו לבש שק כאבל.",
+    "המלך נשבע לדאוג לכך שראש אלישע בן שפט יוסר באותו יום, מפני שראה בו את האשם בכך שאינו מציל את העם ואולי אף מקטרג עליו.",
+    "אלישע ישב בביתו עם הזקנים, וחזה שהמלך שלח שליח ולאחריו יבוא המלך עצמו כדי להמיתו. הוא ביקש מן הזקנים לסגור את הדלת ולעכב את השליח, שהרי אדוניו עומד להגיע מיד אחריו.",
+    "בעוד אלישע מדבר, הגיע השליח. אלישע אמר שהרעה באה מאת ה', ושאין לו עוד למה לייחל או מה לבקש; בשלב זה לא ידע כיצד לפעול ולא יכול היה לבשר על פתרון לרעב."
+  ],
+  "ai_explanation_en": [
+    "The sons of the prophets, Elisha’s growing group of students, tell him that the place where they live is too small for them.",
+    "They suggest going to the Jordan, where large trees grow, cutting wood, and building a larger residence there for the prophet and his students. Elisha approves their request.",
+    "One student asks Elisha to go with them because they are going to build a new building for his institution. Elisha agrees.",
+    "Elisha goes with the students to the Jordan, and they cut the trees as planned.",
+    "The iron blade of the axe slips from its handle and falls into the water. The student is especially distressed because the iron was borrowed from someone else.",
+    "Elisha asks where the iron fell, cuts a piece of wood, and throws it into the spot; miraculously, the iron rises to the surface.",
+    "Elisha tells the student to lift the iron, and the student reaches out and takes it.",
+    "The king of Aram conducted occasional raids in Israel and consulted his servants about where to station his army for an ambush.",
+    "Elisha warned the king of Israel not to pass through a certain place because Aramean soldiers were camped there and lying in wait.",
+    "The king of Israel sent messengers to the places about which Elisha had warned him, and his army was repeatedly saved from the Aramean ambushes.",
+    "The king of Aram became angry because all his ambushes failed, and he suspected that one of his servants was informing the king of Israel.",
+    "One of the king’s servants explained that there was no spy; rather, Elisha knew even the words the king spoke in his bedchamber.",
+    "The king of Aram ordered that Elisha be located so he could capture and deal with him. He was told that Elisha was in Dothan.",
+    "The king of Aram sent horses, chariots, and a large army to Dothan. They arrived at night and surrounded the city in order to seize Elisha.",
+    "The servant of the man of God saw the army surrounding the city in the morning and panicked, asking how they could escape.",
+    "Elisha reassured him that the forces with them were greater than the forces opposing them.",
+    "Elisha prayed that God would open the servant’s eyes. The servant then saw the prophetic protection: the mountain was full of horses and chariots of fire surrounding Elisha.",
+    "When the Aramean soldiers came down toward Elisha, he prayed that God would strike them with blindness, meaning that their minds would be confused or that they would be unable to focus their sight. God did as Elisha asked.",
+    "Elisha told the soldiers that they were not on the right road and not in the city they were seeking, and he led them to Samaria, the capital of the kingdom of Israel.",
+    "In Samaria, Elisha prayed that God would open the soldiers’ eyes, and they saw that they were inside the city.",
+    "The king of Israel asked Elisha whether he should kill the Aramean soldiers who had been struck with blindness, addressing him as “my father.”",
+    "Elisha answered that they should not be killed, because the king of Israel had not captured them through his own sword and bow. Instead, he should set bread and water before them and send them back to the king of Aram.",
+    "The king of Israel prepared a great feast for them. They ate, drank, and returned to their master. Afterward, Aramean raiding bands stopped entering Israel for a time because they feared entering Elisha’s land.",
+    "After this, Ben-hadad, king of Aram, gathered his entire army and besieged Samaria. The Aramean army appears to have been larger and stronger than Israel’s, so Israel could not defend itself against it.",
+    "The siege caused a severe famine in Samaria. A donkey’s head was sold at an extremely high price, and a quarter of a kab of “dove droppings,” apparently pigeon excrement according to the spelling, was sold for five pieces of silver.",
+    "The king of Israel was touring the city wall when a woman cried out to him and asked for help.",
+    "The king replied that if God did not save her, he could not save her either, since the threshing floor and winepress were empty of food.",
+    "The woman reported that her companion had asked her to hand over her son so they could eat him that day, and that on the following day they would eat her companion’s son.",
+    "They cooked and ate the woman’s son, but when it was the companion’s turn to hand over her son, she hid him.",
+    "The king was horrified, tore his clothes, and the people saw that beneath them he was wearing sackcloth as a sign of mourning.",
+    "The king swore that Elisha son of Shaphat would be beheaded that very day, because he regarded him as responsible for failing to save the people and perhaps even accusing them before God.",
+    "Elisha was sitting in his house with the elders and foresaw that the king had sent a messenger and would soon come after him to kill him. He asked the elders to close the door and restrain the messenger, since his master was about to arrive.",
+    "While Elisha was speaking, the messenger arrived. Elisha said that the disaster had come from God and that he had nothing more to hope for or request; at that point he did not know what to do and could not announce any solution to the famine."
+  ],
+  "perush": [
+    "בני הנביאים, תלמידי אלישע שהתרבו, אומרים לו שהמקום שבו הם יושבים צר מדי עבורם.",
+    "הם מציעים ללכת עד הירדן, שבו גדלים עצים גדולים, לחטוב עצים ולבנות שם מקום מגורים גדול יותר לנביא ולתלמידיו. אלישע מאשר את בקשתם.",
+    "אחד התלמידים מבקש שאלישע ילך איתם, משום שהם עומדים לבנות בניין חדש עבור מוסדו. אלישע מסכים.",
+    "אלישע הולך עם התלמידים אל הירדן, והם חוטבים את העצים כמתוכנן.",
+    "להב הברזל של הגרזן נשמט מן הקת ונפל למים. התלמיד מצטער במיוחד מפני שהברזל היה שאול מאדם אחר.",
+    "אלישע שואל היכן נפל הברזל, חותך עץ ומשליך אותו למקום, ובדרך נס הברזל צף על פני המים.",
+    "אלישע מצווה על התלמיד להרים את הברזל, והתלמיד שולח את ידו ולוקח אותו.",
+    "מלך ארם ניהל פשיטות מפעם לפעם בישראל, והתייעץ עם עבדיו היכן להציב את צבאו למארב.",
+    "אלישע הזהיר את מלך ישראל שלא לעבור במקום מסוים, מפני ששם חנו חיילי ארם וארבו לו.",
+    "מלך ישראל שלח שליחים אל המקומות שעליהם הזהיר אלישע, וכך ניצל צבאו שוב ושוב ממארבי ארם.",
+    "מלך ארם רגז, מפני שכל המארבים נכשלו, וחשד שאחד מעבדיו מוסר מידע למלך ישראל.",
+    "אחד מעבדי המלך הסביר שאין מדובר במרגל, אלא בכך שאלישע יודע גם את הדברים שמלך ארם מדבר בחדר משכבו.",
+    "מלך ארם ציווה למצוא את אלישע כדי לתפוס אותו ולטפל בו. נאמר לו שאלישע נמצא בדותן.",
+    "מלך ארם שלח לדותן סוסים, מרכבות וצבא גדול, שהגיע בלילה והקיף את העיר כדי לחטוף את אלישע.",
+    "משרת איש האלוהים ראה בבוקר את הצבא המקיף את העיר ונבהל, ושאל כיצד יוכלו להימלט.",
+    "אלישע הרגיע אותו ואמר שהכוחות הנמצאים איתם רבים מן הכוחות העומדים נגדם.",
+    "אלישע התפלל שה' יפקח את עיני הנער. הנער ראה את ההגנה הנבואית: ההר מלא סוסים ומרכבות אש סביב אלישע.",
+    "כאשר חיילי ארם ירדו אל אלישע, הוא התפלל שה' יכה אותם בסנוורים, כלומר יסחרר ויטשטש את תודעתם או יקשה עליהם למקד את מבטם. ה' עשה כדבר אלישע.",
+    "אלישע אמר לחיילים שאינם בדרך הנכונה ואינם בעיר שהם מחפשים, והוליך אותם לשומרון, בירת ממלכת ישראל.",
+    "בשומרון התפלל אלישע שה' יפקח את עיני החיילים, ואז הם ראו שהם נמצאים בתוך העיר.",
+    "מלך ישראל שאל את אלישע אם להרוג את חיילי ארם המוכים בסנוורים, ופנה אליו בכינוי 'אבי'.",
+    "אלישע השיב שאין להרוג אותם, מפני שמלך ישראל לא שבה אותם בכוח חרבו וקשתו. במקום זאת עליו להגיש להם לחם ומים ולשלחם אל מלך ארם.",
+    "מלך ישראל ערך להם סעודה גדולה, והם אכלו, שתו וחזרו אל אדוניהם. לאחר מכן חדלו גדודי ארם להיכנס לארץ ישראל לפי שעה, מפני שפחדו להיכנס לארצו של אלישע.",
+    "לאחר מכן קיבץ בן הדד, מלך ארם, את כל צבאו וצר על שומרון. נראה שצבא ארם היה גדול וחזק מצבא ישראל, ולכן ישראל לא יכלה להתגונן מפניו.",
+    "המצור גרם לרעב גדול בשומרון. ראש חמור נמכר במחיר גבוה מאוד, ורבע קב של 'חריונים', כנראה צואת יונים לפי הכתיב, נמכר בחמישה כסף.",
+    "מלך ישראל סייר על חומת העיר, ואישה זעקה אליו וביקשה את עזרתו.",
+    "המלך השיב שאם ה' אינו מושיע אותה, אין ביכולתו להושיע, שהרי הגורן והיקב ריקים ממזון.",
+    "האישה סיפרה שחברתה ביקשה ממנה למסור את בנה כדי שיאכלו אותו באותו יום, וביום שלאחר מכן יאכלו את בנה שלה.",
+    "הן בישלו ואכלו את בנה של האישה, אך כאשר הגיע תורה של חברתה למסור את בנה, היא החביאה אותו.",
+    "המלך נחרד, קרע את בגדיו, והעם ראה שמתחת לבגדיו לבש שק כאבל.",
+    "המלך נשבע לדאוג לכך שראש אלישע בן שפט יוסר באותו יום, מפני שראה בו את האשם בכך שאינו מציל את העם ואולי אף מקטרג עליו.",
+    "אלישע ישב בביתו עם הזקנים, וחזה שהמלך שלח שליח ולאחריו יבוא המלך עצמו כדי להמיתו. הוא ביקש מן הזקנים לסגור את הדלת ולעכב את השליח, שהרי אדוניו עומד להגיע מיד אחריו.",
+    "בעוד אלישע מדבר, הגיע השליח. אלישע אמר שהרעה באה מאת ה', ושאין לו עוד למה לייחל או מה לבקש; בשלב זה לא ידע כיצד לפעול ולא יכול היה לבשר על פתרון לרעב."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "בניית מקום חדש ותיקון נסי",
+      "title_en": "Building a New Place and a Miraculous Recovery",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "תלמידי אלישע מבקשים להרחיב את מקום מגוריהם ליד הירדן. במהלך החטיבה אובד ברזל שאול, ואלישע מחזירו בדרך נס.",
+      "summary_en": "Elisha’s students ask to expand their residence near the Jordan. During the work, borrowed iron is lost, and Elisha restores it miraculously.",
+      "image_prompt": "Elisha and his students cutting trees beside the Jordan River, with an axe blade floating on the water, biblical setting, respectful educational illustration"
+    },
+    {
+      "title": "אלישע מסכל את מארבי ארם",
+      "title_en": "Elisha Foils the Aramean Ambushes",
+      "start_verse": 8,
+      "end_verse": 14,
+      "summary": "מלך ארם מציב מארבים בישראל, אך אלישע מזהיר את מלך ישראל מראש. כאשר המלך מבין שאלישע מגלה את תוכניותיו, הוא שולח צבא ללכוד אותו בדותן.",
+      "summary_en": "The king of Aram sets ambushes in Israel, but Elisha repeatedly warns the king of Israel. When the king realizes that Elisha reveals his plans, he sends an army to capture him at Dothan.",
+      "image_prompt": "A large Aramean army with horses and chariots surrounding the city of Dothan at night, biblical landscape, dramatic but non-graphic educational illustration"
+    },
+    {
+      "title": "צבא האש והחסד כלפי האויב",
+      "title_en": "The Fiery Army and Mercy Toward the Enemy",
+      "start_verse": 15,
+      "end_verse": 23,
+      "summary": "אלישע מרגיע את משרתו, שמתגלה לו צבא האש המקיף את הנביא. הוא מסנוור את חיילי ארם, מוביל אותם לשומרון, ומצווה שלא להרוג אותם אלא להאכילם ולשלחם.",
+      "summary_en": "Elisha reassures his servant, who sees the army of fire surrounding the prophet. Elisha blinds the Aramean soldiers, leads them to Samaria, and orders that they be fed and released rather than killed.",
+      "image_prompt": "Elisha standing calmly while his servant sees fiery horses and chariots on the mountain; Aramean soldiers nearby, biblical educational artwork, no graphic violence"
+    },
+    {
+      "title": "המצור, הרעב והייאוש בשומרון",
+      "title_en": "The Siege, Famine, and Despair in Samaria",
+      "start_verse": 24,
+      "end_verse": 33,
+      "summary": "בן הדד מטיל מצור על שומרון, והרָעָב בעיר נעשה קיצוני. סיפורן של שתי הנשים מזעזע את המלך, והוא מאשים את אלישע ומתכנן להמיתו, בעוד אלישע ממתין ללא פתרון מיידי.",
+      "summary_en": "Ben-hadad besieges Samaria, and the famine in the city becomes extreme. The story of the two women horrifies the king, who blames Elisha and plans to kill him, while Elisha has no immediate solution.",
+      "image_prompt": "The king of Israel walking along the wall of besieged Samaria in mourning garments, famine-stricken city below, solemn biblical educational illustration, non-graphic"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 10.82,
+      "usfm": "2KI.6.1"
+    },
+    {
+      "start": 10.82,
+      "end": 20.44,
+      "usfm": "2KI.6.2"
+    },
+    {
+      "start": 20.44,
+      "end": 27.38,
+      "usfm": "2KI.6.3"
+    },
+    {
+      "start": 27.38,
+      "end": 32.06,
+      "usfm": "2KI.6.4"
+    },
+    {
+      "start": 32.06,
+      "end": 40.64,
+      "usfm": "2KI.6.5"
+    },
+    {
+      "start": 40.64,
+      "end": 50.98,
+      "usfm": "2KI.6.6"
+    },
+    {
+      "start": 50.98,
+      "end": 56.84,
+      "usfm": "2KI.6.7"
+    },
+    {
+      "start": 56.84,
+      "end": 66.08,
+      "usfm": "2KI.6.8"
+    },
+    {
+      "start": 66.08,
+      "end": 75.12,
+      "usfm": "2KI.6.9"
+    },
+    {
+      "start": 75.12,
+      "end": 84.08,
+      "usfm": "2KI.6.10"
+    },
+    {
+      "start": 84.08,
+      "end": 94.74,
+      "usfm": "2KI.6.11"
+    },
+    {
+      "start": 94.74,
+      "end": 105.6,
+      "usfm": "2KI.6.12"
+    },
+    {
+      "start": 105.6,
+      "end": 115.08,
+      "usfm": "2KI.6.13"
+    },
+    {
+      "start": 115.08,
+      "end": 122.56,
+      "usfm": "2KI.6.14"
+    },
+    {
+      "start": 122.56,
+      "end": 135.98,
+      "usfm": "2KI.6.15"
+    },
+    {
+      "start": 135.98,
+      "end": 143.52,
+      "usfm": "2KI.6.16"
+    },
+    {
+      "start": 143.52,
+      "end": 162.82,
+      "usfm": "2KI.6.17"
+    },
+    {
+      "start": 162.82,
+      "end": 176.36,
+      "usfm": "2KI.6.18"
+    },
+    {
+      "start": 176.36,
+      "end": 187.5,
+      "usfm": "2KI.6.19"
+    },
+    {
+      "start": 187.5,
+      "end": 204.16,
+      "usfm": "2KI.6.20"
+    },
+    {
+      "start": 204.16,
+      "end": 210.06,
+      "usfm": "2KI.6.21"
+    },
+    {
+      "start": 210.06,
+      "end": 223.58,
+      "usfm": "2KI.6.22"
+    },
+    {
+      "start": 223.58,
+      "end": 235.22,
+      "usfm": "2KI.6.23"
+    },
+    {
+      "start": 235.22,
+      "end": 243.04,
+      "usfm": "2KI.6.24"
+    },
+    {
+      "start": 243.04,
+      "end": 256.52,
+      "usfm": "2KI.6.25"
+    },
+    {
+      "start": 256.52,
+      "end": 264.38,
+      "usfm": "2KI.6.26"
+    },
+    {
+      "start": 264.38,
+      "end": 270.98,
+      "usfm": "2KI.6.27"
+    },
+    {
+      "start": 270.98,
+      "end": 282.2,
+      "usfm": "2KI.6.28"
+    },
+    {
+      "start": 282.2,
+      "end": 293.84,
+      "usfm": "2KI.6.29"
+    },
+    {
+      "start": 293.84,
+      "end": 306.72,
+      "usfm": "2KI.6.30"
+    },
+    {
+      "start": 306.72,
+      "end": 314.7,
+      "usfm": "2KI.6.31"
+    },
+    {
+      "start": 314.7,
+      "end": 339.9,
+      "usfm": "2KI.6.32"
+    },
+    {
+      "start": 339.9,
+      "end": 359.96,
+      "usfm": "2KI.6.33"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    10.82,
+    20.44,
+    27.38,
+    32.06,
+    40.64,
+    50.98,
+    56.84,
+    66.08,
+    75.12,
+    84.08,
+    94.74,
+    105.6,
+    115.08,
+    122.56,
+    135.98,
+    143.52,
+    162.82,
+    176.36,
+    187.5,
+    204.16,
+    210.06,
+    223.58,
+    235.22,
+    243.04,
+    256.52,
+    264.38,
+    270.98,
+    282.2,
+    293.84,
+    306.72,
+    314.7,
+    339.9,
+    359.96
+  ],
+  "times_en_usfm": [
+    "2KI.6.1",
+    "2KI.6.2",
+    "2KI.6.3",
+    "2KI.6.4",
+    "2KI.6.5",
+    "2KI.6.6",
+    "2KI.6.7",
+    "2KI.6.8",
+    "2KI.6.9",
+    "2KI.6.10",
+    "2KI.6.11",
+    "2KI.6.12",
+    "2KI.6.13",
+    "2KI.6.14",
+    "2KI.6.15",
+    "2KI.6.16",
+    "2KI.6.17",
+    "2KI.6.18",
+    "2KI.6.19",
+    "2KI.6.20",
+    "2KI.6.21",
+    "2KI.6.22",
+    "2KI.6.23",
+    "2KI.6.24",
+    "2KI.6.25",
+    "2KI.6.26",
+    "2KI.6.27",
+    "2KI.6.28",
+    "2KI.6.29",
+    "2KI.6.30",
+    "2KI.6.31",
+    "2KI.6.32",
+    "2KI.6.33"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בני הנביאים אמרו לאלישע שמקום מגוריהם צר, ולכן ביקשו להרחיב אותו ליד הירדן.",
+      "text_he": "הידעת? בני הנביאים אמרו לאלישע שמקום מגוריהם צר, ולכן ביקשו להרחיב אותו ליד הירדן.",
+      "text_en": "Did you know? The sons of the prophets told Elisha that their place of residence was too small, so they asked to expand it near the Jordan."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? הברזל שנפל למים היה שאול, ולכן האיש שנפגע מהאובדן צעק: \"וְהוּא שָׁאוּל\".",
+      "text_he": "הידעת? הברזל שנפל למים היה שאול, ולכן האיש שנפגע מהאובדן צעק: \"וְהוּא שָׁאוּל\".",
+      "text_en": "Did you know? The iron that fell into the water had been borrowed, so the man distressed by its loss cried out, “Oh no, my master! It was borrowed!”"
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? אלישע שאל היכן נפל הברזל, השליך עץ למקום, ואז הברזל צף על פני המים.",
+      "text_he": "הידעת? אלישע שאל היכן נפל הברזל, השליך עץ למקום, ואז הברזל צף על פני המים.",
+      "text_en": "Did you know? Elisha asked where the iron had fallen, threw a piece of wood into the spot, and the iron floated to the surface of the water."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? מלך ישראל נשמר מפני מארבי ארם שוב ושוב — \"לֹא אַחַת, וְלֹא שְׁתָּיִם\" — בזכות אזהרותיו של אלישע.",
+      "text_he": "הידעת? מלך ישראל נשמר מפני מארבי ארם שוב ושוב — \"לֹא אַחַת, וְלֹא שְׁתָּיִם\" — בזכות אזהרותיו של אלישע.",
+      "text_en": "Did you know? The king of Israel was repeatedly warned about the Aramean ambushes—“not once or twice”—thanks to Elisha’s warnings."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? כאשר מלך ארם גילה שאלישע מסכל את תוכניותיו, נמסר לו שהנביא נמצא בדותן, ולכן שלח לשם צבא גדול.",
+      "text_he": "הידעת? כאשר מלך ארם גילה שאלישע מסכל את תוכניותיו, נמסר לו שהנביא נמצא בדותן, ולכן שלח לשם צבא גדול.",
+      "text_en": "Did you know? When the king of Aram discovered that Elisha was thwarting his plans, he was told that the prophet was in Dothan, so he sent a large army there."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? לאחר תפילת אלישע נפקחו עיני נערו, והוא ראה את ההר מלא סוסים ורכב אש סביב אלישע.",
+      "text_he": "הידעת? לאחר תפילת אלישע נפקחו עיני נערו, והוא ראה את ההר מלא סוסים ורכב אש סביב אלישע.",
+      "text_en": "Did you know? After Elisha prayed, his servant’s eyes were opened, and he saw the mountain full of horses and chariots of fire surrounding Elisha."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? אלישע הוביל את חיילי ארם, שלקו בסנוורים, עד שומרון — העיר שאליה ביקשו להגיע כביכול.",
+      "text_he": "הידעת? אלישע הוביל את חיילי ארם, שלקו בסנוורים, עד שומרון — העיר שאליה ביקשו להגיע כביכול.",
+      "text_en": "Did you know? Elisha led the Aramean soldiers, who had been struck with blindness, to Samaria—the city they supposedly intended to reach."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? אלישע מנע ממלך ישראל להרוג את חיילי ארם וציווה להגיש להם לחם ומים ולשלחם אל אדוניהם.",
+      "text_he": "הידעת? אלישע מנע ממלך ישראל להרוג את חיילי ארם וציווה להגיש להם לחם ומים ולשלחם אל אדוניהם.",
+      "text_en": "Did you know? Elisha stopped the king of Israel from killing the Aramean soldiers and ordered him to give them bread and water and send them back to their master."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? המצור על שומרון גרם לרעב קיצוני: ראש חמור נמכר בשמונים כסף, ומידה קטנה של חרֵיונים ביונים נמכרה בחמישה כסף.",
+      "text_he": "הידעת? המצור על שומרון גרם לרעב קיצוני: ראש חמור נמכר בשמונים כסף, ומידה קטנה של חרֵיונים ביונים נמכרה בחמישה כסף.",
+      "text_en": "Did you know? The siege of Samaria caused extreme famine: a donkey’s head sold for eighty shekels of silver, and a small measure of dove droppings sold for five shekels."
+    },
+    {
+      "verse": 30,
+      "text": "הידעת? כששמע מלך ישראל את סיפורה המזעזע של האישה, הוא קרע את בגדיו, ואז התגלה שהשק היה על בשרו מתחת לבגדים.",
+      "text_he": "הידעת? כששמע מלך ישראל את סיפורה המזעזע של האישה, הוא קרע את בגדיו, ואז התגלה שהשק היה על בשרו מתחת לבגדים.",
+      "text_en": "Did you know? When the king of Israel heard the woman’s shocking story, he tore his clothes, and it was revealed that he was wearing sackcloth next to his skin beneath his clothes."
+    }
+  ]
+}
