@@ -1,0 +1,584 @@
+{
+  "book": "Nehemiah",
+  "book_he": "נחמיה",
+  "book_chapters": 13,
+  "chapter": 3,
+  "title": "נחמיה פרק 3",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35b03.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35b03.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/3-3a02d6069f26338c0b61c819f1cc1e9d.mp3?version_id=1",
+  "verses": [
+    "וַיָּקָם אֶלְיָשִׁיב הַכֹּהֵן הַגָּדוֹל וְאֶחָיו הַכֹּהֲנִים, וַיִּבְנוּ אֶת-שַׁעַר הַצֹּאן--הֵמָּה קִדְּשׁוּהוּ, וַיַּעֲמִידוּ דַּלְתֹתָיו; וְעַד-מִגְדַּל הַמֵּאָה קִדְּשׁוּהוּ, עַד מִגְדַּל חֲנַנְאֵל.",
+    "וְעַל-יָדוֹ בָנוּ, אַנְשֵׁי יְרֵחוֹ; {ס} וְעַל-יָדוֹ בָנָה, זַכּוּר בֶּן-אִמְרִי.",
+    "וְאֵת שַׁעַר הַדָּגִים, בָּנוּ בְּנֵי הַסְּנָאָה; הֵמָּה קֵרוּהוּ--וַיַּעֲמִידוּ דַּלְתֹתָיו, מַנְעוּלָיו וּבְרִיחָיו.",
+    "וְעַל-יָדָם הֶחֱזִיק, מְרֵמוֹת בֶּן-אוּרִיָּה בֶּן-הַקּוֹץ, {ס} וְעַל-יָדָם הֶחֱזִיק, מְשֻׁלָּם בֶּן-בֶּרֶכְיָה בֶּן-מְשֵׁיזַבְאֵל; {ס} וְעַל-יָדָם הֶחֱזִיק, צָדוֹק בֶּן-בַּעֲנָא.",
+    "וְעַל-יָדָם, הֶחֱזִיקוּ הַתְּקוֹעִים; וְאַדִּירֵיהֶם לֹא-הֵבִיאוּ צַוָּרָם, בַּעֲבֹדַת אֲדֹנֵיהֶם.",
+    "וְאֵת שַׁעַר הַיְשָׁנָה הֶחֱזִיקוּ, יוֹיָדָע בֶּן-פָּסֵחַ, וּמְשֻׁלָּם, בֶּן-בְּסוֹדְיָה; הֵמָּה קֵרוּהוּ--וַיַּעֲמִידוּ דַּלְתֹתָיו, וּמַנְעֻלָיו וּבְרִיחָיו.",
+    "וְעַל-יָדָם הֶחֱזִיק מְלַטְיָה הַגִּבְעֹנִי, וְיָדוֹן הַמֵּרֹנֹתִי, אַנְשֵׁי גִבְעוֹן, וְהַמִּצְפָּה--לְכִסֵּא, פַּחַת עֵבֶר הַנָּהָר.",
+    "עַל-יָדוֹ הֶחֱזִיק, עֻזִּיאֵל בֶּן-חַרְהֲיָה צוֹרְפִים, {ס} וְעַל-יָדוֹ הֶחֱזִיק, חֲנַנְיָה בֶּן-הָרַקָּחִים; וַיַּעַזְבוּ, יְרוּשָׁלִַם, עַד, הַחוֹמָה הָרְחָבָה.",
+    "וְעַל-יָדָם הֶחֱזִיק, רְפָיָה בֶן-חוּר, שַׂר, חֲצִי פֶּלֶךְ יְרוּשָׁלִָם.",
+    "וְעַל-יָדָם הֶחֱזִיק יְדָיָה בֶן-חֲרוּמַף, וְנֶגֶד בֵּיתוֹ; {ס} וְעַל-יָדוֹ הֶחֱזִיק, חַטּוּשׁ בֶּן-חֲשַׁבְנְיָה.",
+    "מִדָּה שֵׁנִית, הֶחֱזִיק מַלְכִּיָּה בֶן-חָרִם, וְחַשּׁוּב, בֶּן-פַּחַת מוֹאָב; וְאֵת, מִגְדַּל הַתַּנּוּרִים.",
+    "וְעַל-יָדוֹ הֶחֱזִיק, שַׁלּוּם בֶּן-הַלּוֹחֵשׁ, שַׂר, חֲצִי פֶּלֶךְ יְרוּשָׁלִָם; הוּא, וּבְנוֹתָיו.",
+    "אֵת שַׁעַר הַגַּיְא הֶחֱזִיק חָנוּן, וְיֹשְׁבֵי זָנוֹחַ--הֵמָּה בָנוּהוּ, וַיַּעֲמִידוּ דַּלְתֹתָיו מַנְעֻלָיו וּבְרִיחָיו; וְאֶלֶף אַמָּה בַּחוֹמָה, עַד שַׁעַר הָשְׁפוֹת.",
+    "וְאֵת שַׁעַר הָאַשְׁפּוֹת, הֶחֱזִיק מַלְכִּיָּה בֶן-רֵכָב, שַׂר, פֶּלֶךְ בֵּית-הַכָּרֶם; הוּא יִבְנֶנּוּ--וְיַעֲמִיד דַּלְתֹתָיו, מַנְעֻלָיו וּבְרִיחָיו.",
+    "וְאֵת שַׁעַר הָעַיִן הֶחֱזִיק שַׁלּוּן בֶּן-כָּל-חֹזֶה, שַׂר פֶּלֶךְ הַמִּצְפָּה--הוּא יִבְנֶנּוּ וִיטַלְלֶנּוּ, ויעמידו וְיַעֲמִיד דַּלְתֹתָיו מַנְעֻלָיו וּבְרִיחָיו; וְאֵת חוֹמַת בְּרֵכַת הַשֶּׁלַח, לְגַן-הַמֶּלֶךְ, וְעַד-הַמַּעֲלוֹת, הַיּוֹרְדוֹת מֵעִיר דָּוִיד.",
+    "אַחֲרָיו הֶחֱזִיק, נְחֶמְיָה בֶן-עַזְבּוּק, שַׂר, חֲצִי פֶּלֶךְ בֵּית-צוּר--עַד-נֶגֶד, קִבְרֵי דָוִיד, וְעַד-הַבְּרֵכָה הָעֲשׂוּיָה, וְעַד בֵּית הַגִּבֹּרִים.",
+    "אַחֲרָיו הֶחֱזִיקוּ הַלְוִיִּם, רְחוּם בֶּן-בָּנִי; עַל-יָדוֹ הֶחֱזִיק, חֲשַׁבְיָה שַׂר-חֲצִי-פֶלֶךְ קְעִילָה--לְפִלְכּוֹ.",
+    "אַחֲרָיו הֶחֱזִיקוּ אֲחֵיהֶם, בַּוַּי בֶּן-חֵנָדָד, שַׂר, חֲצִי פֶּלֶךְ קְעִילָה.",
+    "וַיְחַזֵּק עַל-יָדוֹ עֵזֶר בֶּן-יֵשׁוּעַ, שַׂר הַמִּצְפָּה--מִדָּה שֵׁנִית: מִנֶּגֶד, עֲלֹת הַנֶּשֶׁק הַמִּקְצֹעַ.",
+    "אַחֲרָיו הֶחֱרָה הֶחֱזִיק בָּרוּךְ בֶּן-זבי זַכַּי , מִדָּה שֵׁנִית: מִן-הַמִּקְצוֹעַ--עַד-פֶּתַח בֵּית אֶלְיָשִׁיב, הַכֹּהֵן הַגָּדוֹל.",
+    "אַחֲרָיו הֶחֱזִיק, מְרֵמוֹת בֶּן-אוּרִיָּה בֶּן-הַקּוֹץ--מִדָּה שֵׁנִית: מִפֶּתַח בֵּית אֶלְיָשִׁיב, וְעַד-תַּכְלִית בֵּית אֶלְיָשִׁיב.",
+    "וְאַחֲרָיו הֶחֱזִיקוּ הַכֹּהֲנִים, אַנְשֵׁי הַכִּכָּר.",
+    "אַחֲרָיו הֶחֱזִיק בִּנְיָמִן וְחַשּׁוּב, נֶגֶד בֵּיתָם; {ס} אַחֲרָיו הֶחֱזִיק, עֲזַרְיָה בֶן-מַעֲשֵׂיָה בֶּן-עֲנָנְיָה--אֵצֶל בֵּיתוֹ.",
+    "אַחֲרָיו הֶחֱזִיק, בִּנּוּי בֶּן-חֵנָדָד--מִדָּה שֵׁנִית: מִבֵּית עֲזַרְיָה, עַד-הַמִּקְצוֹעַ וְעַד-הַפִּנָּה.",
+    "פָּלָל בֶּן-אוּזַי, מִנֶּגֶד הַמִּקְצוֹעַ, וְהַמִּגְדָּל הַיּוֹצֵא מִבֵּית הַמֶּלֶךְ הָעֶלְיוֹן, אֲשֶׁר לַחֲצַר הַמַּטָּרָה; אַחֲרָיו, פְּדָיָה בֶן-פַּרְעֹשׁ.",
+    "וְהַנְּתִינִים--הָיוּ יֹשְׁבִים, בָּעֹפֶל: עַד נֶגֶד שַׁעַר הַמַּיִם, לַמִּזְרָח, וְהַמִּגְדָּל, הַיּוֹצֵא.",
+    "אַחֲרָיו הֶחֱזִיקוּ הַתְּקֹעִים, מִדָּה שֵׁנִית: מִנֶּגֶד הַמִּגְדָּל הַגָּדוֹל, הַיּוֹצֵא, וְעַד, חוֹמַת הָעֹפֶל.",
+    "מֵעַל שַׁעַר הַסּוּסִים, הֶחֱזִיקוּ הַכֹּהֲנִים--אִישׁ, לְנֶגֶד בֵּיתוֹ.",
+    "אַחֲרָיו הֶחֱזִיק צָדוֹק בֶּן-אִמֵּר, נֶגֶד בֵּיתוֹ; {ס} וְאַחֲרָיו הֶחֱזִיק שְׁמַעְיָה בֶן-שְׁכַנְיָה, שֹׁמֵר שַׁעַר הַמִּזְרָח.",
+    "אחרי אַחֲרָיו הֶחֱזִיק חֲנַנְיָה בֶן-שֶׁלֶמְיָה, וְחָנוּן בֶּן-צָלָף הַשִּׁשִּׁי--מִדָּה שֵׁנִי; {ס} אַחֲרָיו הֶחֱזִיק, מְשֻׁלָּם בֶּן-בֶּרֶכְיָה--נֶגֶד, נִשְׁכָּתוֹ.",
+    "אחרי אַחֲרָיו הֶחֱזִיק, מַלְכִּיָּה בֶּן-הַצֹּרְפִי--עַד-בֵּית הַנְּתִינִים, וְהָרֹכְלִים: נֶגֶד שַׁעַר הַמִּפְקָד, וְעַד עֲלִיַּת הַפִּנָּה.",
+    "וּבֵין עֲלִיַּת הַפִּנָּה לְשַׁעַר הַצֹּאן, הֶחֱזִיקוּ הַצֹּרְפִים וְהָרֹכְלִים.",
+    "וַיְהִי כַּאֲשֶׁר שָׁמַע סַנְבַלַּט, כִּי-אֲנַחְנוּ בוֹנִים אֶת-הַחוֹמָה, וַיִּחַר לוֹ, וַיִּכְעַס הַרְבֵּה; וַיַּלְעֵג, עַל-הַיְּהוּדִים.",
+    "וַיֹּאמֶר לִפְנֵי אֶחָיו, וְחֵיל שֹׁמְרוֹן, וַיֹּאמֶר, מָה הַיְּהוּדִים הָאֲמֵלָלִים עֹשִׂים; הֲיַעַזְבוּ לָהֶם הֲיִזְבָּחוּ הַיְכַלּוּ בַיּוֹם, הַיְחַיּוּ אֶת-הָאֲבָנִים מֵעֲרֵמוֹת הֶעָפָר וְהֵמָּה שְׂרוּפוֹת.",
+    "וְטוֹבִיָּה הָעַמֹּנִי, אֶצְלוֹ; וַיֹּאמֶר, גַּם אֲשֶׁר-הֵם בּוֹנִים--אִם-יַעֲלֶה שׁוּעָל, וּפָרַץ חוֹמַת אַבְנֵיהֶם.",
+    "שְׁמַע אֱלֹהֵינוּ כִּי-הָיִינוּ בוּזָה, וְהָשֵׁב חֶרְפָּתָם אֶל-רֹאשָׁם; וּתְנֵם לְבִזָּה, בְּאֶרֶץ שִׁבְיָה.",
+    "וְאַל-תְּכַס, עַל-עֲוֺנָם, וְחַטָּאתָם, מִלְּפָנֶיךָ אַל-תִּמָּחֶה: כִּי הִכְעִיסוּ, לְנֶגֶד הַבּוֹנִים.",
+    "וַנִּבְנֶה, אֶת-הַחוֹמָה, וַתִּקָּשֵׁר כָּל-הַחוֹמָה, עַד-חֶצְיָהּ; וַיְהִי לֵב לָעָם, לַעֲשׂוֹת."
+  ],
+  "english": [
+    "Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.",
+    "And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.",
+    "But the fish gate did the sons of Hassenaah build, who\nalso\n laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.",
+    "And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana.",
+    "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.",
+    "Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.",
+    "And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.",
+    "Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of\none of the apothecaries, and they fortified Jerusalem unto the broad wall.",
+    "And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.",
+    "And next unto them repaired Jedaiah the son of Harumaph, even over against his house. And next unto him repaired Hattush the son of Hashabniah.",
+    "Malchijah the son of Harim, and Hashub the son of Pahath-moab, repaired the other piece, and the tower of the furnaces.",
+    "And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.",
+    "The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.",
+    "But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Beth-haccerem; he build it, and set up the doors thereof, the locks thereof, and the bars thereof.",
+    "But the gate of the fountain repaired Shallun the son of Col-hozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king’s garden, and unto the stairs that go down from the city of David.",
+    "After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth-zur, unto\nthe place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.",
+    "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part.",
+    "After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.",
+    "And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning\nof the wall.",
+    "After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning\nof the wall unto the door of the house of Eliashib the high priest.",
+    "After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.",
+    "And after him repaired the priests, the men of the plain.",
+    "After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.",
+    "After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning\nof the wall, even unto the corner.",
+    "Palal the son of Uzai, over against the turning\nof the wall,\n and the tower which lieth out from the king’s high house, that\nwas by the court of the prison. After him Pedaiah the son of Parosh.",
+    "Moreover the Nethinims dwelt in Ophel, unto\nthe place over against the water gate toward the east, and the tower that lieth out.",
+    "After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.",
+    "From above the horse gate repaired the priests, every one over against his house.",
+    "After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.",
+    "After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.",
+    "After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.",
+    "And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants."
+  ],
+  "steinsaltz": [
+    "וַיָּקָם אֶלְיָשִׁיב הַכֹּהֵן הַגָּדוֹל וְאֶחָיו הַכֹּהֲנִים וַיִּבְנוּ אֶת־שַׁעַר הַצֹּאן, שנקרא כך כנראה משום שדרכו הביאו את הצאן אל המקדש. הֵמָּה קִדְּשׁוּהוּ, הכינו את השער הזה וסיפחו אותו לעיר הקודש, וַיַּעֲמִידוּ דַּלְתֹתָיו, וְעַד־מִגְדַּל הַמֵּאָה קִדְּשׁוּהוּ, ובנו הלאה עַד מִגְדַּל חֲנַנְאֵל. הכהנים קיבלו על עצמם את הקטע הזה בחומה.",
+    "וְעַל־יָדוֹ – ליד החלק בחומה שבנו אלישיב ואחיו הכהנים בָנוּ אַנְשֵׁי יְרֵחוֹ, וְעַל־יָדוֹ של אלישיב בָנָה גם זַכּוּר בֶּן־אִמְרִי, שהיה כנראה בן למשפחה חשובה.",
+    "וְאֵת שַׁעַר הַדָּגִים בָּנוּ בְּנֵי הַסְּנָאָה משפחה משבט בנימין. הֵמָּה קֵרוּהוּ – את השער, וַיַּעֲמִידוּ דַלְתֹתָיו, מַנְעוּלָיו וּבְרִיחָיו. בניית שער הייתה מסובכת יותר מאשר בנייתה של חומה פשוטה ודרשה השקעה ואומנות יתרה.",
+    "וְעַל־יָדָם, בקטע הסמוך להם הֶחֱזִיק, תיקן את החומות מְרֵמוֹת בֶּן־אוּרִיָּה בֶּן־הַקּוֹץ, וְעַל־יָדָם הֶחֱזִיק מְשֻׁלָּם בֶּן־בֶּרֶכְיָה בֶּן־מְשֵׁיזַבְאֵל, וְעַל־יָדָם הֶחֱזִיק צָדוֹק בֶּן־בַּעֲנָא.",
+    "וְעַל־יָדָם הֶחֱזִיקוּ הַתְּקוֹעִים, אנשי העיר תקוע, שהייתה עיר פעילה ופטריוטית. האנשים הפשוטים הצטרפו לבנייה, וְאילו אַדִּירֵיהֶם, העשירים והנכבדים שבהם לֹא־הֵבִיאוּ את צַוָּרָם, צווארם בַּעֲבֹדַת אֲדֹנֵיהֶם, לא השתתפו במלאכה.",
+    "וְאֵת שַׁעַר החומה הַיְשָׁנָה, כך נקרא השער, הֶחֱזִיקוּ יוֹיָדָע בֶּן־פָּסֵחַ וּמְשֻׁלָּם בֶּן־בְּסוֹדְיָה. הֵמָּה קֵרוּהוּ וַיַּעֲמִידוּ דַּלְתֹתָיו וּמַנְעֻלָיו וּבְרִיחָיו.",
+    "וְעַל־יָדָם הֶחֱזִיק מְלַטְיָה הַגִּבְעֹנִי וְיָדוֹן הַמֵּרֹנֹתִי שהיו אַנְשֵׁי גִבְעוֹן וְהַמִּצְפָּה, והם הודיעו שאת חלקם בבנייה עשו לְכִסֵּא, לכבוד שלטונו של פַּחַת עֵבֶר הַנָּהָר אולי משום שהוא תמך בהם. ייתכן שייחדו שם מקום לכיסאו של הפחה בבואו לירושלים. אף שאנשי גבעון היו שייכים לכאורה לנתינים, כנראה הם לא הרגישו דחויים ומושפלים אלא ראו עצמם שותפים מלאים עִם ישראל.",
+    "עַל־יָדוֹ הֶחֱזִיק עֻזִּיאֵל בֶּן־חַרְהֲיָה ששניהם היו צוֹרְפִים, וְעַל־יָדוֹ הֶחֱזִיק חֲנַנְיָה בֶּן־הָרַקָּחִים, וַיַּעַזְבוּ, חיזקו, או: בנו שכבה אוטמת לעיר יְרוּשָׁלִַם עַד הַחוֹמָה הָרְחָבָה.",
+    "וְעַל־יָדָם הֶחֱזִיק רְפָיָה בֶן־חוּר, שהיה שַׂר חֲצִי פֶּלֶךְ, מחוז יְרוּשָׁלִָם. היקף תפקידו היה מוגבל שהרי אוכלוסיית העיר לא הייתה גדולה.",
+    "וְעַל־יָדָם הֶחֱזִיק יְדָיָה בֶן־חֲרוּמַף, שם פרטי, או: כינוי שמשמעו חרום-אף – מי שאפו שקוע מעט. וְהייתה החזקתו נֶגֶד, מול בֵּיתוֹ. וְעַל־יָדוֹ הֶחֱזִיק חַטּוּשׁ בֶּן־חֲשַׁבְנְיָה.",
+    "מִדָּה שֵׁנִית, נוספת, ואולי: מידה זהה למידה הקודמת הֶחֱזִיק מַלְכִּיָּה בֶן־חָרִם וְחַשּׁוּב שהיה בֶּן־פַּחַת מוֹאָב בבניית החומה וְכן הם בנו אֵת מִגְדַּל הַתַּנּוּרִים. כך שמו של מגדל שהיה בעיר, שהיה כנראה קצה חלק בנייתם בחומה.",
+    "וְעַל־יָדוֹ הֶחֱזִיק שַׁלּוּם בֶּן־הַלּוֹחֵשׁ שהיה שַׂר חֲצִי פֶּלֶךְ השני של יְרוּשָׁלִָם, הוּא וּבְנוֹתָיו. ייתכן שלא היו לו בנים. מן הסתם הבנות לא בנו את החומה בעצמן. מסתבר יותר שהן היו נשים מכובדות ועשירות שעזרו בתרומה ושלחו גם את בני משפחותיהן לסייע.",
+    "אֵת שַׁעַר הַגַּיְא הֶחֱזִיק חָנוּן וְיֹשְׁבֵי זָנוֹחַ. הֵמָּה בָנוּהוּ וַיַּעֲמִידוּ דַּלְתֹתָיו, מַנְעֻלָיו וּבְרִיחָיו. ומלבד בניית השער הם קיבלו על עצמם לבנות אֶלֶף אַמָּה בַּחוֹמָה עַד שַׁעַר הָשְׁפוֹת, האשפות.",
+    "וְאֵת שַׁעַר הָאַשְׁפּוֹת עצמו הֶחֱזִיק מַלְכִּיָּה בֶן־רֵכָב, שַׂר פֶּלֶךְ בֵּית־הַכָּרֶם. הוּא יִבְנֶנּוּ וְיַעֲמִיד דַּלְתֹתָיו, מַנְעֻלָיו וּבְרִיחָיו.",
+    "וְאֵת שַׁעַר הָעַיִן הֶחֱזִיק שַׁלּוּן בֶּן־כָּל־חֹזֶה, שם או כינוי שמשמעו רואה כול, ואולי מובנו פיקח, שַׂר פֶּלֶךְ הַמִּצְפָּה. הוּא יִבְנֶנּוּ וִיטַלְלֶנּוּ, יְקרה אותו, יתקין לו גג וְיַעֲמִיד דַּלְתֹתָיו, מַנְעֻלָיו וּבְרִיחָיו. וְכן בנה אֵת חוֹמַת בְּרֵכַת הַשֶּׁלַח לְגַן־הַמֶּלֶךְ וְעַד־הַמַּעֲלוֹת הַיּוֹרְדוֹת מֵעִיר דָּוִיד.",
+    "אַחֲרָיו הֶחֱזִיק נְחֶמְיָה בֶן־עַזְבּוּק, שַׂר חֲצִי פֶּלֶךְ בֵּית־צוּר, עַד־נֶגֶד, מול מקום קִבְרֵי דָוִיד והלאה, או בצד אחר – עַד הַבְּרֵכָה הָעֲשׂוּיָה בידי אדם וְעַד בֵּית הַגִּבֹּרִים.",
+    "אַחֲרָיו הֶחֱזִיקוּ הַלְוִיִּם: רְחוּם בֶּן־בָּנִי, ועַל־יָדוֹ הֶחֱזִיק חֲשַׁבְיָה, שַׂר־חֲצִי־פֶלֶךְ קְעִילָה, שעשה את המלאכה לְפִלְכּוֹ, בשביל הפלך שלו.",
+    "אַחֲרָיו הֶחֱזִיקוּ אֲחֵיהֶם בַּוַּי בֶּן־חֵנָדָד, שַׂר חֲצִי, המחצית השנייה של פֶּלֶךְ קְעִילָה.",
+    "וַיְחַזֵּק עַל־יָדוֹ עֵזֶר בֶּן־יֵשׁוּעַ שַׂר הַמִּצְפָּה מִדָּה שֵׁנִית. קודם השתתף בבניית מידת אורך אחת מן החומה, וכאשר גמר את חלקו התנדב עֵזר מידה נוספת במקום אחר. מִנֶּגֶד עֲלֹת, מול מעלה או מבנה ששימש להנחת הַנֶּשֶׁק שהיה סמוך אל הַמִּקְצֹעַ, פינת החומה.",
+    "אַחֲרָיו הֶחֱרָה, הזדרז, התלהב והֶחֱזִיק בָּרוּךְ בֶּן־זַכַּי שבנה מִדָּה שֵׁנִית מִן־הַמִּקְצוֹעַ, הפינה עַד־פֶּתַח בֵּית אֶלְיָשִׁיב הַכֹּהֵן הַגָּדוֹל.",
+    "אַחֲרָיו הֶחֱזִיק מְרֵמוֹת בֶּן־אוּרִיָּה בֶּן־הַקּוֹץ מִדָּה שֵׁנִית, מידה נוספת, מִפֶּתַח בֵּית אֶלְיָשִׁיב וְעַד־תַּכְלִית, סוף בֵּית אֶלְיָשִׁיב. בית אלישיב הכהן הגדול היה בית גדול שעמד כנראה סמוך לחומה, ומרמות בנה בקטע החומה המקביל למידת הבית.",
+    "וְאַחֲרָיו הֶחֱזִיקוּ הַכֹּהֲנִים אַנְשֵׁי הַכִּכָּר שסביב לירושלים.",
+    "אַחֲרָיו הֶחֱזִיק בִּנְיָמִן וְאתו חַשּׁוּב נֶגֶד, מול בֵּיתָם. אַחֲרָיו הֶחֱזִיק עֲזַרְיָה בֶן־מַעֲשֵׂיָה בֶּן־עֲנָנְיָה אֵצֶל בֵּיתוֹ. לאנשים אלה היו בתים בירושלים, והם קיבלו על עצמם לבנות את החומה הסמוכה לבתיהם.",
+    "אַחֲרָיו הֶחֱזִיק בִּנּוּי בֶּן־חֵנָדָד מִדָּה שֵׁנִית, מִבֵּית עֲזַרְיָה עַד־הַמִּקְצוֹעַ, קצה החומה וְעַד־הַפִּנָּה, המגדל הפינתי.",
+    "פָּלָל בֶּן־אוּזַי בנה מִנֶּגֶד הַמִּקְצוֹעַ וְהַמִּגְדָּל הַיּוֹצֵא מִבֵּית הַמֶּלֶךְ הָעֶלְיוֹן אֲשֶׁר, ששייך לַחֲצַר הַמַּטָּרָה, ששימשה בית מעצר פנימי במתחם בית המלך. נראה שהיא לא נהרסה, וכעת בנו את החומה כנגדה. אַחֲרָיו פְּדָיָה בֶן־ פַּרְעֹשׁ.",
+    "וְהַנְּתִינִים הָיוּ יֹשְׁבִים בָּעֹפֶל, מקום או מבנה מוגבה, וגם הם עזרו בבניית החומה בתחומם עַד נֶגֶד שַׁעַר הַמַּיִם לַמִּזְרָח וְהַמִּגְדָּל הַיּוֹצֵא, הבולט.",
+    "אַחֲרָיו הֶחֱזִיקוּ הַתְּקֹעִים, שכבר הוזכר שהתנדבו לעבודה, וכשסיימו את עבודתם לקחו על עצמם מִדָּה שֵׁנִית, מִנֶּגֶד הַמִּגְדָּל הַגָּדוֹל הַיּוֹצֵא וְעַד חוֹמַת הָעֹפֶל.",
+    "מֵעַל שַׁעַר הַסּוּסִים הֶחֱזִיקוּ הַכֹּהֲנִים, אִישׁ לְנֶגֶד בֵּיתוֹ. הכהנים התגוררו מול החומה מבפנים, והם קיבלו על עצמם לבנות מול בתיהם.",
+    "אַחֲרָיו הֶחֱזִיק צָדוֹק בֶּן־אִמֵּר נֶגֶד בֵּיתוֹ, וְאַחֲרָיו הֶחֱזִיק שְׁמַעְיָה בֶן־שְׁכַנְיָה שֹׁמֵר שַׁעַר הַמִּזְרָח.",
+    "אַחֲרָיו הֶחֱזִיק חֲנַנְיָה בֶן־שֶׁלֶמְיָה וְחָנוּן בֶּן־צָלָף, הוא הבן הַשִּׁשִּׁי, שבנה מִדָּה שֵׁנִי, שנייה. אַחֲרָיו הֶחֱזִיק מְשֻׁלָּם בֶּן־בֶּרֶכְיָה נֶגֶד, מול נִשְׁכָּתוֹ, לשכתו שהייתה בנויה מבפנים.",
+    "אַחֲרָיו הֶחֱזִיק מַלְכִּיָּה בֶּן־הַצֹּרְפִי עַד־בֵּית הַנְּתִינִים וְהָרֹכְלִים, נֶגֶד שַׁעַר הַמִּפְקָד וְעַד עֲלִיַּת הַפִּנָּה, המגדל הפינתי.",
+    "וּבֵין עֲלִיַּת הַפִּנָּה לְשַׁעַר הַצֹּאן הֶחֱזִיקוּ הַצֹּרְפִים וְהָרֹכְלִים, מעין אגודות מקצועיות, שקיבלו על עצמן את המלאכה בשותפות.",
+    "וַיְהִי כַּאֲשֶׁר שָׁמַע סַנְבַלַּט כִּי־אֲנַחְנוּ בוֹנִים אֶת־הַחוֹמָה, וַיִּחַר לוֹ וַיִּכְעַס הַרְבֵּה, וַיַּלְעֵג עַל־הַיְּהוּדִים.",
+    "וַיֹּאמֶר לִפְנֵי אֶחָיו וְחֵיל שֹׁמְרוֹן, וַיֹּאמֶר, לאמור: מָה הַיְּהוּדִים הָאֲמֵלָלִים, האומללים והנשחתים עֹשִׂים?! הֲיַעַזְבוּ לָהֶם?! האם הם יצליחו לחזק את החומה?! הֲיִזְבָּחוּ, האם בגמר המלאכה יעלה בידם לזבוח דבר, כפי שהם מתכננים?! הַיְכַלּוּ, האם יוכלו לסיים את המלאכה בַיּוֹם, בזמן, ביום מן הימים?! הַיְחַיּוּ, האם הם יעלו מתוך העפר ויחדשו אֶת־הָאֲבָנִים מֵעֲרֵמוֹת הֶעָפָר, וְהֵמָּה שְׂרוּפוֹת?! אף על פי שאבנים אינן נשרפות ממש, חום גבוה גורם להן להתפרק במידה רבה, עד כדי כך שהן כבר אינן ראויות לבניין.",
+    "וְטוֹבִיָּה הָעַמֹּנִי עומד אֶצְלוֹ – ליד סנבלט, אולי בתור אחד מסגניו, וַיֹּאמֶר: גַּם אֲשֶׁר־הֵם בּוֹנִים, אף אם יצליחו לבנותה, איזו מין חומה זו תהיה?! אִם־יַעֲלֶה שׁוּעָל – וּפָרַץ חוֹמַת אַבְנֵיהֶם. אפילו שועל יוכל לפרוץ ולהפיל אותה.",
+    "כאשר נחמיה שמע את דבריהם, הוא פנה בתפילה לה': שְׁמַע, אֱלֹהֵינוּ, כִּי־הָיִינוּ בוּזָה, בוז, וְהָשֵׁב חֶרְפָּתָם אֶל־רֹאשָׁם. השב עליהם את הביזיון, וּתְנֵם לְבִזָּה, לבז בְּאֶרֶץ שִׁבְיָה. ראוי שהם יגלו ממקומם כשבויים.",
+    "וְאַל־תְּכַס, תכסה עַל־עֲוֹנָם, וְחַטָּאתָם מִלְּפָנֶיךָ אַל־תִּמָּחֶה, תימחק. זכור להם את חטאותיהם, וכשיגיע הזמן תעניש אותם כראוי, כִּי הִכְעִיסוּ לְנֶגֶד, לנוכח הַבּוֹנִים.",
+    "נחמיה ממשיך לספר: וַנִּבְנֶה אֶת־הַחוֹמָה הלאה, וַתִּקָּשֵׁר כָּל־הַחוֹמָה, קטעי הבנייה של קבוצות הבונים התחברו, עַד־חֶצְיָהּ, חצי גובהה. וַיְהִי לֵב לָעָם שמח ומתלהב לַעֲשׂוֹת."
+  ],
+  "ai_explanation": [
+    "אלישיב הכוהן הגדול ואחיו הכוהנים בנו את שער הצאן, שנקרא כנראה כך מפני שדרכו הביאו את הצאן אל המקדש. הם הכינו את השער, הציבו את דלתותיו ובנו את הקטע עד מגדל המאה ומגדל חננאל.",
+    "ליד הקטע שבנו אלישיב והכוהנים בנו אנשי יריחו, ולידם בנה גם זכור בן אמרי, שהיה כנראה בן למשפחה חשובה.",
+    "בני הסנאה בנו את שער הדגים, תיקנו אותו והציבו את דלתותיו, מנעוליו ובריחיו. בניית שער דרשה השקעה ומיומנות רבה יותר מבניית חומה רגילה.",
+    "מרמות בן אוריה בן הקוץ, משולם בן ברכיה בן משיזבאל וצדוק בן בענא תיקנו קטעים סמוכים בחומה.",
+    "אנשי תקוע השתתפו בבנייה, אך נכבדי העיר ועשיריה לא הסכימו להשתתף בעבודת אדוניהם.",
+    "יוידע בן פסח ומשולם בן בסודיה תיקנו את שער הישנה, ובנו בו את הדלתות, המנעולים והבריחים.",
+    "מלטיה הגבעוני וידון המרנותי, שהיו אנשי גבעון והמצפה, השתתפו בבנייה לכבוד פחת עבר הנהר, אולי מפני שתמך בהם. ייתכן שאף ייחדו מקום לכיסאו בבואו לירושלים.",
+    "עוזיאל בן חרהיה, שהיה צורף, וחנניה בן הרקחים השתתפו בבנייה. הם חיזקו או בנו שכבה אוטמת סביב ירושלים עד החומה הרחבה.",
+    "רפיה בן חור, שהיה שר חצי פלך ירושלים, השתתף בתיקון החומה.",
+    "ידיה בן חרומף בנה את הקטע שמול ביתו, ולידו השתתף חטוש בן חשבניה.",
+    "מלכיה בן חרם וחשוב בן פחת מואב בנו קטע נוסף בחומה וכן את מגדל התנורים, שהיה כנראה קצה אזור הבנייה שלהם.",
+    "שלום בן הלוחש, שר חצי פלך ירושלים, השתתף בבנייה יחד עם בנותיו. ייתכן שהבנות סייעו באמצעות תרומות ושליחת בני משפחותיהן לעבודה.",
+    "חנון ויושבי זנוח בנו את שער הגיא, הציבו את דלתותיו, מנעוליו ובריחיו, וקיבלו על עצמם לבנות עוד אלף אמה בחומה עד שער האשפות.",
+    "מלכיה בן רכב, שר פלך בית הכרם, בנה את שער האשפות והציב את דלתותיו, מנעוליו ובריחיו.",
+    "שלום בן כל חזה, שר פלך המצפה, בנה את שער העין, קירה אותו והציב את דלתותיו, מנעוליו ובריחיו. הוא גם בנה את החומה ליד ברכת השלח ועד המעלות היורדות מעיר דוד.",
+    "נחמיה בן עזבוק, שר חצי פלך בית צור, השתתף בבנייה עד מול קברי דוד, הברכה העשויה ובית הגבורים.",
+    "הלויים, ובהם רחום בן בני, השתתפו בבנייה. לידו עבד חשביה, שר חצי פלך קעילה, למען הפלך שלו.",
+    "בואי בן חנדד, שר החצי השני של פלך קעילה, השתתף בבניית החומה.",
+    "עזר בן ישוע, שר המצפה, בנה מידה נוספת במקום אחר, מול מעלות הנשק שליד פינת החומה.",
+    "ברוך בן זכַי הזדרז והשתתף אף הוא במידה נוספת, מן הפינה ועד פתח בית אלישיב הכוהן הגדול.",
+    "מרמות בן אוריה בן הקוץ השתתף פעם נוספת בבנייה, מפתח בית אלישיב ועד קצה ביתו.",
+    "אחריהם השתתפו הכוהנים אנשי הכיכר, כלומר הכוהנים מן האזור שסביב ירושלים.",
+    "בנימין וחשוב בנו מול בתיהם, ועזריה בן מעשיה בן ענניה בנה ליד ביתו. נראה שהם קיבלו על עצמם את החומה הסמוכה למקומות מגוריהם.",
+    "בינוי בן חנדד בנה קטע נוסף מבית עזריה עד קצה החומה והפינה, כלומר המגדל הפינתי.",
+    "פלל בן אוזי בנה מול הפינה והמגדל היוצא מבית המלך העליון, שהיה שייך לחצר המטרה. אחריו השתתף פדיה בן פרעש.",
+    "הנתינים שישבו בעופל השתתפו בבנייה עד מול שער המים שבמזרח והמגדל הבולט.",
+    "אנשי תקוע, שכבר השתתפו בעבודה, לקחו על עצמם קטע נוסף מן המגדל הגדול הבולט ועד חומת העופל.",
+    "מעל שער הסוסים השתתפו הכוהנים, וכל אחד בנה את הקטע שמול ביתו.",
+    "צדוק בן אמר בנה מול ביתו, ושמעיה בן שכניה, שהיה שומר שער המזרח, השתתף אף הוא בבנייה.",
+    "חנניה בן שלמיה וחנון בן צלף, שהיה הבן השישי, בנו קטע נוסף. לאחריהם משולם בן ברכיה בנה מול לשכתו.",
+    "מלכיה בן הצורפי בנה עד בית הנתינים והרוכלים, מול שער המפקד ועד עליית הפינה.",
+    "בין עליית הפינה לשער הצאן השתתפו הצורפים והרוכלים במלאכה בשותפות, כמעין אגודות מקצועיות.",
+    "כאשר שמע סנבלט שהיהודים בונים את החומה, הוא כעס מאוד ולעג להם.",
+    "סנבלט שאל כיצד יוכלו היהודים האומללים לבנות ולחדש את החומה, והטיל ספק ביכולתם לסיים את העבודה ואף להשתמש באבנים שניזוקו מן האש.",
+    "טוביה העמוני, שהיה ליד סנבלט, הוסיף שגם אם יבנו את החומה, שועל יוכל לפרוץ ולהפיל אותה.",
+    "נחמיה פנה בתפילה אל האלוהים וביקש שישמע את ביזיון העם וישיב את החרפה אל ראש אויביו, עד כדי גלות ושבי.",
+    "נחמיה ביקש שה' לא יכסה על עוונם ולא ימחה את חטאתם, מפני שהם הכעיסו את הבונים ולעגו להם.",
+    "הבנייה נמשכה, וכל קטעי החומה התחברו זה לזה עד למחצית גובהה. לעם היה רצון, שמחה והתלהבות להמשיך בעבודה."
+  ],
+  "ai_explanation_en": [
+    "Eliashib the high priest and his fellow priests built the Sheep Gate, probably so called because sheep were brought through it to the Temple. They prepared the gate, set up its doors, and built the section up to the Tower of the Hundred and the Tower of Hananel.",
+    "Beside the section built by Eliashib and the priests, the people of Jericho built another section. Next to them, Zaccur son of Imri also built, apparently as a member of an important family.",
+    "The sons of Senaah built the Fish Gate, repaired it, and installed its doors, locks, and bars. Building a gate required more investment and skill than building an ordinary wall.",
+    "Meremoth son of Uriah son of Hakkoz, Meshullam son of Berechiah son of Meshezabel, and Zadok son of Baana repaired adjoining sections of the wall.",
+    "The people of Tekoa took part in the building, but the nobles and wealthy people of the city refused to participate in their lords' work.",
+    "Joiada son of Paseah and Meshullam son of Besodeiah repaired the Old Gate and installed its doors, locks, and bars.",
+    "Mele­tiah the Gibeonite and Jadon the Meronothite, who were people of Gibeon and Mizpah, took part in the work in honor of the governor of Beyond the River, perhaps because he had supported them. A place may even have been designated for his chair when he came to Jerusalem.",
+    "Uzziel son of Harhaiah, a goldsmith, and Hananiah son of the perfumers took part in the building. They strengthened or built a sealing layer around Jerusalem up to the Broad Wall.",
+    "Rephaiah son of Hur, who was ruler of half the district of Jerusalem, took part in repairing the wall.",
+    "Jedaiah son of Harumaph built the section opposite his house, and Hattush son of Hashabneiah worked beside him.",
+    "Malchijah son of Harim and Hashub son of the governor of Moab built another section of the wall and also the Tower of the Ovens, which was probably the end of their assigned building area.",
+    "Shallum son of Hallohesh, ruler of half the district of Jerusalem, took part in the work together with his daughters. The daughters may have helped through donations and by sending members of their families to work.",
+    "Hanun and the inhabitants of Zanoah built the Valley Gate, installed its doors, locks, and bars, and undertook to build another thousand cubits of wall as far as the Dung Gate.",
+    "Malchijah son of Rechab, ruler of the district of Beth-haccherem, built the Dung Gate and installed its doors, locks, and bars.",
+    "Shallun son of Kol-Hozeh, ruler of the district of Mizpah, built the Fountain Gate, roofed it, and installed its doors, locks, and bars. He also built the wall by the Pool of Shelah toward the king's garden and as far as the steps descending from the City of David.",
+    "Nehemiah son of Azbuk, ruler of half the district of Beth-zur, took part in the work as far as the area opposite the tombs of David, the artificial pool, and the House of the Heroes.",
+    "The Levites, including Rehum son of Bani, took part in the building. Beside him worked Hashabiah, ruler of half the district of Keilah, on behalf of his district.",
+    "Bavvai son of Henadad, ruler of the other half of the district of Keilah, took part in building the wall.",
+    "Ezer son of Jeshua, ruler of Mizpah, built an additional section elsewhere, opposite the ascent to the weapons storehouse near the corner of the wall.",
+    "Baruch son of Zakkai hastened to participate in another section, from the corner to the entrance of the house of Eliashib the high priest.",
+    "Meremoth son of Uriah son of Hakkoz participated in the work a second time, from the entrance of Eliashib's house to the end of his house.",
+    "After them, the priests who lived in the surrounding plain took part in the building.",
+    "Benjamin and Hashub built opposite their houses, while Azariah son of Maaseiah son of Ananiah built beside his house. Apparently, they undertook the sections of wall near their homes.",
+    "Binnui son of Henadad built another section from the house of Azariah to the end of the wall and the corner, meaning the corner tower.",
+    "Pallal son of Uzai built opposite the corner and the projecting tower from the Upper Royal Palace, which belonged to the Court of the Guard. After him, Pedaiah son of Parosh took part.",
+    "The temple servants who lived on the Ophel took part in the building as far as the area opposite the Water Gate on the east and the projecting tower.",
+    "The people of Tekoa, who had already taken part in the work, undertook an additional section from opposite the great projecting tower to the wall of the Ophel.",
+    "Above the Horse Gate, the priests took part, each building the section opposite his house.",
+    "Zadok son of Immer built opposite his house, and Shemaiah son of Shecaniah, keeper of the East Gate, also took part in the work.",
+    "Hananiah son of Shelemiah and Hanun son of Zalaph, who was the sixth son, built an additional section. After them, Meshullam son of Berechiah built opposite his chamber.",
+    "Malchijah son of the goldsmiths built as far as the house of the temple servants and the merchants, opposite the Muster Gate and up to the Upper Room of the Corner.",
+    "Between the Upper Room of the Corner and the Sheep Gate, the goldsmiths and merchants worked together, like professional guilds.",
+    "When Sanballat heard that the Jews were building the wall, he became very angry and mocked them.",
+    "Sanballat asked how the miserable Jews could build and restore the wall, doubted their ability to finish the work, and questioned whether they could use stones damaged by fire.",
+    "Tobiah the Ammonite, who was beside Sanballat, added that even if they built the wall, a fox could break through and bring it down.",
+    "Nehemiah prayed to God, asking Him to hear the people's disgrace and return the insult upon their enemies, even to the point of exile and captivity.",
+    "Nehemiah asked that God not overlook their guilt or erase their sin, because they had provoked and mocked the builders.",
+    "The building continued, and all the sections of the wall joined together to half its height. The people had the will, joy, and enthusiasm to continue the work."
+  ],
+  "perush": [
+    "אלישיב הכוהן הגדול ואחיו הכוהנים בנו את שער הצאן, שנקרא כנראה כך מפני שדרכו הביאו את הצאן אל המקדש. הם הכינו את השער, הציבו את דלתותיו ובנו את הקטע עד מגדל המאה ומגדל חננאל.",
+    "ליד הקטע שבנו אלישיב והכוהנים בנו אנשי יריחו, ולידם בנה גם זכור בן אמרי, שהיה כנראה בן למשפחה חשובה.",
+    "בני הסנאה בנו את שער הדגים, תיקנו אותו והציבו את דלתותיו, מנעוליו ובריחיו. בניית שער דרשה השקעה ומיומנות רבה יותר מבניית חומה רגילה.",
+    "מרמות בן אוריה בן הקוץ, משולם בן ברכיה בן משיזבאל וצדוק בן בענא תיקנו קטעים סמוכים בחומה.",
+    "אנשי תקוע השתתפו בבנייה, אך נכבדי העיר ועשיריה לא הסכימו להשתתף בעבודת אדוניהם.",
+    "יוידע בן פסח ומשולם בן בסודיה תיקנו את שער הישנה, ובנו בו את הדלתות, המנעולים והבריחים.",
+    "מלטיה הגבעוני וידון המרנותי, שהיו אנשי גבעון והמצפה, השתתפו בבנייה לכבוד פחת עבר הנהר, אולי מפני שתמך בהם. ייתכן שאף ייחדו מקום לכיסאו בבואו לירושלים.",
+    "עוזיאל בן חרהיה, שהיה צורף, וחנניה בן הרקחים השתתפו בבנייה. הם חיזקו או בנו שכבה אוטמת סביב ירושלים עד החומה הרחבה.",
+    "רפיה בן חור, שהיה שר חצי פלך ירושלים, השתתף בתיקון החומה.",
+    "ידיה בן חרומף בנה את הקטע שמול ביתו, ולידו השתתף חטוש בן חשבניה.",
+    "מלכיה בן חרם וחשוב בן פחת מואב בנו קטע נוסף בחומה וכן את מגדל התנורים, שהיה כנראה קצה אזור הבנייה שלהם.",
+    "שלום בן הלוחש, שר חצי פלך ירושלים, השתתף בבנייה יחד עם בנותיו. ייתכן שהבנות סייעו באמצעות תרומות ושליחת בני משפחותיהן לעבודה.",
+    "חנון ויושבי זנוח בנו את שער הגיא, הציבו את דלתותיו, מנעוליו ובריחיו, וקיבלו על עצמם לבנות עוד אלף אמה בחומה עד שער האשפות.",
+    "מלכיה בן רכב, שר פלך בית הכרם, בנה את שער האשפות והציב את דלתותיו, מנעוליו ובריחיו.",
+    "שלום בן כל חזה, שר פלך המצפה, בנה את שער העין, קירה אותו והציב את דלתותיו, מנעוליו ובריחיו. הוא גם בנה את החומה ליד ברכת השלח ועד המעלות היורדות מעיר דוד.",
+    "נחמיה בן עזבוק, שר חצי פלך בית צור, השתתף בבנייה עד מול קברי דוד, הברכה העשויה ובית הגבורים.",
+    "הלויים, ובהם רחום בן בני, השתתפו בבנייה. לידו עבד חשביה, שר חצי פלך קעילה, למען הפלך שלו.",
+    "בואי בן חנדד, שר החצי השני של פלך קעילה, השתתף בבניית החומה.",
+    "עזר בן ישוע, שר המצפה, בנה מידה נוספת במקום אחר, מול מעלות הנשק שליד פינת החומה.",
+    "ברוך בן זכַי הזדרז והשתתף אף הוא במידה נוספת, מן הפינה ועד פתח בית אלישיב הכוהן הגדול.",
+    "מרמות בן אוריה בן הקוץ השתתף פעם נוספת בבנייה, מפתח בית אלישיב ועד קצה ביתו.",
+    "אחריהם השתתפו הכוהנים אנשי הכיכר, כלומר הכוהנים מן האזור שסביב ירושלים.",
+    "בנימין וחשוב בנו מול בתיהם, ועזריה בן מעשיה בן ענניה בנה ליד ביתו. נראה שהם קיבלו על עצמם את החומה הסמוכה למקומות מגוריהם.",
+    "בינוי בן חנדד בנה קטע נוסף מבית עזריה עד קצה החומה והפינה, כלומר המגדל הפינתי.",
+    "פלל בן אוזי בנה מול הפינה והמגדל היוצא מבית המלך העליון, שהיה שייך לחצר המטרה. אחריו השתתף פדיה בן פרעש.",
+    "הנתינים שישבו בעופל השתתפו בבנייה עד מול שער המים שבמזרח והמגדל הבולט.",
+    "אנשי תקוע, שכבר השתתפו בעבודה, לקחו על עצמם קטע נוסף מן המגדל הגדול הבולט ועד חומת העופל.",
+    "מעל שער הסוסים השתתפו הכוהנים, וכל אחד בנה את הקטע שמול ביתו.",
+    "צדוק בן אמר בנה מול ביתו, ושמעיה בן שכניה, שהיה שומר שער המזרח, השתתף אף הוא בבנייה.",
+    "חנניה בן שלמיה וחנון בן צלף, שהיה הבן השישי, בנו קטע נוסף. לאחריהם משולם בן ברכיה בנה מול לשכתו.",
+    "מלכיה בן הצורפי בנה עד בית הנתינים והרוכלים, מול שער המפקד ועד עליית הפינה.",
+    "בין עליית הפינה לשער הצאן השתתפו הצורפים והרוכלים במלאכה בשותפות, כמעין אגודות מקצועיות.",
+    "כאשר שמע סנבלט שהיהודים בונים את החומה, הוא כעס מאוד ולעג להם.",
+    "סנבלט שאל כיצד יוכלו היהודים האומללים לבנות ולחדש את החומה, והטיל ספק ביכולתם לסיים את העבודה ואף להשתמש באבנים שניזוקו מן האש.",
+    "טוביה העמוני, שהיה ליד סנבלט, הוסיף שגם אם יבנו את החומה, שועל יוכל לפרוץ ולהפיל אותה.",
+    "נחמיה פנה בתפילה אל האלוהים וביקש שישמע את ביזיון העם וישיב את החרפה אל ראש אויביו, עד כדי גלות ושבי.",
+    "נחמיה ביקש שה' לא יכסה על עוונם ולא ימחה את חטאתם, מפני שהם הכעיסו את הבונים ולעגו להם.",
+    "הבנייה נמשכה, וכל קטעי החומה התחברו זה לזה עד למחצית גובהה. לעם היה רצון, שמחה והתלהבות להמשיך בעבודה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "תחילת בניית החומה והשערים הצפוניים",
+      "title_en": "The Beginning of the Wall and the Northern Gates",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "הכוהנים, אנשי יריחו, זכור, בני הסנאה וקבוצות נוספות מתחילים לבנות ולתקן את שער הצאן, שער הדגים והשער הישן. לצד שיתוף הפעולה נזכרת גם הימנעותם של נכבדי תקוע מן העבודה.",
+      "summary_en": "The priests, the people of Jericho, Zaccur, the sons of Senaah, and other groups begin building and repairing the Sheep Gate, Fish Gate, and Old Gate. Alongside this cooperation, the refusal of Tekoa's nobles to work is also noted.",
+      "image_prompt": "A respectful biblical-era reconstruction of workers repairing Jerusalem's northern wall and gates, priests near the Sheep Gate, families carrying stones, wooden doors and tools, no modern objects, educational historical illustration"
+    },
+    {
+      "title": "השתתפות תושבי האזור ובעלי התפקידים",
+      "title_en": "Participation by Local Communities and Officials",
+      "start_verse": 7,
+      "end_verse": 16,
+      "summary": "אנשי גבעון והמצפה, בעלי מלאכות, שרי פלכים ומשפחות שונות בונים קטעים מן החומה והשערים. רבים עובדים ליד בתיהם או בשם מחוזותיהם, ובנות שלום נזכרות כמי שסייעו כנראה בתרומות ובגיוס בני משפחה.",
+      "summary_en": "People from Gibeon and Mizpah, craftsmen, district officials, and various families build sections of the wall and its gates. Many work near their homes or on behalf of their districts, while Shallum's daughters are mentioned as probably helping through donations and family support.",
+      "image_prompt": "A detailed educational illustration of diverse community groups repairing an ancient city wall, craftsmen, district leaders, families, a gate with doors and bars, workers organized by nearby homes, biblical-era setting"
+    },
+    {
+      "title": "המשך הבנייה לפי פלכים, משפחות ובתים",
+      "title_en": "The Work Continues by Districts, Families, and Homes",
+      "start_verse": 17,
+      "end_verse": 32,
+      "summary": "הלויים, שרי פלכים, כוהנים, משפחות, הנתינים ובעלי מקצוע ממשיכים את הבנייה סביב העיר. חלק מן המשתתפים מקבלים על עצמם מידה נוספת, ורבים בונים מול בתיהם או במסגרת קבוצות המקצוע שלהם.",
+      "summary_en": "Levites, district officials, priests, families, temple servants, and craftsmen continue the work around the city. Some volunteers take on an additional section, while many build opposite their homes or as part of professional groups.",
+      "image_prompt": "A panoramic biblical-era scene showing coordinated groups repairing a city wall, Levites, priests, craftsmen, merchants, temple servants, families working near their homes, towers and gates, no modern elements"
+    },
+    {
+      "title": "לעג האויבים, תפילת נחמיה והשלמת מחצית החומה",
+      "title_en": "Enemy Mockery, Nehemiah's Prayer, and Half the Wall Completed",
+      "start_verse": 33,
+      "end_verse": 38,
+      "summary": "סנבלט וטוביה לועגים לבונים ומטילים ספק ביכולתם להקים חומה יציבה. נחמיה מתפלל שהחרפה תשוב אל המלעיגים, ולאחר מכן מתואר כיצד החומה התחברה עד למחצית גובהה והעם התחזק בעבודתו.",
+      "summary_en": "Sanballat and Tobiah mock the builders and doubt their ability to create a strong wall. Nehemiah prays that the disgrace return upon the mockers, and the account ends with the wall joined to half its height and the people encouraged in their work.",
+      "image_prompt": "A dramatic but respectful biblical-era illustration: builders working on Jerusalem's wall while hostile figures mock from a distance, Nehemiah praying, connected wall sections rising to half height, determined workers, no modern objects"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 17.3,
+      "usfm": "NEH.3.1"
+    },
+    {
+      "start": 17.3,
+      "end": 22.9,
+      "usfm": "NEH.3.2"
+    },
+    {
+      "start": 22.9,
+      "end": 33.58,
+      "usfm": "NEH.3.3"
+    },
+    {
+      "start": 33.58,
+      "end": 48.44,
+      "usfm": "NEH.3.4"
+    },
+    {
+      "start": 48.44,
+      "end": 55.94,
+      "usfm": "NEH.3.5"
+    },
+    {
+      "start": 55.94,
+      "end": 67.98,
+      "usfm": "NEH.3.6"
+    },
+    {
+      "start": 67.98,
+      "end": 79.32,
+      "usfm": "NEH.3.7"
+    },
+    {
+      "start": 79.32,
+      "end": 93.08,
+      "usfm": "NEH.3.8"
+    },
+    {
+      "start": 93.08,
+      "end": 98.98,
+      "usfm": "NEH.3.9"
+    },
+    {
+      "start": 98.98,
+      "end": 107.66,
+      "usfm": "NEH.3.10"
+    },
+    {
+      "start": 107.66,
+      "end": 114.98,
+      "usfm": "NEH.3.11"
+    },
+    {
+      "start": 114.98,
+      "end": 121.82,
+      "usfm": "NEH.3.12"
+    },
+    {
+      "start": 121.82,
+      "end": 133.44,
+      "usfm": "NEH.3.13"
+    },
+    {
+      "start": 133.44,
+      "end": 143.5,
+      "usfm": "NEH.3.14"
+    },
+    {
+      "start": 143.5,
+      "end": 162.34,
+      "usfm": "NEH.3.15"
+    },
+    {
+      "start": 162.34,
+      "end": 174.22,
+      "usfm": "NEH.3.16"
+    },
+    {
+      "start": 174.22,
+      "end": 184.68,
+      "usfm": "NEH.3.17"
+    },
+    {
+      "start": 184.68,
+      "end": 189.9,
+      "usfm": "NEH.3.18"
+    },
+    {
+      "start": 189.9,
+      "end": 198.8,
+      "usfm": "NEH.3.19"
+    },
+    {
+      "start": 198.8,
+      "end": 209.2,
+      "usfm": "NEH.3.20"
+    },
+    {
+      "start": 209.2,
+      "end": 217.48,
+      "usfm": "NEH.3.21"
+    },
+    {
+      "start": 217.48,
+      "end": 220.92,
+      "usfm": "NEH.3.22"
+    },
+    {
+      "start": 220.92,
+      "end": 230.92,
+      "usfm": "NEH.3.23"
+    },
+    {
+      "start": 230.92,
+      "end": 240.52,
+      "usfm": "NEH.3.24"
+    },
+    {
+      "start": 240.52,
+      "end": 251.62,
+      "usfm": "NEH.3.25"
+    },
+    {
+      "start": 251.62,
+      "end": 259.42,
+      "usfm": "NEH.3.26"
+    },
+    {
+      "start": 259.42,
+      "end": 266.92,
+      "usfm": "NEH.3.27"
+    },
+    {
+      "start": 266.92,
+      "end": 271.76,
+      "usfm": "NEH.3.28"
+    },
+    {
+      "start": 271.76,
+      "end": 280.34,
+      "usfm": "NEH.3.29"
+    },
+    {
+      "start": 280.34,
+      "end": 293.0,
+      "usfm": "NEH.3.30"
+    },
+    {
+      "start": 293.0,
+      "end": 304.38,
+      "usfm": "NEH.3.31"
+    },
+    {
+      "start": 304.38,
+      "end": 316.76,
+      "usfm": "NEH.3.32"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    17.3,
+    22.9,
+    33.58,
+    48.44,
+    55.94,
+    67.98,
+    79.32,
+    93.08,
+    98.98,
+    107.66,
+    114.98,
+    121.82,
+    133.44,
+    143.5,
+    162.34,
+    174.22,
+    184.68,
+    189.9,
+    198.8,
+    209.2,
+    217.48,
+    220.92,
+    230.92,
+    240.52,
+    251.62,
+    259.42,
+    266.92,
+    271.76,
+    280.34,
+    293.0,
+    304.38,
+    316.76
+  ],
+  "times_en_usfm": [
+    "NEH.3.1",
+    "NEH.3.2",
+    "NEH.3.3",
+    "NEH.3.4",
+    "NEH.3.5",
+    "NEH.3.6",
+    "NEH.3.7",
+    "NEH.3.8",
+    "NEH.3.9",
+    "NEH.3.10",
+    "NEH.3.11",
+    "NEH.3.12",
+    "NEH.3.13",
+    "NEH.3.14",
+    "NEH.3.15",
+    "NEH.3.16",
+    "NEH.3.17",
+    "NEH.3.18",
+    "NEH.3.19",
+    "NEH.3.20",
+    "NEH.3.21",
+    "NEH.3.22",
+    "NEH.3.23",
+    "NEH.3.24",
+    "NEH.3.25",
+    "NEH.3.26",
+    "NEH.3.27",
+    "NEH.3.28",
+    "NEH.3.29",
+    "NEH.3.30",
+    "NEH.3.31",
+    "NEH.3.32"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הכוהן הגדול אלישיב ואחיו הכוהנים פתחו את עבודת השיקום: הם בנו את שער הצאן, קידשו אותו והעמידו את דלתותיו עד מגדל המאה ומגדל חננאל.",
+      "text_he": "הכוהן הגדול אלישיב ואחיו הכוהנים פתחו את עבודת השיקום: הם בנו את שער הצאן, קידשו אותו והעמידו את דלתותיו עד מגדל המאה ומגדל חננאל.",
+      "text_en": "The high priest Eliashib and his fellow priests began the restoration work: they built the Sheep Gate, consecrated it, and set its doors in place as far as the Tower of the Hundred and the Tower of Hananel."
+    },
+    {
+      "verse": 5,
+      "text": "בני תקוע השתתפו בבנייה, אך נכבדי תקוע לא נרתמו לעבודה; הכתוב מציין שהם לא הביאו את צווארם בעבודת אדוניהם.",
+      "text_he": "בני תקוע השתתפו בבנייה, אך נכבדי תקוע לא נרתמו לעבודה; הכתוב מציין שהם לא הביאו את צווארם בעבודת אדוניהם.",
+      "text_en": "The people of Tekoa took part in the building, but the nobles of Tekoa did not join the work; the text notes that they would not put their necks to the work of their Lord."
+    },
+    {
+      "verse": 7,
+      "text": "גם תושבי גבעון ואנשי המצפה השתתפו בבניית החומה, לצד קבוצות שהגיעו מירושלים ומיישובים נוספים.",
+      "text_he": "גם תושבי גבעון ואנשי המצפה השתתפו בבניית החומה, לצד קבוצות שהגיעו מירושלים ומיישובים נוספים.",
+      "text_en": "The people of Gibeon and the men of Mizpah also helped build the wall, along with groups who came from Jerusalem and other settlements."
+    },
+    {
+      "verse": 8,
+      "text": "בין הבונים היו בעלי מקצוע: עוזיאל בן־חרהיה השתייך לצורפים, וחנניה בן־הרקחים השתייך לרוקחים. עבודתם הגיעה עד החומה הרחבה.",
+      "text_he": "בין הבונים היו בעלי מקצוע: עוזיאל בן־חרהיה השתייך לצורפים, וחנניה בן־הרקחים השתייך לרוקחים. עבודתם הגיעה עד החומה הרחבה.",
+      "text_en": "Among the builders were skilled craftsmen: Uzziel son of Harhaiah belonged to the goldsmiths, and Hananiah son of the perfumers belonged to the apothecaries. Their work extended as far as the Broad Wall."
+    },
+    {
+      "verse": 12,
+      "text": "שלום בן הלוחש, שהיה שר חצי פלך ירושלים, עבד בבנייה יחד עם בנותיו; זהו אזכור מפורש של בנותיו כשותפות במאמץ.",
+      "text_he": "שלום בן הלוחש, שהיה שר חצי פלך ירושלים, עבד בבנייה יחד עם בנותיו; זהו אזכור מפורש של בנותיו כשותפות במאמץ.",
+      "text_en": "Shallum son of Hallohesh, ruler of half the district of Jerusalem, worked on the building together with his daughters; this is an explicit mention of his daughters as partners in the effort."
+    },
+    {
+      "verse": 13,
+      "text": "את שער הגיא בנו חנון ויושבי זנוח, והם גם העמידו את דלתותיו, מנעוליו ובריחיו. הקטע שבנו נמשך אלף אמה עד שער האשפות.",
+      "text_he": "את שער הגיא בנו חנון ויושבי זנוח, והם גם העמידו את דלתותיו, מנעוליו ובריחיו. הקטע שבנו נמשך אלף אמה עד שער האשפות.",
+      "text_en": "Hanun and the inhabitants of Zanoah built the Valley Gate, and they also set its doors, bolts, and bars in place. The section they built extended for a thousand cubits as far as the Dung Gate."
+    },
+    {
+      "verse": 16,
+      "text": "נחמיה בן עזבוק, שר חצי פלך בית צור, החזיק בקטע מן החומה עד מול קברי דוד, הברכה העשויה ובית הגיבורים.",
+      "text_he": "נחמיה בן עזבוק, שר חצי פלך בית צור, החזיק בקטע מן החומה עד מול קברי דוד, הברכה העשויה ובית הגיבורים.",
+      "text_en": "Nehemiah son of Azbuk, ruler of half the district of Beth-zur, worked on a section of the wall as far as the area opposite the tombs of David, the artificial pool, and the House of the Mighty."
+    },
+    {
+      "verse": 17,
+      "text": "הלויים ושרי פלכים השתתפו בבנייה, ובכמה מקומות מציין הכתוב שהעובדים קיבלו על עצמם 'מידה שנית' — כלומר קטע נוסף של עבודה.",
+      "text_he": "הלויים ושרי פלכים השתתפו בבנייה, ובכמה מקומות מציין הכתוב שהעובדים קיבלו על עצמם 'מידה שנית' — כלומר קטע נוסף של עבודה.",
+      "text_en": "The Levites and the district rulers took part in the building, and in several places the text notes that the workers undertook a “second measure”—that is, an additional section of work."
+    },
+    {
+      "verse": 27,
+      "text": "גם בני תקוע, שכבר נזכרו בתחילת הפרק, החזיקו בקטע נוסף של החומה, מול המגדל הגדול היוצא ועד חומת העופל.",
+      "text_he": "גם בני תקוע, שכבר נזכרו בתחילת הפרק, החזיקו בקטע נוסף של החומה, מול המגדל הגדול היוצא ועד חומת העופל.",
+      "text_en": "The people of Tekoa, who had already been mentioned at the beginning of the chapter, worked on another section of the wall, opposite the great projecting tower and as far as the wall of Ophel."
+    },
+    {
+      "verse": 38,
+      "text": "למרות לעג סנבלט וטוביה, החומה התחברה עד מחציתה, והכתוב מסכם שלעם היה לב ורצון להמשיך בעשייה.",
+      "text_he": "למרות לעג סנבלט וטוביה, החומה התחברה עד מחציתה, והכתוב מסכם שלעם היה לב ורצון להמשיך בעשייה.",
+      "text_en": "Despite Sanballat and Tobiah’s mockery, the wall was joined together up to half its height, and the text concludes that the people had the heart and determination to continue the work."
+    }
+  ]
+}
