@@ -1,0 +1,463 @@
+{
+  "book": "I Samuel",
+  "book_he": "שמואל א",
+  "book_chapters": 31,
+  "chapter": 28,
+  "title": "שמואל א פרק 28",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a28.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08a28.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/1SA/28-f7d222a326c0309b9703ec8088ae65fd.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, בַּיָּמִים הָהֵם, וַיִּקְבְּצוּ פְלִשְׁתִּים אֶת-מַחֲנֵיהֶם לַצָּבָא, לְהִלָּחֵם בְּיִשְׂרָאֵל; וַיֹּאמֶר אָכִישׁ, אֶל-דָּוִד, יָדֹעַ תֵּדַע כִּי אִתִּי תֵּצֵא בַמַּחֲנֶה, אַתָּה וַאֲנָשֶׁיךָ.",
+    "וַיֹּאמֶר דָּוִד, אֶל-אָכִישׁ, לָכֵן אַתָּה תֵדַע, אֵת אֲשֶׁר-יַעֲשֶׂה עַבְדֶּךָ; וַיֹּאמֶר אָכִישׁ, אֶל-דָּוִד, לָכֵן שֹׁמֵר לְרֹאשִׁי אֲשִׂימְךָ, כָּל-הַיָּמִים.",
+    "וּשְׁמוּאֵל מֵת--וַיִּסְפְּדוּ-לוֹ כָּל-יִשְׂרָאֵל, וַיִּקְבְּרֻהוּ בָרָמָה וּבְעִירוֹ; וְשָׁאוּל, הֵסִיר הָאֹבוֹת וְאֶת-הַיִּדְּעֹנִים--מֵהָאָרֶץ.",
+    "וַיִּקָּבְצוּ פְלִשְׁתִּים, וַיָּבֹאוּ וַיַּחֲנוּ בְשׁוּנֵם; וַיִּקְבֹּץ שָׁאוּל אֶת-כָּל-יִשְׂרָאֵל, וַיַּחֲנוּ בַּגִּלְבֹּעַ.",
+    "וַיַּרְא שָׁאוּל, אֶת-מַחֲנֵה פְלִשְׁתִּים; וַיִּרָא, וַיֶּחֱרַד לִבּוֹ מְאֹד.",
+    "וַיִּשְׁאַל שָׁאוּל בַּיהוָה, וְלֹא עָנָהוּ יְהוָה--גַּם בַּחֲלֹמוֹת גַּם בָּאוּרִים, גַּם בַּנְּבִיאִם.",
+    "וַיֹּאמֶר שָׁאוּל לַעֲבָדָיו, בַּקְּשׁוּ-לִי אֵשֶׁת בַּעֲלַת-אוֹב, וְאֵלְכָה אֵלֶיהָ, וְאֶדְרְשָׁה-בָּהּ; וַיֹּאמְרוּ עֲבָדָיו אֵלָיו, הִנֵּה אֵשֶׁת בַּעֲלַת-אוֹב בְּעֵין דּוֹר.",
+    "וַיִּתְחַפֵּשׂ שָׁאוּל, וַיִּלְבַּשׁ בְּגָדִים אֲחֵרִים, וַיֵּלֶךְ הוּא וּשְׁנֵי אֲנָשִׁים עִמּוֹ, וַיָּבֹאוּ אֶל-הָאִשָּׁה לָיְלָה; וַיֹּאמֶר, קסומי- קָסֳמִי- נָא לִי בָּאוֹב, וְהַעֲלִי לִי, אֵת אֲשֶׁר-אֹמַר אֵלָיִךְ.",
+    "וַתֹּאמֶר הָאִשָּׁה אֵלָיו, הִנֵּה אַתָּה יָדַעְתָּ אֵת אֲשֶׁר-עָשָׂה שָׁאוּל, אֲשֶׁר הִכְרִית אֶת-הָאֹבוֹת וְאֶת-הַיִּדְּעֹנִי, מִן-הָאָרֶץ; וְלָמָה אַתָּה מִתְנַקֵּשׁ בְּנַפְשִׁי, לַהֲמִיתֵנִי.",
+    "וַיִּשָּׁבַע לָהּ שָׁאוּל, בַּיהוָה לֵאמֹר: חַי-יְהוָה, אִם-יִקְּרֵךְ עָוֺן בַּדָּבָר הַזֶּה.",
+    "וַתֹּאמֶר, הָאִשָּׁה, אֶת-מִי, אַעֲלֶה-לָּךְ; וַיֹּאמֶר, אֶת-שְׁמוּאֵל הַעֲלִי-לִי.",
+    "וַתֵּרֶא הָאִשָּׁה אֶת-שְׁמוּאֵל, וַתִּזְעַק בְּקוֹל גָּדוֹל; וַתֹּאמֶר הָאִשָּׁה אֶל-שָׁאוּל לֵאמֹר לָמָּה רִמִּיתָנִי, וְאַתָּה שָׁאוּל.",
+    "וַיֹּאמֶר לָהּ הַמֶּלֶךְ אַל-תִּירְאִי, כִּי מָה רָאִית; וַתֹּאמֶר הָאִשָּׁה אֶל-שָׁאוּל, אֱלֹהִים רָאִיתִי עֹלִים מִן-הָאָרֶץ.",
+    "וַיֹּאמֶר לָהּ, מַה-תָּאֳרוֹ, וַתֹּאמֶר אִישׁ זָקֵן עֹלֶה, וְהוּא עֹטֶה מְעִיל; וַיֵּדַע שָׁאוּל כִּי-שְׁמוּאֵל הוּא, וַיִּקֹּד אַפַּיִם אַרְצָה וַיִּשְׁתָּחוּ.",
+    "וַיֹּאמֶר שְׁמוּאֵל אֶל-שָׁאוּל, לָמָּה הִרְגַּזְתַּנִי לְהַעֲלוֹת אֹתִי; וַיֹּאמֶר שָׁאוּל צַר-לִי מְאֹד וּפְלִשְׁתִּים נִלְחָמִים בִּי, וֵאלֹהִים סָר מֵעָלַי וְלֹא-עָנָנִי עוֹד גַּם בְּיַד-הַנְּבִיאִים גַּם-בַּחֲלֹמוֹת, וָאֶקְרָאֶה לְךָ, לְהוֹדִיעֵנִי מָה אֶעֱשֶׂה.",
+    "וַיֹּאמֶר שְׁמוּאֵל, וְלָמָּה תִּשְׁאָלֵנִי: וַיהוָה סָר מֵעָלֶיךָ, וַיְהִי עָרֶךָ.",
+    "וַיַּעַשׂ יְהוָה לוֹ, כַּאֲשֶׁר דִּבֶּר בְּיָדִי; וַיִּקְרַע יְהוָה אֶת-הַמַּמְלָכָה מִיָּדֶךָ, וַיִּתְּנָהּ לְרֵעֲךָ לְדָוִד.",
+    "כַּאֲשֶׁר לֹא-שָׁמַעְתָּ בְּקוֹל יְהוָה, וְלֹא-עָשִׂיתָ חֲרוֹן-אַפּוֹ בַּעֲמָלֵק; עַל-כֵּן הַדָּבָר הַזֶּה, עָשָׂה-לְךָ יְהוָה הַיּוֹם הַזֶּה.",
+    "וְיִתֵּן יְהוָה גַּם אֶת-יִשְׂרָאֵל עִמְּךָ, בְּיַד-פְּלִשְׁתִּים, וּמָחָר, אַתָּה וּבָנֶיךָ עִמִּי; גַּם אֶת-מַחֲנֵה יִשְׂרָאֵל, יִתֵּן יְהוָה בְּיַד-פְּלִשְׁתִּים.",
+    "וַיְמַהֵר שָׁאוּל, וַיִּפֹּל מְלֹא-קוֹמָתוֹ אַרְצָה, וַיִּרָא מְאֹד, מִדִּבְרֵי שְׁמוּאֵל; גַּם-כֹּחַ, לֹא-הָיָה בוֹ--כִּי לֹא אָכַל לֶחֶם, כָּל-הַיּוֹם וְכָל-הַלָּיְלָה.",
+    "וַתָּבוֹא הָאִשָּׁה אֶל-שָׁאוּל, וַתֵּרֶא כִּי-נִבְהַל מְאֹד; וַתֹּאמֶר אֵלָיו, הִנֵּה שָׁמְעָה שִׁפְחָתְךָ בְּקוֹלֶךָ, וָאָשִׂים נַפְשִׁי בְּכַפִּי, וָאֶשְׁמַע אֶת-דְּבָרֶיךָ אֲשֶׁר דִּבַּרְתָּ אֵלָי.",
+    "וְעַתָּה, שְׁמַע-נָא גַם-אַתָּה בְּקוֹל שִׁפְחָתֶךָ, וְאָשִׂמָה לְפָנֶיךָ פַּת-לֶחֶם, וֶאֱכוֹל; וִיהִי בְךָ כֹּחַ, כִּי תֵלֵךְ בַּדָּרֶךְ.",
+    "וַיְמָאֵן, וַיֹּאמֶר לֹא אֹכַל, וַיִּפְרְצוּ-בוֹ עֲבָדָיו וְגַם-הָאִשָּׁה, וַיִּשְׁמַע לְקֹלָם; וַיָּקָם, מֵהָאָרֶץ, וַיֵּשֶׁב, אֶל-הַמִּטָּה.",
+    "וְלָאִשָּׁה עֵגֶל-מַרְבֵּק בַּבַּיִת, וַתְּמַהֵר וַתִּזְבָּחֵהוּ; וַתִּקַּח-קֶמַח וַתָּלָשׁ, וַתֹּפֵהוּ מַצּוֹת.",
+    "וַתַּגֵּשׁ לִפְנֵי-שָׁאוּל וְלִפְנֵי עֲבָדָיו, וַיֹּאכֵלוּ; וַיָּקֻמוּ וַיֵּלְכוּ, בַּלַּיְלָה הַהוּא."
+  ],
+  "english": [
+    "And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.",
+    "And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever.",
+    "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.",
+    "And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.",
+    "And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.",
+    "And when Saul enquired of the LORD, the LORD answered him not, neither by dreams nor by Urim, nor by prophets.",
+    "Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold,\nthere is a woman that hath a familiar spirit at Endor.",
+    "And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me\nhim up, whom I shall name unto thee.",
+    "And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?",
+    "And Saul sware to her by the LORD, saying,\nAs the LORD liveth, there shall no punishment happen to thee for this thing.",
+    "Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up Samuel.",
+    "And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou\nart\n Saul.",
+    "And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.",
+    "And he said unto her, What form\nis he of? And she said, An old man cometh up; and he\nis covered with a mantle. And Saul perceived that it\nwas Samuel, and he stooped with\nhis face to the ground, and bowed himself.",
+    "And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do.",
+    "Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?",
+    "And the LORD hath done to him, as he spake by me: for the LORD hath rent the kingdom out of thine hand, and given it to thy neighbour,\neven\n to David:",
+    "Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day.",
+    "Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow\nshalt thou and thy sons\nbe\n with me: the LORD also shall deliver the host of Israel into the hand of the Philistines.",
+    "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.",
+    "And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me.",
+    "Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way.",
+    "But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he hearkened unto their voice. So he arose from the earth, and sat upon the bed.",
+    "And the woman had a fat calf in the house; and she hasted, and killed it, and took flour, and kneaded\nit, and did bake unleavened bread thereof:",
+    "And she brought\nit before Saul, and before his servants; and they did eat. Then they rose up, and went away that night."
+  ],
+  "steinsaltz": [
+    "וַיְהִי בַּיָּמִים הָהֵם, שבהם שהה דוד בצקלג, וַיִּקְבְּצוּ פְלִשְׁתִּים אֶת מַחֲנֵיהֶם לַצָּבָא לְהִלָּחֵם בְּיִשְׂרָאֵל. לא הייתה זו פשיטה נקודתית נוספת אלא מלחמה של ממש, שעשויה להיות מכרעת. וַיֹּאמֶר אָכִישׁ אֶל דָּוִד: יָדֹעַ תֵּדַע כִּי אִתִּי תֵּצֵא בַמַּחֲנֶה אַתָּה וַאֲנָשֶׁיךָ להילחם נגד עמך, באשר אתה קשור אלי וכפוף לי.",
+    "וַיֹּאמֶר דָּוִד אֶל אָכִישׁ: לָכֵן אַתָּה תֵדַע אֵת אֲשֶׁר יַעֲשֶׂה עַבְדֶּךָ. אתה עוד תראה מה אעשה וכמה אצטיין במלחמה הזו. וַיֹּאמֶר אָכִישׁ אֶל דָּוִד: אני סומך עליך. לָכֵן שֹׁמֵר לְרֹאשִׁי אֲשִׂימְךָ כָּל הַיָּמִים. הפעם לא הייתה לדוד דרך להתחמק. הוא נאלץ להבטיח הבטחות ולקוות לטוב.",
+    "כהקדמה לסיפור שיבוא בהמשך חוזרת התזכורת למה שכבר סופר: וּשְׁמוּאֵל מֵת, וַיִּסְפְּדוּ לוֹ כָּל יִשְׂרָאֵל, וַיִּקְבְּרֻהוּ בָרָמָה וּבְעִירוֹ, שהיא עירו. בינתיים לא ידוע שקם נביא אחר שאפשר לשאול בעצתו. וְשָׁאוּל הֵסִיר במשך תקופת מלכותו את הָאֹבוֹת וְאֶת הַיִּדְּעֹנִים, מדיומים הטוענים שהם מתַקשרים עם המתים ושומעים מהם ידע משמעותי, מֵהָאָרֶץ. עד אז הם היו תופעה מצויה למדי, אך כיוון ששאול רצה לקיים את מצוות התורה ואף היו לו סמכות וכוח גדולים מאלה שהיו לראשי השבטים שלפניו, הוא מיגר את הקוסמים והמכשפים מארצו.",
+    "וַיִּקָּבְצוּ פְלִשְׁתִּים וַיָּבֹאוּ וַיַּחֲנוּ בְשׁוּנֵם להכין את עצמם לקרב. וַיִּקְבֹּץ שָׁאוּל אֶת כָּל יִשְׂרָאֵל וַיַּחֲנוּ בַּגִּלְבֹּעַ.",
+    "וַיַּרְא שָׁאוּל אֶת מַחֲנֵה פְלִשְׁתִּים העצום, וַיִּרָא וַיֶּחֱרַד לִבּוֹ מְאֹד, שכן צבאו לא היה ערוך למלחמה מכרעת כזו.",
+    "וַיִּשְׁאַל שָׁאוּל בַּה' בכל דרך אפשרית כדי לדעת מה יהיה, וְלֹא עָנָהוּ ה', גַּם בַּחֲלֹמוֹת, באמצעות חוזים הטוענים לחזיונות נבואיים בחלום, גַּם בָּאוּרִים ותומים על ידי הכהנים, גַּם בַּנְּבִיאִם, ולא זכה לחזון ולתשובה.",
+    "מכיוון שהיה מודאג וחרד מאוד – וַיֹּאמֶר שָׁאוּל לַעֲבָדָיו: בַּקְּשׁוּ לִי אֵשֶׁת בַּעֲלַת אוֹב, וְאֵלְכָה אֵלֶיהָ וְאֶדְרְשָׁה בָּהּ, אשאל אותה. וַיֹּאמְרוּ עֲבָדָיו אֵלָיו: הִנֵּה נמצאת אֵשֶׁת בַּעֲלַת אוֹב בְּעֵין דּוֹר.",
+    "וַיִּתְחַפֵּשׂ שָׁאוּל, וַיִּלְבַּשׁ בְּגָדִים אֲחֵרִים. כמי שהשמיד את כל בעלי האוב והידעונים ועכשיו נזקק לעזרתם, שאול הרגיש לא נוח לפנות לבעלת האוב. מסיבה זו וגם מאחר שאם יזדהה כשאול הוא יפחיד את בעלת האוב, בחר להסתיר את זהותו. וַיֵּלֶךְ הוּא וּשְׁנֵי אֲנָשִׁים עִמּוֹ וַיָּבֹאוּ אֶל הָאִשָּׁה בלָיְלָה, וַיֹּאמֶר: קָסֳמִי נָא לִי בָּאוֹב וְהַעֲלִי לִי אֵת האיש אֲשֶׁר אֹמַר אֵלָיִךָ שאתו אני רוצה לדבר.",
+    "וַתֹּאמֶר הָאִשָּׁה אֵלָיו: הִנֵּה אַתָּה יָדַעְתָּ אֵת אֲשֶׁר עָשָׂה שָׁאוּל, אֲשֶׁר הִכְרִית אֶת הָאֹבוֹת וְאֶת הַיִּדְּעֹנִי מִן הָאָרֶץ, ובעלי האוב עומדים כעת תחת איום מוות מצד המלך, וְלָמָה אַתָּה מִתְנַקֵּשׁ, זומם לפגוע בְּנַפְשִׁי לַהֲמִיתֵנִי?",
+    "וַיִּשָּׁבַע לָהּ שָׁאוּל בַּה' לֵאמֹר: חַי ה' אִם יִקְּרֵךְ עָוֹן, עונש בַּדָּבָר הַזֶּה. האשה האמינה לדבריו.",
+    "וַתֹּאמֶר הָאִשָּׁה לאחר ההכנות הראויות: אֶת מִי אַעֲלֶה לָּךְ? וַיֹּאמֶר: אֶת שְׁמוּאֵל הַעֲלִי לִי.",
+    "היא עשתה כבקשתו – וַתֵּרֶא הָאִשָּׁה אֶת שְׁמוּאֵל, שאותו זימנה, וַתִּזְעַק בְּקוֹל גָּדוֹל. וַתֹּאמֶר הָאִשָּׁה אֶל שָׁאוּל לֵאמֹר: לָמָּה רִמִּיתָנִי, רימית אותי? והרי אַתָּה שָׁאוּל המלך עצמו. ייתכן שכאשר היא ראתה את שמואל ניכר בו שהגיע אל מלך ולא אל אדם פשוט, אולי לפי לבושו ואולי פנה לכיוון אחר מן הרגיל; מכל מקום מן המראה בלבד הבינה שהאיש המבקש את עזרתה הוא שאול.",
+    "וַיֹּאמֶר לָהּ הַמֶּלֶךְ: אַל תִּירְאִי, כִּי, אבל מָה רָאִית? וַתֹּאמֶר הָאִשָּׁה אֶל שָׁאוּל: לא הייתה זו דמות של אחד המתים שאני רגילה בהם, אלא אֱלֹהִים, דמות אלוקית רָאִיתִי עֹלִים מִן הָאָרֶץ.",
+    "וַיֹּאמֶר לָהּ: מַה תָּאֳרוֹ? כיצד הוא נראה. וַתֹּאמֶר: אִישׁ זָקֵן עֹלֶה, וְהוּא עֹטֶה, לָבוש מְעִיל, כבגדו של הכהן הגדול. מעיל היה בגד טקסי למדי ולא רגיל. וַיֵּדַע שָׁאוּל כִּי שְׁמוּאֵל הוּא. המעיל היה סימן ההיכר של שמואל, שכן הוא הגיע לבוש מעיל שעשתה לו אמו אל המשכן בשִׁלֹה עוד כשהיה ילד קטן, ושלא כאחרים, שהתעטפו בגלימות או טליתות, הוא כנראה המשיך ללבוש מעיל כל ימיו. כששאול הבין ששמואל לפניו – וַיִּקֹּד אַפַּיִם אַרְצָה וַיִּשְׁתָּחוּ.",
+    "וַיֹּאמֶר שְׁמוּאֵל אֶל שָׁאוּל: אני נח בשלום על משכבי בעולם אחר, לָמָּה הִרְגַּזְתַּנִי לְהַעֲלוֹת אֹתִי? על ידי האוב אתה מטריד חלק מנפשי, כביכול, ומעלה אותו אל העולם הזה. וַיֹּאמֶר שָׁאוּל: צַר לִי מְאֹד. אני נמצא במצוקה ואין לי ברירה. וּפְלִשְׁתִּים נִלְחָמִים בִּי מלחמה גדולה, וֵאלֹהִים סָר מֵעָלַי וְלֹא עָנָנִי עוֹד גַּם בְּיַד הַנְּבִיאִם גַּם בַּחֲלֹמוֹת. וָאֶקְרָאֶה, קראתי לְךָ כדי לְהוֹדִיעֵנִי מָה אֶעֱשֶׂה. זו האפשרות היחידה שנותרה פתוחה בפני.",
+    "וַיֹּאמֶר שְׁמוּאֵל: וְלָמָּה תִּשְׁאָלֵנִי?! וַה' סָר מֵעָלֶיךָ וַיְהִי ה' עָרֶךָ, צרך, שונאך.",
+    "וַיַּעַשׂ ה' לוֹ, לך כַּאֲשֶׁר דִּבֶּר בְּיָדִי, וַיִּקְרַע ה' אֶת הַמַּמְלָכָה מִיָּדֶךָ וַיִּתְּנָהּ לְרֵעֲךָ, לְדָוִד. בעודו חי שמואל מעולם לא הזכיר בפני שאול את דוד כיורש המלוכה במפורש, אבל כעת לא חשש מאיש ואמר את כל האמת.",
+    "כַּאֲשֶׁר לֹא שָׁמַעְתָּ בְּקוֹל ה' וְלֹא עָשִׂיתָ, הוצאת לפועל את חֲרוֹן אַפּוֹ, כעסו בַּעֲמָלֵק, עַל כֵּן את הַדָּבָר הַזֶּה עָשָׂה לְךָ ה' הַיּוֹם הַזֶּה. ביום שבו נקרע מעילך, הודעתי לך שהממלכה נקרעה ממך. עתה הגיע זמנה של הנבואה להתקיים בשלמות.",
+    "אתה תינגף במלחמה, וְיִתֵּן ה' גַּם אֶת יִשְׂרָאֵל עִמְּךָ בְּיַד פְּלִשְׁתִּים, והם ינחלו מפלה. וּמָחָר אַתָּה וּבָנֶיךָ תהיו עִמִּי, מתים. ושוב – גַּם אֶת מַחֲנֵה יִשְׂרָאֵל יִתֵּן ה' בְּיַד פְּלִשְׁתִּים.",
+    "וַיְמַהֵר שָׁאוּל וַיִּפֹּל מְלֹא קוֹמָתוֹ אַרְצָה, וַיִּרָא מְאֹד מִדִּבְרֵי שְׁמוּאֵל. הוא ביקש לדעת מה עליו לעשות, ושמע משמואל שאין לו שום תקנה. גַּם כֹּחַ לֹא הָיָה בוֹ, הבשורה הקשה הצטרפה למצבו הגופני המותש, כִּי לֹא אָכַל לֶחֶם כָּל הַיּוֹם וְכָל הַלָּיְלָה בגלל ההכנות לבעלת האוב או מפני הטִּרדה בענייני המלחמה. שאול נשאר מוטל על הארץ.",
+    "וַתָּבוֹא הָאִשָּׁה אֶל שָׁאוּל, וַתֵּרֶא כִּי נִבְהַל, מפוחד מְאֹד, וַתֹּאמֶר אֵלָיו ברחמים: הִנֵּה שָׁמְעָה שִׁפְחָתְךָ בְּקוֹלֶךָ, וָאָשִׂים נַפְשִׁי בְּכַפִּי, סיכנתי את חיי, וָאֶשְׁמַע אֶת דְּבָרֶיךָ אֲשֶׁר דִּבַּרְתָּ אֵלָי. קיימתי את בקשתך למרות שידעתי שהדבר מנוגד לחוק, החל אפילו על המלך.",
+    "וְעַתָּה שְׁמַע נָא גַם אַתָּה בְּקוֹל שִׁפְחָתֶךָ, וְאָשִׂמָה לְפָנֶיךָ פַּת לֶחֶם וֶאֱכוֹל, וִיהִי בְךָ כֹּחַ כִּי תֵלֵךְ בַּדָּרֶךְ. המצב התהפך: תחילה הוא חס עליה והבטיח שלא יפגע בה, ואילו עכשיו נוכח אומללותו היא חסה עליו ודוחקת בו לאכול.",
+    "וַיְּמָאֵן, וַיֹּאמֶר: לֹא אֹכַל. וַיִּפְרְצוּ, ויפצירו בוֹ עֲבָדָיו וְגַם הָאִשָּׁה, וַיִּשְׁמַע לְקֹלָם. וַיָּקָם מֵהָאָרֶץ וַיֵּשֶׁב אֶל, על הַמִּטָּה שהייתה שם.",
+    "וְלָאִשָּׁה עֵגֶל מַרְבֵּק, מפוטם בַּבַּיִת. וַתְּמַהֵר וַתִּזְבָּחֵהוּ, וַתִּקַּח קֶמַח וַתָּלָשׁ וַתֹּפֵהוּ, אפתה אותו מַצּוֹת.",
+    "וַתַּגֵּשׁ לִפְנֵי שָׁאוּל וְלִפְנֵי עֲבָדָיו, וַיֹּאכֵלוּ, וַיָּקֻמוּ וַיֵּלְכוּ בַּלַּיְלָה הַהוּא אל המחנה."
+  ],
+  "ai_explanation": [
+    "הפלשתים מתכנסים למלחמה כוללת ומכרעת נגד ישראל. אכיש מודיע לדוד שהוא, יחד עם אנשיו, יצא איתו למחנה ויילחם נגד עמו, משום שהוא כפוף לו.",
+    "דוד משיב לאכיש שיראה בעצמו מה יעשה עבדו וכיצד יפעל במלחמה. אכיש מביע בו אמון ומודיע שימנה אותו לשומר לראשו תמיד; דוד נאלץ להבטיח הבטחות ולקוות שיימצא מוצא.",
+    "הפסוק מזכיר ששמואל מת ונקבר ברמה, עירו, ושכל ישראל ספדו לו. שאול הסיר מן הארץ את בעלי האוב והידעונים, כחלק מרצונו לקיים את מצוות התורה ובזכות סמכותו כמלך.",
+    "הפלשתים חונים בשונם, ושאול מרכז את ישראל וחונה בגלבוע, לקראת המלחמה.",
+    "שאול רואה את מחנה הפלשתים הגדול, מתיירא ולבו חרד מאוד, משום שצבאו אינו ערוך למלחמה מכרעת כזו.",
+    "שאול פונה לה' בכל הדרכים האפשריות, אך אינו מקבל תשובה: לא בחלומות, לא באורים ולא בנביאים.",
+    "מתוך דאגתו וחרדתו שאול מבקש מעבדיו למצוא בעלת אוב, כדי לשאול אותה. עבדיו מודיעים לו שיש בעלת אוב בעין דור.",
+    "שאול מסתיר את זהותו, לובש בגדים אחרים והולך בלילה עם שני אנשים. הוא מבקש מבעלת האוב להעלות את האיש שיאמר לה.",
+    "האישה מזכירה לשאול שהוא יודע שהמלך השמיד את בעלי האוב והידעונים, ושואלת מדוע הוא מתנכל לה ומבקש להביא למותה.",
+    "שאול נשבע לה בשם ה' שלא ייגרם לה עוון או עונש בשל הדבר הזה. האישה מאמינה לשבועתו.",
+    "האישה שואלת את מי להעלות, ושאול מבקש שתעלה את שמואל.",
+    "האישה רואה את שמואל וזועקת, ואז מבינה שהאיש שפנה אליה הוא שאול עצמו. לפי הפירוש, היא זיהתה זאת מן המראה או מן ההתנהגות שניכרה בדמותו המלכותית.",
+    "שאול מרגיע אותה ושואל מה ראתה. היא מתארת דמות אלוהית, ולא דמות רגילה של מת, העולה מן הארץ.",
+    "שאול שואל כיצד נראית הדמות, והאישה מתארת איש זקן עטוי מעיל, שהיה סימן ההיכר של שמואל. שאול מבין שמדובר בשמואל, משתחווה לפניו ומרכין את פניו ארצה.",
+    "שמואל שואל מדוע שאול הטריד אותו והעלה אותו באמצעות האוב. שאול מתאר את מצוקתו, את מלחמת הפלשתים ואת העובדה שה' אינו עונה לו עוד, ולכן קרא לשמואל כדי לדעת מה לעשות.",
+    "שמואל משיב שאין טעם ששאול ישאל אותו, מפני שה' סר מעליו והיה לו לאויב או לצר.",
+    "שמואל מודיע שה' עשה לשאול כפי שנאמר בידו: קרע ממנו את הממלכה ונתן אותה לדוד. כעת הוא אומר לשאול במפורש שדוד הוא יורשו.",
+    "הסיבה לעונש היא ששאול לא שמע בקול ה' ולא הוציא לפועל את חרון אפו בעמלק. לכן ה' מביא עליו את הדבר הזה ביום הזה, והנבואה על קריעת הממלכה עומדת להתקיים.",
+    "שמואל מודיע ששאול וישראל יימסרו בידי הפלשתים, ושמחר שאול ובניו יהיו עם שמואל, כלומר מתים. גם מחנה ישראל יימסר בידי הפלשתים.",
+    "שאול נופל ארצה במלוא קומתו מרוב פחד מדברי שמואל. הוא גם חלש גופנית, מפני שלא אכל כל היום וכל הלילה.",
+    "בעלת האוב רואה ששאול מבוהל מאוד ופונה אליו ברחמים. היא מזכירה שהסתכנה וקיימה את בקשתו למרות האיסור.",
+    "האישה מבקשת ששאול יקשיב לה, יאכל פת לחם ויתחזק לקראת הדרך. היא חסה עליו כפי שקודם לכן הוא חס עליה.",
+    "שאול מסרב לאכול, אך עבדיו והאישה מפצירים בו עד שהוא שומע בקולם. הוא קם מן הארץ ומתיישב על המיטה.",
+    "בבית האישה היה עגל מפוטם. היא ממהרת לשחוט אותו, לוקחת קמח, לשה ואופה מצות.",
+    "האישה מגישה את המזון לשאול ולעבדיו, והם אוכלים. לאחר מכן הם קמים והולכים באותו לילה אל המחנה."
+  ],
+  "ai_explanation_en": [
+    "The Philistines gather for a full-scale and decisive war against Israel. Achish tells David that he and his men will go with him to the camp and fight against their own people, since David is subordinate to him.",
+    "David replies to Achish that he will see for himself what his servant will do and how he will act in the war. Achish expresses his trust in him and says that he will appoint him as his personal guard forever; David is forced to make promises and hope for a way out.",
+    "The verse recalls that Samuel died and was buried in Ramah, his city, and that all Israel mourned for him. Saul had removed the mediums and spiritists from the land as part of his wish to observe the Torah and through the authority he possessed as king.",
+    "The Philistines camp at Shunem, while Saul gathers Israel and camps at Mount Gilboa in preparation for the war.",
+    "Saul sees the large Philistine camp, becomes afraid, and his heart trembles greatly because his army is not prepared for such a decisive war.",
+    "Saul turns to God in every possible way, but receives no answer: not through dreams, the Urim, or the prophets.",
+    "Because of his worry and fear, Saul asks his servants to find a medium so that he can consult her. His servants tell him that there is a medium at Ein-dor.",
+    "Saul disguises himself, puts on different clothes, and goes at night with two men. He asks the medium to bring up the person he will name.",
+    "The woman reminds Saul that he knows the king has destroyed the mediums and spiritists. She asks why he is plotting against her and seeking to cause her death.",
+    "Saul swears to her in the name of the Lord that she will suffer no guilt or punishment because of this matter. The woman believes his oath.",
+    "The woman asks whom she should bring up, and Saul requests that she bring up Samuel.",
+    "The woman sees Samuel and cries out, then realizes that the man who approached her is Saul himself. According to the explanation, she recognized him from his appearance or from behavior that revealed his royal identity.",
+    "Saul reassures her and asks what she saw. She describes a divine figure, rather than an ordinary dead person, rising from the earth.",
+    "Saul asks what the figure looks like, and the woman describes an old man wearing a robe, which was Samuel’s identifying feature. Saul realizes that it is Samuel, bows, and prostrates himself with his face to the ground.",
+    "Samuel asks why Saul disturbed him and brought him up through the medium. Saul describes his distress, the Philistine war, and the fact that God no longer answers him, so he called Samuel to learn what he should do.",
+    "Samuel replies that there is no point in Saul asking him, because the Lord has turned away from him and has become his enemy or adversary.",
+    "Samuel announces that the Lord has done to Saul what was previously declared through him: the kingdom has been torn from Saul and given to David. He now states explicitly that David is Saul’s successor.",
+    "The reason for the punishment is that Saul did not obey the Lord and did not carry out His anger against Amalek. Therefore the Lord brings this upon him on that day, and the prophecy about the kingdom being torn away is now being fulfilled.",
+    "Samuel announces that Saul and Israel will be delivered into the hands of the Philistines, and that tomorrow Saul and his sons will be with Samuel, meaning that they will be dead. The Israelite army will also be delivered into the hands of the Philistines.",
+    "Saul falls to the ground at full length out of fear of Samuel’s words. He is also physically weak because he has eaten nothing throughout the entire day and night.",
+    "The medium sees that Saul is extremely terrified and speaks to him compassionately. She reminds him that she risked her life and carried out his request despite the prohibition.",
+    "The woman asks Saul to listen to her, eat some bread, and regain strength for the journey. She now takes pity on him just as he had earlier shown pity toward her.",
+    "Saul refuses to eat, but his servants and the woman urge him until he listens to them. He rises from the ground and sits on the bed.",
+    "There was a fattened calf in the woman’s house. She quickly slaughtered it, took flour, kneaded it, and baked unleavened bread.",
+    "The woman serves the food to Saul and his servants, and they eat. Then they rise and leave that same night for the camp."
+  ],
+  "perush": [
+    "הפלשתים מתכנסים למלחמה כוללת ומכרעת נגד ישראל. אכיש מודיע לדוד שהוא, יחד עם אנשיו, יצא איתו למחנה ויילחם נגד עמו, משום שהוא כפוף לו.",
+    "דוד משיב לאכיש שיראה בעצמו מה יעשה עבדו וכיצד יפעל במלחמה. אכיש מביע בו אמון ומודיע שימנה אותו לשומר לראשו תמיד; דוד נאלץ להבטיח הבטחות ולקוות שיימצא מוצא.",
+    "הפסוק מזכיר ששמואל מת ונקבר ברמה, עירו, ושכל ישראל ספדו לו. שאול הסיר מן הארץ את בעלי האוב והידעונים, כחלק מרצונו לקיים את מצוות התורה ובזכות סמכותו כמלך.",
+    "הפלשתים חונים בשונם, ושאול מרכז את ישראל וחונה בגלבוע, לקראת המלחמה.",
+    "שאול רואה את מחנה הפלשתים הגדול, מתיירא ולבו חרד מאוד, משום שצבאו אינו ערוך למלחמה מכרעת כזו.",
+    "שאול פונה לה' בכל הדרכים האפשריות, אך אינו מקבל תשובה: לא בחלומות, לא באורים ולא בנביאים.",
+    "מתוך דאגתו וחרדתו שאול מבקש מעבדיו למצוא בעלת אוב, כדי לשאול אותה. עבדיו מודיעים לו שיש בעלת אוב בעין דור.",
+    "שאול מסתיר את זהותו, לובש בגדים אחרים והולך בלילה עם שני אנשים. הוא מבקש מבעלת האוב להעלות את האיש שיאמר לה.",
+    "האישה מזכירה לשאול שהוא יודע שהמלך השמיד את בעלי האוב והידעונים, ושואלת מדוע הוא מתנכל לה ומבקש להביא למותה.",
+    "שאול נשבע לה בשם ה' שלא ייגרם לה עוון או עונש בשל הדבר הזה. האישה מאמינה לשבועתו.",
+    "האישה שואלת את מי להעלות, ושאול מבקש שתעלה את שמואל.",
+    "האישה רואה את שמואל וזועקת, ואז מבינה שהאיש שפנה אליה הוא שאול עצמו. לפי הפירוש, היא זיהתה זאת מן המראה או מן ההתנהגות שניכרה בדמותו המלכותית.",
+    "שאול מרגיע אותה ושואל מה ראתה. היא מתארת דמות אלוהית, ולא דמות רגילה של מת, העולה מן הארץ.",
+    "שאול שואל כיצד נראית הדמות, והאישה מתארת איש זקן עטוי מעיל, שהיה סימן ההיכר של שמואל. שאול מבין שמדובר בשמואל, משתחווה לפניו ומרכין את פניו ארצה.",
+    "שמואל שואל מדוע שאול הטריד אותו והעלה אותו באמצעות האוב. שאול מתאר את מצוקתו, את מלחמת הפלשתים ואת העובדה שה' אינו עונה לו עוד, ולכן קרא לשמואל כדי לדעת מה לעשות.",
+    "שמואל משיב שאין טעם ששאול ישאל אותו, מפני שה' סר מעליו והיה לו לאויב או לצר.",
+    "שמואל מודיע שה' עשה לשאול כפי שנאמר בידו: קרע ממנו את הממלכה ונתן אותה לדוד. כעת הוא אומר לשאול במפורש שדוד הוא יורשו.",
+    "הסיבה לעונש היא ששאול לא שמע בקול ה' ולא הוציא לפועל את חרון אפו בעמלק. לכן ה' מביא עליו את הדבר הזה ביום הזה, והנבואה על קריעת הממלכה עומדת להתקיים.",
+    "שמואל מודיע ששאול וישראל יימסרו בידי הפלשתים, ושמחר שאול ובניו יהיו עם שמואל, כלומר מתים. גם מחנה ישראל יימסר בידי הפלשתים.",
+    "שאול נופל ארצה במלוא קומתו מרוב פחד מדברי שמואל. הוא גם חלש גופנית, מפני שלא אכל כל היום וכל הלילה.",
+    "בעלת האוב רואה ששאול מבוהל מאוד ופונה אליו ברחמים. היא מזכירה שהסתכנה וקיימה את בקשתו למרות האיסור.",
+    "האישה מבקשת ששאול יקשיב לה, יאכל פת לחם ויתחזק לקראת הדרך. היא חסה עליו כפי שקודם לכן הוא חס עליה.",
+    "שאול מסרב לאכול, אך עבדיו והאישה מפצירים בו עד שהוא שומע בקולם. הוא קם מן הארץ ומתיישב על המיטה.",
+    "בבית האישה היה עגל מפוטם. היא ממהרת לשחוט אותו, לוקחת קמח, לשה ואופה מצות.",
+    "האישה מגישה את המזון לשאול ולעבדיו, והם אוכלים. לאחר מכן הם קמים והולכים באותו לילה אל המחנה."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "היערכות למלחמה ומצוקתו של שאול",
+      "title_en": "Preparation for War and Saul’s Distress",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "הפלשתים מתכוננים למלחמה מכרעת, אכיש מחייב את דוד להצטרף אליו, ושאול נערך בגלבוע. לנוכח מחנה הפלשתים שאול חרד ופונה לה', אך אינו מקבל תשובה.",
+      "summary_en": "The Philistines prepare for a decisive war, Achish requires David to join him, and Saul camps at Gilboa. Faced with the Philistine army, Saul is terrified and turns to God, but receives no answer.",
+      "image_prompt": "A large ancient military camp divided by distance: Philistine forces gathered near Shunem and Israelite forces near Mount Gilboa, with Saul looking anxiously toward the opposing camp; historically restrained biblical illustration, no modern objects, no text."
+    },
+    {
+      "title": "שאול פונה לבעלת האוב",
+      "title_en": "Saul Turns to the Medium",
+      "start_verse": 7,
+      "end_verse": 10,
+      "summary": "שאול מבקש למצוא בעלת אוב בעין דור, מתחפש ויוצא אליה בלילה עם שני אנשים. בעלת האוב חוששת שהפנייה אליה היא מלכודת, אך שאול נשבע לה שלא תיענש.",
+      "summary_en": "Saul asks for a medium at Ein-dor, disguises himself, and goes to her at night with two men. The woman fears that the request is a trap, but Saul swears that she will not be punished.",
+      "image_prompt": "A disguised king arriving at a modest house at night with two companions, speaking cautiously to a frightened medium at the doorway; solemn biblical atmosphere, lantern light, historically restrained, no text."
+    },
+    {
+      "title": "העלאת שמואל והבשורה על גורל הממלכה",
+      "title_en": "Samuel Appears and Announces the Kingdom’s Fate",
+      "start_verse": 11,
+      "end_verse": 19,
+      "summary": "בעלת האוב מעלה את שמואל, ושאול מזהה אותו לפי דמותו ומעילו. שמואל מוכיח את שאול, מזכיר את חטאו בעמלק, ומודיע לו שהממלכה תינתן לדוד וששאול, בניו וישראל יימסרו בידי הפלשתים.",
+      "summary_en": "The medium brings up Samuel, and Saul recognizes him by his appearance and robe. Samuel rebukes Saul, recalls his sin concerning Amalek, and announces that the kingdom will be given to David and that Saul, his sons, and Israel will be delivered into the hands of the Philistines.",
+      "image_prompt": "A solemn nighttime scene inside a dim room: Saul bowing before the imposing figure of the elderly Samuel in a robe, while the medium stands nearby in fear; biblical illustration, restrained supernatural mood, no text."
+    },
+    {
+      "title": "שאול מתמוטט ונפרד אל המחנה",
+      "title_en": "Saul Collapses and Leaves for the Camp",
+      "start_verse": 20,
+      "end_verse": 25,
+      "summary": "שאול נופל מרוב פחד וחולשה לאחר דברי שמואל. בעלת האוב ועבדיו משכנעים אותו לאכול, היא מכינה עגל ומצות, ולאחר הארוחה הם יוצאים בלילה אל המחנה.",
+      "summary_en": "Saul collapses from fear and weakness after Samuel’s words. The medium and his servants persuade him to eat; she prepares a calf and unleavened bread, and after the meal they leave for the camp at night.",
+      "image_prompt": "Inside a humble house at night, a distressed king sits on a bed while a woman serves bread and food and two servants stand nearby; quiet, compassionate biblical scene, historically restrained, no text."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 18.52,
+      "usfm": "1SA.28.1"
+    },
+    {
+      "start": 18.52,
+      "end": 30.12,
+      "usfm": "1SA.28.2"
+    },
+    {
+      "start": 30.12,
+      "end": 43.54,
+      "usfm": "1SA.28.3"
+    },
+    {
+      "start": 43.54,
+      "end": 53.44,
+      "usfm": "1SA.28.4"
+    },
+    {
+      "start": 53.44,
+      "end": 60.38,
+      "usfm": "1SA.28.5"
+    },
+    {
+      "start": 60.38,
+      "end": 69.08,
+      "usfm": "1SA.28.6"
+    },
+    {
+      "start": 69.08,
+      "end": 84.5,
+      "usfm": "1SA.28.7"
+    },
+    {
+      "start": 84.5,
+      "end": 102.58,
+      "usfm": "1SA.28.8"
+    },
+    {
+      "start": 102.58,
+      "end": 117.16,
+      "usfm": "1SA.28.9"
+    },
+    {
+      "start": 117.16,
+      "end": 124.42,
+      "usfm": "1SA.28.10"
+    },
+    {
+      "start": 124.42,
+      "end": 131.98,
+      "usfm": "1SA.28.11"
+    },
+    {
+      "start": 131.98,
+      "end": 140.74,
+      "usfm": "1SA.28.12"
+    },
+    {
+      "start": 140.74,
+      "end": 149.96,
+      "usfm": "1SA.28.13"
+    },
+    {
+      "start": 149.96,
+      "end": 164.78,
+      "usfm": "1SA.28.14"
+    },
+    {
+      "start": 164.78,
+      "end": 185.94,
+      "usfm": "1SA.28.15"
+    },
+    {
+      "start": 185.94,
+      "end": 193.78,
+      "usfm": "1SA.28.16"
+    },
+    {
+      "start": 193.78,
+      "end": 203.24,
+      "usfm": "1SA.28.17"
+    },
+    {
+      "start": 203.24,
+      "end": 212.9,
+      "usfm": "1SA.28.18"
+    },
+    {
+      "start": 212.9,
+      "end": 225.16,
+      "usfm": "1SA.28.19"
+    },
+    {
+      "start": 225.16,
+      "end": 240.0,
+      "usfm": "1SA.28.20"
+    },
+    {
+      "start": 240.0,
+      "end": 257.98,
+      "usfm": "1SA.28.21"
+    },
+    {
+      "start": 257.98,
+      "end": 270.76,
+      "usfm": "1SA.28.22"
+    },
+    {
+      "start": 270.76,
+      "end": 282.92,
+      "usfm": "1SA.28.23"
+    },
+    {
+      "start": 282.92,
+      "end": 291.28,
+      "usfm": "1SA.28.24"
+    },
+    {
+      "start": 291.28,
+      "end": 306.72,
+      "usfm": "1SA.28.25"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    18.52,
+    30.12,
+    43.54,
+    53.44,
+    60.38,
+    69.08,
+    84.5,
+    102.58,
+    117.16,
+    124.42,
+    131.98,
+    140.74,
+    149.96,
+    164.78,
+    185.94,
+    193.78,
+    203.24,
+    212.9,
+    225.16,
+    240.0,
+    257.98,
+    270.76,
+    282.92,
+    291.28,
+    306.72
+  ],
+  "times_en_usfm": [
+    "1SA.28.1",
+    "1SA.28.2",
+    "1SA.28.3",
+    "1SA.28.4",
+    "1SA.28.5",
+    "1SA.28.6",
+    "1SA.28.7",
+    "1SA.28.8",
+    "1SA.28.9",
+    "1SA.28.10",
+    "1SA.28.11",
+    "1SA.28.12",
+    "1SA.28.13",
+    "1SA.28.14",
+    "1SA.28.15",
+    "1SA.28.16",
+    "1SA.28.17",
+    "1SA.28.18",
+    "1SA.28.19",
+    "1SA.28.20",
+    "1SA.28.21",
+    "1SA.28.22",
+    "1SA.28.23",
+    "1SA.28.24",
+    "1SA.28.25"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? אכיש מלך גת דרש מדוד להצטרף אליו ולחייליו במערכה נגד ישראל, ודוד השיב לו תשובה שאינה מפורשת לגמרי.",
+      "text_he": "הידעת? אכיש מלך גת דרש מדוד להצטרף אליו ולחייליו במערכה נגד ישראל, ודוד השיב לו תשובה שאינה מפורשת לגמרי.",
+      "text_en": "Did you know? Achish king of Gath asked David to join him and his soldiers in the campaign against Israel, and David gave him an answer that was not entirely explicit."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? הפרק מציין שני דברים הקשורים למדיניותו של שאול: שמואל כבר מת ונקבר ברמה, ושאול הסיר מן הארץ את בעלי האוב והידעונים.",
+      "text_he": "הידעת? הפרק מציין שני דברים הקשורים למדיניותו של שאול: שמואל כבר מת ונקבר ברמה, ושאול הסיר מן הארץ את בעלי האוב והידעונים.",
+      "text_en": "Did you know? The chapter mentions two things related to Saul’s policies: Samuel had already died and been buried at Ramah, and Saul had removed the mediums and spiritists from the land."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? הפלשתים חנו בשונם, ואילו צבא ישראל בהנהגת שאול חנה בגלבוע — שני מקומות המוזכרים כנקודות ההיערכות למלחמה.",
+      "text_he": "הידעת? הפלשתים חנו בשונם, ואילו צבא ישראל בהנהגת שאול חנה בגלבוע — שני מקומות המוזכרים כנקודות ההיערכות למלחמה.",
+      "text_en": "Did you know? The Philistines camped at Shunem, while the Israelite army under Saul’s leadership camped at Gilboa—two places mentioned as the staging points for the battle."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? שאול פנה אל ה', אך לא קיבל תשובה באף אחת מן הדרכים שהוזכרו: בחלומות, באורים או בנביאים.",
+      "text_he": "הידעת? שאול פנה אל ה', אך לא קיבל תשובה באף אחת מן הדרכים שהוזכרו: בחלומות, באורים או בנביאים.",
+      "text_en": "Did you know? Saul inquired of the LORD, but received no answer by any of the means mentioned: through dreams, the Urim, or the prophets."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? אף ששאול הסיר את בעלי האוב והידעונים מן הארץ, בעת מצוקתו הוא ביקש מעבדיו למצוא לו בעלת אוב בעין דור.",
+      "text_he": "הידעת? אף ששאול הסיר את בעלי האוב והידעונים מן הארץ, בעת מצוקתו הוא ביקש מעבדיו למצוא לו בעלת אוב בעין דור.",
+      "text_en": "Did you know? Although Saul had removed the mediums and spiritists from the land, when he was in distress he asked his servants to find him a medium at Endor."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? שאול התחפש, לבש בגדים אחרים, והלך אל בעלת האוב בלילה יחד עם שני אנשים, כדי שזהותו לא תתגלה.",
+      "text_he": "הידעת? שאול התחפש, לבש בגדים אחרים, והלך אל בעלת האוב בלילה יחד עם שני אנשים, כדי שזהותו לא תתגלה.",
+      "text_en": "Did you know? Saul disguised himself, put on different clothes, and went to the medium at night with two men so that his identity would not be revealed."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? שאול נשבע לבעלת האוב בשם ה' שלא יקרה לה עוון בשל המעשה — אף שהפרק מתאר קודם לכן את התנגדותו לבעלי האוב.",
+      "text_he": "הידעת? שאול נשבע לבעלת האוב בשם ה' שלא יקרה לה עוון בשל המעשה — אף שהפרק מתאר קודם לכן את התנגדותו לבעלי האוב.",
+      "text_en": "Did you know? Saul swore to the medium by the LORD that she would not be punished for what she was about to do—even though the chapter had already described his opposition to mediums."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? בעלת האוב תיארה את הדמות כ'איש זקן' העולה כשהוא עטוי מעיל, ועל פי תיאור זה שאול הבין שמדובר בשמואל.",
+      "text_he": "הידעת? בעלת האוב תיארה את הדמות כ'איש זקן' העולה כשהוא עטוי מעיל, ועל פי תיאור זה שאול הבין שמדובר בשמואל.",
+      "text_en": "Did you know? The medium described the figure as “an old man” coming up, wearing a robe, and from this description Saul understood that it was Samuel."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? שמואל הודיע לשאול שביום המחרת יימסרו שאול, בניו ומחנה ישראל בידי הפלשתים, ובכך חזר על בשורת הדין הקשה שנאמרה לו.",
+      "text_he": "הידעת? שמואל הודיע לשאול שביום המחרת יימסרו שאול, בניו ומחנה ישראל בידי הפלשתים, ובכך חזר על בשורת הדין הקשה שנאמרה לו.",
+      "text_en": "Did you know? Samuel told Saul that on the next day Saul, his sons, and the army of Israel would be handed over to the Philistines, repeating the severe judgment he had announced to him."
+    },
+    {
+      "verse": 24,
+      "text": "הידעת? לאחר ששאול התמוטט ולא היה בו כוח, בעלת האוב הכינה במהירות עגל ומצות; לאחר שאכלו, יצאו שאול ועבדיו בלילה אל המחנה.",
+      "text_he": "הידעת? לאחר ששאול התמוטט ולא היה בו כוח, בעלת האוב הכינה במהירות עגל ומצות; לאחר שאכלו, יצאו שאול ועבדיו בלילה אל המחנה.",
+      "text_en": "Did you know? After Saul collapsed and had no strength left, the medium quickly prepared a fattened calf and unleavened bread; after they ate, Saul and his servants left that night for the camp."
+    }
+  ]
+}
