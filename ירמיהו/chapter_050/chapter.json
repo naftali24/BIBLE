@@ -1,0 +1,772 @@
+{
+  "book": "Jeremiah",
+  "book_he": "ירמיהו",
+  "book_chapters": 52,
+  "chapter": 50,
+  "title": "ירמיהו פרק 50",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1150.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1150.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JER/50-6f6abf2d37a004acb6e25f84b9d8dc55.mp3?version_id=1",
+  "verses": [
+    "הַדָּבָר, אֲשֶׁר דִּבֶּר יְהוָה אֶל-בָּבֶל--אֶל-אֶרֶץ כַּשְׂדִּים: בְּיַד, יִרְמְיָהוּ הַנָּבִיא.",
+    "הַגִּידוּ בַגּוֹיִם וְהַשְׁמִיעוּ וּשְׂאוּ-נֵס, הַשְׁמִיעוּ אַל-תְּכַחֵדוּ; אִמְרוּ נִלְכְּדָה בָבֶל הֹבִישׁ בֵּל, חַת מְרֹדָךְ, הֹבִישׁוּ עֲצַבֶּיהָ, חַתּוּ גִּלּוּלֶיהָ.",
+    "כִּי עָלָה עָלֶיהָ גּוֹי מִצָּפוֹן, הוּא-יָשִׁית אֶת-אַרְצָהּ לְשַׁמָּה, וְלֹא-יִהְיֶה יוֹשֵׁב, בָּהּ: מֵאָדָם וְעַד-בְּהֵמָה, נָדוּ הָלָכוּ.",
+    "בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא, נְאֻם-יְהוָה, יָבֹאוּ בְנֵי-יִשְׂרָאֵל הֵמָּה וּבְנֵי-יְהוּדָה, יַחְדָּו; הָלוֹךְ וּבָכוֹ יֵלֵכוּ, וְאֶת-יְהוָה אֱלֹהֵיהֶם יְבַקֵּשׁוּ.",
+    "צִיּוֹן יִשְׁאָלוּ, דֶּרֶךְ הֵנָּה פְנֵיהֶם; בֹּאוּ וְנִלְווּ אֶל-יְהוָה, בְּרִית עוֹלָם לֹא תִשָּׁכֵחַ.",
+    "צֹאן אֹבְדוֹת, היה הָיוּ עַמִּי--רֹעֵיהֶם הִתְעוּם, הָרִים שובבים שׁוֹבְבוּם ; מֵהַר אֶל-גִּבְעָה הָלָכוּ, שָׁכְחוּ רִבְצָם.",
+    "כָּל-מוֹצְאֵיהֶם אֲכָלוּם, וְצָרֵיהֶם אָמְרוּ לֹא נֶאְשָׁם; תַּחַת, אֲשֶׁר חָטְאוּ לַיהוָה נְוֵה-צֶדֶק, וּמִקְוֵה אֲבוֹתֵיהֶם, יְהוָה.",
+    "נֻדוּ מִתּוֹךְ בָּבֶל, וּמֵאֶרֶץ כַּשְׂדִּים יצאו צֵאוּ ; וִהְיוּ, כְּעַתּוּדִים לִפְנֵי-צֹאן.",
+    "כִּי הִנֵּה אָנֹכִי מֵעִיר וּמַעֲלֶה עַל-בָּבֶל קְהַל-גּוֹיִם גְּדֹלִים, מֵאֶרֶץ צָפוֹן, וְעָרְכוּ לָהּ, מִשָּׁם תִּלָּכֵד; חִצָּיו כְּגִבּוֹר מַשְׁכִּיל, לֹא יָשׁוּב רֵיקָם.",
+    "וְהָיְתָה כַשְׂדִּים, לְשָׁלָל: כָּל-שֹׁלְלֶיהָ יִשְׂבָּעוּ, נְאֻם-יְהוָה.",
+    "כִּי תשמחי תִשְׂמְחוּ כִּי תעלזי תַעַלְזוּ , שֹׁסֵי נַחֲלָתִי: כִּי תפושי תָפוּשׁוּ כְּעֶגְלָה דָשָׁה, ותצהלי וְתִצְהֲלוּ כָּאַבִּרִים.",
+    "בּוֹשָׁה אִמְּכֶם מְאֹד, חָפְרָה יוֹלַדְתְּכֶם; הִנֵּה אַחֲרִית גּוֹיִם, מִדְבָּר צִיָּה וַעֲרָבָה.",
+    "מִקֶּצֶף יְהוָה לֹא תֵשֵׁב, וְהָיְתָה שְׁמָמָה כֻּלָּהּ; כֹּל עֹבֵר עַל-בָּבֶל, יִשֹּׁם וְיִשְׁרֹק עַל-כָּל-מַכּוֹתֶיהָ.",
+    "עִרְכוּ עַל-בָּבֶל סָבִיב, כָּל-דֹּרְכֵי קֶשֶׁת, יְדוּ אֵלֶיהָ, אַל-תַּחְמְלוּ אֶל-חֵץ: כִּי לַיהוָה, חָטָאָה.",
+    "הָרִיעוּ עָלֶיהָ סָבִיב, נָתְנָה יָדָהּ, נָפְלוּ אשויתיה אָשְׁיוֹתֶיהָ , נֶהֶרְסוּ חוֹמוֹתֶיהָ: כִּי נִקְמַת יְהוָה הִיא הִנָּקְמוּ בָהּ, כַּאֲשֶׁר עָשְׂתָה עֲשׂוּ-לָהּ.",
+    "כִּרְתוּ זוֹרֵעַ מִבָּבֶל, וְתֹפֵשׂ מַגָּל בְּעֵת קָצִיר--מִפְּנֵי, חֶרֶב הַיּוֹנָה, אִישׁ אֶל-עַמּוֹ יִפְנוּ, וְאִישׁ לְאַרְצוֹ יָנֻסוּ.",
+    "שֶׂה פְזוּרָה יִשְׂרָאֵל, אֲרָיוֹת הִדִּיחוּ; הָרִאשׁוֹן אֲכָלוֹ, מֶלֶךְ אַשּׁוּר, וְזֶה הָאַחֲרוֹן עִצְּמוֹ, נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל.",
+    "לָכֵן, כֹּה-אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל, הִנְנִי פֹקֵד אֶל-מֶלֶךְ בָּבֶל, וְאֶל-אַרְצוֹ--כַּאֲשֶׁר פָּקַדְתִּי, אֶל-מֶלֶךְ אַשּׁוּר.",
+    "וְשֹׁבַבְתִּי אֶת-יִשְׂרָאֵל אֶל-נָוֵהוּ, וְרָעָה הַכַּרְמֶל וְהַבָּשָׁן; וּבְהַר אֶפְרַיִם וְהַגִּלְעָד, תִּשְׂבַּע נַפְשׁוֹ.",
+    "בַּיָּמִים הָהֵם וּבָעֵת הַהִיא נְאֻם-יְהוָה, יְבֻקַּשׁ אֶת-עֲוֺן יִשְׂרָאֵל וְאֵינֶנּוּ, וְאֶת-חַטֹּאת יְהוּדָה, וְלֹא תִמָּצֶאינָה: כִּי אֶסְלַח, לַאֲשֶׁר אַשְׁאִיר.",
+    "עַל-הָאָרֶץ מְרָתַיִם עֲלֵה עָלֶיהָ, וְאֶל-יוֹשְׁבֵי פְּקוֹד; חֲרֹב וְהַחֲרֵם אַחֲרֵיהֶם, נְאֻם-יְהוָה, וַעֲשֵׂה, כְּכֹל אֲשֶׁר צִוִּיתִיךָ.",
+    "קוֹל מִלְחָמָה, בָּאָרֶץ--וְשֶׁבֶר, גָּדוֹל.",
+    "אֵיךְ נִגְדַּע וַיִּשָּׁבֵר, פַּטִּישׁ כָּל-הָאָרֶץ; אֵיךְ הָיְתָה לְשַׁמָּה בָּבֶל, בַּגּוֹיִם.",
+    "יָקֹשְׁתִּי לָךְ וְגַם-נִלְכַּדְתְּ בָּבֶל, וְאַתְּ לֹא יָדָעַתְּ; נִמְצֵאת, וְגַם-נִתְפַּשְׂתְּ--כִּי בַיהוָה, הִתְגָּרִית.",
+    "פָּתַח יְהוָה אֶת-אוֹצָרוֹ, וַיּוֹצֵא אֶת-כְּלֵי זַעְמוֹ: כִּי-מְלָאכָה הִיא, לַאדֹנָי יְהוִה צְבָאוֹת--בְּאֶרֶץ כַּשְׂדִּים.",
+    "בֹּאוּ-לָהּ מִקֵּץ פִּתְחוּ מַאֲבֻסֶיהָ, סָלּוּהָ כְמוֹ-עֲרֵמִים וְהַחֲרִימוּהָ; אַל-תְּהִי-לָהּ, שְׁאֵרִית.",
+    "חִרְבוּ, כָּל-פָּרֶיהָ, יֵרְדוּ, לַטָּבַח; הוֹי עֲלֵיהֶם, כִּי-בָא יוֹמָם עֵת פְּקֻדָּתָם.",
+    "קוֹל נָסִים וּפְלֵטִים, מֵאֶרֶץ בָּבֶל: לְהַגִּיד בְּצִיּוֹן, אֶת-נִקְמַת יְהוָה אֱלֹהֵינוּ--נִקְמַת, הֵיכָלוֹ.",
+    "הַשְׁמִיעוּ אֶל-בָּבֶל רַבִּים כָּל-דֹּרְכֵי קֶשֶׁת חֲנוּ עָלֶיהָ סָבִיב, אַל-יְהִי- לָהּ פְּלֵיטָה, שַׁלְּמוּ-לָהּ כְּפָעֳלָהּ, כְּכֹל אֲשֶׁר עָשְׂתָה עֲשׂוּ-לָהּ: כִּי אֶל-יְהוָה זָדָה, אֶל-קְדוֹשׁ יִשְׂרָאֵל.",
+    "לָכֵן יִפְּלוּ בַחוּרֶיהָ, בִּרְחֹבֹתֶיהָ; וְכָל-אַנְשֵׁי מִלְחַמְתָּהּ יִדַּמּוּ בַּיּוֹם הַהוּא, נְאֻם-יְהוָה.",
+    "הִנְנִי אֵלֶיךָ זָדוֹן, נְאֻם-אֲדֹנָי יְהוִה צְבָאוֹת: כִּי בָּא יוֹמְךָ, עֵת פְּקַדְתִּיךָ.",
+    "וְכָשַׁל זָדוֹן וְנָפַל, וְאֵין לוֹ מֵקִים; וְהִצַּתִּי אֵשׁ בְּעָרָיו, וְאָכְלָה כָּל-סְבִיבֹתָיו.",
+    "כֹּה אָמַר יְהוָה צְבָאוֹת, עֲשׁוּקִים בְּנֵי-יִשְׂרָאֵל וּבְנֵי-יְהוּדָה יַחְדָּו; וְכָל-שֹׁבֵיהֶם הֶחֱזִיקוּ בָם, מֵאֲנוּ שַׁלְּחָם.",
+    "גֹּאֲלָם חָזָק, יְהוָה צְבָאוֹת שְׁמוֹ--רִיב יָרִיב, אֶת-רִיבָם: לְמַעַן הִרְגִּיעַ אֶת-הָאָרֶץ, וְהִרְגִּיז לְיֹשְׁבֵי בָבֶל.",
+    "חֶרֶב עַל-כַּשְׂדִּים, נְאֻם-יְהוָה, וְאֶל-יֹשְׁבֵי בָבֶל, וְאֶל-שָׂרֶיהָ וְאֶל-חֲכָמֶיהָ.",
+    "חֶרֶב אֶל-הַבַּדִּים, וְנֹאָלוּ; חֶרֶב אֶל-גִּבּוֹרֶיהָ, וָחָתּוּ.",
+    "חֶרֶב אֶל-סוּסָיו וְאֶל-רִכְבּוֹ, וְאֶל-כָּל-הָעֶרֶב אֲשֶׁר בְּתוֹכָהּ--וְהָיוּ לְנָשִׁים; חֶרֶב אֶל-אוֹצְרֹתֶיהָ, וּבֻזָּזוּ.",
+    "חֹרֶב אֶל-מֵימֶיהָ, וְיָבֵשׁוּ: כִּי אֶרֶץ פְּסִלִים הִיא, וּבָאֵימִים יִתְהֹלָלוּ.",
+    "לָכֵן, יֵשְׁבוּ צִיִּים אֶת-אִיִּים, וְיָשְׁבוּ בָהּ, בְּנוֹת יַעֲנָה; וְלֹא-תֵשֵׁב עוֹד לָנֶצַח, וְלֹא תִשְׁכּוֹן עַד-דּוֹר וָדֹר.",
+    "כְּמַהְפֵּכַת אֱלֹהִים אֶת-סְדֹם וְאֶת-עֲמֹרָה, וְאֶת-שְׁכֵנֶיהָ--נְאֻם-יְהוָה: לֹא-יֵשֵׁב שָׁם אִישׁ, וְלֹא-יָגוּר בָּהּ בֶּן-אָדָם.",
+    "הִנֵּה עַם בָּא, מִצָּפוֹן; וְגוֹי גָּדוֹל וּמְלָכִים רַבִּים, יֵעֹרוּ מִיַּרְכְּתֵי-אָרֶץ.",
+    "קֶשֶׁת וְכִידֹן יַחֲזִיקוּ, אַכְזָרִי הֵמָּה וְלֹא יְרַחֵמוּ--קוֹלָם כַּיָּם יֶהֱמֶה, וְעַל-סוּסִים יִרְכָּבוּ; עָרוּךְ, כְּאִישׁ לַמִּלְחָמָה, עָלַיִךְ, בַּת-בָּבֶל.",
+    "שָׁמַע מֶלֶךְ-בָּבֶל אֶת-שִׁמְעָם, וְרָפוּ יָדָיו; צָרָה, הֶחֱזִיקַתְהוּ--חִיל, כַּיּוֹלֵדָה.",
+    "הִנֵּה כְּאַרְיֵה יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן, אֶל-נְוֵה אֵיתָן--כִּי-אַרְגִּעָה ארוצם אֲרִיצֵם מֵעָלֶיהָ, וּמִי בָחוּר אֵלֶיהָ אֶפְקֹד: כִּי מִי כָמוֹנִי, וּמִי יוֹעִדֶנִּי, וּמִי-זֶה רֹעֶה, אֲשֶׁר יַעֲמֹד לְפָנָי.",
+    "לָכֵן שִׁמְעוּ עֲצַת-יְהוָה, אֲשֶׁר יָעַץ אֶל-בָּבֶל, וּמַחְשְׁבוֹתָיו, אֲשֶׁר חָשַׁב אֶל-אֶרֶץ כַּשְׂדִּים: אִם-לֹא יִסְחָבוּם צְעִירֵי הַצֹּאן, אִם-לֹא יַשִּׁים עֲלֵיהֶם נָוֶה.",
+    "מִקּוֹל נִתְפְּשָׂה בָבֶל, נִרְעֲשָׁה הָאָרֶץ; וּזְעָקָה, בַּגּוֹיִם נִשְׁמָע."
+  ],
+  "english": [
+    "The word that the LORD spake against Babylon\nand against the land of the Chaldeans by Jeremiah the prophet.",
+    "Declare ye among the nations, and publish, and set up a standard; publish,\nand conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces.",
+    "For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.",
+    "In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God.",
+    "They shall ask the way to Zion with their faces thitherward,\nsaying,\n Come, and let us join ourselves to the LORD in a perpetual covenant\nthat shall not be forgotten.",
+    "My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away\non the mountains: they have gone from mountain to hill, they have forgotten their restingplace.",
+    "All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the LORD, the habitation of justice, even the LORD, the hope of their fathers.",
+    "Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.",
+    "For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows\nshall be\n as of a mighty expert man; none shall return in vain.",
+    "And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.",
+    "Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;",
+    "Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the hindermost of the nations\nshall be a wilderness, a dry land, and a desert.",
+    "Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.",
+    "Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD.",
+    "Shout against her round about: she hath given her hand: her foundations are fallen, her walls are thrown down: for it\nis the vengeance of the LORD: take vengeance upon her; as she hath done, do unto her.",
+    "Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.",
+    "Israel\nis a scattered sheep; the lions have driven\nhim\n away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.",
+    "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria.",
+    "And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.",
+    "In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and\nthere shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.",
+    "Go up against the land of Merathaim,\neven against it, and against the inhabitants of Pekod: waste and utterly destroy after them, saith the LORD, and do according to all that I have commanded thee.",
+    "A sound of battle\nis in the land, and of great destruction.",
+    "How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!",
+    "I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the LORD.",
+    "The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this\nis the work of the Lord GOD of hosts in the land of the Chaldeans.",
+    "Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left.",
+    "Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.",
+    "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple.",
+    "Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel.",
+    "Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the LORD.",
+    "Behold, I\nam against thee,\nO thou most proud, saith the Lord GOD of hosts: for thy day is come, the time\nthat I will visit thee.",
+    "And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.",
+    "Thus saith the LORD of hosts; The children of Israel and the children of Judah\nwere oppressed together: and all that took them captives held them fast; they refused to let them go.",
+    "Their Redeemer\nis strong; the LORD of hosts\nis\n his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.",
+    "A sword\nis upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise\nmen.",
+    "A sword\nis upon the liars; and they shall dote: a sword\nis upon her mighty men; and they shall be dismayed.",
+    "A sword\nis upon their horses, and upon their chariots, and upon all the mingled people that\nare in the midst of her; and they shall become as women: a sword\nis upon her treasures; and they shall be robbed.",
+    "A drought\nis upon her waters; and they shall be dried up: for it\nis the land of graven images, and they are mad upon\ntheir\n idols.",
+    "Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell\nthere, and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.",
+    "As God overthrew Sodom and Gomorrah and the neighbour\ncities\n thereof, saith the LORD;\nso shall no man abide there, neither shall any son of man dwell therein.",
+    "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.",
+    "They shall hold the bow and the lance: they\nare cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses,\nevery one put in array, like a man to the battle, against thee, O daughter of Babylon.",
+    "The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him,\nand pangs as of a woman in travail.",
+    "Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who\nis a chosen\nman, that I may appoint over her? for who\nis like me? and who will appoint me the time? and who\nis that shepherd that will stand before me?",
+    "Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make\ntheir habitation desolate with them.",
+    "At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations."
+  ],
+  "steinsaltz": [
+    "הַדָּבָר אֲשֶׁר דִּבֶּר ה' אֶל, על בָּבֶל, אֶל אֶרֶץ כַּשְׂדִּים, בְּיַד יִרְמְיָהוּ הַנָּבִיא:",
+    "הַגִּידוּ בַגּוֹיִם וְהַשְׁמִיעוּ וּשְׂאוּ־נֵס, הרימו דגל, פרסמו, הַשְׁמִיעוּ אַל־תְּכַחֵדוּ, תסתירו. אִמְרוּ: נִלְכְּדָה בָבֶל, הֹבִישׁ, המיט בושה, אִכזב בֵּל, כינוי לאליל הראשי של בבל, במיוחד של בבל העיר, חַת, נשבר מְרֹדָךְ, שמו של בל, הֹבִישׁוּ עֲצַבֶּיהָ, חַתּוּ גִּלּוּלֶיהָ, אליליה,",
+    "כִּי עָלָה עָלֶיהָ גּוֹי מִצָּפוֹן, מממלכת מדי ופרס. הוּא־יָשִׁית, ישים אֶת־אַרְצָהּ לְשַׁמָּה, לשממה וְלֹא־יִהְיֶה יוֹשֵׁב בָּהּ, מֵאָדָם וְעַד־בְּהֵמָה, נָדוּ, נעו הָלָכוּ.",
+    "בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא, כאשר בבל תיפול, נְאֻם־ה', יָבֹאוּ בְנֵי־יִשְׂרָאֵל, שיישארו מעשרת השבטים, הֵמָּה וּבְנֵי־יְהוּדָה יַחְדָּו, הָלוֹךְ וּבָכוֹ יֵלֵכוּ מהתרגשות ותחנונים, וְאֶת־ה' אֱלֹהֵיהֶם יְבַקֵּשׁוּ.",
+    "על צִיּוֹן הם יִשְׁאָלוּ, דֶּרֶךְ הֵנָּה, לכאן — מקום עמידת הנביא — מועדות פְנֵיהֶם, ויאמרו: בֹּאוּ וְנִלְווּ, ונתחבר אֶל־ה', לכרות עמו בְּרִית עוֹלָם שלֹא תִשָּׁכֵחַ.",
+    "הערה המתייחסת גם היא לישראל: כמו צֹאן אֹבְדוֹת הָיוּ עַמִּי, כי רֹעֵיהֶם הִתְעוּם, מנהיגיהם גרמו להם לאבד את דרכם. על הָרִים המייגעים את הצאן שׁוֹבְבוּם, הטו אותם הרועים, מֵהַר אֶל־גִּבְעָה הָלָכוּ, שָׁכְחוּ מקום רִבְצָם. הם כבר אינם יודעים אפילו לאן הם שייכים.",
+    "כָּל־מוֹצְאֵיהֶם אֲכָלוּם, כילו בהם, וְצָרֵיהֶם, אויביהם שהצרו להם אָמְרוּ: לֹא נֶאְשָׁם, אין עלינו כל אשמה, שהרי הדבר מגיע להם תַּחַת אֲשֶׁר חָטְאוּ לַה', שהוא להם נְוֵה, מעון צֶדֶק, וּמִקְוֵה, תקוות אֲבוֹתֵיהֶם ה'.",
+    "נֻדוּ, יושבי בבל, מִתּוֹךְ בָּבֶל העומדת להיחרב, וּמֵאֶרֶץ כַּשְׂדִּים צֵאוּ, וִהְיוּ כְּעַתּוּדִים, תיישים ההולכים לִפְנֵי־הצֹאן, משכוכיות,",
+    "כִּי הִנֵּה אָנֹכִי מֵעִיר, מניע, מזרז וּמַעֲלֶה עַל־בָּבֶל קְהַל־גּוֹיִם גְּדֹלִים מֵאֶרֶץ צָפוֹן, וְעָרְכוּ מלחמה לָהּ, כנגדה. מִשָּׁם תִּלָּכֵד. חִצָּיו של קהל הגויים יהיו כְּחץ גִבּוֹר מַשְׁכִּיל, ההורג ומביא שכול ולֹא יָשׁוּב רֵיקָם.",
+    "וְהָיְתָה ארץ כַשְׂדִּים לְשָׁלָל. כָּל־שֹׁלְלֶיהָ יִשְׂבָּעוּ. נְאֻם־ה'.",
+    "כִּי, אמנם כעת תִשְׂמְחוּ, אתם הבבלים, כִּי תַעַלְזוּ, שֹׁסֵי, שודדי ישראל נַחֲלָתִי, כִּי תָפוּשׁוּ, תשמינו כְּעֶגְלָה דָשָׁה, שתבואתה מצויה לה תמיד, וְתִצְהֲלוּ כָּאַבִּירִים, כסוסים חזקים,",
+    "אבל כל זה יחלוף שכן בּוֹשָׁה אִמְּכֶם מְאֹד, חָפְרָה, התביישה יוֹלַדְתְּכֶם. הִנֵּה אַחֲרִית גּוֹיִם — מִדְבָּר, צִיָּה וַעֲרָבָה. זה יהיה גם סופכם.",
+    "מִקֶּצֶף, כעס ה' לֹא תֵשֵׁב, תהיה בבל מיושבת, וְהָיְתָה שְׁמָמָה כֻּלָּהּ. כֹּל עֹבֵר עַל־בָּבֶל יִשֹּׁם וְיִשְׁרֹק עַל־כָּל־מַכּוֹתֶיהָ. אנשים ישמיעו קולות תדהמה על בבל, שהייתה עיר ממלכה ומרכז אימפריה, והפכה לתל חורבות.",
+    "עִרְכוּ מלחמה עַל־בָּבֶל סָבִיב, כָּל־דֹּרְכֵי קֶשֶׁת. יְדוּ, יְרו אֵלֶיהָ, אַל־תַּחְמְלוּ אֶל־חֵץ, אל תחסכו בחצים, כִּי לַה' חָטָאָה.",
+    "הָרִיעוּ עָלֶיהָ תרועת כיבוש וניצחון סָבִיב, שהרי נָתְנָה יָדָהּ, הושיטה ידה לאות כניעה ותחינה. נָפְלוּ אָשְׁיוֹתֶיהָ, יסודותיה, נֶהֶרְסוּ חוֹמוֹתֶיהָ, כִּי נִקְמַת ה' הִיא. על כן הִנָּקְמוּ בָהּ — כַּאֲשֶׁר עָשְׂתָה כך עֲשׂוּ־לָהּ.",
+    "כִּרְתוּ זוֹרֵעַ מִבָּבֶל, וְתֹפֵשׂ מַגָּל בְּעֵת קָצִיר. החקלאות של בבל תאבד, מִפְּנֵי חֶרֶב הַיּוֹנָה, המייסרת והמשמידה. אִישׁ אֶל־עַמּוֹ יִפְנוּ, וְאִישׁ לְאַרְצוֹ יָנוּסוּ. סביב האימפריה הבבלית היו עמים שונים שהשתעבדו לה, אלו ישובו למקומותיהם בזמן שבבל עצמה תחרב לגמרי.",
+    "שֶׂה פְזוּרָה היא יִשְׂרָאֵל, אֲרָיוֹת תקפו את העדר והִדִּיחוּ, הרחיקו את הצאן. האריה הָרִאשׁוֹן אֲכָלוֹ — הוא מֶלֶךְ אַשּׁוּר, וְזֶה הָאַחֲרוֹן עִצְּמוֹ, פיצח עצמותיו – הוא נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל. האריה האשורי כילה את ממלכת ישראל וגם כבש חלקים ביהודה, ונבוכדנאצר אחריו סיים להחריב את הארץ.",
+    "לָכֵן, כֹּה־אָמַר ה' צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל: הִנְנִי פֹקֵד אֶל־מֶלֶךְ בָּבֶל וְאֶל־אַרְצוֹ כַּאֲשֶׁר פָּקַדְתִּי אֶל־מֶלֶךְ אַשּׁוּר. בזמן שנאמרה הנבואה, הייתה אשור ממלכה חרבה וחסרת משמעות, וכך צופה הנביא שיקרה גם לבבל.",
+    "וְשֹׁבַבְתִּי, אשיב אֶת־יִשְׂרָאֵל אֶל־נָוֵהוּ, וְרָעָה, הוא ייזון מיבול הַכַּרְמֶל וְהַבָּשָׁן, אזורי מרעה, וּבְהַר אֶפְרַיִם וְהַגִּלְעָד תִּשְׂבַּע נַפְשׁוֹ.",
+    "בַּיָּמִים הָהֵם וּבָעֵת הַהִיא, ביטוי שירי המרמז על זמן גאולה, נְאֻם־ה', יְבֻקַּשׁ אֶת־עֲוֹן יִשְׂרָאֵל — וְאֵינֶנּוּ, וְאֶת־חַטֹּאת יְהוּדָה יחפשו — וְלֹא תִמָּצֶאינָה, כִּי אֶסְלַח לַאֲשֶׁר אַשְׁאִיר. אחרי חורבן בבל עתידים לבוא ימים טובים.",
+    "עַל־הָאָרֶץ, ארץ מְרָתַיִם, מחוז הכפוף לבבל, עֲלֵה, אתה הכובש, עָלֶיהָ, וְאֶל־יוֹשְׁבֵי פְּקוֹד, השוכנת סמוך לבבל חֲרֹב וְהַחֲרֵם, רדוף בחרב וכלה אַחֲרֵיהֶם, נְאֻם־ה', וַעֲשֵׂה כְּכֹל אֲשֶׁר צִוִּיתִיךָ. האויב שבא לכבוש את בבל ישמיד ארצות אחרות שהיו קשורות אליה.",
+    "קוֹל מִלְחָמָה נשמע בָּאָרֶץ וְשֶׁבֶר גָּדוֹל.",
+    "אֵיךְ נִגְדַּע וַיִּשָּׁבֵר פַּטִּישׁ כָּל־הָאָרֶץ, בבל האדירה, המנפצת את כל העמים?! אֵיךְ הָיְתָה לְשַׁמָּה, לשממה בָּבֶל בַּגּוֹיִם, בין הגויים?!",
+    "יָקֹשְׁתִּי, הנחתי מוקש לָךְ וְגַם־נִלְכַּדְתְּ, בָּבֶל, וְאַתְּ לֹא יָדָעַתְּ שלפנייך מלכודת. נִמְצֵאת וְגַם־נִתְפַּשְׂתְּ, כִּי בַה' הִתְגָּרִית.",
+    "פָּתַח ה' אֶת־אוֹצָרוֹ וַיּוֹצֵא משם אֶת־כְּלֵי זַעְמוֹ, כִּי־מְלָאכָה, יצירה המצריכה כלי זעם הִיא לַה' אֱלוֹהִים צְבָאוֹת בְּאֶרֶץ כַּשְׂדִּים.",
+    "בֹּאוּ־לָהּ מִקֵּץ, מקצה הארץ, פִּתְחוּ את מַאֲבֻסֶיהָ, מחסני התבואה המלאים שלה, סָלּוּהָ, רמסו אותה כְמוֹ־עֲרֵמִים, ערמות תבואה המיועדות לדישה, או: הרימו את חורבותיה כפי שמערימים תלי עפר, וְהַחֲרִימוּהָ. אַל־תְּהִי־לָהּ שְׁאֵרִית.",
+    "חִרְבוּ, הפילו בחרב את כָּל־פָּרֶיהָ, דימוי למנהיגיה ושריה, יֵרְדוּ לַטָּבַח. הוֹי עֲלֵיהֶם כִּי־בָא יוֹמָם, עֵת פְּקֻדָּתָם.",
+    "קוֹל נָסִים וּפְלֵטִים נשמע מֵאֶרֶץ בָּבֶל. הנמלטים ישמיעו קול בשורה — לְהַגִּיד בְּצִיּוֹן אֶת־נִקְמַת ה' אֱלֹהֵינוּ, נִקְמַת הֵיכָלוֹ שהוחרב על ידי בבל.",
+    "הַשְׁמִיעוּ, היאספו אֶל־בָּבֶל, רַבִּים, יורי חצים. כָּל־דֹּרְכֵי קֶשֶׁת, חֲנוּ עָלֶיהָ סָבִיב. אַל־יְהִי־לָהּ פְּלֵיטָה. שַׁלְּמוּ־לָהּ כְּפָעֳלָהּ, כמעשיה, כְּכֹל אֲשֶׁר עָשְׂתָה עֲשׂוּ־לָהּ, כִּי אֶל־ה' זָדָה, הרשיעה בזדון, אֶל־קְדוֹשׁ יִשְׂרָאֵל. בבל תיענש קשות בעיקר בגלל הצרות שהביאה על ישראל, עם ה'.",
+    "לָכֵן יִפְּלוּ בַחוּרֶיהָ בִּרְחֹבֹתֶיהָ, וְכָל־אַנְשֵׁי מִלְחַמְתָּהּ יִדַּמּוּ, ייכרתו בַּיּוֹם הַהוּא. נְאֻם־ה'.",
+    "אותם דברים בסגנון אחר: הִנְנִי אֵלֶיךָ, זָדוֹן, נְאֻם־ה' אֱלוֹהִים צְבָאוֹת, ה' עורך מלחמה כנגד הזדון כביכול. כִּי בָּא יוֹמְךָ, עֵת פְּקַדְתִּיךָ.",
+    "וְכָשַׁל זָדוֹן וְנָפַל, וְאֵין לוֹ מֵקִים, וְהִצַּתִּי, אבעיר אֵשׁ בְּעָרָיו, וְאָכְלָה את כָּל־סְבִיבֹתָיו.",
+    "כֹּה אָמַר ה' צְבָאוֹת: עֲשׁוּקִים בְּנֵי־יִשְׂרָאֵל וּבְנֵי־יְהוּדָה יַחְדָּו, וְכָל־שֹׁבֵיהֶם הֶחֱזִיקוּ בָם, שעבדו אותם, מֵאֲנוּ לשַׁלְּחָם.",
+    "אכן, למרות שישראל עצמם שדודים ומסכנים, גֹּאֲלָם החָזָק, ה' צְבָאוֹת שְׁמוֹ, רִיב יָרִיב אֶת־רִיבָם, הוא ינקום את נקמתם לְמַעַן הִרְגִּיעַ אֶת־הָאָרֶץ וְהִרְגִּיז, יחריד לְיֹשְׁבֵי בָבֶל.",
+    "חֶרֶב עַל־כַּשְׂדִּים, נְאֻם־ה', וְאֶל־יֹשְׁבֵי בָבֶל וְאֶל־שָׂרֶיהָ וְאֶל־חֲכָמֶיהָ; כולם יוכו —",
+    "חֶרֶב אֶל־הַבַּדִּים, על הקוסמים ומגידי העתידות שהם דוברי בדים — וְנֹאָלוּ, ייטפשו; חֶרֶב אֶל־גִּבּוֹרֶיהָ — וָחָתּוּ, יישברו;",
+    "חֶרֶב אֶל־סוּסָיו וְאֶל־רִכְבּוֹ וְאֶל־כָּל־הָעֶרֶב, בני תערובות עמים שונים אֲשֶׁר בְּתוֹכָהּ. ובמקום להיות אנשי מלחמה — וְהָיוּ לְנָשִׁים; חֶרֶב אֶל־אוֹצְרֹתֶיהָ — וּבֻזָּזוּ. יישדדו.",
+    "חֹרֶב, יובש אֶל־מֵימֶיהָ — וְיָבֵשׁוּ, כִּי אֶרֶץ פְּסִלִים הִיא, וּבָאֵימִים, בדברים נוראים — בין אם אלו צלמים מעוררי פלצות, או טקסים וחגיגות מזוויעים — יִתְהֹלָלוּ, הם משתוללים, משתעשעים ומתפארים.",
+    "לָכֵן יֵשְׁבוּ צִיִּים, בעלי חיים שוכני מדבריות וחורבות, ששמם נגזר מן המלה 'ציה', אֶת, עם אִיִּים, בעלי חיים מדבריים המשמיעים קולות יללה. וְיָשְׁבוּ בָהּ — בבבל בְּנוֹת יַעֲנָה, עופות מדבריים, וְלֹא־תֵשֵׁב, לא תהיה מיושבת עוֹד לָנֶצַח, וְלֹא תִשְׁכּוֹן עַד־דּוֹר וָדֹר. הארץ תהפוך למקום מגוריהן של חיות המדבר.",
+    "כְּמַהְפֵּכַת אֱלֹהִים אֶת־סְדֹם וְאֶת־עֲמֹרָה וְאֶת־שְׁכֵנֶיהָ כך תהיה גם בבל, נְאֻם־ה'. לֹא־יֵשֵׁב שָׁם אִישׁ וְלֹא־יָגוּר בָּהּ בֶּן־אָדָם.",
+    "הִנֵּה עַם בָּא מִצָּפוֹן וְגוֹי גָּדוֹל, וּמְלָכִים רַבִּים יֵעֹרוּ מִיַּרְכְּתֵי, מקצות אָרֶץ. ממקומות רחוקים מאוד לבבל.",
+    "קֶשֶׁת וְכִידֹן יַחֲזִיקוּ, אַכְזָרִי הֵמָּה וְלֹא יְרַחֵמוּ. קוֹלָם כַּיָּם יֶהֱמֶה, וְעַל־סוּסִים יִרְכָּבוּ. עָרוּךְ, מסודר כְּאִישׁ, כגיבור לַמִּלְחָמָה עָלַיִךְ בַּת־בָּבֶל.",
+    "שָׁמַע מֶלֶךְ־בָּבֶל אֶת־שִׁמְעָם של התוקפים, וְרָפוּ יָדָיו, צָרָה, מצוקה הֶחֱזִיקַתְהוּ, אחזה בו, וחִיל, חלחלה כַּיּוֹלֵדָה.",
+    "הִנֵּה האויב כְּאַרְיֵה יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן, השטח שבו עובר אפיק הירדן, שבו צמחייה סבוכה וחיות טרף, אֶל־נְוֵה אֵיתָן, לתקוף במרעה טוב, כִּי־אַרְגִּעָה, בן רגע אֲרִיצֵם, אשלח את התוקפים להיות מֵעָלֶיהָ, וכל מִי שהוא בָחוּר, מובחר וטוב — אֵלֶיהָ אֶפְקֹד, אצווה עליו לעלות עליה למלחמה, כִּי מִי כָמוֹנִי וּמִי יוֹעִדֶנִּי, מי יקבע לי מועד, וּמִי־זֶה הרֹעֶה אֲשֶׁר יַעֲמֹד לְפָנָי. אני הוא שמנהיג את העולם, ואין לבבלים במי להיעזר.",
+    "לָכֵן שִׁמְעוּ עֲצַת, תכנית ה' אֲשֶׁר יָעַץ אֶל־בָּבֶל, וּמַחְשְׁבוֹתָיו אֲשֶׁר חָשַׁב אֶל־אֶרֶץ כַּשְׂדִּים: אִם־לֹא בוודאי יִסְחָבוּם צְעִירֵי הַצֹּאן. העמים שהשמידו את בבל — פרס, מדי ובני עילם, לא היו עמים חשובים בעבר. צעירי הצאן הללו הקימו חיל גדול והביסו את הממלכה הבבלית. אִם־לֹא בוודאי ה' יַשִּׁים עֲלֵיהֶם נָוֶה, יהפוך את מקומם לשממה.",
+    "מִקּוֹל נִתְפְּשָׂה, תפיסתה של בָבֶל ראש הממלכות נִרְעֲשָׁה, הזדעזעה הָאָרֶץ, וקול זְעָקָה בַּגּוֹיִם נִשְׁמָע."
+  ],
+  "ai_explanation": [
+    "זהו דבר ה׳ אל בבל ואל ארץ הכשדים, שנמסר ביד ירמיהו הנביא.",
+    "העמים נקראים לפרסם שבבל נכבשה ואליליה הושפלו: בל אכזב, מרודך נשבר, ואליליה נכלמו.",
+    "עם מן הצפון, המזוהה עם מדי ופרס, יעלה על בבל, יהפוך את ארצה לשממה, ולא יישאר בה אדם או בהמה.",
+    "בעת נפילת בבל ישובו בני ישראל ובני יהודה יחד, כשהם הולכים ובוכים ומבקשים את ה׳ אלוהיהם.",
+    "הם ישאלו את הדרך לציון ויקראו זה לזה להצטרף אל ה׳ ולכרות עמו ברית עולם שלא תישכח.",
+    "ישראל היו כצאן אובדות, משום שמנהיגיהם הטעו אותם. הם נדדו ממקום למקום ושכחו את מקום מנוחתם ואת שייכותם.",
+    "אויביהם אכלו אותם וטענו שאינם אשמים, מפני שישראל חטאו לה׳, שהוא מעונם ותקוות אבותיהם.",
+    "יושבי בבל נקראים לצאת ממנה ומארץ הכשדים ולהיות כעתודים ההולכים לפני הצאן.",
+    "ה׳ יעורר על בבל קהל גדול של עמים מן הצפון. הם יערכו עליה, וחציהם יהיו כחצי גיבור מצליח שאינו שב ריקם.",
+    "ארץ הכשדים תהיה לשלל, ושודדיה ישבעו מן השלל.",
+    "הבבלים, שודדי נחלת ה׳, שמחים ומתעלסים כעת, אך הם עתידים להיתפס ולהשמין כעגלת מרעה ולצהול כסוסים חזקים.",
+    "שמחתם תתחלף בבושה: בבל, אמם ויולדתה, תושפל, וסופה יהיה כמדבר ציה וערבה.",
+    "בגלל כעס ה׳ בבל לא תוסיף להיות מיושבת ותהיה שממה. העוברים עליה יתמהו וישרקו למראה מכותיה וחורבותיה.",
+    "צבאות האויב מצווים להיערך סביב בבל ולירות בה בלי לחוס, מפני שהיא חטאה לה׳.",
+    "הכובשים יריעו על בבל, שתיכנע; יסודותיה וחומותיה ייפלו, וזו תהיה נקמת ה׳, מידה כנגד מידה.",
+    "יש להשבית את החקלאות ואת הקציר בבבל מפני חרב ההשמדה. העמים שהיו כפופים לאימפריה ישובו איש לעמו ולארצו.",
+    "ישראל הם כצאן מפוזר שהורחק בידי אריות. אשור אכל את ישראל, ונבוכדנאצר מלך בבל השלים את חורבן הארץ.",
+    "ה׳ יפקוד את מלך בבל ואת ארצו כפי שפקד את מלך אשור; כשם שאשור נעשתה ממלכה חרבה, כך יקרה לבבל.",
+    "ה׳ ישיב את ישראל אל ביתו, והעם ייזון בשפע מאדמות הכרמל, הבשן, הר אפרים והגלעד.",
+    "בעת הגאולה יחפשו את עוון ישראל ואת חטאות יהודה ולא ימצאו אותם, מפני שה׳ יסלח לשארית שישאיר.",
+    "הכובש מצווה לעלות על ארץ מרתים ועל יושבי פקוד, להחריבם ולהשמידם כפי שנצטווה; גם הארצות הקשורות לבבל ייפגעו.",
+    "בארץ יישמע קול מלחמה ושבר גדול.",
+    "בבל, שהייתה כפטיש המנפץ את כל הארץ, תיגדע ותישבר ותהפוך לשממה בין הגויים.",
+    "ה׳ הניח לבבל מוקש, והיא נלכדה בלי לדעת. היא נתפסה מפני שהתגרתה בה׳.",
+    "ה׳ פתח את אוצרו והוציא ממנו את כלי זעמו, מפני שהמלאכה נגד ארץ הכשדים דורשת את כלי זעמו.",
+    "הצבאות יבואו אל בבל מקצה הארץ, יפתחו את מחסניה, ירמסו ויערימו את חורבותיה וישמידו אותה בלי להשאיר שריד.",
+    "כל מנהיגיה ושריה של בבל ייפלו בחרב, מפני שהגיע יום פקודתם.",
+    "נמלטים מבבל יבשרו בציון את נקמת ה׳ ואת נקמת היכלו, שבבל החריבה.",
+    "העמים והקשתים נקראים להיאסף סביב בבל, לא להשאיר לה פליטה ולשלם לה כמעשיה, משום שחטאה בזדון לה׳ ולקדוש ישראל.",
+    "לכן ייפלו בחורי בבל ברחובות, וכל אנשי המלחמה שלה ייכרתו ביום ההוא.",
+    "ה׳ פונה אל בבל כאל התגלמות הזדון ומודיע שיום פקידתה הגיע.",
+    "הזדון ייכשל וייפול בלי מי שיקים אותו, ואש תאכל את ערי בבל ואת סביבותיהן.",
+    "בני ישראל ויהודה עשוקים יחד, ושוביהם מחזיקים בהם וממאנים לשלחם.",
+    "לישראל יש גואל חזק, ה׳ צבאות, והוא יריב את ריבם כדי להשקיט את הארץ ולהחריד את יושבי בבל.",
+    "חרב תבוא על הכשדים, על יושבי בבל, על שריה ועל חכמיה.",
+    "חרב תבוא על הקוסמים ומגידי העתידות, שהם דוברי בדים, והם ייטפשו; גם גיבורי בבל יישברו.",
+    "חרב תבוא על הסוסים, המרכבות והעמים המעורבים שבבבל, והם ייחלשו; אוצרותיה יישדדו.",
+    "יובש יבוא על מימי בבל, מפני שהיא ארץ פסילים, ותושביה משתוללים ומתפארים בדברים נוראים ובטקסים מזוויעים.",
+    "בבבל ישבו חיות מדבר וחורבות, ובהן בנות יענה. היא לא תהיה מיושבת עוד לעולם ותהפוך למקום מגורי חיות המדבר.",
+    "בבל תיחרב כפי שנהפכו סדום, עמורה ושכנותיהן; לא יישב ולא יגור בה אדם.",
+    "עם גדול ומלכים רבים יבואו מן הצפון ומקצות הארץ הרחוקים.",
+    "הם יחזיקו בקשת ובכידון, יהיו אכזריים ולא ירחמו, ירכבו על סוסים ויהיו ערוכים למלחמה נגד בבל.",
+    "מלך בבל ישמע את שמועת התוקפים, ידיו ירפו, וצרה וחלחלה יאחזו בו כיולדת.",
+    "האויב יעלה כאריה מסבך הירדן אל נווה איתן. ה׳ ישלח את התוקפים ויצווה על הבחורים לעלות למלחמה, ואין מי שיכול לעמוד לפניו.",
+    "יש לשמוע את עצת ה׳ ואת מחשבותיו על בבל: עמים שנחשבו כצעירי הצאן יסחבו אותה, וה׳ יהפוך את מקומה לשממה.",
+    "כאשר תיתפס בבל יזדעזעו הארץ והגויים, וזעקה תישמע ביניהם."
+  ],
+  "ai_explanation_en": [
+    "This is the word of the Lord against Babylon and the land of the Chaldeans, delivered through Jeremiah the prophet.",
+    "The nations are called to announce that Babylon has been captured and its idols humiliated: Bel has disappointed, Marduk has been broken, and its idols disgraced.",
+    "A people from the north, identified with Media and Persia, will rise against Babylon, turn its land into desolation, and leave neither people nor animals there.",
+    "When Babylon falls, the Israelites and Judeans will return together, walking and weeping as they seek the Lord their God.",
+    "They will ask the way to Zion and call one another to join themselves to the Lord and make an everlasting covenant that will not be forgotten.",
+    "Israel was like lost sheep because its leaders led it astray. The people wandered from place to place and forgot their resting place and their belonging.",
+    "Their enemies devoured them and claimed innocence, saying that Israel deserved it because the people had sinned against the Lord, their dwelling and the hope of their ancestors.",
+    "The inhabitants of Babylon are called to leave Babylon and the land of the Chaldeans and to go out like rams leading the flock.",
+    "The Lord will stir up a great assembly of nations from the north against Babylon. They will arrange themselves for battle, and their arrows will be like the arrows of a victorious warrior that does not return empty-handed.",
+    "The land of the Chaldeans will become plunder, and all who plunder it will be satisfied.",
+    "The Babylonians, who plundered the Lord’s inheritance, rejoice for now, but they will be seized and become fat like a well-fed heifer, boasting like powerful horses.",
+    "Their joy will turn into shame: Babylon, their mother and birthplace, will be humiliated, and its end will be like a dry and desolate wilderness.",
+    "Because of the Lord’s anger, Babylon will no longer be inhabited and will become completely desolate. Passersby will be astonished and whistle at its wounds and ruins.",
+    "The enemy armies are commanded to take positions around Babylon and shoot without mercy, because it has sinned against the Lord.",
+    "The conquerors will shout over Babylon as it surrenders; its foundations and walls will fall, and this will be the Lord’s vengeance, measure for measure.",
+    "Babylon’s agriculture and harvest will be destroyed by the sword. The peoples who had been subject to the empire will return, each to his own people and land.",
+    "Israel is like a scattered sheep driven away by lions. Assyria devoured Israel, and Nebuchadnezzar king of Babylon completed the destruction of the land.",
+    "The Lord will punish the king of Babylon and his land as he punished the king of Assyria. Just as Assyria became a ruined kingdom, so Babylon will become ruined.",
+    "The Lord will bring Israel back to its home, and the people will feed abundantly from Carmel, Bashan, Mount Ephraim, and Gilead.",
+    "In the time of redemption, Israel’s guilt and Judah’s sins will be sought but not found, because the Lord will forgive the remnant he preserves.",
+    "The conqueror is commanded to attack the land of Merathaim and the inhabitants of Pekod, destroying them as commanded; the lands connected with Babylon will also suffer.",
+    "The sound of war and great destruction will be heard in the land.",
+    "Babylon, once like a hammer smashing the whole earth, will be cut down and broken and will become a desolation among the nations.",
+    "The Lord set a trap for Babylon, and it was caught without knowing it. It was captured because it defied the Lord.",
+    "The Lord opened his storehouse and brought out the weapons of his wrath, because the task against the land of the Chaldeans requires these weapons of anger.",
+    "The armies will come against Babylon from the ends of the earth, open its storehouses, trample it, heap up its ruins, and destroy it without leaving a remnant.",
+    "All Babylon’s leaders and officials will fall by the sword, because the day of their punishment has arrived.",
+    "Those who escape from Babylon will announce in Zion the Lord’s vengeance and the vengeance against his Temple, which Babylon destroyed.",
+    "The nations and the archers are called to gather around Babylon, leave it no escape, and repay it for its deeds, because it acted wickedly against the Lord and the Holy One of Israel.",
+    "Therefore Babylon’s young men will fall in its streets, and all its warriors will be cut off on that day.",
+    "The Lord addresses Babylon as the embodiment of arrogance and announces that the day of its punishment has come.",
+    "Arrogance will stumble and fall with no one to raise it, and fire will consume Babylon’s cities and their surroundings.",
+    "The Israelites and Judeans are oppressed together, while their captors hold them and refuse to release them.",
+    "Israel has a strong redeemer: the Lord of Hosts. He will plead their cause, quiet the earth, and trouble the inhabitants of Babylon.",
+    "A sword will come against the Chaldeans, the inhabitants of Babylon, its officials, and its wise men.",
+    "A sword will come against the diviners and fortune-tellers, who speak falsehood, and they will become foolish; Babylon’s warriors will also be broken.",
+    "A sword will come against the horses, chariots, and mixed peoples in Babylon, and they will be weakened; its treasures will be plundered.",
+    "Drought will come upon Babylon’s waters because it is a land of idols, and its inhabitants revel and boast in terrifying things and dreadful rituals.",
+    "Desert creatures and animals of ruins will live in Babylon, including ostriches. It will no longer be inhabited and will become a dwelling place for desert animals.",
+    "Babylon will be destroyed like Sodom, Gomorrah, and their neighboring cities; no person will live or dwell there.",
+    "A great people and many kings will come from the north and from the distant ends of the earth.",
+    "They will carry bows and spears, be cruel and merciless, ride horses, and be prepared for battle against Babylon.",
+    "The king of Babylon will hear news of the attackers, his hands will grow weak, and distress and trembling will seize him like a woman in labor.",
+    "The enemy will rise like a lion from the thickets of the Jordan against a secure pasture. The Lord will send the attackers and command the finest warriors to march against Babylon, and no one can stand before him.",
+    "The Lord’s counsel and plans concerning Babylon must be heard: peoples once regarded as insignificant, like young sheep, will drag it away, and the Lord will make its place desolate.",
+    "When Babylon is captured, the earth will tremble and a cry will be heard among the nations."
+  ],
+  "perush": [
+    "זהו דבר ה׳ אל בבל ואל ארץ הכשדים, שנמסר ביד ירמיהו הנביא.",
+    "העמים נקראים לפרסם שבבל נכבשה ואליליה הושפלו: בל אכזב, מרודך נשבר, ואליליה נכלמו.",
+    "עם מן הצפון, המזוהה עם מדי ופרס, יעלה על בבל, יהפוך את ארצה לשממה, ולא יישאר בה אדם או בהמה.",
+    "בעת נפילת בבל ישובו בני ישראל ובני יהודה יחד, כשהם הולכים ובוכים ומבקשים את ה׳ אלוהיהם.",
+    "הם ישאלו את הדרך לציון ויקראו זה לזה להצטרף אל ה׳ ולכרות עמו ברית עולם שלא תישכח.",
+    "ישראל היו כצאן אובדות, משום שמנהיגיהם הטעו אותם. הם נדדו ממקום למקום ושכחו את מקום מנוחתם ואת שייכותם.",
+    "אויביהם אכלו אותם וטענו שאינם אשמים, מפני שישראל חטאו לה׳, שהוא מעונם ותקוות אבותיהם.",
+    "יושבי בבל נקראים לצאת ממנה ומארץ הכשדים ולהיות כעתודים ההולכים לפני הצאן.",
+    "ה׳ יעורר על בבל קהל גדול של עמים מן הצפון. הם יערכו עליה, וחציהם יהיו כחצי גיבור מצליח שאינו שב ריקם.",
+    "ארץ הכשדים תהיה לשלל, ושודדיה ישבעו מן השלל.",
+    "הבבלים, שודדי נחלת ה׳, שמחים ומתעלסים כעת, אך הם עתידים להיתפס ולהשמין כעגלת מרעה ולצהול כסוסים חזקים.",
+    "שמחתם תתחלף בבושה: בבל, אמם ויולדתה, תושפל, וסופה יהיה כמדבר ציה וערבה.",
+    "בגלל כעס ה׳ בבל לא תוסיף להיות מיושבת ותהיה שממה. העוברים עליה יתמהו וישרקו למראה מכותיה וחורבותיה.",
+    "צבאות האויב מצווים להיערך סביב בבל ולירות בה בלי לחוס, מפני שהיא חטאה לה׳.",
+    "הכובשים יריעו על בבל, שתיכנע; יסודותיה וחומותיה ייפלו, וזו תהיה נקמת ה׳, מידה כנגד מידה.",
+    "יש להשבית את החקלאות ואת הקציר בבבל מפני חרב ההשמדה. העמים שהיו כפופים לאימפריה ישובו איש לעמו ולארצו.",
+    "ישראל הם כצאן מפוזר שהורחק בידי אריות. אשור אכל את ישראל, ונבוכדנאצר מלך בבל השלים את חורבן הארץ.",
+    "ה׳ יפקוד את מלך בבל ואת ארצו כפי שפקד את מלך אשור; כשם שאשור נעשתה ממלכה חרבה, כך יקרה לבבל.",
+    "ה׳ ישיב את ישראל אל ביתו, והעם ייזון בשפע מאדמות הכרמל, הבשן, הר אפרים והגלעד.",
+    "בעת הגאולה יחפשו את עוון ישראל ואת חטאות יהודה ולא ימצאו אותם, מפני שה׳ יסלח לשארית שישאיר.",
+    "הכובש מצווה לעלות על ארץ מרתים ועל יושבי פקוד, להחריבם ולהשמידם כפי שנצטווה; גם הארצות הקשורות לבבל ייפגעו.",
+    "בארץ יישמע קול מלחמה ושבר גדול.",
+    "בבל, שהייתה כפטיש המנפץ את כל הארץ, תיגדע ותישבר ותהפוך לשממה בין הגויים.",
+    "ה׳ הניח לבבל מוקש, והיא נלכדה בלי לדעת. היא נתפסה מפני שהתגרתה בה׳.",
+    "ה׳ פתח את אוצרו והוציא ממנו את כלי זעמו, מפני שהמלאכה נגד ארץ הכשדים דורשת את כלי זעמו.",
+    "הצבאות יבואו אל בבל מקצה הארץ, יפתחו את מחסניה, ירמסו ויערימו את חורבותיה וישמידו אותה בלי להשאיר שריד.",
+    "כל מנהיגיה ושריה של בבל ייפלו בחרב, מפני שהגיע יום פקודתם.",
+    "נמלטים מבבל יבשרו בציון את נקמת ה׳ ואת נקמת היכלו, שבבל החריבה.",
+    "העמים והקשתים נקראים להיאסף סביב בבל, לא להשאיר לה פליטה ולשלם לה כמעשיה, משום שחטאה בזדון לה׳ ולקדוש ישראל.",
+    "לכן ייפלו בחורי בבל ברחובות, וכל אנשי המלחמה שלה ייכרתו ביום ההוא.",
+    "ה׳ פונה אל בבל כאל התגלמות הזדון ומודיע שיום פקידתה הגיע.",
+    "הזדון ייכשל וייפול בלי מי שיקים אותו, ואש תאכל את ערי בבל ואת סביבותיהן.",
+    "בני ישראל ויהודה עשוקים יחד, ושוביהם מחזיקים בהם וממאנים לשלחם.",
+    "לישראל יש גואל חזק, ה׳ צבאות, והוא יריב את ריבם כדי להשקיט את הארץ ולהחריד את יושבי בבל.",
+    "חרב תבוא על הכשדים, על יושבי בבל, על שריה ועל חכמיה.",
+    "חרב תבוא על הקוסמים ומגידי העתידות, שהם דוברי בדים, והם ייטפשו; גם גיבורי בבל יישברו.",
+    "חרב תבוא על הסוסים, המרכבות והעמים המעורבים שבבבל, והם ייחלשו; אוצרותיה יישדדו.",
+    "יובש יבוא על מימי בבל, מפני שהיא ארץ פסילים, ותושביה משתוללים ומתפארים בדברים נוראים ובטקסים מזוויעים.",
+    "בבבל ישבו חיות מדבר וחורבות, ובהן בנות יענה. היא לא תהיה מיושבת עוד לעולם ותהפוך למקום מגורי חיות המדבר.",
+    "בבל תיחרב כפי שנהפכו סדום, עמורה ושכנותיהן; לא יישב ולא יגור בה אדם.",
+    "עם גדול ומלכים רבים יבואו מן הצפון ומקצות הארץ הרחוקים.",
+    "הם יחזיקו בקשת ובכידון, יהיו אכזריים ולא ירחמו, ירכבו על סוסים ויהיו ערוכים למלחמה נגד בבל.",
+    "מלך בבל ישמע את שמועת התוקפים, ידיו ירפו, וצרה וחלחלה יאחזו בו כיולדת.",
+    "האויב יעלה כאריה מסבך הירדן אל נווה איתן. ה׳ ישלח את התוקפים ויצווה על הבחורים לעלות למלחמה, ואין מי שיכול לעמוד לפניו.",
+    "יש לשמוע את עצת ה׳ ואת מחשבותיו על בבל: עמים שנחשבו כצעירי הצאן יסחבו אותה, וה׳ יהפוך את מקומה לשממה.",
+    "כאשר תיתפס בבל יזדעזעו הארץ והגויים, וזעקה תישמע ביניהם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "נפילת בבל ושיבת ישראל",
+      "title_en": "The Fall of Babylon and Israel’s Return",
+      "start_verse": 1,
+      "end_verse": 8,
+      "summary": "הנבואה מכריזה על נפילת בבל ועל השפלת אליליה, ומתארת את שיבת ישראל ויהודה יחד אל ה׳ ואל ציון.",
+      "summary_en": "The prophecy announces Babylon’s fall and the humiliation of its idols, while describing the return of Israel and Judah together to the Lord and to Zion.",
+      "image_prompt": "A solemn biblical scene showing a fallen Babylon in the distance, broken idols, and Israelites and Judeans walking together toward Zion with hope and reverence; no text"
+    },
+    {
+      "title": "הצבא העולה על בבל",
+      "title_en": "The Army Rising Against Babylon",
+      "start_verse": 9,
+      "end_verse": 16,
+      "summary": "קהל עמים מן הצפון יכבוש את בבל, יבזוז אותה ויהרוס את חומותיה ואת יסודותיה; עמי האימפריה יפנו איש לארצו.",
+      "summary_en": "An assembly of nations from the north will conquer and plunder Babylon, destroy its walls and foundations, and send the peoples of the empire back to their own lands.",
+      "image_prompt": "Ancient armies approaching Babylon from the north, archers surrounding monumental walls, breached foundations, fleeing peoples returning toward distant homelands; no text"
+    },
+    {
+      "title": "העונש על בבל והבטחת השבת ישראל",
+      "title_en": "Babylon’s Punishment and the Promise of Israel’s Restoration",
+      "start_verse": 17,
+      "end_verse": 20,
+      "summary": "בבל מתוארת כאריה האחרון שפגע בישראל, ולכן היא תיענש כפי שנענשה אשור; לאחר מכן ישיב ה׳ את ישראל וימחל לשאריתו.",
+      "summary_en": "Babylon is portrayed as the last lion to attack Israel and will therefore be punished as Assyria was; afterward the Lord will restore Israel and forgive its remnant.",
+      "image_prompt": "A symbolic biblical landscape with two lions representing Assyria and Babylon, while a restored flock grazes among Carmel, Bashan, Ephraim, and Gilead; no text"
+    },
+    {
+      "title": "השמדת ארצות בבל",
+      "title_en": "The Destruction of Babylon’s Allied Lands",
+      "start_verse": 21,
+      "end_verse": 28,
+      "summary": "הכובש מצווה להשמיד את מחוזות בבל, לשבור את בבל שהייתה כפטיש כל הארץ, ולבשר בציון על נקמת ה׳ ועל נקמת היכלו.",
+      "summary_en": "The conqueror is commanded to destroy Babylon’s provinces, break Babylon that was like a hammer over the earth, and announce in Zion the Lord’s vengeance and the vengeance against his Temple.",
+      "image_prompt": "Ruined Babylonian provinces, shattered weapons and city walls, survivors escaping toward Zion with news of the destroyed Temple; no text"
+    },
+    {
+      "title": "משפט בבל וגמול על מעשיה",
+      "title_en": "Babylon Judged and Repaid",
+      "start_verse": 29,
+      "end_verse": 34,
+      "summary": "העמים נקראים להקיף את בבל ולשלם לה כמעשיה; לוחמיה ייפלו, זדונה ייכשל, וישראל ייגאל בידי ה׳ החזק.",
+      "summary_en": "The nations are called to surround Babylon and repay it for its deeds; its warriors will fall, its arrogance will fail, and Israel will be redeemed by the strong Lord.",
+      "image_prompt": "A besieged ancient city surrounded by archers, fallen warriors in the streets, and a radiant divine presence symbolizing justice and redemption; no text"
+    },
+    {
+      "title": "חרב על כל כוחות בבל",
+      "title_en": "The Sword Against Every Babylonian Power",
+      "start_verse": 35,
+      "end_verse": 40,
+      "summary": "חרב תבוא על הכשדים, החכמים, הקוסמים, הגיבורים, הסוסים, המרכבות והאוצרות; בבל תתייבש ותהפוך למקום חיות מדבר.",
+      "summary_en": "The sword will come against the Chaldeans, wise men, diviners, warriors, horses, chariots, and treasures; Babylon will dry up and become a dwelling place for desert creatures.",
+      "image_prompt": "A desolate Babylonian city with abandoned chariots, broken idols, empty treasure rooms, dry canals, and desert animals among the ruins; no text"
+    },
+    {
+      "title": "העם מן הצפון וחרדת מלך בבל",
+      "title_en": "The Northern People and Babylon’s Fear",
+      "start_verse": 41,
+      "end_verse": 43,
+      "summary": "עם גדול ומלכים רבים יבואו מרחוק כשהם ערוכים למלחמה; שמועתם תחליש את ידי מלך בבל ותאחז בו חרדה.",
+      "summary_en": "A great people and many kings will come from distant lands prepared for war; their report will weaken the king of Babylon and fill him with fear.",
+      "image_prompt": "Distant armies of many kings riding horses with bows and spears toward Babylon, while the Babylonian king listens in fear inside a palace; no text"
+    },
+    {
+      "title": "עצת ה׳ והחורבן הסופי",
+      "title_en": "The Lord’s Counsel and the Final Desolation",
+      "start_verse": 44,
+      "end_verse": 46,
+      "summary": "ה׳ ישלח את האויב כאריה נגד בבל, ואין מי שיעמוד לפניו; עמים שנחשבו צעירים וחסרי חשיבות יסחבו את בבל, ונפילתה תזעזע את הארץ והגויים.",
+      "summary_en": "The Lord will send the enemy like a lion against Babylon, and no one can stand before him; peoples once considered insignificant will drag Babylon away, and its fall will shake the earth and the nations.",
+      "image_prompt": "A powerful lion emerging from dense Jordan vegetation toward a fortified Babylon, humble young armies carrying away the city’s remains, and nations trembling in the distance; no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.9,
+      "usfm": "JER.50.1"
+    },
+    {
+      "start": 9.9,
+      "end": 29.24,
+      "usfm": "JER.50.2"
+    },
+    {
+      "start": 29.24,
+      "end": 42.18,
+      "usfm": "JER.50.3"
+    },
+    {
+      "start": 42.18,
+      "end": 55.12,
+      "usfm": "JER.50.4"
+    },
+    {
+      "start": 55.12,
+      "end": 66.14,
+      "usfm": "JER.50.5"
+    },
+    {
+      "start": 66.14,
+      "end": 79.16,
+      "usfm": "JER.50.6"
+    },
+    {
+      "start": 79.16,
+      "end": 91.72,
+      "usfm": "JER.50.7"
+    },
+    {
+      "start": 91.72,
+      "end": 99.48,
+      "usfm": "JER.50.8"
+    },
+    {
+      "start": 99.48,
+      "end": 116.24,
+      "usfm": "JER.50.9"
+    },
+    {
+      "start": 116.24,
+      "end": 122.26,
+      "usfm": "JER.50.10"
+    },
+    {
+      "start": 122.26,
+      "end": 132.68,
+      "usfm": "JER.50.11"
+    },
+    {
+      "start": 132.68,
+      "end": 143.2,
+      "usfm": "JER.50.12"
+    },
+    {
+      "start": 143.2,
+      "end": 155.72,
+      "usfm": "JER.50.13"
+    },
+    {
+      "start": 155.72,
+      "end": 167.52,
+      "usfm": "JER.50.14"
+    },
+    {
+      "start": 167.52,
+      "end": 182.7,
+      "usfm": "JER.50.15"
+    },
+    {
+      "start": 182.7,
+      "end": 195.22,
+      "usfm": "JER.50.16"
+    },
+    {
+      "start": 195.22,
+      "end": 207.06,
+      "usfm": "JER.50.17"
+    },
+    {
+      "start": 207.06,
+      "end": 216.74,
+      "usfm": "JER.50.18"
+    },
+    {
+      "start": 216.74,
+      "end": 228.24,
+      "usfm": "JER.50.19"
+    },
+    {
+      "start": 228.24,
+      "end": 241.42,
+      "usfm": "JER.50.20"
+    },
+    {
+      "start": 241.42,
+      "end": 253.78,
+      "usfm": "JER.50.21"
+    },
+    {
+      "start": 253.78,
+      "end": 258.14,
+      "usfm": "JER.50.22"
+    },
+    {
+      "start": 258.14,
+      "end": 264.4,
+      "usfm": "JER.50.23"
+    },
+    {
+      "start": 264.4,
+      "end": 276.34,
+      "usfm": "JER.50.24"
+    },
+    {
+      "start": 276.34,
+      "end": 286.28,
+      "usfm": "JER.50.25"
+    },
+    {
+      "start": 286.28,
+      "end": 296.08,
+      "usfm": "JER.50.26"
+    },
+    {
+      "start": 296.08,
+      "end": 304.94,
+      "usfm": "JER.50.27"
+    },
+    {
+      "start": 304.94,
+      "end": 313.32,
+      "usfm": "JER.50.28"
+    },
+    {
+      "start": 313.32,
+      "end": 330.76,
+      "usfm": "JER.50.29"
+    },
+    {
+      "start": 330.76,
+      "end": 337.78,
+      "usfm": "JER.50.30"
+    },
+    {
+      "start": 337.78,
+      "end": 347.52,
+      "usfm": "JER.50.31"
+    },
+    {
+      "start": 347.52,
+      "end": 357.76,
+      "usfm": "JER.50.32"
+    },
+    {
+      "start": 357.76,
+      "end": 370.64,
+      "usfm": "JER.50.33"
+    },
+    {
+      "start": 370.64,
+      "end": 381.62,
+      "usfm": "JER.50.34"
+    },
+    {
+      "start": 381.62,
+      "end": 388.98,
+      "usfm": "JER.50.35"
+    },
+    {
+      "start": 388.98,
+      "end": 396.38,
+      "usfm": "JER.50.36"
+    },
+    {
+      "start": 396.38,
+      "end": 408.2,
+      "usfm": "JER.50.37"
+    },
+    {
+      "start": 408.2,
+      "end": 417.24,
+      "usfm": "JER.50.38"
+    },
+    {
+      "start": 417.24,
+      "end": 434.32,
+      "usfm": "JER.50.39"
+    },
+    {
+      "start": 434.32,
+      "end": 445.16,
+      "usfm": "JER.50.40"
+    },
+    {
+      "start": 445.16,
+      "end": 453.18,
+      "usfm": "JER.50.41"
+    },
+    {
+      "start": 453.18,
+      "end": 469.38,
+      "usfm": "JER.50.42"
+    },
+    {
+      "start": 469.38,
+      "end": 479.8,
+      "usfm": "JER.50.43"
+    },
+    {
+      "start": 479.8,
+      "end": 499.48,
+      "usfm": "JER.50.44"
+    },
+    {
+      "start": 499.48,
+      "end": 517.2,
+      "usfm": "JER.50.45"
+    },
+    {
+      "start": 517.2,
+      "end": 532.92,
+      "usfm": "JER.50.46"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.9,
+    29.24,
+    42.18,
+    55.12,
+    66.14,
+    79.16,
+    91.72,
+    99.48,
+    116.24,
+    122.26,
+    132.68,
+    143.2,
+    155.72,
+    167.52,
+    182.7,
+    195.22,
+    207.06,
+    216.74,
+    228.24,
+    241.42,
+    253.78,
+    258.14,
+    264.4,
+    276.34,
+    286.28,
+    296.08,
+    304.94,
+    313.32,
+    330.76,
+    337.78,
+    347.52,
+    357.76,
+    370.64,
+    381.62,
+    388.98,
+    396.38,
+    408.2,
+    417.24,
+    434.32,
+    445.16,
+    453.18,
+    469.38,
+    479.8,
+    499.48,
+    517.2,
+    532.92
+  ],
+  "times_en_usfm": [
+    "JER.50.1",
+    "JER.50.2",
+    "JER.50.3",
+    "JER.50.4",
+    "JER.50.5",
+    "JER.50.6",
+    "JER.50.7",
+    "JER.50.8",
+    "JER.50.9",
+    "JER.50.10",
+    "JER.50.11",
+    "JER.50.12",
+    "JER.50.13",
+    "JER.50.14",
+    "JER.50.15",
+    "JER.50.16",
+    "JER.50.17",
+    "JER.50.18",
+    "JER.50.19",
+    "JER.50.20",
+    "JER.50.21",
+    "JER.50.22",
+    "JER.50.23",
+    "JER.50.24",
+    "JER.50.25",
+    "JER.50.26",
+    "JER.50.27",
+    "JER.50.28",
+    "JER.50.29",
+    "JER.50.30",
+    "JER.50.31",
+    "JER.50.32",
+    "JER.50.33",
+    "JER.50.34",
+    "JER.50.35",
+    "JER.50.36",
+    "JER.50.37",
+    "JER.50.38",
+    "JER.50.39",
+    "JER.50.40",
+    "JER.50.41",
+    "JER.50.42",
+    "JER.50.43",
+    "JER.50.44",
+    "JER.50.45",
+    "JER.50.46"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? ירמיהו פרק 50 הוא נבואה שנמסרה על בבל, ארץ הכשדים, ובמרכזה הכרזה על נפילת האימפריה הבבלית.",
+      "text_he": "הידעת? ירמיהו פרק 50 הוא נבואה שנמסרה על בבל, ארץ הכשדים, ובמרכזה הכרזה על נפילת האימפריה הבבלית.",
+      "text_en": "Did you know? Jeremiah 50 is a prophecy concerning Babylon, the land of the Chaldeans, centered on the announcement of the Babylonian Empire’s fall."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? בנבואה נזכרים בשמותיהם בֵּל וּמְרֹדָךְ, אלילי בבל, ונפילתם מוצגת כחלק מהשפלת בבל.",
+      "text_he": "הידעת? בנבואה נזכרים בשמותיהם בֵּל וּמְרֹדָךְ, אלילי בבל, ונפילתם מוצגת כחלק מהשפלת בבל.",
+      "text_en": "Did you know? The prophecy mentions Bel and Merodach by name, the gods of Babylon, and presents their downfall as part of Babylon’s humiliation."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? הפרק מתאר את בני ישראל ובני יהודה שבים יחד, בוכים ומבקשים את ה׳ אלוהיהם.",
+      "text_he": "הידעת? הפרק מתאר את בני ישראל ובני יהודה שבים יחד, בוכים ומבקשים את ה׳ אלוהיהם.",
+      "text_en": "Did you know? The chapter describes the people of Israel and Judah returning together, weeping and seeking the LORD their God."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? השבים מבקשים את הדרך לציון ומצטרפים אל ה׳ בברית עולם שלא תישכח.",
+      "text_he": "הידעת? השבים מבקשים את הדרך לציון ומצטרפים אל ה׳ בברית עולם שלא תישכח.",
+      "text_en": "Did you know? The returning people ask the way to Zion and join themselves to the LORD in an everlasting covenant that will not be forgotten."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? האויבת של בבל מתוארת כקהל גדול של גויים המגיע מארץ הצפון, והקשתים מתוארים כלוחמים שאינם חוזרים ריקם.",
+      "text_he": "הידעת? האויבת של בבל מתוארת כקהל גדול של גויים המגיע מארץ הצפון, והקשתים מתוארים כלוחמים שאינם חוזרים ריקם.",
+      "text_en": "Did you know? Babylon’s enemy is described as a great assembly of nations coming from the land of the north, and the archers are portrayed as warriors who do not return empty-handed."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? ישראל נמשל בפרק לשה מפוזרת: מלך אשור אכל אותו תחילה, ונבוכדראצר מלך בבל פגע בו לאחר מכן.",
+      "text_he": "הידעת? ישראל נמשל בפרק לשה מפוזרת: מלך אשור אכל אותו תחילה, ונבוכדראצר מלך בבל פגע בו לאחר מכן.",
+      "text_en": "Did you know? In this chapter, Israel is compared to a scattered sheep: the king of Assyria devoured it first, and Nebuchadnezzar king of Babylon attacked it afterward."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? לצד משפטה של בבל מבטיח ה׳ להשיב את ישראל לנחלתו, ושמו של האזור כולל את הכרמל, הבשן, הר אפרים והגלעד.",
+      "text_he": "הידעת? לצד משפטה של בבל מבטיח ה׳ להשיב את ישראל לנחלתו, ושמו של האזור כולל את הכרמל, הבשן, הר אפרים והגלעד.",
+      "text_en": "Did you know? Alongside Babylon’s judgment, the LORD promises to restore Israel to its homeland, including Carmel, Bashan, the hill country of Ephraim, and Gilead."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? הפרק מבטיח שלעתיד לבוא יבוקשו עוונות ישראל וחטאות יהודה ולא יימצאו, מפני שה׳ יסלח לשארית שישאיר.",
+      "text_he": "הידעת? הפרק מבטיח שלעתיד לבוא יבוקשו עוונות ישראל וחטאות יהודה ולא יימצאו, מפני שה׳ יסלח לשארית שישאיר.",
+      "text_en": "Did you know? The chapter promises that in days to come, the sins of Israel and the offenses of Judah will be sought but not found, because the LORD will forgive the remnant he preserves."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? בבל מכונה בפרק „פטיש כל הארץ”, אך אותו פטיש עצמו עתיד להיגדע ולהישבר ולהיות לשמה בגויים.",
+      "text_he": "הידעת? בבל מכונה בפרק „פטיש כל הארץ”, אך אותו פטיש עצמו עתיד להיגדע ולהישבר ולהיות לשמה בגויים.",
+      "text_en": "Did you know? Babylon is called “the hammer of the whole earth,” but that very hammer will be cut down and shattered, becoming a horror among the nations."
+    },
+    {
+      "verse": 44,
+      "text": "הידעת? בסיום הפרק האויב נגד בבל נמשל לאריה העולה מגאון הירדן, והנבואה מדגישה שאין מי שיוכל לעמוד לפני ה׳ או להתנגד לעצתו.",
+      "text_he": "הידעת? בסיום הפרק האויב נגד בבל נמשל לאריה העולה מגאון הירדן, והנבואה מדגישה שאין מי שיוכל לעמוד לפני ה׳ או להתנגד לעצתו.",
+      "text_en": "Did you know? At the end of the chapter, the enemy against Babylon is compared to a lion rising from the thickets of the Jordan, and the prophecy emphasizes that no one can stand before the LORD or resist his counsel."
+    }
+  ]
+}
