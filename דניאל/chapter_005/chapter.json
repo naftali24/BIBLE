@@ -1,0 +1,545 @@
+{
+  "book": "Daniel",
+  "book_he": "דניאל",
+  "book_chapters": 12,
+  "chapter": 5,
+  "title": "דניאל פרק 5",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3405.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t3405.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/DAN/5-70615c51fa427cd86fc46ec059a70b8c.mp3?version_id=1",
+  "verses": [
+    "בֵּלְשַׁאצַּר מַלְכָּא, עֲבַד לְחֶם רַב, לְרַבְרְבָנוֹהִי, אֲלַף; וְלָקֳבֵל אַלְפָּא, חַמְרָא שָׁתֵה.",
+    "בֵּלְשַׁאצַּר אֲמַר בִּטְעֵם חַמְרָא, לְהַיְתָיָה לְמָאנֵי דַּהֲבָא וְכַסְפָּא, דִּי הַנְפֵּק נְבוּכַדְנֶצַּר אֲבוּהִי, מִן-הֵיכְלָא דִּי בִירוּשְׁלֶם; וְיִשְׁתּוֹן בְּהוֹן, מַלְכָּא וְרַבְרְבָנוֹהִי, שֵׁגְלָתֵהּ, וּלְחֵנָתֵהּ.",
+    "בֵּאדַיִן, הַיְתִיו מָאנֵי דַהֲבָא, דִּי הַנְפִּקוּ מִן-הֵיכְלָא דִּי-בֵית אֱלָהָא, דִּי בִירוּשְׁלֶם; וְאִשְׁתִּיו בְּהוֹן, מַלְכָּא וְרַבְרְבָנוֹהִי, שֵׁגְלָתֵהּ, וּלְחֵנָתֵהּ.",
+    "אִשְׁתִּיו, חַמְרָא; וְשַׁבַּחוּ לֵאלָהֵי דַּהֲבָא וְכַסְפָּא, נְחָשָׁא פַרְזְלָא--אָעָא וְאַבְנָא.",
+    "בַּהּ-שַׁעֲתָה, נפקו נְפַקָה אֶצְבְּעָן דִּי יַד-אֱנָשׁ, וְכָתְבָן לָקֳבֵל נֶבְרַשְׁתָּא, עַל-גִּירָא דִּי-כְתַל הֵיכְלָא דִּי מַלְכָּא; וּמַלְכָּא חָזֵה, פַּס יְדָא דִּי כָתְבָה.",
+    "אֱדַיִן מַלְכָּא זִיוֹהִי שְׁנוֹהִי, וְרַעְיֹנֹהִי יְבַהֲלוּנֵּהּ; וְקִטְרֵי חַרְצֵהּ מִשְׁתָּרַיִן, וְאַרְכֻבָּתֵהּ דָּא לְדָא נָקְשָׁן.",
+    "קָרֵא מַלְכָּא, בְּחַיִל, לְהֶעָלָה לְאָשְׁפַיָּא, כשדיא כַּשְׂדָּאֵי וְגָזְרַיָּא; עָנֵה מַלְכָּא וְאָמַר לְחַכִּימֵי בָבֶל, דִּי כָל-אֱנָשׁ דִּי-יִקְרֵה כְּתָבָה דְנָה וּפִשְׁרֵהּ יְחַוִּנַּנִי, אַרְגְּוָנָא יִלְבַּשׁ והמנוכא וְהַמְנִיכָא דִי-דַהֲבָא עַל-צַוְּארֵהּ, וְתַלְתִּי בְמַלְכוּתָא, יִשְׁלַט.",
+    "אֱדַיִן, עללין עָלִּין , כֹּל, חַכִּימֵי מַלְכָּא; וְלָא-כָהֲלִין כְּתָבָא לְמִקְרֵא, ופשרא וּפִשְׁרֵהּ לְהוֹדָעָה לְמַלְכָּא.",
+    "אֱדַיִן מַלְכָּא בֵלְשַׁאצַּר, שַׂגִּיא מִתְבָּהַל, וְזִיוֹהִי, שָׁנַיִן עֲלוֹהִי; וְרַבְרְבָנוֹהִי, מִשְׁתַּבְּשִׁין.",
+    "מַלְכְּתָא--לָקֳבֵל מִלֵּי מַלְכָּא וְרַבְרְבָנוֹהִי, לְבֵית מִשְׁתְּיָא עללת עַלַּת ; עֲנָת מַלְכְּתָא וַאֲמֶרֶת, מַלְכָּא לְעָלְמִין חֱיִי--אַל-יְבַהֲלוּךְ רַעְיוֹנָךְ, וזיויך וְזִיוָךְ אַל-יִשְׁתַּנּוֹ.",
+    "אִיתַי גְּבַר בְּמַלְכוּתָךְ, דִּי רוּחַ אֱלָהִין קַדִּישִׁין בֵּהּ, וּבְיוֹמֵי אֲבוּךְ נַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה כְּחָכְמַת-אֱלָהִין, הִשְׁתְּכַחַת בֵּהּ; וּמַלְכָּא נְבֻכַדְנֶצַּר, אֲבוּךְ--רַב חַרְטֻמִּין אָשְׁפִין כַּשְׂדָּאִין גָּזְרִין, הֲקִימֵהּ אֲבוּךְ מַלְכָּא.",
+    "כָּל-קֳבֵל דִּי רוּחַ יַתִּירָה וּמַנְדַּע וְשָׂכְלְתָנוּ מְפַשַּׁר חֶלְמִין וְאַחֲוָיַת אֲחִידָן וּמְשָׁרֵא קִטְרִין, הִשְׁתְּכַחַת בֵּהּ בְּדָנִיֵּאל, דִּי-מַלְכָּא שָׂם-שְׁמֵהּ, בֵּלְטְשַׁאצַּר; כְּעַן דָּנִיֵּאל יִתְקְרֵי, וּפִשְׁרָה יְהַחֲוֵה.",
+    "בֵּאדַיִן, דָּנִיֵּאל, הֻעַל, קֳדָם מַלְכָּא; עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל, אנתה- אַנְתְּ- הוּא דָנִיֵּאל דִּי-מִן-בְּנֵי גָלוּתָא דִּי יְהוּד, דִּי הַיְתִי מַלְכָּא אַבִי, מִן-יְהוּד.",
+    "וְשִׁמְעֵת עליך עֲלָךְ , דִּי רוּחַ אֱלָהִין בָּךְ; וְנַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה יַתִּירָה, הִשְׁתְּכַחַת בָּךְ.",
+    "וּכְעַן הֻעַלּוּ קָדָמַי, חַכִּימַיָּא אָשְׁפַיָּא, דִּי-כְתָבָה דְנָה יִקְרוֹן, וּפִשְׁרֵהּ לְהוֹדָעֻתַנִי; וְלָא-כָהֲלִין פְּשַׁר-מִלְּתָא, לְהַחֲוָיָה.",
+    "וַאֲנָה שִׁמְעֵת עליך עֲלָךְ , דִּי-תוכל תִכּוּל פִּשְׁרִין לְמִפְשַׁר וְקִטְרִין לְמִשְׁרֵא; כְּעַן הֵן תוכל תִּכּוּל כְּתָבָא לְמִקְרֵא, וּפִשְׁרֵהּ לְהוֹדָעוּתַנִי--אַרְגְּוָנָא תִלְבַּשׁ והמונכא וְהַמְנִיכָא דִי-דַהֲבָא עַל-צַוְּארָךְ, וְתַלְתָּא בְמַלְכוּתָא תִּשְׁלַט.",
+    "בֵּאדַיִן עָנֵה דָנִיֵּאל, וְאָמַר קֳדָם מַלְכָּא, מַתְּנָתָךְ לָךְ לֶהֶוְיָן, וּנְבָזְבְּיָתָךְ לְאָחֳרָן הַב; בְּרַם, כְּתָבָא אֶקְרֵא לְמַלְכָּא, וּפִשְׁרָא, אֲהוֹדְעִנֵּהּ.",
+    "אנתה אַנְתְּ , מַלְכָּא; אֱלָהָא, עליא עִלָּאָה , מַלְכוּתָא וּרְבוּתָא וִיקָרָא וְהַדְרָא, יְהַב לִנְבֻכַדְנֶצַּר אֲבוּךְ.",
+    "וּמִן-רְבוּתָא, דִּי יְהַב-לֵהּ--כֹּל עַמְמַיָּא אֻמַּיָּא וְלִשָּׁנַיָּא, הֲווֹ זאעין זָיְעִין וְדָחֲלִין מִן-קֳדָמוֹהִי; דִּי-הֲוָא צָבֵא הֲוָה קָטֵל, וְדִי-הֲוָה צָבֵא הֲוָה מַחֵא, וְדִי-הֲוָה צָבֵא הֲוָה מָרִים, וְדִי-הֲוָא צָבֵא הֲוָא מַשְׁפִּל.",
+    "וּכְדִי רִם לִבְבֵהּ, וְרוּחֵהּ תִּקְפַת לַהֲזָדָה; הָנְחַת מִן-כָּרְסֵא מַלְכוּתֵהּ, וִיקָרָה הֶעְדִּיו מִנֵּהּ.",
+    "וּמִן-בְּנֵי אֲנָשָׁא טְרִיד וְלִבְבֵהּ עִם-חֵיוְתָא שוי שַׁוִּיו , וְעִם-עֲרָדַיָּא מְדֹרֵהּ, עִשְׂבָּא כְתוֹרִין יְטַעֲמוּנֵּהּ, וּמִטַּל שְׁמַיָּא גִּשְׁמֵהּ יִצְטַבַּע: עַד דִּי-יְדַע, דִּי-שַׁלִּיט אֱלָהָא עליא עִלָּאָה בְּמַלְכוּת אֲנָשָׁא, וּלְמַן-דִּי יִצְבֵּא, יְהָקֵים עליה עֲלַהּ .",
+    "ואנתה וְאַנְתְּ בְּרֵהּ בֵּלְשַׁאצַּר, לָא הַשְׁפֵּלְתְּ לִבְבָךְ: כָּל-קֳבֵל, דִּי כָל-דְּנָה יְדַעְתָּ.",
+    "וְעַל מָרֵא-שְׁמַיָּא הִתְרוֹמַמְתָּ וּלְמָאנַיָּא דִי-בַיְתֵהּ הַיְתִיו קדמיך קָדָמָךְ , ואנתה וְאַנְתְּ ורברבניך וְרַבְרְבָנָךְ שֵׁגְלָתָךְ וּלְחֵנָתָךְ חַמְרָא שָׁתַיִן בְּהוֹן, וְלֵאלָהֵי כַסְפָּא-וְדַהֲבָא נְחָשָׁא פַרְזְלָא אָעָא וְאַבְנָא דִּי לָא-חָזַיִן וְלָא-שָׁמְעִין וְלָא יָדְעִין, שַׁבַּחְתָּ; וְלֵאלָהָא דִּי-נִשְׁמְתָךְ בִּידֵהּ, וְכָל-אֹרְחָתָךְ לֵהּ--לָא הַדַּרְתָּ.",
+    "בֵּאדַיִן, מִן-קֳדָמוֹהִי, שְׁלִיחַ, פַּסָּא דִי-יְדָא; וּכְתָבָא דְנָה, רְשִׁים.",
+    "וּדְנָה כְתָבָא, דִּי רְשִׁים: מְנֵא מְנֵא, תְּקֵל וּפַרְסִין.",
+    "דְּנָה, פְּשַׁר-מִלְּתָא: מְנֵא--מְנָה-אֱלָהָא מַלְכוּתָךְ, וְהַשְׁלְמַהּ.",
+    "תְּקֵל--תְּקִילְתָּ בְמֹאזַנְיָא, וְהִשְׁתְּכַחַתְּ חַסִּיר.",
+    "פְּרֵס--פְּרִיסַת, מַלְכוּתָךְ, וִיהִיבַת, לְמָדַי וּפָרָס.",
+    "בֵּאדַיִן אֲמַר בֵּלְשַׁאצַּר, וְהַלְבִּשׁוּ לְדָנִיֵּאל אַרְגְּוָנָא, והמנוכא וְהַמְנִיכָא דִי-דַהֲבָא, עַל-צַוְּארֵהּ; וְהַכְרִזוּ עֲלוֹהִי, דִּי-לֶהֱוֵא שַׁלִּיט תַּלְתָּא בְּמַלְכוּתָא.",
+    "בֵּהּ, בְּלֵילְיָא, קְטִיל, בֵּלְאשַׁצַּר מַלְכָּא כשדיא כַשְׂדָּאָה ."
+  ],
+  "english": [
+    "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+    "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which\nwas in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.",
+    "Then they brought the golden vessels that were taken out of the temple of the house of God which\nwas at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+    "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+    "In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.",
+    "Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+    "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers.\nAnd the king spake, and said to the wise\nmen\n of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and\nhave\n a chain of gold about his neck, and shall be the third ruler in the kingdom.",
+    "Then came in all the king’s wise\nmen: but they could not read the writing, nor make known to the king the interpretation thereof.",
+    "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+    "Now the queen, by reason of the words of the king and his lords, came into the banquet house:\nand the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+    "There is a man in thy kingdom, in whom\nis the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king,\nI say, thy father, made master of the magicians, astrologers, Chaldeans,\nand soothsayers;",
+    "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.",
+    "Then was Daniel brought in before the king.\nAnd the king spake and said unto Daniel,\nArt thou that Daniel, which\nart\n of the children of the captivity of Judah, whom the king my father brought out of Jewry?",
+    "I have even heard of thee, that the spirit of the gods\nis\n in thee, and\nthat light and understanding and excellent wisdom is found in thee.",
+    "And now the wise\nmen, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+    "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and\nhave\n a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+    "Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
+    "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+    "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+    "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:",
+    "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling\nwas with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and\nthat he appointeth over it whomsoever he will.",
+    "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+    "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath\nis, and whose\nare all thy ways, hast thou not glorified:",
+    "Then was the part of the hand sent from him; and this writing was written.",
+    "And this\nis the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
+    "This\nis the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.",
+    "TEKEL; Thou art weighed in the balances, and art found wanting.",
+    "PERES; Thy kingdom is divided, and given to the Medes and Persians.",
+    "Then commanded Belshazzar, and they clothed Daniel with scarlet, and\nput a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+    "In that night was Belshazzar the king of the Chaldeans slain.",
+    "And Darius the Median took the kingdom,\nbeing about threescore and two years old."
+  ],
+  "steinsaltz": [
+    "בֵּלְשַׁאצַּר מַלְכָּא עֲבַד לְחֶם רַב לְרַבְרְבָנוֹהִי אֲלַף, וְלָקֳבֵל אַלְפָּא חַמְרָא שָׁתֵה. [בלשאצר המלך עשה סעודה גדולה לאלף גדוליו, וכנגד, לנוכח, או: כשיעור האלף הוא שתה יין.]",
+    "בֵּלְשַׁאצַּר אֲמַר בִּטְעֵם חַמְרָא לְהַיְתָיָה לְמָאנֵי דַּהֲבָא וְכַסְפָּא דִּי הַנְפֵּק נְבוּכַדְנֶצַּר אֲבוּהִי מִן־הֵיכְלָא דִּי בִירוּשְׁלֶם, וְיִשְׁתּוֹן בְּהוֹן מַלְכָּא וְרַבְרְבָנוֹהִי, שֵׁגְלָתֵהּ וּלְחֵנָתֵהּ. [בלשאצר ציווה בעצת, בהשפעת היין להביא את כלי הזהב והכסף שהוציא נבוכדנצר אביו, אחד מזקניו, מן ההיכל שבירושלים, וְישתו בהם המלך וגדוליו, נשיו ופילגשיו.] משום מה עלה בדעתו בשעת שכרותו להשתמש במשתה שלו בכלי בית המקדש, שהיו ברובם כלים גדולים. בדרך כלל נהגו להתיך כלים כאלה או לשמור אותם לזיכרון, וחילול קודש מסוג זה לא היה מקובל.",
+    "בֵּאדַיִן הַיְתִיו מָאנֵי דַהֲבָא דִּי הַנְפִּקוּ מִן־הֵיכְלָא דִּי־בֵית אֱלָהָא דִּי בִירוּשְׁלֶם, וְאִשְׁתִּיו בְּהוֹן מַלְכָּא וְרַבְרְבָנוֹהִי, שֵׁגְלָתֵהּ וּלְחֵנָתֵהּ. [אז הביאו את כלי הזהב שהוציאו מן ההיכל של בית האלוהים שבירושלים, ושתו בהם המלך וגדוליו, נשיו ופילגשיו.]",
+    "אִשְׁתִּיו חַמְרָא, וְשַׁבַּחוּ לֵאלָהֵי דַהֲבָא וְכַסְפָּא, נְחָשָׁא, פַרְזְלָא, אָעָא וְאַבְנָא. [שתו את היין ושיבחו את אלוהי הזהב והכסף, הנחושת, הברזל, העץ והאבן] בשעה שישבו שיכורים בסעודה שבה השתמשו בכלי המקדש.",
+    "בַּהּ־שַׁעֲתָה נְפַקָה אֶצְבְּעָן דִּי יַד־אֱנָשׁ, וְכָתְבָן לָקֳבֵל נֶבְרַשְׁתָּא עַל־גִּירָא דִּי־כְתַל הֵיכְלָא דִּי מַלְכָּא, וּמַלְכָּא חָזֵה פַּס יְדָא דִּי כָתְבָה. [באותה שעה יצאו אצבעות של יד אנוש, וכתבו אל מול הנברשת, המנורה הגדולה על סיד כותל ההיכל של המלך, והמלך ראה את פס היד שכותבת.] לפתע הופיעה לפני המלך כדמות כף יד וכתבה מאליה כתובת על הקיר.",
+    "אֱדַיִן מַלְכָּא – זִיוֹהִי שְׁנוֹהִי, וְרַעְיֹנֹהִי יְבַהֲלוּנֵּהּ, וְקִטְרֵי חַרְצֵהּ מִשְׁתָּרַיִן, וְאַרְכֻבָּתֵהּ דָּא לְדָא נָקְשָׁן. [אז המלך – זיוו, אור פניו שוּנה לרעה, ומחשבותיו הבהילוהו, וקשרי מתניו הותרו, אבדה יציבותו, הוא נחלש והתערער, וברכיו נקשו זו לזו.]",
+    "קָרֵא מַלְכָּא בְּחַיִל לְהֶעָלָה לְאָשְׁפַיָּא, כַּשְׂדָּאֵי וְגָזְרַיָּא. [קרא המלך בכוח להכניס את האשפים, הכשדיים והגוזרים] הבקיאים בחלומות ובפענוח סודות, שיבואו ויביעו דעה. עָנֵה מַלְכָּא וְאָמַר לְחַכִּימֵי בָבֶל: דִּי כָל־אֱנָשׁ דִּי־יִקְרֵה כְּתָבָה דְנָה וּפִשְׁרֵהּ יְחַוִּנַּנִי – אַרְגְּוָנָא יִלְבַּשׁ, [ענה המלך ואמר לחכמי בבל: שכל אדם שיקרא את הכתב הזה ואת פשרו יגיד לי – ארגמן ילבש.] במקומות רבים הבד הצבוע ארגמן נועד רק למלכים וליחידי סגולה, ולבישת בגד שכולו ארגמן נחשבה לכבוד מלכים. וְהַמְנִיכָא דִי־דַהֲבָא עַל־צַוְּארֵהּ, וְתַלְתִּי בְמַלְכוּתָא יִשְׁלַט. [ורביד, ענק מזהב יינתן על צווארו, ובתפקיד הבכיר של שָׁליש, אולי אחד משלושת השרים העליונים במלכות הוא ישלוט.] בלשאצר השיכור מבטיח הבטחות מופלגות וכבוד גדול למי שיפתור את החידה הזו.",
+    "אֱדַיִן עָלִּין כֹּל חַכִּימֵי מַלְכָּא, וְלָא־כָהֲלִין כְּתָבָא לְמִקְרֵא וּפִשְׁרֵהּ לְהוֹדָעָה לְמַלְכָּא. [אז נכנסו כל חכמי המלך, ולא יכלו את הכתב לקרוא ואת פשרו להודיע למלך.]",
+    "אֱדַיִן מַלְכָּא בֵלְשַׁאצַּר שַׂגִּיא מִתְבָּהַל, וְזִיוֹהִי שָׁנַיִן עֲלוֹהִי, וְרַבְרְבָנוֹהִי מִשְׁתַּבְּשִׁין. [אז המלך בלשאצר מאוד נבהל, וזיוו השתנה, וגדוליו התבלבלו.] מתחילה הם היו שיכורים, וכשהתפכחו משכרותם בעקבות המראה המפחיד של היד הכותבת מעצמה כתובת שאיש לא הבין את פשרה, קמה שם מהומה גדולה.",
+    "מַלְכְּתָא לָקֳבֵל מִלֵּי מַלְכָּא וְרַבְרְבָנוֹהִי לְבֵית מִשְׁתְּיָא עַלַּת. עֲנָת מַלְכְּתָא וַאֲמֶרֶת: מַלְכָּא, לְעָלְמִין חֱיִי! אַל־יְבַהֲלוּךְ רַעְיוֹנָךְ, וְזִיוָךְ אַל־יִשְׁתַּנּוֹ. נראה שהמשתה היה בעיקרו של גברים. [המלכה לנוכח דברי המלך וגדוליו ובהלתם אל בית המשתה נכנסה. ענתה המלכה ואמרה: המלך, לעולם חיֵה! אל יבהילוך מחשבותיך, וזיווך אל ישתנה.] הירגע מפני שיש לי עצה –",
+    "אִיתַי גְּבַר בְּמַלְכוּתָךְ דִּי רוּחַ אֱלָהִין קַדִּישִׁין בֵּהּ. [יש איש במלכותך אשר רוח אלוהים קדושים בו.] אתה מוקף בחכמים ומלומדים השייכים לפולחן המסוים שלהם, אבל כאן מדובר באיש שונה שכן בו שוכנת רוח אלוקים. וּבְיוֹמֵי אֲבוּךְ נַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה כְּחָכְמַת־אֱלָהִין הִשְׁתְּכַחַת בֵּהּ, וּמַלְכָּא נְבֻכַדְנֶצַּר, אֲבוּךְ, רַב חַרְטֻמִּין, אָשְׁפִין, כַּשְׂדָּאִין, גָּזְרִין הֲקִימֵהּ, אֲבוּךְ מַלְכָּא, [ובימי אביך הארה ושכל וחכמה כחכמת אלוקים נמצאה בו – באותו אדם, והמלך נבוכדנצר, אביך, לראש החרטומים, האשפים, הכשדיים והגוזרים העמידוֹ, אביך המלך,]",
+    "כָּל־קֳבֵל דִּי רוּחַ יַתִּירָה וּמַנְדַּע וְשָׂכְלְתָנוּ מְפַשַּׁר חֶלְמִין וְאַחֲוָיַת אֲחִידָן וּמְשָׁרֵא קִטְרִין הִשְׁתְּכַחַת בֵּהּ בְּדָנִיֵּאל, דִּי־מַלְכָּא שָׂם־שְׁמֵהּ בֵּלְטְשַׁאצַּר, כְּעַן דָּנִיֵּאל יִתְקְרֵי, וּפִשְׁרָה יְהַחֲוֵה. [מאחר שרוח יתרה ודעת ושכל פותר חלומות והגדת חידות ומתיר קשרים, תסבוכות, נמצאה בו בדניאל, אשר המלך נבוכדנצר שם את שמו בלטשאצר, לכן כעת דניאל ייקרא, ואת הפתרון יגיד.]",
+    "יש להניח שדניאל לא היה מוכר לכל פשוטי העם. אולי כבר לא שהה תכופות בארמון כמו בשנותיו הראשונות, ושמא העדיף באותו זמן לחיות את חייו הפרטיים מחמת זקנתו, לפיכך דווקא המלכה, שהייתה בת למשפחת המלוכה וכנראה לא השתכרה כשאר הנוכחים, זכרה את קיומו של מפענח החלומות ופותר הבעיות הזה והציעה לקרוא לו. בֵּאדַיִן דָּנִיֵּאל הֻעַל קֳדָם מַלְכָּא. עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל: אַנְתְּ־הוּא דָנִיֵּאל דִּי־מִן־בְּנֵי גָלוּתָא דִּי יְהוּד, דִּי הַיְתִי מַלְכָּא אַבִי מִן־יְהוּד. [אז דניאל הוכנס לפני המלך. ענה המלך ואמר לדניאל: אתה הוא דניאל שמבני גלות יהודה, שהביא המלך אבי מיהודה.]",
+    "וְשִׁמְעֵת עֲלָךְ דִּי רוּחַ אֱלָהִין בָּךְ, וְנַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה יַתִּירָה הִשְׁתְּכַחַת בָּךְ. [ושמעתי עליך שרוח אלוקים בך, והארה ושכל וחכמה יתרה נמצאה בך.]",
+    "וּכְעַן הֻעַלּוּ קָדָמַי חַכִּימַיָּא אָשְׁפַיָּא, דִּי־כְתָבָה דְנָה יִקְרוֹן וּפִשְׁרֵהּ לְהוֹדָעֻתַנִי, וְלָא־כָהֲלִין פְּשַׁר־מִלְּתָא לְהַחֲוָיָה. [וכעת הוכנסו לפנַי החכמים האשפים כדי שאת הכתב הזה יקראו להודיעני את פשרו, ולא יכלו את פשר הדבר להגיד.]",
+    "וַאֲנָה שִׁמְעֵת עֲלָךְ דִּי־תִכֻּל פִּשְׁרִין לְמִפְשַׁר וְקִטְרִין לְמִשְׁרֵא. כְּעַן, הֵן תִּכֻּל כְּתָבָא לְמִקְרֵא וּפִשְׁרֵהּ לְהוֹדָעוּתַנִי – אַרְגְּוָנָא תִלְבַּשׁ, וְהַמְנִיכָא דִי־דַהֲבָא עַל־צַוְּארָךְ, וְתַלְתָּא בְמַלְכוּתָא תִּשְׁלַט. [ואני שמעתי עליך שתוכל פתרונות לפתור וקשרים להתיר. כעת, אם תוכל את הכתב לקרוא ואת פשרו להודיעני – ארגמן תלבש, ורביד זהב תענוד על צווארך, ובתור שליש במלכות תשלוט.]",
+    "בֵּאדַיִן עָנֵה דָנִיֵּאל וְאָמַר קֳדָם מַלְכָּא: מַתְּנָתָךְ לָךְ לֶהֶוְיָן, וּנְבָזְבְּיָתָךְ לְאָחֳרָן הַב. בְּרַם כְּתָבָא אֶקְרֵא לְמַלְכָּא, וּפִשְׁרָא אֲהוֹדְעִנֵּהּ. [אז ענה דניאל ואמר לפני המלך: מתנותיך לך יהיו, ומענקיך הנדיבים לאחֵר תן. אולם את הכתב אקרא למלך, ואת פשרו אודיע לו.] דניאל מצהיר שאין הוא מעוניין במתנות, ובהמשך יובן מדוע.",
+    "אַנְתְּ, מַלְכָּא – אֱלָהָא עִלָּאָה מַלְכוּתָא וּרְבוּתָא וִיקָרָא וְהַדְרָא יְהַב לִנְבֻכַדְנֶצַּר אֲבוּךְ. [אתה, המלך – האלוה העליון את המלכות והגדולה והכבוד וההדר נתן לנבוכדנצר אביך.]",
+    "וּמִן־רְבוּתָא דִּי יְהַב־לֵהּ, כֹּל עַמְמַיָּא, אֻמַּיָּא וְלִשָּׁנַיָּא הֲווֹ זָיְעִין וְדָחֲלִין מִן־קֳדָמוֹהִי. דִּי־הֲוָא צָבֵא הֲוָה קָטֵל, וְדִי־הֲוָה צָבֵא הֲוָה מַחֵא, וְדִי־הֲוָה צָבֵא הֲוָה מָרִים, וְדִי־הֲוָא צָבֵא הֲוָא מַשְׁפִּל. [ומחמת הגדולה שנתן לו, כל העמים, האומות והלשונות היו רועדים ופוחדים מפניו. את אשר היה רוצה להרוג היה הורג, ואת אשר היה רוצה להכות היה מכה, ואת אשר היה רוצה להרים היה מרים, ואת אשר היה רוצה להשפיל היה משפיל.] כל הכוח היה בידו.",
+    "וּכְדִי רִם לִבְבֵהּ, וְרוּחֵהּ תִּקְפַת לַהֲזָדָה, הָנְחַת מִן־כָּרְסֵא מַלְכוּתֵהּ, וִיקָרָה הֶעְדִּיו מִנֵּהּ. [וכאשר רם לבבו, ורוחו התגברה להרשיע, הורד מכיסא מלכותו, ואת הכבוד הסירו ממנו.]",
+    "וּמִן־בְּנֵי אֲנָשָׁא טְרִיד, וְלִבְבֵהּ עִם־חֵיוְתָא שַׁוִּיו, וְעִם־עֲרָדַיָּא מְדוֹרֵהּ. עִשְׂבָּא כְתוֹרִין יְטַעֲמוּנֵּהּ, וּמִטַּל שְׁמַיָּא גִּשְׁמֵהּ יִצְטַבַּע. [ומבני האדם הוא גורש, ואת לבבו עם החיות שמוּ, ועם ערודים, חמורי בר, היה מדורו. את העשב כשוורים האכילוהו, ומטל השמים גופו הורטב.] כמסופר בעניין הקודם, נבוכדנצר יצא מן התחום האנושי, איבד את בינתו, נעשה כחיה וחי עם החיות, עַד דִּי־יְדַע דִּי־שַׁלִּיט אֱלָהָא עִלָּאָה בְּמַלְכוּת אֲנָשָׁא, וּלְמַן־דִּי יִצְבֵּא יְהָקֵים עֲלַהּ. [עד שידע ששולט האלוה העליון במלכות האדם, ואת מי שירצה הוא יקים עליה.]",
+    "וְאַנְתְּ, בְּרֵהּ בֵּלְשַׁאצַּר, לָא הַשְׁפֵּלְתְּ לִבְבָךְ כָּל־קֳבֵל דִּי כָל־דְּנָה יְדַעְתָּ. [ואתה, בנו, צאצאו, בלשאצר, לא השפלת את לבבך אף שאת כל זה ידעת.] אביך למד את הלקח, אבל אתה לא למדת מכך דבר.",
+    "וְעַל מָרֵא־שְׁמַיָּא הִתְרוֹמַמְתָּ, וּלְמָאנַיָּא דִי־בַיְתֵהּ הַיְתִיו קָדָמָךְ, וְאַנְתְּ וְרַבְרְבָנָךְ, שֵׁגְלָתָךְ וּלְחֵנָתָךְ חַמְרָא שָׁתַיִן בְּהוֹן, וְלֵאלָהֵי כַסְפָּא־וְדַהֲבָא, נְחָשָׁא, פַרְזְלָא, אָעָא וְאַבְנָא דִּי לָא־חָזַיִן וְלָא־שָׁמְעִין וְלָא יָדְעִין שַׁבַּחְתָּ, וְלֵאלָהָא דִּי־נִשְׁמְתָךְ בִּידֵהּ וְכָל־אֹרְחָתָךְ לֵהּ, לָא הַדַּרְתָּ. [ועל אדון השמים התרוממת, התנשאת, ואת כלי ביתו הביאו לפניך, ואתה וגדוליך, נשיך ופילגשיך יין שתיתם בהם, ואת אלוהי הכסף והזהב, הנחושת, הברזל, העץ והאבן שאינם רואים ואינם שומעים ואינם יודעים שיבחת, ואת האלוהים אשר נשמתך בידו, ושכל דרכיך שלו, לא כיבדת.] אתה פונה בדיוק אל הכיוון ההפוך.",
+    "בֵּאדַיִן מִן־קֳדָמוֹהִי שְׁלִיחַ פַּסָּא דִי־יְדָא, וּכְתָבָא דְנָה רְשִׁים. [אז מלפניו – מלפני אלוקים – נשלחה כף היד, והכתב הזה נרשם.]",
+    "וּדְנָה כְתָבָא דִּי רְשִׁים [וזה הכתב שנרשם:] מְנֵא מְנֵא תְּקֵל וּפַרְסִין. לא ברור אם המלים היו כתובות בכתב עברי, ולכן לא ידעו לקרוא אותן, או שהיו כתובות בכתב אחר, ואולי בסמלים או בסדר מסוים שרק דניאל ידע לפענח.",
+    "דְּנָה פְּשַׁר מִלְּתָא [זה פשר הדבר:] 'מְנֵא' – מְנָה־אֱלָהָא מַלְכוּתָךְ וְהַשְׁלְמַהּ. ['מנא' – פירושו: מנה האלוהים את ימי מלכותך והשלים אותה.] תמה 'מנת' מלכותך.",
+    "'תְּקֵל' – תְּקִלְתָּא בְמֹאזַנְיָא וְהִשְׁתְּכַחַתְּ חַסִּיר. ['תקל' – פירושה: נשקלתָ במאזניים ונמצאת חסר.]",
+    "והמלה 'פרסין' מרמזת לביטוי דו-משמעי: 'פְּרֵס' – פְּרִיסַת מַלְכוּתָךְ וִיהִיבַת לְמָדַי וּפָרָס. ['פרס' - נפרסה מלכותך וניתנה למדי ופרס.]",
+    "בלשאצר אמנם היה שיכור ומפוחד, אבל הוא התרשם מאוד מן החכם היהודי. בֵּאדַיִן אֲמַר בֵּלְשַׁאצַּר, וְהַלְבִּשׁוּ לְדָנִיֵּאל אַרְגְּוָנָא, וְהַמְנִיכָא דִי־דַהֲבָא עַל־צַוְּארֵהּ, וְהַכְרִזוּ עֲלוֹהִי דִּי־לֶהֱוֵא שַׁלִּיט תַּלְתָּא בְּמַלְכוּתָא. [אז ציווה בלשאצר, והלבישו את דניאל ארגמן, ורביד הזהב ענדו על צווארו, והכריזו עליו שיהיה שליט שליש בממלכה.]",
+    "בֵּהּ בְּלֵילְיָא קְטִיל בֵּלְאשַׁצַּר מַלְכָּא כַשְׂדָּאָה. [בו בלילה נהרג בלשאצר המלך הכשדי.] המלך עוד הספיק להעניק לדניאל את סימני הפאר ולהכריז עליו כשליט רם, אבל לא הייתה לכך כל משמעות ממשית מפני שבאותו לילה נפלה העיר, ובלשאצר נהרג."
+  ],
+  "ai_explanation": [
+    "בלשאצר ערך סעודה גדולה לאלף מגדוליו, והוא שתה יין כנגד מספר האורחים או לעומתם.",
+    "בהשפעת היין ציווה בלשאצר להביא את כלי הזהב והכסף שהוציא נבוכדנצר מן ההיכל בירושלים, כדי שישתו בהם המלך, גדוליו, נשיו ופילגשיו. השימוש בכלי המקדש בשעת המשתה מוצג כחילול קודש חריג, שכן בדרך כלל היו מתיכים כלים כאלה או שומרים אותם לזיכרון.",
+    "הביאו את כלי הזהב שהוצאו מן ההיכל של בית האלוהים בירושלים, והמלך, גדוליו, נשיו ופילגשיו שתו בהם.",
+    "המסובים שתו יין ושיבחו את אלוהי הזהב, הכסף, הנחושת, הברזל, העץ והאבן, בשעה שישבו שיכורים בסעודה שבה השתמשו בכלי המקדש.",
+    "באותה שעה הופיעה כדמות כף יד, שכתבה מאליה כתובת על הקיר, מול הנברשת שעל כותל היכל המלך. המלך ראה את פס היד הכותבת.",
+    "מראה היד והמחשבות הבהילו את המלך: זיוו השתנה, קשרי מתניו הותרו, והוא נחלש והתערער עד שברכיו נקשו זו בזו.",
+    "המלך קרא בכוח לאשפים, לכשדיים ולגוזרים כדי שיקראו את הכתב ויפתרו אותו. הוא הבטיח לקורא ולמפרש ארגמן, רביד זהב ותפקיד של שליש בממלכה, הבטחה המבטאת את בהלתו ואת ההגזמה שבמצבו השיכור.",
+    "כל חכמי המלך נכנסו, אך לא יכלו לקרוא את הכתב או להודיע למלך את פשרו.",
+    "בלשאצר נבהל מאוד, זיוו השתנה וגדוליו התבלבלו. המראה המפחיד והיעדר הפתרון עוררו מהומה גדולה במשתה.",
+    "המלכה נכנסה לבית המשתה בעקבות דברי המלך וגדוליו ובהלתם. היא ביקשה ממנו להירגע ורמזה שיש בידיה עצה.",
+    "המלכה סיפרה על אדם שבּו רוח אלוהים, ושבימי נבוכדנצר נמצאו בו הארה, שכל וחכמה כשל אלוהים. נבוכדנצר העמיד אותו בראש החרטומים, האשפים, הכשדיים והגוזרים.",
+    "בדניאל נמצאו רוח יתרה, דעת, שכל, יכולת לפתור חלומות, להגיד חידות ולהתיר קשרים. לכן הציעה המלכה לקרוא לדניאל, שנבוכדנצר קרא לו בלטשאצר, כדי שיגיד את הפתרון.",
+    "דניאל הוכנס לפני המלך. בלשאצר שאל אם הוא דניאל מבני גלות יהודה שהביא המלך אביו מיהודה; לפי ההסבר, ייתכן שדניאל כבר לא היה מוכר לכל פשוטי העם ולא שהה תכופות בארמון, ואולי המלכה זכרה אותו משום שהייתה בת למשפחת המלוכה ולא השתכרה כשאר הנוכחים.",
+    "המלך אמר ששמע על דניאל שרוח אלוהים בו, וכן הארה, שכל וחכמה יתרה.",
+    "המלך סיפר שהחכמים והאשפים הובאו לפניו כדי לקרוא את הכתב ולהודיע את פשרו, אך לא יכלו להסביר את הדבר.",
+    "בלשאצר אמר ששמע כי דניאל מסוגל לפתור פתרונות ולהתיר קשרים. הוא הציע לו ארגמן, רביד זהב ומעמד של שליש בממלכה אם יקרא את הכתב ויודיע את פשרו.",
+    "דניאל השיב שהמתנות והכיבודים יישארו למלך או יינתנו לאחר, אך הוא יקרא את הכתב ויודיע למלך את פשרו. בכך הצהיר שאינו מעוניין במתנות, ובהמשך מתברר מדוע.",
+    "דניאל פנה אל בלשאצר והזכיר לו שהאל העליון נתן לנבוכדנצר אביו מלכות, גדולה, כבוד והדר.",
+    "בזכות הגדולה שניתנה לנבוכדנצר רעדו ופחדו מפניו כל העמים, האומות והלשונות. הוא החזיק בכוח להמית, להכות, לרומם ולהשפיל כרצונו.",
+    "כאשר נבוכדנצר התגאה ולבו התרומם ורוחו התחזקה להרשיע, הורידו אותו מכיסא מלכותו והסירו ממנו את כבודו.",
+    "נבוכדנצר גורש מבני האדם, לבו הושווה ללב החיות והוא חי עם הערודים, אכל עשב כבהמות וגופו הורטב מטל השמים, עד שהכיר שהאל העליון שולט במלכות האדם ומקים עליה את מי שירצה.",
+    "בלשאצר, אף שידע את כל מה שקרה לנבוכדנצר, לא השפיל את לבבו ולא למד את הלקח.",
+    "בלשאצר התרומם נגד אדון השמים, השתמש בכלי ביתו במשתה, ושיבח אלוהי כסף, זהב, נחושת, ברזל, עץ ואבן שאינם רואים, שומעים או יודעים. לעומת זאת לא כיבד את האלוהים שבידו נשמתו ושכל דרכיו שלו.",
+    "לכן נשלחה מלפני האל כף היד, והכתב נרשם.",
+    "זהו הכתב שנרשם: ״מנא, מנא, תקל ופרסין״. לא ברור אם החכמים לא קראו אותו מפני שנכתב בכתב עברי, בכתב אחר, בסמלים או בסדר שרק דניאל ידע לפענח.",
+    "״מנא״ פירושו שהאל מנה את ימי מלכותו של בלשאצר והשלים אותם.",
+    "״תקל״ פירושו שבלשאצר נשקל במאזניים ונמצא חסר.",
+    "״פרסין״ מרמזת על שני מובנים: מלכותו נפרסה, והיא ניתנה למדי ולפרס.",
+    "בלשאצר ציווה להלביש את דניאל ארגמן, לענוד לו רביד זהב ולהכריז עליו כשליט שליש בממלכה. אף שהיה שיכור ומפוחד, הוא התרשם מאוד מן החכם היהודי.",
+    "באותו לילה נהרג בלשאצר המלך הכשדי. הכיבודים שניתנו לדניאל כבר לא נשאו משמעות ממשית, מפני שבאותו לילה נפלה העיר ובלשאצר נהרג."
+  ],
+  "ai_explanation_en": [
+    "Belshazzar held a great feast for a thousand of his nobles, and he drank wine in proportion to, or in response to, the number of guests.",
+    "Under the influence of wine, Belshazzar ordered the gold and silver vessels that Nebuchadnezzar had taken from the Temple in Jerusalem to be brought, so that the king, his nobles, wives, and concubines could drink from them. Using the Temple vessels at the feast is presented as an unusual desecration, since such vessels were generally melted down or preserved as memorials.",
+    "The gold vessels taken from the Temple of the House of God in Jerusalem were brought, and the king, his nobles, wives, and concubines drank from them.",
+    "The participants drank wine and praised the gods of gold, silver, bronze, iron, wood, and stone while sitting drunk at the feast in which the Temple vessels were being used.",
+    "At that moment, something resembling a hand appeared and wrote an inscription by itself on the wall, opposite the lamp on the wall of the king’s palace. The king saw the hand writing.",
+    "The sight of the hand and his thoughts terrified the king: his appearance changed, the cords of his waist came loose, and he weakened and became unsettled until his knees knocked together.",
+    "The king loudly summoned the enchanters, Chaldeans, and diviners to read and interpret the writing. He promised purple clothing, a gold necklace, and the position of third ruler in the kingdom, an extravagant promise reflecting his panic and drunken state.",
+    "All the king’s wise men entered, but they could not read the writing or tell the king its meaning.",
+    "Belshazzar was extremely frightened, his appearance changed, and his nobles became confused. The frightening sight and the lack of an interpretation caused great turmoil at the feast.",
+    "The queen entered the banquet hall because of the king’s and his nobles’ words and alarm. She asked him not to be afraid and hinted that she had advice.",
+    "The queen spoke of a man in whom was the spirit of the gods, and in whom, during Nebuchadnezzar’s days, illumination, understanding, and wisdom like that of the gods were found. Nebuchadnezzar had appointed him over the magicians, enchanters, Chaldeans, and diviners.",
+    "Daniel possessed an exceptional spirit, knowledge, understanding, the ability to interpret dreams, explain riddles, and untie knots. Therefore the queen suggested calling Daniel, whom Nebuchadnezzar had named Belteshazzar, so that he could give the interpretation.",
+    "Daniel was brought before the king. Belshazzar asked whether he was Daniel, one of the exiles from Judah whom the king his father had brought from Judah. The explanation suggests that Daniel may no longer have been known to the ordinary people or frequently present at the palace, and that the queen remembered him because she belonged to the royal family and apparently had not become drunk like the others.",
+    "The king said that he had heard that Daniel possessed the spirit of the gods, as well as illumination, understanding, and exceptional wisdom.",
+    "The king explained that the wise men and enchanters had been brought before him to read the writing and tell its meaning, but they had been unable to explain it.",
+    "Belshazzar said that he had heard Daniel could solve problems and untie knots. He offered him purple clothing, a gold necklace, and the status of third ruler in the kingdom if he could read and interpret the writing.",
+    "Daniel replied that the gifts and honors could remain with the king or be given to someone else, but that he would read the writing and tell the king its meaning. In this way he declared that he was not interested in the gifts, and the reason becomes clear later.",
+    "Daniel reminded Belshazzar that the Most High God had given Nebuchadnezzar his father kingship, greatness, honor, and majesty.",
+    "Because of the greatness given to Nebuchadnezzar, all peoples, nations, and languages trembled and feared before him. He had the power to kill, strike, exalt, or humble as he wished.",
+    "When Nebuchadnezzar became proud and his spirit grew arrogant and wicked, he was removed from his royal throne and stripped of his honor.",
+    "Nebuchadnezzar was driven away from humanity, his heart was made like that of the beasts, and he lived with the wild asses, ate grass like cattle, and was drenched by the dew of heaven, until he recognized that the Most High God rules the human kingdom and appoints over it whomever He wishes.",
+    "Belshazzar knew all that had happened to Nebuchadnezzar, yet he did not humble himself or learn the lesson.",
+    "Belshazzar exalted himself against the Lord of heaven, used the vessels of His house at the feast, and praised gods of silver, gold, bronze, iron, wood, and stone that could not see, hear, or know. He did not honor the God in whose hand was his breath and to whom all his ways belonged.",
+    "Therefore, from before God, the hand was sent and the writing was recorded.",
+    "This was the writing: “Mene, Mene, Tekel, and Parsin.” It is unclear whether the wise men could not read it because it was written in Hebrew script, another script, symbols, or an arrangement that only Daniel knew how to decipher.",
+    "“Mene” means that God counted the days of Belshazzar’s kingdom and brought them to an end.",
+    "“Tekel” means that Belshazzar was weighed on the scales and found lacking.",
+    "“Parsin” suggests two meanings: his kingdom was divided, and it was given to the Medes and Persians.",
+    "Belshazzar ordered Daniel to be dressed in purple, to receive a gold necklace, and to be proclaimed third ruler in the kingdom. Though drunk and frightened, he was greatly impressed by the Jewish sage.",
+    "That same night Belshazzar, the Chaldean king, was killed. The honors given to Daniel no longer had practical significance, because the city fell and Belshazzar was killed that night."
+  ],
+  "perush": [
+    "בלשאצר ערך סעודה גדולה לאלף מגדוליו, והוא שתה יין כנגד מספר האורחים או לעומתם.",
+    "בהשפעת היין ציווה בלשאצר להביא את כלי הזהב והכסף שהוציא נבוכדנצר מן ההיכל בירושלים, כדי שישתו בהם המלך, גדוליו, נשיו ופילגשיו. השימוש בכלי המקדש בשעת המשתה מוצג כחילול קודש חריג, שכן בדרך כלל היו מתיכים כלים כאלה או שומרים אותם לזיכרון.",
+    "הביאו את כלי הזהב שהוצאו מן ההיכל של בית האלוהים בירושלים, והמלך, גדוליו, נשיו ופילגשיו שתו בהם.",
+    "המסובים שתו יין ושיבחו את אלוהי הזהב, הכסף, הנחושת, הברזל, העץ והאבן, בשעה שישבו שיכורים בסעודה שבה השתמשו בכלי המקדש.",
+    "באותה שעה הופיעה כדמות כף יד, שכתבה מאליה כתובת על הקיר, מול הנברשת שעל כותל היכל המלך. המלך ראה את פס היד הכותבת.",
+    "מראה היד והמחשבות הבהילו את המלך: זיוו השתנה, קשרי מתניו הותרו, והוא נחלש והתערער עד שברכיו נקשו זו בזו.",
+    "המלך קרא בכוח לאשפים, לכשדיים ולגוזרים כדי שיקראו את הכתב ויפתרו אותו. הוא הבטיח לקורא ולמפרש ארגמן, רביד זהב ותפקיד של שליש בממלכה, הבטחה המבטאת את בהלתו ואת ההגזמה שבמצבו השיכור.",
+    "כל חכמי המלך נכנסו, אך לא יכלו לקרוא את הכתב או להודיע למלך את פשרו.",
+    "בלשאצר נבהל מאוד, זיוו השתנה וגדוליו התבלבלו. המראה המפחיד והיעדר הפתרון עוררו מהומה גדולה במשתה.",
+    "המלכה נכנסה לבית המשתה בעקבות דברי המלך וגדוליו ובהלתם. היא ביקשה ממנו להירגע ורמזה שיש בידיה עצה.",
+    "המלכה סיפרה על אדם שבּו רוח אלוהים, ושבימי נבוכדנצר נמצאו בו הארה, שכל וחכמה כשל אלוהים. נבוכדנצר העמיד אותו בראש החרטומים, האשפים, הכשדיים והגוזרים.",
+    "בדניאל נמצאו רוח יתרה, דעת, שכל, יכולת לפתור חלומות, להגיד חידות ולהתיר קשרים. לכן הציעה המלכה לקרוא לדניאל, שנבוכדנצר קרא לו בלטשאצר, כדי שיגיד את הפתרון.",
+    "דניאל הוכנס לפני המלך. בלשאצר שאל אם הוא דניאל מבני גלות יהודה שהביא המלך אביו מיהודה; לפי ההסבר, ייתכן שדניאל כבר לא היה מוכר לכל פשוטי העם ולא שהה תכופות בארמון, ואולי המלכה זכרה אותו משום שהייתה בת למשפחת המלוכה ולא השתכרה כשאר הנוכחים.",
+    "המלך אמר ששמע על דניאל שרוח אלוהים בו, וכן הארה, שכל וחכמה יתרה.",
+    "המלך סיפר שהחכמים והאשפים הובאו לפניו כדי לקרוא את הכתב ולהודיע את פשרו, אך לא יכלו להסביר את הדבר.",
+    "בלשאצר אמר ששמע כי דניאל מסוגל לפתור פתרונות ולהתיר קשרים. הוא הציע לו ארגמן, רביד זהב ומעמד של שליש בממלכה אם יקרא את הכתב ויודיע את פשרו.",
+    "דניאל השיב שהמתנות והכיבודים יישארו למלך או יינתנו לאחר, אך הוא יקרא את הכתב ויודיע למלך את פשרו. בכך הצהיר שאינו מעוניין במתנות, ובהמשך מתברר מדוע.",
+    "דניאל פנה אל בלשאצר והזכיר לו שהאל העליון נתן לנבוכדנצר אביו מלכות, גדולה, כבוד והדר.",
+    "בזכות הגדולה שניתנה לנבוכדנצר רעדו ופחדו מפניו כל העמים, האומות והלשונות. הוא החזיק בכוח להמית, להכות, לרומם ולהשפיל כרצונו.",
+    "כאשר נבוכדנצר התגאה ולבו התרומם ורוחו התחזקה להרשיע, הורידו אותו מכיסא מלכותו והסירו ממנו את כבודו.",
+    "נבוכדנצר גורש מבני האדם, לבו הושווה ללב החיות והוא חי עם הערודים, אכל עשב כבהמות וגופו הורטב מטל השמים, עד שהכיר שהאל העליון שולט במלכות האדם ומקים עליה את מי שירצה.",
+    "בלשאצר, אף שידע את כל מה שקרה לנבוכדנצר, לא השפיל את לבבו ולא למד את הלקח.",
+    "בלשאצר התרומם נגד אדון השמים, השתמש בכלי ביתו במשתה, ושיבח אלוהי כסף, זהב, נחושת, ברזל, עץ ואבן שאינם רואים, שומעים או יודעים. לעומת זאת לא כיבד את האלוהים שבידו נשמתו ושכל דרכיו שלו.",
+    "לכן נשלחה מלפני האל כף היד, והכתב נרשם.",
+    "זהו הכתב שנרשם: ״מנא, מנא, תקל ופרסין״. לא ברור אם החכמים לא קראו אותו מפני שנכתב בכתב עברי, בכתב אחר, בסמלים או בסדר שרק דניאל ידע לפענח.",
+    "״מנא״ פירושו שהאל מנה את ימי מלכותו של בלשאצר והשלים אותם.",
+    "״תקל״ פירושו שבלשאצר נשקל במאזניים ונמצא חסר.",
+    "״פרסין״ מרמזת על שני מובנים: מלכותו נפרסה, והיא ניתנה למדי ולפרס.",
+    "בלשאצר ציווה להלביש את דניאל ארגמן, לענוד לו רביד זהב ולהכריז עליו כשליט שליש בממלכה. אף שהיה שיכור ומפוחד, הוא התרשם מאוד מן החכם היהודי.",
+    "באותו לילה נהרג בלשאצר המלך הכשדי. הכיבודים שניתנו לדניאל כבר לא נשאו משמעות ממשית, מפני שבאותו לילה נפלה העיר ובלשאצר נהרג."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "המשתה וחילול כלי המקדש",
+      "title_en": "The Feast and the Desecration of the Temple Vessels",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "בלשאצר עורך משתה גדול, ובהשפעת היין מצווה להביא את כלי המקדש מירושלים. המשתתפים שותים בהם ומשבחים אלוהי מתכת, עץ ואבן.",
+      "summary_en": "Belshazzar holds a great feast and, under the influence of wine, orders the Temple vessels from Jerusalem to be brought. The participants drink from them and praise gods of metal, wood, and stone.",
+      "image_prompt": "A grand ancient banquet hall with a king and nobles drinking from sacred golden vessels, musicians and guests in the background, solemn dramatic lighting, no modern objects"
+    },
+    {
+      "title": "היד הכותבת ובהלת המלך",
+      "title_en": "The Writing Hand and the King’s Terror",
+      "start_verse": 5,
+      "end_verse": 9,
+      "summary": "כף יד מופיעה וכותבת על קיר ההיכל. המלך נבהל, מזמן את חכמי בבל ומציע גמול גדול, אך איש מהם אינו מסוגל לקרוא את הכתב או לפרשו.",
+      "summary_en": "A hand appears and writes on the palace wall. The king is terrified, summons Babylon’s wise men, and offers a great reward, but none can read or interpret the writing.",
+      "image_prompt": "A mysterious luminous hand writing on a palace wall before a terrified king, nobles recoiling, a large lamp illuminating the inscription, ancient Near Eastern setting"
+    },
+    {
+      "title": "עצת המלכה והבאת דניאל",
+      "title_en": "The Queen’s Advice and Daniel Is Summoned",
+      "start_verse": 10,
+      "end_verse": 17,
+      "summary": "המלכה מזכירה את דניאל, שבו רוח וחכמה מיוחדות, וממליצה לקרוא לו. דניאל מובא לפני בלשאצר, שמציע לו כבוד ומעמד, אך דניאל מודיע שאינו מעוניין במתנות.",
+      "summary_en": "The queen remembers Daniel, who possesses an exceptional spirit and wisdom, and recommends calling him. Daniel is brought before Belshazzar, who offers him honor and rank, but Daniel declares that he is not interested in the gifts.",
+      "image_prompt": "A composed elderly Daniel standing before a troubled king, a dignified queen advising from nearby, royal court interior, ancient Babylonian atmosphere"
+    },
+    {
+      "title": "נאום דניאל והאשמת בלשאצר",
+      "title_en": "Daniel’s Rebuke of Belshazzar",
+      "start_verse": 18,
+      "end_verse": 24,
+      "summary": "דניאל מזכיר את גדולתו ונפילתו של נבוכדנצר, ואת הלקח שהיה על בלשאצר ללמוד. בלשאצר לא השפיל את לבו, חילל את כלי המקדש ושיבח אלילים, ולכן נשלחה היד שכתבה את הכתב.",
+      "summary_en": "Daniel recalls Nebuchadnezzar’s greatness and downfall, and the lesson Belshazzar should have learned. Belshazzar did not humble himself, desecrated the Temple vessels, and praised idols, so the hand was sent to write the message.",
+      "image_prompt": "Daniel solemnly confronting a proud king beside the sacred vessels, symbolic contrast between heavenly authority and lifeless idols, dramatic palace lighting"
+    },
+    {
+      "title": "פירוש הכתב וסופו של בלשאצר",
+      "title_en": "The Interpretation and Belshazzar’s End",
+      "start_verse": 25,
+      "end_verse": 30,
+      "summary": "דניאל מפרש את המילים: מלכות בלשאצר נמנתה והושלמה, הוא נמצא חסר, ומלכותו תתחלק ותינתן למדי ולפרס. אף שבלשאצר מעניק לדניאל כבוד, באותו לילה הוא נהרג והעיר נופלת.",
+      "summary_en": "Daniel interprets the words: Belshazzar’s kingdom has been counted and completed, he has been found lacking, and his kingdom will be divided and given to the Medes and Persians. Although Belshazzar honors Daniel, he is killed that same night and the city falls.",
+      "image_prompt": "Daniel interpreting mysterious writing before the king, royal insignia being placed on Daniel, while a dark night and distant turmoil suggest the imminent fall of the city"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 9.04,
+      "usfm": "DAN.5.1"
+    },
+    {
+      "start": 9.04,
+      "end": 23.4,
+      "usfm": "DAN.5.2"
+    },
+    {
+      "start": 23.4,
+      "end": 33.66,
+      "usfm": "DAN.5.3"
+    },
+    {
+      "start": 33.66,
+      "end": 41.4,
+      "usfm": "DAN.5.4"
+    },
+    {
+      "start": 41.4,
+      "end": 53.78,
+      "usfm": "DAN.5.5"
+    },
+    {
+      "start": 53.78,
+      "end": 63.78,
+      "usfm": "DAN.5.6"
+    },
+    {
+      "start": 63.78,
+      "end": 83.92,
+      "usfm": "DAN.5.7"
+    },
+    {
+      "start": 83.92,
+      "end": 90.78,
+      "usfm": "DAN.5.8"
+    },
+    {
+      "start": 90.78,
+      "end": 98.16,
+      "usfm": "DAN.5.9"
+    },
+    {
+      "start": 98.16,
+      "end": 111.68,
+      "usfm": "DAN.5.10"
+    },
+    {
+      "start": 111.68,
+      "end": 130.1,
+      "usfm": "DAN.5.11"
+    },
+    {
+      "start": 130.1,
+      "end": 148.54,
+      "usfm": "DAN.5.12"
+    },
+    {
+      "start": 148.54,
+      "end": 161.0,
+      "usfm": "DAN.5.13"
+    },
+    {
+      "start": 161.0,
+      "end": 169.94,
+      "usfm": "DAN.5.14"
+    },
+    {
+      "start": 169.94,
+      "end": 182.68,
+      "usfm": "DAN.5.15"
+    },
+    {
+      "start": 182.68,
+      "end": 201.26,
+      "usfm": "DAN.5.16"
+    },
+    {
+      "start": 201.26,
+      "end": 214.44,
+      "usfm": "DAN.5.17"
+    },
+    {
+      "start": 214.44,
+      "end": 222.58,
+      "usfm": "DAN.5.18"
+    },
+    {
+      "start": 222.58,
+      "end": 236.22,
+      "usfm": "DAN.5.19"
+    },
+    {
+      "start": 236.22,
+      "end": 247.6,
+      "usfm": "DAN.5.20"
+    },
+    {
+      "start": 247.6,
+      "end": 268.2,
+      "usfm": "DAN.5.21"
+    },
+    {
+      "start": 268.2,
+      "end": 276.12,
+      "usfm": "DAN.5.22"
+    },
+    {
+      "start": 276.12,
+      "end": 307.44,
+      "usfm": "DAN.5.23"
+    },
+    {
+      "start": 307.44,
+      "end": 312.66,
+      "usfm": "DAN.5.24"
+    },
+    {
+      "start": 312.66,
+      "end": 321.16,
+      "usfm": "DAN.5.25"
+    },
+    {
+      "start": 321.16,
+      "end": 328.8,
+      "usfm": "DAN.5.26"
+    },
+    {
+      "start": 328.8,
+      "end": 335.04,
+      "usfm": "DAN.5.27"
+    },
+    {
+      "start": 335.04,
+      "end": 341.14,
+      "usfm": "DAN.5.28"
+    },
+    {
+      "start": 341.14,
+      "end": 354.84,
+      "usfm": "DAN.5.29"
+    },
+    {
+      "start": 354.84,
+      "end": 359.9,
+      "usfm": "DAN.5.30"
+    },
+    {
+      "start": 359.9,
+      "end": 375.88,
+      "usfm": "DAN.5.31"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    9.04,
+    23.4,
+    33.66,
+    41.4,
+    53.78,
+    63.78,
+    83.92,
+    90.78,
+    98.16,
+    111.68,
+    130.1,
+    148.54,
+    161.0,
+    169.94,
+    182.68,
+    201.26,
+    214.44,
+    222.58,
+    236.22,
+    247.6,
+    268.2,
+    276.12,
+    307.44,
+    312.66,
+    321.16,
+    328.8,
+    335.04,
+    341.14,
+    354.84,
+    359.9,
+    375.88
+  ],
+  "times_en_usfm": [
+    "DAN.5.1",
+    "DAN.5.2",
+    "DAN.5.3",
+    "DAN.5.4",
+    "DAN.5.5",
+    "DAN.5.6",
+    "DAN.5.7",
+    "DAN.5.8",
+    "DAN.5.9",
+    "DAN.5.10",
+    "DAN.5.11",
+    "DAN.5.12",
+    "DAN.5.13",
+    "DAN.5.14",
+    "DAN.5.15",
+    "DAN.5.16",
+    "DAN.5.17",
+    "DAN.5.18",
+    "DAN.5.19",
+    "DAN.5.20",
+    "DAN.5.21",
+    "DAN.5.22",
+    "DAN.5.23",
+    "DAN.5.24",
+    "DAN.5.25",
+    "DAN.5.26",
+    "DAN.5.27",
+    "DAN.5.28",
+    "DAN.5.29",
+    "DAN.5.30",
+    "DAN.5.31"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? בלשאצר ערך משתה גדול לאלף מאנשיו, ובמהלך המשתה שתה יין לעיני כולם.",
+      "text_he": "הידעת? בלשאצר ערך משתה גדול לאלף מאנשיו, ובמהלך המשתה שתה יין לעיני כולם.",
+      "text_en": "Did you know? Belshazzar held a great feast for a thousand of his nobles, and during the feast he drank wine in front of them all."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? בלשאצר ציווה להביא את כלי הזהב והכסף שנלקחו מבית המקדש בירושלים, כדי שהמלך, שריו ונשותיו ישתו בהם.",
+      "text_he": "הידעת? בלשאצר ציווה להביא את כלי הזהב והכסף שנלקחו מבית המקדש בירושלים, כדי שהמלך, שריו ונשותיו ישתו בהם.",
+      "text_en": "Did you know? Belshazzar ordered the gold and silver vessels taken from the temple in Jerusalem to be brought, so that the king, his nobles, and his wives could drink from them."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? המשתתפים במשתה שיבחו אלילים עשויים זהב, כסף, נחושת, ברזל, עץ ואבן — אך לא את האלוהים שבידו נשמתם ודרכיהם.",
+      "text_he": "הידעת? המשתתפים במשתה שיבחו אלילים עשויים זהב, כסף, נחושת, ברזל, עץ ואבן — אך לא את האלוהים שבידו נשמתם ודרכיהם.",
+      "text_en": "Did you know? The guests at the feast praised idols made of gold, silver, bronze, iron, wood, and stone—but not the God who held their lives and all their ways in his hand."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? באותה שעה הופיעו אצבעות של יד אדם וכתבו על קיר ההיכל מול המנורה, ובלשאצר ראה את היד הכותבת ונבהל.",
+      "text_he": "הידעת? באותה שעה הופיעו אצבעות של יד אדם וכתבו על קיר ההיכל מול המנורה, ובלשאצר ראה את היד הכותבת ונבהל.",
+      "text_en": "Did you know? At that very moment, the fingers of a human hand appeared and wrote on the wall of the palace opposite the lampstand. Belshazzar saw the writing hand and was terrified."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? המלך הבטיח למי שיקרא את הכתב ויפרש אותו לבוש ארגמן, ענק זהב ומעמד של שליט שלישי בממלכה.",
+      "text_he": "הידעת? המלך הבטיח למי שיקרא את הכתב ויפרש אותו לבוש ארגמן, ענק זהב ומעמד של שליט שלישי בממלכה.",
+      "text_en": "Did you know? The king promised that whoever could read the writing and explain it would be dressed in purple, receive a gold chain, and be made the third-highest ruler in the kingdom."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? המלכה הזכירה לבלשאצר את דניאל, שהיה ידוע בחכמה, בתבונה וברוח מיוחדת, והמליצה להביאו לפני המלך.",
+      "text_he": "הידעת? המלכה הזכירה לבלשאצר את דניאל, שהיה ידוע בחכמה, בתבונה וברוח מיוחדת, והמליצה להביאו לפני המלך.",
+      "text_en": "Did you know? The queen reminded Belshazzar about Daniel, who was known for his wisdom, understanding, and exceptional spirit, and recommended that he be brought before the king."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? דניאל הודיע לבלשאצר שאינו מעוניין במתנות ובכבוד שהמלך הציע לו; הוא הסכים לקרוא את הכתב ולפרש אותו בלבד.",
+      "text_he": "הידעת? דניאל הודיע לבלשאצר שאינו מעוניין במתנות ובכבוד שהמלך הציע לו; הוא הסכים לקרוא את הכתב ולפרש אותו בלבד.",
+      "text_en": "Did you know? Daniel told Belshazzar that he was not interested in the gifts and honors the king offered him; he agreed only to read the writing and explain it."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? דניאל האשים את בלשאצר בכך שידע את כל מה שאירע לנבוכדנצר, אך בכל זאת לא השפיל את לבו.",
+      "text_he": "הידעת? דניאל האשים את בלשאצר בכך שידע את כל מה שאירע לנבוכדנצר, אך בכל זאת לא השפיל את לבו.",
+      "text_en": "Did you know? Daniel accused Belshazzar of knowing everything that had happened to Nebuchadnezzar, yet still refusing to humble himself."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? הכתב שעל הקיר כלל שלוש מילים: \"מנא, מנא, תקֵל ופרסין\". דניאל פירש שמלכות בלשאצר נמנתה והושלמה, שהוא נמצא חסר, ושמלכותו תתחלק ותינתן למדי ולפרס.",
+      "text_he": "הידעת? הכתב שעל הקיר כלל שלוש מילים: \"מנא, מנא, תקֵל ופרסין\". דניאל פירש שמלכות בלשאצר נמנתה והושלמה, שהוא נמצא חסר, ושמלכותו תתחלק ותינתן למדי ולפרס.",
+      "text_en": "Did you know? The writing on the wall consisted of three words: “Mene, Mene, Tekel, and Parsin.” Daniel explained that Belshazzar’s kingdom had been counted and brought to an end, that he had been weighed and found wanting, and that his kingdom would be divided and given to the Medes and Persians."
+    },
+    {
+      "verse": 30,
+      "text": "הידעת? אף שבלשאצר העניק לדניאל כבוד ומעמד, באותו לילה עצמו נהרג בלשאצר מלך כשדים.",
+      "text_he": "הידעת? אף שבלשאצר העניק לדניאל כבוד ומעמד, באותו לילה עצמו נהרג בלשאצר מלך כשדים.",
+      "text_en": "Did you know? Although Belshazzar honored Daniel and gave him a high position, that very night Belshazzar, king of the Chaldeans, was killed."
+    }
+  ]
+}
