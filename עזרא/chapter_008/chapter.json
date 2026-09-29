@@ -1,0 +1,636 @@
+{
+  "book": "Ezra",
+  "book_he": "עזרא",
+  "book_chapters": 10,
+  "chapter": 8,
+  "title": "עזרא פרק 8",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35a08.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35a08.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EZR/8-8d15ca48fd72a731aefc97f7592ff2b2.mp3?version_id=1",
+  "verses": [
+    "וְאֵלֶּה רָאשֵׁי אֲבֹתֵיהֶם, וְהִתְיַחְשָׂם: הָעֹלִים עִמִּי, בְּמַלְכוּת אַרְתַּחְשַׁסְתְּא הַמֶּלֶךְ--מִבָּבֶל.",
+    "מִבְּנֵי פִינְחָס גֵּרְשֹׁם, {ס} מִבְּנֵי אִיתָמָר דָּנִיֵּאל; {ס} מִבְּנֵי דָוִיד, חַטּוּשׁ.",
+    "מִבְּנֵי שְׁכַנְיָה, {ס} מִבְּנֵי פַרְעֹשׁ זְכַרְיָה; וְעִמּוֹ הִתְיַחֵשׂ לִזְכָרִים, מֵאָה וַחֲמִשִּׁים.",
+    "מִבְּנֵי פַּחַת מוֹאָב, אֶלְיְהוֹעֵינַי בֶּן-זְרַחְיָה; וְעִמּוֹ, מָאתַיִם הַזְּכָרִים.",
+    "מִבְּנֵי שְׁכַנְיָה, בֶּן-יַחֲזִיאֵל; וְעִמּוֹ, שְׁלֹשׁ מֵאוֹת הַזְּכָרִים.",
+    "וּמִבְּנֵי עָדִין, עֶבֶד בֶּן-יוֹנָתָן; וְעִמּוֹ, חֲמִשִּׁים הַזְּכָרִים.",
+    "וּמִבְּנֵי עֵילָם, יְשַׁעְיָה בֶּן-עֲתַלְיָה; וְעִמּוֹ, שִׁבְעִים הַזְּכָרִים.",
+    "וּמִבְּנֵי שְׁפַטְיָה, זְבַדְיָה בֶּן-מִיכָאֵל; וְעִמּוֹ, שְׁמֹנִים הַזְּכָרִים.",
+    "מִבְּנֵי יוֹאָב, עֹבַדְיָה בֶּן-יְחִיאֵל; וְעִמּוֹ, מָאתַיִם וּשְׁמֹנָה עָשָׂר הַזְּכָרִים.",
+    "וּמִבְּנֵי שְׁלוֹמִית, בֶּן-יוֹסִפְיָה; וְעִמּוֹ, מֵאָה וְשִׁשִּׁים הַזְּכָרִים.",
+    "וּמִבְּנֵי בֵבַי, זְכַרְיָה בֶּן-בֵּבָי; וְעִמּוֹ, עֶשְׂרִים וּשְׁמֹנָה הַזְּכָרִים.",
+    "וּמִבְּנֵי עַזְגָּד, יוֹחָנָן בֶּן-הַקָּטָן; וְעִמּוֹ, מֵאָה וַעֲשָׂרָה הַזְּכָרִים.",
+    "וּמִבְּנֵי אֲדֹנִיקָם, אַחֲרֹנִים--וְאֵלֶּה שְׁמוֹתָם, אֱלִיפֶלֶט יְעִיאֵל וּשְׁמַעְיָה; וְעִמָּהֶם, שִׁשִּׁים הַזְּכָרִים.",
+    "וּמִבְּנֵי בִגְוַי, עוּתַי וזבוד וְזַכּוּר ; וְעִמּוֹ, שִׁבְעִים הַזְּכָרִים.",
+    "וָאֶקְבְּצֵם, אֶל-הַנָּהָר הַבָּא אֶל-אַהֲוָא, וַנַּחֲנֶה שָׁם, יָמִים שְׁלֹשָׁה; וָאָבִינָה בָעָם וּבַכֹּהֲנִים, וּמִבְּנֵי לֵוִי לֹא-מָצָאתִי שָׁם.",
+    "וָאֶשְׁלְחָה לֶאֱלִיעֶזֶר לַאֲרִיאֵל לִשְׁמַעְיָה וּלְאֶלְנָתָן וּלְיָרִיב וּלְאֶלְנָתָן וּלְנָתָן, וְלִזְכַרְיָה וְלִמְשֻׁלָּם--רָאשִׁים; וּלְיוֹיָרִיב וּלְאֶלְנָתָן, מְבִינִים.",
+    "ואוצאה וָאֲצַוֶּה אוֹתָם עַל-אִדּוֹ הָרֹאשׁ, בְּכָסִפְיָא הַמָּקוֹם; וָאָשִׂימָה בְּפִיהֶם דְּבָרִים לְדַבֵּר אֶל-אִדּוֹ אָחִיו הנתונים הַנְּתִינִים , בְּכָסִפְיָא הַמָּקוֹם--לְהָבִיא-לָנוּ מְשָׁרְתִים, לְבֵית אֱלֹהֵינוּ.",
+    "וַיָּבִיאּוּ לָנוּ כְּיַד-אֱלֹהֵינוּ הַטּוֹבָה עָלֵינוּ, אִישׁ שֶׂכֶל--מִבְּנֵי מַחְלִי, בֶּן-לֵוִי בֶּן-יִשְׂרָאֵל; וְשֵׁרֵבְיָה וּבָנָיו וְאֶחָיו, שְׁמֹנָה עָשָׂר.",
+    "וְאֶת-חֲשַׁבְיָה--וְאִתּוֹ יְשַׁעְיָה, מִבְּנֵי מְרָרִי: אֶחָיו וּבְנֵיהֶם, עֶשְׂרִים.",
+    "וּמִן-הַנְּתִינִים, שֶׁנָּתַן דָּוִיד וְהַשָּׂרִים לַעֲבֹדַת הַלְוִיִּם--נְתִינִים, מָאתַיִם וְעֶשְׂרִים: כֻּלָּם, נִקְּבוּ בְשֵׁמוֹת.",
+    "וָאֶקְרָא שָׁם צוֹם עַל-הַנָּהָר אַהֲוָא, לְהִתְעַנּוֹת לִפְנֵי אֱלֹהֵינוּ--לְבַקֵּשׁ מִמֶּנּוּ דֶּרֶךְ יְשָׁרָה, לָנוּ וּלְטַפֵּנוּ וּלְכָל-רְכוּשֵׁנוּ.",
+    "כִּי בֹשְׁתִּי, לִשְׁאוֹל מִן-הַמֶּלֶךְ חַיִל וּפָרָשִׁים--לְעָזְרֵנוּ מֵאוֹיֵב, בַּדָּרֶךְ: כִּי-אָמַרְנוּ לַמֶּלֶךְ לֵאמֹר, יַד-אֱלֹהֵינוּ עַל-כָּל-מְבַקְשָׁיו לְטוֹבָה, וְעֻזּוֹ וְאַפּוֹ, עַל כָּל-עֹזְבָיו.",
+    "וַנָּצוּמָה וַנְּבַקְשָׁה מֵאֱלֹהֵינוּ, עַל-זֹאת; וַיֵּעָתֵר, לָנוּ.",
+    "וָאַבְדִּילָה מִשָּׂרֵי הַכֹּהֲנִים, שְׁנֵים עָשָׂר--לְשֵׁרֵבְיָה חֲשַׁבְיָה, וְעִמָּהֶם מֵאֲחֵיהֶם עֲשָׂרָה.",
+    "ואשקולה וָאֶשְׁקֳלָה לָהֶם, אֶת-הַכֶּסֶף וְאֶת-הַזָּהָב וְאֶת-הַכֵּלִים--תְּרוּמַת בֵּית-אֱלֹהֵינוּ, הַהֵרִימוּ הַמֶּלֶךְ וְיֹעֲצָיו וְשָׂרָיו, וְכָל-יִשְׂרָאֵל, הַנִּמְצָאִים.",
+    "וָאֶשְׁקְלָה עַל-יָדָם כֶּסֶף, כִּכָּרִים שֵׁשׁ-מֵאוֹת וַחֲמִשִּׁים, וּכְלֵי-כֶסֶף מֵאָה, לְכִכָּרִים; זָהָב, מֵאָה כִכָּר.",
+    "וּכְפֹרֵי זָהָב עֶשְׂרִים, לַאֲדַרְכֹנִים אָלֶף; וּכְלֵי נְחֹשֶׁת מֻצְהָב טוֹבָה, שְׁנַיִם--חֲמוּדֹת, כַּזָּהָב.",
+    "וָאֹמְרָה אֲלֵהֶם, אַתֶּם קֹדֶשׁ לַיהוָה, וְהַכֵּלִים, קֹדֶשׁ; וְהַכֶּסֶף וְהַזָּהָב נְדָבָה, לַיהוָה אֱלֹהֵי אֲבֹתֵיכֶם.",
+    "שִׁקְדוּ וְשִׁמְרוּ, עַד-תִּשְׁקְלוּ לִפְנֵי שָׂרֵי הַכֹּהֲנִים וְהַלְוִיִּם וְשָׂרֵי-הָאָבוֹת לְיִשְׂרָאֵל--בִּירוּשָׁלִָם: הַלִּשְׁכוֹת, בֵּית יְהוָה.",
+    "וְקִבְּלוּ הַכֹּהֲנִים וְהַלְוִיִּם, מִשְׁקַל הַכֶּסֶף וְהַזָּהָב וְהַכֵּלִים--לְהָבִיא לִירוּשָׁלִַם, לְבֵית אֱלֹהֵינוּ.",
+    "וַנִּסְּעָה מִנְּהַר אַהֲוָא, בִּשְׁנֵים עָשָׂר לַחֹדֶשׁ הָרִאשׁוֹן--לָלֶכֶת, יְרוּשָׁלִָם; וְיַד-אֱלֹהֵינוּ, הָיְתָה עָלֵינוּ, וַיַּצִּילֵנוּ, מִכַּף אוֹיֵב וְאוֹרֵב עַל-הַדָּרֶךְ.",
+    "וַנָּבוֹא, יְרוּשָׁלִָם; וַנֵּשֶׁב שָׁם, יָמִים שְׁלֹשָׁה.",
+    "וּבַיּוֹם הָרְבִיעִי נִשְׁקַל הַכֶּסֶף וְהַזָּהָב וְהַכֵּלִים בְּבֵית אֱלֹהֵינוּ, עַל יַד-מְרֵמוֹת בֶּן-אוּרִיָּה הַכֹּהֵן, וְעִמּוֹ, אֶלְעָזָר בֶּן-פִּינְחָס; וְעִמָּהֶם יוֹזָבָד בֶּן-יֵשׁוּעַ, וְנוֹעַדְיָה בֶן-בִּנּוּי--הַלְוִיִּם.",
+    "בְּמִסְפָּר בְּמִשְׁקָל, לַכֹּל; וַיִּכָּתֵב כָּל-הַמִּשְׁקָל, בָּעֵת הַהִיא.",
+    "הַבָּאִים מֵהַשְּׁבִי בְנֵי-הַגּוֹלָה הִקְרִיבוּ עֹלוֹת לֵאלֹהֵי יִשְׂרָאֵל, פָּרִים שְׁנֵים-עָשָׂר עַל-כָּל-יִשְׂרָאֵל אֵילִים תִּשְׁעִים וְשִׁשָּׁה כְּבָשִׂים שִׁבְעִים וְשִׁבְעָה, צְפִירֵי חַטָּאת, שְׁנֵים עָשָׂר: הַכֹּל, עוֹלָה לַיהוָה.",
+    "וַיִּתְּנוּ אֶת-דָּתֵי הַמֶּלֶךְ, לַאֲחַשְׁדַּרְפְּנֵי הַמֶּלֶךְ, וּפַחֲווֹת, עֵבֶר הַנָּהָר; וְנִשְּׂאוּ אֶת-הָעָם, וְאֶת-בֵּית הָאֱלֹהִים."
+  ],
+  "english": [
+    "These\nare now the chief of their fathers, and\nthis is\n the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.",
+    "Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.",
+    "Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.",
+    "Of the sons of Pahath-moab; Elihoenai the son of Zerahiah, and with him two hundred males.",
+    "Of the sons of Shechaniah; the son of Jahaziel, and with him three hundred males.",
+    "Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males.",
+    "And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.",
+    "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males.",
+    "Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males.",
+    "And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males.",
+    "And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males.",
+    "And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males.",
+    "And of the last sons of Adonikam, whose names\nare these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.",
+    "Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.",
+    "And I gathered them together to the river than runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.",
+    "Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.",
+    "And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo,\nand to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.",
+    "And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;",
+    "And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;",
+    "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.",
+    "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.",
+    "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God\nis upon all them for good that seek him; but his power and his wrath\nis against all them that forsake him.",
+    "So we fasted and besought our God for this: and he was intreated of us.",
+    "Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,",
+    "And weighed unto them the silver, and the gold, and the vessels,\neven the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel\nthere present, had offered:",
+    "I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents,\nand of gold an hundred talents;",
+    "Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold.",
+    "And I said unto them, Ye\nare holy unto the LORD; the vessels\nare holy also; and the silver and the gold\nare a freewill offering unto the LORD God of your fathers.",
+    "Watch ye, and keep\nthem, until ye weigh\nthem before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD.",
+    "So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring\nthem to Jerusalem unto the house of our God.",
+    "Then we departed from the river of Ahava on the twelfth\nday\n of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.",
+    "And we came to Jerusalem, and abode there three days.",
+    "Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him\nwas Eleazar the son of Phinehas; and with them\nwas Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;",
+    "By number\nand by weight of every one: and all the weight was written at that time.",
+    "Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats\nfor a sin offering: all\nthis was\n a burnt offering unto the LORD.",
+    "And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God."
+  ],
+  "steinsaltz": [
+    "וְאֵלֶּה רָאשֵׁי אֲבֹתֵיהֶם וְהִתְיַחְשָׂם, והמתייחסים אליהם, מי שנמנו עמהם מהָעֹלִים עִמִּי בְּמַלְכוּת אַרְתַּחְשַׁסְתְּא הַמֶּלֶךְ מִבָּבֶל:",
+    "מִבְּנֵי, מצאצאי פִינְחָס בן אלעזר בן אהרן הכהן עלה ראש-אב ושמו גֵּרְשֹׁם; מִבְּנֵי אִיתָמָר בן אהרן הגיע דָּנִיֵּאל; מִבְּנֵי דָוִיד – חַטּוּשׁ;",
+    "מִבְּנֵי שְׁכַנְיָה, אדם מפורסם, אולי מצאצאי זרֻבבל שנזכר בספר דברי הימים, מִבְּנֵי פַרְעֹשׁ, שהיה ראש ענף במשפחת שכניה, בא זְכַרְיָה, וְעִמּוֹ הִתְיַחֵשׂ לִזְכָרִים, הנמנים עמו מהזכרים – מֵאָה וַחֲמִשִּׁים איש;",
+    "מִבְּנֵי פַּחַת מוֹאָב – אֶלְיְהוֹעֵינַי בֶּן־זְרַחְיָה, וְעִמּוֹ מָאתַיִם איש, הַזְּכָרִים;",
+    "מִבְּנֵי שְׁכַנְיָה – בֶּן־יַחֲזִיאֵל, וְעִמּוֹ שְׁלֹשׁ מֵאוֹת הַזְּכָרִים;",
+    "וּמִבְּנֵי עָדִין בא איש ששמו עֶבֶד בֶּן־יוֹנָתָן, וְעִמּוֹ חֲמִשִּׁים הַזְּכָרִים;",
+    "וּמִבְּנֵי עֵילָם – יְשַׁעְיָה בֶּן־עֲתַלְיָה, וְעִמּוֹ שִׁבְעִים הַזְּכָרִים;",
+    "וּמִבְּנֵי שְׁפַטְיָה – זְבַדְיָה בֶּן־מִיכָאֵל, וְעִמּוֹ שְׁמֹנִים הַזְּכָרִים;",
+    "מִבְּנֵי יוֹאָב – עֹבַדְיָה בֶּן־יְחִיאֵל, וְעִמּוֹ מָאתַיִם וּשְׁמֹנָה עָשָׂר הַזְּכָרִים;",
+    "וּמִבְּנֵי שְׁלוֹמִית – בֶּן־יוֹסִפְיָה, וְעִמּוֹ מֵאָה וְשִׁשִּׁים הַזְּכָרִים;",
+    "וּמִבְּנֵי בֵבַי – זְכַרְיָה בֶּן־בֵּבָי, וְעִמּוֹ עֶשְׂרִים וּשְׁמֹנָה הַזְּכָרִים;",
+    "וּמִבְּנֵי עַזְגָּד – יוֹחָנָן בֶּן־הַקָּטָן, וְעִמּוֹ מֵאָה וַעֲשָׂרָה הַזְּכָרִים;",
+    "וּמִבְּנֵי אֲדֹנִיקָם, האַחֲרֹנִים ממשפחה זו שנשארו בגולה, כי לפניהם הגיעו מאות רבות מבני אדֹניקם, וְאֵלֶּה שְׁמוֹתָם: אֱלִיפֶלֶט, יְעִיאֵל וּשְׁמַעְיָה, וְעִמָּהֶם שִׁשִּׁים הַזְּכָרִים;",
+    "וּמִבְּנֵי בִגְוַי – עוּתַי וְזַכּוּר, וְעִמָּהֶם שִׁבְעִים הַזְּכָרִים. בסך הכול מנויים כאן כ-1500 זכרים שאפשר להניח שרובם באו עם משפחותיהם.",
+    "העולים יצאו ממקומות שונים, וצריך היה לאסוף אותם למחנה שייסע יחד. וָאֶקְבְּצֵם אֶל־הַנָּהָר הַבָּא, הזורם אֶל־אַהֲוָא, שם מקום או נהר גדול יותר. באותם דורות כבר היו תעלות מים מלאכותיות כה גדולות שנחשבו לנהרות בפני עצמם. תעלות עצומות כאלה חיברו בין הפרת והחִדקל או שימשו להשקיה. וַנַּחֲנֶה שָׁם יָמִים שְׁלֹשָׁה. וָאָבִינָה, בדקתי והבחנתי בָעָם וּבַכֹּהֲנִים שבנאספים, ואולם מִבְּנֵי לֵוִי לֹא־מָצָאתִי שָׁם.",
+    "וָאֶשְׁלְחָה לֶאֱלִיעֶזֶר, לַאֲרִיאֵל, לִשְׁמַעְיָה וּלְאֶלְנָתָן וּלְיָרִיב וּלְאֶלְנָתָן וּלְנָתָן וְלִזְכַרְיָה וְלִמְשֻׁלָּם, את אליעזר, את אריאל וכו' הרָאשִׁים, וּלְיוֹיָרִיב וּלְאֶלְנָתָן, ואת יויריב ואלנתן שהיו מְבִינִים, חכמים,",
+    "וָאֲצַוֶּה, מיניתי אוֹתָם עַל, לבוא אל אִדּוֹ הָרֹאשׁ, המנהיג שבְּכָסִפְיָא הַמָּקוֹם, וָאָשִׂימָה בְּפִיהֶם דְּבָרִים לְדַבֵּר אֶל־אִדּוֹ ואָחִיו הַנְּתִינִים, המשרתים בעבודת הקודש בְּכָסִפְיָא הַמָּקוֹם, לְהָבִיא־לָנוּ מְשָׁרְתִים, לוויים ואחרים לְבֵית אֱלֹהֵינוּ. עזרא ביקש שהם יביאו לו אנשים הנחוצים לעבודות שירות במקדש.",
+    "וַיָּבִיאּוּ לָנוּ כְּיַד, עזרת אֱלֹהֵינוּ הַטּוֹבָה עָלֵינוּ אִישׁ שֶׂכֶל, אנשים נבונים ומוצלחים מִבְּנֵי מַחְלִי בן מררי בֶּן־לֵוִי בֶּן־יִשְׂרָאֵל, יעקב, וְשֵׁרֵבְיָה וּבָנָיו וְאֶחָיו – שְׁמֹנָה עָשָׂר איש,",
+    "וְאֶת־חֲשַׁבְיָה, וְאִתּוֹ יְשַׁעְיָה מִבְּנֵי מְרָרִי ואֶחָיו וּבְנֵיהֶם – עֶשְׂרִים. אלו הלויים שהצטרפו אלינו.",
+    "וּמִן־הַנְּתִינִים שֶׁנָּתַן דָּוִיד לשרת במקדש, וְהַשָּׂרִים, הממונים, או: אותם הסרים אל משמעתך לַעֲבֹדַת הַלְוִיִּם – נְתִינִים מָאתַיִם וְעֶשְׂרִים, כֻּלָּם נִקְּבוּ, פורשו בְשֵׁמוֹת. היו רשימות מפורטות של כל הנתינים העולים.",
+    "וָאֶקְרָא שָׁם צוֹם עַל, ליד הַנָּהָר אַהֲוָא לפני שיצאנו לדרך, לְהִתְעַנּוֹת לִפְנֵי אֱלֹהֵינוּ ולְבַקֵּשׁ מִמֶּנּוּ דֶּרֶךְ יְשָׁרָה, שדרכנו תצלח בקלות ללא תקלות, לָנוּ וּלְטַפֵּנוּ וּלְכָל־רְכוּשֵׁנוּ, שכן זו הייתה קבוצה אזרחית לא גדולה ביותר הנוסעת לארץ ישראל, בידה כסף, זהב וכלים יקרים. בדרך כלל כאשר השלטון המרכזי חזק ויציב, מתמעטים שודדי הדרכים והעיכובים. בתקופה זו מָלך מֶלך גדול, ובכל זאת החשש היה קיים, משום שלא הייתה לה הגנה ראויה –",
+    "כִּי בֹשְׁתִּי לִשְׁאוֹל, התביישתי לבקש מִן־הַמֶּלֶךְ חַיִל וּפָרָשִׁים לְעָזְרֵנוּ מֵאוֹיֵב בַּדָּרֶךְ, כִּי־אָמַרְנוּ לַמֶּלֶךְ לֵאמֹר: יַד־אֱלֹהֵינוּ עַל־כָּל־מְבַקְשָׁיו לְטוֹבָה, ה' עוזר למי שמתפללים אליו, וְעֻזּוֹ, כוחו וְאַפּוֹ, כעסו יבואו עַל כָּל־עֹזְבָיו ויפגעו בהם. אחרי שאמרתי למלך שה' יסייע לנו, התביישתי לבקש ממנו משמר צבאי לדרך. המלך היה מעוניין לתת כל מה שנדרש, ובוודאי בקלות היה שולח יחידת פרשים לליווי העולים, להגנה עליהם ולהדרכתם, אבל עזרא חשש לבקש זאת.",
+    "על כן – וַנָּצוּמָה וַנְּבַקְשָׁה מֵאֱלֹהֵינוּ עַל־זֹאת, וַיֵּעָתֵר, ה' נענה לָנוּ, וכך עברנו את הדרך בשלום.",
+    "ובעודנו על נהר אהוה אַבְדִּילָה, ייחדתי מִשָּׂרֵי הַכֹּהֲנִים שְׁנֵים עָשָׂר אנשים, ומיניתי אותם לגזברים לפי שעה. התפקיד ניתן לְשֵׁרֵבְיָה, חֲשַׁבְיָה וְעִמָּהֶם מֵאֲחֵיהֶם עוד עֲשָׂרָה.",
+    "וָאֶשְׁקֳלָה, נתתי לָהֶם אֶת־הַכֶּסֶף וְאֶת־הַזָּהָב וְאֶת־הַכֵּלִים, תְּרוּמַת בֵּית־אֱלֹהֵינוּ הַהֵרִימוּ, שתרמו הַמֶּלֶךְ וְיֹעֲצָיו וְשָׂרָיו וְכָל־יִשְׂרָאֵל הַנִּמְצָאִים בבבל. האנשים הללו יהיו אחראים להחזיק את כל הכסף והזהב שקיבלנו במתנה מהמלך ומהאחרים למען בית המקדש.",
+    "וָאֶשְׁקֲלָה, ספרתי עַל־יָדָם כֶּסֶף – כִּכָּרִים שֵׁשׁ־מֵאוֹת וַחֲמִשִּׁים, סכום משמעותי; וּכְלֵי־כֶסֶף – מֵאָה, נוסף לְכִכָּרִים, גושי הכסף; זָהָב – מֵאָה כִכָּר;",
+    "וּכְפֹרֵי זָהָב, מעין ספלים המשמשים לזריקת דם על המזבח לכפרה – עֶשְׂרִים, נוסף לַאֲדַרְכֹנִים, מטבעות זהב פרסיים שמספרם אָלֶף; וּכְלֵי נְחֹשֶׁת מֻצְהָב, מוזהב טוֹבָה היו שְׁנַיִם, חֲמוּדֹת, נאות ויקרות כַּזָּהָב. לא הייתה זו נחושת נקייה לגמרי אלא תערובת של נחושת וחומר אחר, אולי פליז, אבל היא הייתה איכותית ומבהיקה, כך ששני הכלים הללו נראו כמו כלי זהב.",
+    "וָאֹמְרָה אֲלֵהֶם: אַתֶּם קֹדֶשׁ לַה', בהיותכם כהנים, וְהַכֵּלִים קֹדֶשׁ, וְהַכֶּסֶף וְהַזָּהָב נְדָבָה לַה' אֱלֹהֵי אֲבֹתֵיכֶם. לפיכך ראוי שאתם תחזיקו אותם אצלכם.",
+    "שִׁקְדוּ, השגיחו בהתמדה וְשִׁמְרוּ את החפצים היקרים הללו עַד אשר תִּשְׁקְלוּ, תמסרו אותם במניין לִפְנֵי שָׂרֵי הַכֹּהֲנִים וְהַלְוִיִּם וְשָׂרֵי־הָאָבוֹת לְיִשְׂרָאֵל שבִּירוּשָׁלִָם בעבור הַלִּשְׁכוֹת שבבֵית ה'.",
+    "וְקִבְּלוּ, הסכימו ולקחו לרשותם הַכֹּהֲנִים וְהַלְוִיִּם מִשְׁקָל, כובד הַכֶּסֶף וְהַזָּהָב וְהַכֵּלִים כדי לְהָבִיא לִירוּשָׁלִַם לְבֵית אֱלֹהֵינוּ.",
+    "וַנִּסְּעָה מִנְּהַר אַהֲוָא בִּשְׁנֵים עָשָׂר לַחֹדֶשׁ הָרִאשׁוֹן, ניסן לָלֶכֶת אל יְרוּשָׁלִָם. וְיַד אֱלֹהֵינוּ הָיְתָה עָלֵינוּ וַיַּצִּילֵנוּ מִכַּף אוֹיֵב וְאוֹרֵב שעַל־הַדָּרֶךְ.",
+    "וַנָּבוֹא יְרוּשָׁלִָם. וַנֵּשֶׁב שָׁם יָמִים שְׁלֹשָׁה.",
+    "וּבַיּוֹם הָרְבִיעִי נִשְׁקַל הַכֶּסֶף וְהַזָּהָב וְהַכֵּלִים בְּבֵית אֱלֹהֵינוּ עַל יַד־מְרֵמוֹת בֶּן־אוּרִיָּה הַכֹּהֵן, שהיה האחראי בבית המקדש, וְעִמּוֹ אֶלְעָזָר בֶּן־פִּינְחָס, וְעִמָּהֶם יוֹזָבָד בֶּן־יֵשׁוּעַ וְנוֹעַדְיָה בֶן־בִּנּוּי הַלְוִיִּם.",
+    "בְּמִסְפָּר בְּמִשְׁקָל לַכֹּל, מסרנו את מספר כל הכלים והמטבעות ומשקל המתכות, וַיִּכָּתֵב כָּל־הַמִּשְׁקָל בָּעֵת הַהִיא.",
+    "הַבָּאִים מֵהַשְּׁבִי של בְנֵי־הַגּוֹלָה הִקְרִיבוּ עֹלוֹת לֵאלֹהֵי יִשְׂרָאֵל: פָּרִים – שְׁנֵים־עָשָׂר, כמספר שבטי ישראל לכפר עַל־כָּל־יִשְׂרָאֵל; אֵילִים – תִּשְׁעִים וְשִׁשָּׁה, שנים-עשר כפול שמונה; כְּבָשִׂים – שִׁבְעִים וְשִׁבְעָה; צְפִירֵי, שעירי עִזים, תיישים לחַטָּאת – שְׁנֵים עָשָׂר. הַכֹּל עוֹלָה לַה'. כל הקרבנות המיוחדים הללו נשרפו כליל על המזבח כמו קרבן עולה.",
+    "וַיִּתְּנוּ אֶת־דָּתֵי, המכתבים הרשמיים שהכילו את פקודות הַמֶּלֶךְ לַאֲחַשְׁדַּרְפְּנֵי, מושלי הנפות של הַמֶּלֶךְ וּפַחֲווֹת, מושלי מדינות עֵבֶר הַנָּהָר, וְכאשר הם ראו פקודות ישירות מהמלך לקרב את העולים ולתמוך בהם, הם נִשְּׂאוּ, כיבדו אֶת־הָעָם וְאֶת־בֵּית הָאֱלֹהִים. כל השרים והפקידים סייעו להם ודאגו לכל צורכי המקדש."
+  ],
+  "ai_explanation": [
+    "עזרא מציג את ראשי בתי האב ואת ייחוסם של העולים עמו מבבל בימי ארתחשסתא המלך.",
+    "ממשפחת פינחס עלה גרשום, ממשפחת איתמר דניאל, ומצאצאי דוד חטוש.",
+    "שכניה מתואר כאדם מפורסם, ואולי מצאצאי זרובבל. ממשפחת פרעוש, שהייתה ענף במשפחת שכניה, עלה זכריה, ועמו נמנו 150 זכרים.",
+    "ממשפחת פחת מואב עלה אליהועיני בן זרחיה, ועמו 200 זכרים.",
+    "ממשפחת שכניה עלה בן יחזיאל, ועמו 300 זכרים.",
+    "ממשפחת עדין עלה עבד בן יונתן, ועמו 50 זכרים.",
+    "ממשפחת עילם עלה ישעיה בן עתליה, ועמו 70 זכרים.",
+    "ממשפחת שפטיה עלה זבדיה בן מיכאל, ועמו 80 זכרים.",
+    "ממשפחת יואב עלה עובדיה בן יחיאל, ועמו 218 זכרים.",
+    "ממשפחת שלומית עלה בן יוספיה, ועמו 160 זכרים.",
+    "ממשפחת בבי עלה זכריה בן בבי, ועמו 28 זכרים.",
+    "ממשפחת עזגד עלה יוחנן בן הקטן, ועמו 110 זכרים.",
+    "בני אדוניקם היו האחרונים מבני משפחתם שנשארו בגולה, לאחר שרבים מבני המשפחה כבר עלו. שלושת המנהיגים היו אליפלט, יעיאל ושמעיה, ועמהם נמנו 60 זכרים.",
+    "ממשפחת בגוי עלו עותי וזכור, ועמהם 70 זכרים. בסך הכול נמנים כאן כ־1,500 זכרים, וסביר שרובם הגיעו עם משפחותיהם.",
+    "עזרא קיבץ את העולים ליד הנהר שזרם אל אהוא, והם חנו שם שלושה ימים. לאחר שבדק את העם ואת הכוהנים, הבחין שלא נמצא ביניהם אף לוי.",
+    "עזרא שלח אנשים חשובים אל אידו, המנהיג בכספיא, וביקש מהם להביא משרתים לעבודת בית האלוהים. הוא כלל בשליחים גם שני אנשים חכמים ומבינים.",
+    "עזרא מינה את השליחים לפנות אל אידו ואל אחיו הנתינים, משרתי עבודת הקודש בכספיא, וביקש שיביאו לווים ואנשים נוספים הנחוצים לשירות במקדש.",
+    "בעזרת האל הביאו להם אנשים נבונים ומוצלחים ממשפחת מחלי בן מררי, בן לוי בן ישראל. בין הבאים היו שרביה, בניו ואחיו, שמספרם 18.",
+    "נוסף עליהם הגיעו חשביה וישעיה ממשפחת מררי, וכן אחיהם ובניהם, 20 איש בסך הכול. אלה היו הלווים שהצטרפו לעולים.",
+    "לעולים הצטרפו גם 220 נתינים, שמונו בידי דוד והשרים לעבודת הלווים. שמות כולם היו רשומים ומפורטים.",
+    "עזרא הכריז על צום ליד נהר אהוא כדי להתענות לפני האל ולבקש ממנו דרך מוצלחת ובטוחה לעולים, לילדיהם ולרכושם.",
+    "עזרא התבייש לבקש מן המלך חיל ופרשים שיגנו עליהם מפני אויבים בדרך, משום שכבר אמר למלך שיד האל מיטיבה עם מבקשיו ומענישה את עוזביו.",
+    "לכן צמו וביקשו את עזרת האל, והוא נענה להם, והם עברו את הדרך בשלום.",
+    "עזרא בחר שנים עשר אנשים משרי הכוהנים ומינה אותם, לפי שעה, לגזברים. שרביה וחשביה נמנו עליהם, וכן עוד עשרה מאחיהם.",
+    "עזרא מסר להם את הכסף, הזהב והכלים שנועדו לבית האלוהים, תרומות של המלך, יועציו, שריו ושל ישראלים שנמצאו בבבל.",
+    "בידיהם הופקדו 650 כיכרות כסף, מאה כיכרות של כלי כסף ומאה כיכרות זהב.",
+    "נוסף על כך הופקדו בידיהם עשרים כופרי זהב ואלף מטבעות אדרכונִים, וכן שני כלי נחושת איכותיים ומבריקים שנראו כמו זהב. הנחושת הייתה כנראה תערובת, אולי פליז, ולא נחושת טהורה.",
+    "עזרא הזכיר להם שהם קדושים לה', שהכלים קדושים, ושכסף וזהב הם נדבה לה' אלוהי אבותיהם. לכן ראוי שהם ישמרו עליהם.",
+    "הוא ציווה עליהם להשגיח ולשמור על הרכוש עד למסירתו ולשקילתו לפני שרי הכוהנים, הלווים וראשי האבות בירושלים, בלשכות בית המקדש.",
+    "הכוהנים והלווים קיבלו לידיהם את משקל הכסף, הזהב והכלים כדי להביאם לירושלים לבית האלוהים.",
+    "העולים יצאו מנהר אהוא בי״ב בניסן בדרכם לירושלים. יד האל הייתה עליהם, והוא הציל אותם מאויבים ומאורבים בדרך.",
+    "הם הגיעו לירושלים וישבו שם שלושה ימים.",
+    "ביום הרביעי נשקלו הכסף, הזהב והכלים בבית האלוהים. על המסירה פיקחו מרמות בן אוריה הכוהן, אלעזר בן פינחס הכוהן, וכן יוזבד בן ישוע ונועדיה בן בינוי הלווים.",
+    "לכל דבר נרשמו המספר והמשקל, וכל המשקל נכתב באותו הזמן.",
+    "בני הגולה הקריבו עולות לאלוהי ישראל: שנים עשר פרים, 96 אילים, 77 כבשים ו־12 שעירי חטאת. הקרבנות נועדו לכל ישראל, וכולם נחשבו לעולה לה'.",
+    "העולים מסרו את פקודות המלך לאחשדרפנים ולפחה של עבר הנהר. הפקידים כיבדו את העם ואת בית האלוהים וסייעו לצורכי המקדש."
+  ],
+  "ai_explanation_en": [
+    "Ezra presents the heads of the ancestral families and their genealogies among those who came with him from Babylon during the reign of King Artaxerxes.",
+    "From the family of Phinehas came Gershom, from the family of Ithamar came Daniel, and from the descendants of David came Hattush.",
+    "Shecaniah is described as a prominent person, perhaps a descendant of Zerubbabel. From the family of Parosh, a branch of Shecaniah's family, came Zechariah, with 150 males listed with him.",
+    "From the family of Pahath-moab came Eliehoeinai son of Zerahiah, with 200 males.",
+    "From the family of Shecaniah came the son of Jahaziel, with 300 males.",
+    "From the family of Adin came Ebed son of Jonathan, with 50 males.",
+    "From the family of Elam came Jeshaiah son of Athaliah, with 70 males.",
+    "From the family of Shephatiah came Zebadiah son of Michael, with 80 males.",
+    "From the family of Joab came Obadiah son of Jehiel, with 218 males.",
+    "From the family of Shelomith came the son of Josiphiah, with 160 males.",
+    "From the family of Bebai came Zechariah son of Bebai, with 28 males.",
+    "From the family of Azgad came Johanan son of Hakatan, with 110 males.",
+    "The descendants of Adonikam were the last members of their family still remaining in exile, after many of the family had already come. Their three leaders were Eliphelet, Jeuel, and Shemaiah, with 60 males.",
+    "From the family of Bigvai came Uthai and Zaccur, with 70 males. Altogether, about 1,500 males are listed here, and it is reasonable to assume that most came with their families.",
+    "Ezra gathered the travelers beside the river flowing toward Ahava, and they camped there for three days. After examining the people and the priests, he noticed that no Levites were among them.",
+    "Ezra sent important men to Iddo, the leader in Casiphia, asking them to bring servants for the work of the house of God. The messengers included two intelligent and understanding men.",
+    "Ezra appointed the messengers to speak with Iddo and his fellow temple servants in Casiphia, asking them to bring Levites and other people needed for service in the Temple.",
+    "With God's help, they brought capable and intelligent men from the family of Mahli son of Merari, son of Levi, son of Israel. Among them were Sherebiah, his sons, and his brothers, 18 people in all.",
+    "They were joined by Hashabiah and Jeshaiah from the family of Merari, together with their brothers and sons, 20 people in all. These were the Levites who joined the travelers.",
+    "The group was also joined by 220 Nethinim, who had been assigned by David and the officials to assist the Levites. Their names were all recorded in detail.",
+    "Ezra proclaimed a fast beside the Ahava River, so that they could humble themselves before God and ask him for a successful and safe journey for the travelers, their children, and their property.",
+    "Ezra was ashamed to ask the king for soldiers and cavalry to protect them from enemies on the road, because he had already told the king that God's hand benefits those who seek him and punishes those who abandon him.",
+    "Therefore they fasted and asked God for help, and he answered them; they completed the journey safely.",
+    "Ezra selected twelve men from the priestly officials and temporarily appointed them as treasurers. Sherebiah and Hashabiah were among them, along with ten more of their fellow priests.",
+    "Ezra entrusted them with the silver, gold, and vessels intended for the house of God, gifts from the king, his advisers, his officials, and Israelites living in Babylon.",
+    "They were given 650 talents of silver, one hundred talents of silver vessels, and one hundred talents of gold.",
+    "In addition, they received twenty gold bowls and one thousand darics, as well as two fine, shining bronze vessels that looked like gold. The bronze was probably an alloy, perhaps brass, rather than pure bronze.",
+    "Ezra reminded them that they were holy to the Lord, that the vessels were holy, and that the silver and gold were an offering to the Lord, the God of their ancestors. They therefore had to guard them carefully.",
+    "He instructed them to watch over and protect the valuables until they could be handed over and weighed before the priestly officials, the Levites, and the ancestral heads in Jerusalem, in the chambers of the Temple.",
+    "The priests and Levites received the measured silver, gold, and vessels in order to bring them to Jerusalem, to the house of God.",
+    "The travelers departed from the Ahava River on the twelfth day of Nisan, on their way to Jerusalem. God's hand was over them, and he saved them from enemies and ambushers on the road.",
+    "They arrived in Jerusalem and stayed there for three days.",
+    "On the fourth day, the silver, gold, and vessels were weighed in the house of God. The transfer was supervised by Meremoth son of Uriah the priest, Eleazar son of Phinehas the priest, and the Levites Jozabad son of Jeshua and Noadiah son of Binnui.",
+    "The number and weight of everything were recorded, and the entire weight was written down at that time.",
+    "The returning exiles offered burnt offerings to the God of Israel: twelve bulls, 96 rams, 77 lambs, and 12 male goats for sin offerings. The offerings represented all Israel, and all were treated as burnt offerings to the Lord.",
+    "The travelers handed the king's orders to the satraps and governors of the region Beyond the River. The officials honored the people and the house of God and assisted with the Temple's needs."
+  ],
+  "perush": [
+    "עזרא מציג את ראשי בתי האב ואת ייחוסם של העולים עמו מבבל בימי ארתחשסתא המלך.",
+    "ממשפחת פינחס עלה גרשום, ממשפחת איתמר דניאל, ומצאצאי דוד חטוש.",
+    "שכניה מתואר כאדם מפורסם, ואולי מצאצאי זרובבל. ממשפחת פרעוש, שהייתה ענף במשפחת שכניה, עלה זכריה, ועמו נמנו 150 זכרים.",
+    "ממשפחת פחת מואב עלה אליהועיני בן זרחיה, ועמו 200 זכרים.",
+    "ממשפחת שכניה עלה בן יחזיאל, ועמו 300 זכרים.",
+    "ממשפחת עדין עלה עבד בן יונתן, ועמו 50 זכרים.",
+    "ממשפחת עילם עלה ישעיה בן עתליה, ועמו 70 זכרים.",
+    "ממשפחת שפטיה עלה זבדיה בן מיכאל, ועמו 80 זכרים.",
+    "ממשפחת יואב עלה עובדיה בן יחיאל, ועמו 218 זכרים.",
+    "ממשפחת שלומית עלה בן יוספיה, ועמו 160 זכרים.",
+    "ממשפחת בבי עלה זכריה בן בבי, ועמו 28 זכרים.",
+    "ממשפחת עזגד עלה יוחנן בן הקטן, ועמו 110 זכרים.",
+    "בני אדוניקם היו האחרונים מבני משפחתם שנשארו בגולה, לאחר שרבים מבני המשפחה כבר עלו. שלושת המנהיגים היו אליפלט, יעיאל ושמעיה, ועמהם נמנו 60 זכרים.",
+    "ממשפחת בגוי עלו עותי וזכור, ועמהם 70 זכרים. בסך הכול נמנים כאן כ־1,500 זכרים, וסביר שרובם הגיעו עם משפחותיהם.",
+    "עזרא קיבץ את העולים ליד הנהר שזרם אל אהוא, והם חנו שם שלושה ימים. לאחר שבדק את העם ואת הכוהנים, הבחין שלא נמצא ביניהם אף לוי.",
+    "עזרא שלח אנשים חשובים אל אידו, המנהיג בכספיא, וביקש מהם להביא משרתים לעבודת בית האלוהים. הוא כלל בשליחים גם שני אנשים חכמים ומבינים.",
+    "עזרא מינה את השליחים לפנות אל אידו ואל אחיו הנתינים, משרתי עבודת הקודש בכספיא, וביקש שיביאו לווים ואנשים נוספים הנחוצים לשירות במקדש.",
+    "בעזרת האל הביאו להם אנשים נבונים ומוצלחים ממשפחת מחלי בן מררי, בן לוי בן ישראל. בין הבאים היו שרביה, בניו ואחיו, שמספרם 18.",
+    "נוסף עליהם הגיעו חשביה וישעיה ממשפחת מררי, וכן אחיהם ובניהם, 20 איש בסך הכול. אלה היו הלווים שהצטרפו לעולים.",
+    "לעולים הצטרפו גם 220 נתינים, שמונו בידי דוד והשרים לעבודת הלווים. שמות כולם היו רשומים ומפורטים.",
+    "עזרא הכריז על צום ליד נהר אהוא כדי להתענות לפני האל ולבקש ממנו דרך מוצלחת ובטוחה לעולים, לילדיהם ולרכושם.",
+    "עזרא התבייש לבקש מן המלך חיל ופרשים שיגנו עליהם מפני אויבים בדרך, משום שכבר אמר למלך שיד האל מיטיבה עם מבקשיו ומענישה את עוזביו.",
+    "לכן צמו וביקשו את עזרת האל, והוא נענה להם, והם עברו את הדרך בשלום.",
+    "עזרא בחר שנים עשר אנשים משרי הכוהנים ומינה אותם, לפי שעה, לגזברים. שרביה וחשביה נמנו עליהם, וכן עוד עשרה מאחיהם.",
+    "עזרא מסר להם את הכסף, הזהב והכלים שנועדו לבית האלוהים, תרומות של המלך, יועציו, שריו ושל ישראלים שנמצאו בבבל.",
+    "בידיהם הופקדו 650 כיכרות כסף, מאה כיכרות של כלי כסף ומאה כיכרות זהב.",
+    "נוסף על כך הופקדו בידיהם עשרים כופרי זהב ואלף מטבעות אדרכונִים, וכן שני כלי נחושת איכותיים ומבריקים שנראו כמו זהב. הנחושת הייתה כנראה תערובת, אולי פליז, ולא נחושת טהורה.",
+    "עזרא הזכיר להם שהם קדושים לה', שהכלים קדושים, ושכסף וזהב הם נדבה לה' אלוהי אבותיהם. לכן ראוי שהם ישמרו עליהם.",
+    "הוא ציווה עליהם להשגיח ולשמור על הרכוש עד למסירתו ולשקילתו לפני שרי הכוהנים, הלווים וראשי האבות בירושלים, בלשכות בית המקדש.",
+    "הכוהנים והלווים קיבלו לידיהם את משקל הכסף, הזהב והכלים כדי להביאם לירושלים לבית האלוהים.",
+    "העולים יצאו מנהר אהוא בי״ב בניסן בדרכם לירושלים. יד האל הייתה עליהם, והוא הציל אותם מאויבים ומאורבים בדרך.",
+    "הם הגיעו לירושלים וישבו שם שלושה ימים.",
+    "ביום הרביעי נשקלו הכסף, הזהב והכלים בבית האלוהים. על המסירה פיקחו מרמות בן אוריה הכוהן, אלעזר בן פינחס הכוהן, וכן יוזבד בן ישוע ונועדיה בן בינוי הלווים.",
+    "לכל דבר נרשמו המספר והמשקל, וכל המשקל נכתב באותו הזמן.",
+    "בני הגולה הקריבו עולות לאלוהי ישראל: שנים עשר פרים, 96 אילים, 77 כבשים ו־12 שעירי חטאת. הקרבנות נועדו לכל ישראל, וכולם נחשבו לעולה לה'.",
+    "העולים מסרו את פקודות המלך לאחשדרפנים ולפחה של עבר הנהר. הפקידים כיבדו את העם ואת בית האלוהים וסייעו לצורכי המקדש."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ראשי המשפחות והעולים",
+      "title_en": "The Family Heads and the Travelers",
+      "start_verse": 1,
+      "end_verse": 14,
+      "summary": "עזרא מונה את ראשי בתי האב ואת מספר הזכרים שעלו עמו מבבל, ומסיים בסיכום של כ־1,500 זכרים, שרובם ככל הנראה באו עם משפחותיהם.",
+      "summary_en": "Ezra lists the heads of the ancestral families and the number of males who came with him from Babylon, concluding with approximately 1,500 males, most likely accompanied by their families.",
+      "image_prompt": "A respectful historical-style illustration of Ezra presenting a scroll with a long genealogy and lists of returning Jewish families, travelers gathered beside him, ancient Babylonian setting, no modern objects, no readable text"
+    },
+    {
+      "title": "המחנה והיעדר הלווים",
+      "title_en": "The Camp and the Missing Levites",
+      "start_verse": 15,
+      "end_verse": 20,
+      "summary": "העולים מתכנסים ליד נהר אהוא, ועזרא מגלה שאין ביניהם לווים. הוא שולח שליחים לאידו ולנתינים בכספיא, ובעזרת ה' מצטרפים לווים ונתינים לעבודת המקדש.",
+      "summary_en": "The travelers gather beside the Ahava River, where Ezra discovers that no Levites are present. He sends messengers to Iddo and the temple servants in Casiphia, and with God's help Levites and Nethinim join the group for Temple service.",
+      "image_prompt": "A historical illustration of a large group of Jewish exiles camped beside an ancient river, Ezra consulting with messengers about the absence of Levites, distant tents and pack animals, ancient Near Eastern atmosphere, no readable text"
+    },
+    {
+      "title": "הצום והבקשה להגנת האל",
+      "title_en": "The Fast and the Appeal for Divine Protection",
+      "start_verse": 21,
+      "end_verse": 23,
+      "summary": "עזרא מכריז על צום ותפילה למען דרך מוצלחת ובטוחה. הוא נמנע מלבקש מן המלך ליווי צבאי, לאחר שהצהיר לפניו שיד האל מגינה על מבקשיו, והאל נענה לתפילתם.",
+      "summary_en": "Ezra proclaims a fast and prayer for a successful and safe journey. He refrains from asking the king for military protection after declaring that God's hand protects those who seek him, and God answers their prayer.",
+      "image_prompt": "A solemn historical scene of Ezra and the travelers fasting and praying beside an ancient river before a long journey, families and possessions nearby, subdued dawn light, no readable text"
+    },
+    {
+      "title": "שמירת אוצרות המקדש",
+      "title_en": "Guarding the Temple Treasures",
+      "start_verse": 24,
+      "end_verse": 30,
+      "summary": "עזרא ממנה שנים עשר גזברים ומפקיד בידיהם כסף, זהב וכלים שנתרמו לבית האלוהים. הוא מצווה עליהם לשמור על הרכוש עד למסירתו ולשקילתו בירושלים.",
+      "summary_en": "Ezra appoints twelve treasurers and entrusts them with silver, gold, and vessels donated for the house of God. He orders them to guard the property until it is handed over and weighed in Jerusalem.",
+      "image_prompt": "A detailed historical illustration of Ezra weighing silver, gold, and sacred vessels before entrusted treasurers, guarded chests and metal bowls in an ancient camp, dignified atmosphere, no readable text"
+    },
+    {
+      "title": "המסע והמסירה בירושלים",
+      "title_en": "The Journey and the Handover in Jerusalem",
+      "start_verse": 31,
+      "end_verse": 34,
+      "summary": "העולים יוצאים מנהר אהוא, מגיעים בשלום לירושלים, ולאחר שלושה ימים מוסרים את אוצרות המקדש. ביום הרביעי נבדקים ונרשמים המספר והמשקל של כל דבר.",
+      "summary_en": "The travelers depart from the Ahava River and reach Jerusalem safely, then hand over the Temple treasures after three days. On the fourth day, the number and weight of every item are checked and recorded.",
+      "image_prompt": "A historical illustration of returning exiles entering Jerusalem and presenting carefully weighed temple treasures to priests and Levites, ancient Temple courtyard, solemn accounting scene, no readable text"
+    },
+    {
+      "title": "הקרבנות וסיוע פקידי המלך",
+      "title_en": "The Offerings and the Officials' Support",
+      "start_verse": 35,
+      "end_verse": 36,
+      "summary": "בני הגולה מקריבים קרבנות לאלוהי ישראל עבור כלל ישראל. לאחר מכן נמסרות פקודות המלך לפקידי עבר הנהר, והם מכבדים את העם ואת בית האלוהים ומסייעים לצורכי המקדש.",
+      "summary_en": "The returning exiles offer sacrifices to the God of Israel on behalf of all Israel. The king's orders are then delivered to the officials Beyond the River, who honor the people and the house of God and assist with the Temple's needs.",
+      "image_prompt": "A historical illustration of offerings being presented at the restored Temple while officials receive royal documents and respectfully assist the returning community, ancient Jerusalem, no readable text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 11.54,
+      "usfm": "EZR.8.1"
+    },
+    {
+      "start": 11.54,
+      "end": 18.56,
+      "usfm": "EZR.8.2"
+    },
+    {
+      "start": 18.56,
+      "end": 27.96,
+      "usfm": "EZR.8.3"
+    },
+    {
+      "start": 27.96,
+      "end": 35.7,
+      "usfm": "EZR.8.4"
+    },
+    {
+      "start": 35.7,
+      "end": 41.12,
+      "usfm": "EZR.8.5"
+    },
+    {
+      "start": 41.12,
+      "end": 46.48,
+      "usfm": "EZR.8.6"
+    },
+    {
+      "start": 46.48,
+      "end": 52.38,
+      "usfm": "EZR.8.7"
+    },
+    {
+      "start": 52.38,
+      "end": 58.7,
+      "usfm": "EZR.8.8"
+    },
+    {
+      "start": 58.7,
+      "end": 65.46,
+      "usfm": "EZR.8.9"
+    },
+    {
+      "start": 65.46,
+      "end": 72.1,
+      "usfm": "EZR.8.10"
+    },
+    {
+      "start": 72.1,
+      "end": 78.42,
+      "usfm": "EZR.8.11"
+    },
+    {
+      "start": 78.42,
+      "end": 85.54,
+      "usfm": "EZR.8.12"
+    },
+    {
+      "start": 85.54,
+      "end": 95.92,
+      "usfm": "EZR.8.13"
+    },
+    {
+      "start": 95.92,
+      "end": 102.2,
+      "usfm": "EZR.8.14"
+    },
+    {
+      "start": 102.2,
+      "end": 115.0,
+      "usfm": "EZR.8.15"
+    },
+    {
+      "start": 115.0,
+      "end": 135.46,
+      "usfm": "EZR.8.16"
+    },
+    {
+      "start": 135.46,
+      "end": 150.4,
+      "usfm": "EZR.8.17"
+    },
+    {
+      "start": 150.4,
+      "end": 162.26,
+      "usfm": "EZR.8.18"
+    },
+    {
+      "start": 162.26,
+      "end": 169.24,
+      "usfm": "EZR.8.19"
+    },
+    {
+      "start": 169.24,
+      "end": 178.78,
+      "usfm": "EZR.8.20"
+    },
+    {
+      "start": 178.78,
+      "end": 193.94,
+      "usfm": "EZR.8.21"
+    },
+    {
+      "start": 193.94,
+      "end": 212.0,
+      "usfm": "EZR.8.22"
+    },
+    {
+      "start": 212.0,
+      "end": 218.16,
+      "usfm": "EZR.8.23"
+    },
+    {
+      "start": 218.16,
+      "end": 225.28,
+      "usfm": "EZR.8.24"
+    },
+    {
+      "start": 225.28,
+      "end": 235.08,
+      "usfm": "EZR.8.25"
+    },
+    {
+      "start": 235.08,
+      "end": 243.4,
+      "usfm": "EZR.8.26"
+    },
+    {
+      "start": 243.4,
+      "end": 249.92,
+      "usfm": "EZR.8.27"
+    },
+    {
+      "start": 249.92,
+      "end": 260.08,
+      "usfm": "EZR.8.28"
+    },
+    {
+      "start": 260.08,
+      "end": 271.26,
+      "usfm": "EZR.8.29"
+    },
+    {
+      "start": 271.26,
+      "end": 278.44,
+      "usfm": "EZR.8.30"
+    },
+    {
+      "start": 278.44,
+      "end": 291.7,
+      "usfm": "EZR.8.31"
+    },
+    {
+      "start": 291.7,
+      "end": 295.58,
+      "usfm": "EZR.8.32"
+    },
+    {
+      "start": 295.58,
+      "end": 312.76,
+      "usfm": "EZR.8.33"
+    },
+    {
+      "start": 312.76,
+      "end": 317.12,
+      "usfm": "EZR.8.34"
+    },
+    {
+      "start": 317.12,
+      "end": 334.34,
+      "usfm": "EZR.8.35"
+    },
+    {
+      "start": 334.34,
+      "end": 351.32,
+      "usfm": "EZR.8.36"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    11.54,
+    18.56,
+    27.96,
+    35.7,
+    41.12,
+    46.48,
+    52.38,
+    58.7,
+    65.46,
+    72.1,
+    78.42,
+    85.54,
+    95.92,
+    102.2,
+    115.0,
+    135.46,
+    150.4,
+    162.26,
+    169.24,
+    178.78,
+    193.94,
+    212.0,
+    218.16,
+    225.28,
+    235.08,
+    243.4,
+    249.92,
+    260.08,
+    271.26,
+    278.44,
+    291.7,
+    295.58,
+    312.76,
+    317.12,
+    334.34,
+    351.32
+  ],
+  "times_en_usfm": [
+    "EZR.8.1",
+    "EZR.8.2",
+    "EZR.8.3",
+    "EZR.8.4",
+    "EZR.8.5",
+    "EZR.8.6",
+    "EZR.8.7",
+    "EZR.8.8",
+    "EZR.8.9",
+    "EZR.8.10",
+    "EZR.8.11",
+    "EZR.8.12",
+    "EZR.8.13",
+    "EZR.8.14",
+    "EZR.8.15",
+    "EZR.8.16",
+    "EZR.8.17",
+    "EZR.8.18",
+    "EZR.8.19",
+    "EZR.8.20",
+    "EZR.8.21",
+    "EZR.8.22",
+    "EZR.8.23",
+    "EZR.8.24",
+    "EZR.8.25",
+    "EZR.8.26",
+    "EZR.8.27",
+    "EZR.8.28",
+    "EZR.8.29",
+    "EZR.8.30",
+    "EZR.8.31",
+    "EZR.8.32",
+    "EZR.8.33",
+    "EZR.8.34",
+    "EZR.8.35",
+    "EZR.8.36"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? עזרא פותח את הפרק ברשימת ראשי בתי האב שעלו עמו מבבל, בימי ארתחשסתא מלך פרס.",
+      "text_he": "הידעת? עזרא פותח את הפרק ברשימת ראשי בתי האב שעלו עמו מבבל, בימי ארתחשסתא מלך פרס.",
+      "text_en": "Did you know? The numbers given in the list of those who returned add up to 1,496 males; the text counts males but does not give the number of women and children here."
+    },
+    {
+      "verse": 1,
+      "text": "הידעת? המספרים המפורשים ברשימת העולים מסתכמים ב־1,496 זכרים; הכתוב מונה זכרים, ואינו מפרט כאן את מספר הנשים והילדים.",
+      "text_he": "הידעת? המספרים המפורשים ברשימת העולים מסתכמים ב־1,496 זכרים; הכתוב מונה זכרים, ואינו מפרט כאן את מספר הנשים והילדים.",
+      "text_en": "Did you know? The numbers given in the list of those who returned add up to 1,496 males; the text counts males but does not give the number of women and children here."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? לאחר שהחנה את העולים ליד נהר אהוא במשך שלושה ימים, עזרא גילה שלא נמצאו ביניהם לווים.",
+      "text_he": "הידעת? לאחר שהחנה את העולים ליד נהר אהוא במשך שלושה ימים, עזרא גילה שלא נמצאו ביניהם לווים.",
+      "text_en": "Did you know? After camping with the returnees by the Ahava River for three days, Ezra discovered that no Levites were among them."
+    },
+    {
+      "verse": 17,
+      "text": "הידעת? עזרא שלח שליחים אל אידו ואל הנתינים שבכספיא כדי לבקש מהם משרתים לעבודת בית האלוהים.",
+      "text_he": "הידעת? עזרא שלח שליחים אל אידו ואל הנתינים שבכספיא כדי לבקש מהם משרתים לעבודת בית האלוהים.",
+      "text_en": "Did you know? Ezra sent messengers to Iddo and the temple servants at Casiphia to ask them for ministers to serve in the house of God."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? הכתוב מתאר את הצטרפות הלווים והנתינים כעזרת האל: הגיעו שרביה ובניו ואחיו — שמונה עשר איש — וכן חשביה וישעיה ובני משפחותיהם — עשרים איש.",
+      "text_he": "הידעת? הכתוב מתאר את הצטרפות הלווים והנתינים כעזרת האל: הגיעו שרביה ובניו ואחיו — שמונה עשר איש — וכן חשביה וישעיה ובני משפחותיהם — עשרים איש.",
+      "text_en": "Did you know? The text describes the Levites’ and temple servants’ arrival as God’s gracious help: Sherebiah, his sons, and his brothers—eighteen men in all—came, along with Hashabiah and Jeshaiah and their families—twenty men in all."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בנוסף ללווים הצטרפו 220 נתינים, שהיו מיועדים לעבודת הלווים; הכתוב מציין שכולם נקבו בשמותיהם.",
+      "text_he": "הידעת? בנוסף ללווים הצטרפו 220 נתינים, שהיו מיועדים לעבודת הלווים; הכתוב מציין שכולם נקבו בשמותיהם.",
+      "text_en": "Did you know? In addition to the Levites, 220 temple servants joined them, assigned to assist the Levites; the text notes that all of them were registered by name."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? עזרא הכריז על צום ליד נהר אהוא כדי לבקש מאלוהים דרך ישרה ובטוחה לעולים, לילדיהם ולרכושם.",
+      "text_he": "הידעת? עזרא הכריז על צום ליד נהר אהוא כדי לבקש מאלוהים דרך ישרה ובטוחה לעולים, לילדיהם ולרכושם.",
+      "text_en": "Did you know? Ezra proclaimed a fast by the Ahava River to ask God for a safe journey for the returnees, their children, and their possessions."
+    },
+    {
+      "verse": 22,
+      "text": "הידעת? עזרא נמנע מלבקש מן המלך חיל ופרשים להגנת השיירה, משום שכבר הצהיר לפני המלך שיד אלוהים מגינה על מבקשיו.",
+      "text_he": "הידעת? עזרא נמנע מלבקש מן המלך חיל ופרשים להגנת השיירה, משום שכבר הצהיר לפני המלך שיד אלוהים מגינה על מבקשיו.",
+      "text_en": "Did you know? Ezra did not ask the king for soldiers and cavalry to protect the caravan, because he had already told the king that God’s hand protects all who seek him."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? עזרא הפקיד בידי הכוהנים את תרומות הכסף, הזהב וכלי הקודש, וציווה לשמור עליהם עד לשקילתם בירושלים.",
+      "text_he": "הידעת? עזרא הפקיד בידי הכוהנים את תרומות הכסף, הזהב וכלי הקודש, וציווה לשמור עליהם עד לשקילתם בירושלים.",
+      "text_en": "Did you know? Ezra entrusted the priests with the offerings of silver, gold, and sacred vessels, instructing them to guard them until they could be weighed in Jerusalem."
+    },
+    {
+      "verse": 26,
+      "text": "הידעת? בין האוצרות שנמסרו היו 650 כיכרי כסף, כלי כסף במשקל מאה כיכרים, מאה כיכרי זהב, עשרים כלי זהב ושני כלי נחושת יקרים.",
+      "text_he": "הידעת? בין האוצרות שנמסרו היו 650 כיכרי כסף, כלי כסף במשקל מאה כיכרים, מאה כיכרי זהב, עשרים כלי זהב ושני כלי נחושת יקרים.",
+      "text_en": "Did you know? The treasures handed over included 650 talents of silver, silver vessels weighing 100 talents, 100 talents of gold, 20 gold vessels, and two valuable bronze vessels."
+    },
+    {
+      "verse": 34,
+      "text": "הידעת? ביום הרביעי לאחר הגעתם לירושלים נשקלו ונרשמו כל הכסף, הזהב והכלים, כדי לוודא את מסירתם המדויקת לבית האלוהים.",
+      "text_he": "הידעת? ביום הרביעי לאחר הגעתם לירושלים נשקלו ונרשמו כל הכסף, הזהב והכלים, כדי לוודא את מסירתם המדויקת לבית האלוהים.",
+      "text_en": "Did you know? On the fourth day after their arrival in Jerusalem, all the silver, gold, and vessels were weighed and recorded to ensure that they were delivered accurately to the house of God."
+    },
+    {
+      "verse": 35,
+      "text": "הידעת? בני הגולה הקריבו עבור כלל ישראל שנים עשר פרים, תשעים ושישה אילים, שבעים ושבעה כבשים ושנים עשר שעירי חטאת.",
+      "text_he": "הידעת? בני הגולה הקריבו עבור כלל ישראל שנים עשר פרים, תשעים ושישה אילים, שבעים ושבעה כבשים ושנים עשר שעירי חטאת.",
+      "text_en": "Did you know? The exiles offered on behalf of all Israel twelve bulls, ninety-six rams, seventy-seven lambs, and twelve male goats as a sin offering."
+    }
+  ]
+}

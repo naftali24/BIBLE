@@ -1,0 +1,324 @@
+{
+  "book": "Ezra",
+  "book_he": "עזרא",
+  "book_chapters": 10,
+  "chapter": 9,
+  "title": "עזרא פרק 9",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35a09.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35a09.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EZR/9-9f155b2478ed6e279f4bc302308ec8de.mp3?version_id=1",
+  "verses": [
+    "וּכְכַלּוֹת אֵלֶּה, נִגְּשׁוּ אֵלַי הַשָּׂרִים לֵאמֹר--לֹא-נִבְדְּלוּ הָעָם יִשְׂרָאֵל וְהַכֹּהֲנִים וְהַלְוִיִּם, מֵעַמֵּי הָאֲרָצוֹת: כְּתֹעֲבֹתֵיהֶם לַכְּנַעֲנִי הַחִתִּי הַפְּרִזִּי הַיְבוּסִי, הָעַמֹּנִי הַמֹּאָבִי, הַמִּצְרִי, וְהָאֱמֹרִי.",
+    "כִּי-נָשְׂאוּ מִבְּנֹתֵיהֶם, לָהֶם וְלִבְנֵיהֶם, וְהִתְעָרְבוּ זֶרַע הַקֹּדֶשׁ, בְּעַמֵּי הָאֲרָצוֹת; וְיַד הַשָּׂרִים וְהַסְּגָנִים, הָיְתָה בַּמַּעַל הַזֶּה--רִאשׁוֹנָה.",
+    "וּכְשָׁמְעִי אֶת-הַדָּבָר הַזֶּה, קָרַעְתִּי אֶת-בִּגְדִי וּמְעִילִי; וָאֶמְרְטָה מִשְּׂעַר רֹאשִׁי, וּזְקָנִי, וָאֵשְׁבָה, מְשׁוֹמֵם.",
+    "וְאֵלַי יֵאָסְפוּ, כֹּל חָרֵד בְּדִבְרֵי אֱלֹהֵי-יִשְׂרָאֵל--עַל, מַעַל הַגּוֹלָה; וַאֲנִי יֹשֵׁב מְשׁוֹמֵם, עַד לְמִנְחַת הָעָרֶב.",
+    "וּבְמִנְחַת הָעֶרֶב, קַמְתִּי מִתַּעֲנִיתִי, וּבְקָרְעִי בִגְדִי, וּמְעִילִי; וָאֶכְרְעָה, עַל-בִּרְכַּי, וָאֶפְרְשָׂה כַפַּי, אֶל-יְהוָה אֱלֹהָי.",
+    "וָאֹמְרָה, אֱלֹהַי בֹּשְׁתִּי וְנִכְלַמְתִּי--לְהָרִים אֱלֹהַי פָּנַי, אֵלֶיךָ: כִּי עֲוֺנֹתֵינוּ רָבוּ לְמַעְלָה רֹּאשׁ, וְאַשְׁמָתֵנוּ גָדְלָה עַד לַשָּׁמָיִם.",
+    "מִימֵי אֲבֹתֵינוּ, אֲנַחְנוּ בְּאַשְׁמָה גְדֹלָה--עַד, הַיּוֹם הַזֶּה; וּבַעֲוֺנֹתֵינוּ נִתַּנּוּ אֲנַחְנוּ מְלָכֵינוּ כֹהֲנֵינוּ בְּיַד מַלְכֵי הָאֲרָצוֹת, בַּחֶרֶב בַּשְּׁבִי וּבַבִּזָּה וּבְבֹשֶׁת פָּנִים--כְּהַיּוֹם הַזֶּה.",
+    "וְעַתָּה כִּמְעַט-רֶגַע הָיְתָה תְחִנָּה מֵאֵת יְהוָה אֱלֹהֵינוּ, לְהַשְׁאִיר לָנוּ פְּלֵיטָה, וְלָתֶת-לָנוּ יָתֵד, בִּמְקוֹם קָדְשׁוֹ--לְהָאִיר עֵינֵינוּ אֱלֹהֵינוּ, וּלְתִתֵּנוּ מִחְיָה מְעַט בְּעַבְדֻתֵנוּ.",
+    "כִּי-עֲבָדִים אֲנַחְנוּ--וּבְעַבְדֻתֵנוּ, לֹא עֲזָבָנוּ אֱלֹהֵינוּ; וַיַּט-עָלֵינוּ חֶסֶד לִפְנֵי מַלְכֵי פָרַס לָתֶת-לָנוּ מִחְיָה, לְרוֹמֵם אֶת-בֵּית אֱלֹהֵינוּ וּלְהַעֲמִיד אֶת-חָרְבֹתָיו, וְלָתֶת-לָנוּ גָדֵר, בִּיהוּדָה וּבִירוּשָׁלִָם.",
+    "וְעַתָּה מַה-נֹּאמַר אֱלֹהֵינוּ, אַחֲרֵי-זֹאת: כִּי עָזַבְנוּ, מִצְוֺתֶיךָ.",
+    "אֲשֶׁר צִוִּיתָ, בְּיַד עֲבָדֶיךָ הַנְּבִיאִים לֵאמֹר--הָאָרֶץ אֲשֶׁר אַתֶּם בָּאִים לְרִשְׁתָּהּ, אֶרֶץ נִדָּה הִיא בְּנִדַּת עַמֵּי הָאֲרָצוֹת: בְּתוֹעֲבֹתֵיהֶם, אֲשֶׁר מִלְאוּהָ מִפֶּה אֶל-פֶּה--בְּטֻמְאָתָם.",
+    "וְעַתָּה בְּנוֹתֵיכֶם אַל-תִּתְּנוּ לִבְנֵיהֶם, וּבְנֹתֵיהֶם אַל-תִּשְׂאוּ לִבְנֵיכֶם, וְלֹא-תִדְרְשׁוּ שְׁלֹמָם וְטוֹבָתָם, עַד-עוֹלָם--לְמַעַן תֶּחֶזְקוּ, וַאֲכַלְתֶּם אֶת-טוּב הָאָרֶץ, וְהוֹרַשְׁתֶּם לִבְנֵיכֶם, עַד-עוֹלָם.",
+    "וְאַחֲרֵי, כָּל-הַבָּא עָלֵינוּ, בְּמַעֲשֵׂינוּ הָרָעִים, וּבְאַשְׁמָתֵנוּ הַגְּדֹלָה: כִּי אַתָּה אֱלֹהֵינוּ, חָשַׂכְתָּ לְמַטָּה מֵעֲוֺנֵנוּ, וְנָתַתָּה לָּנוּ פְּלֵיטָה, כָּזֹאת.",
+    "הֲנָשׁוּב, לְהָפֵר מִצְוֺתֶיךָ, וּלְהִתְחַתֵּן, בְּעַמֵּי הַתֹּעֵבוֹת הָאֵלֶּה: הֲלוֹא תֶאֱנַף-בָּנוּ עַד-כַּלֵּה, לְאֵין שְׁאֵרִית וּפְלֵיטָה.",
+    "יְהוָה אֱלֹהֵי יִשְׂרָאֵל, צַדִּיק אַתָּה--כִּי-נִשְׁאַרְנוּ פְלֵיטָה, כְּהַיּוֹם הַזֶּה; הִנְנוּ לְפָנֶיךָ בְּאַשְׁמָתֵינוּ, כִּי אֵין לַעֲמוֹד לְפָנֶיךָ עַל-זֹאת."
+  ],
+  "english": [
+    "Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands,\ndoing according to their abominations,\neven of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.",
+    "For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of\nthose lands: yea, the hand of the princes and rulers hath been chief in this trespass.",
+    "And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.",
+    "Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.",
+    "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God.",
+    "And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over\nour head, and our trespass is grown up unto the heavens.",
+    "Since the days of our fathers\nhave we\nbeen in a great trespass unto this day; and for our iniquities have we, our kings, and\nour priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as\nit is this day.",
+    "And now for a little space grace hath been\nshewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
+    "For we\nwere bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.",
+    "And now, O our God, what shall we say after this? for we have forsaken thy commandments,",
+    "Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness.",
+    "Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave\nit\n for an inheritance to your children for ever.",
+    "And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities\ndeserve, and hast given us\nsuch deliverance as this;",
+    "Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed\nus, so that\nthere should be no remnant nor escaping?",
+    "O LORD God of Israel, thou\nart righteous: for we remain yet escaped, as\nit is this day: behold, we\nare before thee in our trespasses: for we cannot stand before thee because of this."
+  ],
+  "steinsaltz": [
+    "וּכְכַלּוֹת, כאשר תמו טקסים אֵלֶּה – הבאת מתנות העולים לאוצר המקדש והקרבת קרבנות הכפרה, הטהרה וההתעלות, נִגְּשׁוּ אֵלַי הַשָּׂרִים לֵאמֹר: לֹא־נִבְדְּלוּ הָעָם שעלו בעלייה הראשונה וכבר יושבים בארץ כמה וכמה שנים, משבטי יִשְׂרָאֵל וְהַכֹּהֲנִים וְהַלְוִיִּם מֵעַמֵּי הָאֲרָצוֹת, מהגויים שישבו באזור, והם עושים כְּתֹעֲבֹתֵיהֶם שלַכְּנַעֲנִי, הַחִתִּי, הַפְּרִזִּי, הַיְבוּסִי, הָעַמֹּנִי, הַמֹּאָבִי, הַמִּצְרִי וְהָאֱמֹרִי.",
+    "היהודים הרגישו קרובים לעמים האחרים כִּי־נָשְׂאוּ מִבְּנֹתֵיהֶם של הגויים לָהֶם וְלִבְנֵיהֶם, וְהִתְעָרְבוּ זֶרַע הַקֹּדֶשׁ בְּעַמֵּי הָאֲרָצוֹת, ויתרה מזו – יַד הַשָּׂרִים וְהַסְּגָנִים, הפקידים הבכירים המקורבים לפחה הָיְתָה בַּמַּעַל, מעשה הבגידה הַזֶּה רִאשׁוֹנָה. קורה שהתבוללות פושה בפשוטי העם שבשולי החברה. אלו אינם מקפידים, ושוליים מתערבבים בשוליים. אולם במקרה זה דווקא ראשי העם היו הראשונים שהתחתנו בגויים, אולי הם נשאו נשים ממעמד גבוה. הדבר חמור משום שהם משמשים דוגמה רעה לאחרים. נראה שעזרא לא ידע על העניין.",
+    "וּכְשָׁמְעִי אֶת־הַדָּבָר הַזֶּה, קָרַעְתִּי אֶת־בִּגְדִי וּמְעִילִי, וָאֶמְרְטָה, תלשתי מִשְּׂעַר רֹאשִׁי וּזְקָנִי לאות אבל, וָאֵשְׁבָה מְשׁוֹמֵם, דומם, כעוס ונדהם ממשמע אוזני. עזרא עלה לארץ הקודש ועמו קבוצה הגונה של אנשים, ובידיו ייפוי כוח למנהיגות רוחנית גדולה. הוא התכוון להגביה ולרומם את מצבם של אנשי הארץ, והנה הוא מגלה שהחברה זקוקה לתיקון ראשוני ויסודי הרבה יותר.",
+    "וְאֵלַי יֵאָסְפוּ כֹּל חָרֵד בְּדִבְרֵי אֱלֹהֵי־יִשְׂרָאֵל עַל אודות מַעַל עולי הַגּוֹלָה. כשראו אותי במצבי, התאספו עוד אנשים שנגע להם חטאם של העולים, וַאֲנִי יֹשֵׁב מְשׁוֹמֵם עַד לְמִנְחַת הָעָרֶב, זמן המנחה, שעות אחר הצהריים.",
+    "וּבְמִנְחַת הָעֶרֶב קַמְתִּי מִתַּעֲנִיתִי וּבְקָרְעִי בִגְדִי וּמְעִילִי, ובבגדי הקרועים אֶכְרְעָה עַל־בִּרְכַּי וָאֶפְרְשָׂה כַפַּי אֶל־ה' אֱלֹהָי. התחלתי להתפלל. נראה שזו לא הייתה תפילה פרטית אלא תפילה בציבור.",
+    "וָאֹמְרָה: אֱלֹהַי! בֹּשְׁתִּי וְנִכְלַמְתִּי, אני מתבייש לְהָרִים, אֱלֹהַי, את פָּנַי אֵלֶיךָ, כִּי עֲוֹנֹתֵינוּ רָבוּ, התרבו עד לְמַעְלָה רֹּאשׁ, מעל לראש, לאין שיעור, וְאַשְׁמָתֵנוּ גָדְלָה עַד לַשָּׁמָיִם.",
+    "מִימֵי אֲבֹתֵינוּ אֲנַחְנוּ – העם הגולה בְּאַשְׁמָה גְדֹלָה עַד הַיּוֹם הַזֶּה, וּבַעֲוֹנֹתֵינוּ נִתַּנּוּ, נמסרנו אֲנַחְנוּ, מְלָכֵינוּ וכֹהֲנֵינוּ בְּיַד מַלְכֵי הָאֲרָצוֹת, בַּחֶרֶב בַּשְּׁבִי וּבַבִּזָּה וּבְבֹשֶׁת פָּנִים כְּפי שנראה לנו הַיּוֹם הַזֶּה.",
+    "וְעַתָּה כִּמְעַט־רֶגַע, לפי שעה הָיְתָה תְחִנָּה, חנינה, רגע של חסד מֵאֵת ה' אֱלֹהֵינוּ לְהַשְׁאִיר לָנוּ פְּלֵיטָה וְלָתֶת־לָנוּ יָתֵד, ביסוס וקביעוּת בִּמְקוֹם קָדְשׁוֹ, לְהָאִיר עֵינֵינוּ, אֱלֹהֵינוּ, וּלְתִתֵּנוּ מִחְיָה, חיות וקיום מְעַט בּתקופת עַבְדֻתֵנוּ.",
+    "כִּי בסופו של דבר עלינו לזכור שעֲבָדִים אֲנַחְנוּ, ואיננו עצמאים, ואולם בְעַבְדֻתֵנוּ לֹא עֲזָבָנוּ אֱלֹהֵינוּ, וַיַּט־עָלֵינוּ, הפנה אלינו חֶסֶד לִפְנֵי מַלְכֵי פָרַס לָתֶת־לָנוּ מִחְיָה, לְרוֹמֵם אֶת־בֵּית אֱלֹהֵינוּ וּלְהַעֲמִיד אֶת־חָרְבֹתָיו וְלָתֶת־לָנוּ גָדֵר, אחיזה בִּיהוּדָה וּבִירוּשָׁלִָם. אמנם אנו תחת עול מלכות זרה, אבל זוהי מלכות חסד המעודדת אותנו להתפתח באופן רוחני ומספקת לנו הגנה.",
+    "וְעַתָּה מַה־נֹּאמַר, אֱלֹהֵינוּ, אַחֲרֵי כל הטובה הזֹאת שעשית אתנו, כִּי עָזַבְנוּ מִצְוֹתֶיךָ",
+    "אֲשֶׁר צִוִּיתָ בְּיַד עֲבָדֶיךָ הַנְּבִיאִים לֵאמֹר: הָאָרֶץ אֲשֶׁר אַתֶּם בָּאִים לְרִשְׁתָּהּ אֶרֶץ נִדָּה, טומאה הִיא בְּנִדַּת עַמֵּי הָאֲרָצוֹת, בְּתוֹעֲבֹתֵיהֶם אֲשֶׁר מִלְאוּהָ מִפֶּה אֶל־פֶּה, כולה בְּטֻמְאָתָם. הם טינפו את הארץ, ועכשיו היא מלוכלכת וטמאה לגמרי.",
+    "וְעַתָּה בְּנוֹתֵיכֶם אַל־תִּתְּנוּ לִבְנֵיהֶם, וּבְנֹתֵיהֶם אַל־תִּשְׂאוּ לִבְנֵיכֶם, וְלֹא־תִדְרְשׁוּ שְׁלֹמָם וְטוֹבָתָם עַד־עוֹלָם, כמו שכתוב בתורה כמה וכמה פעמים, לְמַעַן תֶּחֶזְקוּ וַאֲכַלְתֶּם אֶת־טוּב הָאָרֶץ וְהוֹרַשְׁתֶּם אותה לִבְנֵיכֶם עַד־עוֹלָם.",
+    "וְאַחֲרֵי כָּל־הַבָּא עָלֵינוּ במשך הדורות בְּמַעֲשֵׂינוּ הָרָעִים וּבְאַשְׁמָתֵנוּ הַגְּדֹלָה, כִּי אַתָּה, אֱלֹהֵינוּ, חָשַׂכְתָּ לְמַטָּה, המעטת מֵעֲוֹנֵינוּ וְנָתַתָּה, נתת לָּנוּ פְּלֵיטָה, שארית כָּזֹאת.",
+    "ועכשיו האם נָשׁוּב לְהָפֵר מִצְוֹתֶיךָ וּלְהִתְחַתֵּן בְּעַמֵּי הַתֹּעֵבוֹת הָאֵלֶּה?! הֲלוֹא אז תֶאֱנַף, תכעס בָּנוּ עַד־כַּלֵּה, תשמיד אותנו לחלוטין, לְאֵין שְׁאֵרִית וּפְלֵיטָה. הרי אנחנו שורדים רק ברחמיך, ועכשיו בנישואי התערובת נקלקל את כל מה שזכינו לו.",
+    "ה' אֱלֹהֵי יִשְׂרָאֵל, צַדִּיק אַתָּה, כִּי־נִשְׁאַרְנוּ פְלֵיטָה כְּהַיּוֹם הַזֶּה. הִנְנוּ עומדים לְפָנֶיךָ בְּאַשְׁמָתֵינוּ, כִּי אֵין לנו זכות לַעֲמוֹד לְפָנֶיךָ עַל, בגלל העברה הזֹאת."
+  ],
+  "ai_explanation": [
+    "לאחר סיום הטקסים והקרבת הקרבנות, השרים מודיעים לעזרא שהעם, הכוהנים והלוויים לא נבדלו מעמי הארצות. הם נטמעו במעשיהם ובתועבותיהם של עמי הארץ.",
+    "היהודים נשאו נשים מבנות הגויים להן ולבניהם, וכך התערב זרע הקודש בעמי הארצות. חמור במיוחד הוא שדווקא השרים והסגנים היו הראשונים במעשה זה, ובכך שימשו דוגמה רעה לאחרים.",
+    "עזרא מזדעזע מן הידיעה: הוא קורע את בגדיו ומעילו, תולש את שער ראשו וזקנו לאות אבל, ויושב דומם, כעוס ונדהם. הוא ציפה לרומם את אנשי הארץ, אך מגלה שהחברה זקוקה לתיקון יסודי.",
+    "כל החרדים לדברי אלוהי ישראל מתאספים סביב עזרא בגלל מעשה המעל של עולי הגולה. עזרא יושב משומם עד זמן מנחת הערב, כלומר בשעות אחר הצהריים.",
+    "בזמן מנחת הערב עזרא קם מתעניתו, כורע על ברכיו ופורש את כפיו אל ה'. התפילה מתוארת כתפילה בציבור, ולא רק כתפילה פרטית.",
+    "עזרא מביע בושה וכלימה ואינו מעז להרים את פניו אל ה'. הוא מתאר את עוונות העם כמרובים עד מעל הראש ואת אשמתם כגדולה עד השמים.",
+    "העם נושא אשמה גדולה מימי אבותיו ועד היום. בגלל עוונותיו נמסרו העם, המלכים והכוהנים בידי מלכי הארצות, בחרב, בשבי, בביזה ובבושת פנים.",
+    "עזרא מתאר רגע של חסד וחנינה מאת ה', שבו נותרה פליטה ונוצר לעם ביסוס וקביעות במקום הקודש. החסד האיר את עיניהם ונתן להם מעט חיות גם בתקופת עבדותם.",
+    "אף שהיהודים עדיין עבדים ואינם עצמאיים, ה' לא עזב אותם. הוא העניק להם חסד לפני מלכי פרס, שאפשר להם לחזק את בית האלוהים, להעמיד את חרבותיו ולהיאחז ביהודה ובירושלים.",
+    "לאחר כל הטובה הזאת, עזרא שואל מה יוכלו לומר לפני אלוהים, שהרי הם עזבו את מצוותיו.",
+    "המצוות נמסרו באמצעות הנביאים, והן הזהירו מפני הארץ הטמאה בתועבות עמי הארצות. לפי הפירוש, עמי הארץ מילאו את הארץ בטומאתם לחלוטין.",
+    "הציווי הוא שלא לתת את הבנות לבני עמי הארץ ולא לשאת את בנותיהם לבנים, ואף לא לבקש את שלומם וטובתם. שמירת הציווי תאפשר לעם להתחזק, ליהנות מטוב הארץ ולהורישה לבניו.",
+    "למרות כל המעשים הרעים והאשמה הגדולה, ה' המעטה מן העונש והשאיר פליטה. עצם הישרדותם היא תוצאה של רחמיו.",
+    "עזרא שואל אם לאחר כל זאת יחזרו להפר את המצוות ולהתחתן בעמי התועבות. הוא חושש שכעסו של ה' ישמיד אותם לגמרי, בלי שארית ופליטה.",
+    "עזרא מכיר בצדקת ה' בכך שנשארה לעם פליטה עד היום. העם עומד לפניו באשמתו, בלי זכות להצדיק את עצמו על העברה הזאת."
+  ],
+  "ai_explanation_en": [
+    "After the ceremonies and sacrifices were completed, the officials told Ezra that the people, priests, and Levites had not separated themselves from the peoples of the lands. They had become involved in the practices and abominations of those peoples.",
+    "The Jews had taken foreign women for themselves and for their sons, causing the holy seed to mix with the peoples of the lands. It was especially serious that the officials and officers were the first to do this, thereby setting a bad example for others.",
+    "Ezra is shocked by the report: he tears his clothes and robe, pulls out the hair of his head and beard as a sign of mourning, and sits silent, angry, and stunned. He had expected to elevate the people of the land, but discovers that society needs much more basic and fundamental repair.",
+    "Everyone who was concerned about the words of the God of Israel gathered around Ezra because of the wrongdoing of the returning exiles. Ezra sat stunned until the evening offering, in the afternoon.",
+    "At the time of the evening offering, Ezra rose from his fast, knelt, and spread out his hands toward the Lord. The prayer is presented as a public prayer rather than merely a private one.",
+    "Ezra expresses shame and humiliation and does not dare to lift his face toward God. He describes the people's sins as piled above their heads and their guilt as reaching to the heavens.",
+    "The people have carried great guilt from the days of their ancestors until the present. Because of their sins, the people, kings, and priests were handed over to the kings of the lands—to the sword, captivity, plunder, and disgrace.",
+    "Ezra describes a moment of grace and pardon from God, in which a remnant was preserved and the people gained stability and permanence in the holy place. This grace gave them light and a small measure of vitality even during their period of servitude.",
+    "Although the Jews are still servants and are not independent, God has not abandoned them. He has shown them favor before the kings of Persia, enabling them to strengthen the Temple, restore its ruins, and gain a foothold in Judah and Jerusalem.",
+    "After all this goodness, Ezra asks what they can say before God, since they have abandoned His commandments.",
+    "The commandments were given through the prophets, who warned about the land defiled by the abominations of its peoples. According to the interpretation, the peoples of the land had completely filled it with their impurity.",
+    "The command is not to give one's daughters to the sons of the peoples of the land or to take their daughters for one's sons, and not even to seek their peace and welfare. Keeping this command would allow the people to become strong, enjoy the goodness of the land, and pass it on to their children.",
+    "Despite all the evil deeds and great guilt, God reduced the punishment and left a remnant. Their very survival is a result of His mercy.",
+    "Ezra asks whether, after all this, they will again violate the commandments and intermarry with the abominable peoples. He fears that God's anger will destroy them completely, leaving no remnant or survivor.",
+    "Ezra acknowledges God's righteousness because a remnant has remained to this day. The people stand before Him in their guilt, without any right to justify themselves for this transgression."
+  ],
+  "perush": [
+    "לאחר סיום הטקסים והקרבת הקרבנות, השרים מודיעים לעזרא שהעם, הכוהנים והלוויים לא נבדלו מעמי הארצות. הם נטמעו במעשיהם ובתועבותיהם של עמי הארץ.",
+    "היהודים נשאו נשים מבנות הגויים להן ולבניהם, וכך התערב זרע הקודש בעמי הארצות. חמור במיוחד הוא שדווקא השרים והסגנים היו הראשונים במעשה זה, ובכך שימשו דוגמה רעה לאחרים.",
+    "עזרא מזדעזע מן הידיעה: הוא קורע את בגדיו ומעילו, תולש את שער ראשו וזקנו לאות אבל, ויושב דומם, כעוס ונדהם. הוא ציפה לרומם את אנשי הארץ, אך מגלה שהחברה זקוקה לתיקון יסודי.",
+    "כל החרדים לדברי אלוהי ישראל מתאספים סביב עזרא בגלל מעשה המעל של עולי הגולה. עזרא יושב משומם עד זמן מנחת הערב, כלומר בשעות אחר הצהריים.",
+    "בזמן מנחת הערב עזרא קם מתעניתו, כורע על ברכיו ופורש את כפיו אל ה'. התפילה מתוארת כתפילה בציבור, ולא רק כתפילה פרטית.",
+    "עזרא מביע בושה וכלימה ואינו מעז להרים את פניו אל ה'. הוא מתאר את עוונות העם כמרובים עד מעל הראש ואת אשמתם כגדולה עד השמים.",
+    "העם נושא אשמה גדולה מימי אבותיו ועד היום. בגלל עוונותיו נמסרו העם, המלכים והכוהנים בידי מלכי הארצות, בחרב, בשבי, בביזה ובבושת פנים.",
+    "עזרא מתאר רגע של חסד וחנינה מאת ה', שבו נותרה פליטה ונוצר לעם ביסוס וקביעות במקום הקודש. החסד האיר את עיניהם ונתן להם מעט חיות גם בתקופת עבדותם.",
+    "אף שהיהודים עדיין עבדים ואינם עצמאיים, ה' לא עזב אותם. הוא העניק להם חסד לפני מלכי פרס, שאפשר להם לחזק את בית האלוהים, להעמיד את חרבותיו ולהיאחז ביהודה ובירושלים.",
+    "לאחר כל הטובה הזאת, עזרא שואל מה יוכלו לומר לפני אלוהים, שהרי הם עזבו את מצוותיו.",
+    "המצוות נמסרו באמצעות הנביאים, והן הזהירו מפני הארץ הטמאה בתועבות עמי הארצות. לפי הפירוש, עמי הארץ מילאו את הארץ בטומאתם לחלוטין.",
+    "הציווי הוא שלא לתת את הבנות לבני עמי הארץ ולא לשאת את בנותיהם לבנים, ואף לא לבקש את שלומם וטובתם. שמירת הציווי תאפשר לעם להתחזק, ליהנות מטוב הארץ ולהורישה לבניו.",
+    "למרות כל המעשים הרעים והאשמה הגדולה, ה' המעטה מן העונש והשאיר פליטה. עצם הישרדותם היא תוצאה של רחמיו.",
+    "עזרא שואל אם לאחר כל זאת יחזרו להפר את המצוות ולהתחתן בעמי התועבות. הוא חושש שכעסו של ה' ישמיד אותם לגמרי, בלי שארית ופליטה.",
+    "עזרא מכיר בצדקת ה' בכך שנשארה לעם פליטה עד היום. העם עומד לפניו באשמתו, בלי זכות להצדיק את עצמו על העברה הזאת."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "הדיווח על ההתבוללות ותגובת עזרא",
+      "title_en": "The Report of Assimilation and Ezra’s Reaction",
+      "start_verse": 1,
+      "end_verse": 4,
+      "summary": "השרים מדווחים לעזרא שהעם, הכוהנים והלוויים לא נבדלו מעמי הארצות, ושנישואי התערובת החלו דווקא בקרב המנהיגים. עזרא מזדעזע, מביע אבל, ואנשים החרדים לדברי אלוהים מתאספים אליו.",
+      "summary_en": "The officials report to Ezra that the people, priests, and Levites have not separated themselves from the peoples of the lands, and that intermarriage began especially among the leaders. Ezra reacts with mourning and shock, while people concerned about God’s words gather around him.",
+      "image_prompt": "A solemn biblical-era scene of a distressed leader sitting in mourning with torn garments, concerned community members gathering around him, and officials delivering troubling news; respectful, symbolic, no modern objects."
+    },
+    {
+      "title": "תפילת הווידוי והכרת האשמה",
+      "title_en": "The Confession and Recognition of Guilt",
+      "start_verse": 5,
+      "end_verse": 9,
+      "summary": "עזרא קם מתעניתו ומתפלל בציבור כשהוא כורע ופורש את כפיו. הוא מתוודה על אשמת העם מדורות קודמים, אך גם מזכיר את חסד ה' שהשאיר פליטה, החיה את העם וסייע לו להתבסס ביהודה ובירושלים.",
+      "summary_en": "Ezra rises from his fast and prays publicly while kneeling and raising his hands. He confesses the people’s guilt from earlier generations, while also recalling God’s grace in preserving a remnant, giving them life, and helping them establish themselves in Judah and Jerusalem.",
+      "image_prompt": "A reverent public prayer scene at the time of the evening offering, with a kneeling leader raising his hands, a gathered community, and subtle visual symbols of a surviving remnant and restored ruins; calm, solemn biblical style."
+    },
+    {
+      "title": "הפרת המצוות והחשש מאובדן הפליטה",
+      "title_en": "Violation of the Commandments and Fear of Losing the Remnant",
+      "start_verse": 10,
+      "end_verse": 15,
+      "summary": "עזרא מתקשה להבין כיצד לאחר כל הטובה שניתנה לעם הם עזבו את מצוות ה'. הוא מזכיר את אזהרות הנביאים מפני עמי הארץ ואת האיסור על נישואי תערובת, חושש מעונש מוחלט, ומסיים בהכרה בצדקת ה' ובאשמת העם.",
+      "summary_en": "Ezra cannot understand how the people abandoned God’s commandments after receiving such goodness. He recalls the prophets’ warnings about the peoples of the land and the prohibition against intermarriage, fears complete destruction, and ends by acknowledging God’s righteousness and the people’s guilt.",
+      "image_prompt": "A symbolic biblical prayer scene showing a leader reading a sacred warning before a humble community, with a small surviving group in the background and an atmosphere of accountability, repentance, and divine judgment; no invented historical details."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 22.54,
+      "usfm": "EZR.9.1"
+    },
+    {
+      "start": 22.54,
+      "end": 35.44,
+      "usfm": "EZR.9.2"
+    },
+    {
+      "start": 35.44,
+      "end": 45.12,
+      "usfm": "EZR.9.3"
+    },
+    {
+      "start": 45.12,
+      "end": 57.04,
+      "usfm": "EZR.9.4"
+    },
+    {
+      "start": 57.04,
+      "end": 68.72,
+      "usfm": "EZR.9.5"
+    },
+    {
+      "start": 68.72,
+      "end": 84.34,
+      "usfm": "EZR.9.6"
+    },
+    {
+      "start": 84.34,
+      "end": 102.54,
+      "usfm": "EZR.9.7"
+    },
+    {
+      "start": 102.54,
+      "end": 118.46,
+      "usfm": "EZR.9.8"
+    },
+    {
+      "start": 118.46,
+      "end": 136.36,
+      "usfm": "EZR.9.9"
+    },
+    {
+      "start": 136.36,
+      "end": 143.74,
+      "usfm": "EZR.9.10"
+    },
+    {
+      "start": 143.74,
+      "end": 159.26,
+      "usfm": "EZR.9.11"
+    },
+    {
+      "start": 159.26,
+      "end": 176.24,
+      "usfm": "EZR.9.12"
+    },
+    {
+      "start": 176.24,
+      "end": 190.06,
+      "usfm": "EZR.9.13"
+    },
+    {
+      "start": 190.06,
+      "end": 203.28,
+      "usfm": "EZR.9.14"
+    },
+    {
+      "start": 203.28,
+      "end": 222.64,
+      "usfm": "EZR.9.15"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    22.54,
+    35.44,
+    45.12,
+    57.04,
+    68.72,
+    84.34,
+    102.54,
+    118.46,
+    136.36,
+    143.74,
+    159.26,
+    176.24,
+    190.06,
+    203.28,
+    222.64
+  ],
+  "times_en_usfm": [
+    "EZR.9.1",
+    "EZR.9.2",
+    "EZR.9.3",
+    "EZR.9.4",
+    "EZR.9.5",
+    "EZR.9.6",
+    "EZR.9.7",
+    "EZR.9.8",
+    "EZR.9.9",
+    "EZR.9.10",
+    "EZR.9.11",
+    "EZR.9.12",
+    "EZR.9.13",
+    "EZR.9.14",
+    "EZR.9.15"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? הדיווח לעזרא כלל לא רק את העם, אלא גם את הכוהנים והלוויים: כולם, לפי דברי השרים, לא נבדלו מעמי הארצות.",
+      "text_he": "הידעת? הדיווח לעזרא כלל לא רק את העם, אלא גם את הכוהנים והלוויים: כולם, לפי דברי השרים, לא נבדלו מעמי הארצות.",
+      "text_en": "Did you know? Ezra’s report concerned not only the people, but also the priests and Levites: according to the officials, they too had not separated themselves from the peoples of the lands."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? השרים מציינים שהמנהיגים והסגנים היו הראשונים במעל, כלומר העבירה לא הייתה רק נחלת אנשים מן השורה.",
+      "text_he": "הידעת? השרים מציינים שהמנהיגים והסגנים היו הראשונים במעל, כלומר העבירה לא הייתה רק נחלת אנשים מן השורה.",
+      "text_en": "Did you know? The officials pointed out that the leaders and officials were the first to act unfaithfully, meaning the offense was not limited to ordinary people."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? תגובתו הראשונה של עזרא לשמע הדברים הייתה מעשה אבל חריף: הוא קרע את בגדיו ומעילו, מרט את שער ראשו וזקנו, וישב משומם.",
+      "text_he": "הידעת? תגובתו הראשונה של עזרא לשמע הדברים הייתה מעשה אבל חריף: הוא קרע את בגדיו ומעילו, מרט את שער ראשו וזקנו, וישב משומם.",
+      "text_en": "Did you know? Ezra’s first response when he heard these things was an intense act of mourning: he tore his garments and robe, pulled out the hair from his head and beard, and sat in shock."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? אל עזרא נאספו כל מי שחרדו לדברי אלוהי ישראל. הם נשארו עמו עד מנחת הערב, ביטוי להשתתפותם בצער ובחשבון הנפש הציבורי.",
+      "text_he": "הידעת? אל עזרא נאספו כל מי שחרדו לדברי אלוהי ישראל. הם נשארו עמו עד מנחת הערב, ביטוי להשתתפותם בצער ובחשבון הנפש הציבורי.",
+      "text_en": "Did you know? Everyone who trembled at the words of the God of Israel gathered around Ezra. They remained with him until the evening offering, expressing their shared grief and collective soul-searching."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? עזרא התפלל לאחר תעניתו, בזמן מנחת הערב: הוא כרע על ברכיו ופרש את כפיו אל ה'.",
+      "text_he": "הידעת? עזרא התפלל לאחר תעניתו, בזמן מנחת הערב: הוא כרע על ברכיו ופרש את כפיו אל ה'.",
+      "text_en": "Did you know? Ezra prayed after his fast, at the time of the evening offering: he fell on his knees and spread out his hands toward the LORD."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? בתפילתו עזרא אינו מאשים אחרים בלבד, אלא מדבר בלשון רבים: \"עֲוֹנֹתֵינוּ\" ו\"אַשְׁמָתֵנוּ\", ומכיר באחריות המשותפת של העם.",
+      "text_he": "הידעת? בתפילתו עזרא אינו מאשים אחרים בלבד, אלא מדבר בלשון רבים: \"עֲוֹנֹתֵינוּ\" ו\"אַשְׁמָתֵנוּ\", ומכיר באחריות המשותפת של העם.",
+      "text_en": "Did you know? In his prayer, Ezra does not blame only others but speaks in the plural: “our sins” and “our guilt,” acknowledging the people’s shared responsibility."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? בתוך הווידוי עזרא מזכיר גם את חסד ה': ה' השאיר לעם פליטה, נתן לו \"יָתֵד\" במקום קודשו, האיר את עיניו והעניק לו מחיה מעט.",
+      "text_he": "הידעת? בתוך הווידוי עזרא מזכיר גם את חסד ה': ה' השאיר לעם פליטה, נתן לו \"יָתֵד\" במקום קודשו, האיר את עיניו והעניק לו מחיה מעט.",
+      "text_en": "Did you know? In the midst of his confession, Ezra also recalls the LORD’s kindness: the LORD left the people a remnant, gave them “a peg” in His holy place, enlightened their eyes, and granted them a little relief."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? עזרא מתאר את מצבו של העם כעבדות, אך מדגיש שגם במצב זה ה' לא עזב אותו והטה עליו חסד לפני מלכי פרס.",
+      "text_he": "הידעת? עזרא מתאר את מצבו של העם כעבדות, אך מדגיש שגם במצב זה ה' לא עזב אותו והטה עליו חסד לפני מלכי פרס.",
+      "text_en": "Did you know? Ezra describes the people’s condition as slavery, yet emphasizes that even in this state the LORD did not abandon them but extended kindness to them before the kings of Persia."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? לאחר שהזכיר את החסד שנעשה לעם, עזרא שואל בכאב: \"מַה נֹּאמַר... אַחֲרֵי זֹאת\"—כיצד אפשר לעזוב את מצוות ה' לאחר כל הטובה הזאת?",
+      "text_he": "הידעת? לאחר שהזכיר את החסד שנעשה לעם, עזרא שואל בכאב: \"מַה נֹּאמַר... אַחֲרֵי זֹאת\"—כיצד אפשר לעזוב את מצוות ה' לאחר כל הטובה הזאת?",
+      "text_en": "Did you know? After recalling the kindness shown to the people, Ezra asks in anguish, “What can we say after this?”—How could they forsake the LORD’s commandments after all this goodness?"
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? תפילת עזרא מסתיימת בהכרה כפולה: ה' צדיק, ואילו העם עומד לפניו באשמתו, בלי יכולת לטעון לזכות על מעשיו.",
+      "text_he": "הידעת? תפילת עזרא מסתיימת בהכרה כפולה: ה' צדיק, ואילו העם עומד לפניו באשמתו, בלי יכולת לטעון לזכות על מעשיו.",
+      "text_en": "Did you know? Ezra’s prayer ends with a twofold acknowledgment: the LORD is righteous, while the people stand before Him in their guilt, with no grounds to claim innocence for their actions."
+    }
+  ]
+}
