@@ -68,108 +68,99 @@
     "וַיַּעֲבֹר מָרְדֳּכָי ממקומו, וַיַּעַשׂ כְּכֹל אֲשֶׁר־צִוְּתָה עָלָיו אֶסְתֵּר. הוא אסף את היהודים, סיפר להם על גזרת ההשמדה ועל מצבה של אסתר והורה להם לצום. נראה שבזכות מעמדו של מרדכי בעיני היהודים עלה בידו לכנסם, והם קיבלו את סמכותו ונשמעו לו."
   ],
   "ai_explanation": [
-    "מרדכי, שהיה פקיד גבוה בסביבת המלך, ידע את מלוא חומרת הגזרה, כנראה משום שהיה מן הראשונים שקראו את העתקיה. הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה — גם תפילה ותחנונים לאלוקים וגם מחאה כלפי השלטונות.",
-    "מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, משום שעל פי תקנות הלבוש הממלכתיות אסור היה להיכנס לשער המלך בלבוש שק.",
-    "בכל מקום שאליו הגיעה פקודת המלך שרר בקרב היהודים אבל גדול, והם צמו, בכו והתאבלו. שק ואפר הושטח בחוצות לשימוש הרבים.",
-    "נערות אסתר וסריסיה סיפרו לה על מעשיו של מרדכי, והיא נחרדה מאוד משום שלא ידעה על המתרחש. היא שלחה לו בגדים כדי להסיר את שקו, אך מרדכי לא קיבל אותם ולא הסיר את שקו.",
-    "אסתר קראה להתך, שהיה סריס המלך בעל סמכות לסייע למלכה, וציוותה עליו לברר אצל מרדכי מה פשר התנהגותו ומה מבוקשו.",
-    "התך יצא אל מרדכי, אל רחבת העיר שלפני שער המלך, מפני שמרדכי לא ניגש אל השער עצמו. שם שאל אותו לפשר מעשיו.",
-    "מרדכי סיפר להתך את כל אשר קרה ואת פרשת הכסף שהמן אמר לשקול אל גנזי המלך תמורת אובדן היהודים. ייתכן שלא הדגיש את סירובו להשתחוות להמן, משום שראה בגזרת המן המשך לשנאה של בני עמלק.",
-    "מרדכי מסר להתך העתק של כתב הדת שניתן בשושן, כדי שיראה אותו לאסתר ויסביר לה את המצב. הוא ציווה עליה בשמו לבוא אל המלך, להתחנן לפניו ולבקש ממנו על עמה, מפני שהיא היחידה שיכלה לנסות לעצור את המן.",
-    "התך בא אל אסתר ומסר לה את דברי מרדכי.",
-    "אסתר ציוותה על התך להשיב אל מרדכי את הדברים הבאים.",
-    "אסתר הסבירה שכל מי שנכנס אל החצר הפנימית בלי שנקרא לכך צפוי למיתה, אלא אם המלך מושיט לו את שרביט הזהב. היא עצמה לא נקראה אל המלך זה שלושים יום, ולכן כניסה בלתי מוזמנת מסכנת את חייה.",
-    "התך וסביבתו מסרו למרדכי את דברי אסתר.",
-    "מרדכי השיב לאסתר שלא תחשוב שהיותה בבית המלך יגן עליה מכל היהודים ויציל אותה מגזרת המן.",
-    "מרדכי הזהיר שאם תשתוק ולא תפעל, תבוא הצלה ליהודים ממקום אחר, אך היא ובית אביה יאבדו. הוא העלה את האפשרות שאסתר הגיעה למלכות דווקא כדי לפעול בזמן הזה ולהציל את עמה, ושבצירוף זה יש משמעות משמים.",
-    "אסתר קיבלה את דברי מרדכי וציוותה להשיב לו באמצעות שליח.",
-    "אסתר ביקשה ממרדכי לכנס את יהודי שושן לתפילה ולצום של שלושה ימים ושלוש יממות, וגם היא ונערותיה יצומו. לאחר מכן תיכנס אל המלך שלא כחוק, כשהיא מוכנה לכך שאם תאבד — תאבד.",
-    "מרדכי עבר ממקומו ועשה ככל אשר ציוותה עליו אסתר: הוא כינס את היהודים, סיפר להם על הגזרה ועל מצבה של אסתר, והורה להם לצום. בזכות מעמדו בעיני היהודים הם קיבלו את סמכותו ונשמעו לו."
+    "מרדכי, שהיה פקיד בכיר בסביבת המלך, הבין במהירות את חומרת הגזרה ואת השפעתו של המן על חצר המלוכה. לכן קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה של תפילה, תחנונים ומחאה.",
+    "מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, מפני שתקנות הלבוש אסרו להיכנס לשער בלבוש שק.",
+    "בכל מקום שאליו הגיעה פקודת המלך התאבלו היהודים, צמו, בכו וספדו. שק ואפר הוכנו ברחובות לשימוש הציבור.",
+    "נערות אסתר וסריסיה סיפרו לה על מעשי מרדכי, והיא הזדעזעה מפני שלא ידעה על הגזרה. היא שלחה לו בגדים כדי שיוכל להיכנס לשער המלך, אך מרדכי סירב להסיר את שקו.",
+    "אסתר קראה להתך, שהיה סריס בעל סמכות שסייע למלכה, וציוותה עליו לברר מה פשר התנהגותו של מרדכי ומה מבוקשו.",
+    "התך יצא אל מרדכי, שהיה ברחבת העיר לפני שער המלך, משום שמרדכי לא נכנס לשער בלבוש שק.",
+    "מרדכי סיפר להתך את כל אשר קרה ואת פרשת הכסף שהמן הציע להביא לגנזי המלך תמורת השמדת היהודים. לפי הפירוש, ייתכן שלא הדגיש את סירובו להשתחוות להמן, אלא את שנאתו של המן ליהודים ואת חומרת הגזרה.",
+    "מרדכי מסר להתך העתק של כתב הגזרה שניתן בשושן, כדי שיראה אותו לאסתר ויסביר לה את המצב. הוא ציווה עליה לבוא אל המלך, להתחנן לפניו ולבקש הצלה לעמה, משום שהיא היחידה שיכלה להשפיע על המלך.",
+    "התך חזר אל אסתר ומסר לה את דברי מרדכי.",
+    "אסתר ציוותה על התך לשוב אל מרדכי ולמסור לו את תשובתה.",
+    "אסתר הסבירה שכל כניסה אל החצר הפנימית של המלך ללא הזמנה עלולה להביא למוות, אלא אם המלך מושיט את שרביטו. היא הוסיפה שלא נקראה אל המלך זה שלושים יום, ולכן כניסה אליו עלולה לסכן את חייה.",
+    "השליחים מסרו למרדכי את דברי אסתר.",
+    "מרדכי השיב לאסתר שלא תחשוב שבית המלך יגן עליה מפני גורל היהודים.",
+    "מרדכי הזהיר שאם תשתוק ולא תפעל, היהודים יינצלו בדרך אחרת, אך היא ובית אביה יאבדו. הוא העלה את האפשרות שאסתר הגיעה למלכות דווקא כדי לפעול בשעה זו ולהציל את עמה.",
+    "אסתר קיבלה את דברי מרדכי והשיבה לו באמצעות שליח.",
+    "אסתר ביקשה ממרדכי לכנס את יהודי שושן לצום ולתפילה במשך שלושה ימים ולילות, וגם היא ונערותיה יצומו. לאחר מכן החליטה להיכנס אל המלך שלא כחוק, גם אם הדבר יעלה לה בחייה.",
+    "מרדכי עזב את מקומו ופעל בדיוק כפי שאסתר ציוותה עליו. הוא כינס את היהודים, סיפר להם על הגזרה ועל מצבה של אסתר, והורה להם לצום."
   ],
   "ai_explanation_en": [
-    "Mordecai, a high official in the king’s surroundings, understood the full severity of the decree, probably because he was among the first to read its copies. He tore his clothes, put on sackcloth and ashes, and went out crying loudly and bitterly—both a prayer and plea to God and a protest against the authorities.",
-    "Mordecai came as far as the area before the king’s gate but did not enter, because the royal dress regulations forbade entering the king’s gate while wearing sackcloth.",
-    "Everywhere the king’s decree reached, the Jews mourned greatly, fasting, weeping, and lamenting. Sackcloth and ashes were spread in the streets for public use.",
-    "Esther’s young women and eunuchs told her about Mordecai’s actions, and she was deeply shaken because she had not known what was happening. She sent him clothes so that he would remove his sackcloth, but Mordecai refused them and did not remove it.",
-    "Esther called Hathach, a royal eunuch who had authority to assist the queen, and ordered him to find out from Mordecai what his behavior meant and what he wanted.",
-    "Hathach went out to Mordecai, to the city square before the king’s gate, because Mordecai had not approached the gate itself. There he asked Mordecai about the reason for his actions.",
-    "Mordecai told Hathach everything that had happened, including the matter of the money Haman had said he would weigh into the royal treasuries in exchange for destroying the Jews. He may not have emphasized his refusal to bow to Haman, since he viewed Haman’s decree as a continuation of the hatred inherited from Haman’s Amalekite ancestors.",
-    "Mordecai gave Hathach a copy of the written decree issued in Susa, so that he could show it to Esther and explain the situation to her. He ordered her, in his name, to go to the king, plead before him, and request help for her people, since she alone could try to stop Haman.",
-    "Hathach came to Esther and conveyed Mordecai’s message to her.",
-    "Esther ordered Hathach to return to Mordecai with the following response.",
-    "Esther explained that anyone who entered the inner court without being summoned was liable to die unless the king extended the golden scepter to him. She herself had not been summoned to the king for thirty days, so entering without an invitation would endanger her life.",
-    "Hathach and those around him conveyed Esther’s words to Mordecai.",
-    "Mordecai replied to Esther that she should not think that being in the royal palace would protect her from the decree against all the Jews.",
-    "Mordecai warned that if she remained silent and did nothing, deliverance for the Jews would arise from another source, but she and her father’s household would perish. He suggested that perhaps Esther had attained the throne precisely to act at this moment and save her people, and that this coincidence carried a heavenly meaning.",
-    "Esther accepted Mordecai’s words and ordered that a reply be sent to him through a messenger.",
-    "Esther asked Mordecai to gather the Jews of Susa for prayer and a three-day fast, and she and her young women would fast as well. Afterward she would enter the king’s presence unlawfully, prepared for the possibility that if she perished, she perished.",
-    "Mordecai moved from his place and did everything Esther had commanded: he gathered the Jews, told them about the decree and Esther’s situation, and instructed them to fast. Because of his standing among the Jews, they accepted his authority and obeyed him."
+    "Mordecai, a senior official in the king’s surroundings, quickly understood the severity of the decree and Haman’s influence at the royal court. He therefore tore his clothes, put on sackcloth and ashes, and went out crying loudly in prayer, supplication, and protest.",
+    "Mordecai came as far as the king’s gate but did not enter, because the dress regulations forbade entering the gate while wearing sackcloth.",
+    "Everywhere the king’s decree reached, the Jews mourned, fasted, wept, and lamented. Sackcloth and ashes were spread in the streets for public use.",
+    "Esther’s maidservants and eunuchs told her about Mordecai’s actions, and she was deeply shocked because she had not known about the decree. She sent him clothes so that he could enter the king’s gate, but Mordecai refused to remove his sackcloth.",
+    "Esther summoned Hathach, a eunuch with authority who assisted the queen, and ordered him to find out what Mordecai’s behavior meant and what he wanted.",
+    "Hathach went out to Mordecai, who was in the city square before the king’s gate, because Mordecai could not enter the gate while wearing sackcloth.",
+    "Mordecai told Hathach everything that had happened and about the money Haman had offered to bring to the royal treasury in exchange for destroying the Jews. According to the commentary, he may not have emphasized his refusal to bow to Haman, but rather Haman’s hatred of the Jews and the severity of the decree.",
+    "Mordecai gave Hathach a copy of the decree issued in Susa so that he could show it to Esther and explain the situation. He ordered her to go to the king, plead before him, and ask for salvation for her people, because she was the only person who could influence the king.",
+    "Hathach returned to Esther and delivered Mordecai’s message.",
+    "Esther ordered Hathach to return to Mordecai and deliver her reply.",
+    "Esther explained that entering the king’s inner court without being summoned could result in death, unless the king extended his scepter. She added that she had not been summoned by the king for thirty days, so approaching him could endanger her life.",
+    "The messengers delivered Esther’s words to Mordecai.",
+    "Mordecai replied that Esther should not think that the royal palace would protect her from the fate of the Jews.",
+    "Mordecai warned that if she remained silent and did nothing, the Jews would be saved by another means, but she and her father’s family would perish. He suggested that Esther may have become queen precisely so that she could act at this moment and save her people.",
+    "Esther accepted Mordecai’s words and sent her reply through a messenger.",
+    "Esther asked Mordecai to gather the Jews of Susa for three days and nights of fasting and prayer, while she and her maidservants would fast as well. She then decided to enter the king’s presence unlawfully, even if it cost her life.",
+    "Mordecai left his place and did exactly as Esther had ordered. He gathered the Jews, told them about the decree and Esther’s situation, and instructed them to fast."
   ],
   "perush": [
-    "מרדכי, שהיה פקיד גבוה בסביבת המלך, ידע את מלוא חומרת הגזרה, כנראה משום שהיה מן הראשונים שקראו את העתקיה. הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה — גם תפילה ותחנונים לאלוקים וגם מחאה כלפי השלטונות.",
-    "מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, משום שעל פי תקנות הלבוש הממלכתיות אסור היה להיכנס לשער המלך בלבוש שק.",
-    "בכל מקום שאליו הגיעה פקודת המלך שרר בקרב היהודים אבל גדול, והם צמו, בכו והתאבלו. שק ואפר הושטח בחוצות לשימוש הרבים.",
-    "נערות אסתר וסריסיה סיפרו לה על מעשיו של מרדכי, והיא נחרדה מאוד משום שלא ידעה על המתרחש. היא שלחה לו בגדים כדי להסיר את שקו, אך מרדכי לא קיבל אותם ולא הסיר את שקו.",
-    "אסתר קראה להתך, שהיה סריס המלך בעל סמכות לסייע למלכה, וציוותה עליו לברר אצל מרדכי מה פשר התנהגותו ומה מבוקשו.",
-    "התך יצא אל מרדכי, אל רחבת העיר שלפני שער המלך, מפני שמרדכי לא ניגש אל השער עצמו. שם שאל אותו לפשר מעשיו.",
-    "מרדכי סיפר להתך את כל אשר קרה ואת פרשת הכסף שהמן אמר לשקול אל גנזי המלך תמורת אובדן היהודים. ייתכן שלא הדגיש את סירובו להשתחוות להמן, משום שראה בגזרת המן המשך לשנאה של בני עמלק.",
-    "מרדכי מסר להתך העתק של כתב הדת שניתן בשושן, כדי שיראה אותו לאסתר ויסביר לה את המצב. הוא ציווה עליה בשמו לבוא אל המלך, להתחנן לפניו ולבקש ממנו על עמה, מפני שהיא היחידה שיכלה לנסות לעצור את המן.",
-    "התך בא אל אסתר ומסר לה את דברי מרדכי.",
-    "אסתר ציוותה על התך להשיב אל מרדכי את הדברים הבאים.",
-    "אסתר הסבירה שכל מי שנכנס אל החצר הפנימית בלי שנקרא לכך צפוי למיתה, אלא אם המלך מושיט לו את שרביט הזהב. היא עצמה לא נקראה אל המלך זה שלושים יום, ולכן כניסה בלתי מוזמנת מסכנת את חייה.",
-    "התך וסביבתו מסרו למרדכי את דברי אסתר.",
-    "מרדכי השיב לאסתר שלא תחשוב שהיותה בבית המלך יגן עליה מכל היהודים ויציל אותה מגזרת המן.",
-    "מרדכי הזהיר שאם תשתוק ולא תפעל, תבוא הצלה ליהודים ממקום אחר, אך היא ובית אביה יאבדו. הוא העלה את האפשרות שאסתר הגיעה למלכות דווקא כדי לפעול בזמן הזה ולהציל את עמה, ושבצירוף זה יש משמעות משמים.",
-    "אסתר קיבלה את דברי מרדכי וציוותה להשיב לו באמצעות שליח.",
-    "אסתר ביקשה ממרדכי לכנס את יהודי שושן לתפילה ולצום של שלושה ימים ושלוש יממות, וגם היא ונערותיה יצומו. לאחר מכן תיכנס אל המלך שלא כחוק, כשהיא מוכנה לכך שאם תאבד — תאבד.",
-    "מרדכי עבר ממקומו ועשה ככל אשר ציוותה עליו אסתר: הוא כינס את היהודים, סיפר להם על הגזרה ועל מצבה של אסתר, והורה להם לצום. בזכות מעמדו בעיני היהודים הם קיבלו את סמכותו ונשמעו לו."
+    "מרדכי, שהיה פקיד בכיר בסביבת המלך, הבין במהירות את חומרת הגזרה ואת השפעתו של המן על חצר המלוכה. לכן קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה של תפילה, תחנונים ומחאה.",
+    "מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, מפני שתקנות הלבוש אסרו להיכנס לשער בלבוש שק.",
+    "בכל מקום שאליו הגיעה פקודת המלך התאבלו היהודים, צמו, בכו וספדו. שק ואפר הוכנו ברחובות לשימוש הציבור.",
+    "נערות אסתר וסריסיה סיפרו לה על מעשי מרדכי, והיא הזדעזעה מפני שלא ידעה על הגזרה. היא שלחה לו בגדים כדי שיוכל להיכנס לשער המלך, אך מרדכי סירב להסיר את שקו.",
+    "אסתר קראה להתך, שהיה סריס בעל סמכות שסייע למלכה, וציוותה עליו לברר מה פשר התנהגותו של מרדכי ומה מבוקשו.",
+    "התך יצא אל מרדכי, שהיה ברחבת העיר לפני שער המלך, משום שמרדכי לא נכנס לשער בלבוש שק.",
+    "מרדכי סיפר להתך את כל אשר קרה ואת פרשת הכסף שהמן הציע להביא לגנזי המלך תמורת השמדת היהודים. לפי הפירוש, ייתכן שלא הדגיש את סירובו להשתחוות להמן, אלא את שנאתו של המן ליהודים ואת חומרת הגזרה.",
+    "מרדכי מסר להתך העתק של כתב הגזרה שניתן בשושן, כדי שיראה אותו לאסתר ויסביר לה את המצב. הוא ציווה עליה לבוא אל המלך, להתחנן לפניו ולבקש הצלה לעמה, משום שהיא היחידה שיכלה להשפיע על המלך.",
+    "התך חזר אל אסתר ומסר לה את דברי מרדכי.",
+    "אסתר ציוותה על התך לשוב אל מרדכי ולמסור לו את תשובתה.",
+    "אסתר הסבירה שכל כניסה אל החצר הפנימית של המלך ללא הזמנה עלולה להביא למוות, אלא אם המלך מושיט את שרביטו. היא הוסיפה שלא נקראה אל המלך זה שלושים יום, ולכן כניסה אליו עלולה לסכן את חייה.",
+    "השליחים מסרו למרדכי את דברי אסתר.",
+    "מרדכי השיב לאסתר שלא תחשוב שבית המלך יגן עליה מפני גורל היהודים.",
+    "מרדכי הזהיר שאם תשתוק ולא תפעל, היהודים יינצלו בדרך אחרת, אך היא ובית אביה יאבדו. הוא העלה את האפשרות שאסתר הגיעה למלכות דווקא כדי לפעול בשעה זו ולהציל את עמה.",
+    "אסתר קיבלה את דברי מרדכי והשיבה לו באמצעות שליח.",
+    "אסתר ביקשה ממרדכי לכנס את יהודי שושן לצום ולתפילה במשך שלושה ימים ולילות, וגם היא ונערותיה יצומו. לאחר מכן החליטה להיכנס אל המלך שלא כחוק, גם אם הדבר יעלה לה בחייה.",
+    "מרדכי עזב את מקומו ופעל בדיוק כפי שאסתר ציוותה עליו. הוא כינס את היהודים, סיפר להם על הגזרה ועל מצבה של אסתר, והורה להם לצום."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "מרדכי והאבל על גזרת ההשמדה",
-      "title_en": "Mordecai and Mourning over the Decree",
+      "title": "אבל ומחאה בעקבות גזרת ההשמדה",
+      "title_en": "Mourning and Protest after the Decree",
       "start_verse": 1,
       "end_verse": 3,
-      "summary": "מרדכי מבין ראשון את חומרת הגזרה, מתאבל בפומבי וזועק בתפילה ובמחאה. הידיעה מתפשטת ברחבי הממלכה, והיהודים מגיבים באבל, בצום ובשק ואפר.",
-      "summary_en": "Mordecai is among the first to understand the severity of the decree, and he mourns publicly through prayer and protest. As the news spreads throughout the kingdom, the Jews respond with mourning, fasting, and sackcloth and ashes.",
-      "image_prompt": "A solemn biblical scene in which a distressed Jewish official in sackcloth and ashes cries out in a city street, while mourners across the surrounding streets fast and sit near publicly spread sackcloth and ashes; no text, respectful educational illustration."
+      "summary": "מרדכי והיהודים מגיבים בגילויי אבל, צום, בכי וזעקה לאחר שנודע דבר הגזרה. מרדכי מבין את חומרת הסכנה ומוחה בתפילה ובתחנונים, ואילו היהודים בכל המדינות מתאבלים ומתכוננים לצום.",
+      "summary_en": "Mordecai and the Jews respond to the decree with mourning, fasting, weeping, and cries of distress. Mordecai recognizes the seriousness of the danger and protests through prayer and supplication, while the Jews throughout the provinces mourn and prepare to fast.",
+      "image_prompt": "Mordecai wearing sackcloth and ashes, crying out in the city before the king’s gate, while Jewish people in the surrounding streets mourn and prepare sackcloth and ashes, biblical Persian palace setting, respectful and historically restrained, no modern objects"
     },
     {
-      "title": "אסתר מנסה לברר את מצבו של מרדכי",
-      "title_en": "Esther Tries to Understand Mordecai’s Distress",
+      "title": "אסתר נודעת לגזרה ומבררת את מצבו של מרדכי",
+      "title_en": "Esther Learns of the Decree and Investigates Mordecai’s Situation",
       "start_verse": 4,
-      "end_verse": 6,
-      "summary": "אסתר נחרדת כשנודע לה על מרדכי, אך הוא מסרב להחליף את שקו. היא שולחת את התך, סריס בעל סמכות, כדי לברר את פשר התנהגותו.",
-      "summary_en": "Esther is deeply shaken when she learns about Mordecai, but he refuses to change out of his sackcloth. She sends Hathach, a eunuch with authority to assist her, to discover the reason for his behavior.",
-      "image_prompt": "Inside a royal women’s chamber, a concerned queen sends a trusted messenger toward the city square, where a man in sackcloth waits outside the king’s gate; no text, historically restrained biblical illustration."
-    },
-    {
-      "title": "מרדכי מבקש מאסתר לפעול",
-      "title_en": "Mordecai Urges Esther to Act",
-      "start_verse": 7,
       "end_verse": 10,
-      "summary": "מרדכי מוסר להתך את פרטי הגזרה, את הצעת הכסף של המן ואת העתק כתב הדת. הוא מבקש מאסתר לבוא אל המלך ולהתחנן לפניו על עמה, והתך מעביר לה את הדברים.",
-      "summary_en": "Mordecai tells Hathach about the decree, Haman’s offer of money, and the copy of the written law. He asks Esther to go to the king and plead for her people, and Hathach conveys the message to her.",
-      "image_prompt": "A messenger receives a sealed written decree from a grieving official outside a royal gate, preparing to carry it to the queen; restrained palace setting, no visible invented inscriptions, no text."
+      "summary": "אסתר מזדעזעת כאשר נודע לה שמרדכי לבוש שק, אך הוא מסרב להחליף את בגדיו. היא שולחת את התך לברר את פשר הדבר, ומרדכי מוסר לו את פרטי הגזרה, את העתק הכתב ואת הדרישה שאסתר תפנה אל המלך.",
+      "summary_en": "Esther is shocked to learn that Mordecai is wearing sackcloth, but he refuses to change his clothes. She sends Hathach to investigate, and Mordecai gives him the details of the decree, a copy of the written order, and the demand that Esther approach the king.",
+      "image_prompt": "Queen Esther inside the women’s quarters speaking urgently with Hathach, while a messenger receives instructions to meet Mordecai outside the king’s gate, Persian palace interior, biblical atmosphere, no modern objects"
     },
     {
-      "title": "הסכנה שבכניסה אל המלך והאזהרה למלכה",
-      "title_en": "The Danger of Approaching the King",
+      "title": "סכנת הכניסה אל המלך והאחריות של אסתר",
+      "title_en": "The Danger of Entering the King and Esther’s Responsibility",
       "start_verse": 11,
       "end_verse": 14,
-      "summary": "אסתר מסבירה שהכניסה אל החצר הפנימית ללא הזמנה עלולה להביא למוות, ובפרט לאחר שלא נקראה אל המלך שלושים יום. מרדכי משיב שאין לה לבטוח בהגנת הארמון, ומעלה את האפשרות שהגיעה למלכות כדי לפעול ולהציל את היהודים.",
-      "summary_en": "Esther explains that entering the inner court without an invitation may lead to death, especially since the king has not summoned her for thirty days. Mordecai replies that she must not rely on the palace for protection and suggests that she may have attained royalty in order to act and save the Jews.",
-      "image_prompt": "A tense exchange conveyed through a royal messenger: the queen stands within a guarded palace interior while the distressed official waits outside the forbidden inner court; symbolic golden scepter visible, no text."
+      "summary": "אסתר מסבירה שהכניסה אל החצר הפנימית ללא הזמנה עלולה להביא למוות, במיוחד לאחר שלא נקראה אל המלך במשך שלושים יום. מרדכי משיב שאין לה להסתתר בארמון, ומעלה את האפשרות שהגיעה למלכות דווקא כדי לפעול למען עמה בשעה זו.",
+      "summary_en": "Esther explains that entering the inner court without an invitation may result in death, especially since she has not been summoned by the king for thirty days. Mordecai replies that she cannot hide in the palace and suggests that she may have become queen precisely to act for her people at this moment.",
+      "image_prompt": "Esther and Hathach in a tense conversation near the entrance to the king’s inner court, with the golden royal scepter symbolically visible inside, Persian palace architecture, solemn biblical style, no modern objects"
     },
     {
-      "title": "הצום וההחלטה של אסתר",
-      "title_en": "The Fast and Esther’s Decision",
+      "title": "צום והחלטה להיכנס אל המלך",
+      "title_en": "Fasting and the Decision to Approach the King",
       "start_verse": 15,
       "end_verse": 17,
-      "summary": "אסתר מקבלת את דברי מרדכי ומבקשת צום ותפילה של שלושה ימים מכל יהודי שושן, וגם היא ונערותיה יצומו. לאחר מכן היא מחליטה להיכנס אל המלך שלא כחוק, ומרדכי מבצע את הוראותיה ומכנס את היהודים.",
-      "summary_en": "Esther accepts Mordecai’s words and asks all the Jews of Susa to pray and fast for three days, while she and her young women fast as well. She then decides to enter the king’s presence unlawfully, and Mordecai carries out her instructions by gathering the Jews.",
-      "image_prompt": "A solemn community gathered for a three-day fast and prayer, with Esther shown resolute in the palace and Mordecai organizing the people outside; reverent biblical educational illustration, no text."
+      "summary": "אסתר מקבלת את דברי מרדכי ומבקשת לכנס את יהודי שושן לצום ולתפילה במשך שלושה ימים, יחד עם נערותיה. לאחר מכן היא מחליטה להיכנס אל המלך שלא כחוק, ומרדכי מבצע את כל הוראותיה.",
+      "summary_en": "Esther accepts Mordecai’s words and asks that the Jews of Susa gather for three days of fasting and prayer, together with her maidservants. She then decides to enter the king’s presence unlawfully, and Mordecai carries out all her instructions.",
+      "image_prompt": "Jewish people gathered in Susa for a solemn communal fast and prayer, while Esther prepares courageously in the palace and Mordecai organizes the gathering, biblical Persian setting, respectful and subdued, no modern objects"
     }
   ],
   "times": [],
@@ -306,63 +297,63 @@
   "did_you_know": [
     {
       "verse": 1,
-      "text": "הידעת? מרדכי הגיב לגזרת ההשמדה באבל פומבי: הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה ברחובות העיר.",
-      "text_he": "הידעת? מרדכי הגיב לגזרת ההשמדה באבל פומבי: הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה ברחובות העיר.",
-      "text_en": "Did you know? Mordecai responded to the decree of destruction by mourning publicly: he tore his clothes, put on sackcloth and ashes, and went out into the city, crying out loudly and bitterly."
+      "text": "הידעת? כשמרדכי שמע על גזרת ההשמדה, הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה בתוך העיר. כך מתאר הכתוב את תגובתו המיידית לסכנה.",
+      "text_he": "הידעת? כשמרדכי שמע על גזרת ההשמדה, הוא קרע את בגדיו, לבש שק ואפר, ויצא לזעוק זעקה גדולה ומרה בתוך העיר. כך מתאר הכתוב את תגובתו המיידית לסכנה.",
+      "text_en": "Did you know? When Mordecai heard about the decree of destruction, he tore his clothes, put on sackcloth and ashes, and went out into the city, crying out loudly and bitterly. This is how Scripture describes his immediate response to the danger."
     },
     {
       "verse": 2,
-      "text": "הידעת? אף שמרדכי הגיע עד לפני שער המלך, הוא לא נכנס אליו, משום שעל פי מנהג המקום אסור היה להיכנס לשער המלך בלבוש שק.",
-      "text_he": "הידעת? אף שמרדכי הגיע עד לפני שער המלך, הוא לא נכנס אליו, משום שעל פי מנהג המקום אסור היה להיכנס לשער המלך בלבוש שק.",
-      "text_en": "Did you know? Although Mordecai went as far as the king’s gate, he did not enter it, because according to local custom, no one was allowed to enter the king’s gate wearing sackcloth."
+      "text": "הידעת? מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, משום שלא היה מותר לבוא אל שער המלך בלבוש שק.",
+      "text_he": "הידעת? מרדכי הגיע עד לפני שער המלך, אך לא נכנס אליו, משום שלא היה מותר לבוא אל שער המלך בלבוש שק.",
+      "text_en": "Did you know? Mordecai went as far as the king’s gate, but he did not enter, because no one was allowed to enter the king’s gate wearing sackcloth."
     },
     {
       "verse": 3,
-      "text": "הידעת? האבל לא היה רק של מרדכי: בכל מדינות המלך היהודים צמו, בכו וספדו, והשק והאפר הוצעו לרבים.",
-      "text_he": "הידעת? האבל לא היה רק של מרדכי: בכל מדינות המלך היהודים צמו, בכו וספדו, והשק והאפר הוצעו לרבים.",
-      "text_en": "Did you know? Mordecai was not the only one mourning: throughout all the king’s provinces, the Jews fasted, wept, and mourned, and many put on sackcloth and ashes."
+      "text": "הידעת? האבל לא היה רק של מרדכי: בכל מדינה ומדינה שאליה הגיעה גזרת המלך היו היהודים באבל גדול, בצום, בבכי ובמספד, ורבים לבשו שק ואפר.",
+      "text_he": "הידעת? האבל לא היה רק של מרדכי: בכל מדינה ומדינה שאליה הגיעה גזרת המלך היו היהודים באבל גדול, בצום, בבכי ובמספד, ורבים לבשו שק ואפר.",
+      "text_en": "Did you know? Mordecai was not the only one mourning: in every province reached by the king’s decree, the Jews mourned deeply, fasting, weeping, and lamenting, and many wore sackcloth and ashes."
     },
     {
       "verse": 4,
-      "text": "הידעת? אסתר ניסתה להחליף את לבוש האבל של מרדכי בבגדים רגילים, אך הוא סירב לקבל אותם; הדבר גרם לה להיבהל מאוד.",
-      "text_he": "הידעת? אסתר ניסתה להחליף את לבוש האבל של מרדכי בבגדים רגילים, אך הוא סירב לקבל אותם; הדבר גרם לה להיבהל מאוד.",
-      "text_en": "Did you know? Esther tried to replace Mordecai’s mourning clothes with ordinary garments, but he refused to accept them; this caused her great alarm."
+      "text": "הידעת? כאשר אסתר שמעה שמרדכי לבוש שק, היא נבהלה ושלחה לו בגדים כדי שיחליף את לבושו, אך מרדכי לא קיבל אותם.",
+      "text_he": "הידעת? כאשר אסתר שמעה שמרדכי לבוש שק, היא נבהלה ושלחה לו בגדים כדי שיחליף את לבושו, אך מרדכי לא קיבל אותם.",
+      "text_en": "Did you know? When Esther heard that Mordecai was wearing sackcloth, she was greatly distressed and sent him clothes to replace what he was wearing, but Mordecai refused them."
     },
     {
-      "verse": 6,
-      "text": "הידעת? אסתר שלחה את התך, מסריסי המלך שהועמדו לפניה, כדי לברר מדוע מרדכי מתאבל ומה בדיוק קרה.",
-      "text_he": "הידעת? אסתר שלחה את התך, מסריסי המלך שהועמדו לפניה, כדי לברר מדוע מרדכי מתאבל ומה בדיוק קרה.",
-      "text_en": "Did you know? Esther sent Hathach, one of the king’s eunuchs appointed to attend her, to find out why Mordecai was mourning and what had happened."
+      "verse": 5,
+      "text": "הידעת? אסתר לא הסתפקה בשמועה על מצבו של מרדכי. היא שלחה את התך לברר מה קרה ומדוע הוא מתאבל, והתך יצא אליו אל הרחוב שלפני שער המלך.",
+      "text_he": "הידעת? אסתר לא הסתפקה בשמועה על מצבו של מרדכי. היא שלחה את התך לברר מה קרה ומדוע הוא מתאבל, והתך יצא אליו אל הרחוב שלפני שער המלך.",
+      "text_en": "Did you know? Esther did not settle for merely hearing about Mordecai’s condition. She sent Hathach to find out what had happened and why he was mourning, and Hathach went to him in the street in front of the king’s gate."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? מרדכי מסר לתך את פרטי הגזרה, ובכלל זה את סכום הכסף שהמן הציע לשקול אל גנזי המלך תמורת השמדת היהודים.",
+      "text_he": "הידעת? מרדכי מסר לתך את פרטי הגזרה, ובכלל זה את סכום הכסף שהמן הציע לשקול אל גנזי המלך תמורת השמדת היהודים.",
+      "text_en": "Did you know? Mordecai told Hathach the details of the decree, including the amount of money Haman had offered to weigh out into the royal treasury in exchange for the destruction of the Jews."
     },
     {
       "verse": 8,
-      "text": "הידעת? מרדכי מסר להתך גם את העתק כתב הדת שניתן בשושן, כדי שאסתר תראה את הגזרה ותבין שעליה לבקש מן המלך רחמים על עמה.",
-      "text_he": "הידעת? מרדכי מסר להתך גם את העתק כתב הדת שניתן בשושן, כדי שאסתר תראה את הגזרה ותבין שעליה לבקש מן המלך רחמים על עמה.",
-      "text_en": "Did you know? Mordecai also gave Hathach a copy of the written decree issued in Susa, so that Esther could see the order and understand that she needed to appeal to the king for mercy on behalf of her people."
+      "text": "הידעת? מרדכי מסר לתך גם העתק של כתב-הדת שניתן בשושן, כדי להראותו לאסתר, וביקש ממנה לפנות אל המלך ולהתחנן על עמה.",
+      "text_he": "הידעת? מרדכי מסר לתך גם העתק של כתב-הדת שניתן בשושן, כדי להראותו לאסתר, וביקש ממנה לפנות אל המלך ולהתחנן על עמה.",
+      "text_en": "Did you know? Mordecai also gave Hathach a copy of the written decree issued in Susa, so he could show it to Esther, and he asked her to go to the king and plead for her people."
     },
     {
       "verse": 11,
-      "text": "הידעת? אסתר הסבירה שכניסה אל החצר הפנימית של המלך בלי שנקראו אליה הייתה עלולה להביא למוות, אלא אם המלך הושיט את שרביט הזהב. היא גם ציינה שלא נקראה אל המלך במשך שלושים יום.",
-      "text_he": "הידעת? אסתר הסבירה שכניסה אל החצר הפנימית של המלך בלי שנקראו אליה הייתה עלולה להביא למוות, אלא אם המלך הושיט את שרביט הזהב. היא גם ציינה שלא נקראה אל המלך במשך שלושים יום.",
-      "text_en": "Did you know? Esther explained that entering the king’s inner court without being summoned could result in death, unless the king extended his golden scepter. She also noted that she had not been summoned to the king for thirty days."
+      "text": "הידעת? הכניסה אל החצר הפנימית של המלך ללא הזמנה הייתה כרוכה בסכנת מוות. החריג היחיד היה מצב שבו המלך הושיט את שרביט הזהב, ואז הנכנס היה נשאר בחיים; אסתר ציינה שלא נקראה אל המלך במשך שלושים יום.",
+      "text_he": "הידעת? הכניסה אל החצר הפנימית של המלך ללא הזמנה הייתה כרוכה בסכנת מוות. החריג היחיד היה מצב שבו המלך הושיט את שרביט הזהב, ואז הנכנס היה נשאר בחיים; אסתר ציינה שלא נקראה אל המלך במשך שלושים יום.",
+      "text_en": "Did you know? Entering the king’s inner court without being summoned was punishable by death. The only exception was when the king extended the golden scepter; then the person who entered would live. Esther added that she had not been summoned to the king for thirty days."
     },
     {
-      "verse": 14,
-      "text": "הידעת? מרדכי הזהיר את אסתר שלא להניח שהימצאותה בארמון תגן עליה, והעלה את האפשרות שהגיעה למלכות דווקא כדי לפעול בשעה גורלית זו.",
-      "text_he": "הידעת? מרדכי הזהיר את אסתר שלא להניח שהימצאותה בארמון תגן עליה, והעלה את האפשרות שהגיעה למלכות דווקא כדי לפעול בשעה גורלית זו.",
-      "text_en": "Did you know? Mordecai warned Esther not to assume that living in the palace would protect her, and suggested that perhaps she had become queen precisely to act at this critical moment."
+      "verse": 13,
+      "text": "הידעת? מרדכי הזהיר את אסתר שלא לחשוב שתוכל להימלט בבית המלך מכל היהודים, כלומר להסתתר בארמון בשעה שעמה נתון בסכנה.",
+      "text_he": "הידעת? מרדכי הזהיר את אסתר שלא לחשוב שתוכל להימלט בבית המלך מכל היהודים, כלומר להסתתר בארמון בשעה שעמה נתון בסכנה.",
+      "text_en": "Did you know? Mordecai warned Esther not to think that she could escape in the king’s palace while all the other Jews were in danger—in other words, that she could hide in the palace while her people faced destruction."
     },
     {
       "verse": 16,
-      "text": "הידעת? אסתר לא פעלה לבדה: היא ביקשה מכל יהודי שושן לצום שלושה ימים, וגם היא ונערותיה צמו, לפני שנכנסה אל המלך שלא כדת.",
-      "text_he": "הידעת? אסתר לא פעלה לבדה: היא ביקשה מכל יהודי שושן לצום שלושה ימים, וגם היא ונערותיה צמו, לפני שנכנסה אל המלך שלא כדת.",
-      "text_en": "Did you know? Esther did not act alone: she asked all the Jews of Susa to fast for three days, and she and her attendants fasted as well before she entered the king’s presence without being summoned."
-    },
-    {
-      "verse": 17,
-      "text": "הידעת? לאחר שאסתר קיבלה את החלטתה, מרדכי עשה ככל אשר ציוותה עליו, וכך הסתיים הפרק במעבר מדברי אזהרה לפעולה משותפת.",
-      "text_he": "הידעת? לאחר שאסתר קיבלה את החלטתה, מרדכי עשה ככל אשר ציוותה עליו, וכך הסתיים הפרק במעבר מדברי אזהרה לפעולה משותפת.",
-      "text_en": "Did you know? After Esther made her decision, Mordecai did everything she had commanded him to do, bringing the chapter to a close with a transition from warnings to united action."
+      "text": "הידעת? אסתר החליטה לפעול לאחר צום משותף: היא ביקשה מיהודי שושן לצום שלושה ימים, לילה ויום, וגם היא ונערותיה יצומו. לאחר מכן אמרה: \"וּבְכֵן אָבוֹא אֶל-הַמֶּלֶךְ... וְכַאֲשֶׁר אָבַדְתִּי, אָבָדְתִּי\".",
+      "text_he": "הידעת? אסתר החליטה לפעול לאחר צום משותף: היא ביקשה מיהודי שושן לצום שלושה ימים, לילה ויום, וגם היא ונערותיה יצומו. לאחר מכן אמרה: \"וּבְכֵן אָבוֹא אֶל-הַמֶּלֶךְ... וְכַאֲשֶׁר אָבַדְתִּי, אָבָדְתִּי\".",
+      "text_en": "Did you know? Esther decided to act after a time of communal fasting: she asked the Jews of Susa to fast for three days, night and day, and she and her attendants would fast as well. Then she said, “I will go to the king... and if I must perish, I will perish.”"
     }
   ]
 }

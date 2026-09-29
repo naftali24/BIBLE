@@ -8,101 +8,101 @@
       "paragraph": 1,
       "start_verse": 1,
       "end_verse": 4,
-      "title": "The Search for a New Queen",
+      "title": "The Search for Vashti’s Replacement",
       "easy": [
         {
           "answers": [
+            "Esther",
             "Vashti",
-            "Mordecai",
-            "Hegai"
+            "Mordecai"
           ],
-          "correct": 0,
-          "explanation": "After his anger subsided, the king remembered Vashti and what had happened to her.",
+          "correct": 1,
+          "explanation": "The king remembered Vashti, what she had done, and what was decreed against her.",
           "q": "Whom did King Ahasuerus remember after his wrath was appeased?"
         },
         {
           "answers": [
-            "New princes",
             "Fair young virgins",
-            "Palace guards"
+            "New princes",
+            "Servants from distant lands"
           ],
-          "correct": 1,
-          "explanation": "The servants suggested that fair young virgins be gathered for the king.",
+          "correct": 0,
+          "explanation": "The servants suggested that fair young virgins be sought for the king.",
           "q": "What did the king’s servants suggest should be sought?"
         },
         {
           "answers": [
-            "She would replace Vashti as queen",
-            "She would become a palace servant",
-            "She would guard the women"
+            "Restored Vashti",
+            "Cancelled the search",
+            "Appointed officers to gather the young women"
           ],
-          "correct": 0,
-          "explanation": "The maiden who pleased the king would be made queen instead of Vashti.",
-          "q": "What would happen to the maiden who pleased the king?"
+          "correct": 2,
+          "explanation": "The king was pleased with the proposal and appointed officers to gather the young women.",
+          "q": "What did the king do after hearing the proposal?"
         }
       ],
       "medium": [
         {
           "answers": [
             "Because Esther requested it",
-            "Because Vashti was no longer queen",
-            "Because Mordecai commanded it"
+            "Because Vashti had been removed after what had been decreed against her",
+            "Because the king had left Shushan"
           ],
           "correct": 1,
-          "explanation": "A new queen was sought after Vashti’s position had been taken from her.",
+          "explanation": "After remembering Vashti and what had been decreed against her, the king’s servants proposed seeking a replacement.",
           "q": "Why was a new queen to be sought?"
         },
         {
           "answers": [
-            "When the king became more angry",
-            "When the king left his palace",
-            "When the king’s anger subsided"
+            "Jerusalem",
+            "The king’s gate",
+            "Shushan the palace, to the house of the women"
           ],
           "correct": 2,
-          "explanation": "To be appeased means to be calmed or brought to an end.",
-          "q": "What does the phrase “when the wrath of king Ahasuerus was appeased” mean?"
+          "explanation": "The young women were to be gathered unto Shushan the palace, to the house of the women.",
+          "q": "Where were the gathered young women to be brought?"
         },
         {
           "answers": [
-            "He accepted it and acted on it",
-            "He rejected it immediately",
-            "He sent the servants away"
+            "When the king’s anger had subsided",
+            "When the king went to war",
+            "When the king became sorrowful"
           ],
           "correct": 0,
-          "explanation": "The thing pleased the king, and he did so.",
-          "q": "How did the king respond to the servants’ proposal?"
+          "explanation": "To be appeased means that the king’s wrath had been calmed or had subsided.",
+          "q": "What does the phrase “when the wrath of king Ahasuerus was appeased” mean?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "The virgins were gathered, the king became angry, and Vashti was remembered",
-            "Vashti was remembered, the servants made a proposal, and a new queen was sought",
-            "Esther became queen, the servants made a proposal, and Vashti was remembered"
+            "The proposal was intended to find her replacement",
+            "The proposal was intended to bring her back to the palace",
+            "The proposal was intended to send her to another country"
+          ],
+          "correct": 0,
+          "explanation": "The maiden who pleased the king was to be queen instead of Vashti.",
+          "q": "What was the relationship between the servants’ proposal and Vashti’s fate?"
+        },
+        {
+          "answers": [
+            "A maiden is crowned, the king becomes angry, and the servants make a proposal",
+            "The king’s wrath is appeased, the servants make a proposal, and the king gives an order",
+            "The young women are gathered, the king becomes angry, and Vashti is remembered"
           ],
           "correct": 1,
-          "explanation": "The king remembered Vashti, the servants proposed a search, and the king ordered it.",
+          "explanation": "First the king’s wrath was appeased, then his servants made their proposal, and finally the king ordered the process to begin.",
           "q": "Which sequence of events is described in these verses?"
         },
         {
           "answers": [
-            "He accepted the plan quickly",
-            "He needed Mordecai’s approval",
-            "He opposed the search"
+            "The young women themselves",
+            "Mordecai",
+            "Officers in all the provinces of the king’s kingdom"
           ],
-          "correct": 0,
-          "explanation": "The proposal pleased him, so he immediately put it into action.",
-          "q": "What does the king’s response reveal about him?"
-        },
-        {
-          "answers": [
-            "She had to be related to the king",
-            "She had to please the king",
-            "She had to know Vashti’s history"
-          ],
-          "correct": 1,
-          "explanation": "The maiden who pleased the king would be made queen instead of Vashti.",
-          "q": "What condition would determine which maiden became queen?"
+          "correct": 2,
+          "explanation": "The king commanded officers in all the provinces of his kingdom to gather the young women.",
+          "q": "Who was responsible for gathering the young women?"
         }
       ],
       "idea": 1
@@ -110,308 +110,308 @@
     {
       "paragraph": 2,
       "start_verse": 5,
-      "end_verse": 11,
-      "title": "Mordecai and Esther",
+      "end_verse": 10,
+      "title": "Mordecai, Esther, and the Gathering of the Girls",
       "easy": [
         {
           "answers": [
-            "Jerusalem",
-            "Shushan the palace",
-            "Babylon"
-          ],
-          "correct": 1,
-          "explanation": "Mordecai was a certain Jew living in Shushan the palace.",
-          "q": "Where did Mordecai live?"
-        },
-        {
-          "answers": [
-            "His adopted daughter",
-            "His sister",
-            "His servant"
+            "Mordecai",
+            "Hegai",
+            "Ahasuerus"
           ],
           "correct": 0,
-          "explanation": "Mordecai took Esther, his uncle’s daughter, for his own daughter.",
-          "q": "What was Esther to Mordecai?"
+          "explanation": "The passage introduces a certain Jew in Shushan whose name was Mordecai.",
+          "q": "What was the name of the Jew who lived in Shushan the palace?"
         },
         {
           "answers": [
-            "Her age and occupation",
-            "Her people and kindred",
-            "Hegai’s location"
+            "Vashti",
+            "Hadassah",
+            "Teresh"
           ],
           "correct": 1,
-          "explanation": "Mordecai charged Esther not to show her people or her kindred.",
-          "q": "What did Esther conceal?"
+          "explanation": "Esther was also called Hadassah.",
+          "q": "What was Esther’s Hebrew name?"
+        },
+        {
+          "answers": [
+            "Hegai",
+            "Ahasuerus",
+            "Mordecai"
+          ],
+          "correct": 2,
+          "explanation": "After Esther’s father and mother died, Mordecai took her for his own daughter.",
+          "q": "Who took Esther for his own daughter?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "She had neither father nor mother",
-            "The king commanded him to do so",
-            "She was a king’s daughter"
+            "Because she had neither father nor mother",
+            "Because the king commanded him to do so",
+            "Because she was Hegai’s daughter"
           ],
           "correct": 0,
-          "explanation": "Esther was an orphan, so Mordecai took her for his own daughter.",
-          "q": "Why did Mordecai take Esther as his own daughter?"
+          "explanation": "Esther had neither father nor mother, so Mordecai brought her up and took her for his own daughter.",
+          "q": "Why did Mordecai bring up Esther?"
         },
         {
           "answers": [
-            "Raised and cared for",
-            "Punished severely",
-            "Served the king"
-          ],
-          "correct": 0,
-          "explanation": "Mordecai brought Esther up, meaning that he raised and cared for her.",
-          "q": "In this passage, what does “brought up” mean?"
-        },
-        {
-          "answers": [
-            "He ignored her",
-            "She pleased him, and he showed her kindness",
-            "He sent her back home"
+            "He left Shushan",
+            "He walked every day before the court of the women’s house to know how Esther did",
+            "He asked the king to release her"
           ],
           "correct": 1,
-          "explanation": "Esther pleased Hegai, and he quickly gave her the things she needed.",
-          "q": "How did Hegai respond to Esther?"
+          "explanation": "Mordecai walked every day before the court of the women’s house to know how Esther did.",
+          "q": "What did Mordecai do when Esther was brought to the king’s house?"
+        },
+        {
+          "answers": [
+            "Because she did not know who she was",
+            "Because Hegai forbade her",
+            "Because Mordecai had charged her not to show it"
+          ],
+          "correct": 2,
+          "explanation": "Mordecai had charged Esther not to show her people or her kindred.",
+          "q": "Why did Esther not show her people or her kindred?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "He was a keeper of the women",
-            "He had been carried away from Jerusalem with the captives",
-            "He was born in Shushan"
+            "Mordecai was her biological father",
+            "Mordecai was her uncle, and he brought her up as his daughter",
+            "Mordecai was Vashti’s brother"
           ],
           "correct": 1,
-          "explanation": "Mordecai had been carried away from Jerusalem with the captivity taken with Jeconiah.",
-          "q": "Which detail connects Mordecai with the captivity of Judah?"
+          "explanation": "Esther was the daughter of Mordecai’s uncle, and Mordecai took her for his own daughter.",
+          "q": "What family relationship between Mordecai and Esther is described?"
         },
         {
           "answers": [
-            "He cared about Esther’s welfare",
-            "He wanted to become king",
-            "He was preparing a feast"
+            "She willingly chose to leave Mordecai",
+            "She was brought as part of the gathering of the young women",
+            "She was already queen"
           ],
-          "correct": 0,
-          "explanation": "He walked there to know how Esther did and what would become of her.",
-          "q": "What does Mordecai’s daily walk before the women’s court show?"
+          "correct": 1,
+          "explanation": "Esther was brought to the king’s house when many maidens were gathered unto Shushan.",
+          "q": "What can be understood from Esther being brought to the king’s house?"
         },
         {
           "answers": [
-            "Her beauty was one reason she was gathered with the maidens",
-            "Her beauty caused her to conceal Mordecai",
-            "Her beauty prevented Hegai from speaking to her"
+            "He was a Benjamite who had been carried away from Jerusalem",
+            "He was an Egyptian born in Shushan",
+            "He was a Persian prince"
           ],
           "correct": 0,
-          "explanation": "Esther was fair and beautiful, and she was brought to the king’s house with the other maidens.",
-          "q": "What connection does the passage make between Esther’s appearance and her arrival at the palace?"
+          "explanation": "Mordecai was a Benjamite who had been carried away from Jerusalem with the captivity.",
+          "q": "What detail about Mordecai’s origin appears in these verses?"
         }
       ],
       "idea": 2
     },
     {
       "paragraph": 3,
-      "start_verse": 12,
-      "end_verse": 14,
-      "title": "Preparing the Young Women for the King",
+      "start_verse": 11,
+      "end_verse": 16,
+      "title": "The Girls’ Preparation and Esther’s Visit to the King",
       "easy": [
         {
           "answers": [
             "Six months",
             "Twelve months",
-            "Two years"
+            "Seven months"
           ],
           "correct": 1,
-          "explanation": "The days of their purification lasted twelve months.",
-          "q": "How long did the preparation of the young women last?"
+          "explanation": "The days of their purifications were accomplished after twelve months.",
+          "q": "How long did the preparation of the young women last before they went to the king?"
         },
         {
           "answers": [
-            "In the evening",
-            "At noon",
-            "In the morning"
+            "Hegai",
+            "Mordecai",
+            "Bigthan"
           ],
           "correct": 0,
-          "explanation": "Each maiden came to the king in the evening.",
-          "q": "When did each maiden go to the king?"
+          "explanation": "Esther was brought to the custody of Hegai, the king’s chamberlain and keeper of the women.",
+          "q": "To whom was Esther brought as keeper of the women?"
         },
         {
           "answers": [
-            "The first house of the women",
-            "The second house of the women",
-            "A place outside Shushan"
+            "Something special",
+            "Nothing but what Hegai appointed",
+            "Permission to refuse to enter"
           ],
           "correct": 1,
-          "explanation": "In the morning she returned to the second house of the women, where the concubines were kept.",
-          "q": "Where did the maiden return in the morning?"
+          "explanation": "Esther required nothing but what Hegai appointed.",
+          "q": "What did Esther request when her turn came to go to the king?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Six months with myrrh oil and six months with perfumes and other purifying things",
-            "Twelve months with perfumes only",
-            "Six months with clothing and six months with feasting"
+            "Six months with oil of myrrh and six months with sweet odours and other purifying preparations",
+            "Twelve months with sweet odours only",
+            "Seven months with oil and six months with water"
           ],
           "correct": 0,
-          "explanation": "The passage specifies six months with oil of myrrh and six months with sweet odors and other preparations.",
+          "explanation": "The purification included six months with oil of myrrh and six months with sweet odours and other preparations.",
           "q": "How were the twelve months of preparation divided?"
         },
         {
           "answers": [
-            "Their meals",
-            "Their perfumes, oils, and cosmetic preparations",
-            "Their royal clothing"
+            "She obtained favour in the sight of all them that looked upon her",
+            "She was sent back home",
+            "She asked to replace Hegai"
           ],
-          "correct": 1,
-          "explanation": "The purification involved oils, sweet odors, and other preparations for the women.",
-          "q": "What does “purifications” refer to in this passage?"
+          "correct": 0,
+          "explanation": "Esther obtained favour in the sight of all them that looked upon her.",
+          "q": "What was the result of Esther’s conduct in the house of the women?"
         },
         {
           "answers": [
-            "When Hegai requested it",
-            "Only if the king delighted in her and called her by name",
-            "Every morning"
+            "Perfumes and materials used for grooming",
+            "Weapons of war",
+            "Royal documents"
           ],
-          "correct": 1,
-          "explanation": "She came in to the king no more unless he delighted in her and called her by name.",
-          "q": "When could a maiden return to the king?"
+          "correct": 0,
+          "explanation": "The phrase refers to preparations, perfumes, and other materials used for the women’s purification and grooming.",
+          "q": "What does “things for purification” refer to in this passage?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "The maiden immediately became queen",
-            "She did not return to the ordinary women’s house but waited with the concubines",
-            "She left Shushan"
+            "She followed Hegai’s guidance and did not ask for more",
+            "She did not know how to speak",
+            "She was not allowed to enter the king’s house"
           ],
-          "correct": 1,
-          "explanation": "After visiting the king, she returned to the second house under the custody of Shaashgaz.",
-          "q": "What does the move from the first house of the women to the second house suggest?"
+          "correct": 0,
+          "explanation": "Esther required only what Hegai, the keeper of the women, appointed.",
+          "q": "What does Esther’s requesting nothing beyond Hegai’s appointment suggest?"
         },
         {
           "answers": [
-            "The number of months of preparation",
-            "Whether the king delighted in her and called her by name",
-            "Whether she requested gifts"
+            "The first year",
+            "The tenth year",
+            "The seventh year"
           ],
-          "correct": 1,
-          "explanation": "The king’s desire and summons determined whether she returned.",
-          "q": "What determined whether a maiden would see the king again?"
+          "correct": 2,
+          "explanation": "Esther was brought unto King Ahasuerus in the seventh year of his reign.",
+          "q": "In which year of Ahasuerus’s reign was Esther brought to the king?"
         },
         {
           "answers": [
-            "She went to the king in the morning, was prepared, and returned in the evening",
-            "She was prepared, went to the king in the evening, and returned in the morning",
-            "She returned in the morning, went to the king in the evening, and was prepared afterward"
+            "Mordecai continued to care about Esther even while she was kept apart from him",
+            "Mordecai moved into the house of the women",
+            "Esther stopped listening to Mordecai"
           ],
-          "correct": 1,
-          "explanation": "The maidens were prepared first, went to the king in the evening, and returned in the morning.",
-          "q": "Which sequence correctly describes the process?"
+          "correct": 0,
+          "explanation": "Mordecai walked every day to know how Esther did, while Esther followed the instructions given to her.",
+          "q": "What may be inferred from Mordecai’s daily watch and Esther’s favor in the house of the women?"
         }
       ],
       "idea": 3
     },
     {
       "paragraph": 4,
-      "start_verse": 15,
+      "start_verse": 17,
       "end_verse": 18,
-      "title": "Esther Is Chosen as Queen",
+      "title": "Esther Becomes Queen and the Royal Banquet",
       "easy": [
         {
           "answers": [
-            "Hegai’s",
-            "Vashti’s",
-            "Bigthan’s"
+            "Esther",
+            "Hegai",
+            "One of the king’s servants"
           ],
           "correct": 0,
-          "explanation": "Esther required nothing except what Hegai appointed.",
-          "q": "Whose advice did Esther follow before going to the king?"
+          "explanation": "The king set the royal crown upon Esther’s head and made her queen instead of Vashti.",
+          "q": "Whom did the king make queen instead of Vashti?"
         },
         {
           "answers": [
-            "He made her queen",
-            "He sent her away from Shushan",
-            "He appointed her as a keeper"
+            "Mordecai",
+            "Ahasuerus",
+            "Nebuchadnezzar"
           ],
-          "correct": 0,
-          "explanation": "The king set the royal crown upon Esther’s head and made her queen.",
-          "q": "What did Ahasuerus do to Esther?"
+          "correct": 1,
+          "explanation": "King Ahasuerus loved Esther above all the women.",
+          "q": "What was the name of the king who loved Esther?"
         },
         {
           "answers": [
-            "A great feast",
-            "A military campaign",
-            "A new women’s house"
+            "He made a great feast",
+            "He left Shushan",
+            "He abolished the house of the women"
           ],
           "correct": 0,
-          "explanation": "The king made a great feast called Esther’s feast.",
-          "q": "What did the king make in Esther’s honor?"
+          "explanation": "The king made a great feast, called Esther’s feast.",
+          "q": "What did the king do in Esther’s honor?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Everything the other maidens suggested",
-            "Only what Hegai appointed",
-            "The royal crown"
+            "That she was queen",
+            "That she was a servant",
+            "That she was keeper of the women"
+          ],
+          "correct": 0,
+          "explanation": "The royal crown showed that Esther had been made queen instead of Vashti.",
+          "q": "What did the crown that the king placed on Esther’s head signify?"
+        },
+        {
+          "answers": [
+            "For Esther alone",
+            "For all the king’s princes and servants",
+            "Only for the young women in the house of the women"
           ],
           "correct": 1,
-          "explanation": "Esther required nothing but what Hegai, the keeper of the women, appointed.",
-          "q": "What did Esther request when it was her turn to go to the king?"
+          "explanation": "The king made a great feast unto all his princes and his servants.",
+          "q": "For whom was the great feast made?"
         },
         {
           "answers": [
-            "She gained approval and goodwill",
-            "She carried gifts",
-            "She guarded the palace"
+            "He made a release to the provinces and gave gifts according to the state of the king",
+            "He imposed a new tax",
+            "He shut the city gates"
           ],
           "correct": 0,
-          "explanation": "Esther gained favor, grace, and approval in the sight of those who saw her.",
-          "q": "What does “obtained favour” mean in this passage?"
-        },
-        {
-          "answers": [
-            "A feast, a release to the provinces, and royal gifts",
-            "Captivity and imprisonment",
-            "The collection of taxes only"
-          ],
-          "correct": 0,
-          "explanation": "The king made a feast, gave the provinces a release, and gave gifts according to his royal state.",
-          "q": "What accompanied the celebrations after Esther became queen?"
+          "explanation": "The king made a release to the provinces and gave gifts according to his royal generosity.",
+          "q": "What did the king do for the provinces during the feast?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "She accepted Hegai’s advice and requested nothing extra",
-            "She immediately revealed all her family history",
-            "She rejected Hegai’s instructions"
+            "The feast, the king’s love, and Esther’s coronation",
+            "The king loved Esther, made her queen, and then made a feast",
+            "Esther was crowned, the young women were gathered, and then the feast was held"
           ],
-          "correct": 0,
-          "explanation": "Esther followed Hegai’s direction and did not demand additional things for herself.",
-          "q": "What may help explain why Esther found favor with everyone?"
+          "correct": 1,
+          "explanation": "The king first loved Esther, then made her queen, and afterward made a great feast.",
+          "q": "Which sequence correctly describes the events?"
         },
         {
           "answers": [
-            "She went from being a maiden in the women’s house to being queen",
-            "She went from queen to keeper",
-            "She went from a king’s daughter to a concubine"
+            "His favor led him to make her queen instead of Vashti",
+            "His love caused him to hide her",
+            "His love caused him to send her away from Shushan"
           ],
           "correct": 0,
-          "explanation": "Esther was taken to the king, received the royal crown, and became queen instead of Vashti.",
-          "q": "What change in Esther’s position is described?"
+          "explanation": "Because Esther obtained grace and favor in his sight, the king set the royal crown upon her head.",
+          "q": "What was the connection between the king’s love for Esther and her becoming queen?"
         },
         {
           "answers": [
-            "He granted relief and gifts as part of the celebration",
-            "He canceled her selection",
-            "He sent Esther to rule the provinces"
+            "The king shared his joy with the kingdom",
+            "The king abolished the monarchy",
+            "The king sought to punish his princes"
           ],
           "correct": 0,
-          "explanation": "During Esther’s feast, the king made a release to the provinces and gave gifts.",
-          "q": "How were the king’s actions toward the provinces connected with Esther’s selection?"
+          "explanation": "The release and gifts were part of the king’s celebration of Esther becoming queen.",
+          "q": "What can be learned from the release to the provinces and the gifts?"
         }
       ],
       "idea": 4
@@ -420,101 +420,101 @@
       "paragraph": 5,
       "start_verse": 19,
       "end_verse": 20,
-      "title": "Mordecai at the King’s Gate and Esther’s Hidden Identity",
+      "title": "Mordecai at the King’s Gate",
       "easy": [
         {
           "answers": [
-            "At the king’s gate",
-            "In the house of the concubines",
-            "In the house of the women"
+            "In the house of the women",
+            "In the king’s gate",
+            "In Esther’s house"
           ],
-          "correct": 0,
-          "explanation": "Mordecai sat in the king’s gate.",
+          "correct": 1,
+          "explanation": "The passage says that Mordecai sat in the king’s gate.",
           "q": "Where did Mordecai sit?"
         },
         {
           "answers": [
-            "Everything ended when Esther became queen",
-            "The gathering continued even after Esther was chosen",
-            "Esther had left the palace"
+            "Yes, immediately",
+            "Yes, before the feast",
+            "No"
           ],
-          "correct": 1,
-          "explanation": "The passage says that virgins were gathered together the second time after Esther’s selection.",
-          "q": "What did the second gathering of virgins show about the timing of events?"
+          "correct": 2,
+          "explanation": "Esther had not yet shown her kindred nor her people.",
+          "q": "Had Esther shown her kindred or her people?"
         },
         {
           "answers": [
-            "Her people and kindred",
-            "The king’s name",
-            "The location of the king’s gate"
+            "She did the commandment of Mordecai",
+            "She opposed him",
+            "She told all the young women her secret"
           ],
           "correct": 0,
-          "explanation": "Esther had not yet shown her kindred or her people.",
-          "q": "What did Esther continue to keep secret?"
+          "explanation": "Esther did the commandment of Mordecai, as she had done when she was brought up with him.",
+          "q": "What did Esther continue to do according to Mordecai’s instructions?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Hegai only",
-            "Mordecai",
-            "Bigthan"
+            "Mordecai sat in the king’s gate",
+            "Esther left the kingdom",
+            "Vashti returned as queen"
           ],
-          "correct": 1,
-          "explanation": "Esther did the commandment of Mordecai.",
-          "q": "Whom did Esther continue to obey?"
+          "correct": 0,
+          "explanation": "When the virgins were gathered together the second time, Mordecai sat in the king’s gate.",
+          "q": "What was happening while the virgins were gathered together the second time?"
         },
         {
           "answers": [
-            "When Mordecai had raised and cared for her",
-            "When she was his enemy",
-            "When she was his queen"
+            "He was in a place connected with the royal court",
+            "He had left Shushan",
+            "He had become keeper of the women"
           ],
           "correct": 0,
-          "explanation": "The phrase refers to the time when Mordecai raised Esther.",
-          "q": "What does “when she was brought up with him” mean?"
+          "explanation": "The king’s gate was a place associated with the administration and activity of the royal court.",
+          "q": "What does Mordecai’s position at the king’s gate suggest?"
         },
         {
           "answers": [
-            "Mordecai sat at the king’s gate, and Esther continued to obey him",
-            "Mordecai left Shushan, and Esther searched for him",
-            "Mordecai became king"
+            "Because Mordecai had charged her to do so",
+            "Because the king did not know her",
+            "Because Hegai forbade her"
           ],
           "correct": 0,
-          "explanation": "Mordecai sat at the king’s gate while Esther followed his command.",
-          "q": "What connection is shown between Mordecai’s position and Esther’s conduct?"
+          "explanation": "Esther continued to keep her kindred and people secret because Mordecai had charged her to do so.",
+          "q": "Why did Esther continue to conceal her identity even after becoming queen?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "Esther is queen but still hides her identity",
-            "Mordecai is king but hides his palace",
-            "Hegai is Jewish but hides his name"
+            "Mordecai continued to be concerned for Esther after she became queen",
+            "Mordecai was no longer connected with Esther",
+            "Mordecai replaced Ahasuerus as king"
           ],
           "correct": 0,
-          "explanation": "Although Esther was queen, she still had not revealed her people or kindred.",
-          "q": "What central tension appears in this passage?"
+          "explanation": "Mordecai remained near the royal court, and Esther continued to follow his instructions.",
+          "q": "What connection exists between these verses and the preceding events?"
         },
         {
           "answers": [
-            "Their relationship and trust continued",
-            "She did not know who he was",
-            "The king forced her to obey him"
+            "The virgins were gathered together a second time even after Esther became queen",
+            "Esther returned to her parents’ house",
+            "Mordecai left the king’s gate"
           ],
           "correct": 0,
-          "explanation": "Her obedience as queen reflected the way she had obeyed Mordecai while he raised her.",
-          "q": "What can be inferred from Esther’s continued obedience to Mordecai after becoming queen?"
+          "explanation": "The passage says that the virgins were gathered together the second time.",
+          "q": "What easily overlooked detail appears in these verses?"
         },
         {
           "answers": [
-            "Virgins were gathered again after Esther was chosen",
-            "Mordecai had been carried away from Jerusalem",
-            "Esther found favor with Hegai"
+            "As she had done while Mordecai was raising her",
+            "As she had done while serving the king",
+            "As she had done while staying with Hegai"
           ],
           "correct": 0,
-          "explanation": "The passage specifically mentions a second gathering of virgins after Esther’s selection.",
-          "q": "Which detail may seem surprising in the story’s sequence?"
+          "explanation": "The phrase refers to the time when Mordecai brought Esther up and cared for her.",
+          "q": "What does “like as when she was brought up with him” mean?"
         }
       ],
       "idea": 5
@@ -523,7 +523,7 @@
       "paragraph": 6,
       "start_verse": 21,
       "end_verse": 23,
-      "title": "The Foiled Plot against the King",
+      "title": "The Foiled Plot Against the King",
       "easy": [
         {
           "answers": [
@@ -532,92 +532,92 @@
             "Vashti and Esther"
           ],
           "correct": 0,
-          "explanation": "Bigthan and Teresh, two of the king’s chamberlains, sought to lay hand on the king.",
-          "q": "Who plotted against King Ahasuerus?"
+          "explanation": "Bigthan and Teresh, two of the king’s chamberlains, sought to lay hand on King Ahasuerus.",
+          "q": "Who sought to lay hand on the king?"
         },
         {
           "answers": [
-            "The king",
             "Mordecai",
-            "Teresh"
+            "Vashti",
+            "The young women"
           ],
-          "correct": 1,
-          "explanation": "Mordecai learned of the matter and told Esther the queen.",
-          "q": "Who told Esther about the plot?"
+          "correct": 0,
+          "explanation": "The matter became known to Mordecai.",
+          "q": "To whom was the plot made known?"
         },
         {
           "answers": [
-            "They were appointed as princes",
-            "They were carried away into captivity",
-            "They were hanged on a tree"
+            "Mordecai told Esther, and Esther certified the king in Mordecai’s name",
+            "Hegai told the king in Esther’s name",
+            "Bigthan told the king himself"
           ],
-          "correct": 2,
-          "explanation": "After the matter was investigated, both conspirators were hanged on a tree.",
-          "q": "What happened to the conspirators?"
+          "correct": 0,
+          "explanation": "Mordecai told Esther, and Esther reported the matter to the king in Mordecai’s name.",
+          "q": "How was the report brought to the king?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Mordecai told the king directly",
-            "Esther told the king in Mordecai’s name",
-            "Hegai wrote to the king"
-          ],
-          "correct": 1,
-          "explanation": "Esther certified the matter to the king in Mordecai’s name.",
-          "q": "How was the king informed about the plot?"
-        },
-        {
-          "answers": [
-            "They sought to protect the king",
-            "They sought to meet the king",
-            "They sought to harm or assassinate the king"
-          ],
-          "correct": 2,
-          "explanation": "The phrase describes an attempt to attack or kill the king.",
-          "q": "What does “sought to lay hand on the king” mean?"
-        },
-        {
-          "answers": [
-            "The matter was investigated and found to be true",
-            "The king ignored it",
-            "Mordecai was sent away"
+            "The conspirators were both hanged on a tree",
+            "The conspirators were made princes",
+            "The conspirators left Shushan"
           ],
           "correct": 0,
-          "explanation": "Inquisition was made, the matter was found out, and the conspirators were punished.",
-          "q": "What happened after Esther reported the matter?"
+          "explanation": "When the matter was investigated and found to be true, Bigthan and Teresh were hanged on a tree.",
+          "q": "What happened after an inquisition was made of the matter?"
+        },
+        {
+          "answers": [
+            "In the book of the chronicles before the king",
+            "In the book of the law",
+            "In the house of the women"
+          ],
+          "correct": 0,
+          "explanation": "The event was written in the book of the chronicles before the king.",
+          "q": "Where was the event recorded?"
+        },
+        {
+          "answers": [
+            "To attack or assassinate the king",
+            "To serve the king",
+            "To write the king a letter"
+          ],
+          "correct": 0,
+          "explanation": "In this context, “to lay hand on the king” means to attack or plot against him.",
+          "q": "What does the expression “to lay hand on the king” mean?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "He discovered the plot and passed the information through Esther",
-            "He personally punished the conspirators",
-            "He concealed the plot from the king"
+            "She reported the matter to the king in Mordecai’s name",
+            "She investigated the conspirators by herself",
+            "She personally punished the conspirators"
           ],
           "correct": 0,
-          "explanation": "Mordecai learned of the plot, and Esther reported it to the king in his name.",
-          "q": "What role did Mordecai play in stopping the plot?"
+          "explanation": "Esther certified the king of the plot in Mordecai’s name.",
+          "q": "What was Esther’s role in stopping the plot?"
         },
         {
           "answers": [
-            "The event was preserved in the king’s official records",
-            "The conspirators were recorded as kings",
-            "The event was immediately forgotten"
-          ],
-          "correct": 0,
-          "explanation": "The passage says the matter was written in the book of the chronicles before the king.",
-          "q": "What does the record in the book of the chronicles show?"
-        },
-        {
-          "answers": [
-            "Hanging, discovery, investigation, and reporting",
-            "Discovery, report to Esther, report to the king, investigation, and hanging",
-            "Recording, hanging, discovery, and reporting"
+            "The conspirators were hanged, Mordecai heard, and Esther reported it",
+            "Mordecai learned of the plot, Esther reported it, the matter was investigated, and the conspirators were hanged",
+            "Esther discovered the plot, the conspirators escaped, and the matter was recorded"
           ],
           "correct": 1,
-          "explanation": "Mordecai discovered the plot, Esther reported it, the matter was investigated, and the conspirators were hanged; afterward it was recorded.",
-          "q": "Which sequence correctly describes how the plot was stopped?"
+          "explanation": "Mordecai learned of the plot, told Esther, Esther told the king, and after investigation the two men were hanged.",
+          "q": "Which sequence correctly describes the stopping of the plot?"
+        },
+        {
+          "answers": [
+            "Mordecai’s deed was recorded, although no reward is mentioned here",
+            "Mordecai was immediately made king",
+            "Esther revealed her Jewish identity at that time"
+          ],
+          "correct": 0,
+          "explanation": "The chapter ends by saying that the event was written in the book of the chronicles before the king.",
+          "q": "What significant detail appears at the end of the chapter?"
         }
       ],
       "idea": 6

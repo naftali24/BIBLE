@@ -11,97 +11,98 @@
       "title": "The King Discovers That Mordecai Was Not Rewarded",
       "easy": [
         {
-          "type": "short_answer",
           "answers": [
-            "Sleep"
+            "He could not sleep",
+            "He slept deeply",
+            "He slept through the reading"
           ],
           "correct": 0,
-          "explanation": "Esther 6:1 says, “On that night could not the king sleep.”",
-          "q": "What could not the king do that night?"
+          "explanation": "The KJV says, “could not the king sleep.”",
+          "q": "What happened to the king’s sleep that night?"
         },
         {
           "answers": [
-            "The royal apparel",
+            "The book of Esther",
             "The book of records of the chronicles",
-            "The king's horse"
+            "The law of the kingdom"
           ],
           "correct": 1,
           "explanation": "The king commanded that “the book of records of the chronicles” be brought.",
-          "q": "What did the king command to be brought?"
+          "q": "What book did the king command to be brought?"
         },
         {
           "answers": [
-            "Haman",
-            "Esther",
-            "Mordecai"
+            "They guarded the city gate",
+            "They sought to lay hand on the king",
+            "They had honored the king"
           ],
-          "correct": 2,
-          "explanation": "The record stated that Mordecai had told of Bigthana and Teresh.",
-          "q": "Who was mentioned in the records?"
+          "correct": 1,
+          "explanation": "Mordecai had told that Bigthana and Teresh sought to lay hand on King Ahasuerus.",
+          "q": "What did Mordecai tell about Bigthana and Teresh?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "That Haman had entered the court",
-            "That nothing had been done for Mordecai",
-            "That Ahasuerus had changed his clothing"
+            "He could not sleep",
+            "Haman requested it",
+            "Mordecai brought the book"
           ],
-          "correct": 1,
-          "explanation": "The king asked what honour had been given to Mordecai and was told, “There is nothing done for him.”",
-          "q": "What did the king learn from reading the records?"
+          "correct": 0,
+          "explanation": "Because the king could not sleep, he commanded the records to be read.",
+          "q": "Why did the king have the records read before him?"
         },
         {
           "answers": [
             "The king was unable to sleep",
-            "The king left the palace",
-            "The king began to speak loudly"
+            "The king chose to sleep later",
+            "The king slept very deeply"
           ],
           "correct": 0,
-          "explanation": "The wording means that the king was unable to sleep.",
-          "q": "What does “could not the king sleep” mean in this passage?"
+          "explanation": "The phrase means that the king was unable to sleep.",
+          "q": "In the KJV, what does “could not the king sleep” mean?"
         },
         {
           "answers": [
-            "Mordecai had asked the king for a reward",
-            "The deed was recorded, but Mordecai received no reward",
-            "The king had forgotten who Mordecai was"
+            "Mordecai had received great honor",
+            "Mordecai had received nothing for his deed",
+            "Mordecai had become a royal servant"
           ],
           "correct": 1,
-          "explanation": "Mordecai's faithful deed was recorded, but nothing had been done for him.",
-          "q": "What was the relationship between Mordecai's deed and the king's question about reward?"
+          "explanation": "The servants answered, “There is nothing done for him.”",
+          "q": "What did the king learn about Mordecai’s reward?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "He moves from being unrewarded to becoming the subject of the king's desire to honor someone",
-            "He moves from the palace to Esther's feast",
-            "He becomes king instead of Ahasuerus"
+            "The king’s sleeplessness led to the records being read and Mordecai’s deed being discovered",
+            "Haman’s arrival caused the king to forget Mordecai",
+            "The reading of the records caused Bigthana and Teresh to rebel"
           ],
           "correct": 0,
-          "explanation": "Although Mordecai had received no reward, the king now begins looking for a way to honor him.",
-          "q": "What change in Mordecai's situation begins in these verses?"
+          "explanation": "The king could not sleep, the records were read, and Mordecai’s unrewarded deed was discovered.",
+          "q": "What chain of events is described in these verses?"
         },
         {
           "answers": [
-            "It shows that the king does not know Haman",
-            "It leads to the search for a way to honor Mordecai",
-            "It removes Mordecai's name from the records"
+            "He asked to become king",
+            "He exposed a plot against the king",
+            "He prepared a banquet for the king"
           ],
           "correct": 1,
-          "explanation": "The question turns the recorded deed into an immediate plan to honor Mordecai.",
-          "q": "Why is the king's question about Mordecai important for the rest of the chapter?"
+          "explanation": "Mordecai had reported that Bigthana and Teresh sought to lay hand on the king.",
+          "q": "What was the importance of Mordecai’s report?"
         },
         {
           "answers": [
-            "The deed was considered worthless",
-            "The deed was recognized, but its reward was delayed",
-            "Mordecai had not actually done the deed"
+            "Who is in the court?",
+            "What honour and dignity hath been done to Mordecai for this?",
+            "Who read the records?"
           ],
           "correct": 1,
-          "explanation": "The records preserved the deed, while the king discovered that no reward had yet been given.",
-          "q": "What can be inferred from the fact that Mordecai's deed was recorded but not rewarded?"
+          "explanation": "The king asked what honor and dignity had been done to Mordecai, but learned that nothing had been done for him.",
+          "q": "Which question shows that the king expected Mordecai to have received honor?"
         }
       ],
       "idea": 1
@@ -109,311 +110,208 @@
     {
       "paragraph": 2,
       "start_verse": 4,
-      "end_verse": 6,
-      "title": "Haman Arrives to Seek Mordecai's Death",
+      "end_verse": 11,
+      "title": "Haman Proposes Mordecai’s Honor",
       "easy": [
         {
           "answers": [
             "To ask that Mordecai be hanged",
-            "To bring the book of records",
-            "To return the king's horse"
+            "To read the royal records",
+            "To invite the king to a banquet"
           ],
           "correct": 0,
-          "explanation": "Haman came to speak unto the king to hang Mordecai on the gallows he had prepared.",
-          "q": "Why had Haman come into the outward court of the king's house?"
+          "explanation": "Haman came to speak to the king “to hang Mordecai on the gallows.”",
+          "q": "Why had Haman come to the king’s outer court?"
         },
         {
           "answers": [
             "Mordecai",
             "Haman",
-            "Bigthana"
+            "Zeresh"
           ],
           "correct": 1,
-          "explanation": "The king asked, “Who is in the court?” and Haman was standing there.",
-          "q": "Whom did the king ask about in the court?"
+          "explanation": "The servants said, “Behold, Haman standeth in the court.”",
+          "q": "Whom did the king’s servants say was standing in the court?"
         },
         {
           "answers": [
             "Mordecai",
-            "Esther",
-            "Himself"
+            "The king’s servants",
+            "Haman"
           ],
           "correct": 2,
-          "explanation": "Haman thought in his heart that the king wanted to honor someone more than himself.",
-          "q": "Whom did Haman think the king wanted to honor?"
+          "explanation": "Haman thought in his heart, “To whom would the king delight to do honour more than to myself?”",
+          "q": "Who thought that the king wanted to honor him more than anyone else?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "The king was looking for someone to consult",
-            "Mordecai asked to speak with the king",
-            "Esther invited Haman to the feast"
+            "What should be done to the man whom the king wished to honor",
+            "Who had prepared the gallows",
+            "Who had read the records"
           ],
           "correct": 0,
-          "explanation": "The king was seeking advice about what should be done for a man he wished to honor.",
-          "q": "What happened as Haman came into the court?"
+          "explanation": "The king asked, “What shall be done unto the man whom the king delighteth to honour?”",
+          "q": "What did the king ask Haman?"
         },
         {
           "answers": [
-            "Desires or takes pleasure in",
-            "Fears greatly",
-            "Has forgotten"
+            "To seat him at the king’s gate",
+            "To dress him in royal apparel and place him on the king’s horse",
+            "To invite him to Esther’s banquet"
           ],
-          "correct": 0,
-          "explanation": "In this context, “delighteth” means desires or takes pleasure in honoring.",
-          "q": "What does “delighteth” mean in “the man whom the king delighteth to honour”?"
+          "correct": 1,
+          "explanation": "Haman proposed royal apparel, the king’s horse, the royal crown, and a public proclamation.",
+          "q": "What honor did Haman propose for the man?"
         },
         {
           "answers": [
-            "He believed no one deserved honor more than himself",
-            "The king had already said his name",
-            "Mordecai had requested it"
+            "Wishes to honor",
+            "Wishes to punish",
+            "Wishes to ignore"
           ],
           "correct": 0,
-          "explanation": "Haman privately imagined that the king would want to honor him above anyone else.",
-          "q": "Why did Haman assume that the king meant him?"
+          "explanation": "The phrase means that the king wishes to honor the man.",
+          "q": "In this passage, what does “delighteth to honour” mean?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "Haman came to seek Mordecai's death but was asked how to honor someone",
-            "The king did not recognize Haman",
-            "Mordecai came to ask for his own death"
-          ],
-          "correct": 0,
-          "explanation": "Haman intended to destroy Mordecai, but the conversation begins a process that will honor Mordecai instead.",
-          "q": "What creates the irony in the meeting between the king and Haman?"
-        },
-        {
-          "answers": [
-            "Haman arrived before the king knew about Mordecai",
-            "Haman arrived just as the king needed advice about honoring someone",
-            "The king asked Haman to hang Mordecai"
+            "Haman personally wanted to honor Mordecai",
+            "The king commanded Haman to do exactly what he had proposed for Mordecai",
+            "The king’s servants confused Haman with Mordecai"
           ],
           "correct": 1,
-          "explanation": "Haman entered the court at the very moment the king was seeking counsel about honor.",
-          "q": "What does the movement from verse 4 to verse 6 reveal?"
+          "explanation": "The king ordered Haman to take the apparel and horse and do so to Mordecai the Jew.",
+          "q": "Why did Haman’s proposal become the honor given to Mordecai?"
         },
         {
           "answers": [
-            "He came to harm Mordecai but imagined that the honor was for himself",
-            "He came to honor Mordecai but thought only of himself",
-            "He came to read the records but thought about Esther"
+            "He was standing in the court",
+            "He was commanded to take the apparel and horse and lead Mordecai through the city",
+            "He thought about honoring himself"
+          ],
+          "correct": 1,
+          "explanation": "The king commanded Haman to take the apparel and horse and carry out the ceremony.",
+          "q": "Which detail shows that Haman had to perform the honor ceremony himself?"
+        },
+        {
+          "answers": [
+            "The king remembered Mordecai’s service and his lack of reward",
+            "The king did not know who Mordecai was",
+            "The king wanted to destroy the royal records"
           ],
           "correct": 0,
-          "explanation": "Haman came intending Mordecai's death, yet he assumed that the king's honor was meant for him.",
-          "q": "What contrast exists between Haman's purpose and his assumption about the king's question?"
+          "explanation": "After hearing that nothing had been done for Mordecai, the king ordered him to be honored.",
+          "q": "What can be inferred from the king’s command to honor Mordecai?"
         }
       ],
       "idea": 2
     },
     {
       "paragraph": 3,
-      "start_verse": 7,
-      "end_verse": 11,
-      "title": "The Honor Haman Proposes Is Given to Mordecai",
+      "start_verse": 12,
+      "end_verse": 14,
+      "title": "Haman’s Humiliation and Summons to the Banquet",
       "easy": [
         {
           "answers": [
-            "Royal apparel",
-            "Mourning clothes",
-            "A servant's clothing"
+            "To the king’s gate",
+            "To Haman’s house",
+            "To Esther’s banquet"
           ],
           "correct": 0,
-          "explanation": "Haman suggested that the royal apparel worn by the king be brought.",
-          "q": "What clothing did Haman suggest for the man whom the king wanted to honor?"
+          "explanation": "The KJV says, “Mordecai came again to the king’s gate.”",
+          "q": "Where did Mordecai return after being honored?"
         },
         {
           "answers": [
-            "Bigthana",
-            "Mordecai the Jew",
-            "Esther"
+            "Rejoicing and honored",
+            "Mourning and with his head covered",
+            "Wearing the king’s crown"
           ],
           "correct": 1,
-          "explanation": "The king commanded Haman to do these things to “Mordecai the Jew.”",
-          "q": "Upon whom did the king command Haman to carry out the honor?"
+          "explanation": "Haman went home “mourning, and having his head covered.”",
+          "q": "How did Haman go home?"
         },
         {
           "answers": [
-            "Mordecai himself",
-            "The king",
-            "Haman"
+            "Mordecai and the king’s servants",
+            "Zeresh and the wise men",
+            "The king’s chamberlains"
           ],
           "correct": 2,
-          "explanation": "Haman arrayed Mordecai, brought him on horseback, and proclaimed before him.",
-          "q": "Who led Mordecai through the street of the city?"
+          "explanation": "The king’s chamberlains came and hurried to bring Haman to the banquet.",
+          "q": "Who hurried to bring Haman to Esther’s banquet?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Royal apparel, the king's horse, and a public procession",
-            "The records, the gallows, and a feast",
-            "Only a crown and a private visit"
+            "Everything that had happened to him",
+            "Only about the royal records",
+            "Only about the banquet"
           ],
           "correct": 0,
-          "explanation": "Haman proposed royal clothing, the king's horse, a crown, and a public proclamation.",
-          "q": "What did Haman's proposed ceremony include?"
+          "explanation": "The KJV says that Haman told them “every thing that had befallen him.”",
+          "q": "What did Haman tell Zeresh and all his friends?"
         },
         {
           "answers": [
-            "Leave nothing out or undone",
-            "Do not tell anyone",
-            "Do not bring the horse"
-          ],
-          "correct": 0,
-          "explanation": "The king ordered Haman to perform every part of the ceremony he had described.",
-          "q": "What does “let nothing fail” mean in this passage?"
-        },
-        {
-          "answers": [
-            "The king commanded, Haman proposed, and Mordecai was placed on the horse",
-            "Haman proposed, the king commanded, and Haman carried it out on Mordecai",
-            "Mordecai was placed on the horse before the king questioned Haman"
+            "He was joyful and confident",
+            "He was sorrowful and humiliated",
+            "He was tired and hungry"
           ],
           "correct": 1,
-          "explanation": "Haman first described the honor, the king then commanded it, and Haman performed it for Mordecai.",
-          "q": "What was the correct order of events?"
+          "explanation": "These words describe Haman’s sorrow and humiliation after honoring Mordecai.",
+          "q": "What does “mourning, and having his head covered” show about Haman’s condition?"
+        },
+        {
+          "answers": [
+            "Haman would soon honor him",
+            "Mordecai had nothing to do with the matter",
+            "Haman had begun to fall before him"
+          ],
+          "correct": 2,
+          "explanation": "They said, “before whom thou hast begun to fall.”",
+          "q": "What did Zeresh and the wise men say about Mordecai?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "Haman, who planned to harm Mordecai, was forced to honor him",
-            "Mordecai was forced to ask Haman for honor",
-            "The king exchanged clothing with Mordecai"
+            "He went from planning Mordecai’s death, to honoring him, to being humiliated",
+            "He went from being a banquet guest to becoming king",
+            "He went from honoring Mordecai to receiving honor from him"
           ],
           "correct": 0,
-          "explanation": "Haman intended Mordecai's execution but had to conduct Mordecai's public honor instead.",
-          "q": "What is the central reversal in these verses?"
+          "explanation": "Haman came intending to hang Mordecai, was forced to honor him, and then went home mourning.",
+          "q": "What change in Haman’s position is shown in these verses?"
         },
         {
           "answers": [
-            "It ensures that Mordecai receives the full honor Haman described",
-            "It allows Haman to change the ceremony",
-            "It cancels the royal clothing"
+            "They announce that Haman’s situation is beginning to turn against him",
+            "They explain how to read the royal records",
+            "They command Mordecai to attend the banquet"
           ],
           "correct": 0,
-          "explanation": "The king specifically ordered Haman to let nothing fail of all that he had spoken.",
-          "q": "Why is the king's command to perform the entire proposal important?"
+          "explanation": "They warn Haman that he has begun to fall before Mordecai the Jew and will not prevail against him.",
+          "q": "Why are Zeresh’s and the wise men’s words important?"
         },
         {
           "answers": [
-            "Haman thought in his heart",
-            "Mordecai sat at the king's gate",
-            "Haman led Mordecai through the street and proclaimed before him"
+            "The king returns to sleep",
+            "The king’s chamberlains hurry to bring Haman to the banquet",
+            "Mordecai leaves the king’s gate"
           ],
-          "correct": 2,
-          "explanation": "The procession through the city and the public proclamation made Mordecai's honor visible to everyone.",
-          "q": "Which detail shows that the honor was public rather than private?"
+          "correct": 1,
+          "explanation": "While they were still talking, the king’s chamberlains came and hurried Haman to Esther’s banquet.",
+          "q": "What creates urgency at the end of the passage?"
         }
       ],
       "idea": 3
-    },
-    {
-      "paragraph": 4,
-      "start_verse": 12,
-      "end_verse": 14,
-      "title": "Haman's Humiliation and Summons to the Feast",
-      "easy": [
-        {
-          "answers": [
-            "To the king's gate",
-            "To Haman's house",
-            "To Esther's feast"
-          ],
-          "correct": 0,
-          "explanation": "The verse says, “And Mordecai came again to the king's gate.”",
-          "q": "Where did Mordecai return after the ceremony?"
-        },
-        {
-          "answers": [
-            "Joyful and honored",
-            "Mourning and with his head covered",
-            "Wearing the royal apparel"
-          ],
-          "correct": 1,
-          "explanation": "Haman went home mourning and having his head covered.",
-          "q": "How did Haman return home?"
-        },
-        {
-          "answers": [
-            "The king's young servants",
-            "The king's chamberlains",
-            "Mordecai"
-          ],
-          "correct": 1,
-          "explanation": "The king's chamberlains came and hastened to bring Haman to Esther's banquet.",
-          "q": "Who came to bring Haman to the banquet?"
-        }
-      ],
-      "medium": [
-        {
-          "answers": [
-            "Everything that had befallen him",
-            "Only the king's first question",
-            "Only what was written in the records"
-          ],
-          "correct": 0,
-          "explanation": "Haman told them “every thing that had befallen him.”",
-          "q": "What did Haman tell Zeresh and his friends?"
-        },
-        {
-          "answers": [
-            "Joy and celebration",
-            "Shame or humiliation",
-            "Rest and peace"
-          ],
-          "correct": 1,
-          "explanation": "Haman's mourning and covered head show his shame and humiliation.",
-          "q": "What does Haman's covered head indicate in this context?"
-        },
-        {
-          "answers": [
-            "That he would not prevail against Mordecai",
-            "That Mordecai would leave the king's gate",
-            "That the king would not call for him"
-          ],
-          "correct": 0,
-          "explanation": "They warned that Haman would not prevail against Mordecai but would surely fall before him.",
-          "q": "What did the wise men and Zeresh warn Haman?"
-        }
-      ],
-      "challenge": [
-        {
-          "answers": [
-            "Mordecai returns to his place, while Haman is humiliated and taken to the feast",
-            "Both men return together to the palace",
-            "Haman receives a higher position than Mordecai"
-          ],
-          "correct": 0,
-          "explanation": "Mordecai returns to the king's gate, while Haman goes home mourning and is quickly taken to Esther's banquet.",
-          "q": "What does the contrast between Mordecai and Haman at the end of the chapter show?"
-        },
-        {
-          "answers": [
-            "They recognize that events have turned against Haman",
-            "They praise Haman for his success",
-            "They announce that Mordecai has left the city"
-          ],
-          "correct": 0,
-          "explanation": "They understand that Haman has begun to fall before Mordecai and will not overcome him.",
-          "q": "Why are Zeresh's and the wise men's words significant after the honor ceremony?"
-        },
-        {
-          "answers": [
-            "The chamberlains arrive while they are still speaking and hurry Haman to the banquet",
-            "The king waits a long time for Haman",
-            "Mordecai invites Haman to his house"
-          ],
-          "correct": 0,
-          "explanation": "While they were still talking, the chamberlains came and hastened to bring Haman to the banquet.",
-          "q": "What creates the sense of urgency in the final verse?"
-        }
-      ],
-      "idea": 4
     }
   ]
 }
