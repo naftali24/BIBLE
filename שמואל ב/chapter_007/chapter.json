@@ -1,0 +1,524 @@
+{
+  "book": "II Samuel",
+  "book_he": "שמואל ב",
+  "book_chapters": 24,
+  "chapter": 7,
+  "title": "שמואל ב פרק 7",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b07.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b07.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2SA/7-6abd68084d04e234567ca7a4630105bf.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, כִּי-יָשַׁב הַמֶּלֶךְ בְּבֵיתוֹ; וַיהוָה הֵנִיחַ-לוֹ מִסָּבִיב, מִכָּל-אֹיְבָיו.",
+    "וַיֹּאמֶר הַמֶּלֶךְ, אֶל-נָתָן הַנָּבִיא, רְאֵה נָא, אָנֹכִי יוֹשֵׁב בְּבֵית אֲרָזִים; וַאֲרוֹן, הָאֱלֹהִים, יֹשֵׁב, בְּתוֹךְ הַיְרִיעָה.",
+    "וַיֹּאמֶר נָתָן אֶל-הַמֶּלֶךְ, כֹּל אֲשֶׁר בִּלְבָבְךָ לֵךְ עֲשֵׂה: כִּי יְהוָה, עִמָּךְ.",
+    "וַיְהִי, בַּלַּיְלָה הַהוּא; {ס} וַיְהִי, דְּבַר-יְהוָה, אֶל-נָתָן, לֵאמֹר.",
+    "לֵךְ וְאָמַרְתָּ אֶל-עַבְדִּי אֶל-דָּוִד, {ס} כֹּה אָמַר יְהוָה: הַאַתָּה תִּבְנֶה-לִּי בַיִת, לְשִׁבְתִּי.",
+    "כִּי לֹא יָשַׁבְתִּי, בְּבַיִת, לְמִיּוֹם הַעֲלֹתִי אֶת-בְּנֵי יִשְׂרָאֵל מִמִּצְרַיִם, וְעַד הַיּוֹם הַזֶּה; וָאֶהְיֶה, מִתְהַלֵּךְ, בְּאֹהֶל, וּבְמִשְׁכָּן.",
+    "בְּכֹל אֲשֶׁר-הִתְהַלַּכְתִּי, בְּכָל-בְּנֵי יִשְׂרָאֵל, הֲדָבָר דִּבַּרְתִּי אֶת-אַחַד שִׁבְטֵי יִשְׂרָאֵל, אֲשֶׁר צִוִּיתִי לִרְעוֹת אֶת-עַמִּי אֶת-יִשְׂרָאֵל לֵאמֹר: לָמָּה לֹא-בְנִיתֶם לִי, בֵּית אֲרָזִים.",
+    "וְעַתָּה כֹּה-תֹאמַר לְעַבְדִּי לְדָוִד, כֹּה אָמַר יְהוָה צְבָאוֹת, אֲנִי לְקַחְתִּיךָ מִן-הַנָּוֶה, מֵאַחַר הַצֹּאן--לִהְיוֹת נָגִיד, עַל-עַמִּי עַל-יִשְׂרָאֵל.",
+    "וָאֶהְיֶה עִמְּךָ, בְּכֹל אֲשֶׁר הָלַכְתָּ, וָאַכְרִתָה אֶת-כָּל-אֹיְבֶיךָ, מִפָּנֶיךָ; וְעָשִׂתִי לְךָ שֵׁם גָּדוֹל, כְּשֵׁם הַגְּדֹלִים אֲשֶׁר בָּאָרֶץ.",
+    "וְשַׂמְתִּי מָקוֹם לְעַמִּי לְיִשְׂרָאֵל וּנְטַעְתִּיו, וְשָׁכַן תַּחְתָּיו, וְלֹא יִרְגַּז, עוֹד; וְלֹא-יֹסִיפוּ בְנֵי-עַוְלָה לְעַנּוֹתוֹ, כַּאֲשֶׁר בָּרִאשׁוֹנָה.",
+    "וּלְמִן-הַיּוֹם, אֲשֶׁר צִוִּיתִי שֹׁפְטִים עַל-עַמִּי יִשְׂרָאֵל, וַהֲנִיחֹתִי לְךָ, מִכָּל-אֹיְבֶיךָ; וְהִגִּיד לְךָ יְהוָה, כִּי-בַיִת יַעֲשֶׂה-לְּךָ יְהוָה.",
+    "כִּי יִמְלְאוּ יָמֶיךָ, וְשָׁכַבְתָּ אֶת-אֲבֹתֶיךָ, וַהֲקִימֹתִי אֶת-זַרְעֲךָ אַחֲרֶיךָ, אֲשֶׁר יֵצֵא מִמֵּעֶיךָ; וַהֲכִינֹתִי, אֶת-מַמְלַכְתּוֹ.",
+    "הוּא יִבְנֶה-בַּיִת, לִשְׁמִי; וְכֹנַנְתִּי אֶת-כִּסֵּא מַמְלַכְתּוֹ, עַד-עוֹלָם.",
+    "אֲנִי אֶהְיֶה-לּוֹ לְאָב, וְהוּא יִהְיֶה-לִּי לְבֵן--אֲשֶׁר, בְּהַעֲוֺתוֹ, וְהֹכַחְתִּיו בְּשֵׁבֶט אֲנָשִׁים, וּבְנִגְעֵי בְּנֵי אָדָם.",
+    "וְחַסְדִּי, לֹא-יָסוּר מִמֶּנּוּ, כַּאֲשֶׁר הֲסִרֹתִי מֵעִם שָׁאוּל, אֲשֶׁר הֲסִרֹתִי מִלְּפָנֶיךָ.",
+    "וְנֶאְמַן בֵּיתְךָ וּמַמְלַכְתְּךָ עַד-עוֹלָם, לְפָנֶיךָ: כִּסְאֲךָ, יִהְיֶה נָכוֹן עַד-עוֹלָם.",
+    "כְּכֹל הַדְּבָרִים הָאֵלֶּה, וּכְכֹל הַחִזָּיוֹן הַזֶּה--כֵּן דִּבֶּר נָתָן, אֶל-דָּוִד.",
+    "וַיָּבֹא הַמֶּלֶךְ דָּוִד, וַיֵּשֶׁב לִפְנֵי יְהוָה; וַיֹּאמֶר, מִי אָנֹכִי אֲדֹנָי יְהוִה וּמִי בֵיתִי--כִּי הֲבִאֹתַנִי, עַד-הֲלֹם.",
+    "וַתִּקְטַן עוֹד זֹאת בְּעֵינֶיךָ אֲדֹנָי יְהוִה, וַתְּדַבֵּר גַּם אֶל-בֵּית-עַבְדְּךָ לְמֵרָחוֹק; וְזֹאת תּוֹרַת הָאָדָם, אֲדֹנָי יְהוִה.",
+    "וּמַה-יּוֹסִיף דָּוִד עוֹד, לְדַבֵּר אֵלֶיךָ; וְאַתָּה יָדַעְתָּ אֶת-עַבְדְּךָ, אֲדֹנָי יְהוִה.",
+    "בַּעֲבוּר דְּבָרְךָ, וּכְלִבְּךָ, עָשִׂיתָ, אֵת כָּל-הַגְּדוּלָּה הַזֹּאת--לְהוֹדִיעַ, אֶת-עַבְדֶּךָ.",
+    "עַל-כֵּן גָּדַלְתָּ, יְהוָה אֱלֹהִים: כִּי-אֵין כָּמוֹךָ, וְאֵין אֱלֹהִים זוּלָתֶךָ, בְּכֹל אֲשֶׁר-שָׁמַעְנוּ, בְּאָזְנֵינוּ.",
+    "וּמִי כְעַמְּךָ כְּיִשְׂרָאֵל, גּוֹי אֶחָד בָּאָרֶץ--אֲשֶׁר הָלְכוּ-אֱלֹהִים לִפְדּוֹת-לוֹ לְעָם וְלָשׂוּם לוֹ שֵׁם, וְלַעֲשׂוֹת לָכֶם הַגְּדוּלָּה וְנֹרָאוֹת לְאַרְצֶךָ, מִפְּנֵי עַמְּךָ אֲשֶׁר פָּדִיתָ לְּךָ מִמִּצְרַיִם, גּוֹיִם וֵאלֹהָיו.",
+    "וַתְּכוֹנֵן לְךָ אֶת-עַמְּךָ יִשְׂרָאֵל לְךָ, לְעָם--עַד-עוֹלָם; וְאַתָּה יְהוָה, הָיִיתָ לָהֶם לֵאלֹהִים.",
+    "וְעַתָּה, יְהוָה אֱלֹהִים, הַדָּבָר אֲשֶׁר דִּבַּרְתָּ עַל-עַבְדְּךָ וְעַל-בֵּיתוֹ, הָקֵם עַד-עוֹלָם; וַעֲשֵׂה, כַּאֲשֶׁר דִּבַּרְתָּ.",
+    "וְיִגְדַּל שִׁמְךָ עַד-עוֹלָם, לֵאמֹר, יְהוָה צְבָאוֹת, אֱלֹהִים עַל-יִשְׂרָאֵל; וּבֵית עַבְדְּךָ דָוִד, יִהְיֶה נָכוֹן לְפָנֶיךָ.",
+    "כִּי-אַתָּה יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל, גָּלִיתָה אֶת-אֹזֶן עַבְדְּךָ לֵאמֹר, בַּיִת, אֶבְנֶה-לָּךְ; עַל-כֵּן, מָצָא עַבְדְּךָ אֶת-לִבּוֹ, לְהִתְפַּלֵּל אֵלֶיךָ, אֶת-הַתְּפִלָּה הַזֹּאת.",
+    "וְעַתָּה אֲדֹנָי יְהוִה, אַתָּה-הוּא הָאֱלֹהִים, וּדְבָרֶיךָ, יִהְיוּ אֱמֶת; וַתְּדַבֵּר, אֶל-עַבְדְּךָ, אֶת-הַטּוֹבָה, הַזֹּאת.",
+    "וְעַתָּה, הוֹאֵל וּבָרֵךְ אֶת-בֵּית עַבְדְּךָ, לִהְיוֹת לְעוֹלָם, לְפָנֶיךָ: כִּי-אַתָּה אֲדֹנָי יְהוִה, דִּבַּרְתָּ, וּמִבִּרְכָתְךָ, יְבֹרַךְ בֵּית-עַבְדְּךָ לְעוֹלָם."
+  ],
+  "english": [
+    "And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;",
+    "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.",
+    "And Nathan said to the king, Go, do all that\nis in thine heart; for the LORD\nis with thee.",
+    "And it came to pass that night, that the word of the LORD came unto Nathan, saying,",
+    "Go and tell my servant David, Thus saith the LORD, Shalt thou build me an house for me to dwell in?",
+    "Whereas I have not dwelt in\nany house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.",
+    "In all\nthe places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?",
+    "Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:",
+    "And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great\nmen that\nare in the earth.",
+    "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,",
+    "And as since the time that I commanded judges\nto be over my people Israel, and have caused thee to rest from all thine enemies. Also the LORD telleth thee that he will make thee an house.",
+    "And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.",
+    "He shall build an house for my name, and I will stablish the throne of his kingdom for ever.",
+    "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:",
+    "But my mercy shall not depart away from him, as I took\nit\n from Saul, whom I put away before thee.",
+    "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.",
+    "According to all these words, and according to all this vision, so did Nathan speak unto David.",
+    "Then went king David in, and sat before the LORD, and he said, Who\nam I, O Lord GOD? and what\nis my house, that thou hast brought me hitherto?",
+    "And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And\nis\n this the manner of man, O Lord GOD?",
+    "And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.",
+    "For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know\nthem.",
+    "Wherefore thou art great, O LORD God: for\nthere is none like thee, neither\nis there any God beside thee, according to all that we have heard with our ears.",
+    "And what one nation in the earth\nis like thy people,\neven like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt,\nfrom\n the nations and their gods?",
+    "For thou hast confirmed to thyself thy people Israel\nto be\n a people unto thee for ever: and thou, LORD, art become their God.",
+    "And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish\nit for ever, and do as thou hast said.",
+    "And let thy name be magnified for ever, saying, The LORD of hosts\nis the God over Israel: and let the house of thy servant David be established before thee.",
+    "For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.",
+    "And now, O Lord GOD, thou\nart that God, and thy words be true, and thou hast promised this goodness unto thy servant:",
+    "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord GOD, hast spoken\nit: and with thy blessing let the house of thy servant be blessed for ever."
+  ],
+  "steinsaltz": [
+    "וַיְהִי כִּי יָשַׁב הַמֶּלֶךְ בְּבֵיתוֹ, וַה' הֵנִיחַ לוֹ מִסָּבִיב מִכָּל אֹיְבָיו, לא היו מלחמות באותה שעה,",
+    "וַיֹּאמֶר הַמֶּלֶךְ אֶל נָתָן הַנָּבִיא: רְאֵה נָא, אָנֹכִי יוֹשֵׁב בְּבֵית אֲרָזִים שבנה לי חירם, וַאֲרוֹן הָאֱלֹהִים יֹשֵׁב בְּתוֹךְ הַיְרִיעָה. אין זה נאה. יש לבנות בית לה'.",
+    "וַיֹּאמֶר נָתָן אֶל הַמֶּלֶךְ: כֹּל אֲשֶׁר בִּלְבָבְךָ – לֵךְ עֲשֵׂה, כִּי ה' עִמָּךְ. נתן מדעתו הסכים לרצון דוד.",
+    "ואולם – וַיְהִי בַּלַּיְלָה הַהוּא, וַיְהִי דְּבַר ה' אֶל נָתָן לֵאמֹר: :",
+    "לֵךְ וְאָמַרְתָּ אֶל עַבְדִּי, אֶל דָּוִד: כֹּה אָמַר ה': \"הַאם אַתָּה תִּבְנֶה לִּי בַיִת לְשִׁבְתִּי?! אין זה תפקידך,",
+    "כִּי לֹא יָשַׁבְתִּי בְּבַיִת לְמִיּוֹם הַעֲלֹתִי אֶת בְּנֵי יִשְׂרָאֵל מִמִּצְרַיִם וְעַד הַיּוֹם הַזֶּה, וָאֶהְיֶה מִתְהַלֵּךְ בְּאֹהֶל וּבְמִשְׁכָּן. גם משכן שילה לא היה בית של ממש. אמנם קירותיו היו קירות אבן, אך הוא היה מקורה ביריעות משכן.",
+    "בְּכֹל הזמנים אֲשֶׁר הִתְהַלַּכְתִּי בְּכָל בְּנֵי יִשְׂרָאֵל, הֲאם דָבָר דִּבַּרְתִּי אֶת, עם אַחַד שִׁבְטֵי, מנהיגי יִשְׂרָאֵל אֲשֶׁר צִוִּיתִי לִרְעוֹת אֶת עַמִּי אֶת יִשְׂרָאֵל, לֵאמֹר: לָמָּה לֹא בְנִיתֶם לִי בֵּית אֲרָזִים?! \" מעולם לא ביקשתי זאת מהם.",
+    "וְעַתָּה, כֹּה תֹאמַר לְעַבְדִּי לְדָוִד: כֹּה אָמַר ה' צְבָאוֹת: \"אֲנִי לְקַחְתִּיךָ מִן הַנָּוֶה, ממקום המרעה, מֵאַחַר הַצֹּאן, לִהְיוֹת נָגִיד, מלך עַל עַמִּי, עַל יִשְׂרָאֵל.",
+    "וָאֶהְיֶה עִמְּךָ בְּכֹל אֲשֶׁר הָלַכְתָּ, וָאַכְרִתָה אֶת כָּל אֹיְבֶיךָ מִפָּנֶיךָ, וְעָשִׂתִי לְךָ שֵׁם גָּדוֹל כְּשֵׁם הַגְּדֹלִים אֲשֶׁר בָּאָרֶץ. שמך כמלך גדול יצא בכל ארצות המזרח.",
+    "וְשַׂמְתִּי מָקוֹם בטוח לְעַמִּי, לְיִשְׂרָאֵל, וּנְטַעְתִּיו וְשָׁכַן תַּחְתָּיו וְלֹא יִרְגַּז, יזדעזע עוֹד, וְלֹא יֹסִיפוּ בְנֵי עַוְלָה, רשעים לְעַנּוֹתוֹ כַּאֲשֶׁר בָּרִאשׁוֹנָה, קודם שהקמתי להם שופטים,",
+    "וּלְמִן הַיּוֹם אֲשֶׁר צִוִּיתִי, מיניתי שֹׁפְטִים עַל עַמִּי יִשְׂרָאֵל. אתה אינך נתון באותן מצוקות שעמד ישראל בפניהן בעבר – וַהֲנִיחֹתִי לְךָ מִכָּל אֹיְבֶיךָ. ממלכתך יציבה. וְהִגִּיד לְךָ ה' כִּי בַיִת, בית מלוכה יַעֲשֶׂה לְּךָ ה'.",
+    "כִּי, כאשר יִמְלְאוּ יָמֶיךָ, תגיע שעתך למות, וְשָׁכַבְתָּ אֶת, עם אֲבֹתֶיךָ – וַהֲקִימֹתִי אֶת זַרְעֲךָ אַחֲרֶיךָ אֲשֶׁר יֵצֵא מִמֵּעֶיךָ, שעתיד להיוולד לך, וַהֲכִינֹתִי, אייסד ואבסס אֶת מַמְלַכְתּוֹ. בנך ימלוך אחריך.",
+    "אותו מלך שייוולד במציאות נינוחה ושלווה, הוּא יִבְנֶה בַּיִת לִשְׁמִי, וְכֹנַנְתִּי, אייסד אֶת כִּסֵּא מַמְלַכְתּוֹ עַד עוֹלָם. מלכותו לא תתבטל.",
+    "אתו יהיה לי קשר מיוחד – אֲנִי אֶהְיֶה לּוֹ לְאָב, וְהוּא יִהְיֶה לִּי לְבֵן, אֲשֶׁר בְּהַעֲוֹתוֹ, אם הוא יעשה עוול כלשהו, וְהֹכַחְתִּיו בְּשֵׁבֶט, בשוט שאֲנָשִׁים מכים בו את בניהם וּבְנִגְעֵי, במכות בְּנֵי אָדָם. אעניש אותו כמו שמענישים בן.",
+    "וְאולם חַסְדִּי לֹא יָסוּר מִמֶּנּוּ כַּאֲשֶׁר הֲסִרֹתִי מֵעִם שָׁאוּל, אֲשֶׁר הֲסִרֹתִי מִלְּפָנֶיךָ. בריתי עם בניך תישאר לעד –",
+    "וְנֶאְמַן, יתקיים בֵּיתְךָ וּמַמְלַכְתְּךָ עַד עוֹלָם לְפָנֶיךָ, בחייך. כִּסְאֲךָ, כסא המלוכה שלך יִהְיֶה נָכוֹן, מבוסס עַד עוֹלָם\".",
+    "כְּכֹל הַדְּבָרִים הָאֵלֶּה וּכְכֹל הַחִזָּיוֹן, מראה הנבואה הלילי הַזֶּה, כֵּן דִּבֶּר נָתָן אֶל דָּוִד.",
+    "וַיָּבֹא הַמֶּלֶךְ דָּוִד וַיֵּשֶׁב, שהה לִפְנֵי ה' וַיֹּאמֶר: מִי אָנֹכִי, ה' אֱלוֹהִים, וּמִי בֵיתִי, כִּי הֲבִיאֹתַנִי עַד הֲלֹם, לכאן, לתת לי את כל גדולת המלוכה?!",
+    "וַתִּקְטַן עוֹד זֹאת, קטנה היא מתנת המלוכה בְּעֵינֶיךָ, ה' אֱלוֹהִים, וַתְּדַבֵּר גַּם אֶל בֵּית עַבְדְּךָ לְמֵרָחוֹק, לדורות העתידיים. וְכי זֹאת תּוֹרַת הָאָדָם, ה' אֱלוֹהִים?! מה יכול אדם עוד לבקש,",
+    "וּמַה יּוֹסִיף דָּוִד, ומה אוסיף עוֹד לְדַבֵּר אֵלֶיךָ?! והרי אַתָּה יָדַעְתָּ אֶת עַבְדְּךָ, ה' אֱלוֹהִים. אינני ראוי לכך –",
+    "בַּעֲבוּר דְּבָרְךָ וּכְלִבְּךָ, כרצונך עָשִׂיתָ אֵת כָּל הַגְּדוּלָּה הַזֹּאת ורצית לְהוֹדִיעַ אותה אֶת עַבְדֶּךָ, לי. מנעוריו ועד עתה דוד ראה את עצמו כעבד ה' שמטרתו העיקרית היא עשיית דבר ה' ולא גדולתו האישית.",
+    "עַל כֵּן גָּדַלְתָּ, אתה גדול, ה' אֱלוֹהִים, כִּי אֵין כָּמוֹךָ, וְאֵין אֱלֹהִים זוּלָתֶךָ בְּכֹל, ככל אֲשֶׁר שָׁמַעְנוּ בְּאָזְנֵינוּ.",
+    "וּמִי כְעַמְּךָ כְּיִשְׂרָאֵל, גּוֹי אֶחָד, מיוחד בָּאָרֶץ, אֲשֶׁר הָלְכוּ אֱלֹהִים לִפְדּוֹת לוֹ, להצילו לְעָם, וְלָשׂוּם, ולשים, ולעשות לוֹ שֵׁם, לפרסם אותו בעולם, וְלַעֲשׂוֹת לָכֶם, ישראל, את הַגְּדוּלָּה, וְכן לעשות נֹרָאוֹת, נפלאות, מעשים מבהילים לְאַרְצֶךָ ולגרש מִפְּנֵי עַמְּךָ אֲשֶׁר פָּדִיתָ, הצלת לְּךָ מִמִּצְרַיִם גּוֹיִם, גוי גוי וֵאלֹהָיו.",
+    "וַתְּכוֹנֵן, הקמת לְךָ אֶת עַמְּךָ יִשְׂרָאֵל לְךָ לְעָם עַד עוֹלָם, וְאַתָּה, ה', הָיִיתָ לָהֶם לֵאלֹהִים.",
+    "וְעַתָּה, ה' אֱלוֹהִים, מה ביכולתי לבקש?! הַדָּבָר אֲשֶׁר דִּבַּרְתָּ עַל עַבְדְּךָ וְעַל בֵּיתוֹ – הָקֵם עַד עוֹלָם וַעֲשֵׂה כַּאֲשֶׁר דִּבַּרְתָּ. קיים את הבטחתך לי.",
+    "וְיִגְדַּל שִׁמְךָ עַד עוֹלָם לֵאמֹר: ה' צְבָאוֹת אֱלֹהִים ימלוך עַל יִשְׂרָאֵל, וּבֵית עַבְדְּךָ דָוִד יִהְיֶה נָכוֹן לְפָנֶיךָ וימשיך להתקיים.",
+    "כִּי אַתָּה, ה' צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל, גָּלִיתָה, גילית אֶת אֹזֶן עַבְדְּךָ לֵאמֹר: \"בַּיִת, מלכות אֶבְנֶה לָּךְ\". עַל כֵּן מָצָא עַבְדְּךָ אֶת לִבּוֹ לְהִתְפַּלֵּל אֵלֶיךָ אֶת הַתְּפִלָּה הַזֹּאת, ולהודות על מה שיש לי ועל מה שהובטח לי לעתיד לבוא.",
+    "וְעַתָּה, ה' אֱלוֹהִים, אַתָּה הוּא הָאֱלֹהִים, השולט בכול, ושבידו לקיים, וּדְבָרֶיךָ יִהְיוּ אֱמֶת, יתאמתו, וַתְּדַבֵּר, שהרי דיברת אֶל עַבְדְּךָ אֶת הַטּוֹבָה הַזֹּאת.",
+    "וְעַתָּה הוֹאֵל, רצה וּבָרֵךְ אֶת בֵּית עַבְדְּךָ לִהְיוֹת לְעוֹלָם לְפָנֶיךָ, כִּי אַתָּה, ה' אֱלוֹהִים, דִּבַּרְתָּ, וּמִבִּרְכָתְךָ יְבֹרַךְ בֵּית עַבְדְּךָ לְעוֹלָם."
+  ],
+  "ai_explanation": [
+    "דוד יושב בביתו לאחר שה' נתן לו מנוחה מכל אויביו. באותה שעה אין מלחמות.",
+    "דוד משווה בין בית הארזים שבנה לו חירם לבין ארון האלוהים הנמצא בתוך היריעה, וסבור שאין זה ראוי. לכן הוא מבקש לבנות בית לה'.",
+    "נתן מסכים בתחילה לרצון דוד ואומר לו לעשות ככל אשר בלבו, מפני שה' עמו. ההסכמה הייתה מדעתו של נתן, ולא בעקבות ציווי נבואי.",
+    "בלילה ההוא, לאחר הסכמתו הראשונית של נתן, מגיע אליו דבר ה' ומתחיל לתקן את התשובה לדוד.",
+    "נתן נדרש לשאול את דוד אם הוא אכן זה שיבנה לה' בית לשבתו. משמעות הדברים היא שאין זה תפקידו של דוד.",
+    "ה' מזכיר שלא ישב בבית קבוע מאז העלאת בני ישראל ממצרים, אלא התהלך באוהל ובמשכן. גם משכן שילה לא היה בית של ממש, שכן היה מקורה ביריעות המשכן.",
+    "ה' אומר שמעולם לא דרש ממנהיגי ישראל, שנצטוו לרעות את העם, לבנות לו בית ארזים. לכן דוד אינו צריך לחשוב שהדבר נדרש ממנו.",
+    "ה' מזכיר לדוד שלקח אותו ממקום המרעה ומאחרי הצאן, כדי שיהיה מנהיג ומלך על ישראל.",
+    "ה' היה עם דוד בכל דרכיו, השמיד את אויביו מפניו, והעניק לו שם גדול של מלך, שהתפרסם בכל ארצות המזרח.",
+    "ה' מבטיח להקים לישראל מקום בטוח ויציב, שבו העם יוכל לשבת בלי זעזועים ובלי רשעים שיענו אותו כפי שהיה בעבר, לפני הקמת השופטים.",
+    "מאז מינוי השופטים ישראל אינו נתון עוד לאותן מצוקות של העבר, וגם ממלכת דוד יציבה לאחר שניתנה לו מנוחה מאויביו. במקום שדוד יבנה בית לה', ה' עתיד לבנות לדוד בית מלוכה.",
+    "כאשר ימות דוד, ה' יקים אחריו את בנו שייוולד לו ויבסס את מלכותו. הבן עתיד למלוך אחרי דוד.",
+    "הבן הוא שיבנה בית לשם ה', וה' יבסס את כס מלכותו לעולם. מלכותו לא תתבטל.",
+    "בין ה' לבין הבן יהיה קשר מיוחד של אב ובן. אם הבן יעשה עוול, ה' יעניש ויחנך אותו כפי שמענישים בן.",
+    "חסדו של ה' לא יסור מצאצאי דוד כפי שהוסר משאול. הברית עם בני דוד תישאר לעד.",
+    "בית דוד וממלכתו יתקיימו לעולם, וכיסא המלוכה יהיה מבוסס ונכון לעד.",
+    "נתן מוסר לדוד את כל הדברים שנאמרו לו ואת כל מראה הנבואה הלילי.",
+    "דוד בא לפני ה', שוהה לפניו ומביע השתאות: מי הוא ומי ביתו, שה' הביא אותו עד למעמד ולגדולה של המלוכה.",
+    "דוד רואה שגם מתנת המלוכה קטנה בעיני ה', שהרי ה' דיבר גם על עתיד ביתו לדורות. הוא תוהה מה עוד יכול אדם לבקש.",
+    "דוד שואל מה יוכל להוסיף ולדבר, שהרי ה' מכיר את עבדו. הוא מדגיש שאינו ראוי לכל הטובה הזאת.",
+    "דוד אומר שה' עשה את הגדולה הזאת כרצונו ולמען דברו, כדי להודיע אותה לעבדו. דוד רואה את עצמו בעיקר כעבד ה', שמטרתו לעשות את רצון ה' ולא לבקש גדולה אישית.",
+    "לכן דוד מכיר בגדולת ה': אין כמוהו ואין אלוהים זולתו, כפי שנשמע ונודע.",
+    "דוד משבח גם את ישראל, העם המיוחד שנפדה על ידי ה', קיבל שם בעולם, וזכה למעשים נפלאים ולהצלת ארצו מפני עמים ואלוהיהם.",
+    "ה' הקים את ישראל לו לעם לעולם, והוא היה להם לאלוהים.",
+    "דוד מבקש שהדבר שה' דיבר על עבדו ועל ביתו יקום לעולם, ושה' יקיים את הבטחתו.",
+    "דוד מבקש ששם ה' יגדל לעולם, ושיתקיים בית דוד לפניו וימשיך להתקיים.",
+    "מאחר שה' גילה לדוד את הבטחת הבית, כלומר את מלכות ביתו, מצא דוד אומץ להתפלל את התפילה הזאת ולהודות על הטובה שניתנה לו ועל העתיד שהובטח לו.",
+    "דוד מכיר בכך שה' הוא האלוהים, השולט בכול ויכול לקיים את דבריו. דברי ה' יתאמתו, והוא כבר דיבר אל דוד את הטובה הזאת.",
+    "דוד מבקש שה' ירצה לברך את בית עבדו ולהעמידו לפניו לעולם. מאחר שה' דיבר, ברכתו היא שתביא ברכה לבית דוד לעולם."
+  ],
+  "ai_explanation_en": [
+    "David is sitting in his palace after God has given him rest from all his enemies. At that time there are no wars.",
+    "David compares the palace of cedar that Hiram built for him with the Ark of God, which is in a tent, and feels that this is inappropriate. He therefore wants to build a house for God.",
+    "Nathan initially agrees with David's wish and tells him to do whatever is in his heart because God is with him. This agreement was Nathan's own judgment, not the result of a prophetic command.",
+    "That night, after Nathan's initial agreement, the word of God comes to him and begins to correct the answer given to David.",
+    "Nathan is told to ask David whether he is truly the one who will build a house for God to dwell in. The meaning is that this is not David's role.",
+    "God recalls that He has not dwelt in a permanent house since bringing the Israelites out of Egypt, but has moved about in a tent and a tabernacle. Even the sanctuary at Shiloh was not a genuine permanent house, because it was covered with the tabernacle curtains.",
+    "God says that He never demanded from the leaders of Israel, who were commanded to shepherd the people, that they build Him a house of cedar. David therefore need not think that this was required of him.",
+    "God reminds David that He took him from the pasture and from following the sheep in order to make him a leader and king over Israel.",
+    "God was with David wherever he went, destroyed his enemies before him, and gave him the reputation of a great king, known throughout the lands of the East.",
+    "God promises to establish a safe and stable place for Israel, where the people can live without upheaval and without wicked people oppressing them as they did in the past, before the judges were established.",
+    "Since the appointment of the judges, Israel is no longer subject to the same troubles of the past, and David's kingdom is stable now that he has been given rest from his enemies. Instead of David building a house for God, God will build a royal dynasty for David.",
+    "When David dies, God will raise up his son, who will be born to him, and establish his kingdom. The son will rule after David.",
+    "That son will build a house for God's name, and God will establish his royal throne forever. His kingdom will not be abolished.",
+    "There will be a special father-and-son relationship between God and the son. If the son does wrong, God will discipline and punish him as a father disciplines a son.",
+    "God's kindness will not depart from David's descendants as it departed from Saul. The covenant with David's sons will remain forever.",
+    "David's house and kingdom will endure forever, and his royal throne will be firmly established forever.",
+    "Nathan conveys to David all the words spoken to him and the entire vision of the night.",
+    "David comes before God, remains in His presence, and expresses amazement: Who is he, and what is his family, that God has brought him to such royal status and greatness?",
+    "David sees that even the gift of kingship is small in God's eyes, since God has also spoken about the future of his family for generations. He wonders what more a person could ask.",
+    "David asks what more he can say, since God knows His servant. He emphasizes that he is not worthy of all this goodness.",
+    "David says that God has done this great thing according to His will and for the sake of His word, in order to reveal it to His servant. David sees himself primarily as God's servant, whose main purpose is to carry out God's will rather than seek personal greatness.",
+    "David therefore acknowledges God's greatness: there is none like Him and no other God, as people have heard and known.",
+    "David also praises Israel, the unique nation redeemed by God, given a name in the world, and granted wondrous deeds and deliverance from nations and their gods.",
+    "God established Israel as His people forever, and He became their God.",
+    "David asks that the word God spoke concerning His servant and his house be established forever, and that God fulfill His promise.",
+    "David asks that God's name become great forever, and that the house of David remain established before Him and continue to endure.",
+    "Because God revealed the promise of a house, meaning the royal dynasty of David, David found the courage to pray this prayer and give thanks for the good already given to him and for the future promised to him.",
+    "David recognizes that God is the true God, who rules over everything and is able to fulfill His words. God's words will prove true, and He has already spoken this goodness to David.",
+    "David asks God to be willing to bless the house of His servant and establish it before Him forever. Since God has spoken, His blessing will bring blessing to David's house forever."
+  ],
+  "perush": [
+    "דוד יושב בביתו לאחר שה' נתן לו מנוחה מכל אויביו. באותה שעה אין מלחמות.",
+    "דוד משווה בין בית הארזים שבנה לו חירם לבין ארון האלוהים הנמצא בתוך היריעה, וסבור שאין זה ראוי. לכן הוא מבקש לבנות בית לה'.",
+    "נתן מסכים בתחילה לרצון דוד ואומר לו לעשות ככל אשר בלבו, מפני שה' עמו. ההסכמה הייתה מדעתו של נתן, ולא בעקבות ציווי נבואי.",
+    "בלילה ההוא, לאחר הסכמתו הראשונית של נתן, מגיע אליו דבר ה' ומתחיל לתקן את התשובה לדוד.",
+    "נתן נדרש לשאול את דוד אם הוא אכן זה שיבנה לה' בית לשבתו. משמעות הדברים היא שאין זה תפקידו של דוד.",
+    "ה' מזכיר שלא ישב בבית קבוע מאז העלאת בני ישראל ממצרים, אלא התהלך באוהל ובמשכן. גם משכן שילה לא היה בית של ממש, שכן היה מקורה ביריעות המשכן.",
+    "ה' אומר שמעולם לא דרש ממנהיגי ישראל, שנצטוו לרעות את העם, לבנות לו בית ארזים. לכן דוד אינו צריך לחשוב שהדבר נדרש ממנו.",
+    "ה' מזכיר לדוד שלקח אותו ממקום המרעה ומאחרי הצאן, כדי שיהיה מנהיג ומלך על ישראל.",
+    "ה' היה עם דוד בכל דרכיו, השמיד את אויביו מפניו, והעניק לו שם גדול של מלך, שהתפרסם בכל ארצות המזרח.",
+    "ה' מבטיח להקים לישראל מקום בטוח ויציב, שבו העם יוכל לשבת בלי זעזועים ובלי רשעים שיענו אותו כפי שהיה בעבר, לפני הקמת השופטים.",
+    "מאז מינוי השופטים ישראל אינו נתון עוד לאותן מצוקות של העבר, וגם ממלכת דוד יציבה לאחר שניתנה לו מנוחה מאויביו. במקום שדוד יבנה בית לה', ה' עתיד לבנות לדוד בית מלוכה.",
+    "כאשר ימות דוד, ה' יקים אחריו את בנו שייוולד לו ויבסס את מלכותו. הבן עתיד למלוך אחרי דוד.",
+    "הבן הוא שיבנה בית לשם ה', וה' יבסס את כס מלכותו לעולם. מלכותו לא תתבטל.",
+    "בין ה' לבין הבן יהיה קשר מיוחד של אב ובן. אם הבן יעשה עוול, ה' יעניש ויחנך אותו כפי שמענישים בן.",
+    "חסדו של ה' לא יסור מצאצאי דוד כפי שהוסר משאול. הברית עם בני דוד תישאר לעד.",
+    "בית דוד וממלכתו יתקיימו לעולם, וכיסא המלוכה יהיה מבוסס ונכון לעד.",
+    "נתן מוסר לדוד את כל הדברים שנאמרו לו ואת כל מראה הנבואה הלילי.",
+    "דוד בא לפני ה', שוהה לפניו ומביע השתאות: מי הוא ומי ביתו, שה' הביא אותו עד למעמד ולגדולה של המלוכה.",
+    "דוד רואה שגם מתנת המלוכה קטנה בעיני ה', שהרי ה' דיבר גם על עתיד ביתו לדורות. הוא תוהה מה עוד יכול אדם לבקש.",
+    "דוד שואל מה יוכל להוסיף ולדבר, שהרי ה' מכיר את עבדו. הוא מדגיש שאינו ראוי לכל הטובה הזאת.",
+    "דוד אומר שה' עשה את הגדולה הזאת כרצונו ולמען דברו, כדי להודיע אותה לעבדו. דוד רואה את עצמו בעיקר כעבד ה', שמטרתו לעשות את רצון ה' ולא לבקש גדולה אישית.",
+    "לכן דוד מכיר בגדולת ה': אין כמוהו ואין אלוהים זולתו, כפי שנשמע ונודע.",
+    "דוד משבח גם את ישראל, העם המיוחד שנפדה על ידי ה', קיבל שם בעולם, וזכה למעשים נפלאים ולהצלת ארצו מפני עמים ואלוהיהם.",
+    "ה' הקים את ישראל לו לעם לעולם, והוא היה להם לאלוהים.",
+    "דוד מבקש שהדבר שה' דיבר על עבדו ועל ביתו יקום לעולם, ושה' יקיים את הבטחתו.",
+    "דוד מבקש ששם ה' יגדל לעולם, ושיתקיים בית דוד לפניו וימשיך להתקיים.",
+    "מאחר שה' גילה לדוד את הבטחת הבית, כלומר את מלכות ביתו, מצא דוד אומץ להתפלל את התפילה הזאת ולהודות על הטובה שניתנה לו ועל העתיד שהובטח לו.",
+    "דוד מכיר בכך שה' הוא האלוהים, השולט בכול ויכול לקיים את דבריו. דברי ה' יתאמתו, והוא כבר דיבר אל דוד את הטובה הזאת.",
+    "דוד מבקש שה' ירצה לברך את בית עבדו ולהעמידו לפניו לעולם. מאחר שה' דיבר, ברכתו היא שתביא ברכה לבית דוד לעולם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "רצון דוד לבנות בית לה' ותשובת ה'",
+      "title_en": "David's Desire to Build a House for God and God's Response",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "לאחר שה' נתן לדוד מנוחה מכל אויביו, דוד מבקש לבנות בית לה' במקום המשכן. נתן מסכים בתחילה, אך בלילה ה' מבהיר שלא דוד נדרש לבנות את הבית, ושמעולם לא דרש זאת ממנהיגי ישראל.",
+      "summary_en": "After God gives David rest from all his enemies, David wants to build a house for God instead of the tent. Nathan initially agrees, but that night God explains that David is not required to build the house and that He never demanded this from Israel's leaders.",
+      "image_prompt": "A respectful biblical-era interior scene: King David in a cedar palace speaking thoughtfully with the prophet Nathan, while a distant tent containing the Ark of God is visible through an open doorway; historically neutral, no text, warm natural light"
+    },
+    {
+      "title": "הבטחות ה' לדוד ולישראל",
+      "title_en": "God's Promises to David and Israel",
+      "start_verse": 8,
+      "end_verse": 11,
+      "summary": "ה' מזכיר לדוד את הדרך שעבר, מן הצאן אל המלוכה, ואת העזרה שנתן לו. הוא מבטיח לישראל מקום בטוח ויציב, ולדוד בית מלוכה במקום שבית לה' ייבנה על ידו.",
+      "summary_en": "God reminds David of his journey from the sheepfold to kingship and of the help He gave him. He promises Israel a secure and stable place, and promises David a royal dynasty instead of having David build a house for God.",
+      "image_prompt": "A symbolic biblical landscape showing a shepherd's path leading toward a stable royal city, with the prophet's message represented by a gentle beam of light; no text, no invented historical details, dignified ancient Near Eastern atmosphere"
+    },
+    {
+      "title": "הבטחת השושלת ובית המלוכה",
+      "title_en": "The Promise of the Dynasty and Royal House",
+      "start_verse": 12,
+      "end_verse": 17,
+      "summary": "ה' מבטיח להקים את בנו של דוד, שיבנה בית לשמו, ומודיע על קשר מיוחד של אב ובן ועל מלכות שתיכון לעולם. גם כאשר הבן יחטא, הוא ייענש, אך חסד ה' לא יסור מבית דוד.",
+      "summary_en": "God promises to raise up David's son, who will build a house for God's name, and describes a special father-and-son relationship and an enduring kingdom. Even if the son sins and is punished, God's kindness will not depart from David's house.",
+      "image_prompt": "A solemn prophetic vision of a father, son, and enduring royal throne beneath a starry sky, with a simple ancient sanctuary in the background; symbolic, respectful, no text, no specific facial identities"
+    },
+    {
+      "title": "תפילת ההודיה וההתפעלות של דוד",
+      "title_en": "David's Prayer of Gratitude and Wonder",
+      "start_verse": 18,
+      "end_verse": 24,
+      "summary": "דוד יושב לפני ה' ומתפעל מן הגדולה שניתנה לו ומן ההבטחה לביתו לדורות. הוא מודה בגדולת ה', משבח את ישראל כעם שנפדה ונעשה לעם מיוחד, ומכיר בקשר שבין ה' לישראל.",
+      "summary_en": "David remains before God and marvels at the greatness given to him and at the promise concerning his family for generations. He praises God's greatness, praises Israel as a redeemed and unique people, and acknowledges the relationship between God and Israel.",
+      "image_prompt": "King David kneeling in humble prayer before an unseen divine presence, with an image of the people of Israel gathered in the background; quiet reverent mood, biblical setting, no text, no supernatural figure shown"
+    },
+    {
+      "title": "בקשת דוד לקיום ההבטחה ולברכת ביתו",
+      "title_en": "David's Request for Fulfillment and Blessing",
+      "start_verse": 25,
+      "end_verse": 29,
+      "summary": "דוד מבקש שהבטחת ה' על עבדו ועל ביתו תקום לעולם וששם ה' יגדל. הוא מודה שדברי ה' אמת ויכולתו לקיימם מלאה, ומבקש שה' יברך את בית דוד לעולם.",
+      "summary_en": "David asks that God's promise concerning His servant and his house be established forever and that God's name be magnified. He acknowledges that God's words are true and can be fulfilled, and asks God to bless David's house forever.",
+      "image_prompt": "A humble king praying with open hands in a simple sacred setting, while a symbolic royal house stands in the distance beneath a clear sky; biblical atmosphere, restrained composition, no text, no invented historical details"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 11.24,
+      "usfm": "2SA.7.1"
+    },
+    {
+      "start": 11.24,
+      "end": 20.08,
+      "usfm": "2SA.7.2"
+    },
+    {
+      "start": 20.08,
+      "end": 26.42,
+      "usfm": "2SA.7.3"
+    },
+    {
+      "start": 26.42,
+      "end": 30.72,
+      "usfm": "2SA.7.4"
+    },
+    {
+      "start": 30.72,
+      "end": 38.34,
+      "usfm": "2SA.7.5"
+    },
+    {
+      "start": 38.34,
+      "end": 48.84,
+      "usfm": "2SA.7.6"
+    },
+    {
+      "start": 48.84,
+      "end": 61.44,
+      "usfm": "2SA.7.7"
+    },
+    {
+      "start": 61.44,
+      "end": 76.28,
+      "usfm": "2SA.7.8"
+    },
+    {
+      "start": 76.28,
+      "end": 88.46,
+      "usfm": "2SA.7.9"
+    },
+    {
+      "start": 88.46,
+      "end": 103.64,
+      "usfm": "2SA.7.10"
+    },
+    {
+      "start": 103.64,
+      "end": 116.46,
+      "usfm": "2SA.7.11"
+    },
+    {
+      "start": 116.46,
+      "end": 128.98,
+      "usfm": "2SA.7.12"
+    },
+    {
+      "start": 128.98,
+      "end": 135.14,
+      "usfm": "2SA.7.13"
+    },
+    {
+      "start": 135.14,
+      "end": 146.16,
+      "usfm": "2SA.7.14"
+    },
+    {
+      "start": 146.16,
+      "end": 153.84,
+      "usfm": "2SA.7.15"
+    },
+    {
+      "start": 153.84,
+      "end": 163.04,
+      "usfm": "2SA.7.16"
+    },
+    {
+      "start": 163.04,
+      "end": 171.44,
+      "usfm": "2SA.7.17"
+    },
+    {
+      "start": 171.44,
+      "end": 182.04,
+      "usfm": "2SA.7.18"
+    },
+    {
+      "start": 182.04,
+      "end": 194.08,
+      "usfm": "2SA.7.19"
+    },
+    {
+      "start": 194.08,
+      "end": 199.94,
+      "usfm": "2SA.7.20"
+    },
+    {
+      "start": 199.94,
+      "end": 208.1,
+      "usfm": "2SA.7.21"
+    },
+    {
+      "start": 208.1,
+      "end": 218.98,
+      "usfm": "2SA.7.22"
+    },
+    {
+      "start": 218.98,
+      "end": 240.48,
+      "usfm": "2SA.7.23"
+    },
+    {
+      "start": 240.48,
+      "end": 249.96,
+      "usfm": "2SA.7.24"
+    },
+    {
+      "start": 249.96,
+      "end": 261.06,
+      "usfm": "2SA.7.25"
+    },
+    {
+      "start": 261.06,
+      "end": 271.78,
+      "usfm": "2SA.7.26"
+    },
+    {
+      "start": 271.78,
+      "end": 284.3,
+      "usfm": "2SA.7.27"
+    },
+    {
+      "start": 284.3,
+      "end": 294.52,
+      "usfm": "2SA.7.28"
+    },
+    {
+      "start": 294.52,
+      "end": 319.32,
+      "usfm": "2SA.7.29"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    11.24,
+    20.08,
+    26.42,
+    30.72,
+    38.34,
+    48.84,
+    61.44,
+    76.28,
+    88.46,
+    103.64,
+    116.46,
+    128.98,
+    135.14,
+    146.16,
+    153.84,
+    163.04,
+    171.44,
+    182.04,
+    194.08,
+    199.94,
+    208.1,
+    218.98,
+    240.48,
+    249.96,
+    261.06,
+    271.78,
+    284.3,
+    294.52,
+    319.32
+  ],
+  "times_en_usfm": [
+    "2SA.7.1",
+    "2SA.7.2",
+    "2SA.7.3",
+    "2SA.7.4",
+    "2SA.7.5",
+    "2SA.7.6",
+    "2SA.7.7",
+    "2SA.7.8",
+    "2SA.7.9",
+    "2SA.7.10",
+    "2SA.7.11",
+    "2SA.7.12",
+    "2SA.7.13",
+    "2SA.7.14",
+    "2SA.7.15",
+    "2SA.7.16",
+    "2SA.7.17",
+    "2SA.7.18",
+    "2SA.7.19",
+    "2SA.7.20",
+    "2SA.7.21",
+    "2SA.7.22",
+    "2SA.7.23",
+    "2SA.7.24",
+    "2SA.7.25",
+    "2SA.7.26",
+    "2SA.7.27",
+    "2SA.7.28",
+    "2SA.7.29"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? הפרק נפתח בכך שדוד יושב בביתו לאחר שה' הניח לו מכל אויביו. המנוחה המדינית היא הרקע לרצונו לעסוק בבניית בית לה'.",
+      "text_he": "הידעת? הפרק נפתח בכך שדוד יושב בביתו לאחר שה' הניח לו מכל אויביו. המנוחה המדינית היא הרקע לרצונו לעסוק בבניית בית לה'.",
+      "text_en": "Did you know? The chapter opens with David sitting in his house after the LORD had given him rest from all his enemies. This period of political peace forms the backdrop to his desire to build a house for the LORD."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? דוד מציג ניגוד בין בית הארזים שבו הוא יושב לבין ארון האלוהים הנמצא בתוך יריעה. הניגוד הזה מבטא את דאגתו לכך שמקום מגוריו מפואר יותר ממקום משכן הארון.",
+      "text_he": "הידעת? דוד מציג ניגוד בין בית הארזים שבו הוא יושב לבין ארון האלוהים הנמצא בתוך יריעה. הניגוד הזה מבטא את דאגתו לכך שמקום מגוריו מפואר יותר ממקום משכן הארון.",
+      "text_en": "Did you know? David contrasts the cedar house where he lives with the ark of God, which is dwelling inside a tent. This contrast expresses his concern that his residence is more impressive than the place where the ark dwells."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? נתן הנביא מאשר בתחילה לדוד לפעול לפי רצונו, אך באותו לילה הוא מקבל דבר ה' שמתקן את תשובתו. כך הפרק מדגיש שגם נביא חייב להקשיב לדבר ה'.",
+      "text_he": "הידעת? נתן הנביא מאשר בתחילה לדוד לפעול לפי רצונו, אך באותו לילה הוא מקבל דבר ה' שמתקן את תשובתו. כך הפרק מדגיש שגם נביא חייב להקשיב לדבר ה'.",
+      "text_en": "Did you know? The prophet Nathan initially approves David’s plan, but that same night he receives the word of the LORD, which corrects his response. Thus, the chapter emphasizes that even a prophet must listen to the word of the LORD."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? ה' אינו מצווה על דוד לבנות לו בית, ואף שואל: \"הַאַתָּה תִּבְנֶה לִּי בַיִת\". לפי המשך הדברים, היוזמה לבניית המקדש אינה מוטלת על דוד עצמו.",
+      "text_he": "הידעת? ה' אינו מצווה על דוד לבנות לו בית, ואף שואל: \"הַאַתָּה תִּבְנֶה לִּי בַיִת\". לפי המשך הדברים, היוזמה לבניית המקדש אינה מוטלת על דוד עצמו.",
+      "text_en": "Did you know? The LORD does not command David to build Him a house; instead, He even asks, “Would you build Me a house?” The rest of the passage indicates that David himself is not the one appointed to build the Temple."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? ה' מתאר את נוכחותו עם ישראל מאז יציאת מצרים כהליכה באוהל ובמשכן, ולא כמגורים קבועים בבית. התיאור מדגיש את הליווי המתמשך של ה' את העם.",
+      "text_he": "הידעת? ה' מתאר את נוכחותו עם ישראל מאז יציאת מצרים כהליכה באוהל ובמשכן, ולא כמגורים קבועים בבית. התיאור מדגיש את הליווי המתמשך של ה' את העם.",
+      "text_en": "Did you know? The LORD describes His presence with Israel since the Exodus as moving in a tent and dwelling place, rather than living permanently in a house. This description emphasizes the LORD’s continual presence with His people."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? ה' מזכיר לדוד את מוצאו ואת הדרך שעבר: מן הנוה ומאחורי הצאן אל ההנהגה על ישראל. בכך מודגשת הבחירה בדוד והמעבר שלו מרועה למלך.",
+      "text_he": "הידעת? ה' מזכיר לדוד את מוצאו ואת הדרך שעבר: מן הנוה ומאחורי הצאן אל ההנהגה על ישראל. בכך מודגשת הבחירה בדוד והמעבר שלו מרועה למלך.",
+      "text_en": "Did you know? The LORD reminds David of his origins and the journey he has taken—from the pasture and from following the sheep to leading Israel. This highlights God’s choice of David and his transition from shepherd to king."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? בפרק מופיע משחק משמעות במילה \"בית\": דוד רצה לבנות בית לה', אך ה' מבטיח לבנות לדוד \"בית\" — כלומר להקים לו שושלת וממלכה יציבה.",
+      "text_he": "הידעת? בפרק מופיע משחק משמעות במילה \"בית\": דוד רצה לבנות בית לה', אך ה' מבטיח לבנות לדוד \"בית\" — כלומר להקים לו שושלת וממלכה יציבה.",
+      "text_en": "Did you know? The chapter plays on the meaning of the word “house”: David wanted to build a house for the LORD, but the LORD promises to build David a “house”—that is, to establish a lasting dynasty and kingdom for him."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? ה' מבטיח שזרעו של דוד יקום אחריו, ושאחד מבניו יבנה בית לשמו. הפרק מבדיל אפוא בין רצונו של דוד לבנות את הבית לבין הבן העתיד לבנותו.",
+      "text_he": "הידעת? ה' מבטיח שזרעו של דוד יקום אחריו, ושאחד מבניו יבנה בית לשמו. הפרק מבדיל אפוא בין רצונו של דוד לבנות את הבית לבין הבן העתיד לבנותו.",
+      "text_en": "Did you know? The LORD promises that David’s offspring will arise after him and that one of his sons will build a house for His name. The chapter therefore distinguishes between David’s desire to build the house and the son who will eventually build it."
+    },
+    {
+      "verse": 14,
+      "text": "הידעת? הקשר בין ה' לבין בן דוד מתואר בלשון של אב ובן, אך הוא כולל גם אחריות ותוכחה: אם הבן יחטא, הוא ייענש בשבט אנשים ובנגעי בני אדם.",
+      "text_he": "הידעת? הקשר בין ה' לבין בן דוד מתואר בלשון של אב ובן, אך הוא כולל גם אחריות ותוכחה: אם הבן יחטא, הוא ייענש בשבט אנשים ובנגעי בני אדם.",
+      "text_en": "Did you know? The relationship between the LORD and David’s son is described in terms of a father and son, but it also includes responsibility and discipline: if the son sins, he will be punished with the rod of men and with blows inflicted by human beings."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? הבטחת ה' כוללת בית, ממלכה וכיסא שיתקיימו \"עַד-עוֹלָם\". בעקבות הבטחה זו דוד אינו מתפאר, אלא יושב לפני ה' ומתפלל בענווה ובהודיה.",
+      "text_he": "הידעת? הבטחת ה' כוללת בית, ממלכה וכיסא שיתקיימו \"עַד-עוֹלָם\". בעקבות הבטחה זו דוד אינו מתפאר, אלא יושב לפני ה' ומתפלל בענווה ובהודיה.",
+      "text_en": "Did you know? The LORD’s promise includes a house, a kingdom, and a throne that will endure “forever.” In response to this promise, David does not boast; instead, he sits before the LORD and prays with humility and thanksgiving."
+    }
+  ]
+}

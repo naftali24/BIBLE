@@ -1,0 +1,381 @@
+{
+  "book": "II Samuel",
+  "book_he": "שמואל ב",
+  "book_chapters": 24,
+  "chapter": 8,
+  "title": "שמואל ב פרק 8",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b08.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b08.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2SA/8-8f673750cc69c7efd614c8612486c634.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, אַחֲרֵי-כֵן, וַיַּךְ דָּוִד אֶת-פְּלִשְׁתִּים, וַיַּכְנִיעֵם; וַיִּקַּח דָּוִד אֶת-מֶתֶג הָאַמָּה, מִיַּד פְּלִשְׁתִּים.",
+    "וַיַּךְ אֶת-מוֹאָב, וַיְמַדְּדֵם בַּחֶבֶל הַשְׁכֵּב אוֹתָם אַרְצָה, וַיְמַדֵּד שְׁנֵי-חֲבָלִים לְהָמִית, וּמְלֹא הַחֶבֶל לְהַחֲיוֹת; וַתְּהִי מוֹאָב לְדָוִד, לַעֲבָדִים נֹשְׂאֵי מִנְחָה.",
+    "וַיַּךְ דָּוִד, אֶת-הֲדַדְעֶזֶר בֶּן-רְחֹב מֶלֶךְ צוֹבָה, בְּלֶכְתּוֹ, לְהָשִׁיב יָדוֹ בִּנְהַר- פְּרָת .",
+    "וַיִּלְכֹּד דָּוִד מִמֶּנּוּ, אֶלֶף וּשְׁבַע-מֵאוֹת פָּרָשִׁים, וְעֶשְׂרִים אֶלֶף, אִישׁ רַגְלִי; וַיְעַקֵּר דָּוִד אֶת-כָּל-הָרֶכֶב, וַיּוֹתֵר מִמֶּנּוּ מֵאָה רָכֶב.",
+    "וַתָּבֹא, אֲרַם דַּמֶּשֶׂק, לַעְזֹר, לַהֲדַדְעֶזֶר מֶלֶךְ צוֹבָה; וַיַּךְ דָּוִד בַּאֲרָם, עֶשְׂרִים-וּשְׁנַיִם אֶלֶף אִישׁ.",
+    "וַיָּשֶׂם דָּוִד נְצִבִים, בַּאֲרַם דַּמֶּשֶׂק, וַתְּהִי אֲרָם לְדָוִד, לַעֲבָדִים נוֹשְׂאֵי מִנְחָה; וַיֹּשַׁע יְהוָה אֶת-דָּוִד, בְּכֹל אֲשֶׁר הָלָךְ.",
+    "וַיִּקַּח דָּוִד, אֵת שִׁלְטֵי הַזָּהָב, אֲשֶׁר הָיוּ, אֶל עַבְדֵי הֲדַדְעָזֶר; וַיְבִיאֵם, יְרוּשָׁלִָם.",
+    "וּמִבֶּטַח וּמִבֵּרֹתַי, עָרֵי הֲדַדְעָזֶר: לָקַח הַמֶּלֶךְ דָּוִד, נְחֹשֶׁת--הַרְבֵּה מְאֹד.",
+    "וַיִּשְׁמַע, תֹּעִי מֶלֶךְ חֲמָת: כִּי הִכָּה דָוִד, אֵת כָּל-חֵיל הֲדַדְעָזֶר.",
+    "וַיִּשְׁלַח תֹּעִי אֶת-יוֹרָם-בְּנוֹ אֶל-הַמֶּלֶךְ-דָּוִד לִשְׁאָל-לוֹ לְשָׁלוֹם וּלְבָרְכוֹ, עַל אֲשֶׁר נִלְחַם בַּהֲדַדְעֶזֶר וַיַּכֵּהוּ--כִּי-אִישׁ מִלְחֲמוֹת תֹּעִי, הָיָה הֲדַדְעָזֶר; וּבְיָדוֹ, הָיוּ כְּלֵי-כֶסֶף וּכְלֵי-זָהָב--וּכְלֵי נְחֹשֶׁת.",
+    "גַּם-אֹתָם, הִקְדִּישׁ הַמֶּלֶךְ דָּוִד לַיהוָה, עִם-הַכֶּסֶף וְהַזָּהָב אֲשֶׁר הִקְדִּישׁ, מִכָּל-הַגּוֹיִם אֲשֶׁר כִּבֵּשׁ.",
+    "מֵאֲרָם וּמִמּוֹאָב וּמִבְּנֵי עַמּוֹן, וּמִפְּלִשְׁתִּים וּמֵעֲמָלֵק, וּמִשְּׁלַל הֲדַדְעֶזֶר בֶּן-רְחֹב, מֶלֶךְ צוֹבָה.",
+    "וַיַּעַשׂ דָּוִד, שֵׁם, בְּשֻׁבוֹ, מֵהַכּוֹתוֹ אֶת-אֲרָם בְּגֵיא-מֶלַח--שְׁמוֹנָה עָשָׂר, אָלֶף.",
+    "וַיָּשֶׂם בֶּאֱדוֹם נְצִבִים, בְּכָל-אֱדוֹם שָׂם נְצִבִים, וַיְהִי כָל-אֱדוֹם, עֲבָדִים לְדָוִד; וַיּוֹשַׁע יְהוָה אֶת-דָּוִד, בְּכֹל אֲשֶׁר הָלָךְ.",
+    "וַיִּמְלֹךְ דָּוִד, עַל-כָּל-יִשְׂרָאֵל; וַיְהִי דָוִד, עֹשֶׂה מִשְׁפָּט וּצְדָקָה--לְכָל-עַמּוֹ.",
+    "וְיוֹאָב בֶּן-צְרוּיָה, עַל-הַצָּבָא; וִיהוֹשָׁפָט בֶּן-אֲחִילוּד, מַזְכִּיר.",
+    "וְצָדוֹק בֶּן-אֲחִיטוּב וַאֲחִימֶלֶךְ בֶּן-אֶבְיָתָר, כֹּהֲנִים; וּשְׂרָיָה, סוֹפֵר.",
+    "וּבְנָיָהוּ, בֶּן-יְהוֹיָדָע, וְהַכְּרֵתִי, וְהַפְּלֵתִי; וּבְנֵי דָוִד, כֹּהֲנִים הָיוּ."
+  ],
+  "english": [
+    "And after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines.",
+    "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants,\nand\n brought gifts.",
+    "David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.",
+    "And David took from him a thousand\nchariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot\nhorses, but reserved of them\nfor an hundred chariots.",
+    "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.",
+    "Then David put garrisons in Syria of Damascus: and the Syrians became servants to David,\nand brought gifts. And the LORD preserved David whithersoever he went.",
+    "And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.",
+    "And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass.",
+    "When Toi king of Hamath heard that David had smitten all the host of Hadadezer,",
+    "Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And\nJoram brought with him vessels of silver, and vessels of gold, and vessels of brass:",
+    "Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;",
+    "Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah.",
+    "And David gat\nhim a name when he returned from smiting of the Syrians in the valley of salt,\nbeing eighteen thousand\nmen.",
+    "And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the LORD preserved David whithersoever he went.",
+    "And David reigned over all Israel; and David executed judgment and justice unto all his people.",
+    "And Joab the son of Zeruiah\nwas over the host; and Jehoshaphat the son of Ahilud\nwas recorder;",
+    "And Zadok the son of Ahitub, and Ahimelech the son of Abiathar,\nwere the priests; and Seraiah\nwas the scribe;",
+    "And Benaiah the son of Jehoiada\nwas over both the Cherethites and the Pelethites; and David’s sons were chief rulers."
+  ],
+  "steinsaltz": [
+    "וַיְהִי אַחֲרֵי כֵן, וַיַּךְ דָּוִד אֶת פְּלִשְׁתִּים וַיַּכְנִיעֵם, וַיִּקַּח דָּוִד אֶת מֶתֶג הָאַמָּה, שם עיר או אזור, או: רסן השלטון מִיַּד פְּלִשְׁתִּים.",
+    "וַיַּךְ אֶת מוֹאָב וַיְמַדְּדֵם – את אנשי הצבא בַּחֶבֶל, חוט מדידה – הַשְׁכֵּב אוֹתָם אַרְצָה, וַיְמַדֵּד שְׁנֵי חֲבָלִים לְהָמִית וּמְלֹא הַחֶבֶל לְהַחֲיוֹת. הרג שני שלישים מהם. דוד לא היה מעוניין לכבוש את מואב אלא להשמיד את כוחותיה הצבאיים – וַתְּהִי מוֹאָב לְדָוִד לַעֲבָדִים נֹשְׂאֵי מִנְחָה, מס, המבטא כניעה וקבלת מרות.",
+    "וַיַּךְ דָּוִד אֶת הֲדַדְעֶזֶר בֶּן רְחֹב מֶלֶךְ צוֹבָה, ממלכה ארמית במרכז סוריה ובמערבה, בְּלֶכְתּוֹ, בזמן שהדדעזר הלך לְהָשִׁיב יָדוֹ, להרחיב את גבולו, להכות בּאזור נְהַר פְּרָת. מלחמה זו נערכה הרחק מאזורים שבהם ישבו אנשים מישראל.",
+    "וַיִּלְכֹּד דָּוִד מִמֶּנּוּ אֶלֶף וּשְׁבַע מֵאוֹת פָּרָשִׁים וְעֶשְׂרִים אֶלֶף אִישׁ רַגְלִי. וַיְעַקֵּר, כרת, השמיד דָּוִד אֶת כָּל הָרֶכֶב, וַיּוֹתֵר, השאיר מִמֶּנּוּ מֵאָה רָכֶב בלבד, מתוך מאות רבות של רכבים.",
+    "וַתָּבֹא אֲרַם דַּמֶּשֶׂק, ממלכה ארמית אחרת בסוריה שעיר בירתה הייתה דמשק, לַעְזֹר לַהֲדַדְעֶזֶר מֶלֶךְ צוֹבָה. וַיַּךְ דָּוִד בַּאֲרָם עֶשְׂרִים וּשְׁנַיִם אֶלֶף אִישׁ.",
+    "וַיָּשֶׂם דָּוִד נְצִבִים, מושלים עליונים מטעמו בַּאֲרַם דַּמֶּשֶׂק, וַתְּהִי אֲרָם לְדָוִד לַעֲבָדִים נוֹשְׂאֵי מִנְחָה. וַיֹּשַׁע ה' אֶת דָּוִד בְּכֹל אֲשֶׁר הָלָךְ. לפעמים דוד היה צריך להתמודד עם שתי חזיתות ועם גורמי הפתעה, ואף על פי כן ניצח בכל המלחמות.",
+    "וַיִּקַּח דָּוִד אֵת שִׁלְטֵי, מגִני הַזָּהָב אֲשֶׁר הָיוּ אֶל, על עַבְדֵי הֲדַדְעָזֶר וַיְבִיאֵם יְרוּשָׁלִָם.",
+    "וּמִבֶּטַח וּמִבֵּרֹתַי, עָרֵי הֲדַדְעָזֶר, לָקַח הַמֶּלֶךְ דָּוִד נְחֹשֶׁת הַרְבֵּה מְאֹד.",
+    "וַיִּשְׁמַע תֹּעִי מֶלֶךְ חֲמָת, עיר מדינה במרכז סוריה של היום, כִּי הִכָּה דָוִד אֵת כָּל חֵיל הֲדַדְעָזֶר.",
+    "וַיִּשְׁלַח תֹּעִי אֶת יוֹרָם בְּנוֹ אֶל הַמֶּלֶךְ דָּוִד לִשְׁאָל לוֹ לְשָׁלוֹם וּלְבָרֲכוֹ עַל אֲשֶׁר נִלְחַם בַּהֲדַדְעֶזֶר וַיַּכֵּהוּ, כִּי אִישׁ מִלְחֲמוֹת לתֹּעִי הָיָה הֲדַדְעָזֶר. לאות תודה לדוד שהביס את מלך צובא, שלח תועי את בנו בראש משלחת, וּבְיָדוֹ הָיוּ כְּלֵי כֶסֶף וּכְלֵי זָהָב וּכְלֵי נְחֹשֶׁת מתנות לדוד.",
+    "גַּם אֹתָם הִקְדִּישׁ הַמֶּלֶךְ דָּוִד לַה', לבניין המקדש, עִם הַכֶּסֶף וְהַזָּהָב אֲשֶׁר הִקְדִּישׁ מִכָּל הַגּוֹיִם אֲשֶׁר כִּבֵּשׁ.",
+    "את כל החומרים הללו לקח דוד מֵאֲרָם וּמִמּוֹאָב וּמִבְּנֵי עַמּוֹן וּמִפְּלִשְׁתִּים וּמֵעֲמָלֵק וּמִשְּׁלַל הֲדַדְעֶזֶר בֶּן רְחֹב מֶלֶךְ צוֹבָה.",
+    "וַיַּעַשׂ דָּוִד שֵׁם, התפרסם, או: הקים מצבה לזכרון כיבושיו,בְּשֻׁבוֹ מֵהַכּוֹתוֹ אֶת אֲרָם בְּגֵיא מֶלַח שְׁמוֹנָה עָשָׂר אָלֶף איש.",
+    "וַיָּשֶׂם בֶּאֱדוֹם נְצִבִים, בְּכָל אֱדוֹם שָׂם נְצִבִים, וַיְהִי כָל אֱדוֹם עֲבָדִים לְדָוִד. וַיּוֹשַׁע ה' אֶת דָּוִד בְּכֹל אֲשֶׁר הָלָךְ.",
+    "וַיִּמְלֹךְ דָּוִד עַל כָּל יִשְׂרָאֵל, לא רק על יהודה. וַיְהִי דָוִד עֹשֶׂה מִשְׁפָּט וּצְדָקָה לְכָל עַמּוֹ. כדרך שהיה נהוג בין המלכים, דוד שפט לעתים, וגם עסק בצדקה ובחסד.",
+    "רשימה קצרה של המבנה הממשלתי של דוד: וְיוֹאָב בֶּן צְרוּיָה היה המפקד העליון עַל הַצָּבָא; וִיהוֹשָׁפָט בֶּן אֲחִילוּד – מַזְכִּיר, מי שמעביר לפני המלך את כל הנושאים העומדים להחלטה בתחומי השלטון השונים;",
+    "וְצָדוֹק בֶּן אֲחִיטוּב וַאֲחִימֶלֶךְ בֶּן אֶבְיָתָר, שבאו משני בתי האב הגדולים של הכהונה – בית אלעזר ובית איתמר – כֹּהֲנִים; וּשְׂרָיָה – סוֹפֵר, מעין שר החוץ, מי שהיה כותב את מכתבי הממלכה לעמים אחרים בלשונותיהם;",
+    "וּבְנָיָהוּ בֶּן יְהוֹיָדָע וגדודי הַכְּרֵתִי וְהַפְּלֵתִי תחת פיקודו; וּבְנֵי דָוִד – כֹּהֲנִים, נושאי משרות הָיוּ. דוד חילק תפקידים שונים בין בניו המבוגרים, וכך הם היו הגרעין היסודי של ממשלתו."
+  ],
+  "ai_explanation": [
+    "דוד הכניע את הפלשתים ולקח מידם את \"מתג האמה\". הביטוי יכול להתפרש כשם של עיר או אזור, או כרסן המסמל את שליטתו של דוד.",
+    "דוד הביס את צבא מואב ומדד את אנשיו בחבל. הוא הרג שני שלישים מהם והשאיר שליש בחיים, ומואב נעשתה משועבדת לדוד ונשאה לו מס.",
+    "דוד הכה את הדדעזר בן רחוב, מלך צובה, ממלכה ארמית במרכז סוריה ובמערבה. הדדעזר ניסה להרחיב את גבולו באזור נהר פרת, הרחק מאזורי ההתיישבות הישראליים.",
+    "דוד שבה מהדדעזר פרשים וחיילי רגלים והשמיד את רוב מרכבותיו, והשאיר לעצמו מאה מרכבות בלבד.",
+    "ארם דמשק באה לעזרת הדדעזר, אך דוד הכה גם בה והרג עשרים ושניים אלף איש.",
+    "דוד הציב מושלים מטעמו בארם דמשק, וארם נעשתה משועבדת לו ונשאה לו מס. ה' הושיע את דוד בכל מלחמותיו, גם כאשר נאלץ להתמודד עם כמה חזיתות ועם גורמי הפתעה.",
+    "דוד לקח את מגני הזהב שהיו אצל עבדי הדדעזר והביא אותם לירושלים.",
+    "מערי הדדעזר, בטח וברֹתַי, לקח דוד כמות גדולה מאוד של נחושת.",
+    "תועי מלך חמת שמע שדוד הכה את כל צבא הדדעזר, מלך צובה.",
+    "תועי שלח את בנו יורם אל דוד כדי לברכו ולבקש את שלומו, כאות תודה על תבוסת הדדעזר, שהיה אויבו. יורם הביא עמו כלי כסף, זהב ונחושת כמתנות לדוד.",
+    "דוד הקדיש לה' את המתנות שקיבל מתועי, יחד עם הכסף והזהב שהקדיש משלל העמים שנכבשו, לצורך בניין המקדש.",
+    "החומרים שהקדיש דוד נאספו מארם, ממואב, מבני עמון, מפלשתים, מעמלק ומשלל הדדעזר בן רחוב מלך צובה.",
+    "דוד התפרסם בעקבות ניצחונו על ארם בגיא מלח, שבו נהרגו שמונה עשר אלף איש. אפשר גם לפרש שהוא הקים מצבה לזכר כיבושיו.",
+    "דוד הציב מושלים בכל אדום, ואדום נעשתה משועבדת לו. גם כאן ה' הושיע את דוד בכל אשר הלך.",
+    "דוד מלך על כל ישראל, ולא רק על יהודה, ועסק בשפיטה ובעשיית צדקה וחסד לכל עמו.",
+    "יואב בן צרויה היה המפקד העליון של הצבא, ויהושפט בן אחילוד היה המזכיר, שהעביר לפני המלך את הנושאים שעמדו להחלטה בענייני השלטון.",
+    "צדוק בן אחיטוב ואחימלך בן אביתר היו כהנים. שריה היה הסופר, שתפקידו כלל כתיבת מכתבי הממלכה לעמים אחרים בלשונותיהם.",
+    "בניהו בן יהוידע פיקד על גדודי הכרתי והפלתי. בני דוד היו נושאי משרות, והיוו את הגרעין היסודי של ממשלת דוד."
+  ],
+  "ai_explanation_en": [
+    "David subdued the Philistines and took from them the \"bridle of the mother.\" The phrase may refer to the name of a city or region, or to a bridle symbolizing David’s rule.",
+    "David defeated Moab’s army and measured its men with a cord. He killed two thirds and spared one third, and Moab became subject to David and paid him tribute.",
+    "David defeated Hadadezer son of Rehob, king of Zobah, an Aramean kingdom in central and western Syria. Hadadezer had been trying to expand his territory near the Euphrates, far from Israelite settlements.",
+    "David captured horsemen and foot soldiers from Hadadezer and destroyed most of his chariots, keeping only one hundred chariots.",
+    "Aram-Damascus came to help Hadadezer, but David defeated it as well and killed twenty-two thousand men.",
+    "David appointed governors representing him in Aram-Damascus, and Aram became subject to him and paid him tribute. The Lord gave David victory in all his wars, even when he faced several fronts and unexpected dangers.",
+    "David took the golden shields that had belonged to Hadadezer’s servants and brought them to Jerusalem.",
+    "From the cities of Hadadezer, Betah and Berothai, David took a very large quantity of copper.",
+    "Toi, king of Hamath, heard that David had defeated the entire army of Hadadezer, king of Zobah.",
+    "Toi sent his son Joram to David to ask for his welfare and bless him, as thanks for Hadadezer’s defeat, since Hadadezer had been Toi’s enemy. Joram brought silver, gold, and copper vessels as gifts to David.",
+    "David dedicated Toi’s gifts to the Lord, together with the silver and gold he had dedicated from the spoils of the conquered nations, for the building of the Temple.",
+    "The materials David dedicated came from Aram, Moab, the Ammonites, the Philistines, Amalek, and the spoils of Hadadezer son of Rehob, king of Zobah.",
+    "David became famous after defeating Aram in the Valley of Salt, where eighteen thousand men were killed. The verse may also be understood as saying that he set up a monument commemorating his conquests.",
+    "David appointed governors throughout Edom, and Edom became subject to him. Here too, the Lord gave David victory wherever he went.",
+    "David ruled over all Israel, not only over Judah, and administered justice while also practicing charity and kindness toward all his people.",
+    "Joab son of Zeruiah was the supreme commander of the army, and Jehoshaphat son of Ahilud was the secretary, who brought before the king matters requiring decisions in various areas of government.",
+    "Zadok son of Ahitub and Ahimelech son of Abiathar were priests. Seraiah was the scribe, whose duties included writing the kingdom’s letters to other nations in their languages.",
+    "Benaiah son of Jehoiada commanded the Cherethites and Pelethites. David’s sons held official positions and formed the basic core of David’s government."
+  ],
+  "perush": [
+    "דוד הכניע את הפלשתים ולקח מידם את \"מתג האמה\". הביטוי יכול להתפרש כשם של עיר או אזור, או כרסן המסמל את שליטתו של דוד.",
+    "דוד הביס את צבא מואב ומדד את אנשיו בחבל. הוא הרג שני שלישים מהם והשאיר שליש בחיים, ומואב נעשתה משועבדת לדוד ונשאה לו מס.",
+    "דוד הכה את הדדעזר בן רחוב, מלך צובה, ממלכה ארמית במרכז סוריה ובמערבה. הדדעזר ניסה להרחיב את גבולו באזור נהר פרת, הרחק מאזורי ההתיישבות הישראליים.",
+    "דוד שבה מהדדעזר פרשים וחיילי רגלים והשמיד את רוב מרכבותיו, והשאיר לעצמו מאה מרכבות בלבד.",
+    "ארם דמשק באה לעזרת הדדעזר, אך דוד הכה גם בה והרג עשרים ושניים אלף איש.",
+    "דוד הציב מושלים מטעמו בארם דמשק, וארם נעשתה משועבדת לו ונשאה לו מס. ה' הושיע את דוד בכל מלחמותיו, גם כאשר נאלץ להתמודד עם כמה חזיתות ועם גורמי הפתעה.",
+    "דוד לקח את מגני הזהב שהיו אצל עבדי הדדעזר והביא אותם לירושלים.",
+    "מערי הדדעזר, בטח וברֹתַי, לקח דוד כמות גדולה מאוד של נחושת.",
+    "תועי מלך חמת שמע שדוד הכה את כל צבא הדדעזר, מלך צובה.",
+    "תועי שלח את בנו יורם אל דוד כדי לברכו ולבקש את שלומו, כאות תודה על תבוסת הדדעזר, שהיה אויבו. יורם הביא עמו כלי כסף, זהב ונחושת כמתנות לדוד.",
+    "דוד הקדיש לה' את המתנות שקיבל מתועי, יחד עם הכסף והזהב שהקדיש משלל העמים שנכבשו, לצורך בניין המקדש.",
+    "החומרים שהקדיש דוד נאספו מארם, ממואב, מבני עמון, מפלשתים, מעמלק ומשלל הדדעזר בן רחוב מלך צובה.",
+    "דוד התפרסם בעקבות ניצחונו על ארם בגיא מלח, שבו נהרגו שמונה עשר אלף איש. אפשר גם לפרש שהוא הקים מצבה לזכר כיבושיו.",
+    "דוד הציב מושלים בכל אדום, ואדום נעשתה משועבדת לו. גם כאן ה' הושיע את דוד בכל אשר הלך.",
+    "דוד מלך על כל ישראל, ולא רק על יהודה, ועסק בשפיטה ובעשיית צדקה וחסד לכל עמו.",
+    "יואב בן צרויה היה המפקד העליון של הצבא, ויהושפט בן אחילוד היה המזכיר, שהעביר לפני המלך את הנושאים שעמדו להחלטה בענייני השלטון.",
+    "צדוק בן אחיטוב ואחימלך בן אביתר היו כהנים. שריה היה הסופר, שתפקידו כלל כתיבת מכתבי הממלכה לעמים אחרים בלשונותיהם.",
+    "בניהו בן יהוידע פיקד על גדודי הכרתי והפלתי. בני דוד היו נושאי משרות, והיוו את הגרעין היסודי של ממשלת דוד."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "ניצחונות דוד על הפלשתים, מואב וארם",
+      "title_en": "David’s Victories over the Philistines, Moab, and Aram",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "דוד מכניע את הפלשתים, מביס את מואב, מנצח את הדדעזר ואת ארם דמשק, ומציב מושלים בארם. בעקבות הניצחונות נעשות ממלכות אלה משועבדות לו ונושאות לו מס.",
+      "summary_en": "David subdues the Philistines, defeats Moab, overcomes Hadadezer and Aram-Damascus, and appoints governors in Aram. As a result, these kingdoms become subject to him and pay tribute.",
+      "image_prompt": "A biblical-era king leading victorious forces across a broad Near Eastern landscape, with subdued armies and distant fortified cities, historically restrained and without modern elements"
+    },
+    {
+      "title": "שלל המלחמה והקדשתו",
+      "title_en": "War Spoils and Their Dedication",
+      "start_verse": 7,
+      "end_verse": 12,
+      "summary": "דוד מביא לירושלים מגני זהב ונחושת שנלקחו מערי הדדעזר, מקבל מתנות מתועי מלך חמת, ומקדיש את הכסף, הזהב והחומרים לה'.",
+      "summary_en": "David brings golden shields and copper taken from Hadadezer’s cities to Jerusalem, receives gifts from Toi king of Hamath, and dedicates the silver, gold, and materials to the Lord.",
+      "image_prompt": "A biblical king in Jerusalem receiving emissaries with silver, gold, copper vessels, and golden shields, with treasures being set aside for sacred use"
+    },
+    {
+      "title": "הניצחון על ארם ואדום",
+      "title_en": "Victory over Aram and Edom",
+      "start_verse": 13,
+      "end_verse": 14,
+      "summary": "דוד מתפרסם בעקבות ניצחונו על ארם בגיא מלח, ולאחר מכן מציב מושלים בכל אדום. אדום נעשית משועבדת לדוד, וה' מושיע אותו בכל אשר הוא הולך.",
+      "summary_en": "David becomes famous after his victory over Aram in the Valley of Salt and then appoints governors throughout Edom. Edom becomes subject to David, and the Lord gives him victory wherever he goes.",
+      "image_prompt": "A biblical military victory in a rugged salt valley followed by the establishment of royal governors in Edom, with a restrained ancient Near Eastern visual style"
+    },
+    {
+      "title": "מלכות דוד ומערכת המשפט",
+      "title_en": "David’s Kingship and Administration of Justice",
+      "start_verse": 15,
+      "end_verse": 15,
+      "summary": "דוד מולך על כל ישראל, שופט את העם ועוסק בצדקה ובחסד.",
+      "summary_en": "David rules over all Israel, administers justice, and practices charity and kindness.",
+      "image_prompt": "A biblical king seated in judgment before representatives of all Israel, conveying justice, charity, and orderly royal authority"
+    },
+    {
+      "title": "בעלי התפקידים בממשלת דוד",
+      "title_en": "Officials in David’s Government",
+      "start_verse": 16,
+      "end_verse": 18,
+      "summary": "הפסוקים מפרטים את מבנה ממשלת דוד: יואב מפקד הצבא, יהושפט המזכיר, צדוק ואחימלך כהנים, שריה סופר, בניהו מפקד הכרתי והפלתי, ובני דוד נושאי משרות.",
+      "summary_en": "The verses outline David’s government: Joab as army commander, Jehoshaphat as secretary, Zadok and Ahimelech as priests, Seraiah as scribe, Benaiah as commander of the Cherethites and Pelethites, and David’s sons as officials.",
+      "image_prompt": "A formal biblical royal court with military, priestly, scribal, and administrative officials gathered around King David, clear roles and historically restrained clothing"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 14.56,
+      "usfm": "2SA.8.1"
+    },
+    {
+      "start": 14.56,
+      "end": 30.18,
+      "usfm": "2SA.8.2"
+    },
+    {
+      "start": 30.18,
+      "end": 38.44,
+      "usfm": "2SA.8.3"
+    },
+    {
+      "start": 38.44,
+      "end": 50.32,
+      "usfm": "2SA.8.4"
+    },
+    {
+      "start": 50.32,
+      "end": 60.02,
+      "usfm": "2SA.8.5"
+    },
+    {
+      "start": 60.02,
+      "end": 70.22,
+      "usfm": "2SA.8.6"
+    },
+    {
+      "start": 70.22,
+      "end": 76.18,
+      "usfm": "2SA.8.7"
+    },
+    {
+      "start": 76.18,
+      "end": 83.8,
+      "usfm": "2SA.8.8"
+    },
+    {
+      "start": 83.8,
+      "end": 89.7,
+      "usfm": "2SA.8.9"
+    },
+    {
+      "start": 89.7,
+      "end": 108.48,
+      "usfm": "2SA.8.10"
+    },
+    {
+      "start": 108.48,
+      "end": 115.78,
+      "usfm": "2SA.8.11"
+    },
+    {
+      "start": 115.78,
+      "end": 126.52,
+      "usfm": "2SA.8.12"
+    },
+    {
+      "start": 126.52,
+      "end": 134.58,
+      "usfm": "2SA.8.13"
+    },
+    {
+      "start": 134.58,
+      "end": 144.44,
+      "usfm": "2SA.8.14"
+    },
+    {
+      "start": 144.44,
+      "end": 151.12,
+      "usfm": "2SA.8.15"
+    },
+    {
+      "start": 151.12,
+      "end": 157.64,
+      "usfm": "2SA.8.16"
+    },
+    {
+      "start": 157.64,
+      "end": 165.8,
+      "usfm": "2SA.8.17"
+    },
+    {
+      "start": 165.8,
+      "end": 181.12,
+      "usfm": "2SA.8.18"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    14.56,
+    30.18,
+    38.44,
+    50.32,
+    60.02,
+    70.22,
+    76.18,
+    83.8,
+    89.7,
+    108.48,
+    115.78,
+    126.52,
+    134.58,
+    144.44,
+    151.12,
+    157.64,
+    165.8,
+    181.12
+  ],
+  "times_en_usfm": [
+    "2SA.8.1",
+    "2SA.8.2",
+    "2SA.8.3",
+    "2SA.8.4",
+    "2SA.8.5",
+    "2SA.8.6",
+    "2SA.8.7",
+    "2SA.8.8",
+    "2SA.8.9",
+    "2SA.8.10",
+    "2SA.8.11",
+    "2SA.8.12",
+    "2SA.8.13",
+    "2SA.8.14",
+    "2SA.8.15",
+    "2SA.8.16",
+    "2SA.8.17",
+    "2SA.8.18"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? דוד הכניע את הפלשתים ולקח מידם את \"מֶתֶג הָאַמָּה\". הפרק מציג זאת כאחד מניצחונותיו של דוד לאחר מכן.",
+      "text_he": "הידעת? דוד הכניע את הפלשתים ולקח מידם את \"מֶתֶג הָאַמָּה\". הפרק מציג זאת כאחד מניצחונותיו של דוד לאחר מכן.",
+      "text_en": "Did you know? David subdued the Philistines and took from them the \"Metheg-ammah.\" The chapter presents this as one of David’s victories afterward."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? לאחר שהכה את מואב, דוד מדד את אנשיה בחבל והבדיל בין מי שיומתו לבין מי שייוותרו בחיים. בהמשך נעשתה מואב משועבדת לדוד ונושאת לו מנחה.",
+      "text_he": "הידעת? לאחר שהכה את מואב, דוד מדד את אנשיה בחבל והבדיל בין מי שיומתו לבין מי שייוותרו בחיים. בהמשך נעשתה מואב משועבדת לדוד ונושאת לו מנחה.",
+      "text_en": "Did you know? After striking down Moab, David measured its people with a rope and separated those who would be put to death from those who would be allowed to live. Later, Moab became subject to David and brought him tribute."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? דוד נלחם בהֲדַדְעֶזֶר בן רחוב, מלך צובה, כאשר זה יצא להשיב את ידו בנהר פרת — ביטוי המצביע על ניסיון לבסס את שלטונו באזור זה.",
+      "text_he": "הידעת? דוד נלחם בהֲדַדְעֶזֶר בן רחוב, מלך צובה, כאשר זה יצא להשיב את ידו בנהר פרת — ביטוי המצביע על ניסיון לבסס את שלטונו באזור זה.",
+      "text_en": "Did you know? David fought Hadadezer son of Rehob, king of Zobah, when Hadadezer went to restore his power at the Euphrates—a phrase indicating an attempt to establish his rule in that region."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? במלחמה נגד הדדעזר לכד דוד 1,700 פרשים ועשרים אלף איש רגלי. הוא עיקר את רוב הרכב והותיר ממנו מאה רכב בלבד.",
+      "text_he": "הידעת? במלחמה נגד הדדעזר לכד דוד 1,700 פרשים ועשרים אלף איש רגלי. הוא עיקר את רוב הרכב והותיר ממנו מאה רכב בלבד.",
+      "text_en": "Did you know? In the war against Hadadezer, David captured 1,700 horsemen and 20,000 foot soldiers. He crippled most of the chariots, leaving only 100 chariots."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? ארם דמשק באה לעזרת הדדעזר, אך דוד הכה ממנה עשרים ושניים אלף איש. לאחר מכן הציב דוד נציבים בארם דמשק, וארם נעשתה לו נושאת מנחה.",
+      "text_he": "הידעת? ארם דמשק באה לעזרת הדדעזר, אך דוד הכה ממנה עשרים ושניים אלף איש. לאחר מכן הציב דוד נציבים בארם דמשק, וארם נעשתה לו נושאת מנחה.",
+      "text_en": "Did you know? Aram Damascus came to help Hadadezer, but David struck down 22,000 of them. Afterward, David stationed officials in Aram Damascus, and Aram became subject to him and brought him tribute."
+    },
+    {
+      "verse": 7,
+      "text": "הידעת? דוד לקח את מגני הזהב שהיו אצל עבדי הדדעזר והביא אותם לירושלים. גם מערי הדדעזר, מבטח ומברתי, לקח דוד נחושת רבה מאוד.",
+      "text_he": "הידעת? דוד לקח את מגני הזהב שהיו אצל עבדי הדדעזר והביא אותם לירושלים. גם מערי הדדעזר, מבטח ומברתי, לקח דוד נחושת רבה מאוד.",
+      "text_en": "Did you know? David took the gold shields carried by Hadadezer’s servants and brought them to Jerusalem. He also took a great deal of bronze from Hadadezer’s cities, Betah and Berothai."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? תועי מלך חמת שלח את יורם בנו אל דוד לברכו ולשאול לשלומו, לאחר ששמע שדוד הכה את הדדעזר, שהיה אויבו של תועי.",
+      "text_he": "הידעת? תועי מלך חמת שלח את יורם בנו אל דוד לברכו ולשאול לשלומו, לאחר ששמע שדוד הכה את הדדעזר, שהיה אויבו של תועי.",
+      "text_en": "Did you know? Toi, king of Hamath, sent his son Joram to David to congratulate him and ask about his well-being after hearing that David had defeated Hadadezer, Toi’s enemy."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? דוד לא השתמש בשלל המלחמות רק לצרכיו: הוא הקדיש לה' את הכסף, הזהב והנחושת שקיבל מן העמים שניצח, ובהם ארם, מואב, עמון, פלשתים, עמלק ושלל הדדעזר.",
+      "text_he": "הידעת? דוד לא השתמש בשלל המלחמות רק לצרכיו: הוא הקדיש לה' את הכסף, הזהב והנחושת שקיבל מן העמים שניצח, ובהם ארם, מואב, עמון, פלשתים, עמלק ושלל הדדעזר.",
+      "text_en": "Did you know? David did not use the spoils of war only for himself: he dedicated to the LORD the silver, gold, and bronze he had received from the nations he defeated, including Aram, Moab, Ammon, the Philistines, Amalek, and the spoils of Hadadezer."
+    },
+    {
+      "verse": 15,
+      "text": "הידעת? לצד תיאור כיבושיו, הפרק מדגיש את תפקידו השלטוני של דוד: הוא מלך על כל ישראל, עשה משפט וצדקה לכל עמו.",
+      "text_he": "הידעת? לצד תיאור כיבושיו, הפרק מדגיש את תפקידו השלטוני של דוד: הוא מלך על כל ישראל, עשה משפט וצדקה לכל עמו.",
+      "text_en": "Did you know? Alongside its account of his conquests, the chapter emphasizes David’s role as ruler: he reigned over all Israel and administered justice and righteousness for all his people."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? בפרק מופיעה רשימה מסודרת של בעלי התפקידים בממלכת דוד: יואב היה על הצבא, יהושפט היה מזכיר, צדוק ואחימלך היו כהנים, ושריה היה סופר.",
+      "text_he": "הידעת? בפרק מופיעה רשימה מסודרת של בעלי התפקידים בממלכת דוד: יואב היה על הצבא, יהושפט היה מזכיר, צדוק ואחימלך היו כהנים, ושריה היה סופר.",
+      "text_en": "Did you know? The chapter includes an organized list of the officials in David’s kingdom: Joab was over the army, Jehoshaphat was the recorder, Zadok and Ahimelech were priests, and Seraiah was the secretary."
+    }
+  ]
+}

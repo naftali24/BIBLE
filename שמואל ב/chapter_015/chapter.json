@@ -1,0 +1,637 @@
+{
+  "book": "II Samuel",
+  "book_he": "שמואל ב",
+  "book_chapters": 24,
+  "chapter": 15,
+  "title": "שמואל ב פרק 15",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b15.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b15.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2SA/15-6a43f3d9fc9b38d01ee25a0da00dfd8b.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי, מֵאַחֲרֵי כֵן, וַיַּעַשׂ לוֹ אַבְשָׁלוֹם, מֶרְכָּבָה וְסֻסִים; וַחֲמִשִּׁים אִישׁ, רָצִים לְפָנָיו.",
+    "וְהִשְׁכִּים, אַבְשָׁלוֹם, וְעָמַד, עַל-יַד דֶּרֶךְ הַשָּׁעַר; וַיְהִי כָּל-הָאִישׁ אֲשֶׁר-יִהְיֶה-לּוֹ-רִיב לָבוֹא אֶל-הַמֶּלֶךְ לַמִּשְׁפָּט, וַיִּקְרָא אַבְשָׁלוֹם אֵלָיו וַיֹּאמֶר אֵי-מִזֶּה עִיר אַתָּה, וַיֹּאמֶר, מֵאַחַד שִׁבְטֵי-יִשְׂרָאֵל עַבְדֶּךָ.",
+    "וַיֹּאמֶר אֵלָיו אַבְשָׁלוֹם, רְאֵה דְבָרֶיךָ טוֹבִים וּנְכֹחִים; וְשֹׁמֵעַ אֵין-לְךָ, מֵאֵת הַמֶּלֶךְ.",
+    "וַיֹּאמֶר, אַבְשָׁלוֹם, מִי-יְשִׂמֵנִי שֹׁפֵט, בָּאָרֶץ; וְעָלַי, יָבוֹא כָּל-אִישׁ אֲשֶׁר-יִהְיֶה-לּוֹ-רִיב וּמִשְׁפָּט--וְהִצְדַּקְתִּיו.",
+    "וְהָיָה, בִּקְרָב-אִישׁ, לְהִשְׁתַּחֲוֺת, לוֹ; וְשָׁלַח אֶת-יָדוֹ וְהֶחֱזִיק לוֹ, וְנָשַׁק לוֹ.",
+    "וַיַּעַשׂ אַבְשָׁלוֹם כַּדָּבָר הַזֶּה, לְכָל-יִשְׂרָאֵל, אֲשֶׁר-יָבֹאוּ לַמִּשְׁפָּט, אֶל-הַמֶּלֶךְ; וַיְגַנֵּב, אַבְשָׁלוֹם, אֶת-לֵב, אַנְשֵׁי יִשְׂרָאֵל.",
+    "וַיְהִי, מִקֵּץ אַרְבָּעִים שָׁנָה; וַיֹּאמֶר אַבְשָׁלוֹם, אֶל-הַמֶּלֶךְ, אֵלְכָה נָּא וַאֲשַׁלֵּם אֶת-נִדְרִי אֲשֶׁר-נָדַרְתִּי לַיהוָה, בְּחֶבְרוֹן.",
+    "כִּי-נֵדֶר נָדַר עַבְדְּךָ, בְּשִׁבְתִּי בִגְשׁוּר בַּאֲרָם לֵאמֹר: אִם-ישיב יָשׁוֹב יְשִׁיבֵנִי יְהוָה יְרוּשָׁלִַם, וְעָבַדְתִּי אֶת-יְהוָה.",
+    "וַיֹּאמֶר-לוֹ הַמֶּלֶךְ, לֵךְ בְּשָׁלוֹם; וַיָּקָם, וַיֵּלֶךְ חֶבְרוֹנָה.",
+    "וַיִּשְׁלַח אַבְשָׁלוֹם מְרַגְּלִים, בְּכָל-שִׁבְטֵי יִשְׂרָאֵל לֵאמֹר: כְּשָׁמְעֲכֶם, אֶת-קוֹל הַשֹּׁפָר, וַאֲמַרְתֶּם, מָלַךְ אַבְשָׁלוֹם בְּחֶבְרוֹן.",
+    "וְאֶת-אַבְשָׁלוֹם, הָלְכוּ מָאתַיִם אִישׁ מִירוּשָׁלִַם, קְרֻאִים, וְהֹלְכִים לְתֻמָּם; וְלֹא יָדְעוּ, כָּל-דָּבָר.",
+    "וַיִּשְׁלַח אַבְשָׁלוֹם אֶת-אֲחִיתֹפֶל הַגִּילֹנִי יוֹעֵץ דָּוִד, מֵעִירוֹ מִגִּלֹה, בְּזָבְחוֹ, אֶת-הַזְּבָחִים; וַיְהִי הַקֶּשֶׁר אַמִּץ, וְהָעָם הוֹלֵךְ וָרָב אֶת-אַבְשָׁלוֹם.",
+    "וַיָּבֹא, הַמַּגִּיד, אֶל-דָּוִד, לֵאמֹר: הָיָה לֶב-אִישׁ יִשְׂרָאֵל, אַחֲרֵי אַבְשָׁלוֹם.",
+    "וַיֹּאמֶר דָּוִד לְכָל-עֲבָדָיו אֲשֶׁר-אִתּוֹ בִירוּשָׁלִַם, קוּמוּ וְנִבְרָחָה--כִּי לֹא-תִהְיֶה-לָּנוּ פְלֵיטָה, מִפְּנֵי אַבְשָׁלֹם; מַהֲרוּ לָלֶכֶת, פֶּן-יְמַהֵר וְהִשִּׂגָנוּ וְהִדִּיחַ עָלֵינוּ אֶת-הָרָעָה, וְהִכָּה הָעִיר, לְפִי-חָרֶב.",
+    "וַיֹּאמְרוּ עַבְדֵי-הַמֶּלֶךְ, אֶל-הַמֶּלֶךְ: כְּכֹל אֲשֶׁר-יִבְחַר אֲדֹנִי הַמֶּלֶךְ, הִנֵּה עֲבָדֶיךָ.",
+    "וַיֵּצֵא הַמֶּלֶךְ וְכָל-בֵּיתוֹ, בְּרַגְלָיו; וַיַּעֲזֹב הַמֶּלֶךְ, אֵת עֶשֶׂר נָשִׁים פִּלַגְשִׁים--לִשְׁמֹר הַבָּיִת.",
+    "וַיֵּצֵא הַמֶּלֶךְ וְכָל-הָעָם, בְּרַגְלָיו; וַיַּעַמְדוּ, בֵּית הַמֶּרְחָק.",
+    "וְכָל-עֲבָדָיו עֹבְרִים עַל-יָדוֹ, וְכָל-הַכְּרֵתִי וְכָל-הַפְּלֵתִי; וְכָל-הַגִּתִּים שֵׁשׁ-מֵאוֹת אִישׁ, אֲשֶׁר-בָּאוּ בְרַגְלוֹ מִגַּת, עֹבְרִים, עַל-פְּנֵי הַמֶּלֶךְ.",
+    "וַיֹּאמֶר הַמֶּלֶךְ אֶל-אִתַּי הַגִּתִּי, לָמָּה תֵלֵךְ גַּם-אַתָּה אִתָּנוּ; שׁוּב וְשֵׁב עִם-הַמֶּלֶךְ כִּי-נָכְרִי אַתָּה, וְגַם-גֹּלֶה אַתָּה לִמְקוֹמֶךָ.",
+    "תְּמוֹל בּוֹאֶךָ, וְהַיּוֹם אנועך אֲנִיעֲךָ עִמָּנוּ לָלֶכֶת, וַאֲנִי הוֹלֵךְ, עַל אֲשֶׁר-אֲנִי הוֹלֵךְ; שׁוּב וְהָשֵׁב אֶת-אַחֶיךָ עִמָּךְ, חֶסֶד וֶאֱמֶת.",
+    "וַיַּעַן אִתַּי אֶת-הַמֶּלֶךְ, וַיֹּאמַר: חַי-יְהוָה, וְחֵי אֲדֹנִי הַמֶּלֶךְ, כִּי אם בִּמְקוֹם אֲשֶׁר יִהְיֶה-שָּׁם אֲדֹנִי הַמֶּלֶךְ אִם-לְמָוֶת אִם-לְחַיִּים, כִּי-שָׁם יִהְיֶה עַבְדֶּךָ.",
+    "וַיֹּאמֶר דָּוִד אֶל-אִתַּי, לֵךְ וַעֲבֹר; וַיַּעֲבֹר אִתַּי הַגִּתִּי, וְכָל-אֲנָשָׁיו, וְכָל-הַטַּף, אֲשֶׁר אִתּוֹ.",
+    "וְכָל-הָאָרֶץ, בּוֹכִים קוֹל גָּדוֹל, וְכָל-הָעָם, עֹבְרִים; וְהַמֶּלֶךְ, עֹבֵר בְּנַחַל קִדְרוֹן, וְכָל-הָעָם עֹבְרִים, עַל-פְּנֵי-דֶרֶךְ אֶת-הַמִּדְבָּר.",
+    "וְהִנֵּה גַם-צָדוֹק וְכָל-הַלְוִיִּם אִתּוֹ, נֹשְׂאִים אֶת-אֲרוֹן בְּרִית הָאֱלֹהִים, וַיַּצִּקוּ אֶת-אֲרוֹן הָאֱלֹהִים, וַיַּעַל אֶבְיָתָר--עַד-תֹּם כָּל-הָעָם, לַעֲבוֹר מִן-הָעִיר.",
+    "וַיֹּאמֶר הַמֶּלֶךְ לְצָדוֹק, הָשֵׁב אֶת-אֲרוֹן הָאֱלֹהִים הָעִיר: אִם-אֶמְצָא חֵן, בְּעֵינֵי יְהוָה--וֶהֱשִׁבַנִי, וְהִרְאַנִי אֹתוֹ וְאֶת-נָוֵהוּ.",
+    "וְאִם כֹּה יֹאמַר, לֹא חָפַצְתִּי בָּךְ: הִנְנִי--יַעֲשֶׂה-לִּי, כַּאֲשֶׁר טוֹב בְּעֵינָיו.",
+    "וַיֹּאמֶר הַמֶּלֶךְ, אֶל-צָדוֹק הַכֹּהֵן, הֲרוֹאֶה אַתָּה, שֻׁבָה הָעִיר בְּשָׁלוֹם; וַאֲחִימַעַץ בִּנְךָ וִיהוֹנָתָן בֶּן-אֶבְיָתָר, שְׁנֵי בְנֵיכֶם--אִתְּכֶם.",
+    "רְאוּ אָנֹכִי מִתְמַהְמֵהַּ, בעברות בְּעַרְבוֹת הַמִּדְבָּר--עַד בּוֹא דָבָר מֵעִמָּכֶם, לְהַגִּיד לִי.",
+    "וַיָּשֶׁב צָדוֹק וְאֶבְיָתָר אֶת-אֲרוֹן הָאֱלֹהִים, יְרוּשָׁלִָם; וַיֵּשְׁבוּ, שָׁם.",
+    "וְדָוִד עֹלֶה בְמַעֲלֵה הַזֵּיתִים עֹלֶה וּבוֹכֶה, וְרֹאשׁ לוֹ חָפוּי, וְהוּא, הֹלֵךְ יָחֵף; וְכָל-הָעָם אֲשֶׁר-אִתּוֹ, חָפוּ אִישׁ רֹאשׁוֹ, וְעָלוּ עָלֹה, וּבָכֹה.",
+    "וְדָוִד הִגִּיד לֵאמֹר, אֲחִיתֹפֶל בַּקֹּשְׁרִים עִם-אַבְשָׁלוֹם; וַיֹּאמֶר דָּוִד, סַכֶּל-נָא אֶת-עֲצַת אֲחִיתֹפֶל יְהוָה.",
+    "וַיְהִי דָוִד בָּא עַד-הָרֹאשׁ, אֲשֶׁר-יִשְׁתַּחֲוֶה שָׁם לֵאלֹהִים; וְהִנֵּה לִקְרָאתוֹ, חוּשַׁי הָאַרְכִּי, קָרוּעַ כֻּתָּנְתּוֹ, וַאֲדָמָה עַל-רֹאשׁוֹ.",
+    "וַיֹּאמֶר לוֹ, דָּוִד: אִם עָבַרְתָּ אִתִּי, וְהָיִתָ עָלַי לְמַשָּׂא.",
+    "וְאִם-הָעִיר תָּשׁוּב, וְאָמַרְתָּ לְאַבְשָׁלוֹם עַבְדְּךָ אֲנִי הַמֶּלֶךְ אֶהְיֶה--עֶבֶד אָבִיךָ וַאֲנִי מֵאָז, וְעַתָּה וַאֲנִי עַבְדֶּךָ; וְהֵפַרְתָּה לִי, אֵת עֲצַת אֲחִיתֹפֶל.",
+    "וַהֲלוֹא עִמְּךָ שָׁם, צָדוֹק וְאֶבְיָתָר הַכֹּהֲנִים; וְהָיָה, כָּל-הַדָּבָר אֲשֶׁר תִּשְׁמַע מִבֵּית הַמֶּלֶךְ--תַּגִּיד, לְצָדוֹק וּלְאֶבְיָתָר הַכֹּהֲנִים.",
+    "הִנֵּה-שָׁם עִמָּם, שְׁנֵי בְנֵיהֶם--אֲחִימַעַץ לְצָדוֹק, וִיהוֹנָתָן לְאֶבְיָתָר; וּשְׁלַחְתֶּם בְּיָדָם אֵלַי, כָּל-דָּבָר אֲשֶׁר תִּשְׁמָעוּ.",
+    "וַיָּבֹא חוּשַׁי רֵעֶה דָוִד, הָעִיר; וְאַבְשָׁלוֹם, יָבוֹא יְרוּשָׁלִָם."
+  ],
+  "english": [
+    "And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.",
+    "And Absalom rose up early, and stood beside the way of the gate: and it was so, that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city\nart\n thou? And he said, Thy servant is of one of the tribes of Israel.",
+    "And Absalom said unto him, See, thy matters\nare good and right; but\nthere is no man\ndeputed of the king to hear thee.",
+    "Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!",
+    "And it was\nso, that when any man came nigh\nto him\n to do him obeisance, he put forth his hand, and took him, and kissed him.",
+    "And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.",
+    "And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.",
+    "For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.",
+    "And the king said unto him, Go in peace. So he arose, and went to Hebron.",
+    "But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.",
+    "And with Absalom went two hundred men out of Jerusalem,\nthat were\n called; and they went in their simplicity, and they knew not any thing.",
+    "And Absalom sent for Ahithophel the Gilonite, David’s counsellor, from his city,\neven from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.",
+    "And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.",
+    "And David said unto all his servants that\nwere with him at Jerusalem, Arise, and let us flee; for we shall not\nelse escape from Absalom: make speed to depart, lest he overtake us suddenly, and bring evil upon us, and smite the city with the edge of the sword.",
+    "And the king’s servants said unto the king, Behold, thy servants\nare ready to do whatsoever my lord the king shall appoint.",
+    "And the king went forth, and all his household after him. And the king left ten women,\nwhich were concubines, to keep the house.",
+    "And the king went forth, and all the people after him, and tarried in a place that was far off.",
+    "And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men which came after him from Gath, passed on before the king.",
+    "Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou\nart\n a stranger, and also an exile.",
+    "Whereas thou camest\nbut yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth\nbe with thee.",
+    "And Ittai answered the king, and said,\nAs the LORD liveth, and\nas my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be.",
+    "And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that\nwere with him.",
+    "And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.",
+    "And lo Zadok also, and all the Levites\nwere with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.",
+    "And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the LORD, he will bring me again, and shew me\nboth it, and his habitation:",
+    "But if he thus say, I have no delight in thee; behold,\nhere am\n I, let him do to me as seemeth good unto him.",
+    "The king said also unto Zadok the priest,\nArt not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.",
+    "See, I will tarry in the plain of the wilderness, until there come word from you to certify me.",
+    "Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there.",
+    "And David went up by the ascent of\nmount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that\nwas with him covered every man his head, and they went up, weeping as they went up.",
+    "And\none told David, saying, Ahithophel\nis among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.",
+    "And it came to pass, that\nwhen David was come to the top\nof the mount, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head:",
+    "Unto whom David said, If thou passest on with me, then thou shalt be a burden unto me:",
+    "But if thou return to the city, and say unto Absalom, I will be thy servant, O king;\nas I\nhave been thy father’s servant hitherto, so\nwill I now also\nbe thy servant: then mayest thou for me defeat the counsel of Ahithophel.",
+    "And\nhast thou not there with thee Zadok and Abiathar the priests? therefore it shall be,\nthat what thing soever thou shalt hear out of the king’s house, thou shalt tell\nit to Zadok and Abiathar the priests.",
+    "Behold,\nthey have there with them their two sons, Ahimaaz Zadok’s\nson, and Jonathan Abiathar’s\nson; and by them ye shall send unto me every thing that ye can hear.",
+    "So Hushai David’s friend came into the city, and Absalom came into Jerusalem."
+  ],
+  "steinsaltz": [
+    "וַיְהִי מֵאַחֲרֵי, אחרי כֵן, וַיַּעַשׂ לוֹ אַבְשָׁלוֹם מֶרְכָּבָה וְסֻסִים, וַחֲמִשִּׁים אִישׁ רָצִים לְפָנָיו. הוא בנה לעצמו מעמד של יורש העצר המיועד.",
+    "וְהִשְׁכִּים, היה רגיל להשכים אַבְשָׁלוֹם וְעָמַד עַל יַד דֶּרֶךְ הַשָּׁעַר, שער העיר, מקום המשפט, וַיְהִי כָּל הָאִישׁ אֲשֶׁר יִהְיֶה לּוֹ רִיב לָבוֹא אֶל הַמֶּלֶךְ לַמִּשְׁפָּט, וַיִּקְרָא אַבְשָׁלוֹם אֵלָיו, כמי שמתעניין בשלום רעו וַיֹּאמֶר: אֵי מִזֶּה עִיר אַתָּה? וַיֹּאמֶר האיש: מֵאַחַד שִׁבְטֵי יִשְׂרָאֵל עַבְדֶּךָ. מאזור פלוני אני.",
+    "וַיֹּאמֶר אֵלָיו אַבְשָׁלוֹם: רְאֵה דְבָרֶךָ טוֹבִים וּנְכֹחִים, וְשֹׁמֵעַ אֵין לְךָ מֵאֵת הַמֶּלֶךְ. המלך עסוק וכיוצא בזה, והוא לא ישים לב לדבריך.",
+    "וַיֹּאמֶר אַבְשָׁלוֹם לאנשים: מִי יְשִׂמֵנִי שֹׁפֵט בָּאָרֶץ, וְעָלַי, ואלי יָבוֹא כָּל אִישׁ אֲשֶׁר יִהְיֶה לּוֹ רִיב וּמִשְׁפָּט – וְהִצְדַּקְתִּיו, ואדון אותו בצדק. לצערי אין בידי הכוח לעשות דבר, אבל אני בעדך.",
+    "וְהָיָה בִּקְרָב, כאשר התקרב אִישׁ לְהִשְׁתַּחֲוֹת לוֹ, וְשָׁלַח אבשלום אֶת יָדוֹ וְהֶחֱזִיק לוֹ וְנָשַׁק לוֹ. הוא הפגין ידידות וקרבה עם כל הבאים לפני המלך.",
+    "וַיַּעַשׂ אַבְשָׁלוֹם כַּדָּבָר הַזֶּה לְכָל יִשְׂרָאֵל אֲשֶׁר יָבֹאוּ לַמִּשְׁפָּט אֶל הַמֶּלֶךְ, וכך וַיְגַנֵּב אַבְשָׁלוֹם אֶת לֵב אַנְשֵׁי יִשְׂרָאֵל. אנשים התחילו לחבב את בן המלך הנוהג בחביבות.",
+    "וַיְהִי מִקֵּץ אַרְבָּעִים שָׁנָה מאז ביקשו להם ישראל מלך, או: ממשיחת דוד, או: מאז נפרד דוד משאול, וַיֹּאמֶר אַבְשָׁלוֹם אֶל הַמֶּלֶךְ: אֵלֲכָה נָּא וַאֲשַׁלֵּם אֶת נִדְרִי, אולי נדר הנזירות, אֲשֶׁר נָדַרְתִּי לַה', בְּחֶבְרוֹן,",
+    "כִּי נֵדֶר נָדַר עַבְדְּךָ בְּשִׁבְתִּי בִגְשׁוּר בַּאֲרָם, לֵאמֹר: אִם יָשׁוֹב יְשִׁיבֵנִי ה' לירוּשָׁלִַם – וְעָבַדְתִּי אֶת ה'. אעשה מעשה לכבודו – אקריב קרבנות וכיוצא בזה.",
+    "וַיֹּאמֶר לוֹ הַמֶּלֶךְ: לֵךְ בְּשָׁלוֹם. וַיָּקָם וַיֵּלֶךְ חֶבְרוֹנָה. הוא בחר לעצמו את חברון, בירת ארץ יהודה, שבה מלך דוד בראשונה.",
+    "וַיִּשְׁלַח אַבְשָׁלוֹם מְרַגְּלִים, שליחי חרש שתולים מטעמו בְּכָל שִׁבְטֵי יִשְׂרָאֵל, לֵאמֹר: כְּשָׁמְעֲכֶם אֶת קוֹל הַשֹּׁפָר, תדעו שזה האות לראשית מלוכתי, וַאֲמַרְתֶּם: \"מָלַךְ אַבְשָׁלוֹם בְּחֶבְרוֹן\".",
+    "וְאֶת, ועם אַבְשָׁלוֹם הָלְכוּ, אולי להקריב קרבנות בחברון מָאתַיִם אִישׁ מִירוּשָׁלִַם, קְרֻאִים, מוזמנים וְהֹלְכִים לְתֻמָּם, וְלֹא יָדְעוּ כָּל דָּבָר. לא עלה על דעתם שבפועל הם נעשו תומכיו של המורד במלך. כך הגיע אבשלום לעיר מוקף בפמליה גדולה מאוד.",
+    "וַיִּשְׁלַח אַבְשָׁלוֹם להביא אֶת אֲחִיתֹפֶל הַגִּילֹנִי יוֹעֵץ דָּוִד, מֵעִירוֹ, מִגִּלֹה, בְּזָבְחוֹ אֶת הַזְּבָחִים. יועץ המלך, אישיות חשובה לעצמה, עשה יד אחת עם אבשלום. אחיתופל נחשב לחכם ביותר בישראל, והכול שמעו בעצתו. וַיְהִי הַקֶּשֶׁר אַמִּץ, המרד התחזק, וְהָעָם הוֹלֵךְ וָרָב אֶת אַבְשָׁלוֹם. בכל הארץ דיברו על המלך החדש אבשלום, ואנשים הצטרפו לשורותיו.",
+    "וַיָּבֹא הַמַּגִּיד, המביא את הידיעות מהשטח אֶל דָּוִד לֵאמֹר: הָיָה לֶב אִישׁ יִשְׂרָאֵל אַחֲרֵי אַבְשָׁלוֹם. אבשלום הכריז שהוא המלך, וישראל נוהים אחריו.",
+    "וַיֹּאמֶר דָּוִד לְכָל עֲבָדָיו אֲשֶׁר אִתּוֹ בִירוּשָׁלִַם: קוּמוּ וְנִבְרָחָה, כִּי אם אבשלום יגיע, לֹא תִהְיֶה לָּנוּ פְלֵיטָה, לא יהיה לנו שריד מִפְּנֵי אַבְשָׁלוֹם. מַהֲרוּ לָלֶכֶת, פֶּן יְמַהֵר וְהִשִּׂגָנוּ וְהִדִּיחַ, ויפיל עָלֵינוּ אֶת הָרָעָה, וְהִכָּה את הָעִיר לְפִי חָרֶב. יש בידו הכוח להכות את העיר, ואני לא אוכל לגונן עליה מפניו.",
+    "וַיֹּאמְרוּ עַבְדֵי הַמֶּלֶךְ אֶל הַמֶּלֶךְ: כְּכֹל אֲשֶׁר יִבְחַר אֲדֹנִי הַמֶּלֶךְ – הִנֵּה עֲבָדֶיךָ. הננו אתך, מוכנים לפקודתך.",
+    "וַיֵּצֵא הַמֶּלֶךְ וְכָל בֵּיתוֹ בְּרַגְלָיו. וַיַּעֲזֹב הַמֶּלֶךְ אֵת עֶשֶׂר נָשִׁים פִּלַגְשִׁים לִשְׁמֹר הַבָּיִת. דוד השאירן בבית, שכן הניח שאיש לא ייגע לרעה בנשותיו הרשמיות-למחצה.",
+    "וַיֵּצֵא הַמֶּלֶךְ וְכָל הָעָם בְּרַגְלָיו, שהלכו אתו וַיַּעַמְדוּ בֵּית הַמֶּרְחָק, במקום או בבית שהיה מרוחק למדי מהעיר,",
+    "וְכָל עֲבָדָיו עֹבְרִים עַל יָדוֹ, וְכָל הַכְּרֵתִי וְכָל הַפְּלֵתִי, גדודי המשמר של המלך, וְכָל הַגִּתִּים, הפלשתים מגת שנספחו לצבא דוד, שֵׁשׁ מֵאוֹת אִישׁ אֲשֶׁר בָּאוּ בְרַגְלוֹ, בגללו מִגַּת עֹבְרִים עַל פְּנֵי הַמֶּלֶךְ – מעין מסדר, שבו צעדו לפני המלך כל אלה שנשארו נאמנים לו.",
+    "וַיֹּאמֶר הַמֶּלֶךְ אֶל אִתַּי הַגִּתִּי, שאולי הכיר את דוד כשנדד בגת, ואולי היה מפקדם של הגתים: לָמָּה תֵלֵךְ גַּם אַתָּה אִתָּנוּ? שׁוּב וְשֵׁב עִם הַמֶּלֶךְ החדש. הוא ישמח להשתמש בשירותיך. כִּי נָכְרִי אַתָּה וְגַם גֹּלֶה אַתָּה, אינך קשור למשפחתנו ולעמנו; חבל שתיכנס לריב שאין לך עניין בו. לכן כדאי שתשוב לִמְקוֹמֶךָ.",
+    "תְּמוֹל, לא מזמן בּוֹאֶךָ, הגעת, וְהַיּוֹם אֲנִיעֲךָ, אטלטל אותך עִמָּנוּ לָלֶכֶת, וַאֲנִי הוֹלֵךְ עַל, אל אֲשֶׁר אֲנִי הוֹלֵךְ. אינני יודע לאן, ומה יהיה בסופנו. שׁוּב וְהָשֵׁב אֶת אַחֶיךָ, לאחיך הגתים שעִמָּךְ חֶסֶד וֶאֱמֶת.",
+    "וַיַּעַן אִתַּי אֶת הַמֶּלֶךְ וַיֹּאמַר: חַי ה' וְחֵי אֲדֹנִי הַמֶּלֶךְ, כִּי בִּמְקוֹם אֲשֶׁר יִהְיֶה שָּׁם אֲדֹנִי הַמֶּלֶךְ – אִם לְמָוֶת אִם לְחַיִּים – כִּי שָׁם יִהְיֶה עַבְדֶּךָ. הוא נשבע לו שיהיה אתו כל הימים, וביטא בכך נאמנות אישית עמוקה.",
+    "וַיֹּאמֶר דָּוִד אֶל אִתַּי: לֵךְ וַעֲבֹר עם כולם. וַיַּעֲבֹר אִתַּי הַגִּתִּי וְכָל אֲנָשָׁיו וְכָל הַטַּף אֲשֶׁר אִתּוֹ, הגדוד הפלשתי על משפחותיו הצטרף לדוד.",
+    "וְכָל הָאָרֶץ, יושבי המקום בּוֹכִים קוֹל גָּדוֹל, וְכָל אנשי המלך מן הָעָם עֹבְרִים. וְהַמֶּלֶךְ עֹבֵר מדרום לירושלים בְּנַחַל קִדְרוֹן, וְכָל הָעָם עֹבְרִים עַל פְּנֵי דֶרֶךְ אֶת, אל הדרך שליד הַמִּדְבָּר.",
+    "וְהִנֵּה הגיעו גַם צָדוֹק הכהן וְכָל הַלְוִיִּם אִתּוֹ נֹשְׂאִים אֶת אֲרוֹן בְּרִית הָאֱלֹהִים, וַיַּצִּקוּ, העמידו אֶת אֲרוֹן הָאֱלֹהִים, וַיַּעַל אֶבְיָתָר, שהיה אף הוא כהן, עַד תֹּם כָּל הָעָם לַעֲבוֹר מִן הָעִיר. עם דוד יצאו נאמניו האישיים, עבדיו הקרובים וכן גדודי הזרים שהיו קשורים אל דוד בלבד, והכהנים הביאו אתם את ארון ה'.",
+    "וַיֹּאמֶר הַמֶּלֶךְ לְצָדוֹק: הָשֵׁב אֶת אֲרוֹן הָאֱלֹהִים אל הָעִיר. אִם אֶמְצָא חֵן בְּעֵינֵי ה' – וֶהֱשִׁבַנִי וְהִרְאַנִי אֹתוֹ – את הארון וְאֶת נָוֵהוּ, מעונו.",
+    "וְאִם כֹּה יֹאמַר ה' על ידי הדרך שבה יגלגל את המאורעות: לֹא חָפַצְתִּי בָּךְ – הִנְנִי, אני מוכן שיַעֲשֶׂה לִּי כַּאֲשֶׁר טוֹב בְּעֵינָיו. מכל מקום חבל לקחת את ארון האלוקים עמנו בנדודינו. אולי אחזור הביתה באופן כלשהו, ואם לא – הרי זה סימן שאינני רצוי לפני ה', ואני מקבל את הדין.",
+    "וַיֹּאמֶר הַמֶּלֶךְ אֶל צָדוֹק הַכֹּהֵן: הֲרוֹאֶה אַתָּה, הלוא תבין את דברי, שֻׁבָה אל הָעִיר בְּשָׁלוֹם. אני מעריך את נאמנותכם, אך ראוי שתהיו עם הארון, וַאֲחִימַעַץ בִּנְךָ וִיהוֹנָתָן בֶּן אֶבְיָתָר שְׁנֵי בְנֵיכֶם יהיו אִתְּכֶם.",
+    "רְאוּ אָנֹכִי מִתְמַהְמֵהַּ, אשהה בְּעַרְבוֹת, במישור הַמִּדְבָּר עַד בּוֹא דָבָר מֵעִמָּכֶם לְהַגִּיד לִי. הבנים הצעירים, הזריזים יותר, יעדכנו אותי על המתרחש בעיר.",
+    "וַיָּשֶׁב צָדוֹק וְאֶבְיָתָר אֶת אֲרוֹן הָאֱלֹהִים יְרוּשָׁלִָם וַיֵּשְׁבוּ שָׁם.",
+    "וְדָוִד עֹלֶה בְמַעֲלֵה הַזֵּיתִים. הוא פונה מזרחה בערוץ נחל קדרון ועובר ברכס הר הזיתים עֹלֶה וּבוֹכֶה, וְרֹאשׁ לוֹ חָפוּי, מכוסה, וְהוּא הֹלֵךְ יָחֵף לאות אבל, וְכָל הָעָם אֲשֶׁר אִתּוֹ חָפוּ אִישׁ רֹאשׁוֹ וְעָלוּ עָלֹה וּבָכֹה על המצב העגום.",
+    "וְלדָוִד הִגִּיד, הוגד לֵאמֹר: אֲחִיתֹפֶל בַּקֹּשְׁרִים עִם אַבְשָׁלוֹם. אבשלום היה טיפוס נמהר וכריזמטי, אך לא היה חכם ביותר. על כן שיתופו של אחיתופל – שהיה איש מיושב ופיקח ואולי פחות יומרני – עורר בלב דוד דאגה רבה יותר. לפיכך – וַיֹּאמֶר דָּוִד בתפילה: סַכֶּל, הפר נָא אֶת עֲצַת אֲחִיתֹפֶל, ה'.",
+    "וַיְהִי דָוִד בָּא עַד הָרֹאשׁ, פסגת הר הזיתים, אֲשֶׁר יִשְׁתַּחֲוֶה שָׁם לֵאלֹהִים, שם היה לו מקום תפילה, ואולי גם מזבח, וְהִנֵּה יוצא לִקְרָאתוֹ חוּשַׁי הָאַרְכִּי, רֵעַ המלך ואיש סודו הקרוב, קָרוּעַ כֻּתָּנְתּוֹ וַאֲדָמָה עַל רֹאשׁוֹ, אבל ומשתתף בצערו של דוד.",
+    "וַיֹּאמֶר לוֹ דָּוִד: אִם עָבַרְתָּ אִתִּי – וְהָיִתָ עָלַי לְמַשָּׂא. אינך צעיר, ולא תוכל לעזור לי במלחמה.",
+    "ולעומת זאת, אִם אל הָעִיר תָּשׁוּב וְאָמַרְתָּ לְאַבְשָׁלוֹם: \"עַבְדְּךָ אֲנִי, הַמֶּלֶךְ, אֶהְיֶה, עֶבֶד אָבִיךָ וַאֲנִי, אני הייתי מֵאָז, וְעַתָּה וַאֲנִי, אני עַבְדֶּךָ\". מכיוון שאתה נאמן לי, אם תלך לאבשלום ותאמר לו שאתה מקבל את מלכותו – וְהֵפַרְתָּה לִי אֵת עֲצַת אֲחִיתֹפֶל. הרי גם אתה איש חכם, ויש להניח שאבשלום יאסוף גם אותך לחוג מקורביו, שכן מן הסתם הוא ירצה להישען על כמה שיותר מאנשי ממשלתי כדי לבסס את מלכותו החדשה.",
+    "וַהֲלוֹא עִמְּךָ שָׁם צָדוֹק וְאֶבְיָתָר הַכֹּהֲנִים. דע לך שהם נאמנים לי, וְהָיָה כָּל הַדָּבָר אֲשֶׁר תִּשְׁמַע מִבֵּית הַמֶּלֶךְ – תַּגִּיד לְצָדוֹק וּלְאֶבְיָתָר הַכֹּהֲנִים.",
+    "הִנֵּה שָׁם עִמָּם שְׁנֵי בְנֵיהֶם – אֲחִימַעַץ לְצָדוֹק וִיהוֹנָתָן לְאֶבְיָתָר – וּשְׁלַחְתֶּם בְּיָדָם אֵלַי כָּל דָּבָר אֲשֶׁר תִּשְׁמָעוּ. כך אשמע על ההתפתחויות.",
+    "ואכן, וַיָּבֹא חוּשַׁי רֵעֶה, רֵעַ דָוִד חזרה אל הָעִיר, וְאף אַבְשָׁלֹם יָבֹא אל יְרוּשָׁלִָם, בירת הממלכה. דוד עדיין לא הרחיק ללכת, ואבשלום כבר הספיק לעבור למעלה משלושים קילומטרים מחברון עד ירושלים. בדרכו הוא אסף צבא והתארגן."
+  ],
+  "ai_explanation": [
+    "אבשלום בנה לעצמו מרכבה, סוסים וחמישים רצים, וכך יצר לעצמו מעמד מרשים של יורש העצר המיועד.",
+    "אבשלום נהג להשכים ולעמוד ליד שער העיר, מקום המשפט. הוא פנה לאנשים שהגיעו אל המלך, התעניין במוצאם והציג את עצמו כמי שמתעניין בהם.",
+    "אבשלום טען שדברי האיש צודקים, אך שאין מי שישמע אותו מאת המלך, משום שהמלך עסוק וכדומה.",
+    "אבשלום אמר שאילו היה שופט בארץ, היה דן בצדק בכל מי שהיה מגיע אליו. הוא הציג את עצמו כתומך באנשים, אף שלמעשה לא היה בידו כוח לעשות דבר.",
+    "כאשר אדם התקרב להשתחוות לו, אבשלום החזיק בידו ונשק לו. כך הפגין ידידות וקרבה כלפי הבאים למשפט.",
+    "אבשלום נהג כך בכל ישראל, וכך קנה את לב העם. אנשים התחילו לחבב את בן המלך שנראה ידידותי ונגיש.",
+    "כעבור ארבעים שנה ביקש אבשלום ללכת לחברון ולקיים נדר שנדר לה'. שטיינזלץ מביא כמה אפשרויות להבנת מניין ארבעים השנים: מאז שביקשו ישראל מלך, מאז משיחת דוד או מאז נפרד דוד משאול.",
+    "אבשלום סיפר שנדר את הנדר בעת שישב בגשור שבארם: אם ה' ישיב אותו לירושלים, יעבוד את ה'. עבודתו עשויה לכלול הקרבת קרבנות ומעשים אחרים לכבוד ה'.",
+    "דוד התיר לאבשלום ללכת לשלום, ואבשלום יצא לחברון, שהייתה בירת יהודה ושבה מלך דוד בראשית דרכו.",
+    "אבשלום שלח שליחים חשאיים לכל שבטי ישראל. הם נצטוו להשמיע את הסיסמה \"מָלַךְ אַבְשָׁלוֹם בְּחֶבְרוֹן\" כאשר ישמעו את קול השופר, כאות לפתיחת מלכותו.",
+    "מאתיים אנשים מירושלים הוזמנו ללכת עם אבשלום לחברון, כנראה כדי להקריב קרבנות, אך הם הלכו בתום לב ולא ידעו שהם נעשים למעשה תומכי המרד.",
+    "אבשלום הביא אליו את אחיתופל, יועץ דוד, בעת הקרבת הזבחים. אחיתופל היה אדם חכם ובעל השפעה, והצטרפותו חיזקה את המרד ואת התמיכה באבשלום.",
+    "המגיד הודיע לדוד שלבם של אנשי ישראל נוטה אחרי אבשלום. אבשלום הכריז על עצמו כמלך, והעם נהה אחריו.",
+    "דוד הורה לעבדיו לברוח מירושלים, מפני שחשש שלא יישאר להם מפלט אם אבשלום יגיע. הוא חשש שאבשלום יכה את העיר בחרב, ושלא יוכל להגן עליה מפניו.",
+    "עבדי המלך הצהירו שהם מקבלים כל החלטה של דוד ומוכנים לפקודתו.",
+    "דוד יצא מירושלים יחד עם כל ביתו, אך השאיר עשר פילגשים לשמור על הבית, מתוך הנחה שלא יפגעו בנשותיו.",
+    "המלך וכל העם שיצאו איתו הגיעו לבית המרחק, מקום או מבנה שהיה מרוחק למדי מן העיר.",
+    "עבדי דוד, גדודי הכרתי והפלתי ושש מאות הגתים עברו לפני המלך. הגתים, פלשתים מגת שנספחו לדוד, הציגו במסדר את נאמנותם אליו.",
+    "דוד שאל את אתי הגתי מדוע הוא הולך איתם, והציע לו לשוב ולהישאר עם המלך החדש. הוא הדגיש שאתי זר וגולה, ולכן אין לו צורך להיכנס למריבה שאינה קשורה אליו.",
+    "דוד אמר שאתי הגיע רק לאחרונה, וכעת הוא עלול להיטלטל יחד איתו בלי לדעת לאן הם הולכים. הוא הציע לו לשוב ולקחת עמו את אנשיו, תוך איחול של חסד ואמת.",
+    "אתי נשבע בחיי ה' ובחיי דוד שבכל מקום שבו יהיה המלך, בחיים או במוות, יהיה גם עבדו. בכך ביטא נאמנות אישית עמוקה לדוד.",
+    "דוד קיבל את נאמנותו ואמר לו לעבור. אתי עבר עם כל אנשיו ועם משפחותיהם, והגדוד הפלשתי הצטרף לדוד.",
+    "יושבי הארץ בכו בקול גדול בעת המעבר. דוד חצה את נחל קדרון, והעם עבר בדרך הסמוכה למדבר.",
+    "צדוק וכל הלויים נשאו את ארון ברית האלוהים, אך דוד הורה להעמידו ולהמתין עד שכל העם יעבור. עם דוד יצאו נאמניו, עבדיו וגדודי הזרים שהיו קשורים אליו אישית.",
+    "דוד הורה לצדוק להשיב את הארון לעיר. הוא אמר שאם ימצא חן בעיני ה', ה' ישיב אותו ויראה לו שוב את הארון ואת מעונו.",
+    "דוד הוסיף שאם ה' אינו חפץ בו, הוא מוכן שה' יעשה לו את הטוב בעיניו. לדעתו, אין צורך לקחת את הארון למסע, והוא מקבל את הדין האלוהי.",
+    "דוד ביקש מצדוק להבין את כוונתו ולשוב בשלום לעיר עם הארון. הוא הורה שאחימעץ בן צדוק ויהונתן בן אביתר יהיו עם אבותיהם.",
+    "דוד אמר שישהה במישור המדבר עד שיגיע אליו דיווח מהם. הבנים, שהיו צעירים וזריזים יותר, יוכלו לעדכן אותו על המתרחש בעיר.",
+    "צדוק ואביתר השיבו את ארון האלוהים לירושלים ונשארו שם.",
+    "דוד עלה במעלה הזיתים כשהוא בוכה, ראשו מכוסה והוא הולך יחף לאות אבל. גם העם שהיה איתו כיסה את ראשו ועלה כשהוא בוכה.",
+    "לדוד נודע שאחיתופל הצטרף לקושרים עם אבשלום. הדבר הדאיג אותו במיוחד, מפני שאחיתופל נחשב חכם ומיושב, ולכן דוד התפלל שה' יפר את עצתו.",
+    "כשהגיע דוד אל פסגת הר הזיתים, מקום שבו נהג להשתחוות לאלוהים, פגש את חושי הארכי. חושי היה רעו ואיש סודו של דוד, והוא ביטא את אבלו בקריעת בגדיו ובאדמה על ראשו.",
+    "דוד אמר לחושי שאם יעבור איתו, הוא יהיה עליו למשא, משום שאינו צעיר ולא יוכל לסייע לו במלחמה.",
+    "דוד הציע לחושי לשוב לעיר ולהעמיד פנים שהוא עבדו של אבשלום. כך יוכל להיכנס לחוג מקורביו של אבשלום ולהפר את עצת אחיתופל.",
+    "דוד הזכיר שחושי ימצא בעיר את צדוק ואביתר הכוהנים, והורה לו להעביר אליהם כל דבר שישמע מבית המלך.",
+    "דוד הזכיר שלצדוק ולאביתר נמצאים בניהם אחימעץ ויהונתן. באמצעותם יוכלו הכוהנים להעביר אליו כל מידע שיגיע לידיהם.",
+    "חושי חזר לעיר, ואבשלום הגיע לירושלים. בדרך הספיק אבשלום להתקדם מחברון, לאסוף צבא ולהתארגן."
+  ],
+  "ai_explanation_en": [
+    "Absalom built himself a chariot, horses, and fifty runners, thereby creating an impressive status for himself as the intended heir to the throne.",
+    "Absalom would rise early and stand beside the city gate, the place of judgment. He addressed people who came to the king, asked about their origins, and presented himself as someone concerned about them.",
+    "Absalom claimed that the man's case was good and right, but that no one was available to hear him from the king, since the king was busy and the like.",
+    "Absalom said that if he were judge in the land, he would judge justly every person who came before him. He presented himself as a supporter of the people, although he actually had no power to act.",
+    "When a man approached to bow to him, Absalom took hold of his hand and kissed him. In this way he displayed friendship and closeness toward those who came for judgment.",
+    "Absalom acted this way toward all Israel, and thus won the people's hearts. People began to like the king's son, who appeared friendly and accessible.",
+    "After forty years, Absalom asked to go to Hebron and fulfill a vow he had made to the Lord. Steinsaltz presents several possibilities for the starting point of the forty years: when Israel asked for a king, David's anointing, or the time David separated from Saul.",
+    "Absalom said that he had made the vow while living in Geshur in Aram: if the Lord returned him to Jerusalem, he would serve the Lord. This service might include offering sacrifices and other acts in the Lord's honor.",
+    "David allowed Absalom to go in peace, and Absalom went to Hebron, which had been Judah's capital and the place where David had first ruled.",
+    "Absalom sent secret messengers to all the tribes of Israel. They were instructed to proclaim, \"Absalom is king in Hebron,\" when they heard the sound of the horn, as a signal for the beginning of his reign.",
+    "Two hundred men from Jerusalem were invited to go with Absalom to Hebron, apparently to offer sacrifices, but they went innocently and did not know that they were thereby becoming supporters of the rebellion.",
+    "Absalom summoned Ahithophel, David's counselor, while sacrifices were being offered. Ahithophel was a wise and influential man, and his joining the rebellion strengthened the revolt and support for Absalom.",
+    "A messenger informed David that the hearts of the people of Israel were turning toward Absalom. Absalom had declared himself king, and the people were following him.",
+    "David ordered his servants to flee Jerusalem because he feared that they would have no escape if Absalom arrived. He feared that Absalom would strike the city with the sword and that he would be unable to defend it.",
+    "The king's servants declared that they accepted whatever David decided and were ready to obey his command.",
+    "David left Jerusalem with his entire household, but left ten concubines to guard the house, assuming that no one would harm his wives.",
+    "The king and all the people who left with him reached Beth-ha-Merhak, a place or building that was relatively far from the city.",
+    "David's servants, the Cherethites and Pelethites, and six hundred Gittites passed before the king. The Gittites, Philistines from Gath who had joined David, displayed their loyalty to him in a kind of procession.",
+    "David asked Ittai the Gittite why he was going with them and suggested that he return and remain with the new king. He emphasized that Ittai was a foreigner and an exile, and therefore did not need to enter a conflict unrelated to him.",
+    "David said that Ittai had arrived only recently and might now be forced to wander with them without knowing where they were going. He suggested that Ittai return with his men, wishing him kindness and faithfulness.",
+    "Ittai swore by the life of the Lord and by the life of David that wherever the king would be, in life or in death, there too would be his servant. In this way he expressed deep personal loyalty to David.",
+    "David accepted his loyalty and told him to cross over. Ittai crossed with all his men and their families, and the Philistine unit joined David.",
+    "The inhabitants of the land wept loudly during the departure. David crossed the Kidron Valley, and the people passed along the road near the wilderness.",
+    "Zadok and all the Levites carried the Ark of the Covenant, but David ordered them to set it down and wait until all the people had crossed. David's loyal followers, servants, and foreign units personally connected to him left with him.",
+    "David ordered Zadok to return the Ark to the city. He said that if he found favor in the Lord's eyes, the Lord would return him and allow him to see the Ark and its dwelling again.",
+    "David added that if the Lord did not desire him, he was ready for the Lord to do what seemed good in His eyes. In his view, there was no need to take the Ark on the journey, and he accepted divine judgment.",
+    "David asked Zadok to understand his intention and return peacefully to the city with the Ark. He instructed that Ahimaaz son of Zadok and Jonathan son of Abiathar should remain with their fathers.",
+    "David said that he would stay in the wilderness plain until a report came to him from them. The sons, being younger and more agile, could update him about what was happening in the city.",
+    "Zadok and Abiathar returned the Ark of God to Jerusalem and remained there.",
+    "David climbed the ascent of the Mount of Olives, weeping, with his head covered and walking barefoot as a sign of mourning. The people with him also covered their heads and climbed while weeping.",
+    "David was told that Ahithophel had joined the conspirators with Absalom. This especially worried him because Ahithophel was considered wise and level-headed, so David prayed that the Lord would frustrate his counsel.",
+    "When David reached the summit of the Mount of Olives, a place where he used to bow before God, he met Hushai the Archite. Hushai was David's friend and confidant, and expressed his mourning by tearing his garment and putting dust on his head.",
+    "David told Hushai that if he crossed with him, he would become a burden, since he was not young and would not be able to help in battle.",
+    "David suggested that Hushai return to the city and pretend to be Absalom's servant. In this way he could enter Absalom's circle of advisers and frustrate Ahithophel's counsel.",
+    "David pointed out that Hushai would find Zadok and Abiathar the priests in the city, and instructed him to tell them everything he heard from the royal palace.",
+    "David mentioned that Zadok and Abiathar had their sons Ahimaaz and Jonathan with them. Through them, the priests would be able to send him every piece of information they received.",
+    "Hushai returned to the city, and Absalom arrived in Jerusalem. On the way, Absalom had advanced from Hebron, gathered an army, and organized himself."
+  ],
+  "perush": [
+    "אבשלום בנה לעצמו מרכבה, סוסים וחמישים רצים, וכך יצר לעצמו מעמד מרשים של יורש העצר המיועד.",
+    "אבשלום נהג להשכים ולעמוד ליד שער העיר, מקום המשפט. הוא פנה לאנשים שהגיעו אל המלך, התעניין במוצאם והציג את עצמו כמי שמתעניין בהם.",
+    "אבשלום טען שדברי האיש צודקים, אך שאין מי שישמע אותו מאת המלך, משום שהמלך עסוק וכדומה.",
+    "אבשלום אמר שאילו היה שופט בארץ, היה דן בצדק בכל מי שהיה מגיע אליו. הוא הציג את עצמו כתומך באנשים, אף שלמעשה לא היה בידו כוח לעשות דבר.",
+    "כאשר אדם התקרב להשתחוות לו, אבשלום החזיק בידו ונשק לו. כך הפגין ידידות וקרבה כלפי הבאים למשפט.",
+    "אבשלום נהג כך בכל ישראל, וכך קנה את לב העם. אנשים התחילו לחבב את בן המלך שנראה ידידותי ונגיש.",
+    "כעבור ארבעים שנה ביקש אבשלום ללכת לחברון ולקיים נדר שנדר לה'. שטיינזלץ מביא כמה אפשרויות להבנת מניין ארבעים השנים: מאז שביקשו ישראל מלך, מאז משיחת דוד או מאז נפרד דוד משאול.",
+    "אבשלום סיפר שנדר את הנדר בעת שישב בגשור שבארם: אם ה' ישיב אותו לירושלים, יעבוד את ה'. עבודתו עשויה לכלול הקרבת קרבנות ומעשים אחרים לכבוד ה'.",
+    "דוד התיר לאבשלום ללכת לשלום, ואבשלום יצא לחברון, שהייתה בירת יהודה ושבה מלך דוד בראשית דרכו.",
+    "אבשלום שלח שליחים חשאיים לכל שבטי ישראל. הם נצטוו להשמיע את הסיסמה \"מָלַךְ אַבְשָׁלוֹם בְּחֶבְרוֹן\" כאשר ישמעו את קול השופר, כאות לפתיחת מלכותו.",
+    "מאתיים אנשים מירושלים הוזמנו ללכת עם אבשלום לחברון, כנראה כדי להקריב קרבנות, אך הם הלכו בתום לב ולא ידעו שהם נעשים למעשה תומכי המרד.",
+    "אבשלום הביא אליו את אחיתופל, יועץ דוד, בעת הקרבת הזבחים. אחיתופל היה אדם חכם ובעל השפעה, והצטרפותו חיזקה את המרד ואת התמיכה באבשלום.",
+    "המגיד הודיע לדוד שלבם של אנשי ישראל נוטה אחרי אבשלום. אבשלום הכריז על עצמו כמלך, והעם נהה אחריו.",
+    "דוד הורה לעבדיו לברוח מירושלים, מפני שחשש שלא יישאר להם מפלט אם אבשלום יגיע. הוא חשש שאבשלום יכה את העיר בחרב, ושלא יוכל להגן עליה מפניו.",
+    "עבדי המלך הצהירו שהם מקבלים כל החלטה של דוד ומוכנים לפקודתו.",
+    "דוד יצא מירושלים יחד עם כל ביתו, אך השאיר עשר פילגשים לשמור על הבית, מתוך הנחה שלא יפגעו בנשותיו.",
+    "המלך וכל העם שיצאו איתו הגיעו לבית המרחק, מקום או מבנה שהיה מרוחק למדי מן העיר.",
+    "עבדי דוד, גדודי הכרתי והפלתי ושש מאות הגתים עברו לפני המלך. הגתים, פלשתים מגת שנספחו לדוד, הציגו במסדר את נאמנותם אליו.",
+    "דוד שאל את אתי הגתי מדוע הוא הולך איתם, והציע לו לשוב ולהישאר עם המלך החדש. הוא הדגיש שאתי זר וגולה, ולכן אין לו צורך להיכנס למריבה שאינה קשורה אליו.",
+    "דוד אמר שאתי הגיע רק לאחרונה, וכעת הוא עלול להיטלטל יחד איתו בלי לדעת לאן הם הולכים. הוא הציע לו לשוב ולקחת עמו את אנשיו, תוך איחול של חסד ואמת.",
+    "אתי נשבע בחיי ה' ובחיי דוד שבכל מקום שבו יהיה המלך, בחיים או במוות, יהיה גם עבדו. בכך ביטא נאמנות אישית עמוקה לדוד.",
+    "דוד קיבל את נאמנותו ואמר לו לעבור. אתי עבר עם כל אנשיו ועם משפחותיהם, והגדוד הפלשתי הצטרף לדוד.",
+    "יושבי הארץ בכו בקול גדול בעת המעבר. דוד חצה את נחל קדרון, והעם עבר בדרך הסמוכה למדבר.",
+    "צדוק וכל הלויים נשאו את ארון ברית האלוהים, אך דוד הורה להעמידו ולהמתין עד שכל העם יעבור. עם דוד יצאו נאמניו, עבדיו וגדודי הזרים שהיו קשורים אליו אישית.",
+    "דוד הורה לצדוק להשיב את הארון לעיר. הוא אמר שאם ימצא חן בעיני ה', ה' ישיב אותו ויראה לו שוב את הארון ואת מעונו.",
+    "דוד הוסיף שאם ה' אינו חפץ בו, הוא מוכן שה' יעשה לו את הטוב בעיניו. לדעתו, אין צורך לקחת את הארון למסע, והוא מקבל את הדין האלוהי.",
+    "דוד ביקש מצדוק להבין את כוונתו ולשוב בשלום לעיר עם הארון. הוא הורה שאחימעץ בן צדוק ויהונתן בן אביתר יהיו עם אבותיהם.",
+    "דוד אמר שישהה במישור המדבר עד שיגיע אליו דיווח מהם. הבנים, שהיו צעירים וזריזים יותר, יוכלו לעדכן אותו על המתרחש בעיר.",
+    "צדוק ואביתר השיבו את ארון האלוהים לירושלים ונשארו שם.",
+    "דוד עלה במעלה הזיתים כשהוא בוכה, ראשו מכוסה והוא הולך יחף לאות אבל. גם העם שהיה איתו כיסה את ראשו ועלה כשהוא בוכה.",
+    "לדוד נודע שאחיתופל הצטרף לקושרים עם אבשלום. הדבר הדאיג אותו במיוחד, מפני שאחיתופל נחשב חכם ומיושב, ולכן דוד התפלל שה' יפר את עצתו.",
+    "כשהגיע דוד אל פסגת הר הזיתים, מקום שבו נהג להשתחוות לאלוהים, פגש את חושי הארכי. חושי היה רעו ואיש סודו של דוד, והוא ביטא את אבלו בקריעת בגדיו ובאדמה על ראשו.",
+    "דוד אמר לחושי שאם יעבור איתו, הוא יהיה עליו למשא, משום שאינו צעיר ולא יוכל לסייע לו במלחמה.",
+    "דוד הציע לחושי לשוב לעיר ולהעמיד פנים שהוא עבדו של אבשלום. כך יוכל להיכנס לחוג מקורביו של אבשלום ולהפר את עצת אחיתופל.",
+    "דוד הזכיר שחושי ימצא בעיר את צדוק ואביתר הכוהנים, והורה לו להעביר אליהם כל דבר שישמע מבית המלך.",
+    "דוד הזכיר שלצדוק ולאביתר נמצאים בניהם אחימעץ ויהונתן. באמצעותם יוכלו הכוהנים להעביר אליו כל מידע שיגיע לידיהם.",
+    "חושי חזר לעיר, ואבשלום הגיע לירושלים. בדרך הספיק אבשלום להתקדם מחברון, לאסוף צבא ולהתארגן."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "אבשלום קונה את לב העם",
+      "title_en": "Absalom Wins the People's Hearts",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "אבשלום בונה לעצמו תדמית של יורש עצר, מציג את המלך כמי שאינו פנוי למשפט, ומפגין קרבה כלפי העם. באמצעות התנהגות זו הוא גונב את לב אנשי ישראל.",
+      "summary_en": "Absalom creates the image of a royal heir, presents the king as unavailable for judgment, and displays personal closeness to the people. Through these actions he wins the hearts of the Israelites.",
+      "image_prompt": "Ancient Jerusalem city gate at morning, Absalom arriving in a chariot with horses and fifty runners, greeting people warmly near the place of judgment, historically grounded biblical illustration, no text"
+    },
+    {
+      "title": "הכנות חשאיות למרד בחברון",
+      "title_en": "Secret Preparations for Revolt in Hebron",
+      "start_verse": 7,
+      "end_verse": 12,
+      "summary": "אבשלום משתמש בנדר ובהליכה לחברון כדי להסתיר את תוכניתו. הוא מפעיל שליחים חשאיים, מגייס אנשים שאינם מודעים למזימתו ומצרף אליו את אחיתופל, וכך מחזק את המרד.",
+      "summary_en": "Absalom uses his vow and journey to Hebron to conceal his plan. He sends secret messengers, gathers people unaware of his plot, and recruits Ahithophel, thereby strengthening the rebellion.",
+      "image_prompt": "Hebron in the biblical period, Absalom arriving with invited followers during a sacrificial gathering, discreet messengers preparing signals among the tribes, historically grounded biblical illustration, no text"
+    },
+    {
+      "title": "דוד נמלט מירושלים",
+      "title_en": "David Flees Jerusalem",
+      "start_verse": 13,
+      "end_verse": 18,
+      "summary": "לאחר שנודע לדוד שהעם נוטה אחרי אבשלום, הוא מחליט לעזוב את ירושלים כדי למנוע את החרבת העיר. עמו יוצאים בני ביתו, עבדיו ויחידות נאמנות, ובהן הכרתי, הפלתי והגתים.",
+      "summary_en": "After learning that the people were following Absalom, David decides to leave Jerusalem to prevent the city from being destroyed. His household, servants, and loyal units, including the Cherethites, Pelethites, and Gittites, leave with him.",
+      "image_prompt": "David leading his household and loyal followers out of Jerusalem, the city behind them, guards and six hundred Gittites crossing in an orderly procession, biblical historical illustration, no text"
+    },
+    {
+      "title": "נאמנותו של אתי הגתי",
+      "title_en": "Ittai the Gittite's Loyalty",
+      "start_verse": 19,
+      "end_verse": 23,
+      "summary": "דוד מנסה לשחרר את אתי הגתי מן הצורך להצטרף לבריחתו, אך אתי נשבע להישאר עם דוד בכל מצב. דוד מקבל את נאמנותו, והם עוברים יחד עם אנשיהם ומשפחותיהם.",
+      "summary_en": "David tries to free Ittai the Gittite from the need to join his flight, but Ittai vows to remain with David under all circumstances. David accepts his loyalty, and they cross together with their men and families.",
+      "image_prompt": "David speaking compassionately to Ittai the Gittite beside the road from Jerusalem, Ittai pledging loyalty with his men and families behind him, biblical historical illustration, no text"
+    },
+    {
+      "title": "ארון הברית והעברת המידע",
+      "title_en": "The Ark and the Flow of Information",
+      "start_verse": 24,
+      "end_verse": 29,
+      "summary": "הכוהנים יוצאים עם ארון האלוהים, אך דוד מחזיר אותו לירושלים ומקבל בענווה את הדין האלוהי. הוא משאיר את צדוק ואביתר בעיר ומארגן באמצעות בניהם העברת מידע אליו.",
+      "summary_en": "The priests leave with the Ark of God, but David sends it back to Jerusalem and humbly accepts divine judgment. He leaves Zadok and Abiathar in the city and arranges for information to reach him through their sons.",
+      "image_prompt": "Zadok and Abiathar carrying the Ark near the outskirts of Jerusalem while David gestures for them to return, messengers preparing to carry reports, biblical historical illustration, no text"
+    },
+    {
+      "title": "אבל דוד ושליחותו של חושי",
+      "title_en": "David's Mourning and Hushai's Mission",
+      "start_verse": 30,
+      "end_verse": 37,
+      "summary": "דוד עולה להר הזיתים באבל ומתפלל שה' יפר את עצת אחיתופל. הוא שולח את חושי חזרה לירושלים כדי להתקרב לאבשלום, לסכל את עצת אחיתופל ולמסור מידע באמצעות הכוהנים ובניהם.",
+      "summary_en": "David climbs the Mount of Olives in mourning and prays that the Lord will frustrate Ahithophel's counsel. He sends Hushai back to Jerusalem to approach Absalom, undermine Ahithophel's advice, and transmit information through the priests and their sons.",
+      "image_prompt": "Mourning David climbing the Mount of Olives barefoot with covered head, Hushai meeting him with torn clothing and dust on his head, Jerusalem visible in the distance, biblical historical illustration, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 11.26,
+      "usfm": "2SA.15.1"
+    },
+    {
+      "start": 11.26,
+      "end": 29.38,
+      "usfm": "2SA.15.2"
+    },
+    {
+      "start": 29.38,
+      "end": 37.0,
+      "usfm": "2SA.15.3"
+    },
+    {
+      "start": 37.0,
+      "end": 47.62,
+      "usfm": "2SA.15.4"
+    },
+    {
+      "start": 47.62,
+      "end": 55.88,
+      "usfm": "2SA.15.5"
+    },
+    {
+      "start": 55.88,
+      "end": 65.62,
+      "usfm": "2SA.15.6"
+    },
+    {
+      "start": 65.62,
+      "end": 75.58,
+      "usfm": "2SA.15.7"
+    },
+    {
+      "start": 75.58,
+      "end": 85.74,
+      "usfm": "2SA.15.8"
+    },
+    {
+      "start": 85.74,
+      "end": 90.98,
+      "usfm": "2SA.15.9"
+    },
+    {
+      "start": 90.98,
+      "end": 102.74,
+      "usfm": "2SA.15.10"
+    },
+    {
+      "start": 102.74,
+      "end": 113.4,
+      "usfm": "2SA.15.11"
+    },
+    {
+      "start": 113.4,
+      "end": 129.82,
+      "usfm": "2SA.15.12"
+    },
+    {
+      "start": 129.82,
+      "end": 136.14,
+      "usfm": "2SA.15.13"
+    },
+    {
+      "start": 136.14,
+      "end": 153.66,
+      "usfm": "2SA.15.14"
+    },
+    {
+      "start": 153.66,
+      "end": 161.88,
+      "usfm": "2SA.15.15"
+    },
+    {
+      "start": 161.88,
+      "end": 170.26,
+      "usfm": "2SA.15.16"
+    },
+    {
+      "start": 170.26,
+      "end": 176.0,
+      "usfm": "2SA.15.17"
+    },
+    {
+      "start": 176.0,
+      "end": 186.44,
+      "usfm": "2SA.15.18"
+    },
+    {
+      "start": 186.44,
+      "end": 197.94,
+      "usfm": "2SA.15.19"
+    },
+    {
+      "start": 197.94,
+      "end": 210.08,
+      "usfm": "2SA.15.20"
+    },
+    {
+      "start": 210.08,
+      "end": 224.42,
+      "usfm": "2SA.15.21"
+    },
+    {
+      "start": 224.42,
+      "end": 234.44,
+      "usfm": "2SA.15.22"
+    },
+    {
+      "start": 234.44,
+      "end": 246.1,
+      "usfm": "2SA.15.23"
+    },
+    {
+      "start": 246.1,
+      "end": 260.2,
+      "usfm": "2SA.15.24"
+    },
+    {
+      "start": 260.2,
+      "end": 273.4,
+      "usfm": "2SA.15.25"
+    },
+    {
+      "start": 273.4,
+      "end": 282.56,
+      "usfm": "2SA.15.26"
+    },
+    {
+      "start": 282.56,
+      "end": 295.2,
+      "usfm": "2SA.15.27"
+    },
+    {
+      "start": 295.2,
+      "end": 301.44,
+      "usfm": "2SA.15.28"
+    },
+    {
+      "start": 301.44,
+      "end": 308.84,
+      "usfm": "2SA.15.29"
+    },
+    {
+      "start": 308.84,
+      "end": 325.8,
+      "usfm": "2SA.15.30"
+    },
+    {
+      "start": 325.8,
+      "end": 338.82,
+      "usfm": "2SA.15.31"
+    },
+    {
+      "start": 338.82,
+      "end": 351.84,
+      "usfm": "2SA.15.32"
+    },
+    {
+      "start": 351.84,
+      "end": 358.76,
+      "usfm": "2SA.15.33"
+    },
+    {
+      "start": 358.76,
+      "end": 374.56,
+      "usfm": "2SA.15.34"
+    },
+    {
+      "start": 374.56,
+      "end": 388.62,
+      "usfm": "2SA.15.35"
+    },
+    {
+      "start": 388.62,
+      "end": 402.08,
+      "usfm": "2SA.15.36"
+    },
+    {
+      "start": 402.08,
+      "end": 417.12,
+      "usfm": "2SA.15.37"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    11.26,
+    29.38,
+    37.0,
+    47.62,
+    55.88,
+    65.62,
+    75.58,
+    85.74,
+    90.98,
+    102.74,
+    113.4,
+    129.82,
+    136.14,
+    153.66,
+    161.88,
+    170.26,
+    176.0,
+    186.44,
+    197.94,
+    210.08,
+    224.42,
+    234.44,
+    246.1,
+    260.2,
+    273.4,
+    282.56,
+    295.2,
+    301.44,
+    308.84,
+    325.8,
+    338.82,
+    351.84,
+    358.76,
+    374.56,
+    388.62,
+    402.08,
+    417.12
+  ],
+  "times_en_usfm": [
+    "2SA.15.1",
+    "2SA.15.2",
+    "2SA.15.3",
+    "2SA.15.4",
+    "2SA.15.5",
+    "2SA.15.6",
+    "2SA.15.7",
+    "2SA.15.8",
+    "2SA.15.9",
+    "2SA.15.10",
+    "2SA.15.11",
+    "2SA.15.12",
+    "2SA.15.13",
+    "2SA.15.14",
+    "2SA.15.15",
+    "2SA.15.16",
+    "2SA.15.17",
+    "2SA.15.18",
+    "2SA.15.19",
+    "2SA.15.20",
+    "2SA.15.21",
+    "2SA.15.22",
+    "2SA.15.23",
+    "2SA.15.24",
+    "2SA.15.25",
+    "2SA.15.26",
+    "2SA.15.27",
+    "2SA.15.28",
+    "2SA.15.29",
+    "2SA.15.30",
+    "2SA.15.31",
+    "2SA.15.32",
+    "2SA.15.33",
+    "2SA.15.34",
+    "2SA.15.35",
+    "2SA.15.36",
+    "2SA.15.37"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? אבשלום יצר לעצמו הופעה מלכותית: מרכבה, סוסים וחמישים רצים שהקדימו אותו.",
+      "text_he": "הידעת? אבשלום יצר לעצמו הופעה מלכותית: מרכבה, סוסים וחמישים רצים שהקדימו אותו.",
+      "text_en": "Did you know? Absalom created a royal image for himself: a chariot, horses, and fifty men running ahead of him."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? אבשלום ניצל את מפגשו עם המתדיינים בשער כדי לטעון שאין מי שישמע אותם מטעם המלך, אף שהוא עצמו לא מונה לשופט.",
+      "text_he": "הידעת? אבשלום ניצל את מפגשו עם המתדיינים בשער כדי לטעון שאין מי שישמע אותם מטעם המלך, אף שהוא עצמו לא מונה לשופט.",
+      "text_en": "Did you know? Absalom used his encounters with people seeking justice at the city gate to claim that no one had been appointed by the king to hear them, even though he himself had not been appointed a judge."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? הכתוב מסכם את פעולותיו של אבשלום במילים: \"וַיְגַנֵּב אַבְשָׁלוֹם אֶת לֵב אַנְשֵׁי יִשְׂרָאֵל\" — כלומר, הוא רכש את תמיכתם בהדרגה באמצעות התנהגותו.",
+      "text_he": "הידעת? הכתוב מסכם את פעולותיו של אבשלום במילים: \"וַיְגַנֵּב אַבְשָׁלוֹם אֶת לֵב אַנְשֵׁי יִשְׂרָאֵל\" — כלומר, הוא רכש את תמיכתם בהדרגה באמצעות התנהגותו.",
+      "text_en": "Did you know? Scripture summarizes Absalom’s actions in these words: “So Absalom stole the hearts of the men of Israel”—that is, he gradually won their support through his conduct."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? אבשלום תכנן את מרידתו באמצעות שליחים שנשלחו לכל שבטי ישראל, והורה להם להכריז על מלכותו בחברון עם הישמע קול השופר.",
+      "text_he": "הידעת? אבשלום תכנן את מרידתו באמצעות שליחים שנשלחו לכל שבטי ישראל, והורה להם להכריז על מלכותו בחברון עם הישמע קול השופר.",
+      "text_en": "Did you know? Absalom organized his rebellion through messengers sent throughout all the tribes of Israel, instructing them to proclaim him king in Hebron when they heard the sound of the trumpet."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? מאתיים אנשים מירושלים הלכו עם אבשלום בתום לב, והכתוב מדגיש שהם לא ידעו דבר מתוכנית המרד.",
+      "text_he": "הידעת? מאתיים אנשים מירושלים הלכו עם אבשלום בתום לב, והכתוב מדגיש שהם לא ידעו דבר מתוכנית המרד.",
+      "text_en": "Did you know? Two hundred men from Jerusalem went with Absalom in good faith, and Scripture emphasizes that they knew nothing about the rebellion’s plan."
+    },
+    {
+      "verse": 12,
+      "text": "הידעת? אחיתופל, שהיה יועצו של דוד, הצטרף לאבשלום; בעקבות זאת התחזק הקשר, ומספר תומכי אבשלום הלך וגדל.",
+      "text_he": "הידעת? אחיתופל, שהיה יועצו של דוד, הצטרף לאבשלום; בעקבות זאת התחזק הקשר, ומספר תומכי אבשלום הלך וגדל.",
+      "text_en": "Did you know? Ahithophel, who had been David’s adviser, joined Absalom. As a result, the rebellion gained strength, and the number of Absalom’s supporters increased."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? בין הנאמנים שיצאו עם דוד היו הכרֵתי, הפלֵתי ושש מאות גִתִּים — לוחמים מגת שהצטרפו אליו והלכו לפניו.",
+      "text_he": "הידעת? בין הנאמנים שיצאו עם דוד היו הכרֵתי, הפלֵתי ושש מאות גִתִּים — לוחמים מגת שהצטרפו אליו והלכו לפניו.",
+      "text_en": "Did you know? Among the loyal men who left with David were the Kerethites, the Pelethites, and six hundred Gittites—warriors from Gath who had joined him and marched before him."
+    },
+    {
+      "verse": 21,
+      "text": "הידעת? אתי הגתי הצהיר על נאמנות מוחלטת לדוד: הוא נשבע להישאר עם המלך הן בחיים והן במוות.",
+      "text_he": "הידעת? אתי הגתי הצהיר על נאמנות מוחלטת לדוד: הוא נשבע להישאר עם המלך הן בחיים והן במוות.",
+      "text_en": "Did you know? Ittai the Gittite declared his complete loyalty to David: he swore to remain with the king in both life and death."
+    },
+    {
+      "verse": 25,
+      "text": "הידעת? דוד סירב לקחת את ארון האלוהים עמו במנוסתו והורה להחזירו לירושלים, באומרו שאם ימצא חן בעיני ה' — ישוב ויראה אותו ואת נווהו.",
+      "text_he": "הידעת? דוד סירב לקחת את ארון האלוהים עמו במנוסתו והורה להחזירו לירושלים, באומרו שאם ימצא חן בעיני ה' — ישוב ויראה אותו ואת נווהו.",
+      "text_en": "Did you know? David refused to take the Ark of God with him in his flight and ordered it returned to Jerusalem, saying that if he found favor in the LORD’s eyes, he would return and see it and His dwelling place again."
+    },
+    {
+      "verse": 31,
+      "text": "הידעת? כאשר שמע דוד שאחיתופל הצטרף למורדים, הוא התפלל: \"סַכֶּל נָא אֶת עֲצַת אֲחִיתֹפֶל ה'\"; לאחר מכן שלח את חושי הארכי לירושלים כדי לסכל את עצתו.",
+      "text_he": "הידעת? כאשר שמע דוד שאחיתופל הצטרף למורדים, הוא התפלל: \"סַכֶּל נָא אֶת עֲצַת אֲחִיתֹפֶל ה'\"; לאחר מכן שלח את חושי הארכי לירושלים כדי לסכל את עצתו.",
+      "text_en": "Did you know? When David heard that Ahithophel had joined the rebels, he prayed, “LORD, please turn Ahithophel’s counsel into foolishness.” He then sent Hushai the Archite to Jerusalem to frustrate Ahithophel’s advice."
+    }
+  ]
+}

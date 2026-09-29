@@ -1,0 +1,666 @@
+{
+  "book": "II Samuel",
+  "book_he": "שמואל ב",
+  "book_chapters": 24,
+  "chapter": 23,
+  "title": "שמואל ב פרק 23",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b23.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t08b23.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/2SA/23-dfb0c4bf8e78d457f510f281c23a581b.mp3?version_id=1",
+  "verses": [
+    "וְאֵלֶּה דִּבְרֵי דָוִד, הָאַחֲרֹנִים: נְאֻם דָּוִד בֶּן-יִשַׁי, וּנְאֻם הַגֶּבֶר הֻקַם עָל--מְשִׁיחַ אֱלֹהֵי יַעֲקֹב, וּנְעִים זְמִרוֹת יִשְׂרָאֵל.",
+    "רוּחַ יְהוָה, דִּבֶּר-בִּי; וּמִלָּתוֹ, עַל-לְשׁוֹנִי.",
+    "אָמַר אֱלֹהֵי יִשְׂרָאֵל, לִי דִבֶּר צוּר יִשְׂרָאֵל: מוֹשֵׁל, בָּאָדָם--צַדִּיק, מוֹשֵׁל יִרְאַת אֱלֹהִים.",
+    "וּכְאוֹר בֹּקֶר, יִזְרַח-שָׁמֶשׁ; בֹּקֶר לֹא עָבוֹת, מִנֹּגַהּ מִמָּטָר דֶּשֶׁא מֵאָרֶץ.",
+    "כִּי-לֹא-כֵן בֵּיתִי, עִם-אֵל: כִּי בְרִית עוֹלָם שָׂם לִי, עֲרוּכָה בַכֹּל וּשְׁמֻרָה--כִּי-כָל-יִשְׁעִי וְכָל-חֵפֶץ, כִּי-לֹא יַצְמִיחַ.",
+    "וּבְלִיַּעַל, כְּקוֹץ מֻנָד כֻּלָּהַם: כִּי-לֹא בְיָד, יִקָּחוּ.",
+    "וְאִישׁ יִגַּע בָּהֶם, יִמָּלֵא בַרְזֶל וְעֵץ חֲנִית; וּבָאֵשׁ, שָׂרוֹף יִשָּׂרְפוּ בַּשָּׁבֶת.",
+    "אֵלֶּה שְׁמוֹת הַגִּבֹּרִים, אֲשֶׁר לְדָוִד: יֹשֵׁב בַּשֶּׁבֶת תַּחְכְּמֹנִי רֹאשׁ הַשָּׁלִשִׁי, הוּא עֲדִינוֹ העצנו הָעֶצְנִי --עַל-שְׁמֹנֶה מֵאוֹת חָלָל, בְּפַעַם אחד אֶחָת .",
+    "וְאַחֲרָו אֶלְעָזָר בֶּן-דדי דֹּדוֹ , בֶּן-אֲחֹחִי; בִּשְׁלֹשָׁה גברים הַגִּבֹּרִים עִם-דָּוִד, בְּחָרְפָם בַּפְּלִשְׁתִּים נֶאֶסְפוּ-שָׁם לַמִּלְחָמָה, וַיַּעֲלוּ, אִישׁ יִשְׂרָאֵל.",
+    "הוּא קָם וַיַּךְ בַּפְּלִשְׁתִּים עַד כִּי-יָגְעָה יָדוֹ, וַתִּדְבַּק יָדוֹ אֶל-הַחֶרֶב, וַיַּעַשׂ יְהוָה תְּשׁוּעָה גְדוֹלָה, בַּיּוֹם הַהוּא; וְהָעָם יָשֻׁבוּ אַחֲרָיו, אַךְ-לְפַשֵּׁט.",
+    "וְאַחֲרָיו שַׁמָּה בֶן-אָגֵא, הָרָרִי; וַיֵּאָסְפוּ פְלִשְׁתִּים לַחַיָּה, וַתְּהִי-שָׁם חֶלְקַת הַשָּׂדֶה מְלֵאָה עֲדָשִׁים, וְהָעָם נָס, מִפְּנֵי פְלִשְׁתִּים.",
+    "וַיִּתְיַצֵּב בְּתוֹךְ-הַחֶלְקָה וַיַּצִּילֶהָ, וַיַּךְ אֶת-פְּלִשְׁתִּים; וַיַּעַשׂ יְהוָה, תְּשׁוּעָה גְדוֹלָה.",
+    "וַיֵּרְדוּ שלשים שְׁלֹשָׁה מֵהַשְּׁלֹשִׁים רֹאשׁ, וַיָּבֹאוּ אֶל-קָצִיר אֶל-דָּוִד--אֶל-מְעָרַת, עֲדֻלָּם; וְחַיַּת פְּלִשְׁתִּים, חֹנָה בְּעֵמֶק רְפָאִים.",
+    "וְדָוִד, אָז בַּמְּצוּדָה; וּמַצַּב פְּלִשְׁתִּים, אָז בֵּית לָחֶם.",
+    "וַיִּתְאַוֶּה דָוִד, וַיֹּאמַר: מִי יַשְׁקֵנִי מַיִם, מִבֹּאר בֵּית-לֶחֶם אֲשֶׁר בַּשָּׁעַר.",
+    "וַיִּבְקְעוּ שְׁלֹשֶׁת הַגִּבֹּרִים בְּמַחֲנֵה פְלִשְׁתִּים, וַיִּשְׁאֲבוּ-מַיִם מִבֹּאר בֵּית-לֶחֶם אֲשֶׁר בַּשַּׁעַר, וַיִּשְׂאוּ, וַיָּבִאוּ אֶל-דָּוִד; וְלֹא אָבָה לִשְׁתּוֹתָם, וַיַּסֵּךְ אֹתָם לַיהוָה.",
+    "וַיֹּאמֶר חָלִילָה לִּי יְהוָה מֵעֲשֹׂתִי זֹאת, הֲדַם הָאֲנָשִׁים הַהֹלְכִים בְּנַפְשׁוֹתָם, וְלֹא אָבָה, לִשְׁתּוֹתָם; אֵלֶּה עָשׂוּ, שְׁלֹשֶׁת הַגִּבֹּרִים.",
+    "וַאֲבִישַׁי אֲחִי יוֹאָב בֶּן-צְרוּיָה, הוּא רֹאשׁ השלשי הַשְּׁלֹשָׁה , וְהוּא עוֹרֵר אֶת-חֲנִיתוֹ, עַל-שְׁלֹשׁ מֵאוֹת חָלָל; וְלוֹ-שֵׁם, בַּשְּׁלֹשָׁה.",
+    "מִן-הַשְּׁלֹשָׁה הֲכִי נִכְבָּד, וַיְהִי לָהֶם לְשָׂר; וְעַד-הַשְּׁלֹשָׁה, לֹא-בָא.",
+    "וּבְנָיָהוּ בֶן-יְהוֹיָדָע בֶּן-אִישׁ-חי חַיִל רַב-פְּעָלִים, מִקַּבְצְאֵל; הוּא הִכָּה, אֵת שְׁנֵי אֲרִאֵל מוֹאָב, וְהוּא יָרַד וְהִכָּה אֶת-האריה הָאֲרִי בְּתוֹךְ הַבֹּאר, בְּיוֹם הַשָּׁלֶג.",
+    "וְהוּא-הִכָּה אֶת-אִישׁ מִצְרִי אשר אִישׁ מַרְאֶה, וּבְיַד הַמִּצְרִי חֲנִית, וַיֵּרֶד אֵלָיו, בַּשָּׁבֶט; וַיִּגְזֹל אֶת-הַחֲנִית מִיַּד הַמִּצְרִי, וַיַּהַרְגֵהוּ בַּחֲנִיתוֹ.",
+    "אֵלֶּה עָשָׂה, בְּנָיָהוּ בֶּן-יְהוֹיָדָע; וְלוֹ-שֵׁם, בִּשְׁלֹשָׁה הַגִּבֹּרִים.",
+    "מִן-הַשְּׁלֹשִׁים נִכְבָּד, וְאֶל-הַשְּׁלֹשָׁה לֹא-בָא; וַיְשִׂמֵהוּ דָוִד, {ר} אֶל-מִשְׁמַעְתּוֹ.",
+    "עֲשָׂהאֵל אֲחִי-יוֹאָב, בַּשְּׁלֹשִׁים; אֶלְחָנָן בֶּן-דֹּדוֹ, {ר} בֵּית לָחֶם.",
+    "שַׁמָּה, הַחֲרֹדִי, {ס} אֱלִיקָא, {ר} הַחֲרֹדִי.",
+    "חֶלֶץ, הַפַּלְטִי, {ס} עִירָא {ר} בֶן-עִקֵּשׁ, {ס} הַתְּקוֹעִי.",
+    "אֲבִיעֶזֶר, {ר} הָעַנְּתֹתִי, {ס} מְבֻנַּי, הַחֻשָׁתִי.",
+    "צַלְמוֹן, {ר} הָאֲחֹחִי, {ס} מַהְרַי, הַנְּטֹפָתִי.",
+    "חֵלֶב בֶּן-בַּעֲנָה, {ר} הַנְּטֹפָתִי; {ס} אִתַּי, בֶּן-רִיבַי, מִגִּבְעַת, בְּנֵי בִנְיָמִן.",
+    "בְּנָיָהוּ, {ר} פִּרְעָתֹנִי, {ס} הִדַּי, מִנַּחֲלֵי גָעַשׁ.",
+    "אֲבִי-עַלְבוֹן, {ר} הָעַרְבָתִי, {ס} עַזְמָוֶת, הַבַּרְחֻמִי.",
+    "אֶלְיַחְבָּא, {ר} הַשַּׁעַלְבֹנִי, {ס} בְּנֵי יָשֵׁן, יְהוֹנָתָן.",
+    "שַׁמָּה, {ר} הַהֲרָרִי, {ס} אֲחִיאָם בֶּן-שָׁרָר, הָארָרִי.",
+    "אֱלִיפֶלֶט {ר} בֶּן-אֲחַסְבַּי, בֶּן-הַמַּעֲכָתִי; {ס} אֱלִיעָם בֶּן-אֲחִיתֹפֶל, {ר} הַגִּלֹנִי.",
+    "חצרו חֶצְרַי , הַכַּרְמְלִי, {ס} פַּעֲרַי, {ר} הָאַרְבִּי.",
+    "יִגְאָל בֶּן-נָתָן מִצֹּבָה, {ס} בָּנִי {ר} הַגָּדִי.",
+    "צֶלֶק, הָעַמֹּנִי; {ס} נַחְרַי, {ר} הַבְּאֵרֹתִי--נשאי נֹשֵׂא , כְּלֵי יוֹאָב בֶּן-צְרֻיָה.",
+    "עִירָא, {ר} הַיִּתְרִי, {ס} גָּרֵב, הַיִּתְרִי.",
+    "אוּרִיָּה, {ר} הַחִתִּי--כֹּל, שְׁלֹשִׁים וְשִׁבְעָה."
+  ],
+  "english": [
+    "Now these\nbe the last words of David. David the son of Jesse said, and the man\nwho was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,",
+    "The Spirit of the LORD spake by me, and his word\nwas in my tongue.",
+    "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men\nmust be just, ruling in the fear of God.",
+    "And\nhe shall be as the light of the morning,\nwhen\n the sun riseth,\neven a morning without clouds;\nas\n the tender grass\nspringing out of the earth by clear shining after rain.",
+    "Although my house\nbe not so with God; yet he hath made with me an everlasting covenant, ordered in all\nthings, and sure: for\nthis is all my salvation, and all\nmy desire, although he make\nit not to grow.",
+    "But\nthe sons of Belial\nshall be all of them as thorns thrust away, because they cannot be taken with hands:",
+    "But the man\nthat shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the\nsame place.",
+    "These\nbe the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same\nwas Adino the Eznite:\nhe lift up his spear against eight hundred, whom he slew at one time.",
+    "And after him\nwas Eleazar the son of Dodo the Ahohite,\none of the three mighty men with David, when they defied the Philistines\nthat were there gathered together to battle, and the men of Israel were gone away:",
+    "He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the LORD wrought a great victory that day; and the people returned after him only to spoil.",
+    "And after him\nwas Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.",
+    "But he stood in the midst of the ground, and defended it, and slew the Philistines: and the LORD wrought a great victory.",
+    "And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.",
+    "And David\nwas then in an hold, and the garrison of the Philistines\nwas then\nin Bethlehem.",
+    "And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which\nis by the gate!",
+    "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that\nwas by the gate, and took\nit, and brought\nit to David: nevertheless he would not drink thereof, but poured it out unto the LORD.",
+    "And he said, Be it far from me, O LORD, that I should do this:\nis not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.",
+    "And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred,\nand slew\nthem, and had the name among three.",
+    "Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the\nfirst three.",
+    "And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:",
+    "And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.",
+    "These\nthings did Benaiah the son of Jehoiada, and had the name among three mighty men.",
+    "He was more honourable than the thirty, but he attained not to the\nfirst three. And David set him over his guard.",
+    "Asahel the brother of Joab\nwas one of the thirty; Elhanan the son of Dodo of Bethlehem,",
+    "Shammah the Harodite, Elika the Harodite,",
+    "Helez the Paltite, Ira the son of Ikkesh the Tekoite,",
+    "Abiezer the Anethothite, Mebunnai the Hushathite,",
+    "Zalmon the Ahohite, Maharai the Netophathite,",
+    "Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,",
+    "Benaiah the Pirathonite, Hiddai of the brooks of Gaash,",
+    "Abi-albon the Arbathite, Azmaveth the Barhumite,",
+    "Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,",
+    "Shammah the Hararite, Ahiam the son of Sharar the Hararite,",
+    "Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite,",
+    "Hezrai the Carmelite, Paarai the Arbite,",
+    "Igal the son of Nathan of Zobah, Bani the Gadite,",
+    "Zelek the Ammonite, Nahari the Beerothite, armourbearer to Joab the son of Zeruiah,",
+    "Ira an Ithrite, Gareb an Ithrite,",
+    "Uriah the Hittite: thirty and seven in all."
+  ],
+  "steinsaltz": [
+    "דוד שר במשך שנים רבות. וְאֵלֶּה דִּבְרֵי דָוִד הָאַחֲרֹנִים שבידינו. בדברים ששר בסוף ימיו יש סיכום, הגדרה ודברי שבח פרטיים: נְאֻם דָּוִד בֶּן יִשַׁי, וּנְאֻם הַגֶּבֶר שהֻקַם עָל, למעלה. דוד הוא מְשִׁיחַ, מלך שמשח אותו אֱלֹהֵי יַעֲקֹב, והוא נְעִים זְמִרוֹת יִשְׂרָאֵל. שירתו איננה רק בשביל עצמו אלא למען עם ישראל כולו.",
+    "יתרה מזו, רוּחַ ה' דִּבֶּר בִּי, וּמִלָּתוֹ עַל לְשׁוֹנִי. שרתה עלי מעין רוח נבואה.",
+    "אָמַר אֱלֹהֵי יִשְׂרָאֵל, לִי, אלי או למעני דִבֶּר צוּר, מבטח יִשְׂרָאֵל: המוֹשֵׁל בָּאָדָם צריך להיות צַדִּיק המוֹשֵׁל ביִרְאַת אֱלֹהִים. ללא יראת אלוקים לא יוכל שלטונו להחזיק מעמד. רעיון זה אמרו הנביאים לדוד פעם אחר פעם.",
+    "וּכְאוֹר בֹּקֶר יִזְרַח שָׁמֶשׁ, כהארת הזריחה בבֹקֶר לֹא עָבוֹת, ללא עננים, בוקר ששמיו נקיים אפילו יותר מִנֹּגַהּ, מהאור הצח והנאה שבא מִמָּטָר, בעקבות הגשם. אור בוקר זה מרענן ומצמיח דֶּשֶׁא מֵאָרֶץ. ממשלת הצדיק משולה ליום יפה, שבו העולם בטהרתו,",
+    "כִּי לֹא כֵן, אך שלא כבוקר יפה – בֵּיתִי עִם אֵל, שהרי הוא איננו זמני ואינו תלוי בנסיבות מיוחדות, כִּי בְרִית עוֹלָם שָׂם לִי. הברית שה' כרת אתי שרירה גם בזמנים שאינם מאירים. היא עֲרוּכָה בַכֹּל, מאורגנת ועשויה היטב וּשְׁמֻרָה, קיימת ומוגנת תמיד, כִּי כָל יִשְׁעִי וְכָל חֵפֶץ, חפצי, הוא בה', כִּי לֹא יַצְמִיחַ דבר רע, או דבר חולף כדשא.",
+    "וּלעומת זאת, אנשי בְלִיַּעַל הם כְּקוֹץ מֻנָד, מורחק כֻּלָּהַם, כולם, כִּי לֹא בְיָד יִקָּחוּ. הקוץ הדוקר לא ייעקר ויוסר בידיים.",
+    "וְכך האִישׁ שיִגַּע בָּהֶם – בבני הבליעל יִמָּלֵא דקירות בַרְזֶל וְעֵץ חֲנִית, ולכן בסופו של דבר בָאֵשׁ שָׂרוֹף יִשָּׂרְפוּ בַּשָּׁבֶת, במקומם, ללא מגע יד איש. או: במדורה המשביתה והמכלה.",
+    "אֵלֶּה שְׁמוֹת הַגִּבֹּרִים אֲשֶׁר לְדָוִד: הראשון הוא יֹשֵׁב בַּשֶּׁבֶת, כך כנראה היה שמו או כינויו. בנוסח אחר הוא מופיע בשם יָשָׁבְעָם תַּחְכְּמֹנִי, אולי שם מקום לא מוכר, או כינוי המעיד על חכמתו. הוא היה רֹאשׁ הַשָּׁלִשִׁי, ראש הגיבורים. הוּא נקרא גם עֲדִינוֹ הָעֶצְנִי אשר הניף חניתו עַל שְׁמֹנֶה מֵאוֹת חָלָל בְּפַעַם אֶחָת, בהתקפה אחת. גבורתו רוממה את מעמדו.",
+    "וְאַחֲרָיו – אֶלְעָזָר בֶּן דֹּדוֹ, שם איש בֶּן אֲחֹחִי, שם אבי המשפחה או המקום, בִּשְׁלֹשָׁה, שנמנה עם שלושת הַגִּבֹּרִים הראשונים שעִם דָּוִד, בְּחָרְפָם, כשסיכנו את נפשם במלחמה בַּפְּלִשְׁתִּים, כאשר הללו נֶאֶסְפוּ שָׁם לַמִּלְחָמָה, וַיַּעֲלוּ לקראתם אִישׁ יִשְׂרָאֵל.",
+    "הוּא – אלעזר קָם וַיַּךְ בַּפְּלִשְׁתִּים עַד כִּי יָגְעָה יָדוֹ מרוב מאמץ, וַתִּדְבַּק יָדוֹ אֶל הַחֶרֶב. כף ידו נעשתה משותקת למחצה, ולא הצליח לנתק אותה מאחיזת החרב, כך שנראתה כאילו נדבקה אליה. וַיַּעַשׂ ה' תְּשׁוּעָה גְדוֹלָה בַּיּוֹם הַהוּא. וְאחרי שאלעזר הרג פלשתים כה רבים, שאר הָעָם לא הצטרכו להילחם, אלא – יָשֻׁבוּ אַחֲרָיו אַךְ לְפַשֵּׁט, פשטו מן החללים את החפצים יקרי הערך.",
+    "וְאַחֲרָיו – שַׁמָּא בֶן אָגֵא הָרָרִי, מן ההר. וסיפור גבורתו – וַיֵּאָסְפוּ פְלִשְׁתִּים לַחַיָּה, להיות יחידת פשיטה. וַתְּהִי שָׁם חֶלְקַת הַשָּׂדֶה מְלֵאָה עֲדָשִׁים, וְהָעָם נָס מִפְּנֵי פְלִשְׁתִּים.",
+    "וַיִּתְיַצֵּב שַׁמא בְּתוֹךְ הַחֶלְקָה וַיַּצִּילֶהָ, וַיַּךְ אֶת פְּלִשְׁתִּים. וַיַּעַשׂ ה' תְּשׁוּעָה גְדוֹלָה.",
+    "בזמן אותה מלחמה, שכנראה ארכה יותר מימים ספורים, או סמוך לה – וַיֵּרְדוּ שְׁלֹשָׁה מֵהַשְּׁלֹשִׁים רֹאשׁ, שלושת הגיבורים שהיו ראשי יחידת שלושים הגיבורים שתפורט, וַיָּבֹאוּ אֶל קָצִיר, בקציר אֶל דָּוִד, אֶל מְעָרַת עֲדֻלָּם שבה חנה, וְחַיַּת, ואותה יחידת הפשיטה של פְּלִשְׁתִּים חֹנָה בְּעֵמֶק רְפָאִים, שמדרום-מערב לירושלים.",
+    "וְדָוִד אָז בַּמְּצוּדָה הסמוכה למערת עדולם, וּמַצַּב, החיל החונה של הפְּלִשְׁתִּים היה אָז בבֵית לָחֶם, שאינה רחוקה מעמק רפאים.",
+    "וַיִּתְאַוֶּה דָוִד וַיֹּאמַר: מִי יַשְׁקֵנִי מַיִם מִבֹּאר בֵּית לֶחֶם אֲשֶׁר בַּשָּׁעַר?! דוד השתוקק לאותם מי בור טובים, שבוודאי שתה מהם בעודו ילד.",
+    "כאשר שמעו זאת אנשיו – וַיִּבְקְעוּ, חדרו וחצו שְׁלֹשֶׁת הַגִּבֹּרִים בְּמַחֲנֵה פְלִשְׁתִּים, וַיִּשְׁאֲבוּ מַיִם מִבֹּאר בֵּית לֶחֶם אֲשֶׁר בַּשַּׁעַר, וַיִּשְׂאוּ וַיָּבִאוּ אותם אֶל דָּוִד. המעשה היה כרוך בסכנה גדולה ואולי אף בקרב. וְלֹא אָבָה, רצה דוד לִשְׁתּוֹתָם, אף שהתאווה להם, וַיַּסֵּךְ אֹתָם לַה'. הוא שפך את המים האלה לשם ה'.",
+    "וַיֹּאמֶר: חָלִילָה לִּי, ה', מֵעֲשֹׂתִי זֹאת, הֲאם אשתה את דַם הָאֲנָשִׁים הַהֹלְכִים בְּנַפְשׁוֹתָם?! אין זה ראוי שאשתה את המים האלה שנקנו בדם. וְלֹא אָבָה, נתרצה לִשְׁתּוֹתָם. אֵלֶּה עָשׂוּ שְׁלֹשֶׁת הַגִּבֹּרִים. הסיפור מעיד לא רק על אומץ לבם וגבורתם אלא גם על נאמנותם לדוד, שכן הזדרזו מיזמתם למלא כל משאלת לב שהביע, גם אם ביצועה היה כרוך בפריצה ללב מחנה האויב.",
+    "וַאֲבִישַׁי אֲחִי יוֹאָב בֶּן צְרוּיָה הוּא רֹאשׁ, שר על הַשְּׁלֹשָׁה, וְהוּא עוֹרֵר, נופף אֶת חֲנִיתוֹ עַל שְׁלֹשׁ מֵאוֹת חָלָל והרגם, וְלוֹ שֵׁם של כבוד בַּשְּׁלֹשָׁה, בין שלושת הגיבורים המיוחדים שהיו אנשי המופת של דוד.",
+    "מִן הַשְּׁלֹשָׁה, עדינו, אלעזר ושמא, שהיו כנראה הגיבורים שנכנסו לבית-לחם, היה אבישי הֲכִי נִכְבָּד, וַיְהִי לָהֶם לְשָׂר, לראש עליהם וְעם זאת עַד, עם הַשְּׁלֹשָׁה לֹא בָא לבית-לחם. הוא לא היה רק גיבור פרטי אלא אחד משרי הצבא של דוד, ולכן דרגתו הייתה גבוהה מדרגת השלושה.",
+    "וּבְנָיָהוּ בֶן יְהוֹיָדָע היה בֶּן אִישׁ חַיִל, איש צבא מפורסם ורַב פְּעָלִים מהיישוב קַבְצְאֵל. הוּא – בניהו הִכָּה אֵת שְׁנֵי אֲרִאֵל, שני לוחמים מיוחדים בגבורתם של מוֹאָב, וְהוּא יָרַד לבדו וְהִכָּה אֶת הָאֲרִי, האריה הלכוד בְּתוֹךְ הַבֹּאר, הבור בְּיוֹם הַשָּׁלֶג.",
+    "וְהוּא הִכָּה אֶת אִישׁ מִצְרִי, אִישׁ מַרְאֶה, איש שהופעתו אימתנית, וּבְיַד הַמִּצְרִי הייתה חֲנִית. וַיֵּרֶד אֵלָיו בניהו מצויד בַּשָּׁבֶט, במטה או בענף וַיִּגְזֹל, חטף אֶת הַחֲנִית מִיַּד הַמִּצְרִי וַיַּהַרְגֵהוּ בַּחֲנִיתוֹ.",
+    "אֵלֶּה עָשָׂה בְּנָיָהוּ בֶּן יְהוֹיָדָע. וְלוֹ שֵׁם חשוב בִּשְׁלֹשָׁה הַגִּבֹּרִים.",
+    "מִן הַשְּׁלֹשִׁים שיימנו להלן היה בניהו נִכְבָּד, וְאולם אֶל גבורת הַשְּׁלֹשָׁה, שלושת הגיבורים המיוחדים של דוד לֹא בָא, הגיעה גבורתו, וַיְשִׂמֵהוּ, מינה אותו דָוִד אֶל מִשְׁמַעְתּוֹ, להיות אחראי לגדודיו המיוחדים הסרים לפקודתו הישירה. בניהו היה מפקד הכרתי והפלתי, חיל המשמר של דוד.",
+    "עֲשָׂהאֵל אֲחִי יוֹאָב, שנהרג בידי אבנר, נמנה בַּשְּׁלֹשִׁים; אֶלְחָנָן בֶּן דֹּדוֹ מבֵּית לָחֶם;",
+    "שַׁמָּה הַחֲרֹדִי; אֱלִיקָא הַחֲרֹדִי, מחרוד;",
+    "חֶלֶץ הַפַּלְטִי, שם משפחה או שם מקום; עִירָא בֶן עִקֵּשׁ הַתְּקוֹעִי, מהעיר תקוע;",
+    "אֲבִיעֶזֶר הָעַנְּתֹתִי, מהעיר ענתות שבבנימין; מְבֻנַּי הַחֻשָׁתִי;",
+    "צַלְמוֹן הָאֲחֹחִי, שם משפחה בשבט בנימין; מַהְרַי הַנְּטֹפָתִי, מנטופה שליד ירושלים;",
+    "חֵלֶב בֶּן בַּעֲנָה הַנְּטֹפָתִי; אִתַּי בֶּן רִיבַי מִגִּבְעַת בְּנֵי בִנְיָמִן;",
+    "בְּנָיָהוּ פִּרְעָתֹנִי, מפרעתון שבאפרים; הִדַּי מִנַּחֲלֵי גָעַשׁ;",
+    "אֲבִי עַלְבוֹן הָעַרְבָתִי; עַזְמָוֶת הַבַּרְחֻמִי, מבחורים הסמוכה לירושלים ממזרח;",
+    "אֶלְיַחְבָּא הַשַּׁעַלְבֹנִי, משעלבין; בְּנֵי יָשֵׁן יְהוֹנָתָן, יהונתן מבני-ישן;",
+    "שַׁמָּה הַהֲרָרִי; אֲחִיאָם בֶּן שָׁרָר הָארָרִי;",
+    "אֱלִיפֶלֶט בֶּן אֲחַסְבַּי בֶּן הַמַּעֲכָתִי; אֱלִיעָם בֶּן אֲחִיתֹפֶל, היועץ המפורסם שבא מגילֹה. אליעם היה אביה של בת שבע, ואולי בעל כורחו נעשה חותנו של דוד;",
+    "חֶצְרַי הַכַּרְמְלִי; פַּעֲרַי הָאַרְבִּי, מהעיר ארב;",
+    "יִגְאָל בֶּן נָתָן מִצֹּבָה; בָּנִי הַגָּדִי, מעבר הירדן;",
+    "צֶלֶק הָעַמֹּנִי; נַחְרַי הַבְּאֵרֹתִי שהיה נֹשֵׂא כְּלֵי יוֹאָב בֶּן צְרֻיָה. ייתכן שהבארותי והעמוני לא באו מבני ישראל;",
+    "עִירָא הַיִּתְרִי; גָּרֵב הַיִּתְרִי, שאולי בא מאותו שבט או משפחה;",
+    "אוּרִיָּה הַחִתִּי. כֹּל, הכול שְׁלֹשִׁים וְשִׁבְעָה גיבורים, ביניהם לוחמים מיוחדים, גיבורים מפורסמים לתהילה בכל ישראל ומפקדים רמים. כאן פורטו שלושים גיבורים, ועוד שלושה מעליהם. ייתכן שהארבעה האחרים היו בתפקידי פיקוד בלבד, כיואב, שלא הוזכר כאן אלא דרך אגב, משום שהיה שר צבא עליון ולא מאלה שתפקידם להילחם באופן אישי, אף שבוודאי ידע גם להילחם בעצמו."
+  ],
+  "ai_explanation": [
+    "דוד מציג את דבריו האחרונים שבידינו ומגדיר את עצמו כבן ישי, כמי שהוקם למעלה, כמשיח אלוהי יעקב וכמשורר ישראל. שירתו מיועדת לכל עם ישראל.",
+    "דוד מוסיף שרוח ה' דיברה בו, ולכן דבריו נאמרו מתוך השראה הדומה לרוח נבואה.",
+    "ה' הוא צור ישראל, והוא מסר לדוד שהמושל באדם צריך להיות צדיק ומושל ביראת אלוהים. ללא יראת אלוהים שלטונו לא יוכל להתקיים.",
+    "ממשלת הצדיק נמשלה לאור בוקר שבו השמש זורחת ללא עננים, לאור צלול שלאחר הגשם, המצמיח דשא מן הארץ.",
+    "בית דוד עם האל ובריתו אינם תלויים במצב זמני. הברית ערוכה, שמורה ומוגנת, וכל ישעו וחפצו של דוד נתונים בה'; דבר רע או חולף לא יצמיח.",
+    "אנשי הבליעל נמשלים לקוץ מורחק, שאי אפשר לעקור בידיים.",
+    "מי שנוגע באנשי הבליעל ייפגע כדוקר מקוץ של ברזל ועץ חנית, ולבסוף הם יישרפו באש במקומם, ללא מגע יד אדם, או במדורה שמכלה אותם.",
+    "בראש הגיבורים נמנה יושב בשבת, הנזכר בנוסח אחר כישבעם בן תחכמוני. הוא היה ראש הגיבורים ונודע גם כעדינו העצני, לאחר שהרג שמונה מאות אויבים בהתקפה אחת.",
+    "אלעזר בן דודו, בן אחוחי, נמנה עם שלושת הגיבורים הראשונים של דוד. הוא סיכן את נפשו במלחמה בפלשתים, שהתאספו לקרב מול ישראל.",
+    "אלעזר נלחם בפלשתים עד שידו התעייפה ונדבקה כביכול לחרב. ה' עשה תשועה גדולה, והעם שב אחריו כדי לפשוט מן החללים את חפציהם.",
+    "שמא בן אגא ההררי עמד מול הפלשתים כאשר העם נס, ובשדה הייתה חלקה מלאה עדשים.",
+    "שמא התייצב בתוך חלקת השדה והציל אותה מידי הפלשתים, וה' עשה תשועה גדולה.",
+    "שלושה מראשי יחידת שלושים הגיבורים באו אל דוד במערת עדולם בזמן הקציר, בשעה שיחידת פלשתים חנתה בעמק רפאים.",
+    "דוד שהה במצודה ליד מערת עדולם, ואילו הכוח הפלשתי חנה בבית לחם, מקום שאינו רחוק מעמק רפאים.",
+    "דוד התאווה למים מבור בית לחם שבשער, כנראה משום שזכר את המים הטובים ששתה בילדותו.",
+    "שלושת הגיבורים חדרו למחנה פלשתים, שאבו מים מבור בית לחם והביאו אותם לדוד. דוד לא הסכים לשתות אותם ושפך אותם לה'.",
+    "דוד ראה במים את דם האנשים שסיכנו את נפשם, ולכן סירב לשתותם. בכך ניכרו גם גבורתם וגם נאמנותם של שלושת הגיבורים, שפעלו מיוזמתם למען משאלתו.",
+    "אבישי בן צרויה, אחי יואב, היה ראש על שלושת הגיבורים האחרים והרג שלוש מאות בחניתו. היה לו שם של כבוד בין שלושת הגיבורים המיוחדים.",
+    "אבישי היה הנכבד ביותר מבין שלושת הגיבורים, ואף נעשה שר עליהם, אך לא הגיע יחד עם השלושה לבית לחם. דרגתו הצבאית הייתה גבוהה יותר.",
+    "בניהו בן יהוידע, איש צבא רב־פעלים מקבצאל, הרג שני לוחמים מיוחדים ממואב והרג אריה שנלכד בבור ביום שלג.",
+    "בניהו הרג איש מצרי בעל מראה מאיים, שהיה בידו חנית. בניהו ירד אליו בשבט, חטף ממנו את החנית והרגו בה.",
+    "בניהו עשה את המעשים הללו וזכה לשם חשוב בין שלושת הגיבורים.",
+    "בניהו היה נכבד משלושים הגיבורים, אך לא הגיע לגבורת השלושה. דוד מינה אותו לאחראי על גדודיו המיוחדים, והוא היה מפקד הכרתי והפלתי.",
+    "עשאל, אחי יואב, נמנה עם שלושים הגיבורים; אלחנן בן דודו היה מבית לחם.",
+    "שמא החרודי ואליקא החרודי, שמוצאו מחרוד, נמנו ברשימה.",
+    "חלץ הפלטי ועירא בן עקש התקועי נמנו ברשימה; עירא בא מתקוע.",
+    "אביעזר הענתתי, מענתות שבבנימין, ומבוני החושתי נמנו ברשימה.",
+    "צלמון האחוחי, המזוהה בשם משפחה משבט בנימין, ומהרי הנטופתי, מנטופה שליד ירושלים, נמנו ברשימה.",
+    "חלב בן בענה הנטופתי ואתי בן ריבי מגבעת בני בנימין נמנו ברשימה.",
+    "בניהו הפרעתוני, מפרעתון שבאפרים, והדי מנחלי געש נמנו ברשימה.",
+    "אבי־עלבון הערבתי ועזמות הברחומי, מבחורים הסמוכה לירושלים ממזרח, נמנו ברשימה.",
+    "אליחבא השעלבוני, משעלבין, ויהונתן מבני ישן נמנו ברשימה.",
+    "שמא ההררי ואחיאם בן שרר האררי נמנו ברשימה.",
+    "אליפלט בן אחסבי בן המעכתי ואליעם בן אחיתופל הגילוני נמנו ברשימה. אליעם, שהיה בנו של אחיתופל, היה אביה של בת שבע, וייתכן שנעשה חותנו של דוד בעל כורחו.",
+    "חצרי הכרמלי ופערי הארבי, שמוצאו מארב, נמנו ברשימה.",
+    "יגאל בן נתן מצובה ובני הגדי, מעבר הירדן, נמנו ברשימה.",
+    "צלק העמוני ונחרי הבארותי נמנו ברשימה; נחרי נשא את כלי יואב בן צרויה, וייתכן שהבארותי והעמוני לא היו מבני ישראל.",
+    "עירא היתרי וגרב היתרי נמנו ברשימה, וייתכן שהיו מאותו שבט או משפחה.",
+    "אוריה החתי נכלל ברשימה. בסך הכול נמנו שלושים ושבעה גיבורים: שלושים ועוד שלושה מעליהם; ייתכן שארבעה אחרים, ובהם יואב, היו בעיקר בעלי תפקידי פיקוד."
+  ],
+  "ai_explanation_en": [
+    "David presents the last words preserved for us and defines himself as the son of Jesse, one raised up on high, the anointed of the God of Jacob, and Israel's singer. His song is intended for the entire people of Israel.",
+    "David adds that the spirit of the Lord spoke through him, so his words were spoken with an inspiration resembling prophetic spirit.",
+    "The Lord is Israel's Rock, and He told David that a ruler over people must be righteous and rule with fear of God. Without fear of God, his rule cannot endure.",
+    "The rule of the righteous is compared to morning light when the sun rises without clouds, to clear light after rain that makes grass grow from the earth.",
+    "David's house with God and God's covenant are not dependent on temporary circumstances. The covenant is ordered, protected, and secure, and all David's salvation and desire are in it; it will not produce anything evil or short-lived.",
+    "The men of worthlessness are compared to a rejected thorn that cannot be uprooted by hand.",
+    "Anyone who touches the men of worthlessness will be wounded like someone touching a thorn of iron and a spear shaft, and in the end they will be burned by fire where they are, without human contact, or in a consuming fire.",
+    "At the head of the warriors stands Josheb-basshebeth, called in another version Jashobeam son of Hachmoni. He was chief of the warriors and was also known as Adino the Eznite after killing eight hundred enemies in a single attack.",
+    "Eleazar son of Dodo, son of an Ahohite, was one of David's first three warriors. He risked his life in battle against the Philistines, who had gathered for war against Israel.",
+    "Eleazar fought the Philistines until his hand became exhausted and seemed to cling to the sword. The Lord brought about a great victory, and the people returned after him to strip valuables from the fallen.",
+    "Shammah son of Agee the Hararite stood against the Philistines while the people fled, and the field there was full of lentils.",
+    "Shammah took his stand in the middle of the field and saved it from the Philistines, and the Lord brought about a great victory.",
+    "Three chiefs of the unit of thirty warriors came to David at the cave of Adullam during the harvest, while a Philistine raiding unit was encamped in the Valley of Rephaim.",
+    "David was then in the stronghold near the cave of Adullam, while the Philistine force was stationed at Bethlehem, not far from the Valley of Rephaim.",
+    "David longed for water from the well of Bethlehem at the gate, apparently because he remembered the good water he had drunk in his youth.",
+    "The three warriors broke through the Philistine camp, drew water from the well of Bethlehem, and brought it to David. David refused to drink it and poured it out to the Lord.",
+    "David regarded the water as the blood of the men who had risked their lives, and therefore refused to drink it. The story also displays the warriors' courage and loyalty, since they acted on their own initiative to fulfill his wish.",
+    "Abishai son of Zeruiah, Joab's brother, was chief over the other three warriors and killed three hundred with his spear. He had an honored reputation among the three outstanding warriors.",
+    "Abishai was the most honored of the three warriors and became their commander, but he did not go with them to Bethlehem. His military rank was higher.",
+    "Benaiah son of Jehoiada, a distinguished soldier from Kabzeel, killed two exceptional Moabite warriors and killed a lion trapped in a pit on a snowy day.",
+    "Benaiah killed an imposing Egyptian who had a spear. Benaiah went down to him with a staff, seized the spear from him, and killed him with it.",
+    "Benaiah performed these deeds and earned an important reputation among the three warriors.",
+    "Benaiah was more honored than the thirty warriors but did not equal the valor of the three. David appointed him over his special troops, and he commanded the Kerethites and Pelethites.",
+    "Asahel, Joab's brother, was among the thirty warriors; Elhanan son of Dodo was from Bethlehem.",
+    "Shammah the Harodite and Elika the Harodite, from Harod, were included in the list.",
+    "Helez the Paltite and Ira son of Ikkesh the Tekoite were included; Ira was from Tekoa.",
+    "Abiezer the Anathothite, from Anathoth in Benjamin, and Mebunnai the Hushathite were included.",
+    "Zalmon the Ahohite, identified by a family name from Benjamin, and Maharai the Netophathite, from Netophah near Jerusalem, were included.",
+    "Heleb son of Baanah the Netophathite and Ittai son of Ribai from Gibeah of the Benjaminites were included.",
+    "Benaiah the Pirathonite, from Pirathon in Ephraim, and Hiddai from the ravines of Gaash were included.",
+    "Abi-albon the Arbathite and Azmaveth the Barhumite, from Bahurim east of Jerusalem, were included.",
+    "Eliahba the Shaalbonite, from Shaalbin, and Jonathan of the sons of Jashen were included.",
+    "Shammah the Hararite and Ahiam son of Sharar the Hararite were included.",
+    "Eliphelet son of Ahasbai son of the Maacathite and Eliam son of Ahithophel the Gilonite were included. Eliam, the son of Ahithophel, was Bathsheba's father and may have become David's father-in-law against his will.",
+    "Hezrai the Carmelite and Paarai the Arbite, from Arbi, were included.",
+    "Igal son of Nathan from Zobah and Bani the Gadite, from across the Jordan, were included.",
+    "Zelek the Ammonite and Naharai the Beerothite were included; Naharai carried the weapons of Joab son of Zeruiah, and the Beerothite and Ammonite may not have been Israelites.",
+    "Ira the Ithrite and Gareb the Ithrite were included, and they may have belonged to the same tribe or family.",
+    "Uriah the Hittite was included. In all, thirty-seven warriors were counted: thirty plus three above them; four others, including Joab, may have held mainly command positions."
+  ],
+  "perush": [
+    "דוד מציג את דבריו האחרונים שבידינו ומגדיר את עצמו כבן ישי, כמי שהוקם למעלה, כמשיח אלוהי יעקב וכמשורר ישראל. שירתו מיועדת לכל עם ישראל.",
+    "דוד מוסיף שרוח ה' דיברה בו, ולכן דבריו נאמרו מתוך השראה הדומה לרוח נבואה.",
+    "ה' הוא צור ישראל, והוא מסר לדוד שהמושל באדם צריך להיות צדיק ומושל ביראת אלוהים. ללא יראת אלוהים שלטונו לא יוכל להתקיים.",
+    "ממשלת הצדיק נמשלה לאור בוקר שבו השמש זורחת ללא עננים, לאור צלול שלאחר הגשם, המצמיח דשא מן הארץ.",
+    "בית דוד עם האל ובריתו אינם תלויים במצב זמני. הברית ערוכה, שמורה ומוגנת, וכל ישעו וחפצו של דוד נתונים בה'; דבר רע או חולף לא יצמיח.",
+    "אנשי הבליעל נמשלים לקוץ מורחק, שאי אפשר לעקור בידיים.",
+    "מי שנוגע באנשי הבליעל ייפגע כדוקר מקוץ של ברזל ועץ חנית, ולבסוף הם יישרפו באש במקומם, ללא מגע יד אדם, או במדורה שמכלה אותם.",
+    "בראש הגיבורים נמנה יושב בשבת, הנזכר בנוסח אחר כישבעם בן תחכמוני. הוא היה ראש הגיבורים ונודע גם כעדינו העצני, לאחר שהרג שמונה מאות אויבים בהתקפה אחת.",
+    "אלעזר בן דודו, בן אחוחי, נמנה עם שלושת הגיבורים הראשונים של דוד. הוא סיכן את נפשו במלחמה בפלשתים, שהתאספו לקרב מול ישראל.",
+    "אלעזר נלחם בפלשתים עד שידו התעייפה ונדבקה כביכול לחרב. ה' עשה תשועה גדולה, והעם שב אחריו כדי לפשוט מן החללים את חפציהם.",
+    "שמא בן אגא ההררי עמד מול הפלשתים כאשר העם נס, ובשדה הייתה חלקה מלאה עדשים.",
+    "שמא התייצב בתוך חלקת השדה והציל אותה מידי הפלשתים, וה' עשה תשועה גדולה.",
+    "שלושה מראשי יחידת שלושים הגיבורים באו אל דוד במערת עדולם בזמן הקציר, בשעה שיחידת פלשתים חנתה בעמק רפאים.",
+    "דוד שהה במצודה ליד מערת עדולם, ואילו הכוח הפלשתי חנה בבית לחם, מקום שאינו רחוק מעמק רפאים.",
+    "דוד התאווה למים מבור בית לחם שבשער, כנראה משום שזכר את המים הטובים ששתה בילדותו.",
+    "שלושת הגיבורים חדרו למחנה פלשתים, שאבו מים מבור בית לחם והביאו אותם לדוד. דוד לא הסכים לשתות אותם ושפך אותם לה'.",
+    "דוד ראה במים את דם האנשים שסיכנו את נפשם, ולכן סירב לשתותם. בכך ניכרו גם גבורתם וגם נאמנותם של שלושת הגיבורים, שפעלו מיוזמתם למען משאלתו.",
+    "אבישי בן צרויה, אחי יואב, היה ראש על שלושת הגיבורים האחרים והרג שלוש מאות בחניתו. היה לו שם של כבוד בין שלושת הגיבורים המיוחדים.",
+    "אבישי היה הנכבד ביותר מבין שלושת הגיבורים, ואף נעשה שר עליהם, אך לא הגיע יחד עם השלושה לבית לחם. דרגתו הצבאית הייתה גבוהה יותר.",
+    "בניהו בן יהוידע, איש צבא רב־פעלים מקבצאל, הרג שני לוחמים מיוחדים ממואב והרג אריה שנלכד בבור ביום שלג.",
+    "בניהו הרג איש מצרי בעל מראה מאיים, שהיה בידו חנית. בניהו ירד אליו בשבט, חטף ממנו את החנית והרגו בה.",
+    "בניהו עשה את המעשים הללו וזכה לשם חשוב בין שלושת הגיבורים.",
+    "בניהו היה נכבד משלושים הגיבורים, אך לא הגיע לגבורת השלושה. דוד מינה אותו לאחראי על גדודיו המיוחדים, והוא היה מפקד הכרתי והפלתי.",
+    "עשאל, אחי יואב, נמנה עם שלושים הגיבורים; אלחנן בן דודו היה מבית לחם.",
+    "שמא החרודי ואליקא החרודי, שמוצאו מחרוד, נמנו ברשימה.",
+    "חלץ הפלטי ועירא בן עקש התקועי נמנו ברשימה; עירא בא מתקוע.",
+    "אביעזר הענתתי, מענתות שבבנימין, ומבוני החושתי נמנו ברשימה.",
+    "צלמון האחוחי, המזוהה בשם משפחה משבט בנימין, ומהרי הנטופתי, מנטופה שליד ירושלים, נמנו ברשימה.",
+    "חלב בן בענה הנטופתי ואתי בן ריבי מגבעת בני בנימין נמנו ברשימה.",
+    "בניהו הפרעתוני, מפרעתון שבאפרים, והדי מנחלי געש נמנו ברשימה.",
+    "אבי־עלבון הערבתי ועזמות הברחומי, מבחורים הסמוכה לירושלים ממזרח, נמנו ברשימה.",
+    "אליחבא השעלבוני, משעלבין, ויהונתן מבני ישן נמנו ברשימה.",
+    "שמא ההררי ואחיאם בן שרר האררי נמנו ברשימה.",
+    "אליפלט בן אחסבי בן המעכתי ואליעם בן אחיתופל הגילוני נמנו ברשימה. אליעם, שהיה בנו של אחיתופל, היה אביה של בת שבע, וייתכן שנעשה חותנו של דוד בעל כורחו.",
+    "חצרי הכרמלי ופערי הארבי, שמוצאו מארב, נמנו ברשימה.",
+    "יגאל בן נתן מצובה ובני הגדי, מעבר הירדן, נמנו ברשימה.",
+    "צלק העמוני ונחרי הבארותי נמנו ברשימה; נחרי נשא את כלי יואב בן צרויה, וייתכן שהבארותי והעמוני לא היו מבני ישראל.",
+    "עירא היתרי וגרב היתרי נמנו ברשימה, וייתכן שהיו מאותו שבט או משפחה.",
+    "אוריה החתי נכלל ברשימה. בסך הכול נמנו שלושים ושבעה גיבורים: שלושים ועוד שלושה מעליהם; ייתכן שארבעה אחרים, ובהם יואב, היו בעיקר בעלי תפקידי פיקוד."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "דברי דוד על המלוכה והברית",
+      "title_en": "David's Words on Rule and Covenant",
+      "start_verse": 1,
+      "end_verse": 7,
+      "summary": "דוד מתאר את השראתו ואת תפקידו כמשיח וכמשורר ישראל, ומציג את דמות המושל הצדיק ואת הברית היציבה עם ה'. מול בית הצדיק עומדים אנשי הבליעל, הנמשלים לקוצים שייכלו באש.",
+      "summary_en": "David describes his inspiration and his role as the anointed king and singer of Israel. He presents the righteous ruler and the enduring covenant with God, contrasted with the wicked, who are like thorns consumed by fire.",
+      "image_prompt": "A solemn biblical king speaking beneath clear morning light, a peaceful field of fresh grass behind him, with thorn bushes burning at a distance; respectful ancient Israelite atmosphere, no text"
+    },
+    {
+      "title": "שלושת הגיבורים הראשונים",
+      "title_en": "The First Three Warriors",
+      "start_verse": 8,
+      "end_verse": 12,
+      "summary": "הרשימה פותחת בשלושת הגיבורים: יושב בשבת, אלעזר ושמא. כל אחד מהם מתואר כלוחם יחיד שהכריע אויבים רבים והביא תשועה גדולה.",
+      "summary_en": "The list begins with the three foremost warriors: Josheb-basshebeth, Eleazar, and Shammah. Each is portrayed as a warrior who stood firm alone, defeated many enemies, and brought about a great victory.",
+      "image_prompt": "Three heroic ancient Israelite warriors standing separately in battle scenes: one with a spear, one gripping a sword, and one defending a lentil field; dramatic but historically restrained biblical style, no text"
+    },
+    {
+      "title": "השלושה ומסירותם לדוד",
+      "title_en": "The Three and Their Devotion to David",
+      "start_verse": 13,
+      "end_verse": 19,
+      "summary": "שלושה גיבורים פורצים למחנה הפלשתים כדי להביא לדוד מים מבית לחם. דוד אינו שותה אותם, אלא מנסך אותם לה', ואבישי מתואר כראש השלושה האחרים וכגיבור בעל מעמד מיוחד.",
+      "summary_en": "Three warriors break through the Philistine camp to bring David water from Bethlehem. David refuses to drink it and pours it out to God, while Abishai is presented as the leader of the other three and a warrior of exceptional standing.",
+      "image_prompt": "Three ancient warriors returning at night with a vessel of well water to David near a cave, while David raises the vessel in reverence rather than drinking; Philistine camp suggested in the distance, no text"
+    },
+    {
+      "title": "בניהו ומעמד הגיבורים",
+      "title_en": "Benaiah and the Rank of the Warriors",
+      "start_verse": 20,
+      "end_verse": 23,
+      "summary": "בניהו מתואר בגבורותיו מול לוחמי מואב, אריה ואיש מצרי, וזוכה לשם בין הגיבורים. הוא נכבד משלושים הגיבורים אך אינו מגיע למעלת השלושה, ודוד ממנה אותו על גדודיו המיוחדים.",
+      "summary_en": "Benaiah is described through his exploits against Moabite warriors, a lion, and an Egyptian, earning a distinguished reputation. He is honored above the thirty but does not equal the three, and David appoints him over the special troops.",
+      "image_prompt": "A single biblical warrior confronting an imposing Egyptian while taking his spear, with a snowy pit and a lion suggested in separate background moments; restrained ancient setting, no text"
+    },
+    {
+      "title": "רשימת שלושים הגיבורים",
+      "title_en": "The List of the Thirty Warriors",
+      "start_verse": 24,
+      "end_verse": 39,
+      "summary": "הפסוקים מונים את שלושים הגיבורים הנוספים ואת מוצאם או שיוכם המשפחתי. הרשימה מסתיימת באוריה החתי ובסיכום של שלושים ושבעה גיבורים, תוך ציון האפשרות שחלק מן האחרים היו בעיקר בעלי תפקידי פיקוד.",
+      "summary_en": "These verses list the additional thirty warriors and identify their origins or family affiliations. The list ends with Uriah the Hittite and totals thirty-seven warriors, while noting that some others may have held mainly command roles.",
+      "image_prompt": "A respectful assembly of diverse ancient Israelite warriors gathered before a royal record keeper, with subtle regional clothing differences and scrolls, historical biblical atmosphere, no readable text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 15.02,
+      "usfm": "2SA.23.1"
+    },
+    {
+      "start": 15.02,
+      "end": 20.06,
+      "usfm": "2SA.23.2"
+    },
+    {
+      "start": 20.06,
+      "end": 30.0,
+      "usfm": "2SA.23.3"
+    },
+    {
+      "start": 30.0,
+      "end": 41.98,
+      "usfm": "2SA.23.4"
+    },
+    {
+      "start": 41.98,
+      "end": 57.9,
+      "usfm": "2SA.23.5"
+    },
+    {
+      "start": 57.9,
+      "end": 65.16,
+      "usfm": "2SA.23.6"
+    },
+    {
+      "start": 65.16,
+      "end": 75.84,
+      "usfm": "2SA.23.7"
+    },
+    {
+      "start": 75.84,
+      "end": 91.64,
+      "usfm": "2SA.23.8"
+    },
+    {
+      "start": 91.64,
+      "end": 103.86,
+      "usfm": "2SA.23.9"
+    },
+    {
+      "start": 103.86,
+      "end": 117.74,
+      "usfm": "2SA.23.10"
+    },
+    {
+      "start": 117.74,
+      "end": 129.98,
+      "usfm": "2SA.23.11"
+    },
+    {
+      "start": 129.98,
+      "end": 138.06,
+      "usfm": "2SA.23.12"
+    },
+    {
+      "start": 138.06,
+      "end": 149.02,
+      "usfm": "2SA.23.13"
+    },
+    {
+      "start": 149.02,
+      "end": 154.6,
+      "usfm": "2SA.23.14"
+    },
+    {
+      "start": 154.6,
+      "end": 162.3,
+      "usfm": "2SA.23.15"
+    },
+    {
+      "start": 162.3,
+      "end": 176.98,
+      "usfm": "2SA.23.16"
+    },
+    {
+      "start": 176.98,
+      "end": 190.94,
+      "usfm": "2SA.23.17"
+    },
+    {
+      "start": 190.94,
+      "end": 203.2,
+      "usfm": "2SA.23.18"
+    },
+    {
+      "start": 203.2,
+      "end": 211.78,
+      "usfm": "2SA.23.19"
+    },
+    {
+      "start": 211.78,
+      "end": 226.38,
+      "usfm": "2SA.23.20"
+    },
+    {
+      "start": 226.38,
+      "end": 239.3,
+      "usfm": "2SA.23.21"
+    },
+    {
+      "start": 239.3,
+      "end": 245.74,
+      "usfm": "2SA.23.22"
+    },
+    {
+      "start": 245.74,
+      "end": 254.52,
+      "usfm": "2SA.23.23"
+    },
+    {
+      "start": 254.52,
+      "end": 259.8,
+      "usfm": "2SA.23.24"
+    },
+    {
+      "start": 259.8,
+      "end": 263.24,
+      "usfm": "2SA.23.25"
+    },
+    {
+      "start": 263.24,
+      "end": 267.6,
+      "usfm": "2SA.23.26"
+    },
+    {
+      "start": 267.6,
+      "end": 272.44,
+      "usfm": "2SA.23.27"
+    },
+    {
+      "start": 272.44,
+      "end": 276.76,
+      "usfm": "2SA.23.28"
+    },
+    {
+      "start": 276.76,
+      "end": 285.82,
+      "usfm": "2SA.23.29"
+    },
+    {
+      "start": 285.82,
+      "end": 291.72,
+      "usfm": "2SA.23.30"
+    },
+    {
+      "start": 291.72,
+      "end": 296.6,
+      "usfm": "2SA.23.31"
+    },
+    {
+      "start": 296.6,
+      "end": 302.02,
+      "usfm": "2SA.23.32"
+    },
+    {
+      "start": 302.02,
+      "end": 307.48,
+      "usfm": "2SA.23.33"
+    },
+    {
+      "start": 307.48,
+      "end": 315.14,
+      "usfm": "2SA.23.34"
+    },
+    {
+      "start": 315.14,
+      "end": 318.8,
+      "usfm": "2SA.23.35"
+    },
+    {
+      "start": 318.8,
+      "end": 321.98,
+      "usfm": "2SA.23.36"
+    },
+    {
+      "start": 321.98,
+      "end": 329.56,
+      "usfm": "2SA.23.37"
+    },
+    {
+      "start": 329.56,
+      "end": 333.76,
+      "usfm": "2SA.23.38"
+    },
+    {
+      "start": 333.76,
+      "end": 345.6,
+      "usfm": "2SA.23.39"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    15.02,
+    20.06,
+    30.0,
+    41.98,
+    57.9,
+    65.16,
+    75.84,
+    91.64,
+    103.86,
+    117.74,
+    129.98,
+    138.06,
+    149.02,
+    154.6,
+    162.3,
+    176.98,
+    190.94,
+    203.2,
+    211.78,
+    226.38,
+    239.3,
+    245.74,
+    254.52,
+    259.8,
+    263.24,
+    267.6,
+    272.44,
+    276.76,
+    285.82,
+    291.72,
+    296.6,
+    302.02,
+    307.48,
+    315.14,
+    318.8,
+    321.98,
+    329.56,
+    333.76,
+    345.6
+  ],
+  "times_en_usfm": [
+    "2SA.23.1",
+    "2SA.23.2",
+    "2SA.23.3",
+    "2SA.23.4",
+    "2SA.23.5",
+    "2SA.23.6",
+    "2SA.23.7",
+    "2SA.23.8",
+    "2SA.23.9",
+    "2SA.23.10",
+    "2SA.23.11",
+    "2SA.23.12",
+    "2SA.23.13",
+    "2SA.23.14",
+    "2SA.23.15",
+    "2SA.23.16",
+    "2SA.23.17",
+    "2SA.23.18",
+    "2SA.23.19",
+    "2SA.23.20",
+    "2SA.23.21",
+    "2SA.23.22",
+    "2SA.23.23",
+    "2SA.23.24",
+    "2SA.23.25",
+    "2SA.23.26",
+    "2SA.23.27",
+    "2SA.23.28",
+    "2SA.23.29",
+    "2SA.23.30",
+    "2SA.23.31",
+    "2SA.23.32",
+    "2SA.23.33",
+    "2SA.23.34",
+    "2SA.23.35",
+    "2SA.23.36",
+    "2SA.23.37",
+    "2SA.23.38",
+    "2SA.23.39"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? שמואל ב פרק כ״ג נפתח בכינויי כבוד לדוד: הוא מוצג כבן ישי, כמי שהוקם על ידי ה׳ וכ״נעים זמירות ישראל״ — משורר ישראל.",
+      "text_he": "הידעת? שמואל ב פרק כ״ג נפתח בכינויי כבוד לדוד: הוא מוצג כבן ישי, כמי שהוקם על ידי ה׳ וכ״נעים זמירות ישראל״ — משורר ישראל.",
+      "text_en": "Did you know? 2 Samuel 23 opens with honorific titles for David: he is presented as the son of Jesse, the one appointed by the Lord, and the “sweet psalmist of Israel.”"
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? דוד מעיד ש״רוח ה׳״ דיברה בו ושמילת ה׳ הייתה על לשונו, ובכך הוא מתאר את דבריו כנאמרים בהשראה אלוהית.",
+      "text_he": "הידעת? דוד מעיד ש״רוח ה׳״ דיברה בו ושמילת ה׳ הייתה על לשונו, ובכך הוא מתאר את דבריו כנאמרים בהשראה אלוהית.",
+      "text_en": "Did you know? David testifies that the “Spirit of the Lord” spoke through him and that God’s word was on his tongue, describing his words as divinely inspired."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? דוד מציג עיקרון של הנהגה ראויה: המושל באדם צריך להיות צדיק וירא אלוהים.",
+      "text_he": "הידעת? דוד מציג עיקרון של הנהגה ראויה: המושל באדם צריך להיות צדיק וירא אלוהים.",
+      "text_en": "Did you know? David presents a principle of good leadership: the one who rules over people must be righteous and fear God."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? שלטון צדיק נמשל בפרק לאור בוקר בהיר ולגשם המצמיח דשא — תמונות של ברכה, יציבות והתחדשות.",
+      "text_he": "הידעת? שלטון צדיק נמשל בפרק לאור בוקר בהיר ולגשם המצמיח דשא — תמונות של ברכה, יציבות והתחדשות.",
+      "text_en": "Did you know? Righteous rule is compared in this chapter to the light of a clear morning and to rain that makes grass grow—images of blessing, stability, and renewal."
+    },
+    {
+      "verse": 5,
+      "text": "הידעת? דוד קושר את תקוותו לברית עולם עם ה׳, המתוארת כערוכה ושמורה; לעומתה, אנשי הבליעל נמשלים לקוצים שמושלכים ואינם נלקחים ביד.",
+      "text_he": "הידעת? דוד קושר את תקוותו לברית עולם עם ה׳, המתוארת כערוכה ושמורה; לעומתה, אנשי הבליעל נמשלים לקוצים שמושלכים ואינם נלקחים ביד.",
+      "text_en": "Did you know? David connects his hope to an everlasting covenant with the Lord, described as ordered and secure. By contrast, worthless men are compared to thorns that are thrown away and cannot be picked up by hand."
+    },
+    {
+      "verse": 8,
+      "text": "הידעת? רשימת גיבורי דוד נפתחת ביושב בשבת בן תחכמוני, המכונה גם עדינו העצני וראש השלישים; לפי הכתוב הוא הכה שמונה מאות חלל בפעם אחת.",
+      "text_he": "הידעת? רשימת גיבורי דוד נפתחת ביושב בשבת בן תחכמוני, המכונה גם עדינו העצני וראש השלישים; לפי הכתוב הוא הכה שמונה מאות חלל בפעם אחת.",
+      "text_en": "Did you know? The list of David’s mighty warriors begins with Josheb-basshebeth son of Hachmoni, also called Adino the Eznite and chief of the three; according to the text, he struck down eight hundred men at one time."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? אלעזר בן דודו, מבני אחוחי, נלחם בפלשתים עד שידו דבקה בחרב — תיאור המדגיש את עמידתו הממושכת בקרב.",
+      "text_he": "הידעת? אלעזר בן דודו, מבני אחוחי, נלחם בפלשתים עד שידו דבקה בחרב — תיאור המדגיש את עמידתו הממושכת בקרב.",
+      "text_en": "Did you know? Eleazar son of Dodo, one of the Ahohites, fought the Philistines until his hand clung to his sword—a description emphasizing his endurance in battle."
+    },
+    {
+      "verse": 11,
+      "text": "הידעת? שמא בן אגא נלחם לבדו כדי להגן על חלקת שדה מלאה עדשים, לאחר שהעם נס מפני הפלשתים; גם כאן מודגשת תשועת ה׳.",
+      "text_he": "הידעת? שמא בן אגא נלחם לבדו כדי להגן על חלקת שדה מלאה עדשים, לאחר שהעם נס מפני הפלשתים; גם כאן מודגשת תשועת ה׳.",
+      "text_en": "Did you know? Shammah son of Agee fought alone to defend a field full of lentils after the people fled from the Philistines; here too, the Lord’s deliverance is emphasized."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? שלושה מגיבורי דוד חדרו למחנה פלשתים ושאבו עבורו מים מבאר בית לחם. דוד לא שתה את המים, אלא ניסך אותם לה׳ משום שראה בהם את דם נפשותיהם של מי שסיכנו את חייהם.",
+      "text_he": "הידעת? שלושה מגיבורי דוד חדרו למחנה פלשתים ושאבו עבורו מים מבאר בית לחם. דוד לא שתה את המים, אלא ניסך אותם לה׳ משום שראה בהם את דם נפשותיהם של מי שסיכנו את חייהם.",
+      "text_en": "Did you know? Three of David’s mighty warriors broke through the Philistine camp and drew water for him from the well at Bethlehem. David did not drink it, but poured it out to the Lord because he regarded it as the blood of the men who had risked their lives."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בניהו בן יהוידע נודע בשלוש גבורות שונות: הוא הכה שני גיבורי מואב, ירד לבור ביום שלג והרג אריה, ובהמשך הכה איש מצרי בנשקו שלו.",
+      "text_he": "הידעת? בניהו בן יהוידע נודע בשלוש גבורות שונות: הוא הכה שני גיבורי מואב, ירד לבור ביום שלג והרג אריה, ובהמשך הכה איש מצרי בנשקו שלו.",
+      "text_en": "Did you know? Benaiah son of Jehoiada was known for three separate acts of heroism: he struck down two champions of Moab, went down into a pit on a snowy day and killed a lion, and later struck down an Egyptian with the Egyptian’s own weapon."
+    },
+    {
+      "verse": 23,
+      "text": "הידעת? בניהו היה נכבד משלושים הגיבורים, אך לא הגיע למעלת שלושת הגיבורים הראשונים; דוד מינה אותו על משמעתו.",
+      "text_he": "הידעת? בניהו היה נכבד משלושים הגיבורים, אך לא הגיע למעלת שלושת הגיבורים הראשונים; דוד מינה אותו על משמעתו.",
+      "text_en": "Did you know? Benaiah was honored above the thirty warriors, but he did not attain the rank of the first three; David appointed him over his bodyguard."
+    },
+    {
+      "verse": 39,
+      "text": "הידעת? הרשימה מסתיימת באוריה החתי ומסכמת את מספר הגיבורים בשלושים ושבעה, אף שבמהלך הפרק נזכרים גם מעמדות שונים בתוך קבוצת הגיבורים.",
+      "text_he": "הידעת? הרשימה מסתיימת באוריה החתי ומסכמת את מספר הגיבורים בשלושים ושבעה, אף שבמהלך הפרק נזכרים גם מעמדות שונים בתוך קבוצת הגיבורים.",
+      "text_en": "Did you know? The list ends with Uriah the Hittite and totals thirty-seven warriors, although the chapter also mentions different ranks within the group of mighty warriors."
+    }
+  ]
+}
