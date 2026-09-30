@@ -646,7 +646,7 @@ body.introMode #img{width:100%!important;height:100%!important;object-fit:contai
 }
 /* English idea headings at the beginning of each idea: slightly smaller. */
 .ideaBesideVerse.englishIdeaHeading{
-  font-size:clamp(19px,3.05vw,25px)!important;
+  font-size:clamp(21px,3.4vw,28px)!important;
   line-height:1.18!important;
 }
 /* Move only the English Did-you-know bulb 7px to the right. */
@@ -670,7 +670,7 @@ body.introMode #img{width:100%!important;height:100%!important;object-fit:contai
 <style>
 /* Larger English verse text */
 .verse.englishVerse{
-  font-size:clamp(23px,3.9vw,33px)!important;
+  font-size:clamp(23px,4vw,35px)!important;
   line-height:1.10!important;
 }
 </style>
@@ -724,7 +724,7 @@ body.lang-he .card.active .verse{
 body.lang-en .verse.englishVerse{
  display:block!important;visibility:visible!important;opacity:1!important;
  color:#f4c84a!important;font-weight:800!important;
- font-size:clamp(23px,3.9vw,33px)!important;line-height:1.18!important;
+ font-size:clamp(23px,4vw,35px)!important;line-height:1.18!important;
  text-align:left!important;direction:ltr!important;margin:6px 0 8px!important;
 }
 body.lang-en .verseAudioBtn{
@@ -754,7 +754,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
  color:#f4c84a!important;
  font-family:"Segoe UI",Arial,Helvetica,sans-serif!important;
  font-weight:800!important;
- font-size:clamp(23px,3.9vw,33px)!important;
+ font-size:clamp(23px,4vw,35px)!important;
  line-height:1.18!important;
  text-align:left!important;
  direction:ltr!important;
@@ -774,7 +774,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
  display:block!important;visibility:visible!important;opacity:1!important;
  height:auto!important;max-height:none!important;overflow:visible!important;
  color:#f4c84a!important;font-family:"Segoe UI",Arial,Helvetica,sans-serif!important;
- font-weight:800!important;font-size:clamp(23px,3.9vw,33px)!important;
+ font-weight:800!important;font-size:clamp(23px,4vw,35px)!important;
  line-height:1.18!important;text-align:left!important;direction:ltr!important;
  margin:7px 0 10px!important;padding:0!important;
 }
@@ -890,7 +890,7 @@ const sel=document.getElementById('sel'),cards=document.getElementById('cards'),
 const BOOKS=[
   {id:'genesis',name:'בראשית',nameEn:'Genesis',chapters:50},{id:'exodus',name:'שמות',nameEn:'Exodus',chapters:40},{id:'leviticus',name:'ויקרא',nameEn:'Leviticus',chapters:27},{id:'numbers',name:'במדבר',nameEn:'Numbers',chapters:36},{id:'deuteronomy',name:'דברים',nameEn:'Deuteronomy',chapters:34},
   {id:'joshua',name:'יהושע',nameEn:'Joshua',chapters:24},{id:'judges',name:'שופטים',nameEn:'Judges',chapters:21},{id:'samuel1',name:'שמואל א',nameEn:'I Samuel',chapters:31},{id:'samuel2',name:'שמואל ב',nameEn:'II Samuel',chapters:24},{id:'kings1',name:'מלכים א',nameEn:'I Kings',chapters:22},{id:'kings2',name:'מלכים ב',nameEn:'II Kings',chapters:25},
-  {id:'isaiah',name:'ישעיהו',nameEn:'Isaiah',chapters:66},{id:'jeremiah',name:'ירמיהו',nameEn:'Jeremiah',chapters:52},{id:'ezekiel',name:'יחזקאל',nameEn:'Ezekiel',chapters:48},{id:'hosea',name:'הושע',nameEn:'Hosea',chapters:14},{id:'joel',name:'יואל',nameEn:'Joel',chapters:3},{id:'amos',name:'עמוס',nameEn:'Amos',chapters:9},{id:'obadiah',name:'עובדיה',nameEn:'Obadiah',chapters:1},{id:'jonah',name:'יונה',nameEn:'Jonah',chapters:4},{id:'micah',name:'מיכה',nameEn:'Micah',chapters:7},{id:'nahum',name:'נחום',nameEn:'Nahum',chapters:3},{id:'habakkuk',name:'חבקוק',nameEn:'Habakkuk',chapters:3},{id:'zephaniah',name:'צפניה',nameEn:'Zephaniah',chapters:3},{id:'haggai',name:'חגי',nameEn:'Haggai',chapters:2},{id:'zechariah',name:'זכריה',nameEn:'Zechariah',chapters:14},{id:'malachi',name:'מלאכי',nameEn:'Malachi',chapters:4},
+  {id:'isaiah',name:'ישעיהו',nameEn:'Isaiah',chapters:66},{id:'jeremiah',name:'ירמיהו',nameEn:'Jeremiah',chapters:52},{id:'ezekiel',name:'יחזקאל',nameEn:'Ezekiel',chapters:48},{id:'hosea',name:'הושע',nameEn:'Hosea',chapters:14},{id:'joel',name:'יואל',nameEn:'Joel',chapters:4},{id:'amos',name:'עמוס',nameEn:'Amos',chapters:9},{id:'obadiah',name:'עובדיה',nameEn:'Obadiah',chapters:1},{id:'jonah',name:'יונה',nameEn:'Jonah',chapters:4},{id:'micah',name:'מיכה',nameEn:'Micah',chapters:7},{id:'nahum',name:'נחום',nameEn:'Nahum',chapters:3},{id:'habakkuk',name:'חבקוק',nameEn:'Habakkuk',chapters:3},{id:'zephaniah',name:'צפניה',nameEn:'Zephaniah',chapters:3},{id:'haggai',name:'חגי',nameEn:'Haggai',chapters:2},{id:'zechariah',name:'זכריה',nameEn:'Zechariah',chapters:14},{id:'malachi',name:'מלאכי',nameEn:'Malachi',chapters:3},
   {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
 ];
 let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
