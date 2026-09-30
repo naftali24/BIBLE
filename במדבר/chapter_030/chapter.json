@@ -67,126 +67,99 @@
     "אֵלֶּה הַחֻקִּים אֲשֶׁר צִוָּה ה' אֶת משֶׁה בֵּין אִישׁ לְאִשְׁתּוֹ, בֵּין אָב לְבִתּוֹ בִּנְעֻרֶיהָ בֵּית אָבִיהָ. היא אחת המשימות האחרונות המוטלות עליו. משה מסר לישראל את תורת ה', המבוססת על הנאמנות לה' ולמצוותיו. לפני מותו יחלץ משה את עמו מאימת נכליהם של המדינים ויגן עליו מפני גילוי עריות ועבודה זרה."
   ],
   "ai_explanation": [
-    "משה מוסר לבני ישראל את אשר ציווה ה', ובהקשר זה מדובר בקרבנות המוספים של מועדי השנה.",
-    "משה מדבר אל ראשי המטות, כלומר אל ראשי השבטים המשמשים כמועצה העליונה של עם ישראל, ומציג את דבר ה'.",
-    "אדם שנדר לה' או נשבע להימנע מעשייה או מקבלת הנאה כלשהי חייב לקיים את כל מה שהוציא מפיו, ואסור לו לחלל את דברו.",
-    "אישה הנמצאת בבית אביה, כלומר אינה נשואה, נודרת נדר או אוסרת על עצמה דבר.",
-    "אם האב שומע את נדרה ואינו מתנגד לו, הנדרים והאיסורים מתקיימים והיא חייבת לקיימם.",
-    "אם האב מבטל את הנדר ביום שבו שמע עליו, הנדרים והאיסורים אינם חלים, וה' יסלח לה משום שלא הפרה את דברה מרצונה.",
-    "אם נערה שנדרה כשהייתה רווקה התקדשה או התארסה לאחר מכן לאיש, נדריה ואיסוריה עדיין עומדים עליה עד לבירור עמדתו.",
-    "אם בעלה שומע על נדר שנדרה קודם לכן ושותק ביום שבו שמע עליו, הנדרים והאיסורים מתקיימים.",
-    "אם הבעל מביע התנגדות ומפר את הנדר ביום שבו שמע עליו, הנדר בטל וה' יסלח לה, משום שעליה לעשות את רצון בעלה.",
-    "נדרה של אלמנה או גרושה מתקיים, מפני שאינה כפופה עוד לסמכות אביה או בעלה.",
-    "אם אישה נדרה או נשבעה בזמן שהייתה נשואה, נדריה נתונים להמשך הסדרת מעמדו של בעלה.",
-    "אם הבעל שומע על הנדר ושותק ואינו מעכב אותו, כל הנדרים והאיסורים מתקיימים.",
-    "אם הבעל מפר את הנדר ביום שבו שמע עליו, הנדר אינו מתקיים, וה' יסלח לה.",
-    "זכות הבעל להפר נדרים אינה חלה על כל סוגי הנדרים, אלא על נדרי עינוי נפש או על נדרים הנוגעים ליחסים שביניהם.",
-    "אם הבעל שותק במשך יום שלם לאחר ששמע את הנדר, בכך הוא מקים אותו, ולא ניתן עוד להפר אותו.",
-    "אם הבעל מנסה להפר את הנדר לאחר ששמע עליו ולא הגיב באותו יום, הוא נושא באשמת חילול הנדר, ולא האישה.",
-    "אלה החוקים המסדירים את היחסים בין איש לאשתו ובין אב לבתו הצעירה הנמצאת בבית אביה. לפי שטיינזלץ, זהו אחד התפקידים האחרונים של משה: למסור לישראל את תורת ה', ובטרם מותו להגן על העם מפני נכלי המדיינים, גילוי עריות ועבודה זרה."
+    "משה מוסר לבני ישראל את כל מה שציווה ה', ובפרט את ההוראות בעניין קרבנות המוספים של מועדי השנה.",
+    "משה פונה אל ראשי השבטים, המשמשים כמועצה העליונה של עם ישראל, ומודיע להם שזהו הדבר שה' ציווה.",
+    "אדם הנודר נדר לה' או נשבע להימנע ממעשה או מהנאה מסוימים חייב לקיים את כל מה שהוציא מפיו, ואסור לו לחלל או לבטל את דברו.",
+    "כאשר אישה שאינה נשואה ונמצאת בבית אביה נודרת נדר או אוסרת על עצמה דבר, נכנסים לתמונה סמכות האב וההיבטים החברתיים של הנדר.",
+    "אם האב שומע על הנדר ואינו מתערב או מביע התנגדות, הנדרים והאיסורים מתקיימים, והיא חייבת לקיימם.",
+    "אם האב מבטל את הנדר ביום שבו הוא שומע עליו, הנדרים והאיסורים אינם חלים. ה' יסלח לה, משום שלא הפרה את דיבורה מרצונה אלא בעקבות התערבות אביה.",
+    "אם נערה שנדרה כשהייתה רווקה התקדשה לאיש, נדריה או ביטויי שפתיה שאסרו עליה דבר עדיין עומדים עליה עד שתישמע עמדת בעלה.",
+    "אם הבעל שומע על הנדר ואינו מתנגד לו באותו יום, הנדרים והאיסורים מתקיימים.",
+    "אם הבעל מתנגד לנדר ומפר אותו ביום שבו הוא שומע עליו, הנדר אינו מתקיים, וה' יסלח לה משום שעליה לעשות את רצון בעלה.",
+    "נדר של אלמנה או גרושה מתקיים, משום שהיא אינה כפופה עוד לסמכות האב או הבעל.",
+    "אם אישה נדרה או נשבעה בזמן שהייתה נשואה, חלים עליה דיני הנדרים של אישה בבית בעלה.",
+    "אם הבעל שומע על הנדר ואינו מעכב או מבטל אותו, כל הנדרים והאיסורים מתקיימים.",
+    "אם הבעל מפר את הנדרים ביום שבו הוא שומע עליהם, דברי שפתיה אינם מתקיימים, וה' יסלח לה.",
+    "זכות הבעל להפר נדרים אינה חלה על כל הנדרים, אלא על נדרי עינוי נפש או על נדרים הנוגעים ליחסים שביניהם.",
+    "אם הבעל שותק מיום שמיעתו והלאה, שתיקתו מקיימת את הנדרים והאיסורים, ולא ניתן עוד להפר אותם.",
+    "אם הבעל מנסה להפר את הנדרים לאחר ששמע עליהם ולא הגיב באותו יום, הוא נושא בעוון חילול הנדר, ולא האישה, שסברה בטעות שהוא עדיין רשאי להפרו.",
+    "החוקים עוסקים ביחסים שבין איש לאשתו ובין אב לבתו הנערה בבית אביה. לפי הפירוש שסופק, זהו חלק ממשימותיו האחרונות של משה: למסור את תורת ה' ולהגן על העם מפני נכלי המדיינים, גילוי עריות ועבודה זרה."
   ],
   "ai_explanation_en": [
-    "Moses conveys to the Israelites what God commanded; in this context, the subject is the additional offerings of the festivals.",
-    "Moses speaks to the heads of the tribes, meaning the tribal leaders who serve as the supreme council of Israel, and presents God's command.",
-    "A person who makes a vow to God or swears to refrain from an action or from receiving some benefit must fulfill everything he has spoken and may not profane his word.",
-    "A woman who is in her father's household, meaning that she is unmarried, makes a vow or imposes a prohibition on herself.",
-    "If her father hears her vow and does not object, the vows and prohibitions remain valid, and she is obligated to fulfill them.",
-    "If her father annuls the vow on the day he hears it, the vows and prohibitions do not take effect, and God forgives her because she did not break her word deliberately.",
-    "If a girl who made a vow while unmarried later becomes betrothed or married to a man, her vows and prohibitions still remain in force until his position is determined.",
-    "If her husband hears about a vow she made previously and remains silent on the day he hears it, the vows and prohibitions remain valid.",
-    "If the husband objects and annuls the vow on the day he hears it, the vow is canceled, and God forgives her because she must follow her husband's wishes.",
-    "A vow made by a widow or divorcee remains valid, because she is no longer subject to the authority of her father or husband.",
-    "If a woman makes a vow or swears while married, the status of her vows depends on the further legal response of her husband.",
-    "If the husband hears the vow and remains silent without stopping it, all the vows and prohibitions remain valid.",
-    "If the husband annuls the vow on the day he hears it, the vow does not remain in force, and God forgives her.",
-    "The husband's right to annul vows does not apply to every type of vow, but to vows involving self-denial or matters concerning the relationship between the spouses.",
-    "If the husband remains silent for an entire day after hearing the vow, he thereby confirms it, and it can no longer be annulled.",
-    "If the husband tries to annul the vow after hearing it but failed to respond that same day, he bears responsibility for the violation of the vow, not the woman.",
-    "These are the laws governing the relationship between a man and his wife and between a father and his young daughter who remains in her father's household. According to Steinsaltz, this is one of Moses' final tasks: to transmit God's Torah to Israel and, before his death, to protect the people from the Midianites' schemes, sexual immorality, and idolatry."
+    "Moses conveys to the Israelites everything that God commanded, especially the instructions concerning the additional sacrifices of the festivals.",
+    "Moses addresses the heads of the tribes, who serve as the supreme council of Israel, and tells them that this is what God has commanded.",
+    "A person who makes a vow to God or swears to refrain from a particular act or benefit must fulfill everything he has said and may not profane or cancel his word.",
+    "When an unmarried woman living in her father’s house makes a vow or forbids something to herself, the father’s authority and the social aspects of the vow become relevant.",
+    "If the father hears the vow and does not intervene or object, the vows and prohibitions remain valid, and she is obligated to fulfill them.",
+    "If the father cancels the vow on the day he hears it, the vows and prohibitions do not take effect. God will forgive her because she did not break her word voluntarily, but because of her father’s intervention.",
+    "If a young woman who made a vow while unmarried later becomes betrothed, her vows or spoken prohibitions remain binding until her husband’s position is heard.",
+    "If the husband hears about the vow and does not object on that day, the vows and prohibitions remain valid.",
+    "If the husband objects to and cancels the vow on the day he hears about it, the vow does not remain in force, and God will forgive her because she must follow her husband’s wishes.",
+    "A vow made by a widow or divorced woman remains valid because she is no longer subject to the authority of a father or husband.",
+    "If a woman makes a vow or takes an oath while married, the laws governing a woman in her husband’s household apply to her.",
+    "If the husband hears about the vow and does not prevent or cancel it, all the vows and prohibitions remain valid.",
+    "If the husband cancels the vows on the day he hears about them, her spoken commitments do not remain in force, and God will forgive her.",
+    "The husband’s right to cancel vows does not apply to every vow, but only to vows involving personal affliction or vows affecting the relationship between the spouses.",
+    "If the husband remains silent from the day he hears the vow onward, his silence confirms the vows and prohibitions, and they can no longer be cancelled.",
+    "If the husband tries to cancel the vows after hearing them without responding that same day, he bears the guilt for the violation of the vow, not the woman, who mistakenly thought he still had the authority to cancel it.",
+    "These laws concern the relationship between a man and his wife and between a father and his unmarried daughter in her father’s household. According to the supplied commentary, this is part of Moses’ final tasks: transmitting God’s Torah and protecting the people from the schemes of Midian, sexual immorality, and idolatry."
   ],
   "perush": [
-    "משה מוסר לבני ישראל את אשר ציווה ה', ובהקשר זה מדובר בקרבנות המוספים של מועדי השנה.",
-    "משה מדבר אל ראשי המטות, כלומר אל ראשי השבטים המשמשים כמועצה העליונה של עם ישראל, ומציג את דבר ה'.",
-    "אדם שנדר לה' או נשבע להימנע מעשייה או מקבלת הנאה כלשהי חייב לקיים את כל מה שהוציא מפיו, ואסור לו לחלל את דברו.",
-    "אישה הנמצאת בבית אביה, כלומר אינה נשואה, נודרת נדר או אוסרת על עצמה דבר.",
-    "אם האב שומע את נדרה ואינו מתנגד לו, הנדרים והאיסורים מתקיימים והיא חייבת לקיימם.",
-    "אם האב מבטל את הנדר ביום שבו שמע עליו, הנדרים והאיסורים אינם חלים, וה' יסלח לה משום שלא הפרה את דברה מרצונה.",
-    "אם נערה שנדרה כשהייתה רווקה התקדשה או התארסה לאחר מכן לאיש, נדריה ואיסוריה עדיין עומדים עליה עד לבירור עמדתו.",
-    "אם בעלה שומע על נדר שנדרה קודם לכן ושותק ביום שבו שמע עליו, הנדרים והאיסורים מתקיימים.",
-    "אם הבעל מביע התנגדות ומפר את הנדר ביום שבו שמע עליו, הנדר בטל וה' יסלח לה, משום שעליה לעשות את רצון בעלה.",
-    "נדרה של אלמנה או גרושה מתקיים, מפני שאינה כפופה עוד לסמכות אביה או בעלה.",
-    "אם אישה נדרה או נשבעה בזמן שהייתה נשואה, נדריה נתונים להמשך הסדרת מעמדו של בעלה.",
-    "אם הבעל שומע על הנדר ושותק ואינו מעכב אותו, כל הנדרים והאיסורים מתקיימים.",
-    "אם הבעל מפר את הנדר ביום שבו שמע עליו, הנדר אינו מתקיים, וה' יסלח לה.",
-    "זכות הבעל להפר נדרים אינה חלה על כל סוגי הנדרים, אלא על נדרי עינוי נפש או על נדרים הנוגעים ליחסים שביניהם.",
-    "אם הבעל שותק במשך יום שלם לאחר ששמע את הנדר, בכך הוא מקים אותו, ולא ניתן עוד להפר אותו.",
-    "אם הבעל מנסה להפר את הנדר לאחר ששמע עליו ולא הגיב באותו יום, הוא נושא באשמת חילול הנדר, ולא האישה.",
-    "אלה החוקים המסדירים את היחסים בין איש לאשתו ובין אב לבתו הצעירה הנמצאת בבית אביה. לפי שטיינזלץ, זהו אחד התפקידים האחרונים של משה: למסור לישראל את תורת ה', ובטרם מותו להגן על העם מפני נכלי המדיינים, גילוי עריות ועבודה זרה."
+    "משה מוסר לבני ישראל את כל מה שציווה ה', ובפרט את ההוראות בעניין קרבנות המוספים של מועדי השנה.",
+    "משה פונה אל ראשי השבטים, המשמשים כמועצה העליונה של עם ישראל, ומודיע להם שזהו הדבר שה' ציווה.",
+    "אדם הנודר נדר לה' או נשבע להימנע ממעשה או מהנאה מסוימים חייב לקיים את כל מה שהוציא מפיו, ואסור לו לחלל או לבטל את דברו.",
+    "כאשר אישה שאינה נשואה ונמצאת בבית אביה נודרת נדר או אוסרת על עצמה דבר, נכנסים לתמונה סמכות האב וההיבטים החברתיים של הנדר.",
+    "אם האב שומע על הנדר ואינו מתערב או מביע התנגדות, הנדרים והאיסורים מתקיימים, והיא חייבת לקיימם.",
+    "אם האב מבטל את הנדר ביום שבו הוא שומע עליו, הנדרים והאיסורים אינם חלים. ה' יסלח לה, משום שלא הפרה את דיבורה מרצונה אלא בעקבות התערבות אביה.",
+    "אם נערה שנדרה כשהייתה רווקה התקדשה לאיש, נדריה או ביטויי שפתיה שאסרו עליה דבר עדיין עומדים עליה עד שתישמע עמדת בעלה.",
+    "אם הבעל שומע על הנדר ואינו מתנגד לו באותו יום, הנדרים והאיסורים מתקיימים.",
+    "אם הבעל מתנגד לנדר ומפר אותו ביום שבו הוא שומע עליו, הנדר אינו מתקיים, וה' יסלח לה משום שעליה לעשות את רצון בעלה.",
+    "נדר של אלמנה או גרושה מתקיים, משום שהיא אינה כפופה עוד לסמכות האב או הבעל.",
+    "אם אישה נדרה או נשבעה בזמן שהייתה נשואה, חלים עליה דיני הנדרים של אישה בבית בעלה.",
+    "אם הבעל שומע על הנדר ואינו מעכב או מבטל אותו, כל הנדרים והאיסורים מתקיימים.",
+    "אם הבעל מפר את הנדרים ביום שבו הוא שומע עליהם, דברי שפתיה אינם מתקיימים, וה' יסלח לה.",
+    "זכות הבעל להפר נדרים אינה חלה על כל הנדרים, אלא על נדרי עינוי נפש או על נדרים הנוגעים ליחסים שביניהם.",
+    "אם הבעל שותק מיום שמיעתו והלאה, שתיקתו מקיימת את הנדרים והאיסורים, ולא ניתן עוד להפר אותם.",
+    "אם הבעל מנסה להפר את הנדרים לאחר ששמע עליהם ולא הגיב באותו יום, הוא נושא בעוון חילול הנדר, ולא האישה, שסברה בטעות שהוא עדיין רשאי להפרו.",
+    "החוקים עוסקים ביחסים שבין איש לאשתו ובין אב לבתו הנערה בבית אביה. לפי הפירוש שסופק, זהו חלק ממשימותיו האחרונות של משה: למסור את תורת ה' ולהגן על העם מפני נכלי המדיינים, גילוי עריות ועבודה זרה."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "פתיחת הדברים ומסירת הציווי",
-      "title_en": "Opening and Transmission of the Command",
+      "title": "העברת הציווי וקדושת הדיבור",
+      "title_en": "Transmitting the Command and the Sanctity of Speech",
       "start_verse": 1,
-      "end_verse": 2,
-      "summary": "משה מוסר לבני ישראל את ציווי ה', ובהקשר המיידי מדובר בקרבנות המוספים של מועדי השנה. הוא פונה אל ראשי המטות, ראשי השבטים המשמשים כמועצה העליונה של העם.",
-      "summary_en": "Moses conveys God's command to the Israelites, with the immediate context being the additional offerings of the festivals. He addresses the heads of the tribes, who serve as the people's supreme council.",
-      "image_prompt": "Moses addressing the leaders of the twelve tribes in an ancient Israelite camp, solemn educational gathering, respectful biblical atmosphere, no text"
-    },
-    {
-      "title": "חובת קיום הנדר",
-      "title_en": "The Obligation to Fulfill a Vow",
-      "start_verse": 3,
       "end_verse": 3,
-      "summary": "כל אדם שנדר או נשבע להימנע מדבר מסוים חייב לקיים את כל מה שהוציא מפיו ואסור לו לחלל את דברו.",
-      "summary_en": "Anyone who makes a vow or swears to refrain from something must fulfill everything he has spoken and may not profane his word.",
-      "image_prompt": "An ancient Israelite making a solemn vow before God, symbolic spoken words and committed expression, biblical illustration, no text"
+      "summary": "משה מוסר לישראל את ציווי ה', פונה אל ראשי המטות, ומלמד שכל אדם חייב לקיים נדר או שבועה שהוציא מפיו.",
+      "summary_en": "Moses conveys God’s command to Israel, addresses the tribal leaders, and teaches that every person must fulfill a vow or oath spoken aloud.",
+      "image_prompt": "Moses addressing the tribal leaders and the people of Israel in a solemn assembly, ancient desert camp, dignified biblical atmosphere, no text"
     },
     {
-      "title": "נדרי נערה בבית אביה",
-      "title_en": "The Vows of a Girl in Her Father's House",
+      "title": "נדרי אישה בבית אביה ובמעבר לנישואין",
+      "title_en": "A Woman’s Vows in Her Father’s House and at Betrothal",
       "start_verse": 4,
-      "end_verse": 6,
-      "summary": "נערה הנמצאת בבית אביה נדרשת לקיים את נדריה אם אביה שומע ואינו מתנגד. אם האב מבטל את הנדר ביום שבו שמע עליו, הנדר בטל והיא אינה נחשבת כמחללת את דיבורה.",
-      "summary_en": "A girl living in her father's household must fulfill her vows if her father hears them and does not object. If he annuls the vow on the day he hears it, the vow is canceled and she is not considered to have broken her word.",
-      "image_prompt": "A young unmarried woman in her father's household speaking with her father, an ancient Israelite family setting, visual contrast between consent and objection, no text"
-    },
-    {
-      "title": "נדרים שנעשו לפני הנישואין",
-      "title_en": "Vows Made Before Marriage",
-      "start_verse": 7,
       "end_verse": 9,
-      "summary": "אם נערה נדרה כשהייתה רווקה ולאחר מכן התקדשה או התארסה, בעלה שומע את הנדר ויכול לאשרו בשתיקה או להפר אותו ביום שבו שמע עליו. במקרה של הפרה, ה' יסלח לה.",
-      "summary_en": "If a girl made a vow while unmarried and was later betrothed or married, her husband may confirm it by remaining silent or annul it on the day he hears it. If he annuls it, God forgives her.",
-      "image_prompt": "A newly betrothed woman and her future husband discussing an earlier vow in an ancient Israelite setting, thoughtful and solemn, no text"
+      "summary": "הפסוקים מתארים את מעמד נדריה של נערה בבית אביה ואת האפשרות שהאב או הבעל ישאירו את הנדר בתוקף או יבטלו אותו ביום שמיעתם.",
+      "summary_en": "These verses describe the status of a young woman’s vows in her father’s house and the possibility that her father or husband will either uphold or cancel them on the day they hear them.",
+      "image_prompt": "A young biblical woman in her father’s household, with her father and future husband listening solemnly, ancient Israelite interior, respectful educational illustration, no text"
     },
     {
       "title": "נדרי אלמנה, גרושה ואישה נשואה",
-      "title_en": "Vows of a Widow, Divorcee, and Married Woman",
+      "title_en": "The Vows of a Widow, Divorced Woman, and Married Woman",
       "start_verse": 10,
-      "end_verse": 13,
-      "summary": "נדרי אלמנה או גרושה מתקיימים ללא סמכות המפרה אותם. אצל אישה נשואה, שתיקת הבעל מקיימת את הנדר, ואילו הפרתו ביום שבו שמע עליו מבטלת אותו.",
-      "summary_en": "The vows of a widow or divorcee remain valid without another authority to annul them. For a married woman, the husband's silence confirms the vow, while his annulment on the day he hears it cancels it.",
-      "image_prompt": "Three symbolic scenes of an ancient Israelite widow, divorcee, and married woman, each representing a different status of vows, dignified biblical illustration, no text"
+      "end_verse": 14,
+      "summary": "נדרי אלמנה או גרושה מתקיימים ללא סמכות אב או בעל, ואילו אצל אישה נשואה ניתנת לבעל סמכות מוגבלת הנוגעת בעיקר לנדרי עינוי נפש ולנדרים הקשורים ליחסים ביניהם.",
+      "summary_en": "The vows of a widow or divorced woman remain valid without a father’s or husband’s authority, while a married husband has limited authority, mainly concerning vows of personal affliction or vows affecting their relationship.",
+      "image_prompt": "Three respectful biblical scenes showing a widow, a divorced woman, and a married woman with her husband, symbolic household settings in ancient Israel, cohesive educational artwork, no text"
     },
     {
-      "title": "גבולות סמכות הבעל וזמן ההפרה",
-      "title_en": "The Limits and Timing of the Husband's Authority",
-      "start_verse": 14,
-      "end_verse": 16,
-      "summary": "סמכות הבעל להפר נדרים מוגבלת לנדרי עינוי נפש או לנדרים הנוגעים ליחסי בני הזוג. שתיקה במשך יום מקיימת את הנדר, והפרה מאוחרת מטילה על הבעל את האחריות לעוון.",
-      "summary_en": "The husband's authority to annul vows is limited to vows involving self-denial or the relationship between the spouses. Silence for a day confirms the vow, while a late annulment makes the husband responsible for the resulting offense.",
-      "image_prompt": "An ancient Israelite husband considering a vow within the household, a sundial or passage of one day symbolizing the deadline, serious biblical scene, no text"
-    },
-    {
-      "title": "סיכום חוקי הנדרים ותפקיד משה",
-      "title_en": "Summary of the Laws and Moses' Final Task",
-      "start_verse": 17,
+      "title": "שתיקה, הפרה מאוחרת וסיכום החוקים",
+      "title_en": "Silence, Delayed Cancellation, and the Summary of the Laws",
+      "start_verse": 15,
       "end_verse": 17,
-      "summary": "הפסוק מסכם את החוקים הנוגעים ליחסים בין איש לאשתו ובין אב לבתו הצעירה שבבית אביה. לפי שטיינזלץ, זהו אחד מתפקידיו האחרונים של משה במסירת תורת ה' ובהגנת העם מפני נכלי המדיינים, גילוי עריות ועבודה זרה.",
-      "summary_en": "The verse summarizes the laws concerning a man and his wife and a father and his young daughter in her father's household. According to Steinsaltz, this is one of Moses' final tasks in transmitting God's Torah and protecting the people from the Midianites' schemes, sexual immorality, and idolatry.",
-      "image_prompt": "Elderly Moses delivering final teachings to the Israelites, with the people gathered attentively and a sense of impending transition, biblical landscape, no text"
+      "summary": "שתיקה ביום שמיעת הנדר מקיימת אותו, והפרה מאוחרת מטילה את האחריות על הבעל. בסיום מודגש שהחוקים עוסקים ביחסים שבין איש לאשתו ובין אב לבתו, כחלק ממשימותיו האחרונות של משה.",
+      "summary_en": "Silence on the day the vow is heard confirms it, while a delayed cancellation places responsibility on the husband. The chapter concludes by emphasizing that these laws concern husbands and wives and fathers and daughters, as part of Moses’ final tasks.",
+      "image_prompt": "Moses giving final legal teachings to Israel, with families listening attentively in the desert camp, solemn farewell atmosphere, biblical educational illustration, no text"
     }
   ],
   "times": [],
@@ -312,5 +285,67 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "משה מוסר לבני ישראל את הדברים כפי שציווה ה', ומדגיש בכך שהחוקים הנאמרים בפרק הם ציווי אלוהי המועבר באמצעותו.",
+      "text_he": "משה מוסר לבני ישראל את הדברים כפי שציווה ה', ומדגיש בכך שהחוקים הנאמרים בפרק הם ציווי אלוהי המועבר באמצעותו.",
+      "text_en": "Moses conveys these words to the Israelites as the Lord commanded, emphasizing that the laws in the chapter are divine commands delivered through him."
+    },
+    {
+      "verse": 2,
+      "text": "הציווי נמסר אל ראשי המטות, ונפתח במילים \"זה הדבר\" — פתיחה המדגישה את חשיבותו ותוקפו של המסר.",
+      "text_he": "הציווי נמסר אל ראשי המטות, ונפתח במילים \"זה הדבר\" — פתיחה המדגישה את חשיבותו ותוקפו של המסר.",
+      "text_en": "The command is given to the heads of the tribes and begins with the words “This is the word,” emphasizing the importance and authority of the message."
+    },
+    {
+      "verse": 3,
+      "text": "הפרק מלמד על מחויבות למילים שנאמרו: אדם שנדר נדר או נשבע שבועה חייב לקיים את כל היוצא מפיו, ואסור לו לחלל את דברו.",
+      "text_he": "הפרק מלמד על מחויבות למילים שנאמרו: אדם שנדר נדר או נשבע שבועה חייב לקיים את כל היוצא מפיו, ואסור לו לחלל את דברו.",
+      "text_en": "The chapter teaches the importance of keeping one’s word: anyone who makes a vow or swears an oath must fulfill everything he has spoken and must not break his word."
+    },
+    {
+      "verse": 5,
+      "text": "כאשר נערה נמצאת בבית אביה, שתיקת אביה ביום שבו שמע את נדרה או איסרה משאירה אותם בתוקף.",
+      "text_he": "כאשר נערה נמצאת בבית אביה, שתיקת אביה ביום שבו שמע את נדרה או איסרה משאירה אותם בתוקף.",
+      "text_en": "When a young woman is living in her father’s house, her father’s silence on the day he hears her vow or binding obligation allows them to remain in force."
+    },
+    {
+      "verse": 6,
+      "text": "לאב ניתנת אפשרות להניא את בתו מנדרה ביום שמיעתו; במקרה כזה הנדרים והאיסרים שלה אינם מתקיימים, והפסוק מציין שה' יסלח לה.",
+      "text_he": "לאב ניתנת אפשרות להניא את בתו מנדרה ביום שמיעתו; במקרה כזה הנדרים והאיסרים שלה אינם מתקיימים, והפסוק מציין שה' יסלח לה.",
+      "text_en": "A father may disallow his daughter’s vow on the day he hears it. In that case, her vows and binding obligations do not remain in force, and the verse says that the Lord will forgive her."
+    },
+    {
+      "verse": 9,
+      "text": "נדריה של אלמנה או גרושה מתקיימים עליה, בניגוד למקרים שבהם הכתוב מתאר סמכות של אב או בעל להתערב בנדר.",
+      "text_he": "נדריה של אלמנה או גרושה מתקיימים עליה, בניגוד למקרים שבהם הכתוב מתאר סמכות של אב או בעל להתערב בנדר.",
+      "text_en": "The vows of a widow or a divorced woman remain binding on her, unlike cases in which Scripture describes a father or husband having authority to intervene in a vow."
+    },
+    {
+      "verse": 13,
+      "text": "בעניין אישה נשואה, הכתוב מתאר שהבעל יכול לקיים או להפר נדר או שבועת איסר, ובייחוד נדרים הקשורים לעינוי נפש.",
+      "text_he": "בעניין אישה נשואה, הכתוב מתאר שהבעל יכול לקיים או להפר נדר או שבועת איסר, ובייחוד נדרים הקשורים לעינוי נפש.",
+      "text_en": "Regarding a married woman, Scripture explains that her husband can confirm or annul a vow or an oath of obligation, especially vows involving self-denial."
+    },
+    {
+      "verse": 15,
+      "text": "אם הבעל שומע את הנדר ושותק מיום ליום, שתיקתו נחשבת כהקמת הנדרים או האיסרים, והם נשארים בתוקף.",
+      "text_he": "אם הבעל שומע את הנדר ושותק מיום ליום, שתיקתו נחשבת כהקמת הנדרים או האיסרים, והם נשארים בתוקף.",
+      "text_en": "If a husband hears the vow and remains silent day after day, his silence is considered confirmation of the vows or binding obligations, and they remain in force."
+    },
+    {
+      "verse": 16,
+      "text": "הפרה מאוחרת של הנדר, לאחר שהבעל כבר שמע אותו, מטילה עליו את האחריות לעוונה של האישה.",
+      "text_he": "הפרה מאוחרת של הנדר, לאחר שהבעל כבר שמע אותו, מטילה עליו את האחריות לעוונה של האישה.",
+      "text_en": "If he later annuls the vow after hearing it, he bears responsibility for the woman’s guilt."
+    },
+    {
+      "verse": 17,
+      "text": "בסיום הפרק מסכם הכתוב שהחוקים עוסקים ביחסים שבין איש לאשתו ובין אב לבתו בנעוריה בבית אביה.",
+      "text_he": "בסיום הפרק מסכם הכתוב שהחוקים עוסקים ביחסים שבין איש לאשתו ובין אב לבתו בנעוריה בבית אביה.",
+      "text_en": "At the end of the chapter, Scripture summarizes that these laws concern the relationship between a man and his wife and between a father and his daughter during her youth in her father’s house."
+    }
+  ]
 }
