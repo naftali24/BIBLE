@@ -54,75 +54,84 @@
     "אני משתאה ומשתוממת על החוויה, כאילו לֹא יָדַעְתִּי, אינני מכירה את נַפְשִׁי במצב לא ראלי זה, הדומה לחלום או לשכרות. נפשי שָׂמַתְנִי, אני מרגישה את עצמי מַרְכְּבוֹת של עַמִּי נָדִיב, כינוי מכבד המתאים לאהוב."
   ],
   "ai_explanation": [
-    "בנות ירושלים שואלות את הרעיה לאן הלך אהובה ולאן פנה, ומציעות לעזור לה לחפש אותו.",
-    "הרעיה משיבה שאהובה ירד אל גנו, אל ערוגות הבושם, כדי לרעות בגנים וללקוט שושנים. המקום אינו מתואר ככתובת מדויקת, אלא כמקום של יופי וניחוחות.",
-    "הרעיה מדגישה שהקשר בינה ובין אהובה הדדי ומתמיד: היא שייכת לו והוא שייך לה. היעדרו אינו נובע מחוסר רצון בה, אלא מכך שהלך לגנו, אולי כדי להביא שושנים.",
-    "דברי הדוד משבחים את יופייה של הרעיה ומשווים אותה לתרצה ולירושלים. היא מתוארת גם כמרשימה ומפעימה, כמו דגלים או גדודים מפוארים.",
-    "הדוד מבקש מהרַעיה להסב את עיניה, מפני שמבטיה מעוררים בו התפעלות ומגבירים את רגשותיו. שערה השחור והגולש מושווה לעדר עיזים היורד מן הגלעד.",
-    "שיניה של הרעיה מושוות לעדר רחלים שעלה מן הרחצה: כולן שלמות, אחידות ויפות, ואין בהן שן חסרה.",
-    "רקתה של הרעיה מושווית לפלח רימון עגול ויפה, הנראה מבעד למקלעת או לקווצת שיער שעל קדמת פניה וצדעיה.",
-    "גם אם יש לדוד נשים רבות — שישים מלכות, שמונים פילגשים ועלמות רבות מספור — הפסוק עשוי להיקרא כשיר על שלמה או כשירו של המלך בצעירותו.",
-    "למרות ריבוי הנשים, הרעיה היא יחידה ומיוחדת בעיני הדוד, טהורה ונעלה אפילו בעיני אמה ויולדתה. הבנות, המלכות והפילגשים כולן מכירות במעלתה ומשבחות אותה.",
-    "הכלה נראית מרחוק וזוהרת כמו השחר, יפה כמו הלבנה, צחה וזורחת כמו השמש, ומרשימה ומדהימה כמו דגלים או גדודים מפוארים. תיאורי האור מתקדמים מן הזוהר העדין של השחר אל אור הלבנה ולבסוף אל עוצמת השמש.",
-    "ככל הנראה הרעיה מספרת שירדה אל גינת האגוז כדי לראות את ניצני הצמחים, את פריחת הגפן ואת הנצת הרימונים. זהו תיאור של עונת האביב וראשית הצמיחה, שפירושים רבים קישרו ליציאת מצרים.",
-    "הרעיה מתארת חוויה של השתאות ובלבול, כאילו אינה מכירה את עצמה וכאילו היא מצויה בחלום או בשכרות. נפשה מרגישה שהיא מרכבה של אהובה, המכונה בכבוד 'עמי נדיב'."
+    "בנות ירושלים פונות אל הרעיה ומציעות לעזור לה לחפש את אהובה. הן שואלות לאן הלך ולאן פנה.",
+    "הרעיה משיבה שאהובה ירד לגנו, למקום של יופי וניחוחות, כדי לרעות בגנים או ללקוט שושנים. תשובתה אינה מוסרת כתובת ברורה, אלא מתארת את המקום שאליו הלך.",
+    "הרעיה מדגישה שהקשר בינה לבין דודה הדדי ומתמיד. הוא איננו מתרחק ממנה מתוך חוסר רצון, אלא נמצא כעת בגנו, אולי כדי להביא שושנים.",
+    "דברי הדוד מתארים את יופייה של הרעיה באמצעות דימויים של תרצה וירושלים. היא נאה ומרשימה, ואפשר להבין את המילה ״אֲיֻמָּה״ כתיאור של דבר יוצא דופן, פלאי ומפעימה, בדומה לדגלים או לגדודים מפוארים.",
+    "הדוד מבקש מן הרעיה להסב את עיניה, משום שמבטיה מעוררים בו גאווה וזחיחות או מגבירים את רגשותיו. שערה השחור והגולש נמשל לעדר עזים היורד מן הגלעד.",
+    "שיניה של הרעיה נמשלות לעדר רחלים שעלה מן הרחצה: כולן שלמות, נקיות ומתאימות זו לזו, ואין בהן שן חסרה או פגומה.",
+    "רקתה של הרעיה נמשלת לפלח רימון עגול ויפה, הנראה מבעד לצמתה או לקווצת השיער שעל קדמת פניה וצדעיה.",
+    "לצד המלך יש נשים רבות במעמדות שונים: שישים מלכות, שמונים פילגשים ועלמות רבות מספור. ייתכן שמדובר בשיר המושר על שלמה או בשיר של המלך עצמו, כנראה מתקופת צעירותו.",
+    "למרות ריבוי הנשים, הרעיה היא יחידה ומיוחדת בעיני הדוד, טהורה ונקייה בעיני אמה ויולדתה. בנות, מלכות ופילגשים רואות אותה, מאשרות את מעלתה ומשבחות אותה.",
+    "הכלה מתוארת כדמות זוהרת המופיעה מרחוק: תחילה כאור השחר, אחר כך כיפי הלבנה, ולבסוף כברה ונוצצת כחמה. היא גם מדהימה ומפעימה כיצירה מיוחדת או כגדודים מפוארים.",
+    "הדוברת מספרת שירדה אל גינת האגוז כדי לראות את ניצני הנחל, את פריחת הגפן ואת הנצת הרימונים. התיאור מציג את תקופת האביב ואת ראשית הצמיחה; יש שפירשו זאת גם כרמז ליציאת מצרים.",
+    "הדוברת מתארת תחושה של השתאות וחוסר היכרות עם עצמה, כאילו היא נתונה בחלום או בשכרות. נפשה מרגישה שהיא כמרכבות של עם נדיב, כלומר חווה מצב מרומם הקשור בכינוי מכבד לאהוב."
   ],
   "ai_explanation_en": [
-    "The daughters of Jerusalem ask the woman where her beloved has gone and where he has turned, and offer to help her search for him.",
-    "The woman replies that her beloved has gone down to his garden, to the beds of spices, to pasture in the gardens and gather lilies. The place is not given as a precise address, but as a setting of beauty and fragrance.",
-    "The woman emphasizes that the bond between her and her beloved is mutual and lasting: she belongs to him and he belongs to her. His absence is not caused by rejection, but by his having gone to his garden, perhaps to bring lilies.",
-    "The beloved praises the woman’s beauty and compares her to Tirzah and Jerusalem. She is also described as impressive and awe-inspiring, like banners or splendid armies.",
-    "The beloved asks the woman to turn her eyes away because her looks arouse his admiration and intensify his feelings. Her dark, flowing hair is compared to a flock of goats descending from Gilead.",
-    "The woman’s teeth are compared to a flock of ewes coming up from washing: all are whole, even, and beautiful, with none missing.",
-    "The woman’s temple is compared to a beautiful, rounded slice of pomegranate, visible through a lock or braid of hair lying over the front of her face and temples.",
-    "Even though the beloved has many women—sixty queens, eighty concubines, and countless maidens—the verse may be read as a song about King Solomon or as a song spoken by the king in his youth.",
-    "Despite the many women, the beloved regards this woman as unique and incomparable, pure and superior even in the eyes of her mother and the woman who gave birth to her. The maidens, queens, and concubines all recognize her excellence and praise her.",
-    "The bride appears from afar, shining like the dawn, beautiful like the moon, pure and radiant like the sun, and astonishing like banners or splendid armies. The images of light progress from the dawn’s gentle glow to moonlight and finally to the sun’s intensity.",
-    "Most likely, the woman says that she went down to the walnut garden to see the plants’ buds, the flowering vine, and the budding pomegranates. This describes spring and the beginning of growth, which many interpretations have connected with the Exodus from Egypt.",
-    "The woman describes an experience of wonder and disorientation, as though she does not recognize herself and is in a dreamlike or drunken state. Her soul feels as though it has become the chariot of her beloved, who is respectfully called 'my noble people.'"
+    "The daughters of Jerusalem address the woman and offer to help her search for her beloved. They ask where he went and where he turned.",
+    "The woman answers that her beloved has gone down to his garden, a place of beauty and fragrance, to graze in the gardens or gather lilies. Her answer does not give a precise address, but describes the place where he has gone.",
+    "The woman emphasizes that the bond between her and her beloved is mutual and enduring. He is not avoiding her out of unwillingness; he is currently in his garden, perhaps to bring lilies.",
+    "The beloved praises the woman’s beauty through comparisons with Tirzah and Jerusalem. She is beautiful and impressive, and the word “awesome” may describe something extraordinary, wondrous, and breathtaking, like banners or splendid troops.",
+    "The beloved asks the woman to turn her eyes away because her looks inspire pride and self-assurance in him or intensify his emotions. Her dark, flowing hair is compared to a flock of goats descending from Gilead.",
+    "The woman’s teeth are compared to a flock of ewes coming up from washing: all are whole, clean, and evenly matched, with none missing or defective.",
+    "The woman’s cheek is compared to a slice of a round and beautiful pomegranate, visible through her braid or the lock of hair lying across the front of her face and temples.",
+    "The king has many women of different ranks: sixty queens, eighty concubines, and maidens beyond number. This may be a song sung about Solomon or a song by the king himself, perhaps from his youth.",
+    "Despite the many women, the beloved is unique and special in the speaker’s eyes, pure and unblemished in the eyes of her mother and the woman who gave birth to her. Maidens, queens, and concubines see her, affirm her excellence, and praise her.",
+    "The bride is portrayed as a radiant figure appearing from afar: first like the light of dawn, then beautiful as the moon, and finally bright and clear as the sun. She is also astonishing and breathtaking, like a special work of art or splendid troops.",
+    "The speaker says that she went down to the walnut garden to see the early growth by the stream, the flowering of the vine, and the budding of the pomegranates. The passage depicts spring and the beginning of growth; some interpretations also identify it as an allusion to the Exodus from Egypt.",
+    "The speaker describes a feeling of astonishment and unfamiliarity with herself, as though she were in a dream or intoxicated. Her soul feels like the chariots of a generous or noble people, expressing an exalted state connected with a respectful title for the beloved."
   ],
   "perush": [
-    "בנות ירושלים שואלות את הרעיה לאן הלך אהובה ולאן פנה, ומציעות לעזור לה לחפש אותו.",
-    "הרעיה משיבה שאהובה ירד אל גנו, אל ערוגות הבושם, כדי לרעות בגנים וללקוט שושנים. המקום אינו מתואר ככתובת מדויקת, אלא כמקום של יופי וניחוחות.",
-    "הרעיה מדגישה שהקשר בינה ובין אהובה הדדי ומתמיד: היא שייכת לו והוא שייך לה. היעדרו אינו נובע מחוסר רצון בה, אלא מכך שהלך לגנו, אולי כדי להביא שושנים.",
-    "דברי הדוד משבחים את יופייה של הרעיה ומשווים אותה לתרצה ולירושלים. היא מתוארת גם כמרשימה ומפעימה, כמו דגלים או גדודים מפוארים.",
-    "הדוד מבקש מהרַעיה להסב את עיניה, מפני שמבטיה מעוררים בו התפעלות ומגבירים את רגשותיו. שערה השחור והגולש מושווה לעדר עיזים היורד מן הגלעד.",
-    "שיניה של הרעיה מושוות לעדר רחלים שעלה מן הרחצה: כולן שלמות, אחידות ויפות, ואין בהן שן חסרה.",
-    "רקתה של הרעיה מושווית לפלח רימון עגול ויפה, הנראה מבעד למקלעת או לקווצת שיער שעל קדמת פניה וצדעיה.",
-    "גם אם יש לדוד נשים רבות — שישים מלכות, שמונים פילגשים ועלמות רבות מספור — הפסוק עשוי להיקרא כשיר על שלמה או כשירו של המלך בצעירותו.",
-    "למרות ריבוי הנשים, הרעיה היא יחידה ומיוחדת בעיני הדוד, טהורה ונעלה אפילו בעיני אמה ויולדתה. הבנות, המלכות והפילגשים כולן מכירות במעלתה ומשבחות אותה.",
-    "הכלה נראית מרחוק וזוהרת כמו השחר, יפה כמו הלבנה, צחה וזורחת כמו השמש, ומרשימה ומדהימה כמו דגלים או גדודים מפוארים. תיאורי האור מתקדמים מן הזוהר העדין של השחר אל אור הלבנה ולבסוף אל עוצמת השמש.",
-    "ככל הנראה הרעיה מספרת שירדה אל גינת האגוז כדי לראות את ניצני הצמחים, את פריחת הגפן ואת הנצת הרימונים. זהו תיאור של עונת האביב וראשית הצמיחה, שפירושים רבים קישרו ליציאת מצרים.",
-    "הרעיה מתארת חוויה של השתאות ובלבול, כאילו אינה מכירה את עצמה וכאילו היא מצויה בחלום או בשכרות. נפשה מרגישה שהיא מרכבה של אהובה, המכונה בכבוד 'עמי נדיב'."
+    "בנות ירושלים פונות אל הרעיה ומציעות לעזור לה לחפש את אהובה. הן שואלות לאן הלך ולאן פנה.",
+    "הרעיה משיבה שאהובה ירד לגנו, למקום של יופי וניחוחות, כדי לרעות בגנים או ללקוט שושנים. תשובתה אינה מוסרת כתובת ברורה, אלא מתארת את המקום שאליו הלך.",
+    "הרעיה מדגישה שהקשר בינה לבין דודה הדדי ומתמיד. הוא איננו מתרחק ממנה מתוך חוסר רצון, אלא נמצא כעת בגנו, אולי כדי להביא שושנים.",
+    "דברי הדוד מתארים את יופייה של הרעיה באמצעות דימויים של תרצה וירושלים. היא נאה ומרשימה, ואפשר להבין את המילה ״אֲיֻמָּה״ כתיאור של דבר יוצא דופן, פלאי ומפעימה, בדומה לדגלים או לגדודים מפוארים.",
+    "הדוד מבקש מן הרעיה להסב את עיניה, משום שמבטיה מעוררים בו גאווה וזחיחות או מגבירים את רגשותיו. שערה השחור והגולש נמשל לעדר עזים היורד מן הגלעד.",
+    "שיניה של הרעיה נמשלות לעדר רחלים שעלה מן הרחצה: כולן שלמות, נקיות ומתאימות זו לזו, ואין בהן שן חסרה או פגומה.",
+    "רקתה של הרעיה נמשלת לפלח רימון עגול ויפה, הנראה מבעד לצמתה או לקווצת השיער שעל קדמת פניה וצדעיה.",
+    "לצד המלך יש נשים רבות במעמדות שונים: שישים מלכות, שמונים פילגשים ועלמות רבות מספור. ייתכן שמדובר בשיר המושר על שלמה או בשיר של המלך עצמו, כנראה מתקופת צעירותו.",
+    "למרות ריבוי הנשים, הרעיה היא יחידה ומיוחדת בעיני הדוד, טהורה ונקייה בעיני אמה ויולדתה. בנות, מלכות ופילגשים רואות אותה, מאשרות את מעלתה ומשבחות אותה.",
+    "הכלה מתוארת כדמות זוהרת המופיעה מרחוק: תחילה כאור השחר, אחר כך כיפי הלבנה, ולבסוף כברה ונוצצת כחמה. היא גם מדהימה ומפעימה כיצירה מיוחדת או כגדודים מפוארים.",
+    "הדוברת מספרת שירדה אל גינת האגוז כדי לראות את ניצני הנחל, את פריחת הגפן ואת הנצת הרימונים. התיאור מציג את תקופת האביב ואת ראשית הצמיחה; יש שפירשו זאת גם כרמז ליציאת מצרים.",
+    "הדוברת מתארת תחושה של השתאות וחוסר היכרות עם עצמה, כאילו היא נתונה בחלום או בשכרות. נפשה מרגישה שהיא כמרכבות של עם נדיב, כלומר חווה מצב מרומם הקשור בכינוי מכבד לאהוב."
   ],
   "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
   "ideas": [
     {
-      "title": "החיפוש אחר הדוד והקשר ההדדי",
-      "title_en": "Searching for the Beloved and Mutual Belonging",
+      "title": "חיפוש אחר הדוד והקשר ההדדי",
+      "title_en": "Searching for the Beloved and Their Mutual Bond",
       "start_verse": 1,
       "end_verse": 3,
-      "summary": "בנות ירושלים מציעות לסייע לרעיה למצוא את אהובה, והיא משיבה שהוא ירד אל גנו. למרות היעדרו, היא מדגישה שהקשר ביניהם הדדי, יציב ומתמשך.",
-      "summary_en": "The daughters of Jerusalem offer to help the woman find her beloved, and she answers that he has gone down to his garden. Despite his absence, she emphasizes that their relationship is mutual, stable, and enduring.",
-      "image_prompt": "A poetic ancient garden filled with fragrant flower beds and white lilies, a woman searching peacefully while a group of women offer to help, warm morning light, lyrical biblical atmosphere, no text"
+      "summary": "בנות ירושלים מציעות לעזור לרעיה למצוא את אהובה, והיא משיבה שהוא ירד לגנו. אף שאיננו נמצא עמה באותו רגע, היא מדגישה שהקשר ביניהם הדדי ומתמיד.",
+      "summary_en": "The daughters of Jerusalem offer to help the woman find her beloved, and she answers that he has gone down to his garden. Although he is not with her at that moment, she emphasizes that their bond is mutual and enduring.",
+      "image_prompt": "A poetic garden scene with a woman searching among fragrant flower beds while several women gently offer to help, symbolic and atmospheric, no text, no specific historical setting"
     },
     {
-      "title": "שבח יופייה וייחודה של הרעיה",
-      "title_en": "Praise of the Woman’s Beauty and Uniqueness",
+      "title": "שבח יופייה של הרעיה",
+      "title_en": "Praise of the Woman’s Beauty",
       "start_verse": 4,
-      "end_verse": 10,
-      "summary": "הדוד משבח את הרעיה ומשווה אותה לתרצה, לירושלים, לשחר, ללבנה ולשמש. הוא מתאר בפרטים את עיניה, שערה, שיניה ורקתה, ומדגיש שגם בין נשים רבות היא יחידה, טהורה ומוערכת על ידי כולן.",
-      "summary_en": "The beloved praises the woman and compares her to Tirzah, Jerusalem, the dawn, the moon, and the sun. He describes her eyes, hair, teeth, and temple in detail, emphasizing that even among many women she is unique, pure, and admired by all.",
-      "image_prompt": "A radiant biblical bride standing before an ancient city and distant hills, soft dawn blending into moonlight and sunlight, flowing dark hair, elegant symbolic beauty, banners in the background, poetic and dignified, no text"
+      "end_verse": 7,
+      "summary": "הדוד משבח את הרעיה באמצעות דימויים של תרצה, ירושלים, עדרי עזים ורחלים, רימון ושיער קלוע. כל הדימויים מדגישים את יופייה, שלמותה והרשמתה.",
+      "summary_en": "The beloved praises the woman through images of Tirzah, Jerusalem, flocks of goats and ewes, a pomegranate, and braided hair. These comparisons emphasize her beauty, perfection, and striking presence.",
+      "image_prompt": "A lyrical portrait of a radiant woman with flowing dark hair and a braid, surrounded by symbolic pomegranates and distant mountain flocks, elegant poetic atmosphere, no text"
     },
     {
-      "title": "גן האביב והחוויה המשתאה",
-      "title_en": "The Spring Garden and the Astonishing Experience",
+      "title": "ייחודה של הרעיה והאור הזוהר שלה",
+      "title_en": "The Woman’s Uniqueness and Radiant Light",
+      "start_verse": 8,
+      "end_verse": 10,
+      "summary": "על רקע ריבוי הנשים, הרעיה מוצגת כאחת ויחידה, טהורה ומוערכת בעיני כולן. היא מתוארת כדמות זוהרת, מן השחר ועד לאור הלבנה והשמש, וכמראה מפעים ומרשים.",
+      "summary_en": "Against the background of many women, the beloved is presented as one and unique, pure and admired by all. She is portrayed as radiant, progressing from dawn to moonlight and sunlight, and as a breathtaking, impressive sight.",
+      "image_prompt": "A solitary radiant woman seen from afar beneath a gradual sky of dawn, moonlight, and sunlight, with distant elegant silhouettes suggesting admiration, poetic and symbolic, no text"
+    },
+    {
+      "title": "הגן, האביב והחוויה המשתאה",
+      "title_en": "The Garden, Spring, and the Astonished Experience",
       "start_verse": 11,
       "end_verse": 12,
-      "summary": "הרעיה יורדת אל גינת האגוז כדי להתבונן בניצנים, בפריחת הגפן ובהנצת הרימונים. ההתבוננות מעוררת בה תחושה לא מציאותית של השתאות, כאילו אינה מכירה את עצמה ונפשה נעשתה מרכבה לאהובה.",
-      "summary_en": "The woman goes down to the walnut garden to observe the buds, the flowering vine, and the budding pomegranates. The experience fills her with an unreal sense of wonder, as though she no longer recognizes herself and her soul has become the chariot of her beloved.",
-      "image_prompt": "An ancient spring garden with walnut trees, budding vines, and flowering pomegranates beside a stream, a woman overwhelmed by wonder, dreamlike gentle light, lush poetic biblical landscape, no text"
+      "summary": "הדוברת יורדת אל גינת האגוז כדי להתבונן בראשית הפריחה והצמיחה של הגפן והרימונים. המראה מעורר בה השתאות עמוקה ותחושה שאינה מכירה את עצמה, כאילו היא נתונה בחלום או בשכרות.",
+      "summary_en": "The speaker goes down to the walnut garden to observe the beginning of flowering and growth in the vine and pomegranates. The sight produces deep astonishment and a feeling that she does not know herself, as though she were in a dream or intoxicated.",
+      "image_prompt": "An early spring walnut garden beside a stream, with budding vines and pomegranate blossoms, a woman gazing in wonder as if in a dream, soft luminous atmosphere, no text"
     }
   ],
   "times": [],
@@ -227,5 +236,67 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "בפסוק הראשון בנות ירושלים פונות אל הרעיה ומציעות להצטרף אליה בחיפוש אחר הדוד. הפנייה מדגישה שהקשר בין הדמויות אינו מתקיים רק ביניהן, אלא מעורר גם את עניינן של הסובבות.",
+      "text_he": "בפסוק הראשון בנות ירושלים פונות אל הרעיה ומציעות להצטרף אליה בחיפוש אחר הדוד. הפנייה מדגישה שהקשר בין הדמויות אינו מתקיים רק ביניהן, אלא מעורר גם את עניינן של הסובבות.",
+      "text_en": "In the first verse, the daughters of Jerusalem address the beloved woman and offer to join her in searching for her lover. This shows that the relationship between the two main figures is not limited to them alone but also captures the interest of those around them."
+    },
+    {
+      "verse": 2,
+      "text": "הדוד מתואר כמי שירד אל גנו, אל ערוגות הבושם, כדי לרעות בגנים וללקוט שושנים. הגן משמש בפרק מקום של יופי, ריח, צמיחה ומפגש.",
+      "text_he": "הדוד מתואר כמי שירד אל גנו, אל ערוגות הבושם, כדי לרעות בגנים וללקוט שושנים. הגן משמש בפרק מקום של יופי, ריח, צמיחה ומפגש.",
+      "text_en": "The lover is described as having gone down to his garden, to the beds of spices, to tend the gardens and gather lilies. In this chapter, the garden is a place of beauty, fragrance, growth, and meeting."
+    },
+    {
+      "verse": 3,
+      "text": "המשפט \"אֲנִי לְדוֹדִי וְדוֹדִי לִי\" מציג קשר הדדי וברור בין הרעיה לדודה. זהו ניסוח קצר המדגיש שייכות הדדית ונאמנות.",
+      "text_he": "המשפט \"אֲנִי לְדוֹדִי וְדוֹדִי לִי\" מציג קשר הדדי וברור בין הרעיה לדודה. זהו ניסוח קצר המדגיש שייכות הדדית ונאמנות.",
+      "text_en": "The statement “I am my beloved’s, and my beloved is mine” presents a clear, mutual relationship between the beloved woman and her lover. This brief wording emphasizes mutual belonging and faithfulness."
+    },
+    {
+      "verse": 4,
+      "text": "הדוד משווה את יופייה של הרעיה לתרצה ולירושלים. לצד היופי הוא מתאר אותה גם כ\"אֲיֻמָּה, כַּנִּדְגָּלוֹת\"—מראה מרשים ומטיל רושם, כמו מחנה ערוך בדגליו.",
+      "text_he": "הדוד משווה את יופייה של הרעיה לתרצה ולירושלים. לצד היופי הוא מתאר אותה גם כ\"אֲיֻמָּה, כַּנִּדְגָּלוֹת\"—מראה מרשים ומטיל רושם, כמו מחנה ערוך בדגליו.",
+      "text_en": "The lover compares the beauty of the beloved woman to Tirzah and Jerusalem. Alongside her beauty, he describes her as “awesome as an army with banners”—an impressive and commanding sight, like an army arranged beneath its banners."
+    },
+    {
+      "verse": 5,
+      "text": "בשבחו את הרעיה משתמש הדוד בדימויים מן הטבע: שערה מושווה לעדר עזים הגולש מן הגלעד, ושיניה לעדר רחלים העולות מן הרחצה. הדימויים מדגישים שפע, סדר וחיוניות.",
+      "text_he": "בשבחו את הרעיה משתמש הדוד בדימויים מן הטבע: שערה מושווה לעדר עזים הגולש מן הגלעד, ושיניה לעדר רחלים העולות מן הרחצה. הדימויים מדגישים שפע, סדר וחיוניות.",
+      "text_en": "In praising the beloved woman, the lover uses images from nature: her hair is compared to a flock of goats streaming down from Gilead, and her teeth to a flock of sheep coming up from the washing. These images emphasize abundance, order, and vitality."
+    },
+    {
+      "verse": 6,
+      "text": "תיאור השיניים כולל גם את שלמותן: \"שֶׁכֻּלָּם, מַתְאִימוֹת, וְשַׁכֻּלָה, אֵין בָּהֶם\". כלומר, העדר מתואר כאחיד ושלם, ואין בו פרט חסר או פגום.",
+      "text_he": "תיאור השיניים כולל גם את שלמותן: \"שֶׁכֻּלָּם, מַתְאִימוֹת, וְשַׁכֻּלָה, אֵין בָּהֶם\". כלומר, העדר מתואר כאחיד ושלם, ואין בו פרט חסר או פגום.",
+      "text_en": "The description of her teeth also highlights their perfection: “all of them are matched, and not one is missing.” In other words, the flock is portrayed as uniform and complete, with nothing lacking or defective."
+    },
+    {
+      "verse": 8,
+      "text": "הפרק מזכיר שישים מלכות, שמונים פילגשים ועלמות שאין להן מספר. המספרים יוצרים תמונה של ריבוי, שממנה בולטת הרעיה כאחת ויחידה.",
+      "text_he": "הפרק מזכיר שישים מלכות, שמונים פילגשים ועלמות שאין להן מספר. המספרים יוצרים תמונה של ריבוי, שממנה בולטת הרעיה כאחת ויחידה.",
+      "text_en": "The chapter mentions sixty queens, eighty concubines, and young women without number. These numbers create an image of great abundance, against which the beloved woman stands out as one and unique."
+    },
+    {
+      "verse": 9,
+      "text": "הרעיה מכונה \"יוֹנָתִי תַמָּתִי\" ומתוארת כיחידה, טהורה ומוערכת. לפי הפסוק, גם הבנות, גם המלכות וגם הפילגשים רואות אותה ומשבחות אותה.",
+      "text_he": "הרעיה מכונה \"יוֹנָתִי תַמָּתִי\" ומתוארת כיחידה, טהורה ומוערכת. לפי הפסוק, גם הבנות, גם המלכות וגם הפילגשים רואות אותה ומשבחות אותה.",
+      "text_en": "The beloved woman is called “my dove, my perfect one” and is described as unique, pure, and highly valued. According to the verse, the young women, the queens, and the concubines all see her and praise her."
+    },
+    {
+      "verse": 10,
+      "text": "הרעיה מתוארת כמי שנשקפת כמו שחר, יפה כלבנה וברורה כחמה. רצף הדימויים מציג אותה כדמות זוהרת ובעלת נוכחות הולכת ומרשימה.",
+      "text_he": "הרעיה מתוארת כמי שנשקפת כמו שחר, יפה כלבנה וברורה כחמה. רצף הדימויים מציג אותה כדמות זוהרת ובעלת נוכחות הולכת ומרשימה.",
+      "text_en": "The beloved woman is described as appearing like the dawn, beautiful as the moon, and radiant as the sun. This sequence of images presents her as a luminous figure whose presence becomes increasingly impressive."
+    },
+    {
+      "verse": 11,
+      "text": "הדוברת יורדת אל גינת האגוז כדי לראות את אִבֵּי הנחל, את פריחת הגפן ואת הנצת הרימונים. הפסוק מתמקד ברגע שבו הטבע נמצא בראשית צמיחתו ובפריחתו.",
+      "text_he": "הדוברת יורדת אל גינת האגוז כדי לראות את אִבֵּי הנחל, את פריחת הגפן ואת הנצת הרימונים. הפסוק מתמקד ברגע שבו הטבע נמצא בראשית צמיחתו ובפריחתו.",
+      "text_en": "The speaker goes down to the walnut garden to see the buds of the valley, the blossoming vines, and the budding pomegranates. The verse focuses on nature at the beginning of its growth and flowering."
+    }
+  ]
 }
