@@ -1,4 +1,4 @@
-const CACHE='tanakh-shell-mamre-v2';
+const CACHE='tanakh-shell-mamre-display-v3';
 const SHELL=['./','./index.html','./tanakh.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));
