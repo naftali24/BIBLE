@@ -17,92 +17,92 @@
             "The fifteenth day"
           ],
           "correct": 0,
-          "explanation": "Verse 1 says, “on the first day of the month.”",
-          "q": "On what day of the seventh month was the holy convocation held?"
-        },
-        {
-          "answers": [
-            "Servile work",
-            "Temple work",
-            "Harvest work"
-          ],
-          "correct": 0,
-          "explanation": "They were commanded, “ye shall do no servile work.”",
-          "q": "What kind of work were the people forbidden to do?"
+          "explanation": "Verse 1 says, “in the seventh month, on the first day of the month.”",
+          "q": "On what day of the seventh month was there an holy convocation?"
         },
         {
           "answers": [
             "A day of fasting",
             "A day of blowing the trumpets",
-            "A solemn assembly"
+            "A day of solemn assembly"
           ],
           "correct": 1,
-          "explanation": "The verse calls it “a day of blowing the trumpets.”",
-          "q": "What was this day called in the passage?"
+          "explanation": "The verse calls it “a day of blowing the trumpets unto you.”",
+          "q": "What kind of day was it called?"
+        },
+        {
+          "answers": [
+            "Seven",
+            "Two",
+            "Fourteen"
+          ],
+          "correct": 0,
+          "explanation": "Verse 2 lists “seven lambs of the first year.”",
+          "q": "How many lambs of the first year were offered?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Seven",
-            "Fourteen",
-            "Two"
+            "Any agricultural work",
+            "Servile work",
+            "Only cooking"
           ],
-          "correct": 0,
-          "explanation": "Verse 2 lists “seven lambs of the first year.”",
-          "q": "How many lambs of the first year were offered as a burnt offering?"
+          "correct": 1,
+          "explanation": "Verse 1 says, “ye shall do no servile work.”",
+          "q": "What kind of work were the people forbidden to do?"
         },
         {
           "answers": [
             "One ram",
-            "One kid of the goats",
-            "One young bullock"
+            "One kid of the goats for a sin offering",
+            "Seven lambs"
           ],
           "correct": 1,
-          "explanation": "Verse 5 says, “one kid of the goats for a sin offering, to make an atonement for you.”",
-          "q": "Which offering was made for a sin offering and atonement?"
+          "explanation": "Verse 5 names “one kid of the goats for a sin offering, to make an atonement for you.”",
+          "q": "What offering was made for atonement?"
         },
         {
           "answers": [
-            "Without defect",
-            "Very young",
-            "Many in number"
+            "A sacred gathering",
+            "A private meal",
+            "A military assembly"
           ],
           "correct": 0,
-          "explanation": "The phrase describes animals that were free from defect and suitable for offering.",
-          "q": "What does “without blemish” mean in this passage?"
+          "explanation": "An holy convocation was a sacred gathering of the people.",
+          "q": "What does “an holy convocation” describe?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "These offerings were additional to other offerings",
-            "The offerings replaced all daily offerings",
-            "Only drink offerings were made"
-          ],
-          "correct": 0,
-          "explanation": "“Beside” shows that these offerings were added to the offerings already appointed.",
-          "q": "What is implied by the word “Beside” in verse 6?"
-        },
-        {
-          "answers": [
-            "Sin offering, then burnt offering",
-            "Burnt offering, meal offerings, and sin offering",
-            "Drink offering only"
+            "They replaced the daily offerings",
+            "They were added to other regular offerings",
+            "They were offered only by individuals"
           ],
           "correct": 1,
-          "explanation": "The passage first describes the burnt offering, then its meal offerings, and then the sin offering.",
-          "q": "What sequence of offerings is described?"
+          "explanation": "Verse 6 says these offerings were made “Beside” the offerings of the month and the daily offering.",
+          "q": "What does the word “Beside” indicate about these offerings?"
         },
         {
           "answers": [
-            "It is a day of blowing the trumpets",
-            "It occurs in the sixth month",
-            "It has no holy convocation"
+            "Different amounts of flour were assigned to different animals",
+            "Only the goat received a meat offering",
+            "No meat offerings were given"
           ],
           "correct": 0,
-          "explanation": "Verse 1 uniquely identifies it as “a day of blowing the trumpets.”",
-          "q": "Which detail especially distinguishes this day?"
+          "explanation": "The passage assigns three tenth deals for a bullock, two for a ram, and one for each lamb.",
+          "q": "How were the meat offerings related to the animals?"
+        },
+        {
+          "answers": [
+            "One bullock, one ram, and seven lambs",
+            "Two bullocks, seven rams, and one lamb",
+            "Thirteen bullocks, two rams, and fourteen lambs"
+          ],
+          "correct": 0,
+          "explanation": "Verses 2–4 list one young bullock, one ram, and seven lambs.",
+          "q": "Which combination correctly lists the burnt offering?"
         }
       ],
       "idea": 1
@@ -111,7 +111,7 @@
       "paragraph": 2,
       "start_verse": 7,
       "end_verse": 11,
-      "title": "Yom Kippur and Its Additional Offerings",
+      "title": "Yom Kippur and Its Offerings",
       "easy": [
         {
           "answers": [
@@ -121,91 +121,91 @@
           ],
           "correct": 1,
           "explanation": "Verse 7 says, “on the tenth day of this seventh month.”",
-          "q": "On what day of the seventh month was this holy convocation held?"
+          "q": "On what day of the seventh month was the holy convocation held?"
         },
         {
           "answers": [
-            "Do ordinary work",
             "Afflict their souls",
-            "Dwell in booths"
-          ],
-          "correct": 1,
-          "explanation": "The verse says, “ye shall afflict your souls.”",
-          "q": "What were the people commanded to do on this day?"
-        },
-        {
-          "answers": [
-            "One kid of the goats",
-            "Two rams",
-            "Fourteen lambs"
+            "Keep a feast for seven days",
+            "Do extra work"
           ],
           "correct": 0,
-          "explanation": "Verse 11 names “one kid of the goats for a sin offering.”",
-          "q": "Which sin offering is mentioned?"
+          "explanation": "The verse says, “ye shall afflict your souls.”",
+          "q": "What were the people commanded to do?"
+        },
+        {
+          "answers": [
+            "One bullock and one ram",
+            "Two bullocks and two rams",
+            "Thirteen bullocks and two rams"
+          ],
+          "correct": 0,
+          "explanation": "Verse 8 lists one young bullock and one ram.",
+          "q": "How many bullocks and rams were offered as a burnt offering?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "It includes the affliction of their souls",
-            "It has no prohibition of work",
-            "It has no sin offering"
+            "All work",
+            "Only cooking",
+            "Only work at the altar"
           ],
           "correct": 0,
-          "explanation": "Verse 7 specifically commands the people to afflict their souls.",
-          "q": "How does this day differ from the first day of the month?"
+          "explanation": "Verse 7 says, “ye shall not do any work therein.”",
+          "q": "What work was forbidden on this day?"
         },
         {
           "answers": [
-            "A sacred assembly",
-            "An ordinary workday",
-            "A day without offerings"
+            "Celebrate loudly",
+            "Humble or deny yourselves",
+            "Bring additional animals"
           ],
-          "correct": 0,
-          "explanation": "The phrase identifies the day as a sacred gathering.",
-          "q": "What does “holy convocation” describe?"
+          "correct": 1,
+          "explanation": "The phrase describes the self-denial associated with this sacred day.",
+          "q": "What does “afflict your souls” mean in this context?"
         },
         {
           "answers": [
-            "The sin offering of atonement",
-            "The Passover offering",
-            "The peace offering only"
+            "The continual burnt offering and its offerings",
+            "Only a second bullock",
+            "Only seven additional lambs"
           ],
           "correct": 0,
-          "explanation": "Verse 11 says the goat was offered “beside the sin offering of atonement.”",
-          "q": "What offering is mentioned as being in addition to the sin offering?"
+          "explanation": "Verse 11 mentions the continual burnt offering, its meat offering, and its drink offerings.",
+          "q": "What offerings are mentioned in addition to the sin offering of atonement?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "The offering was added to other appointed offerings",
-            "The offering canceled every other offering",
-            "The offerings were unrelated"
+            "The day involved self-denial and no work, while offerings were brought to the LORD",
+            "The day lasted seven days and had no offerings",
+            "The passage describes only ordinary labor"
           ],
           "correct": 0,
-          "explanation": "The word indicates that the listed offering was made in addition to others.",
-          "q": "What does “beside” indicate in verse 11?"
+          "explanation": "The passage first describes the sacred restrictions and then lists the offerings.",
+          "q": "Which statement best contrasts the day with its offerings?"
         },
         {
           "answers": [
-            "A holy convocation, affliction of the soul, and no work",
-            "Feasting, ordinary labor, and trumpet blowing only",
-            "A solemn assembly without any offering"
+            "Seven",
+            "Fourteen",
+            "One"
           ],
           "correct": 0,
-          "explanation": "These three features are stated in verses 7 and 8.",
-          "q": "Which combination best describes the day?"
+          "explanation": "Verse 8 says, “seven lambs of the first year.”",
+          "q": "How many lambs of the first year were included in the burnt offering?"
         },
         {
           "answers": [
-            "Because the passage also mentions the sin offering of atonement and continual offering",
-            "Because no meal offering is listed",
-            "Because it belongs to another month"
+            "The people were to afflict their souls",
+            "A kid of the goats was offered",
+            "Servile work was forbidden"
           ],
           "correct": 0,
-          "explanation": "Verse 11 explicitly lists additional offerings beside the sin offering.",
-          "q": "Why is this burnt offering not the only offering of the day?"
+          "explanation": "Afflicting the soul is specifically mentioned for the tenth day.",
+          "q": "Which feature distinguishes this day from the first day of the month?"
         }
       ],
       "idea": 2
@@ -214,13 +214,13 @@
       "paragraph": 3,
       "start_verse": 12,
       "end_verse": 16,
-      "title": "The Beginning of Sukkot and the First Day’s Offerings",
+      "title": "The Beginning of Sukkot",
       "easy": [
         {
           "answers": [
             "The tenth day",
             "The fifteenth day",
-            "The eighth day"
+            "The twenty-second day"
           ],
           "correct": 1,
           "explanation": "Verse 12 says, “on the fifteenth day of the seventh month.”",
@@ -228,87 +228,87 @@
         },
         {
           "answers": [
-            "Seven",
-            "Thirteen",
-            "Two"
+            "One day",
+            "Seven days",
+            "Eight days"
           ],
           "correct": 1,
-          "explanation": "Verse 13 lists thirteen young bullocks.",
-          "q": "How many young bullocks were offered on the first day?"
+          "explanation": "The people were to keep a feast unto the LORD seven days.",
+          "q": "How long was the feast to continue?"
         },
         {
           "answers": [
-            "Two rams and fourteen lambs",
-            "One ram and seven lambs",
-            "Two rams and seven lambs"
+            "Thirteen",
+            "Twelve",
+            "Seven"
           ],
           "correct": 0,
-          "explanation": "The passage specifies two rams and fourteen lambs.",
-          "q": "How many rams and lambs were offered on the first day?"
+          "explanation": "Verse 13 lists thirteen young bullocks.",
+          "q": "How many young bullocks were offered on the first day?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Three days",
-            "Seven days",
-            "Eight days"
+            "Servile work",
+            "All animal care",
+            "Only the making of bread"
           ],
-          "correct": 1,
-          "explanation": "Verse 12 says, “ye shall keep a feast unto the LORD seven days.”",
-          "q": "How long was the feast to be kept?"
+          "correct": 0,
+          "explanation": "Verse 12 says, “ye shall do no servile work.”",
+          "q": "What kind of work was forbidden on the first day?"
         },
         {
           "answers": [
-            "One kid of the goats for a sin offering",
-            "Only a meal offering",
-            "Two sin offerings"
+            "Without physical defect",
+            "Very young",
+            "Already prepared with flour"
           ],
           "correct": 0,
-          "explanation": "Verse 16 names one kid of the goats for a sin offering.",
-          "q": "What was offered in addition to the burnt offerings?"
+          "explanation": "The phrase describes animals acceptable for sacrifice because they had no blemish.",
+          "q": "What does “without blemish” mean?"
         },
         {
           "answers": [
-            "The meal offerings connected with the sacrifices",
-            "The days of the feast",
-            "The sound of trumpets"
+            "Thirteen bullocks, two rams, and fourteen lambs",
+            "One bullock, one ram, and seven lambs",
+            "Seven bullocks and two rams"
           ],
           "correct": 0,
-          "explanation": "The phrase refers to the meal offerings accompanying the burnt offerings.",
-          "q": "What does “their meat offering” refer to?"
+          "explanation": "Verses 13–14 give this complete number of animals.",
+          "q": "Which animals made up the first day's burnt offering?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "It is the highest number in the festival sequence",
-            "It is the lowest number",
-            "No bullocks were offered"
+            "Several kinds of offerings were made on the same day",
+            "No meat offerings were required",
+            "The day was not a holy convocation"
           ],
           "correct": 0,
-          "explanation": "Thirteen bullocks are offered on the first day, and the number decreases afterward.",
-          "q": "What is notable about the number of bullocks on the first day?"
+          "explanation": "The passage includes the burnt offering, its offerings, and a kid for a sin offering.",
+          "q": "What does the presence of both burnt and sin offerings show?"
+        },
+        {
+          "answers": [
+            "The flour assigned to each bullock",
+            "The number of bullocks",
+            "The number of feast days"
+          ],
+          "correct": 0,
+          "explanation": "The phrase gives the amount of flour for each of the thirteen bullocks.",
+          "q": "To what does “three tenth deals unto every bullock” refer?"
         },
         {
           "answers": [
             "Two rams and fourteen lambs",
-            "Thirteen bullocks",
-            "No sin offering"
+            "Thirteen rams and two lambs",
+            "One ram and seven lambs"
           ],
           "correct": 0,
-          "explanation": "The number of rams and lambs remains constant while the number of bullocks changes.",
-          "q": "Which offering remains constant in the following festival days?"
-        },
-        {
-          "answers": [
-            "As a holy convocation with no servile work",
-            "As an ordinary workday",
-            "As a day of fasting only"
-          ],
-          "correct": 0,
-          "explanation": "Verse 12 calls it a holy convocation and forbids servile work.",
-          "q": "How is the first day characterized?"
+          "explanation": "Verse 13 specifies two rams and fourteen lambs.",
+          "q": "Which numbers remained fixed on the first day for rams and lambs?"
         }
       ],
       "idea": 3
@@ -316,8 +316,8 @@
     {
       "paragraph": 4,
       "start_verse": 17,
-      "end_verse": 21,
-      "title": "The Second and Third Days of Sukkot",
+      "end_verse": 28,
+      "title": "The Offerings of the Days of Sukkot",
       "easy": [
         {
           "answers": [
@@ -326,327 +326,121 @@
             "Eleven"
           ],
           "correct": 1,
-          "explanation": "Verse 17 lists twelve young bullocks.",
+          "explanation": "Verse 17 says, “twelve young bullocks.”",
           "q": "How many young bullocks were offered on the second day?"
-        },
-        {
-          "answers": [
-            "Ten",
-            "Eleven",
-            "Seven"
-          ],
-          "correct": 1,
-          "explanation": "Verse 20 says, “on the third day eleven bullocks.”",
-          "q": "How many bullocks were offered on the third day?"
         },
         {
           "answers": [
             "One",
             "Two",
-            "Four"
-          ],
-          "correct": 1,
-          "explanation": "Both days include two rams.",
-          "q": "How many rams were offered on each of these days?"
-        }
-      ],
-      "medium": [
-        {
-          "answers": [
-            "It increases",
-            "It decreases by one",
-            "It remains the same"
-          ],
-          "correct": 1,
-          "explanation": "The number falls from twelve to eleven.",
-          "q": "What happens to the number of bullocks from the second day to the third?"
-        },
-        {
-          "answers": [
-            "The offerings correspond to the number of animals",
-            "No number was given",
-            "The offerings were made at a fixed time"
-          ],
-          "correct": 0,
-          "explanation": "The meal and drink offerings were given according to the number of animals.",
-          "q": "What does “according to their number” mean in context?"
-        },
-        {
-          "answers": [
-            "Meal offerings, drink offerings, and a sin offering",
-            "Trumpets only",
-            "Booths only"
-          ],
-          "correct": 0,
-          "explanation": "The verses mention meal offerings, drink offerings, and one goat for a sin offering.",
-          "q": "What is mentioned alongside the offerings on these days?"
-        }
-      ],
-      "challenge": [
-        {
-          "answers": [
-            "The number of bullocks decreases each day",
-            "The number of lambs decreases",
-            "The number of rams increases"
-          ],
-          "correct": 0,
-          "explanation": "The number decreases from thirteen to twelve and then eleven.",
-          "q": "What numerical pattern begins in the festival offerings?"
-        },
-        {
-          "answers": [
-            "The numbers of rams and lambs",
-            "The number of bullocks",
-            "The length of the feast"
-          ],
-          "correct": 0,
-          "explanation": "Both days list two rams and fourteen lambs.",
-          "q": "What remains unchanged on the second and third days?"
-        },
-        {
-          "answers": [
-            "To show their connection with the ordered burnt offerings",
-            "To replace the sin offering",
-            "To mark a day of fasting"
-          ],
-          "correct": 0,
-          "explanation": "The wording connects these offerings with the animals being offered.",
-          "q": "Why are the meal and drink offerings given according to the number of animals?"
-        }
-      ],
-      "idea": 4
-    },
-    {
-      "paragraph": 5,
-      "start_verse": 22,
-      "end_verse": 25,
-      "title": "The Fourth and Fifth Days of Sukkot",
-      "easy": [
-        {
-          "answers": [
-            "Ten",
-            "Nine",
-            "Eight"
-          ],
-          "correct": 0,
-          "explanation": "Verse 23 says, “on the fourth day ten bullocks.”",
-          "q": "How many bullocks were offered on the fourth day?"
-        },
-        {
-          "answers": [
-            "Twelve",
-            "Nine",
             "Seven"
           ],
           "correct": 1,
-          "explanation": "Verse 25 lists nine bullocks.",
-          "q": "How many bullocks were offered on the fifth day?"
+          "explanation": "The passage repeatedly lists two rams.",
+          "q": "How many rams were offered on each of these days?"
         },
         {
           "answers": [
             "Seven",
             "Fourteen",
-            "Eight"
+            "Twelve"
           ],
           "correct": 1,
-          "explanation": "Both days include fourteen lambs.",
+          "explanation": "Each day's offering included fourteen lambs of the first year.",
           "q": "How many lambs were offered on each of these days?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "It decreases from eleven to ten",
-            "It decreases from ten to nine",
-            "It increases from nine to ten"
+            "It decreased each day",
+            "It increased each day",
+            "It stayed at fourteen"
           ],
-          "correct": 1,
-          "explanation": "The fourth day has ten bullocks and the fifth has nine.",
-          "q": "What is the relationship between the number of bullocks on the fourth and fifth days?"
+          "correct": 0,
+          "explanation": "The number decreases from thirteen on the first day to seven on the seventh day.",
+          "q": "What happened to the number of bullocks from day to day?"
         },
         {
           "answers": [
-            "Liquid offerings accompanying the sacrifices",
-            "Animals offered on the altar",
-            "Festival days"
+            "The offerings were arranged according to the number of animals",
+            "They were arranged by the place of sacrifice",
+            "They were based on the number of fasting days"
           ],
           "correct": 0,
-          "explanation": "Drink offerings are liquids presented along with the sacrifices.",
-          "q": "What are “drink offerings”?"
-        },
-        {
-          "answers": [
-            "One kid of the goats",
-            "Two goats",
-            "One bullock"
-          ],
-          "correct": 0,
-          "explanation": "Each day includes one kid of the goats for a sin offering.",
-          "q": "Which sin offering appears on both days?"
-        }
-      ],
-      "challenge": [
-        {
-          "answers": [
-            "The number of bullocks continues to decrease",
-            "The number of bullocks begins to increase",
-            "The number of lambs changes"
-          ],
-          "correct": 0,
-          "explanation": "The number continues downward through the festival sequence.",
-          "q": "How does the fourth day continue the earlier pattern?"
-        },
-        {
-          "answers": [
-            "Two rams, fourteen lambs, and one sin offering",
-            "One ram and seven lambs only",
-            "One bullock without a sin offering"
-          ],
-          "correct": 0,
-          "explanation": "The verses repeatedly list two rams, fourteen lambs, and one goat for a sin offering.",
-          "q": "Which combination is correct for the fourth and fifth days?"
-        },
-        {
-          "answers": [
-            "The structure of the sacrifices remains while the number of bullocks changes",
-            "There are no more burnt offerings",
-            "The feast has ended"
-          ],
-          "correct": 0,
-          "explanation": "The accompanying offerings remain part of the ordered sacrifice even as the bullock count decreases.",
-          "q": "What does the repeated mention of meal offerings, drink offerings, and the sin offering show?"
-        }
-      ],
-      "idea": 5
-    },
-    {
-      "paragraph": 6,
-      "start_verse": 26,
-      "end_verse": 28,
-      "title": "The Sixth and Seventh Days of Sukkot",
-      "easy": [
-        {
-          "answers": [
-            "Eight",
-            "Seven",
-            "Nine"
-          ],
-          "correct": 0,
-          "explanation": "Verse 26 lists eight bullocks.",
-          "q": "How many bullocks were offered on the sixth day?"
-        },
-        {
-          "answers": [
-            "Eight",
-            "Seven",
-            "Six"
-          ],
-          "correct": 1,
-          "explanation": "Verse 29 says, “on the seventh day seven bullocks.”",
-          "q": "How many bullocks were offered on the seventh day?"
+          "explanation": "The meat and drink offerings were given according to the number of bullocks, rams, and lambs.",
+          "q": "What does “according to their number” mean?"
         },
         {
           "answers": [
             "Two rams and fourteen lambs",
-            "One ram and seven lambs",
-            "Two rams and seven lambs"
+            "Thirteen bullocks and two rams",
+            "Only one sin offering"
           ],
           "correct": 0,
-          "explanation": "The verse specifies two rams and fourteen lambs.",
-          "q": "How many rams and lambs were offered on the seventh day?"
-        }
-      ],
-      "medium": [
-        {
-          "answers": [
-            "It decreases by two",
-            "It decreases by one",
-            "It remains unchanged"
-          ],
-          "correct": 1,
-          "explanation": "The number falls from eight to seven.",
-          "q": "What happens to the number of bullocks from the sixth day to the seventh?"
-        },
-        {
-          "answers": [
-            "They were made according to the established order",
-            "They were made without order",
-            "They were made only on the first day"
-          ],
-          "correct": 0,
-          "explanation": "The phrase indicates that the offerings followed the prescribed procedure.",
-          "q": "What does “after the manner” suggest about the offerings?"
-        },
-        {
-          "answers": [
-            "One goat for a sin offering",
-            "Two bullocks",
-            "One ram"
-          ],
-          "correct": 0,
-          "explanation": "Both verses mention one goat for a sin offering.",
-          "q": "Which sin offering is mentioned on both days?"
+          "explanation": "The passage keeps the number of rams at two and lambs at fourteen.",
+          "q": "Which detail remained constant as the number of bullocks decreased?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "The bullocks decrease while the rams and lambs remain constant",
-            "All the offerings decrease",
-            "The number of lambs increases"
+            "Seven, following the daily decrease",
+            "Fourteen, following a daily increase",
+            "One, with no connection to the earlier days"
           ],
           "correct": 0,
-          "explanation": "The bullocks decrease from day to day, while two rams and fourteen lambs remain listed.",
-          "q": "What numerical pattern is visible by the seventh day?"
+          "explanation": "Verse 32 lists seven bullocks, continuing the decrease.",
+          "q": "How many bullocks were offered on the seventh day?"
         },
         {
           "answers": [
-            "Seven",
-            "Eight",
-            "Nine"
+            "Eight bullocks, two rams, and fourteen lambs",
+            "Nine bullocks, one ram, and seven lambs",
+            "Seven bullocks, two rams, and seven lambs"
           ],
           "correct": 0,
-          "explanation": "The seventh day has seven bullocks.",
-          "q": "What is the lowest number of bullocks in the seven-day sequence?"
+          "explanation": "Verse 29 lists eight bullocks, two rams, and fourteen lambs.",
+          "q": "Which combination correctly describes the sixth day?"
         },
         {
           "answers": [
-            "The meal and drink offerings follow their number and prescribed manner",
-            "There are no meal or drink offerings",
-            "They are replaced by trumpet blasts"
+            "Each includes a sin offering and the continual burnt offering",
+            "Each has thirteen bullocks",
+            "Each says the feast lasts seven days"
           ],
           "correct": 0,
-          "explanation": "The passage says these offerings shall be according to their number and after the manner.",
-          "q": "What connects these offerings with the established order?"
+          "explanation": "Each daily description includes a goat or kid for a sin offering beside the continual offering.",
+          "q": "What do the descriptions of the second through seventh days have in common?"
         }
       ],
-      "idea": 6
+      "idea": 4
     },
     {
-      "paragraph": 7,
+      "paragraph": 5,
       "start_verse": 29,
-      "end_verse": 32,
-      "title": "Completion of the Festival Offering Sequence",
+      "end_verse": 31,
+      "title": "The Eighth Day and Assembly",
       "easy": [
         {
           "answers": [
-            "The sixth day",
-            "The seventh day",
-            "The eighth day"
+            "A day of blowing",
+            "A solemn assembly",
+            "The day of atonement"
           ],
           "correct": 1,
-          "explanation": "Verse 29 begins, “on the seventh day.”",
-          "q": "Which day of the feast is described in verse 29?"
+          "explanation": "Verse 35 says, “On the eighth day ye shall have a solemn assembly.”",
+          "q": "What was the eighth day called?"
         },
         {
           "answers": [
-            "Eight",
-            "Seven",
-            "One"
+            "Servile work",
+            "The offering of lambs",
+            "The pouring of drink offerings"
           ],
-          "correct": 1,
-          "explanation": "The passage lists seven bullocks for the seventh day.",
-          "q": "How many bullocks were offered on the seventh day?"
+          "correct": 0,
+          "explanation": "The verse says, “ye shall do no servile work therein.”",
+          "q": "What work was forbidden on the eighth day?"
         },
         {
           "answers": [
@@ -654,76 +448,179 @@
             "Fourteen",
             "One"
           ],
-          "correct": 1,
-          "explanation": "Verse 29 lists fourteen lambs of the first year.",
-          "q": "How many lambs were offered on the seventh day?"
+          "correct": 0,
+          "explanation": "Verse 36 lists seven lambs of the first year.",
+          "q": "How many lambs were offered on the eighth day?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "One",
-            "Two",
-            "Four"
+            "One bullock, one ram, and seven lambs",
+            "Thirteen bullocks, two rams, and fourteen lambs",
+            "Seven bullocks and two rams"
           ],
-          "correct": 1,
-          "explanation": "The verse specifies two rams.",
-          "q": "How many rams were offered on the seventh day?"
+          "correct": 0,
+          "explanation": "Verse 36 gives this list of animals.",
+          "q": "Which animals were offered as the burnt offering on the eighth day?"
         },
         {
           "answers": [
-            "One goat",
-            "Two rams",
-            "One bullock"
+            "A serious sacred gathering",
+            "A day for ordinary labor",
+            "A gathering only for counting animals"
           ],
           "correct": 0,
-          "explanation": "Verse 31 says, “one goat for a sin offering.”",
-          "q": "What was offered for a sin offering?"
+          "explanation": "The expression describes a solemn and sacred assembly.",
+          "q": "What is a “solemn assembly”?"
         },
         {
           "answers": [
-            "Their meal and drink offerings",
-            "Only trumpet blasts",
-            "Only peace offerings"
+            "Meat offerings and drink offerings",
+            "Only a second sin offering",
+            "Only the offering of the month"
           ],
           "correct": 0,
-          "explanation": "The passage says their meal and drink offerings were made according to their number and manner.",
-          "q": "What accompanied the bullocks, rams, and lambs?"
+          "explanation": "Verse 37 mentions their meat offerings and drink offerings.",
+          "q": "What accompanied the animal offerings?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "The number of bullocks has decreased from thirteen to seven",
-            "The number of lambs has decreased to seven",
-            "The number of rams has increased each day"
+            "Thirteen were offered on the first day and one on the eighth",
+            "Thirteen were offered on both days",
+            "One was offered on the first day and thirteen on the eighth"
           ],
           "correct": 0,
-          "explanation": "Across the festival sequence, the bullocks decrease from thirteen on the first day to seven on the seventh.",
-          "q": "What pattern is completed by the seventh day?"
+          "explanation": "The first day had thirteen bullocks, while the eighth day had one.",
+          "q": "How did the number of bullocks differ between the first and eighth days?"
         },
         {
           "answers": [
-            "Seven bullocks, two rams, fourteen lambs, and one goat for a sin offering",
-            "One bullock, one ram, and seven lambs only",
-            "Fourteen bullocks and one lamb"
+            "Both include one bullock, one ram, and seven lambs",
+            "Both include thirteen bullocks",
+            "Neither includes meat offerings"
           ],
           "correct": 0,
-          "explanation": "These are the animals listed in verses 29–31.",
-          "q": "Which description correctly summarizes the seventh day’s offerings?"
+          "explanation": "Both offerings have one bullock, one ram, and seven lambs.",
+          "q": "What similarity exists between the offering in verse 2 and the offering on the eighth day?"
         },
         {
           "answers": [
-            "The offerings followed an established order",
-            "The offerings were optional and unregulated",
-            "Only the sin offering mattered"
+            "It was specially sacred",
+            "It was an ordinary workday",
+            "It was only a day for drink offerings"
           ],
           "correct": 0,
-          "explanation": "The phrase emphasizes conformity to the prescribed number and procedure.",
-          "q": "What does the repeated phrase “according to their number, after the manner” emphasize?"
+          "explanation": "The sacred assembly and prohibition of servile work mark the day as special.",
+          "q": "What do the solemn assembly and prohibition of work show about the day?"
         }
       ],
-      "idea": 7
+      "idea": 5
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 32,
+      "end_verse": 32,
+      "title": "Summary of the Festival Offerings",
+      "easy": [
+        {
+          "answers": [
+            "Unto the LORD",
+            "Unto the priests only",
+            "Unto the people only"
+          ],
+          "correct": 0,
+          "explanation": "Verse 39 says, “These things ye shall do unto the LORD.”",
+          "q": "To whom were these things to be done?"
+        },
+        {
+          "answers": [
+            "In the set feasts",
+            "Only during wartime",
+            "Only on ordinary workdays"
+          ],
+          "correct": 0,
+          "explanation": "The verse refers to the LORD’s “set feasts.”",
+          "q": "When were these offerings to be made?"
+        },
+        {
+          "answers": [
+            "Vows",
+            "Peace offerings",
+            "Drink offerings"
+          ],
+          "correct": 0,
+          "explanation": "The verse begins, “beside your vows.”",
+          "q": "Which personal offering is mentioned first?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Appointed festival times",
+            "Private family meals",
+            "Days of military training"
+          ],
+          "correct": 0,
+          "explanation": "The phrase refers to the appointed times of worship.",
+          "q": "What does “set feasts” mean in this verse?"
+        },
+        {
+          "answers": [
+            "Vows and freewill offerings",
+            "Bullocks and rams",
+            "Daily and continual offerings"
+          ],
+          "correct": 0,
+          "explanation": "The verse mentions “your vows, and your freewill offerings.”",
+          "q": "Which personal offerings are explicitly named?"
+        },
+        {
+          "answers": [
+            "An offering given voluntarily",
+            "An offering required every morning",
+            "An offering made only by a priest"
+          ],
+          "correct": 0,
+          "explanation": "A freewill offering is given willingly rather than as a fixed obligation.",
+          "q": "What is a freewill offering?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "Festival offerings were made in addition to several personal offerings",
+            "Festival offerings replaced every personal offering",
+            "Only peace offerings were allowed at the feasts"
+          ],
+          "correct": 0,
+          "explanation": "The verse says the festival offerings were made beside vows, freewill offerings, and other offerings.",
+          "q": "What is the main point of the summary verse?"
+        },
+        {
+          "answers": [
+            "Burnt, meat, drink, and peace offerings",
+            "Trumpets, fasting, assembly, and labor",
+            "Bullocks, rams, lambs, and goats"
+          ],
+          "correct": 0,
+          "explanation": "The verse names burnt offerings, meat offerings, drink offerings, and peace offerings.",
+          "q": "Which list contains all the offering types named near the end of the verse?"
+        },
+        {
+          "answers": [
+            "In addition to",
+            "Instead of",
+            "Far away from"
+          ],
+          "correct": 0,
+          "explanation": "Here “beside” means that the festival offerings were added to the other offerings named.",
+          "q": "What does “beside” mean in the summary?"
+        }
+      ],
+      "idea": 6
     }
   ]
 }
