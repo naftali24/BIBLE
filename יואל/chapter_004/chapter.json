@@ -1,0 +1,441 @@
+{
+  "book": "Joel",
+  "book_he": "יואל",
+  "book_chapters": 4,
+  "chapter": 4,
+  "title": "יואל פרק 4",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1404.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t1404.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOL/3-bd59b0561d72297381166c4542971f9a.mp3?version_id=1",
+  "verses": [
+    "כִּי, הִנֵּה בַּיָּמִים הָהֵמָּה--וּבָעֵת הַהִיא: אֲשֶׁר אשוב אָשִׁיב אֶת-שְׁבוּת יְהוּדָה, וִירוּשָׁלִָם.",
+    "וְקִבַּצְתִּי, אֶת-כָּל-הַגּוֹיִם, וְהוֹרַדְתִּים, אֶל-עֵמֶק יְהוֹשָׁפָט; וְנִשְׁפַּטְתִּי עִמָּם שָׁם, עַל-עַמִּי וְנַחֲלָתִי יִשְׂרָאֵל אֲשֶׁר פִּזְּרוּ בַגּוֹיִם, וְאֶת-אַרְצִי, חִלֵּקוּ.",
+    "וְאֶל-עַמִּי, יַדּוּ גוֹרָל; וַיִּתְּנוּ הַיֶּלֶד בַּזּוֹנָה, וְהַיַּלְדָּה מָכְרוּ בַיַּיִן וַיִּשְׁתּוּ.",
+    "וְגַם מָה-אַתֶּם לִי, צֹר וְצִידוֹן, וְכֹל, גְּלִילוֹת פְּלָשֶׁת; הַגְּמוּל, אַתֶּם מְשַׁלְּמִים עָלָי, וְאִם-גֹּמְלִים אַתֶּם עָלַי, קַל מְהֵרָה אָשִׁיב גְּמֻלְכֶם בְּרֹאשְׁכֶם.",
+    "אֲשֶׁר-כַּסְפִּי וּזְהָבִי, לְקַחְתֶּם; וּמַחֲמַדַּי, הַטֹּבִים, הֲבֵאתֶם, לְהֵיכְלֵיכֶם.",
+    "וּבְנֵי יְהוּדָה וּבְנֵי יְרוּשָׁלִַם, מְכַרְתֶּם לִבְנֵי הַיְּוָנִים, לְמַעַן הַרְחִיקָם, מֵעַל גְּבוּלָם.",
+    "הִנְנִי מְעִירָם--מִן-הַמָּקוֹם, אֲשֶׁר-מְכַרְתֶּם אֹתָם שָׁמָּה; וַהֲשִׁבֹתִי גְמֻלְכֶם, בְּרֹאשְׁכֶם.",
+    "וּמָכַרְתִּי אֶת-בְּנֵיכֶם וְאֶת-בְּנוֹתֵיכֶם, בְּיַד בְּנֵי יְהוּדָה, וּמְכָרוּם לִשְׁבָאיִם, אֶל-גּוֹי רָחוֹק: כִּי יְהוָה, דִּבֵּר.",
+    "קִרְאוּ-זֹאת, בַּגּוֹיִם, קַדְּשׁוּ, מִלְחָמָה; הָעִירוּ, הַגִּבּוֹרִים--יִגְּשׁוּ יַעֲלוּ, כֹּל אַנְשֵׁי הַמִּלְחָמָה.",
+    "כֹּתּוּ אִתֵּיכֶם לַחֲרָבוֹת, וּמַזְמְרֹתֵיכֶם לִרְמָחִים; הַחַלָּשׁ, יֹאמַר גִּבּוֹר אָנִי.",
+    "עוּשׁוּ וָבֹאוּ כָל-הַגּוֹיִם מִסָּבִיב, וְנִקְבָּצוּ; שָׁמָּה, הַנְחַת יְהוָה גִּבּוֹרֶיךָ.",
+    "יֵעוֹרוּ וְיַעֲלוּ הַגּוֹיִם, אֶל-עֵמֶק יְהוֹשָׁפָט: כִּי שָׁם, אֵשֵׁב לִשְׁפֹּט אֶת-כָּל-הַגּוֹיִם--מִסָּבִיב.",
+    "שִׁלְחוּ מַגָּל, כִּי בָשַׁל קָצִיר; בֹּאוּ רְדוּ, כִּי-מָלְאָה גַּת--הֵשִׁיקוּ הַיְקָבִים, כִּי רַבָּה רָעָתָם.",
+    "הֲמוֹנִים הֲמוֹנִים, בְּעֵמֶק הֶחָרוּץ: כִּי קָרוֹב יוֹם יְהוָה, בְּעֵמֶק הֶחָרוּץ.",
+    "שֶׁמֶשׁ וְיָרֵחַ, קָדָרוּ; וְכוֹכָבִים, אָסְפוּ נָגְהָם.",
+    "וַיהוָה מִצִּיּוֹן יִשְׁאָג, וּמִירוּשָׁלִַם יִתֵּן קוֹלוֹ, וְרָעֲשׁוּ, שָׁמַיִם וָאָרֶץ; וַיהוָה מַחֲסֶה לְעַמּוֹ, וּמָעוֹז לִבְנֵי יִשְׂרָאֵל.",
+    "וִידַעְתֶּם, כִּי אֲנִי יְהוָה אֱלֹהֵיכֶם, שֹׁכֵן, בְּצִיּוֹן הַר-קָדְשִׁי; וְהָיְתָה יְרוּשָׁלִַם קֹדֶשׁ, וְזָרִים לֹא-יַעַבְרוּ-בָהּ עוֹד.",
+    "וְהָיָה בַיּוֹם הַהוּא יִטְּפוּ הֶהָרִים עָסִיס, וְהַגְּבָעוֹת תֵּלַכְנָה חָלָב, וְכָל-אֲפִיקֵי יְהוּדָה, יֵלְכוּ מָיִם; וּמַעְיָן, מִבֵּית יְהוָה יֵצֵא, וְהִשְׁקָה, אֶת-נַחַל הַשִּׁטִּים.",
+    "מִצְרַיִם, לִשְׁמָמָה תִהְיֶה, וֶאֱדוֹם, לְמִדְבַּר שְׁמָמָה תִּהְיֶה; מֵחֲמַס בְּנֵי יְהוּדָה, אֲשֶׁר-שָׁפְכוּ דָם-נָקִיא בְּאַרְצָם.",
+    "וִיהוּדָה, לְעוֹלָם תֵּשֵׁב; וִירוּשָׁלִַם, לְדוֹר וָדוֹר.",
+    "וְנִקֵּיתִי, דָּמָם לֹא-נִקֵּיתִי; וַיהוָה, שֹׁכֵן בְּצִיּוֹן. {ש}"
+  ],
+  "english": [
+    "For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,",
+    "I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.",
+    "And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.",
+    "Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;",
+    "Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:",
+    "The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.",
+    "Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:",
+    "And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken it .",
+    "Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:",
+    "Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.",
+    "Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD . shall bring down",
+    "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.",
+    "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.",
+    "Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision.",
+    "The sun and the moon shall be darkened, and the stars shall withdraw their shining.",
+    "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel.",
+    "So shall ye know that I am the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.",
+    "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD , and shall water the valley of Shittim.",
+    "Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land.",
+    "But Judah shall dwell for ever, and Jerusalem from generation to generation.",
+    "For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion. that"
+  ],
+  "steinsaltz": [
+    "כִּי הִנֵּה בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא אֲשֶׁר אָשִׁיב אֶת־שְׁבוּת יְהוּדָה וִירוּשָׁלִָם, וִירוּשָׁלִָם,",
+    "וְקִבַּצְתִּי אֶת־כָּל־הַגּוֹיִם וְהוֹרַדְתִּים אֶל־עֵמֶק יְהוֹשָׁפָט, וְנִשְׁפַּטְתִּי עִמָּם שָׁם עַל־עַמִּי וְנַחֲלָתִי יִשְׂרָאֵל אֲשֶׁר פִּזְּרוּ אותם בַגּוֹיִם, וְאֶת־אַרְצִי חִלֵּקוּ.",
+    "וְאֶל, על שבויי בני עַמִּי יַדּוּ, יפילו גוֹרָל. וַיִּתְּנוּ הַיֶּלֶד בַּזּוֹנָה. ככל ששבוי גדול וחזק יותר, כך מחירו גבוה יותר. על כן ילד, שאין מחירו רב, יימכר בעד ביקור אצל זונה. וְאת הַיַּלְדָּה מָכְרוּ בַעבור יַּיִן וַיִּשְׁתּוּ.",
+    "וְגַם אשפוט עמים מסוימים – מָה־אַתֶּם, ערככם לִי, צֹר וְצִידוֹן וְכֹל גְּלִילוֹת פְּלָשֶׁת?! הַגְּמוּל אַתֶּם מְשַׁלְּמִים עָלָי, וְאִם־גֹּמְלִים אַתֶּם עָלַי?! מה אתם עושים למעני?! האם אתם נותנים לי דבר-מה?! קַל מְהֵרָה, במהירות אָשִׁיב גְּמֻלְכֶם בְּרֹאשְׁכֶם. זה יהיה משפט הצדק שלכם.",
+    "אֲשֶׁר־כַּסְפִּי וּזְהָבִי לְקַחְתֶּם, וּמַחֲמַדַּי הַטֹּבִים הֲבֵאתֶם לְהֵיכְלֵיכֶם.",
+    "ואת בְנֵי יְהוּדָה וּבְנֵי יְרוּשָׁלִַם השבויים מְכַרְתֶּם לִבְנֵי הַיְּוָנִים, לְמַעַן הַרְחִיקָם מֵעַל גְּבוּלָם. בצור, ובצידון ואף בערי הפלשתים ישבו ספנים. את השבויים שלקחו מבני יהודה, הם מכרו ליוון, שנחשבה אז לארץ רחוקה מאוד.",
+    "הִנְנִי מְעִירָם מִן־הַמָּקוֹם אֲשֶׁר־מְכַרְתֶּם אֹתָם שָׁמָּה, להחזיר אותם לארצם, וַהֲשִׁבֹתִי גְמֻלְכֶם בְּרֹאשְׁכֶם, והמצב יתהפך –",
+    "וּמָכַרְתִּי אֶת־בְּנֵיכֶם וְאֶת־בְּנֹתֵיכֶם בְּיַד בְּנֵי יְהוּדָה, וּמְכָרוּם לִשְׁבָאיִם, לתושבי ממלכת שבא, ששכנה או בקצה הדרומי של ערב הסעודית או בצדו האחר של הים, באפריקה המזרחית, אֶל־גּוֹי רָחוֹק, כִּי ה' דִּבֵּר.",
+    "קריאה למלחמה: קִרְאוּ־זֹאת בַּגּוֹיִם, הכריזו באוזני כולם, קַדְּשׁוּ, הכינו מִלְחָמָה, הָעִירוּ הַגִּבּוֹרִים, יִגְּשׁוּ יַעֲלוּ כֹּל אַנְשֵׁי הַמִּלְחָמָה.",
+    "כֹּתּוּ, שִׁברו את אִתֵּיכֶם, והִפכו את הברזל שלהן לַחֲרָבוֹת, ואת מַזְמְרֹתֵיכֶם, המשמשות לקציצת ענפים, עשו לִרְמָחִים. גם הַחַלָּשׁ יֹאמַר: גִּבּוֹר אָנִי, כי כולכם תבואו.",
+    "עוּשׁוּ, חושו, מהרו וָבֹאוּ כָל־הַגּוֹיִם מִסָּבִיב למקום אחד וְנִקְבָּצוּ, שָׁמָּה הַנְחַת, הורֵד, ה', את גִּבּוֹרֶיךָ, גיבורי אויביך.",
+    "יֵעוֹרוּ וְיַעֲלוּ הַגּוֹיִם אֶל־עֵמֶק יְהוֹשָׁפָט, כִּי שָׁם אֵשֵׁב לִשְׁפֹּט אֶת־כָּל־הַגּוֹיִם מִסָּבִיב.",
+    "תיאור סמלי של המלחמה: שִׁלְחוּ מַגָּל לקצור כִּי בָשַׁל כבר הקָצִיר. בֹּאוּ רְדוּ, כִּי־מָלְאָה הגַּת בענבים. הֵשִׁיקוּ, התמלאו הַיְקָבִים על גדותיהם כִּי רַבָּה רָעָתָם. הכול בשל ומוכן, והגיעה השעה להשיב לגויים כגמולם.",
+    "הֲמוֹנִים הֲמוֹנִים יבואו בְּעֵמֶק הֶחָרוּץ, עמק יהושפט, הנקרא כך משום שהוא תלול ומבותר, כִּי קָרוֹב יוֹם ה' בְּעֵמֶק הֶחָרוּץ.",
+    "שֶׁמֶשׁ וְיָרֵחַ קָדָרוּ, יחשכו ביום ה', וְכוֹכָבִים אָסְפוּ נָגְהָם, אורם. המאורות לא יאירו כלל.",
+    "וַה' מִצִּיּוֹן יִשְׁאָג וּמִירוּשָׁלִַם יִתֵּן קוֹלוֹ, וְרָעֲשׁוּ שָׁמַיִם וָאָרֶץ. תהיה מהומה, הכול יהיה קודר ואפל והעולם כולו ירעד, אך יחד עם זאת – וַה' יהיה מַחֲסֶה לְעַמּוֹ, וּמָעוֹז, מקום בטוח ומבוצר לִבְנֵי יִשְׂרָאֵל. אתם, בני ישראל, תהיו בטוחים.",
+    "וִידַעְתֶּם כִּי אֲנִי ה' אֱלֹהֵיכֶם שֹׁכֵן בְּצִיּוֹן הַר־קָדְשִׁי. וְהָיְתָה יְרוּשָׁלִַם קֹדֶשׁ ביד בניה, וְזָרִים לֹא־יַעַבְרוּ־בָהּ עוֹד לשם כיבוש או בתהלוכת ניצחון.",
+    "וְהָיָה בַיּוֹם הַהוּא יִטְּפוּ הֶהָרִים, ייזל מהם עָסִיס, מיץ פֵּרות וְהַגְּבָעוֹת תֵּלַכְנָה חָלָב. מן הגבעות ישפע חלב. וְכָל־אֲפִיקֵי יְהוּדָה, שבהווה הם יבשים למדי, יֵלְכוּ מָיִם. וּמַעְיָן מִבֵּית ה' יֵצֵא, ויהפוך לנהר גדול – וְהִשְׁקָה אֶת־נַחַל הַשִּׁטִּים, שהוא כנראה חלקו התחתון של נחל קדרון, שבית ה' עומד באגן ההיקוות שלו. נחל זה זורם מזרחה דרך מדבר יהודה לים המלח.",
+    "לעומת יהודה, שתהיה שופעת, פורייה ופורחת, מִצְרַיִם לִשְׁמָמָה תִהְיֶה, וֶאֱדוֹם, שאינה ידועה גם היום כשטח פורה במיוחד, לְמִדְבַּר שְׁמָמָה תִּהְיֶה. זוהי נקמת ה' בהם מֵחֲמַס בְּנֵי יְהוּדָה אֲשֶׁר־שָׁפְכוּ הגויים דָם־נָקִיא, נקי בְּאַרְצָם של בני יהודה.",
+    "וִיהוּדָה לְעוֹלָם תֵּשֵׁב, וִירוּשָׁלִַם לְדוֹר וָדוֹר.",
+    "ובאשר לכל אלה שנהרגו והתייסרו על ידי הגויים – וְנִקֵּיתִי, גם אם אנקה את הגויים משאר עברות שבידם – את דָּמָם של בני יהודה שנהרגו לשמי ולכבודי, לֹא־נִקֵּיתִי. וַה' שֹׁכֵן בְּצִיּוֹן. כשה' ימלוך בציון, יבוא הגמול הראוי לכול גם על שופכי הדם מימים עברו."
+  ],
+  "ai_explanation": [
+    "בימים שבהם ה' ישיב את שבות יהודה וירושלים, ייפתח שלב הגאולה והמשפט המתואר בהמשך.",
+    "ה' יקבץ את כל הגויים לעמק יהושפט וישפוט אותם על פיזור ישראל בין הגויים ועל חלוקת ארצו.",
+    "הגויים הטילו גורל על שבויי ישראל. את הילדים מכרו בזול, בעבור ביקור אצל זונה, ואת הילדות מכרו בעבור יין.",
+    "ה' מודיע לצור, לצידון ולערי פלשתים שהוא ישפוט אותן על מעשיהן. הוא שואל בלשון רטורית מה הן עושות למענו, ומצהיר שישיב במהירות את גמולן על ראשן.",
+    "הגויים לקחו את הכסף, הזהב והחפצים היקרים של ה' והביאו אותם להיכליהם.",
+    "את שבויי יהודה וירושלים מכרו הגויים ליוונים כדי להרחיקם מארצם. בצור, בצידון ובערי פלשתים היו ספנים שמכרו את השבויים ליוון, שנחשבה לארץ רחוקה.",
+    "ה' יעורר את השבויים מן המקום שאליו נמכרו וישיב אותם לארצם, ובכך ישיב את גמול הגויים על ראשם.",
+    "בני יהודה ימכרו את בני ובנות הגויים לשבאים, תושבי ממלכת שבא, בארץ רחוקה; כך יתקיים הגמול שה' דיבר עליו.",
+    "הגויים נקראים להכריז ולהכין מלחמה, להעיר את הגיבורים ולרכז את כל אנשי המלחמה.",
+    "הגויים מצווים להפוך את כלי העבודה לכלי נשק. אפילו החלש יאמר שהוא גיבור, משום שכולם יתגייסו למלחמה.",
+    "כל הגויים נקראים למהר ולהתקבץ במקום אחד, ושם ה' יוריד את גיבורי האויב.",
+    "הגויים יעלו לעמק יהושפט, ושם ה' ישב לשפוט את כל הגויים הסובבים.",
+    "המלחמה מתוארת בסמלים של קציר ובציר: הכול כבר בשל ומוכן, ורעת הגויים התמלאה, ולכן הגיעה השעה להשיב להם כגמולם.",
+    "המוני הגויים ייאספו בעמק החרוץ, הוא עמק יהושפט, הנקרא כך משום שהוא תלול ומבותר. שם יהיה קרוב יום ה'.",
+    "ביום ה' השמש והירח יחשכו, והכוכבים יאספו את אורם; המאורות לא יאירו.",
+    "ה' ישאג מציון וייתן את קולו מירושלים, והשמים והארץ ירעדו. עם זאת, ה' יהיה מחסה ומעוז בטוח לבני ישראל.",
+    "ישראל יכירו בה' השוכן בציון, בירושלים הקדושה. ירושלים תהיה בידי בניה, וזרים לא יעברו בה עוד לשם כיבוש או בתהלוכת ניצחון.",
+    "ביום ההוא הארץ תהיה שופעת: מן ההרים ייזל עסיס, מן הגבעות ישפע חלב, באפיקי יהודה יזרמו מים, ומעיין מבית ה' ישקה את נחל השיטים.",
+    "בניגוד ליהודה הפורייה, מצרים תהיה לשממה ואדום למדבר שממה. זהו גמול על החמס ועל שפיכת דם נקי של בני יהודה בארצם.",
+    "יהודה תשב לעולם וירושלים תתקיים מדור לדור.",
+    "ה' לא ינקה את דמם של בני יהודה שנהרגו והתייסרו בידי הגויים, גם אם ינקה את הגויים מעברות אחרות. הוא שוכן בציון, ומשם יבוא הגמול הראוי לשופכי הדם."
+  ],
+  "ai_explanation_en": [
+    "In the days when God restores Judah and Jerusalem, the stage is set for the redemption and judgment described below.",
+    "God will gather all the nations to the Valley of Jehoshaphat and judge them for scattering Israel among the nations and dividing its land.",
+    "The nations cast lots over Israelite captives. They sold the boys cheaply, in exchange for a visit to a prostitute, and sold the girls in exchange for wine.",
+    "God announces that He will judge Tyre, Sidon, and the Philistine regions for their deeds. He asks rhetorically what they are doing for Him and declares that He will quickly return their deeds upon their own heads.",
+    "The nations took God's silver, gold, and precious possessions and brought them into their temples.",
+    "The nations sold the captives from Judah and Jerusalem to the Greeks in order to remove them far from their land. Sailors in Tyre, Sidon, and the Philistine cities sold the captives to Greece, which was regarded as a very distant land.",
+    "God will awaken the captives from the place where they were sold and return them to their land, thereby bringing the nations' punishment back upon their own heads.",
+    "The sons and daughters of the nations will be sold by the people of Judah to the Sabeans, inhabitants of the distant kingdom of Sheba. This will fulfill the retribution spoken by God.",
+    "The nations are called upon to proclaim and prepare for war, awaken the warriors, and gather all the men of war.",
+    "The nations are commanded to turn their agricultural tools into weapons. Even the weak will say, 'I am a warrior,' because everyone will join the battle.",
+    "All the nations are called to hurry and gather in one place, where God will bring down the enemy's warriors.",
+    "The nations will go up to the Valley of Jehoshaphat, where God will sit to judge all the surrounding nations.",
+    "The war is described through images of harvest and grape pressing: everything is ripe and ready, and the nations' wickedness is full, so the time has come to repay them.",
+    "Crowds of nations will gather in the Valley of the Trench, meaning the Valley of Jehoshaphat, which is called this because it is steep and divided. The day of God will be near there.",
+    "On the day of God, the sun and moon will grow dark, and the stars will withdraw their light; the heavenly bodies will not shine.",
+    "God will roar from Zion and give His voice from Jerusalem, and the heavens and earth will tremble. At the same time, God will be a refuge and a secure stronghold for the Israelites.",
+    "Israel will recognize God as the One who dwells in Zion, His holy mountain, and Jerusalem will be holy. It will belong to its children, and foreigners will no longer pass through it for conquest or in a victory procession.",
+    "On that day the land will be abundant: sweetness will flow from the mountains, milk will stream from the hills, water will run through Judah's channels, and a spring from the Temple of God will water the Wadi of the Acacias.",
+    "In contrast to fertile Judah, Egypt will become desolate and Edom a desolate wilderness. This will be punishment for the violence and the shedding of innocent Judahite blood in their land.",
+    "Judah will dwell forever, and Jerusalem will endure from generation to generation.",
+    "God will not cleanse away the blood of the people of Judah who were killed and afflicted by the nations, even if He cleanses the nations of other sins. He dwells in Zion, and from there the proper retribution will come upon those who shed that blood."
+  ],
+  "perush": [
+    "בימים שבהם ה' ישיב את שבות יהודה וירושלים, ייפתח שלב הגאולה והמשפט המתואר בהמשך.",
+    "ה' יקבץ את כל הגויים לעמק יהושפט וישפוט אותם על פיזור ישראל בין הגויים ועל חלוקת ארצו.",
+    "הגויים הטילו גורל על שבויי ישראל. את הילדים מכרו בזול, בעבור ביקור אצל זונה, ואת הילדות מכרו בעבור יין.",
+    "ה' מודיע לצור, לצידון ולערי פלשתים שהוא ישפוט אותן על מעשיהן. הוא שואל בלשון רטורית מה הן עושות למענו, ומצהיר שישיב במהירות את גמולן על ראשן.",
+    "הגויים לקחו את הכסף, הזהב והחפצים היקרים של ה' והביאו אותם להיכליהם.",
+    "את שבויי יהודה וירושלים מכרו הגויים ליוונים כדי להרחיקם מארצם. בצור, בצידון ובערי פלשתים היו ספנים שמכרו את השבויים ליוון, שנחשבה לארץ רחוקה.",
+    "ה' יעורר את השבויים מן המקום שאליו נמכרו וישיב אותם לארצם, ובכך ישיב את גמול הגויים על ראשם.",
+    "בני יהודה ימכרו את בני ובנות הגויים לשבאים, תושבי ממלכת שבא, בארץ רחוקה; כך יתקיים הגמול שה' דיבר עליו.",
+    "הגויים נקראים להכריז ולהכין מלחמה, להעיר את הגיבורים ולרכז את כל אנשי המלחמה.",
+    "הגויים מצווים להפוך את כלי העבודה לכלי נשק. אפילו החלש יאמר שהוא גיבור, משום שכולם יתגייסו למלחמה.",
+    "כל הגויים נקראים למהר ולהתקבץ במקום אחד, ושם ה' יוריד את גיבורי האויב.",
+    "הגויים יעלו לעמק יהושפט, ושם ה' ישב לשפוט את כל הגויים הסובבים.",
+    "המלחמה מתוארת בסמלים של קציר ובציר: הכול כבר בשל ומוכן, ורעת הגויים התמלאה, ולכן הגיעה השעה להשיב להם כגמולם.",
+    "המוני הגויים ייאספו בעמק החרוץ, הוא עמק יהושפט, הנקרא כך משום שהוא תלול ומבותר. שם יהיה קרוב יום ה'.",
+    "ביום ה' השמש והירח יחשכו, והכוכבים יאספו את אורם; המאורות לא יאירו.",
+    "ה' ישאג מציון וייתן את קולו מירושלים, והשמים והארץ ירעדו. עם זאת, ה' יהיה מחסה ומעוז בטוח לבני ישראל.",
+    "ישראל יכירו בה' השוכן בציון, בירושלים הקדושה. ירושלים תהיה בידי בניה, וזרים לא יעברו בה עוד לשם כיבוש או בתהלוכת ניצחון.",
+    "ביום ההוא הארץ תהיה שופעת: מן ההרים ייזל עסיס, מן הגבעות ישפע חלב, באפיקי יהודה יזרמו מים, ומעיין מבית ה' ישקה את נחל השיטים.",
+    "בניגוד ליהודה הפורייה, מצרים תהיה לשממה ואדום למדבר שממה. זהו גמול על החמס ועל שפיכת דם נקי של בני יהודה בארצם.",
+    "יהודה תשב לעולם וירושלים תתקיים מדור לדור.",
+    "ה' לא ינקה את דמם של בני יהודה שנהרגו והתייסרו בידי הגויים, גם אם ינקה את הגויים מעברות אחרות. הוא שוכן בציון, ומשם יבוא הגמול הראוי לשופכי הדם."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "השבת יהודה ומשפט הגויים על פשעיהם",
+      "title_en": "The Restoration of Judah and Judgment of the Nations",
+      "start_verse": 1,
+      "end_verse": 3,
+      "summary": "ה' ישיב את שבות יהודה וירושלים, יקבץ את הגויים לעמק יהושפט וישפוט אותם על פיזור ישראל, חלוקת הארץ וסחר בשבויים.",
+      "summary_en": "God will restore Judah and Jerusalem, gather the nations to the Valley of Jehoshaphat, and judge them for scattering Israel, dividing its land, and trading in captives.",
+      "image_prompt": "A solemn biblical prophetic scene: restored Jerusalem in the distance, nations gathered in a valley before divine judgment, and symbolic lots cast over captives; respectful, dramatic, no modern objects, no text"
+    },
+    {
+      "title": "הגמול לצור, לצידון ולפלשתים",
+      "title_en": "Retribution Against Tyre, Sidon, and Philistia",
+      "start_verse": 4,
+      "end_verse": 8,
+      "summary": "ה' מודיע לצור, לצידון ולערי פלשתים שהוא ישיב להן במהירות את גמולן על לקיחת אוצרותיו ומכירת בני יהודה וירושלים לארץ רחוקה.",
+      "summary_en": "God declares to Tyre, Sidon, and the Philistine cities that He will quickly repay them for taking His treasures and selling the people of Judah and Jerusalem to a distant land.",
+      "image_prompt": "A symbolic ancient coastal marketplace near fortified cities, precious vessels being carried away, distant ships representing the sale of captives, and a prophetic sign of reversal; biblical atmosphere, no text, no anachronisms"
+    },
+    {
+      "title": "קריאת הגויים למלחמה ולעמק המשפט",
+      "title_en": "The Nations Summoned to War and Judgment",
+      "start_verse": 9,
+      "end_verse": 12,
+      "summary": "הגויים נקראים להכין מלחמה, להפוך כלי עבודה לכלי נשק ולהתקבץ בעמק יהושפט, שם ישפוט ה' את כולם ויוריד את גיבורי האויב.",
+      "summary_en": "The nations are summoned to prepare for war, turn agricultural tools into weapons, and gather in the Valley of Jehoshaphat, where God will judge them and bring down the enemy's warriors.",
+      "image_prompt": "A prophetic battlefield gathering in a steep valley, agricultural tools symbolically transformed into swords and spears, armies converging while a divine presence oversees judgment; epic biblical style, no text"
+    },
+    {
+      "title": "המלחמה כסמל לקציר ולבציר",
+      "title_en": "War Imagined as Harvest and Grape Pressing",
+      "start_verse": 13,
+      "end_verse": 16,
+      "summary": "רעת הגויים מתוארת כיבול בשל וכגת מלאה, ולכן הגיע הזמן לקצור ולדרוך. ביום ה' המאורות יחשכו והעולם ירעד, אך ה' יהיה מחסה לעמו.",
+      "summary_en": "The nations' wickedness is portrayed as a ripe harvest and an overflowing winepress, so the time for reaping has come. On the day of God the heavenly lights will darken and the world will tremble, but God will be a refuge for His people.",
+      "image_prompt": "A symbolic prophetic landscape with a ripe grain field, an overflowing grape press, darkened sun and moon, trembling earth, and a protected refuge on Mount Zion; dramatic biblical imagery, no text"
+    },
+    {
+      "title": "קדושת ירושלים ושפע הארץ",
+      "title_en": "Jerusalem's Holiness and the Abundance of the Land",
+      "start_verse": 17,
+      "end_verse": 18,
+      "summary": "ישראל יכירו בה' השוכן בציון, ירושלים תהיה קדושה ובטוחה מפני זרים, והארץ תתברך בשפע של עסיס, חלב ומים שמקורם במעיין מבית ה'.",
+      "summary_en": "Israel will recognize God dwelling in Zion, Jerusalem will be holy and secure from foreigners, and the land will be blessed with abundant sweetness, milk, and water flowing from a spring of the Temple.",
+      "image_prompt": "Holy Jerusalem on Mount Zion surrounded by a peaceful fertile landscape, water flowing from the Temple toward the Wadi of the Acacias, fruitful hills and abundant streams; reverent biblical style, no text"
+    },
+    {
+      "title": "חורבן מצרים ואדום, נצח יהודה וגמול הדמים",
+      "title_en": "The Desolation of Egypt and Edom, and the Lasting Retribution",
+      "start_verse": 19,
+      "end_verse": 21,
+      "summary": "מצרים ואדום יהיו לשממה בגלל החמס ושפיכת הדם, ואילו יהודה וירושלים יתקיימו לעולם. ה' לא ינקה את דם בני יהודה ויביא גמול על שופכיו.",
+      "summary_en": "Egypt and Edom will become desolate because of violence and bloodshed, while Judah and Jerusalem will endure forever. God will not cleanse away the blood of Judah's people and will bring retribution upon those who shed it.",
+      "image_prompt": "A contrast between desolate lands representing Egypt and Edom and a flourishing everlasting Judah with Jerusalem at its center, under the watchful divine presence in Zion; solemn prophetic biblical art, no text"
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 11.36,
+      "usfm": "JOL.3.1"
+    },
+    {
+      "start": 11.36,
+      "end": 25.46,
+      "usfm": "JOL.3.2"
+    },
+    {
+      "start": 25.46,
+      "end": 33.62,
+      "usfm": "JOL.3.3"
+    },
+    {
+      "start": 33.62,
+      "end": 48.1,
+      "usfm": "JOL.3.4"
+    },
+    {
+      "start": 48.1,
+      "end": 54.56,
+      "usfm": "JOL.3.5"
+    },
+    {
+      "start": 54.56,
+      "end": 64.12,
+      "usfm": "JOL.3.6"
+    },
+    {
+      "start": 64.12,
+      "end": 73.2,
+      "usfm": "JOL.3.7"
+    },
+    {
+      "start": 73.2,
+      "end": 86.08,
+      "usfm": "JOL.3.8"
+    },
+    {
+      "start": 86.08,
+      "end": 95.28,
+      "usfm": "JOL.3.9"
+    },
+    {
+      "start": 95.28,
+      "end": 104.66,
+      "usfm": "JOL.3.10"
+    },
+    {
+      "start": 104.66,
+      "end": 113.74,
+      "usfm": "JOL.3.11"
+    },
+    {
+      "start": 113.74,
+      "end": 122.08,
+      "usfm": "JOL.3.12"
+    },
+    {
+      "start": 122.08,
+      "end": 132.08,
+      "usfm": "JOL.3.13"
+    },
+    {
+      "start": 132.08,
+      "end": 139.48,
+      "usfm": "JOL.3.14"
+    },
+    {
+      "start": 139.48,
+      "end": 144.8,
+      "usfm": "JOL.3.15"
+    },
+    {
+      "start": 144.8,
+      "end": 158.96,
+      "usfm": "JOL.3.16"
+    },
+    {
+      "start": 158.96,
+      "end": 171.3,
+      "usfm": "JOL.3.17"
+    },
+    {
+      "start": 171.3,
+      "end": 188.88,
+      "usfm": "JOL.3.18"
+    },
+    {
+      "start": 188.88,
+      "end": 201.74,
+      "usfm": "JOL.3.19"
+    },
+    {
+      "start": 201.74,
+      "end": 209.0,
+      "usfm": "JOL.3.20"
+    },
+    {
+      "start": 209.0,
+      "end": 227.48,
+      "usfm": "JOL.3.21"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    11.36,
+    25.46,
+    33.62,
+    48.1,
+    54.56,
+    64.12,
+    73.2,
+    86.08,
+    95.28,
+    104.66,
+    113.74,
+    122.08,
+    132.08,
+    139.48,
+    144.8,
+    158.96,
+    171.3,
+    188.88,
+    201.74,
+    209.0,
+    227.48
+  ],
+  "times_en_usfm": [
+    "JOL.3.1",
+    "JOL.3.2",
+    "JOL.3.3",
+    "JOL.3.4",
+    "JOL.3.5",
+    "JOL.3.6",
+    "JOL.3.7",
+    "JOL.3.8",
+    "JOL.3.9",
+    "JOL.3.10",
+    "JOL.3.11",
+    "JOL.3.12",
+    "JOL.3.13",
+    "JOL.3.14",
+    "JOL.3.15",
+    "JOL.3.16",
+    "JOL.3.17",
+    "JOL.3.18",
+    "JOL.3.19",
+    "JOL.3.20",
+    "JOL.3.21"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "did_you_know": [
+    {
+      "verse": 1,
+      "text": "הידעת? הפרק נפתח בהבטחה שה' ישיב את שבות יהודה וירושלים — ביטוי לשיקום מצבו של העם ולהחזרתו לארצו.",
+      "text_he": "הידעת? הפרק נפתח בהבטחה שה' ישיב את שבות יהודה וירושלים — ביטוי לשיקום מצבו של העם ולהחזרתו לארצו.",
+      "text_en": "Did you know? The chapter opens with a promise that the Lord will restore Judah and Jerusalem—a phrase referring to the restoration of the people’s fortunes and their return to their land."
+    },
+    {
+      "verse": 2,
+      "text": "הידעת? הגויים נאספים לעמק יהושפט, ושם ה' מתואר כמי שישפוט אותם על פיזור ישראל, חלוקת הארץ והפגיעה בנחלתו.",
+      "text_he": "הידעת? הגויים נאספים לעמק יהושפט, ושם ה' מתואר כמי שישפוט אותם על פיזור ישראל, חלוקת הארץ והפגיעה בנחלתו.",
+      "text_en": "Did you know? The nations gather in the Valley of Jehoshaphat, where the Lord is portrayed as judging them for scattering Israel, dividing up the land, and harming His inheritance."
+    },
+    {
+      "verse": 3,
+      "text": "הידעת? חטאי הגויים מתוארים גם כסחר בבני אדם: הם הפילו גורל על בני העם ומכרו ילד תמורת זונה וילדה תמורת יין.",
+      "text_he": "הידעת? חטאי הגויים מתוארים גם כסחר בבני אדם: הם הפילו גורל על בני העם ומכרו ילד תמורת זונה וילדה תמורת יין.",
+      "text_en": "Did you know? The nations’ sins are also described as human trafficking: they cast lots for the people and sold a boy for a prostitute and a girl for wine."
+    },
+    {
+      "verse": 4,
+      "text": "הידעת? צור, צידון וערי פלשתים נזכרות בשמן כמי שעתידות לקבל גמול על מעשיהן נגד יהודה.",
+      "text_he": "הידעת? צור, צידון וערי פלשתים נזכרות בשמן כמי שעתידות לקבל גמול על מעשיהן נגד יהודה.",
+      "text_en": "Did you know? Tyre, Sidon, and the cities of Philistia are specifically named as those who will be repaid for their actions against Judah."
+    },
+    {
+      "verse": 6,
+      "text": "הידעת? לפי הפרק, בני יהודה וירושלים נמכרו לבני היוונים כדי להרחיקם מארצם ומגבולם.",
+      "text_he": "הידעת? לפי הפרק, בני יהודה וירושלים נמכרו לבני היוונים כדי להרחיקם מארצם ומגבולם.",
+      "text_en": "Did you know? According to the chapter, the people of Judah and Jerusalem were sold to the Greeks in order to remove them far from their land and territory."
+    },
+    {
+      "verse": 9,
+      "text": "הידעת? בקריאה האירונית למלחמה, הגויים נקראים לקדש מלחמה ולהכין את עצמם לעימות גדול.",
+      "text_he": "הידעת? בקריאה האירונית למלחמה, הגויים נקראים לקדש מלחמה ולהכין את עצמם לעימות גדול.",
+      "text_en": "Did you know? In an ironic call to war, the nations are summoned to consecrate a war and prepare themselves for a great conflict."
+    },
+    {
+      "verse": 10,
+      "text": "הידעת? הנביא מתאר שינוי סמלי של ייעוד: כלי עבודה חקלאיים, כמו מחרשות ומזמרות, הופכים לכלי נשק.",
+      "text_he": "הידעת? הנביא מתאר שינוי סמלי של ייעוד: כלי עבודה חקלאיים, כמו מחרשות ומזמרות, הופכים לכלי נשק.",
+      "text_en": "Did you know? The prophet describes a symbolic change of purpose: agricultural tools, such as plowshares and pruning hooks, are turned into weapons."
+    },
+    {
+      "verse": 13,
+      "text": "הידעת? רעת הגויים נמשלת ליבול בשל ולגת מלאה; דימויים אלה מציינים שהגיע הזמן לקצור ולדרוך, כלומר להוציא לפועל את הדין.",
+      "text_he": "הידעת? רעת הגויים נמשלת ליבול בשל ולגת מלאה; דימויים אלה מציינים שהגיע הזמן לקצור ולדרוך, כלומר להוציא לפועל את הדין.",
+      "text_en": "Did you know? The nations’ wickedness is compared to a ripe harvest and a full winepress; these images indicate that the time has come to reap and tread—that is, to carry out judgment."
+    },
+    {
+      "verse": 16,
+      "text": "הידעת? אף שהשמיים והארץ רועשים ביום ה', ה' מתואר כמחסה וכמעוז לבני ישראל.",
+      "text_he": "הידעת? אף שהשמיים והארץ רועשים ביום ה', ה' מתואר כמחסה וכמעוז לבני ישראל.",
+      "text_en": "Did you know? Although the heavens and earth tremble on the day of the Lord, the Lord is described as a refuge and stronghold for the people of Israel."
+    },
+    {
+      "verse": 18,
+      "text": "הידעת? חזון העתיד כולל שפע יוצא דופן: עסיס מן ההרים, חלב מן הגבעות, מים באפיקי יהודה ומעיין היוצא מבית ה'.",
+      "text_he": "הידעת? חזון העתיד כולל שפע יוצא דופן: עסיס מן ההרים, חלב מן הגבעות, מים באפיקי יהודה ומעיין היוצא מבית ה'.",
+      "text_en": "Did you know? The vision of the future includes extraordinary abundance: new wine flowing from the mountains, milk from the hills, watercourses in Judah, and a spring flowing from the house of the Lord."
+    },
+    {
+      "verse": 19,
+      "text": "הידעת? מצרים ואדום מוצגות כארצות שייעשו שממה בגלל החמס ושפיכת דם נקי ביהודה.",
+      "text_he": "הידעת? מצרים ואדום מוצגות כארצות שייעשו שממה בגלל החמס ושפיכת דם נקי ביהודה.",
+      "text_en": "Did you know? Egypt and Edom are portrayed as lands that will become desolate because of the violence and innocent bloodshed committed in Judah."
+    },
+    {
+      "verse": 20,
+      "text": "הידעת? בניגוד לשממת מצרים ואדום, יהודה וירושלים מתוארות כמי שישבו לעולם ולדור ודור.",
+      "text_he": "הידעת? בניגוד לשממת מצרים ואדום, יהודה וירושלים מתוארות כמי שישבו לעולם ולדור ודור.",
+      "text_en": "Did you know? In contrast to the desolation of Egypt and Edom, Judah and Jerusalem are described as dwelling forever, from generation to generation."
+    }
+  ]
+}
