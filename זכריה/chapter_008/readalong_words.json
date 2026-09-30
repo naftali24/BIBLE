@@ -1,3209 +1,2138 @@
 {
-  "book": "Zechariah",
-  "chapter": "8",
-  "audio_code": "t2308",
   "words": [
     {
       "position": 0,
       "hebrew": "וַיְהִי",
-      "phonetics": "way·hî",
-      "shortTranslation": " came [to me] , ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 0.06,
       "end": 0.09
     },
     {
       "position": 1,
       "hebrew": "דְּבַר ",
-      "phonetics": "də·ḇar-",
-      "shortTranslation": " Again the word ",
-      "longTranslation": "1) speech, word, speaking, thing <BR> 1a) speech <BR> 1b) saying, utterance <BR> 1c) word, words <BR> 1d) business, occupation, acts, matter, case, something, manner (by extension)",
       "start": 1.46,
       "end": 2.15
     },
     {
       "position": 2,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " of the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 2.15,
       "end": 3.04
     },
     {
       "position": 3,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 3.04,
       "end": 3.4
     },
     {
       "position": 4,
       "hebrew": "לֵאמֹר׃",
-      "phonetics": "lê·mōr",
-      "shortTranslation": " saying : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 3.4,
       "end": 3.55
     },
     {
       "position": 5,
       "hebrew": "כֹּה",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 3.55,
       "end": 3.88
     },
     {
       "position": 6,
       "hebrew": "אָמַר",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 4.98,
       "end": 5.63
     },
     {
       "position": 7,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 5.63,
       "end": 6.19
     },
     {
       "position": 8,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 6.19,
       "end": 6.64
     },
     {
       "position": 9,
       "hebrew": "קִנֵּאתִי",
-      "phonetics": "qin·nê·ṯî",
-      "shortTranslation": " “ I am jealous ",
-      "longTranslation": "1) to envy, be jealous, be envious, be zealous <BR> 1a) (Piel) <BR> 1a1) to be jealous of <BR> 1a2) to be envious of <BR> 1a3) to be zealous for <BR> 1a4) to excite to jealous anger <BR> 1b) (Hiphil) to provoke to jealous anger, cause jealousy",
       "start": 7.35,
       "end": 8.09
     },
     {
       "position": 10,
       "hebrew": "לְצִיּוֹן",
-      "phonetics": "lə·ṣî·yō·wn",
-      "shortTranslation": " for Zion ",
-      "longTranslation": "Zion = |parched place|<BR> 1) another name for Jerusalem especially in the prophetic books",
       "start": 8.09,
       "end": 8.93
     },
     {
       "position": 11,
       "hebrew": "קִנְאָה",
-      "phonetics": "qin·’āh",
-      "shortTranslation": " zeal ; ",
-      "longTranslation": "1) ardour, zeal, jealousy <BR> 1a) ardour, jealousy, jealous disposition (of husband) <BR> 1a1) sexual passion <BR> 1b) ardour of zeal (of religious zeal) <BR> 1b1) of men for God <BR> 1b2) of men for the house of God <BR> 1b3) of God for his people <BR> 1c) ardour of anger <BR> 1c1) of men against adversaries <BR> 1c2) of God against men <BR> 1d) envy (of man) <BR> 1e) jealousy (resulting in the wrath of God)",
       "start": 8.96,
       "end": 9.57
     },
     {
       "position": 12,
       "hebrew": "גְדוֹלָה;",
-      "phonetics": "ḡə·ḏō·w·lāh",
-      "shortTranslation": " with great ",
-      "longTranslation": "adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel",
       "start": 9.57,
       "end": 10.1
     },
     {
       "position": 13,
       "hebrew": "וְחֵמָה",
-      "phonetics": "wə·ḥê·māh",
-      "shortTranslation": " fervor . ” ",
-      "longTranslation": "1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles <BR> 1a) heat <BR> 1a1) fever <BR> 1a2) venom, poison (fig.) <BR> 1b) burning anger, rage",
       "start": 10.58,
       "end": 11.29
     },
     {
       "position": 14,
       "hebrew": "גְדוֹלָה,",
-      "phonetics": "ḡə·ḏō·w·lāh",
-      "shortTranslation": " with great ",
-      "longTranslation": "adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel",
       "start": 11.29,
       "end": 11.88
     },
     {
       "position": 15,
       "hebrew": "קִנֵּאתִי",
-      "phonetics": "qin·nê·ṯî",
-      "shortTranslation": " I am jealous ",
-      "longTranslation": "1) to envy, be jealous, be envious, be zealous <BR> 1a) (Piel) <BR> 1a1) to be jealous of <BR> 1a2) to be envious of <BR> 1a3) to be zealous for <BR> 1a4) to excite to jealous anger <BR> 1b) (Hiphil) to provoke to jealous anger, cause jealousy",
       "start": 11.88,
       "end": 12.65
     },
     {
       "position": 16,
       "hebrew": "לָהּ׃",
-      "phonetics": "lāh",
-      "shortTranslation": " for her ",
-      "longTranslation": null,
       "start": 12.65,
       "end": 12.85
     },
     {
       "position": 17,
       "hebrew": "כֹּה,",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 14.29,
       "end": 14.51
     },
     {
       "position": 18,
       "hebrew": "אָמַר",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 14.51,
       "end": 15.5
     },
     {
       "position": 19,
       "hebrew": "יְהוָה,",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 16.33,
       "end": 16.75
     },
     {
       "position": 20,
       "hebrew": "שַׁבְתִּי",
-      "phonetics": "ḇə·tî",
-      "shortTranslation": " “ I will return ",
-      "longTranslation": "1) to return, turn back <BR> 1a) (Qal) <BR> 1a1) to turn back, return <BR> 1a1a) to turn back <BR> 1a1b) to return, come or go back <BR> 1a1c) to return unto, go back, come back <BR> 1a1d) of dying <BR> 1a1e) of human relations (fig) <BR> 1a1f) of spiritual relations (fig) <BR> 1a1f1) to turn back (from God), apostatise <BR> 1a1f2) to turn away (of God) <BR> 1a1f3) to turn back (to God), repent <BR> 1a1f4) turn back (from evil) <BR> 1a1g) of inanimate things <BR> 1a1h) in repetition <BR> 1b) (Polel) <BR> 1b1) to bring back <BR> 1b2) to restore, refresh, repair (fig) <BR> 1b3) to lead away (enticingly) <BR> 1b4) to show turning, apostatise <BR> 1c) (Pual) restored (participle) <BR> 1d) (Hiphil) to cause to return, bring back <BR> 1d1) to bring back, allow to return, put back, draw back, give back, restore, relinquish, give in payment <BR> 1d2) to bring back, refresh, restore <BR> 1d3) to bring back, report to, answer <BR> 1d4) to bring back, make requital, pay (as recompense) <BR> 1d5) to turn back or backward, repel, defeat, repulse, hinder, reject, refuse <BR> 1d6) to turn away (face), turn toward <BR> 1d7) to turn against <BR> 1d8) to bring back to mind <BR> 1d9) to show a turning away 1d10) to reverse, revoke <BR> 1e) (Hophal) to be returned, be restored, be brought back <BR> 1f) (Pulal) brought back",
       "start": 16.75,
       "end": 17.1
     },
     {
       "position": 21,
       "hebrew": "אֶל ",
-      "phonetics": "’el-",
-      "shortTranslation": " to ",
-      "longTranslation": "1) to, toward, unto (of motion) <BR> 2) into (limit is actually entered) <BR> 2a) in among <BR> 3) toward (of direction, not necessarily physical motion) <BR> 4) against (motion or direction of a hostile character) <BR> 5) in addition to, to <BR> 6) concerning, in regard to, in reference to, on account of <BR> 7) according to (rule or standard) <BR> 8) at, by, against (of one's presence) <BR> 9) in between, in within, to within, unto (idea of motion to)",
       "start": 17.1,
       "end": 17.56
     },
     {
       "position": 22,
       "hebrew": "צִיּוֹן,",
-      "phonetics": "ṣî·yō·wn",
-      "shortTranslation": " Zion ",
-      "longTranslation": "Zion = |parched place|<BR> 1) another name for Jerusalem especially in the prophetic books",
       "start": 17.56,
       "end": 17.84
     },
     {
       "position": 23,
       "hebrew": "וְשָׁכַנְתִּי",
-      "phonetics": "wə·šā·ḵan·tî",
-      "shortTranslation": " and dwell ",
-      "longTranslation": "1) to settle down, abide, dwell, tabernacle, reside <BR> 1a) (Qal) <BR> 1a1) to settle down to abide <BR> 1a2) to abide, dwell, reside <BR> 1b) (Piel) <BR> 1b1) to make settle down, establish <BR> 1b2) to make or cause to dwell <BR> 1c) (Hiphil) <BR> 1c1) to lay, place, set, establish, settle, fix <BR> 1c2) to cause to dwell or abide",
       "start": 17.84,
       "end": 18.68
     },
     {
       "position": 24,
       "hebrew": "בְּתוֹךְ",
-      "phonetics": "bə·ṯō·wḵ",
-      "shortTranslation": " in ",
-      "longTranslation": "1) midst, middle <BR> 1a) midst, middle <BR> 1b) into, through (after verbs of motion) <BR> 1c) among (of a number of persons) <BR> 1d) between (of things arranged by twos) <BR> 1e) from among (as to take or separate etc)",
       "start": 18.68,
       "end": 19.18
     },
     {
       "position": 25,
       "hebrew": "יְרוּשָׁלִָם;",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " Jerusalem . ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 19.18,
       "end": 20.06
     },
     {
       "position": 26,
       "hebrew": "וְנִקְרְאָה",
-      "phonetics": "wə·niq·rə·’āh",
-      "shortTranslation": " will be called ",
-      "longTranslation": "1) to call, call out, recite, read, cry out, proclaim <BR> 1a) (Qal) <BR> 1a1) to call, cry, utter a loud sound <BR> 1a2) to call unto, cry (for help), call (with name of God) <BR> 1a3) to proclaim <BR> 1a4) to read aloud, read (to oneself), read <BR> 1a5) to summon, invite, call for, call and commission, appoint, call and endow <BR> 1a6) to call, name, give name to, call by <BR> 1b) (Niphal) <BR> 1b1) to call oneself <BR> 1b2) to be called, be proclaimed, be read aloud, be summoned, be named <BR> 1c) (Pual) to be called, be named, be called out, be chosen",
       "start": 20.94,
       "end": 21.6
     },
     {
       "position": 27,
       "hebrew": "יְרוּשָׁלִַם",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " Then Jerusalem ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 21.6,
       "end": 22.87
     },
     {
       "position": 28,
       "hebrew": "עִיר",
-      "phonetics": "‘îr-",
-      "shortTranslation": " the City ",
-      "longTranslation": "1) excitement, anguish <BR> 1a) of terror <BR> 2) city, town (a place of waking, guarded) <BR> 2a) city, town",
       "start": 22.87,
       "end": 23.18
     },
     {
       "position": 29,
       "hebrew": "הָאֱמֶת,",
-      "phonetics": "hā·’ĕ·meṯ",
-      "shortTranslation": " of Truth , ",
-      "longTranslation": "n f<BR> 1) firmness, faithfulness, truth <BR> 1a) sureness, reliability <BR> 1b) stability, continuance <BR> 1c) faithfulness, reliableness <BR> 1d) truth <BR> 1d1) as spoken <BR> 1d2) of testimony and judgment <BR> 1d3) of divine instruction <BR> 1d4) truth as a body of ethical or religious knowledge <BR> 1d5) true doctrine <BR> adv <BR> 2) in truth, truly",
       "start": 23.18,
       "end": 23.84
     },
     {
       "position": 30,
       "hebrew": "וְהַר ",
-      "phonetics": "wə·har-",
-      "shortTranslation": " and the mountain ",
-      "longTranslation": "1) hill, mountain, hill country, mount",
       "start": 24.81,
       "end": 25.29
     },
     {
       "position": 31,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " of the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 25.29,
       "end": 26.16
     },
     {
       "position": 32,
       "hebrew": "צְבָאוֹת",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 26.16,
       "end": 27.11
     },
     {
       "position": 33,
       "hebrew": "הַר",
-      "phonetics": "har",
-      "shortTranslation": " Mountain . ” ",
-      "longTranslation": "1) hill, mountain, hill country, mount",
       "start": 27.11,
       "end": 27.2
     },
     {
       "position": 34,
       "hebrew": "הַקֹּדֶשׁ׃",
-      "phonetics": "haq·qō·ḏeš",
-      "shortTranslation": " [will be called] the Holy ",
-      "longTranslation": "1) apartness, holiness, sacredness, separateness <BR> 1a) apartness, sacredness, holiness <BR> 1a1) of God <BR> 1a2) of places <BR> 1a3) of things <BR> 1b) set-apartness, separateness",
       "start": 27.2,
       "end": 27.98
     },
     {
       "position": 35,
       "hebrew": "כֹּה",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 29.22,
       "end": 30.31
     },
     {
       "position": 36,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 30.31,
       "end": 30.4
     },
     {
       "position": 37,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 30.4,
       "end": 30.83
     },
     {
       "position": 38,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 31.82,
       "end": 32.01
     },
     {
       "position": 39,
       "hebrew": "עֹד",
-      "phonetics": "‘ōḏ",
-      "shortTranslation": " will again ",
-      "longTranslation": "subst<BR> 1) a going round, continuance <BR> adv <BR> 2) still, yet, again, besides <BR> 2a) still, yet (of continuance or persistence) <BR> 2b) still, yet, more (of addition or repetition) <BR> 2c) again <BR> 2d) still, moreover, besides",
       "start": 32.01,
       "end": 32.15
     },
     {
       "position": 40,
       "hebrew": "יֵשְׁבוּ",
-      "phonetics": "yê·šə·ḇū",
-      "shortTranslation": " sit ",
-      "longTranslation": "1) to dwell, remain, sit, abide <BR> 1a) (Qal) <BR> 1a1) to sit, sit down <BR> 1a2) to be set <BR> 1a3) to remain, stay <BR> 1a4) to dwell, have one's abode <BR> 1b) (Niphal) to be inhabited <BR> 1c) (Piel) to set, place <BR> 1d) (Hiphil) <BR> 1d1) to cause to sit <BR> 1d2) to cause to abide, set <BR> 1d3) to cause to dwell <BR> 1d4) to cause (cities) to be inhabited <BR> 1d5) to marry (give an dwelling to) <BR> 1e) (Hophal) <BR> 1e1) to be inhabited <BR> 1e2) to make to dwell",
       "start": 32.15,
       "end": 32.7
     },
     {
       "position": 41,
       "hebrew": "זְקֵנִים",
-      "phonetics": "zə·qê·nîm",
-      "shortTranslation": " “ Old men ",
-      "longTranslation": "1) old <BR> 1a) old (of humans) <BR> 1b) elder (of those having authority)",
       "start": 32.73,
       "end": 33.43
     },
     {
       "position": 42,
       "hebrew": "וּזְקֵנוֹת,",
-      "phonetics": "ū·zə·qê·nō·wṯ",
-      "shortTranslation": " and old women ",
-      "longTranslation": "1) old <BR> 1a) old (of humans) <BR> 1b) elder (of those having authority)",
       "start": 33.43,
       "end": 34.1
     },
     {
       "position": 43,
       "hebrew": "בִּרְחֹבוֹת",
-      "phonetics": "bir·ḥō·ḇō·wṯ",
-      "shortTranslation": " along the streets ",
-      "longTranslation": "1) broad or open place or plaza",
       "start": 34.1,
       "end": 34.8
     },
     {
       "position": 44,
       "hebrew": "יְרוּשָׁלִָם;",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " of Jerusalem , ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 34.8,
       "end": 35.72
     },
     {
       "position": 45,
       "hebrew": "וְאִישׁ",
-      "phonetics": "wə·’îš",
-      "shortTranslation": " each ",
-      "longTranslation": "1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)",
       "start": 36.4,
       "end": 37
     },
     {
       "position": 46,
       "hebrew": "מִשְׁעַנְתּוֹ",
-      "phonetics": "miš·‘an·tōw",
-      "shortTranslation": " with a staff ",
-      "longTranslation": "1) support (of every kind), staff",
       "start": 37,
       "end": 37.91
     },
     {
       "position": 47,
       "hebrew": "בְּיָדוֹ,",
-      "phonetics": "bə·yā·ḏōw",
-      "shortTranslation": " in hand ",
-      "longTranslation": "1) hand <BR> 1a) hand (of man)<BR> 1b) strength, power (fig.) <BR> 1c) side (of land), part, portion (metaph.) (fig.) <BR> 1d) (various special, technical senses) <BR> 1d1) sign, monument <BR> 1d2) part, fractional part, share <BR> 1d3) time, repetition <BR> 1d4) axle-trees, axle <BR> 1d5) stays, support (for laver) <BR> 1d6) tenons (in tabernacle) <BR> 1d7) a phallus, a hand (meaning unsure) <BR> 1d8) wrists",
       "start": 37.91,
       "end": 38.59
     },
     {
       "position": 48,
       "hebrew": "מֵרֹב",
-      "phonetics": "mê·rōḇ",
-      "shortTranslation": " because of ",
-      "longTranslation": "1) multitude, abundance, greatness<BR> 1a) multitude <BR> 1a1) abundance, abundantly <BR> 1a2) numerous <BR> 1b) greatness",
       "start": 38.74,
       "end": 39.26
     },
     {
       "position": 49,
       "hebrew": "יָמִים׃",
-      "phonetics": "yā·mîm",
-      "shortTranslation": " great age . ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 39.26,
       "end": 39.82
     },
     {
       "position": 50,
       "hebrew": "וּרְחֹבוֹת",
-      "phonetics": "ū·rə·ḥō·ḇō·wṯ",
-      "shortTranslation": " And the streets ",
-      "longTranslation": "1) broad or open place or plaza",
       "start": 40.61,
       "end": 41.3
     },
     {
       "position": 51,
       "hebrew": "הָעִיר",
-      "phonetics": "hā·‘îr",
-      "shortTranslation": " of the city ",
-      "longTranslation": "1) excitement, anguish <BR> 1a) of terror <BR> 2) city, town (a place of waking, guarded) <BR> 2a) city, town",
       "start": 41.3,
       "end": 41.76
     },
     {
       "position": 52,
       "hebrew": "יִמָּלְאוּ,",
-      "phonetics": "yim·mā·lə·’ū",
-      "shortTranslation": " will be filled ",
-      "longTranslation": "1) to fill, be full <BR> 1a) (Qal) <BR> 1a1) to be full <BR> 1a1a) fulness, abundance (participle) <BR> 1a1b) to be full, be accomplished, be ended <BR> 1a2) to consecrate, fill the hand <BR> 1b) (Niphal) <BR> 1b1) to be filled, be armed, be satisfied <BR> 1b2) to be accomplished, be ended <BR> 1c) (Piel) <BR> 1c1) to fill <BR> 1c2) to satisfy <BR> 1c3) to fulfil, accomplish, complete <BR> 1c4) to confirm <BR> 1d) (Pual) to be filled <BR> 1e) (Hithpael) to mass themselves against",
       "start": 41.76,
       "end": 42.89
     },
     {
       "position": 53,
       "hebrew": "יְלָדִים",
-      "phonetics": "yə·lā·ḏîm",
-      "shortTranslation": " with boys ",
-      "longTranslation": "1) child, son, boy, offspring, youth <BR> 1a) child, son, boy <BR> 1b) child, children <BR> 1c) descendants <BR> 1d) youth <BR> 1e) apostate Israelites (fig.)",
       "start": 42.89,
       "end": 43.55
     },
     {
       "position": 54,
       "hebrew": "וִילָדוֹת,",
-      "phonetics": "wî·lā·ḏō·wṯ",
-      "shortTranslation": " and girls ",
-      "longTranslation": "1) girl, damsel, marriageable girl",
       "start": 43.65,
       "end": 44.44
     },
     {
       "position": 55,
       "hebrew": "מְשַׂחֲקִים,",
-      "phonetics": "mə·śa·ḥă·qîm",
-      "shortTranslation": " playing ",
-      "longTranslation": "1) to laugh, play, mock <BR> 1a) (Qal) <BR> 1a1) to laugh (usually in contempt or derision) <BR> 1a2) to sport, play <BR> 1b) (Piel) <BR> 1b1) to make sport <BR> 1b2) to jest <BR> 1b3) to play (including instrumental music, singing, dancing) <BR> 1c) (Hiphil) to laugh mockingly",
       "start": 44.98,
       "end": 45.9
     },
     {
       "position": 56,
       "hebrew": "בִּרְחֹבֹתֶיהָ׃",
-      "phonetics": "bir·ḥō·ḇō·ṯe·hā",
-      "shortTranslation": " there . ” ",
-      "longTranslation": "1) broad or open place or plaza",
       "start": 45.9,
       "end": 46.83
     },
     {
       "position": 57,
       "hebrew": "כֹּה",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 46.83,
       "end": 46.89
     },
     {
       "position": 58,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 47.91,
       "end": 48.7
     },
     {
       "position": 59,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 48.7,
       "end": 49.01
     },
     {
       "position": 60,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 49.01,
       "end": 49.52
     },
     {
       "position": 61,
       "hebrew": "כִּי",
-      "phonetics": "kî",
-      "shortTranslation": " “ If ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 50.34,
       "end": 50.68
     },
     {
       "position": 62,
       "hebrew": "יִפָּלֵא",
-      "phonetics": "yip·pā·lê",
-      "shortTranslation": " [this] is impossible ",
-      "longTranslation": "1) to be marvellous, be wonderful, be surpassing, be extraordinary, separate by distinguishing action <BR> 1a) (Niphal) <BR> 1a1) to be beyond one's power, be difficult to do <BR> 1a2) to be difficult to understand <BR> 1a3) to be wonderful, be extraordinary <BR> 1a3a) marvellous (participle) <BR> 1b) (Piel) to separate (an offering) <BR> 1c) (Hiphil) <BR> 1c1) to do extraordinary or hard or difficult thing <BR> 1c2) to make wonderful, do wondrously <BR> 1d) (Hithpael) to show oneself wonderful or marvellous",
       "start": 50.68,
       "end": 51.12
     },
     {
       "position": 63,
       "hebrew": "בְּעֵינֵי",
-      "phonetics": "bə·‘ê·nê",
-      "shortTranslation": " in the eyes ",
-      "longTranslation": "1) eye <BR> 1a) eye <BR> 1a1) of physical eye <BR> 1a2) as showing mental qualities <BR> 1a3) of mental and spiritual faculties (fig.) <BR> 2) spring, fountain",
       "start": 51.12,
       "end": 51.61
     },
     {
       "position": 64,
       "hebrew": "שְׁאֵרִית",
-      "phonetics": "šə·’ê·rîṯ",
-      "shortTranslation": " of the remnant ",
-      "longTranslation": "1) rest, residue, remainder, remnant <BR> 1a) rest, what is left <BR> 1b) remainder, descendants",
       "start": 51.61,
       "end": 52.15
     },
     {
       "position": 65,
       "hebrew": "הָעָם",
-      "phonetics": "hā·‘ām",
-      "shortTranslation": " people ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 52.15,
       "end": 52.6
     },
     {
       "position": 66,
       "hebrew": "הַזֶּה,",
-      "phonetics": "haz·zeh",
-      "shortTranslation": " of this ",
-      "longTranslation": "1) this, this one, here, which, this...that, the one...the other, another, such <BR> 1a) (alone) <BR> 1a1) this one <BR> 1a2) this...that, the one...the other, another <BR> 1b) (appos to subst) <BR> 1b1) this <BR> 1c) (as predicate) <BR> 1c1) this, such <BR> 1d) (enclitically) <BR> 1d1) then <BR> 1d2) who, whom <BR> 1d3) how now, what now <BR> 1d4) what now <BR> 1d5) wherefore now <BR> 1d6) behold here <BR> 1d7) just now <BR> 1d8) now, now already <BR> 1e) (poetry) <BR> 1e1) wherein, which, those who <BR> 1f) (with prefixes) <BR> 1f1) in this (place) here, then <BR> 1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter <BR> 1f3) thus and thus <BR> 1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus <BR> 1f5) from here, hence, on one side...on the other side <BR> 1f6) on this account <BR> 1f7) in spite of this, which, whence, how",
       "start": 52.6,
       "end": 53.22
     },
     {
       "position": 67,
       "hebrew": "בַּיָּמִים",
-      "phonetics": "bay·yā·mîm",
-      "shortTranslation": " days , ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 53.41,
       "end": 54.23
     },
     {
       "position": 68,
       "hebrew": "הָהֵם,",
-      "phonetics": "hā·hêm",
-      "shortTranslation": " in these ",
-      "longTranslation": "1) they, these, the same, who",
       "start": 54.23,
       "end": 54.85
     },
     {
       "position": 69,
       "hebrew": "גַּם ",
-      "phonetics": "gam-",
-      "shortTranslation": " should it also ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 55.36,
       "end": 55.72
     },
     {
       "position": 70,
       "hebrew": "בְּעֵינַי,",
-      "phonetics": "bə·‘ê·nay",
-      "shortTranslation": " in My eyes ? ” ",
-      "longTranslation": "1) eye <BR> 1a) eye <BR> 1a1) of physical eye <BR> 1a2) as showing mental qualities <BR> 1a3) of mental and spiritual faculties (fig.) <BR> 2) spring, fountain",
       "start": 55.72,
       "end": 56.42
     },
     {
       "position": 71,
       "hebrew": "יִפָּלֵא,",
-      "phonetics": "yip·pā·lê",
-      "shortTranslation": " be impossible ",
-      "longTranslation": "1) to be marvellous, be wonderful, be surpassing, be extraordinary, separate by distinguishing action <BR> 1a) (Niphal) <BR> 1a1) to be beyond one's power, be difficult to do <BR> 1a2) to be difficult to understand <BR> 1a3) to be wonderful, be extraordinary <BR> 1a3a) marvellous (participle) <BR> 1b) (Piel) to separate (an offering) <BR> 1c) (Hiphil) <BR> 1c1) to do extraordinary or hard or difficult thing <BR> 1c2) to make wonderful, do wondrously <BR> 1d) (Hithpael) to show oneself wonderful or marvellous",
       "start": 56.42,
       "end": 56.98
     },
     {
       "position": 72,
       "hebrew": "נְאֻם,",
-      "phonetics": "nə·’um",
-      "shortTranslation": " declares ",
-      "longTranslation": "1) (Qal) utterance, declaration (of prophet) <BR> 1a) utterance, declaration, revelation (of prophet in ecstatic state) <BR> 1b) utterance, declaration (elsewhere always preceding divine name)",
       "start": 56.98,
       "end": 57.39
     },
     {
       "position": 73,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 57.39,
       "end": 58.15
     },
     {
       "position": 74,
       "hebrew": "צְבָאוֹת׃",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts . ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 58.15,
       "end": 58.67
     },
     {
       "position": 75,
       "hebrew": "כֹּה",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 59.95,
       "end": 61.32
     },
     {
       "position": 76,
       "hebrew": "אָמַר",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 61.32,
       "end": 61.46
     },
     {
       "position": 77,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 61.46,
       "end": 61.51
     },
     {
       "position": 78,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 61.51,
       "end": 61.76
     },
     {
       "position": 79,
       "hebrew": "הִנְנִי",
-      "phonetics": "hin·nî",
-      "shortTranslation": " . . . ",
-      "longTranslation": "interj<BR> 1) behold, lo, though hypothetical part <BR> 2) if",
       "start": 63.9,
       "end": 64.4
     },
     {
       "position": 80,
       "hebrew": "מוֹשִׁיעַ",
-      "phonetics": "mō·wō·šî·a‘",
-      "shortTranslation": " “ I will save ",
-      "longTranslation": "1) to save, be saved, be delivered <BR> 1a) (Niphal) <BR> 1a1) to be liberated, be saved, be delivered <BR> 1a2) to be saved (in battle), be victorious <BR> 1b) (Hiphil) <BR> 1b1) to save, deliver <BR> 1b2) to save from moral troubles <BR> 1b3) to give victory to",
       "start": 64.4,
       "end": 64.95
     },
     {
       "position": 81,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 64.95,
       "end": 65.14
     },
     {
       "position": 82,
       "hebrew": "עַמִּי",
-      "phonetics": "‘am·mî",
-      "shortTranslation": " My people ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 65.14,
       "end": 65.78
     },
     {
       "position": 83,
       "hebrew": "מֵאֶרֶץ",
-      "phonetics": "mê·’e·reṣ",
-      "shortTranslation": " from the land ",
-      "longTranslation": "1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan",
       "start": 67.4,
       "end": 68.2
     },
     {
       "position": 84,
       "hebrew": "מִזְרָח,",
-      "phonetics": "miz·rāḥ",
-      "shortTranslation": " of the east ",
-      "longTranslation": "1) place of sunrise, east <BR> 1a) sunrise, east (with 'sun') <BR> 1b) the east (without 'sun') <BR> 1b1) to or toward the place of sunrise <BR> 1b2) to the east, eastward",
       "start": 68.2,
       "end": 68.73
     },
     {
       "position": 85,
       "hebrew": "וּמֵאֶרֶץ,",
-      "phonetics": "ū·mê·’e·reṣ",
-      "shortTranslation": " and from the land ",
-      "longTranslation": "1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan",
       "start": 68.73,
       "end": 69.57
     },
     {
       "position": 86,
       "hebrew": "מְבוֹא",
-      "phonetics": "mə·ḇō·w",
-      "shortTranslation": " of ",
-      "longTranslation": "1) entrance, a coming in, entering <BR> 2) sunset <BR> 2a) sunset <BR> 2b) sunset, west",
       "start": 69.57,
       "end": 69.98
     },
     {
       "position": 87,
       "hebrew": "הַשָּׁמֶשׁ׃",
-      "phonetics": "haš·šā·meš",
-      "shortTranslation": " the west . ",
-      "longTranslation": "1) sun <BR> 1a) sun <BR> 1b) sunrise, sun-rising, east, sun-setting, west (of direction) <BR> 1c) sun (as object of illicit worship) <BR> 1d) openly, publicly (in other phrases) <BR> 1e) pinnacles, battlements, shields (as glittering or shining)",
       "start": 69.98,
       "end": 71
     },
     {
       "position": 88,
       "hebrew": "וְהֵבֵאתִי",
-      "phonetics": "wə·hê·ḇê·ṯî",
-      "shortTranslation": " I will bring them ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 72.87,
       "end": 73.6
     },
     {
       "position": 89,
       "hebrew": "אֹתָם,",
-      "phonetics": "’ō·ṯām",
-      "shortTranslation": " {back} ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 73.6,
       "end": 74.07
     },
     {
       "position": 90,
       "hebrew": "וְשָׁכְנוּ",
-      "phonetics": "wə·šā·ḵə·nū",
-      "shortTranslation": " to dwell ",
-      "longTranslation": "1) to settle down, abide, dwell, tabernacle, reside <BR> 1a) (Qal) <BR> 1a1) to settle down to abide <BR> 1a2) to abide, dwell, reside <BR> 1b) (Piel) <BR> 1b1) to make settle down, establish <BR> 1b2) to make or cause to dwell <BR> 1c) (Hiphil) <BR> 1c1) to lay, place, set, establish, settle, fix <BR> 1c2) to cause to dwell or abide",
       "start": 74.07,
       "end": 74.98
     },
     {
       "position": 91,
       "hebrew": "בְּתוֹךְ",
-      "phonetics": "bə·ṯō·wḵ",
-      "shortTranslation": " in ",
-      "longTranslation": "1) midst, middle <BR> 1a) midst, middle <BR> 1b) into, through (after verbs of motion) <BR> 1c) among (of a number of persons) <BR> 1d) between (of things arranged by twos) <BR> 1e) from among (as to take or separate etc)",
       "start": 74.98,
       "end": 75.43
     },
     {
       "position": 92,
       "hebrew": "יְרוּשָׁלִָם;",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " Jerusalem , ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 75.43,
       "end": 76.4
     },
     {
       "position": 93,
       "hebrew": "וְהָיוּ ",
-      "phonetics": "wə·hā·yū-",
-      "shortTranslation": " where they will be ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 77.29,
       "end": 77.82
     },
     {
       "position": 94,
       "hebrew": "לִי",
-      "phonetics": "lî",
-      "shortTranslation": " My ",
-      "longTranslation": null,
       "start": 77.82,
       "end": 77.98
     },
     {
       "position": 95,
       "hebrew": "לְעָם,",
-      "phonetics": "lə·‘ām",
-      "shortTranslation": " people , ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 77.98,
       "end": 78.69
     },
     {
       "position": 96,
       "hebrew": "וַאֲנִי",
-      "phonetics": "wa·’ă·nî",
-      "shortTranslation": " and I ",
-      "longTranslation": "1) I (first pers. sing. -usually used for emphasis)",
       "start": 79.18,
       "end": 79.8
     },
     {
       "position": 97,
       "hebrew": "אֶהְיֶה",
-      "phonetics": "’eh·yeh",
-      "shortTranslation": " will be ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 79.8,
       "end": 80.56
     },
     {
       "position": 98,
       "hebrew": "לָהֶם",
-      "phonetics": "lā·hem",
-      "shortTranslation": " their ",
-      "longTranslation": null,
       "start": 80.75,
       "end": 81.31
     },
     {
       "position": 99,
       "hebrew": "לֵאלֹהִים,",
-      "phonetics": "lê·lō·hîm",
-      "shortTranslation": " God . ” ",
-      "longTranslation": "1) (plural) <BR> 1a) rulers, judges <BR> 1b) divine ones <BR> 1c) angels <BR> 1d) gods <BR> 2) (plural intensive-singular meaning) <BR> 2a) god, goddess <BR> 2b) godlike one <BR> 2c) works or special possessions of God <BR> 2d) the (true) God <BR> 2e) God",
       "start": 81.31,
       "end": 82.06
     },
     {
       "position": 100,
       "hebrew": "בֶּאֱמֶת,",
-      "phonetics": "be·’ĕ·meṯ",
-      "shortTranslation": " faithful ",
-      "longTranslation": "n f<BR> 1) firmness, faithfulness, truth <BR> 1a) sureness, reliability <BR> 1b) stability, continuance <BR> 1c) faithfulness, reliableness <BR> 1d) truth <BR> 1d1) as spoken <BR> 1d2) of testimony and judgment <BR> 1d3) of divine instruction <BR> 1d4) truth as a body of ethical or religious knowledge <BR> 1d5) true doctrine <BR> adv <BR> 2) in truth, truly",
       "start": 82.25,
       "end": 83.07
     },
     {
       "position": 101,
       "hebrew": "וּבִצְדָקָה׃",
-      "phonetics": "ū·ḇiṣ·ḏā·qāh",
-      "shortTranslation": " and righteous ",
-      "longTranslation": "1) justice, righteousness <BR> 1a) righteousness (in government) <BR> 1a1) of judge, ruler, king <BR> 1a2) of law <BR> 1a3) of Davidic king Messiah <BR> 1b) righteousness (of God's attribute) <BR> 1c) righteousness (in a case or cause) <BR> 1d) righteousness, truthfulness <BR> 1e) righteousness (as ethically right) <BR> 1f) righteousness (as vindicated), justification, salvation <BR> 1f1) of God <BR> 1f2) prosperity (of people) <BR> 1g) righteous acts",
       "start": 83.16,
       "end": 83.99
     },
     {
       "position": 102,
       "hebrew": "כֹּה ",
-      "phonetics": "kōh-",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 83.99,
       "end": 84.09
     },
     {
       "position": 103,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 86.72,
       "end": 87.86
     },
     {
       "position": 104,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 87.86,
       "end": 87.97
     },
     {
       "position": 105,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 87.97,
       "end": 88.45
     },
     {
       "position": 106,
       "hebrew": "תֶּחֱזַקְנָה",
-      "phonetics": "te·ḥĕ·zaq·nāh",
-      "shortTranslation": " be strong , ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 89.23,
       "end": 90.14
     },
     {
       "position": 107,
       "hebrew": "יְדֵיכֶם,",
-      "phonetics": "yə·ḏê·ḵem",
-      "shortTranslation": " “ Let your hands ",
-      "longTranslation": "1) hand <BR> 1a) hand (of man)<BR> 1b) strength, power (fig.) <BR> 1c) side (of land), part, portion (metaph.) (fig.) <BR> 1d) (various special, technical senses) <BR> 1d1) sign, monument <BR> 1d2) part, fractional part, share <BR> 1d3) time, repetition <BR> 1d4) axle-trees, axle <BR> 1d5) stays, support (for laver) <BR> 1d6) tenons (in tabernacle) <BR> 1d7) a phallus, a hand (meaning unsure) <BR> 1d8) wrists",
       "start": 90.14,
       "end": 90.83
     },
     {
       "position": 108,
       "hebrew": "הַשֹּׁמְעִים",
-      "phonetics": "haš·šō·mə·‘îm",
-      "shortTranslation": " hear ",
-      "longTranslation": "v <BR> 1) to hear, listen to, obey <BR> 1a) (Qal) <BR> 1a1) to hear (perceive by ear) <BR> 1a2) to hear of or concerning <BR> 1a3) to hear (have power to hear) <BR> 1a4) to hear with attention or interest, listen to <BR> 1a5) to understand (language) <BR> 1a6) to hear (of judicial cases) <BR> 1a7) to listen, give heed <BR> 1a7a) to consent, agree <BR> 1a7b) to grant request <BR> 1a8) to listen to, yield to <BR> 1a9) to obey, be obedient <BR> 1b) (Niphal) <BR> 1b1) to be heard (of voice or sound) <BR> 1b2) to be heard of <BR> 1b3) to be regarded, be obeyed <BR> 1c) (Piel) to cause to hear, call to hear, summon <BR> 1d) (Hiphil) <BR> 1d1) to cause to hear, tell, proclaim, utter a sound <BR> 1d2) to sound aloud (musical term) <BR> 1d3) to make proclamation, summon <BR> 1d4) to cause to be heard <BR> n m <BR> 2) sound",
       "start": 91,
       "end": 91.86
     },
     {
       "position": 109,
       "hebrew": "בַּיָּמִים",
-      "phonetics": "bay·yā·mîm",
-      "shortTranslation": " you who now ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 91.86,
       "end": 92.55
     },
     {
       "position": 110,
       "hebrew": "הָאֵלֶּה",
-      "phonetics": "hā·’êl·leh",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 92.55,
       "end": 93.28
     },
     {
       "position": 111,
       "hebrew": "אֵת",
-      "phonetics": "’êṯ",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 93.28,
       "end": 93.39
     },
     {
       "position": 112,
       "hebrew": "הַדְּבָרִים",
-      "phonetics": "had·də·ḇā·rîm",
-      "shortTranslation": " words ",
-      "longTranslation": "1) speech, word, speaking, thing <BR> 1a) speech <BR> 1b) saying, utterance <BR> 1c) word, words <BR> 1d) business, occupation, acts, matter, case, something, manner (by extension)",
       "start": 93.6,
       "end": 94.63
     },
     {
       "position": 113,
       "hebrew": "הָאֵלֶּה,",
-      "phonetics": "hā·’êl·leh",
-      "shortTranslation": " these ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 94.63,
       "end": 95.46
     },
     {
       "position": 114,
       "hebrew": "מִפִּי,",
-      "phonetics": "mip·pî",
-      "shortTranslation": " . . . ",
-      "longTranslation": "peh<BR> 1) mouth <BR> 1a) mouth (of man)<BR> 1b) mouth (as organ of speech) <BR> 1c) mouth (of animals) <BR> 1d) mouth, opening, orifice (of a well, river, etc) <BR> 1e) extremity, end pim <BR> 2) a weight equal to one third of a shekel, occurs only in 1Sa 13:21",
       "start": 95.75,
       "end": 96.34
     },
     {
       "position": 115,
       "hebrew": "הַנְּבִיאִים,",
-      "phonetics": "han·nə·ḇî·’îm",
-      "shortTranslation": " by the prophets ",
-      "longTranslation": "1) spokesman, speaker, prophet <BR> 1a) prophet <BR> 1b) false prophet <BR> 1c) heathen prophet",
       "start": 96.34,
       "end": 97.26
     },
     {
       "position": 116,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " spoken ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 97.7,
       "end": 98.23
     },
     {
       "position": 117,
       "hebrew": "בְּיוֹם",
-      "phonetics": "bə·yō·wm",
-      "shortTranslation": " [who were present] when ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 98.23,
       "end": 98.71
     },
     {
       "position": 118,
       "hebrew": "יֻסַּד",
-      "phonetics": "yus·saḏ",
-      "shortTranslation": " the foundations were laid ",
-      "longTranslation": "1) to found, fix, establish, lay foundation <BR> 1a) (Qal) to found, establish, begin <BR> 1b) (Niphal) <BR> 1b1) to fix or seat themselves close together, sit in conclave <BR> 1b2) to be founded <BR> 1c) (Piel) <BR> 1c1) to found <BR> 1c2) to establish, appoint, ordain <BR> 1d) (Pual) to be founded, be laid <BR> 1e) (Hophal) to be founded",
       "start": 98.71,
       "end": 99.54
     },
     {
       "position": 119,
       "hebrew": "בֵּית ",
-      "phonetics": "bêṯ-",
-      "shortTranslation": " the house ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 99.8,
       "end": 100.18
     },
     {
       "position": 120,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " of the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 100.18,
       "end": 100.96
     },
     {
       "position": 121,
       "hebrew": "צְבָאוֹת",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts . ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 101.11,
       "end": 101.7
     },
     {
       "position": 122,
       "hebrew": "הַהֵיכָל,",
-      "phonetics": "ha·hê·ḵāl",
-      "shortTranslation": " the temple , ",
-      "longTranslation": "1) palace, temple, nave, sanctuary <BR> 1a) palace <BR> 1b) temple (palace of God as king) <BR> 1c) hall, nave (of Ezekiel's temple) <BR> 1d) temple (of heavenly temple)",
       "start": 102.22,
       "end": 102.98
     },
     {
       "position": 123,
       "hebrew": "לְהִבָּנוֹת׃",
-      "phonetics": "lə·hib·bā·nō·wṯ",
-      "shortTranslation": " to rebuild ",
-      "longTranslation": "1) to build, rebuild, establish, cause to continue <BR> 1a) (Qal) <BR> 1a1) to build, rebuild <BR> 1a2) to build a house (ie, establish a family) <BR> 1b) (Niphal) <BR> 1b1) to be built <BR> 1b2) to be rebuilt <BR> 1b3) established (of restored exiles) (fig.) <BR> 1b4) established (made permanent) <BR> 1b5) to be built up (of childless wife becoming the mother of a family through the children of a concubine)",
       "start": 102.98,
       "end": 103.96
     },
     {
       "position": 124,
       "hebrew": "כִּי,",
-      "phonetics": "kî",
-      "shortTranslation": " For ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 105.7,
       "end": 105.88
     },
     {
       "position": 125,
       "hebrew": "לִפְנֵי",
-      "phonetics": "lip̄·nê",
-      "shortTranslation": " before ",
-      "longTranslation": "1) face <BR> 1a) face, faces <BR> 1b) presence, person <BR> 1c) face (of seraphim or cherubim) <BR> 1d) face (of animals) <BR> 1e) face, surface (of ground) <BR> 1f) as adv of loc/temp <BR> 1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before <BR> 1g) with prep <BR> 1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
       "start": 105.88,
       "end": 106.49
     },
     {
       "position": 126,
       "hebrew": "הַיָּמִים",
-      "phonetics": "hay·yā·mîm",
-      "shortTranslation": " days ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 106.49,
       "end": 106.98
     },
     {
       "position": 127,
       "hebrew": "הָהֵם,",
-      "phonetics": "hā·hêm",
-      "shortTranslation": " those ",
-      "longTranslation": "1) they, these, the same, who",
       "start": 106.98,
       "end": 107.59
     },
     {
       "position": 128,
       "hebrew": "שְׂכַר",
-      "phonetics": "śə·ḵar",
-      "shortTranslation": " wages , ",
-      "longTranslation": "1) hire, wages <BR> 1a) wages <BR> 1b) reward, pay <BR> 1c) fare, fee, passage-money",
       "start": 108.01,
       "end": 108.35
     },
     {
       "position": 129,
       "hebrew": "הָאָדָם",
-      "phonetics": "hā·’ā·ḏām",
-      "shortTranslation": " man ",
-      "longTranslation": "1) man, mankind <BR> 1a) man, human being <BR> 1b) man, mankind (much more frequently intended sense in OT) <BR> 1c) Adam, first man <BR> 1d) city in Jordan valley",
       "start": 108.35,
       "end": 109.16
     },
     {
       "position": 130,
       "hebrew": "לֹא",
-      "phonetics": "lō",
-      "shortTranslation": " neither ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 109.16,
       "end": 109.43
     },
     {
       "position": 131,
       "hebrew": "נִהְיָה,",
-      "phonetics": "nih·yāh",
-      "shortTranslation": " received ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 109.43,
       "end": 109.96
     },
     {
       "position": 132,
       "hebrew": "וּשְׂכַר",
-      "phonetics": "ū·śə·ḵar",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) hire, wages <BR> 1a) wages <BR> 1b) reward, pay <BR> 1c) fare, fee, passage-money",
       "start": 110.56,
       "end": 111.17
     },
     {
       "position": 133,
       "hebrew": "הַבְּהֵמָה",
-      "phonetics": "hab·bə·hê·māh",
-      "shortTranslation": " beast ",
-      "longTranslation": "1) beast, cattle, animal <BR> 1a) beasts (coll of all animals) <BR> 1b) cattle, livestock (of domestic animals)<BR> 1c) wild beasts",
       "start": 111.17,
       "end": 112
     },
     {
       "position": 134,
       "hebrew": "אֵינֶנָּה;",
-      "phonetics": "’ê·nen·nāh",
-      "shortTranslation": " nor ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 112.14,
       "end": 112.83
     },
     {
       "position": 135,
       "hebrew": "וְלַיּוֹצֵא",
-      "phonetics": "wə·lay·yō·w·ṣê",
-      "shortTranslation": " for anyone who came ",
-      "longTranslation": "1) to go out, come out, exit, go forth <BR> 1a) (Qal) <BR> 1a1) to go or come out or forth, depart <BR> 1a2) to go forth (to a place) <BR> 1a3) to go forward, proceed to (to or toward something) <BR> 1a4) to come or go forth (with purpose or for result) <BR> 1a5) to come out of <BR> 1b) (Hiphil) <BR> 1b1) to cause to go or come out, bring out, lead out <BR> 1b2) to bring out of <BR> 1b3) to lead out <BR> 1b4) to deliver <BR> 1c) (Hophal) to be brought out or forth",
       "start": 113.64,
       "end": 114.67
     },
     {
       "position": 136,
       "hebrew": "וְלַבָּא",
-      "phonetics": "wə·lab·bā",
-      "shortTranslation": " or went , ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 114.67,
       "end": 115.44
     },
     {
       "position": 137,
       "hebrew": "אֵין ",
-      "phonetics": "’ên-",
-      "shortTranslation": " nor was there ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 115.82,
       "end": 116.16
     },
     {
       "position": 138,
       "hebrew": "שָׁלוֹם",
-      "phonetics": "šā·lō·wm",
-      "shortTranslation": " safety ",
-      "longTranslation": "1) completeness, soundness, welfare, peace <BR> 1a) completeness (in number) <BR> 1b) safety, soundness (in body) <BR> 1c) welfare, health, prosperity <BR> 1d) peace, quiet, tranquillity, contentment <BR> 1e) peace, friendship <BR> 1e1) of human relationships <BR> 1e2) with God especially in covenant relationship <BR> 1f) peace (from war) <BR> 1g) peace (as adjective)",
       "start": 116.16,
       "end": 116.93
     },
     {
       "position": 139,
       "hebrew": "מִן ",
-      "phonetics": "min-",
-      "shortTranslation": " from ",
-      "longTranslation": "prep<BR> 1) from, out of, on account of, off, on the side of, since, above, than, so that not, more than <BR> 1a) from (expressing separation), off, on the side of <BR> 1b) out of <BR> 1b1) (with verbs of proceeding, removing, expelling) <BR> 1b2) (of material from which something is made) <BR> 1b3) (of source or origin) <BR> 1c) out of, some of, from (partitively) <BR> 1d) from, since, after (of time) <BR> 1e) than, more than (in comparison) <BR> 1f) from...even to, both...and, either...or <BR> 1g) than, more than, too much for (in comparisons) <BR> 1h) from, on account of, through, because (with infinitive) <BR> conj <BR> 2) that",
       "start": 116.93,
       "end": 117.17
     },
     {
       "position": 140,
       "hebrew": "הַצָּר,",
-      "phonetics": "haṣ·ṣār",
-      "shortTranslation": " the enemy ",
-      "longTranslation": "1) narrow, tight <BR> 2) straits, distress <BR> 3) adversary, foe, enemy, oppressor <BR> 4) hard pebble, flint",
       "start": 117.21,
       "end": 117.91
     },
     {
       "position": 141,
       "hebrew": "וַאֲשַׁלַּח",
-      "phonetics": "wa·’ă·šal·laḥ",
-      "shortTranslation": " for I had turned ",
-      "longTranslation": "1) to send, send away, let go, stretch out <BR> 1a) (Qal) <BR> 1a1) to send <BR> 1a2) to stretch out, extend, direct <BR> 1a3) to send away <BR> 1a4) to let loose <BR> 1b) (Niphal) to be sent <BR> 1c) (Piel) <BR> 1c1) to send off or away or out or forth, dismiss, give over, cast out <BR> 1c2) to let go, set free <BR> 1c3) to shoot forth (of branches) <BR> 1c4) to let down <BR> 1c5) to shoot <BR> 1d) (Pual) to be sent off, be put away, be divorced, be impelled <BR> 1e) (Hiphil) to send",
       "start": 118.99,
       "end": 119.83
     },
     {
       "position": 142,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 119.83,
       "end": 120.04
     },
     {
       "position": 143,
       "hebrew": "כָּל ",
-      "phonetics": "kāl-",
-      "shortTranslation": " every ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 120.04,
       "end": 120.33
     },
     {
       "position": 144,
       "hebrew": "הָאָדָם",
-      "phonetics": "hā·’ā·ḏām",
-      "shortTranslation": " man ",
-      "longTranslation": "1) man, mankind <BR> 1a) man, human being <BR> 1b) man, mankind (much more frequently intended sense in OT) <BR> 1c) Adam, first man <BR> 1d) city in Jordan valley",
       "start": 120.33,
       "end": 121.05
     },
     {
       "position": 145,
       "hebrew": "אִישׁ",
-      "phonetics": "’îš",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)",
       "start": 121.09,
       "end": 121.53
     },
     {
       "position": 146,
       "hebrew": "בְּרֵעֵהוּ׃",
-      "phonetics": "bə·rê·‘ê·hū",
-      "shortTranslation": " against his neighbor . ",
-      "longTranslation": "1) friend, companion, fellow, another person <BR> 1a) friend, intimate <BR> 1b) fellow, fellow-citizen, another person (weaker sense) <BR> 1c) other, another (reciprocal phrase)",
       "start": 121.53,
       "end": 122.28
     },
     {
       "position": 147,
       "hebrew": "וְעַתָּה,",
-      "phonetics": "wə·‘at·tāh",
-      "shortTranslation": " But now ",
-      "longTranslation": "1) now <BR> 1a) now <BR> 1b) in phrases",
       "start": 122.8,
       "end": 123.63
     },
     {
       "position": 148,
       "hebrew": "לֹא",
-      "phonetics": "lō",
-      "shortTranslation": " will not treat ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 124.35,
       "end": 124.79
     },
     {
       "position": 149,
       "hebrew": "כַיָּמִים",
-      "phonetics": "ḵay·yā·mîm",
-      "shortTranslation": " . . . , ” ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 124.83,
       "end": 125.48
     },
     {
       "position": 150,
       "hebrew": "הָרִאשֹׁנִים",
-      "phonetics": "hā·ri·šō·nîm",
-      "shortTranslation": " as I did in the past ",
-      "longTranslation": "adj <BR> 1) first, primary, former <BR> 1a) former (of time) <BR> 1a1) ancestors <BR> 1a2) former things <BR> 1b) foremost (of location) <BR> 1c) first (in time) <BR> 1d) first, chief (in degree) <BR> adv <BR> 2) first, before, formerly, at first",
       "start": 125.48,
       "end": 126.35
     },
     {
       "position": 151,
       "hebrew": "אֲנִי,",
-      "phonetics": "’ă·nî",
-      "shortTranslation": " I ",
-      "longTranslation": "1) I (first pers. sing. -usually used for emphasis)",
       "start": 126.62,
       "end": 127.18
     },
     {
       "position": 152,
       "hebrew": "לִשְׁאֵרִית,",
-      "phonetics": "liš·’ê·rîṯ",
-      "shortTranslation": " the remnant ",
-      "longTranslation": "1) rest, residue, remainder, remnant <BR> 1a) rest, what is left <BR> 1b) remainder, descendants",
       "start": 127.43,
       "end": 128.21
     },
     {
       "position": 153,
       "hebrew": "הָעָם",
-      "phonetics": "hā·‘ām",
-      "shortTranslation": " people ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 128.21,
       "end": 128.73
     },
     {
       "position": 154,
       "hebrew": "הַזֶּה,",
-      "phonetics": "haz·zeh",
-      "shortTranslation": " of this ",
-      "longTranslation": "1) this, this one, here, which, this...that, the one...the other, another, such <BR> 1a) (alone) <BR> 1a1) this one <BR> 1a2) this...that, the one...the other, another <BR> 1b) (appos to subst) <BR> 1b1) this <BR> 1c) (as predicate) <BR> 1c1) this, such <BR> 1d) (enclitically) <BR> 1d1) then <BR> 1d2) who, whom <BR> 1d3) how now, what now <BR> 1d4) what now <BR> 1d5) wherefore now <BR> 1d6) behold here <BR> 1d7) just now <BR> 1d8) now, now already <BR> 1e) (poetry) <BR> 1e1) wherein, which, those who <BR> 1f) (with prefixes) <BR> 1f1) in this (place) here, then <BR> 1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter <BR> 1f3) thus and thus <BR> 1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus <BR> 1f5) from here, hence, on one side...on the other side <BR> 1f6) on this account <BR> 1f7) in spite of this, which, whence, how",
       "start": 128.73,
       "end": 129.31
     },
     {
       "position": 155,
       "hebrew": "נְאֻם,",
-      "phonetics": "nə·’um",
-      "shortTranslation": " declares ",
-      "longTranslation": "1) (Qal) utterance, declaration (of prophet) <BR> 1a) utterance, declaration, revelation (of prophet in ecstatic state) <BR> 1b) utterance, declaration (elsewhere always preceding divine name)",
       "start": 129.62,
       "end": 130.23
     },
     {
       "position": 156,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 130.35,
       "end": 131.19
     },
     {
       "position": 157,
       "hebrew": "צְבָאוֹת׃",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts . ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 131.19,
       "end": 131.6
     },
     {
       "position": 158,
       "hebrew": "כִּי ",
-      "phonetics": "kî-",
-      "shortTranslation": " “ For ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 132.43,
       "end": 132.64
     },
     {
       "position": 159,
       "hebrew": "זֶרַע",
-      "phonetics": "ze·ra‘",
-      "shortTranslation": " the seed ",
-      "longTranslation": "1) seed, sowing, offspring <BR> 1a) a sowing <BR> 1b) seed <BR> 1c) semen virile <BR> 1d) offspring, descendants, posterity, children <BR> 1e) of moral quality <BR> 1e1) a practitioner of righteousness (fig.) <BR> 1f) sowing time (by meton)",
       "start": 132.64,
       "end": 133.35
     },
     {
       "position": 160,
       "hebrew": "הַשָּׁלוֹם,",
-      "phonetics": "haš·šā·lō·wm",
-      "shortTranslation": " [will be] prosperous , ",
-      "longTranslation": "1) completeness, soundness, welfare, peace <BR> 1a) completeness (in number) <BR> 1b) safety, soundness (in body) <BR> 1c) welfare, health, prosperity <BR> 1d) peace, quiet, tranquillity, contentment <BR> 1e) peace, friendship <BR> 1e1) of human relationships <BR> 1e2) with God especially in covenant relationship <BR> 1f) peace (from war) <BR> 1g) peace (as adjective)",
       "start": 133.38,
       "end": 134.04
     },
     {
       "position": 161,
       "hebrew": "הַגֶּפֶן",
-      "phonetics": "hag·ge·p̄en",
-      "shortTranslation": " the vine ",
-      "longTranslation": "1) vine, vine tree <BR> 1a) of Israel (fig.) <BR> 1b) of stars fading at Jehovah's judgment (metaph.) <BR> 1c) of prosperity",
       "start": 134.47,
       "end": 135.3
     },
     {
       "position": 162,
       "hebrew": "תִּתֵּן",
-      "phonetics": "tit·tên",
-      "shortTranslation": " will yield ",
-      "longTranslation": "1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon",
       "start": 135.33,
       "end": 135.86
     },
     {
       "position": 163,
       "hebrew": "פִּרְיָהּ",
-      "phonetics": "pir·yāh",
-      "shortTranslation": " its fruit , ",
-      "longTranslation": "1) fruit <BR> 1a) fruit, produce (of the ground) <BR> 1b) fruit, offspring, children, progeny (of the womb) <BR> 1c) fruit (of actions) (fig.)",
       "start": 135.89,
       "end": 136.45
     },
     {
       "position": 164,
       "hebrew": "וְהָאָרֶץ",
-      "phonetics": "wə·hā·’ā·reṣ",
-      "shortTranslation": " the ground ",
-      "longTranslation": "1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan",
       "start": 137.03,
       "end": 137.97
     },
     {
       "position": 165,
       "hebrew": "תִּתֵּן",
-      "phonetics": "tit·tên",
-      "shortTranslation": " will yield ",
-      "longTranslation": "1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon",
       "start": 137.97,
       "end": 138.4
     },
     {
       "position": 166,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 138.4,
       "end": 138.85
     },
     {
       "position": 167,
       "hebrew": "יְבוּלָהּ,",
-      "phonetics": "yə·ḇū·lāh",
-      "shortTranslation": " its produce , ",
-      "longTranslation": "1) produce, fruit, produce (of the soil)",
       "start": 138.85,
       "end": 139.4
     },
     {
       "position": 168,
       "hebrew": "וְהַשָּׁמַיִם,",
-      "phonetics": "wə·haš·šā·ma·yim",
-      "shortTranslation": " and the skies ",
-      "longTranslation": "1) heaven, heavens, sky <BR> 1a) visible heavens, sky <BR> 1a1) as abode of the stars <BR> 1a2) as the visible universe, the sky, atmosphere, etc <BR> 1b) Heaven (as the abode of God)",
       "start": 139.92,
       "end": 141.17
     },
     {
       "position": 169,
       "hebrew": "יִתְּנוּ",
-      "phonetics": "yit·tə·nū",
-      "shortTranslation": " will give ",
-      "longTranslation": "1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon",
       "start": 141.5,
       "end": 142.21
     },
     {
       "position": 170,
       "hebrew": "טַלָּם;",
-      "phonetics": "ṭal·lām",
-      "shortTranslation": " their dew . ",
-      "longTranslation": "1) dew, night mist",
       "start": 142.32,
       "end": 143.08
     },
     {
       "position": 171,
       "hebrew": "וְהִנְחַלְתִּי,",
-      "phonetics": "wə·hin·ḥal·tî",
-      "shortTranslation": " as an inheritance . ",
-      "longTranslation": "1) to get as a possession, acquire, inherit, possess <BR> 1a) (Qal)<BR> 1a1) to take possession, inherit <BR> 1a2) to have or get as a possession or property (fig.) <BR> 1a3) to divide the land for a possession <BR> 1a4) to acquire (testimonies) (fig.) <BR> 1b) (Piel) to divide for a possession <BR> 1c) (Hithpael) to possess oneself of <BR> 1d) (Hiphil) <BR> 1d1) to give as a possession <BR> 1d2) to cause to inherit, give as an inheritance <BR> 1e) (Hophal) to be allotted, be made to possess",
       "start": 143.81,
       "end": 144.84
     },
     {
       "position": 172,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 144.84,
       "end": 144.98
     },
     {
       "position": 173,
       "hebrew": "שְׁאֵרִית",
-      "phonetics": "šə·’ê·rîṯ",
-      "shortTranslation": " To the remnant ",
-      "longTranslation": "1) rest, residue, remainder, remnant <BR> 1a) rest, what is left <BR> 1b) remainder, descendants",
       "start": 144.98,
       "end": 145.54
     },
     {
       "position": 174,
       "hebrew": "הָעָם",
-      "phonetics": "hā·‘ām",
-      "shortTranslation": " people ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 145.54,
       "end": 146.02
     },
     {
       "position": 175,
       "hebrew": "הַזֶּה,",
-      "phonetics": "haz·zeh",
-      "shortTranslation": " of this ",
-      "longTranslation": "1) this, this one, here, which, this...that, the one...the other, another, such <BR> 1a) (alone) <BR> 1a1) this one <BR> 1a2) this...that, the one...the other, another <BR> 1b) (appos to subst) <BR> 1b1) this <BR> 1c) (as predicate) <BR> 1c1) this, such <BR> 1d) (enclitically) <BR> 1d1) then <BR> 1d2) who, whom <BR> 1d3) how now, what now <BR> 1d4) what now <BR> 1d5) wherefore now <BR> 1d6) behold here <BR> 1d7) just now <BR> 1d8) now, now already <BR> 1e) (poetry) <BR> 1e1) wherein, which, those who <BR> 1f) (with prefixes) <BR> 1f1) in this (place) here, then <BR> 1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter <BR> 1f3) thus and thus <BR> 1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus <BR> 1f5) from here, hence, on one side...on the other side <BR> 1f6) on this account <BR> 1f7) in spite of this, which, whence, how",
       "start": 146.02,
       "end": 146.28
     },
     {
       "position": 176,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 146.28,
       "end": 146.68
     },
     {
       "position": 177,
       "hebrew": "כָּל ",
-      "phonetics": "kāl-",
-      "shortTranslation": " {I will give} all ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 147.27,
       "end": 147.53
     },
     {
       "position": 178,
       "hebrew": "אֵלֶּה׃",
-      "phonetics": "’êl·leh",
-      "shortTranslation": " these things ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 147.53,
       "end": 148.54
     },
     {
       "position": 179,
       "hebrew": "וְהָיָה",
-      "phonetics": "wə·hā·yāh",
-      "shortTranslation": " vvv ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 149.56,
       "end": 150.4
     },
     {
       "position": 180,
       "hebrew": "כַּאֲשֶׁר",
-      "phonetics": "ka·’ă·šer",
-      "shortTranslation": " As ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 150.72,
       "end": 151.45
     },
     {
       "position": 181,
       "hebrew": "הֱיִיתֶם",
-      "phonetics": "hĕ·yî·ṯem",
-      "shortTranslation": " you have been ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 151.45,
       "end": 152.17
     },
     {
       "position": 182,
       "hebrew": "קְלָלָה",
-      "phonetics": "qə·lā·lāh",
-      "shortTranslation": " a curse ",
-      "longTranslation": "1) curse, vilification, execration",
       "start": 152.17,
       "end": 152.79
     },
     {
       "position": 183,
       "hebrew": "בַּגּוֹיִם,",
-      "phonetics": "bag·gō·w·yim",
-      "shortTranslation": " among the nations , ",
-      "longTranslation": "n m <BR> 1) nation, people <BR> 1a) nation, people<BR> 1a1) usually of non-Hebrew people <BR> 1a2) of descendants of Abraham <BR> 1a3) of Israel <BR> 1b) of swarm of locusts, other animals (fig.) <BR> n pr m <BR> 1c) Goyim? = |nations|",
       "start": 152.79,
       "end": 153.48
     },
     {
       "position": 184,
       "hebrew": "בֵּית",
-      "phonetics": "bêṯ",
-      "shortTranslation": " O house ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 153.96,
       "end": 154.3
     },
     {
       "position": 185,
       "hebrew": "יְהוּדָה",
-      "phonetics": "yə·hū·ḏāh",
-      "shortTranslation": " of Judah ",
-      "longTranslation": "Judah = |praised|<BR> 1) the son of Jacob by Leah <BR> 2) the tribe descended from Judah the son of Jacob <BR> 3) the territory occupied by the tribe of Judah <BR> 4) the kingdom comprised of the tribes of Judah and Benjamin which occupied the southern part of Canaan after the nation split upon the death of Solomon <BR> 5) a Levite in Ezra's time <BR> 6) an overseer of Jerusalem in the time of Nehemiah <BR> 7) a Levite musician in the time of Nehemiah <BR> 8) a priest in the time of Nehemiah",
       "start": 154.3,
       "end": 154.97
     },
     {
       "position": 186,
       "hebrew": "וּבֵית",
-      "phonetics": "ū·ḇêṯ",
-      "shortTranslation": " and house ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 154.97,
       "end": 155.28
     },
     {
       "position": 187,
       "hebrew": "יִשְׂרָאֵל,",
-      "phonetics": "yiś·rā·’êl",
-      "shortTranslation": " of Israel , ",
-      "longTranslation": "Israel = |God prevails|<BR> 1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel <BR> 2) the name of the descendants and the nation of the descendants of Jacob <BR> 2a) the name of the nation until the death of Solomon and the split <BR> 2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah <BR> 2c) the name of the nation after the return from exile",
       "start": 155.28,
       "end": 156.03
     },
     {
       "position": 188,
       "hebrew": "כֵּן",
-      "phonetics": "kên",
-      "shortTranslation": " so ",
-      "longTranslation": "adv <BR> 1) so, therefore, thus <BR> 1a) thus, so <BR> 1b) just so <BR> 1c) therefore <BR> 1d) so...as (paired with adv) <BR> 1e) then <BR> 1f) forasmuch as (in phrase) <BR> 1g) (with prep) <BR> 1g1) therefore, this being so (specific) <BR> 1g2) hitherto <BR> 1g3) therefore, on this ground (general) <BR> 1g4) afterwards <BR> 1g5) in such case <BR> adj <BR> 2) right, just, honest, true, veritable <BR> 2a) right, just, honest <BR> 2b) correct <BR> 2c) true, veritable <BR> 2d) true!, right!, correct! (in assent)",
       "start": 156.59,
       "end": 156.99
     },
     {
       "position": 189,
       "hebrew": "אוֹשִׁיעַ",
-      "phonetics": "’ō·wō·šî·a‘",
-      "shortTranslation": " I will save ",
-      "longTranslation": "1) to save, be saved, be delivered <BR> 1a) (Niphal) <BR> 1a1) to be liberated, be saved, be delivered <BR> 1a2) to be saved (in battle), be victorious <BR> 1b) (Hiphil) <BR> 1b1) to save, deliver <BR> 1b2) to save from moral troubles <BR> 1b3) to give victory to",
       "start": 156.99,
       "end": 157.66
     },
     {
       "position": 190,
       "hebrew": "אֶתְכֶם,",
-      "phonetics": "’eṯ·ḵem",
-      "shortTranslation": " you , ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 157.66,
       "end": 158.28
     },
     {
       "position": 191,
       "hebrew": "וִהְיִיתֶם",
-      "phonetics": "wih·yî·ṯem",
-      "shortTranslation": " and you will be ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 158.64,
       "end": 159.58
     },
     {
       "position": 192,
       "hebrew": "בְּרָכָה:",
-      "phonetics": "bə·rā·ḵāh",
-      "shortTranslation": " a blessing . ",
-      "longTranslation": "1) blessing <BR> 2) (source of) blessing <BR> 3) blessing, prosperity <BR> 4) blessing, praise of God <BR> 5) a gift, present<BR> 6) treaty of peace",
       "start": 159.58,
       "end": 160.38
     },
     {
       "position": 193,
       "hebrew": "אַל ",
-      "phonetics": "’al-",
-      "shortTranslation": " Do not ",
-      "longTranslation": "1) not, no, nor, neither, nothing (as wish or preference) <BR> 1a) do not, let not (with a verb) <BR> 1b) let there not be (with a verb understood) <BR> 1c) not, no (with substantive) <BR> 1d) nothing (as substantive)",
       "start": 160.72,
       "end": 161.07
     },
     {
       "position": 194,
       "hebrew": "תִּירָאוּ,",
-      "phonetics": "tî·rā·’ū",
-      "shortTranslation": " be afraid ; ",
-      "longTranslation": "1) to fear, revere, be afraid <BR> 1a) (Qal) <BR> 1a1) to fear, be afraid <BR> 1a2) to stand in awe of, be awed <BR> 1a3) to fear, reverence, honour, respect <BR> 1b) (Niphal) <BR> 1b1) to be fearful, be dreadful, be feared <BR> 1b2) to cause astonishment and awe, be held in awe <BR> 1b3) to inspire reverence or godly fear or awe <BR> 1c) (Piel) to make afraid, terrify <BR> 2) (TWOT) to shoot, pour",
       "start": 161.07,
       "end": 161.9
     },
     {
       "position": 195,
       "hebrew": "תֶּחֱזַקְנָה",
-      "phonetics": "te·ḥĕ·zaq·nāh",
-      "shortTranslation": " be strong . ” ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 162.3,
       "end": 163.33
     },
     {
       "position": 196,
       "hebrew": "יְדֵיכֶם׃",
-      "phonetics": "yə·ḏê·ḵem",
-      "shortTranslation": " let your hands ",
-      "longTranslation": "1) hand <BR> 1a) hand (of man)<BR> 1b) strength, power (fig.) <BR> 1c) side (of land), part, portion (metaph.) (fig.) <BR> 1d) (various special, technical senses) <BR> 1d1) sign, monument <BR> 1d2) part, fractional part, share <BR> 1d3) time, repetition <BR> 1d4) axle-trees, axle <BR> 1d5) stays, support (for laver) <BR> 1d6) tenons (in tabernacle) <BR> 1d7) a phallus, a hand (meaning unsure) <BR> 1d8) wrists",
       "start": 163.33,
       "end": 164.1
     },
     {
       "position": 197,
       "hebrew": "כִּי",
-      "phonetics": "kî",
-      "shortTranslation": " For ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 165.68,
       "end": 165.71
     },
     {
       "position": 198,
       "hebrew": "כֹה",
-      "phonetics": "ḵōh",
-      "shortTranslation": " this is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 166.37,
       "end": 166.54
     },
     {
       "position": 199,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 166.54,
       "end": 168.08
     },
     {
       "position": 200,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 168.08,
       "end": 168.24
     },
     {
       "position": 201,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 168.24,
       "end": 168.53
     },
     {
       "position": 202,
       "hebrew": "כַּאֲשֶׁר",
-      "phonetics": "ka·’ă·šer",
-      "shortTranslation": " “ Just as ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 169.27,
       "end": 169.92
     },
     {
       "position": 203,
       "hebrew": "זָמַמְתִּי",
-      "phonetics": "zå̄·mam·tī",
-      "shortTranslation": " I resolved ",
-      "longTranslation": "1) to have a thought, devise, plan, consider, purpose <BR> 1a) (Qal) <BR> 1a1) to consider, fix thought upon<BR> 1a2) to purpose, devise <BR> 1a3) to plot (of evil intent)",
       "start": 169.95,
       "end": 170.79
     },
     {
       "position": 204,
       "hebrew": "לְהָרַע",
-      "phonetics": "lə·hā·ra‘",
-      "shortTranslation": " to bring disaster ",
-      "longTranslation": "1) to be bad, be evil <BR> 1a)(Qal) <BR> 1a1) to be displeasing <BR> 1a2) to be sad <BR> 1a3) to be injurious, be evil <BR> 1a4) to be wicked, be evil (ethically) <BR> 1b) (Hiphil) <BR> 1b1) to do an injury or hurt <BR> 1b2) to do evil or wickedly <BR> 1b3) mischief (participle) <BR> 2) to break, shatter <BR> 2a) (Qal) <BR> 2a1) to break <BR> 2a2) broken (participle) <BR> 2a3) to be broken <BR> 2b) (Hithpolel) to be broken, be broken in pieces, be broken asunder",
       "start": 170.79,
       "end": 171.3
     },
     {
       "position": 205,
       "hebrew": "לָכֶם",
-      "phonetics": "lā·ḵem",
-      "shortTranslation": " upon you ",
-      "longTranslation": null,
       "start": 171.3,
       "end": 171.77
     },
     {
       "position": 206,
       "hebrew": "בְּהַקְצִיף",
-      "phonetics": "bə·haq·ṣîp̄",
-      "shortTranslation": " provoked Me to anger ",
-      "longTranslation": "1) to be displeased, be angry, fret oneself, be wroth <BR> 1a) (Qal) to be wroth, to be full of wrath, to be furious <BR> 1b) (Hiphil) to provoke to wrath or anger <BR> 1c) (Hithpael) to put oneself in a rage, anger oneself",
       "start": 172.1,
       "end": 173.11
     },
     {
       "position": 207,
       "hebrew": "אֲבֹתֵיכֶם",
-      "phonetics": "’ă·ḇō·ṯê·ḵem",
-      "shortTranslation": " when your fathers ",
-      "longTranslation": "1) father of an individual <BR> 2) of God as father of his people <BR> 3) head or founder of a household, group, family, or clan <BR> 4) ancestor <BR> 4a) grandfather, forefathers -- of person <BR> 4b) of people <BR> 5) originator or patron of a class, profession, or art <BR> 6) of producer, generator (fig.) <BR> 7) of benevolence and protection (fig.) <BR> 8) term of respect and honour <BR> 9) ruler or chief (spec.)",
       "start": 173.11,
       "end": 173.79
     },
     {
       "position": 208,
       "hebrew": "אֹתִי,",
-      "phonetics": "’ō·ṯî",
-      "shortTranslation": " - , ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 173.79,
       "end": 174.32
     },
     {
       "position": 209,
       "hebrew": "אָמַר",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 174.67,
       "end": 175.14
     },
     {
       "position": 210,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 175.14,
       "end": 175.98
     },
     {
       "position": 211,
       "hebrew": "צְבָאוֹת;",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts , ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 175.98,
       "end": 176.43
     },
     {
       "position": 212,
       "hebrew": "וְלֹא,",
-      "phonetics": "wə·lō",
-      "shortTranslation": " and I did not ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 176.7,
       "end": 177.15
     },
     {
       "position": 213,
       "hebrew": "נִחָמְתִּי׃",
-      "phonetics": "ni·ḥā·mə·tî",
-      "shortTranslation": " relent , ” ",
-      "longTranslation": "1) to be sorry, console oneself, repent, regret, comfort, be comforted <BR> 1a) (Niphal) <BR> 1a1) to be sorry, be moved to pity, have compassion <BR> 1a2) to be sorry, rue, suffer grief, repent <BR> 1a3) to comfort oneself, be comforted <BR> 1a4) to comfort oneself, ease oneself <BR> 1b) (Piel) to comfort, console <BR> 1c) (Pual) to be comforted, be consoled <BR> 1d) (Hithpael) <BR> 1d1) to be sorry, have compassion <BR> 1d2) to rue, repent of <BR> 1d3) to comfort oneself, be comforted <BR> 1d4) to ease oneself",
       "start": 177.15,
       "end": 178.06
     },
     {
       "position": 214,
       "hebrew": "כֵּן",
-      "phonetics": "kên",
-      "shortTranslation": " “ so ",
-      "longTranslation": "adv <BR> 1) so, therefore, thus <BR> 1a) thus, so <BR> 1b) just so <BR> 1c) therefore <BR> 1d) so...as (paired with adv) <BR> 1e) then <BR> 1f) forasmuch as (in phrase) <BR> 1g) (with prep) <BR> 1g1) therefore, this being so (specific) <BR> 1g2) hitherto <BR> 1g3) therefore, on this ground (general) <BR> 1g4) afterwards <BR> 1g5) in such case <BR> adj <BR> 2) right, just, honest, true, veritable <BR> 2a) right, just, honest <BR> 2b) correct <BR> 2c) true, veritable <BR> 2d) true!, right!, correct! (in assent)",
       "start": 178.73,
       "end": 179.08
     },
     {
       "position": 215,
       "hebrew": "שַׁבְתִּי",
-      "phonetics": "šaḇ·tî",
-      "shortTranslation": " again ",
-      "longTranslation": "1) to return, turn back <BR> 1a) (Qal) <BR> 1a1) to turn back, return <BR> 1a1a) to turn back <BR> 1a1b) to return, come or go back <BR> 1a1c) to return unto, go back, come back <BR> 1a1d) of dying <BR> 1a1e) of human relations (fig) <BR> 1a1f) of spiritual relations (fig) <BR> 1a1f1) to turn back (from God), apostatise <BR> 1a1f2) to turn away (of God) <BR> 1a1f3) to turn back (to God), repent <BR> 1a1f4) turn back (from evil) <BR> 1a1g) of inanimate things <BR> 1a1h) in repetition <BR> 1b) (Polel) <BR> 1b1) to bring back <BR> 1b2) to restore, refresh, repair (fig) <BR> 1b3) to lead away (enticingly) <BR> 1b4) to show turning, apostatise <BR> 1c) (Pual) restored (participle) <BR> 1d) (Hiphil) to cause to return, bring back <BR> 1d1) to bring back, allow to return, put back, draw back, give back, restore, relinquish, give in payment <BR> 1d2) to bring back, refresh, restore <BR> 1d3) to bring back, report to, answer <BR> 1d4) to bring back, make requital, pay (as recompense) <BR> 1d5) to turn back or backward, repel, defeat, repulse, hinder, reject, refuse <BR> 1d6) to turn away (face), turn toward <BR> 1d7) to turn against <BR> 1d8) to bring back to mind <BR> 1d9) to show a turning away 1d10) to reverse, revoke <BR> 1e) (Hophal) to be returned, be restored, be brought back <BR> 1f) (Pulal) brought back",
       "start": 179.08,
       "end": 179.96
     },
     {
       "position": 216,
       "hebrew": "זָמַמְתִּי",
-      "phonetics": "zā·mam·tî",
-      "shortTranslation": " I have resolved ",
-      "longTranslation": "1) to have a thought, devise, plan, consider, purpose <BR> 1a) (Qal) <BR> 1a1) to consider, fix thought upon<BR> 1a2) to purpose, devise <BR> 1a3) to plot (of evil intent)",
       "start": 180.19,
       "end": 180.97
     },
     {
       "position": 217,
       "hebrew": "בַּיָּמִים",
-      "phonetics": "bay·yā·mîm",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 180.97,
       "end": 181.72
     },
     {
       "position": 218,
       "hebrew": "הָאֵלֶּה,",
-      "phonetics": "hā·’êl·leh",
-      "shortTranslation": " now ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 181.72,
       "end": 182.51
     },
     {
       "position": 219,
       "hebrew": "לְהֵיטִיב",
-      "phonetics": "lə·hê·ṭîḇ",
-      "shortTranslation": " to do good ",
-      "longTranslation": "1) to be good, be pleasing, be well, be glad <BR> 1a) (Qal) <BR> 1a1) to be glad, be joyful <BR> 1a2) to be well placed <BR> 1a3) to be well for, be well with, go well with <BR> 1a4) to be pleasing, be pleasing to <BR> 1b) (Hiphil) <BR> 1b1) to make glad, rejoice <BR> 1b2) to do good to, deal well with <BR> 1b3) to do well, do thoroughly <BR> 1b4) to make a thing good or right or beautiful <BR> 1b5) to do well, do right",
       "start": 182.75,
       "end": 183.63
     },
     {
       "position": 220,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 183.63,
       "end": 183.93
     },
     {
       "position": 221,
       "hebrew": "יְרוּשָׁלִַם",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " to Jerusalem ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 183.93,
       "end": 184.86
     },
     {
       "position": 222,
       "hebrew": "וְאֶת ",
-      "phonetics": "wə·’eṯ-",
-      "shortTranslation": " and ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 185.06,
       "end": 185.6
     },
     {
       "position": 223,
       "hebrew": "בֵּית",
-      "phonetics": "bêṯ",
-      "shortTranslation": " vvv ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 185.6,
       "end": 186.22
     },
     {
       "position": 224,
       "hebrew": "יְהוּדָה:",
-      "phonetics": "yə·hū·ḏāh",
-      "shortTranslation": " Judah . ",
-      "longTranslation": "Judah = |praised|<BR> 1) the son of Jacob by Leah <BR> 2) the tribe descended from Judah the son of Jacob <BR> 3) the territory occupied by the tribe of Judah <BR> 4) the kingdom comprised of the tribes of Judah and Benjamin which occupied the southern part of Canaan after the nation split upon the death of Solomon <BR> 5) a Levite in Ezra's time <BR> 6) an overseer of Jerusalem in the time of Nehemiah <BR> 7) a Levite musician in the time of Nehemiah <BR> 8) a priest in the time of Nehemiah",
       "start": 186.22,
       "end": 186.58
     },
     {
       "position": 225,
       "hebrew": "אַל ",
-      "phonetics": "’al-",
-      "shortTranslation": " Do not ",
-      "longTranslation": "1) not, no, nor, neither, nothing (as wish or preference) <BR> 1a) do not, let not (with a verb) <BR> 1b) let there not be (with a verb understood) <BR> 1c) not, no (with substantive) <BR> 1d) nothing (as substantive)",
       "start": 187.02,
       "end": 187.35
     },
     {
       "position": 226,
       "hebrew": "תִּירָאוּ׃",
-      "phonetics": "tî·rā·’ū",
-      "shortTranslation": " be afraid . ",
-      "longTranslation": "1) to fear, revere, be afraid <BR> 1a) (Qal) <BR> 1a1) to fear, be afraid <BR> 1a2) to stand in awe of, be awed <BR> 1a3) to fear, reverence, honour, respect <BR> 1b) (Niphal) <BR> 1b1) to be fearful, be dreadful, be feared <BR> 1b2) to cause astonishment and awe, be held in awe <BR> 1b3) to inspire reverence or godly fear or awe <BR> 1c) (Piel) to make afraid, terrify <BR> 2) (TWOT) to shoot, pour",
       "start": 187.35,
       "end": 188.23
     },
     {
       "position": 227,
       "hebrew": "אֵלֶּה",
-      "phonetics": "’êl·leh",
-      "shortTranslation": " These ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 189.4,
       "end": 189.96
     },
     {
       "position": 228,
       "hebrew": "הַדְּבָרִים,",
-      "phonetics": "had·də·ḇā·rîm",
-      "shortTranslation": " are the things ",
-      "longTranslation": "1) speech, word, speaking, thing <BR> 1a) speech <BR> 1b) saying, utterance <BR> 1c) word, words <BR> 1d) business, occupation, acts, matter, case, something, manner (by extension)",
       "start": 189.96,
       "end": 190.8
     },
     {
       "position": 229,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " - ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 190.8,
       "end": 191.15
     },
     {
       "position": 230,
       "hebrew": "תַּעֲשׂוּ:",
-      "phonetics": "ta·‘ă·śū",
-      "shortTranslation": " you must do : ",
-      "longTranslation": "1) to do, fashion, accomplish, make <BR> 1a) (Qal) <BR> 1a1) to do, work, make, produce <BR> 1a1a) to do <BR> 1a1b) to work <BR> 1a1c) to deal (with) <BR> 1a1d) to act, act with effect, effect <BR> 1a2) to make <BR> 1a2a) to make <BR> 1a2b) to produce <BR> 1a2c) to prepare <BR> 1a2d) to make (an offering) <BR> 1a2e) to attend to, put in order <BR> 1a2f) to observe, celebrate <BR> 1a2g) to acquire (property) <BR> 1a2h) to appoint, ordain, institute <BR> 1a2i) to bring about <BR> 1a2j) to use <BR> 1a2k) to spend, pass <BR> 1b) (Niphal) <BR> 1b1) to be done <BR> 1b2) to be made <BR> 1b3) to be produced <BR> 1b4) to be offered <BR> 1b5) to be observed <BR> 1b6) to be used <BR> 1c) (Pual) to be made <BR> 2) (Piel) to press, squeeze",
       "start": 191.15,
       "end": 191.88
     },
     {
       "position": 231,
       "hebrew": "דַּבְּרוּ",
-      "phonetics": "dab·bə·rū",
-      "shortTranslation": " Speak ",
-      "longTranslation": "1) to speak, declare, converse, command, promise, warn, threaten, sing <BR> 1a) (Qal) to speak <BR> 1b) (Niphal) to speak with one another, talk <BR> 1c) (Piel) <BR> 1c1) to speak <BR> 1c2) to promise <BR> 1d) (Pual) to be spoken <BR> 1e) (Hithpael) to speak <BR> 1f) (Hiphil) to lead away, put to flight",
       "start": 192.51,
       "end": 193.32
     },
     {
       "position": 232,
       "hebrew": "אֱמֶת,",
-      "phonetics": "’ĕ·meṯ",
-      "shortTranslation": " truth ",
-      "longTranslation": "n f<BR> 1) firmness, faithfulness, truth <BR> 1a) sureness, reliability <BR> 1b) stability, continuance <BR> 1c) faithfulness, reliableness <BR> 1d) truth <BR> 1d1) as spoken <BR> 1d2) of testimony and judgment <BR> 1d3) of divine instruction <BR> 1d4) truth as a body of ethical or religious knowledge <BR> 1d5) true doctrine <BR> adv <BR> 2) in truth, truly",
       "start": 193.32,
       "end": 193.91
     },
     {
       "position": 233,
       "hebrew": "אִישׁ",
-      "phonetics": "’îš",
-      "shortTranslation": " to one ",
-      "longTranslation": "1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)",
       "start": 194,
       "end": 194.55
     },
     {
       "position": 234,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) with, near, together with <BR> 1a) with, together with <BR> 1b) with (of relationship) <BR> 1c) near (of place)<BR> 1d) with (poss.) <BR> 1e) from...with, from (with other prep)",
       "start": 194.55,
       "end": 194.76
     },
     {
       "position": 235,
       "hebrew": "רֵעֵהוּ,",
-      "phonetics": "rê·‘ê·hū",
-      "shortTranslation": " another , ",
-      "longTranslation": "1) friend, companion, fellow, another person <BR> 1a) friend, intimate <BR> 1b) fellow, fellow-citizen, another person (weaker sense) <BR> 1c) other, another (reciprocal phrase)",
       "start": 194.76,
       "end": 195.21
     },
     {
       "position": 236,
       "hebrew": "אֱמֶת",
-      "phonetics": "’ĕ·meṯ",
-      "shortTranslation": " render true ",
-      "longTranslation": "n f<BR> 1) firmness, faithfulness, truth <BR> 1a) sureness, reliability <BR> 1b) stability, continuance <BR> 1c) faithfulness, reliableness <BR> 1d) truth <BR> 1d1) as spoken <BR> 1d2) of testimony and judgment <BR> 1d3) of divine instruction <BR> 1d4) truth as a body of ethical or religious knowledge <BR> 1d5) true doctrine <BR> adv <BR> 2) in truth, truly",
       "start": 195.84,
       "end": 196.38
     },
     {
       "position": 237,
       "hebrew": "וּמִשְׁפַּט",
-      "phonetics": "ū·miš·paṭ",
-      "shortTranslation": " judgments ",
-      "longTranslation": "1) judgment, justice, ordinance <BR> 1a) judgment <BR> 1a1) act of deciding a case <BR> 1a2) place, court, seat of judgment <BR> 1a3) process, procedure, litigation (before judges) <BR> 1a4) case, cause (presented for judgment) <BR> 1a5) sentence, decision (of judgment) <BR> 1a6) execution (of judgment) <BR> 1a7) time (of judgment) <BR> 1b) justice, right, rectitude (attributes of God or man) <BR> 1c) ordinance <BR> 1d) decision (in law) <BR> 1e) right, privilege, due (legal) <BR> 1f) proper, fitting, measure, fitness, custom, manner, plan",
       "start": 196.38,
       "end": 197.05
     },
     {
       "position": 238,
       "hebrew": "שָׁלוֹם,",
-      "phonetics": "šā·lō·wm",
-      "shortTranslation": " and sound ",
-      "longTranslation": "1) completeness, soundness, welfare, peace <BR> 1a) completeness (in number) <BR> 1b) safety, soundness (in body) <BR> 1c) welfare, health, prosperity <BR> 1d) peace, quiet, tranquillity, contentment <BR> 1e) peace, friendship <BR> 1e1) of human relationships <BR> 1e2) with God especially in covenant relationship <BR> 1f) peace (from war) <BR> 1g) peace (as adjective)",
       "start": 197.05,
       "end": 197.68
     },
     {
       "position": 239,
       "hebrew": "שִׁפְטוּ",
-      "phonetics": "šip̄·ṭū",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) to judge, govern, vindicate, punish <BR> 1a) (Qal)<BR> 1a1) to act as law-giver or judge or governor (of God, man) <BR> 1a1a) to rule, govern, judge <BR> 1a2) to decide controversy (of God, man) <BR> 1a3) to execute judgment <BR> 1a3a) discriminating (of man) <BR> 1a3b) vindicating <BR> 1a3c) condemning and punishing <BR> 1a3d) at theophanic advent for final judgment <BR> 1b) (Niphal) <BR> 1b1) to enter into controversy, plead, have controversy together <BR> 1b2) to be judged <BR> 1c) (Poel) judge, opponent-at-law (participle)",
       "start": 197.88,
       "end": 198.53
     },
     {
       "position": 240,
       "hebrew": "בְּשַׁעֲרֵיכֶם׃",
-      "phonetics": "bə·ša·‘ă·rê·ḵem",
-      "shortTranslation": " in your gates , ",
-      "longTranslation": "1) gate <BR> 1a) gate (of entrance) <BR> 1b) gate (of space inside gate, i.e. marketplace, public meeting place) <BR> 1b1) city, town <BR> 1c) gate (of palace, royal castle, temple, court of tabernacle) <BR> 1d) heaven",
       "start": 198.53,
       "end": 199.65
     },
     {
       "position": 241,
       "hebrew": "וְאִישׁ",
-      "phonetics": "wə·’îš",
-      "shortTranslation": " - ",
-      "longTranslation": "1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)",
       "start": 200.25,
       "end": 200.99
     },
     {
       "position": 242,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 201.19,
       "end": 201.48
     },
     {
       "position": 243,
       "hebrew": "רָעַת",
-      "phonetics": "rā·‘aṯ",
-      "shortTranslation": " evil ",
-      "longTranslation": "adj <BR> 1) bad, evil <BR> 1a) bad, disagreeable, malignant <BR> 1b) bad, unpleasant, evil (giving pain, unhappiness, misery) <BR> 1c) evil, displeasing <BR> 1d) bad (of its kind-land, water, etc) <BR> 1e) bad (of value) <BR> 1f) worse than, worst (comparison) <BR> 1g) sad, unhappy <BR> 1h) evil (hurtful) <BR> 1i) bad, unkind (vicious in disposition) <BR> 1j) bad, evil, wicked (ethically) <BR> 1j1) in general, of persons, of thoughts <BR> 1j2) deeds, actions <BR> n m <BR> 2) evil, distress, misery, injury, calamity <BR> 2a) evil, distress, adversity <BR> 2b) evil, injury, wrong <BR> 2c) evil (ethical) <BR> n f <BR> 3) evil, misery, distress, injury <BR> 3a) evil, misery, distress <BR> 3b) evil, injury, wrong <BR> 3c) evil (ethical)",
       "start": 201.48,
       "end": 201.86
     },
     {
       "position": 244,
       "hebrew": "רֵעֵהוּ,",
-      "phonetics": "rê·‘ê·hū",
-      "shortTranslation": " against your neighbor , ",
-      "longTranslation": "1) friend, companion, fellow, another person <BR> 1a) friend, intimate <BR> 1b) fellow, fellow-citizen, another person (weaker sense) <BR> 1c) other, another (reciprocal phrase)",
       "start": 201.86,
       "end": 202.52
     },
     {
       "position": 245,
       "hebrew": "אַל ",
-      "phonetics": "’al-",
-      "shortTranslation": " do not ",
-      "longTranslation": "1) not, no, nor, neither, nothing (as wish or preference) <BR> 1a) do not, let not (with a verb) <BR> 1b) let there not be (with a verb understood) <BR> 1c) not, no (with substantive) <BR> 1d) nothing (as substantive)",
       "start": 202.52,
       "end": 203.1
     },
     {
       "position": 246,
       "hebrew": "תַּחְשְׁבוּ",
-      "phonetics": "taḥ·šə·ḇū",
-      "shortTranslation": " plot ",
-      "longTranslation": "1) to think, plan, esteem, calculate, invent, make a judgment, imagine, count <BR> 1a) (Qal) <BR> 1a1) to think, account <BR> 1a2) to plan, devise, mean <BR> 1a3) to charge, impute, reckon <BR> 1a4) to esteem, value, regard <BR> 1a5) to invent <BR> 1b) (Niphal) <BR> 1b1) to be accounted, be thought, be esteemed <BR> 1b2) to be computed, be reckoned <BR> 1b3) to be imputed <BR> 1c) (Piel) <BR> 1c1) to think upon, consider, be mindful of <BR> 1c2) to think to do, devise, plan <BR> 1c3) to count, reckon <BR> 1d) (Hithpael) to be considered",
       "start": 203.15,
       "end": 203.75
     },
     {
       "position": 247,
       "hebrew": "בִּלְבַבְכֶם,",
-      "phonetics": "bil·ḇaḇ·ḵem",
-      "shortTranslation": " in your hearts ",
-      "longTranslation": "1) inner man, mind, will, heart, soul, understanding <BR> 1a) inner part, midst <BR> 1a1) midst (of things) <BR> 1a2) heart (of man) <BR> 1a3) soul, heart (of man) <BR> 1a4) mind, knowledge, thinking, reflection, memory <BR> 1a5) inclination, resolution, determination (of will) <BR> 1a6) conscience <BR> 1a7) heart (of moral character) <BR> 1a8) as seat of appetites <BR> 1a9) as seat of emotions and passions 1a10) as seat of courage",
       "start": 203.9,
       "end": 204.96
     },
     {
       "position": 248,
       "hebrew": "וּשְׁבֻעַת",
-      "phonetics": "ū·šə·ḇu·‘aṯ",
-      "shortTranslation": " to swear ",
-      "longTranslation": "1) oath, curse <BR> 1a) oath <BR> 1a1) attesting of innocence <BR> 1a2) curse <BR> 1b) oath (of Jehovah)",
       "start": 205.5,
       "end": 206.46
     },
     {
       "position": 249,
       "hebrew": "שֶׁקֶר,",
-      "phonetics": "še·qer",
-      "shortTranslation": " falsely , ",
-      "longTranslation": "1) lie, deception, disappointment, falsehood <BR> 1a) deception (what deceives or disappoints or betrays one) <BR> 1b) deceit, fraud, wrong <BR> 1b1) fraudulently, wrongfully (as adverb) <BR> 1c) falsehood (injurious in testimony) <BR> 1c1) testify falsehood, false oath, swear falsely <BR> 1d) falsity (of false or self-deceived prophets) <BR> 1e) lie, falsehood (in general) <BR> 1e1) false tongue <BR> 1f) in vain",
       "start": 206.46,
       "end": 207.06
     },
     {
       "position": 250,
       "hebrew": "אַל ",
-      "phonetics": "’al-",
-      "shortTranslation": " and do not ",
-      "longTranslation": "1) not, no, nor, neither, nothing (as wish or preference) <BR> 1a) do not, let not (with a verb) <BR> 1b) let there not be (with a verb understood) <BR> 1c) not, no (with substantive) <BR> 1d) nothing (as substantive)",
       "start": 207.06,
       "end": 207.32
     },
     {
       "position": 251,
       "hebrew": "תֶּאֱהָבוּ:",
-      "phonetics": "te·’ĕ·hā·ḇū",
-      "shortTranslation": " love ",
-      "longTranslation": "1) to love <BR> 1a) (Qal) <BR> 1a1) human love for another, includes family, and sexual <BR> 1a2) human appetite for objects such as food, drink, sleep, wisdom <BR> 1a3) human love for or to God <BR> 1a4) act of being a friend <BR> 1a4a) lover (participle) <BR> 1a4b) friend (participle) <BR> 1a5) God's love toward man <BR> 1a5a) to individual men <BR> 1a5b) to people Israel <BR> 1a5c) to righteousness <BR> 1b) (Niphal) <BR> 1b1) lovely (participle) <BR> 1b2) loveable (participle) <BR> 1c) (Piel) <BR> 1c1) friends <BR> 1c2) lovers (fig. of adulterers) <BR> 2) to like",
       "start": 207.32,
       "end": 208.29
     },
     {
       "position": 252,
       "hebrew": "כִּי",
-      "phonetics": "kî",
-      "shortTranslation": " for ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 208.91,
       "end": 209.23
     },
     {
       "position": 253,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 209.23,
       "end": 209.46
     },
     {
       "position": 254,
       "hebrew": "כָּל ",
-      "phonetics": "kāl-",
-      "shortTranslation": " all ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 209.54,
       "end": 209.67
     },
     {
       "position": 255,
       "hebrew": "אֵלֶּה",
-      "phonetics": "’êl·leh",
-      "shortTranslation": " these things , ” ",
-      "longTranslation": "1) these <BR> 1a) used before antecedent <BR> 1b) used following antecedent",
       "start": 209.67,
       "end": 209.99
     },
     {
       "position": 256,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " - ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 209.99,
       "end": 210.96
     },
     {
       "position": 257,
       "hebrew": "שָׂנֵאתִי,",
-      "phonetics": "śā·nê·ṯî",
-      "shortTranslation": " I hate ",
-      "longTranslation": "1) to hate, be hateful <BR> 1a) (Qal) to hate <BR> 1a1) of man <BR> 1a2) of God <BR> 1a3) hater, one hating, enemy (participle) (subst) <BR> 1b) (Niphal) to be hated <BR> 1c) (Piel) hater (participle) <BR> 1c1) of persons, nations, God, wisdom",
       "start": 210.96,
       "end": 211.7
     },
     {
       "position": 258,
       "hebrew": "נְאֻם ",
-      "phonetics": "nə·’um-",
-      "shortTranslation": " declares ",
-      "longTranslation": "1) (Qal) utterance, declaration (of prophet) <BR> 1a) utterance, declaration, revelation (of prophet in ecstatic state) <BR> 1b) utterance, declaration (elsewhere always preceding divine name)",
       "start": 211.97,
       "end": 212.11
     },
     {
       "position": 259,
       "hebrew": "יְהוָה׃",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD . ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 212.11,
       "end": 212.28
     },
     {
       "position": 260,
       "hebrew": "וַיְהִי",
-      "phonetics": "way·hî",
-      "shortTranslation": " came ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 212.28,
       "end": 212.62
     },
     {
       "position": 261,
       "hebrew": "דְּבַר ",
-      "phonetics": "də·ḇar-",
-      "shortTranslation": " Then the word ",
-      "longTranslation": "1) speech, word, speaking, thing <BR> 1a) speech <BR> 1b) saying, utterance <BR> 1c) word, words <BR> 1d) business, occupation, acts, matter, case, something, manner (by extension)",
       "start": 212.76,
       "end": 213.48
     },
     {
       "position": 262,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " of the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 214.7,
       "end": 215.3
     },
     {
       "position": 263,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 215.3,
       "end": 216.19
     },
     {
       "position": 264,
       "hebrew": "אֵלַי",
-      "phonetics": "’ê·lay",
-      "shortTranslation": " to me , ",
-      "longTranslation": "1) to, toward, unto (of motion) <BR> 2) into (limit is actually entered) <BR> 2a) in among <BR> 3) toward (of direction, not necessarily physical motion) <BR> 4) against (motion or direction of a hostile character) <BR> 5) in addition to, to <BR> 6) concerning, in regard to, in reference to, on account of <BR> 7) according to (rule or standard) <BR> 8) at, by, against (of one's presence) <BR> 9) in between, in within, to within, unto (idea of motion to)",
       "start": 216.19,
       "end": 216.65
     },
     {
       "position": 265,
       "hebrew": "לֵאמֹר׃",
-      "phonetics": "lê·mōr",
-      "shortTranslation": " saying , ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 216.65,
       "end": 217.18
     },
     {
       "position": 266,
       "hebrew": "כֹּה ",
-      "phonetics": "kōh-",
-      "shortTranslation": " “ This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 217.18,
       "end": 217.52
     },
     {
       "position": 267,
       "hebrew": "אָמַר",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 218.11,
       "end": 219.54
     },
     {
       "position": 268,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 219.54,
       "end": 220.05
     },
     {
       "position": 269,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 220.69,
       "end": 221.04
     },
     {
       "position": 270,
       "hebrew": "צוֹם",
-      "phonetics": "ṣō·wm",
-      "shortTranslation": " The fasts ",
-      "longTranslation": "1) fast, fasting",
       "start": 221.04,
       "end": 221.21
     },
     {
       "position": 271,
       "hebrew": "הָרְבִיעִי",
-      "phonetics": "hā·rə·ḇî·‘î",
-      "shortTranslation": " of the fourth , ",
-      "longTranslation": "1) fourth <BR> 1a) fourth <BR> 1b) four square <BR> 1c) fourth part",
       "start": 221.21,
       "end": 222.18
     },
     {
       "position": 272,
       "hebrew": "וְצוֹם",
-      "phonetics": "wə·ṣō·wm",
-      "shortTranslation": " - ",
-      "longTranslation": "1) fast, fasting",
       "start": 222.18,
       "end": 222.72
     },
     {
       "position": 273,
       "hebrew": "הַחֲמִישִׁי",
-      "phonetics": "ha·ḥă·mî·šî",
-      "shortTranslation": " the fifth , ",
-      "longTranslation": "1) ordinal number, 5th",
       "start": 222.72,
       "end": 223.51
     },
     {
       "position": 274,
       "hebrew": "וְצוֹם",
-      "phonetics": "wə·ṣō·wm",
-      "shortTranslation": " - ",
-      "longTranslation": "1) fast, fasting",
       "start": 223.82,
       "end": 224.4
     },
     {
       "position": 275,
       "hebrew": "הַשְּׁבִיעִי",
-      "phonetics": "haš·šə·ḇî·‘î",
-      "shortTranslation": " the seventh , ",
-      "longTranslation": "1) seventh <BR> 1a) ordinal number",
       "start": 224.43,
       "end": 225.35
     },
     {
       "position": 276,
       "hebrew": "וְצוֹם",
-      "phonetics": "wə·ṣō·wm",
-      "shortTranslation": " and ",
-      "longTranslation": "1) fast, fasting",
       "start": 225.62,
       "end": 226.13
     },
     {
       "position": 277,
       "hebrew": "הָעֲשִׂירִי",
-      "phonetics": "hā·‘ă·śî·rî",
-      "shortTranslation": " the tenth [months] ",
-      "longTranslation": "1) ordinal number <BR> 1a) a tenth",
       "start": 226.13,
       "end": 226.96
     },
     {
       "position": 278,
       "hebrew": "יִהְיֶה",
-      "phonetics": "yih·yeh",
-      "shortTranslation": " will become ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 227.27,
       "end": 227.96
     },
     {
       "position": 279,
       "hebrew": "לְבֵית ",
-      "phonetics": "lə·ḇêṯ-",
-      "shortTranslation": " for the house ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 227.96,
       "end": 228.48
     },
     {
       "position": 280,
       "hebrew": "יְהוּדָה",
-      "phonetics": "yə·hū·ḏāh",
-      "shortTranslation": " of Judah . ",
-      "longTranslation": "Judah = |praised|<BR> 1) the son of Jacob by Leah <BR> 2) the tribe descended from Judah the son of Jacob <BR> 3) the territory occupied by the tribe of Judah <BR> 4) the kingdom comprised of the tribes of Judah and Benjamin which occupied the southern part of Canaan after the nation split upon the death of Solomon <BR> 5) a Levite in Ezra's time <BR> 6) an overseer of Jerusalem in the time of Nehemiah <BR> 7) a Levite musician in the time of Nehemiah <BR> 8) a priest in the time of Nehemiah",
       "start": 228.48,
       "end": 228.83
     },
     {
       "position": 281,
       "hebrew": "לְשָׂשׂוֹן",
-      "phonetics": "lə·śā·śō·wn",
-      "shortTranslation": " times of joy ",
-      "longTranslation": "1) gladness, joy, exultation, rejoicing <BR> 1a) exultation, joy",
       "start": 229.15,
       "end": 230
     },
     {
       "position": 282,
       "hebrew": "וּלְשִׂמְחָה,",
-      "phonetics": "ū·lə·śim·ḥāh",
-      "shortTranslation": " and gladness , ",
-      "longTranslation": "1) joy, mirth, gladness <BR> 1a) mirth, gladness, joy, gaiety, pleasure <BR> 1b) joy (of God)<BR> 1c) glad result, happy issue",
       "start": 230,
       "end": 230.87
     },
     {
       "position": 283,
       "hebrew": "וּלְמֹעֲדִים,",
-      "phonetics": "ū·lə·mō·‘ă·ḏîm",
-      "shortTranslation": " feasts ",
-      "longTranslation": "1) appointed place, appointed time, meeting <BR> 1a) appointed time <BR> 1a1) appointed time (general) <BR> 1a2) sacred season, set feast, appointed season <BR> 1b) appointed meeting <BR> 1c) appointed place <BR> 1d) appointed sign or signal <BR> 1e) tent of meeting",
       "start": 231.04,
       "end": 231.97
     },
     {
       "position": 284,
       "hebrew": "טוֹבִים;",
-      "phonetics": "ṭō·w·ḇîm",
-      "shortTranslation": " cheerful ",
-      "longTranslation": "adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty",
       "start": 232,
       "end": 232.53
     },
     {
       "position": 285,
       "hebrew": "וְהָאֱמֶת",
-      "phonetics": "wə·hā·’ĕ·meṯ",
-      "shortTranslation": " [both] truth ",
-      "longTranslation": "n f<BR> 1) firmness, faithfulness, truth <BR> 1a) sureness, reliability <BR> 1b) stability, continuance <BR> 1c) faithfulness, reliableness <BR> 1d) truth <BR> 1d1) as spoken <BR> 1d2) of testimony and judgment <BR> 1d3) of divine instruction <BR> 1d4) truth as a body of ethical or religious knowledge <BR> 1d5) true doctrine <BR> adv <BR> 2) in truth, truly",
       "start": 232.81,
       "end": 233.87
     },
     {
       "position": 286,
       "hebrew": "וְהַשָּׁלוֹם,",
-      "phonetics": "wə·haš·šā·lō·wm",
-      "shortTranslation": " and peace . ” ",
-      "longTranslation": "1) completeness, soundness, welfare, peace <BR> 1a) completeness (in number) <BR> 1b) safety, soundness (in body) <BR> 1c) welfare, health, prosperity <BR> 1d) peace, quiet, tranquillity, contentment <BR> 1e) peace, friendship <BR> 1e1) of human relationships <BR> 1e2) with God especially in covenant relationship <BR> 1f) peace (from war) <BR> 1g) peace (as adjective)",
       "start": 233.87,
       "end": 234.88
     },
     {
       "position": 287,
       "hebrew": "אֱהָבוּ׃",
-      "phonetics": "’ĕ·hā·ḇū",
-      "shortTranslation": " Therefore you are to love ",
-      "longTranslation": "1) to love <BR> 1a) (Qal) <BR> 1a1) human love for another, includes family, and sexual <BR> 1a2) human appetite for objects such as food, drink, sleep, wisdom <BR> 1a3) human love for or to God <BR> 1a4) act of being a friend <BR> 1a4a) lover (participle) <BR> 1a4b) friend (participle) <BR> 1a5) God's love toward man <BR> 1a5a) to individual men <BR> 1a5b) to people Israel <BR> 1a5c) to righteousness <BR> 1b) (Niphal) <BR> 1b1) lovely (participle) <BR> 1b2) loveable (participle) <BR> 1c) (Piel) <BR> 1c1) friends <BR> 1c2) lovers (fig. of adulterers) <BR> 2) to like",
       "start": 235.17,
       "end": 235.84
     },
     {
       "position": 288,
       "hebrew": "כֹּה",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 235.84,
       "end": 236.03
     },
     {
       "position": 289,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 237.45,
       "end": 238.53
     },
     {
       "position": 290,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 238.64,
       "end": 239.18
     },
     {
       "position": 291,
       "hebrew": "צְבָאוֹת:",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 240.55,
       "end": 240.76
     },
     {
       "position": 292,
       "hebrew": "עֹד",
-      "phonetics": "‘ōḏ",
-      "shortTranslation": " will yet ",
-      "longTranslation": "subst<BR> 1) a going round, continuance <BR> adv <BR> 2) still, yet, again, besides <BR> 2a) still, yet (of continuance or persistence) <BR> 2b) still, yet, more (of addition or repetition) <BR> 2c) again <BR> 2d) still, moreover, besides",
       "start": 240.76,
       "end": 240.88
     },
     {
       "position": 293,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " - ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 240.88,
       "end": 241.29
     },
     {
       "position": 294,
       "hebrew": "יָבֹאוּ",
-      "phonetics": "yā·ḇō·’ū",
-      "shortTranslation": " come — ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 241.29,
       "end": 242.07
     },
     {
       "position": 295,
       "hebrew": "עַמִּים,",
-      "phonetics": "‘am·mîm",
-      "shortTranslation": " “ Peoples ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 242.07,
       "end": 242.68
     },
     {
       "position": 296,
       "hebrew": "וְיֹשְׁבֵי",
-      "phonetics": "wə·yō·šə·ḇê",
-      "shortTranslation": " the residents ",
-      "longTranslation": "1) to dwell, remain, sit, abide <BR> 1a) (Qal) <BR> 1a1) to sit, sit down <BR> 1a2) to be set <BR> 1a3) to remain, stay <BR> 1a4) to dwell, have one's abode <BR> 1b) (Niphal) to be inhabited <BR> 1c) (Piel) to set, place <BR> 1d) (Hiphil) <BR> 1d1) to cause to sit <BR> 1d2) to cause to abide, set <BR> 1d3) to cause to dwell <BR> 1d4) to cause (cities) to be inhabited <BR> 1d5) to marry (give an dwelling to) <BR> 1e) (Hophal) <BR> 1e1) to be inhabited <BR> 1e2) to make to dwell",
       "start": 242.94,
       "end": 243.68
     },
     {
       "position": 297,
       "hebrew": "עָרִים",
-      "phonetics": "‘ā·rîm",
-      "shortTranslation": " cities — ",
-      "longTranslation": "1) excitement, anguish <BR> 1a) of terror <BR> 2) city, town (a place of waking, guarded) <BR> 2a) city, town",
       "start": 243.68,
       "end": 244.06
     },
     {
       "position": 298,
       "hebrew": "רַבּוֹת׃",
-      "phonetics": "rab·bō·wṯ",
-      "shortTranslation": " of many ",
-      "longTranslation": "adj <BR> 1) much, many, great <BR> 1a) much <BR> 1b) many <BR> 1c) abounding in <BR> 1d) more numerous than <BR> 1e) abundant, enough <BR> 1f) great <BR> 1g) strong <BR> 1h) greater than <BR> adv <BR> 1i) much, exceedingly <BR> n m <BR> 2) captain, chief",
       "start": 244.06,
       "end": 244.65
     },
     {
       "position": 299,
       "hebrew": "וְהָלְכוּ",
-      "phonetics": "wə·hā·lə·ḵū",
-      "shortTranslation": " city will go ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 245.57,
       "end": 246.35
     },
     {
       "position": 300,
       "hebrew": "יוֹשְׁבֵי",
-      "phonetics": "yō·šə·ḇê",
-      "shortTranslation": " and the residents ",
-      "longTranslation": "1) to dwell, remain, sit, abide <BR> 1a) (Qal) <BR> 1a1) to sit, sit down <BR> 1a2) to be set <BR> 1a3) to remain, stay <BR> 1a4) to dwell, have one's abode <BR> 1b) (Niphal) to be inhabited <BR> 1c) (Piel) to set, place <BR> 1d) (Hiphil) <BR> 1d1) to cause to sit <BR> 1d2) to cause to abide, set <BR> 1d3) to cause to dwell <BR> 1d4) to cause (cities) to be inhabited <BR> 1d5) to marry (give an dwelling to) <BR> 1e) (Hophal) <BR> 1e1) to be inhabited <BR> 1e2) to make to dwell",
       "start": 246.35,
       "end": 247.12
     },
     {
       "position": 301,
       "hebrew": "אַחַת",
-      "phonetics": "’a·ḥaṯ",
-      "shortTranslation": " of one ",
-      "longTranslation": "1) one (number) <BR> 1a) one (number) <BR> 1b) each, every <BR> 1c) a certain <BR> 1d) an (indefinite article) <BR> 1e) only, once, once for all <BR> 1f) one...another, the one...the other, one after another, one by one <BR> 1g) first <BR> 1h) eleven (in combination), eleventh (ordinal)",
       "start": 247.51,
       "end": 247.75
     },
     {
       "position": 302,
       "hebrew": "אֶל ",
-      "phonetics": "’el-",
-      "shortTranslation": " to ",
-      "longTranslation": "1) to, toward, unto (of motion) <BR> 2) into (limit is actually entered) <BR> 2a) in among <BR> 3) toward (of direction, not necessarily physical motion) <BR> 4) against (motion or direction of a hostile character) <BR> 5) in addition to, to <BR> 6) concerning, in regard to, in reference to, on account of <BR> 7) according to (rule or standard) <BR> 8) at, by, against (of one's presence) <BR> 9) in between, in within, to within, unto (idea of motion to)",
       "start": 247.75,
       "end": 248.7
     },
     {
       "position": 303,
       "hebrew": "אַחַת",
-      "phonetics": "’a·ḥaṯ",
-      "shortTranslation": " another , ",
-      "longTranslation": "1) one (number) <BR> 1a) one (number) <BR> 1b) each, every <BR> 1c) a certain <BR> 1d) an (indefinite article) <BR> 1e) only, once, once for all <BR> 1f) one...another, the one...the other, one after another, one by one <BR> 1g) first <BR> 1h) eleven (in combination), eleventh (ordinal)",
       "start": 248.77,
       "end": 249.25
     },
     {
       "position": 304,
       "hebrew": "לֵאמֹר,",
-      "phonetics": "lê·mōr",
-      "shortTranslation": " saying : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 249.25,
       "end": 249.68
     },
     {
       "position": 305,
       "hebrew": "נֵלְכָה",
-      "phonetics": "nê·lə·ḵāh",
-      "shortTranslation": " ‘ Let us go ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 250.44,
       "end": 251.27
     },
     {
       "position": 306,
       "hebrew": "הָלוֹךְ",
-      "phonetics": "hā·lō·wḵ",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 251.27,
       "end": 251.67
     },
     {
       "position": 307,
       "hebrew": "לְחַלּוֹת",
-      "phonetics": "lə·ḥal·lō·wṯ",
-      "shortTranslation": " at once to plead ",
-      "longTranslation": "1) to be or become weak, be or become sick, be or become diseased, be or become grieved, be or become sorry <BR> 1a) (Qal) to be weak, be sick <BR> 1b) (Piel) <BR> 1b1) to be or become weak, feel weak <BR> 1b2) to become sick, become ill <BR> 1b3) (CLBL) to entreat, pray, beg <BR> 1c) (Niphal) <BR> 1c1) to make oneself sick <BR> 1c2) to be made sick <BR> 1c3) to be tired <BR> 1d) (Pual) to be made weak, become weak <BR> 1e) (Hithpael) to make oneself sick <BR> 1f) (Hiphil) <BR> 1f1) to make sore <BR> 1f2) to make sick <BR> 1f3) to show signs of sickness, become sick <BR> 1f4) to grieve <BR> 1g) (Hophal) <BR> 1g1) to be made sick <BR> 1g2) to be wounded",
       "start": 251.67,
       "end": 251.98
     },
     {
       "position": 308,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 251.98,
       "end": 252.61
     },
     {
       "position": 309,
       "hebrew": "פְּנֵי",
-      "phonetics": "pə·nê",
-      "shortTranslation": " before ",
-      "longTranslation": "1) face <BR> 1a) face, faces <BR> 1b) presence, person <BR> 1c) face (of seraphim or cherubim) <BR> 1d) face (of animals) <BR> 1e) face, surface (of ground) <BR> 1f) as adv of loc/temp <BR> 1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before <BR> 1g) with prep <BR> 1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
       "start": 252.74,
       "end": 253.08
     },
     {
       "position": 310,
       "hebrew": "יְהוָה,",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 253.08,
       "end": 253.78
     },
     {
       "position": 311,
       "hebrew": "וּלְבַקֵּשׁ,",
-      "phonetics": "ū·lə·ḇaq·qêš",
-      "shortTranslation": " and to seek ",
-      "longTranslation": "1) to seek, require, desire, exact, request <BR> 1a) (Piel) <BR> 1a1) to seek to find <BR> 1a2) to seek to secure <BR> 1a3) to seek the face <BR> 1a4) to desire, demand <BR> 1a5) to require, exact <BR> 1a6) to ask, request <BR> 1b) (Pual) to be sought",
       "start": 254.34,
       "end": 255.33
     },
     {
       "position": 312,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 255.33,
       "end": 256.02
     },
     {
       "position": 313,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 256.16,
       "end": 256.72
     },
     {
       "position": 314,
       "hebrew": "צְבָאוֹת;",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts . ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 257.26,
       "end": 257.34
     },
     {
       "position": 315,
       "hebrew": "אֵלְכָה,",
-      "phonetics": "’ê·lə·ḵāh",
-      "shortTranslation": " am going . ’ ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 257.34,
       "end": 257.95
     },
     {
       "position": 316,
       "hebrew": "גַּם ",
-      "phonetics": "gam-",
-      "shortTranslation": " myself ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 257.95,
       "end": 258.24
     },
     {
       "position": 317,
       "hebrew": "אָנִי׃",
-      "phonetics": "’ā·nî",
-      "shortTranslation": " I ",
-      "longTranslation": "1) I (first pers. sing. -usually used for emphasis)",
       "start": 258.28,
       "end": 258.82
     },
     {
       "position": 318,
       "hebrew": "וּבָאוּ",
-      "phonetics": "ū·ḇā·’ū",
-      "shortTranslation": " will come ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 260.44,
       "end": 261.12
     },
     {
       "position": 319,
       "hebrew": "עַמִּים",
-      "phonetics": "‘am·mîm",
-      "shortTranslation": " peoples ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 261.12,
       "end": 261.6
     },
     {
       "position": 320,
       "hebrew": "רַבִּים",
-      "phonetics": "rab·bîm",
-      "shortTranslation": " And many ",
-      "longTranslation": "adj <BR> 1) much, many, great <BR> 1a) much <BR> 1b) many <BR> 1c) abounding in <BR> 1d) more numerous than <BR> 1e) abundant, enough <BR> 1f) great <BR> 1g) strong <BR> 1h) greater than <BR> adv <BR> 1i) much, exceedingly <BR> n m <BR> 2) captain, chief",
       "start": 261.6,
       "end": 262.44
     },
     {
       "position": 321,
       "hebrew": "וְגוֹיִם",
-      "phonetics": "wə·ḡō·w·yim",
-      "shortTranslation": " nations ",
-      "longTranslation": "n m <BR> 1) nation, people <BR> 1a) nation, people<BR> 1a1) usually of non-Hebrew people <BR> 1a2) of descendants of Abraham <BR> 1a3) of Israel <BR> 1b) of swarm of locusts, other animals (fig.) <BR> n pr m <BR> 1c) Goyim? = |nations|",
       "start": 262.68,
       "end": 263.31
     },
     {
       "position": 322,
       "hebrew": "עֲצוּמִים,",
-      "phonetics": "‘ă·ṣū·mîm",
-      "shortTranslation": " and strong ",
-      "longTranslation": "1) mighty, vast, numerous <BR> 1a) mighty, strong (in number) <BR> 1b) numerous, countless",
       "start": 263.31,
       "end": 264.16
     },
     {
       "position": 323,
       "hebrew": "לְבַקֵּשׁ",
-      "phonetics": "lə·ḇaq·qêš",
-      "shortTranslation": " to seek ",
-      "longTranslation": "1) to seek, require, desire, exact, request <BR> 1a) (Piel) <BR> 1a1) to seek to find <BR> 1a2) to seek to secure <BR> 1a3) to seek the face <BR> 1a4) to desire, demand <BR> 1a5) to require, exact <BR> 1a6) to ask, request <BR> 1b) (Pual) to be sought",
       "start": 264.63,
       "end": 265.39
     },
     {
       "position": 324,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 265.39,
       "end": 266.29
     },
     {
       "position": 325,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 266.29,
       "end": 266.41
     },
     {
       "position": 326,
       "hebrew": "צְבָאוֹת",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 266.41,
       "end": 266.88
     },
     {
       "position": 327,
       "hebrew": "בִּירוּשָׁלִָם,",
-      "phonetics": "bî·rū·šā·lim",
-      "shortTranslation": " in Jerusalem ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 266.95,
       "end": 267.48
     },
     {
       "position": 328,
       "hebrew": "וּלְחַלּוֹת,",
-      "phonetics": "ū·lə·ḥal·lō·wṯ",
-      "shortTranslation": " and to plead ",
-      "longTranslation": "1) to be or become weak, be or become sick, be or become diseased, be or become grieved, be or become sorry <BR> 1a) (Qal) to be weak, be sick <BR> 1b) (Piel) <BR> 1b1) to be or become weak, feel weak <BR> 1b2) to become sick, become ill <BR> 1b3) (CLBL) to entreat, pray, beg <BR> 1c) (Niphal) <BR> 1c1) to make oneself sick <BR> 1c2) to be made sick <BR> 1c3) to be tired <BR> 1d) (Pual) to be made weak, become weak <BR> 1e) (Hithpael) to make oneself sick <BR> 1f) (Hiphil) <BR> 1f1) to make sore <BR> 1f2) to make sick <BR> 1f3) to show signs of sickness, become sick <BR> 1f4) to grieve <BR> 1g) (Hophal) <BR> 1g1) to be made sick <BR> 1g2) to be wounded",
       "start": 267.48,
       "end": 267.93
     },
     {
       "position": 329,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 268.4,
       "end": 268.71
     },
     {
       "position": 330,
       "hebrew": "פְּנֵי",
-      "phonetics": "pə·nê",
-      "shortTranslation": " before ",
-      "longTranslation": "1) face <BR> 1a) face, faces <BR> 1b) presence, person <BR> 1c) face (of seraphim or cherubim) <BR> 1d) face (of animals) <BR> 1e) face, surface (of ground) <BR> 1f) as adv of loc/temp <BR> 1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before <BR> 1g) with prep <BR> 1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
       "start": 268.78,
       "end": 269.5
     },
     {
       "position": 331,
       "hebrew": "יְהוָה׃",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD . ” ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 269.62,
       "end": 269.95
     },
     {
       "position": 332,
       "hebrew": "כֹּה ",
-      "phonetics": "kōh",
-      "shortTranslation": " This is what ",
-      "longTranslation": "1) thus, here, in this manner <BR> 1a) thus, so <BR> 1b) here, here and there<BR> 1c) until now, until now...until then, meanwhile",
       "start": 269.95,
       "end": 270.57
     },
     {
       "position": 333,
       "hebrew": "אָמַר,",
-      "phonetics": "’ā·mar",
-      "shortTranslation": " says : ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 272.31,
       "end": 273.06
     },
     {
       "position": 334,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 273.06,
       "end": 273.93
     },
     {
       "position": 335,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 273.93,
       "end": 274.36
     },
     {
       "position": 336,
       "hebrew": "בַּיָּמִים",
-      "phonetics": "bay·yā·mîm",
-      "shortTranslation": " days ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 275.48,
       "end": 276.39
     },
     {
       "position": 337,
       "hebrew": "הָהֵמָּה,",
-      "phonetics": "hā·hêm·māh",
-      "shortTranslation": " “ In those ",
-      "longTranslation": "1) they, these, the same, who",
       "start": 276.43,
       "end": 277.12
     },
     {
       "position": 338,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " - ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 277.92,
       "end": 278.75
     },
     {
       "position": 339,
       "hebrew": "יַחֲזִיקוּ",
-      "phonetics": "ya·ḥă·zî·qū",
-      "shortTranslation": " will tightly ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 278.75,
       "end": 279.45
     },
     {
       "position": 340,
       "hebrew": "עֲשָׂרָה",
-      "phonetics": "‘ă·śā·rāh",
-      "shortTranslation": " ten ",
-      "longTranslation": "1) ten <BR> 1a) ten <BR> 1b) with other numbers",
       "start": 279.48,
       "end": 280.24
     },
     {
       "position": 341,
       "hebrew": "אֲנָשִׁים",
-      "phonetics": "’ă·nā·šîm",
-      "shortTranslation": " men ",
-      "longTranslation": "1) man, mortal man, person, mankind <BR> 1a) of an individual <BR> 1b) men (collective) <BR> 1c) man, mankind",
       "start": 280.24,
       "end": 280.95
     },
     {
       "position": 342,
       "hebrew": "מִכֹּל",
-      "phonetics": "mik·kōl",
-      "shortTranslation": " of every ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 281.38,
       "end": 281.95
     },
     {
       "position": 343,
       "hebrew": "לְשֹׁנוֹת",
-      "phonetics": "lə·šō·nō·wṯ",
-      "shortTranslation": " tongue ",
-      "longTranslation": "1) tongue <BR> 1a) tongue (of men) <BR> 1a1) tongue (literal) <BR> 1a2) tongue (organ of speech) <BR> 1b) language <BR> 1c) tongue (of animals) <BR> 1d) tongue (of fire) <BR> 1e) wedge, bay of sea (tongue-shaped)",
       "start": 281.95,
       "end": 282.62
     },
     {
       "position": 344,
       "hebrew": "הַגּוֹיִם;",
-      "phonetics": "hag·gō·w·yim",
-      "shortTranslation": " from the nations ",
-      "longTranslation": "n m <BR> 1) nation, people <BR> 1a) nation, people<BR> 1a1) usually of non-Hebrew people <BR> 1a2) of descendants of Abraham <BR> 1a3) of Israel <BR> 1b) of swarm of locusts, other animals (fig.) <BR> n pr m <BR> 1c) Goyim? = |nations|",
       "start": 282.65,
       "end": 283.45
     },
     {
       "position": 345,
       "hebrew": "וְהֶחֱזִיקוּ",
-      "phonetics": "wə·he·ḥĕ·zî·qū",
-      "shortTranslation": " grasp ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 284.06,
       "end": 285.2
     },
     {
       "position": 346,
       "hebrew": "בִּכְנַף",
-      "phonetics": "biḵ·nap̄",
-      "shortTranslation": " the robe ",
-      "longTranslation": "1) wing, extremity, edge, winged, border, corner, shirt <BR> 1a) wing <BR> 1b) extremity <BR> 1b1) skirt, corner (of garment)",
       "start": 285.2,
       "end": 285.9
     },
     {
       "position": 347,
       "hebrew": "אִישׁ",
-      "phonetics": "’îš",
-      "shortTranslation": " . . . , ",
-      "longTranslation": "1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)",
       "start": 286.28,
       "end": 286.69
     },
     {
       "position": 348,
       "hebrew": "יְהוּדִי",
-      "phonetics": "yə·hū·ḏî",
-      "shortTranslation": " of a Jew ",
-      "longTranslation": "1) Jew",
       "start": 286.69,
       "end": 287.45
     },
     {
       "position": 349,
       "hebrew": "לֵאמֹר,",
-      "phonetics": "lê·mōr",
-      "shortTranslation": " saying , ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 287.45,
       "end": 288.03
     },
     {
       "position": 350,
       "hebrew": "נֵלְכָה",
-      "phonetics": "nê·lə·ḵāh",
-      "shortTranslation": " ‘ Let us go ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 288.66,
       "end": 289.4
     },
     {
       "position": 351,
       "hebrew": "עִמָּכֶם,",
-      "phonetics": "‘im·mā·ḵem",
-      "shortTranslation": " with you , ",
-      "longTranslation": "1) with <BR> 1a) with <BR> 1b) against <BR> 1c) toward <BR> 1d) as long as <BR> 1e) beside, except<BR> 1f) in spite of",
       "start": 289.49,
       "end": 290.3
     },
     {
       "position": 352,
       "hebrew": "כִּי",
-      "phonetics": "kî",
-      "shortTranslation": " for ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 290.64,
       "end": 290.9
     },
     {
       "position": 353,
       "hebrew": "שָׁמַעְנוּ,",
-      "phonetics": "šā·ma‘·nū",
-      "shortTranslation": " we have heard ",
-      "longTranslation": "v <BR> 1) to hear, listen to, obey <BR> 1a) (Qal) <BR> 1a1) to hear (perceive by ear) <BR> 1a2) to hear of or concerning <BR> 1a3) to hear (have power to hear) <BR> 1a4) to hear with attention or interest, listen to <BR> 1a5) to understand (language) <BR> 1a6) to hear (of judicial cases) <BR> 1a7) to listen, give heed <BR> 1a7a) to consent, agree <BR> 1a7b) to grant request <BR> 1a8) to listen to, yield to <BR> 1a9) to obey, be obedient <BR> 1b) (Niphal) <BR> 1b1) to be heard (of voice or sound) <BR> 1b2) to be heard of <BR> 1b3) to be regarded, be obeyed <BR> 1c) (Piel) to cause to hear, call to hear, summon <BR> 1d) (Hiphil) <BR> 1d1) to cause to hear, tell, proclaim, utter a sound <BR> 1d2) to sound aloud (musical term) <BR> 1d3) to make proclamation, summon <BR> 1d4) to cause to be heard <BR> n m <BR> 2) sound",
       "start": 290.9,
       "end": 291.88
     },
     {
       "position": 354,
       "hebrew": "אֱלֹהִים",
-      "phonetics": "’ĕ·lō·hîm",
-      "shortTranslation": " that God ",
-      "longTranslation": "1) (plural) <BR> 1a) rulers, judges <BR> 1b) divine ones <BR> 1c) angels <BR> 1d) gods <BR> 2) (plural intensive-singular meaning) <BR> 2a) god, goddess <BR> 2b) godlike one <BR> 2c) works or special possessions of God <BR> 2d) the (true) God <BR> 2e) God",
       "start": 292.32,
       "end": 293.14
     },
     {
       "position": 355,
       "hebrew": "עִמָּכֶם׃",
-      "phonetics": "‘im·mā·ḵem",
-      "shortTranslation": " is with you . ’” ",
-      "longTranslation": "1) with <BR> 1a) with <BR> 1b) against <BR> 1c) toward <BR> 1d) as long as <BR> 1e) beside, except<BR> 1f) in spite of",
       "start": 293.17,
       "end": 293.99
     }

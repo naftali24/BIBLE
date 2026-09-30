@@ -1,2084 +1,1388 @@
 {
-  "book": "Nahum",
-  "chapter": "3",
-  "audio_code": "t1903",
   "words": [
     {
       "position": 0,
       "hebrew": "הוֹי,",
-      "phonetics": "hō·w",
-      "shortTranslation": " Woe ",
-      "longTranslation": "1) ah!, alas!, ha!, ho!, O!, woe!",
       "start": 0.8,
       "end": 1.07
     },
     {
       "position": 1,
       "hebrew": "עִיר",
-      "phonetics": "‘îr",
-      "shortTranslation": " to the city ",
-      "longTranslation": "1) excitement, anguish <BR> 1a) of terror <BR> 2) city, town (a place of waking, guarded) <BR> 2a) city, town",
       "start": 1.07,
       "end": 1.5
     },
     {
       "position": 2,
       "hebrew": "דָּמִים;",
-      "phonetics": "dā·mîm",
-      "shortTranslation": " of blood , ",
-      "longTranslation": "1) blood <BR> 1a) of wine (fig.)",
       "start": 1.5,
       "end": 2.1
     },
     {
       "position": 3,
       "hebrew": "כֻּלָּהּ,",
-      "phonetics": "kul·lāh",
-      "shortTranslation": " full ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 2.79,
       "end": 3.32
     },
     {
       "position": 4,
       "hebrew": "כַּחַשׁ",
-      "phonetics": "ka·ḥaš",
-      "shortTranslation": " of lies , ",
-      "longTranslation": "1) lying, deception <BR> 2) leanness, failure",
       "start": 3.5,
       "end": 4.09
     },
     {
       "position": 5,
       "hebrew": "פֶּרֶק",
-      "phonetics": "pe·req",
-      "shortTranslation": " plunder , ",
-      "longTranslation": "1) parting of ways, breaking in upon, plunder, crossroad",
       "start": 4.72,
       "end": 5.22
     },
     {
       "position": 6,
       "hebrew": "מְלֵאָה,",
-      "phonetics": "mə·lê·’āh",
-      "shortTranslation": " full of ",
-      "longTranslation": "1) full, fulness, that which fills <BR> 1a) fully (adv)",
       "start": 5.22,
       "end": 6.08
     },
     {
       "position": 7,
       "hebrew": "לֹא",
-      "phonetics": "lō",
-      "shortTranslation": " never ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 6.11,
       "end": 6.56
     },
     {
       "position": 8,
       "hebrew": "יָמִישׁ,",
-      "phonetics": "yā·mîš",
-      "shortTranslation": " without ",
-      "longTranslation": "1) to depart, remove <BR> 1a) (Qal) <BR> 1a1) to depart <BR> 1a2) to remove <BR> 1a3) to be removed (of inanimate objects) <BR> 1b) (Hiphil) to remove, depart",
       "start": 6.56,
       "end": 7.08
     },
     {
       "position": 9,
       "hebrew": "טָרֶף׃",
-      "phonetics": "ṭā·rep̄",
-      "shortTranslation": " prey . ",
-      "longTranslation": "1) prey, food, leaf <BR> 1a) prey <BR> 1b) food <BR> 1c) leaf",
       "start": 7.08,
       "end": 7.53
     },
     {
       "position": 10,
       "hebrew": "קוֹל",
-      "phonetics": "qō·wl",
-      "shortTranslation": " The crack ",
-      "longTranslation": "1) voice, sound, noise <BR> 1a) voice <BR> 1b) sound (of instrument) <BR> 2) lightness, frivolity",
       "start": 8.43,
       "end": 8.83
     },
     {
       "position": 11,
       "hebrew": "שׁוֹט,",
-      "phonetics": "šō·wṭ",
-      "shortTranslation": " of the whip , ",
-      "longTranslation": "1) scourge, whip <BR> 1a) scourge (for chastisement) <BR> 1a1) of national judgment (fig) <BR> 1b) whip (for horse)",
       "start": 8.83,
       "end": 9.29
     },
     {
       "position": 12,
       "hebrew": "וְקוֹל",
-      "phonetics": "wə·qō·wl",
-      "shortTranslation": " the rumble ",
-      "longTranslation": "1) voice, sound, noise <BR> 1a) voice <BR> 1b) sound (of instrument) <BR> 2) lightness, frivolity",
       "start": 9.45,
       "end": 9.85
     },
     {
       "position": 13,
       "hebrew": "רַעַשׁ",
-      "phonetics": "ra·‘aš",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) quaking, rattling, shaking <BR> 1a) earthquake <BR> 1b) quaking, trembling (of person) <BR> 1c) shaking, quivering (of dart)",
       "start": 9.85,
       "end": 10.59
     },
     {
       "position": 14,
       "hebrew": "אוֹפָן;",
-      "phonetics": "’ō·w·p̄ān",
-      "shortTranslation": " of the wheel , ",
-      "longTranslation": "1) wheel <BR> 1a) chariot wheel <BR> 1b) wheel in Ezekiel's vision <BR> 1c) wheels of the ten bases beneath the lavers in Solomon's temple",
       "start": 10.67,
       "end": 11.22
     },
     {
       "position": 15,
       "hebrew": "וְסוּס",
-      "phonetics": "wə·sūs",
-      "shortTranslation": " horse ",
-      "longTranslation": "1) swallow, swift <BR> 2) horse <BR> 2a) chariot horses",
       "start": 11.82,
       "end": 12.48
     },
     {
       "position": 16,
       "hebrew": "דֹּהֵר,",
-      "phonetics": "dō·hêr",
-      "shortTranslation": " galloping ",
-      "longTranslation": "1) to rush, dash, gallop (a horse)",
       "start": 12.51,
       "end": 13.11
     },
     {
       "position": 17,
       "hebrew": "וּמֶרְכָּבָה",
-      "phonetics": "ū·mer·kā·ḇāh",
-      "shortTranslation": " chariot ! ",
-      "longTranslation": "1) chariot",
       "start": 13.42,
       "end": 14.39
     },
     {
       "position": 18,
       "hebrew": "מְרַקֵּדָה׃",
-      "phonetics": "mə·raq·qê·ḏāh",
-      "shortTranslation": " and bounding ",
-      "longTranslation": "1) to skip about <BR> 1a) (Qal) to skip about <BR> 1b) (Piel) to dance, leap <BR> 1c) (Hiphil) to make to skip",
       "start": 14.39,
       "end": 15.34
     },
     {
       "position": 19,
       "hebrew": "פָּרָשׁ",
-      "phonetics": "pā·rāš",
-      "shortTranslation": " horseman , ",
-      "longTranslation": "1) horse, steed, warhorse <BR> 2) horseman",
       "start": 16.66,
       "end": 17.2
     },
     {
       "position": 20,
       "hebrew": "מַעֲלֶה,",
-      "phonetics": "ma·‘ă·leh",
-      "shortTranslation": " Charging ",
-      "longTranslation": "1) to go up, ascend, climb <BR> 1a) (Qal) <BR> 1a1) to go up, ascend <BR> 1a2) to meet, visit, follow, depart, withdraw, retreat <BR> 1a3) to go up, come up (of animals) <BR> 1a4) to spring up, grow, shoot forth (of vegetation) <BR> 1a5) to go up, go up over, rise (of natural phenomenon) <BR> 1a6) to come up (before God) <BR> 1a7) to go up, go up over, extend (of boundary) <BR> 1a8) to excel, be superior to <BR> 1b) (Niphal) <BR> 1b1) to be taken up, be brought up, be taken away <BR> 1b2) to take oneself away <BR> 1b3) to be exalted <BR> 1c) (Hiphil) <BR> 1c1) to bring up, cause to ascend or climb, cause to go up <BR> 1c2) to bring up, bring against, take away <BR> 1c3) to bring up, draw up, train <BR> 1c4) to cause to ascend <BR> 1c5) to rouse, stir up (mentally) <BR> 1c6) to offer, bring up (of gifts) <BR> 1c7) to exalt <BR> 1c8) to cause to ascend, offer <BR> 1d) (Hophal) <BR> 1d1) to be carried away, be led up <BR> 1d2) to be taken up into, be inserted in <BR> 1d3) to be offered <BR> 1e) (Hithpael) to lift oneself",
       "start": 17.2,
       "end": 17.86
     },
     {
       "position": 21,
       "hebrew": "וְלַהַב",
-      "phonetics": "wə·la·haḇ",
-      "shortTranslation": " flashing ",
-      "longTranslation": "1) flame, blade <BR> 1a) flame <BR> 1b) of flashing point of spear or blade of sword",
       "start": 18.13,
       "end": 18.87
     },
     {
       "position": 22,
       "hebrew": "חֶרֶב",
-      "phonetics": "ḥe·reḇ",
-      "shortTranslation": " sword , ",
-      "longTranslation": "1) sword, knife <BR> 1a) sword <BR> 1b) knife <BR> 1c) tools for cutting stone",
       "start": 19.01,
       "end": 19.46
     },
     {
       "position": 23,
       "hebrew": "וּבְרַק",
-      "phonetics": "ū·ḇə·raq",
-      "shortTranslation": " shining ",
-      "longTranslation": "1) lightning <BR> 1a) lightnings, lightning flashes <BR> 1b) of flashing arrow-head (fig.)",
       "start": 19.7,
       "end": 20.29
     },
     {
       "position": 24,
       "hebrew": "חֲנִית,",
-      "phonetics": "ḥă·nîṯ",
-      "shortTranslation": " spear ; ",
-      "longTranslation": "1) spear <BR> 1a) spear <BR> 1a1) shaft of a spear <BR> 1a2) spear-head",
       "start": 20.39,
       "end": 20.8
     },
     {
       "position": 25,
       "hebrew": "וְרֹב",
-      "phonetics": "wə·rōḇ",
-      "shortTranslation": " heaps ",
-      "longTranslation": "1) multitude, abundance, greatness<BR> 1a) multitude <BR> 1a1) abundance, abundantly <BR> 1a2) numerous <BR> 1b) greatness",
       "start": 21.49,
       "end": 21.99
     },
     {
       "position": 26,
       "hebrew": "חָלָל,",
-      "phonetics": "ḥā·lāl",
-      "shortTranslation": " of slain , ",
-      "longTranslation": "n m <BR> 1) slain, fatally wounded, pierced <BR> 1a) pierced, fatally wounded <BR> 1b) slain <BR> adj<BR> 2) (CLBL) profaned <BR> 2a) defiled, profaned (by divorce)",
       "start": 22.09,
       "end": 22.79
     },
     {
       "position": 27,
       "hebrew": "וְכֹבֶד",
-      "phonetics": "wə·ḵō·ḇeḏ",
-      "shortTranslation": " mounds ",
-      "longTranslation": "1) weight, heaviness, mass, great <BR> 1a) heaviness, weight <BR> 1b) mass, abundance <BR> 1c) vehemence, heaviness",
       "start": 22.82,
       "end": 23.65
     },
     {
       "position": 28,
       "hebrew": "פָּגֶר;",
-      "phonetics": "pā·ḡer",
-      "shortTranslation": " of corpses , ",
-      "longTranslation": "1) corpse, carcass, monument, stela <BR> 1a) corpse (of man) <BR> 1b) carcass (of animals)",
       "start": 23.74,
       "end": 24.35
     },
     {
       "position": 29,
       "hebrew": "וְאֵין",
-      "phonetics": "wə·’ên",
-      "shortTranslation": " without ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 24.98,
       "end": 25.61
     },
     {
       "position": 30,
       "hebrew": "קֵצֶה",
-      "phonetics": "qê·ṣeh",
-      "shortTranslation": " end — ",
-      "longTranslation": "1) end, extremity <BR> 1a) end, mouth, extremity <BR> 1b) border, outskirts <BR> 1c) the whole (condensed term for what is included within extremities) <BR> 1d) at the end of (a certain time)",
       "start": 25.71,
       "end": 27.41
     },
     {
       "position": 31,
       "hebrew": "לַגְּוִיָּה,",
-      "phonetics": "lag·gə·wî·yāh",
-      "shortTranslation": " dead bodies ",
-      "longTranslation": "1) a body (of living creatures) <BR> 2) a corpse, carcass, dead body",
       "start": 27.83,
       "end": 28.26
     },
     {
       "position": 32,
       "hebrew": "יכשלו וְכָשְׁלוּ",
-      "phonetics": "yiḵ·šə·lū",
-      "shortTranslation": " they stumble ",
-      "longTranslation": "1) to stumble, stagger, totter <BR> 1a) (Qal) <BR> 1a1) to stumble <BR> 1a2) to totter <BR> 1b) (Niphal) <BR> 1b1) to stumble <BR> 1b2) to be tottering, be feeble <BR> 1c) (Hiphil) <BR> 1c1) to cause to stumble, bring injury or ruin to, overthrow <BR> 1c2) to make feeble, make weak <BR> 1d) (Hophal) to be made to stumble <BR> 1e) (Piel) bereave",
       "start": 28.26,
       "end": 28.79
     },
     {
       "position": 33,
       "hebrew": "בִּגְוִיָּתָם׃",
-      "phonetics": "biḡ·wî·yā·ṯām",
-      "shortTranslation": " over their dead — ",
-      "longTranslation": "1) a body (of living creatures) <BR> 2) a corpse, carcass, dead body",
       "start": 28.79,
       "end": 30.06
     },
     {
       "position": 34,
       "hebrew": "מֵרֹב",
-      "phonetics": "mê·rōḇ",
-      "shortTranslation": " because of the many ",
-      "longTranslation": "1) multitude, abundance, greatness<BR> 1a) multitude <BR> 1a1) abundance, abundantly <BR> 1a2) numerous <BR> 1b) greatness",
       "start": 31.08,
       "end": 31.83
     },
     {
       "position": 35,
       "hebrew": "זְנוּנֵי",
-      "phonetics": "zə·nū·nê",
-      "shortTranslation": " harlotries ",
-      "longTranslation": "1) adultery, fornication, prostitution",
       "start": 31.83,
       "end": 32.5
     },
     {
       "position": 36,
       "hebrew": "זוֹנָה,",
-      "phonetics": "zō·w·nāh",
-      "shortTranslation": " of the harlot , ",
-      "longTranslation": "1) to commit fornication, be a harlot, play the harlot <BR> 1a) (Qal) <BR> 1a1) to be a harlot, act as a harlot, commit fornication <BR> 1a2) to commit adultery <BR> 1a3) to be a cult prostitute <BR> 1a4) to be unfaithful (to God) (fig.) <BR> 1b) (Pual) to play the harlot <BR> 1c) (Hiphil) <BR> 1c1) to cause to commit adultery <BR> 1c2) to force into prostitution <BR> 1c3) to commit fornication",
       "start": 32.53,
       "end": 33.17
     },
     {
       "position": 37,
       "hebrew": "טוֹבַת",
-      "phonetics": "ṭō·w·ḇaṯ",
-      "shortTranslation": " vvv ",
-      "longTranslation": "adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty",
       "start": 33.31,
       "end": 33.9
     },
     {
       "position": 38,
       "hebrew": "חֵן",
-      "phonetics": "ḥên",
-      "shortTranslation": " the seductive ",
-      "longTranslation": "1) favour, grace, charm <BR> 1a) favour, grace, elegance <BR> 1b) favour, acceptance",
       "start": 34.01,
       "end": 34.39
     },
     {
       "position": 39,
       "hebrew": "בַּעֲלַת",
-      "phonetics": "ba·‘ă·laṯ",
-      "shortTranslation": " mistress ",
-      "longTranslation": "1) mistress, female owner <BR> 2) sorceress, necromancer (noun of relationship)",
       "start": 35.07,
       "end": 35.66
     },
     {
       "position": 40,
       "hebrew": "כְּשָׁפִים;",
-      "phonetics": "kə·šā·p̄îm",
-      "shortTranslation": " of sorcery , ",
-      "longTranslation": "1) sorcery, witchcraft",
       "start": 35.69,
       "end": 36.49
     },
     {
       "position": 41,
       "hebrew": "הַמֹּכֶרֶת",
-      "phonetics": "ham·mō·ḵe·reṯ",
-      "shortTranslation": " who betrays ",
-      "longTranslation": "1) to sell <BR> 1a) (Qal) <BR> 1a1) to sell <BR> 1a2) seller (participle) <BR> 1b) (Niphal) <BR> 1b1) to be sold <BR> 1b2) to sell oneself <BR> 1b3) to be given over to death <BR> 1c) (Hithpael) to sell oneself",
       "start": 36.94,
       "end": 38
     },
     {
       "position": 42,
       "hebrew": "גּוֹיִם",
-      "phonetics": "gō·w·yim",
-      "shortTranslation": " nations ",
-      "longTranslation": "n m <BR> 1) nation, people <BR> 1a) nation, people<BR> 1a1) usually of non-Hebrew people <BR> 1a2) of descendants of Abraham <BR> 1a3) of Israel <BR> 1b) of swarm of locusts, other animals (fig.) <BR> n pr m <BR> 1c) Goyim? = |nations|",
       "start": 38,
       "end": 38.51
     },
     {
       "position": 43,
       "hebrew": "בִּזְנוּנֶיהָ,",
-      "phonetics": "biz·nū·ne·hā",
-      "shortTranslation": " by her prostitution ",
-      "longTranslation": "1) adultery, fornication, prostitution",
       "start": 38.51,
       "end": 39.56
     },
     {
       "position": 44,
       "hebrew": "וּמִשְׁפָּחוֹת",
-      "phonetics": "ū·miš·pā·ḥō·wṯ",
-      "shortTranslation": " and clans ",
-      "longTranslation": "1) clan, family <BR> 1a) clan <BR> 1a1) family <BR> 1a2) tribe <BR> 1a3) people, nation <BR> 1b) guild <BR> 1c) species, kind <BR> 1d) aristocrats",
       "start": 40,
       "end": 41.15
     },
     {
       "position": 45,
       "hebrew": "בִּכְשָׁפֶיהָ׃",
-      "phonetics": "biḵ·šā·p̄e·hā",
-      "shortTranslation": " by her witchcraft . ",
-      "longTranslation": "1) sorcery, witchcraft",
       "start": 41.15,
       "end": 42.16
     },
     {
       "position": 46,
       "hebrew": "הִנְנִי",
-      "phonetics": "hin·nî",
-      "shortTranslation": " “ Behold , ",
-      "longTranslation": "interj<BR> 1) behold, lo, though hypothetical part <BR> 2) if",
       "start": 43.02,
       "end": 44.21
     },
     {
       "position": 47,
       "hebrew": "אֵלַיִךְ,",
-      "phonetics": "’ê·la·yiḵ",
-      "shortTranslation": " I [am] against you , ” ",
-      "longTranslation": "1) to, toward, unto (of motion) <BR> 2) into (limit is actually entered) <BR> 2a) in among <BR> 3) toward (of direction, not necessarily physical motion) <BR> 4) against (motion or direction of a hostile character) <BR> 5) in addition to, to <BR> 6) concerning, in regard to, in reference to, on account of <BR> 7) according to (rule or standard) <BR> 8) at, by, against (of one's presence) <BR> 9) in between, in within, to within, unto (idea of motion to)",
       "start": 44.21,
       "end": 44.48
     },
     {
       "position": 48,
       "hebrew": "נְאֻם",
-      "phonetics": "nə·’um",
-      "shortTranslation": " declares ",
-      "longTranslation": "1) (Qal) utterance, declaration (of prophet) <BR> 1a) utterance, declaration, revelation (of prophet in ecstatic state) <BR> 1b) utterance, declaration (elsewhere always preceding divine name)",
       "start": 44.48,
       "end": 45.51
     },
     {
       "position": 49,
       "hebrew": "יְהוָה",
-      "phonetics": "Yah·weh",
-      "shortTranslation": " the LORD ",
-      "longTranslation": "Jehovah = |the existing One|<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136",
       "start": 45.51,
       "end": 45.68
     },
     {
       "position": 50,
       "hebrew": "צְבָאוֹת,",
-      "phonetics": "ṣə·ḇā·’ō·wṯ",
-      "shortTranslation": " of Hosts . ",
-      "longTranslation": "1) that which goes forth, army, war, warfare, host <BR> 1a) army, host <BR> 1a1) host (of organised army) <BR> 1a2) host (of angels) <BR> 1a3) of sun, moon, and stars <BR> 1a4) of whole creation <BR> 1b) war, warfare, service, go out to war <BR> 1c) service",
       "start": 45.68,
       "end": 45.98
     },
     {
       "position": 51,
       "hebrew": "וְגִלֵּיתִי",
-      "phonetics": "wə·ḡil·lê·ṯî",
-      "shortTranslation": " “ I will lift ",
-      "longTranslation": "1) to uncover, remove <BR> 1a) (Qal) <BR> 1a1) to uncover <BR> 1a2) to remove, depart <BR> 1a3) to go into exile <BR> 1b) (Niphal) <BR> 1b1) (reflexive) <BR> 1b1a) to uncover oneself <BR> 1b1b) to discover or show oneself <BR> 1b1c) to reveal himself (of God) <BR> 1b2) (passive) <BR> 1b2a) to be uncovered <BR> 1b2b) to be disclosed, be discovered <BR> 1b2c) to be revealed <BR> 1b3) to be removed <BR> 1c) (Piel) <BR> 1c1) to uncover (nakedness) <BR> 1c1a) nakedness <BR> 1c1b) general <BR> 1c2) to disclose, discover, lay bare <BR> 1c3) to make known, show, reveal <BR> 1d) (Pual) to be uncovered <BR> 1e) (Hiphil) to carry away into exile, take into exile <BR> 1f) (Hophal) to be taken into exile <BR> 1g) (Hithpael) <BR> 1g1) to be uncovered <BR> 1g2) to reveal oneself",
       "start": 46.81,
       "end": 48.24
     },
     {
       "position": 52,
       "hebrew": "שׁוּלַיִךְ,",
-      "phonetics": "šū·la·yiḵ",
-      "shortTranslation": " your skirts ",
-      "longTranslation": "1) skirt (of robe) <BR> 1a) of high priest's robe <BR> 1b) of God's train, city as woman, ignominy, defilement (fig)",
       "start": 48.24,
       "end": 48.93
     },
     {
       "position": 53,
       "hebrew": "עַל ",
-      "phonetics": "‘al-",
-      "shortTranslation": " over ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 48.93,
       "end": 49.21
     },
     {
       "position": 54,
       "hebrew": "פָּנָיִךְ;",
-      "phonetics": "pā·nā·yiḵ",
-      "shortTranslation": " your face . ",
-      "longTranslation": "1) face <BR> 1a) face, faces <BR> 1b) presence, person <BR> 1c) face (of seraphim or cherubim) <BR> 1d) face (of animals) <BR> 1e) face, surface (of ground) <BR> 1f) as adv of loc/temp <BR> 1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before <BR> 1g) with prep <BR> 1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
       "start": 49.21,
       "end": 49.97
     },
     {
       "position": 55,
       "hebrew": "וְהַרְאֵיתִי",
-      "phonetics": "wə·har·’ê·ṯî",
-      "shortTranslation": " I will show ",
-      "longTranslation": "1) to see, look at, inspect, perceive, consider <BR> 1a) (Qal) <BR> 1a1) to see <BR> 1a2) to see, perceive <BR> 1a3) to see, have vision <BR> 1a4) to look at, see, regard, look after, see after, learn about, observe, watch, look upon, look out, find out <BR> 1a5) to see, observe, consider, look at, give attention to, discern, distinguish <BR> 1a6) to look at, gaze at <BR> 1b) (Niphal) <BR> 1b1) to appear, present oneself <BR> 1b2) to be seen <BR> 1b3) to be visible <BR> 1c) (Pual) to be seen <BR> 1d) (Hiphil) <BR> 1d1) to cause to see, show <BR> 1d2) to cause to look intently at, behold, cause to gaze at <BR> 1e) (Hophal) <BR> 1e1) to be caused to see, be shown <BR> 1e2) to be exhibited to <BR> 1f) (Hithpael) to look at each other, face",
       "start": 50.49,
       "end": 51.63
     },
     {
       "position": 56,
       "hebrew": "גוֹיִם",
-      "phonetics": "ḡō·w·yim",
-      "shortTranslation": " to the nations ",
-      "longTranslation": "n m <BR> 1) nation, people <BR> 1a) nation, people<BR> 1a1) usually of non-Hebrew people <BR> 1a2) of descendants of Abraham <BR> 1a3) of Israel <BR> 1b) of swarm of locusts, other animals (fig.) <BR> n pr m <BR> 1c) Goyim? = |nations|",
       "start": 51.63,
       "end": 52.29
     },
     {
       "position": 57,
       "hebrew": "מַעְרֵךְ,",
-      "phonetics": "ma‘·rêḵ",
-      "shortTranslation": " your nakedness ",
-      "longTranslation": "1) bare, naked place, nakedness <BR> 1a) bare place <BR> 1b) nakedness, pudenda (exposed in punishment)",
       "start": 52.29,
       "end": 52.78
     },
     {
       "position": 58,
       "hebrew": "וּמַמְלָכוֹת",
-      "phonetics": "ū·mam·lā·ḵō·wṯ",
-      "shortTranslation": " to the kingdoms . ",
-      "longTranslation": "1) kingdom, dominion, reign, sovereignty <BR> 1a) kingdom, realm <BR> 1b) sovereignty, dominion <BR> 1c) reign",
       "start": 53.35,
       "end": 54.56
     },
     {
       "position": 59,
       "hebrew": "קְלוֹנֵךְ׃",
-      "phonetics": "qə·lō·w·nêḵ",
-      "shortTranslation": " and your shame ",
-      "longTranslation": "1) shame, disgrace, dishonour, ignominy <BR> 1a) ignominy (of nation) <BR> 1b) dishonour, disgrace (personal)",
       "start": 54.56,
       "end": 55.07
     },
     {
       "position": 60,
       "hebrew": "וְהִשְׁלַכְתִּי",
-      "phonetics": "wə·hiš·laḵ·tî",
-      "shortTranslation": " I will pelt ",
-      "longTranslation": "1) to throw, cast, hurl, fling <BR> 1a) (Hiphil) <BR> 1a1) to throw, cast, throw away, cast off, shed, cast down <BR> 1a2) to cast (lots) (fig) <BR> 1b) (Hophal) <BR> 1b1) to be thrown, be cast <BR> 1b2) to be cast forth or out <BR> 1b3) to be cast down <BR> 1b4) to be cast (metaph)",
       "start": 56.02,
       "end": 56.94
     },
     {
       "position": 61,
       "hebrew": "עָלַיִךְ",
-      "phonetics": "‘ā·la·yiḵ",
-      "shortTranslation": " you ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 56.94,
       "end": 57.59
     },
     {
       "position": 62,
       "hebrew": "שִׁקֻּצִים,",
-      "phonetics": "šiq·qu·ṣîm",
-      "shortTranslation": " with filth ",
-      "longTranslation": "1) detestable thing or idol, abominable thing, abomination, idol, detested thing",
       "start": 57.59,
       "end": 58.54
     },
     {
       "position": 63,
       "hebrew": "וְנִבַּלְתִּיךְ;",
-      "phonetics": "wə·nib·bal·tîḵ",
-      "shortTranslation": " and treat you with contempt ; ",
-      "longTranslation": "1) to be senseless, be foolish <BR> 1a) (Qal) to be foolish <BR> 1b) (Piel) <BR> 1b1) to regard or treat as foolish <BR> 1b2) to treat with contempt <BR> 2) to sink or drop down, languish, wither and fall, fade <BR> 2a) (Qal) <BR> 2a1) to sink or drop down <BR> 2a2) to fall, wither and fall, fade <BR> 2a3) to droop",
       "start": 58.79,
       "end": 60.02
     },
     {
       "position": 64,
       "hebrew": "וְשַׂמְתִּיךְ,",
-      "phonetics": "wə·śam·tîḵ",
-      "shortTranslation": " I will make ",
-      "longTranslation": "1) to put, place, set, appoint, make <BR> 1a) (Qal) <BR> 1a1) to put, set, lay, put or lay upon, lay (violent) hands on <BR> 1a2) to set, direct, direct toward <BR> 1a2a) to extend (compassion) (fig) <BR> 1a3) to set, ordain, establish, found, appoint, constitute, make, determine, fix <BR> 1a4) to set, station, put, set in place, plant, fix <BR> 1a5) to make, make for, transform into, constitute, fashion, work, bring to pass, appoint, give <BR> 1b) (Hiphil) to set or make for a sign <BR> 1c) (Hophal) to be set",
       "start": 60.54,
       "end": 61.39
     },
     {
       "position": 65,
       "hebrew": "כְּרֹאִי׃",
-      "phonetics": "kə·rō·’î",
-      "shortTranslation": " a spectacle of you . ",
-      "longTranslation": "1) looking, appearance, seeing, sight <BR> 1a) seeing <BR> 1b) appearance <BR> 1c) sight, spectacle",
       "start": 61.53,
       "end": 62.34
     },
     {
       "position": 66,
       "hebrew": "וְהָיָה",
-      "phonetics": "wə·hā·yāh",
-      "shortTranslation": " Then ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 63.06,
       "end": 63.86
     },
     {
       "position": 67,
       "hebrew": "כָל ",
-      "phonetics": "ḵāl",
-      "shortTranslation": " all ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 64.11,
       "end": 64.55
     },
     {
       "position": 68,
       "hebrew": "רֹאַיִךְ,",
-      "phonetics": "rō·’a·yiḵ",
-      "shortTranslation": " who see you ",
-      "longTranslation": "1) to see, look at, inspect, perceive, consider <BR> 1a) (Qal) <BR> 1a1) to see <BR> 1a2) to see, perceive <BR> 1a3) to see, have vision <BR> 1a4) to look at, see, regard, look after, see after, learn about, observe, watch, look upon, look out, find out <BR> 1a5) to see, observe, consider, look at, give attention to, discern, distinguish <BR> 1a6) to look at, gaze at <BR> 1b) (Niphal) <BR> 1b1) to appear, present oneself <BR> 1b2) to be seen <BR> 1b3) to be visible <BR> 1c) (Pual) to be seen <BR> 1d) (Hiphil) <BR> 1d1) to cause to see, show <BR> 1d2) to cause to look intently at, behold, cause to gaze at <BR> 1e) (Hophal) <BR> 1e1) to be caused to see, be shown <BR> 1e2) to be exhibited to <BR> 1f) (Hithpael) to look at each other, face",
       "start": 64.55,
       "end": 65.27
     },
     {
       "position": 69,
       "hebrew": "יִדּוֹד",
-      "phonetics": "yid·dō·wḏ",
-      "shortTranslation": " will recoil ",
-      "longTranslation": "1) to retreat, flee, depart, move, wander abroad, stray, flutter <BR> 1a)(Qal) <BR> 1a1) to retreat, flee <BR> 1a2) to flee, depart <BR> 1a3) to wander, stray <BR> 1a4) to flutter (of birds) <BR> 1b) (Poal) to flee away, be chased <BR> 1c) (Hiphil) to chase away <BR> 1d) (Hophal) to be chased away <BR> 1e) (Hithpolel) to flee away",
       "start": 65.61,
       "end": 66.31
     },
     {
       "position": 70,
       "hebrew": "מִמֵּךְ,",
-      "phonetics": "mim·mêḵ",
-      "shortTranslation": " from you ",
-      "longTranslation": "prep<BR> 1) from, out of, on account of, off, on the side of, since, above, than, so that not, more than <BR> 1a) from (expressing separation), off, on the side of <BR> 1b) out of <BR> 1b1) (with verbs of proceeding, removing, expelling) <BR> 1b2) (of material from which something is made) <BR> 1b3) (of source or origin) <BR> 1c) out of, some of, from (partitively) <BR> 1d) from, since, after (of time) <BR> 1e) than, more than (in comparison) <BR> 1f) from...even to, both...and, either...or <BR> 1g) than, more than, too much for (in comparisons) <BR> 1h) from, on account of, through, because (with infinitive) <BR> conj <BR> 2) that",
       "start": 66.31,
       "end": 66.81
     },
     {
       "position": 71,
       "hebrew": "וְאָמַר",
-      "phonetics": "wə·’ā·mar",
-      "shortTranslation": " and say , ",
-      "longTranslation": "1) to say, speak, utter <BR> 1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend <BR> 1b) (Niphal) to be told, to be said, to be called <BR> 1c) (Hithpael) to boast, to act proudly <BR> 1d) (Hiphil) to avow, to avouch",
       "start": 67.03,
       "end": 67.69
     },
     {
       "position": 72,
       "hebrew": "שָׁדְּדָה",
-      "phonetics": "šād·də·ḏāh",
-      "shortTranslation": " is devastated ; ",
-      "longTranslation": "1) to deal violently with, despoil, devastate, ruin, destroy, spoil <BR> 1a) (Qal) <BR> 1a1) to violently destroy, devastate, despoil, assail <BR> 1a2) devastator, despoiler (participle) (subst) <BR> 1b) (Niphal) to be utterly ruined <BR> 1c) (Piel) <BR> 1c1) to assault <BR> 1c2) to devastate <BR> 1d) (Pual) to be devastated <BR> 1e) (Poel) to violently destroy <BR> 1f) (Hophal) to be devastated",
       "start": 68.28,
       "end": 69.16
     },
     {
       "position": 73,
       "hebrew": "נִינְוֵה,",
-      "phonetics": "nî·nə·wêh",
-      "shortTranslation": " ‘ Nineveh ",
-      "longTranslation": "Nineveh = |abode of Ninus|<BR> 1) capital of the ancient kingdom of Assyria; located on the east bank of the Tigris river, 550 miles (880 km) from its mouth and 250 miles (400 km) north of Babylon",
       "start": 69.16,
       "end": 69.89
     },
     {
       "position": 74,
       "hebrew": "מִי",
-      "phonetics": "mî",
-      "shortTranslation": " who ",
-      "longTranslation": "1) who?, whose?, whom?, would that, whoever, whosoever",
       "start": 70,
       "end": 70.54
     },
     {
       "position": 75,
       "hebrew": "יָנוּד",
-      "phonetics": "yā·nūḏ",
-      "shortTranslation": " will grieve ",
-      "longTranslation": "1) to shake, waver, wander, move to and fro, flutter, show grief, have compassion on <BR> 1a) (Qal) <BR> 1a1) to move to and fro, wander (aimlessly), take flight <BR> 1a2) to flutter <BR> 1a3) to waver, wave, shake <BR> 1a4) to show grief <BR> 1a4a) to lament, condole, show sympathy <BR> 1b) (Hiphil) <BR> 1b1) to cause to wander (aimlessly) <BR> 1b2) to make a wagging, wag (with the head) <BR> 1c) (Hithpolel) <BR> 1c1) to move oneself to and fro, sway, totter <BR> 1c2) to shake oneself <BR> 1c3) to bemoan oneself",
       "start": 70.54,
       "end": 70.98
     },
     {
       "position": 76,
       "hebrew": "לָהּ;",
-      "phonetics": "lāh",
-      "shortTranslation": " for her ? ’ ",
-      "longTranslation": null,
       "start": 70.98,
       "end": 71.26
     },
     {
       "position": 77,
       "hebrew": "מֵאַיִן",
-      "phonetics": "mê·’a·yin",
-      "shortTranslation": " Where ",
-      "longTranslation": "1) where?, whence?",
       "start": 71.81,
       "end": 72.81
     },
     {
       "position": 78,
       "hebrew": "אֲבַקֵּשׁ",
-      "phonetics": "’ă·ḇaq·qêš",
-      "shortTranslation": " can I find ",
-      "longTranslation": "1) to seek, require, desire, exact, request <BR> 1a) (Piel) <BR> 1a1) to seek to find <BR> 1a2) to seek to secure <BR> 1a3) to seek the face <BR> 1a4) to desire, demand <BR> 1a5) to require, exact <BR> 1a6) to ask, request <BR> 1b) (Pual) to be sought",
       "start": 72.85,
       "end": 73.61
     },
     {
       "position": 79,
       "hebrew": "מְנַחֲמִים,",
-      "phonetics": "mə·na·ḥă·mîm",
-      "shortTranslation": " comforters ",
-      "longTranslation": "1) to be sorry, console oneself, repent, regret, comfort, be comforted <BR> 1a) (Niphal) <BR> 1a1) to be sorry, be moved to pity, have compassion <BR> 1a2) to be sorry, rue, suffer grief, repent <BR> 1a3) to comfort oneself, be comforted <BR> 1a4) to comfort oneself, ease oneself <BR> 1b) (Piel) to comfort, console <BR> 1c) (Pual) to be comforted, be consoled <BR> 1d) (Hithpael) <BR> 1d1) to be sorry, have compassion <BR> 1d2) to rue, repent of <BR> 1d3) to comfort oneself, be comforted <BR> 1d4) to ease oneself",
       "start": 73.61,
       "end": 74.43
     },
     {
       "position": 80,
       "hebrew": "לָךְ׃",
-      "phonetics": "lāḵ",
-      "shortTranslation": " for you ? ” ",
-      "longTranslation": null,
       "start": 74.43,
       "end": 74.75
     },
     {
       "position": 81,
       "hebrew": "הֲתֵיטְבִי,",
-      "phonetics": "hă·ṯê·ṭə·ḇî",
-      "shortTranslation": " Are you better ",
-      "longTranslation": "1) to be good, be pleasing, be well, be glad <BR> 1a) (Qal) <BR> 1a1) to be glad, be joyful <BR> 1a2) to be well placed <BR> 1a3) to be well for, be well with, go well with <BR> 1a4) to be pleasing, be pleasing to <BR> 1b) (Hiphil) <BR> 1b1) to make glad, rejoice <BR> 1b2) to do good to, deal well with <BR> 1b3) to do well, do thoroughly <BR> 1b4) to make a thing good or right or beautiful <BR> 1b5) to do well, do right",
       "start": 75.89,
       "end": 76.91
     },
     {
       "position": 82,
       "hebrew": "מִנֹּא",
-      "phonetics": "min·nō",
-      "shortTranslation": " than Thebes ",
-      "longTranslation": "No = |disrupting|<BR> 1) the ancient capital of Egypt; also 'Thebes'",
       "start": 76.91,
       "end": 77.5
     },
     {
       "position": 83,
       "hebrew": "אָמוֹן,",
-      "phonetics": "’ā·mō·wn",
-      "shortTranslation": " . . . , ",
-      "longTranslation": "Amon or Amun = |to nourish: to be faithful|<BR> 1) an Egyptian god, originally the local god of Thebes, later head of the Egyptian pantheon",
       "start": 77.5,
       "end": 78.13
     },
     {
       "position": 84,
       "hebrew": "הַיֹּשְׁבָה",
-      "phonetics": "hay·yō·šə·ḇāh",
-      "shortTranslation": " stationed ",
-      "longTranslation": "1) to dwell, remain, sit, abide <BR> 1a) (Qal) <BR> 1a1) to sit, sit down <BR> 1a2) to be set <BR> 1a3) to remain, stay <BR> 1a4) to dwell, have one's abode <BR> 1b) (Niphal) to be inhabited <BR> 1c) (Piel) to set, place <BR> 1d) (Hiphil) <BR> 1d1) to cause to sit <BR> 1d2) to cause to abide, set <BR> 1d3) to cause to dwell <BR> 1d4) to cause (cities) to be inhabited <BR> 1d5) to marry (give an dwelling to) <BR> 1e) (Hophal) <BR> 1e1) to be inhabited <BR> 1e2) to make to dwell",
       "start": 78.77,
       "end": 79.78
     },
     {
       "position": 85,
       "hebrew": "בַּיְאֹרִים,",
-      "phonetics": "bay·’ō·rîm",
-      "shortTranslation": " by the Nile ",
-      "longTranslation": "1) river, stream, canal, Nile, Nile-canal <BR> 1a) stream, river (Nile) <BR> 1b) Nile-arms, Nile-canals <BR> 1c) watercourses<BR> 1d) shafts (mining) <BR> 1e) river (in general)",
       "start": 79.78,
       "end": 80.81
     },
     {
       "position": 86,
       "hebrew": "מַיִם",
-      "phonetics": "ma·yim",
-      "shortTranslation": " with water ",
-      "longTranslation": "1) water, waters <BR> 1a) water <BR> 1b) water of the feet, urine <BR> 1c) of danger, violence, transitory things, refreshment (fig.)",
       "start": 81.42,
       "end": 82.05
     },
     {
       "position": 87,
       "hebrew": "סָבִיב",
-      "phonetics": "sā·ḇîḇ",
-      "shortTranslation": " around ",
-      "longTranslation": "subst<BR> 1) places round about, circuit, round about <BR> adv <BR> 2) in a circuit, a circuit, round about <BR> prep <BR> 3) in the circuit, from every side",
       "start": 82.05,
       "end": 82.48
     },
     {
       "position": 88,
       "hebrew": "לָהּ,",
-      "phonetics": "lāh",
-      "shortTranslation": " her , ",
-      "longTranslation": null,
       "start": 82.48,
       "end": 82.75
     },
     {
       "position": 89,
       "hebrew": "אֲשֶׁר ",
-      "phonetics": "’ă·šer-",
-      "shortTranslation": " whose ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 83.33,
       "end": 83.79
     },
     {
       "position": 90,
       "hebrew": "חֵיל",
-      "phonetics": "ḥêl",
-      "shortTranslation": " rampart ",
-      "longTranslation": "1) rampart, fortress, wall <BR> 1a) rampart<BR> 1b) fortress",
       "start": 83.79,
       "end": 84.08
     },
     {
       "position": 91,
       "hebrew": "יָם,",
-      "phonetics": "yām",
-      "shortTranslation": " was the sea , ",
-      "longTranslation": "1) sea <BR> 1a) Mediterranean Sea <BR> 1b) Red Sea <BR> 1c) Dead Sea <BR> 1d) Sea of Galilee <BR> 1e) sea (general) <BR> 1f) mighty river (Nile) <BR> 1g) the sea (the great basin in the temple court) <BR> 1h) seaward, west, westward",
       "start": 84.08,
       "end": 84.7
     },
     {
       "position": 92,
       "hebrew": "מִיָּם",
-      "phonetics": "mî·yām",
-      "shortTranslation": " was the water ? ",
-      "longTranslation": "1) sea <BR> 1a) Mediterranean Sea <BR> 1b) Red Sea <BR> 1c) Dead Sea <BR> 1d) Sea of Galilee <BR> 1e) sea (general) <BR> 1f) mighty river (Nile) <BR> 1g) the sea (the great basin in the temple court) <BR> 1h) seaward, west, westward",
       "start": 84.8,
       "end": 85.55
     },
     {
       "position": 93,
       "hebrew": "חוֹמָתָהּ׃",
-      "phonetics": "ḥō·w·mā·ṯāh",
-      "shortTranslation": " whose wall ",
-      "longTranslation": "1) wall",
       "start": 85.65,
       "end": 86.26
     },
     {
       "position": 94,
       "hebrew": "כּוּשׁ",
-      "phonetics": "kūš",
-      "shortTranslation": " Cush ",
-      "longTranslation": "Cush = |black| <BR> n pr m <BR> 1) a Benjamite mentioned only in the title of Ps 7:1 <BR> 2) the son of Ham and grandson of Noah and the progenitor of the southernmost peoples located in Africa <BR> 3) the peoples descended from Cush <BR> n pr loc <BR> 4) the land occupied by the descendants of Cush located around the southern parts of the Nile (Ethiopia)",
       "start": 87.26,
       "end": 87.74
     },
     {
       "position": 95,
       "hebrew": "עָצְמָה",
-      "phonetics": "‘ā·ṣə·māh",
-      "shortTranslation": " strength ; ",
-      "longTranslation": "1) power, strength, might",
       "start": 87.77,
       "end": 88.52
     },
     {
       "position": 96,
       "hebrew": "וּמִצְרַיִם,",
-      "phonetics": "ū·miṣ·ra·yim",
-      "shortTranslation": " and Egypt ",
-      "longTranslation": "Egypt = |land of the Copts|<BR> n pr loc <BR> 1) a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows <BR> Egyptians = |double straits| <BR> adj <BR> 2) the inhabitants or natives of Egypt",
       "start": 88.91,
       "end": 89.9
     },
     {
       "position": 97,
       "hebrew": "וְאֵין",
-      "phonetics": "wə·’ên",
-      "shortTranslation": " were her boundless ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 89.9,
       "end": 90.4
     },
     {
       "position": 98,
       "hebrew": "קֵצֶה;",
-      "phonetics": "qê·ṣeh",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) end, extremity <BR> 1a) end, mouth, extremity <BR> 1b) border, outskirts <BR> 1c) the whole (condensed term for what is included within extremities) <BR> 1d) at the end of (a certain time)",
       "start": 90.43,
       "end": 90.93
     },
     {
       "position": 99,
       "hebrew": "פּוּט",
-      "phonetics": "pūṭ",
-      "shortTranslation": " Put ",
-      "longTranslation": "Phut or Put = |a bow|<BR> 1) a nation and people of northern Africa; probably Libyans",
       "start": 91.71,
       "end": 92.2
     },
     {
       "position": 100,
       "hebrew": "וְלוּבִים,",
-      "phonetics": "wə·lū·ḇîm",
-      "shortTranslation": " and Libya ",
-      "longTranslation": "Libyans = |empty-hearted (Da 11:43) or afflicted (Jer 46:9)<BR> 1) a people of northern Africa west of Egypt",
       "start": 92.2,
       "end": 92.93
     },
     {
       "position": 101,
       "hebrew": "הָיוּ",
-      "phonetics": "hā·yū",
-      "shortTranslation": " were ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 92.93,
       "end": 93.39
     },
     {
       "position": 102,
       "hebrew": "בְּעֶזְרָתֵךְ׃",
-      "phonetics": "bə·‘ez·rā·ṯêḵ",
-      "shortTranslation": " her allies . ",
-      "longTranslation": "1) help, succour, assistance <BR> 1a) help, succour <BR> 1b) one who helps",
       "start": 93.42,
       "end": 94.22
     },
     {
       "position": 103,
       "hebrew": "גַּם ",
-      "phonetics": "gam-",
-      "shortTranslation": " Yet ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 95.16,
       "end": 95.43
     },
     {
       "position": 104,
       "hebrew": "הִיא,",
-      "phonetics": "hî",
-      "shortTranslation": " she ",
-      "longTranslation": "pron 3p s<BR> 1) he, she, it <BR> 1a) himself (with emphasis) <BR> 1b) resuming subj with emphasis <BR> 1c) (with minimum emphasis following predicate) <BR> 1d) (anticipating subj) <BR> 1e) (emphasising predicate) <BR> 1f) that, it (neuter) demons pron <BR> 2) that (with article)",
       "start": 95.43,
       "end": 95.78
     },
     {
       "position": 105,
       "hebrew": "לַגֹּלָה",
-      "phonetics": "lag·gō·lāh",
-      "shortTranslation": " became an exile ; ",
-      "longTranslation": "1) exiles, exile, captivity <BR> 1a) exiles (coll) <BR> 1b) exile, captivity (abstract)",
       "start": 95.78,
       "end": 96.56
     },
     {
       "position": 106,
       "hebrew": "הָלְכָה",
-      "phonetics": "hā·lə·ḵāh",
-      "shortTranslation": " she went ",
-      "longTranslation": "1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
       "start": 96.56,
       "end": 97.25
     },
     {
       "position": 107,
       "hebrew": "בַשֶּׁבִי,",
-      "phonetics": "ḇaš·še·ḇî",
-      "shortTranslation": " into captivity . ",
-      "longTranslation": "n m <BR> 1) captivity, captives <BR> 1a) (state of) captivity <BR> 1b) (act of) capture <BR> 1c) captives<BR> n f <BR> 2) captive",
       "start": 97.44,
       "end": 98.28
     },
     {
       "position": 108,
       "hebrew": "גַּם",
-      "phonetics": "gam",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 98.69,
       "end": 99.03
     },
     {
       "position": 109,
       "hebrew": "עֹלָלֶיהָ",
-      "phonetics": "‘ō·lā·le·hā",
-      "shortTranslation": " Her infants ",
-      "longTranslation": "1) child, boy",
       "start": 99.03,
       "end": 99.95
     },
     {
       "position": 110,
       "hebrew": "יְרֻטְּשׁוּ,",
-      "phonetics": "yə·ruṭ·ṭə·šū",
-      "shortTranslation": " were dashed to pieces ",
-      "longTranslation": "1) to dash to pieces <BR> 1a) (Piel) to dash in pieces <BR> 1b) (Pual) to be dashed in pieces",
       "start": 99.95,
       "end": 101.1
     },
     {
       "position": 111,
       "hebrew": "בְּרֹאשׁ",
-      "phonetics": "bə·rōš",
-      "shortTranslation": " at the head ",
-      "longTranslation": "1) head, top, summit, upper part, chief, total, sum, height, front, beginning <BR> 1a) head (of man, animals) <BR> 1b) top, tip (of mountain) <BR> 1c) height (of stars) <BR> 1d) chief, head (of man, city, nation, place, family, priest) <BR> 1e) head, front, beginning <BR> 1f) chief, choicest, best <BR> 1g) head, division, company, band <BR> 1h) sum",
       "start": 101.32,
       "end": 101.92
     },
     {
       "position": 112,
       "hebrew": "כָּל ",
-      "phonetics": "kāl-",
-      "shortTranslation": " of every ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 101.92,
       "end": 102.17
     },
     {
       "position": 113,
       "hebrew": "חוּצוֹת;",
-      "phonetics": "ḥū·ṣō·wṯ",
-      "shortTranslation": " street . ",
-      "longTranslation": "1) outside, outward, street, the outside",
       "start": 102.17,
       "end": 102.72
     },
     {
       "position": 114,
       "hebrew": "וְעַל ",
-      "phonetics": "wə·‘al-",
-      "shortTranslation": " for ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 103.42,
       "end": 103.74
     },
     {
       "position": 115,
       "hebrew": "נִכְבַּדֶּיהָ",
-      "phonetics": "niḵ·bad·de·hā",
-      "shortTranslation": " her dignitaries , ",
-      "longTranslation": "1) to be heavy, be weighty, be grievous, be hard, be rich, be honourable, be glorious, be burdensome, be honoured <BR> 1a) (Qal) <BR> 1a1) to be heavy <BR> 1a2) to be heavy, be insensible, be dull <BR> 1a3) to be honoured <BR> 1b) (Niphal) <BR> 1b1) to be made heavy, be honoured, enjoy honour, be made abundant <BR> 1b2) to get oneself glory or honour, gain glory <BR> 1c) (Piel) <BR> 1c1) to make heavy, make dull, make insensible <BR> 1c2) to make honourable, honour, glorify <BR> 1d) (Pual) to be made honourable, be honoured <BR> 1e) (Hiphil) <BR> 1e1) to make heavy <BR> 1e2) to make heavy, make dull, make unresponsive <BR> 1e3) to cause to be honoured <BR> 1f) (Hithpael) <BR> 1f1) to make oneself heavy, make oneself dense, make oneself numerous <BR> 1f2) to honour oneself",
       "start": 103.74,
       "end": 105.02
     },
     {
       "position": 116,
       "hebrew": "יַדּוּ",
-      "phonetics": "yad·dū",
-      "shortTranslation": " They cast ",
-      "longTranslation": "v <BR> 1) (Qal) to throw lots, cast lots <BR> n <BR> 2) love, loving-one, friend",
       "start": 105.02,
       "end": 105.57
     },
     {
       "position": 117,
       "hebrew": "גוֹרָל,",
-      "phonetics": "ḡō·w·rāl",
-      "shortTranslation": " lots ",
-      "longTranslation": "1) lot <BR> 1a) lot-pebbles used for systematically making decisions <BR> 2) portion<BR> 2a) lot, portion (thing assigned by casting lots) <BR> 2b) recompense, retribution",
       "start": 105.6,
       "end": 106.1
     },
     {
       "position": 118,
       "hebrew": "וְכָל ",
-      "phonetics": "wə·ḵāl",
-      "shortTranslation": " and all ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 106.72,
       "end": 107.21
     },
     {
       "position": 119,
       "hebrew": "גְּדוֹלֶיהָ",
-      "phonetics": "gə·ḏō·w·le·hā",
-      "shortTranslation": " her nobles ",
-      "longTranslation": "adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel",
       "start": 107.21,
       "end": 108.04
     },
     {
       "position": 120,
       "hebrew": "רֻתְּקוּ",
-      "phonetics": "rut·tə·qū",
-      "shortTranslation": " were bound ",
-      "longTranslation": "1) to bind <BR> 1a) (Niphal) to be snapped, be broken <BR> 1b) (Pual) to be bound",
       "start": 108.04,
       "end": 108.87
     },
     {
       "position": 121,
       "hebrew": "בַזִּקִּים׃",
-      "phonetics": "ḇaz·ziq·qîm",
-      "shortTranslation": " in chains . ",
-      "longTranslation": "1) spark, missile, firebrand, flaming arrow <BR> 2) fetters",
       "start": 109.08,
       "end": 110.22
     },
     {
       "position": 122,
       "hebrew": "גַּם ",
-      "phonetics": "gam-",
-      "shortTranslation": " too ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 110.95,
       "end": 111.32
     },
     {
       "position": 123,
       "hebrew": "אַתְּ",
-      "phonetics": "’at",
-      "shortTranslation": " You ",
-      "longTranslation": "1) you (second pers. sing. masc.)",
       "start": 111.38,
       "end": 111.76
     },
     {
       "position": 124,
       "hebrew": "תִּשְׁכְּרִי,",
-      "phonetics": "tiš·kə·rî",
-      "shortTranslation": " will become drunk ; ",
-      "longTranslation": "1) to be or become drunk or drunken, be intoxicated <BR> 1a) (Qal) to become drunken <BR> 1b)(Piel) to make drunken, cause to be drunk <BR> 1c) (Hiphil) to cause to be drunk <BR> 1d) (Hithpael) to make oneself drunk",
       "start": 111.93,
       "end": 112.72
     },
     {
       "position": 125,
       "hebrew": "תְּהִי",
-      "phonetics": "tə·hî",
-      "shortTranslation": " you will go ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 113.08,
       "end": 113.51
     },
     {
       "position": 126,
       "hebrew": "נַעֲלָמָה;",
-      "phonetics": "na·‘ă·lā·māh",
-      "shortTranslation": " into hiding ",
-      "longTranslation": "1) to conceal, hide, be hidden, be concealed, be secret <BR> 1a) (Qal) secret (participle) <BR> 1b) (Niphal) <BR> 1b1) to be concealed <BR> 1b2) concealed, dissembler (participle) <BR> 1c) (Hiphil) to conceal, hide <BR> 1d) (Hithpael) to hide oneself",
       "start": 113.51,
       "end": 114.45
     },
     {
       "position": 127,
       "hebrew": "גַּם ",
-      "phonetics": "gam-",
-      "shortTranslation": " and ",
-      "longTranslation": "1) also, even, indeed, moreover, yea <BR> 1a) also, moreover (giving emphasis) <BR> 1b) neither, neither...nor (with negative) <BR> 1c) even (for stress) <BR> 1d) indeed, yea (introducing climax) <BR> 1e) also (of correspondence or retribution) <BR> 1f) but, yet, though (adversative) <BR> 1g) even, yea, yea though (with 'when' in hypothetical case) <BR> 2) (TWOT) again, alike",
       "start": 115.03,
       "end": 115.3
     },
     {
       "position": 128,
       "hebrew": "אַתְּ",
-      "phonetics": "’at",
-      "shortTranslation": " - ",
-      "longTranslation": "1) you (second pers. sing. masc.)",
       "start": 115.3,
       "end": 115.7
     },
     {
       "position": 129,
       "hebrew": "תְּבַקְשִׁי",
-      "phonetics": "tə·ḇaq·šî",
-      "shortTranslation": " seek ",
-      "longTranslation": "1) to seek, require, desire, exact, request <BR> 1a) (Piel) <BR> 1a1) to seek to find <BR> 1a2) to seek to secure <BR> 1a3) to seek the face <BR> 1a4) to desire, demand <BR> 1a5) to require, exact <BR> 1a6) to ask, request <BR> 1b) (Pual) to be sought",
       "start": 115.7,
       "end": 116.49
     },
     {
       "position": 130,
       "hebrew": "מָעוֹז,",
-      "phonetics": "mā·‘ō·wz",
-      "shortTranslation": " refuge ",
-      "longTranslation": "1) place or means of safety, protection, refuge, stronghold <BR> 1a) place of safety, fastness, harbour, stronghold <BR> 1b) refuge (of God) (fig.) <BR> 1c) human protection (fig.)",
       "start": 116.49,
       "end": 117.32
     },
     {
       "position": 131,
       "hebrew": "מֵאוֹיֵב׃",
-      "phonetics": "mê·’ō·w·yêḇ",
-      "shortTranslation": " from the enemy . ",
-      "longTranslation": "1) (Qal) enemy <BR> 1a) personal <BR> 1b) national",
       "start": 117.32,
       "end": 118.05
     },
     {
       "position": 132,
       "hebrew": "כָּל ",
-      "phonetics": "kāl-",
-      "shortTranslation": " All ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 120.06,
       "end": 120.42
     },
     {
       "position": 133,
       "hebrew": "מִבְצָרַיִךְ,",
-      "phonetics": "miḇ·ṣā·ra·yiḵ",
-      "shortTranslation": " your fortresses ",
-      "longTranslation": "1) fortification, fortress, fortified city, stronghold",
       "start": 120.42,
       "end": 121.42
     },
     {
       "position": 134,
       "hebrew": "תְּאֵנִים,",
-      "phonetics": "tə·’ê·nîm",
-      "shortTranslation": " are fig trees ",
-      "longTranslation": "1) fig, fig tree",
       "start": 121.64,
       "end": 122.37
     },
     {
       "position": 135,
       "hebrew": "עִם ",
-      "phonetics": "‘im-",
-      "shortTranslation": " with ",
-      "longTranslation": "1) with <BR> 1a) with <BR> 1b) against <BR> 1c) toward <BR> 1d) as long as <BR> 1e) beside, except<BR> 1f) in spite of",
       "start": 122.37,
       "end": 122.72
     },
     {
       "position": 136,
       "hebrew": "בִּכּוּרִים;",
-      "phonetics": "bik·kū·rîm",
-      "shortTranslation": " the first ripe figs ; ",
-      "longTranslation": "1) first-fruits <BR> 1a) the first of the crops and fruit that ripened, was gathered, and offered to God according to the ritual of Pentecost <BR> 1b) the bread made of the new grain offered at Pentecost <BR> 1c) the day of the first-fruits (Pentecost)",
       "start": 122.72,
       "end": 123.42
     },
     {
       "position": 137,
       "hebrew": "אִם ",
-      "phonetics": "’im-",
-      "shortTranslation": " when ",
-      "longTranslation": "1) if <BR> 1a) conditional clauses <BR> 1a1) of possible situations <BR> 1a2) of impossible situations <BR> 1b) oath contexts <BR> 1b1) no, not <BR> 1c) if...if, whether...or, whether...or...or <BR> 1d) when, whenever <BR> 1e) since <BR> 1f) interrogative particle <BR> 1g) but rather",
       "start": 124.05,
       "end": 124.4
     },
     {
       "position": 138,
       "hebrew": "יִנּוֹעוּ,",
-      "phonetics": "yin·nō·w·‘ū",
-      "shortTranslation": " shaken , ",
-      "longTranslation": "1) to quiver, totter, shake, reel, stagger, wander, move, sift, make move, wave, waver, tremble <BR> 1a) (Qal) <BR> 1a1) to wave, quiver, vibrate, swing, stagger, tremble, be unstable <BR> 1a2) to totter, go tottering <BR> 1a2a) vagabond (participle) <BR> 1b) (Niphal) to be tossed about or around <BR> 1c) (Hiphil) <BR> 1c1) to toss about <BR> 1c2) to shake, cause to totter <BR> 1c3) to shake, disturb <BR> 1c4) to cause to wander",
       "start": 124.4,
       "end": 125.29
     },
     {
       "position": 139,
       "hebrew": "וְנָפְלוּ",
-      "phonetics": "wə·nā·p̄ə·lū",
-      "shortTranslation": " they fall ",
-      "longTranslation": "1) to fall, lie, be cast down, fail <BR> 1a) (Qal) <BR> 1a1) to fall <BR> 1a2) to fall (of violent death) <BR> 1a3) to fall prostrate, prostrate oneself before <BR> 1a4) to fall upon, attack, desert, fall away to, go away to, fall into the hand of <BR> 1a5) to fall short, fail, fall out, turn out, result <BR> 1a6) to settle, waste away, be offered, be inferior to <BR> 1a7) to lie, lie prostrate <BR> 1b) (Hiphil) <BR> 1b1) to cause to fall, fell, throw down, knock out, lay prostrate <BR> 1b2) to overthrow <BR> 1b3) to make the lot fall, assign by lot, apportion by lot <BR> 1b4) to let drop, cause to fail (fig.) <BR> 1b5) to cause to fall <BR> 1c) (Hithpael) <BR> 1c1) to throw or prostrate oneself, throw oneself upon <BR> 1c2) to lie prostrate, prostrate oneself <BR> 1d) (Pilel) to fall",
       "start": 125.48,
       "end": 126.53
     },
     {
       "position": 140,
       "hebrew": "עַל ",
-      "phonetics": "‘al-",
-      "shortTranslation": " into ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 126.53,
       "end": 126.9
     },
     {
       "position": 141,
       "hebrew": "פִּי",
-      "phonetics": "pî",
-      "shortTranslation": " the mouth ",
-      "longTranslation": "peh<BR> 1) mouth <BR> 1a) mouth (of man)<BR> 1b) mouth (as organ of speech) <BR> 1c) mouth (of animals) <BR> 1d) mouth, opening, orifice (of a well, river, etc) <BR> 1e) extremity, end pim <BR> 2) a weight equal to one third of a shekel, occurs only in 1Sa 13:21",
       "start": 126.95,
       "end": 127.23
     },
     {
       "position": 142,
       "hebrew": "אוֹכֵל׃",
-      "phonetics": "’ō·w·ḵêl",
-      "shortTranslation": " of the eater ! ",
-      "longTranslation": "1) to eat, devour, burn up, feed <BR> 1a) (Qal) <BR> 1a1) to eat (human subject) <BR> 1a2) to eat, devour (of beasts and birds) <BR> 1a3) to devour, consume (of fire) <BR> 1a4) to devour, slay (of sword) <BR> 1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought) <BR> 1a6) to devour (of oppression) <BR> 1b) (Niphal) <BR> 1b1) to be eaten (by men) <BR> 1b2) to be devoured, consumed (of fire) <BR> 1b3) to be wasted, destroyed (of flesh) <BR> 1c) (Pual) <BR> 1c1) to cause to eat, feed with <BR> 1c2) to cause to devour <BR> 1d) (Hiphil) <BR> 1d1) to feed <BR> 1d2) to cause to eat <BR> 1e) (Piel) <BR> 1e1) consume",
       "start": 127.23,
       "end": 127.79
     },
     {
       "position": 143,
       "hebrew": "הִנֵּה",
-      "phonetics": "hin·nêh",
-      "shortTranslation": " Look at ",
-      "longTranslation": "1) behold, lo, see, if",
       "start": 128.74,
       "end": 129.29
     },
     {
       "position": 144,
       "hebrew": "עַמֵּךְ",
-      "phonetics": "‘am·mêḵ",
-      "shortTranslation": " your troops — ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 129.29,
       "end": 129.84
     },
     {
       "position": 145,
       "hebrew": "נָשִׁים,",
-      "phonetics": "nā·šîm",
-      "shortTranslation": " they are like your women ",
-      "longTranslation": "1) woman, wife, female <BR> 1a) woman (opposite of man) <BR> 1b) wife (woman married to a man)<BR> 1c) female (of animals) <BR> 1d) each, every (pronoun)",
       "start": 129.94,
       "end": 130.55
     },
     {
       "position": 146,
       "hebrew": "בְּקִרְבֵּךְ,",
-      "phonetics": "bə·qir·bêḵ",
-      "shortTranslation": " . . . ! ",
-      "longTranslation": "1) midst, among, inner part, middle <BR> 1a) inward part <BR> 1a1) physical sense <BR> 1a2) as seat of thought and emotion <BR> 1a3) as faculty of thought and emotion <BR> 1b) in the midst, among, from among (of a number of persons) <BR> 1c) entrails (of sacrificial animals)",
       "start": 130.55,
       "end": 131.24
     },
     {
       "position": 147,
       "hebrew": "לְאֹיְבַיִךְ,",
-      "phonetics": "lə·’ō·yə·ḇa·yiḵ",
-      "shortTranslation": " to your enemies ; ",
-      "longTranslation": "1) (Qal) enemy <BR> 1a) personal <BR> 1b) national",
       "start": 131.9,
       "end": 133.02
     },
     {
       "position": 148,
       "hebrew": "פָּתוֹחַ",
-      "phonetics": "pā·ṯō·w·aḥ",
-      "shortTranslation": " are wide open ",
-      "longTranslation": "1) to open <BR> 1a) (Qal) to open <BR> 1b) (Niphal) to be opened, be let loose, be thrown open <BR> 1c) (Piel) <BR> 1c1) to free <BR> 1c2) to loosen <BR> 1c3) to open, open oneself <BR> 1d) (Hithpael) to loose oneself <BR> 2) to carve, engrave <BR> 2a) (Piel) to engrave <BR> 2b) (Pual) to be engraved",
       "start": 133.39,
       "end": 134.15
     },
     {
       "position": 149,
       "hebrew": "נִפְתְּחוּ",
-      "phonetics": "nip̄·tə·ḥū",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) to open <BR> 1a) (Qal) to open <BR> 1b) (Niphal) to be opened, be let loose, be thrown open <BR> 1c) (Piel) <BR> 1c1) to free <BR> 1c2) to loosen <BR> 1c3) to open, open oneself <BR> 1d) (Hithpael) to loose oneself <BR> 2) to carve, engrave <BR> 2a) (Piel) to engrave <BR> 2b) (Pual) to be engraved",
       "start": 134.15,
       "end": 134.99
     },
     {
       "position": 150,
       "hebrew": "שַׁעֲרֵי",
-      "phonetics": "ša·‘ă·rê",
-      "shortTranslation": " The gates ",
-      "longTranslation": "1) gate <BR> 1a) gate (of entrance) <BR> 1b) gate (of space inside gate, i.e. marketplace, public meeting place) <BR> 1b1) city, town <BR> 1c) gate (of palace, royal castle, temple, court of tabernacle) <BR> 1d) heaven",
       "start": 135.02,
       "end": 135.65
     },
     {
       "position": 151,
       "hebrew": "אַרְצֵךְ;",
-      "phonetics": "’ar·ṣêḵ",
-      "shortTranslation": " of your land ",
-      "longTranslation": "1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan",
       "start": 135.65,
       "end": 136.18
     },
     {
       "position": 152,
       "hebrew": "אָכְלָה",
-      "phonetics": "’ā·ḵə·lāh",
-      "shortTranslation": " consumes ",
-      "longTranslation": "1) to eat, devour, burn up, feed <BR> 1a) (Qal) <BR> 1a1) to eat (human subject) <BR> 1a2) to eat, devour (of beasts and birds) <BR> 1a3) to devour, consume (of fire) <BR> 1a4) to devour, slay (of sword) <BR> 1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought) <BR> 1a6) to devour (of oppression) <BR> 1b) (Niphal) <BR> 1b1) to be eaten (by men) <BR> 1b2) to be devoured, consumed (of fire) <BR> 1b3) to be wasted, destroyed (of flesh) <BR> 1c) (Pual) <BR> 1c1) to cause to eat, feed with <BR> 1c2) to cause to devour <BR> 1d) (Hiphil) <BR> 1d1) to feed <BR> 1d2) to cause to eat <BR> 1e) (Piel) <BR> 1e1) consume",
       "start": 136.84,
       "end": 137.77
     },
     {
       "position": 153,
       "hebrew": "אֵשׁ,",
-      "phonetics": "’êš",
-      "shortTranslation": " fire ",
-      "longTranslation": "1) fire <BR> 1a) fire, flames <BR> 1b) supernatural fire (accompanying theophany) <BR> 1c) fire (for cooking, roasting, parching) <BR> 1d) altar-fire <BR> 1e) God's anger (fig.)",
       "start": 137.93,
       "end": 138.36
     },
     {
       "position": 154,
       "hebrew": "בְּרִיחָיִךְ׃",
-      "phonetics": "bə·rī·ḥå̄·yiḵ",
-      "shortTranslation": " their bars . ",
-      "longTranslation": "1) bar <BR> 1a) of wood <BR> 1b) of city gates <BR> 2) of tribulation, a fortress, of the earth as a prison (fig.)",
       "start": 138.59,
       "end": 139.49
     },
     {
       "position": 155,
       "hebrew": "מֵי",
-      "phonetics": "mê",
-      "shortTranslation": " water ",
-      "longTranslation": "1) water, waters <BR> 1a) water <BR> 1b) water of the feet, urine <BR> 1c) of danger, violence, transitory things, refreshment (fig.)",
       "start": 140.57,
       "end": 141.08
     },
     {
       "position": 156,
       "hebrew": "מָצוֹר",
-      "phonetics": "mā·ṣō·wr",
-      "shortTranslation": " for the siege ; ",
-      "longTranslation": "1) siege-enclosure, siege, entrenchment, siege works <BR> 1a) siege <BR> 1b) enclosure, siege-works, rampart",
       "start": 141.08,
       "end": 142.02
     },
     {
       "position": 157,
       "hebrew": "שַׁאֲבִי ",
-      "phonetics": "ša·’ă·ḇî-",
-      "shortTranslation": " Draw ",
-      "longTranslation": "1) to draw (water) <BR> 1a) (Qal) <BR> 1a1) to draw (water) <BR> 1a2) water-drawing women (participle)",
       "start": 142.02,
       "end": 142.64
     },
     {
       "position": 158,
       "hebrew": "לָךְ,",
-      "phonetics": "lāḵ",
-      "shortTranslation": " your ",
-      "longTranslation": null,
       "start": 142.64,
       "end": 142.86
     },
     {
       "position": 159,
       "hebrew": "חַזְּקִי",
-      "phonetics": "ḥaz·zə·qî",
-      "shortTranslation": " strengthen ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 143.75,
       "end": 144.65
     },
     {
       "position": 160,
       "hebrew": "מִבְצָרָיִךְ;",
-      "phonetics": "miḇ·ṣā·rā·yiḵ",
-      "shortTranslation": " your fortresses . ",
-      "longTranslation": "1) fortification, fortress, fortified city, stronghold",
       "start": 144.65,
       "end": 145.68
     },
     {
       "position": 161,
       "hebrew": "בֹּאִי",
-      "phonetics": "bō·’î",
-      "shortTranslation": " Work ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 146.54,
       "end": 147.31
     },
     {
       "position": 162,
       "hebrew": "בַטִּיט",
-      "phonetics": "ḇaṭ·ṭîṭ",
-      "shortTranslation": " the clay ",
-      "longTranslation": "1) mud, clay, mire, damp dirt <BR> 1a) mud, mire <BR> 1b) clay (poetical)",
       "start": 147.31,
       "end": 148.4
     },
     {
       "position": 163,
       "hebrew": "וְרִמְסִי",
-      "phonetics": "wə·rim·sî",
-      "shortTranslation": " and tread ",
-      "longTranslation": "1) to trample <BR> 1a) (Qal) <BR> 1a1) to trample <BR> 1a2) trampler (participle) <BR> 1b) (Niphal) to be trampled",
       "start": 148.4,
       "end": 149.25
     },
     {
       "position": 164,
       "hebrew": "בַחֹמֶר,",
-      "phonetics": "ḇa·ḥō·mer",
-      "shortTranslation": " the mortar ; ",
-      "longTranslation": "1) cement, mortar, clay <BR> 1a) mortar, cement <BR> 1b) clay <BR> 1c) mire <BR> 2) heap <BR> 2a) swelling, surging (of water)<BR> 3) homer-a unit of dry measure about 65 imperial gallons (300 l)",
       "start": 149.25,
       "end": 150.15
     },
     {
       "position": 165,
       "hebrew": "הַחֲזִיקִי",
-      "phonetics": "ha·ḥă·zî·qî",
-      "shortTranslation": " repair ",
-      "longTranslation": "1) to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore <BR> 1a) (Qal) <BR> 1a1) to be strong, grow strong <BR> 1a1a) to prevail, prevail upon <BR> 1a1b) to be firm, be caught fast, be secure <BR> 1a1c) to press, be urgent <BR> 1a1d) to grow stout, grow rigid, grow hard (bad sense) <BR> 1a1e) to be severe, be grievous <BR> 1a2) to strengthen <BR> 1b) (Piel) <BR> 1b1) to make strong <BR> 1b2) to restore to strength, give strength <BR> 1b3) to strengthen, sustain, encourage <BR> 1b4) to make strong, make bold, encourage <BR> 1b5) to make firm <BR> 1b6) to make rigid, make hard <BR> 1c) (Hiphil) <BR> 1c1) to make strong, strengthen <BR> 1c2) to make firm <BR> 1c3) to display strength <BR> 1c4) to make severe <BR> 1c5) to support <BR> 1c6) to repair <BR> 1c7) to prevail, prevail upon <BR> 1c8) to have or take or keep hold of, retain, hold up, sustain, support <BR> 1c9) to hold, contain <BR> 1d) (Hithpael) <BR> 1d1) to strengthen oneself <BR> 1d2) to put forth strength, use one's strength <BR> 1d3) to withstand <BR> 1d4) to hold strongly with",
       "start": 150.59,
       "end": 151.83
     },
     {
       "position": 166,
       "hebrew": "מַלְבֵּן׃",
-      "phonetics": "mal·bên",
-      "shortTranslation": " the brick [kiln] ! ",
-      "longTranslation": "1) brick mold, brick kiln, quadrangle <BR> 1a) brick mould, brick kiln <BR> 1b) quadrangle",
       "start": 152.06,
       "end": 152.91
     },
     {
       "position": 167,
       "hebrew": "שָׁם,",
-      "phonetics": "m",
-      "shortTranslation": " There ",
-      "longTranslation": "1) there, thither <BR> 1a) there <BR> 1b) thither (after verbs of motion) <BR> 1c) from there, thence <BR> 1d) then (as an adverb of time)",
       "start": 153.66,
       "end": 153.69
     },
     {
       "position": 168,
       "hebrew": "תֹּאכְלֵךְ",
-      "phonetics": "tō·ḵə·lêḵ",
-      "shortTranslation": " will devour you ; ",
-      "longTranslation": "1) to eat, devour, burn up, feed <BR> 1a) (Qal) <BR> 1a1) to eat (human subject) <BR> 1a2) to eat, devour (of beasts and birds) <BR> 1a3) to devour, consume (of fire) <BR> 1a4) to devour, slay (of sword) <BR> 1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought) <BR> 1a6) to devour (of oppression) <BR> 1b) (Niphal) <BR> 1b1) to be eaten (by men) <BR> 1b2) to be devoured, consumed (of fire) <BR> 1b3) to be wasted, destroyed (of flesh) <BR> 1c) (Pual) <BR> 1c1) to cause to eat, feed with <BR> 1c2) to cause to devour <BR> 1d) (Hiphil) <BR> 1d1) to feed <BR> 1d2) to cause to eat <BR> 1e) (Piel) <BR> 1e1) consume",
       "start": 153.84,
       "end": 154.99
     },
     {
       "position": 169,
       "hebrew": "אֵשׁ,",
-      "phonetics": "’êš",
-      "shortTranslation": " the fire ",
-      "longTranslation": "1) fire <BR> 1a) fire, flames <BR> 1b) supernatural fire (accompanying theophany) <BR> 1c) fire (for cooking, roasting, parching) <BR> 1d) altar-fire <BR> 1e) God's anger (fig.)",
       "start": 155.19,
       "end": 155.64
     },
     {
       "position": 170,
       "hebrew": "תַּכְרִיתֵךְ",
-      "phonetics": "taḵ·rî·ṯêḵ",
-      "shortTranslation": " will cut you down ",
-      "longTranslation": "1) to cut, cut off, cut down, cut off a body part, cut out, eliminate, kill, cut a covenant <BR> 1a) (Qal) <BR> 1a1) to cut off <BR> 1a1a) to cut off a body part, behead <BR> 1a2) to cut down <BR> 1a3) to hew <BR> 1a4) to cut or make a covenant <BR> 1b) (Niphal) <BR> 1b1) to be cut off <BR> 1b2) to be cut down <BR> 1b3) to be chewed <BR> 1b4) to be cut off, fail <BR> 1c) (Pual) <BR> 1c1) to be cut off <BR> 1c2) to be cut down <BR> 1d) (Hiphil) <BR> 1d1) to cut off <BR> 1d2) to cut off, destroy <BR> 1d3) to cut down, destroy <BR> 1d4) to take away <BR> 1d5) to permit to perish <BR> 1e) (Hophal) cut off",
       "start": 156.43,
       "end": 156.94
     },
     {
       "position": 171,
       "hebrew": "חֶרֶב,",
-      "phonetics": "ḥe·reḇ",
-      "shortTranslation": " the sword ",
-      "longTranslation": "1) sword, knife <BR> 1a) sword <BR> 1b) knife <BR> 1c) tools for cutting stone",
       "start": 157.16,
       "end": 157.66
     },
     {
       "position": 172,
       "hebrew": "תֹּאכְלֵךְ",
-      "phonetics": "tō·ḵə·lêḵ",
-      "shortTranslation": " and consume you ",
-      "longTranslation": "1) to eat, devour, burn up, feed <BR> 1a) (Qal) <BR> 1a1) to eat (human subject) <BR> 1a2) to eat, devour (of beasts and birds) <BR> 1a3) to devour, consume (of fire) <BR> 1a4) to devour, slay (of sword) <BR> 1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought) <BR> 1a6) to devour (of oppression) <BR> 1b) (Niphal) <BR> 1b1) to be eaten (by men) <BR> 1b2) to be devoured, consumed (of fire) <BR> 1b3) to be wasted, destroyed (of flesh) <BR> 1c) (Pual) <BR> 1c1) to cause to eat, feed with <BR> 1c2) to cause to devour <BR> 1d) (Hiphil) <BR> 1d1) to feed <BR> 1d2) to cause to eat <BR> 1e) (Piel) <BR> 1e1) consume",
       "start": 158.66,
       "end": 159.33
     },
     {
       "position": 173,
       "hebrew": "כַּיָּלֶק;",
-      "phonetics": "kay·yā·leq",
-      "shortTranslation": " like a young locust . ",
-      "longTranslation": "1) young locust (early stage of development) <BR> 1a) caterpillar (as devouring)",
       "start": 159.43,
       "end": 160.35
     },
     {
       "position": 174,
       "hebrew": "הִתְכַּבֵּד",
-      "phonetics": "hiṯ·kab·bêḏ",
-      "shortTranslation": " Make yourself many ",
-      "longTranslation": "1) to be heavy, be weighty, be grievous, be hard, be rich, be honourable, be glorious, be burdensome, be honoured <BR> 1a) (Qal) <BR> 1a1) to be heavy <BR> 1a2) to be heavy, be insensible, be dull <BR> 1a3) to be honoured <BR> 1b) (Niphal) <BR> 1b1) to be made heavy, be honoured, enjoy honour, be made abundant <BR> 1b2) to get oneself glory or honour, gain glory <BR> 1c) (Piel) <BR> 1c1) to make heavy, make dull, make insensible <BR> 1c2) to make honourable, honour, glorify <BR> 1d) (Pual) to be made honourable, be honoured <BR> 1e) (Hiphil) <BR> 1e1) to make heavy <BR> 1e2) to make heavy, make dull, make unresponsive <BR> 1e3) to cause to be honoured <BR> 1f) (Hithpael) <BR> 1f1) to make oneself heavy, make oneself dense, make oneself numerous <BR> 1f2) to honour oneself",
       "start": 161.17,
       "end": 162.14
     },
     {
       "position": 175,
       "hebrew": "כַּיֶּלֶק,",
-      "phonetics": "kay·ye·leq",
-      "shortTranslation": " like the young locust ; ",
-      "longTranslation": "1) young locust (early stage of development) <BR> 1a) caterpillar (as devouring)",
       "start": 162.26,
       "end": 163.12
     },
     {
       "position": 176,
       "hebrew": "הִתְכַּבְּדִי",
-      "phonetics": "hiṯ·kab·bə·ḏî",
-      "shortTranslation": " make yourself many ",
-      "longTranslation": "1) to be heavy, be weighty, be grievous, be hard, be rich, be honourable, be glorious, be burdensome, be honoured <BR> 1a) (Qal) <BR> 1a1) to be heavy <BR> 1a2) to be heavy, be insensible, be dull <BR> 1a3) to be honoured <BR> 1b) (Niphal) <BR> 1b1) to be made heavy, be honoured, enjoy honour, be made abundant <BR> 1b2) to get oneself glory or honour, gain glory <BR> 1c) (Piel) <BR> 1c1) to make heavy, make dull, make insensible <BR> 1c2) to make honourable, honour, glorify <BR> 1d) (Pual) to be made honourable, be honoured <BR> 1e) (Hiphil) <BR> 1e1) to make heavy <BR> 1e2) to make heavy, make dull, make unresponsive <BR> 1e3) to cause to be honoured <BR> 1f) (Hithpael) <BR> 1f1) to make oneself heavy, make oneself dense, make oneself numerous <BR> 1f2) to honour oneself",
       "start": 163.9,
       "end": 164.96
     },
     {
       "position": 177,
       "hebrew": "כָּאַרְבֶּה׃",
-      "phonetics": "kā·’ar·beh",
-      "shortTranslation": " like the swarming locust ! ",
-      "longTranslation": "1) a kind of locust, locust swarm (coll) <BR> 2) (CLBL) <BR> 2a) sudden disappearance (fig.) <BR> 2b) insignificance (fig.) <BR> 2c) activity (fig.)",
       "start": 164.96,
       "end": 165.82
     },
     {
       "position": 178,
       "hebrew": "הִרְבֵּית,",
-      "phonetics": "hir·bêṯ",
-      "shortTranslation": " You have multiplied ",
-      "longTranslation": "1) be or become great, be or become many, be or become much, be or become numerous <BR> 1a) (Qal) <BR> 1a1) to become many, become numerous, multiply (of people, animals, things) <BR> 1a2) to be or grow great <BR> 1b) (Piel) to make large, enlarge, increase, become many <BR> 1c) (Hiphil) <BR> 1c1) to make much, make many, have many <BR> 1c1a) to multiply, increase <BR> 1c1b) to make much to do, do much in respect of, transgress greatly <BR> 1c1c) to increase greatly or exceedingly <BR> 1c2) to make great, enlarge, do much <BR> 2) (Qal) to shoot",
       "start": 166.72,
       "end": 167.42
     },
     {
       "position": 179,
       "hebrew": "רֹכְלַיִךְ,",
-      "phonetics": "rō·ḵə·la·yiḵ",
-      "shortTranslation": " your merchants ",
-      "longTranslation": "1) to go about (meaning dubious) <BR> 1a) (Qal) trafficker, trader (participle) (subst)",
       "start": 167.42,
       "end": 168.27
     },
     {
       "position": 180,
       "hebrew": "מִכּוֹכְבֵי,",
-      "phonetics": "mik·kō·wḵ·ḇê",
-      "shortTranslation": " more than the stars ",
-      "longTranslation": "1) star <BR> 1a) of Messiah, brothers, youth, numerous progeny, personification, God's omniscience (fig.)",
       "start": 168.57,
       "end": 169.7
     },
     {
       "position": 181,
       "hebrew": "הַשָּׁמָיִם;",
-      "phonetics": "haš·šā·mā·yim",
-      "shortTranslation": " of the sky . ",
-      "longTranslation": "1) heaven, heavens, sky <BR> 1a) visible heavens, sky <BR> 1a1) as abode of the stars <BR> 1a2) as the visible universe, the sky, atmosphere, etc <BR> 1b) Heaven (as the abode of God)",
       "start": 169.7,
       "end": 170.59
     },
     {
       "position": 182,
       "hebrew": "יֶלֶק",
-      "phonetics": "ye·leq",
-      "shortTranslation": " The young locust ",
-      "longTranslation": "1) young locust (early stage of development) <BR> 1a) caterpillar (as devouring)",
       "start": 171.35,
       "end": 172.03
     },
     {
       "position": 183,
       "hebrew": "פָּשַׁט,",
-      "phonetics": "pā·šaṭ",
-      "shortTranslation": " strips the land ",
-      "longTranslation": "1) to strip, invade, strip off, make a dash, raid, spread out <BR> 1a) (Qal) <BR> 1a1) to strip off, put off <BR> 1a2) to put off (one's shelter), make a dash <BR> 1b) (Piel) to strip <BR> 1c) (Hiphil) <BR> 1c1) to strip of <BR> 1c2) to strip off <BR> 1c3) to flay <BR> 1d) (Hithpael) to strip oneself of",
       "start": 172.06,
       "end": 172.78
     },
     {
       "position": 184,
       "hebrew": "וַיָּעֹף׃",
-      "phonetics": "way·yā·‘ōp̄",
-      "shortTranslation": " and flies away . ",
-      "longTranslation": "v <BR> 1) to fly, fly about, fly away <BR> 1a)(Qal) <BR> 1a1) to fly, hover <BR> 1a2) to fly away <BR> 1b) (Hiphil) to cause to fly, light upon <BR> 1c) (Polel) <BR> 1c1) to fly about or to and fro <BR> 1c2) to cause to fly to and fro, brandish <BR> 1d) (Hithpolel) to fly away <BR> 2) (Qal) to cover, be dark <BR> n f <BR> 3) gloom",
       "start": 172.78,
       "end": 173.54
     },
     {
       "position": 185,
       "hebrew": "מִנְּזָרַיִךְ,",
-      "phonetics": "min·nə·zā·ra·yiḵ",
-      "shortTranslation": " Your guards ",
-      "longTranslation": "1) princes, anointed ones, consecrated ones <BR> 1a) meaning dubious",
       "start": 174.45,
       "end": 175.69
     },
     {
       "position": 186,
       "hebrew": "כָּאַרְבֶּה,",
-      "phonetics": "kā·’ar·beh",
-      "shortTranslation": " are like the swarming locust , ",
-      "longTranslation": "1) a kind of locust, locust swarm (coll) <BR> 2) (CLBL) <BR> 2a) sudden disappearance (fig.) <BR> 2b) insignificance (fig.) <BR> 2c) activity (fig.)",
       "start": 175.72,
       "end": 176.69
     },
     {
       "position": 187,
       "hebrew": "וְטַפְסְרַיִךְ,",
-      "phonetics": "wə·ṭap̄·sə·ra·yiḵ",
-      "shortTranslation": " and your scribes ",
-      "longTranslation": "1) scribe, official, marshal",
       "start": 176.83,
       "end": 178.14
     },
     {
       "position": 188,
       "hebrew": "כְּגוֹב",
-      "phonetics": "kə·ḡō·wḇ",
-      "shortTranslation": " like clouds of locusts ",
-      "longTranslation": "1) locusts",
       "start": 178.25,
       "end": 178.8
     },
     {
       "position": 189,
       "hebrew": "גֹּבָי;",
-      "phonetics": "gō·ḇāy",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) locusts",
       "start": 178.8,
       "end": 179.42
     },
     {
       "position": 190,
       "hebrew": "הַחוֹנִים",
-      "phonetics": "ha·ḥō·w·nîm",
-      "shortTranslation": " that settle ",
-      "longTranslation": "1) to decline, incline, encamp, bend down, lay siege against <BR> 1a) (Qal) <BR> 1a1) to decline <BR> 1a2) to encamp",
       "start": 179.73,
       "end": 180.43
     },
     {
       "position": 191,
       "hebrew": "בַּגְּדֵרוֹת,",
-      "phonetics": "bag·gə·ḏê·rō·wṯ",
-      "shortTranslation": " on the walls ",
-      "longTranslation": "1) wall, hedge <BR> 2) sheepfold (construct with 'sheep')",
       "start": 180.43,
       "end": 181.35
     },
     {
       "position": 192,
       "hebrew": "בְּיוֹם",
-      "phonetics": "bə·yō·wm",
-      "shortTranslation": " day . ",
-      "longTranslation": "1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow",
       "start": 181.35,
       "end": 181.9
     },
     {
       "position": 193,
       "hebrew": "קָרָה,",
-      "phonetics": "qā·rāh",
-      "shortTranslation": " on a cold ",
-      "longTranslation": "1) cold",
       "start": 181.9,
       "end": 182.36
     },
     {
       "position": 194,
       "hebrew": "שֶׁמֶשׁ",
-      "phonetics": "še·meš",
-      "shortTranslation": " When the sun ",
-      "longTranslation": "1) sun <BR> 1a) sun <BR> 1b) sunrise, sun-rising, east, sun-setting, west (of direction) <BR> 1c) sun (as object of illicit worship) <BR> 1d) openly, publicly (in other phrases) <BR> 1e) pinnacles, battlements, shields (as glittering or shining)",
       "start": 183.11,
       "end": 183.87
     },
     {
       "position": 195,
       "hebrew": "זָרְחָה",
-      "phonetics": "zā·rə·ḥāh",
-      "shortTranslation": " rises , ",
-      "longTranslation": "1) to rise, come forth, break out, arise, rise up, shine <BR> 1a) (Qal) <BR> 1a1) to rise <BR> 1a2) to come out, appear",
       "start": 183.87,
       "end": 184.76
     },
     {
       "position": 196,
       "hebrew": "וְנוֹדַד,",
-      "phonetics": "wə·nō·w·ḏaḏ",
-      "shortTranslation": " they fly away , ",
-      "longTranslation": "1) to retreat, flee, depart, move, wander abroad, stray, flutter <BR> 1a)(Qal) <BR> 1a1) to retreat, flee <BR> 1a2) to flee, depart <BR> 1a3) to wander, stray <BR> 1a4) to flutter (of birds) <BR> 1b) (Poal) to flee away, be chased <BR> 1c) (Hiphil) to chase away <BR> 1d) (Hophal) to be chased away <BR> 1e) (Hithpolel) to flee away",
       "start": 184.76,
       "end": 185.44
     },
     {
       "position": 197,
       "hebrew": "וְלֹא ",
-      "phonetics": "wə·lō-",
-      "shortTranslation": " and no ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 185.96,
       "end": 186.37
     },
     {
       "position": 198,
       "hebrew": "נוֹדַע",
-      "phonetics": "nō·w·ḏa‘",
-      "shortTranslation": " one knows ",
-      "longTranslation": "1) to know <BR> 1a) (Qal) <BR> 1a1) to know <BR> 1a1a) to know, learn to know <BR> 1a1b) to perceive <BR> 1a1c) to perceive and see, find out and discern <BR> 1a1d) to discriminate, distinguish <BR> 1a1e) to know by experience <BR> 1a1f) to recognise, admit, acknowledge, confess <BR> 1a1g) to consider <BR> 1a2) to know, be acquainted with <BR> 1a3) to know (a person carnally) <BR> 1a4) to know how, be skilful in <BR> 1a5) to have knowledge, be wise <BR> 1b) (Niphal) <BR> 1b1) to be made known, be or become known, be revealed <BR> 1b2) to make oneself known <BR> 1b3) to be perceived <BR> 1b4) to be instructed <BR> 1c) (Piel) to cause to know <BR> 1d) (Poal) to cause to know <BR> 1e) (Pual) <BR> 1e1) to be known <BR> 1e2) known, one known, acquaintance (participle) <BR> 1f) (Hiphil) to make known, declare <BR> 1g) (Hophal) to be made known <BR> 1h) (Hithpael) to make oneself known, reveal oneself",
       "start": 186.37,
       "end": 186.83
     },
     {
       "position": 199,
       "hebrew": "מְקוֹמוֹ",
-      "phonetics": "mə·qō·w·mōw",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) standing place, place <BR> 1a) standing place, station, post, office <BR> 1b) place, place of human abode <BR> 1c) city, land, region <BR> 1d) place, locality, spot <BR> 1e) space, room, distance <BR> 1f) region, quarter, direction <BR> 1g) give place to, instead of",
       "start": 186.86,
       "end": 187.55
     },
     {
       "position": 200,
       "hebrew": "אַיָּם׃",
-      "phonetics": "’ay·yām",
-      "shortTranslation": " where . ",
-      "longTranslation": "1) where?, whence? <BR> 2) which?, how? (in prefix with other adverb)",
       "start": 187.66,
       "end": 188.38
     },
     {
       "position": 201,
       "hebrew": "נָמוּ",
-      "phonetics": "nā·mū",
-      "shortTranslation": " slumber ; ",
-      "longTranslation": "1) to be drowsy, slumber, sleep <BR> 1a) (Qal) to slumber, be drowsy",
       "start": 189.19,
       "end": 189.84
     },
     {
       "position": 202,
       "hebrew": "רֹעֶיךָ",
-      "phonetics": "rō·‘e·ḵā",
-      "shortTranslation": " your shepherds ",
-      "longTranslation": "1) to pasture, tend, graze, feed <BR> 1a) (Qal) <BR> 1a1) to tend, pasture <BR> 1a1a) to shepherd <BR> 1a1b) of ruler, teacher (fig) <BR> 1a1c) of people as flock (fig) <BR> 1a1d) shepherd, herdsman (subst) <BR> 1a2) to feed, graze <BR> 1a2a) of cows, sheep etc (literal) <BR> 1a2b) of idolater, Israel as flock (fig) <BR> 1b) (Hiphil) shepherd, shepherdess <BR> 2) to associate with, be a friend of (meaning probable) <BR> 2a) (Qal) to associate with <BR> 2b) (Hithpael) to be companions <BR> 3) (Piel) to be a special friend",
       "start": 189.84,
       "end": 190.61
     },
     {
       "position": 203,
       "hebrew": "מֶלֶךְ",
-      "phonetics": "me·leḵ",
-      "shortTranslation": " O king ",
-      "longTranslation": "1) king",
       "start": 190.61,
       "end": 191.27
     },
     {
       "position": 204,
       "hebrew": "אַשּׁוּר,",
-      "phonetics": "’aš·šūr",
-      "shortTranslation": " of Assyria , ",
-      "longTranslation": "Asshur or Assyria = |a step| <BR> n pr m <BR> 1) the second son of Shem, eponymous ancestor of the Assyrians <BR> 2) the people of Assyria <BR> n pr loc <BR> 3) the nation, Assyria <BR> 4) the land, Assyria or Asshur",
       "start": 191.41,
       "end": 192.03
     },
     {
       "position": 205,
       "hebrew": "יִשְׁכְּנוּ",
-      "phonetics": "yiš·kə·nū",
-      "shortTranslation": " sleep . ",
-      "longTranslation": "1) to settle down, abide, dwell, tabernacle, reside <BR> 1a) (Qal) <BR> 1a1) to settle down to abide <BR> 1a2) to abide, dwell, reside <BR> 1b) (Piel) <BR> 1b1) to make settle down, establish <BR> 1b2) to make or cause to dwell <BR> 1c) (Hiphil) <BR> 1c1) to lay, place, set, establish, settle, fix <BR> 1c2) to cause to dwell or abide",
       "start": 192.52,
       "end": 193.46
     },
     {
       "position": 206,
       "hebrew": "אַדִּירֶיךָ;",
-      "phonetics": "’ad·dî·re·ḵā",
-      "shortTranslation": " your officers ",
-      "longTranslation": "1) great, majestic <BR> 1a) of waters of sea<BR> 1b) of a tree <BR> 1c) of kings, nations, gods <BR> 2) great one, majestic one <BR> 2a) of nobles, chieftains, servants",
       "start": 193.59,
       "end": 194.62
     },
     {
       "position": 207,
       "hebrew": "נָפֹשׁוּ",
-      "phonetics": "nā·p̄ō·šū",
-      "shortTranslation": " are scattered ",
-      "longTranslation": "1) to spring about <BR> 1a) (Qal) to frisk, act proudly (fig.) <BR> 2) (Niphal) to be scattered, be spread",
       "start": 195.06,
       "end": 196.21
     },
     {
       "position": 208,
       "hebrew": "עַמְּךָ",
-      "phonetics": "‘am·mə·ḵā",
-      "shortTranslation": " Your people ",
-      "longTranslation": "1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred",
       "start": 196.21,
       "end": 197.01
     },
     {
       "position": 209,
       "hebrew": "עַל ",
-      "phonetics": "‘al-",
-      "shortTranslation": " on ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 197.26,
       "end": 197.65
     },
     {
       "position": 210,
       "hebrew": "הֶהָרִים,",
-      "phonetics": "he·hā·rîm",
-      "shortTranslation": " the mountains ",
-      "longTranslation": "1) hill, mountain, hill country, mount",
       "start": 197.65,
       "end": 198.37
     },
     {
       "position": 211,
       "hebrew": "וְאֵין",
-      "phonetics": "wə·’ên",
-      "shortTranslation": " with no one ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 198.65,
       "end": 199.33
     },
     {
       "position": 212,
       "hebrew": "מְקַבֵּץ׃",
-      "phonetics": "mə·qab·bêṣ",
-      "shortTranslation": " to gather them . ",
-      "longTranslation": "1) to gather, assemble <BR> 1a) (Qal) to gather, collect, assemble <BR> 1b) (Niphal) <BR> 1b1) to assemble, gather <BR> 1b2) to be gathered <BR> 1c) (Piel) to gather, gather together, take away <BR> 1d) (Pual) to be gathered together <BR> 1e) (Hithpael) to gather together, be gathered together",
       "start": 199.33,
       "end": 200.1
     },
     {
       "position": 213,
       "hebrew": "אֵין ",
-      "phonetics": "’ên-",
-      "shortTranslation": " There is no ",
-      "longTranslation": "1) nothing, not, nought n <BR> 1a) nothing, nought neg <BR> 1b) not <BR> 1c) to have not (of possession) adv <BR> 1d) without w/prep <BR> 1e) for lack of",
       "start": 200.86,
       "end": 201.18
     },
     {
       "position": 214,
       "hebrew": "כֵּהָה",
-      "phonetics": "kê·hāh",
-      "shortTranslation": " healing ",
-      "longTranslation": "1) a quenching, dulling, lessening, healing, alleviation",
       "start": 201.18,
       "end": 201.71
     },
     {
       "position": 215,
       "hebrew": "לְשִׁבְרֶךָ,",
-      "phonetics": "lə·šiḇ·re·ḵā",
-      "shortTranslation": " for your injury ; ",
-      "longTranslation": "1) breaking, fracture, crushing, breach, crash, ruin, shattering <BR> 1a) breaking, fracture, shattering, crushing <BR> 1b) crashing <BR> 1c) breaking (of a dream), interpretation <BR> 1d) quarries",
       "start": 201.71,
       "end": 202.67
     },
     {
       "position": 216,
       "hebrew": "נַחְלָה",
-      "phonetics": "naḥ·lāh",
-      "shortTranslation": " is severe . ",
-      "longTranslation": "1) to be or become weak, be or become sick, be or become diseased, be or become grieved, be or become sorry <BR> 1a) (Qal) to be weak, be sick <BR> 1b) (Piel) <BR> 1b1) to be or become weak, feel weak <BR> 1b2) to become sick, become ill <BR> 1b3) (CLBL) to entreat, pray, beg <BR> 1c) (Niphal) <BR> 1c1) to make oneself sick <BR> 1c2) to be made sick <BR> 1c3) to be tired <BR> 1d) (Pual) to be made weak, become weak <BR> 1e) (Hithpael) to make oneself sick <BR> 1f) (Hiphil) <BR> 1f1) to make sore <BR> 1f2) to make sick <BR> 1f3) to show signs of sickness, become sick <BR> 1f4) to grieve <BR> 1g) (Hophal) <BR> 1g1) to be made sick <BR> 1g2) to be wounded",
       "start": 203.1,
       "end": 203.85
     },
     {
       "position": 217,
       "hebrew": "מַכָּתֶךָ;",
-      "phonetics": "mak·kā·ṯe·ḵā",
-      "shortTranslation": " your wound ",
-      "longTranslation": "1) blow, wound, slaughter <BR> 1a) blow, stripe <BR> 1b) beating, scourging <BR> 1c) wound <BR> 1d) slaughter <BR> 1e) defeat, conquest <BR> 1f) plague",
       "start": 203.85,
       "end": 204.92
     },
     {
       "position": 218,
       "hebrew": "כֹּל",
-      "phonetics": "kōl",
-      "shortTranslation": " All ",
-      "longTranslation": "1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything",
       "start": 205.42,
       "end": 205.75
     },
     {
       "position": 219,
       "hebrew": "שֹׁמְעֵי",
-      "phonetics": "šō·mə·‘ê",
-      "shortTranslation": " who hear ",
-      "longTranslation": "v <BR> 1) to hear, listen to, obey <BR> 1a) (Qal) <BR> 1a1) to hear (perceive by ear) <BR> 1a2) to hear of or concerning <BR> 1a3) to hear (have power to hear) <BR> 1a4) to hear with attention or interest, listen to <BR> 1a5) to understand (language) <BR> 1a6) to hear (of judicial cases) <BR> 1a7) to listen, give heed <BR> 1a7a) to consent, agree <BR> 1a7b) to grant request <BR> 1a8) to listen to, yield to <BR> 1a9) to obey, be obedient <BR> 1b) (Niphal) <BR> 1b1) to be heard (of voice or sound) <BR> 1b2) to be heard of <BR> 1b3) to be regarded, be obeyed <BR> 1c) (Piel) to cause to hear, call to hear, summon <BR> 1d) (Hiphil) <BR> 1d1) to cause to hear, tell, proclaim, utter a sound <BR> 1d2) to sound aloud (musical term) <BR> 1d3) to make proclamation, summon <BR> 1d4) to cause to be heard <BR> n m <BR> 2) sound",
       "start": 205.75,
       "end": 206.43
     },
     {
       "position": 220,
       "hebrew": "שִׁמְעֲךָ,",
-      "phonetics": "šim·‘ă·ḵā",
-      "shortTranslation": " the news of you ",
-      "longTranslation": "1) report, a hearing",
       "start": 206.43,
       "end": 207.42
     },
     {
       "position": 221,
       "hebrew": "תָּקְעוּ",
-      "phonetics": "tā·qə·‘ū",
-      "shortTranslation": " applaud ",
-      "longTranslation": "1) to blow, clap, strike, sound, thrust, give a blow, blast <BR> 1a) (Qal) <BR> 1a1) to thrust, drive (of weapon) <BR> 1a2) to give a blast, give a blow <BR> 1a3) to strike or clap hands <BR> 1b) (Niphal) <BR> 1b1) to be blown, blast (of horn) <BR> 1b2) to strike or pledge oneself",
       "start": 207.79,
       "end": 208.77
     },
     {
       "position": 222,
       "hebrew": "כַף",
-      "phonetics": "ḵap̄",
-      "shortTranslation": " . . . ",
-      "longTranslation": "1) palm, hand, sole, palm of the hand, hollow or flat of the hand <BR> 1a) palm, hollow or flat of the hand <BR> 1b) power <BR> 1c) sole (of the foot) <BR> 1d) hollow, objects, bending objects, bent objects <BR> 1d1) of thigh-joint <BR> 1d2) pan, vessel (as hollow) <BR> 1d3) hollow (of sling) <BR> 1d4) hand-shaped branches or fronds (of palm trees) <BR> 1d5) handles (as bent)",
       "start": 208.8,
       "end": 209.04
     },
     {
       "position": 223,
       "hebrew": "עָלֶיךָ,",
-      "phonetics": "‘ā·le·ḵā",
-      "shortTranslation": " your [downfall] , ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 209.07,
       "end": 209.8
     },
     {
       "position": 224,
       "hebrew": "כִּי",
-      "phonetics": "kî",
-      "shortTranslation": " for ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 210.27,
       "end": 210.49
     },
     {
       "position": 225,
       "hebrew": "עַל ",
-      "phonetics": "‘al-",
-      "shortTranslation": " . . . ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 210.49,
       "end": 210.8
     },
     {
       "position": 226,
       "hebrew": "מִי",
-      "phonetics": "mî",
-      "shortTranslation": " who ",
-      "longTranslation": "1) who?, whose?, whom?, would that, whoever, whosoever",
       "start": 210.8,
       "end": 211.14
     },
     {
       "position": 227,
       "hebrew": "לֹא ",
-      "phonetics": "lō-",
-      "shortTranslation": " has not ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 211.14,
       "end": 211.49
     },
     {
       "position": 228,
       "hebrew": "עָבְרָה",
-      "phonetics": "‘ā·ḇə·rāh",
-      "shortTranslation": " experienced ",
-      "longTranslation": "1) to pass over or by or through, alienate, bring, carry, do away, take, take away, transgress <BR> 1a) (Qal) <BR> 1a1) to pass over, cross, cross over, pass over, march over, overflow, go over <BR> 1a2) to pass beyond <BR> 1a3) to pass through, traverse <BR> 1a3a) passers-through (participle) <BR> 1a3b) to pass through (the parts of victim in covenant) <BR> 1a4) to pass along, pass by, overtake and pass, sweep by <BR> 1a4a) passer-by (participle) <BR> 1a4b) to be past, be over <BR> 1a5) to pass on, go on, pass on before, go in advance of, pass along, travel, advance <BR> 1a6) to pass away <BR> 1a6a) to emigrate, leave (one's territory) <BR> 1a6b) to vanish <BR> 1a6c) to perish, cease to exist <BR> 1a6d) to become invalid, become obsolete (of law, decree) <BR> 1a6e) to be alienated, pass into other hands <BR> 1b) (Niphal) to be crossed <BR> 1c) (Piel) to impregnate, cause to cross <BR> 1d) (Hiphil) <BR> 1d1) to cause to pass over, cause to bring over, cause to cross over, make over to, dedicate, devote <BR> 1d2) to cause to pass through <BR> 1d3) to cause to pass by or beyond or under, let pass by <BR> 1d4) to cause to pass away, cause to take away <BR> 1e) (Hithpael) to pass over",
       "start": 211.49,
       "end": 212.36
     },
     {
       "position": 229,
       "hebrew": "רָעָתְךָ,",
-      "phonetics": "rā·‘ā·ṯə·ḵā",
-      "shortTranslation": " cruelty ? ",
-      "longTranslation": "adj <BR> 1) bad, evil <BR> 1a) bad, disagreeable, malignant <BR> 1b) bad, unpleasant, evil (giving pain, unhappiness, misery) <BR> 1c) evil, displeasing <BR> 1d) bad (of its kind-land, water, etc) <BR> 1e) bad (of value) <BR> 1f) worse than, worst (comparison) <BR> 1g) sad, unhappy <BR> 1h) evil (hurtful) <BR> 1i) bad, unkind (vicious in disposition) <BR> 1j) bad, evil, wicked (ethically) <BR> 1j1) in general, of persons, of thoughts <BR> 1j2) deeds, actions <BR> n m <BR> 2) evil, distress, misery, injury, calamity <BR> 2a) evil, distress, adversity <BR> 2b) evil, injury, wrong <BR> 2c) evil (ethical) <BR> n f <BR> 3) evil, misery, distress, injury <BR> 3a) evil, misery, distress <BR> 3b) evil, injury, wrong <BR> 3c) evil (ethical)",
       "start": 212.76,
       "end": 213.78
     },
     {
       "position": 230,
       "hebrew": "תָּמִיד׃",
-      "phonetics": "tā·mîḏ",
-      "shortTranslation": " your constant ",
-      "longTranslation": "1) continuity, perpetuity, to stretch <BR> 1a) continually, continuously (as adverb) <BR> 1b) continuity (subst)",
       "start": 213.78,
       "end": 214.35
     }

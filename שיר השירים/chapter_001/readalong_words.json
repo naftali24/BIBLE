@@ -1,1355 +1,902 @@
 {
-  "book": "Song_of_Solomon",
-  "chapter": "1",
-  "audio_code": "t3001",
   "words": [
     {
       "position": 0,
       "hebrew": "שִׁיר",
-      "phonetics": "šîr",
-      "shortTranslation": " Song ",
-      "longTranslation": "n m <BR> 1) song <BR> 1a) lyric song <BR> 1b) religious song <BR> 1c) song of Levitical choirs <BR> n f <BR> 2) song <BR> 2a) song, ode",
       "start": 0.75,
       "end": 1.97
     },
     {
       "position": 1,
       "hebrew": "הַשִּׁירִים,",
-      "phonetics": "haš·šî·rîm",
-      "shortTranslation": " of Songs . ",
-      "longTranslation": "n m <BR> 1) song <BR> 1a) lyric song <BR> 1b) religious song <BR> 1c) song of Levitical choirs <BR> n f <BR> 2) song <BR> 2a) song, ode",
       "start": 1.97,
       "end": 2.97
     },
     {
       "position": 2,
       "hebrew": "אֲשֶׁר",
-      "phonetics": "’ă·šer",
-      "shortTranslation": " This [is] ",
-      "longTranslation": "1) (relative part.) <BR> 1a) which, who <BR> 1b) that which <BR> 2) (conj) <BR> 2a) that (in obj clause) <BR> 2b) when <BR> 2c) since <BR> 2d) as <BR> 2e) conditional if",
       "start": 2.97,
       "end": 4.05
     },
     {
       "position": 3,
       "hebrew": "לִשְׁלֹמֹה׃",
-      "phonetics": "liš·lō·mōh",
-      "shortTranslation": " Solomon’s ",
-      "longTranslation": "Solomon = |peace|<BR> 1) son of David by Bathsheba and 3rd king of Israel; author of Proverbs and Song of Songs",
       "start": 4.05,
       "end": 5.96
     },
     {
       "position": 4,
       "hebrew": "יִשָּׁקֵנִי",
-      "phonetics": "yiš·šā·qê·nî",
-      "shortTranslation": " Let him kiss me ",
-      "longTranslation": "1) to put together, kiss <BR> 1a) (Qal) to kiss <BR> 1b) (Piel) to kiss <BR> 1c) (Hiphil) to touch gently <BR> 2) to handle, be equipped with <BR> 2a) (Qal) to be equipped",
       "start": 7.31,
       "end": 9.58
     },
     {
       "position": 5,
       "hebrew": "מִנְּשִׁיקוֹת",
-      "phonetics": "min·nə·šî·qō·wṯ",
-      "shortTranslation": " with the kisses ",
-      "longTranslation": "1) kiss",
       "start": 9.58,
       "end": 11.04
     },
     {
       "position": 6,
       "hebrew": "פִּיהוּ,",
-      "phonetics": "pî·hū",
-      "shortTranslation": " of his mouth ! ",
-      "longTranslation": "peh<BR> 1) mouth <BR> 1a) mouth (of man)<BR> 1b) mouth (as organ of speech) <BR> 1c) mouth (of animals) <BR> 1d) mouth, opening, orifice (of a well, river, etc) <BR> 1e) extremity, end pim <BR> 2) a weight equal to one third of a shekel, occurs only in 1Sa 13:21",
       "start": 11.04,
       "end": 12.49
     },
     {
       "position": 7,
       "hebrew": "כִּי ",
-      "phonetics": "kî-",
-      "shortTranslation": " For ",
-      "longTranslation": "1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore",
       "start": 12.55,
       "end": 12.83
     },
     {
       "position": 8,
       "hebrew": "טוֹבִים",
-      "phonetics": "ṭō·w·ḇîm",
-      "shortTranslation": " is more delightful ",
-      "longTranslation": "adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty",
       "start": 12.83,
       "end": 13.44
     },
     {
       "position": 9,
       "hebrew": "דֹּדֶיךָ",
-      "phonetics": "dō·ḏe·ḵā",
-      "shortTranslation": " your love ",
-      "longTranslation": "1) beloved, love, uncle <BR> 1a) loved one, beloved <BR> 1b) uncle <BR> 1c) love (pl. abstract)",
       "start": 13.44,
-      "end": 15.0
+      "end": 15
     },
     {
       "position": 10,
       "hebrew": "מִיָּיִן׃",
-      "phonetics": "mî·yā·yin",
-      "shortTranslation": " than wine . ",
-      "longTranslation": "1) wine",
-      "start": 15.0,
+      "start": 15,
       "end": 16.74
     },
     {
       "position": 11,
       "hebrew": "לְרֵיחַ",
-      "phonetics": "lə·rê·aḥ",
-      "shortTranslation": " The fragrance ",
-      "longTranslation": "1) scent, fragrance, aroma, odour <BR> 1a) scent, odour <BR> 1b) odour of soothing (technical term for sacrifice to God)",
       "start": 17.53,
       "end": 18.95
     },
     {
       "position": 12,
       "hebrew": "שְׁמָנֶיךָ",
-      "phonetics": "šə·mā·ne·ḵā",
-      "shortTranslation": " of your perfume ",
-      "longTranslation": "1) fat, oil <BR> 1a) fat, fatness <BR> 1b) oil, olive oil <BR> 1b1) as staple, medicament or unguent <BR> 1b2) for anointing <BR> 1c) fat (of fruitful land, valleys) (metaph)",
       "start": 19.07,
       "end": 20.68
     },
     {
       "position": 13,
       "hebrew": "טוֹבִים,",
-      "phonetics": "ṭō·w·ḇîm",
-      "shortTranslation": " is pleasing ; ",
-      "longTranslation": "adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty",
       "start": 20.68,
       "end": 21.4
     },
     {
       "position": 14,
       "hebrew": "שֶׁמֶן",
-      "phonetics": "še·men",
-      "shortTranslation": " is like perfume ",
-      "longTranslation": "1) fat, oil <BR> 1a) fat, fatness <BR> 1b) oil, olive oil <BR> 1b1) as staple, medicament or unguent <BR> 1b2) for anointing <BR> 1c) fat (of fruitful land, valleys) (metaph)",
       "start": 21.6,
       "end": 22.75
     },
     {
       "position": 15,
       "hebrew": "תּוּרַק",
-      "phonetics": "tū·raq",
-      "shortTranslation": " poured out . ",
-      "longTranslation": "1) to make empty, empty out <BR> 1a) (Hiphil) <BR> 1a1) to empty, keep empty or hungry <BR> 1a2) to pour out or down <BR> 1a3) to empty out <BR> 1b) (Hophal) to be emptied out",
       "start": 22.78,
       "end": 23.55
     },
     {
       "position": 16,
       "hebrew": "שְׁמֶךָ;",
-      "phonetics": "šə·me·ḵā",
-      "shortTranslation": " your name ",
-      "longTranslation": "1) name <BR> 1a) name <BR> 1b) reputation, fame, glory <BR> 1c) the Name (as designation of God) <BR> 1d) memorial, monument",
       "start": 23.55,
       "end": 24.85
     },
     {
       "position": 17,
       "hebrew": "עַל ",
-      "phonetics": "‘al-",
-      "shortTranslation": " No wonder ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 25.19,
       "end": 25.6
     },
     {
       "position": 18,
       "hebrew": "כֵּן,",
-      "phonetics": "kên",
-      "shortTranslation": " . . . ",
-      "longTranslation": "adv <BR> 1) so, therefore, thus <BR> 1a) thus, so <BR> 1b) just so <BR> 1c) therefore <BR> 1d) so...as (paired with adv) <BR> 1e) then <BR> 1f) forasmuch as (in phrase) <BR> 1g) (with prep) <BR> 1g1) therefore, this being so (specific) <BR> 1g2) hitherto <BR> 1g3) therefore, on this ground (general) <BR> 1g4) afterwards <BR> 1g5) in such case <BR> adj <BR> 2) right, just, honest, true, veritable <BR> 2a) right, just, honest <BR> 2b) correct <BR> 2c) true, veritable <BR> 2d) true!, right!, correct! (in assent)",
       "start": 25.6,
       "end": 26.42
     },
     {
       "position": 19,
       "hebrew": "עֲלָמוֹת",
-      "phonetics": "‘ă·lā·mō·wṯ",
-      "shortTranslation": " the maidens ",
-      "longTranslation": "1) virgin, young woman <BR> 1a) of marriageable age <BR> 1b) maid or newly married <BR> ++++<BR> There is no instance where it can be proved that this word designates a young woman who is not a virgin. (TWOT)",
       "start": 26.42,
       "end": 27.52
     },
     {
       "position": 20,
       "hebrew": "אֲהֵבוּךָ׃",
-      "phonetics": "’ă·hê·ḇū·ḵā",
-      "shortTranslation": " adore you . ",
-      "longTranslation": "1) to love <BR> 1a) (Qal) <BR> 1a1) human love for another, includes family, and sexual <BR> 1a2) human appetite for objects such as food, drink, sleep, wisdom <BR> 1a3) human love for or to God <BR> 1a4) act of being a friend <BR> 1a4a) lover (participle) <BR> 1a4b) friend (participle) <BR> 1a5) God's love toward man <BR> 1a5a) to individual men <BR> 1a5b) to people Israel <BR> 1a5c) to righteousness <BR> 1b) (Niphal) <BR> 1b1) lovely (participle) <BR> 1b2) loveable (participle) <BR> 1c) (Piel) <BR> 1c1) friends <BR> 1c2) lovers (fig. of adulterers) <BR> 2) to like",
       "start": 27.52,
       "end": 28.89
     },
     {
       "position": 21,
       "hebrew": "מָשְׁכֵנִי,",
-      "phonetics": "mā·šə·ḵê·nî",
-      "shortTranslation": " Take me ",
-      "longTranslation": "1) to draw, drag, seize <BR> 1a) (Qal) <BR> 1a1) to draw (and lift out), drag along, lead along, drag or lead off, draw down <BR> 1a2) to draw (the bow) <BR> 1a3) to proceed, march <BR> 1a4) to draw out or give (a sound) <BR> 1a5) to draw out, prolong, continue <BR> 1a6) to trail (seed in sowing) <BR> 1a7) to cheer, draw, attract, gratify <BR> 1b) (Niphal) to be drawn out <BR> 1c) (Pual) <BR> 1c1) to be drawn out, be postponed, be deferred <BR> 1c2) to be tall",
       "start": 30.17,
       "end": 32.46
     },
     {
       "position": 22,
       "hebrew": "אַחֲרֶיךָ",
-      "phonetics": "’a·ḥă·re·ḵā",
-      "shortTranslation": " away with you — ",
-      "longTranslation": "1) after the following part, behind (of place), hinder, afterwards (of time)<BR> 1a) as an adverb <BR> 1a1) behind (of place) <BR> 1a2) afterwards (of time) <BR> 1b) as a preposition <BR> 1b1) behind, after (of place) <BR> 1b2) after (of time) <BR> 1b3) besides <BR> 1c) as a conjunction <BR> 1c) after that <BR> 1d) as a substantive <BR> 1d1) hinder part <BR> 1e) with other prepositions <BR> 1e1) from behind <BR> 1e2) from following after",
       "start": 32.46,
       "end": 33.87
     },
     {
       "position": 23,
       "hebrew": "נָּרוּצָה;",
-      "phonetics": "nā·rū·ṣāh",
-      "shortTranslation": " let us hurry ! ",
-      "longTranslation": "1) to run <BR> 1a) (Qal) <BR> 1a1) to run <BR> 1a2) runners (participle as subst) <BR> 1b) (Polel) to run swiftly, dart<BR> 1c) (Hiphil) <BR> 1c1) to bring or move quickly, hurry <BR> 1c2) to drive away from, cause to run away",
       "start": 33.87,
       "end": 35.32
     },
     {
       "position": 24,
       "hebrew": "הֱבִיאַנִי",
-      "phonetics": "hĕ·ḇî·’a·nî",
-      "shortTranslation": " bring me ",
-      "longTranslation": "1) to go in, enter, come, go, come in <BR> 1a) (Qal) <BR> 1a1) to enter, come in <BR> 1a2) to come <BR> 1a2a) to come with <BR> 1a2b) to come upon, fall or light upon, attack (enemy) <BR> 1a2c) to come to pass <BR> 1a3) to attain to <BR> 1a4) to be enumerated <BR> 1a5) to go <BR> 1b) (Hiphil) <BR> 1b1) to lead in <BR> 1b2) to carry in <BR> 1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon <BR> 1b4) to bring to pass <BR> 1c) (Hophal) <BR> 1c1) to be brought, brought in <BR> 1c2) to be introduced, be put",
       "start": 35.82,
       "end": 37.1
     },
     {
       "position": 25,
       "hebrew": "הַמֶּלֶךְ",
-      "phonetics": "ham·me·leḵ",
-      "shortTranslation": " May the king ",
-      "longTranslation": "1) king",
       "start": 37.1,
       "end": 38.6
     },
     {
       "position": 26,
       "hebrew": "חֲדָרָיו,",
-      "phonetics": "ḥă·ḏā·rāw",
-      "shortTranslation": " to his chambers . ",
-      "longTranslation": "1) chamber, room, parlour, innermost or inward part, within",
       "start": 38.6,
       "end": 39.98
     },
     {
       "position": 27,
       "hebrew": "נָגִילָה",
-      "phonetics": "nā·ḡî·lāh",
-      "shortTranslation": " We will rejoice ",
-      "longTranslation": "1) to rejoice, exult, be glad <BR> 1a) (Qal) <BR> 1a1) to rejoice<BR> 1a2) to tremble (from fear)",
       "start": 40.37,
       "end": 41.19
     },
     {
       "position": 28,
       "hebrew": "וְנִשְׂמְחָה",
-      "phonetics": "wə·niś·mə·ḥāh",
-      "shortTranslation": " and delight ",
-      "longTranslation": "1) to rejoice, be glad <BR> 1a) (Qal) <BR> 1a1) to rejoice <BR> 1a2) to rejoice (arrogantly), exult (at) <BR> 1a3) to rejoice (religiously) <BR> 1b) (Piel) to cause to rejoice, gladden, make glad <BR> 1c) (Hiphil) to cause to rejoice, gladden, make glad",
       "start": 41.19,
       "end": 42.66
     },
     {
       "position": 29,
       "hebrew": "בָּךְ,",
-      "phonetics": "bāḵ",
-      "shortTranslation": " in you ; ",
-      "longTranslation": null,
       "start": 42.66,
       "end": 42.94
     },
     {
       "position": 30,
       "hebrew": "נַזְכִּירָה",
-      "phonetics": "naz·kî·rāh",
-      "shortTranslation": " we will praise ",
-      "longTranslation": "1) to remember, recall, call to mind <BR> 1a) (Qal) to remember, recall <BR> 1b) (Niphal) to be brought to remembrance, be remembered, be thought of, be brought to mind <BR> 1c) (Hiphil) <BR> 1c1) to cause to remember, remind <BR> 1c2) to cause to be remembered, keep in remembrance <BR> 1c3) to mention <BR> 1c4) to record <BR> 1c5) to make a memorial, make remembrance",
       "start": 43.29,
       "end": 44.16
     },
     {
       "position": 31,
       "hebrew": "דֹדֶיךָ",
-      "phonetics": "ḏō·ḏe·ḵā",
-      "shortTranslation": " your love ",
-      "longTranslation": "1) beloved, love, uncle <BR> 1a) loved one, beloved <BR> 1b) uncle <BR> 1c) love (pl. abstract)",
       "start": 44.16,
       "end": 46.14
     },
     {
       "position": 32,
       "hebrew": "מִיַּיִן,",
-      "phonetics": "mî·ya·yin",
-      "shortTranslation": " more than wine . ",
-      "longTranslation": "1) wine",
       "start": 46.14,
       "end": 47.35
     },
     {
       "position": 33,
       "hebrew": "מֵישָׁרִים",
-      "phonetics": "mê·šā·rîm",
-      "shortTranslation": " It is only right ",
-      "longTranslation": "1) evenness, uprightness, straightness, equity <BR> 1a) evenness, level, smoothness <BR> 1b) uprightness, equity <BR> 1c) rightly (as adv)",
       "start": 47.66,
       "end": 49.34
     },
     {
       "position": 34,
       "hebrew": "אֲהֵבוּךָ׃",
-      "phonetics": "’ă·hê·ḇū·ḵā",
-      "shortTranslation": " that they adore you . ",
-      "longTranslation": "1) to love <BR> 1a) (Qal) <BR> 1a1) human love for another, includes family, and sexual <BR> 1a2) human appetite for objects such as food, drink, sleep, wisdom <BR> 1a3) human love for or to God <BR> 1a4) act of being a friend <BR> 1a4a) lover (participle) <BR> 1a4b) friend (participle) <BR> 1a5) God's love toward man <BR> 1a5a) to individual men <BR> 1a5b) to people Israel <BR> 1a5c) to righteousness <BR> 1b) (Niphal) <BR> 1b1) lovely (participle) <BR> 1b2) loveable (participle) <BR> 1c) (Piel) <BR> 1c1) friends <BR> 1c2) lovers (fig. of adulterers) <BR> 2) to like",
       "start": 49.34,
       "end": 50.84
     },
     {
       "position": 35,
       "hebrew": "שְׁחוֹרָה",
-      "phonetics": "šə·ḥō·w·rāh",
-      "shortTranslation": " am dark , ",
-      "longTranslation": "1) black",
       "start": 51.63,
       "end": 53.59
     },
     {
       "position": 36,
       "hebrew": "אֲנִי",
-      "phonetics": "’ă·nî",
-      "shortTranslation": " I ",
-      "longTranslation": "1) I (first pers. sing. -usually used for emphasis)",
       "start": 53.59,
       "end": 54.37
     },
     {
       "position": 37,
       "hebrew": "וְנָאוָה,",
-      "phonetics": "wə·nā·wāh",
-      "shortTranslation": " yet lovely , ",
-      "longTranslation": "1) comely, beautiful, seemly <BR> 1a) comely, beautiful <BR> 1b) seemly",
       "start": 54.46,
       "end": 55.63
     },
     {
       "position": 38,
       "hebrew": "בְּנוֹת",
-      "phonetics": "bə·nō·wṯ",
-      "shortTranslation": " O daughters ",
-      "longTranslation": "n f<BR> 1) daughter <BR> 1a) daughter, girl, adopted daughter, daughter-in-law, sister, granddaughters, female child, cousin <BR> 1a1) as polite address <BR> n pr f <BR> 1a2) as designation of women of a particular place <BR> 2) young women, women <BR> 1a3) as personification <BR> 1a4) daughter-villages <BR> 1a5) description of character",
       "start": 55.88,
       "end": 56.79
     },
     {
       "position": 39,
       "hebrew": "יְרוּשָׁלִָם;",
-      "phonetics": "yə·rū·šā·lim",
-      "shortTranslation": " of Jerusalem , ",
-      "longTranslation": "Jerusalem = |teaching of peace| <BR> 1) the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split",
       "start": 56.79,
       "end": 58.75
     },
     {
       "position": 40,
       "hebrew": "כְּאָהֳלֵי",
-      "phonetics": "kə·’ā·ho·lê",
-      "shortTranslation": " like the tents ",
-      "longTranslation": "1) tent <BR> 1a) nomad's tent, and thus symbolic of wilderness life, transience <BR> 1b) dwelling, home, habitation <BR> 1c) the sacred tent of Jehovah (the tabernacle)",
       "start": 59.02,
       "end": 60.34
     },
     {
       "position": 41,
       "hebrew": "קֵדָר,",
-      "phonetics": "qê·ḏār",
-      "shortTranslation": " of Kedar , ",
-      "longTranslation": "Kedar = |dark| <BR> n pr m <BR> 1) a son of Ishmael <BR> n pr people <BR> 2) the descendants of Kedar",
       "start": 60.34,
       "end": 61.2
     },
     {
       "position": 42,
       "hebrew": "כִּירִיעוֹת",
-      "phonetics": "kî·rî·‘ō·wṯ",
-      "shortTranslation": " like the curtains ",
-      "longTranslation": "1) curtain, drape",
       "start": 61.23,
       "end": 62.29
     },
     {
       "position": 43,
       "hebrew": "שְׁלֹמֹה׃",
-      "phonetics": "šə·lō·mōh",
-      "shortTranslation": " of Solomon . ",
-      "longTranslation": "Solomon = |peace|<BR> 1) son of David by Bathsheba and 3rd king of Israel; author of Proverbs and Song of Songs",
       "start": 62.29,
       "end": 63.48
     },
     {
       "position": 44,
       "hebrew": "אַל ",
-      "phonetics": "’al-",
-      "shortTranslation": " Do not ",
-      "longTranslation": "1) not, no, nor, neither, nothing (as wish or preference) <BR> 1a) do not, let not (with a verb) <BR> 1b) let there not be (with a verb understood) <BR> 1c) not, no (with substantive) <BR> 1d) nothing (as substantive)",
       "start": 65.32,
       "end": 65.65
     },
     {
       "position": 45,
       "hebrew": "תִּרְאוּנִי",
-      "phonetics": "tir·’ū·nî",
-      "shortTranslation": " stare ",
-      "longTranslation": "1) to see, look at, inspect, perceive, consider <BR> 1a) (Qal) <BR> 1a1) to see <BR> 1a2) to see, perceive <BR> 1a3) to see, have vision <BR> 1a4) to look at, see, regard, look after, see after, learn about, observe, watch, look upon, look out, find out <BR> 1a5) to see, observe, consider, look at, give attention to, discern, distinguish <BR> 1a6) to look at, gaze at <BR> 1b) (Niphal) <BR> 1b1) to appear, present oneself <BR> 1b2) to be seen <BR> 1b3) to be visible <BR> 1c) (Pual) to be seen <BR> 1d) (Hiphil) <BR> 1d1) to cause to see, show <BR> 1d2) to cause to look intently at, behold, cause to gaze at <BR> 1e) (Hophal) <BR> 1e1) to be caused to see, be shown <BR> 1e2) to be exhibited to <BR> 1f) (Hithpael) to look at each other, face",
       "start": 65.65,
       "end": 67.66
     },
     {
       "position": 46,
       "hebrew": "שֶׁאֲנִי",
-      "phonetics": "še·’ă·nî",
-      "shortTranslation": " because I ",
-      "longTranslation": "1) I (first pers. sing. -usually used for emphasis)",
       "start": 67.66,
       "end": 68.84
     },
     {
       "position": 47,
       "hebrew": "שְׁחַרְחֹרֶת,",
-      "phonetics": "šə·ḥar·ḥō·reṯ",
-      "shortTranslation": " am dark , ",
-      "longTranslation": "1) blackish",
       "start": 68.84,
       "end": 70.42
     },
     {
       "position": 48,
       "hebrew": "שֶׁשְּׁזָפַתְנִי",
-      "phonetics": "šeš·šĕ·zā·p̄aṯ·nî",
-      "shortTranslation": " has gazed upon me . ",
-      "longTranslation": "1) (Qal) to catch sight of, look on",
       "start": 70.61,
       "end": 72.7
     },
     {
       "position": 49,
       "hebrew": "הַשָּׁמֶשׁ;",
-      "phonetics": "haš·šā·meš",
-      "shortTranslation": " for the sun ",
-      "longTranslation": "1) sun <BR> 1a) sun <BR> 1b) sunrise, sun-rising, east, sun-setting, west (of direction) <BR> 1c) sun (as object of illicit worship) <BR> 1d) openly, publicly (in other phrases) <BR> 1e) pinnacles, battlements, shields (as glittering or shining)",
       "start": 72.73,
       "end": 73.95
     },
     {
       "position": 50,
       "hebrew": "בְּנֵי",
-      "phonetics": "bə·nê",
-      "shortTranslation": " sons ",
-      "longTranslation": "1) son, grandson, child, member of a group <BR> 1a) son, male child <BR> 1b) grandson <BR> 1c) children (pl. - male and female) <BR> 1d) youth, young men (pl.) <BR> 1e) young (of animals) <BR> 1f) sons (as characterisation, i.e. sons of injustice [for un- righteous men] or sons of God [for angels] <BR> 1g) people (of a nation) (pl.) <BR> 1h) of lifeless things, i.e. sparks, stars, arrows (fig.) <BR> 1i) a member of a guild, order, class",
       "start": 74.24,
       "end": 75.37
     },
     {
       "position": 51,
       "hebrew": "אִמִּי",
-      "phonetics": "’im·mî",
-      "shortTranslation": " My mother’s ",
-      "longTranslation": "1) mother <BR> 1a) of humans <BR> 1b) of Deborah's relationship to the people (fig.) <BR> 1c) of animals <BR> 2) point of departure or division",
       "start": 75.37,
       "end": 76.36
     },
     {
       "position": 52,
       "hebrew": "נִחֲרוּ ",
-      "phonetics": "ni·ḥă·rū-",
-      "shortTranslation": " were angry ",
-      "longTranslation": "1) to be hot, furious, burn, becomeangry, be kindled <BR> 1a) (Qal) to burn, kindle (anger) <BR> 1b) (Niphal) to be angry with, be incensed <BR> 1c) (Hiphil) to burn, kindle <BR> 1d) (Hithpael) to heat oneself in vexation",
       "start": 76.42,
       "end": 77.28
     },
     {
       "position": 53,
       "hebrew": "בִי,",
-      "phonetics": "ḇî",
-      "shortTranslation": " with me ; ",
-      "longTranslation": null,
       "start": 77.31,
       "end": 77.61
     },
     {
       "position": 54,
       "hebrew": "שָׂמֻנִי",
-      "phonetics": "śā·mu·nî",
-      "shortTranslation": " they made me ",
-      "longTranslation": "1) to put, place, set, appoint, make <BR> 1a) (Qal) <BR> 1a1) to put, set, lay, put or lay upon, lay (violent) hands on <BR> 1a2) to set, direct, direct toward <BR> 1a2a) to extend (compassion) (fig) <BR> 1a3) to set, ordain, establish, found, appoint, constitute, make, determine, fix <BR> 1a4) to set, station, put, set in place, plant, fix <BR> 1a5) to make, make for, transform into, constitute, fashion, work, bring to pass, appoint, give <BR> 1b) (Hiphil) to set or make for a sign <BR> 1c) (Hophal) to be set",
       "start": 77.85,
       "end": 79.03
     },
     {
       "position": 55,
       "hebrew": "נֹטֵרָה",
-      "phonetics": "nō·ṭê·rāh",
-      "shortTranslation": " a keeper ",
-      "longTranslation": "1) to keep, keep guard, reserve, maintain <BR> 1a) (Qal) <BR> 1a1) to keep, maintain <BR> 1a2) to keep, guard",
       "start": 79.28,
       "end": 80.5
     },
     {
       "position": 56,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 80.5,
       "end": 80.62
     },
     {
       "position": 57,
       "hebrew": "הַכְּרָמִים,",
-      "phonetics": "hak·kə·rā·mîm",
-      "shortTranslation": " of the vineyards , ",
-      "longTranslation": "1) vineyard",
       "start": 80.66,
       "end": 81.68
     },
     {
       "position": 58,
       "hebrew": "כַּרְמִי",
-      "phonetics": "kar·mî",
-      "shortTranslation": " [but] my own vineyard ",
-      "longTranslation": "1) vineyard",
       "start": 81.92,
       "end": 82.77
     },
     {
       "position": 59,
       "hebrew": "שֶׁלִּי,",
-      "phonetics": "šel·lî",
-      "shortTranslation": " ",
-      "longTranslation": null,
       "start": 82.77,
       "end": 83.77
     },
     {
       "position": 60,
       "hebrew": "לֹא",
-      "phonetics": "lō",
-      "shortTranslation": " I have neglected ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 83.8,
       "end": 84.26
     },
     {
       "position": 61,
       "hebrew": "נָטָרְתִּי׃",
-      "phonetics": "nā·ṭā·rə·tî",
-      "shortTranslation": " . . . . ",
-      "longTranslation": "1) to keep, keep guard, reserve, maintain <BR> 1a) (Qal) <BR> 1a1) to keep, maintain <BR> 1a2) to keep, guard",
       "start": 84.26,
       "end": 85.88
     },
     {
       "position": 62,
       "hebrew": "הַגִּידָה",
-      "phonetics": "hag·gî·ḏāh",
-      "shortTranslation": " Tell me , ",
-      "longTranslation": "1) to be conspicuous, tell, make known <BR> 1a) (Hiphil) to tell, declare <BR> 1a1) to tell, announce, report <BR> 1a2) to declare, make known, expound <BR> 1a3) to inform of <BR> 1a4) to publish, declare, proclaim <BR> 1a5) to avow, acknowledge, confess <BR> 1a5a) messenger (participle) <BR> 1b) (Hophal) to be told, be announced, be reported",
       "start": 87.85,
       "end": 88.98
     },
     {
       "position": 63,
       "hebrew": "לִּי,",
-      "phonetics": "lî",
-      "shortTranslation": " O one ",
-      "longTranslation": null,
       "start": 88.98,
       "end": 90.64
     },
     {
       "position": 64,
       "hebrew": "שֶׁאָהֲבָה",
-      "phonetics": "še·’ā·hă·ḇāh",
-      "shortTranslation": " love , ",
-      "longTranslation": "1) to love <BR> 1a) (Qal) <BR> 1a1) human love for another, includes family, and sexual <BR> 1a2) human appetite for objects such as food, drink, sleep, wisdom <BR> 1a3) human love for or to God <BR> 1a4) act of being a friend <BR> 1a4a) lover (participle) <BR> 1a4b) friend (participle) <BR> 1a5) God's love toward man <BR> 1a5a) to individual men <BR> 1a5b) to people Israel <BR> 1a5c) to righteousness <BR> 1b) (Niphal) <BR> 1b1) lovely (participle) <BR> 1b2) loveable (participle) <BR> 1c) (Piel) <BR> 1c1) friends <BR> 1c2) lovers (fig. of adulterers) <BR> 2) to like",
       "start": 90.67,
       "end": 92.43
     },
     {
       "position": 65,
       "hebrew": "נַפְשִׁי,",
-      "phonetics": "nap̄·šî",
-      "shortTranslation": " I ",
-      "longTranslation": "1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion <BR> 1a) that which breathes, the breathing substance or being, soul, the inner being of man <BR> 1b) living being <BR> 1c) living being (with life in the blood) <BR> 1d) the man himself, self, person or individual <BR> 1e) seat of the appetites <BR> 1f) seat of emotions and passions <BR> 1g) activity of mind <BR> 1g1) dubious <BR> 1h) activity of the will <BR> 1h1) dubious <BR> 1i) activity of the character <BR> 1i1) dubious",
       "start": 92.43,
       "end": 93.28
     },
     {
       "position": 66,
       "hebrew": "אֵיכָה",
-      "phonetics": "’ê·ḵāh",
-      "shortTranslation": " where ",
-      "longTranslation": "interrog adv <BR> 1) how? <BR> interj <BR> 2) how! (in lamentation) <BR> 3) expression of satisfaction",
       "start": 93.31,
       "end": 94.71
     },
     {
       "position": 67,
       "hebrew": "תִרְעֶה,",
-      "phonetics": "ṯir·‘eh",
-      "shortTranslation": " do you pasture your sheep ? ",
-      "longTranslation": "1) to pasture, tend, graze, feed <BR> 1a) (Qal) <BR> 1a1) to tend, pasture <BR> 1a1a) to shepherd <BR> 1a1b) of ruler, teacher (fig) <BR> 1a1c) of people as flock (fig) <BR> 1a1d) shepherd, herdsman (subst) <BR> 1a2) to feed, graze <BR> 1a2a) of cows, sheep etc (literal) <BR> 1a2b) of idolater, Israel as flock (fig) <BR> 1b) (Hiphil) shepherd, shepherdess <BR> 2) to associate with, be a friend of (meaning probable) <BR> 2a) (Qal) to associate with <BR> 2b) (Hithpael) to be companions <BR> 3) (Piel) to be a special friend",
       "start": 95.16,
       "end": 95.42
     },
     {
       "position": 68,
       "hebrew": "אֵיכָה",
-      "phonetics": "’ê·ḵāh",
-      "shortTranslation": " Where ",
-      "longTranslation": "interrog adv <BR> 1) how? <BR> interj <BR> 2) how! (in lamentation) <BR> 3) expression of satisfaction",
       "start": 95.45,
       "end": 95.7
     },
     {
       "position": 69,
       "hebrew": "תַּרְבִּיץ",
-      "phonetics": "tar·bîṣ",
-      "shortTranslation": " do you rest them ",
-      "longTranslation": "1) to stretch oneself out, lie down, lie stretched out <BR> 1a) (Qal) to lie down, lie <BR> 1b)(Hiphil) to cause to lie down <BR> 1b1) laying (stones)",
       "start": 95.7,
       "end": 96.51
     },
     {
       "position": 70,
       "hebrew": "בַּצָּהֳרָיִם;",
-      "phonetics": "baṣ·ṣā·ho·rā·yim",
-      "shortTranslation": " at midday ? ",
-      "longTranslation": "n m <BR> 1) noon, midday <BR> 1a) noon (as specific time of day) <BR> 1b) noon (in simile as bright of happiness, blessing) <BR> n f <BR> 2) roof <BR> 2a) meaning dubious",
       "start": 96.51,
       "end": 98.27
     },
     {
       "position": 71,
       "hebrew": "שַׁלָּמָה",
-      "phonetics": "šal·lā·māh",
-      "shortTranslation": " Why ",
-      "longTranslation": "interr pron<BR> 1) what, how, of what kind <BR> 1a) (interrogative) <BR> 1a1) what? <BR> 1a2) of what kind <BR> 1a3) what? (rhetorical) <BR> 1a4) whatsoever, whatever, what <BR> 1b) (adverb) <BR> 1b1) how, how now <BR> 1b2) why <BR> 1b3) how! (exclamation) <BR> 1c) (with prep) <BR> 1c1) wherein?, whereby?, wherewith?, by what means? <BR> 1c2) because of what? <BR> 1c3) the like of what? <BR> 1c3a) how much?, how many?, how often? <BR> 1c3b) for how long? <BR> 1c4) for what reason?, why?, to what purpose? <BR> 1c5) until when?, how long?, upon what?, wherefore? <BR> indef pron <BR> 2) anything, aught, what may",
       "start": 98.49,
       "end": 99.65
     },
     {
       "position": 72,
       "hebrew": "אֶהְיֶה",
-      "phonetics": "’eh·yeh",
-      "shortTranslation": " should I be ",
-      "longTranslation": "1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone",
       "start": 99.68,
       "end": 100.55
     },
     {
       "position": 73,
       "hebrew": "כְּעֹטְיָה,",
-      "phonetics": "kə·‘ō·ṭə·yāh",
-      "shortTranslation": " like a veiled woman ",
-      "longTranslation": "1) to cover, enwrap, wrap oneself, envelop oneself <BR> 1a) (Qal) <BR> 1a1) to wrap, envelop oneself <BR> 1a2) to cover (the beard in mourning) <BR> 1a3) mourner, one who covers (participle) <BR> 1b) (Hiphil) to cover, enwrap, envelop <BR> 2) to grasp <BR> 2a) (Qal) to grasp",
       "start": 100.55,
       "end": 101.37
     },
     {
       "position": 74,
       "hebrew": "עַל",
-      "phonetics": "‘al",
-      "shortTranslation": " beside ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 101.65,
       "end": 102.25
     },
     {
       "position": 75,
       "hebrew": "עֶדְרֵי",
-      "phonetics": "‘eḏ·rê",
-      "shortTranslation": " the flocks ",
-      "longTranslation": "1) flock, herd <BR> 1a) flock <BR> 1b) herds, flocks and herds",
       "start": 102.25,
       "end": 103.43
     },
     {
       "position": 76,
       "hebrew": "חֲבֵרֶיךָ׃",
-      "phonetics": "ḥă·ḇê·re·ḵā",
-      "shortTranslation": " of your companions ? ",
-      "longTranslation": "adj <BR> 1) united <BR> n m <BR> 2) associate, fellow, worshippers <BR> 3) companion",
       "start": 103.43,
       "end": 104.9
     },
     {
       "position": 77,
       "hebrew": "אִם ",
-      "phonetics": "’im-",
-      "shortTranslation": " If ",
-      "longTranslation": "1) if <BR> 1a) conditional clauses <BR> 1a1) of possible situations <BR> 1a2) of impossible situations <BR> 1b) oath contexts <BR> 1b1) no, not <BR> 1c) if...if, whether...or, whether...or...or <BR> 1d) when, whenever <BR> 1e) since <BR> 1f) interrogative particle <BR> 1g) but rather",
       "start": 106.31,
       "end": 106.59
     },
     {
       "position": 78,
       "hebrew": "לֹא",
-      "phonetics": "lō",
-      "shortTranslation": " you do not ",
-      "longTranslation": "1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)",
       "start": 106.59,
       "end": 106.81
     },
     {
       "position": 79,
       "hebrew": "תֵדְעִי",
-      "phonetics": "ṯê·ḏə·‘î",
-      "shortTranslation": " know ",
-      "longTranslation": "1) to know <BR> 1a) (Qal) <BR> 1a1) to know <BR> 1a1a) to know, learn to know <BR> 1a1b) to perceive <BR> 1a1c) to perceive and see, find out and discern <BR> 1a1d) to discriminate, distinguish <BR> 1a1e) to know by experience <BR> 1a1f) to recognise, admit, acknowledge, confess <BR> 1a1g) to consider <BR> 1a2) to know, be acquainted with <BR> 1a3) to know (a person carnally) <BR> 1a4) to know how, be skilful in <BR> 1a5) to have knowledge, be wise <BR> 1b) (Niphal) <BR> 1b1) to be made known, be or become known, be revealed <BR> 1b2) to make oneself known <BR> 1b3) to be perceived <BR> 1b4) to be instructed <BR> 1c) (Piel) to cause to know <BR> 1d) (Poal) to cause to know <BR> 1e) (Pual) <BR> 1e1) to be known <BR> 1e2) known, one known, acquaintance (participle) <BR> 1f) (Hiphil) to make known, declare <BR> 1g) (Hophal) to be made known <BR> 1h) (Hithpael) to make oneself known, reveal oneself",
       "start": 106.81,
       "end": 108.22
     },
     {
       "position": 80,
       "hebrew": "לָךְ,",
-      "phonetics": "lāḵ",
-      "shortTranslation": " , ",
-      "longTranslation": null,
       "start": 108.22,
       "end": 108.77
     },
     {
       "position": 81,
       "hebrew": "הַיָּפָה",
-      "phonetics": "hay·yā·p̄āh",
-      "shortTranslation": " O fairest ",
-      "longTranslation": "1) fair, beautiful, handsome",
       "start": 108.77,
       "end": 109.96
     },
     {
       "position": 82,
       "hebrew": "בַּנָּשִׁים;",
-      "phonetics": "ban·nā·šîm",
-      "shortTranslation": " of women , ",
-      "longTranslation": "1) woman, wife, female <BR> 1a) woman (opposite of man) <BR> 1b) wife (woman married to a man)<BR> 1c) female (of animals) <BR> 1d) each, every (pronoun)",
       "start": 109.96,
       "end": 110.9
     },
     {
       "position": 83,
       "hebrew": "צְאִי ",
-      "phonetics": "ṣə·’î-",
-      "shortTranslation": " follow ",
-      "longTranslation": "1) to go out, come out, exit, go forth <BR> 1a) (Qal) <BR> 1a1) to go or come out or forth, depart <BR> 1a2) to go forth (to a place) <BR> 1a3) to go forward, proceed to (to or toward something) <BR> 1a4) to come or go forth (with purpose or for result) <BR> 1a5) to come out of <BR> 1b) (Hiphil) <BR> 1b1) to cause to go or come out, bring out, lead out <BR> 1b2) to bring out of <BR> 1b3) to lead out <BR> 1b4) to deliver <BR> 1c) (Hophal) to be brought out or forth",
       "start": 111.21,
       "end": 112.06
     },
     {
       "position": 84,
       "hebrew": "לָךְ",
-      "phonetics": "lāḵ",
-      "shortTranslation": " ",
-      "longTranslation": null,
       "start": 112.06,
       "end": 112.31
     },
     {
       "position": 85,
       "hebrew": "בְּעִקְבֵי",
-      "phonetics": "bə·‘iq·ḇê",
-      "shortTranslation": " the tracks ",
-      "longTranslation": "1) heel, rear, footprint, hinder part, hoof, rear of a troop, footstep <BR> 1a) heel <BR> 1b) mark of heel, footprint <BR> 1c) hinder part, rear",
       "start": 112.31,
       "end": 113.61
     },
     {
       "position": 86,
       "hebrew": "הַצֹּאן,",
-      "phonetics": "haṣ·ṣōn",
-      "shortTranslation": " of the flock , ",
-      "longTranslation": "1) small cattle, sheep, sheep and goats, flock, flocks <BR> 1a) small cattle (usually of sheep and goats) <BR> 1b) of multitude (simile) <BR> 1c) of multitude (metaphor)",
       "start": 113.65,
       "end": 114.2
     },
     {
       "position": 87,
       "hebrew": "וּרְעִי",
-      "phonetics": "ū·rə·‘î",
-      "shortTranslation": " and graze ",
-      "longTranslation": "1) to pasture, tend, graze, feed <BR> 1a) (Qal) <BR> 1a1) to tend, pasture <BR> 1a1a) to shepherd <BR> 1a1b) of ruler, teacher (fig) <BR> 1a1c) of people as flock (fig) <BR> 1a1d) shepherd, herdsman (subst) <BR> 1a2) to feed, graze <BR> 1a2a) of cows, sheep etc (literal) <BR> 1a2b) of idolater, Israel as flock (fig) <BR> 1b) (Hiphil) shepherd, shepherdess <BR> 2) to associate with, be a friend of (meaning probable) <BR> 2a) (Qal) to associate with <BR> 2b) (Hithpael) to be companions <BR> 3) (Piel) to be a special friend",
       "start": 114.51,
       "end": 114.99
     },
     {
       "position": 88,
       "hebrew": "אֶת ",
-      "phonetics": "’eṯ-",
-      "shortTranslation": " - ",
-      "longTranslation": "1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative",
       "start": 115.23,
       "end": 115.46
     },
     {
       "position": 89,
       "hebrew": "גְּדִיֹּתַיִךְ,",
-      "phonetics": "gə·ḏî·yō·ṯa·yiḵ",
-      "shortTranslation": " your young goats ",
-      "longTranslation": "1) kids, young female goats",
       "start": 115.46,
       "end": 117.23
     },
     {
       "position": 90,
       "hebrew": "עַל,",
-      "phonetics": "‘al",
-      "shortTranslation": " near ",
-      "longTranslation": "prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although",
       "start": 117.3,
       "end": 117.85
     },
     {
       "position": 91,
       "hebrew": "מִשְׁכְּנוֹת",
-      "phonetics": "miš·kə·nō·wṯ",
-      "shortTranslation": " the tents ",
-      "longTranslation": "1) dwelling place, tabernacle <BR> 1a) dwelling-place <BR> 1b) dwellings",
       "start": 117.85,
       "end": 119.12
     },
     {
       "position": 92,
       "hebrew": "הָרֹעִים׃",
-      "phonetics": "hā·rō·‘îm",
-      "shortTranslation": " of the shepherds . ",
-      "longTranslation": "1) to pasture, tend, graze, feed <BR> 1a) (Qal) <BR> 1a1) to tend, pasture <BR> 1a1a) to shepherd <BR> 1a1b) of ruler, teacher (fig) <BR> 1a1c) of people as flock (fig) <BR> 1a1d) shepherd, herdsman (subst) <BR> 1a2) to feed, graze <BR> 1a2a) of cows, sheep etc (literal) <BR> 1a2b) of idolater, Israel as flock (fig) <BR> 1b) (Hiphil) shepherd, shepherdess <BR> 2) to associate with, be a friend of (meaning probable) <BR> 2a) (Qal) to associate with <BR> 2b) (Hithpael) to be companions <BR> 3) (Piel) to be a special friend",
       "start": 119.12,
       "end": 120.66
     },
     {
       "position": 93,
       "hebrew": "לְסֻסָתִי",
-      "phonetics": "lə·su·sā·ṯî",
-      "shortTranslation": " to a mare ",
-      "longTranslation": "1) mare",
       "start": 121.61,
       "end": 123.66
     },
     {
       "position": 94,
       "hebrew": "בְּרִכְבֵי",
-      "phonetics": "bə·riḵ·ḇê",
-      "shortTranslation": " chariots . ",
-      "longTranslation": "1) a team, chariot, chariotry, mill-stone, riders <BR> 1a) chariotry, chariots <BR> 1b) chariot (single) <BR> 1c) upper millstone (as riding on lower millstone) <BR> 1d) riders, troop (of riders), horsemen, pair of horsemen, men riding, ass-riders, camel-riders",
       "start": 123.66,
       "end": 124.75
     },
     {
       "position": 95,
       "hebrew": "פַרְעֹה,",
-      "phonetics": "p̄ar·‘ōh",
-      "shortTranslation": " among Pharaoh’s ",
-      "longTranslation": "Pharaoh = |great house|<BR> 1) the common title of the king of Egypt",
       "start": 124.81,
       "end": 126.08
     },
     {
       "position": 96,
       "hebrew": "דִּמִּיתִיךְ",
-      "phonetics": "dim·mî·ṯîḵ",
-      "shortTranslation": " I compare you , ",
-      "longTranslation": "1) to be like, resemble <BR> 1a) (Qal) to be like, resemble <BR> 1b) (Piel)<BR> 1b1) to liken, compare <BR> 1b2) to imagine, think <BR> 1c) (Hithpael) to make oneself like <BR> 1d) (Niphal)",
       "start": 126.08,
       "end": 127.08
     },
     {
       "position": 97,
       "hebrew": "רַעְיָתִי׃",
-      "phonetics": "ra‘·yā·ṯî",
-      "shortTranslation": " my darling , ",
-      "longTranslation": "1) attendant maidens, companion",
       "start": 127.19,
       "end": 128.86
     },
     {
       "position": 98,
       "hebrew": "נָאווּ",
-      "phonetics": "nā·wū",
-      "shortTranslation": " are beautiful ",
-      "longTranslation": "1) to be comely, be beautiful, be befitting <BR> 1a) (Pilpel) <BR> 1a1) to be comely <BR> 1a2) to be befitting",
       "start": 129.72,
       "end": 130.39
     },
     {
       "position": 99,
       "hebrew": "לְחָיַיִךְ",
-      "phonetics": "lə·ḥā·ya·yiḵ",
-      "shortTranslation": " Your cheeks ",
-      "longTranslation": "1) jaw, cheek <BR> 1a) jaw, jawbone (of animal) <BR> 1b) cheek (of man)",
       "start": 130.39,
       "end": 132.49
     },
     {
       "position": 100,
       "hebrew": "בַּתֹּרִים,",
-      "phonetics": "bat·tō·rîm",
-      "shortTranslation": " with ornaments , ",
-      "longTranslation": "1) circlet, plait, turn (of hair or gold) <BR> 2) (CLBL) succession, order",
       "start": 132.49,
       "end": 133.96
     },
     {
       "position": 101,
       "hebrew": "צַוָּארֵךְ",
-      "phonetics": "ṣaw·wā·rêḵ",
-      "shortTranslation": " your neck ",
-      "longTranslation": "1) neck, back of neck <BR> 1a) neck, back of neck (of man) <BR> 1b) neck (of animals)",
       "start": 134.09,
       "end": 135.11
     },
     {
       "position": 102,
       "hebrew": "בַּחֲרוּזִים׃",
-      "phonetics": "ba·ḥă·rū·zîm",
-      "shortTranslation": " with strings [of jewels] . ",
-      "longTranslation": "1) a beaded necklace, string of beads",
       "start": 135.2,
       "end": 136.64
     },
     {
       "position": 103,
       "hebrew": "תּוֹרֵי",
-      "phonetics": "tō·w·rê",
-      "shortTranslation": " ornaments ",
-      "longTranslation": "1) circlet, plait, turn (of hair or gold) <BR> 2) (CLBL) succession, order",
       "start": 136.9,
       "end": 137.94
     },
     {
       "position": 104,
       "hebrew": "זָהָב",
-      "phonetics": "zā·hāḇ",
-      "shortTranslation": " of gold , ",
-      "longTranslation": "1) gold <BR> 1a) as precious metal <BR> 1b) as a measure of weight <BR> 1c) of brilliance, splendour (fig.)",
       "start": 137.94,
       "end": 138.8
     },
     {
       "position": 105,
       "hebrew": "נַעֲשֶׂה ",
-      "phonetics": "na·‘ă·śeh-",
-      "shortTranslation": " We will make ",
-      "longTranslation": "1) to do, fashion, accomplish, make <BR> 1a) (Qal) <BR> 1a1) to do, work, make, produce <BR> 1a1a) to do <BR> 1a1b) to work <BR> 1a1c) to deal (with) <BR> 1a1d) to act, act with effect, effect <BR> 1a2) to make <BR> 1a2a) to make <BR> 1a2b) to produce <BR> 1a2c) to prepare <BR> 1a2d) to make (an offering) <BR> 1a2e) to attend to, put in order <BR> 1a2f) to observe, celebrate <BR> 1a2g) to acquire (property) <BR> 1a2h) to appoint, ordain, institute <BR> 1a2i) to bring about <BR> 1a2j) to use <BR> 1a2k) to spend, pass <BR> 1b) (Niphal) <BR> 1b1) to be done <BR> 1b2) to be made <BR> 1b3) to be produced <BR> 1b4) to be offered <BR> 1b5) to be observed <BR> 1b6) to be used <BR> 1c) (Pual) to be made <BR> 2) (Piel) to press, squeeze",
       "start": 138.8,
       "end": 140.21
     },
     {
       "position": 106,
       "hebrew": "לָּךְ,",
-      "phonetics": "lāḵ",
-      "shortTranslation": " you ",
-      "longTranslation": null,
       "start": 140.21,
       "end": 140.47
     },
     {
       "position": 107,
       "hebrew": "עִם",
-      "phonetics": "‘im",
-      "shortTranslation": " [studded] with ",
-      "longTranslation": "1) with <BR> 1a) with <BR> 1b) against <BR> 1c) toward <BR> 1d) as long as <BR> 1e) beside, except<BR> 1f) in spite of",
       "start": 140.78,
       "end": 141.21
     },
     {
       "position": 108,
       "hebrew": "נְקֻדּוֹת",
-      "phonetics": "nə·qud·dō·wṯ",
-      "shortTranslation": " beads ",
-      "longTranslation": "1) point, drop <BR> 1a) of silver",
       "start": 141.21,
       "end": 142.39
     },
     {
       "position": 109,
       "hebrew": "הַכָּסֶף׃",
-      "phonetics": "hak·kā·sep̄",
-      "shortTranslation": " of silver . ",
-      "longTranslation": "1) silver, money <BR> 1a) silver <BR> 1a1) as metal <BR> 1a2) as ornament <BR> 1a3) as colour <BR> 1b) money, shekels, talents",
       "start": 142.42,
       "end": 144.07
     },
     {
       "position": 110,
       "hebrew": "עַד ",
-      "phonetics": "‘aḏ-",
-      "shortTranslation": " While ",
-      "longTranslation": "prep<BR> 1) as far as, even to, until, up to, while, as far as <BR> 1a) of space <BR> 1a1) as far as, up to, even to <BR> 1b) in combination <BR> 1b1) from...as far as, both...and (with 'min' -from) <BR> 1c) of time <BR> 1c1) even to, until, unto, till, during, end <BR> 1d) of degree <BR> 1d1) even to, to the degree of, even like <BR> conj <BR> 2) until, while, to the point that, so that even",
       "start": 146.08,
       "end": 146.48
     },
     {
       "position": 111,
       "hebrew": "שֶׁהַמֶּלֶךְ,",
-      "phonetics": "še·ham·me·leḵ",
-      "shortTranslation": " the king ",
-      "longTranslation": "1) king",
       "start": 146.48,
       "end": 148.69
     },
     {
       "position": 112,
       "hebrew": "בִּמְסִבּוֹ,",
-      "phonetics": "bim·sib·bōw",
-      "shortTranslation": " was at his table , ",
-      "longTranslation": "1) round thing, surroundings, round about, that which surrounds, that which is round <BR> 1a) environs <BR> 1a1) surrounding places <BR> 1a2) round about (adv) <BR> 1b) round table",
       "start": 148.69,
       "end": 149.82
     },
     {
       "position": 113,
       "hebrew": "נִרְדִּי,",
-      "phonetics": "nir·dî",
-      "shortTranslation": " my perfume ",
-      "longTranslation": "1) spikenard, nard <BR> 1a) an odoriferous aromatic plant from India",
       "start": 149.82,
       "end": 150.63
     },
     {
       "position": 114,
       "hebrew": "נָתַן",
-      "phonetics": "nā·ṯan",
-      "shortTranslation": " spread ",
-      "longTranslation": "1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon",
       "start": 150.66,
       "end": 151.43
     },
     {
       "position": 115,
       "hebrew": "רֵיחוֹ׃",
-      "phonetics": "rê·ḥōw",
-      "shortTranslation": " its fragrance . ",
-      "longTranslation": "1) scent, fragrance, aroma, odour <BR> 1a) scent, odour <BR> 1b) odour of soothing (technical term for sacrifice to God)",
       "start": 151.43,
       "end": 152.18
     },
     {
       "position": 116,
       "hebrew": "צְרוֹר",
-      "phonetics": "ṣə·rō·wr",
-      "shortTranslation": " a sachet ",
-      "longTranslation": "1) bundle, parcel, pouch, bag (as packed) <BR> 2) pebble",
       "start": 152.65,
       "end": 153.55
     },
     {
       "position": 117,
       "hebrew": "הַמֹּר",
-      "phonetics": "ham·mōr",
-      "shortTranslation": " of myrrh ",
-      "longTranslation": "1) myrrh <BR> 1a) an Arabian gum from the bark of a tree, used in sacred oil and in perfume",
       "start": 153.58,
       "end": 154.33
     },
     {
       "position": 118,
       "hebrew": "דּוֹדִי",
-      "phonetics": "dō·w·ḏî",
-      "shortTranslation": " My beloved ",
-      "longTranslation": "1) beloved, love, uncle <BR> 1a) loved one, beloved <BR> 1b) uncle <BR> 1c) love (pl. abstract)",
       "start": 154.33,
       "end": 155.61
     },
     {
       "position": 119,
       "hebrew": "לִי,",
-      "phonetics": "lî",
-      "shortTranslation": " is to me ",
-      "longTranslation": null,
       "start": 155.64,
       "end": 156.02
     },
     {
       "position": 120,
       "hebrew": "בֵּין",
-      "phonetics": "bên",
-      "shortTranslation": " between ",
-      "longTranslation": "1) between, among, in the midst of (with other preps), from between",
       "start": 156.02,
       "end": 156.58
     },
     {
       "position": 121,
       "hebrew": "שָׁדַי",
-      "phonetics": "šā·ḏay",
-      "shortTranslation": " my breasts . ",
-      "longTranslation": "1) breast, bosom, (female) breast <BR> 1a) breast (of woman) <BR> 1b) breast (of animal) <BR> 1c) breast (of both human and animal)",
       "start": 156.58,
       "end": 157.64
     },
     {
       "position": 122,
       "hebrew": "יָלִין׃",
-      "phonetics": "yā·lîn",
-      "shortTranslation": " resting ",
-      "longTranslation": "1) to lodge, stop over, pass the night, abide <BR> 1a) (Qal) <BR> 1a1) to lodge, pass the night <BR> 1a2) to abide, remain (fig.) <BR> 1b) (Hiphil) to cause to rest or lodge <BR> 1c) (Hithpalpel) to dwell, abide <BR> 2) to grumble, complain, murmur <BR> 2a) (Niphal) to grumble <BR> 2b) (Hiphil) to complain, cause to grumble",
       "start": 157.64,
       "end": 159.06
     },
     {
       "position": 123,
       "hebrew": "אֶשְׁכֹּל",
-      "phonetics": "’eš·kōl",
-      "shortTranslation": " a cluster ",
-      "longTranslation": "1) cluster <BR> 1a) of grapes <BR> 1b) of flowers (metaphor of lover)",
       "start": 160.63,
       "end": 161.24
     },
     {
       "position": 124,
       "hebrew": "הַכֹּפֶר",
-      "phonetics": "hak·kō·p̄er",
-      "shortTranslation": " of henna blossoms ",
-      "longTranslation": "1) price of a life, ransom, bribe <BR> 2) asphalt, pitch (as a covering)<BR> 3) the henna plant, name of a plant (henna?) <BR> 4) village",
       "start": 161.24,
       "end": 163.19
     },
     {
       "position": 125,
       "hebrew": "דּוֹדִי",
-      "phonetics": "dō·w·ḏî",
-      "shortTranslation": " My beloved ",
-      "longTranslation": "1) beloved, love, uncle <BR> 1a) loved one, beloved <BR> 1b) uncle <BR> 1c) love (pl. abstract)",
       "start": 163.19,
       "end": 164.59
     },
     {
       "position": 126,
       "hebrew": "לִי,",
-      "phonetics": "lî",
-      "shortTranslation": " is to me ",
-      "longTranslation": null,
       "start": 164.65,
       "end": 165.1
     },
     {
       "position": 127,
       "hebrew": "בְּכַרְמֵי",
-      "phonetics": "bə·ḵar·mê",
-      "shortTranslation": " in the vineyards ",
-      "longTranslation": "1) vineyard",
       "start": 165.14,
       "end": 166.91
     },
     {
       "position": 128,
       "hebrew": "עֵין",
-      "phonetics": "‘ên",
-      "shortTranslation": " vvv ",
-      "longTranslation": "En-gedi = |fount of the kid|<BR> 1) a town in the wilderness of Judah on the western shore of the Dead Sea",
       "start": 166.97,
       "end": 167.26
     },
     {
       "position": 129,
       "hebrew": "גֶּדִי׃",
-      "phonetics": "ge·ḏî",
-      "shortTranslation": " of En-gedi . ",
-      "longTranslation": "En-gedi = |fount of the kid|<BR> 1) a town in the wilderness of Judah on the western shore of the Dead Sea",
       "start": 167.26,
       "end": 168.35
     },
     {
       "position": 130,
       "hebrew": "הִנָּךְ",
-      "phonetics": "hin·nāḵ",
-      "shortTranslation": " How ",
-      "longTranslation": "interj<BR> 1) behold, lo, though hypothetical part <BR> 2) if",
       "start": 168.78,
       "end": 169.4
     },
     {
       "position": 131,
       "hebrew": "יָפָה",
-      "phonetics": "yā·p̄āh",
-      "shortTranslation": " beautiful [you are] , ",
-      "longTranslation": "1) fair, beautiful, handsome",
       "start": 169.4,
       "end": 170.98
     },
     {
       "position": 132,
       "hebrew": "רַעְיָתִי,",
-      "phonetics": "ra‘·yā·ṯî",
-      "shortTranslation": " my darling ! ",
-      "longTranslation": "1) attendant maidens, companion",
       "start": 170.98,
       "end": 171.58
     },
     {
       "position": 133,
       "hebrew": "הִנָּךְ",
-      "phonetics": "hin·nāḵ",
-      "shortTranslation": " Oh, how very ",
-      "longTranslation": "interj<BR> 1) behold, lo, though hypothetical part <BR> 2) if",
       "start": 171.58,
       "end": 172.61
     },
     {
       "position": 134,
       "hebrew": "יָפָה",
-      "phonetics": "yā·p̄āh",
-      "shortTranslation": " beautiful ! ",
-      "longTranslation": "1) fair, beautiful, handsome",
       "start": 172.71,
       "end": 173.49
     },
     {
       "position": 135,
       "hebrew": "עֵינַיִךְ",
-      "phonetics": "‘ê·na·yiḵ",
-      "shortTranslation": " Your eyes ",
-      "longTranslation": "1) eye <BR> 1a) eye <BR> 1a1) of physical eye <BR> 1a2) as showing mental qualities <BR> 1a3) of mental and spiritual faculties (fig.) <BR> 2) spring, fountain",
       "start": 173.52,
       "end": 174.85
     },
     {
       "position": 136,
       "hebrew": "יוֹנִים׃",
-      "phonetics": "yō·w·nîm",
-      "shortTranslation": " are [like] doves . ",
-      "longTranslation": "1) dove, pigeon",
       "start": 174.95,
       "end": 176.04
     },
     {
       "position": 137,
       "hebrew": "הִנְּךָ",
-      "phonetics": "hin·nə·ḵā",
-      "shortTranslation": " How ",
-      "longTranslation": "interj<BR> 1) behold, lo, though hypothetical part <BR> 2) if",
       "start": 176.8,
       "end": 177.78
     },
     {
       "position": 138,
       "hebrew": "יָפֶה",
-      "phonetics": "yā·p̄eh",
-      "shortTranslation": " handsome [you are] , ",
-      "longTranslation": "1) fair, beautiful, handsome",
       "start": 177.78,
       "end": 178.62
     },
     {
       "position": 139,
       "hebrew": "דוֹדִי",
-      "phonetics": "ḏō·w·ḏî",
-      "shortTranslation": " my beloved ! ",
-      "longTranslation": "1) beloved, love, uncle <BR> 1a) loved one, beloved <BR> 1b) uncle <BR> 1c) love (pl. abstract)",
       "start": 178.62,
       "end": 179.4
     },
     {
       "position": 140,
       "hebrew": "אַף",
-      "phonetics": "’ap̄",
-      "shortTranslation": " Oh, how ",
-      "longTranslation": "conj (denoting addition, esp of something greater)<BR> 1) also, yea, though, so much the more <BR> adv <BR> 2) furthermore, indeed",
       "start": 179.4,
       "end": 179.74
     },
     {
       "position": 141,
       "hebrew": "נָעִים,",
-      "phonetics": "nā·‘îm",
-      "shortTranslation": " delightful ! ",
-      "longTranslation": "1) pleasant, delightful, sweet, lovely, agreeable <BR> 1a) delightful <BR> 1b) lovely, beautiful (physical)<BR> 2) singing, sweetly sounding, musical",
       "start": 179.74,
       "end": 180.49
     },
     {
       "position": 142,
       "hebrew": "אַף ",
-      "phonetics": "’ap̄-",
-      "shortTranslation": " . . . ",
-      "longTranslation": "conj (denoting addition, esp of something greater)<BR> 1) also, yea, though, so much the more <BR> adv <BR> 2) furthermore, indeed",
       "start": 180.52,
       "end": 180.88
     },
     {
       "position": 143,
       "hebrew": "עַרְשֵׂנוּ",
-      "phonetics": "‘ar·śê·nū",
-      "shortTranslation": " [is] our bed . ",
-      "longTranslation": "1) couch, divan, bed",
       "start": 180.88,
       "end": 181.94
     },
     {
       "position": 144,
       "hebrew": "רַעֲנָנָה׃",
-      "phonetics": "ra·‘ă·nā·nāh",
-      "shortTranslation": " The soft grass ",
-      "longTranslation": "v <BR> 1) (Palel) to be or grow luxuriant or fresh or green <BR> adj <BR> 2) luxuriant, fresh",
       "start": 181.94,
       "end": 183.68
     },
     {
       "position": 145,
       "hebrew": "קֹרוֹת",
-      "phonetics": "qō·rō·wṯ",
-      "shortTranslation": " The beams ",
-      "longTranslation": "1) rafter, beam",
       "start": 184.91,
       "end": 185.45
     },
     {
       "position": 146,
       "hebrew": "בָּתֵּינוּ",
-      "phonetics": "bāt·tê·nū",
-      "shortTranslation": " of our house ",
-      "longTranslation": "nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within",
       "start": 185.45,
       "end": 187.44
     },
     {
       "position": 147,
       "hebrew": "אֲרָזִים,",
-      "phonetics": "’ă·rā·zîm",
-      "shortTranslation": " are cedars ; ",
-      "longTranslation": "1) cedar <BR> 1a) cedar tree <BR> 1b) cedar timber, cedar wood (in building) <BR> 1c) cedar wood (in purifications)",
       "start": 187.44,
       "end": 188.92
     },
     {
       "position": 148,
       "hebrew": "רחיטנו רַהִיטֵנוּ",
-      "phonetics": "ra·ḥī·ṭē·nū",
-      "shortTranslation": " our rafters ",
-      "longTranslation": "1) rafters, boards",
       "start": 188.96,
       "end": 191.94
     },
     {
       "position": 149,
       "hebrew": "בְּרוֹתִים׃",
-      "phonetics": "bə·rō·w·ṯîm",
-      "shortTranslation": " [are fragrant] firs . ",
-      "longTranslation": "1) cypress, fir, juniper, pine",
       "start": 191.97,
       "end": 193.94
     }
