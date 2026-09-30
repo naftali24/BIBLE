@@ -8,12 +8,12 @@
       "paragraph": 1,
       "start_verse": 1,
       "end_verse": 2,
-      "title": "The Spirit Poured Out on All People",
+      "title": "The Spirit Poured Out on All",
       "easy": [
         {
           "answers": [
             "All flesh",
-            "Only the priests",
+            "Only the old men",
             "Only the kings"
           ],
           "correct": 0,
@@ -22,104 +22,87 @@
         },
         {
           "answers": [
-            "The servants only",
-            "Sons and daughters",
-            "Old men only"
+            "Build temples",
+            "Prophesy",
+            "Go to war"
           ],
           "correct": 1,
-          "explanation": "The verse says, “your sons and your daughters shall prophesy.”",
-          "q": "Who shall prophesy?"
+          "explanation": "The passage says, “your sons and your daughters shall prophesy.”",
+          "q": "What will the sons and daughters do?"
         },
         {
           "answers": [
-            "Visions",
-            "Dreams",
-            "Pillars of smoke"
+            "The young men",
+            "The servants",
+            "The old men"
           ],
-          "correct": 1,
-          "explanation": "The KJV says, “your old men shall dream dreams.”",
-          "q": "What will the old men dream?"
+          "correct": 2,
+          "explanation": "The verse states, “your old men shall dream dreams.”",
+          "q": "Who will dream dreams?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Visions",
-            "Blood",
-            "Fire"
-          ],
-          "correct": 0,
-          "explanation": "The verse says, “your young men shall see visions.”",
-          "q": "What will the young men see?"
-        },
-        {
-          "answers": [
-            "Kings and priests",
-            "Servants and handmaids",
-            "Sons and daughters"
+            "Only the distinction between young and old",
+            "Distinctions of age, sex, and social status",
+            "The distinction between city and country dwellers"
           ],
           "correct": 1,
-          "explanation": "God also promises to pour out His spirit upon “the servants and upon the handmaids.”",
-          "q": "Which additional groups are mentioned in verse 2?"
+          "explanation": "The passage includes sons and daughters, old men and young men, servants and handmaids.",
+          "q": "What distinction among people is removed in the description of the Spirit being poured out?"
         },
         {
           "answers": [
-            "To speak as a messenger of God",
-            "To build a city",
-            "To gather an army"
+            "Speak or declare inspired messages",
+            "Sleep for a long time",
+            "Work the land"
           ],
           "correct": 0,
-          "explanation": "In this passage, prophesying refers to speaking under God's inspiration.",
-          "q": "What does the word “prophesy” mean in this passage?"
+          "explanation": "The passage describes people receiving prophetic experiences, dreams, and visions.",
+          "q": "What does “prophesy” mean in this passage?"
+        },
+        {
+          "answers": [
+            "The Spirit will bring prophecy, dreams, and visions",
+            "The Spirit will bring darkness and fire",
+            "The Spirit will cause a new city to be built"
+          ],
+          "correct": 0,
+          "explanation": "After the promise of the Spirit, the passage mentions prophecy, dreams, and visions.",
+          "q": "What is the relationship between the Spirit being poured out and the experiences described?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "God's spirit is limited to one age group",
-            "God's spirit is given across ages and social statuses",
-            "God's spirit is given only to rulers"
+            "The spiritual experience is intended for many different groups",
+            "Only certain families will receive the Spirit",
+            "Young people are more important than old people"
+          ],
+          "correct": 0,
+          "explanation": "The passage lists people of different ages, sexes, and social statuses to show the breadth of the promise.",
+          "q": "What can be inferred from mentioning sons, daughters, old men, young men, servants, and handmaids?"
+        },
+        {
+          "answers": [
+            "Old men—dreams",
+            "Young men—prophecy only",
+            "Servants—darkness"
+          ],
+          "correct": 0,
+          "explanation": "The KJV says, “your old men shall dream dreams.”",
+          "q": "Which pairing of a group and its experience appears in the passage?"
+        },
+        {
+          "answers": [
+            "The Spirit will be given without limit to only one group",
+            "The Spirit will be given to people from all the groups mentioned",
+            "The Spirit will be given only to those who see visions"
           ],
           "correct": 1,
-          "explanation": "The passage includes sons, daughters, old men, young men, servants, and handmaids.",
-          "q": "What main idea is shown by the groups listed in these verses?"
-        },
-        {
-          "answers": [
-            "Old men dream dreams, young men see visions, and sons and daughters prophesy",
-            "Old men see visions, young men prophesy, and servants dream dreams",
-            "Sons and daughters see visions, while young men dream dreams"
-          ],
-          "correct": 0,
-          "explanation": "These are the experiences specifically assigned in the KJV passage.",
-          "q": "Which pairing correctly matches each group with its experience?"
-        },
-        {
-          "answers": [
-            "The servants and handmaids are added to those already mentioned",
-            "The servants and handmaids are excluded",
-            "Only the handmaids receive visions"
-          ],
-          "correct": 0,
-          "explanation": "The word “also” adds the servants and handmaids to the people receiving God's spirit.",
-          "q": "What does “also” in verse 2 indicate?"
-        }
-      ],
-      "short_answers": [
-        {
-          "question": "Name two groups who will receive God's spirit.",
-          "answer": "Any two of the following: sons, daughters, old men, young men, servants, or handmaids.",
-          "explanation": "The passage names people of different ages and social statuses."
-        },
-        {
-          "question": "What will the old men do?",
-          "answer": "They shall dream dreams.",
-          "explanation": "Joel 3:1 says, “your old men shall dream dreams.”"
-        },
-        {
-          "question": "What will the young men see?",
-          "answer": "They shall see visions.",
-          "explanation": "The KJV says, “your young men shall see visions.”"
+          "explanation": "The following verses include people of different ages, sexes, and social statuses, including servants and handmaids.",
+          "q": "What does “upon all flesh” mean in light of the following verses?"
         }
       ],
       "idea": 1
@@ -128,118 +111,101 @@
       "paragraph": 2,
       "start_verse": 3,
       "end_verse": 4,
-      "title": "Signs and Wonders Before the Day of the Lord",
+      "title": "Signs Before the Day of the Lord",
       "easy": [
         {
           "answers": [
-            "In the heavens and in the earth",
             "Only in Jerusalem",
+            "In the heavens and on the earth",
             "Only in the sea"
           ],
-          "correct": 0,
+          "correct": 1,
           "explanation": "The KJV says, “I will shew wonders in the heavens and in the earth.”",
-          "q": "Where will God show wonders?"
+          "q": "Where will the wonders appear?"
         },
         {
           "answers": [
             "Blood, fire, and pillars of smoke",
-            "Rain, thunder, and snow",
-            "Wind, stones, and darkness"
+            "Water, snow, and wind",
+            "Gold, silver, and stones"
           ],
           "correct": 0,
-          "explanation": "The verse lists “blood, and fire, and pillars of smoke.”",
-          "q": "Which three signs are named together?"
+          "explanation": "The verse names “blood, and fire, and pillars of smoke.”",
+          "q": "Which things are listed among the wonders on earth?"
         },
         {
           "answers": [
-            "It will be turned into darkness",
-            "It will become brighter",
-            "It will fall to the earth"
+            "It will disappear from the heavens",
+            "It will be turned into blood",
+            "It will be turned into darkness"
           ],
-          "correct": 0,
-          "explanation": "The KJV says, “The sun shall be turned into darkness.”",
+          "correct": 2,
+          "explanation": "The passage says, “The sun shall be turned into darkness.”",
           "q": "What will happen to the sun?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Blood",
-            "Fire",
-            "Smoke"
-          ],
-          "correct": 0,
-          "explanation": "The verse says, “the moon into blood.”",
-          "q": "What will the moon become?"
-        },
-        {
-          "answers": [
             "After the Day of the Lord",
-            "Before the great and terrible day of the LORD",
-            "Only after deliverance in Jerusalem"
+            "Before the coming of the Day of the Lord",
+            "Only after the remnant appears"
           ],
           "correct": 1,
-          "explanation": "The signs occur “before the great and the terrible day of the LORD come.”",
-          "q": "When will these signs appear?"
+          "explanation": "The sun and moon will be changed “before the great and the terrible day of the LORD come.”",
+          "q": "When will the wonders described in the passage appear?"
         },
         {
           "answers": [
-            "Columns or rising masses of smoke",
-            "Streams of water",
-            "Rays of moonlight"
+            "Columns of smoke rising upward",
+            "Heavy drops of rain",
+            "Rays of light from the moon"
           ],
           "correct": 0,
-          "explanation": "The phrase describes smoke rising in pillar-like columns.",
-          "q": "What are “pillars of smoke”?"
+          "explanation": "The phrase describes tall columns or billowing streams of smoke.",
+          "q": "What does “pillars of smoke” describe?"
+        },
+        {
+          "answers": [
+            "The sun will become dark and the moon will become blood",
+            "The sun will burn and the moon will disappear",
+            "The sun will become blood and the moon will become fire"
+          ],
+          "correct": 0,
+          "explanation": "The KJV says, “The sun shall be turned into darkness, and the moon into blood.”",
+          "q": "What change is described in both the sun and the moon?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "A darkened sun and blood-like moon, together with blood, fire, and smoke",
-            "Dreams, visions, and prophecy",
-            "Mount Zion, Jerusalem, and deliverance"
+            "They are signs before the Day of the Lord",
+            "They describe the lives of servants",
+            "They describe the place of deliverance"
           ],
           "correct": 0,
-          "explanation": "The passage mentions signs in the heavens and signs on the earth.",
-          "q": "Which answer includes signs from both heaven and earth?"
+          "explanation": "The wonders are described before the coming of the Day of the Lord, so they serve as signs preceding it.",
+          "q": "What is the function of the wonders according to the order of the passage?"
         },
         {
           "answers": [
-            "The signs precede the Day of the Lord",
-            "The signs follow the Day of the Lord",
-            "The signs happen only in Jerusalem"
+            "From the heavens and earth to the sun and moon",
+            "From Jerusalem to servants",
+            "From dreams to young men"
           ],
           "correct": 0,
-          "explanation": "The word “before” gives the order of events.",
-          "q": "What does “before” establish in these verses?"
+          "explanation": "The passage first mentions the heavens and earth, then specifically describes the sun and moon.",
+          "q": "What transition occurs in the description of the wonders?"
         },
         {
           "answers": [
-            "Great and terrible",
-            "Quiet and ordinary",
-            "Short and peaceful"
+            "A description of unusual and fearful signs",
+            "A description of an ordinary bright day",
+            "A description of a peaceful protected place"
           ],
           "correct": 0,
-          "explanation": "The KJV calls it “the great and the terrible day of the LORD.”",
-          "q": "How is the Day of the Lord described?"
-        }
-      ],
-      "short_answers": [
-        {
-          "question": "Name the three earthly signs listed in the passage.",
-          "answer": "Blood, fire, and pillars of smoke.",
-          "explanation": "These signs are named in Joel 3:3."
-        },
-        {
-          "question": "What happens to the sun and the moon?",
-          "answer": "The sun is turned into darkness, and the moon into blood.",
-          "explanation": "This wording comes directly from Joel 3:4."
-        },
-        {
-          "question": "When do these signs occur?",
-          "answer": "Before the great and terrible day of the LORD comes.",
-          "explanation": "The signs precede the Day of the Lord."
+          "explanation": "The changed sun and moon, together with blood, fire, and smoke, create a solemn and alarming picture.",
+          "q": "What effect is created by combining darkness in the sun with blood in the moon?"
         }
       ],
       "idea": 2
@@ -248,118 +214,101 @@
       "paragraph": 3,
       "start_verse": 5,
       "end_verse": 5,
-      "title": "Deliverance and Refuge in Jerusalem",
+      "title": "Refuge on Mount Zion and in Jerusalem",
       "easy": [
         {
           "answers": [
-            "Whosoever shall call on the name of the LORD",
-            "Only those who see the moon",
-            "Only the oldest men"
+            "Whoever calls on the name of the LORD",
+            "Only those who live outside Jerusalem",
+            "Only the old men"
           ],
           "correct": 0,
           "explanation": "The KJV says, “whosoever shall call on the name of the LORD shall be delivered.”",
-          "q": "Who shall be delivered?"
+          "q": "Who will be delivered?"
         },
         {
           "answers": [
-            "In mount Zion and in Jerusalem",
-            "In the heavens only",
-            "In the wilderness only"
+            "Mount Zion and Jerusalem",
+            "The heavens and the earth",
+            "The sea and the wilderness"
           ],
           "correct": 0,
-          "explanation": "The verse names “mount Zion and Jerusalem” as places of deliverance.",
-          "q": "Where shall there be deliverance?"
+          "explanation": "The verse says, “in mount Zion and in Jerusalem shall be deliverance.”",
+          "q": "Which places will be places of deliverance?"
         },
         {
           "answers": [
-            "The remnant",
-            "The armies",
-            "The kings"
+            "Those whom the LORD shall call",
+            "All nations without exception",
+            "Only those who saw the sun"
           ],
           "correct": 0,
-          "explanation": "The verse speaks of “the remnant whom the LORD shall call.”",
-          "q": "Whom will the LORD call?"
+          "explanation": "The passage refers to “the remnant whom the LORD shall call.”",
+          "q": "Who will remain among the remnant?"
         }
       ],
       "medium": [
         {
           "answers": [
-            "Calling on the LORD is connected with being delivered",
-            "Calling on the LORD causes the sun to darken",
-            "Calling on the LORD prevents all signs"
+            "Calling on the LORD leads to being delivered",
+            "Calling on the LORD causes darkness",
+            "Calling on the LORD prevents entrance into Jerusalem"
           ],
           "correct": 0,
-          "explanation": "The verse directly connects calling on the LORD with deliverance.",
-          "q": "What is the relationship between calling on the LORD and deliverance?"
+          "explanation": "The verse directly states that whoever calls on the name of the LORD shall be delivered.",
+          "q": "What is the connection between calling on the name of the LORD and deliverance?"
         },
         {
           "answers": [
-            "Rescue or salvation",
-            "A sign in the heavens",
-            "A dream given to an old man"
+            "Rescue and safety",
+            "A prophetic dream",
+            "A pillar of smoke"
           ],
           "correct": 0,
-          "explanation": "Deliverance means rescue, salvation, or escape from danger.",
+          "explanation": "In this context, deliverance means being rescued or spared.",
           "q": "What does “deliverance” mean in this passage?"
         },
         {
           "answers": [
-            "As places of deliverance",
-            "As places of darkness only",
-            "As places where visions are seen only"
+            "As places where there will be deliverance",
+            "As places where there will only be smoke",
+            "As places where people will see dreams"
           ],
           "correct": 0,
-          "explanation": "The verse says that in mount Zion and Jerusalem there shall be deliverance.",
-          "q": "How are mount Zion and Jerusalem presented?"
+          "explanation": "The KJV says that deliverance shall be found in Mount Zion and Jerusalem.",
+          "q": "How are Mount Zion and Jerusalem described?"
         }
       ],
       "challenge": [
         {
           "answers": [
-            "Both refer to people associated with deliverance",
-            "One refers to the sun and the other to the moon",
-            "One refers to fire and the other to smoke"
+            "Deliverance is connected both with calling on the LORD and with those whom He calls",
+            "Deliverance is intended only for servants and handmaids",
+            "Deliverance depends on seeing the moon"
           ],
           "correct": 0,
-          "explanation": "Both expressions concern people who receive or belong to God's deliverance.",
-          "q": "What common idea connects “whosoever shall call” with “the remnant whom the LORD shall call”?"
+          "explanation": "The verse mentions both whoever calls on the LORD and the remnant whom the LORD shall call.",
+          "q": "What can be inferred from the connection between “whosoever shall call” and “the remnant”?"
         },
         {
           "answers": [
-            "They are identified as places of deliverance",
-            "They are located in the heavens",
-            "They are places reserved only for old men"
+            "Calling on the LORD, deliverance, refuge, and the remnant",
+            "Dreams, smoke, war, and Jerusalem",
+            "Darkness, prophecy, servants, and the sun"
           ],
           "correct": 0,
-          "explanation": "The verse specifically names them as places where deliverance shall be found.",
-          "q": "Why are mount Zion and Jerusalem specifically mentioned?"
+          "explanation": "The verse moves from calling on the LORD to deliverance, then mentions Mount Zion, Jerusalem, and the remnant.",
+          "q": "Which sequence of ideas appears in the verse?"
         },
         {
           "answers": [
-            "Those who remain",
-            "Those who rule",
-            "Those who build"
+            "It is connected both with specific places and with people whom the LORD calls",
+            "It takes place only in the heavens",
+            "It is given only to those who dream dreams"
           ],
           "correct": 0,
-          "explanation": "A remnant is a remaining group or survivors.",
-          "q": "What does “the remnant” most nearly mean?"
-        }
-      ],
-      "short_answers": [
-        {
-          "question": "What must a person do to be delivered?",
-          "answer": "Call on the name of the LORD.",
-          "explanation": "Joel 3:5 gives this promise to whoever calls on the LORD's name."
-        },
-        {
-          "question": "Name the two places where there shall be deliverance.",
-          "answer": "Mount Zion and Jerusalem.",
-          "explanation": "These two places are named in the verse."
-        },
-        {
-          "question": "Who are called by the LORD?",
-          "answer": "The remnant.",
-          "explanation": "The verse refers to “the remnant whom the LORD shall call.”"
+          "explanation": "The verse names Mount Zion and Jerusalem as places of deliverance and also refers to the remnant whom the LORD calls.",
+          "q": "What is distinctive about the description of deliverance?"
         }
       ],
       "idea": 3
