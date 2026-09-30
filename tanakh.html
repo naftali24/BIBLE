@@ -21,7 +21,7 @@ main{flex:1;min-height:0;overflow-y:auto;padding:8px 7px calc(36vh + 18px);scrol
 
 #hebrewOnImage{position:absolute;right:8px;top:8px;z-index:3;background:linear-gradient(#82e89a,#27964a);color:#071b0d;display:none}
 #englishOnImage{position:absolute;right:8px;top:8px;z-index:3;background:linear-gradient(#82e89a,#27964a);color:#071b0d;display:none}
-#englishLine{position:absolute;left:6px;right:6px;bottom:57px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:8px 10px;border-radius:8px;font-size:20px;line-height:1.35;text-align:left;direction:ltr;display:none;max-height:42%;overflow-y:auto}
+#englishLine{position:absolute;left:6px;right:6px;bottom:42px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:13px 10px 28px;border-radius:8px;font-size:20px;line-height:1.35;text-align:left;direction:ltr;display:none;max-height:42%;overflow-y:auto}
 #hebrewLine{position:absolute;left:6px;right:6px;bottom:42px;z-index:2;background:rgba(0,0,0,.72);color:#5cff82;padding:8px 10px;border-radius:8px;font-size:18px;line-height:1.35;text-align:center;display:none}
 #stopBtn{background:linear-gradient(#ff9d8f,#d83f2f);color:#fff}
 #langBtn{background:linear-gradient(#9fd2ff,#3e8ed0);color:#071626}
@@ -787,6 +787,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 @keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
 #chapterMenuBtn.menuAttention{animation:menuSizePulse .75s ease-in-out infinite;transform-origin:center}
 #reloadChapterBtn{flex:0 0 auto;display:block!important;font-size:24px!important;line-height:1;padding:3px 8px!important;min-width:38px!important;background:#ffd65c!important;color:#211400!important}
+#returnVerseBtn{display:none!important}
 .chapterGold.lockedChapter{filter:saturate(.45);opacity:.72;cursor:not-allowed;position:relative}
 .chapterGold.lockedChapter::after{content:" 🔒";font-size:.72em}
 </style>
@@ -804,6 +805,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
       <div id="chapterMenu"></div>
     </div>
     <button id="reloadChapterBtn" type="button" onclick="reloadCurrentChapter()" title="טען מחדש את הפרק הנוכחי" aria-label="טען מחדש את הפרק הנוכחי">↻</button>
+    <button id="returnVerseBtn" class="hidden" type="button" onclick="returnToSavedVerse()" title="חזור לפסוק השמור" aria-label="חזור לפסוק השמור">↩ פסוק 1</button>
     <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
       <option value="">פרק</option>
     </select>
@@ -892,6 +894,14 @@ const BOOKS=[
   {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
 ];
 let currentBook=BOOKS.find(b=>b.id==='deuteronomy');
+let loadedBook=null,loadedChapter=0,reloadPinnedVerse=null,reloadScrollTarget=null,lastReadingVerse=0;
+let postReloadVerse=null;
+const RETURN_SESSION_KEY='naftali_current_reading';
+function saveReadingForPageRefresh(){
+  if(!loadedBook||!loadedChapter)return;
+  try{sessionStorage.setItem(RETURN_SESSION_KEY,JSON.stringify({bookId:loadedBook.id,chapter:loadedChapter,verse:lastReadingVerse,lang:language}))}catch(e){}
+}
+window.addEventListener('pagehide',saveReadingForPageRefresh);
 let verseAtTop=0;
 function getTopVisibleVerse(){
   const main=document.getElementById('main');
@@ -907,11 +917,6 @@ function trackTopVisibleVerse(){
   if(hebrewOverlay)updateHebrewOverlay(verseAtTop);
 }
 document.getElementById('main').addEventListener('scroll',trackTopVisibleVerse,{passive:true});
-function reloadCurrentChapter(){
-  if(!current || !currentBook)return;
-  const verse=getTopVisibleVerse();
-  loadChapter(current,currentBook,verse);
-}
 function showVerseAtTop(index){
   if(!Number.isInteger(index)||index<0||!verseCards[index])return;
   const scroller=document.getElementById('main'),card=verseCards[index];
@@ -921,11 +926,61 @@ function showVerseAtTop(index){
   verseAtTop=index;
   requestAnimationFrame(()=>{scroller.style.scrollBehavior=previous});
 }
+function reloadCurrentChapter(){
+  if(!loadedBook||!loadedChapter)return;
+  loadChapter(loadedChapter,loadedBook,getTopVisibleVerse());
+}
 function restoreReloadVerse(index){
   if(!Number.isInteger(index)||index<0||!verseCards[index])return;
   setActive(index,false);
   showVerseAtTop(index);
 }
+function updateReturnVerseButton(){
+  const button=document.getElementById('returnVerseBtn');
+  const saved=postReloadVerse;
+  const available=!!(saved&&loadedBook?.id===saved.bookId&&loadedChapter===saved.chapter);
+  button.classList.toggle('hidden',!available);
+  if(available)button.textContent=(language==='en'?'↩ Verse ':'↩ פסוק ')+(saved.verse+1);
+}
+function returnToSavedVerse(){
+  const saved=postReloadVerse;
+  if(saved&&loadedBook?.id===saved.bookId&&loadedChapter===saved.chapter)restoreReloadVerse(saved.verse);
+}
+function rememberReadingVerse(i){
+  if(!Number.isInteger(i)||i<0||i>=verseCards.length)return;
+  lastReadingVerse=i;reloadPinnedVerse=i;reloadScrollTarget=i;
+  if(loadedBook&&loadedChapter){
+    try{localStorage.setItem('naftali_verse_'+loadedBook.id+'_'+loadedChapter,String(i))}catch(e){}
+    saveReadingForPageRefresh();
+  }
+}
+let userScrollTimer=null;
+function rememberVisibleVerseAfterUserScroll(){
+  clearTimeout(userScrollTimer);
+  userScrollTimer=setTimeout(()=>{
+    const main=document.getElementById('main');
+    if(!main||!verseCards.length)return;
+    const top=main.getBoundingClientRect().top+50;
+    const i=verseCards.findIndex(card=>card.getBoundingClientRect().bottom>top);
+    if(i>=0)rememberReadingVerse(i);
+  },180);
+}
+const readingScroller=document.getElementById('main');
+readingScroller.addEventListener('wheel',rememberVisibleVerseAfterUserScroll,{passive:true});
+let touchReadingStartY=null;
+readingScroller.addEventListener('touchstart',e=>{touchReadingStartY=e.touches[0]?.clientY??null},{passive:true});
+readingScroller.addEventListener('touchend',e=>{const end=e.changedTouches[0]?.clientY;if(touchReadingStartY!==null&&end!==undefined&&Math.abs(end-touchReadingStartY)>12)rememberVisibleVerseAfterUserScroll();touchReadingStartY=null},{passive:true});
+readingScroller.addEventListener('pointerup',e=>{if(e.target===readingScroller)rememberVisibleVerseAfterUserScroll()},{passive:true});
+function correctAudioScroll(){
+  if(!sequenceMode)return;
+  const target=reloadScrollTarget;
+  if(!Number.isInteger(target)||target<0||!verseCards[target])return;
+  const active=verseCards.findIndex(card=>card.classList.contains('active'));
+  if(active<target)restoreReloadVerse(target);
+}
+audio.addEventListener('play',()=>{[0,120,400,800].forEach(ms=>setTimeout(correctAudioScroll,ms))});
+audio.addEventListener('seeked',()=>setTimeout(correctAudioScroll,0));
+audio.addEventListener('timeupdate',()=>setTimeout(correctAudioScroll,0));
 function renderBookMenu(){
   chapterMenu.className='open bookMode';chapterMenu.innerHTML='';
   BOOKS.forEach(book=>{const b=document.createElement('button');b.className='bookGold';b.textContent=(language==='en'?(book.nameEn||book.name):book.name);b.dir=language==='en'?'ltr':'rtl';b.onclick=(e)=>{e.stopPropagation();currentBook=book;renderChapterMenu(book)};chapterMenu.appendChild(b)});
@@ -933,7 +988,9 @@ function renderBookMenu(){
 function renderChapterMenu(book){
   chapterMenu.className='open chapterMode';chapterMenu.innerHTML='';
   const back=document.createElement('button');back.id='chapterBack';back.textContent=language==='en'?'← Back to books':'← חזרה לספרים';back.onclick=(e)=>{e.stopPropagation();renderBookMenu()};chapterMenu.appendChild(back);
-  const firstChapterOnly=BOOKS.findIndex(item=>item.id===book.id)>BOOKS.findIndex(item=>item.id==='numbers');
+  const joshuaIndex=BOOKS.findIndex(b=>b.id==='joshua');
+  const bookIndex=BOOKS.findIndex(b=>b.id===book.id);
+  const firstChapterOnly=false; // PERSONAL VERSION: all books and chapters unlocked
   for(let i=1;i<=book.chapters;i++){
     const b=document.createElement('button');b.className='chapterGold';b.textContent=i;b.dataset.chapter=i;
     if(firstChapterOnly && i>1){
@@ -954,7 +1011,7 @@ endpointInput.value='GitHub BIBLE';
 setTimeout(()=>{try{setLanguageFlag()}catch(e){}},0);
 setTimeout(()=>chapterMenuBtn.classList.add('menuAttention'),0);
 let data=null,images={},verseCards=[],current=0,ideaNow=-1,language='he',lockedVerse=-1,stopAtTime=null,hebrewOverlay=false,englishOverlay=false,ttsMode=false,ttsIndex=0,loadTimer=null,userAudioMuted=false;
-let sequenceMode=false, sequenceLastVerse=-1;
+let sequenceMode=false, sequenceLastVerse=-1,sequenceStartTarget=null,sequenceFloorTime=null;
 
 // Trial content for one chapter. Verse numbers are one-based.
 const DID_YOU_KNOW={
@@ -1251,7 +1308,12 @@ function plainHebrewTranslation(s){
 
 async function loadChapter(n,book=currentBook,returnVerse=null){
   if(!n)return;
-  if(n>1 && BOOKS.findIndex(item=>item.id===book?.id)>BOOKS.findIndex(item=>item.id==='numbers'))return;
+  postReloadVerse=null;
+  let savedVerse=0;
+  try{savedVerse=Number(localStorage.getItem('naftali_verse_'+book.id+'_'+n))||0}catch(e){}
+  lastReadingVerse=Number.isInteger(returnVerse)?returnVerse:Math.max(0,savedVerse);
+  reloadPinnedVerse=null;
+  reloadScrollTarget=null;
   closeDidYouKnow();activeDidYouKnow=null;didYouKnowBtn.classList.remove('available');
   quizOpen=false;quizBox.classList.remove('open');updateQuizMainButton();
   startChapterLoadTicker();currentBook=book||currentBook;
@@ -1299,7 +1361,16 @@ async function loadChapter(n,book=currentBook,returnVerse=null){
     // Start image directory lookup immediately; render text without waiting for it.
     const imagePromise=loadImagesInBackground(base,n,requestedBook);
     render();
-    if(Number.isInteger(returnVerse))restoreReloadVerse(returnVerse);
+    loadedBook=requestedBook;loadedChapter=n;
+    saveReadingForPageRefresh();
+    lastReadingVerse=Math.min(lastReadingVerse,Math.max(0,verseCards.length-1));
+    if(Number.isInteger(returnVerse)){
+      const target=Math.min(returnVerse,Math.max(0,verseCards.length-1));
+      postReloadVerse={bookId:requestedBook.id,chapter:n,verse:target};
+      reloadScrollTarget=target;
+      restoreReloadVerse(target);
+    }
+    updateReturnVerseButton();
 
     bookTitle.textContent=language==='en'?(requestedBook.nameEn||requestedBook.name):('ספר '+requestedBook.name);
     chapterCounter.textContent=n+'/'+requestedBook.chapters;
@@ -1310,7 +1381,8 @@ async function loadChapter(n,book=currentBook,returnVerse=null){
     finishLoadProgress(true);
     statusEl.textContent=requestedBook.name+' '+n+' • GitHub';
     await imagePromise;
-    if(Number.isInteger(returnVerse)&&current===n&&currentBook.id===requestedBook.id)restoreReloadVerse(returnVerse);
+    if(Number.isInteger(returnVerse)&&current===n&&loadedBook?.id===requestedBook.id)restoreReloadVerse(Math.min(returnVerse,Math.max(0,verseCards.length-1)));
+    updateReturnVerseButton();
   }catch(e){
     console.error(e);statusEl.textContent='שגיאה';finishLoadProgress(false);
     alert('שגיאה בטעינת '+requestedBook.name+' '+n+' מ-GitHub:\n'+e.message);
@@ -1333,7 +1405,7 @@ async function loadImagesInBackground(base,n,book){
     }
     if(Object.keys(images).length){
       ideaNow=-1;imageSection.classList.remove('hidden');
-      setActive(lockedVerse>=0?lockedVerse:0,false);
+      setActive(lockedVerse>=0?lockedVerse:(reloadPinnedVerse??0),false);
     }else setImageLoading(false);
   }catch(e){console.warn('GitHub images error',e);setImageLoading(false)}
 }
@@ -1665,7 +1737,8 @@ function setActive(i,scroll=true){
   if(scroll)verseCards[i]?.scrollIntoView({behavior:'smooth',block:'start'});
 }
 function playOneVerse(i){
-  sequenceMode=false; sequenceLastVerse=-1;
+  rememberReadingVerse(i);
+  sequenceMode=false; sequenceLastVerse=-1;sequenceFloorTime=null;
   stopTTS();audio.muted=userAudioMuted;
   const times=activeTimes(),start=Number(times[i]);
   if(!Number.isFinite(start))return;
@@ -1681,7 +1754,7 @@ function playOneVerse(i){
   setActive(i,true);
   seekAndPlayAbsolute(target);
 }
-function stopAudio(){sequenceMode=false;sequenceLastVerse=-1;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null}
+function stopAudio(){sequenceMode=false;sequenceLastVerse=-1;sequenceStartTarget=null;sequenceFloorTime=null;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null}
 function toggleAudioMute(){
   userAudioMuted=!userAudioMuted;
   audio.muted=userAudioMuted;
@@ -1714,6 +1787,7 @@ function toggleLanguage(){
   stopTTS();stopAudio();
   closeDidYouKnow();
   language=language==='he'?'en':'he';
+  updateReturnVerseButton();
   lockedVerse=-1;stopAtTime=null;hebrewOverlay=false;englishOverlay=false;
   if(data){
     data.questions = language==='en' ? questionsEn : questionsHe;
@@ -1739,6 +1813,7 @@ function updateEnglishOverlay(i){
 
 let lastSyncedVerse=-1;
 function scrollActiveVerseToTop(vi){
+  if(!sequenceMode)return;
   vi=Number(vi);
   if(!Number.isFinite(vi) || vi<0 || vi===lastSyncedVerse)return;
   lastSyncedVerse=vi;
@@ -1762,7 +1837,7 @@ function updateWordKaraoke(){
   document.querySelectorAll('.karaokeWord.karaokeActive').forEach(x=>x.classList.remove('karaokeActive'));
   if(!data || audio.paused)return;
   const ct=chapterTimeFromAudio();
-  const vi=currentAudioVerse();
+  const vi=!sequenceMode&&lockedVerse>=0?lockedVerse:currentAudioVerse();
   const card=verseCards[vi];
   if(!card)return;
   const words=[...card.querySelectorAll('.karaokeWord')];
@@ -1778,7 +1853,7 @@ function updateWordKaraoke(){
     if(verseEl){
       const rows=Array.from(document.querySelectorAll('.verse'));
       const vi=rows.indexOf(verseEl);
-      if(vi>=0){ scrollActiveVerseToTop(vi); syncOtherLanguageToVerse(vi); }
+      if(vi>=0) scrollActiveVerseToTop(vi);
     }
   }
 }
@@ -1793,7 +1868,7 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}const seqVerse=currentAudioVerse();if(sequenceMode&&seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastSyncedVerse=-1;setActive(seqVerse,false);scrollActiveVerseToTop(seqVerse);}else{setActive(seqVerse,true);}});
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceFloorTime!==null&&audio.currentTime<sequenceFloorTime-0.25){try{audio.currentTime=sequenceFloorTime}catch(e){}return}if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;if(seqVerse>=lastReadingVerse)rememberReadingVerse(seqVerse);lastSyncedVerse=-1;setActive(seqVerse,false);scrollActiveVerseToTop(seqVerse);}else{setActive(seqVerse,false);}});
 
 function playSequence(){
   stopTTS(); if(!data)return;
@@ -1802,10 +1877,15 @@ function playSequence(){
   const times=activeTimes();
   
   if(!times.length || !Number.isFinite(Number(times[0]))){alert('אין זמני סנכרון לפרק הזה');return;}
-  const firstTag=Number(times[0]);
-  const first=sourceTime(firstTag);
-  setActive(0,true);
-  seekAndPlayAbsolute(first);
+  const selected=verseCards.findIndex(card=>card.classList.contains('active'));
+  const preferred=Number.isInteger(lastReadingVerse)?lastReadingVerse:selected;
+  const startIndex=(preferred>=0 && preferred<times.length && Number.isFinite(Number(times[preferred])))?preferred:0;
+  // Playback starts at the bookmark; a temporary media reset must not overwrite it.
+  if(startIndex>lastReadingVerse)rememberReadingVerse(startIndex);
+  const start=sourceTime(Number(times[startIndex]));
+  sequenceStartTarget=start;sequenceFloorTime=start;
+  setActive(startIndex,true);
+  seekAndPlayAbsolute(start);
 }
 function toggleTTS(){ if(ttsMode){stopTTS();return} startTTS(); }
 function startTTS(){
@@ -1981,6 +2061,7 @@ function activateEnglishVerseFromElement(el){
   if(!card)return -1;
   const vi=verseCards.indexOf(card);
   if(vi>=0){
+    rememberReadingVerse(vi);
     setActive(vi,false);       // highlight verse + switch image to its idea
     syncOtherLanguageToVerse(vi);
   }
@@ -2021,7 +2102,7 @@ document.addEventListener('click', async function(ev){
   if(language==='he'){
     const card=w.closest('.card');
     const vi=verseCards.indexOf(card);
-    if(vi>=0){ setActive(vi,false); syncOtherLanguageToVerse(vi); }
+    if(vi>=0){ rememberReadingVerse(vi);setActive(vi,false); syncOtherLanguageToVerse(vi); }
     scrollCardToTop(w);
 
     // Keep the manually selected Hebrew word marked until another word is selected.
@@ -2054,6 +2135,7 @@ document.addEventListener('click', async function(ev){
 
   // Stop anything else, then jump exactly to the selected word.
   try { if ('speechSynthesis' in window) speechSynthesis.cancel(); } catch(err) {}
+  sequenceMode=false;sequenceStartTarget=null;sequenceFloorTime=null;
   lockedVerse = -1;
   clickedWordStopAt = e;
   clickedWordEl = w;
@@ -2125,6 +2207,7 @@ document.addEventListener('click', async function(ev){
     if(!src) return;
     if(audio.src!==src){ audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
+    rememberReadingVerse(vi);
     setActive(vi,false);
     syncOtherLanguageToVerse(vi);
     scrollCardToTop(b);
@@ -2141,6 +2224,7 @@ document.addEventListener('click', async function(ev){
   if(language==='he'){
     const vi=Number(b.dataset.vi);
     if(Number.isFinite(vi)){
+      rememberReadingVerse(vi);
       setActive(vi,false);
       syncOtherLanguageToVerse(vi);
       scrollCardToTop(b);
@@ -2151,6 +2235,7 @@ document.addEventListener('click', async function(ev){
   if(language==='he'){
     const vi=Number(b.dataset.vi);
     if(Number.isFinite(vi)){
+      rememberReadingVerse(vi);
       setActive(vi,false);
       syncOtherLanguageToVerse(vi);
       scrollCardToTop(b);
@@ -2171,12 +2256,14 @@ document.addEventListener('click', async function(ev){
   }
 
   const vi=Number(b.dataset.vi);
+  if(Number.isInteger(vi))rememberReadingVerse(vi);
   const v=(language==='en' ? null : data?.readalong_word_verses?.[vi]);
   if(!Array.isArray(v)||!v.length)return;
   let s=Number(v[0].s), e=Number(v[v.length-1].e);
 
   if(!Number.isFinite(s)||!Number.isFinite(e))return;
 
+  sequenceMode=false;sequenceStartTarget=null;sequenceFloorTime=null;
   lockedVerse=-1;
   verseButtonStopAt=e;
   verseButtonEl=b;
@@ -2204,6 +2291,16 @@ audio.addEventListener('ended',function(){
 });
 
 
+// Recover the open chapter and show its return button after a full browser refresh.
+setTimeout(()=>{
+  try{
+    const saved=JSON.parse(sessionStorage.getItem(RETURN_SESSION_KEY)||'null');
+    const book=BOOKS.find(b=>b.id===saved?.bookId);
+    if(!book||!Number.isInteger(saved.chapter)||saved.chapter<1||saved.chapter>book.chapters)return;
+    language=saved.lang==='en'?'en':'he';
+    loadChapter(saved.chapter,book,Number.isInteger(saved.verse)?saved.verse:0);
+  }catch(e){}
+},0);
 </script><script>
 // Full screen: activated by the first tap/click (required by Android/Chrome).
 (function(){
