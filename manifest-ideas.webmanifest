@@ -1,0 +1,27 @@
+{
+  "id": "./tanakh-by-ideas",
+  "name": "תנ״ך לפי רעיונות | Tanakh by Ideas",
+  "short_name": "תנ״ך לפי רעיונות",
+  "description": "Tanakh by Ideas — תנ״ך לפי רעיונות",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./tanakh%20by%20ideas.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#120b04",
+  "theme_color": "#0d0803",
+  "icons": [
+    {
+      "src": "tanakh-ideas-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "tanakh-ideas-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

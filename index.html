@@ -49,13 +49,11 @@ footer{text-align:center;padding:28px;color:#a49374}footer b{color:var(--g2)}
 <meta name="twitter:image" content="https://naftali24.github.io/BIBLE/bible-share.jpg?v=2">
 
 <style>
-.idea-app-entry{margin:16px auto 0;max-width:560px;padding:14px;border:1px solid #8b641b;border-radius:16px;background:linear-gradient(135deg,#211607,#0b0804);box-shadow:0 8px 24px #0008}
-.idea-app-icon{display:flex;align-items:center;justify-content:center;gap:12px;margin:0 auto 10px;color:#ffe17a;font-weight:900;font-size:clamp(20px,2.3vw,28px)}
-.idea-app-icon .idea-badge{width:54px;height:54px;border-radius:14px;display:grid;place-items:center;background:linear-gradient(#ffe788,#d99a16);color:#241300;border:2px solid #fff0a0;font-size:29px;box-shadow:0 3px 12px #0008}
-.idea-app-name-en{direction:ltr;font-size:.78em;color:#fff0b4;margin-top:2px}
-.idea-app-actions{display:flex;gap:9px;justify-content:center;flex-wrap:wrap}
-.idea-app-actions .btn{margin:0}
-@media(max-width:600px){.idea-app-entry{margin-top:12px}.idea-app-icon{font-size:20px}.idea-app-icon .idea-badge{width:48px;height:48px}}
+.ideas-launch{margin:16px auto 0;max-width:620px;padding:14px;border:2px solid #d89b18;border-radius:16px;background:#100a04}
+.ideas-launch-head{display:flex;align-items:center;justify-content:center;gap:12px;color:#ffe58a;font-weight:900;font-size:22px;margin-bottom:10px}
+.ideas-launch-head img{width:58px;height:58px;border-radius:13px}
+.ideas-launch-en{direction:ltr;font-size:16px;color:#fff0b4}
+.ideas-launch-actions{display:flex;justify-content:center;gap:8px;flex-wrap:wrap}
 </style>
 </head><body>
 <section class="hero"><div class="wrap"><div class="heroGrid">
@@ -64,17 +62,17 @@ footer{text-align:center;padding:28px;color:#a49374}footer b{color:var(--g2)}
 <p class="intro">תנ״ך אינטראקטיבי בעברית ובאנגלית<br><span dir="ltr">An interactive Bible in Hebrew & English</span></p>
 <div class="pills"><div class="pill">📖 עברית ואנגלית<br>Hebrew & English</div><div class="pill">🔊 שמע וקריוקי<br>Audio & Karaoke</div><div class="pill">💡 פירושים<br>Commentary</div><div class="pill">❓ שאלות והעשרה<br>Quizzes & Insights</div></div>
 <a class="btn" href="tanakh.html">פתח את התנ״ך | OPEN THE BIBLE</a><button id="installAppBtn" class="btn" type="button" style="margin-inline-start:10px;display:none">📱 התקן בפלאפון | INSTALL APP</button>
-<div class="idea-app-entry">
-  <div class="idea-app-icon">
-    <span class="idea-badge">💡</span>
-    <span>תנ״ך לפי רעיונות<div class="idea-app-name-en">TANAKH BY IDEAS</div></span>
+<div class="ideas-launch">
+  <div class="ideas-launch-head">
+    <img src="tanakh-ideas-192.png" alt="תנ״ך לפי רעיונות">
+    <div>תנ״ך לפי רעיונות<div class="ideas-launch-en">TANAKH BY IDEAS</div></div>
   </div>
-  <div class="idea-app-actions">
-    <a class="btn" href="tanakh%20by%20ideas.html">💡 פתח תנ״ך לפי רעיונות | OPEN TANAKH BY IDEAS</a>
-    <button id="installIdeasBtn" class="btn" type="button">📱 התקן | INSTALL</button>
+  <div class="ideas-launch-actions">
+    <a class="btn" href="tanakh%20by%20ideas.html">פתח | OPEN</a>
+    <a class="btn" href="tanakh%20by%20ideas.html?install=1">📱 התקן | INSTALL</a>
   </div>
 </div></div>
-<div><div class="phone"><img src="בראשית/chapter_001/images/idea_01.jpg" alt="האפליקציה בעברית"></div><div class="labels"><span>HEBREW</span><span>עברית</span></div></div>
+<div><div class="phone"><img src="tanakh-ideas-512.png" alt="האפליקציה בעברית"></div><div class="labels"><span>HEBREW</span><span>עברית</span></div></div>
 </div></div></section>
 <section class="details"><div class="wrap"><h2>מה יש באתר? • What’s inside?</h2><div class="cards">
 <div class="card"><h3>📖 פסוקים | Verses</h3><p class="he">עברית מנוקדת לצד טקסט KJV באנגלית.</p><p class="en">Vocalized Hebrew alongside the English KJV text.</p></div>
@@ -119,25 +117,5 @@ if(installBtn){
 window.addEventListener('appinstalled',()=>{
   if(installBtn) installBtn.style.display='none';
 });
-</script>
-
-<script>
-(function(){
-  let ideasInstallPrompt=null;
-  window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();ideasInstallPrompt=e;});
-  document.addEventListener('DOMContentLoaded',function(){
-    const b=document.getElementById('installIdeasBtn');
-    if(!b)return;
-    b.addEventListener('click',async function(){
-      if(ideasInstallPrompt){
-        ideasInstallPrompt.prompt();
-        try{await ideasInstallPrompt.userChoice;}catch(e){}
-        ideasInstallPrompt=null;
-      }else{
-        alert('Android/Chrome: open “Tanakh by Ideas”, then choose Add to Home screen / Install app.\n\nאנדרואיד/Chrome: פתח את “תנ״ך לפי רעיונות”, ואז בחר הוספה למסך הבית / התקנת אפליקציה.');
-      }
-    });
-  });
-})();
 </script>
 </body></html>

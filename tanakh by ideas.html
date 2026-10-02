@@ -28,7 +28,10 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
 .header-title{gap:2px}.header-title h1{line-height:1.15}.app-name-en{font-size:12px;line-height:1.15;color:#ffe58a;text-align:right}
 .idea-title{color:#64b5ff;text-decoration:underline;text-underline-offset:4px;border-bottom:0}
 .header-title .app-name-en{font-size:18px;font-weight:700;line-height:1.15}.header-title #position{display:none}@media(max-width:390px){.header-title .app-name-en{font-size:15px}}
-</style></head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
+</style><link rel="manifest" href="manifest-ideas.webmanifest">
+<meta name="theme-color" content="#0d0803">
+<link rel="apple-touch-icon" href="tanakh-ideas-192.png">
+</head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
 const BASE='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -130,4 +133,9 @@ setInterval(()=>{
  lastAlignedCard=null;alignNewIdea();
 },5000);
 let initial=0;try{const key=location.hash?decodeURIComponent(location.hash.slice(1)):localStorage.getItem('tanakhIdeasChapter');const i=chapterList.findIndex(c=>c.key===key);if(i>=0)initial=i;}catch{}openChapter(initial);
-</script></body></html>
+</script><script>
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js').catch(()=>{}));
+}
+</script>
+</body></html>
