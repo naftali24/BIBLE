@@ -1,22 +1,21 @@
 {
-  "name": "התנ״ך | THE BIBLE",
-  "short_name": "התנ״ך",
-  "description": "Interactive Hebrew and English Bible",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/BIBLE/",
+  "name": "THE BIBLE",
+  "short_name": "THE BIBLE",
+  "start_url": "/BIBLE/",
+  "scope": "/BIBLE/",
   "display": "standalone",
-  "background_color": "#090704",
-  "theme_color": "#181108",
-  "orientation": "portrait-primary",
+  "background_color": "#120b04",
+  "theme_color": "#0d0803",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "ideas/tanakh-ideas-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "ideas/tanakh-ideas-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

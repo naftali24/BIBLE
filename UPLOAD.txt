@@ -1,0 +1,24 @@
+UPLOAD EXACTLY:
+
+BIBLE/
+  index.html
+  manifest.webmanifest
+  service-worker.js
+  ideas/
+    index.html
+    manifest.webmanifest
+    service-worker.js
+    tanakh-ideas-192.png
+    tanakh-ideas-512.png
+
+IMPORTANT:
+1. Replace the THREE root files: index.html, manifest.webmanifest, service-worker.js.
+2. Upload the entire ideas folder.
+3. On the phone REMOVE both old installed shortcuts/apps first.
+4. Close Chrome and reopen it.
+5. Install THE BIBLE from /BIBLE/
+6. Open /BIBLE/ideas/ and press the INSTALL button inside that page.
+
+Installed names:
+THE BIBLE
+TANAKH BY IDEAS
