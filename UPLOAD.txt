@@ -1,7 +1,16 @@
-UPLOAD ALL FILES WITH THE SAME STRUCTURE.
+Upload ALL files/folders exactly as supplied.
 
-Installed app names:
-1. THE BIBLE
-2. BIBLE BY IDEAS
+Root index.html is now ONLY a launcher.
+It shows:
+THE BIBLE: OPEN | INSTALL
+BIBLE BY IDEAS: OPEN | INSTALL
 
-Remove the old installed versions from the phone first, then install both again so Android refreshes their names.
+The apps are separated into:
+ /BIBLE/bible/
+ /BIBLE/ideas/
+
+There is NO INSTALL button inside BIBLE BY IDEAS itself.
+
+IMPORTANT:
+Remove old installed versions before testing.
+GitHub Pages must be served over HTTPS (your github.io site does this).
