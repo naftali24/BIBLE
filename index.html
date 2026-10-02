@@ -31,12 +31,7 @@ footer{text-align:center;padding:28px;color:#a49374}footer b{color:var(--g2)}
 .mailBtn{display:inline-block;margin-top:14px;background:linear-gradient(#f1c951,#c98b12);color:#170e03;border:1px solid var(--g);border-radius:13px;padding:13px 22px;font-size:18px;font-weight:bold;text-decoration:none;direction:ltr}
 @media(max-width:950px){.heroGrid{grid-template-columns:1fr 1fr}.center{grid-column:1/-1;grid-row:1}.phone{max-width:360px;margin:auto}}
 @media(max-width:600px){.heroGrid{grid-template-columns:1fr}.center{grid-column:auto}.cards{grid-template-columns:1fr}.pills{grid-template-columns:1fr}}
-</style><script>
-const pwaTarget=new URLSearchParams(location.search).get('install')==='ideas'?'ideas':'bible';
-const manifestLink=document.createElement('link'); manifestLink.rel='manifest';
-manifestLink.href=pwaTarget==='ideas'?'manifest-ideas.webmanifest?v=12':'manifest.webmanifest?v=12';
-document.head.appendChild(manifestLink);
-</script>
+</style><link rel="manifest" href="manifest.webmanifest?v=13">
 <meta name="theme-color" content="#181108">
 <link rel="apple-touch-icon" href="icon-192.png">
 
@@ -80,7 +75,6 @@ document.head.appendChild(manifestLink);
   </div>
   <div class="ideas-launch-actions">
     <a class="btn" href="tanakh%20by%20ideas.html">פתח | OPEN</a>
-    <button id="installIdeasBtn" class="btn" type="button">📱 התקן | INSTALL</button>
   </div>
 </div></div></div>
 <div><div class="phone"><img src="tanakh-ideas-512.png" alt="האפליקציה בעברית"></div><div class="labels"><span>HEBREW</span><span>עברית</span></div></div>
@@ -103,23 +97,25 @@ document.head.appendChild(manifestLink);
 <footer>נוצר על ידי <b>נפתלי דוידוביץ</b> בשילוב כלי בינה מלאכותית<br><span dir="ltr">Created by <b>Naftali Davidovitz</b> with AI tools</span></footer>
 
 <script id="pwaInstallScript">
-if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));}
-let deferredInstallPrompt=null;
-window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredInstallPrompt=e;});
-async function installPWA(which){
-  if(which!==pwaTarget){
-    location.href=which==='ideas'?'./?install=ideas':'./?install=bible';
-    return;
-  }
-  if(deferredInstallPrompt){
-    deferredInstallPrompt.prompt();
-    try{await deferredInstallPrompt.userChoice;}catch(e){}
-    deferredInstallPrompt=null;
-  }else{
-    alert('Chrome עדיין מכין את ההתקנה. רענן את דף האינדקס ולחץ שוב על INSTALL.\n\nChrome is preparing the install. Refresh this index and press INSTALL again.');
-  }
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));
 }
-document.getElementById('installBibleBtn')?.addEventListener('click',()=>installPWA('bible'));
-document.getElementById('installIdeasBtn')?.addEventListener('click',()=>installPWA('ideas'));
+let deferredInstallPrompt=null;
+const installBibleBtn=document.getElementById('installBibleBtn');
+window.addEventListener('beforeinstallprompt',e=>{
+  e.preventDefault();
+  deferredInstallPrompt=e;
+});
+if(installBibleBtn){
+  installBibleBtn.addEventListener('click',async()=>{
+    if(deferredInstallPrompt){
+      deferredInstallPrompt.prompt();
+      try{await deferredInstallPrompt.userChoice;}catch(e){}
+      deferredInstallPrompt=null;
+    }else{
+      alert('אם THE BIBLE כבר מותקן, אין צורך להתקין שוב. אם אינו מותקן, רענן את הדף ונסה שוב.\n\nIf THE BIBLE is already installed, no reinstall is needed. Otherwise refresh and try again.');
+    }
+  });
+}
 </script>
 </body></html>
