@@ -32,7 +32,7 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
 <meta name="theme-color" content="#0d0803">
 <link rel="apple-touch-icon" href="tanakh-ideas-192.png">
 <style id="ideasInstallStyle">
-#ideasInstallBtn{position:fixed;right:12px;bottom:12px;z-index:99999;border:1px solid #e4b849;border-radius:13px;background:#5a390d;color:#fff3c4;padding:11px 15px;font:700 15px Arial;box-shadow:0 4px 16px #0008}
+#ideasInstallBtn{position:fixed;right:12px;top:12px;bottom:auto;z-index:99999;border:1px solid #e4b849;border-radius:13px;background:#5a390d;color:#fff3c4;padding:11px 15px;font:700 15px Arial;box-shadow:0 4px 16px #0008}
 #ideasInstallBtn[hidden]{display:none!important}
 </style>
 </head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
@@ -148,11 +148,10 @@ if('serviceWorker' in navigator){
  const btn=document.getElementById('ideasInstallBtn');
  let promptEvent=null;
  const installed=()=>window.matchMedia('(display-mode: standalone)').matches ||
-   window.navigator.standalone===true || localStorage.getItem('bibleIdeasInstalled')==='1';
+   window.navigator.standalone===true;
 
  function refreshButton(){
-   if(installed()){ btn.hidden=true; return; }
-   btn.hidden = !promptEvent;
+   btn.hidden = installed();
  }
  window.addEventListener('beforeinstallprompt',e=>{
    e.preventDefault();
@@ -160,18 +159,17 @@ if('serviceWorker' in navigator){
    refreshButton();
  });
  btn.addEventListener('click',async()=>{
-   if(!promptEvent) return;
-   promptEvent.prompt();
-   let choice=null;
-   try{choice=await promptEvent.userChoice;}catch(e){}
-   promptEvent=null;
-   if(choice && choice.outcome==='accepted'){
-     localStorage.setItem('bibleIdeasInstalled','1');
-     btn.hidden=true;
-   }else refreshButton();
+   if(installed()){ btn.hidden=true; return; }
+   if(promptEvent){
+     promptEvent.prompt();
+     try{await promptEvent.userChoice;}catch(e){}
+     promptEvent=null;
+     refreshButton();
+   }else{
+     alert('Chrome: פתח את התפריט ⋮ ובחר "התקנת אפליקציה" או "הוספה למסך הבית".\n\nChrome: open the ⋮ menu and choose Install app / Add to Home screen.');
+   }
  });
  window.addEventListener('appinstalled',()=>{
-   localStorage.setItem('bibleIdeasInstalled','1');
    promptEvent=null;
    btn.hidden=true;
  });
