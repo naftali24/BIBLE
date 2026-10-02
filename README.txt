@@ -1,12 +1,9 @@
-Replace ONLY these two files in the ROOT BIBLE folder:
-1. index.html
-2. manifest.webmanifest
+Upload everything exactly as shown.
 
-Then on the phone:
-- Remove the OLD installed Bible app/shortcut.
-- Open Chrome and visit the BIBLE main page again.
-- Refresh once.
-- Install again.
+Root app installed name: THE BIBLE
+Second app installed name: BIBLE BY IDEAS
 
-The manifest URL is now versioned (?v=4), so Chrome cannot keep using the old cached Hebrew manifest.
-Installed name: THE BIBLE
+The main index now shows two controls for BIBLE BY IDEAS: OPEN and INSTALL.
+INSTALL opens the separate /ideas/ app; press INSTALL BIBLE BY IDEAS inside that page to trigger the browser installation.
+
+Keep the ideas folder intact.
