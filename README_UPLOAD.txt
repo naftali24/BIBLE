@@ -15,3 +15,5 @@ Then:
 3. In Chrome, install/add THIS /ideas/ page to the Home screen.
 
 The separate /ideas/ folder gives Tanakh by Ideas its own PWA scope, start URL, name and icon.
+
+Installed app name for the Ideas app is now: Tanakh by Ideas
