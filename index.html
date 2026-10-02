@@ -4,60 +4,34 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>BIBLE APPS</title>
-<style>
-*{box-sizing:border-box}
-body{margin:0;min-height:100vh;background:#0d0803;color:#fff;font-family:Arial,sans-serif;display:flex;align-items:center;justify-content:center;padding:18px}
-.wrap{width:min(760px,100%)}
-h1{text-align:center;color:#ffe58a;margin:0 0 22px}
-.apps{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.card{border:2px solid #d89b18;border-radius:20px;background:#171006;padding:22px 14px;text-align:center}
-.icon{font-size:58px;height:70px}
-.card img{width:68px;height:68px;border-radius:15px}
-.name{font-size:23px;font-weight:900;color:#ffe58a;margin:10px 0 18px}
-.actions{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
-button,a.btn{border:1px solid #e6b94c;background:#2b1a08;color:#fff3c4;border-radius:12px;padding:11px 16px;font-weight:900;font-size:15px;text-decoration:none;cursor:pointer}
-.install[hidden]{display:none}
-.status{font-size:12px;margin-top:12px;color:#ddd;min-height:16px}
-@media(max-width:560px){.apps{grid-template-columns:1fr}.card{padding:16px}.name{font-size:21px}}
-</style>
-</head>
-<body>
-<div class="wrap">
-<h1>BIBLE APPS</h1>
-<div class="apps">
-  <section class="card">
-    <div class="icon">📖</div>
-    <div class="name">THE BIBLE</div>
-    <div class="actions">
-      <a class="btn" href="bible/">OPEN</a>
-      <button id="installBible">INSTALL</button>
-    </div>
-    <div class="status" id="statusBible"></div>
-  </section>
-  <section class="card">
-    <img src="ideas/tanakh-ideas-192.png" alt="">
-    <div class="name">BIBLE BY IDEAS</div>
-    <div class="actions">
-      <a class="btn" href="ideas/">OPEN</a>
-      <button id="installIdeas">INSTALL</button>
-    </div>
-    <div class="status" id="statusIdeas"></div>
-  </section>
-</div>
-</div>
+<meta name="theme-color" content="#0d0803">
 <script>
-/*
-Browsers expose an install prompt only for the PWA of the current document.
-The launcher therefore opens a tiny same-origin installer window for the
-chosen app. That window captures its own beforeinstallprompt and triggers it.
-After installation it closes itself.
-*/
-function installApp(which){
-  const url = which==='bible' ? 'bible/install.html' : 'ideas/install.html';
-  window.open(url, 'install_'+which, 'width=420,height=640');
-}
-document.getElementById('installBible').onclick=()=>installApp('bible');
-document.getElementById('installIdeas').onclick=()=>installApp('ideas');
+const installTarget = new URLSearchParams(location.search).get('install') === 'ideas' ? 'ideas' : 'bible';
+const ml=document.createElement('link'); ml.rel='manifest';
+ml.href=installTarget==='ideas'?'manifest-ideas.webmanifest?v=11':'manifest.webmanifest?v=11';
+document.head.appendChild(ml);
 </script>
-</body>
-</html>
+<style>
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:#0d0803;color:#fff;font-family:Arial,sans-serif;padding:18px}
+.wrap{max-width:820px;margin:auto}h1{text-align:center;color:#ffe58a;margin:10px 0 22px;font-size:30px}
+.apps{display:grid;grid-template-columns:1fr 1fr;gap:18px}.card{background:#171006;border:2px solid #d89b18;border-radius:22px;padding:22px 14px;text-align:center}
+.card.active{outline:3px solid #ffe58a;outline-offset:3px}.icon{height:74px;display:flex;align-items:center;justify-content:center;font-size:62px}
+.icon img{width:70px;height:70px;border-radius:16px}.name{color:#ffe58a;font-size:24px;font-weight:900;margin:12px 0 18px}
+.actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}.btn{min-width:112px;border:1px solid #e4b849;border-radius:13px;background:#2b1a08;color:#fff3c4;padding:12px 15px;font-size:16px;font-weight:900;text-decoration:none;cursor:pointer}
+.btn.install{background:#5a390d}.note{min-height:38px;margin-top:12px;font-size:13px;color:#f4e3b1;line-height:1.35}#topmsg{text-align:center;min-height:24px;color:#fff0a8;font-weight:700;margin-bottom:12px}
+@media(max-width:560px){.apps{grid-template-columns:1fr}.card{padding:18px 10px}}
+</style></head><body><div class="wrap"><h1>BIBLE APPS</h1><div id="topmsg"></div><div class="apps">
+<section id="cardBible" class="card"><div class="icon">📖</div><div class="name">THE BIBLE</div><div class="actions"><a class="btn" href="tanakh.html">OPEN</a><button class="btn install" id="installBible">INSTALL</button></div><div class="note" id="noteBible"></div></section>
+<section id="cardIdeas" class="card"><div class="icon"><img src="tanakh-ideas-192.png" alt="Bible by Ideas"></div><div class="name">BIBLE BY IDEAS</div><div class="actions"><a class="btn" href="tanakh%20by%20ideas.html">OPEN</a><button class="btn install" id="installIdeas">INSTALL</button></div><div class="note" id="noteIdeas"></div></section>
+</div></div><script>
+let deferredPrompt=null; const target=installTarget;
+const topmsg=document.getElementById('topmsg'),noteBible=document.getElementById('noteBible'),noteIdeas=document.getElementById('noteIdeas');
+document.getElementById(target==='ideas'?'cardIdeas':'cardBible').classList.add('active');
+if('serviceWorker' in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js').catch(()=>{}));
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;topmsg.textContent=target==='ideas'?'BIBLE BY IDEAS is ready to install':'THE BIBLE is ready to install';});
+window.addEventListener('appinstalled',()=>{topmsg.textContent='INSTALLED';deferredPrompt=null;});
+async function doInstall(which){if(which!==target){location.href=which==='ideas'?'index.html?install=ideas':'index.html';return;}
+if(deferredPrompt){deferredPrompt.prompt();try{await deferredPrompt.userChoice}catch(e){}deferredPrompt=null;return;}
+(which==='ideas'?noteIdeas:noteBible).textContent='Chrome is preparing this app. Refresh this index once and press INSTALL again.';}
+document.getElementById('installBible').onclick=()=>doInstall('bible'); document.getElementById('installIdeas').onclick=()=>doInstall('ideas');
+</script></body></html>
