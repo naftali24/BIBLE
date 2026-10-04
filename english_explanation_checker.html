@@ -33,7 +33,7 @@ document.getElementById('run').addEventListener('click',async()=>{
     else if(heb.test(x))issues.push('פסוק '+(i+1)+': הפירוש מכיל עברית — '+x.slice(0,80));
    }
    if(issues.length){problems+=issues.length;badChapters.push({name,ch,issues});out.insertAdjacentHTML('beforeend','<div class="row bad"><b>'+esc(name)+' '+ch+'</b><br>'+issues.map(esc).join('<br>')+'</div>')}
-   else out.insertAdjacentHTML('beforeend','<div class="row ok">✓ '+esc(name)+' '+ch+'</div>');
+   else {}
    checked++;
   }catch(e){problems++;out.insertAdjacentHTML('beforeend','<div class="row warn">⚠ '+esc(name)+' '+ch+': '+esc(e.message)+'</div>')}
  }
