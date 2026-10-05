@@ -1272,10 +1272,30 @@ async function applyReadAlongHebrew(book,chapter,ra=null){
     if(textBuf.length){verses.push(textBuf.join(' '));times.push(verseStart??0);wordVerses.push(wordBuf)}
     if(!verses.length) return false;
 
-    // Preserve Hebrew verses already stored in chapter.json; ReadAlong supplies timing/karaoke.
+    // Preserve Hebrew verses already stored in chapter.json.
+    // Re-segment ReadAlong words by the actual chapter.json verse text, so karaoke
+    // boundaries can never drift because of punctuation/colon differences.
     if(!Array.isArray(data.verses)||!data.verses.length) data.verses=verses;
     if(!Array.isArray(data.hebrew)||!data.hebrew.length) data.hebrew=data.verses;
-    data.times=times; data.times_he=times; data.readalong_word_verses=wordVerses;
+
+    const normHeb=s=>String(s||'').normalize('NFD')
+      .replace(/[\u0591-\u05C7]/g,'').replace(/\{\s*[פס]\s*\}/g,'')
+      .replace(/[^\u05D0-\u05EA]/g,'');
+    const allWords=words.map(w=>({
+      h:String(w?.hebrew??w?.h??'').trim(),
+      s:Number(w?.start??w?.s),e:Number(w?.end??w?.e),tr:''
+    })).filter(w=>w.h);
+    const fixedWordVerses=[],fixedTimes=[];
+    let wp=0;
+    for(const vt of data.verses){
+      const target=normHeb(vt); let built='',row=[];
+      while(wp<allWords.length && built.length<target.length){
+        const w=allWords[wp++]; row.push(w); built+=normHeb(w.h);
+      }
+      fixedWordVerses.push(row);
+      fixedTimes.push(row.length&&Number.isFinite(row[0].s)?row[0].s:0);
+    }
+    data.times=fixedTimes; data.times_he=fixedTimes; data.readalong_word_verses=fixedWordVerses;
 
     const sideAudio=await githubText(base+'/audio_url.txt',true);
     const code=String(ra.audio_code||readAlongAudioCode(book,chapter)||'').trim();
