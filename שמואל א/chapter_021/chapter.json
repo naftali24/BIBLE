@@ -170,6 +170,12 @@
   "times_he": [],
   "times_en": [
     {
+      "start": 0,
+      "end": 2.88,
+      "usfm": "1SA.20.42b",
+      "note": "Hebrew 1SA 21:1; English/KJV places this at end of chapter 20"
+    },
+    {
       "start": 2.88,
       "end": 13.7,
       "usfm": "1SA.21.1"
@@ -247,6 +253,7 @@
   ],
   "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
+    2.88,
     13.7,
     30.56,
     37.58,
@@ -264,6 +271,7 @@
     179.32
   ],
   "times_en_usfm": [
+    "1SA.20.42b",
     "1SA.21.1",
     "1SA.21.2",
     "1SA.21.3",
@@ -282,5 +290,5 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew versification: 1SA 21 has 16 verses. English/KJV 21:1-15 map to Hebrew 21:2-16; Hebrew 21:1 corresponds to English 20:42b."
 }
