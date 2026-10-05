@@ -15,7 +15,7 @@ button{background:#315c39;color:white;cursor:pointer}.row{padding:10px;border-bo
 <body><main>
 <h1>בדיקת כפילות של פסוקים אחרונים</h1>
 <p>המחולל עובר על כל ספרי התנ״ך וכל הפרקים, משווה את הפסוק האחרון לפסוק שלפניו בעברית ובאנגלית, ומדווח על כפילות מלאה או כמעט מלאה.</p>
-<button id="run">בדוק את כל התנ״ך</button>
+<button id="run">בדוק את כל התנ״ך</button><div class="small">אין צורך לבחור ספר — הבדיקה עוברת אוטומטית על כולם.</div>
 <div id="status"></div><div id="out"></div>
 <script>
 const ROOT='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -53,4 +53,5 @@ document.getElementById('run').onclick=async()=>{
  status.textContent='בדיקת כל התנ״ך הסתיימה: '+checked+' פרקים. נמצאו '+bad+' פרקים חשודים.';
  if(!bad){const x=document.createElement('div');x.className='row ok';x.textContent='לא נמצאה כפילות בפסוק האחרון.';out.appendChild(x)}
 };
+document.getElementById('run').click();
 </script></main></body></html>
