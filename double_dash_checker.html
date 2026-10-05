@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>בדיקת קווים כפולים בפסוקים</title>
+<style>
+body{font-family:Arial,sans-serif;background:#111;color:#eee;margin:0;padding:22px}h1{color:#ffd65a}
+button{font-size:20px;padding:11px 18px;border:0;border-radius:10px;background:#ffd65a;font-weight:bold}
+#status{margin:18px 0}.box{border:2px solid #d75b55;background:#261414;border-radius:12px;padding:14px;margin-top:14px}
+.row{font-size:19px;line-height:1.7;margin:10px 0}.before{color:#ffb1ad}.after{color:#9ee59e}.tag{font-weight:bold;color:#ffd65a}
+</style></head><body>
+<h1>בדיקת קווים כפולים — פרק אחד</h1>
+<p>מחפש את הפרק הראשון בתנ״ך שבו מופיע קו אמצעי כפול. כרגע אינו משנה קבצים.</p>
+<button id="run">מצא פרק אחד</button><div id="status"></div><div id="out"></div>
+<script>
+const ROOT='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
+const BOOKS=[['בראשית',50],['שמות',40],['ויקרא',27],['במדבר',36],['דברים',34],['יהושע',24],['שופטים',21],['שמואל א',31],['שמואל ב',24],['מלכים א',22],['מלכים ב',25],['ישעיהו',66],['ירמיהו',52],['יחזקאל',48],['הושע',14],['יואל',4],['עמוס',9],['עובדיה',1],['יונה',4],['מיכה',7],['נחום',3],['חבקוק',3],['צפניה',3],['חגי',2],['זכריה',14],['מלאכי',3],['תהילים',150],['משלי',31],['איוב',42],['שיר השירים',8],['רות',4],['איכה',5],['קהלת',12],['אסתר',10],['דניאל',12],['עזרא',10],['נחמיה',13],['דברי הימים א',29],['דברי הימים ב',36]];
+const pad=n=>String(n).padStart(3,'0');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function hasDouble(s){return /(?:--|־־|–{2}|—{2})/.test(String(s||''))}
+function fix(s){
+ return String(s||'')
+   .replace(/(?:--|־־|–{2}|—{2})/g,', ')
+   .replace(/[\-־–—]/g,' ')
+   .replace(/\s+,/g,',')
+   .replace(/,\s*/g,', ')
+   .replace(/\s{2,}/g,' ')
+   .trim();
+}
+async function load(book,ch){
+ const u=ROOT+encodeURIComponent(book)+'/chapter_'+pad(ch)+'/chapter.json?v='+Date.now();
+ const r=await fetch(u,{cache:'no-store'});if(!r.ok)throw Error(r.status);return r.json()
+}
+document.getElementById('run').onclick=async()=>{
+ const st=document.getElementById('status'),out=document.getElementById('out');out.innerHTML='';
+ for(const [book,n] of BOOKS)for(let ch=1;ch<=n;ch++){
+   st.textContent='בודק '+book+' '+ch+'...';
+   try{
+    const d=await load(book,ch),vs=d.verses||d.hebrew||[];
+    const hits=vs.map((v,i)=>({v,i})).filter(x=>hasDouble(x.v));
+    if(hits.length){
+      st.innerHTML='<b>נמצא:</b> '+book+' פרק '+ch+' — '+hits.length+' פסוקים עם קו כפול.';
+      out.innerHTML='<div class="box"><div class="tag">'+book+' — פרק '+ch+'</div>'+
+       hits.map(x=>'<div class="row"><b>פסוק '+(x.i+1)+'</b><br><span class="before">לפני: '+esc(x.v)+'</span><br><span class="after">אחרי: '+esc(fix(x.v))+'</span></div>').join('')+
+       '</div>';
+      return;
+    }
+   }catch(e){}
+ }
+ st.textContent='לא נמצא קו כפול.';
+};
+</script></body></html>
