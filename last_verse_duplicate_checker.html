@@ -2,7 +2,7 @@
 <html lang="he" dir="rtl">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>בדיקת כפילות פסוק אחרון</title>
+<title>בדיקת שלמות פסוקים בכל התנ״ך</title>
 <style>
 body{font-family:Arial,sans-serif;background:#f5f1e8;margin:0;padding:20px;color:#222}
 main{max-width:850px;margin:auto;background:white;padding:22px;border-radius:16px;box-shadow:0 2px 12px #0002}
@@ -13,8 +13,8 @@ button{background:#315c39;color:white;cursor:pointer}.row{padding:10px;border-bo
 .en{direction:ltr;text-align:left}
 </style></head>
 <body><main>
-<h1>בדיקת כפילות של פסוקים אחרונים</h1>
-<p>המחולל עובר על כל ספרי התנ״ך וכל הפרקים, משווה את הפסוק האחרון לפסוק שלפניו בעברית ובאנגלית, ומדווח על כפילות מלאה או כמעט מלאה.</p>
+<h1>בדיקת שלמות פסוקים בכל התנ״ך</h1>
+<p>המחולל עובר אוטומטית על כל התנ״ך ובודק כפילויות בתחילת ובסוף פרק, מספר פסוקים בעברית ובאנגלית, פירושים וטיימטאגס.</p>
 <button id="run">בדוק את כל התנ״ך</button><div class="small">אין צורך לבחור ספר — הבדיקה עוברת אוטומטית על כולם.</div>
 <div id="status"></div><div id="out"></div>
 <script>
@@ -35,23 +35,33 @@ document.getElementById('run').onclick=async()=>{
    const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);
    const d=await r.json(),he=arr(d,['verses','hebrew','hebrew_verses']),en=arr(d,['english','english_verses','kjv','en','verses_en']);
    let issues=[];
-   for(const [label,a,cls] of [['עברית',he,'verse'],['אנגלית',en,'verse en']]){
-    if(a.length<2)continue;
-    const prev=a[a.length-2],last=a[a.length-1],s=similarity(prev,last);
-    if(norm(prev)===norm(last)||s>=.88)issues.push({label,prev,last,s});
+   const exHe=arr(d,['ai_explanation']),exEn=arr(d,['ai_explanation_en']),tEn=arr(d,['times_en']);
+   for(const [label,a] of [['עברית',he],['אנגלית',en]]){
+    if(a.length>=2){
+      const first=a[0],second=a[1],sf=similarity(first,second);
+      if(norm(first)===norm(second)||sf>=.88) issues.push({label:label+' תחילת הפרק',prev:first,last:second,s:sf});
+      const prev=a[a.length-2],last=a[a.length-1],sl=similarity(prev,last);
+      if(norm(prev)===norm(last)||sl>=.88) issues.push({label:label+' סוף הפרק',prev,last,s:sl});
+    }
    }
+   if(he.length!==en.length) issues.push({label:'מספר פסוקים',prev:'עברית: '+he.length,last:'אנגלית: '+en.length,s:0});
+   if(exHe.length && exHe.length!==he.length) issues.push({label:'פירושים בעברית',prev:'פסוקים: '+he.length,last:'פירושים: '+exHe.length,s:0});
+   if(exEn.length && exEn.length!==en.length) issues.push({label:'פירושים באנגלית',prev:'פסוקים: '+en.length,last:'פירושים: '+exEn.length,s:0});
+   if(tEn.length && tEn.length!==en.length) issues.push({label:'טיימטאגס באנגלית',prev:'פסוקים: '+en.length,last:'טיימטאגס: '+tEn.length,s:0});
+   if(exHe.length) exHe.forEach((x,i)=>{if(!String(x||'').trim())issues.push({label:'פירוש עברי חסר — פסוק '+(i+1),prev:'',last:'',s:0})});
+   if(exEn.length) exEn.forEach((x,i)=>{if(!String(x||'').trim())issues.push({label:'פירוש אנגלי חסר — פסוק '+(i+1),prev:'',last:'',s:0})});
    checked++;
    if(issues.length){
     bad++;
     const box=document.createElement('div');box.className='row bad';
-    box.innerHTML='<b>'+book+' — פרק '+ch+'</b>'+issues.map(x=>'<div><b>'+x.label+': חשד לכפילות</b> ('+Math.round(x.s*100)+'%)</div><div class="'+(x.label==='אנגלית'?'en':'verse')+'">לפני אחרון: '+x.prev+'</div><div class="'+(x.label==='אנגלית'?'en':'verse')+'">אחרון: '+x.last+'</div>').join('');
+    box.innerHTML='<b>'+book+' — פרק '+ch+'</b>'+issues.map(x=>'<div><b>'+x.label+'</b>'+(x.s?' ('+Math.round(x.s*100)+'%)':'')+'</div><div class="verse">'+x.prev+'</div><div class="verse">'+x.last+'</div>').join('');
     out.appendChild(box);
    }
   }catch(e){const x=document.createElement('div');x.className='row bad';x.textContent=book+' פרק '+ch+': לא ניתן לבדוק — '+e.message;out.appendChild(x)}
  }
  }
- status.textContent='בדיקת כל התנ״ך הסתיימה: '+checked+' פרקים. נמצאו '+bad+' פרקים חשודים.';
- if(!bad){const x=document.createElement('div');x.className='row ok';x.textContent='לא נמצאה כפילות בפסוק האחרון.';out.appendChild(x)}
+ status.textContent='בדיקת כל התנ״ך הסתיימה: '+checked+' פרקים. נמצאו '+bad+' פרקים עם בעיות.';
+ if(!bad){const x=document.createElement('div');x.className='row ok';x.textContent='לא נמצאו בעיות בבדיקות השלמות.';out.appendChild(x)}
 };
 document.getElementById('run').click();
 </script></main></body></html>
