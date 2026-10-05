@@ -290,5 +290,5 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew versification: 1SA 21 has 16 verses. English/KJV 21:1-15 map to Hebrew 21:2-16; Hebrew 21:1 corresponds to English 20:42b."
+  "sync_rule": "Hebrew versification: 1 Samuel 21 has 16 verses. Hebrew 21:1 corresponds to the final clause of KJV 1 Samuel 20:42; KJV 1 Samuel 21:1-15 correspond to Hebrew 21:2-16. Keep 16 display rows; do not duplicate the final verse."
 }
