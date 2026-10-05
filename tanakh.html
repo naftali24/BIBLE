@@ -1661,8 +1661,19 @@ function render(){
       ? ((Array.isArray(data?.readalong_word_verses))?(data.readalong_word_verses[i]||[]):null)
       : null;
     let verseHTML='';
-    if(language==='he' && wordRows&&wordRows.length){
-      verseHTML=wordRows.map((w,wi)=>'<span class="karaokeWord" data-s="'+Number(w.s)+'" data-e="'+Number(w.e)+'" data-wi="'+wi+'" data-tr="'+esc(w.tr||w.shortTranslation||'')+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(w.h||'')))+'</span>').join(' ');
+    if(language==='he'){
+      // The visible Bible text must always come from chapter.json.
+      // ReadAlong is timing metadata only and must never redefine verse boundaries/text.
+      const bibleVerse=String(t||he[i]||'').trim();
+      const timingWords=(wordRows&&wordRows.length)?wordRows:[];
+      const parts=bibleVerse.split(/(\s+)/);
+      let wi=0;
+      verseHTML=parts.map(part=>{
+        if(/^\s+$/.test(part)) return part;
+        const w=timingWords[wi++];
+        if(w) return '<span class="karaokeWord" data-s="'+Number(w.s)+'" data-e="'+Number(w.e)+'" data-wi="'+(wi-1)+'" data-tr="'+esc(w.tr||w.shortTranslation||'')+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
+        return '<span class="karaokeWord">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
+      }).join('');
     }else if(language==='en'){
       // KJV verse text: render the actual English verse here.
       const englishVerseText=String(t||'').trim();
