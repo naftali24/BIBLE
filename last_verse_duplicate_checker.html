@@ -14,22 +14,22 @@ button{background:#315c39;color:white;cursor:pointer}.row{padding:10px;border-bo
 </style></head>
 <body><main>
 <h1>בדיקת כפילות של פסוקים אחרונים</h1>
-<p>בחר ספר. המחולל משווה את הפסוק האחרון לפסוק שלפניו, בעברית ובאנגלית, ומדווח על כפילות מלאה או כמעט מלאה.</p>
-<select id="book"></select><button id="run">בדוק ספר</button>
+<p>המחולל עובר על כל ספרי התנ״ך וכל הפרקים, משווה את הפסוק האחרון לפסוק שלפניו בעברית ובאנגלית, ומדווח על כפילות מלאה או כמעט מלאה.</p>
+<button id="run">בדוק את כל התנ״ך</button>
 <div id="status"></div><div id="out"></div>
 <script>
 const ROOT='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
 const BOOKS=[['בראשית',50],['שמות',40],['ויקרא',27],['במדבר',36],['דברים',34],['יהושע',24],['שופטים',21],['שמואל א',31],['שמואל ב',24],['מלכים א',22],['מלכים ב',25],['ישעיהו',66],['ירמיהו',52],['יחזקאל',48],['הושע',14],['יואל',4],['עמוס',9],['עובדיה',1],['יונה',4],['מיכה',7],['נחום',3],['חבקוק',3],['צפניה',3],['חגי',2],['זכריה',14],['מלאכי',3],['תהילים',150],['משלי',31],['איוב',42],['שיר השירים',8],['רות',4],['איכה',5],['קהלת',12],['אסתר',10],['דניאל',12],['עזרא',10],['נחמיה',13],['דברי הימים א',29],['דברי הימים ב',36]];
-const sel=document.getElementById('book'),out=document.getElementById('out'),status=document.getElementById('status');
-BOOKS.forEach(([n,c])=>sel.add(new Option(n,n)));
+const out=document.getElementById('out'),status=document.getElementById('status');
 const pad=n=>String(n).padStart(3,'0');
 function norm(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\p{L}\p{N}]+/gu,'').toLowerCase()}
 function similarity(a,b){a=norm(a);b=norm(b);if(!a||!b)return 0;if(a===b)return 1;const A=new Set(a.match(/.{1,3}/g)||[]),B=new Set(b.match(/.{1,3}/g)||[]);let hit=0;A.forEach(x=>B.has(x)&&hit++);return hit/Math.max(A.size,B.size)}
 function arr(d,names){for(const n of names)if(Array.isArray(d[n]))return d[n];return []}
 document.getElementById('run').onclick=async()=>{
- const book=sel.value,count=BOOKS.find(x=>x[0]===book)[1];out.innerHTML='';let bad=0,checked=0;
+ out.innerHTML='';let bad=0,checked=0;const total=BOOKS.reduce((n,x)=>n+x[1],0);
+ for(const [book,count] of BOOKS){
  for(let ch=1;ch<=count;ch++){
-  status.textContent='בודק '+book+' פרק '+ch+' מתוך '+count+'...';
+  status.textContent='בודק '+book+' פרק '+ch+' מתוך '+count+' — '+checked+' / '+total+' פרקים...';
   try{
    const url=ROOT+encodeURIComponent(book)+'/chapter_'+pad(ch)+'/chapter.json?v='+Date.now();
    const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);
@@ -49,7 +49,8 @@ document.getElementById('run').onclick=async()=>{
    }
   }catch(e){const x=document.createElement('div');x.className='row bad';x.textContent=book+' פרק '+ch+': לא ניתן לבדוק — '+e.message;out.appendChild(x)}
  }
- status.textContent='הבדיקה הסתיימה: '+checked+' פרקים. נמצאו '+bad+' פרקים חשודים.';
+ }
+ status.textContent='בדיקת כל התנ״ך הסתיימה: '+checked+' פרקים. נמצאו '+bad+' פרקים חשודים.';
  if(!bad){const x=document.createElement('div');x.className='row ok';x.textContent='לא נמצאה כפילות בפסוק האחרון.';out.appendChild(x)}
 };
 </script></main></body></html>
