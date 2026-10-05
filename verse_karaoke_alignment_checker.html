@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>בדיקת התאמת פסוקים לקריוקי</title>
+<style>
+body{font-family:Arial,sans-serif;background:#111;color:#eee;margin:0;padding:20px}h1{color:#ffd65a}
+button{font-size:20px;padding:12px 20px;border:0;border-radius:12px;background:#ffd65a;font-weight:bold}
+#status{margin:18px 0;font-size:18px}.bad{border:2px solid #f66;border-radius:12px;padding:12px;margin:12px 0;background:#241313}
+.ok{color:#6f6}.verse{margin:6px 0;line-height:1.5}.small{color:#bbb;font-size:14px}
+</style></head><body>
+<h1>בדיקת התאמת פסוקים ↔ קריוקי בכל התנ״ך</h1>
+<p>בודק שרצף המילים של הקריוקי מתאים לרצף הפסוקים שב־chapter.json, בלי להשתמש בסימני נקודתיים לקביעת גבולות פסוק.</p>
+<button id="run">בדוק את כל התנ״ך</button><div id="status"></div><div id="out"></div>
+<script>
+const ROOT='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
+const BOOKS=[['בראשית',50],['שמות',40],['ויקרא',27],['במדבר',36],['דברים',34],['יהושע',24],['שופטים',21],['שמואל א',31],['שמואל ב',24],['מלכים א',22],['מלכים ב',25],['ישעיהו',66],['ירמיהו',52],['יחזקאל',48],['הושע',14],['יואל',4],['עמוס',9],['עובדיה',1],['יונה',4],['מיכה',7],['נחום',3],['חבקוק',3],['צפניה',3],['חגי',2],['זכריה',14],['מלאכי',3],['תהילים',150],['משלי',31],['איוב',42],['שיר השירים',8],['רות',4],['איכה',5],['קהלת',12],['אסתר',10],['דניאל',12],['עזרא',10],['נחמיה',13],['דברי הימים א',29],['דברי הימים ב',36]];
+const pad=n=>String(n).padStart(3,'0'),status=document.getElementById('status'),out=document.getElementById('out');
+function norm(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/\{[פס]\}/g,'').replace(/[^\p{L}\p{N}]+/gu,'').toLowerCase()}
+function wordsOfVerse(s){return String(s||'').trim().split(/\s+/).map(norm).filter(Boolean)}
+async function get(url,optional=false){const r=await fetch(url+'?v='+Date.now(),{cache:'no-store'});if(!r.ok){if(optional)return null;throw Error('HTTP '+r.status)}return r.json()}
+function compare(verses,words){
+ const flat=[];words.forEach(w=>{const h=norm(w.hebrew??w.h??'');if(h)flat.push(h)});
+ let p=0,issues=[];
+ for(let vi=0;vi<verses.length;vi++){
+   const vw=wordsOfVerse(verses[vi]);
+   const got=flat.slice(p,p+vw.length);
+   let mismatch=-1;
+   for(let k=0;k<vw.length;k++)if(vw[k]!==got[k]){mismatch=k;break}
+   if(mismatch>=0||got.length!==vw.length){
+     issues.push({verse:vi+1,expected:vw[mismatch<0?0:mismatch]||'',got:got[mismatch<0?0:mismatch]||'',at:p+(mismatch<0?0:mismatch)});
+     // resync: find first few verse words nearby
+     let found=-1;const sig=vw.slice(0,Math.min(3,vw.length)).join('|');
+     for(let q=Math.max(0,p-8);q<Math.min(flat.length,p+20);q++)if(flat.slice(q,q+Math.min(3,vw.length)).join('|')===sig){found=q;break}
+     if(found>=0)p=found;
+   }
+   p+=vw.length;
+ }
+ if(p!==flat.length)issues.push({verse:'סוף',expected:'סה"כ מילים לפי הפסוקים: '+p,got:'סה"כ מילות קריוקי: '+flat.length,at:p});
+ return issues;
+}
+document.getElementById('run').onclick=async()=>{
+ out.innerHTML='';let checked=0,bad=0,missing=0;const total=BOOKS.reduce((n,x)=>n+x[1],0);
+ for(const [book,count] of BOOKS)for(let ch=1;ch<=count;ch++){
+  status.textContent='בודק '+book+' '+ch+' — '+checked+'/'+total;
+  const base=ROOT+encodeURIComponent(book)+'/chapter_'+pad(ch)+'/';
+  try{
+   const [d,ra]=await Promise.all([get(base+'chapter.json'),get(base+'readalong_words.json',true)]);
+   checked++;if(!ra||!Array.isArray(ra.words)){missing++;continue}
+   const verses=d.verses||d.hebrew||d.hebrew_verses||[];
+   const issues=compare(verses,ra.words);
+   if(issues.length){bad++;const el=document.createElement('div');el.className='bad';
+    el.innerHTML='<b>'+book+' — פרק '+ch+'</b><div class="small">נמצאו '+issues.length+' נקודות חשודות</div>'+
+      issues.slice(0,8).map(x=>'<div class="verse">פסוק '+x.verse+': צפוי „'+x.expected+'” | בקריוקי „'+x.got+'”</div>').join('');
+    out.appendChild(el)}
+  }catch(e){checked++}
+ }
+ status.innerHTML='הסתיים: '+checked+' פרקים. <b>'+bad+' פרקים חשודים</b>. '+missing+' ללא קובץ קריוקי.';
+ if(!bad)out.innerHTML='<div class="ok">לא נמצאו הבדלים בין טקסט הפסוקים לרצף הקריוקי.</div>';
+};
+document.getElementById('run').click();
+</script></body></html>
