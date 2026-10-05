@@ -1,15 +1,15 @@
 <!doctype html>
 <html lang="he" dir="rtl">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>בדיקת קריוקי חדשה V4</title>
+<title>בדיקת גבולות קריוקי V5</title>
 <style>
 body{font-family:Arial,sans-serif;background:#111;color:#eee;margin:0;padding:20px}h1{color:#ffd65a}
 button{font-size:20px;padding:12px 20px;border:0;border-radius:12px;background:#ffd65a;font-weight:bold}
 #status{margin:18px 0;font-size:18px}.bad{border:2px solid #f66;border-radius:12px;padding:12px;margin:12px 0;background:#241313}
 .ok{color:#6f6}.verse{margin:6px 0;line-height:1.5}.small{color:#bbb;font-size:14px}
 </style></head><body>
-<h1>בדיקת קריוקי חדשה — V4</h1>
-<p>בודק שרצף המילים של הקריוקי מתאים לרצף הפסוקים שב־chapter.json, בלי להשתמש בסימני נקודתיים לקביעת גבולות פסוק.</p>
+<h1>בדיקת גבולות פסוקים בקריוקי — V5</h1>
+<p>מציג רק מקרים שבהם לא ניתן למפות את רצף הפסוקים ברצף הקריוקי לפי הסדר. הבדלי ניקוד, פיסוק, מקפים וכתיב קטן אינם שגיאה.</p>
 <button id="run">בדוק את כל התנ״ך</button><div id="status"></div><div id="out"></div>
 <script>
 const ROOT='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -30,22 +30,45 @@ function wordsOfVerse(s){
 }
 async function get(url,optional=false){const r=await fetch(url+'?v='+Date.now(),{cache:'no-store'});if(!r.ok){if(optional)return null;throw Error('HTTP '+r.status)}return r.json()}
 function compare(verses,words){
- const bibleParts=verses.map(hebLetters);
- const bible=bibleParts.join('');
- const karaoke=hebLetters(words.map(w=>String(w?.hebrew??w?.h??'')).join(''));
- if(bible===karaoke)return [];
- let p=0;
- const lim=Math.min(bible.length,karaoke.length);
- while(p<lim&&bible[p]===karaoke[p])p++;
- let verse=1,acc=0;
- for(let i=0;i<bibleParts.length;i++){
-   const next=acc+bibleParts[i].length;
-   if(p<next || (p===next && i===bibleParts.length-1)){verse=i+1;break}
-   acc=next;
+ const kw=words.map(w=>hebLetters(w?.hebrew??w?.h??'')).filter(Boolean);
+ let cursor=0;
+ const issues=[];
+ function sigWords(v){return String(v||'').split(/\s+/).map(hebLetters).filter(Boolean)}
+ function same(a,b){
+   if(a===b)return true;
+   if(!a||!b)return false;
+   // tolerate tiny spelling differences, but never reorder words
+   if(a.length>=4&&b.length>=4){
+     if(a.includes(b)||b.includes(a))return true;
+     let d=Math.abs(a.length-b.length); if(d>1)return false;
+     let i=0,j=0,ed=0;
+     while(i<a.length&&j<b.length){if(a[i]===b[j]){i++;j++;continue}ed++;if(ed>1)return false;if(a.length>b.length)i++;else if(b.length>a.length)j++;else{i++;j++}}
+     return true;
+   }
+   return false;
  }
- return [{verse,expected:bible.slice(Math.max(0,p-15),p+35)||'(חסר)',
-          got:karaoke.slice(Math.max(0,p-15),p+35)||'(חסר)',at:p}];
+ for(let vi=0;vi<verses.length;vi++){
+   const vw=sigWords(verses[vi]); if(!vw.length)continue;
+   // Find the beginning of this verse near the current karaoke cursor.
+   let found=-1;
+   for(let q=cursor;q<Math.min(kw.length,cursor+12);q++){
+     if(same(vw[0],kw[q])){found=q;break}
+   }
+   if(found<0){issues.push({verse:vi+1,expected:vw[0],got:kw[cursor]||'(סוף הקריוקי)'});break}
+   let p=found,ok=true;
+   for(const vword of vw){
+     if(p>=kw.length){ok=false;break}
+     if(same(vword,kw[p])){p++;continue}
+     // tolerate a source maqaf/spacing difference: one side may combine two words
+     if(p+1<kw.length && same(vword,kw[p]+kw[p+1])){p+=2;continue}
+     ok=false;break;
+   }
+   if(!ok){issues.push({verse:vi+1,expected:vw[Math.max(0,p-found)]||vw[0],got:kw[p]||'(סוף הקריוקי)'});break}
+   cursor=p;
+ }
+ return issues;
 }
+
 document.getElementById('run').onclick=async()=>{
  out.innerHTML='';let checked=0,bad=0,missing=0;const total=BOOKS.reduce((n,x)=>n+x[1],0);
  for(const [book,count] of BOOKS)for(let ch=1;ch<=count;ch++){
@@ -57,8 +80,8 @@ document.getElementById('run').onclick=async()=>{
    const verses=d.verses||d.hebrew||d.hebrew_verses||[];
    const issues=compare(verses,ra.words);
    if(issues.length){bad++;const el=document.createElement('div');el.className='bad';
-    el.innerHTML='<b>'+book+' — פרק '+ch+'</b><div class="small">נמצאה שגיאת התאמה אמיתית</div>'+
-      issues.slice(0,8).map(x=>'<div class="verse">פסוק '+x.verse+': בטקסט „'+x.expected+'” | בקריוקי „'+x.got+'”</div>').join('');
+    el.innerHTML='<b>'+book+' — פרק '+ch+'</b><div class="small">נמצאה בעיית גבול/רצף</div>'+
+      issues.slice(0,8).map(x=>'<div class="verse">פסוק '+x.verse+': צפוי „'+x.expected+'” | בקריוקי „'+x.got+'”</div>').join('');
     out.appendChild(el)}
   }catch(e){checked++}
  }
