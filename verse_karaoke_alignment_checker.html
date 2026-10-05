@@ -8,7 +8,7 @@ button{font-size:20px;padding:12px 20px;border:0;border-radius:12px;background:#
 #status{margin:18px 0;font-size:18px}.bad{border:2px solid #f66;border-radius:12px;padding:12px;margin:12px 0;background:#241313}
 .ok{color:#6f6}.verse{margin:6px 0;line-height:1.5}.small{color:#bbb;font-size:14px}
 </style></head><body>
-<h1>בדיקת התאמת פסוקים ↔ קריוקי בכל התנ״ך</h1>
+<h1>בדיקת התאמת פסוקים ↔ קריוקי בכל התנ״ך — גרסה 3</h1>
 <p>בודק שרצף המילים של הקריוקי מתאים לרצף הפסוקים שב־chapter.json, בלי להשתמש בסימני נקודתיים לקביעת גבולות פסוק.</p>
 <button id="run">בדוק את כל התנ״ך</button><div id="status"></div><div id="out"></div>
 <script>
@@ -30,16 +30,21 @@ function wordsOfVerse(s){
 }
 async function get(url,optional=false){const r=await fetch(url+'?v='+Date.now(),{cache:'no-store'});if(!r.ok){if(optional)return null;throw Error('HTTP '+r.status)}return r.json()}
 function compare(verses,words){
- const karaoke=hebLetters(words.map(w=>w.hebrew??w.h??'').join(' '));
- const bible=hebLetters(verses.join(' '));
- if(karaoke===bible)return [];
- // Locate the first real letter-level difference only.
- let p=0;while(p<bible.length&&p<karaoke.length&&bible[p]===karaoke[p])p++;
- let acc=0,verse=1;
- for(let i=0;i<verses.length;i++){acc+=hebLetters(verses[i]).length;if(p<acc){verse=i+1;break}}
- const a=bible.slice(Math.max(0,p-12),p+28);
- const b=karaoke.slice(Math.max(0,p-12),p+28);
- return [{verse,expected:a||'(חסר)',got:b||'(חסר)',at:p}];
+ const bibleParts=verses.map(hebLetters);
+ const bible=bibleParts.join('');
+ const karaoke=hebLetters(words.map(w=>String(w?.hebrew??w?.h??'')).join(''));
+ if(bible===karaoke)return [];
+ let p=0;
+ const lim=Math.min(bible.length,karaoke.length);
+ while(p<lim&&bible[p]===karaoke[p])p++;
+ let verse=1,acc=0;
+ for(let i=0;i<bibleParts.length;i++){
+   const next=acc+bibleParts[i].length;
+   if(p<next || (p===next && i===bibleParts.length-1)){verse=i+1;break}
+   acc=next;
+ }
+ return [{verse,expected:bible.slice(Math.max(0,p-15),p+35)||'(חסר)',
+          got:karaoke.slice(Math.max(0,p-15),p+35)||'(חסר)',at:p}];
 }
 document.getElementById('run').onclick=async()=>{
  out.innerHTML='';let checked=0,bad=0,missing=0;const total=BOOKS.reduce((n,x)=>n+x[1],0);
