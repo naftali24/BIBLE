@@ -405,6 +405,7 @@ body{
 
 /* Embedded ReadAlong word-by-word karaoke */
 .verse .karaokeWord{display:inline;transition:background .08s,color .08s,box-shadow .08s;border-radius:5px;padding:0 1px}
+.verse .karaokeWord.directSpeech{color:#b07d18}
 .verse .karaokeWord.karaokeActive{background:#ffe600;color:#111;box-shadow:0 0 0 2px rgba(255,230,0,.28)}
 .verse .karaokeWord.wordSelected,.verse .englishWord.wordSelected{background:#7dd3fc;color:#07111f;box-shadow:0 0 0 3px rgba(14,165,233,.45)}
 .verse .englishWord{cursor:pointer;border-radius:5px;padding:0 1px}
@@ -1687,12 +1688,16 @@ function render(){
       const bibleVerse=String(t||he[i]||'').trim();
       const timingWords=(wordRows&&wordRows.length)?wordRows:[];
       const parts=bibleVerse.split(/(\s+)/);
-      let wi=0;
+      let wi=0, tokenIx=0;
+      const speechRanges=(data?.direct_speech_ranges?.[String(i+1)]||[]);
       verseHTML=parts.map(part=>{
         if(/^\s+$/.test(part)) return part;
+        const thisToken=tokenIx++;
+        const isDirectSpeech=speechRanges.some(r=>Array.isArray(r)&&thisToken>=Number(r[0])&&thisToken<=Number(r[1]));
+        const speechClass=isDirectSpeech?' directSpeech':'';
         const w=timingWords[wi++];
-        if(w) return '<span class="karaokeWord" data-s="'+Number(w.s)+'" data-e="'+Number(w.e)+'" data-wi="'+(wi-1)+'" data-tr="'+esc(w.tr||w.shortTranslation||'')+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
-        return '<span class="karaokeWord">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
+        if(w) return '<span class="karaokeWord'+speechClass+'" data-s="'+Number(w.s)+'" data-e="'+Number(w.e)+'" data-wi="'+(wi-1)+'" data-tr="'+esc(w.tr||w.shortTranslation||'')+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
+        return '<span class="karaokeWord'+speechClass+'">'+esc(cleanBibleDisplayText(stripHebrewTrope(part)))+'</span>';
       }).join('');
     }else if(language==='en'){
       // KJV verse text: render the actual English verse here.
