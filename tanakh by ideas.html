@@ -35,6 +35,38 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
 #ideasInstallBtn{position:static;z-index:99999;border:1px solid #d4af37;border-radius:8px;background:linear-gradient(#f7df7a,#c99a22);color:#3b2600;padding:6px 10px;font:800 13px Arial;box-shadow:none;margin:0 4px;white-space:nowrap}
 #ideasInstallBtn[hidden]{display:none!important}
 </style>
+
+<style id="verseDisplayTuning">
+/* פסוקים מעט קטנים וצפופים יותר */
+.verse-overlay{
+  font-size:clamp(19px,2.35vw,26px);
+  line-height:1.08;
+  padding:10px 12px;
+}
+.karaoke-line{margin:0 0 1px}
+
+/* כאשר הפסוקים מוצגים, התמונה נעשית שקופה ב-70% (opacity 30%). */
+.picture-frame.verses-visible .picture{opacity:.30}
+
+/* אם יש הרבה פסוקים, מאפשרים גלילה בתוך אזור התמונה. */
+.picture-frame.verses-visible .verse-overlay{
+  overflow-y:auto;
+  pointer-events:auto;
+  touch-action:pan-y;
+  overscroll-behavior:contain;
+}
+
+/* בזמן קריוקי אפשר להגדיל זמנית את חלון התמונה כדי לתת יותר מקום לפסוקים. */
+.picture-frame.karaoke-playing{
+  max-height:72dvh;
+}
+.picture-frame.karaoke-playing .picture{
+  max-height:72dvh;
+}
+.picture-frame.karaoke-playing .verse-overlay{
+  max-height:72dvh;
+}
+</style>
 </head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="ideasInstallBtn" type="button" hidden>INSTALL</button><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
@@ -75,7 +107,11 @@ const chapterData=new Map(),hebrewVerses=new Map(),wordData=new Map(),audioSourc
 function getWordData(item){if(!wordData.has(item.key))wordData.set(item.key,getJson(item.key+'/readalong_words.json').catch(e=>{wordData.delete(item.key);throw e;}));return wordData.get(item.key);}
 function readHebrewWords(data){const out=[];let parts=[];for(const word of data.words||[]){const text=String(word.hebrew||'').trim();if(!text)continue;parts.push(text);if(text.includes('׃')){out.push(parts.join(' '));parts=[];}}if(parts.length)out.push(parts.join(' '));return out;}
 async function getVerses(item,lang){const details=chapterData.get(item.key)||{};if(lang==='en')return details.english||[];if(Array.isArray(details.verses))return details.verses;if(!hebrewVerses.has(item.key)){const pending=getWordData(item).then(data=>{const rows=readHebrewWords(data);if(!rows.length)throw new Error('Missing verses');return rows;}).catch(e=>{hebrewVerses.delete(item.key);throw e;});hebrewVerses.set(item.key,pending);}return hebrewVerses.get(item.key);}
-async function refreshVerses(article){const state=article.verseState;if(!state)return;const {overlay,toggle,verseLabel,from,to,item}=state;const lang=currentLanguage,request=++state.request;verseLabel.textContent=(lang==='he'?'פסוקים ':'Verses ')+(from>0?(from===to?from:from+'–'+to):'');toggle.setAttribute('aria-pressed',String(state.open));toggle.setAttribute('aria-label',lang==='he'?(state.open?'הסתר פסוקים':'הצג פסוקים'):(state.open?'Hide verses':'Show verses'));overlay.hidden=!state.open;if(!state.open)return;overlay.lang=lang;overlay.textContent=lang==='he'?'טוען פסוקים…':'Loading verses…';try{const rows=await getVerses(item,lang);if(request!==state.request||!state.open)return;if(!(from>0&&to>=from)||rows.length<to)throw new Error('Missing range');renderVerseText(state,rows,lang);overlay.scrollTop=0;}catch(e){if(request===state.request&&state.open)overlay.textContent=lang==='he'?'לא ניתן לטעון את הפסוקים. סגור ופתח כדי לנסות שוב.':'Unable to load verses. Close and reopen to retry.';}}
+async function refreshVerses(article){const state=article.verseState;if(!state)return;const {overlay,toggle,verseLabel,from,to,item}=state;const lang=currentLanguage,request=++state.request;verseLabel.textContent=(lang==='he'?'פסוקים ':'Verses ')+(from>0?(from===to?from:from+'–'+to):'');toggle.setAttribute('aria-pressed',String(state.open));toggle.setAttribute('aria-label',lang==='he'?(state.open?'הסתר פסוקים':'הצג פסוקים'):(state.open?'Hide verses':'Show verses'));overlay.hidden=!state.open;
+const frame=overlay.closest('.picture-frame');
+frame?.classList.toggle('verses-visible',state.open);
+if(!state.open){frame?.classList.remove('karaoke-playing');return;}
+overlay.lang=lang;overlay.textContent=lang==='he'?'טוען פסוקים…':'Loading verses…';try{const rows=await getVerses(item,lang);if(request!==state.request||!state.open)return;if(!(from>0&&to>=from)||rows.length<to)throw new Error('Missing range');renderVerseText(state,rows,lang);overlay.scrollTop=0;}catch(e){if(request===state.request&&state.open)overlay.textContent=lang==='he'?'לא ניתן לטעון את הפסוקים. סגור ופתח כדי לנסות שוב.':'Unable to load verses. Close and reopen to retry.';}}
 function renderVerseText(state,rows,lang){
  state.overlay.replaceChildren();
  for(let verse=state.from;verse<=state.to;verse++){
@@ -86,12 +122,13 @@ function renderVerseText(state,rows,lang){
 }
 const audioPlayer=new Audio();audioPlayer.preload='metadata';
 let audioSession=null,audioToken=0,audioFrame=0;
-function stopAudio(){audioToken++;audioPlayer.pause();cancelAnimationFrame(audioFrame);if(audioSession){const {state}=audioSession;state.audioButton.textContent='▶';state.audioButton.setAttribute('aria-pressed','false');state.audioButton.setAttribute('aria-label',currentLanguage==='he'?'נגן קריוקי':'Play karaoke');state.overlay.querySelectorAll('.karaoke-active').forEach(el=>el.classList.remove('karaoke-active'));}audioSession=null;}
+function stopAudio(){audioToken++;audioPlayer.pause();cancelAnimationFrame(audioFrame);if(audioSession){const {state}=audioSession;state.overlay.closest('.picture-frame')?.classList.remove('karaoke-playing');state.audioButton.textContent='▶';state.audioButton.setAttribute('aria-pressed','false');state.audioButton.setAttribute('aria-label',currentLanguage==='he'?'נגן קריוקי':'Play karaoke');state.overlay.querySelectorAll('.karaoke-active').forEach(el=>el.classList.remove('karaoke-active'));}audioSession=null;}
 function englishCues(details,from,to){const times=details.times_en||[];return Array.from({length:to-from+1},(_,n)=>{const verse=from+n,t=times[verse-1],next=times[verse];const start=Number(typeof t==='object'?t?.start:t);const end=Number((typeof t==='object'?t?.end:undefined)??details.times_en_end?.[verse-1]??(typeof next==='object'?next?.start:next));return {verse,start,end};}).filter(c=>Number.isFinite(c.start)&&Number.isFinite(c.end)&&c.end>c.start);}
 function hebrewCues(data,from,to){let verse=1,wordIndex=0;const cues=[];for(const word of data.words||[]){const text=String(word.hebrew||'').trim();if(!text)continue;const count=text.split(/\s+/).length;if(verse>=from&&verse<=to){const start=Number(word.start),end=Number(word.end);if(Number.isFinite(start)&&Number.isFinite(end)&&end>start)cues.push({verse,word:wordIndex,count,start,end});}wordIndex+=count;if(text.includes('׃')){verse++;wordIndex=0;}}return cues;}
 async function getAudioSource(item,lang){const details=chapterData.get(item.key)||{};if(lang==='en'){if(!details.audio_en_url)throw new Error('No English recording');return details.audio_en_url;}if(details.audio_he_url||details.audio_url)return details.audio_he_url||details.audio_url;if(!audioSources.has(item.key)){audioSources.set(item.key,fetch(url(item.key+'/audio_url.txt')).then(async r=>{if(!r.ok)throw new Error('Audio URL unavailable');const value=(await r.text()).trim();if(!/^https?:\/\//.test(value))throw new Error('Invalid audio URL');return value;}).catch(e=>{audioSources.delete(item.key);throw e;}));}return audioSources.get(item.key);}
 function updateKaraoke(){const session=audioSession;if(!session)return;const time=audioPlayer.currentTime;if(time>=session.end){stopAudio();return;}const cue=session.cues.find(c=>time>=c.start&&time<c.end);if(cue!==session.active){session.state.overlay.querySelectorAll('.karaoke-active').forEach(el=>el.classList.remove('karaoke-active'));session.active=cue;if(cue){const selector=session.lang==='en'?'.karaoke-line[data-verse="'+cue.verse+'"]':'.karaoke-word[data-verse="'+cue.verse+'"]';const all=[...session.state.overlay.querySelectorAll(selector)];const targets=session.lang==='en'?all:all.filter(el=>Number(el.dataset.word)>=cue.word&&Number(el.dataset.word)<cue.word+cue.count);targets.forEach(el=>el.classList.add('karaoke-active'));const el=targets[0],box=session.state.overlay;if(el){const r=el.getBoundingClientRect(),b=box.getBoundingClientRect();if(r.top<b.top||r.bottom>b.bottom)box.scrollTop+=r.top-b.top-12;}}}audioFrame=requestAnimationFrame(updateKaraoke);}
 async function toggleAudio(article){if(audioSession?.article===article){stopAudio();return;}stopAudio();const token=audioToken,state=article.verseState,lang=currentLanguage;audioSession={article,state,lang,cues:[],end:Infinity};state.audioButton.textContent='■';state.audioButton.setAttribute('aria-pressed','true');state.audioButton.setAttribute('aria-label',lang==='he'?'עצור קריוקי':'Stop karaoke');if(!versesMode)setVersesMode(true);state.open=true;
+state.overlay.closest('.picture-frame')?.classList.add('karaoke-playing');
  try{await refreshVerses(article);const [source,data]=await Promise.all([getAudioSource(state.item,lang),lang==='he'?getWordData(state.item):Promise.resolve(chapterData.get(state.item.key))]);if(token!==audioToken)return;const cues=lang==='he'?hebrewCues(data,state.from,state.to):englishCues(data,state.from,state.to);if(!cues.length||!cues.some(c=>c.verse===state.from)||!cues.some(c=>c.verse===state.to))throw new Error('Timing unavailable');audioSession.cues=cues;audioSession.end=cues[cues.length-1].end;audioPlayer.src=source;audioPlayer.currentTime=cues[0].start;await audioPlayer.play();if(token!==audioToken)return;updateKaraoke();}
  catch(e){if(token!==audioToken)return;stopAudio();state.overlay.hidden=false;state.overlay.textContent=lang==='he'?'לא ניתן לנגן. בדוק את החיבור ונסה שוב.':'Unable to play. Check your connection and retry.';}
 }
