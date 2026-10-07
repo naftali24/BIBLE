@@ -67,6 +67,12 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
   max-height:72dvh;
 }
 </style>
+
+<style id="ideaSummaryFontTuning">
+.he{font-size:clamp(22px,2.7vw,29px)}
+.en{font-size:clamp(21px,2.6vw,28px)}
+@media(max-width:600px){.he,.en{font-size:22px}}
+</style>
 </head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="ideasInstallBtn" type="button" hidden>INSTALL</button><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
