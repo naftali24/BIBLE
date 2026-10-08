@@ -137,83 +137,201 @@
   "times_en": [
     {
       "start": 2.88,
-      "end": 5.06,
-      "usfm": "NUM.17.1"
+      "end": 4.13,
+      "usfm": "NUM.17.1",
+      "estimated": true
     },
     {
-      "start": 5.06,
-      "end": 17.92,
-      "usfm": "NUM.17.2"
+      "start": 4.13,
+      "end": 9.17,
+      "usfm": "NUM.17.2",
+      "estimated": true
     },
     {
-      "start": 17.92,
-      "end": 25.06,
-      "usfm": "NUM.17.3"
+      "start": 9.17,
+      "end": 17.48,
+      "usfm": "NUM.17.3",
+      "estimated": true
     },
     {
-      "start": 25.06,
-      "end": 32.04,
-      "usfm": "NUM.17.4"
+      "start": 17.48,
+      "end": 21.8,
+      "usfm": "NUM.17.4",
+      "estimated": true
     },
     {
-      "start": 32.04,
-      "end": 44.2,
-      "usfm": "NUM.17.5"
+      "start": 21.8,
+      "end": 30.69,
+      "usfm": "NUM.17.5",
+      "estimated": true
     },
     {
-      "start": 44.2,
-      "end": 58.82,
-      "usfm": "NUM.17.6"
+      "start": 30.69,
+      "end": 35.22,
+      "usfm": "NUM.17.6",
+      "estimated": true
     },
     {
-      "start": 58.82,
-      "end": 63.06,
-      "usfm": "NUM.17.7"
+      "start": 35.22,
+      "end": 41.37,
+      "usfm": "NUM.17.7",
+      "estimated": true
     },
     {
-      "start": 63.06,
-      "end": 77.88,
-      "usfm": "NUM.17.8"
+      "start": 41.37,
+      "end": 43.53,
+      "usfm": "NUM.17.8",
+      "estimated": true
     },
     {
-      "start": 77.88,
-      "end": 87.3,
-      "usfm": "NUM.17.9"
+      "start": 43.53,
+      "end": 44.78,
+      "usfm": "NUM.17.9",
+      "estimated": true
     },
     {
-      "start": 87.3,
-      "end": 100.66,
-      "usfm": "NUM.17.10"
+      "start": 44.78,
+      "end": 48.36,
+      "usfm": "NUM.17.10",
+      "estimated": true
     },
     {
-      "start": 100.66,
-      "end": 105.4,
-      "usfm": "NUM.17.11"
+      "start": 48.36,
+      "end": 56.07,
+      "usfm": "NUM.17.11",
+      "estimated": true
     },
     {
-      "start": 105.4,
-      "end": 112.58,
-      "usfm": "NUM.17.12"
+      "start": 56.07,
+      "end": 62.1,
+      "usfm": "NUM.17.12",
+      "estimated": true
     },
     {
-      "start": 112.58,
+      "start": 62.1,
+      "end": 64.51,
+      "usfm": "NUM.17.13",
+      "estimated": true
+    },
+    {
+      "start": 64.51,
+      "end": 68.16,
+      "usfm": "NUM.17.14",
+      "estimated": true
+    },
+    {
+      "start": 68.16,
+      "end": 71.16,
+      "usfm": "NUM.17.15",
+      "estimated": true
+    },
+    {
+      "start": 71.16,
+      "end": 72.41,
+      "usfm": "NUM.17.16",
+      "estimated": true
+    },
+    {
+      "start": 72.41,
+      "end": 78.51,
+      "usfm": "NUM.17.17",
+      "estimated": true
+    },
+    {
+      "start": 78.51,
+      "end": 82.48,
+      "usfm": "NUM.17.18",
+      "estimated": true
+    },
+    {
+      "start": 82.48,
+      "end": 85.64,
+      "usfm": "NUM.17.19",
+      "estimated": true
+    },
+    {
+      "start": 85.64,
+      "end": 91.86,
+      "usfm": "NUM.17.20",
+      "estimated": true
+    },
+    {
+      "start": 91.86,
+      "end": 98.0,
+      "usfm": "NUM.17.21",
+      "estimated": true
+    },
+    {
+      "start": 98.0,
+      "end": 100.48,
+      "usfm": "NUM.17.22",
+      "estimated": true
+    },
+    {
+      "start": 100.48,
+      "end": 107.47,
+      "usfm": "NUM.17.23",
+      "estimated": true
+    },
+    {
+      "start": 107.47,
+      "end": 111.84,
+      "usfm": "NUM.17.24",
+      "estimated": true
+    },
+    {
+      "start": 111.84,
+      "end": 118.94,
+      "usfm": "NUM.17.25",
+      "estimated": true
+    },
+    {
+      "start": 118.94,
+      "end": 120.92,
+      "usfm": "NUM.17.26",
+      "estimated": true
+    },
+    {
+      "start": 120.92,
+      "end": 124.32,
+      "usfm": "NUM.17.27",
+      "estimated": true
+    },
+    {
+      "start": 124.32,
       "end": 127.84,
-      "usfm": "NUM.17.13"
+      "usfm": "NUM.17.28",
+      "estimated": true
     }
   ],
   "times_en_end": [
-    5.06,
-    17.92,
-    25.06,
-    32.04,
-    44.2,
-    58.82,
-    63.06,
-    77.88,
-    87.3,
-    100.66,
-    105.4,
-    112.58,
+    4.13,
+    9.17,
+    17.48,
+    21.8,
+    30.69,
+    35.22,
+    41.37,
+    43.53,
+    44.78,
+    48.36,
+    56.07,
+    62.1,
+    64.51,
+    68.16,
+    71.16,
+    72.41,
+    78.51,
+    82.48,
+    85.64,
+    91.86,
+    98.0,
+    100.48,
+    107.47,
+    111.84,
+    118.94,
+    120.92,
+    124.32,
     127.84
   ],
   "times_en_usfm": [
@@ -229,12 +347,27 @@
     "NUM.17.10",
     "NUM.17.11",
     "NUM.17.12",
-    "NUM.17.13"
+    "NUM.17.13",
+    "NUM.17.14",
+    "NUM.17.15",
+    "NUM.17.16",
+    "NUM.17.17",
+    "NUM.17.18",
+    "NUM.17.19",
+    "NUM.17.20",
+    "NUM.17.21",
+    "NUM.17.22",
+    "NUM.17.23",
+    "NUM.17.24",
+    "NUM.17.25",
+    "NUM.17.26",
+    "NUM.17.27",
+    "NUM.17.28"
   ],
   "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
   "english_audio_version_id": 1,
   "english_audio_id": null,
-  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_source": "ESTIMATED: proportional to English verse word counts over the existing 127.84s English audio. WARNING: linked YouVersion KJV NUM.17 recording contains only Hebrew-numbered verses 16–28; estimated timing for verses 1–15 cannot correspond to their spoken text in this recording.",
   "english_text_source": "English verses aligned to Hebrew chapter numbering (28 verses); English KJV audio NUM.17.1-13 corresponds to Hebrew verses 16-28.",
   "verses": [
     "וַיְדַבֵּר יְהוָה, אֶל מֹשֶׁה לֵּאמֹר.",
@@ -417,6 +550,7 @@
       16
     ],
     "english_audio_note": "13 KJV audio timing records map to Hebrew verses 16-28, not Hebrew verses 1-13. Hebrew verses 1-15 have no verified English timing in these files.",
-    "source": "Merged two supplied chapter files without changing the working HTML player."
+    "source": "Merged two supplied chapter files without changing the working HTML player.",
+    "english_timing_warning": "All 28 timing records are estimates. The actual linked KJV recording starts at Hebrew verse 16, so verses 1–15 require a different audio recording for correct synchronization."
   }
 }
