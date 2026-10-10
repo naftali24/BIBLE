@@ -32,15 +32,23 @@ $('copy').onclick=async()=>{
  catch(e){$('words').value=rows.map(x=>x.word+' | '+x.pointed+' | '+x.book+' '+x.chapter+':'+x.verse).join('\n');$('words').focus();$('words').select();$('saveReport').textContent='העתקה אוטומטית נחסמה. סמן והעתק ידנית '+rows.length+' מילים.'}
 };
 $('merge').onclick=()=>{try{const input=JSON.parse($('answers').value);if(!input||Array.isArray(input)||typeof input!=='object')throw Error('נדרש אובייקט JSON');let added=0,skipped=0;const allowed=new Set(missing.map(x=>x.word));for(const [key,val] of Object.entries(input)){const k=clean(key);if(!allowed.has(k)||typeof val!=='string'||!val.trim()||Object.prototype.hasOwnProperty.call(dict,k)){skipped++;continue}dict[k]=val.trim();added++}missing=missing.filter(x=>!Object.prototype.hasOwnProperty.call(dict,x.word));pos=0;show();$('saveReport').textContent='נוספו בזיכרון '+added+' פירושים. דולגו '+skipped+'. כעת לחץ ״עדכן מילון בגיטהאב״ כדי לשמור.';$('answers').value=''}catch(e){$('saveReport').textContent='שגיאה בפענוח JSON: '+e.message}};
-$('save').onclick=async()=>{const token=$('token').value.trim();if(!token){$('saveReport').textContent='כדי לשמור ישירות בגיטהאב יש להכניס GitHub token בעל הרשאת כתיבה';return}const btn=$('save');btn.disabled=true;try{const url=api+'/contents/'+dictPath;const headers={'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};const r=await fetch(url,{headers,cache:'no-store'});if(!r.ok)throw Error('לא ניתן לקרוא מגיטהאב: '+r.status);const info=await r.json();if(!info.sha)throw Error('לא התקבל מזהה קובץ מגיטהאב');let encoded=info.content;
-if(!encoded){
- const blobResponse=await fetch(api+'/git/blobs/'+info.sha,{headers,cache:'no-store'});
- if(!blobResponse.ok)throw Error('קריאת קובץ המילון הגדול נכשלה: '+blobResponse.status);
- const blobInfo=await blobResponse.json();
- encoded=blobInfo.content;
- if(!encoded)throw Error('GitHub החזיר תוכן ריק. לא בוצעה שמירה.');
+$('save').onclick=async()=>{const token=$('token').value.trim();if(!token){$('saveReport').textContent='כדי לשמור ישירות בגיטהאב יש להכניס GitHub token בעל הרשאת כתיבה';return}const btn=$('save');btn.disabled=true;try{const url=api+'/contents/'+dictPath;const headers={'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};const r=await fetch(url,{headers,cache:'no-store'});if(!r.ok)throw Error('לא ניתן לקרוא מגיטהאב: '+r.status);const info=await r.json();if(!info.sha)throw Error('לא התקבל מזהה קובץ מגיטהאב');let remoteText='';
+if(info.content){
+ try{remoteText=new TextDecoder().decode(Uint8Array.from(atob(info.content.replace(/\s/g,'')),c=>c.charCodeAt(0)))}catch(e){throw Error('פענוח קובץ המילון נכשל: '+e.message)}
 }
-const remote=JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(encoded.replace(/\s/g,'')),c=>c.charCodeAt(0))));let added=0;for(const [k,v] of Object.entries(dict))if(!Object.prototype.hasOwnProperty.call(remote,k)){remote[k]=v;added++}if(!added){$('saveReport').textContent='כל הפירושים כבר נמצאים בגיטהאב. לא נדרש עדכון.';return}const data=JSON.stringify(remote);const bytes=new TextEncoder().encode(data);let binary='';for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.slice(i,i+8192));const wr=await fetch(url,{method:'PUT',headers:{...headers,'Content-Type':'application/json'},body:JSON.stringify({message:'Add '+added+' Tanakh dictionary definitions',sha:info.sha,content:btoa(binary)})});if(!wr.ok)throw Error('GitHub לא אישר שמירה: '+wr.status+' '+(await wr.text()).slice(0,200));dict=remote;baseCount=entries();$('saveReport').textContent='✓ נשמר בגיטהאב! נוספו '+added+' מילים. במילון '+entries()+' מילים.';updateCounters();$('token').value=''}catch(e){$('saveReport').textContent='שמירה נכשלה: '+e.message}finally{btn.disabled=false}};
+if(!remoteText.trim()){
+ const blobResponse=await fetch(api+'/git/blobs/'+info.sha,{headers:{...headers,'Accept':'application/vnd.github.raw+json'},cache:'no-store'});
+ if(!blobResponse.ok)throw Error('קריאת מילון דרך Git blob נכשלה: HTTP '+blobResponse.status);
+ const rawBlob=await blobResponse.text();
+ if(rawBlob.trim().startsWith('{') && rawBlob.includes('"content"') && rawBlob.includes('"encoding"')){
+  let blobInfo;try{blobInfo=JSON.parse(rawBlob)}catch(e){throw Error('תשובת Git blob אינה JSON תקין')}
+  if(blobInfo.content)remoteText=new TextDecoder().decode(Uint8Array.from(atob(blobInfo.content.replace(/\s/g,'')),c=>c.charCodeAt(0)));
+ }else remoteText=rawBlob;
+}
+if(!remoteText.trim())throw Error('GitHub החזיר מילון ריק. השמירה בוטלה כדי לא למחוק נתונים.');
+let remote;try{remote=JSON.parse(remoteText)}catch(e){throw Error('קובץ המילון הקיים אינו JSON תקין ('+remoteText.length+' תווים): '+e.message)}
+if(!remote||typeof remote!=='object'||Array.isArray(remote))throw Error('מבנה המילון בגיטהאב אינו תקין');
+let added=0;for(const [k,v] of Object.entries(dict))if(!Object.prototype.hasOwnProperty.call(remote,k)){remote[k]=v;added++}if(!added){$('saveReport').textContent='כל הפירושים כבר נמצאים בגיטהאב. לא נדרש עדכון.';return}const data=JSON.stringify(remote);const bytes=new TextEncoder().encode(data);let binary='';for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.slice(i,i+8192));const wr=await fetch(url,{method:'PUT',headers:{...headers,'Content-Type':'application/json'},body:JSON.stringify({message:'Add '+added+' Tanakh dictionary definitions',sha:info.sha,content:btoa(binary)})});if(!wr.ok)throw Error('GitHub לא אישר שמירה: '+wr.status+' '+(await wr.text()).slice(0,200));dict=remote;baseCount=entries();$('saveReport').textContent='✓ נשמר בגיטהאב! נוספו '+added+' מילים. במילון '+entries()+' מילים.';updateCounters();$('token').value=''}catch(e){$('saveReport').textContent='שמירה נכשלה: '+e.message}finally{btn.disabled=false}};
 $('download').onclick=()=>{const blob=new Blob([JSON.stringify(dict)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=dictPath;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};
 
 function zipFiles(files){
