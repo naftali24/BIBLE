@@ -25,7 +25,7 @@ def chapter_file(path):
     if any(part.lower() in SKIP_DIRS for part in rel.parts[:-1]):
         return False
     # Files may live inside CHAPTER/ or have CHAPTER in their names.
-    return any('chapter' in part.lower() for part in rel.parts) and path.suffix.lower() in TEXT_SUFFIXES
+    return path.name.lower() == 'chapter.json' and any(part.lower().startsWith('chapter_') for part in rel.parts[:-1])
 
 def correct(text):
     # JSON strings escape ASCII quotes, so never introduce a bare quote inside JSON.
