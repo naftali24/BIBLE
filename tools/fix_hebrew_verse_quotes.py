@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Dot + optional whitespace + closing quote + whitespace, with Hebrew text before.
 PATTERN = re.compile(r'(?<=[\u0590-\u05FF])\.[ \t\u00a0]*[״”"](?=[ \t\u00a0]+)')
 # Do not match end-of-verse punctuation or JSON delimiters.
-OPENING = re.compile(r'(?<=[ :;,])״(?=[\\u0590-\\u05FF])')
+OPENING = re.compile(r'(?<=[ :;,])״(?=[\u0590-\u05FF])')
 
 def fix_verse(verse):
     def replace(m):
