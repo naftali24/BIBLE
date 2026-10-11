@@ -1,0 +1,31 @@
+name: Fix Hebrew verse punctuation
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: 'Write fixes and commit to main (false = preview only)'
+        required: true
+        default: false
+        type: boolean
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scan Hebrew verse JSON
+        run: python tools/fix_hebrew_verse_quotes.py ${{ inputs.apply && '--apply' || '' }}
+      - name: Commit fixes
+        if: ${{ inputs.apply }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- '*.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Fix spacing before quotes in Hebrew verses"
+            git push
+          fi
