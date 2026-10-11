@@ -1,98 +1,75 @@
 #!/usr/bin/env python3
-"""Move period after closing quote in Hebrew verse text (both quote styles).
-Preview by default; --apply writes changes. No JSON reserialization.
+"""Correct Hebrew closing-quote punctuation in CHAPTER source files.
+
+Before: לְמִינָהּ. ״ וַיְהִי כֵן.
+After:  לְמִינָהּ". וַיְהִי כֵן.
+
+Preview is the default. --apply modifies files. Works with CHAPTER source
+files regardless of extension (HTML, JS, TXT, JSON or extensionless).
 """
 import argparse
-import json
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PATTERN = re.compile(r'\.\s*["״]\s*')
-HEBREW = re.compile(r'[\u0590-\u05ff]')
-VERSE_KEYS = {'he', 'hebrew', 'hebrewtext', 'hebrew_text', 'text_he',
-              'versetext', 'verse_text', 'versehe', 'verse_he',
-              'versehebrew', 'verse_hebrew', 'pasuk', 'verse'}
-EXCLUDE = {'.git', '.github', 'node_modules', 'image', 'images', 'audio',
-           'readalong', 'karaoke', 'backup', 'backups'}
+HEBREW = r'\u0590-\u05FF'
+# Require Hebrew just before the period to avoid touching English prose.
+# Quote can be U+05F4 Hebrew gershayim, U+201C/U+201D curly quote,
+# or a literal ASCII double quote.
+PATTERN = re.compile(r'([' + HEBREW + r'])(\.)[ \t\u00a0]*[״“”"][ \t\u00a0]*')
+SKIP_DIRS = {'.git', '.github', 'node_modules', 'image', 'images', 'audio', 'backup', 'backups'}
+TEXT_SUFFIXES = {'.json', '.html', '.htm', '.txt', '.js', '.mjs', '.jsonl', '.xml', '.md', ''}
 
-def fix(value):
-    return PATTERN.sub('". ', value)
+def chapter_file(path):
+    rel = path.relative_to(ROOT)
+    if any(part.lower() in SKIP_DIRS for part in rel.parts[:-1]):
+        return False
+    # Files may live inside CHAPTER/ or have CHAPTER in their names.
+    return any('chapter' in part.lower() for part in rel.parts) and path.suffix.lower() in TEXT_SUFFIXES
 
-def locate_strings(raw):
-    """Return ranges of JSON string *values* (not keys), with parent keys."""
-    decoder = json.JSONDecoder()
-    # JSON parsed to validate, then locate lexical values using a small tokenizer.
-    # Use regex tokenization to retain exact formatting/escapes.
-    token = re.compile(r'"(?:\\.|[^"\\])*"|[{}\[\]:,]|-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?|true|false|null', re.S)
-    stack = []
-    pending = None
-    for m in token.finditer(raw):
-        t = m.group()
-        if t in ('{','['):
-            stack.append({'type':t,'key':pending,'expect_key':t=='{'})
-            pending = None
-        elif t in ('}',']'):
-            if stack: stack.pop()
-            pending = None
-        elif t == ':':
-            pass
-        elif t == ',':
-            if stack and stack[-1]['type']=='{': stack[-1]['expect_key']=True
-        elif t.startswith('"'):
-            if stack and stack[-1]['type']=='{' and stack[-1]['expect_key']:
-                pending=json.loads(t)
-                stack[-1]['expect_key']=False
-            else:
-                keys=[x['key'] for x in stack if isinstance(x['key'],str)]
-                if pending is not None: keys.append(pending)
-                yield m.start(),m.end(),t,keys
-                pending=None
-        else:
-            pending=None
+def correct(text):
+    # JSON strings escape ASCII quotes, so never introduce a bare quote inside JSON.
+    return PATTERN.sub(lambda m: m.group(1) + '". ', text)
 
 def process(path, apply):
-    raw=path.read_text(encoding='utf-8-sig')
-    if path.suffix.lower() not in ('.json',):
-        # CHAPTER source files may be HTML/text, not JSON.
-        n=len(PATTERN.findall(raw))
-        if apply and n:
-            path.write_text(fix(raw),encoding='utf-8')
-        return n
-    try: json.loads(raw)
-    except (ValueError, UnicodeError): return 0
-    edits=[]
-    for start,end,quoted,keys in locate_strings(raw):
-        try: val=json.loads(quoted)
-        except ValueError: continue
-        if not HEBREW.search(val) or not PATTERN.search(val): continue
-        # Explicit verse field, or Hebrew value inside a verse object.
-        if not any(str(k).lower() in VERSE_KEYS for k in keys): continue
-        new=fix(val)
-        if new==val: continue
-        # Preserve original JSON layout; JSON-escape replacement text.
-        replacement=json.dumps(new,ensure_ascii=False)
-        edits.append((start,end,replacement,len(PATTERN.findall(val))))
-    if apply and edits:
-        for start,end,replacement,_ in reversed(edits):
-            raw=raw[:start]+replacement+raw[end:]
-        path.write_text(raw,encoding='utf-8')
-    return sum(e[3] for e in edits)
+    try:
+        original = path.read_text(encoding='utf-8-sig')
+    except (UnicodeError, OSError):
+        return 0
+    if not re.search('[' + HEBREW + ']', original):
+        return 0
+    # For JSON files, ASCII quotes must be escaped to keep valid JSON.
+    if path.suffix.lower() in {'.json', '.jsonl'}:
+        # JSON can have escaped quoted values; replace with escaped quote.
+        changed, count = PATTERN.subn(lambda m: m.group(1) + '\\". ', original)
+    else:
+        changed, count = PATTERN.subn(lambda m: m.group(1) + '". ', original)
+    if apply and count:
+        path.write_text(changed, encoding='utf-8')
+    return count
 
 def main():
-    ap=argparse.ArgumentParser()
-    ap.add_argument('--apply',action='store_true')
-    args=ap.parse_args()
-    total=files=0
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--apply', action='store_true')
+    args = parser.parse_args()
+    candidates = 0
+    changed_files = 0
+    total = 0
     for path in ROOT.rglob('*'):
-        if not path.is_file() or path.suffix.lower() not in ('.json', '.html', '.htm', '.txt'): continue
-        if 'chapter' not in str(path.relative_to(ROOT)).lower(): continue
-        rel=path.relative_to(ROOT)
-        if any(p.lower() in EXCLUDE for p in rel.parts[:-1]): continue
-        if path.stat().st_size>10_000_000: continue
-        n=process(path,args.apply)
-        if n:
-            print(f'{rel}: {n} replacements')
-            total+=n;files+=1
-    print(f'{"APPLIED" if args.apply else "PREVIEW"}: {total} replacements in {files} files')
-if __name__=='__main__': main()
+        if not path.is_file() or not chapter_file(path):
+            continue
+        if path.stat().st_size > 12_000_000:
+            continue
+        candidates += 1
+        count = process(path, args.apply)
+        if count:
+            changed_files += 1
+            total += count
+            print(f'{path.relative_to(ROOT)}: {count} replacements')
+    print(f'CHAPTER candidate files scanned: {candidates}')
+    print(f'{"APPLIED" if args.apply else "PREVIEW"}: {total} replacements in {changed_files} files')
+    if not candidates:
+        print('WARNING: No CHAPTER files found. Check source file paths in the repository.')
+
+if __name__ == '__main__':
+    main()
