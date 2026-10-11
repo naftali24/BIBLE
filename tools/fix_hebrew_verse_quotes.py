@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix period-space-quote-space in Hebrew verse text only.
+"""Move period after closing quote in Hebrew verse text (both quote styles).
 Preview by default; --apply writes changes. No JSON reserialization.
 """
 import argparse
@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PATTERN = re.compile(r'\. +" +')
+PATTERN = re.compile(r'\.\s*["״]\s*')
 HEBREW = re.compile(r'[\u0590-\u05ff]')
 VERSE_KEYS = {'he', 'hebrew', 'hebrewtext', 'hebrew_text', 'text_he',
               'versetext', 'verse_text', 'versehe', 'verse_he',
@@ -17,7 +17,7 @@ EXCLUDE = {'.git', '.github', 'node_modules', 'image', 'images', 'audio',
            'readalong', 'karaoke', 'backup', 'backups'}
 
 def fix(value):
-    return PATTERN.sub('." ', value)
+    return PATTERN.sub('". ', value)
 
 def locate_strings(raw):
     """Return ranges of JSON string *values* (not keys), with parent keys."""
