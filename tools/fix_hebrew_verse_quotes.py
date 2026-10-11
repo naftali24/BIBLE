@@ -53,6 +53,12 @@ def locate_strings(raw):
 
 def process(path, apply):
     raw=path.read_text(encoding='utf-8-sig')
+    if path.suffix.lower() not in ('.json',):
+        # CHAPTER source files may be HTML/text, not JSON.
+        n=len(PATTERN.findall(raw))
+        if apply and n:
+            path.write_text(fix(raw),encoding='utf-8')
+        return n
     try: json.loads(raw)
     except (ValueError, UnicodeError): return 0
     edits=[]
@@ -78,7 +84,9 @@ def main():
     ap.add_argument('--apply',action='store_true')
     args=ap.parse_args()
     total=files=0
-    for path in ROOT.rglob('*.json'):
+    for path in ROOT.rglob('*'):
+        if not path.is_file() or path.suffix.lower() not in ('.json', '.html', '.htm', '.txt'): continue
+        if 'chapter' not in str(path.relative_to(ROOT)).lower(): continue
         rel=path.relative_to(ROOT)
         if any(p.lower() in EXCLUDE for p in rel.parts[:-1]): continue
         if path.stat().st_size>10_000_000: continue
