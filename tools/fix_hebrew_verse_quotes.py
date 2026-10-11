@@ -19,7 +19,8 @@ def fix_verse(verse):
     def replace(m):
         return '".'
     # Leave following whitespace exactly as it was.
-    return PATTERN.sub(replace, verse)
+    verse = PATTERN.sub(replace, verse)
+    return OPENING.sub('"', verse)
 
 def chapter_files():
     for p in sorted(ROOT.rglob('chapter.json')):
@@ -39,7 +40,7 @@ def run(apply):
         if not isinstance(verses,list) or not all(isinstance(v,str) for v in verses):
             continue
         revised=[fix_verse(v) for v in verses]
-        count=sum(len(PATTERN.findall(v)) for v in verses)
+        count=sum(len(PATTERN.findall(v)) + len(OPENING.findall(PATTERN.sub('".',v))) for v in verses)
         if not count:
             continue
         # Replace only the exact serialized verse strings within the verses array.
