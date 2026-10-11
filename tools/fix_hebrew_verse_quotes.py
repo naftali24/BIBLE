@@ -1,75 +1,82 @@
 #!/usr/bin/env python3
-"""Correct Hebrew closing-quote punctuation in CHAPTER source files.
+"""Safely fix Hebrew verse closing punctuation in */chapter_NNN/chapter.json only.
 
-Before: לְמִינָהּ. ״ וַיְהִי כֵן.
-After:  לְמִינָהּ". וַיְהִי כֵן.
-
-Preview is the default. --apply modifies files. Works with CHAPTER source
-files regardless of extension (HTML, JS, TXT, JSON or extensionless).
+Example: לְמִינָהּ. ״ וַיְהִי כֵן. -> לְמִינָהּ". וַיְהִי כֵן.
+No other JSON fields or files are modified. Dry run by default.
 """
 import argparse
+import json
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-HEBREW = r'\u0590-\u05FF'
-# Require Hebrew just before the period to avoid touching English prose.
-# Quote can be U+05F4 Hebrew gershayim, U+201C/U+201D curly quote,
-# or a literal ASCII double quote.
-PATTERN = re.compile(r'([' + HEBREW + r'])(\.)[ \t\u00a0]*[״“”"][ \t\u00a0]*')
-SKIP_DIRS = {'.git', '.github', 'node_modules', 'image', 'images', 'audio', 'backup', 'backups'}
-TEXT_SUFFIXES = {'.json', '.html', '.htm', '.txt', '.js', '.mjs', '.jsonl', '.xml', '.md', ''}
+# Dot + optional whitespace + closing quote + whitespace, with Hebrew text before.
+PATTERN = re.compile(r'(?<=[\u0590-\u05FF])\.[ \t\u00a0]*[״”"](?=[ \t\u00a0]+)')
+# Do not match end-of-verse punctuation or JSON delimiters.
+SPACES = re.compile(r'[ \t\u00a0]+')
 
-def chapter_file(path):
-    rel = path.relative_to(ROOT)
-    if any(part.lower() in SKIP_DIRS for part in rel.parts[:-1]):
-        return False
-    # Files may live inside CHAPTER/ or have CHAPTER in their names.
-    return path.name.lower() == 'chapter.json' and any(part.lower().startsWith('chapter_') for part in rel.parts[:-1])
+def fix_verse(verse):
+    def replace(m):
+        return '".'
+    # Leave following whitespace exactly as it was.
+    return PATTERN.sub(replace, verse)
 
-def correct(text):
-    # JSON strings escape ASCII quotes, so never introduce a bare quote inside JSON.
-    return PATTERN.sub(lambda m: m.group(1) + '". ', text)
+def chapter_files():
+    for p in sorted(ROOT.rglob('chapter.json')):
+        if re.fullmatch(r'chapter_\d+', p.parent.name, re.I):
+            yield p
 
-def process(path, apply):
-    try:
-        original = path.read_text(encoding='utf-8-sig')
-    except (UnicodeError, OSError):
-        return 0
-    if not re.search('[' + HEBREW + ']', original):
-        return 0
-    # For JSON files, ASCII quotes must be escaped to keep valid JSON.
-    if path.suffix.lower() in {'.json', '.jsonl'}:
-        # JSON can have escaped quoted values; replace with escaped quote.
-        changed, count = PATTERN.subn(lambda m: m.group(1) + '\\". ', original)
-    else:
-        changed, count = PATTERN.subn(lambda m: m.group(1) + '". ', original)
-    if apply and count:
-        path.write_text(changed, encoding='utf-8')
-    return count
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--apply', action='store_true')
-    args = parser.parse_args()
-    candidates = 0
-    changed_files = 0
-    total = 0
-    for path in ROOT.rglob('*'):
-        if not path.is_file() or not chapter_file(path):
+def run(apply):
+    files=changes=0
+    for path in chapter_files():
+        files+=1
+        original=path.read_text(encoding='utf-8-sig')
+        try:
+            data=json.loads(original)
+        except json.JSONDecodeError as exc:
+            raise RuntimeError(f'Invalid JSON before changes: {path}: {exc}') from exc
+        verses=data.get('verses') if isinstance(data,dict) else None
+        if not isinstance(verses,list) or not all(isinstance(v,str) for v in verses):
             continue
-        if path.stat().st_size > 12_000_000:
+        revised=[fix_verse(v) for v in verses]
+        count=sum(len(PATTERN.findall(v)) for v in verses)
+        if not count:
             continue
-        candidates += 1
-        count = process(path, args.apply)
-        if count:
-            changed_files += 1
-            total += count
-            print(f'{path.relative_to(ROOT)}: {count} replacements')
-    print(f'CHAPTER candidate files scanned: {candidates}')
-    print(f'{"APPLIED" if args.apply else "PREVIEW"}: {total} replacements in {changed_files} files')
-    if not candidates:
-        print('WARNING: No CHAPTER files found. Check source file paths in the repository.')
+        # Replace only the exact serialized verse strings within the verses array.
+        # We verify the full parsed JSON remains identical except for verses.
+        # Preserve all other fields via line-level replacement, avoiding reformatting.
+        lines=original.splitlines(keepends=True)
+        cursor=0
+        for old,new in zip(verses,revised):
+            if old==new: continue
+            old_json=json.dumps(old,ensure_ascii=False)
+            new_json=json.dumps(new,ensure_ascii=False)
+            found=False
+            for idx in range(cursor,len(lines)):
+                if old_json in lines[idx]:
+                    lines[idx]=lines[idx].replace(old_json,new_json,1)
+                    cursor=idx+1
+                    found=True
+                    break
+            if not found:
+                raise RuntimeError(f'Could not locate original verse in {path}; no changes written')
+        updated=''.join(lines)
+        check=json.loads(updated)
+        expected=dict(data)
+        expected['verses']=revised
+        if check!=expected:
+            raise RuntimeError(f'Unexpected JSON changes in {path}; no changes written')
+        if apply:
+            path.write_text(updated,encoding='utf-8')
+        changes+=count
+        print(f'{path.relative_to(ROOT)}: {count} changes')
+    print(f'CHAPTER files scanned: {files}')
+    print(f'{"APPLIED" if apply else "PREVIEW"}: {changes} replacements')
+    if not files:
+        raise SystemExit('ERROR: No chapter.json files found')
 
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--apply',action='store_true')
+    args=parser.parse_args()
+    run(args.apply)
