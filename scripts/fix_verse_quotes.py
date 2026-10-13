@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix Hebrew quotation punctuation and explicit 'word of the Lord' headings only."""
+"""Fix Hebrew verse-final quotation punctuation without altering speech boundaries."""
 import argparse
 import json
 import re
@@ -12,13 +12,6 @@ def fix_string(s):
     if not isinstance(s, str):
         return s, 0
     n = 0
-    # Quote the explicit heading "דבר יהוה" when it opens a verse; do not quote the whole verse.
-    # Handle vocalized and unvocalized text; skip headings already in quotes.
-    heading = re.compile(r'^(\\s*)(ד[\\u0591-\\u05c7]*ב[\\u0591-\\u05c7]*ר[\\u0591-\\u05c7]*\\s+י[\\u0591-\\u05c7]*ה[\\u0591-\\u05c7]*ו[\\u0591-\\u05c7]*ה[\\u0591-\\u05c7]*)(?=\\s|[,;:.])')
-    match = heading.search(s)
-    if match:
-        s = s[:match.start(2)] + "״" + match.group(2) + "״" + s[match.end(2):]
-        n += 1
     def end_quote(m):
         nonlocal n
         n += 1
