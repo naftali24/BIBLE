@@ -1,0 +1,57 @@
+name: Fix Hebrew verse punctuation
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: 'Book folder name, or * for all'
+        required: true
+        default: '*'
+        type: string
+      from_chapter:
+        description: 'First chapter'
+        required: true
+        default: '1'
+        type: string
+      to_chapter:
+        description: 'Last chapter'
+        required: true
+        default: '150'
+        type: string
+      apply:
+        description: 'Commit corrections (unchecked = preview only)'
+        required: true
+        default: false
+        type: boolean
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Run punctuation fixer
+        env:
+          BOOK: ${{ inputs.book }}
+          FROM_CHAPTER: ${{ inputs.from_chapter }}
+          TO_CHAPTER: ${{ inputs.to_chapter }}
+          APPLY: ${{ inputs.apply }}
+        run: |
+          if [ "$APPLY" = "true" ]; then
+            python3 scripts/fix_verse_quotes.py --book "$BOOK" --from-chapter "$FROM_CHAPTER" --to-chapter "$TO_CHAPTER" --apply
+          else
+            python3 scripts/fix_verse_quotes.py --book "$BOOK" --from-chapter "$FROM_CHAPTER" --to-chapter "$TO_CHAPTER"
+          fi
+      - name: Commit changed chapter files
+        if: ${{ inputs.apply }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*/chapter_*/chapter.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Fix Hebrew verse punctuation (quotes and periods)"
+            git push
+          else
+            echo "No changes needed."
+          fi
