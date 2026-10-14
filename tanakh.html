@@ -2894,12 +2894,9 @@ document.addEventListener('click', async function(ev){
   b.classList.add('playing');
   b.textContent='⏹';
 
-  try{audio.pause();}catch(err){}
-  try{audio.currentTime=sourceTime(s);}catch(err){}
-  try{
-    const p=audio.play();
-    if(p&&p.catch)await p.catch(()=>{});
-  }catch(err){}
+  // Seek reliably before playing the selected Hebrew verse (including verses 13/14).
+  // A direct currentTime assignment can be ignored while the MP3 is loading.
+  seekAndPlayAbsolute(sourceTime(s));
 },true);
 
 audio.addEventListener('timeupdate',function(){
