@@ -442,6 +442,11 @@ body{
 .englishWord.wordSelected{background:#7dd3fc!important;color:#07111f!important;box-shadow:0 0 0 3px rgba(14,165,233,.45)!important}
 
 #langBtn svg{display:block;width:36px;height:24px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+
+/* Gold chapter navigation above the image */
+#chapterStepControls{position:absolute;top:8px;left:50%;transform:translateX(-50%);z-index:35;display:flex;gap:12px;direction:ltr}
+#chapterStepControls button{width:43px;height:39px;border:1px solid #f4ce70;border-radius:10px;background:linear-gradient(180deg,#d6ad4d,#8c6019);color:#261604;font-size:27px;font-weight:900;line-height:1;box-shadow:0 2px 8px #0008;cursor:pointer}
+#chapterStepControls button:disabled{opacity:.35;cursor:default}
 </style><style>
 /* Consolidated final overrides */
 .missingEnglishAudio{background:#7d6262!important;color:white!important;opacity:.8}
@@ -1046,6 +1051,7 @@ main{scroll-padding-top:8px!important}
     <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
   </div><div id="cards"></div></main>
 <section id="imageSection">
+  <div id="chapterStepControls" aria-label="מעבר בין פרקים"><button type="button" onclick="stepChapter(-1)" aria-label="פרק קודם" title="פרק קודם">−</button><button type="button" onclick="stepChapter(1)" aria-label="פרק הבא" title="פרק הבא">+</button></div>
   <div id="cap">תנ״ך</div>
   <div id="imageBox">
 
@@ -2904,6 +2910,15 @@ setTimeout(()=>{
 /* Playback fix: removed legacy LRC auto-seek on loadedmetadata/play.
    That handler could move the MP3 forward after a user-initiated verse/sequence seek.
    Only explicit user playback actions may seek the recording. */
+
+function stepChapter(delta){
+  const book=loadedBook||currentBook;
+  const chapter=loadedChapter||Number(document.getElementById('sel')?.value)||1;
+  if(!book)return;
+  const next=chapter+delta;
+  if(next<1||next>book.chapters)return;
+  loadChapter(next,book);
+}
 </script>
 
 
