@@ -2928,17 +2928,10 @@ document.addEventListener('click', async function(ev){
 
   if(!Number.isFinite(s)||!Number.isFinite(e))return;
 
-  // Ecclesiastes 4:17 is recorded as the opening verse of the next MP3
-  // (Christian chapter division). Use that recording for this verse only.
-  const crossChapterVerse=(language==='he' && loadedBook?.id==='ecclesiastes' && Number(loadedChapter)===4 && vi===16);
-  if(crossChapterVerse){
-    const nextSrc=readAlongURL(readAlongAudioCode(loadedBook,5),'mp3');
-    if(audio.src!==nextSrc){audio.pause();audio.src=nextSrc;audio.load();}
-    s=0.92;e=5.49;
-  }else if(language==='he' && loadedBook?.id==='ecclesiastes' && Number(loadedChapter)===4){
-    const thisSrc=data?.audio_he_url||data?.audio_url;
-    if(thisSrc && audio.src!==thisSrc){audio.pause();audio.src=thisSrc;audio.load();}
-  }
+  // Always use this Hebrew chapter's own ReadAlong MP3 and word timings.
+  // Do not force Ecclesiastes 4:17 onto chapter 5: that played 'אל תבהל על פיך'.
+  const thisSrc=data?.audio_he_url||data?.audio_url||'';
+  if(thisSrc && audio.src!==thisSrc){audio.pause();audio.src=thisSrc;audio.load();}
 
   sequenceMode=false;sequenceStartTarget=null;sequenceFloorTime=null;
   lockedVerse=-1;
