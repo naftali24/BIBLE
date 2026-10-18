@@ -2826,7 +2826,9 @@ document.addEventListener('click', async function(ev){
     const st=englishTimingStart(vi);
     let en=englishTimingEnd(vi);
     if(!Number.isFinite(st)) return;
-    const src=data?.audio_en_url||data?.english_audio_url||'';
+    const entry=Array.isArray(data?.times_en)?data.times_en[vi]:null;
+    // Some Hebrew verses belong to a different English audio chapter (Ecclesiastes 4:17).
+    const src=(entry && typeof entry==='object' && entry.audio_url) || data?.audio_en_url || data?.english_audio_url || '';
     if(!src) return;
     if(audio.src!==src){ audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
