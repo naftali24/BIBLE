@@ -2409,6 +2409,10 @@ function updateWordKaraoke(){
 }
 
 function currentAudioVerse(){
+  if(language==='en' && sequenceMode && data?.times_en?.length){
+    const ix=data.times_en.findIndex((entry,i)=>i>0 && entry?.audio_url && audio.src===entry.audio_url && audio.currentTime>=Number(entry.start)-0.2);
+    if(ix>=0)return ix;
+  }
   const times=activeTimes();
   if(!times.length)return 0;
   const ct=chapterTimeFromAudio();
@@ -2418,7 +2422,25 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;
+  if(language==='en' && Array.isArray(data?.times_en)){
+    const boundary=data.times_en.findIndex((entry,i)=>i>0 && entry?.audio_url);
+    if(boundary>=0){
+      const entry=data.times_en[boundary];
+      const prior=data.times_en[boundary-1];
+      const chapterSrc=data.audio_en_url||data.english_audio_url||'';
+      if(audio.src===chapterSrc && audio.currentTime>=Number(prior.end)-0.06){
+        audio.pause();audio.src=entry.audio_url;audio.load();
+        sequenceLastVerse=boundary;lastReadingVerse=boundary;
+        setActive(boundary,false);
+        seekAndPlayAbsolute(Number(entry.start));return;
+      }
+      if(audio.src===entry.audio_url && audio.currentTime>=Number(entry.end)-0.04){
+        audio.pause();sequenceMode=false;setActive(boundary,false);return;
+      }
+    }
+  }
+  const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
 
 function updateSequenceButtonIcon(){const b=document.getElementById("sequenceBtn");if(!b)return;b.textContent=audio.paused?"🔊":"⏸";b.classList.toggle("audioPlaying",!audio.paused);b.title=audio.paused?"נגן רצף":"השהה נגינה";}
 audio.addEventListener("play",updateSequenceButtonIcon);audio.addEventListener("pause",updateSequenceButtonIcon);audio.addEventListener("ended",updateSequenceButtonIcon);
@@ -2440,6 +2462,11 @@ function playSequence(){
   reloadScrollTarget=null;reloadPinnedVerse=null;
   lastReadingVerse=startIndex;
   const start=sourceTime(Number(times[startIndex]));
+  if(language==='en'){
+    const entry=data?.times_en?.[startIndex];
+    const src=entry?.audio_url || data.audio_en_url || data.english_audio_url || '';
+    if(src && audio.src!==src){audio.pause();audio.src=src;audio.load();}
+  }
   sequenceStartTarget=start;sequenceFloorTime=start;
   setActive(startIndex,true);
   seekAndPlayAbsolute(start);
