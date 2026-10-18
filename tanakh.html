@@ -2282,6 +2282,8 @@ function playOneVerse(i){
   
   lockedVerse=i;
   if(language==='en'){
+    const src=data?.times_en?.[i]?.audio_url||data?.audio_en_url||data?.english_audio_url||'';
+    if(src && audio.src!==src){audio.pause();audio.src=src;audio.load();}
     const enEnd=englishTimingEnd(i);
     stopAtTime=Number.isFinite(enEnd)?enEnd:null;
   }else{
@@ -2826,9 +2828,9 @@ document.addEventListener('click', async function(ev){
     const st=englishTimingStart(vi);
     let en=englishTimingEnd(vi);
     if(!Number.isFinite(st)) return;
-    const src=data?.audio_en_url||data?.english_audio_url||'';
+    const src=data?.times_en?.[vi]?.audio_url||data?.audio_en_url||data?.english_audio_url||'';
     if(!src) return;
-    if(audio.src!==src){ audio.src=src; audio.load(); }
+    if(audio.src!==src){ audio.pause(); audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
     rememberReadingVerse(vi);
     setActive(vi,false);
