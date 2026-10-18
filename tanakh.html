@@ -2409,9 +2409,19 @@ function updateWordKaraoke(){
 }
 
 function currentAudioVerse(){
-  if(language==='en' && sequenceMode && data?.times_en?.length){
-    const ix=data.times_en.findIndex((entry,i)=>i>0 && entry?.audio_url && audio.src===entry.audio_url && audio.currentTime>=Number(entry.start)-0.2);
-    if(ix>=0)return ix;
+  if(language==='en' && Array.isArray(data?.times_en)){
+    const source=audio.currentSrc||audio.src;
+    const entries=data.times_en;
+    const alternate=entries.findIndex((entry,i)=>i>0 && entry?.audio_url && entry.audio_url===source);
+    if(alternate>=0)return alternate;
+    const ct=chapterTimeFromAudio();
+    let i=0;
+    for(let j=0;j<entries.length;j++){
+      if(entries[j]?.audio_url)continue; // Times from another MP3 are not comparable.
+      const start=englishTimingStart(j);
+      if(Number.isFinite(start)&&start<=ct)i=j;
+    }
+    return i;
   }
   const times=activeTimes();
   if(!times.length)return 0;
@@ -2470,6 +2480,10 @@ function playSequence(){
   reloadScrollTarget=null;reloadPinnedVerse=null;
   lastReadingVerse=startIndex;
   const start=sourceTime(Number(times[startIndex]));
+  if(language==='he'){
+    const src=data?.audio_he_url||data?.audio_url||data?.hebrew_audio_url||'';
+    if(src && audio.src!==src){audio.pause();audio.src=src;audio.load();}
+  }
   if(language==='en'){
     const entry=data?.times_en?.[startIndex];
     const src=entry?.audio_url || data.audio_en_url || data.english_audio_url || '';
