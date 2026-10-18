@@ -2288,6 +2288,11 @@ function playOneVerse(i){
     stopAtTime=(i+1<times.length&&Number.isFinite(Number(times[i+1])))?Number(times[i+1]):null;
   }
   const target=sourceTime(start);
+  if(language==='en'){
+    const entry=Array.isArray(data?.times_en)?data.times_en[i]:null;
+    const src=(entry && typeof entry==='object' && entry.audio_url) || data?.audio_en_url || data?.english_audio_url || '';
+    if(src && audio.src!==src){audio.pause();audio.src=src;audio.load();}
+  }
   setActive(i,true);
   seekAndPlayAbsolute(target);
 }
