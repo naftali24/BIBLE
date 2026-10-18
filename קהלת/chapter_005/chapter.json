@@ -179,11 +179,6 @@
   "times_he": [],
   "times_en": [
     {
-      "start": 2.88,
-      "end": 14.2,
-      "usfm": "ECC.5.1"
-    },
-    {
       "start": 14.2,
       "end": 26.34,
       "usfm": "ECC.5.2"
@@ -281,7 +276,6 @@
   ],
   "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
-    14.2,
     26.34,
     33.98,
     44.16,
@@ -303,7 +297,6 @@
     199.84
   ],
   "times_en_usfm": [
-    "ECC.5.1",
     "ECC.5.2",
     "ECC.5.3",
     "ECC.5.4",
@@ -326,5 +319,5 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew chapter 5 verses 1–19 correspond to English Ecclesiastes 5:2–20; times_en shifted by one."
 }
