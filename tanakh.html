@@ -2285,7 +2285,7 @@ function playOneVerse(i){
     const enEnd=englishTimingEnd(i);
     stopAtTime=Number.isFinite(enEnd)?enEnd:null;
   }else{
-    stopAtTime=(i+1<times.length&&Number.isFinite(Number(times[i+1])))?Number(times[i+1]):null;
+    stopAtTime=(i+1<times.length&&Number.isFinite(Number(times[i+1])))?Number(times[i+1]):(Array.isArray(data?.readalong_word_verses?.[i])?Number(data.readalong_word_verses[i].at(-1)?.e):null);
   }
   const target=sourceTime(start);
   if(language==='en'){
@@ -2422,7 +2422,15 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'||lockedVerse===activeTimes().length-1?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;
+  // A chapter must stop at its final verse, even if its MP3 includes the next chapter.
+  if(language==='he' && Array.isArray(data?.readalong_word_verses)){
+    const last=data.readalong_word_verses.at(-1);
+    const end=Number(last?.at(-1)?.e);
+    if(Number.isFinite(end) && audio.currentTime>=sourceTime(end)-0.04){
+      audio.pause();sequenceMode=false;setActive(data.readalong_word_verses.length-1,false);return;
+    }
+  }
   if(language==='en' && Array.isArray(data?.times_en)){
     const boundary=data.times_en.findIndex((entry,i)=>i>0 && entry?.audio_url);
     if(boundary>=0){
