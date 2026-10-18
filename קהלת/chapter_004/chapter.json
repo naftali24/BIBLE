@@ -263,6 +263,14 @@
       "start": 133.18,
       "end": 154.24,
       "usfm": "ECC.4.16"
+    },
+    {
+      "start": 2.88,
+      "end": 14.2,
+      "usfm": "ECC.5.1",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/ECC/5-14009ffa543065abc6df61180d904a72.mp3?version_id=1",
+      "source_chapter": 5,
+      "source_verse": 1
     }
   ],
   "times_en_source": "YouVersion KJV version_id=1",
@@ -282,7 +290,8 @@
     119.94,
     126.5,
     133.18,
-    154.24
+    154.24,
+    14.2
   ],
   "times_en_usfm": [
     "ECC.4.1",
@@ -300,9 +309,10 @@
     "ECC.4.13",
     "ECC.4.14",
     "ECC.4.15",
-    "ECC.4.16"
+    "ECC.4.16",
+    "ECC.5.1"
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew chapter 4 verse 17 corresponds to English Ecclesiastes 5:1; times_en[16].audio_url overrides chapter English audio URL."
 }
