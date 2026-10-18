@@ -1410,9 +1410,31 @@ function showVerseAtTop(index){
   verseAtTop=index;
   requestAnimationFrame(()=>{scroller.style.scrollBehavior=previous});
 }
-function reloadCurrentChapter(){
+const TANAKH_BUILD_ID='20261018-smart-reload-1';
+async function reloadCurrentChapter(){
   if(!loadedBook||!loadedChapter)return;
-  loadChapter(loadedChapter,loadedBook,getTopVisibleVerse());
+  const button=document.getElementById('reloadChapterBtn');
+  const oldTitle=button?.title;
+  if(button){button.disabled=true;button.title='בודק עדכונים באפליקציה';}
+  const verse=getTopVisibleVerse();
+  try{
+    const url='https://raw.githubusercontent.com/naftali24/BIBLE/main/tanakh.html';
+    const response=await fetch(url+'?_check='+Date.now(),{cache:'no-store'});
+    if(response.ok){
+      const html=await response.text();
+      const match=html.match(/const TANAKH_BUILD_ID='([^']+)'/);
+      if(match && match[1]!==TANAKH_BUILD_ID){
+        rememberReadingVerse(verse);
+        saveReadingForPageRefresh();
+        const next=new URL(location.href);
+        next.searchParams.set('_app_update',String(Date.now()));
+        location.replace(next.href);
+        return;
+      }
+    }
+  }catch(error){console.warn('Update check unavailable; reloading chapter data',error);}
+  finally{if(button){button.disabled=false;button.title=oldTitle;}}
+  loadChapter(loadedChapter,loadedBook,verse);
 }
 function restoreReloadVerse(index){
   if(!Number.isInteger(index)||index<0||!verseCards[index])return;
