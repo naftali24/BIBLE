@@ -2837,7 +2837,8 @@ document.addEventListener('click', async function(ev){
     const st=englishTimingStart(vi);
     let en=englishTimingEnd(vi);
     if(!Number.isFinite(st)) return;
-    const src=data?.audio_en_url||data?.english_audio_url||'';
+    const verseTiming=data?.times_en?.[vi];
+    const src=verseTiming?.audio_url||data?.audio_en_url||data?.english_audio_url||'';
     if(!src) return;
     if(audio.src!==src){ audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
