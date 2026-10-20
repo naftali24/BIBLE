@@ -451,6 +451,42 @@
       "start": 304.38,
       "end": 316.76,
       "usfm": "NEH.3.32"
+    },
+    {
+      "start": 2.88,
+      "end": 11.92,
+      "usfm": "NEH.4.1",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    },
+    {
+      "start": 11.92,
+      "end": 29.14,
+      "usfm": "NEH.4.2",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    },
+    {
+      "start": 29.14,
+      "end": 38.52,
+      "usfm": "NEH.4.3",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    },
+    {
+      "start": 38.52,
+      "end": 48.44,
+      "usfm": "NEH.4.4",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    },
+    {
+      "start": 48.44,
+      "end": 57.72,
+      "usfm": "NEH.4.5",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    },
+    {
+      "start": 57.72,
+      "end": 65.1,
+      "usfm": "NEH.4.6",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
     }
   ],
   "times_en_source": "YouVersion KJV version_id=1",
@@ -486,7 +522,13 @@
     280.34,
     293,
     304.38,
-    316.76
+    316.76,
+    11.92,
+    29.14,
+    38.52,
+    48.44,
+    57.72,
+    65.1
   ],
   "times_en_usfm": [
     "NEH.3.1",
@@ -520,9 +562,27 @@
     "NEH.3.29",
     "NEH.3.30",
     "NEH.3.31",
-    "NEH.3.32"
+    "NEH.3.32",
+    "NEH.4.1",
+    "NEH.4.2",
+    "NEH.4.3",
+    "NEH.4.4",
+    "NEH.4.5",
+    "NEH.4.6"
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV. Hebrew verses 33-38 correspond to English KJV NEH.4.1-6; times_en items 33-38 use english_audio_segments second audio URL.",
+  "english_audio_segments": [
+    {
+      "from_verse": 1,
+      "to_verse": 32,
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/3-3a02d6069f26338c0b61c819f1cc1e9d.mp3?version_id=1"
+    },
+    {
+      "from_verse": 33,
+      "to_verse": 38,
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/4-1477a5627c8a499b45bd9c9df25bf691.mp3?version_id=1"
+    }
+  ]
 }
