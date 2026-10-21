@@ -2918,19 +2918,16 @@ document.addEventListener('click', async function(ev){
   if(!Number.isFinite(s)||!Number.isFinite(e))return;
 
   sequenceMode=false;sequenceStartTarget=null;sequenceFloorTime=null;
-  lockedVerse=-1;
+  // Keep the selected verse locked: split chapter audio has non-monotonic timestamps.
+  lockedVerse=vi;
   absoluteSeekSerial++;
   verseButtonStopAt=e;
   verseButtonEl=b;
   b.classList.add('playing');
   b.textContent='⏹';
 
-  try{audio.pause();}catch(err){}
-  try{audio.currentTime=sourceTime(s);}catch(err){}
-  try{
-    const p=audio.play();
-    if(p&&p.catch)await p.catch(()=>{});
-  }catch(err){}
+  // Seek after metadata is ready, including when the selected verse changes MP3.
+  seekAndPlayAbsolute(sourceTime(s));
 },true);
 
 audio.addEventListener('timeupdate',function(){
