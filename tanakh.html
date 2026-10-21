@@ -2228,6 +2228,17 @@ function render(){
       ? '<button class="verseAudioBtn" data-vi="'+i+'" title="'+(language==='en'?'Play / stop KJV verse':'השמע/עצור פסוק')+'">🔊</button>'
       : (englishAudioUnavailable ? '<button class="verseAudioBtn missingEnglishAudio" data-vi="'+i+'" title="English audio/timings missing — click for details">🔇</button>' : '');
     c.innerHTML='<div class="num '+(language==='en'?'englishNum':'')+'">'+label+(i+1)+didYouKnowMarker+ideaInline+verseAudioBtn+'</div><div class="verse '+(language==='en'?'englishVerse':'')+'">'+verseHTML+'</div>';
+    // Daniel 2: show the Hebrew translation of the Aramaic beneath the original verse.
+    if(language==='he' && loadedBook?.id==='daniel' && Number(loadedChapter)===2 && i>=3){
+      const translation=data?.aramaic_hebrew_translation?.[i];
+      if(translation){
+        const p=document.createElement('div');
+        p.className='aramaicHebrewTranslation';
+        p.style.cssText='direction:rtl;text-align:right;margin:6px 0 10px;padding:6px 10px;border-right:3px solid #b18b45;font-size:0.92em;line-height:1.55';
+        p.textContent='תרגום מארמית: '+translation;
+        c.appendChild(p);
+      }
+    }
     // English verse is rendered once by the standard verse renderer above.
     const st=stein[i]||'';
     const ax=(language==='he' ? (ai[i]||(!stein.length ? (legacy[i]||'') : '')) : '');
