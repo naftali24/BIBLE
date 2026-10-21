@@ -341,6 +341,12 @@
   "times_he": [],
   "times_en": [
     {
+      "start": 489.44,
+      "end": 508.36,
+      "usfm": "NEH.9.38",
+      "audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NEH/9-92855d97abb239e3a71f4a51f7b5cfcc.mp3?version_id=1"
+    },
+    {
       "start": 2.88,
       "end": 10.48,
       "usfm": "NEH.10.1"
@@ -538,6 +544,7 @@
   ],
   "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
+    508.36,
     10.48,
     13.52,
     16.34,
@@ -579,6 +586,7 @@
     282.44
   ],
   "times_en_usfm": [
+    "NEH.9.38",
     "NEH.10.1",
     "NEH.10.2",
     "NEH.10.3",
@@ -621,5 +629,17 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV.",
+  "hebrew_audio_segments": [
+    {
+      "from_verse": 1,
+      "to_verse": 1,
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35b09.mp3?alt=media"
+    },
+    {
+      "from_verse": 2,
+      "to_verse": 40,
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t35b10.mp3?alt=media"
+    }
+  ]
 }
