@@ -2903,6 +2903,14 @@ document.addEventListener('click', async function(ev){
 
   const vi=Number(b.dataset.vi);
   if(Number.isInteger(vi))rememberReadingVerse(vi);
+  // Some Hebrew verse divisions span two recordings (Nehemiah 10:1).
+  if(language==='he' && Array.isArray(data?.hebrew_audio_segments)){
+    const seg=data.hebrew_audio_segments.find(x=>vi+1>=x.from_verse && vi+1<=x.to_verse);
+    if(seg?.audio_url && audio.src!==seg.audio_url){
+      audio.src=seg.audio_url;
+      audio.load();
+    }
+  }
   const v=(language==='en' ? null : data?.readalong_word_verses?.[vi]);
   if(!Array.isArray(v)||!v.length)return;
   let s=Number(v[0].s), e=Number(v[v.length-1].e);
