@@ -194,11 +194,6 @@
   "times_he": [],
   "times_en": [
     {
-      "start": 2.88,
-      "end": 21.58,
-      "usfm": "ISA.9.1"
-    },
-    {
       "start": 21.58,
       "end": 32.38,
       "usfm": "ISA.9.2"
@@ -299,9 +294,8 @@
       "usfm": "ISA.9.21"
     }
   ],
-  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_source": "YouVersion KJV version_id=1; Hebrew Isaiah 9:1 corresponds to KJV ISA.9.2 (one-verse offset corrected)",
   "times_en_end": [
-    21.58,
     32.38,
     44.46,
     53.66,
@@ -324,7 +318,6 @@
     262.28
   ],
   "times_en_usfm": [
-    "ISA.9.1",
     "ISA.9.2",
     "ISA.9.3",
     "ISA.9.4",
@@ -348,5 +341,5 @@
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,
-  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+  "sync_rule": "Hebrew Isaiah 9:1–20 aligns with KJV ISA.9.2–21; English verse timings shifted to match Hebrew verses."
 }
