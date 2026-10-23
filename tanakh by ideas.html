@@ -73,7 +73,34 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
 .en{font-size:clamp(21px,2.6vw,28px)}
 @media(max-width:600px){.he,.en{font-size:22px}}
 </style>
-</head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="ideasInstallBtn" type="button" hidden>INSTALL</button><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
+<style id="color-menu-one-line-header">
+/* One single-line localized title; all header controls remain visible. */
+header{display:flex!important;flex-wrap:nowrap!important;min-width:0!important;gap:clamp(3px,1vw,10px)!important;padding-inline:clamp(5px,1.5vw,16px)!important}
+.header-title{display:flex!important;align-items:center!important;flex:1 1 auto!important;min-width:0!important;overflow:hidden!important}
+.header-title h1,.header-title .app-name-en{margin:0!important;line-height:1.1!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:clip!important;font-size:clamp(13px,2.7vw,27px)!important;color:#ffdb69!important}
+body[data-language="he"] .header-title .app-name-en{display:none!important}
+body[data-language="en"] .header-title h1{display:none!important}
+body[data-language="en"] .header-title .app-name-en{display:block!important;text-align:left!important}
+body[data-language="en"] header{direction:ltr!important}
+.language-controls{gap:3px!important;flex-shrink:0!important}
+.language-controls button{font-size:clamp(18px,3vw,26px)!important;min-width:clamp(29px,5vw,43px)!important;padding:5px 3px!important}
+#menu{flex-shrink:0!important;font-size:clamp(15px,2.8vw,23px)!important;padding:8px clamp(7px,1.5vw,16px)!important;white-space:nowrap!important}
+#ideasInstallBtn{font-size:clamp(10px,1.7vw,13px)!important;padding:5px!important}
+/* Large, colorful, three-part Tanakh book chooser. */
+#navigation{width:min(740px,calc(100vw - 12px))!important;max-width:calc(100vw - 12px)!important;max-height:calc(100dvh - 12px)!important;padding:12px!important;border:3px solid #efba38!important;border-radius:18px!important}
+#navigation .dialog-head h2{font-size:clamp(23px,4vw,33px)!important}
+#navigation .books{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:9px!important}
+#navigation .books button{font-size:clamp(17px,3vw,25px)!important;min-height:57px!important;padding:12px 5px!important;border-radius:12px!important;line-height:1.2!important}
+#navigation .books button:nth-child(-n+5){background:linear-gradient(#ffefa3,#e4a722)!important;color:#261500!important;border-color:#b47b05!important}
+#navigation .books button:nth-child(n+6):nth-child(-n+26){background:linear-gradient(#d1f9d4,#51ad6b)!important;color:#082e16!important;border-color:#277e42!important}
+#navigation .books button:nth-child(n+27){background:linear-gradient(#e0d9ff,#9083db)!important;color:#24194c!important;border-color:#6b59bd!important}
+#navigation .books button.active{outline:3px solid #fff!important;outline-offset:-4px!important;box-shadow:0 0 12px #ffe18c!important}
+#menu-chapters{grid-template-columns:repeat(auto-fill,minmax(60px,1fr))!important;gap:8px!important}
+#menu-chapters button{height:54px!important;font-size:24px!important}
+#menu-chapters #back-books{height:48px!important;font-size:19px!important}
+body[data-language="en"] #navigation{direction:ltr!important}
+@media(max-width:450px){#navigation{padding:7px!important}#navigation .books{gap:5px!important}#navigation .books button{font-size:clamp(14px,4vw,19px)!important;min-height:51px!important;padding:8px 2px!important}#menu{padding:7px 5px!important}header{gap:3px!important}}
+</style></head><body data-language="he"><header><div class="header-title"><h1>תנ״ך לפי רעיונות</h1><span class="app-name-en" lang="en" dir="ltr">Bible by Ideas</span><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="ideasInstallBtn" type="button" hidden>INSTALL</button><button id="language-he" title="עברית" aria-label="עברית" aria-pressed="true">🇮🇱</button><button id="language-en" title="English" aria-label="English" aria-pressed="false">🇬🇧</button></div><button id="menu" aria-haspopup="dialog">☰ ספרים</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
 const BASE='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -100,7 +127,7 @@ function alignNewIdea(){
  if(Math.abs(y)<3)return;
  autoAlign=true;feed.scrollTo({top:Math.max(0,feed.scrollTop+y),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
 }
-feed.addEventListener('scroll',()=>{const delta=feed.scrollTop-lastScrollTop;if(Math.abs(delta)>1&&!autoAlign&&!loadingPrevious)scrollDirection=Math.sign(delta);lastScrollTop=feed.scrollTop;syncCurrentCard();if(scrollDirection<0&&!loadingPrevious){const previous=feed.querySelector('.previous');if(previous&&previous.getBoundingClientRect().bottom>feed.getBoundingClientRect().top)previous.querySelector('button')?.click();}clearTimeout(alignTimer);alignTimer=setTimeout(()=>{if(autoAlign){autoAlign=false;return;}alignNewIdea();},180);},{passive:true});
+feed.addEventListener('scroll',()=>{const delta=feed.scrollTop-lastScrollTop;if(Math.abs(delta)>1&&!autoAlign&&!loadingPrevious)scrollDirection=Math.sign(delta);lastScrollTop=feed.scrollTop;syncCurrentCard();if(scrollDirection<0&&!loadingPrevious){const previous=feed.querySelector('.previous');if(previous&&previous.getBoundingClientRect().bottom>feed.getBoundingClientRect().top)previous.querySelector('button')?.click();}clearTimeout(alignTimer);alignTimer=setTimeout(()=>{if(autoAlign){autoAlign=false;return;}/* carousel handles alignment */},180);},{passive:true});
 for(const event of ['wheel','touchstart','pointerdown'])feed.addEventListener(event,()=>{autoAlign=false;},{passive:true});
 const visibleObserver=new IntersectionObserver(()=>syncCurrentCard(),{root:feed,threshold:[0.3,0.6]});
 function summaries(data,images){if(Array.isArray(data)){if(data.length!==images.length)throw new Error('מספר הסיכומים אינו תואם למספר תמונות הרעיונות ('+data.length+' לעומת '+images.length+').');return data;}if(data&&Array.isArray(data.ideas)){return images.map(name=>{const id=Number(name.match(/^idea_(\d+)/i)?.[1]);const entry=data.ideas.find(x=>x.idea_id===id||x.image_file==='images/'+name);if(!entry)throw new Error('לא נמצא סיכום לתמונה '+name);return entry;});}throw new Error('מבנה קובץ הסיכומים אינו מוכר.');}
@@ -140,7 +167,16 @@ state.overlay.closest('.picture-frame')?.classList.add('karaoke-playing');
 }
 audioPlayer.addEventListener('ended',stopAudio);
 audioPlayer.addEventListener('error',()=>{if(!audioSession)return;const state=audioSession.state;stopAudio();state.overlay.textContent=currentLanguage==='he'?'לא ניתן לטעון את ההקלטה. נסה שוב.':'Unable to load the recording. Please retry.';});
-function setLanguage(lang){stopAudio();const hit=mainVisibleCard(),anchor=hit?.card,y=anchor?.getBoundingClientRect().top;currentLanguage=lang;document.body.dataset.language=lang;document.getElementById('language-he').setAttribute('aria-pressed',String(lang==='he'));document.getElementById('language-en').setAttribute('aria-pressed',String(lang==='en'));feed.querySelectorAll('.idea').forEach(refreshVerses);if(anchor){feed.scrollBy({top:anchor.getBoundingClientRect().top-y,behavior:'instant'});lastAlignedCard=anchor;}syncCurrentCard();}
+function setLanguage(lang){updateMenuLanguage(lang);stopAudio();const hit=mainVisibleCard(),anchor=hit?.card,y=anchor?.getBoundingClientRect().top;currentLanguage=lang;document.body.dataset.language=lang;document.getElementById('language-he').setAttribute('aria-pressed',String(lang==='he'));document.getElementById('language-en').setAttribute('aria-pressed',String(lang==='en'));feed.querySelectorAll('.idea').forEach(refreshVerses);if(anchor){feed.scrollBy({top:anchor.getBoundingClientRect().top-y,behavior:'instant'});lastAlignedCard=anchor;}syncCurrentCard();}
+const BOOKS_EN=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','1 Samuel','2 Samuel','1 Kings','2 Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Psalms','Proverbs','Job','Song of Songs','Ruth','Lamentations','Ecclesiastes','Esther','Daniel','Ezra','Nehemiah','1 Chronicles','2 Chronicles'];
+function updateMenuLanguage(lang){
+ const en=lang==='en';
+ document.getElementById('menu').textContent=en?'☰ Books':'☰ ספרים';
+ dialog.querySelector('.dialog-head h2').textContent=en?'The Bible':'כל התנ״ך';
+ document.getElementById('close-menu').setAttribute('aria-label',en?'Close menu':'סגור תפריט');
+ document.querySelectorAll('#books button').forEach((b,i)=>{b.textContent=en?BOOKS_EN[i]:BOOKS[i][0]});
+ const back=document.getElementById('back-books');if(back)back.textContent=en?'← Back to books':'← חזרה לספרים';
+}
 document.getElementById('language-he').onclick=()=>setLanguage('he');
 document.getElementById('language-en').onclick=()=>setLanguage('en');
 function createCard(item,index,image,summary,number,total){if(typeof summary.summary_he!=='string'||typeof summary.summary_en!=='string'||!summary.summary_he.trim()||!summary.summary_en.trim())throw new Error('חסר סיכום בעברית או באנגלית ברעיון '+number);const article=node('article',undefined,'idea');article.dataset.index=index;const from=Number(summary.start_verse),to=Number(summary.end_verse);const verses=from>0?(to>from?'פסוקים '+from+'–'+to:'פסוק '+from):'';article.dataset.verses=verses;const caption=node('div',undefined,'caption');caption.append(node('span',item.book+' · פרק '+item.chapter,'chapter-label'),node('span','רעיון '+number+' מתוך '+total));const tools=node('span',undefined,'verse-tools'),verseLabel=node('span',verses),toggle=node('button','▤','verse-toggle');toggle.type='button';toggle.setAttribute('aria-pressed','false');toggle.setAttribute('aria-label','הצג או הסתר פסוקים');const audioButton=node('button','▶','audio-toggle');audioButton.type='button';audioButton.setAttribute('aria-label','נגן קריוקי');audioButton.setAttribute('aria-pressed','false');tools.append(verseLabel,toggle,audioButton);caption.append(tools);const frame=node('div',undefined,'picture-frame'),overlay=node('p',undefined,'verse-overlay');overlay.hidden=true;overlay.id='verses-'+index+'-'+number;toggle.setAttribute('aria-controls',overlay.id);article.verseState={item,from,to:to||from,overlay,toggle,verseLabel,audioButton,open:versesMode,request:0};audioButton.onclick=()=>toggleAudio(article);toggle.onclick=()=>setVersesMode(!versesMode);const img=node('img',undefined,'picture');img.src=url(item.key+'/images/'+image);img.alt=item.book+', פרק '+item.chapter+', תמונת רעיון '+number;img.loading=number===1?'eager':'lazy';img.decoding='async';img.addEventListener('error',()=>{img.hidden=true;article.insertBefore(node('p','לא ניתן לטעון את התמונה. בדוק את החיבור ונסה שוב.','status'),caption.nextSibling)});const text=node('div',undefined,'summary');const he=node('p',summary.summary_he,'he');he.lang='he';const en=node('p',summary.summary_en,'en');en.lang='en';const titleHe=node('h2',summary.title_he||summary.title||('רעיון '+number),'idea-title he-title');titleHe.lang='he';const titleEn=node('h2',summary.title_en||('Idea '+number),'idea-title en-title');titleEn.lang='en';text.append(titleHe,he,titleEn,en);frame.append(img,overlay);article.append(caption,frame,text,node('span','↕ גלול קדימה או אחורה','hint'));refreshVerses(article);return article;}
@@ -154,7 +190,7 @@ function showBook(book){
  document.getElementById('books').hidden=true;
  dialog.querySelector('.dialog-head').hidden=true;
  const grid=document.getElementById('menu-chapters');grid.hidden=false;grid.replaceChildren();
- const back=node('button','← חזרה לספרים');back.id='back-books';back.onclick=showBooks;grid.append(back);
+ const back=node('button',currentLanguage==='en'?'← Back to books':'← חזרה לספרים');back.id='back-books';back.onclick=showBooks;grid.append(back);
  chapterList.forEach((c,index)=>{if(c.book!==book)return;const b=node('button',String(c.chapter),'chapter-button');b.classList.toggle('current',index===currentIndex);b.setAttribute('aria-label',book+' פרק '+c.chapter);b.onclick=()=>openChapter(index);grid.append(b)});
  dialog.scrollTop=0;
 }
@@ -166,16 +202,61 @@ function showBooks(){
  dialog.scrollTop=0;
 }
 function openBookMenu(){showBooks();if(!dialog.open)dialog.showModal();}
-BOOKS.forEach(([book])=>{const b=node('button',book);b.dataset.book=book;b.onclick=()=>showBook(book);document.getElementById('books').append(b)});
+BOOKS.forEach(([book],i)=>{const b=node('button',currentLanguage==='en'?BOOKS_EN[i]:book);b.dataset.book=book;b.onclick=()=>showBook(book);document.getElementById('books').append(b)});
 document.getElementById('menu').onclick=openBookMenu;
 document.getElementById('close-menu').onclick=()=>dialog.close();
 dialog.addEventListener('click',e=>{const r=dialog.getBoundingClientRect();if(e.target===dialog&&(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom))dialog.close();});
+// One-idea-per-gesture carousel, matching the reference application.
+let carouselLock=false, carouselTouchStart=null, carouselTouchMoved=false;
+function carouselCards(){return [...feed.querySelectorAll('.idea,.notice')];}
+function carouselMove(direction){
+ if(dialog.open||carouselLock)return;
+ const cards=carouselCards();if(!cards.length)return;
+ const hit=mainVisibleCard();let pos=hit?cards.indexOf(hit.card):0;
+ const next=cards[pos+direction];
+ if(!next){
+   if(direction>0)feed.querySelector('.next button')?.click();
+   else feed.querySelector('.previous button')?.click();
+   return;
+ }
+ carouselLock=true;
+ // Hide green verses whenever the reader scrolls, even if audio was playing.
+ if(versesMode)setVersesMode(false);
+ clearTimeout(alignTimer);autoAlign=true;lastAlignedCard=next;
+ const y=next.getBoundingClientRect().top-feed.getBoundingClientRect().top;
+ feed.scrollTo({top:Math.max(0,feed.scrollTop+y),behavior:'instant'});
+ syncCurrentCard();
+ setTimeout(()=>{carouselLock=false;autoAlign=false;lastAlignedCard=next;},320);
+}
+feed.addEventListener('wheel',e=>{
+ if(dialog.open||e.target.closest('button'))return;
+ e.preventDefault();e.stopImmediatePropagation();
+ if(Math.abs(e.deltaY)>3)carouselMove(Math.sign(e.deltaY));
+},{capture:true,passive:false});
+feed.addEventListener('touchstart',e=>{carouselTouchStart=e.touches[0]?.clientY??null;carouselTouchMoved=false;},{capture:true,passive:true});
+feed.addEventListener('touchmove',e=>{
+ if(carouselTouchStart===null)return;
+ if(Math.abs((e.touches[0]?.clientY??carouselTouchStart)-carouselTouchStart)>8){carouselTouchMoved=true;e.preventDefault();}
+},{capture:true,passive:false});
+feed.addEventListener('touchend',e=>{
+ if(carouselTouchStart===null)return;
+ const distance=carouselTouchStart-(e.changedTouches[0]?.clientY??carouselTouchStart);
+ carouselTouchStart=null;
+ if(carouselTouchMoved&&Math.abs(distance)>28){e.stopImmediatePropagation();carouselMove(Math.sign(distance));}
+},{capture:true,passive:true});
+feed.addEventListener('touchcancel',()=>{carouselTouchStart=null;},{capture:true,passive:true});
+feed.addEventListener('keydown',e=>{
+ if(['ArrowDown','PageDown','ArrowUp','PageUp'].includes(e.key)&&!e.target.closest('button,input,textarea,select')){
+  e.preventDefault();carouselMove(['ArrowDown','PageDown'].includes(e.key)?1:-1);
+ }
+},{capture:true});
+
 // Recheck the visible idea every five seconds, including an already aligned card.
 let readerTouching=false;
 feed.addEventListener('touchstart',()=>{readerTouching=true;},{passive:true});
 for(const event of ['touchend','touchcancel'])feed.addEventListener(event,()=>{readerTouching=false;},{passive:true});
 setInterval(()=>{
- if(document.hidden||dialog.open||loadingPrevious||autoAlign||readerTouching)return;
+ if(true)return; // carousel navigation owns alignment
  const hit=mainVisibleCard();if(!hit||Math.abs(hit.y)<3)return;
  lastAlignedCard=null;alignNewIdea();
 },5000);
