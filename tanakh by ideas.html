@@ -1,4 +1,6 @@
-<!doctype html><html lang="he" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>תנ״ך לפי רעיונות | Bible by Ideas</title><style>
+<!DOCTYPE html>
+
+<html dir="rtl" lang="he"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>תנ״ך לפי רעיונות | Bible by Ideas</title><style>
 *{box-sizing:border-box}html,body{margin:0;height:100%;font-family:Arial,sans-serif;background:#f6f2e8;color:#24302c}button,select{font:inherit}button{cursor:pointer;border:1px solid #cab985;border-radius:12px;background:#fffdf5;color:#24302c;padding:10px 16px}button:focus-visible,select:focus-visible{outline:3px solid #447caa;outline-offset:2px}header{height:68px;display:flex;align-items:center;justify-content:space-between;padding:8px 20px;gap:10px;background:#213c33;color:#fff;box-shadow:0 2px 12px #0002}header h1{font-size:18px;margin:0}#position{font-size:14px;color:#f0dfad}.header-title{display:grid;gap:5px}#feed{height:calc(100dvh - 68px);overflow-y:auto;scroll-snap-type:y proximity;overscroll-behavior-y:contain;scroll-behavior:smooth}.idea,.notice{scroll-snap-align:start;min-height:calc(100dvh - 68px);padding:22px 16px 32px;display:flex;align-items:center;flex-direction:column;justify-content:center;gap:14px}.caption{display:flex;justify-content:space-between;width:min(850px,100%);font-size:15px;color:#596459;gap:12px}.picture{width:min(850px,100%);max-height:52dvh;object-fit:contain;display:block;border-radius:16px;background:#e8e1d1}.summary{width:min(850px,100%);padding:6px 14px}.he{font-size:clamp(21px,2.6vw,28px);line-height:1.55;margin:4px 0 12px}.en{font-size:clamp(20px,2.5vw,27px);line-height:1.5;direction:ltr;text-align:left;margin:0;color:#48564e}.hint{font-size:14px;color:#647260}.chapter-label{font-weight:bold;color:#254e3d}.missing{background:#fff9e8;border-radius:12px;padding:20px;max-width:720px;line-height:1.65;font-size:19px}.next{padding:24px;text-align:center;background:#e7e0cc;min-height:130px;scroll-snap-align:start}.next p{margin:0 0 12px}.status{font-size:18px;margin:12px}dialog{width:min(850px,95vw);max-height:90dvh;border:0;border-radius:20px;padding:22px;color:#24302c;box-shadow:0 20px 100px #0004}dialog::backdrop{background:#17291ed0}.dialog-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}.dialog-head h2{margin:0}.books{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:7px}.books button.active{background:#234c3b;color:white}#chapters{display:grid;grid-template-columns:repeat(auto-fill,minmax(62px,1fr));gap:7px;margin-top:12px}#chapter-heading{margin:20px 0 8px}.chapter-button.current{outline:3px solid #b79337}footer{margin-top:20px;font-size:14px;color:#687368}.loader{padding:20px}.empty{min-height:75dvh}a{color:#216248}@media(max-width:600px){header{padding:8px 10px}header h1{font-size:16px}.idea{padding:12px 10px 24px;gap:10px}.picture{max-height:43dvh;border-radius:10px}.summary{padding:2px 6px}.he,.en{font-size:21px}.caption{font-size:13px}dialog{padding:15px}.books{grid-template-columns:repeat(3,1fr)}}@media(prefers-reduced-motion:reduce){#feed{scroll-behavior:auto}}
 
 /* Appearance matches the supplied Tanakh app. */
@@ -28,14 +30,23 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
 .header-title{gap:2px}.header-title h1{line-height:1.15}.app-name-en{font-size:12px;line-height:1.15;color:#ffe58a;text-align:right}
 .idea-title{color:#64b5ff;text-decoration:underline;text-underline-offset:4px;border-bottom:0}
 .header-title .app-name-en{font-size:18px;font-weight:700;line-height:1.15}.header-title #position{display:none}@media(max-width:390px){.header-title .app-name-en{font-size:15px}}
-</style><link rel="manifest" href="manifest-ideas.webmanifest?v=13">
-<meta name="theme-color" content="#0d0803">
-<link rel="apple-touch-icon" href="tanakh-ideas-192.png">
+
+/* Reading-level toggle: opposite the idea title in each language */
+.idea-heading-row{display:flex;align-items:flex-start;gap:8px;width:100%;margin-bottom:7px}
+.idea-heading-row .idea-title{flex:1;min-width:0;margin:0!important}
+.summary .idea-heading-row .reading-level{flex:0 0 auto;order:0;margin:0!important;min-width:0!important;height:auto;min-height:0;padding:5px 9px;font-size:14px;line-height:1.15;border-radius:7px;opacity:.67;box-shadow:none}
+body[data-language="he"] .idea-heading-row{direction:rtl}
+body[data-language="he"] .idea-heading-row .reading-level{order:2}
+body[data-language="en"] .idea-heading-row{direction:ltr}
+body[data-language="en"] .idea-heading-row .reading-level{order:2}
+@media(max-width:420px){.summary .idea-heading-row .reading-level{font-size:13px;padding:4px 8px}}
+</style><link href="manifest-ideas.webmanifest?v=13" rel="manifest"/>
+<meta content="#0d0803" name="theme-color"/>
+<link href="tanakh-ideas-192.png" rel="apple-touch-icon"/>
 <style id="ideasInstallStyle">
 #ideasInstallBtn{position:static;z-index:99999;border:1px solid #d4af37;border-radius:8px;background:linear-gradient(#f7df7a,#c99a22);color:#3b2600;padding:6px 10px;font:800 13px Arial;box-shadow:none;margin:0 4px;white-space:nowrap}
 #ideasInstallBtn[hidden]{display:none!important}
 </style>
-
 <style id="verseDisplayTuning">
 /* פסוקים מעט קטנים וצפופים יותר */
 .verse-overlay{
@@ -67,7 +78,6 @@ html,body{overflow:hidden}body{display:flex;flex-direction:column;height:100dvh}
   max-height:72dvh;
 }
 </style>
-
 <style id="ideaSummaryFontTuning">
 .he{font-size:clamp(22px,2.7vw,29px)}
 .en{font-size:clamp(21px,2.6vw,28px)}
@@ -101,7 +111,263 @@ body[data-language="en"] header .header-title h1{direction:ltr;text-align:left}
 .caption{font-size:clamp(16px,2.5vw,19px)!important;line-height:1.4!important}
 .caption .chapter-label,.caption .verse-tools{font-size:inherit!important}
 @media(max-width:420px){header{gap:4px!important;padding-inline:5px!important}header .header-title h1{font-size:clamp(16px,4.5vw,19px)!important}#menu{width:43px!important;min-width:43px!important;font-size:25px!important}#language-toggle{font-size:18px!important;padding:2px!important}.caption{font-size:16px!important}}
-</style></head><body data-language="he"><header><div class="header-title"><h1 id="main-app-heading">תנ״ך לפי רעיונות</h1><span id="position" hidden></span></div><div class="language-controls" role="group" aria-label="שפה"><button id="ideasInstallBtn" type="button" hidden>INSTALL</button><button id="language-toggle" title="עברית / English" aria-label="החלפת שפה / Switch language">🇮🇱🇬🇧</button></div><button id="menu" aria-haspopup="dialog" aria-label="פתח תפריט ספרים" title="ספרים">🦉</button></header><main id="feed" aria-label="תמונות וסיכומי רעיונות"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button id="close-menu" aria-label="סגור תפריט">✕</button></div><div class="books" id="books"></div><div id="menu-chapters" hidden></div></dialog><script>
+</style><style id="children-mode-style">
+.summary p[hidden]{display:none!important}
+.reading-level{height:43px;min-height:43px;padding:4px 9px;font-size:15px;white-space:nowrap;background:linear-gradient(#ccefff,#6fbadf);color:#12334a}
+.reading-level[aria-pressed="true"]{background:linear-gradient(#ffe5a2,#f6b95c);color:#482900}
+.summary .reading-level{display:block;margin:10px 0 12px;min-width:100px;cursor:pointer;border-radius:10px;font-weight:700}.summary .child-explanation{font-size:clamp(23px,3vw,30px);line-height:1.75;color:#fff0b7;direction:rtl;text-align:right}
+.summary .child-explanation[lang="en"]{direction:ltr;text-align:left}
+@media(max-width:420px){.reading-level{font-size:12px;padding:2px 5px;min-width:52px}}
+</style><style id="gold-return-mobile">
+
+
+
+
+
+
+</style><style id="single-gold-switch-final">
+/* Both screens have exactly one switch button in the same footer position. */
+
+
+
+
+
+
+
+</style><style id="ideas-title-slightly-larger">.idea-title{font-size:clamp(19px,2.3vw,24px)!important}</style><style id="stories-20261024-layout">
+header .header-title{display:none!important}
+header{justify-content:space-between!important}
+#topKidsSwitch{margin-inline-end:auto!important;font-size:17px!important;padding:7px 12px!important;white-space:nowrap!important}
+.summary .idea-heading-row .reading-level{display:none!important}
+.caption{flex-wrap:nowrap!important;gap:8px!important;justify-content:flex-start!important;font-size:clamp(12px,2vw,17px)!important;padding:7px!important}
+.caption .chapter-label{white-space:nowrap!important}
+.caption .story-counter{white-space:nowrap!important}
+.caption .verse-tools{position:absolute!important;left:12px!important;top:65px!important;z-index:5!important;opacity:.5!important;direction:ltr!important}
+.caption .verse-tools .verse-toggle,.caption .verse-tools .audio-toggle{padding:5px 9px!important}
+.caption .verse-tools>span{display:none!important}
+.idea{gap:5px!important;padding:5px 8px 60px!important;min-height:calc(100dvh - 68px)!important}
+.picture-frame{flex:1 1 auto!important;min-height:140px!important;display:flex!important;align-items:stretch!important;overflow:hidden!important}
+.picture-frame .picture{height:100%!important;max-height:none!important;object-fit:contain!important}
+.summary{flex:1 1 auto!important;min-height:100px!important;max-height:35dvh!important;overflow-y:auto!important;margin-bottom:0!important}
+#feed{padding-bottom:0!important}
+</style><style id="inline-story-game-styles">
+
+.idea .picture-frame{position:relative!important}
+.inline-game-pins{position:absolute;inset:0;z-index:12;pointer-events:none}
+.inline-game-pin{position:absolute;transform:translate(-50%,-50%);pointer-events:auto;border:2px solid #ffdf73;border-radius:50%;width:clamp(28px,7vw,38px);height:clamp(28px,7vw,38px);min-width:0;padding:0;background:#623700ee;color:#fff5bd;font:bold 21px Arial;box-shadow:0 1px 8px #000c;display:grid;place-items:center}
+.inline-game-pin.solved{background:#128b3b;color:white;border-color:#8bff9d;font-size:15px}
+.inline-game-pin.wrong{background:#b32626;border-color:#ff9898}
+.inline-game-question{width:100%;padding:7px 11px;border:1px solid #c99b37;border-radius:10px;background:#1b1206;color:#ffe18a;text-align:center;font-weight:800;font-size:clamp(16px,3.7vw,21px);line-height:1.3;flex-shrink:0}
+.inline-game-question .game-progress{display:block;font-size:12px;color:#bfcaa9;font-weight:400;margin-top:3px}
+.inline-game-completed{color:#ffe6a0;line-height:1.55;font-size:clamp(16px,3.7vw,21px);direction:rtl}
+.inline-game-completed[lang=en]{direction:ltr;text-align:left}
+.inline-game-completed h3{color:#75f19c;margin:0 0 8px;font-size:1.05em}
+.inline-game-completed ol{margin:0;padding-inline-start:24px}
+.inline-game-completed li{margin-bottom:6px}
+.inline-game-completed strong{color:#86ef91}
+.idea.inline-game-active .summary{min-height:70px!important;max-height:32dvh!important}
+.idea.inline-game-active .picture-frame{min-height:130px!important}
+.inline-game-pin:focus-visible{outline:3px solid white;outline-offset:2px}
+</style><style id="game-font-score-update">
+body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(17px,2.05vw,27px)!important;font-weight:900!important;line-height:1.15!important;padding:7px 11px!important;max-width:min(42vw,250px)!important;overflow-wrap:anywhere!important}
+body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(21px,2.6vw,32px)!important;font-weight:900!important;line-height:1.28!important;padding:7px 12px!important}
+@media(max-width:600px){body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(16px,4.2vw,21px)!important;padding:5px 7px!important;max-width:43vw!important}body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(20px,5vw,25px)!important}}
+#storyGameScore{display:none;position:absolute;bottom:10px;left:9px;z-index:90;direction:ltr;background:rgba(12,9,4,.9);border:2px solid #e8bd40;border-radius:12px;color:#ffe483;padding:7px 11px;font:900 clamp(14px,1.6vw,20px)/1.2 Arial,sans-serif;text-align:left;pointer-events:none;box-shadow:0 3px 12px #0009}
+body.story-game-mode #storyGameScore{display:block}
+</style><style id="game-click-question-score-fix">
+/* Answers must receive clicks before the photo tap/verses handlers. */
+body.story-game-mode #storyImageDock .inline-game-pins{z-index:200!important;pointer-events:none!important;}
+body.story-game-mode #storyImageDock .inline-game-pin{position:absolute!important;pointer-events:auto!important;touch-action:manipulation!important;cursor:pointer!important;z-index:201!important;}
+/* Score above the next-story arrow, at the bottom left of the viewport. */
+#storyGameScore{position:fixed!important;left:8px!important;bottom:calc(65px + env(safe-area-inset-bottom,0px))!important;top:auto!important;z-index:2147483500!important;}
+</style><style id="game-answer-question-font-final">/* Slightly larger game answer labels and question on mobile and Windows. */
+body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(19px,2.3vw,29px)!important;line-height:1.17!important;padding:8px 12px!important;}
+body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(23px,2.9vw,35px)!important;line-height:1.3!important;}
+@media(max-width:600px){body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(17px,4.6vw,23px)!important;padding:6px 9px!important;}body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(22px,5.5vw,28px)!important;}}
+</style><style id="game-larger-answers-score-and-results">
+/* Bigger readable answer labels on Windows and Android. */
+body.story-game-mode #storyImageDock .inline-game-pin{
+ font-size:clamp(19px,2.05vw,28px)!important;
+ padding:8px 12px!important;line-height:1.22!important;
+ max-width:min(34vw,245px)!important;min-height:44px!important;
+ font-weight:900!important;
+}
+body.story-game-mode #storyImageDock .inline-game-question{
+ font-size:clamp(27px,3.25vw,42px)!important;
+ line-height:1.25!important;padding:10px 14px!important;
+}
+@media(max-width:600px){
+ body.story-game-mode #storyImageDock .inline-game-pin{
+  font-size:clamp(20px,5.3vw,27px)!important;
+  max-width:43vw!important;padding:7px 9px!important;
+ }
+ body.story-game-mode #storyImageDock .inline-game-question{
+  font-size:clamp(25px,6.4vw,34px)!important;
+ }
+}
+/* Decorative scoreboard above the next-story navigation. */
+body.story-game-mode #storyGameScore{
+ display:flex!important;align-items:center!important;justify-content:space-around!important;
+ gap:12px!important;position:fixed!important;
+ left:10px!important;right:auto!important;
+ bottom:calc(65px + env(safe-area-inset-bottom,0px))!important;
+ z-index:2147483000!important;
+ padding:9px 13px!important;border-radius:15px!important;
+ background:linear-gradient(145deg,#292012,#100d08)!important;
+ border:2px solid #d4a63c!important;box-shadow:0 5px 18px #000b, inset 0 1px 0 #fff3!important;
+ color:#fff2c7!important;font-size:clamp(15px,2vw,21px)!important;
+ font-weight:800!important;line-height:1.15!important;
+}
+#storyGameScore .score-part{display:flex;align-items:center;gap:6px;white-space:nowrap}
+#storyGameScore .score-part b{font-size:1.08em;color:#fff}
+#storyGameScore .score-part em{font-style:normal;padding:4px 7px;border-radius:8px;font-size:1.05em}
+#storyGameScore .score-part.success em{background:#166f38;color:#e1ffdf}
+#storyGameScore .score-part.failure em{background:#8d3030;color:#fff0e8}
+@media(max-width:600px){body.story-game-mode #storyGameScore{
+ left:6px!important;gap:7px!important;padding:8px!important;font-size:14px!important;
+ max-width:calc(100vw - 12px)!important;
+}}
+/* After all answers are solved, show only the Q&A results, never verses. */
+body.story-game-mode .idea:has(.inline-game-completed) .game-verse-reading{display:none!important}
+body.story-game-mode .idea:has(.inline-game-completed) .summary > :not(.inline-game-completed){display:none!important}
+body.story-game-mode .idea .inline-game-completed{display:block!important}
+</style>
+<style id="game-large-font-full-image-score-grade-20261024">
+/* Game mode must display the WHOLE image, not crop the answer positions on Windows. */
+body.story-game-mode #storyImageDock .dock-photo img{object-fit:contain!important;object-position:center center!important;background:#090704!important}
+/* Higher-priority final font rules: readable on Android and Windows. */
+html body.story-game-mode #storyImageDock .inline-game-pin{
+ font-size:clamp(25px,2.8vw,40px)!important;
+ line-height:1.2!important;min-height:52px!important;
+ padding:9px 14px!important;max-width:min(38vw,330px)!important;
+ font-weight:900!important;white-space:normal!important;
+}
+html body.story-game-mode #storyImageDock .inline-game-question{
+ font-size:clamp(32px,3.7vw,49px)!important;
+ line-height:1.22!important;padding:11px 16px!important;
+ font-weight:900!important;
+}
+@media(max-width:600px){
+ html body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(23px,6.3vw,31px)!important;min-height:44px!important;padding:7px 10px!important;max-width:48vw!important}
+ html body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(28px,7.5vw,39px)!important;padding:9px 12px!important}
+}
+body.story-game-mode #storyGameScore .score-part.grade{background:linear-gradient(145deg,#72520e,#352507);border:1px solid #e7bd4a;border-radius:10px;padding:6px 9px;color:#fff2bc;font-size:1.14em}
+#storyGameScore .score-part.grade strong{color:#fff;font-size:1.2em}
+@media(max-width:600px){body.story-game-mode #storyGameScore{flex-wrap:wrap!important;justify-content:center!important;max-width:calc(100vw - 16px)!important;gap:5px!important}}
+</style><style id="game-smaller-text-and-grade-final-20261024">
+/* Override every earlier large-font rule, including Android rules. */
+html body.story-game-mode #storyImageDock .inline-game-pin {
+ font-size:clamp(15px,1.55vw,22px)!important;
+ line-height:1.22!important; min-height:34px!important;
+ padding:5px 8px!important; max-width:min(34vw,245px)!important;
+}
+html body.story-game-mode #storyImageDock .inline-game-question {
+ font-size:clamp(18px,2vw,26px)!important;
+ line-height:1.25!important; padding:7px 10px!important;
+}
+@media(max-width:600px){
+ html body.story-game-mode #storyImageDock .inline-game-pin{font-size:clamp(14px,3.7vw,18px)!important;min-height:31px!important;padding:4px 7px!important;max-width:42vw!important}
+ html body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(17px,4.3vw,21px)!important;padding:6px 8px!important}
+}
+.inline-game-completed h3{display:none!important}
+</style><style id="game-answer-spacing-score-and-single-line-20261024">
+body.story-game-mode #storyImageDock .inline-game-question{width:100%!important;max-width:none!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:clip!important;box-sizing:border-box!important}
+body.story-game-mode #storyImageDock .inline-game-question .game-progress{display:inline!important;font-size:.7em!important;margin-inline-start:8px!important}
+body.story-game-mode #storyGameScore{gap:10px!important;max-width:calc(100vw - 12px)!important}
+body.story-game-mode #storyGameScore .score-part.grade strong{font-size:1.3em!important}
+</style><style id="score-at-audio-row-right-20261024">
+/* Score is on the right edge of the audio-button row, over the picture. */
+html body.story-game-mode #storyImageDock .dock-photo #storyGameScore{
+ position:absolute!important;top:8px!important;right:8px!important;
+ left:auto!important;bottom:auto!important;z-index:190!important;
+ display:flex!important;flex-wrap:nowrap!important;max-width:calc(100% - 95px)!important;
+ gap:6px!important;padding:5px 9px!important;font-size:clamp(12px,1.35vw,17px)!important;
+ pointer-events:none!important;
+}
+@media(max-width:600px){
+ html body.story-game-mode #storyImageDock .dock-photo #storyGameScore{
+  top:8px!important;right:5px!important;gap:4px!important;padding:4px 6px!important;
+  font-size:12px!important;max-width:calc(100% - 72px)!important;
+ }
+ html body.story-game-mode #storyImageDock .dock-photo #storyGameScore .score-part.grade{padding:3px 5px!important}
+}
+</style>
+<style id="completed-qa-slight-font-increase-20261024">
+/* Increase only the completed questions and answers inside the explanation box. */
+body.story-game-mode .idea .summary .inline-game-completed,
+body.story-game-mode .idea .summary .inline-game-completed li {
+  font-size:clamp(18px,4.15vw,24px)!important;
+  line-height:1.6!important;
+}
+body.story-game-mode .idea .summary .inline-game-completed strong {font-size:inherit!important;}
+</style>
+<style id="single-screen-only-cleanup">#openIntegratedGame{display:block!important} #integratedGameLayer,#integratedGameFrame,#gameFooterReturn,#closeIntegratedGame{display:none!important}</style><style id="quiz-layout-20261024">
+body:not(.quiz-choosing) #quizDifficulty{display:none!important}
+html body.quiz-choosing #openIntegratedGame{display:none!important}
+body.quiz-choosing #quizDifficulty{display:flex!important;position:fixed!important;bottom:calc(8px + env(safe-area-inset-bottom,0px))!important;left:50%!important;right:auto!important;transform:translateX(-50%)!important;z-index:2147483641!important;gap:5px!important;justify-content:center!important;align-items:center!important;width:max-content!important;max-width:calc(100vw - 12px)!important}
+body.quiz-choosing #quizDifficulty button{font-size:clamp(14px,2.4vw,19px)!important;padding:7px 13px!important}
+#githubQuizDialog[open]{position:fixed!important;top:64px!important;bottom:auto!important;margin:0 auto!important;max-height:calc(100dvh - 72px)!important;overflow-y:auto!important}
+#githubQuizDialog .quiz-header{direction:rtl;align-items:center}
+#githubQuizHeading{font-size:clamp(15px,2.3vw,23px)!important;line-height:1.3;white-space:normal}
+@media(max-width:550px){body.quiz-choosing #quizDifficulty button{padding:5px 7px!important;font-size:13px!important}#githubQuizDialog[open]{top:60px!important;width:96vw!important}}
+</style><style id="quiz-compact-window-and-score">
+/* The quiz is a compact, non-modal window at the top. The verses remain visible below. */
+#githubQuizDialog[open]{
+ position:fixed!important;top:calc(68px + env(safe-area-inset-top,0px))!important;
+ bottom:auto!important;left:50%!important;right:auto!important;
+ transform:translateX(-50%)!important;margin:0!important;
+ width:min(680px,96vw)!important;height:max-content!important;min-height:0!important;
+ max-height:min(60dvh,540px)!important;overflow-y:auto!important;
+ padding:10px 13px!important;z-index:2147483000!important;
+ box-shadow:0 8px 26px #000b!important;
+}
+#githubQuizDialog::backdrop{background:transparent!important}
+#githubQuizDialog .quiz-header{gap:6px!important;margin-bottom:4px!important}
+#githubQuizHeading{display:flex!important;flex:1!important;gap:5px!important;align-items:center!important;flex-wrap:wrap!important;font-size:clamp(12px,2.2vw,17px)!important}
+#githubQuizHeading span{display:inline-block;padding:5px 7px;border-radius:8px;border:1px solid #9a7426;background:#261b0c;white-space:nowrap}
+#githubQuizHeading .quiz-success{color:#8affab}
+#githubQuizHeading .quiz-failure{color:#ff9c9c}
+#githubQuizHeading .quiz-grade{color:#ffe782}
+#githubQuizClose{padding:3px 9px!important;align-self:flex-start!important}
+#githubQuizProgress{font-size:13px!important;margin:2px 0!important}
+#githubQuizQuestion{font-size:clamp(17px,3.2vw,24px)!important;line-height:1.25!important;margin:5px 0 8px!important}
+#githubQuizAnswers{gap:5px!important}
+#githubQuizAnswers button{font-size:clamp(15px,2.6vw,19px)!important;line-height:1.22!important;padding:7px 10px!important}
+#githubQuizExplanation{font-size:clamp(14px,2.4vw,18px)!important;line-height:1.3!important;margin:6px 0!important}
+#githubQuizNext{margin-top:5px!important;font-size:16px!important;padding:6px 10px!important}
+@media(max-width:600px){#githubQuizDialog[open]{top:58px!important;max-height:56dvh!important;padding:8px!important}#githubQuizHeading span{padding:3px 5px!important}}
+</style><style id="quiz-no-correct-banner">.inline-game-toast,.inline-game-feedback,.game-correct-banner{display:none!important}</style><style id="quiz-show-scripture-in-summary">
+body.quiz-choosing .idea .summary>*:not(.game-verse-reading){display:none!important}
+body.quiz-choosing .idea .summary .game-verse-reading{display:block!important;direction:rtl!important;text-align:right!important;white-space:pre-wrap!important;color:#f4d984!important;font-size:clamp(17px,2vw,23px)!important;line-height:1.6!important}
+body.quiz-choosing[data-language="en"] .idea .summary .game-verse-reading{direction:ltr!important;text-align:left!important}
+body.quiz-choosing .idea .summary{overflow-y:auto!important;min-height:100px!important}
+body[data-language="en"] #githubQuizDialog,body[data-language="en"] #githubQuizQuestion,body[data-language="en"] #githubQuizAnswers,body[data-language="en"] #githubQuizExplanation,body[data-language="en"] #githubQuizProgress{direction:ltr!important;text-align:left!important}
+body[data-language="en"] #githubQuizAnswers button{text-align:left!important;direction:ltr!important}
+body[data-language="en"] #githubQuizDialog .quiz-header{direction:ltr!important}
+</style><style id="requested-quiz-polish-20261024">
+/* Difficulty appears only after Game is pressed; all three align with the navigation buttons. */
+body.quiz-choosing #quizDifficulty button{height:43px!important;min-height:43px!important;box-sizing:border-box!important;padding:5px 13px!important;display:inline-flex!important;align-items:center!important;justify-content:center!important}
+#githubQuizNext:not([hidden]){display:block!important;margin:9px auto 0!important;text-align:center!important;min-width:135px!important}
+#githubQuizQuestion{font-size:clamp(19px,3.5vw,27px)!important;line-height:1.34!important}
+#githubQuizAnswers button{font-size:clamp(17px,3vw,22px)!important;line-height:1.32!important}
+#githubQuizExplanation{font-size:clamp(16px,2.8vw,20px)!important;line-height:1.38!important}
+#githubQuizHeading{font-size:clamp(15px,2.7vw,21px)!important}
+#githubQuizHeading span{font-size:inherit!important}
+#githubQuizProgress{font-size:clamp(17px,2.8vw,21px)!important;font-weight:800!important}
+#centralStoriesChildToggle{font-size:23px!important;min-width:48px!important;padding:5px 9px!important}
+#storyArrows button{min-width:85px!important}
+@media(max-width:550px){body.quiz-choosing #quizDifficulty button{height:43px!important;min-height:43px!important;padding:5px 9px!important;font-size:15px!important}#githubQuizDialog[open]{max-height:56dvh!important}}
+</style><style id="larger-quiz-grade">#githubQuizHeading .quiz-grade{font-size:clamp(20px,3.7vw,30px)!important;font-weight:900!important} @media(max-width:600px){#githubQuizHeading .quiz-grade{font-size:21px!important}}</style><style id="arrow-game-height-fix">#storyArrows button{min-width:56px!important;width:56px!important;height:43px!important;font-size:26px!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;padding:0!important}#openIntegratedGame{height:43px!important;min-height:43px!important;box-sizing:border-box!important;display:flex!important;align-items:center!important;justify-content:center!important}</style><style id="language-flags-windows">#language-toggle{font-family:"Segoe UI Emoji","Noto Color Emoji",sans-serif!important;display:inline-flex!important;align-items:center;justify-content:center;gap:3px;min-width:65px!important;font-size:24px!important}#language-toggle .lang-flag-he,#language-toggle .lang-flag-en{display:inline-block;line-height:1.1} </style><style id="windows-svg-flags">#language-toggle svg{display:block!important;flex:0 0 auto!important;width:29px!important;height:20px!important}#language-toggle{min-width:70px!important;gap:3px!important}</style><style id="windows-1200px-contained-photo-20261024">
+/* Windows desktop: central 1200px app; mobile remains unchanged. */
+@media (min-width: 701px) {
+ html body{width:min(1200px,100vw)!important;max-width:1200px!important;margin-inline:auto!important;position:relative!important;}
+ html body header,html body #storyImageDock,html body #storyImageDock .dock-photo,html body #feed{width:100%!important;max-width:100%!important;}
+ html body #storyImageDock .dock-photo img,html body.story-game-mode #storyImageDock .dock-photo img{
+  display:block!important;width:100%!important;height:100%!important;object-fit:contain!important;object-position:center center!important;
+ }
+ html body #storyImageDock .dock-photo{background:#090704!important;}
+}
+</style></head><body data-language="he"><header><div class="header-title"><h1 id="main-app-heading">תנ״ך לפי סיפורים</h1><span hidden="" id="position"></span></div><div aria-label="שפה" class="language-controls" role="group"><button hidden="" id="ideasInstallBtn" type="button">INSTALL</button><button aria-label="החלפת שפה / Switch language" id="language-toggle" title="עברית / English"><svg class="lang-flag-he" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="29" height="20" aria-hidden="true"><rect width="60" height="40" fill="#fff"/><path fill="#0038b8" d="M0 5h60v5H0zm0 25h60v5H0z"/><path d="M30 12l8 14H22zM30 28l-8-14h16z" fill="none" stroke="#0038b8" stroke-width="1.8"/></svg><svg class="lang-flag-en" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="29" height="20" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><path d="M0 0 60 40M60 0 0 40" stroke="#fff" stroke-width="9"/><path d="M0 0 60 40M60 0 0 40" stroke="#c8102e" stroke-width="4"/><path d="M30 0v40M0 20h60" stroke="#fff" stroke-width="13"/><path d="M30 0v40M0 20h60" stroke="#c8102e" stroke-width="7"/></svg></button></div><button aria-haspopup="dialog" aria-label="פתח תפריט ספרים" id="menu" title="ספרים">🦉</button></header><main aria-label="תמונות וסיכומי רעיונות" id="feed"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button aria-label="סגור תפריט" id="close-menu">✕</button></div><div class="books" id="books"></div><div hidden="" id="menu-chapters"></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
 const BASE='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -111,9 +377,36 @@ let previousObserver=null,loadingPrevious=false,stripBook=null;
 let generation=0,controller=null,currentIndex=0,selectedBook=BOOKS[0][0],loadingNext=false,nextObserver=null;
 const node=(tag,text,cls)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e};
 const url=path=>BASE+path.split('/').map(encodeURIComponent).join('/');
-async function getJson(path,signal){const r=await fetch(url(path),{signal,cache:'no-store'});if(!r.ok){const e=new Error('HTTP '+r.status);e.status=r.status;throw e;}return r.json();}
+// Resilient chapter loading: switch CDN if a host is blocked in preview or on mobile.
+const DATA_MIRRORS=[
+ 'https://raw.githubusercontent.com/naftali24/BIBLE/main/',
+ 'https://naftali24.github.io/BIBLE/',
+ 'https://cdn.jsdelivr.net/gh/naftali24/BIBLE@main/'
+];
+function mirrorUrl(base,path){return base+path.split('/').map(encodeURIComponent).join('/');}
+async function fetchMirrored(path,signal,asText=false){
+ let lastError=null;
+ for(const base of DATA_MIRRORS){
+  if(signal?.aborted)throw new DOMException('Aborted','AbortError');
+  const timeout=new AbortController();
+  const onAbort=()=>timeout.abort();
+  signal?.addEventListener('abort',onAbort,{once:true});
+  const timer=setTimeout(()=>timeout.abort(),6500);
+  try{
+   const response=await fetch(mirrorUrl(base,path),{signal:timeout.signal,cache:'no-store'});
+   if(!response.ok){const err=new Error('HTTP '+response.status);err.status=response.status;throw err;}
+   return asText?await response.text():await response.json();
+  }catch(e){
+   if(signal?.aborted)throw new DOMException('Aborted','AbortError');
+   lastError=e;
+  }finally{clearTimeout(timer);signal?.removeEventListener('abort',onAbort);}
+ }
+ const err=new Error('לא ניתן להתחבר למקורות הנתונים (GitHub / GitHub Pages / jsDelivr). '+(lastError?.message||''));
+ err.status=lastError?.status;throw err;
+}
+async function getJson(path,signal){return fetchMirrored(path,signal);}
 
-function remember(index){currentIndex=index;const item=chapterList[index];position.textContent=item.book+' · פרק '+item.chapter;try{localStorage.setItem('tanakhIdeasChapter',item.key)}catch{}history.replaceState(null,'','#'+encodeURIComponent(item.key));}
+function remember(index){currentIndex=index;const item=chapterList[index];position.textContent=item.book+'   פרק '+item.chapter;try{localStorage.setItem('tanakhIdeasChapter',item.key)}catch{}history.replaceState(null,'','#'+encodeURIComponent(item.key));}
 // Each card aligns once, after the user's scroll gesture settles.
 let lastAlignedCard=null,alignTimer=null,autoAlign=false,lastScrollTop=0,scrollDirection=1;
 function mainVisibleCard(){
@@ -128,11 +421,16 @@ function alignNewIdea(){
  if(Math.abs(y)<3)return;
  autoAlign=true;feed.scrollTo({top:Math.max(0,feed.scrollTop+y),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
 }
-feed.addEventListener('scroll',()=>{const delta=feed.scrollTop-lastScrollTop;if(Math.abs(delta)>1&&!autoAlign&&!loadingPrevious)scrollDirection=Math.sign(delta);lastScrollTop=feed.scrollTop;syncCurrentCard();if(scrollDirection<0&&!loadingPrevious){const previous=feed.querySelector('.previous');if(previous&&previous.getBoundingClientRect().bottom>feed.getBoundingClientRect().top)previous.querySelector('button')?.click();}clearTimeout(alignTimer);alignTimer=setTimeout(()=>{if(autoAlign){autoAlign=false;return;}/* carousel handles alignment */},180);},{passive:true});
+feed.addEventListener('scroll',()=>{const delta=feed.scrollTop-lastScrollTop;if(Math.abs(delta)>1&&!autoAlign&&!loadingPrevious)scrollDirection=Math.sign(delta);lastScrollTop=feed.scrollTop;syncCurrentCard();clearTimeout(alignTimer);alignTimer=setTimeout(()=>{if(autoAlign){autoAlign=false;return;}/* carousel handles alignment */},180);},{passive:true});
 for(const event of ['wheel','touchstart','pointerdown'])feed.addEventListener(event,()=>{autoAlign=false;},{passive:true});
 const visibleObserver=new IntersectionObserver(()=>syncCurrentCard(),{root:feed,threshold:[0.3,0.6]});
 function summaries(data,images){if(Array.isArray(data)){if(data.length!==images.length)throw new Error('מספר הסיכומים אינו תואם למספר תמונות הרעיונות ('+data.length+' לעומת '+images.length+').');return data;}if(data&&Array.isArray(data.ideas)){return images.map(name=>{const id=Number(name.match(/^idea_(\d+)/i)?.[1]);const entry=data.ideas.find(x=>x.idea_id===id||x.image_file==='images/'+name);if(!entry)throw new Error('לא נמצא סיכום לתמונה '+name);return entry;});}throw new Error('מבנה קובץ הסיכומים אינו מוכר.');}
-let currentLanguage='he',versesMode=false;
+let currentLanguage='he',versesMode=false,childrenMode=true;
+const BUILTIN_CHILDREN_GENESIS_1={"ideas":[{"idea_id":1,"children_he":"לִפְנֵי שֶׁהָעוֹלָם הָיָה כְּמוֹ שֶׁאֲנַחְנוּ מַכִּירִים אוֹתוֹ, הַכֹּל הָיָה חָשׁוּךְ וְלֹא מְסֻדָּר. הַסִּפּוּר מְלַמֵּד שֶׁגַּם מִבִּלְבּוּל גָּדוֹל יָכוֹל לְהִוָּצֵר סֵדֶר.","children_en":"Before the world looked the way we know it, everything was dark and without order. The story teaches us that order can grow out of confusion."},{"idea_id":2,"children_he":"אֱלֹהִים אָמַר שֶׁיִּהְיֶה אוֹר, וְהָאוֹר הוֹפִיעַ. כְּשֶׁמַּבְדִּילִים בֵּין אוֹר לְחֹשֶׁךְ, אֶפְשָׁר לָדַעַת מָתַי יוֹם וּמָתַי לַיְלָה. לִפְעָמִים גַּם בַּחַיִּים שֶׁלָּנוּ צָרִיךְ לַעֲשׂוֹת סֵדֶר כְּדֵי לְהָבִין דְּבָרִים.","children_en":"God said there should be light, and light appeared. Separating light from darkness made day and night. Sometimes we also need to organize things to understand them."},{"idea_id":3,"children_he":"בְּסִפּוּר הַבְּרִיאָה, הָרָקִיעַ מַפְרִיד בֵּין מַיִם שֶׁמֵּעַלָיו לְמַיִם שֶׁמִּתַּחְתָּיו. הַהַפְרָדָה הַזֹּאת מַזְכִּירָה לָנוּ שֶׁכְּשֶׁכָּל דָּבָר נִמְצָא בִּמְקוֹמוֹ, קַל יוֹתֵר לְהָבִין אֶת הָעוֹלָם.","children_en":"In the creation story, the sky separates waters above from waters below. When things have their own place, the world becomes easier to understand."},{"idea_id":4,"children_he":"כְּשֶׁהַמַּיִם נֶאֶסְפוּ לְמָקוֹם אֶחָד, נִרְאֲתָה הַיַּבָּשָׁה. אַחַר כָּךְ צָמְחוּ צְמָחִים וְזְרָעִים. זֶרַע קָטָן יָכוֹל לִגְדֹּל לְצֶמַח גָּדוֹל. גַּם דָּבָר קָטָן שֶׁאֲנַחְנוּ מַתְחִילִים יָכוֹל לִצְמֹחַ.","children_en":"When the waters gathered, dry land appeared. Plants and seeds began to grow. A tiny seed can become a big plant, just as a small beginning can become something wonderful."},{"idea_id":5,"children_he":"בַּשָּׁמַיִם מוֹפִיעִים הַשֶּׁמֶשׁ, הַיָּרֵחַ וְהַכּוֹכָבִים. בִּזְכוּתָם אֲנַחְנוּ מַבְחִינִים בֵּין יוֹם לְלַיְלָה וְעוֹקְבִים אַחֲרֵי הַזְּמַן. הַזְּמַן עוֹזֵר לָנוּ לְתַכְנֵן מָתַי לִלְמֹד, לְשַׂחֵק וְלָנוּחַ.","children_en":"The sun, moon, and stars help us tell day from night and follow time. Time helps us plan when to learn, play, and rest."},{"idea_id":6,"children_he":"אֱלֹהִים בָּרָא דָּגִים וְעוֹד יְצוּרִים בַּמַּיִם, וְצִפֳּרִים שֶׁעוֹפוֹת בַּשָּׁמַיִם. כָּל יְצוּר חַי שׁוֹנֶה מֵחֲבֵרוֹ, וּלְכֻלָּם יֵשׁ מָקוֹם בָּעוֹלָם. כְּדַאי לָנוּ לִשְׁמֹר עַל בַּעֲלֵי הַחַיִּים.","children_en":"God created fish and other sea creatures, and birds that fly in the sky. Every living creature is different, and each has a place in the world. We should care for animals."},{"idea_id":7,"children_he":"עַל הַיַּבָּשָׁה הוֹפִיעוּ חַיּוֹת גְּדוֹלוֹת וּקְטַנּוֹת. כָּל חַיָּה נִרְאֵית וּמִתְנַהֶגֶת אַחֶרֶת. הַשֹּׁנִי בֵּינֵיהֶן מַרְאֶה כַּמָּה מְגֻוָּן הָעוֹלָם שֶׁלָּנוּ.","children_en":"Large and small animals appeared on land. Each kind looks and behaves differently. Their differences show how varied our world is."},{"idea_id":8,"children_he":"בְּסִפּוּר הַבְּרִיאָה, בְּנֵי הָאָדָם נִבְרְאוּ בְּצֶלֶם אֱלֹהִים. זֶה מְלַמֵּד שֶׁלְּכָל אָדָם יֵשׁ עֵרֶךְ וְכָבוֹד. אֲנַחְנוּ יְכוֹלִים לִבְחֹר מַה לַּעֲשׂוֹת, וְלָכֵן חָשׁוּב לִבְחֹר לַעֲשׂוֹת טוֹב וְלִשְׁמֹר עַל הָעוֹלָם.","children_en":"The story says people were made in the image of God. That teaches us that every person deserves respect. We can make choices, so we should choose to do good and care for the world."},{"idea_id":9,"children_he":"אֱלֹהִים נָתַן לָאָדָם צְמָחִים וּפֵרוֹת לְמַאֲכָל. הַסִּפּוּר מַזְכִּיר לָנוּ שֶׁהָאֹכֶל שֶׁלָּנוּ מַגִּיעַ מֵהַטֶּבַע, וְשֶׁכְּדַאי לְהַעֲרִיךְ אוֹתוֹ וְלֹא לְבַזְבֵּז.","children_en":"God gave people plants and fruit for food. This reminds us that our food comes from nature and that we should appreciate it instead of wasting it."},{"idea_id":10,"children_he":"גַּם לְבַעֲלֵי הַחַיִּים נִתַּן מָזוֹן מִן הַצְּמָחִים. בְּתֵאוּר הָרִאשׁוֹן שֶׁל הָעוֹלָם, הַיְצוּרִים חַיִּים זֶה לְצַד זֶה. הַתְּמוּנָה הַזֹּאת מְזַכֶּרֶת לָנוּ שֶׁשָּׁלוֹם וְדַאֲגָה לַאֲחֵרִים הֵם דְּבָרִים חֲשׁוּבִים.","children_en":"Animals were also given plants for food. The first picture of the world shows living things side by side. It reminds us how important peace and caring for others can be."},{"idea_id":11,"children_he":"בְּסוֹף הַיּוֹם הַשִּׁשִּׁי אֱלֹהִים רָאָה אֶת כָּל מַה שֶּׁבָּרָא וְאָמַר שֶׁהַכֹּל טוֹב מְאֹד. הַסִּפּוּר מַזְמִין אוֹתָנוּ לְהִסְתַּכֵּל עַל הָעוֹלָם, לִרְאוֹת בּוֹ אֶת הַטּוֹב וְלִשְׁמֹר עָלָיו.","children_en":"At the end of the sixth day, God looked at everything he had made and called it very good. The story invites us to notice what is good in the world and help protect it."}]};
+const childrenCache=new Map();
+function childrenFor(item){if(!childrenCache.has(item.key))childrenCache.set(item.key,getJson(item.key+'/ideas_children.json').catch(()=>item.key==='בראשית/chapter_001'?BUILTIN_CHILDREN_GENESIS_1:null));return childrenCache.get(item.key);}
+function updateReadingLevel(){document.querySelectorAll('.reading-level').forEach(b=>{b.textContent=childrenMode?(currentLanguage==='he'?'לילדים':'For Kids'):(currentLanguage==='he'?'למבוגרים':'For Adults');b.setAttribute('aria-pressed',String(childrenMode));});document.querySelectorAll('.idea').forEach(card=>{card.querySelectorAll('.he,.en').forEach(el=>{const isChild=el.classList.contains('child-explanation');el.hidden=isChild?!childrenMode:childrenMode;});});}
+function toggleReadingLevel(){childrenMode=!childrenMode;updateReadingLevel();}
 /* Always start the app with verses hidden. The user's verse choice may
    persist while navigating chapters during this session, but not on launch. */
 try{localStorage.setItem('bibleIdeasVersesMode','false');}catch{}
@@ -141,7 +439,7 @@ const chapterData=new Map(),hebrewVerses=new Map(),wordData=new Map(),audioSourc
 function getWordData(item){if(!wordData.has(item.key))wordData.set(item.key,getJson(item.key+'/readalong_words.json').catch(e=>{wordData.delete(item.key);throw e;}));return wordData.get(item.key);}
 function readHebrewWords(data){const out=[];let parts=[];for(const word of data.words||[]){const text=String(word.hebrew||'').trim();if(!text)continue;parts.push(text);if(text.includes('׃')){out.push(parts.join(' '));parts=[];}}if(parts.length)out.push(parts.join(' '));return out;}
 async function getVerses(item,lang){const details=chapterData.get(item.key)||{};if(lang==='en')return details.english||[];if(Array.isArray(details.verses))return details.verses;if(!hebrewVerses.has(item.key)){const pending=getWordData(item).then(data=>{const rows=readHebrewWords(data);if(!rows.length)throw new Error('Missing verses');return rows;}).catch(e=>{hebrewVerses.delete(item.key);throw e;});hebrewVerses.set(item.key,pending);}return hebrewVerses.get(item.key);}
-async function refreshVerses(article){const state=article.verseState;if(!state)return;const {overlay,toggle,verseLabel,from,to,item}=state;const lang=currentLanguage,request=++state.request;verseLabel.textContent=(lang==='he'?'פסוקים ':'Verses ')+(from>0?(from===to?from:from+'–'+to):'');toggle.setAttribute('aria-pressed',String(state.open));toggle.setAttribute('aria-label',lang==='he'?(state.open?'הסתר פסוקים':'הצג פסוקים'):(state.open?'Hide verses':'Show verses'));overlay.hidden=!state.open;
+async function refreshVerses(article){const state=article.verseState;if(!state)return;const {overlay,toggle,verseLabel,from,to,item}=state;const lang=currentLanguage,request=++state.request;verseLabel.textContent=(lang==='he'?'פסוקים ':'Verses ')+(from>0?(from===to?from:from+'–'+to):'')+".";toggle.setAttribute('aria-pressed',String(state.open));toggle.setAttribute('aria-label',lang==='he'?(state.open?'הסתר פסוקים':'הצג פסוקים'):(state.open?'Hide verses':'Show verses'));overlay.hidden=!state.open;
 const frame=overlay.closest('.picture-frame');
 frame?.classList.toggle('verses-visible',state.open);
 if(!state.open){frame?.classList.remove('karaoke-playing');return;}
@@ -159,19 +457,24 @@ let audioSession=null,audioToken=0,audioFrame=0;
 function stopAudio(){audioToken++;audioPlayer.pause();cancelAnimationFrame(audioFrame);if(audioSession){const {state}=audioSession;state.overlay.closest('.picture-frame')?.classList.remove('karaoke-playing');state.audioButton.textContent='▶';state.audioButton.setAttribute('aria-pressed','false');state.audioButton.setAttribute('aria-label',currentLanguage==='he'?'נגן קריוקי':'Play karaoke');state.overlay.querySelectorAll('.karaoke-active').forEach(el=>el.classList.remove('karaoke-active'));}audioSession=null;}
 function englishCues(details,from,to){const times=details.times_en||[];return Array.from({length:to-from+1},(_,n)=>{const verse=from+n,t=times[verse-1],next=times[verse];const start=Number(typeof t==='object'?t?.start:t);const end=Number((typeof t==='object'?t?.end:undefined)??details.times_en_end?.[verse-1]??(typeof next==='object'?next?.start:next));return {verse,start,end};}).filter(c=>Number.isFinite(c.start)&&Number.isFinite(c.end)&&c.end>c.start);}
 function hebrewCues(data,from,to){let verse=1,wordIndex=0;const cues=[];for(const word of data.words||[]){const text=String(word.hebrew||'').trim();if(!text)continue;const count=text.split(/\s+/).length;if(verse>=from&&verse<=to){const start=Number(word.start),end=Number(word.end);if(Number.isFinite(start)&&Number.isFinite(end)&&end>start)cues.push({verse,word:wordIndex,count,start,end});}wordIndex+=count;if(text.includes('׃')){verse++;wordIndex=0;}}return cues;}
-async function getAudioSource(item,lang){const details=chapterData.get(item.key)||{};if(lang==='en'){if(!details.audio_en_url)throw new Error('No English recording');return details.audio_en_url;}if(details.audio_he_url||details.audio_url)return details.audio_he_url||details.audio_url;if(!audioSources.has(item.key)){audioSources.set(item.key,fetch(url(item.key+'/audio_url.txt')).then(async r=>{if(!r.ok)throw new Error('Audio URL unavailable');const value=(await r.text()).trim();if(!/^https?:\/\//.test(value))throw new Error('Invalid audio URL');return value;}).catch(e=>{audioSources.delete(item.key);throw e;}));}return audioSources.get(item.key);}
+async function getAudioSource(item,lang){const details=chapterData.get(item.key)||{};if(lang==='en'){if(!details.audio_en_url)throw new Error('No English recording');return details.audio_en_url;}if(details.audio_he_url||details.audio_url)return details.audio_he_url||details.audio_url;if(!audioSources.has(item.key)){audioSources.set(item.key,fetchMirrored(item.key+'/audio_url.txt',undefined,true).then(value=>{value=value.trim();if(!/^https?:\/\//.test(value))throw new Error('Invalid audio URL');return value;}).catch(e=>{audioSources.delete(item.key);throw e;}));}return audioSources.get(item.key);}
 function updateKaraoke(){const session=audioSession;if(!session)return;const time=audioPlayer.currentTime;if(time>=session.end){stopAudio();return;}const cue=session.cues.find(c=>time>=c.start&&time<c.end);if(cue!==session.active){session.state.overlay.querySelectorAll('.karaoke-active').forEach(el=>el.classList.remove('karaoke-active'));session.active=cue;if(cue){const selector=session.lang==='en'?'.karaoke-line[data-verse="'+cue.verse+'"]':'.karaoke-word[data-verse="'+cue.verse+'"]';const all=[...session.state.overlay.querySelectorAll(selector)];const targets=session.lang==='en'?all:all.filter(el=>Number(el.dataset.word)>=cue.word&&Number(el.dataset.word)<cue.word+cue.count);targets.forEach(el=>el.classList.add('karaoke-active'));const el=targets[0],box=session.state.overlay;if(el){const r=el.getBoundingClientRect(),b=box.getBoundingClientRect();if(r.top<b.top||r.bottom>b.bottom)box.scrollTop+=r.top-b.top-12;}}}audioFrame=requestAnimationFrame(updateKaraoke);}
-async function toggleAudio(article){if(audioSession?.article===article){stopAudio();return;}stopAudio();const token=audioToken,state=article.verseState,lang=currentLanguage;audioSession={article,state,lang,cues:[],end:Infinity};state.audioButton.textContent='■';state.audioButton.setAttribute('aria-pressed','true');state.audioButton.setAttribute('aria-label',lang==='he'?'עצור קריוקי':'Stop karaoke');if(!versesMode)setVersesMode(true);state.open=true;
+async function toggleAudio(article){if(audioSession?.article===article){if(audioPlayer.paused){audioPlayer.play().then(()=>{if(audioSession?.article===article){audioSession.paused=false;audioSession.state.audioButton.textContent='Ⅱ';document.getElementById('dockAudio')?.setAttribute('aria-label','השהה');updateKaraoke();}}).catch(()=>{});}else{audioPlayer.pause();cancelAnimationFrame(audioFrame);audioSession.paused=true;audioSession.state.audioButton.textContent='▶';}return;}stopAudio();const token=audioToken,state=article.verseState,lang=currentLanguage;audioSession={article,state,lang,cues:[],end:Infinity};state.audioButton.textContent='Ⅱ';state.audioButton.setAttribute('aria-pressed','true');state.audioButton.setAttribute('aria-label',lang==='he'?'עצור קריוקי':'Stop karaoke');if(!versesMode)setVersesMode(true);state.open=true;
 state.overlay.closest('.picture-frame')?.classList.add('karaoke-playing');
  try{await refreshVerses(article);const [source,data]=await Promise.all([getAudioSource(state.item,lang),lang==='he'?getWordData(state.item):Promise.resolve(chapterData.get(state.item.key))]);if(token!==audioToken)return;const cues=lang==='he'?hebrewCues(data,state.from,state.to):englishCues(data,state.from,state.to);if(!cues.length||!cues.some(c=>c.verse===state.from)||!cues.some(c=>c.verse===state.to))throw new Error('Timing unavailable');audioSession.cues=cues;audioSession.end=cues[cues.length-1].end;audioPlayer.src=source;audioPlayer.currentTime=cues[0].start;await audioPlayer.play();if(token!==audioToken)return;updateKaraoke();}
  catch(e){if(token!==audioToken)return;stopAudio();state.overlay.hidden=false;state.overlay.textContent=lang==='he'?'לא ניתן לנגן. בדוק את החיבור ונסה שוב.':'Unable to play. Check your connection and retry.';}
 }
 audioPlayer.addEventListener('ended',stopAudio);
 audioPlayer.addEventListener('error',()=>{if(!audioSession)return;const state=audioSession.state;stopAudio();state.overlay.textContent=currentLanguage==='he'?'לא ניתן לטעון את ההקלטה. נסה שוב.':'Unable to load the recording. Please retry.';});
-function setLanguage(lang){stopAudio();const hit=mainVisibleCard(),anchor=hit?.card,y=anchor?.getBoundingClientRect().top;currentLanguage=lang;document.body.dataset.language=lang;document.getElementById('main-app-heading').textContent=lang==='he'?'תנ״ך לפי רעיונות':'Bible by Ideas';document.getElementById('main-app-heading').lang=lang;document.getElementById('language-toggle').setAttribute('aria-label',lang==='he'?'החלף לאנגלית':'Switch to Hebrew');feed.querySelectorAll('.idea').forEach(refreshVerses);if(anchor){feed.scrollBy({top:anchor.getBoundingClientRect().top-y,behavior:'instant'});lastAlignedCard=anchor;}syncCurrentCard();}
+function setLanguage(lang){stopAudio();const hit=mainVisibleCard(),anchor=hit?.card,y=anchor?.getBoundingClientRect().top;currentLanguage=lang;document.body.dataset.language=lang;document.getElementById('main-app-heading').textContent=lang==='he'?'תנ״ך לפי סיפורים':'Bible by Stories';document.getElementById('main-app-heading').lang=lang;document.getElementById('language-toggle').setAttribute('aria-label',lang==='he'?'החלף לאנגלית':'Switch to Hebrew');feed.querySelectorAll('.idea').forEach(refreshVerses);if(anchor){feed.scrollBy({top:anchor.getBoundingClientRect().top-y,behavior:'instant'});lastAlignedCard=anchor;}syncCurrentCard();updateReadingLevel();}
 document.getElementById('language-toggle').onclick=()=>setLanguage(currentLanguage==='he'?'en':'he');
-function createCard(item,index,image,summary,number,total){if(typeof summary.summary_he!=='string'||typeof summary.summary_en!=='string'||!summary.summary_he.trim()||!summary.summary_en.trim())throw new Error('חסר סיכום בעברית או באנגלית ברעיון '+number);const article=node('article',undefined,'idea');article.dataset.index=index;const from=Number(summary.start_verse),to=Number(summary.end_verse);const verses=from>0?(to>from?'פסוקים '+from+'–'+to:'פסוק '+from):'';article.dataset.verses=verses;const caption=node('div',undefined,'caption');caption.append(node('span',item.book+' · פרק '+item.chapter,'chapter-label'),node('span','רעיון '+number+' מתוך '+total));const tools=node('span',undefined,'verse-tools'),verseLabel=node('span',verses),toggle=node('button','▤','verse-toggle');toggle.type='button';toggle.setAttribute('aria-pressed','false');toggle.setAttribute('aria-label','הצג או הסתר פסוקים');const audioButton=node('button','▶','audio-toggle');audioButton.type='button';audioButton.setAttribute('aria-label','נגן קריוקי');audioButton.setAttribute('aria-pressed','false');tools.append(verseLabel,toggle,audioButton);caption.append(tools);const frame=node('div',undefined,'picture-frame'),overlay=node('p',undefined,'verse-overlay');overlay.hidden=true;overlay.id='verses-'+index+'-'+number;toggle.setAttribute('aria-controls',overlay.id);article.verseState={item,from,to:to||from,overlay,toggle,verseLabel,audioButton,open:versesMode,request:0};audioButton.onclick=()=>toggleAudio(article);toggle.onclick=()=>setVersesMode(!versesMode);const img=node('img',undefined,'picture');img.src=url(item.key+'/images/'+image);img.alt=item.book+', פרק '+item.chapter+', תמונת רעיון '+number;img.loading=number===1?'eager':'lazy';img.decoding='async';img.addEventListener('error',()=>{img.hidden=true;article.insertBefore(node('p','לא ניתן לטעון את התמונה. בדוק את החיבור ונסה שוב.','status'),caption.nextSibling)});const text=node('div',undefined,'summary');const he=node('p',summary.summary_he,'he');he.lang='he';const en=node('p',summary.summary_en,'en');en.lang='en';const titleHe=node('h2',summary.title_he||summary.title||('רעיון '+number),'idea-title he-title');titleHe.lang='he';const titleEn=node('h2',summary.title_en||('Idea '+number),'idea-title en-title');titleEn.lang='en';text.append(titleHe,he,titleEn,en);frame.append(img,overlay);article.append(caption,frame,text);refreshVerses(article);return article;}
-async function renderChapter(index,token,signal,before=null){const item=chapterList[index];const fragment=document.createDocumentFragment();try{const [data,details]=await Promise.all([getJson(item.key+'/idea_summery.json',signal).catch(()=>null),getJson(item.key+'/chapter.json',signal)]);if(token!==generation)return false;chapterData.set(item.key,details);let summariesList=[];if(data&&Array.isArray(data.ideas))summariesList=data.ideas;else if(Array.isArray(data))summariesList=data;else if(details&&Array.isArray(details.ideas))summariesList=details.ideas;if(!summariesList.length)throw new Error('לא נמצאו סיכומי רעיונות בפרק.');const detailIdeas=Array.isArray(details?.ideas)?details.ideas:[];const rows=summariesList.map((idea,i)=>{const id=Number(idea.idea_id||i+1);const detail=detailIdeas.find(x=>Number(x.idea_id)===id)||detailIdeas[i]||{};const from=Number(idea.start_verse||detail.start_verse||0);const to=Number(idea.end_verse||detail.end_verse||from||0);let image=String(idea.image_file||detail.image_file||'').replace(/^images\//i,'').trim();if(!image)image='idea_'+String(id).padStart(2,'0')+(id===1?'':(from?'_v'+from+'-'+to:''))+'.jpg';return {image,row:{...detail,...idea,idea_id:id,start_verse:from,end_verse:to,summary_he:idea.summary_he||idea.summary||detail.summary_he||detail.summary||'',summary_en:idea.summary_en||detail.summary_en||'',title_he:idea.title_he||idea.title||detail.title_he||detail.title||'',title_en:idea.title_en||detail.title_en||''}};});rows.forEach((x,i)=>fragment.append(createCard(item,index,x.image,x.row,i+1,rows.length)));}catch(e){if(e.name==='AbortError'||token!==generation)return false;const article=node('article',undefined,'notice');article.dataset.index=index;article.append(node('h2',item.book+' · פרק '+item.chapter));const msg=e.status===404?'לא נמצאו קבצי הפרק.':('לא ניתן להציג את הפרק: '+(e.message||'בדוק את החיבור לרשת.'));article.append(node('p',msg,'missing'));const retry=node('button','נסה שוב');retry.onclick=()=>openChapter(index);article.append(retry,node('p','אפשר להמשיך לפרק הבא בגלילה או לבחור פרק אחר בתפריט.','hint'));fragment.append(article);}if(token!==generation)return false;const articles=[...fragment.children];feed.insertBefore(fragment,before);articles.forEach(el=>visibleObserver.observe(el));return true;}
+function createCard(item,index,image,summary,number,total){if(typeof summary.summary_he!=='string'||typeof summary.summary_en!=='string'||!summary.summary_he.trim()||!summary.summary_en.trim())throw new Error('חסר סיכום בעברית או באנגלית ברעיון '+number);const article=node('article',undefined,'idea');article.dataset.index=index;article.dataset.storyNumber=number;const from=Number(summary.start_verse),to=Number(summary.end_verse);const verses=from>0?(to>from?'פסוקים '+from+'–'+to:'פסוק '+from):'';article.dataset.verses=verses;const caption=node('div',undefined,'caption');caption.append(node('span',item.book+' פרק '+item.chapter,'chapter-label'),node('span','סיפור '+number+' מתוך '+total));const tools=node('span',undefined,'verse-tools'),verseLabel=node('span',verses),toggle=node('button','▤','verse-toggle');toggle.type='button';toggle.setAttribute('aria-pressed','false');toggle.setAttribute('aria-label','הצג או הסתר פסוקים');const audioButton=node('button','▶','audio-toggle');audioButton.type='button';audioButton.setAttribute('aria-label','נגן קריוקי');audioButton.setAttribute('aria-pressed','false');tools.append(verseLabel,toggle,audioButton);caption.append(tools);const frame=node('div',undefined,'picture-frame'),overlay=node('p',undefined,'verse-overlay');overlay.hidden=true;overlay.id='verses-'+index+'-'+number;toggle.setAttribute('aria-controls',overlay.id);article.verseState={item,from,to:to||from,overlay,toggle,verseLabel,audioButton,open:versesMode,request:0};audioButton.onclick=()=>toggleAudio(article);toggle.onclick=()=>setVersesMode(!versesMode);const img=node('img',undefined,'picture');img.src=url(item.key+'/images/'+image);img.alt=item.book+', פרק '+item.chapter+', תמונת רעיון '+number;img.loading=number===1?'eager':'lazy';img.decoding='async';img.addEventListener('error',()=>{
+  const attempts=Number(img.dataset.mirrorAttempt||0);
+  const path=item.key+'/images/'+String(image).replace(/^images\//,'');
+  if(attempts<DATA_MIRRORS.length-1){img.dataset.mirrorAttempt=String(attempts+1);img.src=mirrorUrl(DATA_MIRRORS[attempts+1],path);return;}
+  if(!img.dataset.pngFallback){img.dataset.pngFallback='1';img.dataset.mirrorAttempt='0';img.src=mirrorUrl(DATA_MIRRORS[0],path.replace(/\.(jpe?g|webp)$/i,'.png'));}
+ });const text=node('div',undefined,'summary');const levelButton=node('button','ילדים','reading-level');levelButton.type='button';levelButton.setAttribute('aria-pressed','true');levelButton.title='החלף רמת הסבר';levelButton.onclick=toggleReadingLevel;const he=node('p',summary.summary_he,'he');he.lang='he';const en=node('p',summary.summary_en,'en');en.lang='en';const titleHe=node('h2',summary.title_he||summary.title||('סיפור '+number),'idea-title he-title');titleHe.lang='he';const titleEn=node('h2',summary.title_en||('Story '+number),'idea-title en-title');titleEn.lang='en';const kidHe=node('p',summary.children_he||'הַהֶסְבֵּר לִילָדִים עֲדַיִן לֹא נִכְתַּב.','he child-explanation');kidHe.lang='he';const kidEn=node('p',summary.children_en||'A children’s explanation has not been written yet.','en child-explanation');kidEn.lang='en';const titleRow=node('div',undefined,'idea-heading-row');titleRow.append(titleHe,titleEn,levelButton);text.append(titleRow,he,kidHe,en,kidEn);frame.append(img,overlay);article.append(caption,frame,text);refreshVerses(article);return article;}
+async function renderChapter(index,token,signal,before=null){const item=chapterList[index];const fragment=document.createDocumentFragment();try{const [data,details]=await Promise.all([getJson(item.key+'/idea_summery.json',signal).catch(()=>null),getJson(item.key+'/chapter.json',signal)]);if(token!==generation)return false;chapterData.set(item.key,details);let summariesList=[];if(data&&Array.isArray(data.ideas))summariesList=data.ideas;else if(Array.isArray(data))summariesList=data;else if(details&&Array.isArray(details.ideas))summariesList=details.ideas;if(!summariesList.length)throw new Error('לא נמצאו סיכומי רעיונות בפרק.');const detailIdeas=Array.isArray(details?.ideas)?details.ideas:[];const rows=summariesList.map((idea,i)=>{const id=Number(idea.idea_id||i+1);const detail=detailIdeas.find(x=>Number(x.idea_id)===id)||detailIdeas[i]||{};const from=Number(idea.start_verse||detail.start_verse||0);const to=Number(idea.end_verse||detail.end_verse||from||0);let image=String(idea.image_file||detail.image_file||'').replace(/^images\//i,'').trim();if(!image)image='idea_'+String(id).padStart(2,'0')+(id===1?'':(from?'_v'+from+'-'+to:''))+'.jpg';return {image,row:{...detail,...idea,idea_id:id,start_verse:from,end_verse:to,summary_he:idea.summary_he||idea.summary||detail.summary_he||detail.summary||'',summary_en:idea.summary_en||detail.summary_en||'',title_he:idea.title_he||idea.title||detail.title_he||detail.title||'',title_en:idea.title_en||detail.title_en||''}};});const childFile=await childrenFor(item);if(token!==generation)return false;const childIdeas=Array.isArray(childFile)?childFile:(childFile?.ideas||[]);rows.forEach((x,i)=>{const match=childIdeas.find(c=>Number(c.idea_id)===Number(x.row.idea_id));if(match){x.row.children_he=match.children_he||x.row.children_he;x.row.children_en=match.children_en||x.row.children_en;}fragment.append(createCard(item,index,x.image,x.row,i+1,rows.length));});}catch(e){if(e.name==='AbortError'||token!==generation)return false;const article=node('article',undefined,'notice');article.dataset.index=index;article.append(node('h2',item.book+' · פרק '+item.chapter));const msg=e.status===404?'לא נמצאו קבצי הפרק.':('לא ניתן להציג את הפרק: '+(e.message||'בדוק את החיבור לרשת.'));article.append(node('p',msg,'missing'));const retry=node('button','נסה שוב');retry.onclick=()=>openChapter(index);article.append(retry,node('p','אפשר להמשיך לפרק הבא בגלילה או לבחור פרק אחר בתפריט.','hint'));fragment.append(article);}if(token!==generation)return false;const articles=[...fragment.children];feed.insertBefore(fragment,before);articles.forEach(el=>visibleObserver.observe(el));updateReadingLevel();return true;}
 function addNext(index,token){if(token!==generation)return;const end=node('section',undefined,'next');if(index>=chapterList.length-1){end.append(node('p','הגעת לסוף התנ״ך'),node('button','בחר פרק אחר'));end.lastChild.onclick=openBookMenu;feed.append(end);return;}const next=chapterList[index+1];end.append(node('p','↓ המשך אל '+next.book+' · פרק '+next.chapter));const button=node('button','טען את הפרק הבא');end.append(button);feed.append(end);let started=false;async function advance(){if(started||token!==generation)return;started=true;nextObserver?.disconnect();button.disabled=true;button.textContent='טוען את הפרק הבא…';const ok=await renderChapter(index+1,token,controller.signal);if(!ok)return;end.remove();addNext(index+1,token);}button.onclick=advance;nextObserver=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting))advance();},{root:feed,threshold:0.7});nextObserver.observe(end);}
 function addPrevious(index,token){if(token!==generation||index<=0)return;const prev=chapterList[index-1],start=node('section',undefined,'previous'),button=node('button','↑ '+prev.book+' · פרק '+prev.chapter+' — הקודם');start.append(button);feed.prepend(start);let started=false;async function back(){if(started||token!==generation)return;started=true;previousObserver?.disconnect();loadingPrevious=true;clearTimeout(alignTimer);button.disabled=true;button.textContent='טוען את הפרק הקודם…';const top=feed.getBoundingClientRect().top;const anchor=[...feed.querySelectorAll('.idea,.notice')].find(el=>Number(el.dataset.index)>=index&&el.getBoundingClientRect().bottom>top)||start.nextElementSibling;const y=anchor?.getBoundingClientRect().top;const ok=await renderChapter(index-1,token,controller.signal,start);if(!ok)return;start.remove();addPrevious(index-1,token);if(anchor&&y!==undefined){feed.scrollBy({top:anchor.getBoundingClientRect().top-y,behavior:'instant'});}lastScrollTop=feed.scrollTop;autoAlign=false;loadingPrevious=false;clearTimeout(alignTimer);alignTimer=setTimeout(alignNewIdea,180);}
 button.onclick=back;previousObserver=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)&&scrollDirection<0)back();},{root:feed,threshold:0.1});previousObserver.observe(start);start.addEventListener('wheel',e=>{if(e.deltaY<0)back();},{passive:true});}
@@ -211,7 +514,10 @@ function carouselMove(direction){
    return;
  }
  carouselLock=true;
- // Hide green verses whenever the reader scrolls, even if audio was playing.
+ // Every story transition stops the previous audio and restores Play.
+ stopAudio();
+ const dockPlay=document.getElementById('dockAudio');
+ if(dockPlay){dockPlay.textContent='▶';dockPlay.setAttribute('aria-label',currentLanguage==='he'?'נגן קריוקי':'Play karaoke');}
  if(versesMode)setVersesMode(false);
  clearTimeout(alignTimer);autoAlign=true;lastAlignedCard=next;
  const y=next.getBoundingClientRect().top-feed.getBoundingClientRect().top;
@@ -219,29 +525,8 @@ function carouselMove(direction){
  syncCurrentCard();
  setTimeout(()=>{carouselLock=false;autoAlign=false;lastAlignedCard=next;},320);
 }
-feed.addEventListener('wheel',e=>{
- if(dialog.open||e.target.closest('button'))return;
- e.preventDefault();e.stopImmediatePropagation();
- if(Math.abs(e.deltaY)>3)carouselMove(Math.sign(e.deltaY));
-},{capture:true,passive:false});
-feed.addEventListener('touchstart',e=>{carouselTouchStart=e.touches[0]?.clientY??null;carouselTouchMoved=false;},{capture:true,passive:true});
-feed.addEventListener('touchmove',e=>{
- if(carouselTouchStart===null)return;
- if(Math.abs((e.touches[0]?.clientY??carouselTouchStart)-carouselTouchStart)>8){carouselTouchMoved=true;e.preventDefault();}
-},{capture:true,passive:false});
-feed.addEventListener('touchend',e=>{
- if(carouselTouchStart===null)return;
- const distance=carouselTouchStart-(e.changedTouches[0]?.clientY??carouselTouchStart);
- carouselTouchStart=null;
- if(carouselTouchMoved&&Math.abs(distance)>28){e.stopImmediatePropagation();carouselMove(Math.sign(distance));}
-},{capture:true,passive:true});
-feed.addEventListener('touchcancel',()=>{carouselTouchStart=null;},{capture:true,passive:true});
-feed.addEventListener('keydown',e=>{
- if(['ArrowDown','PageDown','ArrowUp','PageUp'].includes(e.key)&&!e.target.closest('button,input,textarea,select')){
-  e.preventDefault();carouselMove(['ArrowDown','PageDown'].includes(e.key)?1:-1);
- }
-},{capture:true});
-
+// No carousel gestures: explanations scroll freely inside their own box.
+// Story changes are controlled exclusively by the gold arrow buttons.
 // Recheck the visible idea every five seconds, including an already aligned card.
 let readerTouching=false;
 feed.addEventListener('touchstart',()=>{readerTouching=true;},{passive:true});
@@ -257,7 +542,6 @@ if('serviceWorker' in navigator){
   window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js').catch(()=>{}));
 }
 </script>
-
 <script id="ideasInstallScript">
 (()=>{
  const btn=document.getElementById('ideasInstallBtn');
@@ -296,4 +580,807 @@ if('serviceWorker' in navigator){
    window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));
  }
 })();
-</script></body></html>
+</script><style>
+
+
+
+
+
+@media(max-width:420px){#openIntegratedGame{font-size:13px;padding:3px 6px}}
+</style>
+<script id="single-screen-game-button">(()=>{const btn=document.createElement('button');btn.id='openIntegratedGame';btn.type='button';btn.textContent='🎮 משחק';document.body.appendChild(btn);})();</script>
+<style>
+
+
+
+</style><style id="stories-final-style">
+.summary .idea-heading-row .reading-level{font-size:16px!important;padding:7px 12px!important;min-height:34px!important}
+.caption .verse-tools{margin-inline-start:auto!important;direction:ltr!important}
+.caption{display:flex!important;align-items:center!important}
+</style><script id="stories-final-script">
+(function(){
+ const originalSetLanguage=setLanguage;
+ setLanguage=function(lang){originalSetLanguage(lang);refreshStoryLabels();};
+ const oldUpdate=updateReadingLevel;
+ updateReadingLevel=function(){oldUpdate();refreshStoryLabels();};
+ function refreshStoryLabels(){
+ const en=document.body.dataset.language==='en';
+ const title=document.getElementById('main-app-heading');if(title){const t=en?'Bible by Stories':'תנ״ך לפי סיפורים';if(title.textContent!==t)title.textContent=t;}
+ const game=document.getElementById('openIntegratedGame');if(game){const t=en?'🎮 TO GAME':'🎮 למשחק';if(game.textContent!==t)game.textContent=t;}
+ document.querySelectorAll('.reading-level').forEach(b=>b.textContent=b.getAttribute('aria-pressed')==='true'?(en?'For Kids':'לילדים'):(en?'For Adults':'למבוגרים'));
+ document.querySelectorAll('.caption').forEach(c=>{
+  const label=c.querySelector('.chapter-label');if(label&&en){const card=c.closest('.idea');const item=chapterList[Number(card?.dataset.index)];const names={'בראשית':'Genesis','שמות':'Exodus','ויקרא':'Leviticus','במדבר':'Numbers','דברים':'Deuteronomy'};if(item)label.textContent=(names[item.book]||item.book)+' · Chapter '+item.chapter;}
+  else if(label){const card=c.closest('.idea');const item=chapterList[Number(card?.dataset.index)];if(item)label.textContent=item.book+' · פרק '+item.chapter;}
+  [...c.children].forEach(el=>{if(el!==label&&!el.classList.contains('verse-tools'))el.textContent=el.textContent.replace(/רעיון/g,'סיפור').replace(/Idea/g,'Story');});
+ });
+ }
+ const mo=new MutationObserver(()=>{requestAnimationFrame(refreshStoryLabels)});
+ mo.observe(document.getElementById('feed'),{childList:true});
+ refreshStoryLabels();
+})();
+</script><script id="stories-20261024-behavior">(function(){
+const names=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','1 Samuel','2 Samuel','1 Kings','2 Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Psalms','Proverbs','Job','Song of Songs','Ruth','Lamentations','Ecclesiastes','Esther','Daniel','Ezra','Nehemiah','1 Chronicles','2 Chronicles'];
+const kids=document.createElement('button');kids.id='topKidsSwitch';kids.type='button';document.querySelector('header')?.prepend(kids);
+kids.onclick=()=>{document.querySelector('.reading-level')?.click();refresh();};
+function refresh(){const en=document.body.dataset.language==='en';kids.textContent=childrenMode?(en?'For Kids':'לילדים'):(en?'For Adults':'למבוגרים');
+ document.querySelectorAll('.idea').forEach(card=>{const item=chapterList[Number(card.dataset.index)];if(!item)return;
+ const c=card.querySelector('.caption');if(!c)return;const label=c.querySelector('.chapter-label');if(label)label.textContent=en?(names[BOOKS.findIndex(x=>x[0]===item.book)]+' · Chapter '+item.chapter):(item.book+' · פרק '+item.chapter);
+ const counter=[...c.children].find(x=>x!==label&&!x.classList.contains('verse-tools'));if(counter){counter.classList.add('story-counter');const match=counter.textContent.match(/(\d+)\D+(\d+)/);if(match)counter.textContent=en?('Story '+match[1]+' of '+match[2]):('סיפור '+match[1]+' מתוך '+match[2]);}
+ });}
+const oldLanguage=setLanguage;setLanguage=function(lang){oldLanguage(lang);refresh();};
+const oldReading=updateReadingLevel;updateReadingLevel=function(){oldReading();refresh();};
+new MutationObserver(()=>requestAnimationFrame(refresh)).observe(document.getElementById('feed'),{childList:true});
+document.addEventListener('click',e=>{if(e.target.closest('#menu-chapters .chapter-button'))document.documentElement.requestFullscreen?.().catch(()=>{});},true);
+refresh();
+})();</script><style id="repaired-image-layout">
+:root{--dock-height:min(58dvh,650px)}
+#storyImageDock{flex:0 0 var(--dock-height);height:var(--dock-height);min-height:0;display:flex;flex-direction:column;background:#120b04;overflow:hidden}
+#storyImageDock .dock-caption{flex:0 0 auto;display:flex;justify-content:center;gap:18px;align-items:center;color:#ffdc71;font-size:clamp(17px,2.5vw,25px);font-weight:bold;padding:5px 8px;white-space:nowrap}
+#storyImageDock .dock-photo{position:relative;flex:1;min-height:0;overflow:hidden}
+#storyImageDock .dock-photo img{display:block;width:100%;height:100%;object-fit:contain;background:transparent}
+#storyImageDock .dock-buttons{position:absolute;top:8px;left:8px;display:flex;gap:6px;opacity:.65;z-index:2}
+#feed{flex:1 1 0!important;min-height:0!important;overflow-y:auto!important}
+#feed .idea{min-height:100%!important;height:100%!important;padding:6px 8px 65px!important;justify-content:flex-start!important}
+#feed .idea>.caption,#feed .idea>.picture-frame{display:none!important}
+#feed .idea>.summary{height:100%!important;min-height:0!important;max-height:none!important;overflow-y:auto!important;flex:1!important}
+@media(max-width:600px){:root{--dock-height:56dvh}#storyImageDock .dock-caption{font-size:clamp(13px,3vw,18px);gap:8px}}
+</style><script id="repaired-image-controller">(()=>{
+const feed=document.getElementById('feed');const dock=document.createElement('section');dock.id='storyImageDock';
+dock.innerHTML='<div class="dock-caption"><span id="dockChapter"></span><span id="dockCount"></span></div><div class="dock-photo"><img id="dockImg" alt="תמונת הסיפור"><div class="dock-buttons"><button id="dockVerses" title="פסוקים">▤</button><button id="dockAudio" title="קריוקי">▶</button></div></div>';
+document.body.insertBefore(dock,feed);
+const img=document.getElementById('dockImg');let last=null;
+function refresh(){if(document.body.classList.contains('game-is-open'))return;const cards=[...feed.querySelectorAll('.idea')];if(!cards.length)return;
+const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+let card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||cards.find(c=>c.getBoundingClientRect().bottom>y)||cards.at(-1);
+if(!card)return;const state=card.verseState;const item=state?.item||chapterList[Number(card.dataset.index)];if(!item)return;
+const en=document.body.dataset.language==='en';const from=Number(state?.from)||1,to=Number(state?.to)||from;
+const names=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','1 Samuel','2 Samuel','1 Kings','2 Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Psalms','Proverbs','Job','Song of Songs','Ruth','Lamentations','Ecclesiastes','Esther','Daniel','Ezra','Nehemiah','1 Chronicles','2 Chronicles'];
+// Chapter/range caption is updated exclusively by the 120ms caption controller.
+const count=card.querySelector('.story-counter')?.textContent||card.querySelector('.caption > span:nth-child(2)')?.textContent||'';
+const nums=count.match(/(\d+)\D+(\d+)/);const countEl=document.getElementById('dockCount');const nextCount=nums?(en?'Story '+nums[1]+' of '+nums[2]:'סיפור '+nums[1]+' מתוך '+nums[2]):count;if(countEl.textContent!==nextCount)countEl.textContent=nextCount;
+const original=card.querySelector(':scope > .picture-frame img');if(original&&img.src!==original.src){img.src=original.src;img.onerror=()=>{const fallback=original.currentSrc;if(fallback&&img.src!==fallback)img.src=fallback;};}
+if(last&&last!==card){
+ // A new story must never inherit the previous story’s Pause state.
+ stopAudio();
+ const play=document.getElementById('dockAudio');
+ if(play){play.textContent='▶';play.setAttribute('aria-label',en?'Play karaoke':'נגן קריוקי');}
+}
+last=card;
+}
+document.getElementById('dockVerses').onclick=()=>last?.querySelector('.verse-toggle')?.click();
+document.getElementById('dockAudio').onclick=()=>last?.querySelector('.audio-toggle')?.click();
+feed.addEventListener('scroll',()=>requestAnimationFrame(refresh),{passive:true});
+new MutationObserver(()=>requestAnimationFrame(refresh)).observe(feed,{childList:true});
+document.getElementById('language-toggle')?.addEventListener('click',()=>setTimeout(refresh,0));
+setInterval(refresh,500);refresh();
+})();</script><style id="gold-navigation-and-text-tuning">
+#storyArrows{position:fixed;bottom:calc(8px + env(safe-area-inset-bottom,0px));left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding:0 10px;pointer-events:none;z-index:2147482000}
+#storyArrows button{pointer-events:auto;min-width:56px;height:43px;padding:5px 12px;border:2px solid #a67308;border-radius:12px;background:linear-gradient(#fff1a6,#d99a16);color:#271600;font-size:27px;font-weight:900;box-shadow:0 2px 8px #0009}
+
+#storyImageDock .dock-caption{font-size:clamp(19px,2.9vw,30px)!important;line-height:1.2!important;gap:12px!important}
+#feed .summary{line-height:1.3!important;padding:6px 12px!important}
+#feed .summary p{line-height:1.35!important;margin:2px 0 5px!important}
+#feed .summary .idea-heading-row{margin-bottom:2px!important}
+.verse-overlay,.verse-overlay .karaoke-word,.verse-overlay .karaoke-line{color:#ffd75b!important}
+#storyImageDock .dock-photo{background:transparent!important}
+</style><script id="gold-navigation-script">(()=>{
+const arrows=document.createElement('nav');arrows.id='storyArrows';arrows.setAttribute('aria-label','מעבר בין סיפורים');
+const prev=document.createElement('button');prev.textContent='▲';prev.title='הסיפור הקודם';prev.setAttribute('aria-label','הסיפור הקודם');
+const next=document.createElement('button');next.textContent='▼';next.title='הסיפור הבא';next.setAttribute('aria-label','הסיפור הבא');
+prev.onclick=()=>carouselMove(-1);next.onclick=()=>carouselMove(1);
+arrows.append(prev,next);document.body.append(arrows);
+})();</script>
+<style id="story-final-refinement">
+/* Edge-to-edge photo: crop only where image aspect ratio requires it. */
+#storyImageDock{width:100vw!important;max-width:none!important;margin:0!important;padding:0!important}
+#storyImageDock .dock-photo{width:100vw!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important}
+#storyImageDock .dock-photo img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center!important;border:0!important;border-radius:0!important;box-shadow:none!important}
+#storyImageDock .dock-caption{font-size:clamp(15px,2.1vw,23px)!important;gap:8px!important}
+#storyArrows button{font-size:clamp(21px,2.7vw,27px)!important;min-width:65px!important;white-space:nowrap!important;padding:7px 11px!important}
+#topKidsSwitch{font-size:25px!important;min-width:49px!important;padding:4px 8px!important}
+/* Only the explanation of the active story scrolls, if it exceeds the available height. */
+#feed{overflow-y:hidden!important;overscroll-behavior:contain!important}
+#feed .idea>.summary{overflow-y:auto!important;overscroll-behavior:contain!important;scrollbar-width:thin}
+#feed .idea>.summary p{margin-top:0!important;margin-bottom:3px!important}
+</style>
+<script id="story-final-refinement-script">(()=>{
+const nav=document.getElementById('storyArrows');
+if(nav){const b=nav.querySelectorAll('button');if(b[0]){b[0].textContent='▲';b[0].title='סיפור קודם';b[0].setAttribute('aria-label','סיפור קודם');}if(b[1]){b[1].textContent='▼';b[1].title='סיפור הבא';b[1].setAttribute('aria-label','סיפור הבא');}}
+const kids=document.getElementById('topKidsSwitch');
+if(kids){const paint=()=>{kids.textContent=childrenMode?'🧒':'🧔';kids.title=childrenMode?(currentLanguage==='he'?'לילדים':'For Kids'):(currentLanguage==='he'?'למבוגרים':'For Adults');kids.setAttribute('aria-label',kids.title);kids.classList.toggle('bearded-adult',!childrenMode);};
+const obs=new MutationObserver(paint);obs.observe(kids,{childList:true});
+// The older controller updates the label: replace after it, without triggering a mutation loop.
+const oldText=Object.getOwnPropertyDescriptor(Node.prototype,'textContent');
+obs.disconnect();
+const originalClick=kids.onclick;kids.onclick=(event)=>{originalClick?.call(kids,event);queueMicrotask(paint);};
+const lang=document.getElementById('language-toggle');lang?.addEventListener('click',()=>setTimeout(paint,20));
+paint();
+}
+const chapter=document.getElementById('dockChapter');
+// The dock caption is controlled by its single update loop below; no competing MutationObserver.
+// Browsers generally reject fullscreen without a user gesture. Try once at 100ms;
+// then request it on the next deliberate tap if the browser blocked the first attempt.
+let tried=false;const enter=()=>{if(document.fullscreenElement||!document.documentElement.requestFullscreen)return;document.documentElement.requestFullscreen().catch(()=>{});};
+setTimeout(()=>{tried=true;enter();},100);
+document.addEventListener('pointerdown',function once(e){if(!tried||document.fullscreenElement)return;enter();document.removeEventListener('pointerdown',once,true);},true);
+})();</script>
+<style id="story-corrections-verified">
+#storyImageDock .dock-photo img{opacity:1!important;transition:opacity .18s ease}
+#storyImageDock .dock-photo:has(#dockVerseOverlay:not([hidden])) img{opacity:.34!important}
+#dockVerseOverlay{position:absolute!important;inset:40px 0 0!important;z-index:3!important;display:block!important;overflow-y:auto!important;pointer-events:auto!important;touch-action:pan-y!important;background:transparent!important;color:#ffd75b!important;font-size:clamp(20px,2.5vw,27px)!important;line-height:1.15!important;padding:12px 18px!important;direction:rtl;text-align:right;text-shadow:0 1px 3px #000!important}
+#dockVerseOverlay[hidden]{display:none!important}
+#dockVerseOverlay[lang=en]{direction:ltr;text-align:left}
+#dockVerseOverlay .karaoke-word,#dockVerseOverlay .karaoke-line{color:#ffd75b!important}
+#dockVerseOverlay .karaoke-active{color:#241300!important;background:#fff2a0!important}
+#storyImageDock .dock-buttons{z-index:5!important}
+#storyImageDock .dock-caption{font-size:clamp(14px,1.9vw,21px)!important}
+#topKidsSwitch{font-size:0!important;min-width:49px!important}
+#topKidsSwitch::first-letter{font-size:25px!important}
+</style>
+<script id="story-corrections-controller">(()=>{
+ const dock=document.getElementById('storyImageDock');if(!dock)return;
+ const photo=dock.querySelector('.dock-photo');
+ const overlay=document.createElement('div');overlay.id='dockVerseOverlay';overlay.hidden=true;photo.append(overlay);
+ const chapter=document.getElementById('dockChapter');const arrows=document.querySelectorAll('#storyArrows button');
+ // Navigation buttons keep their original opposite-side ordering.
+ const kids=document.getElementById('topKidsSwitch');
+ function update(){
+  if(kids){const icon=childrenMode?'🧒':'🧔';if(kids.textContent!==icon)kids.textContent=icon;kids.classList.toggle('bearded-adult',!childrenMode);kids.title=childrenMode?'לילדים / For Kids':'למבוגרים / For Adults';kids.setAttribute('aria-label',kids.title);}
+  const cards=[...document.querySelectorAll('#feed .idea')];if(!cards.length)return;
+  const feed=document.getElementById('feed'),top=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+  const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=top&&r.bottom>top})||cards.find(c=>c.getBoundingClientRect().bottom>top)||cards.at(-1);
+  const state=card?.verseState;if(!state)return;
+  const original=state.overlay;
+  const visible=Boolean(state.open&&!original.hidden);
+  if(overlay.hidden===visible)overlay.hidden=!visible;
+  if(visible){overlay.lang=original.lang||currentLanguage;
+   if(overlay.innerHTML!==original.innerHTML){const previousScroll=overlay.scrollTop;overlay.innerHTML=original.innerHTML;overlay.scrollTop=previousScroll;}
+  }else if(overlay.innerHTML)overlay.replaceChildren();
+  const en=document.body.dataset.language==='en';const item=state.item;
+  const names=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','1 Samuel','2 Samuel','1 Kings','2 Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Psalms','Proverbs','Job','Song of Songs','Ruth','Lamentations','Ecclesiastes','Esther','Daniel','Ezra','Nehemiah','1 Chronicles','2 Chronicles'];
+  const book=en?(names[BOOKS.findIndex(x=>x[0]===item.book)]||item.book):item.book;
+  const range=state.from===state.to?String(state.from):state.from+'–'+state.to;
+  const desired=(en?`${book} · Chapter ${item.chapter} · Verses ${range}`:`${book} · פרק ${item.chapter} · פסוקים ${range}`)+".";
+  chapter.dir=en?'ltr':'rtl';chapter.style.unicodeBidi='isolate';
+  if(chapter.textContent!==desired)chapter.textContent=desired;
+  // Do not let the dock's own controls fall behind the displayed verses.
+  const verseButton=document.getElementById('dockVerses');if(verseButton)verseButton.setAttribute('aria-pressed',String(visible));
+ }
+ setInterval(update,120);update();
+})();</script>
+<style id="bearded-green-icon">#topKidsSwitch.bearded-adult{background:linear-gradient(#a5f5aa,#259f49)!important;border-color:#136b2e!important;color:#073a19!important}#topKidsSwitch.bearded-adult::first-letter{font-size:25px!important}</style>
+<style id="android-verses-nav-20261024">
+/* Larger, heavier gold verses in the fixed picture and in fallback cards. */
+#dockVerseOverlay,.verse-overlay{font-size:clamp(22px,2.75vw,30px)!important;font-weight:800!important;line-height:1.24!important}
+#dockVerseOverlay .karaoke-word,#dockVerseOverlay .karaoke-line,.verse-overlay .karaoke-word,.verse-overlay .karaoke-line{font-weight:800!important}
+</style>
+<script id="android-nav-and-fullscreen-20261024">(()=>{
+'use strict';
+const labels=()=>{
+ const en=document.body.dataset.language==='en';
+ const buttons=document.querySelectorAll('#storyArrows button');
+ if(buttons[0]){const t=en?'Previous':'קודם';buttons[0].textContent='▲';buttons[0].title=t;buttons[0].setAttribute('aria-label',t);}
+ if(buttons[1]){const t=en?'Next':'הבא';buttons[1].textContent='▼';buttons[1].title=t;buttons[1].setAttribute('aria-label',t);}
+};
+new MutationObserver(labels).observe(document.body,{attributes:true,attributeFilter:['data-language']});
+labels();
+// Android Chrome forbids requestFullscreen without a user gesture.
+// Request on the earliest interaction, not only on chapter selection.
+const request=()=>{
+ if(document.fullscreenElement || !document.documentElement.requestFullscreen)return;
+ try{const result=document.documentElement.requestFullscreen({navigationUI:'hide'});result?.catch?.(()=>{});}catch(e){}
+};
+for(const type of ['pointerdown','touchend','keydown']){
+ document.addEventListener(type,request,{capture:true,passive:true});
+}
+// Browsers allowing automatic fullscreen can enter on load; Android Chrome normally blocks this.
+setTimeout(request,100);
+})();</script>
+<style id="audio-only-story-update">
+/* Keep only the audio control over the image. */
+#dockVerses,.caption .verse-toggle{display:none!important}
+#storyImageDock .dock-caption{font-size:clamp(16px,2.25vw,24px)!important}
+#storyImageDock .dock-photo{cursor:pointer}
+</style>
+<script id="audio-only-story-behavior">(()=>{
+'use strict';
+const photo=document.querySelector('#storyImageDock .dock-photo');
+if(!photo)return;
+photo.addEventListener('click',event=>{
+ if(event.target.closest('button'))return;
+ event.stopPropagation();
+ // A tap on the image or its verse text pauses the current recording.
+ if(typeof audioSession!=='undefined'&&audioSession&&!audioPlayer.paused){
+  audioPlayer.pause();cancelAnimationFrame(audioFrame);audioSession.paused=true;
+  audioSession.state.audioButton.textContent='▶';
+  const dock=document.getElementById('dockAudio');if(dock)dock.textContent='▶';
+ }
+});
+// Synchronize the fixed audio button with pause and resume.
+const dockAudio=document.getElementById('dockAudio');
+if(dockAudio){
+ audioPlayer.addEventListener('pause',()=>{if(audioSession)dockAudio.textContent='▶';});
+ audioPlayer.addEventListener('play',()=>{dockAudio.textContent='Ⅱ';});
+ audioPlayer.addEventListener('ended',()=>{dockAudio.textContent='▶';});
+}
+})();</script>
+<style id="photo-tap-preserve-and-beard-face">
+/* The bearded adult is a single face, not a full-body emoji. */
+#topKidsSwitch.bearded-adult{background:#249e48!important;color:#073a19!important;border-radius:12px!important;font-size:29px!important;line-height:1!important}
+#topKidsSwitch.bearded-adult::first-letter{font-size:29px!important}
+/* Preserve both image and verse layer on taps. */
+#storyImageDock .dock-photo img{visibility:visible!important}
+#dockVerseOverlay:not([hidden]){visibility:visible!important}
+</style>
+<script id="photo-tap-no-disappear">(()=>{
+ const photo=document.querySelector('#storyImageDock .dock-photo');
+ if(!photo)return;
+ // Prevent ancestor click handlers from changing story or hiding verses.
+ photo.addEventListener('click',event=>{if(!event.target.closest('button'))event.stopPropagation();});
+})();</script>
+<style id="verse-size-and-tap-hide-final">
+/* Slightly smaller verses, preserving gold color and bold weight. */
+#dockVerseOverlay,.verse-overlay{font-size:clamp(20px,2.5vw,27px)!important;font-weight:800!important}
+</style>
+<script id="tap-picture-hide-verses-final">(()=>{
+ 'use strict';
+ const photo=document.querySelector('#storyImageDock .dock-photo');
+ if(!photo)return;
+ photo.addEventListener('click',event=>{
+  if(event.target.closest('button'))return;
+  const feed=document.getElementById('feed');
+  const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+  const cards=[...feed.querySelectorAll('.idea')];
+  const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||cards.at(-1);
+  const state=card?.verseState;
+  if(state){state.open=false;state.request++;state.overlay.hidden=true;state.overlay.closest('.picture-frame')?.classList.remove('verses-visible');}
+  const overlay=document.getElementById('dockVerseOverlay');
+  if(overlay){overlay.hidden=true;overlay.replaceChildren();}
+ },{capture:true});
+})();</script>
+<script id="karaoke-always-reveal-verses">(()=>{
+ 'use strict';
+ const button=document.getElementById('dockAudio');
+ if(!button)return;
+ button.addEventListener('click',()=>{
+  const feed=document.getElementById('feed');
+  const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+  const cards=[...feed.querySelectorAll('.idea')];
+  const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||cards.at(-1);
+  const state=card?.verseState;
+  if(!state)return;
+  // Every press reveals the verses, including when resuming paused audio.
+  state.open=true;
+  if(!versesMode)versesMode=true;
+  refreshVerses(card);
+  const dockOverlay=document.getElementById('dockVerseOverlay');
+  if(dockOverlay){dockOverlay.hidden=false;dockOverlay.lang=currentLanguage;dockOverlay.innerHTML=state.overlay.innerHTML;}
+ },{capture:true});
+})();</script>
+<script id="inline-story-game-controller">
+(()=>{
+'use strict';
+const GAME_DATA={"1":[[{"label":"השמים","x":51,"y":25,"question":"את מה אלוהים ברא ראשון ?"},{"label":"חושך","x":25,"y":35,"question":"מה היה מעל פני תהום ?"},{"label":"המים","x":52,"y":75,"question":"על פני מה ריחפה רוח אלוהים ?"},{"x":51.22,"y":91.46,"label":"יהוה , אלוהים , אדוני , ועוד ","question":"מיהו הקדוש ברוך הוא ?"}],[{"label":"לאור","x":72,"y":32,"question":"למי קרא אלוהים יום ?"},{"label":"לחשך","x":22,"y":31,"question":"למי קרא אלוהים לילה ?"},{"x":52.52,"y":97.07,"label":"תוהו ובבואו","question":"מה היה לפני האור ?"},{"x":74.47,"y":95.85,"label":"הזמן","question":"כשיש ערב ויש בוקר. מה נוצר ?"}],[{"label":"לשמים","x":57,"y":20,"question":"לאיזה שם שינה אלוהים את הרקיע ?"},{"label":"-----","x":55,"y":74,"question":"איפא המים בתמונה שמתחת לרקיע ?"},{"x":48.29,"y":37.8,"label":"הרקיע","question":"מה מבדיל בין מים למים ?"},{"x":17.4,"y":81.95,"label":"האדם והבתים","question":"מה לא נכון בתמונה"}],[{"label":"היבשה","x":47,"y":66,"question":"מה התגלה שניקוו המים ?"},{"x":92.2,"y":43.9,"label":"ימים","question":"איך קוראים למקווה המים ?"},{"x":67.64,"y":94.39,"label":"השלישי","question":"באיזה יום אנחנו  ?"},{"x":43.74,"y":90.73,"label":"דֶּשֶׁא ,עֵשֶׂב , פְּרִי ","question":"מה מצמיחה האדמה לראשונה ?"}],[{"label":"השמש","x":26,"y":25,"question":"מי שולט ביום ?"},{"x":76.75,"y":12.44,"label":"הירח","question":"מיהו המאור הקטן ?"},{"x":52.03,"y":98.29,"label":"לקבוע זמנים","question":"למה עוד נבראו המאורות הגדולים ?"},{"x":55.28,"y":40.24,"label":"מושלים","question":"מה עושים המאורות ?"}],[{"x":22.76,"y":56.59,"label":"התנינים","question":"את מי ברא אחרי ההחיות והעופות בשמים ?"},{"x":50.73,"y":90.98,"label":"הסירה והבתים","question":"מה לא נכון בתמונה ?"},{"x":76.59,"y":90.73,"label":"שרצו","question":"מילה תנכית למילאו ?"},{"x":56.1,"y":31.46,"label":"עופות","question":"מי על פני הרקיע?"}],[{"x":84.72,"y":38.78,"label":"בהמות","question":"מה הם כבש,פרה,אנטילופה וכו ?"},{"x":49.76,"y":86.83,"label":"רמש","question":"מהם החרקים. העכבישים. הנחשים ועוד ?"},{"x":87.64,"y":90,"label":"למינה ","question":"השלם : נפש חיה....."},{"x":67.32,"y":24.88,"label":"הבתים","question":"מה לא נכון בתמונה ?"}],[{"label":"זכר ונקבה","x":57,"y":56,"question":"איך ברא אלהים כאן את האדם והאישה ?"},{"label":"דגים,עופות,חיות","x":79,"y":76,"question":"על מה הזכר והנקבה ישלטו ?"},{"x":25.04,"y":31.46,"label":"האדם","question":"את מי יצר אלוהים בדמותו (בצלמו) ?"},{"x":53.5,"y":91.46,"label":"למלא את הארץ","question":"מה הברכה שבירך אותם אלוהים ?"}],[{"label":"עץ","x":27,"y":40,"question":"מהו הצמח השני שברא אלוהים ?"},{"x":90.89,"y":67.32,"label":"פרי","question":"מה יוציא העץ ?"},{"x":38.86,"y":55.37,"label":"עשב","question":"מהו הצמח הראשון ?"},{"x":49.27,"y":17.56,"label":"עשבים, ירקות ופירות","question":"בשלב הזה. מה אכלו ?"}],[{"label":"עשב","x":46,"y":73,"question":"מה הצמח שנתן אלוהים לחיות לאכול?"},{"x":75.28,"y":40.49,"label":"העופות, הרומשים","question":"מי עוד יאכל עשב ?"},{"x":53.5,"y":96.83,"label":"לנוע או לזחול ","question":"מה פירוש הרומשים"},{"x":24.39,"y":23.9,"label":"שהאדם מאכיל את החיות","question":"מה לא נכון בתמונה ?"}],[{"x":47.32,"y":95.85,"label":"יום השישי","question":"באיזה יום אנחנו בסיפור ?"},{"x":86.5,"y":97.07,"label":"שטוב מאד","question":"מה ראה אלוהים  ?"},{"x":32.52,"y":19.76,"label":"שאדם וחוה לבושים","question":"מה לא נכון בתמונה ?"},{"x":17.24,"y":45.61,"label":"הושלמה","question":"מה מצב הבריאה ?"}]],"2":[[{"x":47.32,"y":19.27,"label":"קדוש","question":"היום השביעי..."},{"x":75.45,"y":93.66,"label":"שבת- עצר ונח","question":" אלוהים ביום השביעי ..."},{"x":20.34,"y":93.39,"label":"מברך אותו","question":"מה עושה אלוהים ליום השבת ?"},{"x":47.07,"y":75.47,"label":"ויכולו","question":"מהי המילה התנכית לנגמרו ?"}],[{"x":22.6,"y":42.2,"label":"וְאֵד יַעֲלֶה...","question":"איך נוצר הגשם הראשון ?"},{"x":69.27,"y":51.22,"label":"נשמת חיים","question":"מה נפח אלוהים לאדם ?"},{"x":21.46,"y":83.66,"label":"כִּי לֹא הִמְטִיר ...","question":"למה האדמה צחיחה ?"},{"x":74.96,"y":96.1,"label":"עָפָר מִן הָאֲדָמָה","question":"ממה עשוי האדם ?"}],[{"x":50.73,"y":57.8,"label":"עץ החיים","question":"איזה עץ נותן חיי נצח ?"},{"x":51.22,"y":87.56,"label":"גן ב...עדן","question":"אלוהים נטע..."},{"x":89.43,"y":80,"label":"מזרח","question":"מה פירוש קדם ?"},{"x":57.56,"y":32.68,"label":"מעץ הדעת","question":"פרי שנותן ידע ...."}],[{"x":88.78,"y":58.78,"label":"ארץ החוילה","question":"לאן זורם הפישון ?"},{"x":23.41,"y":50.73,"label":"לארץ כוש","question":"לאן זורם הגיחון ?"},{"x":24.72,"y":24.15,"label":"לקדמת אשור","question":"לאן זורם החידקל"},{"x":70.73,"y":28.78,"label":"פרת","question":"מיהו הנהר הרביעי ?"}],[{"x":13.5,"y":84.39,"label":"עבדה וישמרה","question":"מה יעשה האדם לגן ?"},{"x":74.31,"y":26.83,"label":"ימות","question":"אם יאכל מעץ הדעת..."},{"x":52.36,"y":97.32,"label":"לא","question":"האם יש עוד עצים שלאדם אסור לאכול ?"},{"x":27.64,"y":28.05,"label":"שהאדם לבוש","question":"מה לא נכון בתמונה ?"}],[{"x":67.97,"y":58.78,"label":"האדם","question":"מי בחר את שמות החיות ?"},{"x":51.22,"y":95.85,"label":" עזר כנגדו","question":"מה אלוהים יברא לאדם ?"},{"x":32.85,"y":25.85,"label":"היד השלישית ","question":"מה מוזר בתמונה ?"},{"x":74.31,"y":39.27,"label":"מהאדמה","question":"ממה נבראו החיות והעופות ?"}],[{"x":51.22,"y":96.59,"label":"צלע (צד)","question":"מה לקח אלוהים מהאדם ?"},{"x":54.31,"y":19.51,"label":"מצלע האדם","question":"ממה נבנתה האישה ?"},{"x":21.46,"y":80.98,"label":"ריבוי אנשים","question":"מה מוזר בתמונה ?"},{"x":74.31,"y":93.41,"label":"כי מהאיש נוצרה","question":"למה קוראים לאישה אישה ?"}],[{"x":48.13,"y":95.12,"label":"להדבק לאישתו","question":"מה חייב האדם ?"},{"x":58.54,"y":14.88,"label":"שהם לבושים","question":" מה לא נכון בתמונה"},{"x":80.81,"y":94.63,"label":"לא יתבוששו","question":"מילה תנכית ללא התביישו"},{"x":70.57,"y":37.56,"label":"הוריו","question":"האדם צריך לעזוב את...."}]],"3":[[{"label":"הנחש","x":20,"y":54,"question":"מי החכם בחיות השדה ?"},{"label":"אמר שידעו כמו אלוהים","x":55,"y":56,"question":"איך פיתה הנחש את האישה ?"},{"x":54.63,"y":97.32,"label":"לא מות תמותון","question":"מה אמר הנחש לאישה ?"},{"x":46.18,"y":11.71,"label":" יהיו יודעי טוב ורע","question":"אם יאכלו מעץ הדעת ..."}],[{"x":79.02,"y":64.63,"label":"חגורות","question":"מה עשו מעלי התאנה ?"},{"x":26.02,"y":12.68,"label":"כי האישה נתנה לו","question":"למה אכל האדם ?"},{"x":24.55,"y":65.85,"label":" תאוה לעינים","question":"הפרי יצר אצל האישה..."},{"x":55.12,"y":90,"label":"שהם ערומים","question":"מה גילו כשאכלו מעץ הדעת ?"}],[{"x":72.85,"y":28.05,"label":"איכה (איפא אתה)","question":"מה אלוהים שואל את האדם ?"},{"x":29.43,"y":12.93,"label":"מבושה שהוא עירום","question":"למה התחבא האדם ?"},{"x":44.23,"y":92.93,"label":"היא (שאתה יצרת) נָתְנָה לִּי ","question":"האדם עונה לאלוהים...."},{"x":50.89,"y":65.85,"label":"השיאני","question":"מילה תנכית לפיתה אותי"}],[{"label":"ארור (מקולל)  יהיה","x":28,"y":77,"question":"מה יקרה לנחש"},{"label":"עפר","x":55,"y":58,"question":"מה יאכל הנחש"},{"x":67.97,"y":83.9,"label":"לשופף ","question":"מילה תנכית להרוס לנחש את הראש"},{"x":31.06,"y":19.02,"label":"הילדים","question":"מה לא נכון בתמונה ?"}],[{"label":"לאדמה","x":55,"y":82,"question":"לאן יחזור האדם ?"},{"label":"לעבוד קשה (להזיע)","x":79,"y":75,"question":"מה יצטרך האדם בשביל לאכול"},{"x":21.79,"y":26.34,"label":"בעצב (בכאב)","question":"האישה תלד בנים..."},{"x":61.14,"y":15.12,"label":"לאדם","question":"למי האדמה תהיה מקוללת ?"}],[{"label":"אם כל חי","x":61,"y":60,"question":"פירוש השם חוה"},{"x":26.67,"y":15.12,"label":"אלוהים","question":"מי עשה את הבגד הראשון ?"},{"x":70.24,"y":14.88,"label":"עור","question":"ממה עשוי הבגד הראשון"},{"x":23.74,"y":68.78,"label":"האדם","question":"מי נתן באהבה לאישה את שמה ?"}],[{"label":"גורשו מגן עדן","x":20,"y":75,"question":"מה קורה לאדם ולחוה?"},{"label":"הכרובים","x":68,"y":48,"question":"מה שמם של הדיירים החדשים ?"},{"x":64.39,"y":14.15,"label":"החרב המתהפכת","question":"מי שומר על הגן ?"},{"x":28.29,"y":17.32,"label":"איך שהכרובים ניראים ","question":"מה לא נכון בתמונה ?"}]],"4":[[{"label":"קין","x":58,"y":64,"question":"מי הבכור ?"},{"label":"הבל","x":35,"y":60,"question":"מי היה רועה הצאן ?"},{"label":"קניתי איש מאלוהים","x":84,"y":72,"question":"שמו של קין..."},{"x":73.82,"y":22.68,"label":"אחרי הגירוש מהגן","question":"מתי ילדו ?"}],[{"label":"מנחה","x":73,"y":51,"question":"איך קוראים למתנה לאלוהים ?"},{"label":"פירות האדמה","x":42,"y":65,"question":"מה הביא קין"},{"x":47.97,"y":24.39,"label":"להבל","question":"אל מי פנה אלוהים ראשון  ?"},{"x":56.59,"y":88.05,"label":"וַיִּחַר לְקַיִן מְאֹד","question":"מילה תנכית לכועס מאד..."}],[{"label":"נפלו פניו (התעצב)","x":51,"y":58,"question":"מה קרה לקין ?"},{"x":25.69,"y":12.68,"label":"על הקנאה","question":"על מה קין צריך לשלוט ?"},{"x":24.23,"y":82.93,"label":"ייטיב שאת (יתרומם)","question":"אם קין יתגבר על הקנאה..."},{"x":71.06,"y":84.88,"label":"לַפֶּתַח חַטָּאת רֹבֵץ (החטא יגיע)","question":"אם לא יתגבר על הקנאה...."}],[{"label":"קין את הבל","x":23,"y":59,"question":"מי הרג את מי ?"},{"label":"הֲשֹׁמֵר אָחִי אָנֹכִי","x":62,"y":77,"question":"מה ענה קין לאלוהים ?"},{"x":54.8,"y":23.66,"label":"לא מסופר. אולי ויכוח.","question":"למה קין הרג את הבל ?"},{"x":77.89,"y":45.12,"label":"הרצח הראשון","question":"מה מיוחד ?"}],[{"label":"נָע וָנָד, תִּהְיֶה בָאָרֶץ","x":59,"y":79,"question":"מה יקרה לקין ?"},{"x":66.34,"y":54.88,"label":"ארור (מקולל)","question":"קין יהיה..."},{"x":52.03,"y":20.24,"label":"האדמה לֹא תֹסֵף תֵּת כֹּחָהּ לָךְ","question":"למה ינדוד קין ?"},{"x":18.37,"y":57.07,"label":"דמי הבל נמצאים בה","question":"איך קשורה האדמה לקללה ?"}],[{"label":"לא כתוב.מתלונן על העונש ","x":42,"y":66,"question":"האם קין מתחרט ?"},{"label":"מגן עליו ממות","x":75,"y":77,"question":"מה עושה אלוהים לקין ?"},{"x":38.05,"y":11.22,"label":"סימן שעשה מעשה אסור ונורא","question":"מהו \"אות קין\" ?"},{"x":76.59,"y":32.2,"label":"לנוד. ממזרח לעדן","question":"לאן נדד קין ?"}],[{"label":"קין. קרא לה חנוך על שם בנו","x":69,"y":42,"question":"מי בנה את העיר הראשונה ?"},{"label":"תּוּבַל קַיִן (הבן הבכור של צילה ולמך)","x":33,"y":63,"question":"מי לֹטֵשׁ, כָּל חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל ?"},{"x":84.07,"y":20.49,"label":"יבל (הבכור של עדה ולמך)","question":"מי אֲבִי יֹושֵׁבי אֹהֶל וּמִקְנֶה"},{"x":56.26,"y":88.78,"label":"יובל (הבן השני של עדה ולמך)","question":"מי אֲבִי כָּל תֹּפֵשׂ כִּנּוֹר וְעוּגָב ?"}],[{"label":"למך","x":42,"y":58,"question":"מי הראשון שיש לו יותר מאישה אחת ?"},{"label":"בשירה","x":69,"y":72,"question":"איך פונה למך לנשותיו כאן ?"},{"x":54.15,"y":17.07,"label":"מגיע הרבה יותר כי הרג בשגגה","question":"אם קין קיבל הגנה אז ללמך...."},{"x":15.28,"y":53.17,"label":"על רצח","question":"על מה מתוודה למך ?"}],[{"label":"שת. כי שת (שם לב) לי אלוהים","x":35,"y":65,"question":"איך קראה חווה לבן השלישי ?"},{"x":63.74,"y":85.85,"label":"אנוש (אבי האנושות)","question":"מה שם בנו של שת ?"},{"x":61.46,"y":17.56,"label":"הוּחַל, לִקְרֹא בְּשֵׁם יְהוָה (או לעבוד את אלוהים או עבודת אלילים)","question":"מה קרה אחרי הולדת אנוש ?"},{"x":85.53,"y":48.78,"label":"הילדים","question":"מה לא נכון בתמונה ?"}]],"5":[[{"label":"אדם","x":37,"y":57},{"label":"ונקבה","x":60,"y":57}],[{"label":"אדם","x":45,"y":47},{"label":"שת","x":37,"y":57}],[{"label":"שת","x":33,"y":55},{"label":"אנוש","x":50,"y":72},{"label":"בנים","x":72,"y":73}],[{"label":"קינן","x":33,"y":57},{"label":"מהללאל","x":61,"y":72},{"label":"בנים","x":80,"y":71}],[{"label":"ירד","x":35,"y":55},{"label":"חנוך","x":51,"y":56},{"label":"ובנות","x":69,"y":60}],[{"label":"חנוך","x":43,"y":60},{"label":"בנים","x":74,"y":72}],[{"label":"מתושלח","x":52,"y":56},{"label":"למך","x":76,"y":66},{"label":"ובנות","x":25,"y":69}],[{"label":"למך","x":64,"y":59},{"label":"נח","x":39,"y":70}],[{"label":"למך","x":45,"y":69}],[{"label":"נח","x":43,"y":55},{"label":"שם","x":21,"y":65},{"label":"יפת","x":66,"y":65}]],"6":[[{"label":"האדם","x":47,"y":70},{"label":"ובנות","x":62,"y":69},{"label":"בארץ","x":52,"y":81}],[{"label":"ונח","x":40,"y":68},{"label":"האדמה","x":53,"y":79}],[{"label":"נח","x":50,"y":59},{"label":"שם","x":20,"y":61},{"label":"יפת","x":75,"y":63}],[{"label":"תבת","x":64,"y":45},{"label":"לנח","x":25,"y":68},{"label":"עצי","x":73,"y":79}],[{"label":"התבה","x":66,"y":42},{"label":"מים","x":20,"y":75},{"label":"בניך","x":46,"y":65}],[{"label":"התבה","x":63,"y":40},{"label":"הבהמה","x":28,"y":73},{"label":"זכר","x":54,"y":72}],[{"label":"מאכל","x":41,"y":74},{"label":"נח","x":26,"y":57}]],"7":[[{"label":"התבה","x":64,"y":41},{"label":"נח","x":42,"y":62},{"label":"הבהמה","x":18,"y":70}],[{"label":"התבה","x":53,"y":42},{"label":"העוף","x":45,"y":26},{"label":"הבהמה","x":78,"y":68}],[{"label":"התבה","x":60,"y":51},{"label":"הגשם","x":54,"y":25},{"label":"השמים","x":58,"y":18}],[{"label":"התבה","x":52,"y":32},{"label":"המים","x":52,"y":75},{"label":"ההרים","x":17,"y":64}],[{"label":"בתבה","x":49,"y":53},{"label":"המים","x":51,"y":80},{"label":"נח","x":44,"y":53}]],"8":[[{"label":"התבה","x":65,"y":54},{"label":"המים","x":43,"y":65},{"label":"ההרים","x":77,"y":50}],[{"label":"הערב","x":66,"y":42},{"label":"היונה","x":79,"y":28},{"label":"חלון","x":38,"y":48}],[{"label":"היונה","x":71,"y":37},{"label":"זית","x":72,"y":37},{"label":"התבה","x":20,"y":40}],[{"label":"התבה","x":51,"y":46},{"label":"האדמה","x":73,"y":82},{"label":"נח","x":23,"y":59}],[{"label":"התבה","x":72,"y":44},{"label":"החיה","x":17,"y":64},{"label":"נח","x":53,"y":65}],[{"label":"נח","x":48,"y":58},{"label":"העוף","x":69,"y":35},{"label":"התבה","x":63,"y":40}],[{"label":"מזבח","x":50,"y":71},{"label":"נח","x":42,"y":54},{"label":"העוף","x":43,"y":34}],[{"label":"זרע","x":55,"y":73},{"label":"וקציר","x":64,"y":70},{"label":"ויום","x":22,"y":38}]],"9":[[{"label":"נח","x":48,"y":51},{"label":"בניו","x":66,"y":54},{"label":"חית","x":82,"y":71}],[{"label":"בשר","x":51,"y":74},{"label":"האדם","x":79,"y":54}],[{"label":"נח","x":39,"y":55},{"label":"בניו","x":71,"y":54},{"label":"התבה","x":38,"y":44}],[{"label":"הקשת","x":51,"y":28},{"label":"בענן","x":61,"y":22},{"label":"הארץ","x":49,"y":79}],[{"label":"התבה","x":33,"y":43},{"label":"שם","x":36,"y":69},{"label":"ויפת","x":65,"y":69}],[{"label":"כרם","x":26,"y":69},{"label":"אהלה","x":69,"y":42},{"label":"נח","x":77,"y":67}],[{"label":"שם","x":56,"y":63},{"label":"ליפת","x":73,"y":63},{"label":"כנען","x":44,"y":70}],[{"label":"נח","x":47,"y":59}]],"10":[[{"label":"יפת","x":42,"y":57},{"label":"בני","x":72,"y":69},{"label":"הגוים","x":63,"y":76}],[{"label":"חם","x":43,"y":58},{"label":"כוש","x":59,"y":64},{"label":"וכנען","x":73,"y":66}],[{"label":"נמרד","x":31,"y":55},{"label":"בבל","x":74,"y":48},{"label":"עיר","x":77,"y":45}],[{"label":"וכנען","x":53,"y":55}],[{"label":"שם","x":57,"y":57},{"label":"עבר","x":29,"y":67},{"label":"ארם","x":74,"y":66}],[{"label":"פלג","x":44,"y":56},{"label":"הארץ","x":70,"y":72},{"label":"יקטן","x":23,"y":70}],[{"label":"יקטן","x":36,"y":72},{"label":"הקדם","x":70,"y":51}],[{"label":"שם","x":39,"y":57},{"label":"למשפחתם","x":61,"y":68}],[{"label":"נח","x":29,"y":73},{"label":"הגוים","x":55,"y":73},{"label":"בארץ","x":69,"y":79}]]};
+const progress=new WeakMap();
+function cardData(card){
+ const st=card?.verseState;if(!st||st.item.book!=='בראשית')return null;
+ const num=Number(card.querySelector('.story-counter')?.dataset.storyNumber||card.dataset.storyNumber||1);
+ return GAME_DATA[String(st.item.chapter)]?.[num-1]||null;
+}
+function currentLang(){return document.body.dataset.language==='en'?'en':'he'}
+function getProgress(card,points){let p=progress.get(card);if(!p){p={order:points.map((_,i)=>i).filter(i=>points[i]?.label&&points[i]?.question),current:0,solved:new Set(),wrong:new Set(),done:false};for(let i=p.order.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[p.order[i],p.order[j]]=[p.order[j],p.order[i]];}progress.set(card,p);}return p}
+function visibleImageRect(img){const r=img.getBoundingClientRect(),nw=img.naturalWidth,nh=img.naturalHeight;if(!nw||!nh||!r.width||!r.height)return null;const ratio=Math.min(r.width/nw,r.height/nh),w=nw*ratio,h=nh*ratio;return {left:r.left+(r.width-w)/2,top:r.top+(r.height-h)/2,width:w,height:h};}
+function place(card){const img=card.querySelector('.picture-frame .picture'),pins=card.querySelector('.inline-game-pins');if(!img||!pins)return;const r=visibleImageRect(img),b=pins.getBoundingClientRect();if(!r)return;pins.querySelectorAll('.inline-game-pin').forEach(el=>{el.style.left=(r.left-b.left+Number(el.dataset.x)*r.width/100)+'px';el.style.top=(r.top-b.top+Number(el.dataset.y)*r.height/100)+'px';});}
+function complete(card,points,p){p.done=true;notifyGame(card,p);card.querySelector('.inline-game-question')?.remove();const summary=card.querySelector('.summary');if(!summary)return;let box=summary.querySelector('.inline-game-completed');if(!box){box=document.createElement('div');box.className='inline-game-completed';summary.append(box);}const en=currentLang()==='en';box.lang=en?'en':'he';box.replaceChildren();const title=document.createElement('h3');title.textContent=en?'✓ All answers found! Questions and answers:':'✓ כל התשובות נמצאו! השאלות והתשובות:';/* no completion heading */const list=document.createElement('ol');p.order.forEach(i=>{const q=points[i];const li=document.createElement('li');li.append(document.createTextNode(q.question+' '));const ans=document.createElement('strong');ans.textContent=q.label;li.append(ans);list.append(li)});box.append(list);card.querySelectorAll('.summary > :not(.inline-game-completed)').forEach(el=>el.style.display='none');card.querySelectorAll('.inline-game-pin').forEach(el=>el.classList.add('solved'));}
+function update(card,points,p){if(p.done)return;const q=points[p.order[p.current]],prompt=card.querySelector('.inline-game-question');if(!prompt)return;const en=currentLang()==='en';prompt.firstChild.textContent=q?(q.question||''):'';prompt.querySelector('.game-progress').textContent=(p.current+1)+' / '+p.order.length+'';card.querySelectorAll('.inline-game-pin').forEach(el=>{const i=Number(el.dataset.index);el.classList.toggle('solved',p.solved.has(i));el.classList.toggle('wrong',p.wrong.has(i));el.textContent=(p.solved.has(i)?'✓ ':'')+points[i].label;el.title=points[i].label;});}
+function notifyGame(card,p){document.dispatchEvent(new CustomEvent('story-game-progress',{detail:{card,correct:p.solved.size,total:p.order.length,wrong:p.mistakes||0,done:p.done}}));}
+function pick(card,points,p,i){if(p.done||p.solved.has(i))return;const right=p.order[p.current];if(i!==right){p.wrong.add(i);p.mistakes=(p.mistakes||0)+1;notifyGame(card,p);update(card,points,p);setTimeout(()=>{p.wrong.delete(i);update(card,points,p)},800);return;}p.solved.add(i);p.current++;notifyGame(card,p);if(p.current>=p.order.length){complete(card,points,p);return;}update(card,points,p);}
+function setup(card){if(card.querySelector('.inline-game-pins'))return;const points=cardData(card);if(!points?.length)return;const frame=card.querySelector('.picture-frame'),img=frame?.querySelector('.picture');if(!frame||!img)return;const p=getProgress(card,points);if(!p.order.length)return;card.classList.add('inline-game-active');const pins=document.createElement('div');pins.className='inline-game-pins';points.forEach((point,i)=>{if(!point?.label||!point?.question)return;const b=document.createElement('button');b.type='button';b.className='inline-game-pin';b.textContent=point.label;b.dataset.index=i;b.dataset.x=point.x;b.dataset.y=point.y;b.setAttribute('aria-label','תשובה '+point.label);b.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();pick(card,points,p,i);});pins.append(b);});frame.append(pins);const prompt=document.createElement('div');prompt.className='inline-game-question';prompt.append(document.createTextNode(''),document.createElement('small'));prompt.lastChild.className='game-progress';frame.insertAdjacentElement('afterend',prompt);update(card,points,p);img.addEventListener('load',()=>place(card));requestAnimationFrame(()=>place(card));}
+const observer=new MutationObserver(()=>{document.querySelectorAll('.idea').forEach(setup);});observer.observe(document.getElementById('feed'),{childList:true,subtree:false});document.querySelectorAll('.idea').forEach(setup);
+window.addEventListener('resize',()=>document.querySelectorAll('.idea.inline-game-active').forEach(place));
+const resize=new ResizeObserver(entries=>entries.forEach(e=>{const card=e.target.closest('.idea');if(card)place(card)}));
+const seen=new WeakSet();setInterval(()=>{document.querySelectorAll('.idea.inline-game-active').forEach(card=>{const frame=card.querySelector('.picture-frame');if(frame&&!seen.has(frame)){seen.add(frame);resize.observe(frame);}place(card);const p=progress.get(card),points=cardData(card);if(p?.done){const box=card.querySelector('.inline-game-completed');if(box&&box.lang!==currentLang())complete(card,points,p);}})},700);
+})();
+</script><style id="dock-inline-game-style">
+/* The visible story photo is the fixed dock, not the card's hidden original photo. */
+.idea .inline-game-pins,.idea .inline-game-question{display:none!important}
+#storyImageDock .dock-photo{position:relative!important}
+#storyImageDock .inline-game-pins{z-index:19!important}
+#storyImageDock .inline-game-pin{width:clamp(29px,7vw,39px)!important;height:clamp(29px,7vw,39px)!important}
+#storyImageDock .inline-game-question{display:block!important;margin:0!important;border-radius:0!important;padding:5px 12px!important;min-height:48px!important}
+#storyImageDock .inline-game-question[hidden],#storyImageDock .inline-game-pins[hidden]{display:none!important}
+#storyImageDock .dock-photo{height:calc(100% - 49px)!important}
+#storyImageDock:not(.has-inline-game) .dock-photo{height:100%!important}
+#storyImageDock .dock-buttons{z-index:25!important}
+#storyImageDock .inline-game-pins{pointer-events:none!important}
+#storyImageDock .inline-game-pin{pointer-events:auto!important}
+</style>
+<script id="dock-inline-game-controller">(()=>{
+const dock=document.getElementById('storyImageDock'),photo=dock?.querySelector('.dock-photo');if(!dock||!photo)return;
+const pins=document.createElement('div');pins.className='inline-game-pins';const question=document.createElement('div');question.className='inline-game-question';photo.append(pins);photo.insertAdjacentElement('afterend',question);
+let active=null,signature='';
+function activeCard(){const cards=[...document.querySelectorAll('#feed .idea')];if(!cards.length)return null;const y=document.getElementById('feed').getBoundingClientRect().top+Math.min(55,document.getElementById('feed').clientHeight/3);return cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||cards.find(c=>c.getBoundingClientRect().bottom>y)||cards.at(-1);}
+function position(){const img=document.getElementById('dockImg');if(!img?.naturalWidth||!img?.naturalHeight)return;const r=img.getBoundingClientRect(),b=pins.getBoundingClientRect();const scale=Math.min(r.width/img.naturalWidth,r.height/img.naturalHeight);const w=img.naturalWidth*scale,h=img.naturalHeight*scale;const left=r.left+(r.width-w)/2-b.left,top=r.top+(r.height-h)/2-b.top;
+ pins.querySelectorAll('.inline-game-pin').forEach(el=>{const x=left+Number(el.dataset.x)*w/100,y=top+Number(el.dataset.y)*h/100;const halfW=el.offsetWidth/2+3,halfH=el.offsetHeight/2+3;el.style.left=Math.max(halfW,Math.min(b.width-halfW,x))+'px';el.style.top=Math.max(halfH,Math.min(b.height-halfH,y))+'px';});
+ // Keep answer labels separated, including on narrow Android screens.
+ const items=[...pins.querySelectorAll('.inline-game-pin')];
+ const bounds=(el)=>({x:parseFloat(el.style.left),y:parseFloat(el.style.top),w:el.offsetWidth,h:el.offsetHeight});
+ for(let pass=0;pass<35;pass++){
+  let changed=false;
+  for(let i=0;i<items.length;i++)for(let j=i+1;j<items.length;j++){
+   const a=bounds(items[i]),c=bounds(items[j]);
+   const ox=(a.w+c.w)/2+7-Math.abs(a.x-c.x),oy=(a.h+c.h)/2+7-Math.abs(a.y-c.y);
+   if(ox<=0||oy<=0)continue;
+   changed=true;
+   const vertical=oy<=ox;
+   const dir=vertical?(c.y>=a.y?1:-1):(c.x>=a.x?1:-1);
+   const push=(vertical?oy:ox)/2+0.6;
+   const axis=vertical?'y':'x',dim=vertical?'h':'w',limit=vertical?b.height:b.width;
+   const clamp=(v,half)=>Math.max(half+2,Math.min(limit-half-2,v));
+   const av=clamp(a[axis]-dir*push,a[dim]/2),cv=clamp(c[axis]+dir*push,c[dim]/2);
+   items[i].style[vertical?'top':'left']=av+'px';items[j].style[vertical?'top':'left']=cv+'px';
+  }
+  if(!changed)break;
+ }
+}
+function sync(){const card=activeCard();if(!card||!card.classList.contains('inline-game-active')){dock.classList.remove('has-inline-game');pins.replaceChildren();question.hidden=true;active=null;return;}const src=card.querySelector('.inline-game-pins');if(!src)return;const prompt=card.querySelector('.inline-game-question');const done=!!card.querySelector('.inline-game-completed');dock.classList.add('has-inline-game');if(card!==active){active=card;signature='';}
+ const sig=[...src.querySelectorAll('.inline-game-pin')].map(x=>x.dataset.index+':'+x.className+':'+x.textContent).join('|');if(sig!==signature){signature=sig;pins.replaceChildren();src.querySelectorAll('.inline-game-pin').forEach(origin=>{const b=origin.cloneNode(true);b.textContent=(origin.classList.contains('solved')?'✓ ':'')+(origin.title||origin.textContent);b.onclick=e=>{e.preventDefault();e.stopPropagation();origin.click();setTimeout(sync,0)};b.addEventListener('click',e=>e.stopPropagation());pins.append(b);});}
+ question.hidden=done||!prompt;position();}
+
+window.addEventListener('resize',position);document.getElementById('dockImg')?.addEventListener('load',position);
+setInterval(sync,250);sync();
+})();</script><style id="story-game-toggle-v2">
+#openIntegratedGame{display:block!important;position:fixed!important;bottom:calc(8px + env(safe-area-inset-bottom,0px))!important;left:50%!important;right:auto!important;transform:translateX(-50%)!important;z-index:2147483640!important;min-width:0!important;width:max-content!important;padding:7px 15px!important;background:linear-gradient(#fff0a4,#e0a824)!important;color:#241400!important;border:2px solid #a67308!important;border-radius:12px!important;font-weight:900!important}
+body:not(.story-game-mode) #storyImageDock .inline-game-pins,body:not(.story-game-mode) #storyImageDock .inline-game-question{display:none!important}
+body:not(.story-game-mode) #storyImageDock .dock-photo{height:100%!important}
+body.story-game-mode #storyImageDock .inline-game-pins{display:block!important}
+body.story-game-mode #storyImageDock .inline-game-pin{width:auto!important;min-width:44px!important;max-width:150px!important;height:auto!important;min-height:32px!important;padding:4px 8px!important;border-radius:9px!important;white-space:normal!important;overflow-wrap:anywhere!important;line-height:1.15!important;font-size:clamp(11px,2.8vw,16px)!important;background:linear-gradient(#ffe788,#d99a16)!important;color:#241300!important;border:2px solid #8b5d00!important;box-shadow:0 2px 5px #000a!important;text-align:center!important}
+body.story-game-mode #storyImageDock .inline-game-pin.solved{background:#128b3b!important;color:white!important;border-color:#8bff9d!important}
+body.story-game-mode #storyImageDock .inline-game-pin.wrong{background:#b32626!important;color:white!important;border-color:#ff9898!important}
+body.story-game-mode #storyImageDock .inline-game-question{display:block!important}
+body.story-game-mode #storyImageDock .dock-verse-overlay{display:none!important}
+</style>
+<style id="game-visible-colors-and-verses">
+/* Desktop and mobile: game labels stay on the photograph, with distinct colors. */
+body.story-game-mode #storyImageDock .inline-game-pin{background:var(--answer-color,#146aab)!important;border:2px solid rgba(255,255,255,.85)!important;color:white!important;text-shadow:0 1px 2px #000!important;opacity:.91!important;box-shadow:0 2px 7px #000b!important;max-width:min(28vw,190px)!important;font-size:clamp(12px,1.3vw,18px)!important;min-height:34px!important;z-index:2!important}
+body.story-game-mode #storyImageDock .inline-game-pin.solved{background:var(--answer-color,#168a32)!important;border-color:white!important;opacity:.95!important}
+body.story-game-mode #storyImageDock .inline-game-pin.wrong{background:#bd2525!important;border-color:#ffbaba!important}
+body.story-game-mode .idea .summary>*:not(.game-verse-reading):not(.inline-game-completed){display:none!important}
+body.story-game-mode .idea .summary{overflow-y:auto!important;max-height:none!important;min-height:100px!important}
+body.story-game-mode .idea .game-verse-reading{display:block!important;direction:rtl;text-align:right;color:#f4d984;font-weight:650;font-size:clamp(17px,2vw,23px);line-height:1.6;white-space:pre-wrap}
+body.story-game-mode[data-language="en"] .idea .game-verse-reading{direction:ltr;text-align:left}
+body:not(.story-game-mode) .game-verse-reading{display:none!important}
+body.story-game-mode #storyImageDock .inline-game-question{font-size:clamp(15px,1.7vw,21px)!important;line-height:1.3!important;text-align:center!important}
+@media(min-width:700px){body.story-game-mode #storyImageDock .inline-game-pin{max-width:170px!important;padding:5px 10px!important}body.story-game-mode #storyImageDock .dock-photo{height:calc(100% - 54px)!important}}
+@media(max-width:600px){body.story-game-mode #storyImageDock .inline-game-pin{max-width:35vw!important;font-size:clamp(11px,3vw,15px)!important;padding:4px 6px!important}}
+</style><script id="game-visible-colors-and-verses-controller">(()=>{
+'use strict';
+const colors=['#1d74b7','#a62b76','#16825a','#bc6421','#6c4fb1','#ab3944','#148d99','#a27816','#5b8e31','#7557a0'];
+const feed=document.getElementById('feed');
+const dock=document.getElementById('storyImageDock');
+if(!feed||!dock)return;
+const cache=new WeakMap();
+function visibleCard(){const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);return [...feed.querySelectorAll('.idea')].find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||null;}
+async function updateVerses(card){
+ if(!card?.verseState)return;
+ const st=card.verseState,lang=document.body.dataset.language==='en'?'en':'he';
+ let box=card.querySelector('.game-verse-reading');
+ if(!box){box=document.createElement('div');box.className='game-verse-reading';card.querySelector('.summary')?.prepend(box);}
+ const key=lang+':'+st.from+':'+st.to;
+ if(cache.get(card)===key)return;
+ cache.set(card,key);
+ box.lang=lang;box.textContent=lang==='he'?'טוען פסוקים…':'Loading verses…';
+ try{const rows=await getVerses(st.item,lang);if(cache.get(card)!==key)return;
+ box.textContent=rows.slice(st.from-1,st.to).map((row,i)=>{const t=typeof row==='string'?row:(row?.text||row?.hebrew||'');return (st.from+i)+'. '+t}).join('\n');
+ }catch(e){if(cache.get(card)===key)box.textContent=lang==='he'?'לא ניתן לטעון פסוקים':'Unable to load verses';}
+}
+function update(){
+ if(!document.body.classList.contains('story-game-mode')&&!document.body.classList.contains('quiz-choosing'))return;
+ const card=visibleCard();if(card)updateVerses(card);
+ dock.querySelectorAll('.inline-game-pin').forEach(pin=>{
+  const n=Number(pin.dataset.index)||0;
+  pin.style.setProperty('--answer-color',colors[n%colors.length]);
+ });
+}
+const observer=new MutationObserver(update);
+observer.observe(feed,{childList:true});
+document.getElementById('openIntegratedGame')?.addEventListener('click',()=>setTimeout(update,50));
+document.getElementById('language-toggle')?.addEventListener('click',()=>setTimeout(()=>{update();},50));
+setInterval(update,400);update();
+})();</script><script id="game-english-score-controller">(()=>{
+'use strict';
+const dock=document.getElementById('storyImageDock');if(!dock)return;
+const score=document.createElement('div');score.id='storyGameScore';score.setAttribute('aria-live','polite');(dock.querySelector('.dock-photo')||dock).append(score);
+const heToEn={
+'השמים':'the heavens','חושך':'darkness','המים':'the water','יהוה , אלוהים , אדוני , ועוד':'God / the Lord','לאור':'the light','לחשך':'the darkness','תוהו ובבואו':'formless and empty','הזמן':'time','לשמים':'the heavens','-----':'—','הרקיע':'the sky','האדם והבתים':'people and houses','היבשה':'dry land','ימים':'seas','השלישי':'the third','דֶּשֶׁא ,עֵשֶׂב , פְּרִי':'grass, plants and fruit','השמש':'the sun','הירח':'the moon','לקבוע זמנים':'to mark time','מושלים':'rulers','התנינים':'sea creatures','הסירה והבתים':'the boat and houses','שרצו':'multiplied','עופות':'birds','בהמות':'animals','רמש':'creeping creatures','למינה':'of its kind','הבתים':'the houses','זכר ונקבה':'male and female','דגים,עופות,חיות':'fish, birds, animals','האדם':'the human','למלא את הארץ':'fill the earth','עץ':'tree','פרי':'fruit','עשב':'plant','עשבים, ירקות ופירות':'plants, vegetables and fruit','העופות, הרומשים':'birds and crawling creatures','לנוע או לזחול':'to move or crawl','שהאדם מאכיל את החיות':'the human feeds the animals','יום השישי':'the sixth day','שטוב מאד':'that it was very good','שאדם וחוה לבושים':'Adam and Eve are clothed','הושלמה':'was completed','קדוש':'holy','שבת- עצר ונח':'rested on the Sabbath','מברך אותו':'blesses it','ויכולו':'were completed','נשמת חיים':'breath of life','עָפָר מִן הָאֲדָמָה':'dust from the ground','עץ החיים':'tree of life','גן ב...עדן':'a garden in Eden','מזרח':'east','מעץ הדעת':'tree of knowledge','ארץ החוילה':'land of Havilah','לארץ כוש':'land of Cush','לקדמת אשור':'east of Assyria','פרת':'Euphrates','ימות':'will die','לא':'no',' עזר כנגדו':'a suitable helper','מהאדמה':'from the ground','צלע (צד)':'rib (side)','מצלע האדם':'from the human’s rib','ריבוי אנשים':'many people','להדבק לאישתו':'to cling to his wife','הוריו':'his parents','הנחש':'the serpent','חגורות':'coverings','עפר':'dust','הילדים':'the children','אדם':'Adam','חוה':'Eve','נח':'Noah','שם':'Shem','חם':'Ham','יפת':'Japheth','קין':'Cain','הבל':'Abel','כרם':'vineyard','אהלה':'his tent','כנען':'Canaan','יפת':'Japheth','בני':'sons','הגוים':'nations','כוש':'Cush','וכנען':'and Canaan','נמרד':'Nimrod','בבל':'Babel','עיר':'city','עבר':'Eber','ארם':'Aram','פלג':'Peleg','הארץ':'the earth','יקטן':'Joktan','הקדם':'the east','למשפחתם':'by their families','בארץ':'in the land'};
+const questionEn={"את מה אלוהים ברא ראשון ?":"What did God create first?","מה היה מעל פני תהום ?":"What was above the surface of the deep?","על פני מה ריחפה רוח אלוהים ?":"Over what did God's spirit hover?","מיהו הקדוש ברוך הוא ?":"Who is the Holy One, blessed be He?","למי קרא אלוהים יום ?":"What did God call Day?","למי קרא אלוהים לילה ?":"What did God call Night?","מה היה לפני האור ?":"What existed before light?","כשיש ערב ויש בוקר. מה נוצר ?":"What came into being when there was evening and morning?","לאיזה שם שינה אלוהים את הרקיע ?":"What did God name the firmament?","איפא המים בתמונה שמתחת לרקיע ?":"Where is the water beneath the firmament in the picture?","מה מבדיל בין מים למים ?":"What separates the waters above from those below?","מה לא נכון בתמונה":"What is incorrect in the picture?","מה התגלה שניקוו המים ?":"What appeared when the waters gathered?","איך קוראים למקווה המים ?":"What is the gathering of waters called?","באיזה יום אנחנו  ?":"Which day are we on?","מה מצמיחה האדמה לראשונה ?":"What did the earth first bring forth?","מי שולט ביום ?":"Who rules the day?","מיהו המאור הקטן ?":"What is the smaller light?","למה עוד נבראו המאורות הגדולים ?":"What other purpose did the great lights serve?","מה עושים המאורות ?":"What do the heavenly lights do?","את מי ברא אחרי ההחיות והעופות בשמים ?":"Whom did God create after the animals and birds?","מה לא נכון בתמונה ?":"What is incorrect in the picture?","מילה תנכית למילאו ?":"What is the biblical word for 'filled'?","מי על פני הרקיע?":"Who is above the firmament?","מה הם כבש,פרה,אנטילופה וכו ?":"What are sheep, cows, antelopes and similar animals?","מהם החרקים. העכבישים. הנחשים ועוד ?":"What are insects, spiders, snakes and similar creatures?","השלם : נפש חיה.....":"Complete the phrase: Living creatures...","איך ברא אלהים כאן את האדם והאישה ?":"How did God create the man and woman here?","על מה הזכר והנקבה ישלטו ?":"Over what will the male and female rule?","את מי יצר אלוהים בדמותו (בצלמו) ?":"Whom did God create in His image?","מה הברכה שבירך אותם אלוהים ?":"What blessing did God give them?","מהו הצמח השני שברא אלוהים ?":"What was the second kind of plant God created?","מה יוציא העץ ?":"What will the tree produce?","מהו הצמח הראשון ?":"What was the first kind of plant?","בשלב הזה. מה אכלו ?":"What did they eat at this stage?","מה הצמח שנתן אלוהים לחיות לאכול?":"What plant did God give animals to eat?","מי עוד יאכל עשב ?":"Who else will eat plants?","מה פירוש הרומשים":"What does 'creeping creatures' mean?","באיזה יום אנחנו בסיפור ?":"Which day is it in the story?","מה ראה אלוהים  ?":"What did God see?","מה מצב הבריאה ?":"What was the state of creation?","היום השביעי...":"The seventh day..."," אלוהים ביום השביעי ...":"On the seventh day, God...","מה עושה אלוהים ליום השבת ?":"What does God do to the Sabbath day?","מהי המילה התנכית לנגמרו ?":"What is the biblical word for 'were finished'?","איך נוצר הגשם הראשון ?":"How did the first rain come about?","מה נפח אלוהים לאדם ?":"What did God breathe into the man?","למה האדמה צחיחה ?":"Why was the ground dry?","ממה עשוי האדם ?":"What was the man made from?","איזה עץ נותן חיי נצח ?":"Which tree grants eternal life?","אלוהים נטע...":"God planted...","מה פירוש קדם ?":"What does 'eastward' mean?","פרי שנותן ידע ....":"Fruit that gives knowledge of...","לאן זורם הפישון ?":"Where does the Pishon River flow?","לאן זורם הגיחון ?":"Where does the Gihon River flow?","לאן זורם החידקל":"Where does the Tigris River flow?","מיהו הנהר הרביעי ?":"What is the fourth river?","מה יעשה האדם לגן ?":"What will the man do in the garden?","אם יאכל מעץ הדעת...":"If he eats from the tree of knowledge...","האם יש עוד עצים שלאדם אסור לאכול ?":"Are there any other trees the man may not eat from?","מי בחר את שמות החיות ?":"Who chose the animals' names?","מה אלוהים יברא לאדם ?":"What will God create for the man?","מה מוזר בתמונה ?":"What is strange in the picture?","ממה נבראו החיות והעופות ?":"What were the animals and birds formed from?","מה לקח אלוהים מהאדם ?":"What did God take from the man?","ממה נבנתה האישה ?":"What was the woman made from?","למה קוראים לאישה אישה ?":"Why is she called 'woman'?","מה חייב האדם ?":"What must a man do?"," מה לא נכון בתמונה":"What is incorrect in the picture?","מילה תנכית ללא התביישו":"What is the biblical expression for 'were not ashamed'?","האדם צריך לעזוב את....":"A man must leave his...","מי החכם בחיות השדה ?":"Who was the cleverest of the wild animals?","איך פיתה הנחש את האישה ?":"How did the serpent tempt the woman?","מה אמר הנחש לאישה ?":"What did the serpent tell the woman?","אם יאכלו מעץ הדעת ...":"If they eat from the tree of knowledge...","מה עשו מעלי התאנה ?":"What did they make from fig leaves?","למה אכל האדם ?":"Why did the man eat the fruit?","הפרי יצר אצל האישה...":"What did the fruit arouse in the woman?","מה גילו כשאכלו מעץ הדעת ?":"What did they discover after eating from the tree of knowledge?","מה אלוהים שואל את האדם ?":"What does God ask the man?","למה התחבא האדם ?":"Why did the man hide?","האדם עונה לאלוהים....":"The man answers God...","מילה תנכית לפיתה אותי":"What is the biblical word for 'deceived me'?","מה יקרה לנחש":"What will happen to the serpent?","מה יאכל הנחש":"What will the serpent eat?","מילה תנכית להרוס לנחש את הראש":"What is the biblical word for 'crush the serpent's head'?","לאן יחזור האדם ?":"Where will the man return?","מה יצטרך האדם בשביל לאכול":"What will the man have to do to get food?","האישה תלד בנים...":"The woman will bear children...","למי האדמה תהיה מקוללת ?":"For whose sake will the ground be cursed?","פירוש השם חוה":"What does the name Eve mean?","מי עשה את הבגד הראשון ?":"Who made the first clothing?","ממה עשוי הבגד הראשון":"What was the first clothing made from?","מי נתן באהבה לאישה את שמה ?":"Who lovingly gave the woman her name?","מה קורה לאדם ולחוה?":"What happens to Adam and Eve?","מה שמם של הדיירים החדשים ?":"What are the new inhabitants called?","מי שומר על הגן ?":"Who guards the garden?","מי הבכור ?":"Who was the firstborn?","מי היה רועה הצאן ?":"Who was a shepherd?","שמו של קין...":"Cain's name means...","מתי ילדו ?":"When did they give birth?","איך קוראים למתנה לאלוהים ?":"What is an offering to God called?","מה הביא קין":"What did Cain bring?","אל מי פנה אלוהים ראשון  ?":"To whom did God speak first?","מילה תנכית לכועס מאד...":"What is the biblical word for 'very angry'?","מה קרה לקין ?":"What happened to Cain?","על מה קין צריך לשלוט ?":"What must Cain control?","אם קין יתגבר על הקנאה...":"If Cain overcomes his jealousy...","אם לא יתגבר על הקנאה....":"If he does not overcome his jealousy...","מי הרג את מי ?":"Who killed whom?","מה ענה קין לאלוהים ?":"What did Cain answer God?","למה קין הרג את הבל ?":"Why did Cain kill Abel?","מה מיוחד ?":"What is unusual?","מה יקרה לקין ?":"What will happen to Cain?","קין יהיה...":"Cain will become...","למה ינדוד קין ?":"Why will Cain wander?","איך קשורה האדמה לקללה ?":"How is the ground connected to the curse?","האם קין מתחרט ?":"Does Cain regret what he did?","מה עושה אלוהים לקין ?":"What does God do for Cain?","מהו \"אות קין\" ?":"What is the 'mark of Cain'?","לאן נדד קין ?":"Where did Cain wander?","מי בנה את העיר הראשונה ?":"Who built the first city?","מי לֹטֵשׁ, כָּל חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל ?":"Who forged tools of bronze and iron?","מי אֲבִי יֹושֵׁבי אֹהֶל וּמִקְנֶה":"Who was the ancestor of tent dwellers and livestock keepers?","מי אֲבִי כָּל תֹּפֵשׂ כִּנּוֹר וְעוּגָב ?":"Who was the ancestor of those who play the lyre and flute?","מי הראשון שיש לו יותר מאישה אחת ?":"Who was the first man to have more than one wife?","איך פונה למך לנשותיו כאן ?":"How does Lamech address his wives here?","אם קין קיבל הגנה אז ללמך....":"If Cain received protection, then Lamech...","על מה מתוודה למך ?":"What does Lamech confess?","איך קראה חווה לבן השלישי ?":"What did Eve name her third son?","מה שם בנו של שת ?":"What was the name of Seth's son?","מה קרה אחרי הולדת אנוש ?":"What happened after Enosh was born?"};
+function latinize(s){const map={'א':'a','ב':'b','ג':'g','ד':'d','ה':'h','ו':'v','ז':'z','ח':'ch','ט':'t','י':'y','כ':'k','ך':'k','ל':'l','מ':'m','ם':'m','נ':'n','ן':'n','ס':'s','ע':'a','פ':'p','ף':'f','צ':'tz','ץ':'tz','ק':'k','ר':'r','ש':'sh','ת':'t'};return s.normalize('NFD').replace(/[\u0591-\u05c7]/g,'').split('').map(c=>map[c]||c).join('');}
+function translateAnswer(s){const k=String(s||'').trim();return heToEn[k]||heToEn[s]||k;}
+function translateQuestion(s){const k=String(s||'').trim();return questionEn[k]||questionEn[k.replace(/\s+/g,' ')]||k;}
+let progress={correct:0,total:0,wrong:0,done:false};let cardRef=null;
+function activeCard(){const feed=document.getElementById('feed');const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);return [...feed.querySelectorAll('.idea')].find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||null;}
+function render(){if(!document.body.classList.contains('story-game-mode'))return;const card=activeCard();if(!card)return;if(card!==cardRef){cardRef=card;progress={correct:card.querySelectorAll('.inline-game-pin.solved').length,total:card.querySelectorAll('.inline-game-pin').length,wrong:0,done:!!card.querySelector('.inline-game-completed')};}
+ const en=document.body.dataset.language==='en';const pins=dock.querySelectorAll('.inline-game-pin');pins.forEach(pin=>{const origin=card.querySelector('.inline-game-pin[data-index="'+pin.dataset.index+'"]');if(!origin)return;const original=origin.title||origin.textContent.replace(/^✓\s*/, '');const translated=en?translateAnswer(original):original;const value=(origin.classList.contains('solved')?'✓ ':'')+translated;if(pin.textContent!==value)pin.textContent=value;pin.lang=en?'en':'he';pin.dir=en?'ltr':'rtl';});
+ const q=dock.querySelector('.inline-game-question');if(q){const original=card.querySelector('.inline-game-question')?.textContent||'';const raw=original.replace(/\s*\d+\s*\/\s*\d+\s*$/,'').trim();const value=(en?translateQuestion(raw):raw)+(progress.total?'  '+Math.min(progress.correct+1,progress.total)+' / '+progress.total:'');if(q.textContent!==value)q.textContent=value;q.dir=en?'ltr':'rtl';}
+ const attempts=progress.correct+progress.wrong;
+ const success=attempts?Math.round(100*progress.correct/attempts):0;
+ const failure=attempts?100-success:0;
+ const value='<span class=\"score-part success\">✓ '+(en?'Correct':'נכונות')+' <b>'+progress.correct+'</b></span>'+
+ '<span class=\"score-part failure\">✕ '+(en?'Errors':'שגיאות')+' <b>'+progress.wrong+'</b></span>'+
+ '<span class=\"score-part grade\">'+(en?'Score':'ציון')+' <strong>'+success+'%</strong></span>';
+ if(score.innerHTML!==value)score.innerHTML=value;
+ // Translate the final Q&A list, not just the labels on the photo.
+ const completed=card.querySelector('.inline-game-completed');
+ if(completed&&completed.dataset.translatedLang!==(en?'en':'he')){
+  const source=card.querySelectorAll('.inline-game-pin');
+  const rows=[...completed.querySelectorAll('li')];
+  rows.forEach(li=>{
+   const strong=li.querySelector('strong');if(!strong)return;
+   if(!li.dataset.originalQuestion){li.dataset.originalQuestion=li.textContent.slice(0,-strong.textContent.length).trim();li.dataset.originalAnswer=strong.textContent.trim();}
+   const q=li.dataset.originalQuestion,a=li.dataset.originalAnswer;
+   const label=en?translateQuestion(q):q,answer=en?translateAnswer(a):a;
+   li.replaceChildren(document.createTextNode(label+' '));
+   const b=document.createElement('strong');b.textContent=answer;li.append(b);
+  });
+  completed.lang=en?'en':'he';completed.dir=en?'ltr':'rtl';completed.dataset.translatedLang=en?'en':'he';
+ }
+ // Keep the question on a single line, shrinking only if the text needs it.
+ if(q&&!q.hidden){q.style.fontSize='';const max=q.clientWidth-20;if(max>0&&q.scrollWidth>q.clientWidth){const computed=parseFloat(getComputedStyle(q).fontSize);q.style.fontSize=Math.max(11,computed*max/q.scrollWidth)+'px';}}
+
+}
+document.addEventListener('story-game-progress',e=>{if(e.detail.card===activeCard()){progress={correct:e.detail.correct,total:e.detail.total,wrong:e.detail.wrong,done:e.detail.done};setTimeout(render,20);}});
+setInterval(render,170);document.getElementById('language-toggle')?.addEventListener('click',()=>setTimeout(render,10));document.getElementById('openIntegratedGame')?.addEventListener('click',()=>setTimeout(render,10));
+})();</script><script id="game-pin-click-isolation">(()=>{ 'use strict';
+// The answer buttons handle their own clicks and stop bubbling to photo controls.
+// Never stop propagation on a parent during capture: that prevents button clicks.
+})();</script>
+<style id="game-single-line-answers-karaoke-question">
+/* Keep each answer in one line; expand its box to match the text. */
+body.story-game-mode #storyImageDock .inline-game-pin{
+ white-space:nowrap!important;overflow-wrap:normal!important;word-break:normal!important;
+ width:max-content!important;max-width:none!important;min-width:max-content!important;
+ height:auto!important;line-height:1.2!important;padding:5px 10px!important;
+ box-sizing:border-box!important;
+}
+/* The karaoke occupies the story display: hide only the game question while playing. */
+body.story-karaoke-active #storyImageDock .inline-game-question{display:none!important}
+</style>
+<script id="game-single-line-karaoke-controller">(()=>{
+ 'use strict';
+ const dock=document.getElementById('storyImageDock');
+ if(!dock)return;
+ function syncKaraoke(){
+  const playing=typeof audioPlayer!=='undefined' && !audioPlayer.paused && !audioPlayer.ended;
+  document.body.classList.toggle('story-karaoke-active',playing);
+ }
+ if(typeof audioPlayer!=='undefined'){
+  for(const event of ['play','playing','pause','ended','emptied','error'])audioPlayer.addEventListener(event,syncKaraoke);
+ }
+ syncKaraoke();
+ // Resize answer boxes only when labels change, not continuously.
+ const pins=dock.querySelector('.inline-game-pins');
+ if(pins){
+  let queued=false;
+  const resizePins=()=>{
+   queued=false;
+   pins.querySelectorAll('.inline-game-pin').forEach(pin=>{
+    pin.style.whiteSpace='nowrap';
+    pin.style.maxWidth='none';
+    pin.style.width='max-content';
+   });
+  };
+  new MutationObserver(()=>{if(!queued){queued=true;requestAnimationFrame(resizePins)}})
+   .observe(pins,{childList:true,subtree:true,characterData:true});
+  resizePins();
+ }
+})();</script>
+<style id="game-hide-answers-on-complete-or-verses">
+/* Hide answer choices once the current story is solved, or whenever verses are shown. */
+body.story-game-mode #storyImageDock.game-answers-completed .inline-game-pins,
+body.story-game-mode #storyImageDock.game-answers-completed .inline-game-pin,
+body.story-game-mode #storyImageDock:has(#dockVerseOverlay:not([hidden])) .inline-game-pins,
+body.story-game-mode #storyImageDock:has(#dockVerseOverlay:not([hidden])) .inline-game-pin{
+ display:none!important;visibility:hidden!important;pointer-events:none!important;
+}
+</style>
+<script id="game-hide-answers-state">(()=>{
+'use strict';
+const dock=document.getElementById('storyImageDock');
+const feed=document.getElementById('feed');
+if(!dock||!feed)return;
+function update(){
+ const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+ const cards=[...feed.querySelectorAll('.idea')];
+ const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y;})||null;
+ const done=!!card?.querySelector('.inline-game-completed');
+ dock.classList.toggle('game-answers-completed',done);
+ const overlay=document.getElementById('dockVerseOverlay');
+ const showingVerses=!!overlay&&!overlay.hidden;
+ dock.classList.toggle('game-verses-visible',showingVerses);
+}
+const overlay=document.getElementById('dockVerseOverlay');
+if(overlay)new MutationObserver(update).observe(overlay,{attributes:true,attributeFilter:['hidden']});
+new MutationObserver(update).observe(feed,{childList:true,subtree:true});
+feed.addEventListener('scroll',update,{passive:true});
+setInterval(update,250);
+update();
+})();</script>
+
+<style id="central-stories-style">
+#centralStoriesButton{height:43px;min-height:43px;padding:5px 12px;font-size:17px;white-space:nowrap;background:linear-gradient(#fff1ad,#d7a122);color:#271800;font-weight:900}
+#centralStoriesDialog{width:min(720px,96vw);height:min(780px,91dvh);max-height:91dvh;padding:14px;overflow:hidden;flex-direction:column;background:#100b05;color:#ffdf83;border:2px solid #d9a332}
+#centralStoriesDialog[open]{display:flex}
+#centralStoriesDialog .stories-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-shrink:0}
+#centralStoriesDialog h2{margin:0;font-size:23px;flex:1}#centralStoriesChildToggle{flex-shrink:0;background:linear-gradient(#fff1ad,#d7a122);color:#281900;font-weight:800;padding:7px 12px;border-radius:9px}#centralStoriesChildToggle[aria-pressed="true"]{outline:2px solid #fff}
+#centralStoriesDialog .stories-chapters{display:flex;gap:6px;overflow-x:auto;padding:12px 2px;flex-shrink:0;scrollbar-width:thin}
+#centralStoriesDialog .stories-chapters button{min-width:46px;padding:8px}
+#centralStoriesDialog .stories-chapters button.selected{background:#fff3bb;outline:2px solid white}
+#centralStoriesList{overflow:auto;min-height:0;flex:1;display:flex;flex-direction:column;gap:9px;padding:5px}
+#centralStoriesList button{display:block;text-align:start;padding:13px 14px;font-size:clamp(17px,2.3vw,22px);line-height:1.4;white-space:normal}
+#centralStoriesList small{display:block;font-size:13px;font-weight:400;opacity:.8;margin-top:4px}
+@media(max-width:420px){#centralStoriesButton{font-size:14px;padding:5px 8px}#centralStoriesDialog{padding:9px}#centralStoriesDialog h2{font-size:18px}}
+</style>
+<dialog id="centralStoriesDialog" aria-label="סיפורים מרכזיים"><div class="stories-head"><h2 id="centralStoriesHeading">סיפורים מרכזיים – בראשית</h2><button id="centralStoriesChildToggle" type="button" aria-pressed="false">לילדים</button><button id="centralStoriesClose" type="button">✕</button></div><div class="stories-chapters" id="centralStoriesChapters"></div><div id="centralStoriesList"></div></dialog>
+<script id="central-stories-feature">
+(()=>{
+ const button=document.createElement('button');button.id='centralStoriesButton';button.type='button';
+ const menu=document.getElementById('menu');menu.parentNode.insertBefore(button,menu);
+ const modal=document.getElementById('centralStoriesDialog');
+ const chapters=document.getElementById('centralStoriesChapters');
+ const list=document.getElementById('centralStoriesList');
+ const heading=document.getElementById('centralStoriesHeading');
+ const childToggle=document.getElementById('centralStoriesChildToggle');
+ childToggle.onclick=()=>{toggleReadingLevel();labels();};
+ const curated={
+  1:[
+   [1,2,'ראשית הבריאה','איך הכול התחיל?','The Beginning of Creation','How Did Everything Begin?'],
+   [3,5,'בריאת האור','מי הדליק את האור הראשון בעולם?','Creation of Light','Who Turned on the First Light?'],
+   [6,8,'בריאת הרקיע','איך נוצרו השמיים?','Creation of the Sky','How Was the Sky Made?'],
+   [9,13,'היבשה והצמחייה','מאיפה הופיעו היבשה והצמחים?','Land and Plants','Where Did Land and Plants Come From?'],
+   [14,19,'השמש, הירח והכוכבים','מי האיר את השמיים ביום ובלילה?','Sun, Moon and Stars','Who Lit Up the Sky?'],
+   [20,23,'הדגים והעופות','מי מילא את הים ואת השמיים בחיים?','Fish and Birds','Who Filled the Sea and Sky with Life?'],
+   [24,31,'בעלי החיים והאדם','איך נבראו החיות ובני האדם?','Animals and Humans','How Were Animals and People Created?']
+  ],
+  2:[
+   [1,3,'השלמת הבריאה וקידוש השבת','אלוהים ברא עולם שלם. ומה עשה ביום השביעי?','The Seventh Day','God Made a Whole World. What Happened on Day Seven?'],
+   [4,9,'יצירת האדם וגן עדן','איך הפך עפר מן האדמה לאדם חי?','The First Human and Eden','How Did Dust Become a Living Person?'],
+   [10,17,'גן עדן והאיסור על עץ הדעת','הגן המופלא והעץ שאסור לאכול ממנו!','The Garden and the Forbidden Tree','The Wonderful Garden and the Forbidden Tree!'],
+   [18,20,'האדם ובעלי החיים','לאדם היו כל החיות. אז למה הוא הרגיש לבד?','The Human and the Animals','Why Was the First Human Still Lonely?'],
+   [21,25,'בריאת האישה וראשית הזוגיות','האדם נרדם, וכשהתעורר חיכתה לו הפתעה!','Creation of Woman','A Surprise When the First Human Woke Up!']
+  ]
+ };
+ let chapter=1,request=0;
+ const en=()=>document.body.dataset.language==='en';
+ function labels(){button.textContent=en()?'📖 Stories':'📖 סיפורים';heading.textContent=en()?'Genesis – Main Stories':'בראשית – סיפורים מרכזיים';childToggle.textContent=childrenMode?'🧒':'🧔';childToggle.title=en()?(childrenMode?'Kids':'Adults'):(childrenMode?'ילדים':'מבוגרים');childToggle.setAttribute('aria-label',childToggle.title);childToggle.setAttribute('aria-pressed',String(childrenMode));if(modal.open)show(chapter);}
+ function renderChapters(){chapters.replaceChildren();for(let n=1;n<=50;n++){const b=document.createElement('button');b.textContent=String(n);b.classList.toggle('selected',n===chapter);b.onclick=()=>show(n);chapters.append(b);}chapters.querySelector('.selected')?.scrollIntoView({block:'nearest',inline:'nearest'});}
+ async function show(n){chapter=n;const ticket=++request;renderChapters();list.textContent=en()?'Loading stories…':'טוען סיפורים…';let topics=curated[n];
+  if(!topics){try{const data=await getJson('בראשית/chapter_'+String(n).padStart(3,'0')+'/chapter.json');if(ticket!==request)return;
+   topics=(data.ideas||[]).map((idea,i)=>[Number(idea.start_verse),Number(idea.end_verse),idea.title_he||idea.title||'סיפור '+(i+1),idea.title_he||idea.title||'סיפור '+(i+1),idea.title_en||'Story '+(i+1),idea.title_en||'Story '+(i+1)]).filter(x=>x[0]>0);
+  }catch(e){if(ticket===request)list.textContent=en()?'Unable to load chapter topics.':'לא ניתן לטעון את נושאי הפרק.';return;}}
+  if(ticket!==request)return;list.replaceChildren();topics.forEach((topic,i)=>{const b=document.createElement('button');const title=en()?topic[childrenMode?5:4]:topic[childrenMode?3:2];b.textContent=(i+1)+'. '+title;const small=document.createElement('small');small.textContent=(en()?'Verses ':'פסוקים ')+topic[0]+'–'+topic[1];b.append(small);b.onclick=()=>jump(n,topic[0]);list.append(b);});
+ }
+ async function jump(n,verse){modal.close();if(document.body.classList.contains('story-game-mode'))document.getElementById('openIntegratedGame')?.click();
+  const index=chapterList.findIndex(c=>c.book==='בראשית'&&c.chapter===n);if(index<0)return;
+  await openChapter(index);
+  const cards=[...feed.querySelectorAll('.idea')];const card=cards.find(c=>c.verseState&&c.verseState.from<=verse&&c.verseState.to>=verse)||cards[0];
+  if(!card)return;
+  feed.scrollTop+=card.getBoundingClientRect().top-feed.getBoundingClientRect().top;
+  lastAlignedCard=card;remember(index);
+  // Selecting a topic navigates to its story card only; karaoke verses remain hidden.
+  setVersesMode(false);
+ }
+ button.onclick=()=>{const item=chapterList[currentIndex];chapter=item?.book==='בראשית'?item.chapter:1;if(!modal.open)modal.showModal();show(chapter);};
+ document.getElementById('centralStoriesClose').onclick=()=>modal.close();
+ modal.addEventListener('click',e=>{if(e.target===modal)modal.close();});
+ const originalLanguage=setLanguage;setLanguage=function(lang){originalLanguage(lang);labels();};
+ const originalLevel=updateReadingLevel;updateReadingLevel=function(){originalLevel();childToggle.textContent=childrenMode?'🧒':'🧔';childToggle.title=en()?(childrenMode?'Kids':'Adults'):(childrenMode?'ילדים':'מבוגרים');childToggle.setAttribute('aria-label',childToggle.title);childToggle.setAttribute('aria-pressed',String(childrenMode));if(modal.open)show(chapter);};
+ labels();
+})();
+</script>
+
+<style id="github-three-level-quiz-style">
+#quizDifficulty{display:flex;gap:4px;align-items:center;flex-wrap:nowrap;margin-inline-start:5px}
+#quizDifficulty button{font-size:clamp(12px,1.6vw,17px);padding:6px 9px;min-width:0}
+#quizDifficulty button.active{background:linear-gradient(#c9f6d3,#4aa66a);outline:2px solid white}
+#githubQuizDialog{width:min(750px,96vw);max-height:90dvh;overflow:auto;background:#130e07;color:#ffe7a1;border:2px solid #d7a434}
+#githubQuizDialog .quiz-header{display:flex;align-items:center;justify-content:space-between;gap:10px}
+#githubQuizDialog h2{font-size:clamp(19px,3vw,27px);margin:0}
+#githubQuizQuestion{font-size:clamp(22px,3.3vw,32px);line-height:1.45;margin:17px 0}
+#githubQuizAnswers{display:grid;gap:11px}
+#githubQuizAnswers button{font-size:clamp(19px,2.5vw,25px);padding:13px;text-align:start;white-space:normal}
+#githubQuizAnswers button.correct{background:#19723a;color:#fff}#githubQuizAnswers button.wrong{background:#aa3131;color:#fff}
+#githubQuizExplanation{font-size:clamp(18px,2.5vw,23px);line-height:1.5;margin:12px 0;color:#e6d6b2}
+#githubQuizNext{margin-top:12px;font-size:20px}#githubQuizProgress{color:#ffe89a;font-size:16px}
+/* The previous picture-positioned question and answer engine is retired. */
+.inline-game-pins,.inline-game-question,.inline-game-completed,#storyGameScore{display:none!important}
+@media(max-width:650px){#quizDifficulty button{padding:5px 5px;font-size:12px}#githubQuizDialog{padding:12px}header{gap:3px!important}}
+</style>
+<dialog id="githubQuizDialog"><div class="quiz-header"><h2 id="githubQuizHeading">משחק תנ״ך</h2><button id="githubQuizClose" type="button">✕</button></div><div id="githubQuizProgress"></div><div id="githubQuizQuestion"></div><div id="githubQuizAnswers"></div><div id="githubQuizExplanation"></div><button id="githubQuizNext" type="button" hidden>השאלה הבאה ←</button></dialog>
+<script id="github-three-level-quiz-controller">(()=>{
+'use strict';
+const btn=document.getElementById('openIntegratedGame'),modal=document.getElementById('githubQuizDialog');
+const bar=document.createElement('div');bar.id='quizDifficulty';
+const levels=[['easy','קל','Easy'],['medium','בינוני','Medium'],['challenge','קשה','Hard']];
+let level=null,queue=[],idx=0,loading=0,answered=false;
+const resultsByLanguage={he:{correct:0,wrong:0,completed:new Map()},en:{correct:0,wrong:0,completed:new Map()}};
+let chosenIdea=null, observedIdea=null, quizLanguage=null;
+const languageKey=()=>en()?'en':'he';
+const results=()=>resultsByLanguage[languageKey()];
+const en=()=>document.body.dataset.language==='en';
+const question=document.getElementById('githubQuizQuestion');
+const answers=document.getElementById('githubQuizAnswers');
+const explanation=document.getElementById('githubQuizExplanation');
+const next=document.getElementById('githubQuizNext');
+const progress=document.getElementById('githubQuizProgress');
+const scoreboard=document.getElementById('githubQuizHeading');
+const qtext=q=>q.question||q.q||'';
+function updateScore(){
+ const {correct,wrong}=results();const total=correct+wrong,grade=total?Math.round(100*correct/total):0;
+ scoreboard.innerHTML=en()?`<span class=quiz-success>✓ Correct: ${correct}</span><span class=quiz-failure>✗ Wrong: ${wrong}</span><span class=quiz-grade>★ Score: ${grade}</span>`:`<span class=quiz-success>✓ הצלחות: ${correct}</span><span class=quiz-failure>✗ שגיאות: ${wrong}</span><span class=quiz-grade>★ ציון: ${grade}</span>`;
+}
+function paintLevels(){
+ bar.style.direction=en()?'ltr':'rtl';
+ bar.querySelectorAll('button').forEach(b=>{
+  const row=levels.find(x=>x[0]===b.dataset.level);
+  b.textContent=en()?row[2]:row[1];
+  b.classList.toggle('active',level===b.dataset.level);
+  const done=results().completed.get(ideaKey())?.has(b.dataset.level)||false;
+  b.disabled=done; b.title=done?(en()?'Already completed for this idea':'הרמה כבר הושלמה ברעיון הזה'):'';
+  b.style.opacity=done?'0.42':'1';
+ });
+}
+function current(){
+ const card=typeof mainVisibleCard==='function'?mainVisibleCard()?.card:null;
+ return {item:card?.verseState?.item,from:card?.verseState?.from,to:card?.verseState?.to};
+}
+function ideaKey(){
+ const x=current();return x.item?`${x.item.key}:${x.from}:${x.to}`:null;
+}
+function exitOnIdeaChange(){
+ const key=ideaKey();if(!key)return;
+ if(observedIdea===null){observedIdea=key;return;}
+ if(key!==observedIdea){
+  observedIdea=key;loading++;level=null;
+  if(modal.open)modal.close();
+  document.body.classList.remove('quiz-choosing');
+  paintLevels();
+ }
+}
+setInterval(exitOnIdeaChange,180);
+function clearQuestion(){
+ answers.replaceChildren();explanation.textContent='';next.hidden=true;progress.textContent='';
+}
+function chooseLevel(){
+ level=null;paintLevels();clearQuestion();
+ question.textContent=en()?'Choose a difficulty level above to start':'בחר רמת קושי למעלה כדי להתחיל';
+ updateScore();
+}
+async function start(){
+ const ticket=++loading,x=current();quizLanguage=languageKey();
+ queue=[];idx=0;answered=false;clearQuestion();updateScore();
+ question.textContent=en()?'Loading questions…':'טוען שאלות מגיטהאב…';
+ if(!x.item){
+  question.textContent=en()?'Select a story to play.':'יש לבחור סיפור כדי לשחק.';return;
+ }
+ try{
+  const data=await getJson(x.item.key+'/'+(en()?'questions_en.json':'questions.json'));
+  if(ticket!==loading||!modal.open)return;
+  const paragraphs=(data?.paragraphs||[]).filter(p=>{
+   const first=Number(p.start_verse??p.from??p.verse??0);
+   const last=Number(p.end_verse??p.to??first);
+   return first<=x.to&&last>=x.from;
+  });
+  queue=paragraphs.flatMap(p=>(p[level]||[]).map(q=>({...q})))
+   .filter(q=>qtext(q)&&Array.isArray(q.answers)&&q.answers.length>=2&&Number.isInteger(Number(q.correct)));
+  if(!queue.length){question.textContent=en()?'No questions for this story and level.':'אין שאלות ברמה הזאת לסיפור הנוכחי.';return;}
+  render();
+ }catch(err){if(ticket===loading)question.textContent=en()?'Could not load questions from GitHub.':'לא ניתן לטעון שאלות מגיטהאב.';}
+}
+function render(){
+ const q=queue[idx];answered=false;clearQuestion();updateScore();
+ progress.textContent=(en()?'Question ':'שאלה ')+(idx+1)+' / '+queue.length;
+ question.textContent=qtext(q);
+ q.answers.forEach((a,n)=>{
+  const b=document.createElement('button');b.type='button';b.textContent=(n+1)+'. '+a;
+  b.onclick=()=>{
+   if(answered||quizLanguage!==languageKey())return;answered=true;
+   answers.querySelectorAll('button').forEach((v,i)=>{v.disabled=true;if(i===Number(q.correct))v.classList.add('correct');});
+   if(n===Number(q.correct))results().correct++;else{results().wrong++;b.classList.add('wrong');}
+   updateScore();explanation.textContent=q.explanation||'';
+   next.hidden=false;next.textContent=idx===queue.length-1?(en()?'Finish':'סיום'):(en()?'Next question':'השאלה הבאה');
+  };
+  answers.append(b);
+ });
+}
+for(const [key] of levels){
+ const b=document.createElement('button');b.type='button';b.dataset.level=key;
+ b.onclick=()=>{const idea=ideaKey();if(!idea||results().completed.get(idea)?.has(key))return;chosenIdea=idea;quizLanguage=languageKey();level=key;paintLevels();if(!modal.open)modal.show();start();};
+ bar.append(b);
+}
+document.body.appendChild(bar);
+next.onclick=()=>{
+ idx++;
+ if(idx<queue.length)render();
+ else{
+  clearQuestion();updateScore();
+  if(chosenIdea&&level&&quizLanguage){const completed=resultsByLanguage[quizLanguage].completed;if(!completed.has(chosenIdea))completed.set(chosenIdea,new Set());completed.get(chosenIdea).add(level);}
+  level=null;paintLevels();
+  const allDone=chosenIdea&&results().completed.get(chosenIdea)?.size>=3;
+  question.textContent=allDone?(en()?'Finished! You can move to the next story.':'סיימת! אפשר לעבור לסיפור הבא.'):(en()?'Finished! Choose another available difficulty or continue to the next idea.':'סיימת! אפשר לבחור רמת קושי אחרת או לעבור לרעיון הבא.');
+ }
+};
+btn.addEventListener('click',e=>{
+ e.preventDefault();e.stopImmediatePropagation();
+ if(modal.open){modal.close();return;}
+ if(typeof stopAudio==='function')stopAudio();
+ const idea=ideaKey();observedIdea=idea;
+ if(idea&&results().completed.get(idea)?.size===3){return;}
+ document.body.classList.add('quiz-choosing');
+ chooseLevel();
+},true);
+document.getElementById('githubQuizClose').onclick=()=>modal.close();
+modal.addEventListener('close',()=>{loading++;document.body.classList.remove('quiz-choosing');level=null;paintLevels();});
+// Switching language switches to an independent question set, score and completed levels.
+function onLanguageChange(){
+ const lang=languageKey();
+ if(quizLanguage&&quizLanguage!==lang){
+  loading++;quizLanguage=null;chosenIdea=null;level=null;
+  if(modal.open)modal.close();
+  document.body.classList.remove('quiz-choosing');
+ }
+ paintLevels();updateScore();
+}
+const languageObserver=new MutationObserver(onLanguageChange);
+languageObserver.observe(document.body,{attributes:true,attributeFilter:['data-language']});
+document.getElementById('language-toggle')?.addEventListener('click',()=>setTimeout(onLanguageChange,0));
+paintLevels();updateScore();
+})();</script>
+
+<style>
+#owlTopActions{position:fixed;top:calc(10px + env(safe-area-inset-top,0px));left:8px;z-index:2147483400;display:flex;align-items:center;gap:7px;direction:ltr}
+#owlAndroidAsk{width:47px;height:47px;padding:2px;border:2px solid white;border-radius:12px;background:#75aa9e;box-shadow:0 2px 8px #0005;cursor:pointer;display:grid;place-items:center}
+#owlAndroidAsk img{width:100%;height:100%;object-fit:contain;border-radius:9px}
+#owlOpenAi{height:43px;padding:0 12px;border:2px solid #fff3b0;border-radius:12px;background:linear-gradient(#ffe994,#d39c1d);color:#2a1800;font:bold 16px Arial;cursor:pointer}
+</style>
+<div id="owlTopActions"><button id="owlAndroidAsk" type="button" title="שאל את הינשוף" aria-label="שאל את הינשוף"><img src="openai_icon.png" alt="שאל את הינשוף"></button><button id="owlOpenAi" type="button">בינה</button></div>
+<script>
+(function(){
+ const button=document.getElementById('owlAndroidAsk');
+ document.getElementById('owlOpenAi').addEventListener('click',()=>{if(window.AndroidOwl?.openChatOnly){window.AndroidOwl.openChatOnly()}else{window.open('https://chatgpt.com/','_blank')}});
+ button.addEventListener('click',()=>{
+  const feed=document.getElementById('feed');
+  const cards=[...feed.querySelectorAll('.idea')];
+  const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
+  const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y})||cards.find(c=>c.getBoundingClientRect().bottom>y)||cards[0];
+  if(!card){alert('יש להמתין לטעינת הרעיון.');return}
+  const chapter=chapterList[Number(card.dataset.index)];
+  const title=card.querySelector('.he-title')?.textContent?.trim()||'';
+  const explanation=card.querySelector('.summary .he:not(.child-explanation)')?.textContent?.trim()||'';
+  const verses=card.dataset.verses||'';
+  const idea=card.dataset.storyNumber||'1';
+  const prompt='אני לומד תנ״ך: '+chapter.book+' פרק '+chapter.chapter+', '+verses+', רעיון '+idea+'.\nשם הרעיון: '+title+'.\n'+(explanation?'הסבר הרעיון: '+explanation.slice(0,700)+'\n':'')+'ספר לי בקצרה עובדה מדעית, היסטורית או פילוסופית מפתיעה ומדויקת הקשורה לרעיון הזה. הבחֵן בין עובדות לפרשנות, ואפשר לי לשאול שאלות המשך.';
+  if(window.AndroidOwl?.openChat){window.AndroidOwl.openChat(prompt)}else{navigator.clipboard?.writeText(prompt);alert('השאלה הועתקה. הדבק אותה ב־ChatGPT.')}
+ });
+})();
+</script>
+</body></html>
