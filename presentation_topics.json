@@ -1,167 +1,2517 @@
 {
-  "schema_version": 1,
-  "status": "partial",
-  "target_topics_min": 300,
-  "target_topics_max": 400,
+  "schema_version": 2,
+  "status": "complete_chapter_ranges",
+  "description_he": "נושאים מרכזיים למצגת תמונות, עם טווחי פרקים. טווחי פסוקים ורעיונות לא אומתו ולכן אינם כלולים.",
+  "total_books": 39,
+  "total_topics": 193,
   "topics": [
     {
       "id": "genesis-001",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "בריאת העולם",
-      "title_en": "Creation of the World",
+      "title_he": "בריאת העולם ואדם וחוה",
+      "title_en": "Creation and Adam and Eve",
       "start": {
-        "chapter": 1,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 1
       },
       "end": {
-        "chapter": 1,
-        "verse": 31
+        "chapter": 3
       }
     },
     {
       "id": "genesis-002",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "גן עדן ובריאת האדם",
-      "title_en": "Eden and the Creation of Humanity",
+      "title_he": "קין והבל ודורות האדם",
+      "title_en": "Cain Abel and Early Generations",
       "start": {
-        "chapter": 2,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 4
       },
       "end": {
-        "chapter": 2,
-        "verse": 25
+        "chapter": 5
       }
     },
     {
       "id": "genesis-003",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "הפיתוי והגירוש מגן עדן",
-      "title_en": "Temptation and Expulsion from Eden",
+      "title_he": "נח והמבול",
+      "title_en": "Noah and the Flood",
       "start": {
-        "chapter": 3,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 6
       },
       "end": {
-        "chapter": 3,
-        "verse": 24
+        "chapter": 9
       }
     },
     {
       "id": "genesis-004",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "קין והבל וראשית החברה",
-      "title_en": "Cain, Abel, and Early Society",
+      "title_he": "מגדל בבל והתפשטות העמים",
+      "title_en": "Tower of Babel and the Nations",
       "start": {
-        "chapter": 4,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 10
       },
       "end": {
-        "chapter": 4,
-        "verse": 26
+        "chapter": 11
       }
     },
     {
       "id": "genesis-005",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "דורות האדם עד נח",
-      "title_en": "Generations from Adam to Noah",
+      "title_he": "אברהם מגיע לכנען וברית בין הבתרים",
+      "title_en": "Abraham in Canaan and the Covenant",
       "start": {
-        "chapter": 5,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 12
       },
       "end": {
-        "chapter": 5,
-        "verse": 32
+        "chapter": 15
       }
     },
     {
       "id": "genesis-006",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "השחתת הארץ והכנת התיבה",
-      "title_en": "Corruption of the Earth and Building the Ark",
+      "title_he": "הגר וישמעאל וברית המילה",
+      "title_en": "Hagar Ishmael and Circumcision",
       "start": {
-        "chapter": 6,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 16
       },
       "end": {
-        "chapter": 6,
-        "verse": 22
+        "chapter": 17
       }
     },
     {
       "id": "genesis-007",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "המבול",
-      "title_en": "The Great Flood",
+      "title_he": "סדום ועמורה והולדת יצחק",
+      "title_en": "Sodom and the Birth of Isaac",
       "start": {
-        "chapter": 7,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 18
       },
       "end": {
-        "chapter": 7,
-        "verse": 24
+        "chapter": 21
       }
     },
     {
       "id": "genesis-008",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "סיום המבול והיציאה מהתיבה",
-      "title_en": "The Flood Subsides and Leaving the Ark",
+      "title_he": "עקדת יצחק ונישואי יצחק ורבקה",
+      "title_en": "Binding of Isaac and His Marriage",
       "start": {
-        "chapter": 8,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 22
       },
       "end": {
-        "chapter": 8,
-        "verse": 22
+        "chapter": 24
       }
     },
     {
       "id": "genesis-009",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "ברית הקשת ומשפחת נח",
-      "title_en": "The Rainbow Covenant and Noah's Family",
+      "title_he": "יעקב ועשו",
+      "title_en": "Jacob and Esau",
       "start": {
-        "chapter": 9,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 25
       },
       "end": {
-        "chapter": 9,
-        "verse": 29
+        "chapter": 27
       }
     },
     {
       "id": "genesis-010",
       "book": "בראשית",
       "book_en": "Genesis",
-      "title_he": "התפשטות העמים",
-      "title_en": "The Nations Spread Across the Earth",
+      "title_he": "חלום יעקב וחייו אצל לבן",
+      "title_en": "Jacob's Dream and Life with Laban",
       "start": {
-        "chapter": 10,
-        "verse": 1,
-        "idea_id": 1
+        "chapter": 28
       },
       "end": {
-        "chapter": 10,
-        "verse": 32
+        "chapter": 31
+      }
+    },
+    {
+      "id": "genesis-011",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "מאבק יעקב עם המלאך וחזרתו לכנען",
+      "title_en": "Jacob's Struggle and Return",
+      "start": {
+        "chapter": 32
+      },
+      "end": {
+        "chapter": 36
+      }
+    },
+    {
+      "id": "genesis-012",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "יוסף ואחיו החלומות והמכירה",
+      "title_en": "Joseph's Dreams and Sale",
+      "start": {
+        "chapter": 37
+      },
+      "end": {
+        "chapter": 38
+      }
+    },
+    {
+      "id": "genesis-013",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "יוסף במצרים מעבד לשליט",
+      "title_en": "Joseph Rises to Power",
+      "start": {
+        "chapter": 39
+      },
+      "end": {
+        "chapter": 41
+      }
+    },
+    {
+      "id": "genesis-014",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "יוסף ואחיו המפגש והפיוס",
+      "title_en": "Joseph and His Brothers Reunited",
+      "start": {
+        "chapter": 42
+      },
+      "end": {
+        "chapter": 45
+      }
+    },
+    {
+      "id": "genesis-015",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "משפחת יעקב במצרים וסיום תקופת האבות",
+      "title_en": "Jacob's Family in Egypt",
+      "start": {
+        "chapter": 46
+      },
+      "end": {
+        "chapter": 50
+      }
+    },
+    {
+      "id": "exodus-001",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "שעבוד בני ישראל והולדת משה",
+      "title_en": "Slavery and Birth of Moses",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "exodus-002",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "הסנה הבוער ושליחות משה",
+      "title_en": "Burning Bush and Moses' Mission",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "exodus-003",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "משה ואהרן מול פרעה",
+      "title_en": "Moses and Aaron Confront Pharaoh",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "exodus-004",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "עשר המכות",
+      "title_en": "Ten Plagues",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "exodus-005",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "יציאת מצרים וקריעת ים סוף",
+      "title_en": "Exodus and Crossing the Sea",
+      "start": {
+        "chapter": 12
+      },
+      "end": {
+        "chapter": 15
+      }
+    },
+    {
+      "id": "exodus-006",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "המסע במדבר המן המים ועמלק",
+      "title_en": "Manna Water and Amalek",
+      "start": {
+        "chapter": 15
+      },
+      "end": {
+        "chapter": 17
+      }
+    },
+    {
+      "id": "exodus-007",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "יתרו ומעמד הר סיני",
+      "title_en": "Jethro and Sinai",
+      "start": {
+        "chapter": 18
+      },
+      "end": {
+        "chapter": 20
+      }
+    },
+    {
+      "id": "exodus-008",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "חוקי התורה וברית העם",
+      "title_en": "Laws and Covenant",
+      "start": {
+        "chapter": 21
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "exodus-009",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "הוראות בניית המשכן וכליו",
+      "title_en": "Instructions for the Tabernacle",
+      "start": {
+        "chapter": 25
+      },
+      "end": {
+        "chapter": 31
+      }
+    },
+    {
+      "id": "exodus-010",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "חטא העגל ושבירת הלוחות",
+      "title_en": "Golden Calf and Broken Tablets",
+      "start": {
+        "chapter": 32
+      },
+      "end": {
+        "chapter": 33
+      }
+    },
+    {
+      "id": "exodus-011",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "הלוחות השניים וחידוש הברית",
+      "title_en": "New Tablets and Renewed Covenant",
+      "start": {
+        "chapter": 34
+      },
+      "end": {
+        "chapter": 34
+      }
+    },
+    {
+      "id": "exodus-012",
+      "book": "שמות",
+      "book_en": "Exodus",
+      "title_he": "בניית המשכן והשראת השכינה",
+      "title_en": "Building the Tabernacle",
+      "start": {
+        "chapter": 35
+      },
+      "end": {
+        "chapter": 40
+      }
+    },
+    {
+      "id": "leviticus-001",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "הקרבנות ועבודת הכוהנים",
+      "title_en": "Offerings and Priestly Service",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "leviticus-002",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "חנוכת המשכן ונדב ואביהוא",
+      "title_en": "Inauguration and Nadab and Abihu",
+      "start": {
+        "chapter": 8
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "leviticus-003",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "טהרה וטומאה",
+      "title_en": "Purity and Impurity",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 15
+      }
+    },
+    {
+      "id": "leviticus-004",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "יום הכיפורים",
+      "title_en": "Day of Atonement",
+      "start": {
+        "chapter": 16
+      },
+      "end": {
+        "chapter": 16
+      }
+    },
+    {
+      "id": "leviticus-005",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "קדושה בחיי העם",
+      "title_en": "Holiness in Daily Life",
+      "start": {
+        "chapter": 17
+      },
+      "end": {
+        "chapter": 22
+      }
+    },
+    {
+      "id": "leviticus-006",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "מועדי ישראל",
+      "title_en": "Festivals of Israel",
+      "start": {
+        "chapter": 23
+      },
+      "end": {
+        "chapter": 25
+      }
+    },
+    {
+      "id": "leviticus-007",
+      "book": "ויקרא",
+      "book_en": "Leviticus",
+      "title_he": "ברכות קללות ונדרים",
+      "title_en": "Blessings Warnings and Vows",
+      "start": {
+        "chapter": 26
+      },
+      "end": {
+        "chapter": 27
+      }
+    },
+    {
+      "id": "numbers-001",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "מפקד העם וסידור המחנה",
+      "title_en": "Census and Camp Organization",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "numbers-002",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "קדושת המחנה וחנוכת המזבח",
+      "title_en": "Camp Holiness and Dedication",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "numbers-003",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "פסח והיציאה לדרך",
+      "title_en": "Passover and Departure",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "numbers-004",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "תלונות העם והמרגלים",
+      "title_en": "Complaints and Spies",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 14
+      }
+    },
+    {
+      "id": "numbers-005",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "מצוות ומרד קורח",
+      "title_en": "Laws and Korah's Rebellion",
+      "start": {
+        "chapter": 15
+      },
+      "end": {
+        "chapter": 18
+      }
+    },
+    {
+      "id": "numbers-006",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "פרה אדומה ומי מריבה",
+      "title_en": "Red Heifer and Waters of Meribah",
+      "start": {
+        "chapter": 19
+      },
+      "end": {
+        "chapter": 20
+      }
+    },
+    {
+      "id": "numbers-007",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "נחש הנחושת ומלחמות הדרך",
+      "title_en": "Bronze Serpent and Battles",
+      "start": {
+        "chapter": 21
+      },
+      "end": {
+        "chapter": 21
+      }
+    },
+    {
+      "id": "numbers-008",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "בלעם ובלק",
+      "title_en": "Balaam and Balak",
+      "start": {
+        "chapter": 22
+      },
+      "end": {
+        "chapter": 25
+      }
+    },
+    {
+      "id": "numbers-009",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "דור חדש וחלוקת הארץ",
+      "title_en": "New Generation and Inheritance",
+      "start": {
+        "chapter": 26
+      },
+      "end": {
+        "chapter": 30
+      }
+    },
+    {
+      "id": "numbers-010",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "מלחמת מדין ושבטי עבר הירדן",
+      "title_en": "Midian and Transjordan Tribes",
+      "start": {
+        "chapter": 31
+      },
+      "end": {
+        "chapter": 32
+      }
+    },
+    {
+      "id": "numbers-011",
+      "book": "במדבר",
+      "book_en": "Numbers",
+      "title_he": "מסעות ישראל וגבולות הארץ",
+      "title_en": "Journey and Land Boundaries",
+      "start": {
+        "chapter": 33
+      },
+      "end": {
+        "chapter": 36
+      }
+    },
+    {
+      "id": "deuteronomy-001",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "משה מסכם את מסע המדבר",
+      "title_en": "Moses Reviews the Journey",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "deuteronomy-002",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "עשרת הדיברות ואהבת ה׳",
+      "title_en": "Commandments and Love of God",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 11
+      }
+    },
+    {
+      "id": "deuteronomy-003",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "חוקי החברה והפולחן בארץ",
+      "title_en": "Laws for Life in the Land",
+      "start": {
+        "chapter": 12
+      },
+      "end": {
+        "chapter": 18
+      }
+    },
+    {
+      "id": "deuteronomy-004",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "משפט צדק וחיי הקהילה",
+      "title_en": "Justice and Community Life",
+      "start": {
+        "chapter": 19
+      },
+      "end": {
+        "chapter": 25
+      }
+    },
+    {
+      "id": "deuteronomy-005",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "ביכורים ברכות וקללות",
+      "title_en": "Firstfruits Blessings and Curses",
+      "start": {
+        "chapter": 26
+      },
+      "end": {
+        "chapter": 28
+      }
+    },
+    {
+      "id": "deuteronomy-006",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "חידוש הברית והבחירה בחיים",
+      "title_en": "Renewal of the Covenant",
+      "start": {
+        "chapter": 29
+      },
+      "end": {
+        "chapter": 30
+      }
+    },
+    {
+      "id": "deuteronomy-007",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "יהושע יורש את משה ושירת האזינו",
+      "title_en": "Joshua Succeeds Moses",
+      "start": {
+        "chapter": 31
+      },
+      "end": {
+        "chapter": 32
+      }
+    },
+    {
+      "id": "deuteronomy-008",
+      "book": "דברים",
+      "book_en": "Deuteronomy",
+      "title_he": "ברכת משה ומותו",
+      "title_en": "Moses' Blessing and Death",
+      "start": {
+        "chapter": 33
+      },
+      "end": {
+        "chapter": 34
+      }
+    },
+    {
+      "id": "joshua-001",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "הכנות לכניסה לארץ ורחב",
+      "title_en": "Preparation and Rahab",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "joshua-002",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "חציית הירדן ויריחו",
+      "title_en": "Crossing Jordan and Jericho",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "joshua-003",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "כיבוש העי והברית בגבעון",
+      "title_en": "Ai and Gibeon",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 9
+      }
+    },
+    {
+      "id": "joshua-004",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "מלחמות כיבוש הארץ",
+      "title_en": "Conquest Campaigns",
+      "start": {
+        "chapter": 10
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "joshua-005",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "חלוקת הארץ לשבטים",
+      "title_en": "Division of the Land",
+      "start": {
+        "chapter": 13
+      },
+      "end": {
+        "chapter": 21
+      }
+    },
+    {
+      "id": "joshua-006",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "מזבח שבטי עבר הירדן",
+      "title_en": "Transjordan Altar",
+      "start": {
+        "chapter": 22
+      },
+      "end": {
+        "chapter": 22
+      }
+    },
+    {
+      "id": "joshua-007",
+      "book": "יהושע",
+      "book_en": "Joshua",
+      "title_he": "נאומי הפרידה וברית שכם",
+      "title_en": "Joshua's Farewell and Covenant",
+      "start": {
+        "chapter": 23
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "judges-001",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "ההתנחלות ומעגל השופטים",
+      "title_en": "Settlement and Cycle of Judges",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "judges-002",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "דבורה וברק",
+      "title_en": "Deborah and Barak",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 5
+      }
+    },
+    {
+      "id": "judges-003",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "גדעון ומלחמת מדין",
+      "title_en": "Gideon and Midian",
+      "start": {
+        "chapter": 6
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "judges-004",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "אבימלך ושופטים נוספים",
+      "title_en": "Abimelech and Other Judges",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "judges-005",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "שמשון והפלשתים",
+      "title_en": "Samson and Philistines",
+      "start": {
+        "chapter": 13
+      },
+      "end": {
+        "chapter": 16
+      }
+    },
+    {
+      "id": "judges-006",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "פסל מיכה ושבט דן",
+      "title_en": "Micah's Idol and Dan",
+      "start": {
+        "chapter": 17
+      },
+      "end": {
+        "chapter": 18
+      }
+    },
+    {
+      "id": "judges-007",
+      "book": "שופטים",
+      "book_en": "Judges",
+      "title_he": "פילגש בגבעה ומלחמת האחים",
+      "title_en": "Concubine at Gibeah and Civil War",
+      "start": {
+        "chapter": 19
+      },
+      "end": {
+        "chapter": 21
+      }
+    },
+    {
+      "id": "1-samuel-001",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "שמואל ועלי וארון הברית",
+      "title_en": "Samuel Eli and the Ark",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "1-samuel-002",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "שאול נבחר למלך",
+      "title_en": "Saul Becomes King",
+      "start": {
+        "chapter": 8
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "1-samuel-003",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "מלכות שאול ומלחמותיו",
+      "title_en": "Saul's Reign and Wars",
+      "start": {
+        "chapter": 13
+      },
+      "end": {
+        "chapter": 15
+      }
+    },
+    {
+      "id": "1-samuel-004",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "משיחת דוד וניצחון על גלית",
+      "title_en": "David Anointed and Goliath",
+      "start": {
+        "chapter": 16
+      },
+      "end": {
+        "chapter": 17
+      }
+    },
+    {
+      "id": "1-samuel-005",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "דוד ויהונתן ובריחת דוד",
+      "title_en": "David Jonathan and Flight",
+      "start": {
+        "chapter": 18
+      },
+      "end": {
+        "chapter": 23
+      }
+    },
+    {
+      "id": "1-samuel-006",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "דוד חס על חיי שאול",
+      "title_en": "David Spares Saul",
+      "start": {
+        "chapter": 24
+      },
+      "end": {
+        "chapter": 26
+      }
+    },
+    {
+      "id": "1-samuel-007",
+      "book": "שמואל א",
+      "book_en": "1 Samuel",
+      "title_he": "דוד בצקלג ונפילת שאול",
+      "title_en": "David in Ziklag and Saul's Fall",
+      "start": {
+        "chapter": 27
+      },
+      "end": {
+        "chapter": 31
+      }
+    },
+    {
+      "id": "2-samuel-001",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "דוד נעשה מלך על ישראל",
+      "title_en": "David Becomes King",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 5
+      }
+    },
+    {
+      "id": "2-samuel-002",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "ירושלים וארון הברית",
+      "title_en": "Jerusalem and the Ark",
+      "start": {
+        "chapter": 6
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "2-samuel-003",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "ניצחונות דוד וממלכתו",
+      "title_en": "David's Victories and Kingdom",
+      "start": {
+        "chapter": 8
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "2-samuel-004",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "דוד ובת שבע",
+      "title_en": "David and Bathsheba",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "2-samuel-005",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "אמנון תמר ואבשלום",
+      "title_en": "Amnon Tamar and Absalom",
+      "start": {
+        "chapter": 13
+      },
+      "end": {
+        "chapter": 15
+      }
+    },
+    {
+      "id": "2-samuel-006",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "מרד אבשלום וסופו",
+      "title_en": "Absalom's Rebellion and Death",
+      "start": {
+        "chapter": 16
+      },
+      "end": {
+        "chapter": 19
+      }
+    },
+    {
+      "id": "2-samuel-007",
+      "book": "שמואל ב",
+      "book_en": "2 Samuel",
+      "title_he": "סיום מלכות דוד ומפקד העם",
+      "title_en": "David's Final Years and Census",
+      "start": {
+        "chapter": 20
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "1-kings-001",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "שלמה יורש את דוד",
+      "title_en": "Solomon Succeeds David",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "1-kings-002",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "חכמת שלמה ובניית המקדש",
+      "title_en": "Solomon's Wisdom and Temple",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "1-kings-003",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "עושר שלמה והידרדרות מלכותו",
+      "title_en": "Solomon's Glory and Decline",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 11
+      }
+    },
+    {
+      "id": "1-kings-004",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "פילוג הממלכה וירבעם",
+      "title_en": "Division of the Kingdom",
+      "start": {
+        "chapter": 12
+      },
+      "end": {
+        "chapter": 14
+      }
+    },
+    {
+      "id": "1-kings-005",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "מלכי יהודה וישראל",
+      "title_en": "Kings of Judah and Israel",
+      "start": {
+        "chapter": 15
+      },
+      "end": {
+        "chapter": 16
+      }
+    },
+    {
+      "id": "1-kings-006",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "אליהו ואחאב",
+      "title_en": "Elijah and Ahab",
+      "start": {
+        "chapter": 17
+      },
+      "end": {
+        "chapter": 19
+      }
+    },
+    {
+      "id": "1-kings-007",
+      "book": "מלכים א",
+      "book_en": "1 Kings",
+      "title_he": "מלחמות אחאב וכרם נבות",
+      "title_en": "Ahab's Wars and Naboth's Vineyard",
+      "start": {
+        "chapter": 20
+      },
+      "end": {
+        "chapter": 22
+      }
+    },
+    {
+      "id": "2-kings-001",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "אליהו ואלישע",
+      "title_en": "Elijah and Elisha",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "2-kings-002",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "יהוא והמהפכה בישראל",
+      "title_en": "Jehu's Revolution",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "2-kings-003",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "מלכי יהודה וישראל",
+      "title_en": "Kings of Judah and Israel",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 16
+      }
+    },
+    {
+      "id": "2-kings-004",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "חורבן ממלכת ישראל",
+      "title_en": "Fall of the Northern Kingdom",
+      "start": {
+        "chapter": 17
+      },
+      "end": {
+        "chapter": 17
+      }
+    },
+    {
+      "id": "2-kings-005",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "חזקיהו ומסע סנחריב",
+      "title_en": "Hezekiah and Sennacherib",
+      "start": {
+        "chapter": 18
+      },
+      "end": {
+        "chapter": 20
+      }
+    },
+    {
+      "id": "2-kings-006",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "מנשה ויאשיהו ורפורמת התורה",
+      "title_en": "Manasseh and Josiah's Reform",
+      "start": {
+        "chapter": 21
+      },
+      "end": {
+        "chapter": 23
+      }
+    },
+    {
+      "id": "2-kings-007",
+      "book": "מלכים ב",
+      "book_en": "2 Kings",
+      "title_he": "חורבן ירושלים וגלות בבל",
+      "title_en": "Fall of Jerusalem and Exile",
+      "start": {
+        "chapter": 24
+      },
+      "end": {
+        "chapter": 25
+      }
+    },
+    {
+      "id": "isaiah-001",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "חזון התוכחה וקריאת הנביא",
+      "title_en": "Judgment and the Prophet's Calling",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "isaiah-002",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "אות עמנואל והתקווה לבית דוד",
+      "title_en": "Immanuel and Hope for David's House",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "isaiah-003",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "נבואות על עמי האזור",
+      "title_en": "Oracles Against the Nations",
+      "start": {
+        "chapter": 13
+      },
+      "end": {
+        "chapter": 23
+      }
+    },
+    {
+      "id": "isaiah-004",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "משפט העולם ותקוות הגאולה",
+      "title_en": "World Judgment and Restoration",
+      "start": {
+        "chapter": 24
+      },
+      "end": {
+        "chapter": 27
+      }
+    },
+    {
+      "id": "isaiah-005",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "אזהרות מדיניות ומוסריות",
+      "title_en": "Warnings on Politics and Justice",
+      "start": {
+        "chapter": 28
+      },
+      "end": {
+        "chapter": 35
+      }
+    },
+    {
+      "id": "isaiah-006",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "חזקיהו ואיום אשור",
+      "title_en": "Hezekiah and Assyria",
+      "start": {
+        "chapter": 36
+      },
+      "end": {
+        "chapter": 39
+      }
+    },
+    {
+      "id": "isaiah-007",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "נחמה ושיבת ציון",
+      "title_en": "Comfort and Return from Exile",
+      "start": {
+        "chapter": 40
+      },
+      "end": {
+        "chapter": 48
+      }
+    },
+    {
+      "id": "isaiah-008",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "עבד ה׳ וגאולת ישראל",
+      "title_en": "Servant of God and Redemption",
+      "start": {
+        "chapter": 49
+      },
+      "end": {
+        "chapter": 55
+      }
+    },
+    {
+      "id": "isaiah-009",
+      "book": "ישעיהו",
+      "book_en": "Isaiah",
+      "title_he": "חברה צודקת וגאולה עתידית",
+      "title_en": "Justice and Future Redemption",
+      "start": {
+        "chapter": 56
+      },
+      "end": {
+        "chapter": 66
+      }
+    },
+    {
+      "id": "jeremiah-001",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "קריאת ירמיהו והאזהרה ליהודה",
+      "title_en": "Jeremiah's Calling and Warnings",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "jeremiah-002",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "המקדש והברית שנזנחה",
+      "title_en": "Temple and Broken Covenant",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 13
+      }
+    },
+    {
+      "id": "jeremiah-003",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "בצורת רדיפה וקינת הנביא",
+      "title_en": "Drought and the Prophet's Lament",
+      "start": {
+        "chapter": 14
+      },
+      "end": {
+        "chapter": 20
+      }
+    },
+    {
+      "id": "jeremiah-004",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "מלכי יהודה ונבואות החורבן",
+      "title_en": "Kings of Judah and Destruction",
+      "start": {
+        "chapter": 21
+      },
+      "end": {
+        "chapter": 25
+      }
+    },
+    {
+      "id": "jeremiah-005",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "ירמיהו מול הכוהנים ונביאי השקר",
+      "title_en": "Jeremiah and False Prophets",
+      "start": {
+        "chapter": 26
+      },
+      "end": {
+        "chapter": 29
+      }
+    },
+    {
+      "id": "jeremiah-006",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "נחמה וברית חדשה",
+      "title_en": "Restoration and New Covenant",
+      "start": {
+        "chapter": 30
+      },
+      "end": {
+        "chapter": 33
+      }
+    },
+    {
+      "id": "jeremiah-007",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "ימי המצור והחורבן",
+      "title_en": "Siege and Fall of Jerusalem",
+      "start": {
+        "chapter": 34
+      },
+      "end": {
+        "chapter": 39
+      }
+    },
+    {
+      "id": "jeremiah-008",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "אחרי החורבן והירידה למצרים",
+      "title_en": "After the Fall and Flight to Egypt",
+      "start": {
+        "chapter": 40
+      },
+      "end": {
+        "chapter": 45
+      }
+    },
+    {
+      "id": "jeremiah-009",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "נבואות על העמים",
+      "title_en": "Oracles Against the Nations",
+      "start": {
+        "chapter": 46
+      },
+      "end": {
+        "chapter": 51
+      }
+    },
+    {
+      "id": "jeremiah-010",
+      "book": "ירמיהו",
+      "book_en": "Jeremiah",
+      "title_he": "סיכום חורבן ירושלים",
+      "title_en": "Jerusalem's Fall Recounted",
+      "start": {
+        "chapter": 52
+      },
+      "end": {
+        "chapter": 52
+      }
+    },
+    {
+      "id": "ezekiel-001",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "חזון המרכבה ושליחות יחזקאל",
+      "title_en": "Chariot Vision and Calling",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "ezekiel-002",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "מעשי סימן ונבואות חורבן",
+      "title_en": "Symbolic Acts and Judgment",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 11
+      }
+    },
+    {
+      "id": "ezekiel-003",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "גלות ישראל ומשלי התוכחה",
+      "title_en": "Exile and Allegories",
+      "start": {
+        "chapter": 12
+      },
+      "end": {
+        "chapter": 19
+      }
+    },
+    {
+      "id": "ezekiel-004",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "משפט ירושלים ונבואות החרב",
+      "title_en": "Judgment on Jerusalem",
+      "start": {
+        "chapter": 20
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "ezekiel-005",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "נבואות על העמים",
+      "title_en": "Oracles Against the Nations",
+      "start": {
+        "chapter": 25
+      },
+      "end": {
+        "chapter": 32
+      }
+    },
+    {
+      "id": "ezekiel-006",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "שומר ישראל והנהגה חדשה",
+      "title_en": "Watchman and New Leadership",
+      "start": {
+        "chapter": 33
+      },
+      "end": {
+        "chapter": 34
+      }
+    },
+    {
+      "id": "ezekiel-007",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "לב חדש ותחיית העצמות",
+      "title_en": "New Heart and Dry Bones",
+      "start": {
+        "chapter": 35
+      },
+      "end": {
+        "chapter": 37
+      }
+    },
+    {
+      "id": "ezekiel-008",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "גוג ומגוג",
+      "title_en": "Gog and Magog",
+      "start": {
+        "chapter": 38
+      },
+      "end": {
+        "chapter": 39
+      }
+    },
+    {
+      "id": "ezekiel-009",
+      "book": "יחזקאל",
+      "book_en": "Ezekiel",
+      "title_he": "המקדש העתידי וחלוקת הארץ",
+      "title_en": "Future Temple and Land",
+      "start": {
+        "chapter": 40
+      },
+      "end": {
+        "chapter": 48
+      }
+    },
+    {
+      "id": "hosea-001",
+      "book": "הושע",
+      "book_en": "Hosea",
+      "title_he": "נישואי הושע כמשל לישראל",
+      "title_en": "Hosea's Marriage as a Parable",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "hosea-002",
+      "book": "הושע",
+      "book_en": "Hosea",
+      "title_he": "בגידת ישראל והקריאה לתשובה",
+      "title_en": "Israel's Unfaithfulness",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "hosea-003",
+      "book": "הושע",
+      "book_en": "Hosea",
+      "title_he": "אהבת ה׳ ותקוות השיבה",
+      "title_en": "Divine Love and Return",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 14
+      }
+    },
+    {
+      "id": "joel-001",
+      "book": "יואל",
+      "book_en": "Joel",
+      "title_he": "מכת הארבה ויום ה׳",
+      "title_en": "Locust Plague and Day of the Lord",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "joel-002",
+      "book": "יואל",
+      "book_en": "Joel",
+      "title_he": "רוח ה׳ ושיקום הארץ",
+      "title_en": "Spirit and Restoration",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "amos-001",
+      "book": "עמוס",
+      "book_en": "Amos",
+      "title_he": "משפט העמים וישראל",
+      "title_en": "Judgment of Nations and Israel",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "amos-002",
+      "book": "עמוס",
+      "book_en": "Amos",
+      "title_he": "צדק חברתי ונבואות תוכחה",
+      "title_en": "Social Justice and Warnings",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "amos-003",
+      "book": "עמוס",
+      "book_en": "Amos",
+      "title_he": "חזונות החורבן והתקווה",
+      "title_en": "Visions of Judgment and Hope",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 9
+      }
+    },
+    {
+      "id": "obadiah-001",
+      "book": "עובדיה",
+      "book_en": "Obadiah",
+      "title_he": "משפט אדום ושיבת ציון",
+      "title_en": "Judgment on Edom and Zion's Restoration",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 1
+      }
+    },
+    {
+      "id": "jonah-001",
+      "book": "יונה",
+      "book_en": "Jonah",
+      "title_he": "בריחת יונה והדג הגדול",
+      "title_en": "Jonah's Flight and the Great Fish",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "jonah-002",
+      "book": "יונה",
+      "book_en": "Jonah",
+      "title_he": "נינוה חוזרת בתשובה ורחמי ה׳",
+      "title_en": "Nineveh Repents and Divine Mercy",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "micah-001",
+      "book": "מיכה",
+      "book_en": "Micah",
+      "title_he": "עוול חברתי ומשפט ירושלים",
+      "title_en": "Injustice and Judgment",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "micah-002",
+      "book": "מיכה",
+      "book_en": "Micah",
+      "title_he": "שלום עתידי ומלך מבית לחם",
+      "title_en": "Future Peace and Ruler from Bethlehem",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 5
+      }
+    },
+    {
+      "id": "micah-003",
+      "book": "מיכה",
+      "book_en": "Micah",
+      "title_he": "משפט מוסרי ותקוות מחילה",
+      "title_en": "Ethics Judgment and Forgiveness",
+      "start": {
+        "chapter": 6
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "nahum-001",
+      "book": "נחום",
+      "book_en": "Nahum",
+      "title_he": "נבואת מפלת נינוה",
+      "title_en": "Fall of Nineveh",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "habakkuk-001",
+      "book": "חבקוק",
+      "book_en": "Habakkuk",
+      "title_he": "שאלת הצדק והאמונה",
+      "title_en": "Justice Faith and Trust",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "zephaniah-001",
+      "book": "צפניה",
+      "book_en": "Zephaniah",
+      "title_he": "יום ה׳ וטיהור העמים",
+      "title_en": "Day of the Lord and Renewal",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "haggai-001",
+      "book": "חגי",
+      "book_en": "Haggai",
+      "title_he": "בניית בית המקדש השני",
+      "title_en": "Rebuilding the Second Temple",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "zechariah-001",
+      "book": "זכריה",
+      "book_en": "Zechariah",
+      "title_he": "חזונות השיבה ובניית המקדש",
+      "title_en": "Visions of Return and Temple",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "zechariah-002",
+      "book": "זכריה",
+      "book_en": "Zechariah",
+      "title_he": "צום צדק וחידוש ירושלים",
+      "title_en": "Fasting Justice and Jerusalem",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "zechariah-003",
+      "book": "זכריה",
+      "book_en": "Zechariah",
+      "title_he": "מלך השלום ועתיד ירושלים",
+      "title_en": "King of Peace and Jerusalem's Future",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 14
+      }
+    },
+    {
+      "id": "malachi-001",
+      "book": "מלאכי",
+      "book_en": "Malachi",
+      "title_he": "ביקורת הכוהנים ויום ה׳",
+      "title_en": "Priests Covenant and Day of the Lord",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "psalms-001",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "אשרי האיש ומלכות ה׳",
+      "title_en": "Blessed Life and Divine Kingship",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "psalms-002",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "תפילה מצוקה וביטחון",
+      "title_en": "Prayer Distress and Trust",
+      "start": {
+        "chapter": 25
+      },
+      "end": {
+        "chapter": 41
+      }
+    },
+    {
+      "id": "psalms-003",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "געגוע לציון וזעקת העם",
+      "title_en": "Longing for Zion and National Lament",
+      "start": {
+        "chapter": 42
+      },
+      "end": {
+        "chapter": 72
+      }
+    },
+    {
+      "id": "psalms-004",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "משבר לאומי וזיכרון ההיסטוריה",
+      "title_en": "National Crisis and History",
+      "start": {
+        "chapter": 73
+      },
+      "end": {
+        "chapter": 89
+      }
+    },
+    {
+      "id": "psalms-005",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "מלכות ה׳ וקוצר חיי האדם",
+      "title_en": "God's Reign and Human Mortality",
+      "start": {
+        "chapter": 90
+      },
+      "end": {
+        "chapter": 106
+      }
+    },
+    {
+      "id": "psalms-006",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "הודיה על חסד וגאולה",
+      "title_en": "Thanksgiving and Deliverance",
+      "start": {
+        "chapter": 107
+      },
+      "end": {
+        "chapter": 118
+      }
+    },
+    {
+      "id": "psalms-007",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "אהבת התורה ומזמורי המעלות",
+      "title_en": "Torah and Songs of Ascents",
+      "start": {
+        "chapter": 119
+      },
+      "end": {
+        "chapter": 134
+      }
+    },
+    {
+      "id": "psalms-008",
+      "book": "תהילים",
+      "book_en": "Psalms",
+      "title_he": "הלל והודיה בסיום הספר",
+      "title_en": "Final Praise and Thanksgiving",
+      "start": {
+        "chapter": 135
+      },
+      "end": {
+        "chapter": 150
+      }
+    },
+    {
+      "id": "proverbs-001",
+      "book": "משלי",
+      "book_en": "Proverbs",
+      "title_he": "חכמה ומוסר להדרכת החיים",
+      "title_en": "Wisdom and Moral Teaching",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 9
+      }
+    },
+    {
+      "id": "proverbs-002",
+      "book": "משלי",
+      "book_en": "Proverbs",
+      "title_he": "משלי שלמה על האדם והחברה",
+      "title_en": "Solomon's Proverbs on Life",
+      "start": {
+        "chapter": 10
+      },
+      "end": {
+        "chapter": 22
+      }
+    },
+    {
+      "id": "proverbs-003",
+      "book": "משלי",
+      "book_en": "Proverbs",
+      "title_he": "דברי חכמים ועצות מעשיות",
+      "title_en": "Sayings of the Wise",
+      "start": {
+        "chapter": 23
+      },
+      "end": {
+        "chapter": 24
+      }
+    },
+    {
+      "id": "proverbs-004",
+      "book": "משלי",
+      "book_en": "Proverbs",
+      "title_he": "משלים נוספים על הנהגה וחברה",
+      "title_en": "Further Proverbs on Leadership",
+      "start": {
+        "chapter": 25
+      },
+      "end": {
+        "chapter": 29
+      }
+    },
+    {
+      "id": "proverbs-005",
+      "book": "משלי",
+      "book_en": "Proverbs",
+      "title_he": "דברי אגור למואל ואשת חיל",
+      "title_en": "Agur Lemuel and Woman of Valor",
+      "start": {
+        "chapter": 30
+      },
+      "end": {
+        "chapter": 31
+      }
+    },
+    {
+      "id": "job-001",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "אסונות איוב ושאלת הסבל",
+      "title_en": "Job's Suffering",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "job-002",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "ויכוח איוב עם רעיו",
+      "title_en": "Job Debates His Friends",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 27
+      }
+    },
+    {
+      "id": "job-003",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "חכמת האדם ומחאת איוב",
+      "title_en": "Wisdom and Job's Protest",
+      "start": {
+        "chapter": 28
+      },
+      "end": {
+        "chapter": 31
+      }
+    },
+    {
+      "id": "job-004",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "נאומי אליהוא",
+      "title_en": "Elihu's Speeches",
+      "start": {
+        "chapter": 32
+      },
+      "end": {
+        "chapter": 37
+      }
+    },
+    {
+      "id": "job-005",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "תשובת ה׳ מן הסערה",
+      "title_en": "God Answers from the Whirlwind",
+      "start": {
+        "chapter": 38
+      },
+      "end": {
+        "chapter": 41
+      }
+    },
+    {
+      "id": "job-006",
+      "book": "איוב",
+      "book_en": "Job",
+      "title_he": "סיום הניסיון ושיקום איוב",
+      "title_en": "Job's Restoration",
+      "start": {
+        "chapter": 42
+      },
+      "end": {
+        "chapter": 42
+      }
+    },
+    {
+      "id": "song-of-songs-001",
+      "book": "שיר השירים",
+      "book_en": "Song of Songs",
+      "title_he": "אהבה וגעגוע בין הדוד והרעיה",
+      "title_en": "Love and Longing",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "song-of-songs-002",
+      "book": "שיר השירים",
+      "book_en": "Song of Songs",
+      "title_he": "חיפוש האהוב והשלמת האהבה",
+      "title_en": "Seeking and Celebrating Love",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "ruth-001",
+      "book": "רות",
+      "book_en": "Ruth",
+      "title_he": "אלימלך נעמי ורות בשדה בועז",
+      "title_en": "Elimelech Naomi Ruth and Boaz",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 2
+      }
+    },
+    {
+      "id": "ruth-002",
+      "book": "רות",
+      "book_en": "Ruth",
+      "title_he": "רות ובועז וגאולת המשפחה",
+      "title_en": "Ruth Boaz and Family Redemption",
+      "start": {
+        "chapter": 3
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "lamentations-001",
+      "book": "איכה",
+      "book_en": "Lamentations",
+      "title_he": "קינות על חורבן ירושלים",
+      "title_en": "Lamentations for Jerusalem",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 5
+      }
+    },
+    {
+      "id": "ecclesiastes-001",
+      "book": "קהלת",
+      "book_en": "Ecclesiastes",
+      "title_he": "הבל החיים וחיפוש המשמעות",
+      "title_en": "Vanity and Search for Meaning",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "ecclesiastes-002",
+      "book": "קהלת",
+      "book_en": "Ecclesiastes",
+      "title_he": "זמן עמל עושר וחכמת החיים",
+      "title_en": "Time Work Wealth and Wisdom",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "ecclesiastes-003",
+      "book": "קהלת",
+      "book_en": "Ecclesiastes",
+      "title_he": "זקנה מוות ויראת אלוהים",
+      "title_en": "Aging Death and Reverence",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "esther-001",
+      "book": "אסתר",
+      "book_en": "Esther",
+      "title_he": "אסתר נעשית מלכה ומזימת המן",
+      "title_en": "Esther Becomes Queen and Haman's Plot",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 4
+      }
+    },
+    {
+      "id": "esther-002",
+      "book": "אסתר",
+      "book_en": "Esther",
+      "title_he": "מהפך הגורל והצלת היהודים",
+      "title_en": "Reversal and Rescue",
+      "start": {
+        "chapter": 5
+      },
+      "end": {
+        "chapter": 8
+      }
+    },
+    {
+      "id": "esther-003",
+      "book": "אסתר",
+      "book_en": "Esther",
+      "title_he": "ניצחון היהודים וחג הפורים",
+      "title_en": "Victory and Purim",
+      "start": {
+        "chapter": 9
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "daniel-001",
+      "book": "דניאל",
+      "book_en": "Daniel",
+      "title_he": "דניאל וחבריו בחצר בבל",
+      "title_en": "Daniel and Friends in Babylon",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 3
+      }
+    },
+    {
+      "id": "daniel-002",
+      "book": "דניאל",
+      "book_en": "Daniel",
+      "title_he": "חלומות המלכים והכתובת על הקיר",
+      "title_en": "Royal Dreams and Writing on the Wall",
+      "start": {
+        "chapter": 4
+      },
+      "end": {
+        "chapter": 5
+      }
+    },
+    {
+      "id": "daniel-003",
+      "book": "דניאל",
+      "book_en": "Daniel",
+      "title_he": "דניאל בגוב האריות",
+      "title_en": "Daniel in the Lions' Den",
+      "start": {
+        "chapter": 6
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "daniel-004",
+      "book": "דניאל",
+      "book_en": "Daniel",
+      "title_he": "חזונות הממלכות וקץ הימים",
+      "title_en": "Visions of Kingdoms and the End",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 12
+      }
+    },
+    {
+      "id": "ezra-001",
+      "book": "עזרא",
+      "book_en": "Ezra",
+      "title_he": "שיבת ציון ובניית בית המקדש",
+      "title_en": "Return and Rebuilding the Temple",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 6
+      }
+    },
+    {
+      "id": "ezra-002",
+      "book": "עזרא",
+      "book_en": "Ezra",
+      "title_he": "עזרא מחדש את התורה והקהילה",
+      "title_en": "Ezra Reforms the Community",
+      "start": {
+        "chapter": 7
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "nehemiah-001",
+      "book": "נחמיה",
+      "book_en": "Nehemiah",
+      "title_he": "נחמיה בונה את חומות ירושלים",
+      "title_en": "Nehemiah Rebuilds the Walls",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 7
+      }
+    },
+    {
+      "id": "nehemiah-002",
+      "book": "נחמיה",
+      "book_en": "Nehemiah",
+      "title_he": "קריאת התורה וחידוש הברית",
+      "title_en": "Reading Torah and Renewing Covenant",
+      "start": {
+        "chapter": 8
+      },
+      "end": {
+        "chapter": 10
+      }
+    },
+    {
+      "id": "nehemiah-003",
+      "book": "נחמיה",
+      "book_en": "Nehemiah",
+      "title_he": "ארגון ירושלים ותיקון חיי העם",
+      "title_en": "Organizing and Reforming Jerusalem",
+      "start": {
+        "chapter": 11
+      },
+      "end": {
+        "chapter": 13
+      }
+    },
+    {
+      "id": "1-chronicles-001",
+      "book": "דברי הימים א",
+      "book_en": "1 Chronicles",
+      "title_he": "יוחסין ושורשי עם ישראל",
+      "title_en": "Genealogies of Israel",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 9
+      }
+    },
+    {
+      "id": "1-chronicles-002",
+      "book": "דברי הימים א",
+      "book_en": "1 Chronicles",
+      "title_he": "דוד נעשה מלך ומבסס את ירושלים",
+      "title_en": "David's Reign and Jerusalem",
+      "start": {
+        "chapter": 10
+      },
+      "end": {
+        "chapter": 16
+      }
+    },
+    {
+      "id": "1-chronicles-003",
+      "book": "דברי הימים א",
+      "book_en": "1 Chronicles",
+      "title_he": "הבטחת בית דוד וניצחונותיו",
+      "title_en": "Davidic Promise and Victories",
+      "start": {
+        "chapter": 17
+      },
+      "end": {
+        "chapter": 21
+      }
+    },
+    {
+      "id": "1-chronicles-004",
+      "book": "דברי הימים א",
+      "book_en": "1 Chronicles",
+      "title_he": "הכנות דוד לבניית המקדש",
+      "title_en": "David Prepares the Temple",
+      "start": {
+        "chapter": 22
+      },
+      "end": {
+        "chapter": 29
+      }
+    },
+    {
+      "id": "2-chronicles-001",
+      "book": "דברי הימים ב",
+      "book_en": "2 Chronicles",
+      "title_he": "שלמה ובניית בית המקדש",
+      "title_en": "Solomon and the Temple",
+      "start": {
+        "chapter": 1
+      },
+      "end": {
+        "chapter": 9
+      }
+    },
+    {
+      "id": "2-chronicles-002",
+      "book": "דברי הימים ב",
+      "book_en": "2 Chronicles",
+      "title_he": "פילוג הממלכה ומלכי יהודה הראשונים",
+      "title_en": "Division and Early Kings of Judah",
+      "start": {
+        "chapter": 10
+      },
+      "end": {
+        "chapter": 20
+      }
+    },
+    {
+      "id": "2-chronicles-003",
+      "book": "דברי הימים ב",
+      "book_en": "2 Chronicles",
+      "title_he": "יהורם עד אחז ומאבקי הממלכה",
+      "title_en": "Judah's Kings and Struggles",
+      "start": {
+        "chapter": 21
+      },
+      "end": {
+        "chapter": 28
+      }
+    },
+    {
+      "id": "2-chronicles-004",
+      "book": "דברי הימים ב",
+      "book_en": "2 Chronicles",
+      "title_he": "חזקיהו ויאשיהו וחידוש עבודת ה׳",
+      "title_en": "Hezekiah Josiah and Religious Reform",
+      "start": {
+        "chapter": 29
+      },
+      "end": {
+        "chapter": 35
+      }
+    },
+    {
+      "id": "2-chronicles-005",
+      "book": "דברי הימים ב",
+      "book_en": "2 Chronicles",
+      "title_he": "חורבן ירושלים והצהרת כורש",
+      "title_en": "Fall of Jerusalem and Cyrus' Decree",
+      "start": {
+        "chapter": 36
+      },
+      "end": {
+        "chapter": 36
       }
     }
   ]
