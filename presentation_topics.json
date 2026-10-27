@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "status": "partial",
+  "target_topics_min": 300,
+  "target_topics_max": 400,
+  "topics": [
+    {
+      "id": "genesis-001",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "בריאת העולם",
+      "title_en": "Creation of the World",
+      "start": {
+        "chapter": 1,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "id": "genesis-002",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "גן עדן ובריאת האדם",
+      "title_en": "Eden and the Creation of Humanity",
+      "start": {
+        "chapter": 2,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "id": "genesis-003",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "הפיתוי והגירוש מגן עדן",
+      "title_en": "Temptation and Expulsion from Eden",
+      "start": {
+        "chapter": 3,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "id": "genesis-004",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "קין והבל וראשית החברה",
+      "title_en": "Cain, Abel, and Early Society",
+      "start": {
+        "chapter": 4,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 26
+      }
+    },
+    {
+      "id": "genesis-005",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "דורות האדם עד נח",
+      "title_en": "Generations from Adam to Noah",
+      "start": {
+        "chapter": 5,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "id": "genesis-006",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "השחתת הארץ והכנת התיבה",
+      "title_en": "Corruption of the Earth and Building the Ark",
+      "start": {
+        "chapter": 6,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 22
+      }
+    },
+    {
+      "id": "genesis-007",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "המבול",
+      "title_en": "The Great Flood",
+      "start": {
+        "chapter": 7,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 24
+      }
+    },
+    {
+      "id": "genesis-008",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "סיום המבול והיציאה מהתיבה",
+      "title_en": "The Flood Subsides and Leaving the Ark",
+      "start": {
+        "chapter": 8,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "id": "genesis-009",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "ברית הקשת ומשפחת נח",
+      "title_en": "The Rainbow Covenant and Noah's Family",
+      "start": {
+        "chapter": 9,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 29
+      }
+    },
+    {
+      "id": "genesis-010",
+      "book": "בראשית",
+      "book_en": "Genesis",
+      "title_he": "התפשטות העמים",
+      "title_en": "The Nations Spread Across the Earth",
+      "start": {
+        "chapter": 10,
+        "verse": 1,
+        "idea_id": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 32
+      }
+    }
+  ]
+}
