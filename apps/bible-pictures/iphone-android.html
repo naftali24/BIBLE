@@ -1,0 +1,325 @@
+<!doctype html><html lang="en" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#211509"><title>תנ״ך בתמונות – אייפון + אנדרואיד</title><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="תנך בתמונות"><style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;height:100dvh;overflow:hidden;font-family:Arial,sans-serif;color:#f3e7cc;background:radial-gradient(ellipse at top,#54381d,#211509 65%,#140d07)}button,select{font:inherit}button{cursor:pointer;color:#f7d591;background:#53381d;border:1px solid #bd9358;border-radius:12px;padding:9px 14px;min-height:44px}button:hover{background:#755127}header{height:66px;display:flex;align-items:center;justify-content:center;gap:12px;padding:8px 14px;background:#21160ef2;border-bottom:1px solid #99723f}header strong{color:#f2cd88;font-size:clamp(16px,2.5vw,24px);white-space:nowrap}select{max-width:min(38vw,260px);padding:10px;background:#392714;border:1px solid #a9874d;border-radius:10px;color:#ffe5b5;font-weight:bold}main{height:calc(100dvh - 66px);padding:0;display:flex;flex-direction:column;align-items:center;gap:0}.stage{min-height:0;flex:1;width:100%;display:grid;place-items:center;background:#160f0a;border:0;border-radius:0;overflow:hidden;position:relative}.stage img{width:100%;height:100%;object-fit:contain;display:block}.status{position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:20px;background:#1b130de8;color:#eac88d;font-size:clamp(17px,3vw,26px)}.status[hidden]{display:none}.caption{flex:none;width:100%;min-height:66px;max-height:20dvh;overflow:auto;display:grid;place-items:center;text-align:center;font-size:clamp(22px,3.6vw,39px);line-height:1.22;font-weight:800;color:#f6c65e;text-shadow:0 2px 5px #000;padding:3px 10px}.bottom{flex:none;display:flex;align-items:center;justify-content:center;gap:13px;min-height:48px}.counter{font-size:15px;color:#d3b58a;min-width:75px;text-align:center}.play{font-size:24px;font-weight:bold;min-width:75px;background:linear-gradient(#9a7035,#513314);color:#ffe5a8}.note{font-size:12px;color:#c8ac82}#mute{min-width:52px;font-size:21px}@media(max-width:560px){header{height:60px;gap:7px;padding:6px}header strong{font-size:15px}select{max-width:43vw;font-size:14px}main{height:calc(100dvh - 60px);padding:0;gap:0}.caption{min-height:60px;font-size:clamp(20px,5vw,29px)}.note{display:none}.bottom{gap:8px}}
+#lang{font-size:22px;padding:5px 10px;min-width:55px}#ideas{max-width:210px}#book{max-width:180px}.caption{padding:3px 8px}.bottom{padding:4px 8px;background:#21160e;gap:8px}header{gap:8px}@media(max-width:650px){header strong{display:none}#book{max-width:34vw}#ideas{max-width:38vw}header{justify-content:space-between}}
+@media(min-width:900px){header{width:100%;padding-left:14px;padding-right:14px}main{width:100%;margin:0 auto}.stage{width:100%}.stage img{width:100%;height:100%;object-fit:contain}.caption{width:100%;font-size:clamp(26px,2.8vw,38px)}}
+
+/* The image fills exactly the area between toolbar and caption */
+:root{--toolbar-h:66px;--controls-h:52px}
+header{height:auto;min-height:var(--toolbar-h);flex-wrap:wrap;position:relative;z-index:2}
+main{height:calc(100dvh - var(--actual-header,66px));width:100%;max-width:none;display:flex;flex-direction:column}
+.stage{flex:1 1 0;min-height:0;width:100%;overflow:hidden}
+.stage img{width:100%;height:100%;object-fit:contain;object-position:center}
+.caption{flex:0 0 auto;min-height:46px;max-height:18dvh;padding:4px 8px}
+.bottom{flex:0 0 auto;min-height:var(--controls-h);padding-bottom:max(4px,env(safe-area-inset-bottom))}
+@media(max-width:650px){header{min-height:55px}.caption{min-height:42px}}
+</style><style id="windows-1200-plus150">
+/* Windows: 1200px presentation width; increase picture region by 150px where viewport permits. */
+@media (min-width:900px) and (pointer:fine){
+  header{max-width:1200px;margin-inline:auto}
+  main{max-width:1200px!important;margin-inline:auto!important}
+  .caption{min-height:46px!important;max-height:100px!important}
+  .bottom{min-height:44px!important}
+  .stage{height:calc(100dvh - var(--actual-header,66px) - 46px - 44px + 150px);max-height:calc(100dvh - var(--actual-header,66px) - 46px - 44px);flex:1 1 auto}
+  .stage img{width:100%;height:100%;object-fit:contain}
+}
+</style><style id="mobile-and-topic-tuning">
+/* Android/mobile: reduce rendered image height by 50px from the previous 150px expansion; keep full width. */
+@media (max-width:899px), (pointer:coarse){
+ .stage{overflow:hidden!important}
+ .stage img{width:100%!important;height:calc(100% + 100px)!important;max-height:none!important;position:absolute;left:0;top:50%;transform:translateY(-50%);object-fit:cover!important;object-position:center}
+ .caption{min-height:38px!important;max-height:13dvh!important;padding:2px 5px!important}
+ .bottom{min-height:42px!important}
+ #ideas{font-size:12px!important;line-height:1.1!important;padding:6px 3px!important}
+ #ideas option,#ideas optgroup{font-size:12px!important} 
+ #ideas option{color:#f6c65e!important;background:#281b10!important} 
+ #ideas optgroup{color:#74d58a!important;background:#183021!important}
+}
+/* Native select option/optgroup styling (supported by browser where possible). */
+#ideas option{color:#f6c65e;background:#281b10;font-weight:700}
+#ideas optgroup{color:#74d58a;background:#183021;font-weight:900}
+html[lang="he"] #ideas,html[lang="he"] #ideas option,html[lang="he"] #ideas optgroup{direction:rtl;text-align:right}
+html[lang="en"] #ideas,html[lang="en"] #ideas option,html[lang="en"] #ideas optgroup{direction:ltr;text-align:left}
+</style><style id="real-android-fix">
+html,body{max-width:100%;max-width:100vw;overflow-x:hidden}
+header,main,.stage,.caption,.bottom{box-sizing:border-box;max-width:100%;max-width:100vw;min-width:0}
+.stage img{position:static!important;transform:none!important;inset:auto!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:100%!important;object-fit:contain!important}
+@media(max-width:899px),(pointer:coarse){
+ main{width:100%!important;max-width:100vw!important;overflow:hidden!important}
+ .stage{flex:1 1 0!important;min-height:0!important;margin-bottom:50px!important;width:100%!important;max-width:100vw!important}
+ .stage img{object-fit:contain!important}
+ header{flex-wrap:nowrap!important;gap:5px!important;padding:5px!important;max-width:100vw!important}
+ #book{min-width:0!important;max-width:38vw!important;font-size:13px!important}
+ #ideasOpen{min-width:0!important;max-width:35vw!important;font-size:13px!important;padding:6px!important}
+ #lang,#reload{min-width:37px!important;padding:5px!important}
+}
+#ideasOpen{background:#493319;color:#f6c65e;border-color:#b68a42;font-weight:800;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#ideasPanel[hidden]{display:none!important}
+#ideasPanel{position:fixed;z-index:100;inset:0;background:#1c140cf8;display:flex;flex-direction:column;overflow:hidden;color:#f6c65e}
+.ideasPanelHead{flex:none;display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid #97713d;background:#291c10}
+.ideasPanelHead strong{font-size:21px;color:#f6c65e}
+#ideasList{flex:1;overflow-y:auto;padding:10px;overscroll-behavior:contain}
+.ideaTopic{color:#72dc88;background:#1d3324;font-weight:900;font-size:clamp(17px,2vw,22px);padding:12px 10px;margin:10px 0 4px;border-radius:8px}
+.ideaItem{display:block;width:100%;text-align:inherit;direction:inherit;color:#f6c65e!important;background:#352515!important;font-size:clamp(14px,1.7vw,19px);padding:10px 12px;margin:3px 0;border:1px solid #66502c;border-radius:7px}
+#ideasPanel[dir="rtl"]{direction:rtl;text-align:right}#ideasPanel[dir="ltr"]{direction:ltr;text-align:left}
+</style><style id="android-real-layout-final">
+/* Never use Android native select UI; both menus are HTML buttons. */
+#book{display:none!important}
+#booksPanel[hidden],#ideasPanel[hidden]{display:none!important}
+#booksPanel{position:fixed;inset:0;z-index:110;display:flex;flex-direction:column;background:#1c140c;color:#f6c65e;overflow:hidden}
+#booksList{overflow:auto;flex:1;padding:10px}
+#booksPanel[dir="rtl"],#ideasPanel[dir="rtl"]{text-align:right;direction:rtl}
+#booksPanel[dir="ltr"],#ideasPanel[dir="ltr"]{text-align:left;direction:ltr}
+#booksPanel .ideaTopic,#ideasPanel .ideaTopic{color:#72dc88!important;background:#1d3324!important}
+#booksPanel .ideaItem,#ideasPanel .ideaItem{color:#f6c65e!important;background:#352515!important;text-align:inherit!important}
+#bookOpen{background:#493319;color:#f6c65e;border:1px solid #b68a42;font-weight:800;white-space:nowrap}
+@media(max-width:899px),(pointer:coarse){
+ html,body{width:100%!important;max-width:100vw!important;overflow-x:hidden!important}
+ main{height:calc(100dvh - var(--actual-header,60px))!important;padding-bottom:50px!important;width:100%!important;max-width:100vw!important;overflow:hidden!important}
+ .stage{margin:0!important;flex:1 1 0!important;width:100%!important;max-width:100vw!important;min-height:0!important}
+ .stage img{position:static!important;transform:none!important;display:block!important;width:100%!important;max-width:100vw!important;height:100%!important;object-fit:contain!important}
+ header{max-width:100vw!important;overflow:hidden!important;justify-content:space-between!important}
+ #bookOpen,#ideasOpen{font-size:13px!important;padding:6px 7px!important;min-width:0!important;flex:1 1 auto!important}
+ #lang,#reload{flex:0 0 auto!important}
+ .caption{width:100%!important;max-width:100vw!important}
+}
+</style><style id="fullscreen-carousel-final">
+html,body{width:100%!important;max-width:100vw!important;overflow:hidden!important}
+main{height:calc(100dvh - var(--actual-header,66px))!important;padding-bottom:0!important;max-width:1200px!important;margin-inline:auto!important}
+.stage{min-height:0!important;flex:1 1 0!important;margin:0!important;width:100%!important;max-width:100%!important;overflow:hidden!important}
+.stage img{position:static!important;transform:none!important;width:100%!important;height:100%!important;max-width:100%!important;max-height:100%!important;object-fit:contain!important}
+.caption{min-height:38px!important;max-height:12dvh!important;padding:2px 6px!important}
+.bottom{min-height:42px!important;padding:2px 5px!important}
+/* Gain 100px of picture area by recovering previously unused mobile bottom space and compacting caption/controls. */
+@media(max-width:899px),(pointer:coarse){main{padding-bottom:0!important}.stage{margin:0!important}.caption{min-height:32px!important;max-height:10dvh!important}.bottom{min-height:36px!important}header{min-height:48px!important;padding:3px!important;gap:3px!important}header button{min-height:38px!important}#lang,#reload,#mode{min-width:34px!important;padding:3px!important;font-size:19px!important}#bookOpen,#ideasOpen{font-size:14px!important;padding:5px!important}}
+#ideasPanel .ideaItem,#booksPanel .ideaItem{font-size:clamp(16px,2vw,21px)!important}
+#ideasPanel .ideaTopic,#booksPanel .ideaTopic{font-size:clamp(19px,2.5vw,25px)!important}
+.topicButton{display:block;width:100%;text-align:inherit;direction:inherit;border:1px solid #459d5a!important;cursor:pointer}
+#mode{font-size:23px;min-width:43px}
+.carousel-mode .stage{touch-action:pan-x;cursor:ns-resize}
+:fullscreen main{height:calc(100dvh - var(--actual-header,66px))!important}
+</style><style id="requested-final-adjustments">
+/* Image viewport expands by 100px into the space formerly reserved for bottom text/controls.
+   The text and controls float over the lower part; width never exceeds its container. */
+main{position:relative!important;display:block!important;overflow:hidden!important;isolation:isolate}
+.stage{position:absolute!important;inset:0 0 0 0!important;width:100%!important;height:100%!important;max-width:100%!important;margin:0!important;overflow:hidden!important}
+.stage img{width:100%!important;height:100%!important;max-width:100%!important;object-fit:contain!important;object-position:center!important}
+.caption{position:absolute!important;bottom:48px;left:0;right:0;width:100%!important;min-height:44px!important;max-height:75px!important;background:#21160eea;z-index:3}
+.bottom{position:absolute!important;bottom:0;left:0;right:0;min-height:48px!important;background:#21160ef0;z-index:3}
+#manualHint{position:absolute;bottom:101px;left:0;right:0;z-index:4;text-align:center;color:#ffd25e;font-weight:900;font-size:clamp(17px,3vw,23px);background:#20150bdc;padding:6px}
+#manualHint[hidden]{display:none!important}
+#mode{font-size:27px!important;font-weight:900!important;line-height:1;background:linear-gradient(#72502b,#30200f)!important}
+#mode.selected{color:#ffda6b!important;border:2px solid #ffce55!important;box-shadow:0 0 8px #e0ac4577}
+.topicsAtTop{display:flex;flex-wrap:wrap;gap:7px;padding:12px 8px 16px;border-bottom:2px solid #4b915e;margin-bottom:14px;align-content:flex-start}
+.topicsHeading{width:100%;font-size:clamp(19px,3vw,25px);font-weight:900;color:#83e69c;margin-bottom:5px}
+#ideasPanel .topicShortcut{width:auto;display:inline-flex;align-items:center;justify-content:center;text-align:center;min-height:43px;padding:9px 12px;background:#1d3324!important;color:#82e69a!important;border:1px solid #5bbb77!important;border-radius:9px;font-weight:900;font-size:clamp(16px,2.6vw,21px)}
+#ideasPanel .ideaItem{font-size:clamp(17px,2.5vw,22px)!important}
+#ideasPanel .ideaTopic{font-size:clamp(20px,3vw,26px)!important}
+@media(max-width:899px),(pointer:coarse){.caption{bottom:45px!important}.bottom{min-height:45px!important}#manualHint{bottom:94px}main{max-width:100vw!important}.stage{max-width:100vw!important}}
+</style><style id="final-android-image-books">
+html,body{overflow-x:hidden!important}
+main{width:100%!important;max-width:1200px!important;overflow:hidden!important}
+.stage{position:absolute!important;inset:0!important;overflow:hidden!important;width:100%!important;height:100%!important}
+.stage img{display:block!important;width:100%!important;height:100%!important;max-width:100%!important;max-height:none!important;object-fit:cover!important;object-position:center!important;position:absolute!important;inset:0!important;transform:none!important}
+.caption{bottom:52px!important;z-index:5!important}
+.bottom{min-height:52px!important;z-index:5!important}
+#manualHint{bottom:108px!important}
+#play{font-size:28px!important;min-width:76px!important}
+.bookGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;direction:inherit}
+#booksList .bookTile{min-width:0;width:100%;padding:12px 3px;border-radius:9px;border:1px solid #c2a16a;font-size:clamp(15px,3.5vw,20px);font-weight:900;line-height:1.2;min-height:48px;text-align:center}
+#booksList .bookTile.torah{background:linear-gradient(#ffe994,#d89b18)!important;color:#241600!important}
+#booksList .bookTile.prophets{background:linear-gradient(#c0f3c4,#419e60)!important;color:#092d15!important}
+#booksList .bookTile.writings{background:linear-gradient(#d7d1ff,#7771c8)!important;color:#171044!important}
+#booksPanel .ideasPanelHead{background:#291c10}
+@media(max-width:899px),(pointer:coarse){main{max-width:100vw!important}.stage img{object-fit:cover!important}.caption{max-height:16dvh!important}}
+</style><style id="mobile-aspect-fix-final">
+/* Preserve the complete original picture, without horizontal crop. */
+.stage img{object-fit:contain!important;width:100%!important;height:100%!important;max-width:100%!important;max-height:100%!important}
+main{height:calc(100dvh - var(--actual-header,66px) - 50px)!important}
+:fullscreen main{height:calc(100dvh - var(--actual-header,66px) - 50px)!important}
+#startupHint{position:absolute;top:8px;left:4px;right:4px;z-index:8;text-align:center;color:#ffda70;background:#21160edb;padding:9px 4px;font-size:clamp(16px,3.8vw,24px);font-weight:900;pointer-events:none}
+#startupHint[hidden]{display:none!important}
+.stage{touch-action:pan-y}
+@media(max-width:899px),(pointer:coarse){.stage img{object-fit:contain!important}main{height:calc(100dvh - var(--actual-header,60px) - 50px)!important}}
+</style><style id="image-natural-width-plus50-v2">
+/* Keep the entire image width and its natural ratio, adding exactly 50px to its displayed height. */
+.stage{display:flex!important;align-items:center!important;justify-content:center!important;overflow:hidden!important}
+.stage img#picture{position:relative!important;inset:auto!important;left:auto!important;top:auto!important;transform:none!important;display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;height:auto!important;max-height:none!important;object-fit:fill!important;object-position:center!important;flex:none!important}
+</style><style id="image-plus70-top-and-reference">
+/* Keep full original width; stretch only displayed height by 70px. */
+.stage{display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:flex-start!important;padding:0!important}
+#referenceLine{flex:none;align-self:stretch;z-index:7;min-height:32px;padding:4px 10px;text-align:center;color:#f6c65e;background:#21160ee8;font-size:clamp(17px,3.5vw,23px);font-weight:800;line-height:1.3}
+.stage img#picture{flex:none!important;align-self:center!important;width:100%!important;max-width:100%!important;height:auto!important;max-height:none!important;object-fit:fill!important;position:relative!important;top:0!important;transform:none!important}
+</style><style id="android-width-plus70-final">
+/* Keep original displayed width; add 70 CSS pixels to picture height only. */
+.stage{overflow:hidden!important;align-items:center!important}
+.stage img#picture{align-self:center!important;max-width:100%!important;min-width:0!important;object-fit:fill!important}
+#bookOpen{flex:0 0 64px!important;font-size:35px!important;line-height:1!important;padding:2px 6px!important;min-width:58px!important}
+@media(max-width:520px){#bookOpen{flex-basis:58px!important;font-size:33px!important}#ideasOpen{flex:1 1 auto!important}}
+</style><style id="image-plus120-flow-layout">
+/* Image retains its original width; only height is stretched by an extra 50px. */
+main, :fullscreen main {position:relative!important;display:flex!important;flex-direction:column!important;align-items:stretch!important;overflow-y:auto!important;overflow-x:hidden!important;height:calc(100dvh - var(--actual-header,66px))!important;max-width:100%!important;scrollbar-width:none!important}
+main::-webkit-scrollbar{display:none}
+.stage{position:relative!important;inset:auto!important;flex:0 0 auto!important;height:auto!important;min-height:0!important;max-width:100%!important;width:100%!important;overflow:visible!important;display:flex!important;flex-direction:column!important;justify-content:flex-start!important;align-items:center!important}
+.stage img#picture{position:relative!important;inset:auto!important;display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;max-height:none!important;object-fit:fill!important;flex:0 0 auto!important}
+.caption{position:relative!important;inset:auto!important;bottom:auto!important;left:auto!important;right:auto!important;flex:0 0 auto!important;width:100%!important;margin-top:20px!important;min-height:40px!important;max-height:none!important;z-index:5!important}
+.bottom{position:relative!important;inset:auto!important;bottom:auto!important;left:auto!important;right:auto!important;flex:0 0 auto!important;width:100%!important;min-height:56px!important;z-index:5!important}
+#counter,.counter,.bottom .note{display:none!important}
+#manualHint{position:absolute!important;bottom:auto!important;top:42px!important}
+#startupHint{top:40px!important}
+@media(max-width:899px),(pointer:coarse){main,:fullscreen main{height:calc(100dvh - var(--actual-header,60px))!important}.caption{margin-top:20px!important}}
+@media (orientation:landscape) and (max-height:650px){
+ header{height:42px!important;min-height:42px!important;padding:2px 8px!important}
+ header button{min-height:32px!important;padding:2px 7px!important}
+ #bookOpen{font-size:27px!important;flex-basis:48px!important;min-width:48px!important}
+ #referenceLine{min-height:24px!important;font-size:15px!important;padding:2px!important}
+ .caption{margin-top:5px!important;min-height:24px!important;font-size:clamp(16px,2.5vw,23px)!important;padding:1px 5px!important}
+ .bottom{min-height:36px!important;padding:0!important}
+ .bottom .play{min-height:32px!important;padding:2px 12px!important;font-size:21px!important}
+ main{height:calc(100dvh - var(--actual-header,42px))!important;overflow-y:auto!important}
+}
+</style><style id="windows-fixed-1200-width">
+/* Windows desktop: center the entire application at 1200px wide. */
+@media (min-width:900px) and (pointer:fine){
+  header,main{width:1200px!important;max-width:calc(100vw - 2px)!important;margin-left:auto!important;margin-right:auto!important}
+  main .stage,main .caption,main .bottom{width:100%!important;max-width:100%!important}
+}
+</style></head><body><header><strong id="heading">🎬 Bible Picture Show</strong><select id="book" aria-label="Choose a book" hidden></select><button id="bookOpen" type="button">🦉</button><select id="ideas" aria-label="Choose topic and idea" style="display:none"><option>Topics</option></select><button id="ideasOpen" type="button">📚 נושאים</button><button id="lang" title="Language">🇮🇱</button><button id="reload" title="Restart from first picture">↻</button></header><div id="booksPanel" hidden><div class="ideasPanelHead"><strong id="booksPanelTitle">בחר ספר</strong><button id="booksClose" type="button">✕</button></div><div id="booksList"></div></div><div id="ideasPanel" hidden><div class="ideasPanelHead"><strong id="ideasPanelTitle">נושאים</strong><button id="ideasClose" type="button">✕</button></div><div id="ideasList"></div></div><main><div class="stage" id="stage"><div id="startupHint"></div><div id="referenceLine" aria-live="polite"></div><img id="picture" alt="Bible illustration"><div id="status" class="status">Select a book to begin</div></div><div class="caption" id="caption"></div><div id="manualHint" hidden></div><div class="bottom"><button class="play" id="play" title="מצגת 4 שניות">🎬</button><span class="counter" id="counter" hidden>0 / 0</span></div></main><script>
+const REPO='naftali24/BIBLE',RAW='https://raw.githubusercontent.com/'+REPO+'/main/';
+const BOOK_INFO=[
+  {id:'genesis',name:'בראשית',nameEn:'Genesis',chapters:50},{id:'exodus',name:'שמות',nameEn:'Exodus',chapters:40},{id:'leviticus',name:'ויקרא',nameEn:'Leviticus',chapters:27},{id:'numbers',name:'במדבר',nameEn:'Numbers',chapters:36},{id:'deuteronomy',name:'דברים',nameEn:'Deuteronomy',chapters:34},
+  {id:'joshua',name:'יהושע',nameEn:'Joshua',chapters:24},{id:'judges',name:'שופטים',nameEn:'Judges',chapters:21},{id:'samuel1',name:'שמואל א',nameEn:'I Samuel',chapters:31},{id:'samuel2',name:'שמואל ב',nameEn:'II Samuel',chapters:24},{id:'kings1',name:'מלכים א',nameEn:'I Kings',chapters:22},{id:'kings2',name:'מלכים ב',nameEn:'II Kings',chapters:25},
+  {id:'isaiah',name:'ישעיהו',nameEn:'Isaiah',chapters:66},{id:'jeremiah',name:'ירמיהו',nameEn:'Jeremiah',chapters:52},{id:'ezekiel',name:'יחזקאל',nameEn:'Ezekiel',chapters:48},{id:'hosea',name:'הושע',nameEn:'Hosea',chapters:14},{id:'joel',name:'יואל',nameEn:'Joel',chapters:4},{id:'amos',name:'עמוס',nameEn:'Amos',chapters:9},{id:'obadiah',name:'עובדיה',nameEn:'Obadiah',chapters:1},{id:'jonah',name:'יונה',nameEn:'Jonah',chapters:4},{id:'micah',name:'מיכה',nameEn:'Micah',chapters:7},{id:'nahum',name:'נחום',nameEn:'Nahum',chapters:3},{id:'habakkuk',name:'חבקוק',nameEn:'Habakkuk',chapters:3},{id:'zephaniah',name:'צפניה',nameEn:'Zephaniah',chapters:3},{id:'haggai',name:'חגי',nameEn:'Haggai',chapters:2},{id:'zechariah',name:'זכריה',nameEn:'Zechariah',chapters:14},{id:'malachi',name:'מלאכי',nameEn:'Malachi',chapters:3},
+  {id:'chronicles1',name:'דברי הימים א',nameEn:'I Chronicles',chapters:29},{id:'chronicles2',name:'דברי הימים ב',nameEn:'II Chronicles',chapters:36},{id:'psalms',name:'תהילים',nameEn:'Psalms',chapters:150},{id:'job',name:'איוב',nameEn:'Job',chapters:42},{id:'proverbs',name:'משלי',nameEn:'Proverbs',chapters:31},{id:'ruth',name:'רות',nameEn:'Ruth',chapters:4},{id:'songofsongs',name:'שיר השירים',nameEn:'Song of Songs',chapters:8},{id:'ecclesiastes',name:'קהלת',nameEn:'Ecclesiastes',chapters:12},{id:'lamentations',name:'איכה',nameEn:'Lamentations',chapters:5},{id:'esther',name:'אסתר',nameEn:'Esther',chapters:10},{id:'daniel',name:'דניאל',nameEn:'Daniel',chapters:12},{id:'ezra',name:'עזרא',nameEn:'Ezra',chapters:10},{id:'nehemiah',name:'נחמיה',nameEn:'Nehemiah',chapters:13}
+];
+
+const $=id=>document.getElementById(id);const bookSelect=$('book');
+const BOOKS=BOOK_INFO.map(x=>x.name);let entries=[],idx=0,timer=null,playing=false,muted=false,loadToken=0,language='he',carouselMode=false,touchY=null;
+function updateLanguage(){if(document.getElementById('startupHint'))$('startupHint').textContent=language==='he'?'אפשרות לגלגול למטה ולמעלה':'Swipe or scroll up and down';document.documentElement.lang=language;document.documentElement.dir=language==='he'?'rtl':'ltr';$('lang').textContent=language==='he'?'🇮🇱':'🇬🇧';$('heading').textContent=language==='he'?'🎬 תמונות התנ״ך':'🎬 Bible Picture Show';$('reload').title=language==='he'?'התחל מחדש':'Restart';$('manualHint').textContent=language==='he'?'גלגול ידני למטה ולמעלה':'Manual scrolling up and down';bookSelect.innerHTML=BOOK_INFO.map(b=>`<option value="${b.id}">${language==='he'?b.name:b.nameEn}</option>`).join('');bookSelect.value=bookSelect.dataset.current||'genesis';renderBooksPanel();updateTopics();requestAnimationFrame(fitLayout)}
+let TOPIC_RANGES={};
+async function loadTopicRanges(){
+ const data=await json(RAW+'presentation_topics.json');
+ if(!Array.isArray(data.topics))throw Error('Invalid presentation_topics.json');
+ const grouped={};
+ for(const t of data.topics){
+  const book=BOOK_INFO.find(b=>b.name===t.book);
+  if(!book)continue;
+  const first=Number(t.start?.chapter),last=Number(t.end?.chapter);
+  if(!Number.isInteger(first)||!Number.isInteger(last)||first<1||last>book.chapters||first>last)continue;
+  (grouped[book.id]??=[]).push([first,last,t.title_he||'',t.title_en||t.title_he||'']);
+ }
+ TOPIC_RANGES=grouped;
+ updateTopics();
+ return Object.values(grouped).reduce((sum,list)=>sum+list.length,0);
+}
+function renderBooksPanel(){
+ const panel=$('booksPanel'),list=$('booksList');if(!panel||!list)return;
+ panel.dir=language==='he'?'rtl':'ltr';$('booksPanelTitle').textContent=language==='he'?'בחר ספר':'Choose a book';
+ $('bookOpen').textContent='🦉';
+ list.replaceChildren();
+ const grid=document.createElement('div');grid.className='bookGrid';
+ BOOK_INFO.forEach((b,i)=>{const btn=document.createElement('button');btn.className='bookTile '+(i<5?'torah':i<26?'prophets':'writings');btn.textContent=language==='he'?b.name:b.nameEn;
+ btn.onclick=()=>{bookSelect.value=b.id;panel.hidden=true;loadBook()};grid.appendChild(btn)});
+ list.appendChild(grid);
+}
+function topicFor(chapter){const book=bookSelect.value;const named=(TOPIC_RANGES[book]||[]).find(r=>chapter>=r[0]&&chapter<=r[1]);if(named)return {key:String(named[0]),label:language==='he'?named[2]:named[3]};return {key:'unassigned-'+chapter,label:language==='he'?`פרק ${chapter}`:`Chapter ${chapter}`}}
+function updateTopics(){const old=$('ideas');old.innerHTML='';old.dir=language==='he'?'rtl':'ltr';old.style.textAlign=language==='he'?'right':'left';const placeholder=document.createElement('option');placeholder.value='';placeholder.textContent=language==='he'?'בחר נושא ורעיון':'Choose topic and idea';old.appendChild(placeholder);const groups=new Map();entries.forEach((e,i)=>{const t=topicFor(e.chapter);if(!groups.has(t.key)){const g=document.createElement('optgroup');g.label=t.label;g.style.color='#74d58a';g.style.fontWeight='900';groups.set(t.key,g);old.appendChild(g)}const option=document.createElement('option');option.value=String(i);option.style.color='#f6c65e';option.style.fontWeight='700';option.textContent=`${e.chapter}:${e.id} · ${language==='he'?e.labelHe:e.labelEn}`;groups.get(t.key).appendChild(option)});if(entries.length)old.value=String(idx);renderTopicsPanel()}
+function renderTopicsPanel(){
+ const panel=$('ideasPanel'),list=$('ideasList');if(!panel||!list)return;
+ panel.dir=language==='he'?'rtl':'ltr';$('ideasPanelTitle').textContent=language==='he'?'בחר נושא ותמונה':'Choose topic and picture';
+ $('ideasOpen').textContent=language==='he'?'📚 נושאים':'📚 Topics';
+ list.replaceChildren();
+ const groups=new Map();
+ entries.forEach((e,i)=>{const t=topicFor(e.chapter);if(!groups.has(t.key))groups.set(t.key,{topic:t,first:i,items:[]});groups.get(t.key).items.push({e,i});});
+ const topicBox=document.createElement('div');topicBox.className='topicsAtTop';
+ const title=document.createElement('div');title.className='topicsHeading';title.textContent=language==='he'?'נושאים מרכזיים':'Main topics';topicBox.appendChild(title);
+ for(const g of groups.values()){
+   const b=document.createElement('button');b.type='button';b.className='topicShortcut';b.textContent=g.topic.label;
+   b.onclick=()=>{userAction();idx=g.first;panel.hidden=true;show();if(carouselMode)speakTitle(language==='he'?entries[idx].labelHe:entries[idx].labelEn)};
+   topicBox.appendChild(b);
+ }
+ list.appendChild(topicBox);
+ for(const g of groups.values()){
+   const h=document.createElement('div');h.className='ideaTopic';h.textContent=g.topic.label;list.appendChild(h);
+   for(const {e,i} of g.items){const b=document.createElement('button');b.type='button';b.className='ideaItem';b.textContent=`${e.chapter}:${e.id} · ${language==='he'?e.labelHe:e.labelEn}`;
+     b.onclick=()=>{userAction();idx=i;panel.hidden=true;show();if(carouselMode)speakTitle(language==='he'?e.labelHe:e.labelEn)};list.appendChild(b)}
+ }
+}
+function escapeHTML(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+updateLanguage();
+async function json(url){const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status+' '+url);return r.json()}
+function rows(d){if(Array.isArray(d))return d;for(const k of ['ideas','chapter_ideas','sections','items'])if(Array.isArray(d?.[k]))return d[k];if(d?.chapter)return rows(d.chapter);return []}
+function title(row){const a=row?.idea||row||{};return String(a.ideaTitleEn||a.idea_title_en||a.title_en||a.titleEn||a.name_en||a.english_title||a.ideaTitle||a.idea_title||a.title_he||a.title||a.name||a.heading||'').trim()}
+function titleHe(row){const a=row?.idea||row||{};return String(a.ideaTitle||a.idea_title||a.title_he||a.title||a.name||a.heading||'').trim()}
+function normalize(p){return String(p).split('/').map(encodeURIComponent).join('/')}
+function status(msg){$('status').textContent=msg;$('status').hidden=false}
+function cancelSpeech(){if(window.AndroidTTS){window.AndroidTTS.stop();return}if('speechSynthesis' in window)speechSynthesis.cancel()}
+function speakTitle(s){if(muted)return;try{if(window.AndroidTTS){window.AndroidTTS.speak(String(s),language==='he'?'he-IL':'en-US');return}if(!('speechSynthesis' in window))return;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(s);u.lang=language==='he'?'he-IL':'en-US';u.rate=1.08;u.volume=1;speechSynthesis.speak(u)}catch(e){console.warn(e)}}
+function fitLayout(){document.documentElement.style.setProperty('--actual-header',Math.ceil(document.querySelector('header').getBoundingClientRect().height)+'px')}
+function userAction(){fitLayout()}
+async function requestFullScreen(){
+ if(document.fullscreenElement)return;
+ try{await document.documentElement.requestFullscreen?.()}catch(e){console.info('Fullscreen not available',e)}
+ fitLayout();
+}
+function setMode(){
+ carouselMode=!carouselMode;pause();
+ document.body.classList.toggle('carousel-mode',carouselMode);
+ $('manualHint').hidden=!carouselMode;$('manualHint').textContent=language==='he'?'גלגול ידני למטה ולמעלה':'Manual scrolling up and down';
+ 
+ $('play').textContent=playing?'⏸':'🎬';
+ show();
+}
+function activateManual(){if(!carouselMode){carouselMode=true;pause();document.body.classList.add('carousel-mode')} $('manualHint').hidden=true;}
+async function moveCarousel(delta){
+ if(!carouselMode||!entries.length)return;
+ if(idx+delta>=0&&idx+delta<entries.length){idx+=delta;show();speakTitle(language==='he'?entries[idx].labelHe:entries[idx].labelEn);return;}
+ const current=BOOK_INFO.findIndex(b=>b.id===bookSelect.value);
+ const direction=delta>0?1:-1;
+ for(let step=1;step<=BOOK_INFO.length;step++){
+  const b=BOOK_INFO[(current+direction*step+BOOK_INFO.length*2)%BOOK_INFO.length];
+  bookSelect.value=b.id;
+  await loadBook(false);
+  if(entries.length){carouselMode=true;document.body.classList.add('carousel-mode');idx=direction>0?0:entries.length-1;show();speakTitle(language==='he'?entries[idx].labelHe:entries[idx].labelEn);return;}
+ }
+}
+
+function pause(){playing=false;clearTimeout(timer);timer=null;cancelSpeech();$('play').textContent=playing?'⏸':'🎬'}
+function resizePicture(){
+ const im=$('picture');if(!im.naturalWidth)return;
+ const landscape=window.innerWidth>window.innerHeight;
+ const mobileLandscape=landscape && window.matchMedia('(pointer:coarse)').matches;
+ const w=mobileLandscape?Math.round(window.innerWidth*0.5):$('stage').clientWidth;
+ const wanted=w*im.naturalHeight/im.naturalWidth+120;
+ const header=document.querySelector('header').getBoundingClientRect().height;
+ const ref=$('referenceLine').getBoundingClientRect().height;
+ const caption=$('caption').getBoundingClientRect().height;
+ const bottom=document.querySelector('.bottom').getBoundingClientRect().height;
+ const available=Math.max(90,window.innerHeight-header-ref-caption-bottom-32);
+ const height=landscape?Math.min(wanted,available):wanted;
+ im.style.setProperty('width',w+'px','important');
+ im.style.setProperty('max-width','100%','important');
+ im.style.setProperty('margin-left','auto','important');
+ im.style.setProperty('margin-right','auto','important');
+ im.style.setProperty('height',height+'px','important');
+}
+$('picture').addEventListener('load',resizePicture);
+window.addEventListener('resize',()=>requestAnimationFrame(()=>{fitLayout();resizePicture()}));window.addEventListener('orientationchange',()=>setTimeout(()=>{fitLayout();resizePicture()},250));
+document.addEventListener('fullscreenchange',()=>setTimeout(resizePicture,100));
+async function advanceToNextBook(){const current=BOOK_INFO.findIndex(b=>b.id===bookSelect.value);for(let step=1;step<=BOOK_INFO.length;step++){const b=BOOK_INFO[(current+step)%BOOK_INFO.length];bookSelect.value=b.id;await loadBook(true);if(entries.length)return;}pause();status(language==='he'?'לא נמצאו תמונות בספרים':'No pictures available');}
+function show(){if(!entries.length)return;clearTimeout(timer);cancelSpeech();const x=entries[idx];const bk=BOOK_INFO.find(b=>b.id===bookSelect.value);$('referenceLine').textContent=language==='he'?`${bk?.name||''} ${x.verse||x.startVerse||x.id}:${x.chapter}`:`${bk?.nameEn||''} ${x.chapter}:${x.verse||x.startVerse||x.id}`;$('picture').src=RAW+normalize(x.path);$('caption').textContent=language==='he'?x.labelHe:x.labelEn;requestAnimationFrame(resizePicture);$('ideas').value=String(idx);$('status').hidden=true;if(playing&&!carouselMode){speakTitle(language==='he'?x.labelHe:x.labelEn);timer=setTimeout(()=>{if(idx+1<entries.length){idx++;show()}else{advanceToNextBook().catch(e=>{pause();status(e.message)})}},4000)}}
+function resume(){if(!entries.length)return;if(carouselMode){carouselMode=false;document.body.classList.remove('carousel-mode')}playing=true;$('play').textContent='⏸';show()}
+async function loadBook(continuePlaying=false){pause();const token=++loadToken;entries=[];idx=0;$('picture').removeAttribute('src');$('caption').textContent='';const book=BOOK_INFO.find(x=>x.id===bookSelect.value);bookSelect.dataset.current=book.id;updateTopics();status('Loading '+book.nameEn+' pictures…');try{
+let approval=null;try{const a=await json(RAW+'trivia_approved/'+book.id+'.json');if(Array.isArray(a.approved))approval=new Set(a.approved.map(x=>x.image_path))}catch(e){}
+let chapters=[];try{const tree=await json('https://api.github.com/repos/'+REPO+'/git/trees/main?recursive=1');const dirs=new Map();for(const f of tree.tree||[]){const m=f.path.match(/^([^/]+)\/chapter_(\d+)\/(.+)$/);if(!m||m[1]!==book.name)continue;const dir=m[1]+'/chapter_'+m[2];if(!dirs.has(dir))dirs.set(dir,{dir,chapter:Number(m[2]),images:[],hasJson:false});const ch=dirs.get(dir);if(m[3]==='chapter.json')ch.hasJson=true;if(/^images\/.*\.(jpg|jpeg|png|webp)$/i.test(m[3]))ch.images.push(f.path)}chapters=[...dirs.values()].filter(x=>x.hasJson&&x.images.length).sort((a,b)=>a.chapter-b.chapter)}catch(e){console.warn('GitHub tree not available, trying direct chapters',e)}
+if(!chapters.length){chapters=Array.from({length:book.chapters},(_,i)=>({dir:book.name+'/chapter_'+String(i+1).padStart(3,'0'),chapter:i+1,images:[],hasJson:true}))}
+let completed=0;const workers=Array.from({length:Math.min(8,chapters.length)},async()=>{while(completed<chapters.length){const n=completed++;const ch=chapters[n];if(token!==loadToken)return;try{const d=await json(RAW+normalize(ch.dir)+'/chapter.json');if(!ch.images.length){try{const f=await json('https://api.github.com/repos/'+REPO+'/contents/'+normalize(ch.dir)+'/images');ch.images=f.filter(x=>/\.(jpg|jpeg|png|webp)$/i.test(x.name)).map(x=>ch.dir+'/images/'+x.name)}catch(e){}}
+for(const [i,r] of rows(d).entries()){const a=r?.idea||r||{},id=Number(a.idea_id??a.id??i+1);const path=ch.images.find(p=>new RegExp('idea_0*'+id+'(?:[^0-9]|$)','i').test(p.split('/').pop()));if(!path||approval&&!approval.has(path))continue;const labelEn=title(r),labelHe=titleHe(r);if(labelEn||labelHe){entries.push({path,labelHe:labelHe||labelEn,labelEn:labelEn||labelHe,chapter:ch.chapter,id})}}
+}catch(e){console.warn('Chapter unavailable:',ch.dir,e)}if(token===loadToken&&n%5===0)status('Loading '+book.nameEn+'… '+Math.min(completed,chapters.length)+' / '+chapters.length+' chapters')}});await Promise.all(workers);if(token!==loadToken)return;entries.sort((a,b)=>a.chapter-b.chapter||a.id-b.id);if(!entries.length){status('No pictures found for '+book.nameEn);return}updateTopics();if(continuePlaying){playing=true;$('play').textContent='⏸'}show();if(!continuePlaying)$('play').textContent='🎬'
+}catch(e){if(token===loadToken)status('Could not load images: '+e.message);console.error(e)}}
+$('bookOpen').addEventListener('click',()=>{requestFullScreen();renderBooksPanel();$('booksPanel').hidden=false});$('booksClose').addEventListener('click',()=>{$('booksPanel').hidden=true});$('ideasOpen').addEventListener('click',()=>{requestFullScreen();userAction();renderTopicsPanel();$('ideasPanel').hidden=false});$('ideasClose').addEventListener('click',()=>{$('ideasPanel').hidden=true});$('play').addEventListener('click',()=>{userAction();requestFullScreen();playing?pause():resume()});bookSelect.addEventListener('change',()=>{userAction();loadBook()});$('lang').addEventListener('click',()=>{requestFullScreen();userAction();language=language==='he'?'en':'he';updateLanguage();show()});$('ideas').addEventListener('change',()=>{userAction();if($('ideas').value==='')return;idx=Number($('ideas').value);show()});$('reload').addEventListener('click',()=>{requestFullScreen();userAction();if(entries.length){pause();idx=0;resume()}else loadBook()});$('picture').addEventListener('error',()=>{if(entries.length){status('Image unavailable · continuing…');if(!playing)return}});$('stage').addEventListener('touchstart',e=>{touchY=e.touches[0].clientY},{passive:true});
+$('stage').addEventListener('touchend',e=>{if(touchY===null)return;const dy=e.changedTouches[0].clientY-touchY;touchY=null;if(Math.abs(dy)>35){activateManual();moveCarousel(dy<0?1:-1)}},{passive:true});
+$('stage').addEventListener('wheel',e=>{if(Math.abs(e.deltaY)>5){e.preventDefault();activateManual();moveCarousel(e.deltaY>0?1:-1)}},{passive:false});
+window.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp','PageDown','PageUp'].includes(e.key)){e.preventDefault();activateManual();moveCarousel(['ArrowDown','PageDown'].includes(e.key)?1:-1)}});
+
+window.addEventListener('resize',fitLayout);document.addEventListener('fullscreenchange',fitLayout);new ResizeObserver(fitLayout).observe(document.querySelector('header'));fitLayout();loadTopicRanges().catch(e=>console.error('Topic index unavailable:',e)).finally(()=>loadBook());setTimeout(()=>{const h=$('startupHint');if(h)h.hidden=true},10000);
+</script></body></html>
