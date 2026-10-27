@@ -113,7 +113,18 @@ if(installBibleBtn){
       try{await deferredInstallPrompt.userChoice;}catch(e){}
       deferredInstallPrompt=null;
     }else{
-      alert('אם THE BIBLE כבר מותקן, אין צורך להתקין שוב. אם אינו מותקן, רענן את הדף ונסה שוב.\n\nIf THE BIBLE is already installed, no reinstall is needed. Otherwise refresh and try again.');
+      const ua=navigator.userAgent||'';
+      const isIOS=/iPad|iPhone|iPod/.test(ua)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+      const isStandalone=window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+      if(isStandalone){
+        alert('התנ״ך כבר פתוח כאפליקציה מותקנת.\\n\\nTHE BIBLE is already installed.');
+      }else if(isIOS){
+        alert('להתקנה באייפון או באייפד:\\n1. פתח את האתר ב-Safari.\\n2. לחץ על כפתור השיתוף (ריבוע עם חץ כלפי מעלה).\\n3. בחר ״הוסף למסך הבית״ ואשר.\\n\\nOn iPhone/iPad: Open in Safari → Share → Add to Home Screen.');
+      }else if(/Android/i.test(ua)){
+        alert('להתקנה באנדרואיד:\\nפתח את האתר ב-Chrome, לחץ על תפריט ⋮ ובחר ״התקנת אפליקציה״ או ״הוסף למסך הבית״.\\n\\nAndroid: Chrome menu ⋮ → Install app / Add to Home screen.');
+      }else{
+        alert('להתקנה במחשב:\\nפתח את האתר ב-Chrome או Edge. לחץ על סמל ההתקנה בשורת הכתובת, או פתח את תפריט הדפדפן ובחר ״התקן אפליקציה״.\\n\\nDesktop: Chrome/Edge → Install app.');
+      }
     }
   });
 }
