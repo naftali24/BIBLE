@@ -897,8 +897,7 @@ main{scroll-padding-top:8px!important}
 #genesisAboutClose{background:linear-gradient(#ffe48b,#d89b18)!important;color:#241300!important;font-size:21px!important;padding:10px 24px!important;border-radius:12px!important;cursor:pointer}
 #genesisAboutLanguage{background:linear-gradient(#b9dcff,#4d8ed1)!important;color:#071a2d!important;font-size:19px!important;padding:10px 16px!important;border-radius:12px!important;cursor:pointer}
 /* Chapter illustration stays in the dedicated menu-bottom image holder. */
-body:has(#chapterMenu.open) #imageSection #img{visibility:visible!important;opacity:.5!important}
-body:has(#chapterMenu.open) #imageSection #imageBox{background:#090602!important}
+body:has(#chapterMenu.open) #imageSection #img{visibility:visible!important;opacity:.5!important}body:has(#chapterMenu.open) #imageSection #imageBox{background:#090602!important}
 #chapterMenu.chapterMode.open{background:rgba(9,6,2,.55)!important}
 #genesisAboutContent{overflow-y:auto;overscroll-behavior:contain;flex:1;padding:clamp(18px,4vw,44px);max-width:1000px;width:100%;margin:auto;line-height:1.65;font-size:clamp(18px,2.4vw,24px)}
 #genesisAboutContent h2{text-align:center;color:#ffdf75;font-size:clamp(29px,5vw,44px);margin:0 0 25px}
@@ -1797,8 +1796,7 @@ function saveEndpoint(){const u=FIXED_ENDPOINT;if(!u){alert('הדבק את כת�
 if(endpointInput.value)document.getElementById('setup').classList.add('hidden');
 async function jsonp(url){
   const r=await fetch(url,{method:'GET',cache:'no-store'});
-  if(!r.ok) throw new Error('Google Apps Script HTTP '+r.status);
-  return await r.json();
+  if(!r.ok) throw new Error('Google Apps Script HTTP '+r.status);  return await r.json();
 }
 function startLoadProgress(book,n){clearInterval(loadTimer);let p=4;loadProgressWrap.classList.remove('hidden');loadProgressBar.style.width=p+'%';loadProgressText.textContent='טוען '+book.name+' '+n+'... '+p+'%';loadTimer=setInterval(()=>{p=Math.min(88,p+Math.max(1,Math.round((90-p)/10)));loadProgressBar.style.width=p+'%';loadProgressText.textContent='טוען '+book.name+' '+n+'... '+p+'%'},250)}
 function finishLoadProgress(ok=true){clearInterval(loadTimer);loadProgressBar.style.width=(ok?100:0)+'%';loadProgressText.textContent=ok?'הטעינה הושלמה':'שגיאה בטעינה';if(ok)setTimeout(()=>loadProgressWrap.classList.add('hidden'),ok?650:1400)}
@@ -2697,8 +2695,7 @@ document.addEventListener('click', async function(ev){
   if(language==='he'){
     if(!w.classList.contains('karaokeWord'))return;
     const start=Number(w.dataset.s),end=Number(w.dataset.e);
-    if(!Number.isFinite(start)||!Number.isFinite(end)||end<=start)return;
-    absoluteSeekSerial++;
+    if(!Number.isFinite(start)||!Number.isFinite(end)||end<=start)return;    absoluteSeekSerial++;
     try{if('speechSynthesis' in window)speechSynthesis.cancel();}catch(err){}
     sequenceMode=false;sequenceStartTarget=null;sequenceFloorTime=null;
     lockedVerse=-1;stopAtTime=null;
