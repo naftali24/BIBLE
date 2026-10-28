@@ -1457,4 +1457,28 @@ body[data-language="en"] #gptSideLabel{direction:ltr;text-align:left}
  setTimeout(positionButton,100);setTimeout(positionButton,900);
 })();
 </script>
+<style id="android-landscape-full-image-fix-20261028">
+/* Android: show the ENTIRE illustration in fullscreen and landscape, without cropping. */
+@media (max-width: 700px), (pointer: coarse) and (orientation: landscape) {
+  html body #storyImageDock,
+  html body #storyImageDock .dock-photo {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+  html body #storyImageDock .dock-photo img,
+  html body.story-game-mode #storyImageDock .dock-photo img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    object-fit: contain !important;
+    object-position: center center !important;
+    background: #090704 !important;
+  }
+}
+</style>
 </body></html>
