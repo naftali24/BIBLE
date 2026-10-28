@@ -1356,31 +1356,105 @@ document.getElementById('language-toggle')?.addEventListener('click',()=>setTime
 paintLevels();updateScore();
 })();</script>
 
-<style>
-#owlTopActions{position:fixed;top:calc(10px + env(safe-area-inset-top,0px));left:8px;z-index:2147483400;display:flex;align-items:center;gap:7px;direction:ltr}
-#owlAndroidAsk{width:47px;height:47px;padding:2px;border:2px solid white;border-radius:12px;background:#75aa9e;box-shadow:0 2px 8px #0005;cursor:pointer;display:grid;place-items:center}
-#owlAndroidAsk img{width:100%;height:100%;object-fit:contain;border-radius:9px}
-#owlOpenAi{height:43px;padding:0 12px;border:2px solid #fff3b0;border-radius:12px;background:linear-gradient(#ffe994,#d39c1d);color:#2a1800;font:bold 16px Arial;cursor:pointer}
+<style id="gpt-button-guide-style">
+#owlTopActions{position:fixed;z-index:2147483400;display:flex;align-items:center;gap:5px;direction:ltr;top:calc(10px + env(safe-area-inset-top,0px));left:65px}
+#owlOpenAi{height:43px;min-width:62px;padding:0 12px;border:2px solid #fff3b0;border-radius:12px;background:linear-gradient(#ffe994,#d39c1d);color:#2a1800;font:bold 18px Arial;cursor:pointer}
+#gptFirstGuide{position:fixed;z-index:2147483646;display:none;align-items:center;justify-content:center;flex-direction:column;gap:14px;padding:22px;background:rgba(0,0,0,.84);border:3px solid #f2c64d;border-radius:14px;color:#fff5c8;text-align:center;direction:rtl;font:bold clamp(20px,3vw,31px)/1.5 Arial,sans-serif;box-shadow:0 6px 28px #000c;pointer-events:auto}
+#gptFirstGuide[lang=en]{direction:ltr}
+#gptCountdown{font-size:clamp(38px,7vw,65px);color:#ffdf64;line-height:1}
+#gptFirstGuide button{font-size:15px;padding:5px 16px}#gptGuideOpen{font-size:clamp(19px,3vw,26px)!important;background:linear-gradient(#fff4ac,#e2aa22);padding:12px 22px!important}#gptGuideOpen[hidden],#gptCountdown[hidden]{display:none!important}
+#gptSideLabel{color:#ffe9a4;font:600 clamp(10px,2.2vw,14px)/1.2 Arial,sans-serif;max-width:min(48vw,260px);text-align:right;direction:rtl;text-shadow:0 1px 3px #000}
+body[data-language="en"] #gptSideLabel{direction:ltr;text-align:left}
 </style>
-<div id="owlTopActions"><button id="owlAndroidAsk" type="button" title="שאל את הינשוף" aria-label="שאל את הינשוף"><img src="openai_icon.png" alt="שאל את הינשוף"></button><button id="owlOpenAi" type="button">בינה</button></div>
-<script>
-(function(){
- const button=document.getElementById('owlAndroidAsk');
- document.getElementById('owlOpenAi').addEventListener('click',()=>{if(window.AndroidOwl?.openChatOnly){window.AndroidOwl.openChatOnly()}else{window.open('https://chatgpt.com/','_blank')}});
- button.addEventListener('click',()=>{
-  const feed=document.getElementById('feed');
-  const cards=[...feed.querySelectorAll('.idea')];
+<div id="owlTopActions"><button id="owlOpenAi" type="button" title="GPT">GPT</button></div>
+<div id="gptFirstGuide" role="status" aria-live="polite"><div id="gptGuideMessage"></div><div id="gptCountdown">7</div><button id="gptGuideOpen" type="button" hidden>פתח GPT עכשיו</button><button id="gptGuideCancel" type="button">ביטול</button></div>
+<script id="gpt-first-launch-script">
+(()=>{
+ const button=document.getElementById('owlOpenAi'),guide=document.getElementById('gptFirstGuide');
+ const msg=document.getElementById('gptGuideMessage'),count=document.getElementById('gptCountdown'),cancel=document.getElementById('gptGuideCancel'),launch=document.getElementById('gptGuideOpen');
+ let introShownThisOpening=false,pending=false,timer=null,popup=null;
+ function positionButton(){
+   const kids=document.getElementById('topKidsSwitch');if(!kids)return;
+   const r=kids.getBoundingClientRect();
+   // Beside the child/adult icon, on its left in the RTL header.
+   button.parentElement.style.left=Math.max(3,Math.round(r.left-button.offsetWidth-4))+'px';
+   button.parentElement.style.top=Math.round(r.top)+'px';
+ }
+ function positionGuide(){
+   const dock=document.querySelector('#storyImageDock .dock-photo')||document.getElementById('storyImageDock');
+   const r=dock?.getBoundingClientRect()||{left:10,top:80,width:innerWidth-20,height:innerHeight*.55};
+   guide.style.left=Math.max(5,r.left+8)+'px';guide.style.top=Math.max(5,r.top+8)+'px';
+   guide.style.width=Math.max(200,Math.min(innerWidth-10,r.width-16))+'px';
+   guide.style.height=Math.max(150,Math.min(innerHeight-12,r.height-16))+'px';
+ }
+ const GPT_BOOK_NAMES_EN = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"];
+ function getPrompt(){
+  const feed=document.getElementById('feed'),cards=[...feed.querySelectorAll('.idea')];
   const y=feed.getBoundingClientRect().top+Math.min(55,feed.clientHeight/3);
   const card=cards.find(c=>{const r=c.getBoundingClientRect();return r.top<=y&&r.bottom>y})||cards.find(c=>c.getBoundingClientRect().bottom>y)||cards[0];
-  if(!card){alert('יש להמתין לטעינת הרעיון.');return}
+  if(!card)return null;
   const chapter=chapterList[Number(card.dataset.index)];
+  const verses=card.dataset.verses||'',idea=card.dataset.storyNumber||'1';
+  if(document.body.dataset.language==='en'){
+    const bookIndex=BOOKS.findIndex(entry=>entry[0]===chapter.book);
+    const book=GPT_BOOK_NAMES_EN[bookIndex]||chapter.book;
+    const title=card.querySelector('.en-title')?.textContent?.trim()||'';
+    const explanation=card.querySelector('.summary .en:not(.child-explanation)')?.textContent?.trim()||'';
+    const verseNumbers=(verses.match(/[0-9]+/g)||[]).join('–');
+    return 'I am studying the Bible: '+book+', chapter '+chapter.chapter+(verseNumbers?', verses '+verseNumbers:'')+', idea '+idea+'.\nIdea title: '+title+'.\n'+(explanation?'Explanation: '+explanation.slice(0,700)+'\n':'')+'Tell me briefly a surprising and accurate scientific, historical, or philosophical fact related to this idea. Distinguish established facts from interpretation, and let me ask follow-up questions. Please answer in English.';
+  }
   const title=card.querySelector('.he-title')?.textContent?.trim()||'';
   const explanation=card.querySelector('.summary .he:not(.child-explanation)')?.textContent?.trim()||'';
-  const verses=card.dataset.verses||'';
-  const idea=card.dataset.storyNumber||'1';
-  const prompt='אני לומד תנ״ך: '+chapter.book+' פרק '+chapter.chapter+', '+verses+', רעיון '+idea+'.\nשם הרעיון: '+title+'.\n'+(explanation?'הסבר הרעיון: '+explanation.slice(0,700)+'\n':'')+'ספר לי בקצרה עובדה מדעית, היסטורית או פילוסופית מפתיעה ומדויקת הקשורה לרעיון הזה. הבחֵן בין עובדות לפרשנות, ואפשר לי לשאול שאלות המשך.';
-  if(window.AndroidOwl?.openChat){window.AndroidOwl.openChat(prompt)}else{navigator.clipboard?.writeText(prompt);alert('השאלה הועתקה. הדבק אותה ב־ChatGPT.')}
+  return 'אני לומד תנ״ך: '+chapter.book+' פרק '+chapter.chapter+', '+verses+', רעיון '+idea+'.\nשם הרעיון: '+title+'.\n'+(explanation?'הסבר הרעיון: '+explanation.slice(0,700)+'\n':'')+'ספר לי בקצרה עובדה מדעית, היסטורית או פילוסופית מפתיעה ומדויקת הקשורה לרעיון הזה. הבחֵן בין עובדות לפרשנות, ואפשר לי לשאול שאלות המשך.';
+ }
+ function copyPrompt(prompt){navigator.clipboard?.writeText(prompt).catch(()=>{});}
+ // The browser only permits reliable new-tab navigation during a real user gesture.
+ // Never navigate the current Tanakh window away.
+ function openGPT(prompt){
+   copyPrompt(prompt);
+   const target='https://chatgpt.com/?q='+encodeURIComponent(prompt);
+   const opened=window.open(target,'_blank');
+   if(!opened){
+     // A normal link is offered as an additional user-initiated fallback.
+     launch.hidden=false;
+     launch.textContent=document.body.dataset.language==='en'?'Tap again to open GPT':'לחץ שוב לפתיחת GPT';
+     msg.textContent=document.body.dataset.language==='en'?'The browser blocked the new tab. Please allow pop-ups for this site or tap again. Your Tanakh page remains open.':'הדפדפן חסם את הכרטיסייה החדשה. אפשר חלונות קופצים לאתר או לחץ שוב. התנ״ך נשאר פתוח.';
+     guide.style.display='flex';
+     return false;
+   }
+   return true;
+ }
+ function stop(){clearInterval(timer);timer=null;pending=false;guide.style.display='none';launch.hidden=true;}
+ cancel.addEventListener('click',stop);
+ let preparedPrompt=null;
+ launch.addEventListener('click',()=>{
+   if(!preparedPrompt)return;
+   // User gesture: this runs synchronously from the click, not from a timer.
+   if(openGPT(preparedPrompt)){introShownThisOpening=true;stop();}
  });
+ button.addEventListener('click',()=>{
+   if(pending)return;
+   const prompt=getPrompt();if(!prompt){alert('יש להמתין לטעינת הסיפור.');return;}
+   preparedPrompt=prompt;
+   const en=document.body.dataset.language==='en';guide.lang=en?'en':'he';
+   if(introShownThisOpening){
+     // Even on later presses, use a direct click to open the new tab.
+     openGPT(prompt);return;
+   }
+   pending=true;let remaining=7;count.textContent=String(remaining);
+   count.hidden=false;launch.hidden=true;
+   msg.textContent=en?'In 7 seconds, you can open GPT. To return here, use the square Recent Apps button at the bottom of your phone.':'בעוד 7 שניות אפשר יהיה לפתוח את GPT. כדי לחזור לכאן השתמש בכפתור האפליקציות המרובע בסרגל התחתון של הפלאפון.';
+   cancel.textContent=en?'Cancel':'ביטול';positionGuide();guide.style.display='flex';
+   timer=setInterval(()=>{
+     remaining--;count.textContent=String(remaining);
+     if(remaining<=0){clearInterval(timer);timer=null;pending=false;count.hidden=true;
+       msg.textContent=en?'GPT will open a question about the verse concerning a scientific, historical, or philosophical fact.':'תיפתח ב־GPT שאלה על הפסוק, על עובדה מדעית, היסטורית או פילוסופית.';
+       launch.textContent=en?'Open GPT now':'פתח GPT עכשיו';launch.hidden=false;
+     }
+   },1000);
+ });
+ window.addEventListener('resize',()=>{positionButton();if(pending)positionGuide()});
+ setTimeout(positionButton,100);setTimeout(positionButton,900);
 })();
 </script>
 </body></html>
