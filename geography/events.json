@@ -1,6 +1,6 @@
 [
   {
-    "id": "gen-2-10-eden",
+    "id": "genesis-2-10-eden",
     "book": "בראשית",
     "chapter": 2,
     "verse": 10,
@@ -82,7 +82,7 @@
     }
   },
   {
-    "id": "gen-2-14-tigris",
+    "id": "genesis-2-14-tigris",
     "book": "בראשית",
     "chapter": 2,
     "verse": 14,
@@ -164,7 +164,7 @@
     }
   },
   {
-    "id": "gen-2-14-euphrates",
+    "id": "genesis-2-14-euphrates",
     "book": "בראשית",
     "chapter": 2,
     "verse": 14,
@@ -246,7 +246,7 @@
     }
   },
   {
-    "id": "gen-8-4-ararat",
+    "id": "genesis-8-4-ararat",
     "book": "בראשית",
     "chapter": 8,
     "verse": 4,
@@ -328,7 +328,7 @@
     }
   },
   {
-    "id": "gen-10-10-uruk",
+    "id": "genesis-10-10-uruk",
     "book": "בראשית",
     "chapter": 10,
     "verse": 10,
@@ -410,7 +410,7 @@
     }
   },
   {
-    "id": "gen-10-11-nineveh",
+    "id": "genesis-10-11-nineveh",
     "book": "בראשית",
     "chapter": 10,
     "verse": 11,
@@ -492,7 +492,7 @@
     }
   },
   {
-    "id": "gen-10-11-nimrud",
+    "id": "genesis-10-11-nimrud",
     "book": "בראשית",
     "chapter": 10,
     "verse": 11,
@@ -574,7 +574,7 @@
     }
   },
   {
-    "id": "gen-10-19-sidon",
+    "id": "genesis-10-19-sidon",
     "book": "בראשית",
     "chapter": 10,
     "verse": 19,
@@ -656,7 +656,89 @@
     }
   },
   {
-    "id": "gen-11-2-shinar",
+    "id": "genesis-10-19-gaza",
+    "book": "בראשית",
+    "chapter": 10,
+    "verse": 19,
+    "title": {
+      "he": "עזה — צומת בין כנען למצרים",
+      "en": "Gaza: junction between Canaan and Egypt"
+    },
+    "placeKey": "gaza",
+    "facts": [
+      {
+        "type": "F",
+        "he": "עזה נמצאת במישור החוף הדרומי, סמוך לנתיב היבשתי אל צפון סיני.",
+        "en": "Gaza lies on the southern coastal plain near the land corridor into northern Sinai.",
+        "source": "https://www.cambridge.org/core/journals/antiquity/article/new-investigations-in-gazas-heritage-landscapes-the-gaza-maritime-archaeology-project-gazamap/FAA9865684690BE34FB228AA7ECB4B78"
+      },
+      {
+        "type": "F",
+        "he": "נחל עזה נשפך לים התיכון מדרום לעיר ומנקז מרחב גדול בפנים הארץ.",
+        "en": "Wadi Gaza reaches the Mediterranean south of the city, draining a large inland catchment.",
+        "source": "https://www.cambridge.org/core/journals/antiquity/article/new-investigations-in-gazas-heritage-landscapes-the-gaza-maritime-archaeology-project-gazamap/FAA9865684690BE34FB228AA7ECB4B78"
+      },
+      {
+        "type": "F",
+        "he": "תל א־סכן נמצא מדרום לעזה, סמוך לנחל, ובו בניית לבנים מתקופת הברונזה הקדומה.",
+        "en": "Tell es-Sakan south of Gaza, beside the wadi, preserves Early Bronze Age mudbrick architecture.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/sakan-tell-es/"
+      },
+      {
+        "type": "U",
+        "he": "תל א־עג׳ול אינו מזוהה כיום בדרך כלל עם גרעין עזה הקדומה; אין להחליף ביניהם.",
+        "en": "Tell el-Ajjul is not generally identified with ancient Gaza's core; the sites should not be interchanged.",
+        "source": "https://jscholarship.library.jhu.edu/bitstream/1774.2/60776/1/ARICO-DISSERTATION-2017.pdf"
+      },
+      {
+        "type": "F",
+        "he": "שינויי חוף וסחף שינו את היחס בין התלים שמדרום לעזה לבין הים.",
+        "en": "Coastal change and sedimentation altered the relationship between the southern mounds and the sea.",
+        "source": "https://www.cambridge.org/core/journals/antiquity/article/new-investigations-in-gazas-heritage-landscapes-the-gaza-maritime-archaeology-project-gazamap/FAA9865684690BE34FB228AA7ECB4B78"
+      },
+      {
+        "type": "B",
+        "he": "הפסוק משתמש בעזה כציון גבול של מרחב הכנעני, ולא כגבול של מדינה מודרנית.",
+        "en": "The verse uses Gaza as a marker of Canaanite territory, not a modern state's frontier.",
+        "source": "https://www.sefaria.org/Genesis.10.19?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיְהִי גְּבוּל הַכְּנַעֲנִי, מִצִּידֹן. בֹּאֲכָה גְרָרָה, עַד עַזָּה: בֹּאֲכָה סְדֹמָה וַעֲמֹרָה, וְאַדְמָה וּצְבֹיִם. עַד לָשַׁע.",
+      "en": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
+    },
+    "era": {
+      "he": "מסורות ראשית — ללא תיארוך מוסכם",
+      "en": "Primeval traditions — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_010/images/idea_03_v8-12.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 10 בלבד. הנוף והמבנים אינם תיעוד מזוהה של עזה.",
+        "en": "Artistic illustration for Genesis 10 only. Its landscape and buildings are not identified views of Gaza."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/10-c19d7dd1216c573e45dbef8066d1f284.mp3?version_id=1",
+        "start": 115.92,
+        "end": 129.84
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0110.mp3",
+        "start": 127.53,
+        "end": 139.46
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-11-2-shinar",
     "book": "בראשית",
     "chapter": 11,
     "verse": 2,
@@ -738,7 +820,7 @@
     }
   },
   {
-    "id": "gen-11-9-babylon",
+    "id": "genesis-11-9-babylon",
     "book": "בראשית",
     "chapter": 11,
     "verse": 9,
@@ -820,7 +902,7 @@
     }
   },
   {
-    "id": "gen-11-28-ur",
+    "id": "genesis-11-28-ur",
     "book": "בראשית",
     "chapter": 11,
     "verse": 28,
@@ -902,7 +984,7 @@
     }
   },
   {
-    "id": "gen-11-31-haran",
+    "id": "genesis-11-31-haran",
     "book": "בראשית",
     "chapter": 11,
     "verse": 31,
@@ -984,7 +1066,7 @@
     }
   },
   {
-    "id": "gen-12-6-shechem",
+    "id": "genesis-12-6-shechem",
     "book": "בראשית",
     "chapter": 12,
     "verse": 6,
@@ -1066,7 +1148,7 @@
     }
   },
   {
-    "id": "gen-12-8-bethel",
+    "id": "genesis-12-8-bethel",
     "book": "בראשית",
     "chapter": 12,
     "verse": 8,
@@ -1148,7 +1230,7 @@
     }
   },
   {
-    "id": "gen-12-9-negev",
+    "id": "genesis-12-9-negev",
     "book": "בראשית",
     "chapter": 12,
     "verse": 9,
@@ -1230,7 +1312,7 @@
     }
   },
   {
-    "id": "gen-12-10-nile",
+    "id": "genesis-12-10-nile",
     "book": "בראשית",
     "chapter": 12,
     "verse": 10,
@@ -1312,7 +1394,7 @@
     }
   },
   {
-    "id": "gen-13-10-jordan",
+    "id": "genesis-13-10-jordan",
     "book": "בראשית",
     "chapter": 13,
     "verse": 10,
@@ -1394,7 +1476,7 @@
     }
   },
   {
-    "id": "gen-13-18-hebron",
+    "id": "genesis-13-18-hebron",
     "book": "בראשית",
     "chapter": 13,
     "verse": 18,
@@ -1476,7 +1558,89 @@
     }
   },
   {
-    "id": "gen-14-3-deadsea",
+    "id": "genesis-14-1-elam",
+    "book": "בראשית",
+    "chapter": 14,
+    "verse": 1,
+    "title": {
+      "he": "עילם — בין מסופוטמיה לזגרוס",
+      "en": "Elam: between Mesopotamia and the Zagros"
+    },
+    "placeKey": "elam",
+    "facts": [
+      {
+        "type": "F",
+        "he": "עילם השתרעה בדרום־מערב איראן, ממזרח למישור מסופוטמיה.",
+        "en": "Elam occupied southwestern Iran, east of the Mesopotamian plain.",
+        "source": "https://www.iranicaonline.org/articles/elam-i/"
+      },
+      {
+        "type": "F",
+        "he": "שושן הייתה מרכז עילמי חשוב במישור שושן שבשולי הזגרוס.",
+        "en": "Susa was a major Elamite centre in the Susiana plain at the Zagros margin.",
+        "source": "https://whc.unesco.org/en/list/1455/"
+      },
+      {
+        "type": "F",
+        "he": "תלי שושן נמצאים בגדה המזרחית של נהר שאוור.",
+        "en": "Susa's principal mounds stand on the eastern bank of the Shavur River.",
+        "source": "https://whc.unesco.org/en/list/1455/"
+      },
+      {
+        "type": "F",
+        "he": "מיקום שושן קישר בין תרבויות מישור מסופוטמיה לרמה האיראנית.",
+        "en": "Susa's position connected Mesopotamian plain cultures with the Iranian plateau.",
+        "source": "https://whc.unesco.org/en/list/1455/"
+      },
+      {
+        "type": "F",
+        "he": "בשושן נחפרו שכבות יישוב ומבני מנהל, מגורים וארמונות מתקופות שונות.",
+        "en": "Susa yielded successive settlement layers and administrative, residential and palatial buildings.",
+        "source": "https://whc.unesco.org/en/list/1455/"
+      },
+      {
+        "type": "U",
+        "he": "כדרלעומר שבבראשית לא זוהה בביטחון עם מלך עילמי המוכר מן הכתובות.",
+        "en": "Genesis's Chedorlaomer has not been securely identified with an Elamite king known from inscriptions.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Chedorlaomer"
+      }
+    ],
+    "quote": {
+      "he": "וַיְהִי, בִּימֵי אַמְרָפֶל מֶלֶךְ שִׁנְעָר, אַרְיוֹךְ, מֶלֶךְ אֶלָּסָר. כְּדָרְלָעֹמֶר מֶלֶךְ עֵילָם, וְתִדְעָל מֶלֶךְ גּוֹיִם.",
+      "en": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;"
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_014/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 14 בלבד. הנוף והמבנים אינם תיעוד מזוהה של עילם.",
+        "en": "Artistic illustration for Genesis 14 only. Its landscape and buildings are not identified views of Elam."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/14-a2eb270c860221a93f85f860dead72c8.mp3?version_id=1",
+        "start": 2.88,
+        "end": 13.72
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0114.mp3",
+        "start": 2.98,
+        "end": 13.14
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-14-3-deadsea",
     "book": "בראשית",
     "chapter": 14,
     "verse": 3,
@@ -1558,7 +1722,171 @@
     }
   },
   {
-    "id": "gen-14-14-dan",
+    "id": "genesis-14-7-kadesh",
+    "book": "בראשית",
+    "chapter": 14,
+    "verse": 7,
+    "title": {
+      "he": "קדש — נווה מדבר ומצודות",
+      "en": "Kadesh: oasis and fortresses"
+    },
+    "placeKey": "kadesh",
+    "facts": [
+      {
+        "type": "U",
+        "he": "קדש ברנע מזוהה בדרך כלל עם תל אל־קודיראת בצפון־מזרח סיני; הזיהוי משוער.",
+        "en": "Kadesh-barnea is commonly identified with Tell el-Qudeirat in northeastern Sinai; the identification is tentative.",
+        "source": "https://publications.iaa.org.il/iaareports/44/"
+      },
+      {
+        "type": "F",
+        "he": "תל אל־קודיראת נמצא בנווה מדבר, בניגוד לשטחים הצחיחים סביבו.",
+        "en": "Tell el-Qudeirat occupies an oasis contrasting with the surrounding arid terrain.",
+        "source": "https://publications.iaa.org.il/iaareports/44/"
+      },
+      {
+        "type": "F",
+        "he": "החפירות חשפו שרידי מצודות מתקופת הברזל שנבנו זו מעל זו.",
+        "en": "Excavations revealed superimposed Iron Age fortress remains.",
+        "source": "https://publications.iaa.org.il/iaareports/44/"
+      },
+      {
+        "type": "F",
+        "he": "בין כלי החרס נמצאו כלים המכונים ״חרסי הנגב״, לצד כלים עשויים באובניים.",
+        "en": "The pottery includes so-called Negebite ware alongside wheel-made vessels.",
+        "source": "https://publications.iaa.org.il/iaareports/44/"
+      },
+      {
+        "type": "U",
+        "he": "מחקר מחודש חלק על פירוש חלק מהשלבים כמצודות נפרדות; הכרונולוגיה והבנייה נידונות במחקר.",
+        "en": "A reassessment disputed interpreting some phases as separate fortresses; chronology and architecture remain debated.",
+        "source": "https://cris.tau.ac.il/en/publications/kadesh-barnea-a-reevaluation-of-its-archaeology-and-history/"
+      },
+      {
+        "type": "B",
+        "he": "בראשית מכנה את התחנה ״עין משפט היא קדש״; המצודות אינן אימות למסע המלכים שבסיפור.",
+        "en": "Genesis calls the station “En-mishpat, that is Kadesh”; the forts do not verify the kings' campaign.",
+        "source": "https://www.sefaria.org/Genesis.14.7?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל עֵין מִשְׁפָּט, הִוא קָדֵשׁ, וַיַּכּוּ, אֶת כָּל שְׂדֵה הָעֲמָלֵקִי. וְגַם, אֶת הָאֱמֹרִי, הַיֹּשֵׁב, בְּחַצְצֹן תָּמָר.",
+      "en": "And they returned, and came to Enmishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_014/images/idea_02_v5-7.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 14 בלבד. הנוף והמבנים אינם תיעוד מזוהה של קדש.",
+        "en": "Artistic illustration for Genesis 14 only. Its landscape and buildings are not identified views of Kadesh."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/14-a2eb270c860221a93f85f860dead72c8.mp3?version_id=1",
+        "start": 57,
+        "end": 69.14
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0114.mp3",
+        "start": 68.44,
+        "end": 80.26
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-14-7-hazazon",
+    "book": "בראשית",
+    "chapter": 14,
+    "verse": 7,
+    "title": {
+      "he": "חצצון תמר — זיקה לעין גדי",
+      "en": "Hazazon-tamar: a link with En-gedi"
+    },
+    "placeKey": "hazazon",
+    "facts": [
+      {
+        "type": "U",
+        "he": "דברי הימים ב׳ כ׳ מזהה את חצצון תמר עם עין גדי; החלת הזיהוי על בראשית היא פרשנות מקראית.",
+        "en": "Second Chronicles 20 equates Hazazon-tamar with En-gedi; applying this to Genesis is a biblical interpretation.",
+        "source": "https://www.sefaria.org/2_Chronicles.20.2?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "עין גדי נמצאת במורדות מדבר יהודה, בצדו המערבי של ים המלח.",
+        "en": "En-gedi lies on the Judean Desert slopes west of the Dead Sea.",
+        "source": "https://www.parks.org.il/reserve-park/שמורת-טבע-עין-גדי/"
+      },
+      {
+        "type": "F",
+        "he": "ארבעה מעיינות עיקריים מזינים את נווה עין גדי.",
+        "en": "Four main springs feed the En-gedi oasis.",
+        "source": "https://www.parks.org.il/trip/david/"
+      },
+      {
+        "type": "F",
+        "he": "נחל דוד ונחל ערוגות מקיימים מקטעים זורמים גם בעונה היבשה.",
+        "en": "Nahal David and Nahal Arugot maintain flowing stretches in the dry season.",
+        "source": "https://www.parks.org.il/trip/david/"
+      },
+      {
+        "type": "F",
+        "he": "ליד מעיין עין גדי התגלו שרידי מקדש כלקוליתי, הקדום לתקופת המלוכה.",
+        "en": "Near En-gedi spring are remains of a Chalcolithic temple predating the monarchy.",
+        "source": "https://www.parks.org.il/reserve-park/שמורת-טבע-עין-גדי/"
+      },
+      {
+        "type": "F",
+        "he": "מעלות תלולים עולים מן הנווה אל רמת המדבר, וממחישים את הקושי בתנועה מן החוף להר.",
+        "en": "Steep ascents connect the oasis to the desert plateau, illustrating difficult movement from shore to uplands.",
+        "source": "https://www.parks.org.il/reserve-park/שמורת-טבע-עין-גדי/"
+      }
+    ],
+    "quote": {
+      "he": "וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל עֵין מִשְׁפָּט, הִוא קָדֵשׁ, וַיַּכּוּ, אֶת כָּל שְׂדֵה הָעֲמָלֵקִי. וְגַם, אֶת הָאֱמֹרִי, הַיֹּשֵׁב, בְּחַצְצֹן תָּמָר.",
+      "en": "And they returned, and came to Enmishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_014/images/idea_02_v5-7.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 14 בלבד. הנוף והמבנים אינם תיעוד מזוהה של חצצון תמר.",
+        "en": "Artistic illustration for Genesis 14 only. Its landscape and buildings are not identified views of Hazazon-tamar."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/14-a2eb270c860221a93f85f860dead72c8.mp3?version_id=1",
+        "start": 57,
+        "end": 69.14
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0114.mp3",
+        "start": 68.44,
+        "end": 80.26
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-14-14-dan",
     "book": "בראשית",
     "chapter": 14,
     "verse": 14,
@@ -1640,7 +1968,7 @@
     }
   },
   {
-    "id": "gen-14-15-damascus",
+    "id": "genesis-14-15-damascus",
     "book": "בראשית",
     "chapter": 14,
     "verse": 15,
@@ -1722,7 +2050,7 @@
     }
   },
   {
-    "id": "gen-14-18-jerusalem",
+    "id": "genesis-14-18-jerusalem",
     "book": "בראשית",
     "chapter": 14,
     "verse": 18,
@@ -1804,7 +2132,7 @@
     }
   },
   {
-    "id": "gen-16-7-shur",
+    "id": "genesis-16-7-shur",
     "book": "בראשית",
     "chapter": 16,
     "verse": 7,
@@ -1886,7 +2214,89 @@
     }
   },
   {
-    "id": "gen-19-24-sodom",
+    "id": "genesis-19-23-zoar",
+    "book": "בראשית",
+    "chapter": 19,
+    "verse": 23,
+    "title": {
+      "he": "צוער — נווה בדרום ים המלח",
+      "en": "Zoar: an oasis south of the Dead Sea"
+    },
+    "placeKey": "zoar",
+    "facts": [
+      {
+        "type": "U",
+        "he": "צוער מזוהה במסורת הגאוגרפית עם אזור ע׳ור א־צאפי בדרום־מזרח ים המלח.",
+        "en": "Zoar is traditionally associated with Ghor es-Safi southeast of the Dead Sea.",
+        "source": "https://library.biblicalarchaeology.org/article/death-at-the-dead-sea/"
+      },
+      {
+        "type": "F",
+        "he": "מי ואדי אל־חסא מאפשרים חקלאות באזור ע׳ור א־צאפי הצחיח.",
+        "en": "Wadi al-Hasa's water supports agriculture in arid Ghor es-Safi.",
+        "source": "https://library.biblicalarchaeology.org/article/death-at-the-dead-sea/"
+      },
+      {
+        "type": "F",
+        "he": "מפת מידבא מן המאה השישית לספירה מציגה באזור עיר בשם זוארה.",
+        "en": "The sixth-century CE Madaba mosaic map depicts a town named Zoara in this area.",
+        "source": "https://publication.doa.gov.jo/uploads/publications/62/ADAJ_1987_31-439-459.pdf"
+      },
+      {
+        "type": "F",
+        "he": "בחורבת שייח׳ עיסא התגלו מבנים ופסיפסים של המרכז העירוני הביזנטי.",
+        "en": "Khirbet Sheikh Isa yielded buildings and mosaics of the Byzantine urban centre.",
+        "source": "https://library.biblicalarchaeology.org/article/death-at-the-dead-sea/"
+      },
+      {
+        "type": "F",
+        "he": "מצבות באזור נושאות כתובות יווניות וארמיות יהודיות מן התקופה הביזנטית.",
+        "en": "Local funerary stelae bear Greek and Jewish Aramaic inscriptions from Byzantine times.",
+        "source": "https://publication.doa.gov.jo/uploads/publications/16/SHAJ_11-143-157.pdf"
+      },
+      {
+        "type": "B",
+        "he": "הגעת לוט לצוער היא מסורת בראשית; השרידים הביזנטיים מאוחרים ואינם אימות לאירוע.",
+        "en": "Lot's arrival at Zoar belongs to Genesis tradition; the later Byzantine remains do not verify it.",
+        "source": "https://www.sefaria.org/Genesis.19.23?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "הַשֶּׁמֶשׁ, יָצָא עַל הָאָרֶץ. וְלוֹט, בָּא צֹעֲרָה.",
+      "en": "The sun was risen upon the earth when Lot entered into Zoar."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_019/images/idea_06_v23-26.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 19 בלבד. הנוף והמבנים אינם תיעוד מזוהה של צוער.",
+        "en": "Artistic illustration for Genesis 19 only. Its landscape and buildings are not identified views of Zoar."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/19-206164718f9ac65dca92b1a76f2aaff4.mp3?version_id=1",
+        "start": 248.44,
+        "end": 254.4
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0119.mp3",
+        "start": 267.27,
+        "end": 272.98
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-19-24-sodom",
     "book": "בראשית",
     "chapter": 19,
     "verse": 24,
@@ -1968,7 +2378,7 @@
     }
   },
   {
-    "id": "gen-19-26-sedom",
+    "id": "genesis-19-26-sedom",
     "book": "בראשית",
     "chapter": 19,
     "verse": 26,
@@ -2050,7 +2460,7 @@
     }
   },
   {
-    "id": "gen-20-1-gerar",
+    "id": "genesis-20-1-gerar",
     "book": "בראשית",
     "chapter": 20,
     "verse": 1,
@@ -2132,7 +2542,7 @@
     }
   },
   {
-    "id": "gen-21-14-beersheba",
+    "id": "genesis-21-14-beersheba",
     "book": "בראשית",
     "chapter": 21,
     "verse": 14,
@@ -2214,7 +2624,7 @@
     }
   },
   {
-    "id": "gen-21-21-paran",
+    "id": "genesis-21-21-paran",
     "book": "בראשית",
     "chapter": 21,
     "verse": 21,
@@ -2296,7 +2706,7 @@
     }
   },
   {
-    "id": "gen-21-31-beersheba",
+    "id": "genesis-21-31-beersheba",
     "book": "בראשית",
     "chapter": 21,
     "verse": 31,
@@ -2378,7 +2788,7 @@
     }
   },
   {
-    "id": "gen-22-2-moriah",
+    "id": "genesis-22-2-moriah",
     "book": "בראשית",
     "chapter": 22,
     "verse": 2,
@@ -2460,7 +2870,7 @@
     }
   },
   {
-    "id": "gen-23-19-machpelah",
+    "id": "genesis-23-19-machpelah",
     "book": "בראשית",
     "chapter": 23,
     "verse": 19,
@@ -2542,7 +2952,171 @@
     }
   },
   {
-    "id": "gen-26-17-gerarWells",
+    "id": "genesis-25-3-dedan",
+    "book": "בראשית",
+    "chapter": 25,
+    "verse": 3,
+    "title": {
+      "he": "דדן — נווה על דרך השיירות",
+      "en": "Dedan: a caravan-route oasis"
+    },
+    "placeKey": "dedan",
+    "facts": [
+      {
+        "type": "U",
+        "he": "דדן המקראית מקושרת בדרך כלל לדדאן שבנווה אל־עולא בצפון־מערב ערב; רשימת היוחסין אינה כתובת מקומית.",
+        "en": "Biblical Dedan is commonly linked with Dadan in the AlUla oasis of northwestern Arabia; the genealogy is not a local inscription.",
+        "source": "https://www.experiencealula.com/en/places-to-go/dadan"
+      },
+      {
+        "type": "F",
+        "he": "דדאן נמצאת בעמק אל־עולא ולא באתר הנבטי חגרא שמצפון לה.",
+        "en": "Dadan lies in the AlUla valley, distinct from the Nabataean site of Hegra farther north.",
+        "source": "https://www.experiencealula.com/en/places-to-go/dadan"
+      },
+      {
+        "type": "F",
+        "he": "קברי סלע חצובים במצוקי אבן החול שמעל היישוב הקדום.",
+        "en": "Rock-cut tombs occupy sandstone cliffs above the ancient settlement.",
+        "source": "https://www.experiencealula.com/en/places-to-go/dadan"
+      },
+      {
+        "type": "F",
+        "he": "תבליטי אריות מסמנים כמה מן הקברים הידועים באתר.",
+        "en": "Lion reliefs mark some of the site's best-known tombs.",
+        "source": "https://www.experiencealula.com/en/places-to-go/dadan"
+      },
+      {
+        "type": "F",
+        "he": "כתובות דדאניות ולחיאניות מעידות על תרבויות מקומיות שקדמו לשלטון הנבטי באזור.",
+        "en": "Dadanitic and Lihyanite inscriptions attest local cultures preceding Nabataean rule in the region.",
+        "source": "https://cefrepa.cnrs.fr/wp-content/uploads/2024/04/Rapport-dactivite-2022.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מיקום הנווה שילב מקורות מים וחקלאות עם דרכי השיירות של מערב ערב.",
+        "en": "The oasis combined water and farming with western Arabian caravan routes.",
+        "source": "https://cefrepa.cnrs.fr/wp-content/uploads/2024/04/Rapport-dactivite-2022.pdf"
+      }
+    ],
+    "quote": {
+      "he": "וְיָקְשָׁן יָלַד, אֶת שְׁבָא וְאֶת דְּדָן. וּבְנֵי דְדָן, הָיוּ אַשּׁוּרִם וּלְטוּשִׁם וּלְאֻמִּים.",
+      "en": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_025/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 25 בלבד. הנוף והמבנים אינם תיעוד מזוהה של דדן.",
+        "en": "Artistic illustration for Genesis 25 only. Its landscape and buildings are not identified views of Dedan."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/25-6fa59671dbd118d2695b83e7f6c0e5dc.mp3?version_id=1",
+        "start": 15.24,
+        "end": 25.62
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0125.mp3",
+        "start": 15.94,
+        "end": 24.34
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-25-3-sheba",
+    "book": "בראשית",
+    "chapter": 25,
+    "verse": 3,
+    "title": {
+      "he": "שבא — סכר וחקלאות בדרום ערב",
+      "en": "Sheba: dam and agriculture in South Arabia"
+    },
+    "placeKey": "sheba",
+    "facts": [
+      {
+        "type": "U",
+        "he": "השם שבא מקושר לממלכת סבא בדרום ערב; רשימות היוחסין אינן מפה מדויקת של גבולותיה.",
+        "en": "Sheba is associated with South Arabia's kingdom of Saba; genealogies do not map its precise borders.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      },
+      {
+        "type": "F",
+        "he": "מאריב, בתימן של ימינו, הייתה מרכז של ממלכת סבא.",
+        "en": "Marib, in present-day Yemen, was a centre of the Sabaean kingdom.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      },
+      {
+        "type": "F",
+        "he": "סכר מאריב הוביל מים למערכת תעלות השקיה מצפון לעיר ומדרומה.",
+        "en": "Marib's dam fed irrigation canals north and south of the city.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      },
+      {
+        "type": "F",
+        "he": "ההשקיה אפשרה פיתוח נווה חקלאי רחב בתוך סביבה צחיחה.",
+        "en": "Irrigation sustained an extensive agricultural oasis in an arid environment.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      },
+      {
+        "type": "F",
+        "he": "העיר המבוצרת סירוואח נמצאת ממערב למאריב, כחלק מאותה מערכת שלטונית.",
+        "en": "The fortified town of Sirwah west of Marib formed part of the same political system.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      },
+      {
+        "type": "F",
+        "he": "השליטה בסחר הבשמים חיברה את סבא לנתיבים שהובילו צפונה לים התיכון.",
+        "en": "Control of incense trade linked Saba with routes leading north toward the Mediterranean.",
+        "source": "https://whc.unesco.org/en/list/1700/"
+      }
+    ],
+    "quote": {
+      "he": "וְיָקְשָׁן יָלַד, אֶת שְׁבָא וְאֶת דְּדָן. וּבְנֵי דְדָן, הָיוּ אַשּׁוּרִם וּלְטוּשִׁם וּלְאֻמִּים.",
+      "en": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_025/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 25 בלבד. הנוף והמבנים אינם תיעוד מזוהה של שבא.",
+        "en": "Artistic illustration for Genesis 25 only. Its landscape and buildings are not identified views of Sheba."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/25-6fa59671dbd118d2695b83e7f6c0e5dc.mp3?version_id=1",
+        "start": 15.24,
+        "end": 25.62
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0125.mp3",
+        "start": 15.94,
+        "end": 24.34
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-26-17-gerarWells",
     "book": "בראשית",
     "chapter": 26,
     "verse": 17,
@@ -2624,7 +3198,7 @@
     }
   },
   {
-    "id": "gen-28-19-bethel2",
+    "id": "genesis-28-19-bethel2",
     "book": "בראשית",
     "chapter": 28,
     "verse": 19,
@@ -2706,7 +3280,7 @@
     }
   },
   {
-    "id": "gen-31-21-gilead",
+    "id": "genesis-31-21-gilead",
     "book": "בראשית",
     "chapter": 31,
     "verse": 21,
@@ -2788,7 +3362,89 @@
     }
   },
   {
-    "id": "gen-32-23-jabbok",
+    "id": "genesis-32-3-mahanaim",
+    "book": "בראשית",
+    "chapter": 32,
+    "verse": 3,
+    "title": {
+      "he": "מחניים — שתי גבעות וזיהוי משוער",
+      "en": "Mahanaim: twin hills and a tentative identification"
+    },
+    "placeKey": "mahanaim",
+    "facts": [
+      {
+        "type": "U",
+        "he": "מחניים הוצעה לזיהוי עם התל המערבי בתלול א־דהב שבעמק הזרקא; אין הסכמה מלאה.",
+        "en": "Mahanaim has been proposed for the western Tulul adh-Dhahab mound in the Zarqa Valley; consensus is lacking.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/03344355.2024.2385148"
+      },
+      {
+        "type": "F",
+        "he": "תלול א־דהב מורכב משתי גבעות בצדי נוף הנהר של הגלעד.",
+        "en": "Tulul adh-Dhahab comprises two hills in Gilead's river landscape.",
+        "source": "https://publication.doa.gov.jo/uploads/publications/26/ADAJ_2013_57.pdf"
+      },
+      {
+        "type": "F",
+        "he": "העמק נמצא ממזרח לבקעת הירדן, סמוך לציר המוביל אל פנים הגלעד.",
+        "en": "The valley lies east of the Jordan Valley on an approach into inland Gilead.",
+        "source": "https://publication.doa.gov.jo/uploads/publications/26/ADAJ_2013_57.pdf"
+      },
+      {
+        "type": "F",
+        "he": "באתר התגלו אבני בנייה מעוטרות בתבליטים מן האלף הראשון לפנה״ס.",
+        "en": "The site yielded decorated building stones with first-millennium BCE reliefs.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/03344355.2024.2385148"
+      },
+      {
+        "type": "U",
+        "he": "פירוש האבנים כשרידי מבנה מנהל ישראלי הוא הצעה מחקרית, לא כתובת המוכיחה את שם העיר.",
+        "en": "Interpreting the stones as an Israelite administrative residence is a hypothesis, not an inscription establishing the town's name.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/03344355.2024.2385148"
+      },
+      {
+        "type": "B",
+        "he": "בראשית מסביר את השם באמצעות מפגש יעקב עם מלאכים; שתי גבעות אינן אימות להסבר השם.",
+        "en": "Genesis explains the name through Jacob's angelic encounter; twin hills do not verify that explanation.",
+        "source": "https://www.sefaria.org/Genesis.32.3?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיֹּאמֶר יַעֲקֹב כַּאֲשֶׁר רָאָם.\"מַחֲנֵה אֱלֹהִים זֶה\". וַיִּקְרָא שֵׁם הַמָּקוֹם הַהוּא, מַחֲנָיִם.",
+      "en": "And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim."
+    },
+    "era": {
+      "he": "מסורת האבות — ללא תיארוך מוסכם",
+      "en": "Patriarchal tradition — no agreed dating"
+    },
+    "image": {
+      "src": "בראשית/chapter_032/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק בראשית 32 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מחניים.",
+        "en": "Artistic illustration for Genesis 32 only. Its landscape and buildings are not identified views of Mahanaim."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/GEN/32-6aea27853bd1cfcb1095ffd839f91dfc.mp3?version_id=1",
+        "start": 15.96,
+        "end": 22.38
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0132.mp3",
+        "start": 18.22,
+        "end": 27.74
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "genesis-32-23-jabbok",
     "book": "בראשית",
     "chapter": 32,
     "verse": 23,
@@ -2870,7 +3526,7 @@
     }
   },
   {
-    "id": "gen-32-32-penuel",
+    "id": "genesis-32-32-penuel",
     "book": "בראשית",
     "chapter": 32,
     "verse": 32,
@@ -2952,7 +3608,7 @@
     }
   },
   {
-    "id": "gen-33-17-succoth",
+    "id": "genesis-33-17-succoth",
     "book": "בראשית",
     "chapter": 33,
     "verse": 17,
@@ -3034,7 +3690,7 @@
     }
   },
   {
-    "id": "gen-35-19-bethlehem",
+    "id": "genesis-35-19-bethlehem",
     "book": "בראשית",
     "chapter": 35,
     "verse": 19,
@@ -3116,7 +3772,7 @@
     }
   },
   {
-    "id": "gen-36-8-edom",
+    "id": "genesis-36-8-edom",
     "book": "בראשית",
     "chapter": 36,
     "verse": 8,
@@ -3198,7 +3854,7 @@
     }
   },
   {
-    "id": "gen-37-17-dothan",
+    "id": "genesis-37-17-dothan",
     "book": "בראשית",
     "chapter": 37,
     "verse": 17,
@@ -3280,7 +3936,7 @@
     }
   },
   {
-    "id": "gen-38-1-adullam",
+    "id": "genesis-38-1-adullam",
     "book": "בראשית",
     "chapter": 38,
     "verse": 1,
@@ -3362,7 +4018,7 @@
     }
   },
   {
-    "id": "gen-41-45-on",
+    "id": "genesis-41-45-on",
     "book": "בראשית",
     "chapter": 41,
     "verse": 45,
@@ -3444,7 +4100,7 @@
     }
   },
   {
-    "id": "gen-45-10-goshen",
+    "id": "genesis-45-10-goshen",
     "book": "בראשית",
     "chapter": 45,
     "verse": 10,
@@ -3526,7 +4182,7 @@
     }
   },
   {
-    "id": "gen-47-11-rameses",
+    "id": "genesis-47-11-rameses",
     "book": "בראשית",
     "chapter": 47,
     "verse": 11,
@@ -3608,7 +4264,7 @@
     }
   },
   {
-    "id": "gen-49-13-zebulun",
+    "id": "genesis-49-13-zebulun",
     "book": "בראשית",
     "chapter": 49,
     "verse": 13,
@@ -3681,6 +4337,3076 @@
         "url": "https://mechon-mamre.org/mp3/t0149.mp3",
         "start": 118.99,
         "end": 127.19
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-1-11-pithom",
+    "book": "שמות",
+    "chapter": 1,
+    "verse": 11,
+    "title": {
+      "he": "פיתום — שני אתרים מוצעים בוואדי",
+      "en": "Pithom: two proposed sites in a wadi"
+    },
+    "placeKey": "pithom",
+    "facts": [
+      {
+        "type": "U",
+        "he": "פיתום הוצעה לזיהוי הן בתל א־רטאבה והן בתל א־מסחוטה שבוואדי תומילאת.",
+        "en": "Pithom has been proposed at both Tell el-Retaba and Tell el-Maskhuta in Wadi Tumilat.",
+        "source": "https://www.archeologia.uw.edu.pl/tell-el-retaba-egipska-twierdza-w-wadi-toumilat/"
+      },
+      {
+        "type": "F",
+        "he": "תל א־רטאבה נמצא בחלקו המרכזי של הוואדי, בנתיב שחיבר את מצרים ללבנט.",
+        "en": "Tell el-Retaba lies in the wadi's central part on a route linking Egypt with the Levant.",
+        "source": "https://www.archeologia.uw.edu.pl/tell-el-retaba-egipska-twierdza-w-wadi-toumilat/"
+      },
+      {
+        "type": "F",
+        "he": "בתל א־רטאבה נחפרו שרידי מבצר מן הממלכה החדשה ויישוב מאוחר יותר.",
+        "en": "Tell el-Retaba yielded New Kingdom fortress remains and a later settlement.",
+        "source": "https://www.archeologia.uw.edu.pl/tell-el-retaba-egipska-twierdza-w-wadi-toumilat/"
+      },
+      {
+        "type": "F",
+        "he": "תל א־מסחוטה נמצא בחלקו המזרחי של הוואדי, ממערב לאסמאעיליה.",
+        "en": "Tell el-Maskhuta lies in the eastern wadi west of Ismailia.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/588344"
+      },
+      {
+        "type": "F",
+        "he": "השם המצרי פר־אתום, ״בית אתום״, מופיע בהקשר של תל א־מסחוטה.",
+        "en": "The Egyptian name Per-Atum, “house of Atum,” occurs in connection with Tell el-Maskhuta.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/588344"
+      },
+      {
+        "type": "B",
+        "he": "״ערי מסכנות״ הוא תיאור מקראי; עצם גילוי מחסן אינו מזהה את הפועלים שבספר שמות.",
+        "en": "“Store cities” is the biblical description; finding a storehouse does not identify the workers in Exodus.",
+        "source": "https://www.sefaria.org/Exodus.1.11?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיָּשִׂימוּ עָלָיו שָׂרֵי מִסִּים, לְמַעַן עַנֹּתוֹ בְּסִבְלֹתָם. וַיִּבֶן עָרֵי מִסְכְּנוֹת, לְפַרְעֹה. אֶת פִּתֹם, וְאֶת רַעַמְסֵס.",
+      "en": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_001/images/idea_02_v8-12.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 1 בלבד. הנוף והמבנים אינם תיעוד מזוהה של פיתום.",
+        "en": "Artistic illustration for Exodus 1 only. Its landscape and buildings are not identified views of Pithom."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/1-ad601a0c698ba8c6bbb57f3f0b47c8f2.mp3?version_id=1",
+        "start": 68.98,
+        "end": 78.4
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0201.mp3",
+        "start": 69.19,
+        "end": 79.93
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-1-11-ramesesWorkshops",
+    "book": "שמות",
+    "chapter": 1,
+    "verse": 11,
+    "title": {
+      "he": "רעמסס — סדנאות ובסיס מרכבות",
+      "en": "Rameses: workshops and a chariot base"
+    },
+    "placeKey": "ramesesWorkshops",
+    "facts": [
+      {
+        "type": "F",
+        "he": "בקנטיר, אתר פי־רעמסס, התגלו מתקני יציקת ברונזה גדולים.",
+        "en": "Qantir, the site of Pi-Ramesses, yielded large bronze-casting installations.",
+        "source": "https://cris.unibo.it/handle/11585/904670"
+      },
+      {
+        "type": "F",
+        "he": "נמצאו גם עדויות לייצור זכוכית ולצביעתה, ובהן זכוכית אדומה.",
+        "en": "Evidence of glass production and colouring includes red glass.",
+        "source": "https://cris.unibo.it/handle/11585/904670"
+      },
+      {
+        "type": "F",
+        "he": "סדנאות פאיאנס יצרו פריטי עיטור אדריכלי וחפצים קטנים.",
+        "en": "Faience workshops produced architectural decoration and small objects.",
+        "source": "https://cris.unibo.it/handle/11585/904670"
+      },
+      {
+        "type": "F",
+        "he": "מתחם המרכבות כלל סדנאות, מגרש אימונים ואורוות לסוסים.",
+        "en": "The chariotry complex included workshops, a training ground and horse stables.",
+        "source": "https://cris.unibo.it/handle/11585/904670"
+      },
+      {
+        "type": "F",
+        "he": "טביעות פרסות שנשמרו במצע בוצי מתעדות פעילות סוסים במקום.",
+        "en": "Hoofprints preserved in muddy ground record horses' activity at the site.",
+        "source": "https://piramesse-exhibition.de/en/pferde-fuer-den-pharao/"
+      },
+      {
+        "type": "U",
+        "he": "הממצאים מלמדים על בירה מלכותית ותעשייה; הם אינם מזהים את בני ישראל כפועליה.",
+        "en": "The finds document a royal capital and industry; they do not identify Israelites as its workers.",
+        "source": "https://www.sefaria.org/Exodus.1.11?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיָּשִׂימוּ עָלָיו שָׂרֵי מִסִּים, לְמַעַן עַנֹּתוֹ בְּסִבְלֹתָם. וַיִּבֶן עָרֵי מִסְכְּנוֹת, לְפַרְעֹה. אֶת פִּתֹם, וְאֶת רַעַמְסֵס.",
+      "en": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_001/images/idea_02_v8-12.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 1 בלבד. הנוף והמבנים אינם תיעוד מזוהה של רעמסס.",
+        "en": "Artistic illustration for Exodus 1 only. Its landscape and buildings are not identified views of Rameses."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/1-ad601a0c698ba8c6bbb57f3f0b47c8f2.mp3?version_id=1",
+        "start": 68.98,
+        "end": 78.4
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0201.mp3",
+        "start": 69.19,
+        "end": 79.93
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-2-3-nileBank",
+    "book": "שמות",
+    "chapter": 2,
+    "verse": 3,
+    "title": {
+      "he": "שפת היאור — גדות, דלתה וסוף",
+      "en": "Nile bank: channels, delta and reeds"
+    },
+    "placeKey": "nileBank",
+    "facts": [
+      {
+        "type": "B",
+        "he": "משה מונח בסיפור ב״סוף על שפת היאור״, כלומר בסביבת גדת מים וצמחייה.",
+        "en": "The story places Moses among reeds at the Nile's edge, a vegetated waterside setting.",
+        "source": "https://www.sefaria.org/Exodus.2.3?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "לדלתת הנילוס שתי זרועות מודרניות עיקריות: רוזטה ודמיאט.",
+        "en": "The modern Nile Delta has two main branches: Rosetta and Damietta.",
+        "source": "https://www.nasa.gov/image-article/nile-delta-pictured-from-international-space-station/"
+      },
+      {
+        "type": "F",
+        "he": "במזרח הדלתה עבר בעבר הענף הפלוסי, שכיום אינו נהר פעיל כפי שהיה בעת העתיקה.",
+        "en": "The Pelusiac branch formerly crossed the eastern delta and is no longer an active ancient-style river channel.",
+        "source": "https://vias.univie.ac.at/en/projects/tell-el-daba/"
+      },
+      {
+        "type": "F",
+        "he": "אווריס הקדומה השתרעה לצד אותו ענף, שקישר את המרחב לנתיבי שיט.",
+        "en": "Ancient Avaris extended along that branch, connecting the area to navigable waterways.",
+        "source": "https://vias.univie.ac.at/en/projects/tell-el-daba/"
+      },
+      {
+        "type": "F",
+        "he": "הענף הקדום באזור אווריס נסתם בסחף במהלך האלף הראשון לפנה״ס.",
+        "en": "The ancient branch in the Avaris area silted up during the first millennium BCE.",
+        "source": "https://vias.univie.ac.at/en/projects/tell-el-daba/"
+      },
+      {
+        "type": "U",
+        "he": "אי אפשר לסמן את מקום התיבה על אחת הזרועות המודרניות; הסיפור אינו מוסר כתובת.",
+        "en": "The basket cannot be plotted on a particular modern branch; the story supplies no precise location.",
+        "source": "https://www.sefaria.org/Exodus.2.3?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וְלֹא יָכְלָה עוֹד, הַצְּפִינוֹ, וַתִּקַּח לוֹ תֵּבַת גֹּמֶא, וַתַּחְמְרָה בַחֵמָר וּבַזָּפֶת. וַתָּשֶׂם בָּהּ אֶת הַיֶּלֶד, וַתָּשֶׂם בַּסּוּף עַל שְׂפַת הַיְאֹר.",
+      "en": "And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_002/images/idea_02_v3-4.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 2 בלבד. הנוף והמבנים אינם תיעוד מזוהה של שפת היאור.",
+        "en": "Artistic illustration for Exodus 2 only. Its landscape and buildings are not identified views of Nile bank."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/2-8a404ea2c7dffbb559210a23398121de.mp3?version_id=1",
+        "start": 15.54,
+        "end": 28.74
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0202.mp3",
+        "start": 15.64,
+        "end": 29.41
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-2-15-midian",
+    "book": "שמות",
+    "chapter": 2,
+    "verse": 15,
+    "title": {
+      "he": "מדין — נאות צפון־מערב ערב",
+      "en": "Midian: oases of northwestern Arabia"
+    },
+    "placeKey": "midian",
+    "facts": [
+      {
+        "type": "U",
+        "he": "מדין מקושרת בדרך כלל לצפון־מערב ערב הסעודית; גבולותיה במקרא אינם מדויקים.",
+        "en": "Midian is generally associated with northwestern Saudi Arabia; its biblical boundaries are imprecise.",
+        "source": "https://www.israeliarchaeology.org/מסע-בעקבות-קוּרָאיָה-עיר-מִדְיָן/"
+      },
+      {
+        "type": "F",
+        "he": "קוראיה היא נווה קדום במחוז תבוכ, בפנים היבשה ממזרח לחוף ים סוף.",
+        "en": "Qurayyah is an ancient oasis in Tabuk province, inland east of the Red Sea coast.",
+        "source": "https://www.israeliarchaeology.org/מסע-בעקבות-קוּרָאיָה-עיר-מִדְיָן/"
+      },
+      {
+        "type": "F",
+        "he": "היישוב הקבוע בקוראיה התבסס על מערכת לאיסוף מי נגר עילי.",
+        "en": "Permanent settlement at Qurayyah relied on a surface-water harvesting system.",
+        "source": "https://whitelevy.fas.harvard.edu/unearthing-qurayyah-i-report-2015-2019-excavation-seasons"
+      },
+      {
+        "type": "F",
+        "he": "בקוראיה יוצרו כלי החרס המעוטרים שכונו בעבר ״קרמיקה מדיינית״.",
+        "en": "Qurayyah produced painted pottery formerly called “Midianite ware.”",
+        "source": "https://whitelevy.fas.harvard.edu/unearthing-qurayyah-i-report-2015-2019-excavation-seasons"
+      },
+      {
+        "type": "F",
+        "he": "כלים מטיפוס זה נמצאו גם במקדש המצרי בתמנע ובאתרים בדרום הלבנט.",
+        "en": "This pottery also occurs at Timna's Egyptian shrine and at southern Levantine sites.",
+        "source": "https://whitelevy.fas.harvard.edu/unearthing-qurayyah-i-report-2015-2019-excavation-seasons"
+      },
+      {
+        "type": "U",
+        "he": "קשרים חומריים בין האתרים אינם מוכיחים את מקום מגורי משה או את זהות יתרו.",
+        "en": "Material connections between sites do not establish Moses's residence or Jethro's identity.",
+        "source": "https://www.sefaria.org/Exodus.2.15?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּשְׁמַע פַּרְעֹה אֶת הַדָּבָר הַזֶּה, וַיְבַקֵּשׁ לַהֲרֹג אֶת מֹשֶׁה. וַיִּבְרַח מֹשֶׁה מִפְּנֵי פַרְעֹה, וַיֵּשֶׁב בְּאֶרֶץ מִדְיָן וַיֵּשֶׁב עַל הַבְּאֵר.",
+      "en": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_002/images/idea_06_v15-17.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 2 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מדין.",
+        "en": "Artistic illustration for Exodus 2 only. Its landscape and buildings are not identified views of Midian."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/2-8a404ea2c7dffbb559210a23398121de.mp3?version_id=1",
+        "start": 134.46,
+        "end": 145.44
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0202.mp3",
+        "start": 152.82,
+        "end": 165.35
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-3-1-horeb",
+    "book": "שמות",
+    "chapter": 3,
+    "verse": 1,
+    "title": {
+      "he": "חורב — הר ומסורת זיהוי",
+      "en": "Horeb: a mountain and a tradition of identification"
+    },
+    "placeKey": "horeb",
+    "facts": [
+      {
+        "type": "B",
+        "he": "משה מגיע בסיפור אל ״הר האלהים חרבה״ בעת רעיית הצאן.",
+        "en": "In the narrative Moses reaches Horeb, the mountain of God, while tending sheep.",
+        "source": "https://www.sefaria.org/Exodus.3.1?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "ג׳בל מוסא בדרום סיני הוא זיהוי מסורתי של ההר; אין זיהוי ארכאולוגי מוסכם.",
+        "en": "Jebel Musa in southern Sinai is a traditional identification; there is no agreed archaeological identification.",
+        "source": "https://whc.unesco.org/en/list/954/"
+      },
+      {
+        "type": "F",
+        "he": "מנזר סנטה קתרינה שוכן למרגלות ההר המסורתי בתוך נוף הררי תלול.",
+        "en": "Saint Catherine's Monastery stands below the traditional mountain in steep mountainous terrain.",
+        "source": "https://whc.unesco.org/en/list/954/"
+      },
+      {
+        "type": "F",
+        "he": "המנזר הוקם במאה השישית לספירה, הרבה אחרי התקופות המוצעות ליציאת מצרים.",
+        "en": "The monastery was founded in the sixth century CE, long after proposed Exodus periods.",
+        "source": "https://whc.unesco.org/en/list/954/"
+      },
+      {
+        "type": "F",
+        "he": "ג׳בל מוסא וג׳בל צפצפה יוצרים גוש הררי המופרד מסביבתו בעמקים.",
+        "en": "Jebel Musa and Jebel Sufsafa form a mountain unit separated from its surroundings by valleys.",
+        "source": "https://www.jstor.org/stable/j.ctt1fzhf4v.8"
+      },
+      {
+        "type": "U",
+        "he": "מסורת הסנה שבמתחם המנזר אינה זיהוי בוטני או ארכאולוגי של הסנה המקראי.",
+        "en": "The monastery's burning-bush tradition is not a botanical or archaeological identification of the biblical bush.",
+        "source": "https://www.sefaria.org/Exodus.3.2?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וּמֹשֶׁה, הָיָה רֹעֶה אֶת צֹאן יִתְרוֹ חֹתְנוֹ. כֹּהֵן מִדְיָן. וַיִּנְהַג אֶת הַצֹּאן אַחַר הַמִּדְבָּר, וַיָּבֹא אֶל הַר הָאֱלֹהִים חֹרֵבָה.",
+      "en": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_003/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 3 בלבד. הנוף והמבנים אינם תיעוד מזוהה של חורב.",
+        "en": "Artistic illustration for Exodus 3 only. Its landscape and buildings are not identified views of Horeb."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/3-5a922db8b1c3e465d0274b919269bd28.mp3?version_id=1",
+        "start": 2.88,
+        "end": 14.42
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0203.mp3",
+        "start": 3.89,
+        "end": 13.85
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-9-26-goshenLandscape",
+    "book": "שמות",
+    "chapter": 9,
+    "verse": 26,
+    "title": {
+      "he": "גושן — נוף הדלתה שנקבר",
+      "en": "Goshen: a buried delta landscape"
+    },
+    "placeKey": "goshenLandscape",
+    "facts": [
+      {
+        "type": "U",
+        "he": "תחום גושן אינו ידוע; ממצאי מזרח הדלתה נותנים רקע אזורי ולא מפה מדויקת שלה.",
+        "en": "Goshen's extent is unknown; eastern delta finds offer regional context rather than its precise map.",
+        "source": "https://classic.net.bible.org/dictionary.php?word=Goshen"
+      },
+      {
+        "type": "F",
+        "he": "המרחב העירוני של אווריס מכוסה כיום ברובו בשדות חקלאיים.",
+        "en": "Most of ancient Avaris's urban area is now covered by agricultural fields.",
+        "source": "https://vias.univie.ac.at/en/projects/tell-el-daba/"
+      },
+      {
+        "type": "F",
+        "he": "תעלת דידאמון וכביש מודרני חצו במאה העשרים את שטח היישוב הקדום.",
+        "en": "The Didamun canal and a modern road cut across the ancient settlement in the twentieth century.",
+        "source": "https://vias.univie.ac.at/en/projects/tell-el-daba/"
+      },
+      {
+        "type": "F",
+        "he": "מחקר נמל אווריס בוחן את הקשר בין שיט בנהר למסחר ימי.",
+        "en": "Research on Avaris's harbour examines connections between river transport and maritime trade.",
+        "source": "https://www.oeaw.ac.at/oeai/forschung/praehistorie-wana-archaeologie/archaeologie-in-aegypten-und-sudan/der-hafen-von-tell-el-dabʿa"
+      },
+      {
+        "type": "F",
+        "he": "במתחם פולחן באווריס נמצאו מקדשים מטיפוסים מצריים ולבנטיניים זה לצד זה.",
+        "en": "An Avaris cult precinct contained Egyptian and Levantine temple types side by side.",
+        "source": "https://www.oeaw.ac.at/oeai/forschung/praehistorie-wana-archaeologie/archaeologie-in-aegypten-und-sudan/tell-el-dabʿa-archaeologische-relikte-von-tempelritualen-im-sakralbezirk-a-ii-und-ihre-kulturhistorische-zuordnung"
+      },
+      {
+        "type": "B",
+        "he": "היעדר הברד בגושן הוא חלק מסיפור המכות; אין להסיק אותו מחפירות אווריס.",
+        "en": "Goshen's exemption from hail belongs to the plague narrative; it cannot be inferred from Avaris's excavations.",
+        "source": "https://www.sefaria.org/Exodus.9.26?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "רַק בְּאֶרֶץ גֹּשֶׁן, אֲשֶׁר שָׁם בְּנֵי יִשְׂרָאֵל. לֹא הָיָה, בָּרָד.",
+      "en": "Only in the land of Goshen, where the children of Israel were, was there no hail."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_009/images/idea_05_v22-26.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 9 בלבד. הנוף והמבנים אינם תיעוד מזוהה של גושן.",
+        "en": "Artistic illustration for Exodus 9 only. Its landscape and buildings are not identified views of Goshen."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/9-c2a9626d63ebe0c9945cafd1d797b348.mp3?version_id=1",
+        "start": 235.96,
+        "end": 241.04
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0209.mp3",
+        "start": 255.68,
+        "end": 260.6
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-12-37-succothEgypt",
+    "book": "שמות",
+    "chapter": 12,
+    "verse": 37,
+    "title": {
+      "he": "סוכות — מסדרון ואדי תומילאת",
+      "en": "Succoth: the Wadi Tumilat corridor"
+    },
+    "placeKey": "succothEgypt",
+    "facts": [
+      {
+        "type": "U",
+        "he": "סוכות של יציאת מצרים מקושרת במחקר לת׳כו שבמזרח הדלתה; הזיהוי המדויק שנוי במחלוקת.",
+        "en": "Exodus's Succoth is associated with Tjeku in the eastern delta; the exact identification is disputed.",
+        "source": "https://biblia.com/books/lbd/offset/9763013"
+      },
+      {
+        "type": "F",
+        "he": "ואדי תומילאת הוא מסדרון מזרחי מן הדלתה לעבר אזור אגמי התעלה.",
+        "en": "Wadi Tumilat is an eastward corridor from the delta toward the canal-lakes region.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/349398"
+      },
+      {
+        "type": "F",
+        "he": "תל א־מסחוטה נמצא בקצה המזרחי של הוואדי, בנקודת קשר לתנועה אל הלבנט.",
+        "en": "Tell el-Maskhuta stands in the eastern wadi at a connection toward the Levant.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/349398"
+      },
+      {
+        "type": "F",
+        "he": "בוואדי נחפרה בעת העתיקה תעלת שיט הקשורה למערכת ״תעלת הפרעונים״.",
+        "en": "An ancient navigable canal in the wadi belonged to the “Canal of the Pharaohs” system.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/588344"
+      },
+      {
+        "type": "F",
+        "he": "בדיקות משקעים באתר מבחינות בין תקופות של פעילות נהר לבין מישור סחף יציב יותר.",
+        "en": "Sediment studies distinguish phases of river activity from more stable alluvial-plain conditions.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/588344"
+      },
+      {
+        "type": "U",
+        "he": "תעלת הפרעונים ותעלת סואץ המודרנית אינן אותו תוואי; אין לצייר את התעלה המודרנית במסלול המקראי.",
+        "en": "The Pharaohs' Canal and modern Suez Canal are different routes; the modern canal must not appear on a biblical itinerary.",
+        "source": "https://iris.cnr.it/handle/20.500.14243/588344"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ בְנֵי יִשְׂרָאֵל מֵרַעְמְסֵס, סֻכֹּתָה, כְּשֵׁשׁ מֵאוֹת אֶלֶף רַגְלִי הַגְּבָרִים, לְבַד מִטָּף.",
+      "en": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_012/images/idea_11_v37-39.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 12 בלבד. הנוף והמבנים אינם תיעוד מזוהה של סוכות.",
+        "en": "Artistic illustration for Exodus 12 only. Its landscape and buildings are not identified views of Succoth."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/12-954d46a79f8dec51e758c9815a5f220d.mp3?version_id=1",
+        "start": 375.02,
+        "end": 383.72
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0212.mp3",
+        "start": 402.17,
+        "end": 410.14
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-13-17-philistineRoad",
+    "book": "שמות",
+    "chapter": 13,
+    "verse": 17,
+    "title": {
+      "he": "דרך ארץ פלשתים — החוף המבוצר",
+      "en": "Way of the Philistines: the fortified coastal route"
+    },
+    "placeKey": "philistineRoad",
+    "facts": [
+      {
+        "type": "F",
+        "he": "דרך החוף הצפונית של סיני חיברה את מזרח הדלתה עם דרום כנען.",
+        "en": "Northern Sinai's coastal route connected the eastern delta with southern Canaan.",
+        "source": "https://www.cambridge.org/core/books/abs/amenhotep-iii/international-trade-in-princesses-and-other-goods/4C77CF27023D8B628E837EA44C37062C"
+      },
+      {
+        "type": "F",
+        "he": "המצרים כינו את הציר הצבאי באזור ״דרכי חורוס״.",
+        "en": "The Egyptians called the military corridor in this region the “Ways of Horus.”",
+        "source": "https://www.cambridge.org/core/books/abs/amenhotep-iii/international-trade-in-princesses-and-other-goods/4C77CF27023D8B628E837EA44C37062C"
+      },
+      {
+        "type": "F",
+        "he": "לאורך הציר פעלו מצודות ותחנות פיקוח על תנועה בגבול.",
+        "en": "Forts and control stations regulated movement along the frontier corridor.",
+        "source": "https://www.cambridge.org/core/books/abs/amenhotep-iii/international-trade-in-princesses-and-other-goods/4C77CF27023D8B628E837EA44C37062C"
+      },
+      {
+        "type": "F",
+        "he": "תל חבואה מזוהה עם ת׳ארו, מרכז ביצורים מצרי במזרח הדלתה ובצפון סיני.",
+        "en": "Tell Heboua is identified with Tjaru, an Egyptian fortified centre at the delta–Sinai frontier.",
+        "source": "https://arce.org/event/arce-dc-egypts-eastern-gate-the-discovery-of-a-new-kingdom-fortress-in-north-sinai-by-dr-mohamed-abd-el-maksoud/"
+      },
+      {
+        "type": "F",
+        "he": "בתל אל־בורג, אתר אחר באזור הגבול, נחפרו שרידי מצודה מן הממלכה החדשה.",
+        "en": "Tell el-Borg, a separate frontier site, yielded New Kingdom fortress remains.",
+        "source": "https://www.cambridge.org/core/books/abs/amenhotep-iii/international-trade-in-princesses-and-other-goods/4C77CF27023D8B628E837EA44C37062C"
+      },
+      {
+        "type": "B",
+        "he": "המקרא מתאר הימנעות מדרך זו מחשש למלחמה; המצודות מספקות רקע, לא אימות למסלול מסוים.",
+        "en": "The Bible describes avoiding this road because of warfare; the forts provide context, not proof of a particular itinerary.",
+        "source": "https://www.sefaria.org/Exodus.13.17?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיְהִי, בְּשַׁלַּח פַּרְעֹה אֶת הָעָם, וְלֹא נָחָם אֱלֹהִים דֶּרֶךְ אֶרֶץ פְּלִשְׁתִּים, כִּי קָרוֹב הוּא: כִּי אָמַר אֱלֹהִים.\"פֶּן יִנָּחֵם הָעָם בִּרְאֹתָם מִלְחָמָה. וְשָׁבוּ מִצְרָיְמָה.״",
+      "en": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_013/images/idea_05_v17-18.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 13 בלבד. הנוף והמבנים אינם תיעוד מזוהה של דרך ארץ פלשתים.",
+        "en": "Artistic illustration for Exodus 13 only. Its landscape and buildings are not identified views of Way of the Philistines."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/13-43b4be2463c44969a8cfcc503d4cb636.mp3?version_id=1",
+        "start": 180.62,
+        "end": 196.84
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0213.mp3",
+        "start": 161.8,
+        "end": 183.73
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-14-21-seaCrossing",
+    "book": "שמות",
+    "chapter": 14,
+    "verse": 21,
+    "title": {
+      "he": "חציית הים — זיהוי שאינו מוסכם",
+      "en": "Crossing the sea: an unsettled identification"
+    },
+    "placeKey": "seaCrossing",
+    "facts": [
+      {
+        "type": "B",
+        "he": "הפסוק מתאר רוח קדים עזה הנושבת כל הלילה וים שנבקע.",
+        "en": "The verse describes a strong east wind blowing all night and a divided sea.",
+        "source": "https://www.sefaria.org/Exodus.14.21?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "ים סוף המודרני מתפצל בצפונו למפרץ סואץ ולמפרץ אילת.",
+        "en": "The modern Red Sea divides northward into the gulfs of Suez and Aqaba.",
+        "source": "https://yalebiblestudy.org/courses/exodus/lessons/crossing-of-the-sea-study-guide/"
+      },
+      {
+        "type": "F",
+        "he": "מפרץ סואץ נמצא ממערב לסיני, ואילו מפרץ אילת ממזרח לחצי האי.",
+        "en": "The Gulf of Suez lies west of Sinai; the Gulf of Aqaba lies east of the peninsula.",
+        "source": "https://yalebiblestudy.org/courses/exodus/lessons/crossing-of-the-sea-study-guide/"
+      },
+      {
+        "type": "B",
+        "he": "במלכים א׳ ט׳ השם ״ים סוף״ משמש גם לים שליד עציון גבר בארץ אדום.",
+        "en": "In First Kings 9, Yam Suph also names the sea beside Ezion-geber in Edom.",
+        "source": "https://www.sefaria.org/1_Kings.9.26?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "במחקר הוצעו גם אגמים וביצות במזרח מצרים, ולא רק אחד משני המפרצים.",
+        "en": "Research has also proposed lakes and marshes in eastern Egypt, not only the two gulfs.",
+        "source": "https://yalebiblestudy.org/courses/exodus/lessons/crossing-of-the-sea-study-guide/"
+      },
+      {
+        "type": "U",
+        "he": "תיאור הרוח אינו מזהה לבדו גוף מים מסוים, ולא נקבע אתר חצייה ארכאולוגי מוסכם.",
+        "en": "The wind description cannot identify a specific water body; no archaeological crossing site is agreed upon.",
+        "source": "https://yalebiblestudy.org/courses/exodus/lessons/crossing-of-the-sea-study-guide/"
+      }
+    ],
+    "quote": {
+      "he": "וַיֵּט מֹשֶׁה אֶת יָדוֹ, עַל הַיָּם, וַיּוֹלֶךְ יְהוָה אֶת הַיָּם בְּרוּחַ קָדִים עַזָּה כָּל הַלַּיְלָה, וַיָּשֶׂם אֶת הַיָּם לֶחָרָבָה. וַיִּבָּקְעוּ, הַמָּיִם.",
+      "en": "And Moses stretched out his hand over the sea; and the Lord caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_014/images/idea_06_v21-22.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 14 בלבד. הנוף והמבנים אינם תיעוד מזוהה של חציית הים.",
+        "en": "Artistic illustration for Exodus 14 only. Its landscape and buildings are not identified views of Crossing the sea."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/14-c105bdbf864fcb3d79c84582b9de47c9.mp3?version_id=1",
+        "start": 195.48,
+        "end": 208.14
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0214.mp3",
+        "start": 214.65,
+        "end": 229.81
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-15-27-elim",
+    "book": "שמות",
+    "chapter": 15,
+    "verse": 27,
+    "title": {
+      "he": "אילים — נווה ותחנת דרך",
+      "en": "Elim: an oasis and a way station"
+    },
+    "placeKey": "elim",
+    "facts": [
+      {
+        "type": "B",
+        "he": "הפסוק מתאר באילים שתים־עשרה עינות מים ושבעים תמרים; אלה נתוני הסיפור המקראי.",
+        "en": "The verse describes twelve springs and seventy palms at Elim; these are details of the biblical account.",
+        "source": "https://www.sefaria.org/Exodus.15.27?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "ואדי ע׳רנדל בסיני הוא זיהוי מסורתי לאילים, ולא זיהוי שהוכח בכתובת עתיקה.",
+        "en": "Wadi Gharandel in Sinai is a traditional identification of Elim, not one established by an ancient inscription.",
+        "source": "https://www.loc.gov/pictures/item/2019695636/"
+      },
+      {
+        "type": "F",
+        "he": "מקור המים וחורשת הדקלים בע׳רנדל שימשו תחנת דרך לעולי רגל ולנוסעים בסיני.",
+        "en": "Gharandel's spring and palm grove served as a way station for pilgrims and travellers in Sinai.",
+        "source": "https://www.loc.gov/pictures/item/2019695636/"
+      },
+      {
+        "type": "F",
+        "he": "במרחב הוואדי תועדו שרידי התיישבות נבטית ומוצב מן התקופה הרומית.",
+        "en": "The wadi area has documented Nabataean settlement remains and a Roman-period outpost.",
+        "source": "https://www.loc.gov/pictures/item/2019695636/"
+      },
+      {
+        "type": "F",
+        "he": "תועדו גם שרידי התיישבות נזירית ומערות התבודדות מן התקופה הביזנטית.",
+        "en": "Byzantine monastic settlement remains and hermit caves have also been documented.",
+        "source": "https://www.loc.gov/pictures/item/2019695636/"
+      },
+      {
+        "type": "U",
+        "he": "אין לבלבל בין ואדי ע׳רנדל בסיני לבין עין ע׳רנדל שבערבה הירדנית, שבו מצודה רומית אחרת.",
+        "en": "Sinai's Wadi Gharandel must not be confused with Ayn Gharandal in Jordan's Arabah, which has a different Roman fort.",
+        "source": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/late-roman-fort-at-ayn-gharandal-jordan-interim-report-on-the-20092014-field-seasons/BC8A2AC8B5B8CE6D8E8FD137B183BBD2"
+      }
+    ],
+    "quote": {
+      "he": "וַיָּבֹאוּ אֵילִמָה--וְשָׁם שְׁתֵּים עֶשְׂרֵה עֵינֹת מַיִם, וְשִׁבְעִים תְּמָרִים; וַיַּחֲנוּ-שָׁם, עַל-הַמָּיִם.",
+      "en": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
+    },
+    "quoteSourceHe": "https://mechon-mamre.org/p/pt/pt0215.htm",
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/To_Sinai_via_the_desert._Wady_Gharandel%2C_palms_of_Elim._LOC_matpc.01949.jpg/960px-To_Sinai_via_the_desert._Wady_Gharandel%2C_palms_of_Elim._LOC_matpc.01949.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "kind": "archive photograph",
+      "source": "https://www.loc.gov/pictures/item/2019695636/",
+      "rights": "No known restrictions on publication; Matson Collection, Library of Congress; American Colony Photo Department, approximately 1900–1920.",
+      "caption": {
+        "he": "תצלום ארכיוני של ואדי ע׳רנדל בסיני, בערך 1900–1920. אוסף מטסון, ספריית הקונגרס. זיהוי המקום עם אילים משוער.",
+        "en": "Archival photograph of Wadi Gharandel, Sinai, approximately 1900–1920. Matson Collection, Library of Congress. Identification with Elim is tentative."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/15-7860d846d04bf93efb4bbf626c73d939.mp3?version_id=1",
+        "start": 235.66,
+        "end": 252.8
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0215.mp3",
+        "start": 236.78,
+        "end": 244.58
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-16-1-wildernessSin",
+    "book": "שמות",
+    "chapter": 16,
+    "verse": 1,
+    "title": {
+      "he": "מדבר סין — שתי הצעות שונות",
+      "en": "Wilderness of Sin: two different proposals"
+    },
+    "placeKey": "wildernessSin",
+    "facts": [
+      {
+        "type": "B",
+        "he": "הכתוב ממקם את מדבר סין בין אילים לסיני, ולא נותן את גבולותיו.",
+        "en": "The text places the Wilderness of Sin between Elim and Sinai without defining its boundaries.",
+        "source": "https://www.sefaria.org/Exodus.16.1?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "מדבר סין נבדל ממדבר צין שבמרחב קדש והנגב הצפוני; אלה שני שמות מקראיים שונים.",
+        "en": "The Wilderness of Sin differs from Zin in the Kadesh–northern Negev region; they are distinct biblical names.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Wilderness-Sin"
+      },
+      {
+        "type": "U",
+        "he": "אחת ההצעות היא דבת א־רמלה, אזור חולי בפנים חצי האי סיני.",
+        "en": "One proposal is Debbet er-Ramleh, a sandy tract in the Sinai interior.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Wilderness-Sin"
+      },
+      {
+        "type": "U",
+        "he": "הצעה אחרת היא מישור אל־מרח׳ה בחוף המערבי של סיני; היא אינה אותו אתר.",
+        "en": "Another proposal is the el-Markha plain on Sinai's western coast; this is a different location.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Wilderness-Sin"
+      },
+      {
+        "type": "F",
+        "he": "דבת א־רמלה נמצאת במרחב שבין סרביט אל־ח׳אדם לשולי רמת א־תיה.",
+        "en": "Debbet er-Ramleh lies in the area between Serabit el-Khadim and the edge of the et-Tih plateau.",
+        "source": "https://www.openbible.info/geo/modern/mc53c05/debbet-er-ramleh"
+      },
+      {
+        "type": "B",
+        "he": "במדבר ל״ג מונה את דפקה ואלוש אחרי מדבר סין ולפני רפידים, ומוסיף תחנות למסלול שבשמות.",
+        "en": "Numbers 33 lists Dophkah and Alush after Sin and before Rephidim, adding stations to the Exodus itinerary.",
+        "source": "https://www.sefaria.org/Numbers.33.12?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ, מֵאֵילִם, וַיָּבֹאוּ כָּל עֲדַת בְּנֵי יִשְׂרָאֵל אֶל מִדְבַּר סִין, אֲשֶׁר בֵּין אֵילִם וּבֵין סִינָי. בַּחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ הַשֵּׁנִי, לְצֵאתָם מֵאֶרֶץ מִצְרָיִם.",
+      "en": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_016/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 16 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מדבר סין.",
+        "en": "Artistic illustration for Exodus 16 only. Its landscape and buildings are not identified views of Wilderness of Sin."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/16-11460291b70c92464ba6932c09c13787.mp3?version_id=1",
+        "start": 2.88,
+        "end": 18.38
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0216.mp3",
+        "start": 4.28,
+        "end": 16.98
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-17-1-rephidim",
+    "book": "שמות",
+    "chapter": 17,
+    "verse": 1,
+    "title": {
+      "he": "רפידים — ההצעה בוואדי פיראן",
+      "en": "Rephidim: the Wadi Feiran proposal"
+    },
+    "placeKey": "rephidim",
+    "facts": [
+      {
+        "type": "U",
+        "he": "רפידים זוהתה במסורת נוצרית עם אזור פיראן בדרום סיני; הזיהוי משוער.",
+        "en": "Christian tradition associated Rephidim with the Feiran area of southern Sinai; the identification is tentative.",
+        "source": "https://www.jstor.org/stable/j.ctt1fzhf4v.9"
+      },
+      {
+        "type": "F",
+        "he": "נווה פיראן נמצא מצפון להר סרבל, העולה מעל סביבתו.",
+        "en": "Feiran oasis lies north of Mount Serbal, which towers above it.",
+        "source": "https://www.loc.gov/item/2019705673/"
+      },
+      {
+        "type": "F",
+        "he": "אגן ואדי פיראן משלב מעלה הררי תלול עם חלק תחתון מתון יותר.",
+        "en": "The Feiran basin combines a steep mountainous upper zone with gentler lower terrain.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12711903/"
+      },
+      {
+        "type": "F",
+        "he": "במעלה האגן מצויים סלעי גרניט וסלעים מותמרים; בחלקו התחתון נחשפים גם סלעי משקע.",
+        "en": "The upper basin contains granite and metamorphic rocks; sedimentary rocks also appear downstream.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12711903/"
+      },
+      {
+        "type": "F",
+        "he": "היישוב הביזנטי פאראן שימש מרכז עירוני ובישופי ליד הנווה.",
+        "en": "Byzantine Pharan was an urban and episcopal centre beside the oasis.",
+        "source": "https://www.jstor.org/stable/j.ctt1fzhf4v.9"
+      },
+      {
+        "type": "B",
+        "he": "הפסוק מתאר מחסור במים ברפידים; נווה פיראן המאוחר אינו הוכחה למים שבקעו מן הצור.",
+        "en": "The verse describes a water shortage; later Feiran does not prove the water-from-the-rock event.",
+        "source": "https://www.sefaria.org/Exodus.17.1?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ כָּל עֲדַת בְּנֵי יִשְׂרָאֵל מִמִּדְבַּר סִין, לְמַסְעֵיהֶם. עַל פִּי יְהוָה. וַיַּחֲנוּ, בִּרְפִידִים, וְאֵין מַיִם, לִשְׁתֹּת הָעָם.",
+      "en": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the Lord, and pitched in Rephidim: and there was no water for the people to drink."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_017/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 17 בלבד. הנוף והמבנים אינם תיעוד מזוהה של רפידים.",
+        "en": "Artistic illustration for Exodus 17 only. Its landscape and buildings are not identified views of Rephidim."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/17-512f719c039e14398af55070ec6bb42d.mp3?version_id=1",
+        "start": 2.88,
+        "end": 14.74
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0217.mp3",
+        "start": 3.55,
+        "end": 13.69
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "exodus-19-2-sinaiCamp",
+    "book": "שמות",
+    "chapter": 19,
+    "verse": 2,
+    "title": {
+      "he": "מדבר סיני — רמה, עמקים ומחנה",
+      "en": "Sinai wilderness: massifs, valleys and a camp"
+    },
+    "placeKey": "sinaiCamp",
+    "facts": [
+      {
+        "type": "U",
+        "he": "מיקום המחנה ״נגד ההר״ אינו ידוע; התיאור המסורתי בדרום סיני הוא הצעת זיהוי.",
+        "en": "The camp “before the mountain” is unlocated; the southern Sinai setting is a traditional proposal.",
+        "source": "https://whc.unesco.org/en/list/954/"
+      },
+      {
+        "type": "F",
+        "he": "הרי דרום סיני בנויים בחלקם מסלעי יסוד וסלעים מותמרים קדומים.",
+        "en": "Southern Sinai's mountains include ancient igneous and metamorphic rocks.",
+        "source": "https://www.keybiodiversityareas.org/en/site/factsheet/6211/site"
+      },
+      {
+        "type": "F",
+        "he": "ג׳בל קתרינה גבוה מג׳בל מוסא; הפסגה הגבוהה ביותר אינה בהכרח ההר שבמסורת.",
+        "en": "Jebel Katherina is higher than Jebel Musa; the highest summit is not necessarily the traditionally identified mountain.",
+        "source": "https://www.keybiodiversityareas.org/en/site/factsheet/6211/site"
+      },
+      {
+        "type": "F",
+        "he": "מערכת ואדיות עמוקים מבתרת את גושי ההרים בדרום סיני.",
+        "en": "Deep wadis dissect the mountain massifs of southern Sinai.",
+        "source": "https://www.keybiodiversityareas.org/en/site/factsheet/6211/site"
+      },
+      {
+        "type": "F",
+        "he": "חלק מאגני הניקוז פונים מערבה למפרץ סואץ ואחרים מזרחה למפרץ אילת.",
+        "en": "Some drainage basins run west to the Gulf of Suez and others east to the Gulf of Aqaba.",
+        "source": "https://www.keybiodiversityareas.org/en/site/factsheet/6211/site"
+      },
+      {
+        "type": "B",
+        "he": "הבחנת הכתוב בין המחנה להר חשובה: זיהוי פסגה לבדה אינו מזהה את שטח חניית העם.",
+        "en": "The text distinguishes camp from mountain: identifying a summit alone does not locate the people's camping area.",
+        "source": "https://www.sefaria.org/Exodus.19.2?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ מֵרְפִידִים, וַיָּבֹאוּ מִדְבַּר סִינַי, וַיַּחֲנוּ, בַּמִּדְבָּר. וַיִּחַן שָׁם יִשְׂרָאֵל, נֶגֶד הָהָר.",
+      "en": "For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount."
+    },
+    "era": {
+      "he": "מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם",
+      "en": "Exodus and wilderness tradition — no agreed dating"
+    },
+    "image": {
+      "src": "שמות/chapter_019/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק שמות 19 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מדבר סיני.",
+        "en": "Artistic illustration for Exodus 19 only. Its landscape and buildings are not identified views of Sinai wilderness."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/19-1b1a8b211cab34139e25deba863a4eb5.mp3?version_id=1",
+        "start": 12.28,
+        "end": 22.6
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0219.mp3",
+        "start": 13.79,
+        "end": 22.63
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-13-21-hamath",
+    "book": "במדבר",
+    "chapter": 13,
+    "verse": 21,
+    "title": {
+      "he": "לבוא חמת — מרחב צפוני",
+      "en": "Lebo-hamath: a northern region"
+    },
+    "placeKey": "hamath",
+    "facts": [
+      {
+        "type": "U",
+        "he": "״לבוא חמת״ עשוי לציין כניסה למרחב חמת או שם מקום; אין לצמצמו אוטומטית לעיר חמה.",
+        "en": "“Lebo-hamath” may denote an approach to Hamath or a place-name; it should not automatically be reduced to Hama city.",
+        "source": "https://www.thetorah.com/article/defining-the-borders-of-the-land-of-canaan-numbers-34"
+      },
+      {
+        "type": "F",
+        "he": "חמת הקדומה מזוהה עם חמה שבמערב סוריה, על נהר האורונטס.",
+        "en": "Ancient Hamath is identified with Hama in western Syria on the Orontes River.",
+        "source": "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/the-lands-of-the-mediterranean/the-far-east/digital-hama-a-window-on-syrias-past/"
+      },
+      {
+        "type": "F",
+        "he": "עמק האורונטס יוצר ציר צפון–דרום המקביל בקירוב לחוף הים התיכון.",
+        "en": "The Orontes Valley forms a roughly coast-parallel north-south corridor.",
+        "source": "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/the-lands-of-the-mediterranean/the-far-east/digital-hama-a-window-on-syrias-past/"
+      },
+      {
+        "type": "F",
+        "he": "בתל חמה נחשף רצף ארוך של יישוב, מכפרים נאוליתיים ועד תקופות מאוחרות.",
+        "en": "Hama's mound yielded a long settlement sequence from Neolithic villages to later periods.",
+        "source": "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/the-lands-of-the-mediterranean/the-far-east/digital-hama-a-window-on-syrias-past/"
+      },
+      {
+        "type": "F",
+        "he": "בחלקו הדרומי של התל נחפרה מצודה מתקופת הברזל, נפרדת משטחי החפירה של השלבים הקדומים.",
+        "en": "An Iron Age citadel was excavated in the mound's southern sector, separate from exposures of earlier phases.",
+        "source": "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/the-lands-of-the-mediterranean/the-far-east/digital-hama-a-window-on-syrias-past/life-in-an-ancient-near-eastern-town/?force=desktop"
+      },
+      {
+        "type": "B",
+        "he": "בפסוק זהו קצה צפוני של מרחב הסיור; אין בכך תיעוד ארכאולוגי למסע המרגלים.",
+        "en": "In the verse it is a northern limit of the reconnaissance region, not archaeological documentation of the scouts' journey.",
+        "source": "https://www.sefaria.org/Numbers.13.21?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיַּעֲלוּ, וַיָּתֻרוּ אֶת הָאָרֶץ, מִמִּדְבַּר צִן עַד רְחֹב, לְבֹא חֲמָת.",
+      "en": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_013/images/idea_05_v21-24.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 13 בלבד. הנוף והמבנים אינם תיעוד מזוהה של לבוא חמת.",
+        "en": "Artistic illustration for Numbers 13 only. Its landscape and buildings are not identified views of Lebo-hamath."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/13-dee89847f61b50529d365b362d9b9708.mp3?version_id=1",
+        "start": 114.96,
+        "end": 121.78
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-20-17-kingsHighway",
+    "book": "במדבר",
+    "chapter": 20,
+    "verse": 17,
+    "title": {
+      "he": "דרך המלך — ציר הרמה בעבר הירדן",
+      "en": "King's Highway: Transjordan's plateau corridor"
+    },
+    "placeKey": "kingsHighway",
+    "facts": [
+      {
+        "type": "F",
+        "he": "הציר המכונה דרך המלך חיבר אזורים לאורך רמות עבר הירדן מצפון לדרום.",
+        "en": "The corridor called the King's Highway linked regions along the Transjordanian plateau north to south.",
+        "source": "https://international.visitjordan.com/uploads/brochures/biblical-english.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מואב ואדום נמצאות מדרום לגלעד ולעמון לאורך מרחב הדרכים הזה.",
+        "en": "Moab and Edom lie south of Gilead and Ammon along this road region.",
+        "source": "https://international.visitjordan.com/uploads/brochures/biblical-english.pdf"
+      },
+      {
+        "type": "F",
+        "he": "דרך הרמה נבדלת מנתיבים נמוכים יותר לאורך בקעת הירדן והערבה.",
+        "en": "The plateau route differs from lower routes along the Jordan Valley and Arabah.",
+        "source": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/jo/jordancountrystu00metz/jordancountrystu00metz.pdf"
+      },
+      {
+        "type": "F",
+        "he": "קניון הארנון מבתר את הרמה, ולכן ציר אורך במרחב חייב להתמודד עם ירידה ועלייה תלולות.",
+        "en": "The Arnon gorge cuts the plateau, forcing a longitudinal route through steep descent and ascent.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "B",
+        "he": "בקשת המעבר מבדילה בין הדרך לבין השדות, הכרמים והבארות שבשליטת אדום.",
+        "en": "The passage request distinguishes the road from fields, vineyards and wells controlled by Edom.",
+        "source": "https://www.sefaria.org/Numbers.20.17?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "הכביש המודרני המכונה דרך המלך אינו הוכחה לתוואי זהה בכל תקופה עתיקה.",
+        "en": "Today's road named King's Highway does not establish an identical alignment in every ancient period.",
+        "source": "https://international.visitjordan.com/uploads/brochures/biblical-english.pdf"
+      }
+    ],
+    "quote": {
+      "he": "״נַעְבְּרָה נָּא בְאַרְצֶךָ, לֹא נַעֲבֹר בְּשָׂדֶה וּבְכֶרֶם, וְלֹא נִשְׁתֶּה, מֵי בְאֵר: דֶּרֶךְ הַמֶּלֶךְ נֵלֵךְ לֹא נִטֶּה יָמִין וּשְׂמֹאול, עַד אֲשֶׁר נַעֲבֹר, גְּבֻלֶךָ.״",
+      "en": "Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king's high way, we will not turn to the right hand nor to the left, until we have passed thy borders."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_020/images/idea_03_v14-21.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 20 בלבד. הנוף והמבנים אינם תיעוד מזוהה של דרך המלך.",
+        "en": "Artistic illustration for Numbers 20 only. Its landscape and buildings are not identified views of King's Highway."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/20-a090dabdc0c65fa671b6621fd03cd2ba.mp3?version_id=1",
+        "start": 159.44,
+        "end": 177.52
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-20-22-mountHor",
+    "book": "במדבר",
+    "chapter": 20,
+    "verse": 22,
+    "title": {
+      "he": "הר ההר — המסורת בג׳בל הארון",
+      "en": "Mount Hor: the Jabal Harun tradition"
+    },
+    "placeKey": "mountHor",
+    "facts": [
+      {
+        "type": "U",
+        "he": "הר ההר מזוהה במסורת עם ג׳בל הארון, מדרום־מערב לפטרה; הזיהוי משוער.",
+        "en": "Mount Hor is traditionally identified with Jabal Harun southwest of Petra; this is tentative.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/jordan/"
+      },
+      {
+        "type": "F",
+        "he": "על רמה מתחת לפסגה נחפר מתחם נזירי ביזנטי ובו כנסייה וקפלה.",
+        "en": "A Byzantine monastic complex with a church and chapel was excavated on a plateau below the summit.",
+        "source": "https://journal.fi/arctos/article/download/85921/44796"
+      },
+      {
+        "type": "F",
+        "he": "המתחם פעל כמרכז עלייה לרגל הקשור למסורת אהרן.",
+        "en": "The complex functioned as a pilgrimage centre associated with Aaron's tradition.",
+        "source": "https://journal.fi/arctos/article/download/85921/44796"
+      },
+      {
+        "type": "F",
+        "he": "המבנה המוסלמי שעל הפסגה הוקם בתקופה הממלוכית במאה הארבע־עשרה.",
+        "en": "The Muslim shrine on the summit was erected in the fourteenth-century Mamluk period.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/jordan/"
+      },
+      {
+        "type": "F",
+        "he": "ממצאי החרס והזכוכית במתחם משקפים גם מעבר מן התקופה הביזנטית לתקופה האסלאמית הקדומה.",
+        "en": "Pottery and glass from the complex also reflect the Byzantine–Early Islamic transition.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/jordan/"
+      },
+      {
+        "type": "B",
+        "he": "מות אהרן בהר הוא מסורת מקראית; המנזר והמבנה המאוחר אינם זיהוי ארכאולוגי של קברו.",
+        "en": "Aaron's death on the mountain is biblical tradition; the monastery and later shrine do not archaeologically identify his grave.",
+        "source": "https://www.sefaria.org/Numbers.20.28?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ, מִקָּדֵשׁ. וַיָּבֹאוּ בְנֵי יִשְׂרָאֵל כָּל הָעֵדָה, הֹר הָהָר.",
+      "en": "And the children of Israel, even the whole congregation, journeyed from Kadesh, and came unto mount Hor."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_020/images/idea_04_v22-29.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 20 בלבד. הנוף והמבנים אינם תיעוד מזוהה של הר ההר.",
+        "en": "Artistic illustration for Numbers 20 only. Its landscape and buildings are not identified views of Mount Hor."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/20-a090dabdc0c65fa671b6621fd03cd2ba.mp3?version_id=1",
+        "start": 212.48,
+        "end": 219.06
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-21-1-arad",
+    "book": "במדבר",
+    "chapter": 21,
+    "verse": 1,
+    "title": {
+      "he": "ערד — עיר קדומה ומצודה מאוחרת",
+      "en": "Arad: an early town and a later fortress"
+    },
+    "placeKey": "arad",
+    "facts": [
+      {
+        "type": "F",
+        "he": "תל ערד נמצא בשולי בקעת ערד בנגב הצפוני, ממערב לעיר ערד המודרנית.",
+        "en": "Tel Arad lies on the edge of the Arad basin in the northern Negev, west of modern Arad.",
+        "source": "https://en.parks.org.il/reserve-park/tel-arad-national-park/"
+      },
+      {
+        "type": "F",
+        "he": "העיר התחתית המבוצרת היא בעיקר מתקופת הברונזה הקדומה.",
+        "en": "The fortified lower town belongs mainly to the Early Bronze Age.",
+        "source": "https://en.parks.org.il/reserve-park/tel-arad-national-park/"
+      },
+      {
+        "type": "F",
+        "he": "על התל הגבוה נבנו מצודות מתקופת ממלכת יהודה, המאוחרות לעיר התחתית.",
+        "en": "Fortresses of the kingdom of Judah occupy the upper mound, later than the lower town.",
+        "source": "https://en.parks.org.il/reserve-park/tel-arad-national-park/"
+      },
+      {
+        "type": "F",
+        "he": "במצודה התגלה מקדש ובו מזבח, מצבות ומזבחות קטורת.",
+        "en": "The fortress yielded a temple with an altar, standing stones and incense altars.",
+        "source": "https://en.parks.org.il/reserve-park/tel-arad-national-park/"
+      },
+      {
+        "type": "F",
+        "he": "אוסטרקונים מן המצודה כוללים מכתבים בעברית שנשלחו לאלישיב.",
+        "en": "Ostraca from the fortress include Hebrew letters addressed to Eliashib.",
+        "source": "https://en.parks.org.il/reserve-park/tel-arad-national-park/"
+      },
+      {
+        "type": "U",
+        "he": "אין לאחד את העיר הקדומה, המצודה והמלחמה שבבמדבר לאותה שכבה ארכאולוגית.",
+        "en": "The early town, fortress and Numbers battle must not be collapsed into a single archaeological layer.",
+        "source": "https://www.sefaria.org/Numbers.21.1?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּשְׁמַע הַכְּנַעֲנִי מֶלֶךְ עֲרָד, יֹשֵׁב הַנֶּגֶב, כִּי בָּא יִשְׂרָאֵל, דֶּרֶךְ הָאֲתָרִים. וַיִּלָּחֶם, בְּיִשְׂרָאֵל, וַיִּשְׁבְּ מִמֶּנּוּ, שֶׁבִי.",
+      "en": "And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_021/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 21 בלבד. הנוף והמבנים אינם תיעוד מזוהה של ערד.",
+        "en": "Artistic illustration for Numbers 21 only. Its landscape and buildings are not identified views of Arad."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/21-2cb067f0e97cf80f7dc2518e1460b17e.mp3?version_id=1",
+        "start": 2.88,
+        "end": 17.7
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-21-13-arnon",
+    "book": "במדבר",
+    "chapter": 21,
+    "verse": 13,
+    "title": {
+      "he": "נחל ארנון — הקניון החוצה את מואב",
+      "en": "Arnon: the gorge cutting through Moab"
+    },
+    "placeKey": "arnon",
+    "facts": [
+      {
+        "type": "F",
+        "he": "נחל ארנון מזוהה עם ואדי מוג׳יב בירדן, הנשפך אל ים המלח ממזרח.",
+        "en": "The Arnon is identified with Jordan's Wadi Mujib, entering the Dead Sea from the east.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "F",
+        "he": "הקניון חוצה את רמת עבר הירדן ומפריד בין אזורי רמה מצפון ומדרום.",
+        "en": "The canyon cuts the Transjordanian plateau, separating upland areas to its north and south.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "F",
+        "he": "המורדות יורדים בתלילות משדות הדגן שעל הרמה אל בקע ים המלח.",
+        "en": "The slopes descend steeply from the plateau's grain fields toward the Dead Sea rift.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "F",
+        "he": "בתוך המערכת מצויים קטעי מצוקים וקניונים עמוקים, ובהם גם ערוץ ואדי הידאן.",
+        "en": "The system contains cliffs and deep gorges, including Wadi Hidan.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "F",
+        "he": "הגובה וכמות המשקעים פוחתים בדרך כלל מן הרמה שממזרח לכיוון ים המלח.",
+        "en": "Elevation and rainfall generally decrease from the eastern plateau toward the Dead Sea.",
+        "source": "https://www.unesco.org/en/mab/mujib"
+      },
+      {
+        "type": "B",
+        "he": "בפסוק הארנון משמש גבול בין מואב לאמורי; זהו שימוש מדיני בקניון טבעי.",
+        "en": "In the verse the Arnon separates Moab from the Amorites, using a natural gorge as a political boundary.",
+        "source": "https://www.sefaria.org/Numbers.21.13?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "מִשָּׁם, נָסָעוּ, וַיַּחֲנוּ מֵעֵבֶר אַרְנוֹן אֲשֶׁר בַּמִּדְבָּר, הַיֹּצֵא מִגְּבֻל הָאֱמֹרִי: כִּי אַרְנוֹן גְּבוּל מוֹאָב, בֵּין מוֹאָב וּבֵין הָאֱמֹרִי.",
+      "en": "From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Wadi_Mujib_Allahoun_JO.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "kind": "photograph",
+      "source": "https://commons.wikimedia.org/wiki/File:Wadi_Mujib_Allahoun_JO.jpg",
+      "rights": "Public domain, released worldwide by photographer Freedom's Falcon. Unmodified image.",
+      "caption": {
+        "he": "תצלום ואדי מוג׳יב (ארנון), ירדן. צילום: Freedom’s Falcon, נחלת הכלל.",
+        "en": "Wadi Mujib (Arnon), Jordan. Photograph: Freedom’s Falcon; public domain."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/21-2cb067f0e97cf80f7dc2518e1460b17e.mp3?version_id=1",
+        "start": 128.42,
+        "end": 140.8
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-21-26-heshbon",
+    "book": "במדבר",
+    "chapter": 21,
+    "verse": 26,
+    "title": {
+      "he": "חשבון — מאגר מים ושאלת הזיהוי",
+      "en": "Heshbon: a reservoir and an identification problem"
+    },
+    "placeKey": "heshbon",
+    "facts": [
+      {
+        "type": "U",
+        "he": "חשבון מזוהה בדרך כלל עם תל חיסבאן שמצפון למידבא; התאמתו לעיר סיחון נידונה במחקר.",
+        "en": "Heshbon is usually identified with Tall Hisban north of Madaba; its fit with Sihon's city remains debated.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Heshbon"
+      },
+      {
+        "type": "F",
+        "he": "התל נמצא ברמה החקלאית שממזרח לבקעת הירדן.",
+        "en": "The mound lies on the agricultural plateau east of the Jordan Valley.",
+        "source": "https://madabaplains.org/"
+      },
+      {
+        "type": "F",
+        "he": "בחפירות נחשפו שכבות יישוב מתקופת הברזל ועד תקופות מאוחרות רבות.",
+        "en": "Excavations uncovered occupation from the Iron Age through many later periods.",
+        "source": "https://madabaplains.org/hisban/excavations/"
+      },
+      {
+        "type": "F",
+        "he": "מאגר פתוח גדול הוא אחד המתקנים הבולטים מתקופת הברזל באתר.",
+        "en": "A large open-air reservoir is a prominent Iron Age installation at the site.",
+        "source": "https://www.madabamuseum.org/en/sites/Hisban"
+      },
+      {
+        "type": "F",
+        "he": "גם שרידי מקדש רומי וכנסיות ביזנטיות מעידים על שימוש מחודש בתל.",
+        "en": "A Roman temple and Byzantine churches document later reuse of the mound.",
+        "source": "https://www.madabamuseum.org/en/sites/Hisban"
+      },
+      {
+        "type": "U",
+        "he": "לא זוהה באתר בביטחון המרכז האמורי המתואר בסיפור; ריבוי השכבות אינו הוכחה לעיר סיחון.",
+        "en": "The narrative's Amorite centre has not been securely identified there; many layers do not prove Sihon's city.",
+        "source": "https://madabaplains.org/hisban/excavations/hesban-in-global-history/"
+      }
+    ],
+    "quote": {
+      "he": "כִּי חֶשְׁבּוֹן. עִיר סִיחֹן מֶלֶךְ הָאֱמֹרִי, הִוא. וְהוּא נִלְחַם, בְּמֶלֶךְ מוֹאָב הָרִאשׁוֹן, וַיִּקַּח אֶת כָּל אַרְצוֹ מִיָּדוֹ, עַד אַרְנֹן.",
+      "en": "For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_021/images/idea_04_v21-30.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 21 בלבד. הנוף והמבנים אינם תיעוד מזוהה של חשבון.",
+        "en": "Artistic illustration for Numbers 21 only. Its landscape and buildings are not identified views of Heshbon."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/21-2cb067f0e97cf80f7dc2518e1460b17e.mp3?version_id=1",
+        "start": 241.4,
+        "end": 250.5
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-21-30-madaba",
+    "book": "במדבר",
+    "chapter": 21,
+    "verse": 30,
+    "title": {
+      "he": "מידבא — רמה ועיר הפסיפסים",
+      "en": "Medeba: plateau and mosaic town"
+    },
+    "placeKey": "madaba",
+    "facts": [
+      {
+        "type": "F",
+        "he": "מידבא מזוהה עם מדבא שבירדן, על הרמה שמדרום־מערב לעמאן.",
+        "en": "Medeba is identified with Madaba in Jordan, on the plateau southwest of Amman.",
+        "source": "https://documents1.worldbank.org/curated/en/655381468088745132/pdf/381620JO0R20071000511.pdf"
+      },
+      {
+        "type": "F",
+        "he": "שרידים עתיקים נמצאים בתוך המרקם העירוני המודרני, ולא רק בתל מבודד מחוץ לעיר.",
+        "en": "Ancient remains lie within the modern urban fabric, not only on an isolated outlying mound.",
+        "source": "https://documents1.worldbank.org/curated/en/655381468088745132/pdf/381620JO0R20071000511.pdf"
+      },
+      {
+        "type": "F",
+        "he": "הפארק הארכאולוגי במדבא משלב רצפות פסיפס ושרידי מבנים בסביבתם העירונית.",
+        "en": "Madaba's archaeological park integrates mosaic floors and buildings within their urban setting.",
+        "source": "https://documents1.worldbank.org/curated/en/655381468088745132/pdf/381620JO0R20071000511.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מפת מידבא היא רצפת פסיפס מן המאה השישית לספירה בכנסיית גאורגיוס הקדוש.",
+        "en": "The Madaba Map is a sixth-century CE mosaic floor in Saint George's Church.",
+        "source": "https://www.octagonproject.org/news/madaba"
+      },
+      {
+        "type": "F",
+        "he": "המפה מתארת מקומות בארץ הקודש ובסביבתה, ובהם ירושלים והירדן, במבט של התקופה הביזנטית.",
+        "en": "The map depicts the Holy Land and surrounding places, including Jerusalem and the Jordan, from a Byzantine perspective.",
+        "source": "https://www.octagonproject.org/news/madaba"
+      },
+      {
+        "type": "B",
+        "he": "הפסיפס מאוחר לשיר על חשבון ומידבא שבבמדבר; אין להשתמש בו כמפת ממלכת סיחון.",
+        "en": "The mosaic postdates Numbers's poem about Heshbon and Medeba; it cannot serve as a map of Sihon's kingdom.",
+        "source": "https://www.sefaria.org/Numbers.21.30?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״וַנִּירָם אָבַד חֶשְׁבּוֹן עַד דִּיבֹן. וַנַּשִּׁים עַד נֹפַח, אֲשֶׁר עַד מֵידְבָא.״",
+      "en": "We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which reacheth unto Medeba."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_021/images/idea_04_v21-30.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 21 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מידבא.",
+        "en": "Artistic illustration for Numbers 21 only. Its landscape and buildings are not identified views of Medeba."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/21-2cb067f0e97cf80f7dc2518e1460b17e.mp3?version_id=1",
+        "start": 280.52,
+        "end": 291.88
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-21-33-bashan",
+    "book": "במדבר",
+    "chapter": 21,
+    "verse": 33,
+    "title": {
+      "he": "הבשן — רמות בזלת וגבולות משתנים",
+      "en": "Bashan: basalt plateaus and changing limits"
+    },
+    "placeKey": "bashan",
+    "facts": [
+      {
+        "type": "F",
+        "he": "הבשן הוא מרחב שממזרח לכנרת ולירדן העליון, הכולל ברוב תיאורי המחקר את החורן וחלקים מן הגולן.",
+        "en": "Bashan lies east of the Sea of Galilee and upper Jordan, commonly including the Hauran and parts of the Golan.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hauran"
+      },
+      {
+        "type": "F",
+        "he": "מרחבי החורן והגולן כוללים רמות המכוסות בסלעי בזלת שמקורם בפעילות געשית.",
+        "en": "The Hauran and Golan include plateaus covered by volcanic basalt.",
+        "source": "https://www.gov.il/BlobFolder/reports/ben-nun-levanon-report-2023/he/report_GSI%2013%202023.pdf"
+      },
+      {
+        "type": "F",
+        "he": "עמק הירמוך תוחם מדרום את הגולן ומפריד אותו מרמות שמדרום לו.",
+        "en": "The Yarmuk valley bounds the Golan to the south, separating it from southern uplands.",
+        "source": "https://www.gov.il/BlobFolder/reports/ben-nun-levanon-report-2023/he/report_GSI%2013%202023.pdf"
+      },
+      {
+        "type": "F",
+        "he": "ממערב לרמת הגולן יורדים המדרונות אל הכנרת ואל בקעת הירדן.",
+        "en": "The Golan's western slopes descend toward the Sea of Galilee and Jordan Valley.",
+        "source": "https://www.gov.il/BlobFolder/reports/ben-nun-levanon-report-2023/he/report_GSI%2013%202023.pdf"
+      },
+      {
+        "type": "B",
+        "he": "במדבר קושר את הבשן לממלכת עוג ולקרב באדרעי.",
+        "en": "Numbers connects Bashan with Og's kingdom and the battle at Edrei.",
+        "source": "https://www.sefaria.org/Numbers.21.33?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "הבשן המקראי אינו חופף לגבול מדיני מודרני אחד; תחומו משתנה בין תיאורים ותקופות.",
+        "en": "Biblical Bashan does not match a single modern political border; its extent varies across descriptions and periods.",
+        "source": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hauran"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּפְנוּ, וַיַּעֲלוּ, דֶּרֶךְ, הַבָּשָׁן. וַיֵּצֵא עוֹג מֶלֶךְ הַבָּשָׁן לִקְרָאתָם הוּא וְכָל עַמּוֹ, לַמִּלְחָמָה. אֶדְרֶעִי.",
+      "en": "And they turned and went up by the way of Bashan: and og the king of bashan went out against them, he, and all his people, to the battle at edrei."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_021/images/idea_06_v33-35.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 21 בלבד. הנוף והמבנים אינם תיעוד מזוהה של הבשן.",
+        "en": "Artistic illustration for Numbers 21 only. Its landscape and buildings are not identified views of Bashan."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/21-2cb067f0e97cf80f7dc2518e1460b17e.mp3?version_id=1",
+        "start": 305.58,
+        "end": 314.72
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-32-34-dibon",
+    "book": "במדבר",
+    "chapter": 32,
+    "verse": 34,
+    "title": {
+      "he": "דיבון — עיר מואבית וכתובת מישע",
+      "en": "Dibon: a Moabite town and Mesha's inscription"
+    },
+    "placeKey": "dibon",
+    "facts": [
+      {
+        "type": "F",
+        "he": "דיבון מזוהה עם דיבאן בירדן, ברמה שממזרח לים המלח ומצפון לארנון.",
+        "en": "Dibon is identified with Dhiban in Jordan, on the plateau east of the Dead Sea and north of the Arnon.",
+        "source": "https://www.si.edu/object/moabite-stone-or-mesha-stele-cast%3Anmnhanthropology_8010378"
+      },
+      {
+        "type": "F",
+        "he": "כתובת מישע התגלתה בדיבאן במאה התשע־עשרה.",
+        "en": "The Mesha Stele was discovered at Dhiban in the nineteenth century.",
+        "source": "https://collections.louvre.fr/en/ark%3A/53355/cl010120339"
+      },
+      {
+        "type": "F",
+        "he": "המצבה עשויה בזלת ונושאת כתובת בשפה המואבית.",
+        "en": "The stele is basalt and bears an inscription in Moabite.",
+        "source": "https://collections.louvre.fr/en/ark%3A/53355/cl010120339"
+      },
+      {
+        "type": "F",
+        "he": "הכתובת מתוארכת למאה התשיעית לפנה״ס ומציגה את ניצחונות מישע מנקודת מבטו.",
+        "en": "The ninth-century BCE text presents Mesha's victories from his own perspective.",
+        "source": "https://collections.louvre.fr/en/ark%3A/53355/cl010120339"
+      },
+      {
+        "type": "F",
+        "he": "למרגלות תל דיבאן נבנה מאגר מטויח שהשתמש בשקע טבעי בסלע.",
+        "en": "A plastered reservoir at the foot of Dhiban’s mound incorporated a natural bedrock depression.",
+        "source": "https://www.sbl-site.org/assets/pdfs/pubs/9780884143482_OA.pdf"
+      },
+      {
+        "type": "B",
+        "he": "במדבר מונה את דיבון בין ערי גד; הכתובת המאוחרת אינה תיעוד של הקמת העיר בידי השבט.",
+        "en": "Numbers lists Dibon among Gad's towns; the later inscription does not document its founding by the tribe.",
+        "source": "https://www.sefaria.org/Numbers.32.34?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּבְנוּ בְנֵי גָד, אֶת דִּיבֹן וְאֶת עֲטָרֹת, וְאֵת, עֲרֹעֵר.",
+      "en": "And the children of Gad built Dibon, and Ataroth, and Aroer,"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_032/images/idea_06_v34-38.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 32 בלבד. הנוף והמבנים אינם תיעוד מזוהה של דיבון.",
+        "en": "Artistic illustration for Numbers 32 only. Its landscape and buildings are not identified views of Dibon."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/32-4ce2594cb5e2eb780a04facaabd2e534.mp3?version_id=1",
+        "start": 306.46,
+        "end": 310.96
+      },
+      "he": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0432.mp3?alt=media",
+        "start": 282.37,
+        "end": 286.92
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-32-34-ataroth",
+    "book": "במדבר",
+    "chapter": 32,
+    "verse": 34,
+    "title": {
+      "he": "עטרות — מקדש ומזבח כתוב",
+      "en": "Ataroth: a temple and an inscribed altar"
+    },
+    "placeKey": "ataroth",
+    "facts": [
+      {
+        "type": "U",
+        "he": "עטרות מזוהה עם חורבת עטרוז שבמרכז ירדן; הזיקה נתמכת גם בכתובת מישע.",
+        "en": "Ataroth is identified with Khirbat Ataruz in central Jordan, with support from the Mesha Stele.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/00758914.2019.1620010"
+      },
+      {
+        "type": "F",
+        "he": "בחפירות התגלה מתחם מקדש מתקופת הברזל.",
+        "en": "Excavations revealed an Iron Age temple complex.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/00758914.2019.1620010"
+      },
+      {
+        "type": "F",
+        "he": "במתחם נמצא מזבח אבן גלילי ועליו שתי כתובות.",
+        "en": "A cylindrical stone altar bearing two inscriptions was found in the complex.",
+        "source": "https://www.tandfonline.com/doi/abs/10.1080/00758914.2019.1619971"
+      },
+      {
+        "type": "F",
+        "he": "הכתובות כתובות מואבית ומשלבות גם סימני מספרים היראטיים ממסורת הכתב המצרי.",
+        "en": "The Moabite inscriptions also use hieratic numerals from Egyptian writing tradition.",
+        "source": "https://www.tandfonline.com/doi/abs/10.1080/00758914.2019.1619971"
+      },
+      {
+        "type": "F",
+        "he": "המבנה המאוחר נבנה על שרידי אדריכלות קדומה יותר, ולכן אין מדובר בשלב יישוב יחיד.",
+        "en": "The later cult building overlays earlier architecture, showing more than one occupation phase.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/00758914.2019.1620010"
+      },
+      {
+        "type": "U",
+        "he": "הקישור בין שינויי הבנייה לכיבוש מישע הוא פירוש מחקרי; אין להסיק שכל שינוי הוא אירוע הנזכר בכתובת.",
+        "en": "Linking building changes to Mesha's conquest is an interpretation; not every alteration can be equated with an inscribed event.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/00758914.2019.1620010"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּבְנוּ בְנֵי גָד, אֶת דִּיבֹן וְאֶת עֲטָרֹת, וְאֵת, עֲרֹעֵר.",
+      "en": "And the children of Gad built Dibon, and Ataroth, and Aroer,"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_032/images/idea_06_v34-38.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 32 בלבד. הנוף והמבנים אינם תיעוד מזוהה של עטרות.",
+        "en": "Artistic illustration for Numbers 32 only. Its landscape and buildings are not identified views of Ataroth."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/32-4ce2594cb5e2eb780a04facaabd2e534.mp3?version_id=1",
+        "start": 306.46,
+        "end": 310.96
+      },
+      "he": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0432.mp3?alt=media",
+        "start": 282.37,
+        "end": 286.92
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-33-35-ezion",
+    "book": "במדבר",
+    "chapter": 33,
+    "verse": 35,
+    "title": {
+      "he": "עציון גבר — ראש מפרץ אילת",
+      "en": "Ezion-geber: head of the Gulf of Aqaba"
+    },
+    "placeKey": "ezion",
+    "facts": [
+      {
+        "type": "B",
+        "he": "עציון גבר מופיעה ברשימת תחנות המסע; מלכים א׳ קושר אותה לים סוף ליד אילת.",
+        "en": "Ezion-geber appears in the itinerary; First Kings associates it with the Red Sea near Elath.",
+        "source": "https://www.sefaria.org/1_Kings.9.26?lang=bi"
+      },
+      {
+        "type": "U",
+        "he": "תל אל־ח׳ליפה שבראש מפרץ אילת הוצע כזיהוי; אין ודאות שהוא עציון גבר המקראית.",
+        "en": "Tell el-Kheleifeh at the gulf's head has been proposed; identification with biblical Ezion-geber is uncertain.",
+        "source": "https://www.jstor.org/stable/10.5615/j.ctt2jc9px"
+      },
+      {
+        "type": "F",
+        "he": "התל נמצא סמוך לחוף הצפוני של המפרץ, בין מרחבי אילת ועקבה של ימינו.",
+        "en": "The mound lies near the gulf's northern shore between modern Eilat and Aqaba.",
+        "source": "https://www.jstor.org/stable/10.5615/j.ctt2jc9px"
+      },
+      {
+        "type": "F",
+        "he": "בתל נחפרו ביצורים וחללים ששימשו לאחסון במתחם בנוי מלבני בוץ.",
+        "en": "Excavations revealed fortifications and storage spaces in a mudbrick compound.",
+        "source": "https://www.jstor.org/stable/10.5615/j.ctt2jc9px"
+      },
+      {
+        "type": "F",
+        "he": "מחקר מחודש בדק מחדש את תיארוך כלי החרס, הכתובות והאדריכלות מחפירות גליק.",
+        "en": "A reassessment re-examined pottery dating, inscriptions and architecture from Glueck's excavations.",
+        "source": "https://www.jstor.org/stable/10.5615/j.ctt2jc9px"
+      },
+      {
+        "type": "U",
+        "he": "הייחוס המוקדם של שרידים באתר למפעל שלמה אינו מסקנה שיש לקבל ללא ביקורת כרונולוגית.",
+        "en": "Early attribution of remains to Solomon cannot be accepted without chronological scrutiny.",
+        "source": "https://www.jstor.org/stable/10.5615/j.ctt2jc9px"
+      }
+    ],
+    "quote": {
+      "he": "וַיִּסְעוּ, מֵעַבְרֹנָה. וַיַּחֲנוּ, בְּעֶצְיֹן גָּבֶר.",
+      "en": "And they departed from Ebronah, and encamped at Eziongaber."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_033/images/idea_07_v31-36.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 33 בלבד. הנוף והמבנים אינם תיעוד מזוהה של עציון גבר.",
+        "en": "Artistic illustration for Numbers 33 only. Its landscape and buildings are not identified views of Ezion-geber."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/33-70a01bda0830575db835bc95cf88a44d.mp3?version_id=1",
+        "start": 190.74,
+        "end": 195.2
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-34-5-brookEgypt",
+    "book": "במדבר",
+    "chapter": 34,
+    "verse": 5,
+    "title": {
+      "he": "נחל מצרים — ואדי אל־עריש והחלופות",
+      "en": "Brook of Egypt: Wadi el-Arish and alternatives"
+    },
+    "placeKey": "brookEgypt",
+    "facts": [
+      {
+        "type": "U",
+        "he": "נחל מצרים מזוהה לרוב עם ואדי אל־עריש, אך הוצעו גם הבשור וזרוע מזרחית של הנילוס.",
+        "en": "The Brook of Egypt is often identified with Wadi el-Arish, but the Besor and an eastern Nile branch have also been proposed.",
+        "source": "https://www.thetorah.com/article/defining-the-borders-of-the-land-of-canaan-numbers-34"
+      },
+      {
+        "type": "F",
+        "he": "ואדי אל־עריש מנקז חלקים נרחבים של מרכז סיני וצפונו.",
+        "en": "Wadi el-Arish drains extensive parts of central and northern Sinai.",
+        "source": "https://doi.org/10.1016/j.jafrearsci.2020.104056"
+      },
+      {
+        "type": "F",
+        "he": "יובליו העליונים אוספים מים מרמות א־תיה ואל־עגמה.",
+        "en": "Its upper tributaries collect runoff from the et-Tih and el-Egma plateaus.",
+        "source": "https://www.mdpi.com/2073-4441/15/9/1797/xml"
+      },
+      {
+        "type": "F",
+        "he": "האפיק הראשי פונה צפונה ונשפך לים התיכון באזור העיר אל־עריש.",
+        "en": "The main channel runs north to the Mediterranean at el-Arish.",
+        "source": "https://doi.org/10.1016/j.jafrearsci.2020.104056"
+      },
+      {
+        "type": "F",
+        "he": "זהו אגן מדברי שבו זרימה עונתית ושיטפונות, בניגוד לנהר הנילוס הזורם דרך קבע.",
+        "en": "It is an arid drainage basin with intermittent flow and floods, unlike the perennial Nile.",
+        "source": "https://doi.org/10.1016/j.jafrearsci.2020.104056"
+      },
+      {
+        "type": "U",
+        "he": "השם ״נחל מצרים״ אינו מבטיח זהות עם ״נהר מצרים״ שבבראשית ט״ו; ההבחנה נידונה במחקר.",
+        "en": "“Brook of Egypt” need not be identical with Genesis 15's “River of Egypt”; the distinction is debated.",
+        "source": "https://www.thetorah.com/article/defining-the-borders-of-the-land-of-canaan-numbers-34"
+      }
+    ],
+    "quote": {
+      "he": "״וְנָסַב הַגְּבוּל מֵעַצְמוֹן נַחְלָה מִצְרָיִם. וְהָיוּ תוֹצְאֹתָיו, הַיָּמָּה.״",
+      "en": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "במדבר/chapter_034/images/idea_02_v3-5.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק במדבר 34 בלבד. הנוף והמבנים אינם תיעוד מזוהה של נחל מצרים.",
+        "en": "Artistic illustration for Numbers 34 only. Its landscape and buildings are not identified views of Brook of Egypt."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/34-5f2c96fb54a4ce6d3bd4a868756242ae.mp3?version_id=1",
+        "start": 44.62,
+        "end": 52.34
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "numbers-34-11-kinneret",
+    "book": "במדבר",
+    "chapter": 34,
+    "verse": 11,
+    "title": {
+      "he": "ים כנרת — אגם מים מתוקים בגבול",
+      "en": "Sea of Chinnereth: a freshwater boundary lake"
+    },
+    "placeKey": "kinneret",
+    "facts": [
+      {
+        "type": "F",
+        "he": "ים כנרת הוא אגם מים מתוקים בבקע הירדן, מצפון לים המלח.",
+        "en": "The Sea of Chinnereth is a freshwater lake in the Jordan Rift north of the Dead Sea.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301567/"
+      },
+      {
+        "type": "F",
+        "he": "הירדן נכנס לאגם מצפון ויוצא ממנו בדרום.",
+        "en": "The Jordan enters the lake from the north and leaves to the south.",
+        "source": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/jo/jordancountrystu00metz/jordancountrystu00metz.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מי הנהר, גשם ישיר ונגר מן המדרונות הם מקורות מים שונים של האגם.",
+        "en": "River inflow, direct rain and slope runoff are distinct water sources for the lake.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301567/"
+      },
+      {
+        "type": "F",
+        "he": "התאדות מסלקת מים מן האגם; היא שונה מזרימה החוצה דרך הירדן.",
+        "en": "Evaporation removes lake water through a different process from outflow along the Jordan.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301567/"
+      },
+      {
+        "type": "F",
+        "he": "לכנרת חילופי שכבות מים עונתיים; בקיץ נוצרה הפרדה בין מים חמים למים עמוקים וקרים יותר.",
+        "en": "The lake has seasonal stratification; summer separates warm surface water from cooler deep water.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301567/"
+      },
+      {
+        "type": "B",
+        "he": "הגבול בפסוק נוגע בצדו המזרחי של האגם; אין פירושו שהאגם עצמו היה קו חוף מודרני קבוע.",
+        "en": "The verse's boundary meets the lake's eastern side; this does not imply an unchanging modern shoreline.",
+        "source": "https://www.sefaria.org/Numbers.34.11?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״וְיָרַד הַגְּבֻל מִשְּׁפָם הָרִבְלָה מִקֶּדֶם לָעָיִן. וְיָרַד הַגְּבֻל, וּמָחָה עַל כֶּתֶף יָם כִּנֶּרֶת קֵדְמָה.״",
+      "en": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/40000/40147/ISS020-E-031066_lrg.jpg",
+      "kind": "astronaut photograph",
+      "source": "https://science.nasa.gov/earth/earth-observatory/lake-tiberias-sea-of-galilee-northern-israel-40147/",
+      "rights": "NASA/ISS Expedition 20, ISS020-E-31066; astronaut image freely available for public use. NASA source image already enhanced for publication; no additional alteration.",
+      "caption": {
+        "he": "הכנרת בתצלום מתחנת החלל, 15 באוגוסט 2009. NASA, משלחת 20. זהו נוף מודרני, לא מפת גבולות עתיקה.",
+        "en": "Sea of Galilee photographed from the ISS, 15 August 2009. NASA, Expedition 20. A modern landscape, not an ancient boundary map."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/34-5f2c96fb54a4ce6d3bd4a868756242ae.mp3?version_id=1",
+        "start": 90.58,
+        "end": 101.78
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-2-8-elath",
+    "book": "דברים",
+    "chapter": 2,
+    "verse": 8,
+    "title": {
+      "he": "אילת — מפגש ערבה ומפרץ",
+      "en": "Elath: where the Arabah meets the gulf"
+    },
+    "placeKey": "elath",
+    "facts": [
+      {
+        "type": "B",
+        "he": "הפסוק מזכיר יחד את אילת ועציון גבר בהקשר הדרך שבקצה הערבה.",
+        "en": "The verse names Elath and Ezion-geber together in the context of the Arabah route.",
+        "source": "https://www.sefaria.org/Deuteronomy.2.8?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "מפרץ אילת מפריד בין דרום סיני שממערב לו לבין צפון־מערב ערב שממזרח.",
+        "en": "The Gulf of Aqaba separates southern Sinai to the west from northwestern Arabia to the east.",
+        "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020TC006443"
+      },
+      {
+        "type": "F",
+        "he": "המפרץ נמצא בקצה הדרומי של מערכת העתק ים המלח.",
+        "en": "The gulf occupies the southern end of the Dead Sea fault system.",
+        "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020TC006443"
+      },
+      {
+        "type": "F",
+        "he": "קרקעית המפרץ מחולקת לאגנים טקטוניים, ולא למישור אחיד.",
+        "en": "The gulf floor is divided into tectonic basins rather than a uniform plain.",
+        "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020TC006443"
+      },
+      {
+        "type": "F",
+        "he": "מיפוי קרקעית הים מזהה העתקים של תנועה אופקית לצד העתקים המשנים את גובה הקרקעית.",
+        "en": "Seafloor mapping identifies strike-slip faults alongside faults producing vertical displacement.",
+        "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020TC006443"
+      },
+      {
+        "type": "U",
+        "he": "שם העיר אילת המודרנית אינו קובע לבדו את גבולות אילת המקראית או את מיקום נמלה.",
+        "en": "Modern Eilat's name alone establishes neither ancient Elath's boundaries nor its harbour location.",
+        "source": "https://www.sefaria.org/Deuteronomy.2.8?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַנַּעֲבֹר מֵאֵת אַחֵינוּ בְנֵי עֵשָׂו, הַיֹּשְׁבִים בְּשֵׂעִיר, מִדֶּרֶךְ הָעֲרָבָה, מֵאֵילַת וּמֵעֶצְיֹן גָּבֶר. וַנֵּפֶן, וַנַּעֲבֹר, דֶּרֶךְ, מִדְבַּר מוֹאָב.",
+      "en": "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_002/images/idea_01_v1-8.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 2 בלבד. הנוף והמבנים אינם תיעוד מזוהה של אילת.",
+        "en": "Artistic illustration for Deuteronomy 2 only. Its landscape and buildings are not identified views of Elath."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/2-d6df9c93f6fe4c2ac8bd9567cad8ddb0.mp3?version_id=1",
+        "start": 61.58,
+        "end": 73.94
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0502.mp3",
+        "start": 62.43,
+        "end": 75.28
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-3-9-hermon",
+    "book": "דברים",
+    "chapter": 3,
+    "verse": 9,
+    "title": {
+      "he": "חרמון — הר גיר ושלג",
+      "en": "Hermon: limestone and snow"
+    },
+    "placeKey": "hermon",
+    "facts": [
+      {
+        "type": "F",
+        "he": "החרמון בנוי ברובו מסלעי גיר ודולומיט, בניגוד לכיסוי הבזלת ברמת הגולן שמדרום.",
+        "en": "Hermon is largely limestone and dolomite, unlike the basalt cover of the Golan to its south.",
+        "source": "https://ikinneret.org.il/wp-content/uploads/2021/09/ארץ-הכינרת-33.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מבנה הרכס הוא קמר שסוע בהעתקים; הוא אינו חרוט געשי.",
+        "en": "The range is a faulted anticline, not a volcanic cone.",
+        "source": "https://ikinneret.org.il/wp-content/uploads/2021/09/ארץ-הכינרת-33.pdf"
+      },
+      {
+        "type": "F",
+        "he": "המסה של סלעי הגיר יוצרת נוף קארסטי, ובהם טרשים וחללים תת־קרקעיים.",
+        "en": "Limestone dissolution creates karst terrain, including rock pavements and underground cavities.",
+        "source": "https://ikinneret.org.il/wp-content/uploads/2021/09/ארץ-הכינרת-33.pdf"
+      },
+      {
+        "type": "F",
+        "he": "גשם ושלג המחלחלים בהר מזינים בין היתר את מעיינות הדן שלמרגלותיו.",
+        "en": "Rain and snow infiltrating the mountain feed, among other sources, the Dan springs at its foot.",
+        "source": "https://en.parks.org.il/reserve-park/tel-dan-nature-reserve/"
+      },
+      {
+        "type": "F",
+        "he": "פסגת הרכס גבוהה מן השלוחות הדרומיות ומאתר החרמון הישראלי.",
+        "en": "The range's summit is higher than its southern spurs and the Israeli Hermon visitor site.",
+        "source": "https://ikinneret.org.il/wp-content/uploads/2021/09/ארץ-הכינרת-33.pdf"
+      },
+      {
+        "type": "B",
+        "he": "הפסוק מוסר שני כינויים לחרמון: שִׂרְיֹן אצל הצידונים ושְׂנִיר אצל האמורי.",
+        "en": "The verse supplies two names for Hermon: Sirion among Sidonians and Senir among Amorites.",
+        "source": "https://www.sefaria.org/Deuteronomy.3.9?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "צִידֹנִים יִקְרְאוּ לְחֶרְמוֹן, שִׂרְיֹן. וְהָאֱמֹרִי, יִקְרְאוּ לוֹ שְׂנִיר.",
+      "en": "(Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_003/images/idea_03_v8-11.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 3 בלבד. הנוף והמבנים אינם תיעוד מזוהה של חרמון.",
+        "en": "Artistic illustration for Deuteronomy 3 only. Its landscape and buildings are not identified views of Hermon."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/3-c3c013d25eec857d1b99215ef8b2f934.mp3?version_id=1",
+        "start": 78.32,
+        "end": 83.2
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0503.mp3",
+        "start": 83.6,
+        "end": 89.31
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-3-11-rabbah",
+    "book": "דברים",
+    "chapter": 3,
+    "verse": 11,
+    "title": {
+      "he": "רבת בני עמון — תל המצודה בעמאן",
+      "en": "Rabbath-ammon: Amman's citadel hill"
+    },
+    "placeKey": "rabbah",
+    "facts": [
+      {
+        "type": "F",
+        "he": "רבת בני עמון מזוהה עם עמאן שבירדן.",
+        "en": "Rabbath-ammon is identified with Amman in Jordan.",
+        "source": "https://www.doa.gov.jo/EN/ListDetails/Archeological_Sites/1157/2"
+      },
+      {
+        "type": "F",
+        "he": "ג׳בל אל־קלעה, תל המצודה, מתנשא מעל מרכז העיר והעמקים שסביבו.",
+        "en": "Jabal al-Qalaa, the citadel hill, rises above downtown and the surrounding valleys.",
+        "source": "https://www.doa.gov.jo/EN/ListDetails/Archeological_Sites/1157/2"
+      },
+      {
+        "type": "F",
+        "he": "בתל התגלו שרידים מתקופות הברונזה, הברזל, התקופה הקלאסית והתקופות האסלאמיות.",
+        "en": "The hill yielded Bronze Age, Iron Age, classical and Islamic remains.",
+        "source": "https://www.doa.gov.jo/EN/ListDetails/Archeological_Sites/1157/2"
+      },
+      {
+        "type": "F",
+        "he": "בתקופת הברזל פעל בו מרכז שלטוני עמוני, ובתקופה ההלניסטית נקראה העיר פילדלפיה.",
+        "en": "It was an Ammonite political centre in the Iron Age; in Hellenistic times the city was called Philadelphia.",
+        "source": "https://www.doa.gov.jo/EN/ListDetails/Archeological_Sites/1157/2"
+      },
+      {
+        "type": "F",
+        "he": "מקדש הרקולס והארמון האומיי הנראים באתר שייכים לתקופות מאוחרות ושונות.",
+        "en": "The visible Temple of Hercules and Umayyad palace belong to distinct later periods.",
+        "source": "https://www.doa.gov.jo/EN/ListDetails/Archeological_Sites/1157/2"
+      },
+      {
+        "type": "B",
+        "he": "ערש עוג המתואר בפסוק לא זוהה בביטחון כממצא באתר; אזכורו אינו רישום של חפץ שנחפר.",
+        "en": "Og's bed in the verse has no secure archaeological identification there; its mention is not an excavated-object record.",
+        "source": "https://www.sefaria.org/Deuteronomy.3.11?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "כִּי רַק עוֹג מֶלֶךְ הַבָּשָׁן, נִשְׁאַר מִיֶּתֶר הָרְפָאִים. הִנֵּה עַרְשׂוֹ עֶרֶשׂ בַּרְזֶל, הֲלֹה הִוא בְּרַבַּת בְּנֵי עַמּוֹן: תֵּשַׁע אַמּוֹת אָרְכָּהּ, וְאַרְבַּע אַמּוֹת רָחְבָּהּ. בְּאַמַּת אִישׁ.",
+      "en": "For only Og king of Bashan remained of the remnant of giants; behold his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_003/images/idea_03_v8-11.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 3 בלבד. הנוף והמבנים אינם תיעוד מזוהה של רבת בני עמון.",
+        "en": "Artistic illustration for Deuteronomy 3 only. Its landscape and buildings are not identified views of Rabbath-ammon."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/3-c3c013d25eec857d1b99215ef8b2f934.mp3?version_id=1",
+        "start": 92.46,
+        "end": 109.8
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0503.mp3",
+        "start": 99.61,
+        "end": 114.22
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-3-14-geshur",
+    "book": "דברים",
+    "chapter": 3,
+    "verse": 14,
+    "title": {
+      "he": "גשור — שערי העיר בא־תל",
+      "en": "Geshur: the city gates at et-Tell"
+    },
+    "placeKey": "geshur",
+    "facts": [
+      {
+        "type": "U",
+        "he": "ממלכת גשור קשורה למרחב שמצפון־מזרח לכנרת; גבולותיה המדויקים אינם ידועים.",
+        "en": "Geshur is associated with the region northeast of the Sea of Galilee; its precise borders are unknown.",
+        "source": "https://www.sbl-site.org/assets/pdfs/pubs/9780884143482_OA.pdf"
+      },
+      {
+        "type": "U",
+        "he": "א־תל, המכונה בחפירות בית צידה, הוצע כמרכז שלטוני של גשור.",
+        "en": "Et-Tell, called Bethsaida by its excavators, has been proposed as Geshur's political centre.",
+        "source": "https://www.sbl-site.org/assets/pdfs/pubs/9780884143482_OA.pdf"
+      },
+      {
+        "type": "F",
+        "he": "בחפירות א־תל התגלו שער חיצוני ושער פנימי מתקופת הברזל.",
+        "en": "Excavations at et-Tell uncovered outer and inner Iron Age gates.",
+        "source": "https://bethsaidaarchaeology.org/wp-content/uploads/2024/04/bethsaida-2022-field-report-1.pdf"
+      },
+      {
+        "type": "F",
+        "he": "מעבר מרוצף אבני בזלת חיבר בין חלקי מערכת השערים.",
+        "en": "A basalt-paved passage connected parts of the gateway system.",
+        "source": "https://ngsba.org/excavations/bethsaida/"
+      },
+      {
+        "type": "F",
+        "he": "ליד השער נמצאה מצבת בזלת עם דמות בעלת קרניים; פירושה הדתי נידון במחקר.",
+        "en": "A basalt stele with a horned figure was found by the gate; its religious interpretation is debated.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/bethsaida-et-tell/"
+      },
+      {
+        "type": "F",
+        "he": "במערכת השער נמצאו גם במות ומצבות בלתי מעוטרות, המעידות על פעילות פולחנית בכניסה לעיר.",
+        "en": "The gate complex also contained high places and undecorated stelae, documenting cult activity at the entrance.",
+        "source": "https://library.biblicalarchaeology.org/book/the-new-encyclopedia-of-archaeological-excavations-in-the-holy-land/bethsaida-et-tell/"
+      }
+    ],
+    "quote": {
+      "he": "יָאִיר בֶּן מְנַשֶּׁה, לָקַח אֶת כָּל חֶבֶל אַרְגֹּב, עַד גְּבוּל הַגְּשׁוּרִי, וְהַמַּעֲכָתִי. וַיִּקְרָא אֹתָם עַל שְׁמוֹ אֶת הַבָּשָׁן חַוֹּת יָאִיר, עַד הַיּוֹם הַזֶּה.",
+      "en": "Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, unto this day."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_003/images/idea_04_v12-17.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 3 בלבד. הנוף והמבנים אינם תיעוד מזוהה של גשור.",
+        "en": "Artistic illustration for Deuteronomy 3 only. Its landscape and buildings are not identified views of Geshur."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/3-c3c013d25eec857d1b99215ef8b2f934.mp3?version_id=1",
+        "start": 133.88,
+        "end": 147.96
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0503.mp3",
+        "start": 140.13,
+        "end": 154.61
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-3-25-lebanon",
+    "book": "דברים",
+    "chapter": 3,
+    "verse": 25,
+    "title": {
+      "he": "הלבנון — שני רכסים ובקעה",
+      "en": "Lebanon: two ranges and a valley"
+    },
+    "placeKey": "lebanon",
+    "facts": [
+      {
+        "type": "F",
+        "he": "רכס הלבנון נמשך במקביל לחוף הים התיכון, ממזרח למישור החוף של לבנון.",
+        "en": "The Lebanon range runs parallel to the Mediterranean, east of Lebanon's coastal plain.",
+        "source": "https://science.nasa.gov/earth/earth-observatory/snow-in-lebanon-49849/"
+      },
+      {
+        "type": "F",
+        "he": "ממזרח לו נמצא רכס מול הלבנון; בין שני הרכסים משתרעת בקעת הלבנון.",
+        "en": "The Anti-Lebanon lies to its east, with the Beqaa Valley between the two ranges.",
+        "source": "https://science.nasa.gov/earth/earth-observatory/snow-in-lebanon-49849/"
+      },
+      {
+        "type": "F",
+        "he": "שלג עונתי מצטבר בחלקים הגבוהים של הרכסים, גם סמוך למרחב חוף ים־תיכוני מתון יותר.",
+        "en": "Seasonal snow accumulates at high elevations despite the nearby milder Mediterranean coast.",
+        "source": "https://science.nasa.gov/earth/earth-observatory/snow-in-lebanon-49849/"
+      },
+      {
+        "type": "F",
+        "he": "ארז הלבנון הוא עץ הררי המותאם לקור; עצים נטועים בישראל אינם יער בר מקומי של הארז.",
+        "en": "Lebanon cedar is a cold-adapted mountain tree; planted trees in Israel are not a native wild cedar forest.",
+        "source": "https://www.kkl.org.il/education/youth-and-education/study-materials-for-teachers/trees-and-tubishvat/trees_of_israel/israel_posters_and_podcasts/cedar_of_lebanon/"
+      },
+      {
+        "type": "F",
+        "he": "עצת הארז העמידה שימשה בעת העתיקה לבנייה ולמלאכת עץ יוקרתית.",
+        "en": "Durable cedar timber served ancient construction and prestigious woodworking.",
+        "source": "https://www.kkl.org.il/education/youth-and-education/study-materials-for-teachers/trees-and-tubishvat/trees_of_israel/israel_posters_and_podcasts/cedar_of_lebanon/"
+      },
+      {
+        "type": "B",
+        "he": "הבקשה לראות את הלבנון משקפת מרחב צפוני בסיפור; אין להסיק ממנה שמשה עמד בנקודה שממנה רואים כל רכס.",
+        "en": "The wish to see Lebanon invokes a northern region; it does not establish a vantage point overlooking every range.",
+        "source": "https://www.sefaria.org/Deuteronomy.3.25?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״אֶעְבְּרָה נָּא, וְאֶרְאֶה אֶת הָאָרֶץ הַטּוֹבָה, אֲשֶׁר, בְּעֵבֶר הַיַּרְדֵּן: הָהָר הַטּוֹב הַזֶּה וְהַלְּבָנֹן.״",
+      "en": "I pray thee, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_003/images/idea_07_v23-27.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 3 בלבד. הנוף והמבנים אינם תיעוד מזוהה של הלבנון.",
+        "en": "Artistic illustration for Deuteronomy 3 only. Its landscape and buildings are not identified views of Lebanon."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/3-c3c013d25eec857d1b99215ef8b2f934.mp3?version_id=1",
+        "start": 241.48,
+        "end": 248.98
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0503.mp3",
+        "start": 265.19,
+        "end": 272.68
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-8-9-timna",
+    "book": "דברים",
+    "chapter": 8,
+    "verse": 9,
+    "title": {
+      "he": "נחושת — הדוגמה של בקעת תמנע",
+      "en": "Copper: the example of Timna Valley"
+    },
+    "placeKey": "timna",
+    "facts": [
+      {
+        "type": "F",
+        "he": "בקעת תמנע שבדרום הערבה כוללת שכבות אבן חול נושאות עפרות נחושת.",
+        "en": "Timna Valley in the southern Arabah contains sandstone layers bearing copper ores.",
+        "source": "https://doi.org/10.1016/j.jaridenv.2026.105557"
+      },
+      {
+        "type": "F",
+        "he": "באתרי הכרייה נחשפו פירים וגלריות, ולא רק מחצבות פתוחות.",
+        "en": "Mining sites preserve shafts and galleries as well as surface workings.",
+        "source": "https://doi.org/10.1016/j.jaridenv.2026.105557"
+      },
+      {
+        "type": "F",
+        "he": "ערמות סיגים הן פסולת התכה ומעידות שהפקת המתכת נעשתה גם בתוך הבקעה.",
+        "en": "Slag heaps are smelting waste, showing that metal extraction occurred within the valley.",
+        "source": "https://en-humanities.tau.ac.il/Blog.BD.Timna"
+      },
+      {
+        "type": "F",
+        "he": "במרחב הכרייה נחפר מקדש מצרי לאלה חתחור, לצד מתקני התעשייה.",
+        "en": "An Egyptian temple to Hathor was excavated in the mining district alongside industrial installations.",
+        "source": "https://en-humanities.tau.ac.il/Blog.BD.Timna"
+      },
+      {
+        "type": "F",
+        "he": "מחקרי תיארוך מבחינים בין פעילות בתקופת הברונזה המאוחרת לבין שלבים מתקופת הברזל.",
+        "en": "Dating studies distinguish Late Bronze Age activity from Iron Age production phases.",
+        "source": "https://www.tandfonline.com/doi/abs/10.1080/00758914.2016.1145943"
+      },
+      {
+        "type": "U",
+        "he": "דברים אינו מציין את תמנע בשמה; האתר הוא דוגמה אזורית להפקת נחושת, לא זיהוי ודאי של ״ההרים״ שבפסוק.",
+        "en": "Deuteronomy does not name Timna; it is a regional example of copper extraction, not certain identification of the verse's mountains.",
+        "source": "https://www.sefaria.org/Deuteronomy.8.9?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״אֶרֶץ, אֲשֶׁר לֹא בְמִסְכֵּנֻת תֹּאכַל בָּהּ לֶחֶם. לֹא תֶחְסַר כֹּל בָּהּ. אֶרֶץ אֲשֶׁר אֲבָנֶיהָ בַרְזֶל, וּמֵהֲרָרֶיהָ תַּחְצֹב נְחֹשֶׁת.״",
+      "en": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron, and out of whose hills thou mayest dig brass."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chrysocolla_Timna_070613.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "kind": "photograph",
+      "source": "https://commons.wikimedia.org/wiki/File:Chrysocolla_Timna_070613.jpg",
+      "rights": "CC0 1.0 Universal Public Domain Dedication, Wilson44691. Unmodified image.",
+      "caption": {
+        "he": "עפרת נחושת (כריזוקולה) באבן חול בבקעת תמנע. צילום: Wilson44691, רישיון CC0.",
+        "en": "Copper ore (chrysocolla) in sandstone, Timna Valley. Photograph: Wilson44691; CC0."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/8-5a504c0dab868eb3b8ed6e7fc9f89050.mp3?version_id=1",
+        "start": 79.78,
+        "end": 90.46
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0508.mp3",
+        "start": 95.56,
+        "end": 107.26
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-10-7-jotbathah",
+    "book": "דברים",
+    "chapter": 10,
+    "verse": 7,
+    "title": {
+      "he": "יטבתה — נווה, דרך ומצודה",
+      "en": "Jotbathah: oasis, road and fort"
+    },
+    "placeKey": "jotbathah",
+    "facts": [
+      {
+        "type": "U",
+        "he": "יטבתה המקראית מקושרת במסורת המחקר לנווה יטבתה שבערבה הדרומית; הזיהוי משוער.",
+        "en": "Biblical Jotbathah is associated with the Yotvata oasis in the southern Arabah; the identification is tentative.",
+        "source": "https://journalofromanarchaeology.com/wp-content/uploads/2020/04/19_Davies-Magness.pdf"
+      },
+      {
+        "type": "F",
+        "he": "המצודה הרומית נמצאת בשולי נווה גדול, על ציר תנועה לכיוון אילה שבמפרץ אילת.",
+        "en": "The Roman fort stands on the edge of a large oasis along a route toward Aila at the gulf's head.",
+        "source": "https://journalofromanarchaeology.com/wp-content/uploads/2020/04/19_Davies-Magness.pdf"
+      },
+      {
+        "type": "F",
+        "he": "ליד המצודה נמצאה כתובת לטינית המזכירה הקמת מצודה בתקופת הטטררכיה.",
+        "en": "A Latin inscription near the fort refers to a Tetrarchic fort foundation.",
+        "source": "https://journalofromanarchaeology.com/wp-content/uploads/2020/04/19_Davies-Magness.pdf"
+      },
+      {
+        "type": "U",
+        "he": "חופרי המצודה הציעו לתארך את המבנה שנחפר למאה הרביעית, מאוחר מן הייחוס המקובל על סמך הכתובת.",
+        "en": "The excavators proposed dating the excavated fort to the fourth century, later than the customary inscription-based attribution.",
+        "source": "https://journalofromanarchaeology.com/wp-content/uploads/2020/04/19_Davies-Magness.pdf"
+      },
+      {
+        "type": "F",
+        "he": "בתקופה האסלאמית הקדומה שימשו באזור בארות שרשרת ובריכות פתוחות להשקיית גידולים.",
+        "en": "Early Islamic cultivation used qanats and open pools for irrigation in the area.",
+        "source": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=25682"
+      },
+      {
+        "type": "B",
+        "he": "הכינוי ״ארץ נחלי מים״ הוא תיאור מקראי; מתקני המים המאוחרים אינם תיארוך למסע המתואר.",
+        "en": "“A land of watercourses” is the biblical description; later waterworks do not date the narrated journey.",
+        "source": "https://www.sefaria.org/Deuteronomy.10.7?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״מִשָּׁם נָסְעוּ הַגֻּדְגֹּדָה. וּמִן הַגֻּדְגֹּדָה יָטְבָתָה, אֶרֶץ נַחֲלֵי מָיִם.״",
+      "en": "From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_010/images/idea_02_v6-11.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 10 בלבד. הנוף והמבנים אינם תיעוד מזוהה של יטבתה.",
+        "en": "Artistic illustration for Deuteronomy 10 only. Its landscape and buildings are not identified views of Jotbathah."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/10-fa86ac78b51ace532d180f1bdd153aa8.mp3?version_id=1",
+        "start": 68.68,
+        "end": 77.26
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0510.mp3",
+        "start": 70.07,
+        "end": 77.73
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-11-10-rainFarming",
+    "book": "דברים",
+    "chapter": 11,
+    "verse": 10,
+    "title": {
+      "he": "מצרים וכנען — השקיה לעומת גשם",
+      "en": "Egypt and Canaan: irrigation and rainfall"
+    },
+    "placeKey": "rainFarming",
+    "facts": [
+      {
+        "type": "B",
+        "he": "הפסוקים משווים את מצרים שבה משקים את הזרע לארץ הרים ובקעות התלויה בגשם.",
+        "en": "The verses contrast irrigated Egypt with a land of hills and valleys dependent on rainfall.",
+        "source": "https://www.sefaria.org/Deuteronomy.11.11?lang=bi"
+      },
+      {
+        "type": "F",
+        "he": "חקלאות עמק הנילוס נשענה על מי הנהר גם במקום שכמעט אין בו גשם מקומי.",
+        "en": "Nile Valley farming relied on river water even where local rainfall was scarce.",
+        "source": "https://documents1.worldbank.org/curated/en/402661468248083855/pdf/455240PUB0indi101Official0Use0Only1.pdf"
+      },
+      {
+        "type": "F",
+        "he": "האקלים הים־תיכוני באזור כנען מאופיין בחורף גשום ובקיץ יבש.",
+        "en": "The Mediterranean climate in the Canaan region has rainy winters and dry summers.",
+        "source": "https://www.cbs.gov.il/he/publications/doclib/2023/yarhon0523/intstat_e.pdf"
+      },
+      {
+        "type": "F",
+        "he": "המרחב הדרומי והמזרחי עובר לתנאים מדבריים, ולכן אין משטר גשם אחיד לכל הארץ.",
+        "en": "The south and east transition into desert conditions, so rainfall is not uniform across the land.",
+        "source": "https://www.cbs.gov.il/he/publications/doclib/2023/yarhon0523/intstat_e.pdf"
+      },
+      {
+        "type": "F",
+        "he": "במדרונות אזור בתיר, מדרגות אבן ותעלות מעיינות משלבות חקלאות בעל ושלחין באותו מרחב הררי.",
+        "en": "At Battir, stone terraces and spring channels combine rain-fed and irrigated farming in one hill landscape.",
+        "source": "https://whc.unesco.org/en/list/1492/"
+      },
+      {
+        "type": "U",
+        "he": "הניגוד המקראי אינו אומר שלא הייתה השקיה בכנען או שלא התרחש רעב במצרים.",
+        "en": "The biblical contrast does not mean Canaan lacked irrigation or Egypt never experienced famine.",
+        "source": "https://www.sefaria.org/Deuteronomy.11.10?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״כִּי הָאָרֶץ, אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ. לֹא כְאֶרֶץ מִצְרַיִם הִוא, אֲשֶׁר יְצָאתֶם מִשָּׁם: אֲשֶׁר תִּזְרַע אֶת זַרְעֲךָ וְהִשְׁקִיתָ בְרַגְלְךָ כְּגַן הַיָּרָק.״",
+      "en": "For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_011/images/idea_02_v8-12.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 11 בלבד. הנוף והמבנים אינם תיעוד מזוהה של מצרים וכנען.",
+        "en": "Artistic illustration for Deuteronomy 11 only. Its landscape and buildings are not identified views of Egypt and Canaan."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/11-50b90d1612b7da185f7e76a62434cc7b.mp3?version_id=1",
+        "start": 95.88,
+        "end": 109.6
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0511.mp3",
+        "start": 101.69,
+        "end": 114.78
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-11-29-gerizimEbal",
+    "book": "דברים",
+    "chapter": 11,
+    "verse": 29,
+    "title": {
+      "he": "גריזים ועיבל — שני עברי עמק שכם",
+      "en": "Gerizim and Ebal: opposite sides of Shechem's valley"
+    },
+    "placeKey": "gerizimEbal",
+    "facts": [
+      {
+        "type": "F",
+        "he": "הר גריזים נמצא מדרום לעמק שכם, והר עיבל מצפונו.",
+        "en": "Mount Gerizim lies south of Shechem's valley and Mount Ebal to its north.",
+        "source": "https://whc.unesco.org/en/tentativelists/6949/"
+      },
+      {
+        "type": "F",
+        "he": "על גריזים נחפר מתחם מקודש שסביבו התפתחה עיר בתקופות הפרסית וההלניסטית.",
+        "en": "Gerizim yielded a sacred precinct around which a Persian- and Hellenistic-period town developed.",
+        "source": "https://landmarks.gov.il/גריזים"
+      },
+      {
+        "type": "F",
+        "he": "במתחם התגלו שערים, חומות ומדרגות המקשרות בין אזורי העיר לפסגה.",
+        "en": "The precinct yielded gates, walls and stairs connecting town areas with the summit.",
+        "source": "https://landmarks.gov.il/גריזים"
+      },
+      {
+        "type": "F",
+        "he": "כתובות הקדשה בכתבים ובשפות שונות מתעדות את הפעילות הדתית באתר.",
+        "en": "Dedicatory inscriptions in different scripts and languages document religious activity at the site.",
+        "source": "https://landmarks.gov.il/גריזים"
+      },
+      {
+        "type": "F",
+        "he": "במרקם העירוני שעל ההר נמצאו גם בתי בד, ולא רק מבני פולחן.",
+        "en": "The mountain's urban remains include olive presses as well as cult buildings.",
+        "source": "https://landmarks.gov.il/גריזים"
+      },
+      {
+        "type": "B",
+        "he": "הפסוק מציב ברכה על גריזים וקללה על עיבל; המקדש המאוחר אינו תיארוך לטקס המקראי.",
+        "en": "The verse assigns blessing to Gerizim and curse to Ebal; the later temple does not date the biblical ceremony.",
+        "source": "https://www.sefaria.org/Deuteronomy.11.29?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״וְהָיָה, כִּי יְבִיאֲךָ יְהוָה אֱלֹהֶיךָ, אֶל הָאָרֶץ, אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ. וְנָתַתָּה אֶת הַבְּרָכָה עַל הַר גְּרִזִים וְאֶת הַקְּלָלָה עַל הַר עֵיבָל.״",
+      "en": "And it shall come to pass, when the Lord thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_011/images/idea_07_v29-30.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 11 בלבד. הנוף והמבנים אינם תיעוד מזוהה של גריזים ועיבל.",
+        "en": "Artistic illustration for Deuteronomy 11 only. Its landscape and buildings are not identified views of Gerizim and Ebal."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/11-50b90d1612b7da185f7e76a62434cc7b.mp3?version_id=1",
+        "start": 285.34,
+        "end": 298.96
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0511.mp3",
+        "start": 303.1,
+        "end": 315.6
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-27-4-ebal",
+    "book": "דברים",
+    "chapter": 27,
+    "verse": 4,
+    "title": {
+      "he": "הר עיבל — מבנה שפירושו במחלוקת",
+      "en": "Mount Ebal: a disputed structure"
+    },
+    "placeKey": "ebal",
+    "facts": [
+      {
+        "type": "F",
+        "he": "האתר שנחפר בידי אדם זרטל נמצא במדרון הצפון־מזרחי של הר עיבל, ולא בפסגתו.",
+        "en": "Adam Zertal's excavation lies on Mount Ebal's northeastern slope, not its summit.",
+        "source": "https://cojs.org/mt-_ebal_altar-_13th-12th_century_bce/"
+      },
+      {
+        "type": "F",
+        "he": "באתר נחשף מבנה אבן מלבני בתוך מערכת מתחמים וחצרות.",
+        "en": "A rectangular stone structure was exposed within enclosures and courtyards.",
+        "source": "https://cojs.org/has_joshua-s_altar_been_found_on_mt-_ebal-_adam_zertal-_bar_11-01-_jan-feb_1985/"
+      },
+      {
+        "type": "F",
+        "he": "אל המבנה ניגש מתקן משופע שזרטל פירש ככבש למזבח.",
+        "en": "An inclined approach reaches the structure; Zertal interpreted it as an altar ramp.",
+        "source": "https://cojs.org/has_joshua-s_altar_been_found_on_mt-_ebal-_adam_zertal-_bar_11-01-_jan-feb_1985/"
+      },
+      {
+        "type": "F",
+        "he": "במילוי ובמתקנים נמצאו אפר, עצמות בעלי חיים וכלי חרס מתקופת הברזל א׳.",
+        "en": "Fill and installations contained ash, animal bones and Iron Age I pottery.",
+        "source": "https://library.biblicalarchaeology.org/sidebar/evidence-for-dating-the-mt-ebal-altar/"
+      },
+      {
+        "type": "U",
+        "he": "הפירוש כמזבח מתקבל אצל חלק מהחוקרים, ואחרים הציעו פירושים שונים למבנה.",
+        "en": "Some researchers accept the altar interpretation; others propose different functions.",
+        "source": "https://cojs.org/mt-_ebal_altar-_13th-12th_century_bce/"
+      },
+      {
+        "type": "U",
+        "he": "אין כתובת המזהה את המבנה כמזבח שציווה משה; השוואתו לפסוק היא פרשנות מחקרית.",
+        "en": "No inscription identifies it as the altar commanded by Moses; comparison with the verse is scholarly interpretation.",
+        "source": "https://www.sefaria.org/Deuteronomy.27.4?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "״וְהָיָה, בְּעָבְרְכֶם אֶת הַיַּרְדֵּן, תָּקִימוּ אֶת הָאֲבָנִים הָאֵלֶּה אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם בְּהַר עֵיבָל. וְשַׂדְתָּ אוֹתָם, בַּשִּׂיד.״",
+      "en": "Therefore it shall be when ye be gone over Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_027/images/idea_02_v4-8.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 27 בלבד. הנוף והמבנים אינם תיעוד מזוהה של הר עיבל.",
+        "en": "Artistic illustration for Deuteronomy 27 only. Its landscape and buildings are not identified views of Mount Ebal."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/27-195394298720d0ccf0915b49a244eba4.mp3?version_id=1",
+        "start": 36.1,
+        "end": 46.76
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0527.mp3",
+        "start": 42.81,
+        "end": 52.74
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-34-1-nebo",
+    "book": "דברים",
+    "chapter": 34,
+    "verse": 1,
+    "title": {
+      "he": "הר נבו — תצפית, עיר ומקום זיכרון",
+      "en": "Mount Nebo: viewpoint, town and memorial"
+    },
+    "placeKey": "nebo",
+    "facts": [
+      {
+        "type": "F",
+        "he": "הר נבו נמצא בעבר הירדן, ממערב למידבא וממזרח לבקעת הירדן.",
+        "en": "Mount Nebo lies in Transjordan west of Madaba and east of the Jordan Valley.",
+        "source": "https://www.custodia.org/en/convents/madaba-mount-nebo/"
+      },
+      {
+        "type": "F",
+        "he": "ראס סיאע׳ה הוא אתר הזיכרון המסורתי למשה, ובו בזיליקה ושרידי מנזר.",
+        "en": "Ras Siyagha is the traditional Moses memorial site, with a basilica and monastery remains.",
+        "source": "https://www.custodia.org/en/convents/madaba-mount-nebo/"
+      },
+      {
+        "type": "F",
+        "he": "חורבת אל־מח׳יט היא אתר יישוב סמוך ונפרד מן הפסגה של סיאע׳ה.",
+        "en": "Khirbet al-Mukhayyat is a nearby settlement site distinct from Siyagha's summit.",
+        "source": "https://www.townofneboproject.com/wp-content/uploads/2018/07/Mukhayyat_LA-2016.pdf"
+      },
+      {
+        "type": "F",
+        "he": "באל־מח׳יט נמצאו ממצאים מתקופת הברזל, ובהם כתובת מואבית וחותם.",
+        "en": "Al-Mukhayyat yielded Iron Age finds including a Moabite inscription and a seal.",
+        "source": "https://sbf.custodia.org/sites/default/files/2019-04/museo_guida_2018_en.pdf"
+      },
+      {
+        "type": "U",
+        "he": "השם ״נבו״ יכול לציין בספרות גם יישוב וגם הר; אין למזג את כל האזכורים לנקודה אחת.",
+        "en": "“Nebo” can denote a town or a mountain; all references should not be merged into one point.",
+        "source": "https://www.townofneboproject.com/wp-content/uploads/2018/07/Mukhayyat_LA-2016.pdf"
+      },
+      {
+        "type": "B",
+        "he": "המקרא עצמו אומר שקבר משה אינו ידוע; אתר הזיכרון אינו זיהוי ארכאולוגי של קברו.",
+        "en": "The Bible itself says Moses's grave is unknown; the memorial is not archaeological identification of his burial.",
+        "source": "https://www.sefaria.org/Deuteronomy.34.6?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וַיַּעַל מֹשֶׁה מֵעַרְבֹת מוֹאָב, אֶל הַר נְבוֹ, רֹאשׁ הַפִּסְגָּה, אֲשֶׁר עַל פְּנֵי יְרֵחוֹ. וַיַּרְאֵהוּ יְהוָה אֶת כָּל הָאָרֶץ אֶת הַגִּלְעָד, עַד דָּן.",
+      "en": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the Lord shewed him all the land of Gilead, unto Dan,"
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_034/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 34 בלבד. הנוף והמבנים אינם תיעוד מזוהה של הר נבו.",
+        "en": "Artistic illustration for Deuteronomy 34 only. Its landscape and buildings are not identified views of Mount Nebo."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/34-32d6fd8fc55581a3dde5a9003618ce3e.mp3?version_id=1",
+        "start": 2.88,
+        "end": 15.94
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0534.mp3",
+        "start": 3.15,
+        "end": 18.54
+      }
+    },
+    "review": {
+      "structural": "passed",
+      "editorial": "initial review; independent scholarly review pending",
+      "image": "artistic chapter illustration, explicitly labelled"
+    }
+  },
+  {
+    "id": "deuteronomy-34-3-jerichoTown",
+    "book": "דברים",
+    "chapter": 34,
+    "verse": 3,
+    "title": {
+      "he": "יריחו — המעיין והתל",
+      "en": "Jericho: spring and mound"
+    },
+    "placeKey": "jerichoTown",
+    "facts": [
+      {
+        "type": "F",
+        "he": "יריחו הקדומה מזוהה עם תל א־סולטאן, מצפון־מערב למרכז יריחו המודרנית.",
+        "en": "Ancient Jericho is identified with Tell es-Sultan northwest of modern Jericho's centre.",
+        "source": "https://whc.unesco.org/en/list/1687/"
+      },
+      {
+        "type": "F",
+        "he": "מעיין עין א־סולטאן שלצד התל סיפק מים לנווה לאורך אלפי שנים.",
+        "en": "The adjacent Ain es-Sultan spring supplied the oasis over millennia.",
+        "source": "https://whc.unesco.org/en/list/1687/"
+      },
+      {
+        "type": "F",
+        "he": "באתר נחשפו מגדל, חומה ותעלה מן התקופה הנאוליתית הקדם־קרמית.",
+        "en": "The site yielded a tower, wall and ditch from the Pre-Pottery Neolithic.",
+        "source": "https://whc.unesco.org/en/list/1687/"
+      },
+      {
+        "type": "F",
+        "he": "בתקופת הברונזה התיכונה נבנתה מערכת סוללות וביצורים של עיר כנענית גדולה.",
+        "en": "The Middle Bronze Age saw ramparts and fortifications of a substantial Canaanite town.",
+        "source": "https://whc.unesco.org/en/list/1687/"
+      },
+      {
+        "type": "F",
+        "he": "השכבות הנאוליתיות והביצורים הכנעניים רחוקים זה מזה בזמן; אין אלה חומות מתקופה אחת.",
+        "en": "The Neolithic remains and Canaanite defences are widely separated in time, not one period's walls.",
+        "source": "https://whc.unesco.org/en/list/1687/"
+      },
+      {
+        "type": "B",
+        "he": "דברים מכנה את יריחו ״עיר התמרים״; זו מסורת זיהוי של נווה, ולא תאריך לשכבת חורבן מסוימת.",
+        "en": "Deuteronomy calls Jericho the city of palms, identifying an oasis rather than dating a particular destruction layer.",
+        "source": "https://www.sefaria.org/Deuteronomy.34.3?lang=bi"
+      }
+    ],
+    "quote": {
+      "he": "וְאֶת הַנֶּגֶב, וְאֶת הַכִּכָּר בִּקְעַת יְרֵחוֹ עִיר הַתְּמָרִים. עַד צֹעַר.",
+      "en": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar."
+    },
+    "era": {
+      "he": "מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם",
+      "en": "Wilderness and Transjordan tradition — no agreed dating"
+    },
+    "image": {
+      "src": "דברים/chapter_034/images/idea_01.jpg",
+      "kind": "artistic",
+      "caption": {
+        "he": "איור אמנותי לפרק דברים 34 בלבד. הנוף והמבנים אינם תיעוד מזוהה של יריחו.",
+        "en": "Artistic illustration for Deuteronomy 34 only. Its landscape and buildings are not identified views of Jericho."
+      }
+    },
+    "audio": {
+      "en": {
+        "url": "https://audio-bible-cdn.youversionapi.com/8/32k/DEU/34-32d6fd8fc55581a3dde5a9003618ce3e.mp3?version_id=1",
+        "start": 22.7,
+        "end": 29.48
+      },
+      "he": {
+        "url": "https://mechon-mamre.org/mp3/t0534.mp3",
+        "start": 26.23,
+        "end": 32.06
       }
     },
     "review": {

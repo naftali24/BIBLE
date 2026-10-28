@@ -1,0 +1,11 @@
+[
+  {
+    "book": "שמות", "chapter": 15, "issue": "Hebrew verses array ends at verse 19; English array has 27 verses.",
+    "action": "Unchanged source file. Atlas-only Hebrew supplement for 15:27 verified against Mechon-Mamre. No invented Hebrew recording timestamp."
+  },
+  {
+    "book": "שמות", "chapter": 8, "verse": 18,
+    "issue": "Hebrew entry mentions Goshen; same-index English entry discusses magicians and lice. Matching array lengths do not establish verse equivalence.",
+    "action": "Unchanged source file. This pair is not used by the atlas. Goshen's Exodus event uses 9:26, checked in both languages. Other chapter 8 pairs require a separate alignment audit."
+  }
+]

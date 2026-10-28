@@ -1,48 +1,51 @@
-# Geographical Bible — work checkpoint, 2026-10-28
+# תנ״ך גיאוגרפי — גרסת עבודה עד במדבר ודברים
 
-This is **not the completed atlas requested in the brief**. Do not describe the full Bible, or even Genesis, as completed.
+עודכן: 28 באוקטובר 2026. בהתאם להנחיה האחרונה, העבודה נעצרת למסירה אחרי מקטע במדבר ודברים; המשך לספרים הבאים ייעשה בשיחה הבאה.
 
-## Current deliverable
+**זו גרסת עבודה, ולא אטלס מלא או אישור שכל המקומות בספרים הושלמו.** רשומות שלא נמצא להן חומר מספק נשארות ברשימת השלמות, ואין להציגן כאירועים מאושרים.
 
-- `../geographical_bible.html`: self-contained bilingual event viewer, using the historical application's brown/gold visual language. Only new atlas files have been added.
-- 45 drafted Genesis events, each with six paired Hebrew/English statements (270 per language), source links and evidence categories.
-- Canonical verse strings copied exactly from the repository's `chapter.json` files. Existing verses, images, recordings and applications have not been edited.
-- All 39 individual books appear in the owl menu. The other 38 have an explicit incomplete state, not fabricated content.
-- Genesis chapters 1–50 received an initial geographical candidate pass. This is not an exhaustive scholarly survey. The 929 chapter records for the whole Tanakh were technically indexed; indexing is **not** a geographical review.
-- All 45 selected illustrations were visually inspected in a contact sheet. One generated map with unverified place labels was rejected and replaced. Illustrations are labelled as artistic chapter scenes, not photographs or verified reconstructions of the featured sites.
-- Gor(en) Atad was withdrawn: it lacked six independent geographical facts. Its draft remains in the authoring source and its status in `coverage.json`.
+| ספר | פרקים בסריקת מועמדים ראשונית | אירועים כתובים | עובדות בכל שפה | עברו בדיקות מבנה | אישור מחקרי סופי לכל הספר |
+|---|---:|---:|---:|---:|---|
+| בראשית | 50 | 53 | 318 | 53 | טרם הושלם |
+| שמות | 40 | 13 | 78 | 13 | טרם הושלם |
+| ויקרא | 27 | 0 | 0 | 0 | טרם הושלם |
+| במדבר | 36 | 13 | 78 | 13 | טרם הושלם |
+| דברים | 34 | 12 | 72 | 12 | טרם הושלם |
+| סך הכול | 187 | 91 | 546 | 91 | האטלס טרם הושלם |
 
-## Honest quality status
+The remaining **34 individual books** have been technically indexed only. There are 39 book entries in the owl menu and 929 chapter entries in the technical ledger. Initial candidate scanning is distinct from exhaustive geographic research or final scholarly approval. No book has `completed: true`.
 
-| Book | Chapters in initial pass | Draft events | Structural checks passed | Final ten-check scholarly approval | Withdrawn |
-|---|---:|---:|---:|---:|---:|
-| Genesis | 50 | 45 | 45 | 0 | 1 |
-| Every other book | 0 | 0 | 0 | 0 | 0 |
+## מה נוסף במקטע הנוכחי
 
-All source links provide research context, but the existence of a URL is not a claim that every assertion has passed independent source verification. Some linked reference entries require further verification, and some facts are interpretive explanations of the text. An independent scholarly review remains outstanding. No book has `completed: true`.
+- שמונה אירועים נוספים בבראשית: עזה, עילם, קדש, חצצון תמר, צוער, דדן, שבא ומחניים.
+- 13 אירועים בשמות: פיתום, רעמסס, שפת היאור, מדין, חורב, גושן, סוכות, דרך ארץ פלשתים, חציית הים, אילים, מדבר סין, רפידים ומחנה סיני.
+- 13 אירועים בבמדבר: לבוא חמת, דרך המלך, הר ההר, ערד, ארנון, חשבון, מידבא, בשן, דיבון, עטרות, עציון גבר, נחל מצרים וכנרת.
+- 12 אירועים בדברים: אילת, חרמון, רבת בני עמון, גשור, לבנון, נחושת בתמנע כדוגמה אזורית, יטבתה, חקלאות מצרים וכנען, גריזים ועיבל, מבנה עיבל, נבו ויריחו.
+- 46 תמונות האירועים החדשים נסקרו בגליון תמונות. מפה אמנותית עם שמות לא מאומתים הוצאה גם מרשומת עזה. האיורים שאינם מראה מזוהה של המקום מסומנים במפורש כאיורים לפרק.
+- נוספו תצלומים חיצוניים עם מקור וייחוס: ואדי ע׳רנדל/אילים (אוסף מטסון, ספריית הקונגרס), ואדי מוג׳יב/ארנון (נחלת הכלל), עפרת נחושת מתמנע (CC0), והכנרת (NASA). קבצים אלה דורשים חיבור לאינטרנט. מקור וזכויות נכללים ב־`image_overrides.json` ובנתוני האירוע.
 
-## Explicit remaining scope
+## בעיות מקור שהתגלו
 
-1. Continue Genesis review and investigate omitted candidates: Akkad and Calneh (10:10); Gaza (10:19); Elam (14:1); Ashteroth-karnaim, Ham, Shaveh-kiriathaim (14:5); Kadesh and Hazazon-tamar (14:7); Beer-lahai-roi (16:14); Zoar (19:23); Aram-naharaim and the city of Nahor (24:10); Dedan and Sheba (25:3); Mahanaim (32:3); Migdal-eder (35:21); Edomite royal centres (36:31–39); Chezib and Timnah (38:5,12); Atad (50:10). Listing these is not a claim of researched event content. Some identifications may remain unresolved.
-2. Start Exodus at chapters 1–20, then continue automatically in 10–20 chapter sections through the remaining books. Hundreds of researched events remain to be written; this checkpoint does not meet the requested final quantity.
-3. Replace artistic illustrations with correctly licensed and attributed site photographs wherever available; do not add AI maps with unverified labels.
-4. Expand source support and independently review facts, archaeological attribution, direct verse relation, uncertainty wording, translation equivalence and meaningful differences between repeated sites.
-5. Review all chapters again before marking a book complete. Zero events in a chapter does not certify absence of geographic material.
+1. בקובץ המקור של שמות ט״ו יש 19 פסוקים בעברית ו־27 באנגלית. הפסוק העברי לאילים (15:27) הושלם **באפליקציה החדשה בלבד** ממכון ממרא, לאחר אימות. מקור ההשלמה ונסיבותיה שמורים ב־`verse_supplements.json`. אין שינוי בקובץ הפרק המקורי, ואין המצאת תזמון שמע לעברית החסרה.
+2. בשמות ח׳:י״ח הטקסט העברי מזכיר גושן, והאנגלית באותו אינדקס עוסקת בחרטומים ובכינים. הזוג הזה לא הוכנס לאטלס. אירוע גושן נבחר בשמות ט׳:כ״ו, שנבדק בשתי השפות. יתר הזוגות בפרק ח׳ טעונים ביקורת יישור נפרדת. המקור לא נערך.
 
-## Verification performed
+`source_issues.json` מתעד את שתי הבעיות. שוויון במספר הפסוקים או העובדות אינו מוכיח התאמה סמנטית או אמת היסטורית.
 
-- `python geography/build.py`: repeatable generation from authoring records and unchanged chapter assets.
-- `python geography/validate.py`: 45 events; six facts in both languages; unique IDs; no repeated full fact strings; exact verse equality; local image existence; valid recording segment shapes; 39 book entries and 929 chapter entries. **No factual truth certification is implied.**
-- DOM integration: 90 event/language renders; event navigation; all book choices and incomplete states; complete GPT context and correct `https://chatgpt.com/?q=` URLs; progress report; local saved position; mocked recording/speech handlers. Install jsdom outside the repo and set `NODE_PATH` to that installation to run `node geography/test_dom.cjs`.
-- Actual browser visual/mobile tests were blocked because this environment had no Chromium binary and the browser download returned invalid ZIP files. DOM tests do not establish visual fit, real touch behaviour or media playback.
-- Actual Hebrew/English audio delivery, device speech voices, Android screen layout, installed-PWA navigation and fullscreen behaviour still require device testing. The existing shared `manifest.json` is referenced; `index.html` and PWA files are unchanged.
+## השלמות ומגבלות
 
-## Design and behaviour
+- `pending_candidates.json` מפרט מועמדים שלא הושלמו, עם מראי מקום. בין היתר: תחנות רבות בבמדבר ל״ג, ציוני גבול נוספים בבמדבר ל״ד, פתור, שיטים, ערבות מואב, יעזר, בצר, ראמות, גולן וחלוקת הנחלות בדברים.
+- גורן האטד הוצאה מן התצוגה משום שלא נמצאו שש עובדות גיאוגרפיות עצמאיות בטיוטה. אין להחליף חוסרים במשפטי מילוי.
+- ויקרא נסרק ברמת מועמדים אך לא נוספו בו אירועים. אזכור חוזר של סיני או כנען אינו כשלעצמו הצדקה לשש עובדות חוזרות. הספר אינו מוצג כהושלם.
+- לכל עובדה יש קישור מקור וסיווג: גאוגרפיה/ממצא, משוער, או מסורת מקראית. חלק מהמקורות נקראו כתקצירים או כרשומות מוסדיות; אין כאן טענה שכל סעיף עבר אימות מחקרי עצמאי מלא. נדרשת ביקורת מחקרית נוספת לפני סימון ספר כמושלם.
+- רוב התמונות עדיין איורי הסיפורים הקיימים. יש להמשיך להחליף אותם בתצלומי אתרים מדויקים ומורשים, בלי להציג איור או נוף של מקום אחר כתצלום האתר.
 
-The viewer displays one event at a time. Long cards scroll naturally; vertical swipes or mouse-wheel movements at the appropriate scroll boundary advance events. Footer arrows always work. The title's audio button uses existing verse recordings with exact Hebrew string-aligned timing where possible; absent timing falls back to device speech. It does not invent recording timestamps.
+## בדיקות
 
-GPT opens in a new tab with the same query-string method as the historical app, preceded by a reviewable context dialog. The user must click Open GPT; blocked popups leave the prompt available for copying. No external messages are sent.
+- `python geography/build.py`: בנייה חוזרת של HTML ושל קובצי הנתונים, בלי עריכת המקורות.
+- `python geography/validate.py`: שש עובדות בכל שפה; מזהים ייחודיים; ללא כפילויות מילוליות; התאמת פסוקים למקור או להשלמה המאומתת; קיום תמונות מקומיות וייחוס לתמונות חיצוניות; מבנה תקין של מקטעי שמע; 39 ספרים ו־929 פרקים ברשומת הכיסוי.
+- `node geography/test_dom.cjs`, עם jsdom מותקן בנפרד: תצוגת כל 91 האירועים בשתי השפות (182 תצוגות), תפריט הספרים, מעבר בין ספרים ואירועים, נוסח GPT הכולל את כל העובדות, כתובת פתיחת GPT, דוח התקדמות ושמירת מיקום. השמע נבדק באמצעות הדמיית ממשקי המדיה, לא האזנה בפועל.
+- גרסת המקטע הראשון נבדקה בדפדפן שולחני חי; הגרסה המעודכנת נבדקת שוב לפני המסירה. תצוגת אנדרואיד, מחוות מגע, שמע ממשי וקולות דיבור ומסך מלא מתוך PWA מחייבים עדיין בדיקת מכשיר.
 
-## Files
+## שמירת היקף
 
-`events.txt` and `sources.json` are the authoring inputs. `events.json`, `coverage.json`, `validation.json` and the root HTML are generated outputs. `coverage.json` contains chapter hashes and incomplete status. Never edit the historical application or index as part of this stage.
+לא שונו `index.html`, `historical_bible.html`, קובצי פרקים, תמונות קיימות, הקלטות, משחקים או קובצי ה־PWA. האפליקציה החדשה מפנה ל־`manifest.json` הקיים ומשתמשת בנכסי המאגר הקיימים. לחצן השמע משמיע את הפסוק בהקלטה קיימת כאשר נמצא תזמון מתאים; אם אינו זמין, הוא פונה למנוע הדיבור של המכשיר. לחצן GPT משתמש בפתיחה ל־`https://chatgpt.com/?q=` אחרי הצגת השאלה לעיון.

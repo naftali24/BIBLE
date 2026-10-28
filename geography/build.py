@@ -9,14 +9,16 @@ def norm(s):return ''.join(c for c in unicodedata.normalize('NFD',s) if c.isalnu
 def chapter(book,n):return json.loads((ROOT/book/f'chapter_{n:03}'/'chapter.json').read_text())
 def bible_source(alias,item):
  parts=alias.split(':');ch,v=(map(int,parts[1:]) if len(parts)==3 else (item['chapter'],item['verse']))
- b={'bible':'בראשית','bibleNum':'במדבר','bibleChr':'דברי הימים ב','bibleJosh':'יהושע'}[parts[0]]
+ b={'bible':item['book'],'bibleNum':'במדבר','bibleChr':'דברי הימים ב','bibleJosh':'יהושע','bibleKings':'מלכים א'}[parts[0]]
  return f'https://www.sefaria.org/{BOOKS[b].replace(" ","_")}.{ch}.{v}?lang=bi'
+IMAGE_OVERRIDES=json.loads((HERE/'image_overrides.json').read_text())
+SUPPLEMENTS=json.loads((HERE/'verse_supplements.json').read_text())
 all_items=[]
 for line in (HERE/'events.txt').read_text().splitlines():
  if not line.strip():continue
  if line.startswith('@'):
-  ref,he,en,key=line[1:].split('|');ch,v=map(int,ref.split(':'))
-  item={'id':f'gen-{ch}-{v}-{key}','book':'בראשית','chapter':ch,'verse':v,'title':{'he':he,'en':en},'placeKey':key,'facts':[]};all_items.append(item)
+  ref,he,en,key=line[1:].split('|');book,ref=ref.split('/') if '/' in ref else ('בראשית',ref);ch,v=map(int,ref.split(':'))
+  item={'id':f'{BOOKS[book].lower().replace(" ","-")}-{ch}-{v}-{key}','book':book,'chapter':ch,'verse':v,'title':{'he':he,'en':en},'placeKey':key,'facts':[]};all_items.append(item)
  else:
   kind,he,en,source=line.split('|')
   item['facts'].append({'type':kind,'he':he,'en':en,'source':bible_source(source,item) if source.startswith('bible') else SOURCES[source]})
@@ -39,19 +41,28 @@ for it in all_items:
   it['facts'][3]={'type':'F','he':'המחקר משווה מפות ותיעוד חפירות ישן עם שכונות קהיר המכסות כיום את האתר.','en':'Research compares historical excavation records and maps with Cairo neighbourhoods now covering the site.','source':SOURCES['on']}
  if it['placeKey']=='edom':
   it['facts'][3]={'type':'F','he':'באזור פינאן שבערבה הירדנית התגלו מכרות, סיגים ואתרי הפקת נחושת קדומים.','en':'The Faynan region of Jordan’s Arabah contains mines, slag and ancient copper-production sites.','source':SOURCES['copper']}
+for it in all_items:
+ if it['placeKey']=='dibon':it['facts'][4]={'type':'F','he':'למרגלות תל דיבאן נבנה מאגר מטויח שהשתמש בשקע טבעי בסלע.','en':'A plastered reservoir at the foot of Dhiban’s mound incorporated a natural bedrock depression.','source':SOURCES['geshur']}
 # Withdraw inadequate candidate; retained in the ledger, never padded.
 pending=[];items=[]
 for it in all_items:
  if it['placeKey']=='atad':
   pending.append({'id':it['id'],'book':it['book'],'chapter':it['chapter'],'verse':it['verse'],'title':it['title'],'reason':{'he':'אין שש עובדות גיאוגרפיות עצמאיות; רוב הטיוטה עוסקת במגבלות הזיהוי.','en':'Six independent geographical facts are not available; most draft lines concern identification limits.'}});continue
- c=chapter(it['book'],it['chapter']);it['quote']={'he':c['verses'][it['verse']-1],'en':c['english'][it['verse']-1]}
+ c=chapter(it['book'],it['chapter']);sup=SUPPLEMENTS.get(f"{it['book']}-{it['chapter']}-{it['verse']}")
+ if sup:
+  if it['verse']<=len(c['verses']):raise ValueError('A supplement must not silently replace an existing verse')
+  it['quote']={'he':sup['he'],'en':c['english'][it['verse']-1]};it['quoteSourceHe']=sup['source']
+ else:it['quote']={'he':c['verses'][it['verse']-1],'en':c['english'][it['verse']-1]}
  it['era']={'he':'מסורת האבות — ללא תיארוך מוסכם' if it['chapter']>=12 else 'מסורות ראשית — ללא תיארוך מוסכם','en':'Patriarchal tradition — no agreed dating' if it['chapter']>=12 else 'Primeval traditions — no agreed dating'}
+ if it['book']!='בראשית':it['era']={'he':'מסורת יציאת מצרים והמדבר — ללא תיארוך מוסכם','en':'Exodus and wilderness tradition — no agreed dating'}
+ if it['book'] in ('במדבר','דברים'):it['era']={'he':'מסורת המדבר ועבר הירדן — ללא תיארוך מוסכם','en':'Wilderness and Transjordan tradition — no agreed dating'}
  p=ROOT/it['book']/f"chapter_{it['chapter']:03}"/'images';files=sorted(p.glob('*'))
  matches=[f for f in files if (m:=re.search(r'_v(\d+)-(\d+)',f.name)) and int(m[1])<=it['verse']<=int(m[2])]
  chosen=(matches or files)[0]
  # A generated map in the legacy Sidon illustration has unverified labels: exclude it.
- if it['placeKey']=='sidon':chosen=ROOT/'בראשית/chapter_010/images/idea_03_v8-12.jpg'
- it['image']={'src':str(chosen.relative_to(ROOT)),'kind':'artistic','caption':{'he':f"איור אמנותי לפרק בראשית {it['chapter']} בלבד. הנוף והמבנים אינם תיעוד מזוהה של {it['title']['he'].split(' — ')[0]}.",'en':f"Artistic illustration for Genesis {it['chapter']} only. Its landscape and buildings are not identified views of {it['title']['en'].split(':')[0]}."}}
+ if it['placeKey'] in ('sidon','gaza'):chosen=ROOT/'בראשית/chapter_010/images/idea_03_v8-12.jpg'
+ it['image']={'src':str(chosen.relative_to(ROOT)),'kind':'artistic','caption':{'he':f"איור אמנותי לפרק {it['book']} {it['chapter']} בלבד. הנוף והמבנים אינם תיעוד מזוהה של {it['title']['he'].split(' — ')[0]}.",'en':f"Artistic illustration for {BOOKS[it['book']]} {it['chapter']} only. Its landscape and buildings are not identified views of {it['title']['en'].split(':')[0]}."}}
+ if it['placeKey'] in IMAGE_OVERRIDES:it['image']=IMAGE_OVERRIDES[it['placeKey']]
  it['audio']={'en':{'url':c.get('audio_en_url','')}}
  times=c.get('times_en',[])
  if times and it['verse']<=len(times):
@@ -73,15 +84,16 @@ for it in all_items:
  it['review']={'structural':'passed','editorial':'initial review; independent scholarly review pending','image':'artistic chapter illustration, explicitly labelled'}
  items.append(it)
 items.sort(key=lambda it:(list(BOOKS).index(it['book']),it['chapter'],it['verse']))
+pending.extend(json.loads((HERE/'pending_candidates.json').read_text()))
 # All chapters are indexed; only Genesis has undergone a first geography pass.
 ledger=[]
 for book,en in BOOKS.items():
  entries=[]
  for p in sorted((ROOT/book).glob('chapter_*/chapter.json')):
   c=json.loads(p.read_text());n=int(p.parent.name[8:]);v=c.get('verses',[])
-  entries.append({'chapter':n,'verses':len(v),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'scan':'initial geographical pass' if book=='בראשית' else 'not reviewed','events':sum(it['book']==book and it['chapter']==n for it in items)})
+  entries.append({'chapter':n,'verses':len(v),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'scan':'initial geographical pass' if book in ('בראשית','שמות','ויקרא','במדבר','דברים') else 'not reviewed','events':sum(it['book']==book and it['chapter']==n for it in items)})
  ledger.append({'book':book,'nameEn':en,'chapters':entries,'events':sum(it['book']==book for it in items),'completed':False})
-coverage={'updated':'2026-10-28','status':'in progress — not a completed atlas','books':ledger,'pending':pending,'scope_note':'Genesis first pass only. Remaining books have been indexed, not geographically reviewed. A chapter with zero selected events is not certified free of relevant places. No book is marked complete.'}
+coverage={'updated':'2026-10-28','status':'in progress — not a completed atlas','books':ledger,'pending':pending,'scope_note':'Torah books initial candidate pass only. Remaining books have been indexed, not geographically reviewed. A chapter with zero selected events is not certified free of relevant places. No book is marked complete.'}
 (HERE/'events.json').write_text(json.dumps(items,ensure_ascii=False,indent=2)+'\n')
 (HERE/'coverage.json').write_text(json.dumps(coverage,ensure_ascii=False,indent=2)+'\n')
 data=json.dumps({'books':BOOKS,'events':items,'coverage':coverage},ensure_ascii=False,separators=(',',':')).replace('</','<\\/')

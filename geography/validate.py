@@ -4,6 +4,7 @@ from pathlib import Path
 from collections import Counter
 R=Path(__file__).resolve().parents[1]
 events=json.loads((R/'geography/events.json').read_text());coverage=json.loads((R/'geography/coverage.json').read_text());errors=[];warnings=[]
+supplements=json.loads((R/'geography/verse_supplements.json').read_text())
 ids=[]
 for event in events:
  ids.append(event['id']);facts=event['facts']
@@ -14,9 +15,12 @@ for event in events:
   if not event['title'][lang] or not event['quote'][lang]:errors.append(event['id']+': missing text '+lang)
  if any(not f['source'].startswith('https://') for f in facts):errors.append(event['id']+': source missing')
  if any(f['type'] not in ['F','U','B'] for f in facts):errors.append(event['id']+': unclassified fact')
- if not (R/event['image']['src']).is_file():errors.append(event['id']+': missing image')
+ if event['image']['src'].startswith('https://'):
+  if not event['image'].get('source') or not event['image'].get('rights'):errors.append(event['id']+': uncredited remote image')
+ elif not (R/event['image']['src']).is_file():errors.append(event['id']+': missing image')
  c=json.loads((R/event['book']/f"chapter_{event['chapter']:03}"/'chapter.json').read_text())
- if event['quote']['he']!=c['verses'][event['verse']-1] or event['quote']['en']!=c['english'][event['verse']-1]:errors.append(event['id']+': changed source verse')
+ expected_he=c['verses'][event['verse']-1] if event['verse']<=len(c['verses']) else supplements[f"{event['book']}-{event['chapter']}-{event['verse']}"]['he']
+ if event['quote']['he']!=expected_he or event['quote']['en']!=c['english'][event['verse']-1]:errors.append(event['id']+': changed source verse')
  for lang,clip in event['audio'].items():
   if 'start' in clip and (not isinstance(clip['start'],(int,float)) or clip['start']<0 or clip['end']<=clip['start']):errors.append(event['id']+': invalid audio '+lang)
  for f in facts:
