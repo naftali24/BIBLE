@@ -30,6 +30,7 @@
     "אֵלֶּה הַחֻקִּים, אֲשֶׁר צִוָּה יְהוָה אֶת מֹשֶׁה, בֵּין אִישׁ, לְאִשְׁתּוֹ. בֵּין אָב לְבִתּוֹ, בִּנְעֻרֶיהָ בֵּית אָבִיהָ."
   ],
   "english": [
+    "And Moses told the children of Israel according to all that the LORD commanded Moses.",
     "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord hath commanded.",
     "If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.",
     "If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father's house in her youth;",
@@ -66,6 +67,7 @@
     "אֵלֶּה הַחֻקִּים אֲשֶׁר צִוָּה ה' אֶת משֶׁה בֵּין אִישׁ לְאִשְׁתּוֹ, בֵּין אָב לְבִתּוֹ בִּנְעֻרֶיהָ בֵּית אָבִיהָ. היא אחת המשימות האחרונות המוטלות עליו. משה מסר לישראל את תורת ה', המבוססת על הנאמנות לה' ולמצוותיו. לפני מותו יחלץ משה את עמו מאימת נכליהם של המדינים ויגן עליו מפני גילוי עריות ועבודה זרה."
   ],
   "ai_explanation": [
+    "משה מסר לבני ישראל את כל אשר ציווה ה' אותו.",
     "משה פונה אל ראשי המטות, כלומר אל ראשי השבטים המשמשים כמועצה העליונה של העם, ומכריז בפניהם על דבר ה'.",
     "אדם הנודר או נשבע לאסור על עצמו דבר כלשהו חייב לקיים את כל מה שהוציא מפיו, ואסור לו לחלל או לבטל את דברו.",
     "הפסוק פותח את הדיון בנדרי אישה הנמצאת בבית אביה, כלומר נערה שאינה נשואה.",
@@ -84,6 +86,7 @@
     "הפסוקים מסכמים את חוקי הנדרים ביחסים שבין איש לאשתו ובין אב לבתו בנעוריה בבית אביה. לפי הפירוש, זהו אחד מן העניינים האחרונים שמשה מוסר לישראל לפני מותו, כחלק מהגנת העם מפני גילוי עריות ועבודה זרה."
   ],
   "ai_explanation_en": [
+    "Moses conveyed to the Israelites everything that the Lord had commanded him.",
     "Moses addresses the heads of the tribes, who serve as the people’s supreme council, and announces to them the word of God.",
     "A person who makes a vow or swears to prohibit something to himself must fulfill everything he has said and may not profane or cancel his word.",
     "The verse begins the discussion of the vows of a woman who is in her father’s house, meaning a young woman who is not married.",
@@ -161,6 +164,14 @@
   "times": [],
   "times_he": [],
   "times_en": [
+    {
+      "start": "unavailable",
+      "end": "unavailable",
+      "usfm": "NUM.29.40",
+      "source_audio_url": "https://audio-bible-cdn.youversionapi.com/8/32k/NUM/29-f83b8586b608fb8e258a39843ef1f6f8.mp3?version_id=1",
+      "source_start": 331.92,
+      "source_end": 344.52
+    },
     {
       "start": 2.88,
       "end": 9.94,
@@ -244,6 +255,7 @@
   ],
   "times_en_source": "YouVersion KJV version_id=1",
   "times_en_end": [
+    "unavailable",
     9.94,
     22.04,
     29.46,
@@ -262,6 +274,7 @@
     187.6
   ],
   "times_en_usfm": [
+    "NUM.29.40",
     "NUM.30.1",
     "NUM.30.2",
     "NUM.30.3",
