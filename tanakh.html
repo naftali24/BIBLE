@@ -1076,7 +1076,7 @@ body.introMode main{display:none!important}
   object-fit:contain!important;object-position:center center!important;
 }
 </style>
-</head>
+<style id="tanakh-gpt-style">#topControls #tanakhGPT{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;background:linear-gradient(#f9e7a0,#c88b17)!important;color:#201100!important;font-size:16px!important;font-weight:900!important}#tanakhGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:16px}#tanakhGPTBox{width:min(480px,96vw);background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;padding:22px;text-align:center;font-size:20px;line-height:1.5}#tanakhGPTBox button{margin:8px;padding:10px 15px}#tanakhGPTCount{font-size:36px;font-weight:900}</style></head>
 <body class="introMode">
 <header>
   <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
@@ -1086,6 +1086,7 @@ body.introMode main{display:none!important}
       <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
       <div id="chapterMenu"></div>
     </div>
+    <button id="tanakhGPT" type="button" title="שאל את GPT על הפסוק" aria-label="שאל את GPT על הפסוק">GPT</button>
     <button id="reloadChapterBtn" type="button" onclick="reloadCurrentChapter()" title="עדכון נתוני הפרק בלי לצאת מהמקום" aria-label="עדכון נתוני הפרק בלי לצאת מהמקום">↻</button>
     <button id="returnVerseBtn" class="hidden" type="button" onclick="returnToSavedVerse()" title="חזור לפסוק השמור" aria-label="חזור לפסוק השמור">↩ פסוק 1</button>
     <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
@@ -1358,6 +1359,20 @@ function saveReadingForPageRefresh(){
 }
 window.addEventListener('pagehide',saveReadingForPageRefresh);
 let verseAtTop=0;
+function updateReadingHeading(index=verseAtTop){
+  const book=loadedBook||currentBook;
+  if(!book)return;
+  const chapter=loadedChapter||current||1;
+  const verse=Math.max(1,Math.min(verseCards.length||1,Number(index)+1));
+  const name=language==='en'?(book.nameEn||book.name):book.name;
+  const total=book.chapters||'';
+  const label=language==='en'
+    ? `${name} (${total}) Chapter ${chapter} Verse ${verse}`
+    : `${name}(${total}) פרק ${chapter} פסוק ${verse}`;
+  bookTitle.textContent=label;
+  chapterCounter.textContent='';
+  bookTitle.dir=language==='en'?'ltr':'rtl';
+}
 function getTopVisibleVerse(){
   const main=document.getElementById('main');
   if(!main||!verseCards.length)return verseAtTop;
@@ -1392,7 +1407,7 @@ function trackTopVisibleVerse(){
     if(!verseCards.length)return;
     const index=getTopVisibleVerse();
     if(index===verseAtTop)return;
-    verseAtTop=index;
+    verseAtTop=index;updateReadingHeading(index);
     if(Date.now()>manualScrollUntil || Date.now()<programmaticVerseScrollUntil)return; // Do not interfere with karaoke/programmatic auto-scroll.
     closeImageOverlaysOnScroll();
     // Scrolling changes the displayed idea/image, never the highlighted verse.
@@ -1412,7 +1427,7 @@ function showVerseAtTop(index){
   const previous=scroller.style.scrollBehavior;
   scroller.style.scrollBehavior='auto';
   scroller.scrollTop+=card.getBoundingClientRect().top-scroller.getBoundingClientRect().top-6;
-  verseAtTop=index;
+  verseAtTop=index;updateReadingHeading(index);
   requestAnimationFrame(()=>{scroller.style.scrollBehavior=previous});
 }
 async function reloadCurrentChapter(){
@@ -1504,11 +1519,60 @@ function snapVisibleVerseAfterScroll(){
     const old=pane.style.scrollBehavior;
     pane.style.scrollBehavior='auto';
     pane.scrollTop=target;
-    verseAtTop=i;
+    verseAtTop=i;updateReadingHeading(i);
     requestAnimationFrame(()=>{pane.style.scrollBehavior=old;verseSnapInProgress=false;});
   },320);
 }
-readingScroller.addEventListener('wheel',markVerseScrollGesture,{passive:true});
+// One verse per deliberate manual gesture (wheel, swipe, or keyboard).
+let oneVerseGestureLock=0;
+let oneVerseTouchStart=null;
+function stepOneVerse(direction){
+  if(!verseCards.length || document.body.classList.contains('introMode'))return;
+  const now=Date.now();
+  if(now<oneVerseGestureLock)return;
+  oneVerseGestureLock=now+420;
+  markVerseScrollGesture();
+  noteManualScroll();
+  const current=nearestVerseToReadingTop();
+  const next=Math.max(0,Math.min(verseCards.length-1,current+direction));
+  if(next===current)return;
+  const card=verseCards[next];
+  const anchor=card.querySelector('.num')||card.querySelector('.verseAudioBtn')||card;
+  const target=Math.max(0,readingScroller.scrollTop+anchor.getBoundingClientRect().top-readingScroller.getBoundingClientRect().top-6);
+  programmaticVerseScrollUntil=Date.now()+450;
+  readingScroller.scrollTo({top:target,behavior:'auto'});
+  verseAtTop=next;updateReadingHeading(next);
+  rememberReadingVerse(next);
+  closeImageOverlaysOnScroll();
+  const ix=ideaForVerse(next+1);
+  if(ix!==ideaNow){ideaNow=ix;displayIdeaImage(ix,(data?.ideas||[])[ix]);}
+  updateDidYouKnowAvailability(next);
+}
+readingScroller.addEventListener('wheel',e=>{
+  if(e.ctrlKey)return;
+  e.preventDefault();
+  if(Math.abs(e.deltaY)>1)stepOneVerse(e.deltaY>0?1:-1);
+},{passive:false,capture:true});
+readingScroller.addEventListener('touchstart',e=>{
+  if(e.touches.length===1)oneVerseTouchStart={y:e.touches[0].clientY,x:e.touches[0].clientX};
+},{passive:true,capture:true});
+readingScroller.addEventListener('touchmove',e=>{
+  if(oneVerseTouchStart&&e.cancelable)e.preventDefault();
+},{passive:false,capture:true});
+readingScroller.addEventListener('touchend',e=>{
+  if(!oneVerseTouchStart)return;
+  const dy=e.changedTouches[0].clientY-oneVerseTouchStart.y;
+  const dx=e.changedTouches[0].clientX-oneVerseTouchStart.x;
+  oneVerseTouchStart=null;
+  if(Math.abs(dy)>28&&Math.abs(dy)>Math.abs(dx))stepOneVerse(dy<0?1:-1);
+},{passive:true,capture:true});
+readingScroller.addEventListener('keydown',e=>{
+  const keys={ArrowDown:1,PageDown:1,ArrowUp:-1,PageUp:-1};
+  if(keys[e.key] && !e.altKey&&!e.ctrlKey&&!e.metaKey){
+    e.preventDefault();stepOneVerse(keys[e.key]);
+  }
+}, {capture:true});
+// readingScroller.addEventListener('wheel',markVerseScrollGesture,{passive:true});
 readingScroller.addEventListener('touchstart',()=>{verseFingerDown=true;markVerseScrollGesture();},{passive:true});
 readingScroller.addEventListener('touchmove',markVerseScrollGesture,{passive:true});
 readingScroller.addEventListener('touchend',()=>{verseFingerDown=false;markVerseScrollGesture();snapVisibleVerseAfterScroll();},{passive:true});
@@ -1517,7 +1581,7 @@ readingScroller.addEventListener('pointerdown',markVerseScrollGesture,{passive:t
 readingScroller.addEventListener('keydown',e=>{
   if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(e.key))markVerseScrollGesture();
 });
-readingScroller.addEventListener('scroll',snapVisibleVerseAfterScroll,{passive:true});
+// Disabled: manual movement is now one verse per gesture.
 // The reload bookmark is for manual reload only. It must never seek or
 // force the active verse while audio is playing (including word-click playback).
 function correctAudioScroll(){ return; }
@@ -1993,8 +2057,8 @@ async function loadChapter(n,book=currentBook,returnVerse=null){
     }
     updateReturnVerseButton();
 
-    bookTitle.textContent=language==='en'?(requestedBook.nameEn||requestedBook.name):('ספר '+requestedBook.name);
-    chapterCounter.textContent=n+'/'+requestedBook.chapters;
+    // Heading is assembled dynamically below.
+    updateReadingHeading(getTopVisibleVerse());
     chapterMenuBtn.innerHTML='<span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span>';
     // Do not reopen the selector after choosing a chapter.
     markChapterMenu(n);
@@ -2089,8 +2153,9 @@ function setLanguageFlag(){
 }
 function render(){
   document.body.classList.toggle('lang-en',language==='en');
-  if(currentBook) bookTitle.textContent=language==='en'?(currentBook.nameEn||currentBook.name):('ספר '+currentBook.name);
+  if(currentBook) updateReadingHeading(getTopVisibleVerse());
   document.body.classList.toggle('lang-he',language==='he');
+  requestAnimationFrame(()=>updateReadingHeading(getTopVisibleVerse()));
   stopChapterLoadTicker();
   
   cards.innerHTML='';verseCards=[];ideaNow=-1;empty.classList.add('hidden');
@@ -2293,6 +2358,7 @@ function toggleLanguage(){
   setTimeout(()=>{
     document.body.classList.toggle('lang-en',language==='en');
     document.body.classList.toggle('lang-he',language==='he');
+  requestAnimationFrame(()=>updateReadingHeading(getTopVisibleVerse()));
   },0);
 
   stopTTS();stopAudio();
@@ -2337,7 +2403,7 @@ function alignHighlightedVerse(vi,force=false){
     pane.style.scrollBehavior='auto';
     pane.scrollTop=target;
     requestAnimationFrame(()=>{pane.style.scrollBehavior=old;});
-    verseAtTop=vi;
+    verseAtTop=vi;updateReadingHeading(vi);
     lastAudioAlignedVerse=vi;
   });
 }
@@ -2947,4 +3013,13 @@ function stepChapter(delta){
   loadChapter(next,book);
 }
 </script>
-<div id="genesisAboutOverlay" hidden role="dialog" aria-modal="true" aria-label="על ספר בראשית"><div id="genesisAboutToolbar"><button id="genesisAboutLanguage" type="button" onclick="toggleGenesisAboutLanguage()">English</button><button id="genesisAboutClose" type="button" onclick="closeGenesisAbout(event)">✕ סגור</button></div><div id="genesisAboutContent"></div></div></body></html>
+<div id="genesisAboutOverlay" hidden role="dialog" aria-modal="true" aria-label="על ספר בראשית"><div id="genesisAboutToolbar"><button id="genesisAboutLanguage" type="button" onclick="toggleGenesisAboutLanguage()">English</button><button id="genesisAboutClose" type="button" onclick="closeGenesisAbout(event)">✕ סגור</button></div><div id="genesisAboutContent"></div></div><div id="tanakhGPTGuide" role="dialog" aria-modal="true"><div id="tanakhGPTBox"><div id="tanakhGPTMessage"></div><div id="tanakhGPTCount">7</div><button id="tanakhGPTOpen" type="button" hidden>פתח GPT עכשיו</button><button id="tanakhGPTCancel" type="button">ביטול</button></div></div><script id="tanakh-gpt-mechanism">(()=>{'use strict';
+const btn=document.getElementById('tanakhGPT'),guide=document.getElementById('tanakhGPTGuide'),message=document.getElementById('tanakhGPTMessage'),counter=document.getElementById('tanakhGPTCount'),open=document.getElementById('tanakhGPTOpen'),cancel=document.getElementById('tanakhGPTCancel');
+let timer=null,prompt='',shown=false;const en=()=>language==='en';
+function currentVerse(){const i=Math.max(0,Math.min(verseCards.length-1,typeof verseAtTop==='number'?verseAtTop:0));const card=verseCards[i];const el=card?.querySelector('.bsbVerseDirect,.englishVerse,.verse');return {number:i+1,text:(el?.innerText||el?.textContent||'').trim().slice(0,1300)};}
+function buildPrompt(){const b=loadedBook||currentBook;const v=currentVerse();const book=en()?(b?.nameEn||b?.name||'Bible'):(b?.name||'תנ״ך');const chapter=loadedChapter||1;return en()?`I am studying the Bible: ${book} ${chapter}:${v.number}.\nVerse: ${v.text}\nTell me briefly one surprising, accurate scientific, historical, archaeological, or philosophical fact related to this verse. Distinguish established facts from interpretation, and allow follow-up questions. Answer in English.`:`אני לומד תנ״ך: ${book} פרק ${chapter} פסוק ${v.number}.\nהפסוק: ${v.text}\nספר לי בקצרה עובדה מדעית, היסטורית, ארכאולוגית או פילוסופית מפתיעה ומדויקת הקשורה לפסוק. הבחֵן בין עובדות מבוססות לפרשנות ואפשר לי לשאול שאלות המשך.`;}
+function close(){if(timer)clearInterval(timer);timer=null;guide.style.display='none';}
+function launch(){try{navigator.clipboard?.writeText(prompt).catch(()=>{});}catch(e){}const url='https://chatgpt.com/?q='+encodeURIComponent(prompt);const win=window.open(url,'_blank');if(win){shown=true;close();}else{message.textContent=en()?'Popup blocked. Allow popups and try again.':'הדפדפן חסם חלון חדש. אפשר חלונות קופצים ונסה שוב.';open.hidden=false;counter.hidden=true;}}
+cancel.addEventListener('click',close);open.addEventListener('click',launch);
+btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load a chapter first.':'יש לטעון פרק תחילה.');return;}prompt=buildPrompt();if(shown){launch();return;}let remaining=7;counter.hidden=false;counter.textContent=remaining;open.hidden=true;message.textContent=en()?'In 7 seconds you can open GPT. Return using Recent Apps.':'בעוד 7 שניות אפשר יהיה לפתוח את GPT. לחזרה השתמש בכפתור האפליקציות האחרונות.';cancel.textContent=en()?'Cancel':'ביטול';guide.style.display='flex';if(timer)clearInterval(timer);timer=setInterval(()=>{remaining--;counter.textContent=remaining;if(remaining<=0){clearInterval(timer);timer=null;counter.hidden=true;message.textContent=en()?'GPT will open a question about the current verse.':'תיפתח ב־GPT שאלה על הפסוק הנוכחי.';open.textContent=en()?'Open GPT now':'פתח GPT עכשיו';open.hidden=false;}},1000);});
+})();</script></body></html>
