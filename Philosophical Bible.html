@@ -227,15 +227,14 @@ body.mode-he #bookMenu.open>button{direction:rtl!important}
 body.mode-en #bookMenu.open>button{direction:ltr!important}
 
 
-</style><style id="font-plus-five-pixels">
-/* Increase reading text by 5px while preserving responsive layout. */
-#content .card .quote{font-size:calc(clamp(22px,5vw,36px)*var(--fit-text,1) + 5px)!important}
-#content .card .english-quote{font-size:calc(clamp(21px,4.4vw,32px)*var(--fit-text,1) + 5px)!important}
-#content .card .idea-heading{font-size:calc(clamp(23px,4.8vw,35px)*var(--fit-text,1) + 5px)!important}
-#content .card .idea-heading.en{font-size:calc(clamp(22px,4.3vw,32px)*var(--fit-text,1) + 5px)!important}
-body.mode-he #content .card > .explain{font-size:calc(clamp(21px,3.8vw,27px)*var(--fit-text,1) + 5px)!important}
-#content .card .english-explain{font-size:calc(clamp(20px,3.6vw,27px)*var(--fit-text,1) + 5px)!important}
-</style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה"><span class="flag-pair"><span>🇬🇧</span><span>🇮🇱</span></span></button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><script>
+</style><style id="philosophy-gpt-style">
+#philosophyGPT{background:linear-gradient(#f9e7a0,#c88b17);color:#201100;font-weight:900;font-size:clamp(17px,3vw,23px);padding:7px 10px;min-height:43px;flex:0 0 auto}
+#philosophyGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:15px}
+#philosophyGPTGuide.open{display:flex}
+#philosophyGPTBox{background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;width:min(500px,96vw);padding:22px;text-align:center;font-size:clamp(18px,3vw,22px);line-height:1.5}
+#philosophyGPTBox button{margin:10px 4px;padding:9px 16px}
+@media(max-width:430px){#philosophyGPT{font-size:17px;padding:6px;min-height:43px}}
+</style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="philosophyGPT" type="button" title="שאלה ל-GPT">GPT</button><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה"><span class="flag-pair"><span>🇬🇧</span><span>🇮🇱</span></span></button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><div id="philosophyGPTGuide" role="dialog" aria-modal="true"><div id="philosophyGPTBox"><div id="philosophyGPTMessage"></div><button id="philosophyGPTContinue" type="button">פתח GPT</button><button id="philosophyGPTCancel" type="button">ביטול</button></div></div><script>
 const ITEMS = [
   // קהלת — אפשר למחוק שורה שלמה של ציטוט
   // ===== קהלת =====
@@ -1323,7 +1322,7 @@ function render(){
   if(item.book==='מיכה'&&ITEMS.some((prior,j)=>j<i&&prior.book==='מיכה'&&prior.chapter===item.chapter&&prior.verse===item.verse))return;
   if(item.topic!==previous){previous=item.topic}
   const card=text('article','card'+(selected===i?' active':''),'');card.id='item-'+i;
-  card.append(text('div','meta',(i+1)+'. · '+item.book+' · '+'\u2066'+item.chapter+':'+item.verse+'\u2069'));
+  card.append(text('div','meta',(i+1)+'. · '+item.book+' '+item.ref));
   card.append(text('div','meta english-meta-top',(i+1)+'. · '+({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles',נחום:'Nahum',איוב:'Job',חבקוק:'Habakkuk',צפניה:'Zephaniah',חגי:'Haggai',זכריה:'Zechariah',מלאכי:'Malachi',משלי:'Proverbs',איכה:'Lamentations',עזרא:'Ezra','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[item.book]||item.book)+' '+item.chapter+':'+item.verse));
   const q=text('div','quote','');const c=chapters[chapterKey(item)];
   // The canonical chapter verse is the sole source for displayed words.
@@ -1790,4 +1789,39 @@ function refreshImagesAfterRender(){
  lastImageRenderKey=key;
  refreshAllImages();
 }
+
+// GPT companion — same single-window mechanism as the Tanakh reader.
+(function(){
+ const button=document.getElementById('philosophyGPT');
+ const guide=document.getElementById('philosophyGPTGuide');
+ const message=document.getElementById('philosophyGPTMessage');
+ const proceed=document.getElementById('philosophyGPTContinue');
+ const cancel=document.getElementById('philosophyGPTCancel');
+ let prompt='';
+ function close(){guide.classList.remove('open');}
+ function launch(){
+   try{navigator.clipboard?.writeText(prompt).catch(()=>{});}catch(e){}
+   const url='https://chatgpt.com/?q='+encodeURIComponent(prompt);
+   const tab=window.open(url,'_blank');
+   if(tab){close();}else{message.textContent=uiLanguage==='en'?'Popup blocked. Allow popups and try again.':'הדפדפן חסם חלון חדש. אפשר חלונות קופצים ונסה שוב.';}
+ }
+ function prepare(){
+   const item=ITEMS[selected] && ITEMS[selected].book===activeBook ? ITEMS[selected] : ITEMS.find(x=>x.book===activeBook);
+   if(!item){alert(uiLanguage==='he'?'אין כרגע רעיון פילוסופי בספר זה.':'No philosophical idea is available for this book.');return;}
+   const english=uiLanguage==='en';
+   const bookEn={בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',דברים:'Deuteronomy',יהושע:'Joshua',שופטים:'Judges',קהלת:'Ecclesiastes',תהילים:'Psalms',משלי:'Proverbs',איוב:'Job',מיכה:'Micah',אסתר:'Esther',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',רות:'Ruth',דניאל:'Daniel'};
+   prompt=english
+    ? `I am studying the philosophical Bible: ${bookEn[item.book]||item.book} ${item.chapter}:${item.verse}.\nVerse: ${item.quoteEn||item.quote}\nPhilosophical idea: ${item.topic}.\nExplanation: ${item.explainEn||item.explain}.\nExplain briefly one surprising, accurate philosophical connection to this idea. Distinguish established facts from interpretations, and invite follow-up questions. Answer in English.`
+    : `אני לומד תנ״ך פילוסופי: ${item.book} פרק ${item.chapter} פסוק ${item.verse}.\nהפסוק: ${item.quote}\nהרעיון: ${item.topic}.\nההסבר: ${item.explain}.\nספר לי בקצרה קשר פילוסופי מפתיע ומדויק לרעיון. הבחֵן בין עובדות מבוססות לפרשנות, ואפשר לי לשאול שאלות המשך. ענה בעברית.`;
+   message.textContent=english
+    ? 'GPT will open a question about the current philosophical idea. To return to this app, use the Recent Apps button (usually a square) at the bottom.'
+    : 'ב־GPT תיפתח שאלה על הרעיון הפילוסופי הנוכחי. לחזרה לאפליקציה הזאת השתמש בכפתור (בדרך כלל ריבוע) האפליקציות הפתוחות של הפלאפון למטה.';
+   proceed.textContent=english?'Open GPT':'פתח GPT';
+   cancel.textContent=english?'Cancel':'ביטול';
+   guide.classList.add('open');
+ }
+ button.addEventListener('click',prepare);
+ proceed.addEventListener('click',launch);
+ cancel.addEventListener('click',close);
+})();
 </script></body></html>
