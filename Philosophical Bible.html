@@ -234,6 +234,24 @@ body.mode-en #bookMenu.open>button{direction:ltr!important}
 #philosophyGPTBox{background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;width:min(500px,96vw);padding:22px;text-align:center;font-size:clamp(18px,3vw,22px);line-height:1.5}
 #philosophyGPTBox button{margin:10px 4px;padding:9px 16px}
 @media(max-width:430px){#philosophyGPT{font-size:17px;padding:6px;min-height:43px}}
+</style><style id="strict-language-image-last-20261102">
+/* Show only the selected language in each card. */
+body.mode-he #content .card .english-meta-top,
+body.mode-he #content .card .english-below{display:none!important}
+body.mode-en #content .card > .meta:not(.english-meta-top),
+body.mode-en #content .card > .idea-heading:not(.en),
+body.mode-en #content .card > .quote:not(.english-quote),
+body.mode-en #content .card > .explain{display:none!important}
+body.mode-en #content .card .english-meta-top{display:block!important}
+body.mode-en #content .card .english-below{display:block!important;border:0!important;margin:0!important;padding:0!important}
+body.mode-en #content .card{direction:ltr;text-align:left}
+body.mode-he #content .card{direction:rtl}
+/* Keep the photograph as the last element, anchored to the bottom. */
+#content .card.fitted-idea{display:flex!important;flex-direction:column!important;justify-content:flex-start!important}
+#content .card .quote-picture-wrap{order:99!important;margin-top:auto!important;flex-shrink:0!important;width:100%!important}
+#content .card .quote-picture-wrap img{display:block;width:100%!important;object-fit:contain!important}
+body.mode-he #content .card .quote-audio-overlay.en{display:none!important}
+body.mode-en #content .card .quote-audio-overlay.he{display:none!important}
 </style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="philosophyGPT" type="button" title="שאלה ל-GPT">GPT</button><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה"><span class="flag-pair"><span>🇬🇧</span><span>🇮🇱</span></span></button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><div id="philosophyGPTGuide" role="dialog" aria-modal="true"><div id="philosophyGPTBox"><div id="philosophyGPTMessage"></div><button id="philosophyGPTContinue" type="button">פתח GPT</button><button id="philosophyGPTCancel" type="button">ביטול</button></div></div><script>
 const ITEMS = [
   // קהלת — אפשר למחוק שורה שלמה של ציטוט
@@ -1341,7 +1359,7 @@ function render(){
   const english=text('section','english-below','');english.dir='ltr';
   const canonicalEnglish=c?.english?.[item.verse-1]?fixEndDot(c.english[item.verse-1]):item.quoteEn;
   english.append(text('div','idea-heading en',shortIdea(item,true)),text('div','quote english-quote',canonicalEnglish),text('div','explain english-explain',item.explainEn));
-  card.append(english);picWrap.append(eb);
+  card.append(english);card.append(picWrap);picWrap.append(eb);
   card.onclick=e=>{if(e.target.closest('button'))return;selected=i;updateSelected()};cont.append(card);
  });updateSelected(false);scheduleFitCards();queueMicrotask(refreshImagesAfterRender)
 }
