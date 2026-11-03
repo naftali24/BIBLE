@@ -1129,6 +1129,22 @@ body:not(.introMode) #imageSection{flex:0 0 var(--picture-verse-height,35dvh)!im
 @keyframes verseImageVertical{from{transform:translateY(var(--slide-start,42px));opacity:.45}to{transform:translateY(0);opacity:1}}
 </style>
 <style>body.introMode #bookTitle{white-space:pre-wrap!important}</style>
+<style id="separate-verse-arrows-and-picture-gestures">
+/* The verse ends above a distinct navigation row. */
+body:not(.introMode) #verseArrowRow{display:flex!important;position:relative!important;flex:0 0 57px!important;height:57px!important;align-items:center;justify-content:center;background:#120b04;border-top:1px solid #7c591b;z-index:20}
+body.introMode #verseArrowRow{display:none!important}
+#verseArrowRow #chapterStepControls{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;height:55px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;padding:0 10px!important;pointer-events:none!important}
+#verseArrowRow #chapterStepControls button{pointer-events:auto!important}
+#main,#cards{min-height:0!important}
+#cards>.card.singleVisible{height:100%!important;max-height:100%!important;overflow-y:auto!important;padding-bottom:10px!important;touch-action:pan-y!important;-webkit-overflow-scrolling:touch}
+#main{touch-action:pan-y!important;overflow:hidden!important}
+#imageBox{touch-action:pan-y!important}
+</style>
+<style id="image-fill-edge-to-edge-fix">
+/* Fill the entire picture container, with no letterboxing or image margins. */
+body:not(.introMode) #imageSection>#imageBox{width:100%!important;max-width:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:hidden!important}
+body:not(.introMode) #imageSection #img{display:block!important;width:100%!important;height:100%!important;min-width:100%!important;min-height:100%!important;object-fit:cover!important;object-position:center center!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important}
+</style>
 </head>
 <body class="introMode">
 <header>
@@ -1163,6 +1179,7 @@ body:not(.introMode) #imageSection{flex:0 0 var(--picture-verse-height,35dvh)!im
 <main id="main"><div id="empty" style="padding:12px 0 0">
     <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
   </div><div id="cards"></div></main>
+<div id="verseArrowRow" aria-label="דפדוף פסוקים"></div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
   <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
@@ -1608,30 +1625,7 @@ function stepOneVerse(direction){
   if(ix!==ideaNow){ideaNow=ix;displayIdeaImage(ix,(data?.ideas||[])[ix]);}
   updateDidYouKnowAvailability(next);
 }
-readingScroller.addEventListener('wheel',e=>{
-  if(e.ctrlKey)return;
-  e.preventDefault();
-  if(Math.abs(e.deltaY)>1)stepOneVerse(e.deltaY>0?1:-1);
-},{passive:false,capture:true});
-readingScroller.addEventListener('touchstart',e=>{
-  if(e.touches.length===1)oneVerseTouchStart={y:e.touches[0].clientY,x:e.touches[0].clientX};
-},{passive:true,capture:true});
-readingScroller.addEventListener('touchmove',e=>{
-  if(oneVerseTouchStart&&e.cancelable)e.preventDefault();
-},{passive:false,capture:true});
-readingScroller.addEventListener('touchend',e=>{
-  if(!oneVerseTouchStart)return;
-  const dy=e.changedTouches[0].clientY-oneVerseTouchStart.y;
-  const dx=e.changedTouches[0].clientX-oneVerseTouchStart.x;
-  oneVerseTouchStart=null;
-  if(Math.abs(dy)>28&&Math.abs(dy)>Math.abs(dx))stepOneVerse(dy<0?1:-1);
-},{passive:true,capture:true});
-readingScroller.addEventListener('keydown',e=>{
-  const keys={ArrowDown:1,PageDown:1,ArrowUp:-1,PageUp:-1};
-  if(keys[e.key] && !e.altKey&&!e.ctrlKey&&!e.metaKey){
-    e.preventDefault();stepOneVerse(keys[e.key]);
-  }
-}, {capture:true});
+// Verse gestures on the text panel disabled: scrolling is for text only.
 // readingScroller.addEventListener('wheel',markVerseScrollGesture,{passive:true});
 readingScroller.addEventListener('touchstart',()=>{verseFingerDown=true;markVerseScrollGesture();},{passive:true});
 readingScroller.addEventListener('touchmove',markVerseScrollGesture,{passive:true});
@@ -3129,7 +3123,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
    selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
    verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
    const activeCard=verseCards[selectedVerse], arrows=persistentArrows;
-   if(activeCard && arrows.parentElement!==activeCard)activeCard.appendChild(arrows);
+   if(arrows.parentElement!==document.getElementById('verseArrowRow')) document.getElementById('verseArrowRow').appendChild(arrows);
    verseAtTop=selectedVerse;
    pane.scrollTop=0;
    updateReadingHeading(selectedVerse);
@@ -3145,7 +3139,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  }
  render=function(){
    // originalRender replaces card.innerHTML; detach the arrows before that happens.
-   if(persistentArrows.parentElement && persistentArrows.parentElement.closest('#cards')) document.getElementById('cap').appendChild(persistentArrows);
+   // Arrows remain in their independent row, outside the verse box.
    originalRender();
    applySingle(Math.min(selectedVerse,verseCards.length-1));
  };
@@ -3194,12 +3188,36 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  };
  window.navigateToIdea=function(i){if(!verseCards.length)return;originalSetActive(i,false);applySingle(i);};
  // Suppress all other manual verse scrolling and touch/wheel navigation.
- pane.addEventListener('wheel',e=>{e.preventDefault();e.stopImmediatePropagation();},{capture:true,passive:false});
- pane.addEventListener('touchmove',e=>{e.stopImmediatePropagation();},{capture:true,passive:false});
- pane.addEventListener('keydown',e=>{if(['ArrowUp','ArrowDown','PageUp','PageDown','Home','End',' '].includes(e.key)){e.preventDefault();e.stopImmediatePropagation();}},{capture:true});
+ // Wheel over the verse scrolls its text naturally; it never changes verse.
+ // Touch over the verse scrolls only the text; it never changes verse.
+ // Keyboard scrolling stays inside the verse box.
  const origLoad=loadChapter;
  loadChapter=async function(n,book,returnVerse){selectedVerse=Number.isInteger(returnVerse)?returnVerse:0;const result=await origLoad(n,book,returnVerse);applySingle(selectedVerse);return result;};
  if(verseCards.length)applySingle(0);
+})();
+</script>
+<script id="picture-only-swipe-navigation">
+(function(){
+ const box=document.getElementById('imageBox');
+ let start=null, lastWheel=0;
+ const excluded='button,select,input,a,#englishLine,#hebrewLine,#didYouKnowBox';
+ box.addEventListener('touchstart',e=>{
+   if(e.touches.length!==1||e.target.closest(excluded)){start=null;return;}
+   start={x:e.touches[0].clientX,y:e.touches[0].clientY};
+ },{passive:true});
+ box.addEventListener('touchend',e=>{
+   if(!start||!e.changedTouches.length)return;
+   const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;
+   start=null;
+   if(Math.abs(dy)>35&&Math.abs(dy)>Math.abs(dx)*1.15&&typeof navigateSingleVerse==='function')navigateSingleVerse(dy<0?1:-1);
+ },{passive:true});
+ box.addEventListener('touchcancel',()=>{start=null;},{passive:true});
+ box.addEventListener('wheel',e=>{
+   if(e.target.closest(excluded)||e.ctrlKey)return;
+   e.preventDefault();
+   if(Math.abs(e.deltaY)<8||Date.now()-lastWheel<550)return;
+   lastWheel=Date.now();navigateSingleVerse(e.deltaY>0?1:-1);
+ },{passive:false});
 })();
 </script>
 </body></html>
