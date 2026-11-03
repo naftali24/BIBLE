@@ -1113,6 +1113,20 @@ body.introMode main{display:none!important}
   align-items:center!important;justify-content:center!important;vertical-align:middle!important;
 }
 </style>
+<style id="final-verse-image-navigation-2026">
+/* Navigation at the bottom of the verse card, not in the image caption. */
+#cards>.card.singleVisible{position:relative!important;padding-bottom:62px!important;overflow-y:auto!important}
+#chapterStepControls{position:absolute!important;left:8px!important;right:8px!important;top:auto!important;bottom:6px!important;height:49px!important;direction:rtl!important;z-index:30!important;pointer-events:none!important}
+#chapterStepControls #versePrevious,#chapterStepControls #verseNext{width:55px!important;min-width:55px!important;height:45px!important;font-size:0!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;opacity:1!important;pointer-events:auto!important}
+#chapterStepControls button svg{width:43px;height:43px;display:block;filter:drop-shadow(1px 2px 1px #9a6c10)}
+#chapterStepControls button:disabled{opacity:.25!important}
+/* Give unused verse space to the picture, capped at 100 pixels. */
+body:not(.introMode) #imageSection{flex:0 0 var(--picture-verse-height,35dvh)!important;height:var(--picture-verse-height,35dvh)!important;max-height:none!important;transition:height .2s ease,flex-basis .2s ease}
+/* Vertical carousel effect on picture only; reverse on previous verse. */
+#imageBox{overflow:hidden!important}
+#img.verseImageSlide{animation:verseImageVertical .4s cubic-bezier(.2,.65,.25,1) both!important}
+@keyframes verseImageVertical{from{transform:translateY(var(--slide-start,42px));opacity:.45}to{transform:translateY(0);opacity:1}}
+</style>
 </head>
 <body class="introMode">
 <header>
@@ -1405,8 +1419,8 @@ function updateReadingHeading(index=verseAtTop){
   const name=language==='en'?(book.nameEn||book.name):book.name;
   const total=book.chapters||'';
   const label=language==='en'
-    ? `${name} (${total}) Chapter ${chapter} Verse ${verse}`
-    : `${name}(${total}) פרק ${chapter} פסוק ${verse}`;
+    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse}`
+    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse}`;
   bookTitle.textContent=label;
   chapterCounter.textContent='';
   bookTitle.dir=language==='en'?'ltr':'rtl';
@@ -3067,23 +3081,66 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  let selectedVerse=0;
  const pane=document.getElementById('main');
  const originalRender=render,originalSetActive=setActive,originalShow=showVerseAtTop;
+ const picture=document.getElementById('img');
+ // Keep navigation alive when a language change rebuilds all verse cards.
+ const persistentArrows=document.getElementById('chapterStepControls');
+ let lastPictureVerse='', lastPictureChapter='', lastDirection=1, pictureTimer;
+ const arrowUp='<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 27 L24 14 L37 27 L31 33 L24 26 L17 33 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg>';
+ const arrowDown='<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 21 L24 34 L37 21 L31 15 L24 22 L17 15 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg>';
+ document.getElementById('versePrevious').innerHTML=arrowUp;
+ document.getElementById('verseNext').innerHTML=arrowDown;
+ function resizePictureForVerse(){
+   if(document.body.classList.contains('introMode'))return;
+   const section=document.getElementById('imageSection'),card=verseCards[selectedVerse],header=document.querySelector('header');
+   if(!card||!section||!header)return;
+   const vh=document.documentElement.clientHeight;
+   const base=Math.max(140,Math.min(430,vh*(matchMedia('(max-width:480px) and (orientation:portrait)').matches?.32:.35)));
+   const available=vh-header.getBoundingClientRect().height-base;
+   const content=[...card.children].filter(x=>x.id!=='chapterStepControls').reduce((sum,x)=>sum+x.getBoundingClientRect().height+8,0);
+   const spare=Math.max(0,available-content-80);
+   const extra=Math.min(100,spare);
+   section.style.setProperty('--picture-verse-height',(base+extra)+'px');
+ }
+ function animatePictureForVerse(){
+   const chapter=(loadedBook?.name||currentBook?.name||'')+'-'+(loadedChapter||current);
+   const key=chapter+'-'+selectedVerse;
+   if(lastPictureVerse===key)return;
+   lastDirection=lastPictureChapter===chapter ? (selectedVerse>Number(lastPictureVerse.split('-').pop())?1:-1) : lastDirection;
+   lastPictureVerse=key;lastPictureChapter=chapter;
+   clearTimeout(pictureTimer);
+   picture.classList.remove('verseImageSlide');
+   picture.style.setProperty('--slide-start',lastDirection>0?'42px':'-42px');
+   void picture.offsetWidth;
+   picture.classList.add('verseImageSlide');
+   pictureTimer=setTimeout(()=>picture.classList.remove('verseImageSlide'),420);
+ }
+ window.addEventListener('resize',()=>requestAnimationFrame(resizePictureForVerse));
+
  function applySingle(i){
    if(!verseCards.length)return;
    selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
    verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
+   const activeCard=verseCards[selectedVerse], arrows=persistentArrows;
+   if(activeCard && arrows.parentElement!==activeCard)activeCard.appendChild(arrows);
    verseAtTop=selectedVerse;
    pane.scrollTop=0;
    updateReadingHeading(selectedVerse);
    rememberReadingVerse(selectedVerse);
    const prev=document.getElementById('versePrevious'),next=document.getElementById('verseNext');
-   prev.disabled=selectedVerse===0;
+   prev.disabled=selectedVerse===0 && (loadedChapter||current)===1 && (loadedBook||currentBook)===BOOKS?.[0];
    const last=selectedVerse===verseCards.length-1;
-   next.textContent=last?'⤓':'↓';
+   next.innerHTML=arrowDown;
    next.title=last?(language==='en'?'Next chapter':'לפרק הבא'):(language==='en'?'Next verse':'פסוק הבא');
    next.setAttribute('aria-label',next.title);
    document.getElementById('ideasMenu').hidden=true;
+   requestAnimationFrame(()=>{resizePictureForVerse();animatePictureForVerse();});
  }
- render=function(){originalRender();applySingle(Math.min(selectedVerse,verseCards.length-1));};
+ render=function(){
+   // originalRender replaces card.innerHTML; detach the arrows before that happens.
+   if(persistentArrows.parentElement && persistentArrows.parentElement.closest('#cards')) document.getElementById('cap').appendChild(persistentArrows);
+   originalRender();
+   applySingle(Math.min(selectedVerse,verseCards.length-1));
+ };
  setActive=function(i,scroll){originalSetActive(i,false);applySingle(i);};
  showVerseAtTop=function(i){applySingle(i);};
  getTopVisibleVerse=function(){return selectedVerse;};
@@ -3091,10 +3148,16 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  window.navigateSingleVerse=function(dir){
    if(!verseCards.length||document.body.classList.contains('introMode'))return;
    const target=selectedVerse+dir;
-   if(target<0)return;
+   if(target<0){
+     const b=loadedBook||currentBook,n=loadedChapter||current;
+     if(b&&n>1){closeImageOverlaysOnScroll();selectedVerse=99999;loadChapter(n-1,b,99999);}
+     else {const bi=BOOKS.indexOf(b);if(bi>0){const previousBook=BOOKS[bi-1];closeImageOverlaysOnScroll();selectedVerse=99999;loadChapter(previousBook.chapters,previousBook,99999);}}
+     return;
+   }
    if(target>=verseCards.length){
      const b=loadedBook||currentBook,n=loadedChapter||current;
-     if(b&&n<b.chapters){selectedVerse=0;loadChapter(n+1,b,0);}
+     if(b&&n<b.chapters){closeImageOverlaysOnScroll();selectedVerse=0;loadChapter(n+1,b,0);}
+     else {const bi=BOOKS.indexOf(b);if(bi>=0&&bi<BOOKS.length-1){closeImageOverlaysOnScroll();selectedVerse=0;loadChapter(1,BOOKS[bi+1],0);}}
      return;
    }
    closeImageOverlaysOnScroll();
