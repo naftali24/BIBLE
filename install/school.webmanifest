@@ -1,0 +1,24 @@
+{
+  "id": "/BIBLE/app-school",
+  "name": "תנ״ך לפי משרד החינוך · SCHOOL BIBLE",
+  "short_name": "תנ״ך לפי משרד החינוך",
+  "start_url": "/BIBLE/tanakh_by%20israeli_ministry.html",
+  "scope": "/BIBLE/",
+  "display": "fullscreen",
+  "background_color": "#211207",
+  "theme_color": "#211207",
+  "icons": [
+    {
+      "src": "../bible-pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../bible-pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
