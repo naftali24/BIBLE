@@ -618,7 +618,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 
 <style>
 /* Menu attention pulse until first press */
-@keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+@keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1)}}
 #chapterMenuBtn.menuAttention{animation:menuSizePulse .75s ease-in-out infinite;transform-origin:center}
 #reloadChapterBtn{flex:0 0 auto;display:block!important;font-size:24px!important;line-height:1;padding:3px 8px!important;min-width:38px!important;background:#ffd65c!important;color:#211400!important}
 #returnVerseBtn{display:none!important}
@@ -1076,7 +1076,44 @@ body.introMode main{display:none!important}
   object-fit:contain!important;object-position:center center!important;
 }
 </style>
-<style id="tanakh-gpt-style">#topControls #tanakhGPT{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;background:linear-gradient(#f9e7a0,#c88b17)!important;color:#201100!important;font-size:16px!important;font-weight:900!important}#tanakhGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:16px}#tanakhGPTBox{width:min(480px,96vw);background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;padding:22px;text-align:center;font-size:20px;line-height:1.5}#tanakhGPTBox button{margin:8px;padding:10px 15px}#tanakhGPTCount{font-size:36px;font-weight:900}</style></head>
+<style id="tanakh-gpt-style">#topControls #tanakhGPT{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;background:linear-gradient(#f9e7a0,#c88b17)!important;color:#201100!important;font-size:16px!important;font-weight:900!important}#tanakhGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:16px}#tanakhGPTBox{width:min(480px,96vw);background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;padding:22px;text-align:center;font-size:20px;line-height:1.5}#tanakhGPTBox button{margin:8px;padding:10px 15px}#tanakhGPTCount{font-size:36px;font-weight:900}</style>
+<style id="single-verse-layout">
+#chapterMenuBtn.menuAttention{animation:none!important;transform:none!important}
+#main{overflow:hidden!important;scroll-behavior:auto!important;padding:5px 8px!important;touch-action:pan-y!important}
+#cards{height:100%;overflow:hidden!important}
+#cards>.card{display:none!important;margin:0 auto!important;max-height:100%!important;height:100%!important;overflow-y:auto!important;overscroll-behavior:contain!important}
+#cards>.card.singleVisible{display:block!important}
+#chapterStepControls{left:8px!important;right:8px!important;direction:rtl!important}
+#chapterStepControls button{width:48px!important;height:40px!important;font-size:31px!important;opacity:1!important}
+#chapterStepControls #verseNext{margin-right:auto!important}
+#chapterStepControls #versePrevious{margin-left:auto!important}
+#topControls>#ideasMenuBtn{position:static!important;z-index:auto!important;pointer-events:auto!important;font-size:25px!important;display:inline-flex!important;align-items:center!important;justify-content:center!important}
+#ideasMenu[hidden]{display:none!important}
+#ideasMenu{position:fixed;z-index:200000;inset:10% 5% auto;max-width:560px;max-height:75dvh;overflow:auto;margin:auto;padding:12px;background:#170f06;border:2px solid #e2ae35;border-radius:16px;box-shadow:0 10px 40px #000d;direction:rtl}
+#ideasMenu h2{font-size:21px;color:#ffdf76;text-align:center;margin:4px 0 12px}
+#ideasMenu button{display:block;width:100%;margin:6px 0;text-align:right;padding:10px;background:linear-gradient(#ffe8a2,#d79a1b);color:#211300;font-size:17px;white-space:normal}
+#ideasMenu .ideasClose{text-align:center;background:#6a301c;color:white}
+</style>
+<style id="bold-black-verse-arrows-audio">
+/* Strong, embossed black up/down arrows on gold navigation keys. */
+#chapterStepControls #versePrevious,#chapterStepControls #verseNext{
+  width:54px!important;height:46px!important;min-width:54px!important;
+  font-family:"Segoe UI Symbol",Arial,sans-serif!important;font-size:31px!important;font-weight:900!important;
+  color:#080808!important;-webkit-text-stroke:1.1px #080808!important;
+  text-shadow:1px 1px 0 #fff3ad,2px 3px 0 #966000,3px 4px 3px rgba(0,0,0,.55)!important;
+  background:linear-gradient(155deg,#fff2a4,#d99a16 65%,#a66a00)!important;
+  border:2px solid #fbe3a0!important;border-bottom:4px solid #785000!important;
+  box-shadow:inset 0 2px 2px #fff8b8,0 4px 7px #0009!important;
+  opacity:1!important;line-height:1!important;
+}
+#chapterStepControls #versePrevious:disabled,#chapterStepControls #verseNext:disabled{opacity:.35!important}
+.verseAudioBtn,.num .verseAudioBtn,body.lang-en .verseAudioBtn{
+  min-width:43px!important;height:40px!important;padding:0 7px!important;
+  font-size:29px!important;line-height:1!important;
+  align-items:center!important;justify-content:center!important;vertical-align:middle!important;
+}
+</style>
+</head>
 <body class="introMode">
 <header>
   <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
@@ -1086,6 +1123,7 @@ body.introMode main{display:none!important}
       <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
       <div id="chapterMenu"></div>
     </div>
+        <button id="ideasMenuBtn" type="button" onclick="toggleIdeasMenu()" title="רעיונות הספר" aria-label="רעיונות הספר">📖</button>
     <button id="tanakhGPT" type="button" title="שאל את GPT על הפסוק" aria-label="שאל את GPT על הפסוק">GPT</button>
     <button id="reloadChapterBtn" type="button" onclick="reloadCurrentChapter()" title="עדכון נתוני הפרק בלי לצאת מהמקום" aria-label="עדכון נתוני הפרק בלי לצאת מהמקום">↻</button>
     <button id="returnVerseBtn" class="hidden" type="button" onclick="returnToSavedVerse()" title="חזור לפסוק השמור" aria-label="חזור לפסוק השמור">↩ פסוק 1</button>
@@ -1111,7 +1149,7 @@ body.introMode main{display:none!important}
   </div><div id="cards"></div></main>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
-  <div id="chapterStepControls"><button type="button" onclick="stepChapter(-1)" title="פרק קודם" aria-label="פרק קודם">−</button><button type="button" onclick="stepChapter(1)" title="פרק הבא" aria-label="פרק הבא">+</button></div>
+  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
     <div id="imageLoading">Loading...</div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
@@ -3022,4 +3060,75 @@ function close(){guide.style.display='none';}
 function launch(){try{navigator.clipboard?.writeText(prompt).catch(()=>{});}catch(e){}const url='https://chatgpt.com/?q='+encodeURIComponent(prompt);const win=window.open(url,'_blank');if(win){close();}else{message.textContent=en()?'Popup blocked. Allow popups and try again.':'הדפדפן חסם חלון חדש. אפשר חלונות קופצים ונסה שוב.';}}
 cancel.addEventListener('click',close);open.addEventListener('click',launch);
 btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load a chapter first.':'יש לטעון פרק תחילה.');return;}prompt=buildPrompt();message.textContent=en()?'GPT will open a question about the current verse. To return to this app, use the Recent Apps button (usually a square) at the bottom.':'ב־GPT תיפתח שאלה על הפסוק הנוכחי. לחזרה לאפליקציה הזאת השתמש בכפתור (בדרך כלל ריבוע) האפליקציות הפתוחות של הפלאפון למטה.';open.textContent=en()?'Open GPT':'פתח GPT';cancel.textContent=en()?'Cancel':'ביטול';guide.style.display='flex';});
-})();</script></body></html>
+})();</script>
+<div id="ideasMenu" hidden role="dialog" aria-label="רעיונות הספר"></div>
+<script id="single-verse-navigation">
+(function(){
+ let selectedVerse=0;
+ const pane=document.getElementById('main');
+ const originalRender=render,originalSetActive=setActive,originalShow=showVerseAtTop;
+ function applySingle(i){
+   if(!verseCards.length)return;
+   selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
+   verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
+   verseAtTop=selectedVerse;
+   pane.scrollTop=0;
+   updateReadingHeading(selectedVerse);
+   rememberReadingVerse(selectedVerse);
+   const prev=document.getElementById('versePrevious'),next=document.getElementById('verseNext');
+   prev.disabled=selectedVerse===0;
+   const last=selectedVerse===verseCards.length-1;
+   next.textContent=last?'⤓':'↓';
+   next.title=last?(language==='en'?'Next chapter':'לפרק הבא'):(language==='en'?'Next verse':'פסוק הבא');
+   next.setAttribute('aria-label',next.title);
+   document.getElementById('ideasMenu').hidden=true;
+ }
+ render=function(){originalRender();applySingle(Math.min(selectedVerse,verseCards.length-1));};
+ setActive=function(i,scroll){originalSetActive(i,false);applySingle(i);};
+ showVerseAtTop=function(i){applySingle(i);};
+ getTopVisibleVerse=function(){return selectedVerse;};
+ stepOneVerse=function(dir){navigateSingleVerse(dir);};
+ window.navigateSingleVerse=function(dir){
+   if(!verseCards.length||document.body.classList.contains('introMode'))return;
+   const target=selectedVerse+dir;
+   if(target<0)return;
+   if(target>=verseCards.length){
+     const b=loadedBook||currentBook,n=loadedChapter||current;
+     if(b&&n<b.chapters){selectedVerse=0;loadChapter(n+1,b,0);}
+     return;
+   }
+   closeImageOverlaysOnScroll();
+   originalSetActive(target,false);
+   applySingle(target);
+   const ix=ideaForVerse(target+1);
+   if(ix!==ideaNow){ideaNow=ix;displayIdeaImage(ix,(data?.ideas||[])[ix]);}
+ };
+ window.toggleIdeasMenu=function(){
+   const menu=document.getElementById('ideasMenu');
+   if(!menu.hidden){menu.hidden=true;return;}
+   const ideas=data?.ideas||[];
+   const title=language==='en'?'Ideas in this chapter':'רעיונות בפרק זה';
+   menu.replaceChildren();
+   const heading=document.createElement('h2');heading.textContent=title;menu.appendChild(heading);
+   const close=document.createElement('button');close.className='ideasClose';close.textContent='✕';close.onclick=()=>menu.hidden=true;menu.appendChild(close);
+   ideas.forEach((idea,i)=>{
+     const start=Number(idea.start_verse||idea.startVerse||1);
+     const end=Number(idea.end_verse||idea.endVerse||start);
+     const btn=document.createElement('button');
+     btn.textContent=(language==='en'?'Verses ':'פסוקים ')+start+'–'+end+' · '+(displayIdeaTitle(idea)||('רעיון '+(i+1)));
+     btn.onclick=()=>{menu.hidden=true;navigateToIdea(start-1);};menu.appendChild(btn);
+   });
+   if(!ideas.length){const p=document.createElement('p');p.textContent=language==='en'?'No ideas available for this chapter':'אין רעיונות זמינים לפרק זה';menu.appendChild(p);}
+   menu.hidden=false;
+ };
+ window.navigateToIdea=function(i){if(!verseCards.length)return;originalSetActive(i,false);applySingle(i);};
+ // Suppress all other manual verse scrolling and touch/wheel navigation.
+ pane.addEventListener('wheel',e=>{e.preventDefault();e.stopImmediatePropagation();},{capture:true,passive:false});
+ pane.addEventListener('touchmove',e=>{e.stopImmediatePropagation();},{capture:true,passive:false});
+ pane.addEventListener('keydown',e=>{if(['ArrowUp','ArrowDown','PageUp','PageDown','Home','End',' '].includes(e.key)){e.preventDefault();e.stopImmediatePropagation();}},{capture:true});
+ const origLoad=loadChapter;
+ loadChapter=async function(n,book,returnVerse){selectedVerse=Number.isInteger(returnVerse)?returnVerse:0;const result=await origLoad(n,book,returnVerse);applySingle(selectedVerse);return result;};
+ if(verseCards.length)applySingle(0);
+})();
+</script>
+</body></html>
