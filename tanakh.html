@@ -1444,8 +1444,8 @@ function updateReadingHeading(index=verseAtTop){
   const name=language==='en'?(book.nameEn||book.name):book.name;
   const total=book.chapters||'';
   const label=language==='en'
-    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse}`
-    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse}`;
+    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse}`
+    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse}`;
   bookTitle.textContent=label;
   chapterCounter.textContent='';
   bookTitle.dir=language==='en'?'ltr':'rtl';
@@ -3218,6 +3218,95 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
    if(Math.abs(e.deltaY)<8||Date.now()-lastWheel<550)return;
    lastWheel=Date.now();navigateSingleVerse(e.deltaY>0?1:-1);
  },{passive:false});
+})();
+</script>
+
+<style id="continuous-audio-green">
+#topControls #sequenceBtn.continuousEnabled{background:linear-gradient(#a6ffc0,#1caa4d)!important;color:#062b12!important;box-shadow:inset 0 0 0 2px #d9ffe2,0 0 9px #35df74!important}
+</style>
+<script id="continuous-audio-image-navigation">
+(function(){
+  const btn=document.getElementById('sequenceBtn');
+  const player=document.getElementById('audio');
+  if(!btn||!player)return;
+  let continuous=false;
+  const originalPlay=window.playSequence;
+  const originalNavigate=window.navigateSingleVerse;
+  function refresh(){btn.classList.toggle('continuousEnabled',continuous);btn.setAttribute('aria-pressed',String(continuous));btn.title=continuous?'עצור שמיעה רציפה':'הפעל שמיעה רציפה';}
+  function playSelected(){
+    if(!continuous||!data)return;
+    const times=activeTimes();
+    const i=getTopVisibleVerse();
+    if(!times.length||!Number.isFinite(Number(times[i])))return;
+    if(language==='en'&&!(data.audio_en_url||data.english_audio_url))return;
+    clearClickedWordMode();stopTTS();stopEnglishTTS();
+    sequenceMode=true;sequenceLastVerse=i;sequenceStartTarget=null;sequenceFloorTime=sourceTime(Number(times[i]));
+    lockedVerse=-1;stopAtTime=null;audio.muted=userAudioMuted;
+    seekAndPlayAbsolute(sourceTime(Number(times[i])));
+  }
+  window.playSequence=function(){
+    if(continuous){continuous=false;sequenceMode=false;player.pause();refresh();updateSequenceButtonIcon();return;}
+    continuous=true;refresh();
+    originalPlay();
+    if(player.paused&&(!data||!activeTimes().length)){continuous=false;refresh();}
+  };
+  window.navigateSingleVerse=function(direction){
+    if(continuous){player.pause();sequenceMode=false;}
+    const beforeBook=loadedBook, beforeChapter=loadedChapter;
+    originalNavigate(direction);
+    if(!continuous)return;
+    if(loadedBook===beforeBook&&loadedChapter===beforeChapter)playSelected();
+    // On chapter boundaries loadChapter is asynchronous; handled below.
+  };
+  const originalLoad=window.loadChapter;
+  window.loadChapter=async function(...args){
+    const result=await originalLoad(...args);
+    if(continuous)playSelected();
+    return result;
+  };
+  refresh();
+})();
+</script>
+
+<style id="image-scroll-hint-style">
+#verseArrowRow #imageScrollHint{
+  position:absolute;left:65px;right:65px;top:0;bottom:0;
+  display:flex;align-items:center;justify-content:center;
+  color:#e5b843;font-family:Arial,sans-serif;font-weight:900;
+  font-size:clamp(17px,3.5vw,29px);line-height:1.12;text-align:center;
+  text-shadow:0 1px #fff0a0,0 3px #875100,0 5px 8px #000;
+  pointer-events:none;z-index:1;opacity:0;visibility:hidden;
+  transition:opacity .4s ease,visibility .4s ease;
+}
+#verseArrowRow #imageScrollHint.visible{opacity:1;visibility:visible}
+</style>
+<script id="image-scroll-hint-logic">
+(function(){
+  const row=document.getElementById('verseArrowRow');
+  if(!row)return;
+  const hint=document.createElement('div');
+  hint.id='imageScrollHint';hint.setAttribute('aria-live','polite');
+  row.appendChild(hint);
+  let shown=false, timer=null;
+  function updateLanguage(){
+    hint.textContent=(typeof language!=='undefined'&&language==='en')
+      ? 'You can also scroll on the image' : 'אפשר לגלול גם על התמונה';
+    hint.dir=(typeof language!=='undefined'&&language==='en')?'ltr':'rtl';
+  }
+  function check(){
+    updateLanguage();
+    if(shown||document.body.classList.contains('introMode')||!document.querySelector('#cards>.card'))return;
+    shown=true;
+    hint.classList.add('visible');
+    timer=setTimeout(()=>hint.classList.remove('visible'),7000);
+  }
+  const observer=new MutationObserver(check);
+  observer.observe(document.body,{attributes:true,attributeFilter:['class']});
+  const cards=document.getElementById('cards');
+  if(cards)observer.observe(cards,{childList:true});
+  const langBtn=document.getElementById('langBtn');
+  if(langBtn)langBtn.addEventListener('click',()=>queueMicrotask(updateLanguage));
+  check();
 })();
 </script>
 </body></html>
