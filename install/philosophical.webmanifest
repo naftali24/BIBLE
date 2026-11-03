@@ -1,0 +1,24 @@
+{
+  "id": "/BIBLE/app-philosophical",
+  "name": "תנ״ך פילוסופי · PHILOSOPHICAL BIBLE",
+  "short_name": "תנ״ך פילוסופי",
+  "start_url": "/BIBLE/Philosophical%20Bible.html",
+  "scope": "/BIBLE/",
+  "display": "fullscreen",
+  "background_color": "#211207",
+  "theme_color": "#211207",
+  "icons": [
+    {
+      "src": "../bible-pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../bible-pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
