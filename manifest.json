@@ -1,25 +1,16 @@
 {
-  "name": "פרויקט התנ״ך — נפתלי ו־AI",
-  "short_name": "התנ״ך",
-  "description": "אפליקציות התנ״ך בעברית ובאנגלית",
-  "lang": "he",
-  "dir": "rtl",
-  "id": "./index.html",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "fullscreen",
+  "name": "פרויקט התנ״ך — Naftali & AI",
+  "short_name": "פרויקט התנ״ך",
+  "id": "/BIBLE/",
+  "start_url": "/BIBLE/",
+  "scope": "/BIBLE/",
+  "display": "standalone",
   "background_color": "#211207",
   "theme_color": "#211207",
   "icons": [
     {
-      "src": "./bible-pwa-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./bible-pwa-512.png",
-      "sizes": "512x512",
+      "src": "/BIBLE/7apps.png?v=20261103",
+      "sizes": "any",
       "type": "image/png",
       "purpose": "any maskable"
     }
