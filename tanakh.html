@@ -322,6 +322,7 @@ body{
 .englishWord.wordSelected{background:#7dd3fc!important;color:#07111f!important;box-shadow:0 0 0 3px rgba(14,165,233,.45)!important}
 
 #langBtn svg{display:block;width:36px;height:24px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+#bookTitle{white-space:pre-wrap!important}
 </style><style>
 /* Consolidated final overrides */
 .missingEnglishAudio{background:#7d6262!important;color:white!important;opacity:.8}
@@ -1127,10 +1128,11 @@ body:not(.introMode) #imageSection{flex:0 0 var(--picture-verse-height,35dvh)!im
 #img.verseImageSlide{animation:verseImageVertical .4s cubic-bezier(.2,.65,.25,1) both!important}
 @keyframes verseImageVertical{from{transform:translateY(var(--slide-start,42px));opacity:.45}to{transform:translateY(0);opacity:1}}
 </style>
+<style>body.introMode #bookTitle{white-space:pre-wrap!important}</style>
 </head>
 <body class="introMode">
 <header>
-  <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
+  <h1><span id="bookTitle">התנ״ך     -     נפתלי וה AI</span> <span id="chapterCounter"></span></h1>
   <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
   <div id="topControls" class="controls">
     <div id="chapterMenuWrap">
@@ -1412,6 +1414,12 @@ function saveReadingForPageRefresh(){
 window.addEventListener('pagehide',saveReadingForPageRefresh);
 let verseAtTop=0;
 function updateReadingHeading(index=verseAtTop){
+  if(document.body.classList.contains('introMode')){
+    bookTitle.textContent=language==='en'?'THE BIBLE     -     Naftali & AI':'התנ״ך     -     נפתלי וה AI';
+    chapterCounter.textContent='';
+    bookTitle.dir=language==='en'?'ltr':'rtl';
+    return;
+  }
   const book=loadedBook||currentBook;
   if(!book)return;
   const chapter=loadedChapter||current||1;
