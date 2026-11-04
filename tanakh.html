@@ -1262,6 +1262,12 @@ header #topControls > #wordTranslation{position:absolute!important;pointer-event
  body #imageSection{width:100%!important;max-width:1200px!important;left:50%!important;right:auto!important;transform:translateX(-50%)!important;}
 }
 </style>
+
+<style id="internal-return-verse-toolbar-visibility-fix">
+/* The internal return-to-verse control is not a top-level navigation button. */
+header #topControls > #returnVerseBtn,
+header #topControls > #returnVerseBtn.hidden { display:none!important; flex:none!important; }
+</style>
 </head>
 <body class="introMode">
 <header>
