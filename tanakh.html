@@ -1216,14 +1216,17 @@ header #topControls > #returnToBibleIndex{order:999!important;margin-inline:0!im
     <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
       <option value="">פרק</option>
     </select>
-    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
-    <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
 
-    <button id="stopBtn" onclick="toggleAudioMute()" title="השתק/הפעל אודיו" aria-label="השתק או הפעל אודיו"><span class="iconWithLabel"><span class="stopIcon" aria-hidden="true">🔇</span></span></button>
+
     <select id="speedSel" class="miniSpeed" onchange="setSpeed(this.value)" title="מהירות אודיו" aria-label="מהירות אודיו">
       <option value="0.6">0.6×</option><option value="0.7">0.7×</option><option value="0.8">0.8×</option>
       <option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option>
     </select>
+    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
+    <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
+
+    <button id="stopBtn" onclick="toggleAudioMute()" title="השתק/הפעל אודיו" aria-label="השתק או הפעל אודיו"><span class="iconWithLabel"><span class="stopIcon" aria-hidden="true">🔇</span></span></button>
+
     <span id="wordTranslation" title="Word translation"></span>
   </div>
   <div id="dictionaryPanel" hidden><div id="basicMeaning" aria-live="polite"></div><div id="additionalMeaningsOnImage" hidden aria-live="polite"></div></div>
@@ -3364,4 +3367,152 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   check();
 })();
 </script>
+
+<style id="requested-toolbar-and-apps-menu">
+/* Speed selector sits immediately beside the speaker, temporarily. */
+#speedSel,#speedSel.miniSpeed{display:none!important}
+body > #speedSel.speedTenSeconds{display:block!important;position:fixed!important;z-index:214748300!important;width:56px!important;min-width:56px!important;max-width:56px!important;height:34px!important;min-height:34px!important;max-height:34px!important;padding:0 2px!important;font-size:14px!important;font-weight:900!important;background:linear-gradient(#ffe788,#d99a16)!important;border:1px solid #a67312!important;box-shadow:0 3px 9px #0009!important}
+#topControls #sequenceBtn{order:0!important}
+#topControls #ideasMenuBtn{display:inline-flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:0!important;padding:0!important;font-size:19px!important;line-height:18px!important}
+#ideasMenuBtn .storiesCaption{display:block;font-size:9px!important;font-weight:900!important;line-height:10px!important;white-space:nowrap}
+#appsIndexOverlay[hidden]{display:none!important}
+#appsIndexOverlay{position:fixed;inset:0;z-index:2147483640;background:#110a03;display:flex;flex-direction:column;border:3px solid #d6a332;box-sizing:border-box}
+#appsIndexBar{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;gap:8px;background:#241505;padding:7px 12px;color:#ffe28c;font-size:clamp(17px,3vw,25px);font-weight:900}
+#appsIndexClose{font-size:25px!important;min-width:44px!important;height:38px!important;background:linear-gradient(#ffe994,#d89b18)!important}
+#appsIndexFrame{width:100%;flex:1;min-height:0;border:0;background:#120b04}
+</style>
+<script id="requested-toolbar-and-apps-menu-script">
+(function(){
+ const top=document.getElementById('topControls');
+ const speaker=document.getElementById('sequenceBtn');
+ const speed=document.getElementById('speedSel');
+ const ideas=document.getElementById('ideasMenuBtn');
+ const indexBtn=document.getElementById('returnToBibleIndex');
+ if(top&&speed){
+   // Keep the original speed selector (and its onchange handler), but never in the toolbar.
+   document.body.appendChild(speed);
+   let shown=false, finished=false, timer=null, ticker=null, deadline=0;
+   const counter=document.createElement('span');
+   counter.id='speedSecondsRemaining';
+   counter.setAttribute('aria-label','שניות שנותרו');
+   const updateCounter=()=>{counter.textContent=String(Math.max(0,Math.ceil((deadline-Date.now())/1000)));};
+   const startClock=()=>{
+     clearTimeout(timer);clearInterval(ticker);
+     deadline=Date.now()+10000;
+     updateCounter();
+     ticker=setInterval(updateCounter,100);
+     timer=setTimeout(()=>{finished=true;hide();},10000);
+   };
+   const firstAudio=()=>document.querySelector('#cards .card .num .verseAudioBtn');
+   const hide=()=>{
+     clearTimeout(timer);clearInterval(ticker);
+     speed.classList.remove('speedTenSeconds');
+     counter.remove();
+     document.body.appendChild(speed);
+   };
+   const attach=()=>{
+     if(!shown||finished)return;
+     const audioButton=firstAudio();
+     if(audioButton){
+       if(speed.previousElementSibling!==audioButton)audioButton.insertAdjacentElement('afterend',speed);
+       if(counter.previousElementSibling!==speed)speed.insertAdjacentElement('afterend',counter);
+     }
+   };
+   const check=()=>{
+     if(finished)return;
+     if(!shown){
+       if(document.body.classList.contains('introMode')||!firstAudio())return;
+       shown=true;
+       speed.classList.add('speedTenSeconds');
+       startClock();
+     }
+     attach();
+   };
+   // Any interaction with the speed selector renews its full 10-second window.
+   const renewSpeedWindow=()=>{
+     if(!shown||finished||!speed.classList.contains('speedTenSeconds'))return;
+     startClock();
+   };
+   speed.addEventListener('pointerdown',renewSpeedWindow);
+   speed.addEventListener('click',renewSpeedWindow);
+   speed.addEventListener('change',renewSpeedWindow);
+   const observer=new MutationObserver(check);
+   const cards=document.getElementById('cards');
+   if(cards)observer.observe(cards,{childList:true,subtree:true});
+   observer.observe(document.body,{attributes:true,attributeFilter:['class']});
+   // The in-app restart (↻) refreshes the chapter without reloading the page.
+   // Start a fresh ten-second window after that restart renders its verses.
+   document.getElementById('reloadChapterBtn')?.addEventListener('click',()=>{
+     hide();
+     shown=false;
+     finished=false;
+     // A new chapter load can be asynchronous; the observer waits for the first verse.
+     // Do not start the timer until that verse is actually displayed.
+     if(!document.body.classList.contains('introMode') && firstAudio()){
+       requestAnimationFrame(check);
+     }
+   });
+   check();
+ }
+
+ if(ideas){
+   ideas.innerHTML='<span aria-hidden="true">📖</span><span class="storiesCaption"></span>';
+   const update=()=>{
+     const en=typeof language!=='undefined'&&language==='en';
+     ideas.querySelector('.storiesCaption').textContent=en?'Stories':'סיפורים';
+     ideas.title=en?'Stories':'סיפורים';
+     ideas.setAttribute('aria-label',ideas.title);
+   };
+   document.getElementById('langBtn')?.addEventListener('click',()=>setTimeout(update,0));
+   update();
+ }
+ if(indexBtn){
+   const overlay=document.createElement('div');overlay.id='appsIndexOverlay';overlay.hidden=true;
+   overlay.innerHTML='<div id="appsIndexBar"><span id="appsIndexTitle">7 אפליקציות התנ״ך</span><button id="appsIndexClose" type="button" aria-label="Close">✕</button></div><iframe id="appsIndexFrame" title="Bible apps index" loading="lazy"></iframe>';
+   document.body.appendChild(overlay);
+   const frame=overlay.querySelector('#appsIndexFrame');
+   const close=()=>{overlay.hidden=true;frame.removeAttribute('src')};
+   overlay.querySelector('#appsIndexClose').addEventListener('click',close);
+   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!overlay.hidden)close()});
+   indexBtn.addEventListener('click',e=>{
+     e.preventDefault();
+     const en=typeof language!=='undefined'&&language==='en';
+     overlay.querySelector('#appsIndexTitle').textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';
+     overlay.hidden=false;
+     frame.src='https://naftali24.github.io/BIBLE/';
+   });
+   frame.addEventListener('load',()=>{
+     try{
+       const url=frame.contentWindow.location.href;
+       const root='https://naftali24.github.io/BIBLE/';
+       if(url!==root&&url!==root+'index.html')window.location.assign(url);
+     }catch(_){/* The GitHub index remains visible in its embedded frame. */}
+   });
+ }
+})();
+</script>
+<style id="speed-structural-fix">
+#speedSel{position:fixed!important;display:none!important;z-index:214748300!important;}
+body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;min-width:56px!important;max-width:56px!important;height:34px!important;opacity:1!important;visibility:visible!important;}
+</style>
+<style id="speed-beside-verse-audio-final">
+/* The selector lives directly after the first verse speaker, including in fullscreen. */
+#speedSel{display:none!important}
+#cards .num #speedSel.speedTenSeconds{
+  display:inline-flex!important;position:static!important;
+  vertical-align:middle!important;margin-inline-start:5px!important;
+  width:56px!important;min-width:56px!important;max-width:56px!important;
+  height:30px!important;min-height:30px!important;max-height:30px!important;
+  padding:0 2px!important;font-size:14px!important;font-weight:900!important;
+  background:linear-gradient(#ffe788,#d99a16)!important;color:#241300!important;
+  border:1px solid #a67312!important;border-radius:6px!important;
+  opacity:1!important;visibility:visible!important;
+}
+</style>
+<style id="speed-countdown-style">
+#speedSecondsRemaining{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;
+ min-width:22px;height:25px;margin-inline-start:4px;padding:0 3px;border-radius:6px;
+ background:#2b1a06;border:1px solid #d5a52c;color:#ffe28a;
+ font:900 15px/1 Arial,sans-serif;direction:ltr;box-shadow:0 1px 4px #0008}
+</style>
 </body></html>
