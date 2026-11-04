@@ -1155,13 +1155,56 @@ body:not(.introMode) #imageSection #img{display:block!important;width:100%!impor
 header h1{padding-inline:43px!important}
 @media(max-height:500px){#returnToBibleIndex{width:30px!important;height:30px!important}#returnToBibleIndex svg{width:23px;height:23px}}
 </style>
+<style id="index-seven-apps-row-style">
+/* Keep the scroll icon below the enlarged two-line label, outside the controls row. */
+header{position:relative!important}
+header #returnToBibleIndex{position:absolute!important;top:5px!important;left:7px!important;right:auto!important;z-index:110!important;width:54px!important;height:66px!important;min-width:54px!important;max-width:54px!important;min-height:66px!important;max-height:66px!important;padding:3px 2px!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:1px!important;box-sizing:border-box!important;overflow:hidden!important;text-decoration:none!important}
+header #returnToBibleIndex .indexSevenLabel{display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;line-height:.9!important;font-family:Arial,sans-serif!important;font-weight:1000!important;color:#241300!important;text-shadow:0 1px #fff4ae,0 0 1px #241300!important}
+header #returnToBibleIndex .indexSevenLabel span:first-child{font-size:23px!important;font-weight:1000!important}
+header #returnToBibleIndex .indexSevenLabel span:last-child{font-size:15px!important;font-weight:1000!important;letter-spacing:-.3px!important}
+header #returnToBibleIndex svg{display:block!important;width:27px!important;height:27px!important;flex:0 0 27px!important;stroke-width:2.2!important}
+header h1{padding-inline:62px!important}
+@media(max-height:500px){header #returnToBibleIndex{height:58px!important;min-height:58px!important;max-height:58px!important;width:49px!important;min-width:49px!important;max-width:49px!important}header #returnToBibleIndex .indexSevenLabel span:first-child{font-size:20px!important}header #returnToBibleIndex .indexSevenLabel span:last-child{font-size:13px!important}header #returnToBibleIndex svg{height:22px!important;width:24px!important;flex-basis:22px!important}}
+</style>
+<style id="index-button-compact-row-fix">
+/* Align index control with the other top-row buttons. */
+header #topControls > #returnToBibleIndex{
+  position:relative!important;top:auto!important;left:auto!important;right:auto!important;
+  width:40px!important;min-width:40px!important;max-width:40px!important;
+  height:34px!important;min-height:34px!important;max-height:34px!important;
+  flex:0 0 40px!important;padding:1px!important;margin:0!important;
+  display:flex!important;flex-direction:column!important;gap:0!important;
+  align-items:center!important;justify-content:center!important;
+  border-radius:9px!important;z-index:1!important;
+}
+header #topControls > #returnToBibleIndex .indexSevenLabel{line-height:.8!important;gap:0!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:first-child{font-size:13px!important;line-height:12px!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:last-child{font-size:10px!important;line-height:9px!important;letter-spacing:-.3px!important}
+header #topControls > #returnToBibleIndex svg{width:16px!important;height:12px!important;min-height:12px!important;flex:0 0 12px!important;stroke-width:2.5!important}
+header h1{padding-inline:0!important}
+</style>
+<style id="index-scroll-full-button-overlay">
+/* Scroll fills the whole compact button, translucent, with readable 7/apps on top. */
+header #topControls > #returnToBibleIndex{position:relative!important;isolation:isolate!important;overflow:hidden!important;background:linear-gradient(#ffe994,#c78c17)!important}
+header #topControls > #returnToBibleIndex svg{position:absolute!important;inset:1px!important;width:calc(100% - 2px)!important;height:calc(100% - 2px)!important;min-height:0!important;max-height:none!important;flex:none!important;opacity:.42!important;stroke:#4e3106!important;stroke-width:2.2!important;z-index:0!important;pointer-events:none!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel{position:relative!important;z-index:1!important;line-height:.9!important;text-shadow:0 1px 2px #ffe8a0!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:first-child{font-size:17px!important;line-height:16px!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:last-child{font-size:11px!important;line-height:11px!important}
+</style>
+<style id="index-button-leftmost-fix">
+/* RTL flex row: last item is at the far left. */
+header #topControls > #returnToBibleIndex{order:999!important;margin-inline:0!important;}
+</style>
 </head>
 <body class="introMode">
 <header>
-<a id="returnToBibleIndex" href="https://naftali24.github.io/BIBLE/" title="חזרה לאינדקס / Back to all apps" aria-label="חזרה לאינדקס / Back to all apps"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 8 Q10 4 16 9 Q22 4 28 8 L28 25 Q22 21 16 26 Q10 21 4 25 Z"/><path d="M16 9 V26 M7 12 Q11 10 13 13 M19 13 Q23 10 25 12 M7 17 Q11 15 13 18 M19 18 Q23 15 25 17"/><path d="M4 5 L2 7 L2 27 Q10 24 16 29 Q22 24 30 27 L30 7 L28 5"/></svg></a>
+
+
   <h1><span id="bookTitle">התנ״ך     -     נפתלי וה AI</span> <span id="chapterCounter"></span></h1>
   <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
   <div id="topControls" class="controls">
+      <a id="returnToBibleIndex" href="https://naftali24.github.io/BIBLE/" title="חזרה לאינדקס / Back to all apps" aria-label="חזרה לאינדקס / Back to all apps"><span class="indexSevenLabel" aria-hidden="true"><span>7</span><span>apps</span></span><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 8 Q10 4 16 9 Q22 4 28 8 L28 25 Q22 21 16 26 Q10 21 4 25 Z"/><path d="M16 9 V26 M7 12 Q11 10 13 13 M19 13 Q23 10 25 12 M7 17 Q11 15 13 18 M19 18 Q23 15 25 17"/><path d="M4 5 L2 7 L2 27 Q10 24 16 29 Q22 24 30 27 L30 7 L28 5"/></svg></a>
+
     <div id="chapterMenuWrap">
       <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
       <div id="chapterMenu"></div>
