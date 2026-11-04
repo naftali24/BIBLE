@@ -1195,6 +1195,73 @@ header #topControls > #returnToBibleIndex .indexSevenLabel span:last-child{font-
 /* RTL flex row: last item is at the far left. */
 header #topControls > #returnToBibleIndex{order:999!important;margin-inline:0!important;}
 </style>
+
+<style id="full-width-top-toolbar-20261104">
+/* Spread the visible toolbar buttons evenly across the entire viewport. */
+header #topControls{display:flex!important;flex-flow:row nowrap!important;width:100%!important;max-width:100%!important;gap:clamp(2px,.6vw,8px)!important;justify-content:space-between!important;align-items:stretch!important;overflow:visible!important;}
+header #topControls > button:not(.hidden),
+header #topControls > a:not(.hidden),
+header #topControls > select:not(.hidden),
+header #topControls > #chapterMenuWrap{flex:1 1 0!important;width:0!important;min-width:0!important;max-width:none!important;box-sizing:border-box!important;margin:0!important;}
+header #topControls > #chapterMenuWrap{display:flex!important;align-items:stretch!important;}
+header #topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;min-width:0!important;max-width:none!important;flex:1!important;}
+header #topControls > #returnToBibleIndex,
+header #topControls > #tanakhGPT,
+header #topControls > #sequenceBtn,
+header #topControls > #ideasMenuBtn{width:0!important;min-width:0!important;max-width:none!important;flex:1 1 0!important;}
+header #topControls > .hidden,header #topControls > [hidden]{display:none!important;flex:none!important;}
+header #topControls > #wordTranslation{flex:0 0 auto!important;min-width:0!important;}
+header #topControls > button,header #topControls > a,header #topControls > select{padding-left:2px!important;padding-right:2px!important;white-space:nowrap!important;}
+@media(max-width:520px){header #topControls{gap:2px!important}header #topControls > button,header #topControls > a,header #topControls > select{font-size:clamp(10px,2.8vw,15px)!important;}header #topControls > #ideasMenuBtn{font-size:17px!important;}}
+</style>
+<style id="equal-toolbar-buttons-windows-1300">
+/* All visible toolbar controls occupy identical columns. */
+header #topControls{display:flex!important;flex-wrap:nowrap!important;width:100%!important;gap:clamp(2px,.5vw,7px)!important;justify-content:stretch!important;align-items:stretch!important}
+header #topControls > button:not(.hidden):not([hidden]),
+header #topControls > a:not(.hidden):not([hidden]),
+header #topControls > select:not(.hidden):not([hidden]),
+header #topControls > #chapterMenuWrap:not(.hidden):not([hidden]){
+  flex:1 1 0px!important;width:0!important;min-width:0!important;max-width:none!important;
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  box-sizing:border-box!important;margin:0!important;padding-inline:2px!important;
+}
+header #topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;height:100%!important;min-height:0!important;max-height:none!important;min-width:0!important;max-width:none!important;box-sizing:border-box!important}
+header #topControls > .hidden,header #topControls > [hidden]{display:none!important;flex:none!important}
+/* The word translation is not a toolbar button; keep it out of column sizing. */
+header #topControls > #wordTranslation{position:absolute!important;pointer-events:none!important;width:0!important;max-width:0!important;overflow:hidden!important;padding:0!important;margin:0!important}
+/* Windows/desktop: centered application, maximum width 1300px. */
+@media(min-width:901px){
+ html{background:#080502!important}
+ body{width:100%!important;max-width:1300px!important;margin-inline:auto!important;position:relative!important}
+ body #imageSection{left:50%!important;right:auto!important;width:100%!important;max-width:1300px!important;transform:translateX(-50%)!important}
+}
+@media(max-width:900px){body{width:100%!important;max-width:100%!important;margin:0!important}}
+</style>
+
+<style id="equal-all-toolbar-buttons-1200-final">
+/* Final override: even the language and restart controls share the same column width. */
+#topControls{display:flex!important;flex-flow:row nowrap!important;gap:clamp(2px,.5vw,7px)!important;align-items:stretch!important;width:100%!important;}
+#topControls > button:not(.hidden):not([hidden]),
+#topControls > a:not(.hidden):not([hidden]),
+#topControls > #chapterMenuWrap:not(.hidden):not([hidden]),
+#topControls > #langBtn:not(.hidden):not([hidden]),
+#topControls > #reloadChapterBtn:not(.hidden):not([hidden]){
+  flex:1 1 0px!important;flex-basis:0px!important;flex-grow:1!important;flex-shrink:1!important;
+  width:0!important;min-width:0!important;max-width:none!important;
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  margin:0!important;box-sizing:border-box!important;padding:0 2px!important;
+  display:inline-flex!important;align-items:center!important;justify-content:center!important;
+}
+#topControls > #chapterMenuWrap{display:flex!important;}
+#topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;min-width:0!important;max-width:none!important;height:100%!important;}
+#topControls > #langBtn svg{max-width:36px!important;max-height:24px!important;}
+#topControls > .hidden,#topControls > [hidden]{display:none!important;flex:none!important;}
+@media(min-width:901px){
+ html{background:#080502!important;}
+ body{width:100%!important;max-width:1200px!important;margin-inline:auto!important;position:relative!important;}
+ body #imageSection{width:100%!important;max-width:1200px!important;left:50%!important;right:auto!important;transform:translateX(-50%)!important;}
+}
+</style>
 </head>
 <body class="introMode">
 <header>
@@ -1224,8 +1291,6 @@ header #topControls > #returnToBibleIndex{order:999!important;margin-inline:0!im
     </select>
     <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
     <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
-
-    <button id="stopBtn" onclick="toggleAudioMute()" title="השתק/הפעל אודיו" aria-label="השתק או הפעל אודיו"><span class="iconWithLabel"><span class="stopIcon" aria-hidden="true">🔇</span></span></button>
 
     <span id="wordTranslation" title="Word translation"></span>
   </div>
@@ -3403,7 +3468,7 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
      ticker=setInterval(updateCounter,100);
      timer=setTimeout(()=>{finished=true;hide();},10000);
    };
-   const firstAudio=()=>document.querySelector('#cards .card .num .verseAudioBtn');
+   const firstAudio=()=>document.querySelector('#cards > .card.singleVisible .num .verseAudioBtn');
    const hide=()=>{
      clearTimeout(timer);clearInterval(ticker);
      speed.classList.remove('speedTenSeconds');
@@ -3438,7 +3503,7 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
    speed.addEventListener('change',renewSpeedWindow);
    const observer=new MutationObserver(check);
    const cards=document.getElementById('cards');
-   if(cards)observer.observe(cards,{childList:true,subtree:true});
+   if(cards)observer.observe(cards,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
    observer.observe(document.body,{attributes:true,attributeFilter:['class']});
    // The in-app restart (↻) refreshes the chapter without reloading the page.
    // Start a fresh ten-second window after that restart renders its verses.
@@ -3514,5 +3579,140 @@ body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;mi
  min-width:22px;height:25px;margin-inline-start:4px;padding:0 3px;border-radius:6px;
  background:#2b1a06;border:1px solid #d5a52c;color:#ffe28a;
  font:900 15px/1 Arial,sans-serif;direction:ltr;box-shadow:0 1px 4px #0008}
+</style>
+
+<style id="local-apps-menu-styles">
+#appsIndexFrame{display:none!important}
+#appsLocalMenu{overflow-y:auto;flex:1;min-height:0;padding:clamp(12px,3vw,28px);display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));align-content:start;gap:12px;direction:rtl;background:radial-gradient(ellipse at top,#4c3014,#150c05 75%)}
+#appsLocalMenu a{display:flex;align-items:center;justify-content:center;min-height:66px;padding:12px 10px;border-radius:14px;border:2px solid #c28c2d;background:linear-gradient(#f9dc83,#c58a19);color:#231300;text-align:center;font-size:clamp(17px,2.7vw,23px);font-weight:900;text-decoration:none;box-shadow:0 4px 12px #0008}
+#appsLocalMenu a:focus-visible{outline:3px solid white;outline-offset:3px}
+</style>
+<script id="local-apps-menu-and-owl-close-fix">
+(function(){
+ const owl=document.getElementById('chapterMenuBtn');
+ const apps=document.getElementById('returnToBibleIndex');
+ const overlay=document.getElementById('appsIndexOverlay');
+ if(!owl||!apps||!overlay)return;
+ const items=[
+ ['התנ״ך','The Bible','tanakh.html'],
+ ['סיפורי התנ״ך · גם לילדים + טריוויה','Bible Stories · Trivia','tanakh%20by%20ideas.html'],
+ ['תנ״ך היסטורי','Historical Bible','historical_bible.html'],
+ ['תנ״ך פילוסופי','Philosophical Bible','Philosophical%20Bible.html'],
+ ['תנ״ך גיאוגרפי','Geographical Bible','geographical_bible.html'],
+ ['תנ״ך בתמונות','Bible in Pictures','apps/bible-pictures/iphone-android.html'],
+ ['תנ״ך לפי משרד החינוך','Bible by School Grade','tanakh_by%20israeli_ministry.html']
+ ];
+ const local=document.createElement('nav');local.id='appsLocalMenu';local.setAttribute('aria-label','תפריט שבע אפליקציות התנ״ך');
+ overlay.appendChild(local);
+ function closeOtherMenus(){
+   const ideas=document.getElementById('ideasMenu');if(ideas)ideas.hidden=true;
+   document.getElementById('didYouKnowBox')?.classList.remove('open');
+   const dialog=document.getElementById('genesisAboutOverlay');if(dialog)dialog.hidden=true;
+   overlay.hidden=true;
+ }
+ owl.addEventListener('click',closeOtherMenus,{capture:true});
+ apps.addEventListener('click',function(e){
+   e.preventDefault();e.stopImmediatePropagation();
+   document.getElementById('chapterMenu')?.classList.remove('open','initialTransparent');
+   const ideas=document.getElementById('ideasMenu');if(ideas)ideas.hidden=true;
+   const en=typeof language!=='undefined'&&language==='en';
+   overlay.querySelector('#appsIndexTitle').textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';
+   local.replaceChildren();
+   for(const [he,english,path] of items){
+     const link=document.createElement('a');link.textContent=en?english:he;
+     link.href='https://naftali24.github.io/BIBLE/'+path;
+     local.appendChild(link);
+   }
+   overlay.hidden=false;
+ },true);
+})();
+</script>
+
+<style id="nov4-toolbar-apps-refinement">
+/* Uniform height for the entire top row, including 7 APPS and sequence audio. */
+#topControls > #returnToBibleIndex,
+#topControls > #sequenceBtn,
+#topControls > button:not(.hidden):not([hidden]),
+#topControls > #chapterMenuWrap{
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  align-self:stretch!important;box-sizing:border-box!important;
+}
+#topControls > #returnToBibleIndex{display:flex!important;align-items:center!important;justify-content:center!important;padding:0!important}
+#topControls > #sequenceBtn{display:flex!important;flex-direction:column!important;justify-content:center!important;align-items:center!important;gap:0!important;padding:1px 2px!important;line-height:1!important}
+#sequenceBtn .sequenceSpeaker{font-size:18px!important;line-height:18px!important}
+#sequenceBtn .sequenceCaption{font-size:12px!important;line-height:15px!important;font-weight:1000!important;color:#251000!important;text-shadow:0 1px 0 #fff4bb,0 2px 2px #a26b0d;letter-spacing:.2px}
+#topControls > #ideasMenuBtn{position:relative!important;isolation:isolate!important;overflow:hidden!important}
+#ideasMenuBtn .storiesBigIcon{position:absolute!important;inset:0!important;display:flex!important;align-items:center!important;justify-content:center!important;font-size:33px!important;line-height:1!important;opacity:.43!important;pointer-events:none!important;z-index:0!important}
+#ideasMenuBtn .storiesCaption{position:relative!important;z-index:1!important;font-size:12px!important;line-height:14px!important;font-weight:1000!important;text-shadow:0 1px 1px #fff4c2,0 2px 3px #684000!important}
+/* Compact single-column app chooser: its gold box ends at the last button. */
+#appsIndexOverlay{justify-content:center!important;align-items:center!important;background:#080401d9!important;border:0!important;padding:12px!important}
+#appsIndexBar,#appsLocalMenu{width:min(100%,460px)!important;box-sizing:border-box!important;flex:none!important}
+#appsIndexBar{border:2px solid #d6a332!important;border-bottom:0!important;border-radius:15px 15px 0 0!important;padding:5px 10px!important}
+#appsLocalMenu{display:flex!important;flex-direction:column!important;gap:6px!important;align-content:initial!important;min-height:0!important;max-height:calc(100dvh - 95px)!important;overflow-y:auto!important;padding:9px 12px 12px!important;border:2px solid #d6a332!important;border-top:0!important;border-radius:0 0 15px 15px!important;background:linear-gradient(145deg,#56310b,#211005)!important}
+#appsLocalMenu a{min-height:42px!important;flex:none!important;padding:6px 10px!important;font-size:clamp(16px,2.3vw,21px)!important;line-height:1.15!important;font-weight:1000!important;border-radius:10px!important;letter-spacing:.2px!important;text-shadow:0 1px 0 #fff2af,0 2px 0 #a97718,0 3px 2px #533004,0 4px 5px #0006!important;box-shadow:inset 0 1px 1px #fff3a5,0 3px 4px #0009!important}
+@media(max-height:520px){#appsLocalMenu a{min-height:33px!important;padding:3px 7px!important}#appsLocalMenu{gap:4px!important;padding:6px!important}}
+</style>
+<script id="nov4-toolbar-apps-refinement-js">
+(function(){
+ const sequence=document.getElementById('sequenceBtn');
+ const stories=document.getElementById('ideasMenuBtn');
+ const lang=document.getElementById('langBtn');
+ function updateSequence(){
+   if(!sequence)return;
+   const en=typeof language!=='undefined'&&language==='en';
+   const symbol=(typeof audio!=='undefined'&&audio&&!audio.paused)?'⏸':'🔊';
+   sequence.innerHTML='<span class="sequenceSpeaker" aria-hidden="true">'+symbol+'</span><span class="sequenceCaption">'+(en?'Sequence':'רצף')+'</span>';
+   sequence.title=en?'Play / pause continuous audio':'נגן רצף / השהה';
+   sequence.setAttribute('aria-label',sequence.title);
+ }
+ function updateStories(){
+   if(!stories)return;
+   const en=typeof language!=='undefined'&&language==='en';
+   stories.innerHTML='<span class="storiesBigIcon" aria-hidden="true">📖</span><span class="storiesCaption">'+(en?'Stories':'סיפורים')+'</span>';
+ }
+ // Existing code replaces the audio button text on playback. Keep the caption after updates.
+ if(sequence){
+   const observer=new MutationObserver(()=>{
+     const cap=sequence.querySelector('.sequenceCaption');
+     const en=typeof language!=='undefined'&&language==='en';
+     if(!cap||cap.textContent!==(en?'Sequence':'רצף'))updateSequence();
+   });
+   observer.observe(sequence,{childList:true,subtree:false});
+   updateSequence();
+ }
+ updateStories();
+ lang?.addEventListener('click',()=>setTimeout(()=>{updateSequence();updateStories()},0));
+})();
+</script>
+
+<style id="speed-selector-never-float-fix">
+/* Never display the speed selector when detached from the visible verse. */
+body > #speedSel.speedTenSeconds,
+body > #speedSel.miniSpeed.speedTenSeconds {display:none!important;position:static!important;}
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+  display:inline-flex!important;position:static!important;top:auto!important;right:auto!important;left:auto!important;bottom:auto!important;
+}
+</style>
+<style id="speed-language-switch-detached-guard">
+/* English-mode legacy rule must never resurrect a detached speed selector. */
+body.lang-en > #speedSel,
+body.lang-he > #speedSel,
+body > #speedSel,
+body.lang-en > #speedSel.speedTenSeconds,
+body.lang-he > #speedSel.speedTenSeconds,
+body > #speedSel.speedTenSeconds {
+  display:none!important;
+  position:static!important;
+  visibility:hidden!important;
+}
+/* Only the currently visible verse may display the control in either language. */
+body.lang-en #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+  display:inline-flex!important;
+  position:static!important;
+  visibility:visible!important;
+  inset:auto!important;
+}
 </style>
 </body></html>
