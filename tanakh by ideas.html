@@ -1518,4 +1518,56 @@ html body > header #menu{display:grid!important;place-items:center!important}
  window.addEventListener('load',repair);
 })();
 </script>
+
+<style id="photo-scroll-navigation-style">
+/* Allow a vertical swipe on the picture without dragging the page sideways. */
+#storyImageDock .dock-photo{touch-action:pan-x pinch-zoom}
+</style>
+<script id="photo-scroll-navigation-script">(()=>{
+  const photo=document.querySelector('#storyImageDock .dock-photo');
+  if(!photo)return;
+  let startY=null,startX=null,lastMove=0;
+  const navigate=(direction)=>{
+    const now=Date.now();if(now-lastMove<380)return;
+    const buttons=document.querySelectorAll('#storyArrows button');
+    const button=buttons[direction>0?1:0];
+    if(!button||button.disabled)return;
+    lastMove=now;button.click();
+  };
+  const onInteractive=(target)=>!!target.closest('button,select,input,textarea,a,.inline-game-pin,.inline-game-question');
+  photo.addEventListener('wheel',event=>{
+    if(onInteractive(event.target)||Math.abs(event.deltaY)<8)return;
+    event.preventDefault();navigate(event.deltaY>0?-1:1);
+  },{passive:false});
+  photo.addEventListener('touchstart',event=>{
+    if(event.touches.length!==1||onInteractive(event.target)){startY=null;return;}
+    startY=event.touches[0].clientY;startX=event.touches[0].clientX;
+  },{passive:true});
+  photo.addEventListener('touchend',event=>{
+    if(startY===null||!event.changedTouches.length)return;
+    const dy=startY-event.changedTouches[0].clientY;
+    const dx=startX-event.changedTouches[0].clientX;
+    startY=null;startX=null;
+    if(Math.abs(dy)>=45&&Math.abs(dy)>Math.abs(dx)*1.2){
+      event.preventDefault();navigate(dy>0?-1:1);
+    }
+  },{passive:false});
+  photo.addEventListener('touchcancel',()=>{startY=null;startX=null;},{passive:true});
+})();</script>
+
+<style id="photo-scroll-hint-style">
+#photoScrollHint{position:absolute;z-index:210;top:14px;left:50%;transform:translateX(-50%);width:max-content;max-width:92%;padding:9px 15px;border:1px solid #ffe38b;border-radius:12px;background:rgba(13,8,3,.76);color:#ffe68e;font:800 clamp(15px,3.8vw,21px)/1.3 Arial,sans-serif;text-align:center;pointer-events:none;text-shadow:0 2px 4px #000;box-shadow:0 3px 12px #0008}
+#photoScrollHint[hidden]{display:none!important}
+</style>
+<script id="photo-scroll-hint-script">(()=>{
+ function init(){
+  const photo=document.querySelector('#storyImageDock .dock-photo');if(!photo)return;
+  if(getComputedStyle(photo).position==='static')photo.style.position='relative';
+  const hint=document.createElement('div');hint.id='photoScrollHint';hint.setAttribute('role','status');photo.appendChild(hint);
+  const update=()=>{hint.textContent=document.body.dataset.language==='en'?'Scroll on the image':'אפשר לגלול על התמונה';};
+  update();const observer=new MutationObserver(update);observer.observe(document.body,{attributes:true,attributeFilter:['data-language']});
+  setTimeout(()=>{hint.hidden=true;observer.disconnect();},7000);
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+})();</script>
 </body></html>
