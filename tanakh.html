@@ -1149,9 +1149,16 @@ body.introMode #verseArrowRow{display:none!important}
 body:not(.introMode) #imageSection>#imageBox{width:100%!important;max-width:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:hidden!important}
 body:not(.introMode) #imageSection #img{display:block!important;width:100%!important;height:100%!important;min-width:100%!important;min-height:100%!important;object-fit:cover!important;object-position:center center!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important}
 </style>
+<style id="return-to-bible-index-style">
+#returnToBibleIndex{position:absolute!important;top:5px!important;left:7px!important;right:auto!important;z-index:110!important;width:38px!important;height:38px!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:3px!important;border:1px solid #ffe6a1!important;border-radius:9px!important;background:linear-gradient(#ffe994,#c78c17)!important;box-shadow:0 2px 5px #0008!important;color:#291800!important;text-decoration:none!important}
+#returnToBibleIndex svg{width:28px;height:28px;display:block;stroke:#291800;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+header h1{padding-inline:43px!important}
+@media(max-height:500px){#returnToBibleIndex{width:30px!important;height:30px!important}#returnToBibleIndex svg{width:23px;height:23px}}
+</style>
 </head>
 <body class="introMode">
 <header>
+<a id="returnToBibleIndex" href="https://naftali24.github.io/BIBLE/" title="חזרה לאינדקס / Back to all apps" aria-label="חזרה לאינדקס / Back to all apps"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 8 Q10 4 16 9 Q22 4 28 8 L28 25 Q22 21 16 26 Q10 21 4 25 Z"/><path d="M16 9 V26 M7 12 Q11 10 13 13 M19 13 Q23 10 25 12 M7 17 Q11 15 13 18 M19 18 Q23 15 25 17"/><path d="M4 5 L2 7 L2 27 Q10 24 16 29 Q22 24 30 27 L30 7 L28 5"/></svg></a>
   <h1><span id="bookTitle">התנ״ך     -     נפתלי וה AI</span> <span id="chapterCounter"></span></h1>
   <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
   <div id="topControls" class="controls">
