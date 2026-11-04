@@ -43,10 +43,7 @@ body[data-language="en"] .idea-heading-row .reading-level{order:2}
 </style><link href="manifest-ideas.webmanifest?v=13" rel="manifest"/>
 <meta content="#0d0803" name="theme-color"/>
 <link href="tanakh-ideas-192.png" rel="apple-touch-icon"/>
-<style id="ideasInstallStyle">
-#ideasInstallBtn{position:static;z-index:99999;border:1px solid #d4af37;border-radius:8px;background:linear-gradient(#f7df7a,#c99a22);color:#3b2600;padding:6px 10px;font:800 13px Arial;box-shadow:none;margin:0 4px;white-space:nowrap}
-#ideasInstallBtn[hidden]{display:none!important}
-</style>
+
 <style id="verseDisplayTuning">
 /* פסוקים מעט קטנים וצפופים יותר */
 .verse-overlay{
@@ -119,12 +116,6 @@ body[data-language="en"] header .header-title h1{direction:ltr;text-align:left}
 .summary .child-explanation[lang="en"]{direction:ltr;text-align:left}
 @media(max-width:420px){.reading-level{font-size:12px;padding:2px 5px;min-width:52px}}
 </style><style id="gold-return-mobile">
-
-
-
-
-
-
 </style><style id="single-gold-switch-final">
 /* Both screens have exactly one switch button in the same footer position. */
 
@@ -373,7 +364,33 @@ body.quiz-choosing .idea .summary .game-verse-reading,
 body.story-game-mode .idea .summary .game-verse-reading {
  font-size:clamp(19px,2.2vw,25px)!important;
 }
-</style></head><body data-language="he"><header><div class="header-title"><h1 id="main-app-heading">תנ״ך לפי סיפורים</h1><span hidden="" id="position"></span></div><div aria-label="שפה" class="language-controls" role="group"><button hidden="" id="ideasInstallBtn" type="button">INSTALL</button><button aria-label="החלפת שפה / Switch language" id="language-toggle" title="עברית / English"><svg class="lang-flag-he" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="29" height="20" aria-hidden="true"><rect width="60" height="40" fill="#fff"/><path fill="#0038b8" d="M0 5h60v5H0zm0 25h60v5H0z"/><path d="M30 12l8 14H22zM30 28l-8-14h16z" fill="none" stroke="#0038b8" stroke-width="1.8"/></svg><svg class="lang-flag-en" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="29" height="20" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><path d="M0 0 60 40M60 0 0 40" stroke="#fff" stroke-width="9"/><path d="M0 0 60 40M60 0 0 40" stroke="#c8102e" stroke-width="4"/><path d="M30 0v40M0 20h60" stroke="#fff" stroke-width="13"/><path d="M30 0v40M0 20h60" stroke="#c8102e" stroke-width="7"/></svg></button></div><button aria-haspopup="dialog" aria-label="פתח תפריט ספרים" id="menu" title="ספרים">🦉</button></header><main aria-label="תמונות וסיכומי רעיונות" id="feed"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button aria-label="סגור תפריט" id="close-menu">✕</button></div><div class="books" id="books"></div><div hidden="" id="menu-chapters"></div></dialog><script>
+</style><style id="seven-apps-from-tanakh">
+/* Seven-apps gold button fitted in the existing header gap. */
+#sevenAppsBtn{flex:0 0 53px!important;width:53px!important;min-width:53px!important;height:43px!important;min-height:43px!important;padding:2px!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:0!important;border-radius:10px!important;border:1px solid #b58016!important;background:linear-gradient(#fff0a3,#d79a17)!important;color:#241300!important;box-shadow:0 2px 0 #6c4300!important;line-height:.92!important;white-space:nowrap!important}
+#sevenAppsBtn .sevenAppsNumber{font:1000 25px/.85 Arial,sans-serif;text-shadow:0 1px #fff4ae,0 2px 2px #765009}
+#sevenAppsBtn .sevenAppsWord{font:1000 13px/1 Arial,sans-serif;letter-spacing:-.3px;text-shadow:0 1px #fff4ae}
+#sevenAppsOverlay[hidden]{display:none!important}
+#sevenAppsOverlay{position:fixed;inset:0;z-index:2147483640;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#080401d9;padding:12px;box-sizing:border-box}
+#sevenAppsBar,#sevenAppsLinks{width:min(100%,460px);box-sizing:border-box;flex:none}
+#sevenAppsBar{display:flex;align-items:center;justify-content:space-between;gap:8px;background:#241505;border:2px solid #d6a332;border-bottom:0;border-radius:15px 15px 0 0;padding:5px 10px;color:#ffe28c;font:900 clamp(17px,3vw,25px) Arial,sans-serif}
+#sevenAppsClose{font-size:25px!important;min-width:44px!important;height:38px!important;background:linear-gradient(#ffe994,#d89b18)!important}
+#sevenAppsLinks{display:flex;flex-direction:column;gap:6px;min-height:0;max-height:calc(100dvh - 95px);overflow-y:auto;padding:9px 12px 12px;border:2px solid #d6a332;border-top:0;border-radius:0 0 15px 15px;background:linear-gradient(145deg,#56310b,#211005);direction:rtl}
+#sevenAppsLinks a{display:flex;align-items:center;justify-content:center;min-height:42px;flex:none;padding:6px 10px;font:1000 clamp(16px,2.3vw,21px)/1.15 Arial,sans-serif;text-align:center;text-decoration:none;letter-spacing:.2px;border-radius:10px;border:2px solid #c28c2d;background:linear-gradient(#f9dc83,#c58a19);color:#231300;text-shadow:0 1px 0 #fff2af,0 2px 0 #a97718,0 3px 2px #533004,0 4px 5px #0006;box-shadow:inset 0 1px 1px #fff3a5,0 3px 4px #0009}
+#sevenAppsLinks a:focus-visible{outline:3px solid white;outline-offset:3px}
+@media(max-width:420px){#sevenAppsBtn{flex-basis:43px!important;width:43px!important;min-width:43px!important}#sevenAppsBtn .sevenAppsNumber{font-size:22px}#sevenAppsBtn .sevenAppsWord{font-size:11px}}
+@media(max-height:520px){#sevenAppsLinks a{min-height:33px;padding:3px 7px}#sevenAppsLinks{gap:4px;padding:6px}}
+</style><style id="storiesHeaderMatchTanakh">
+/* Align the Stories top buttons with the Tanakh toolbar. */
+header{direction:rtl!important;display:flex!important;align-items:center!important;justify-content:flex-start!important;gap:5px!important}
+header .header-title{display:none!important}
+#topKidsSwitch{order:0!important;margin:0!important;flex:0 0 49px!important;width:49px!important;min-width:49px!important;height:43px!important;min-height:43px!important;max-height:43px!important;padding:2px!important;align-self:center!important}
+#sevenAppsBtn{order:1!important;flex:0 0 49px!important;width:49px!important;min-width:49px!important;height:43px!important;min-height:43px!important;max-height:43px!important;padding:2px!important;align-self:center!important}
+#menu{order:2!important;flex:0 0 49px!important;width:49px!important;min-width:49px!important;height:43px!important;min-height:43px!important;max-height:43px!important;padding:2px!important;align-self:center!important;display:grid!important;place-items:center!important}
+.language-controls{order:3!important;flex:0 0 49px!important;width:49px!important;margin:0!important;align-self:center!important}
+#language-toggle{width:49px!important;min-width:49px!important;max-width:49px!important;height:43px!important;min-height:43px!important;max-height:43px!important;padding:2px!important;display:flex!important;align-items:center!important;justify-content:center!important;border:1px solid #8b5d00!important;border-radius:10px!important;box-shadow:0 2px 0 #6c4300!important}
+#sevenAppsBtn,#menu,#language-toggle{background:linear-gradient(#ffe788,#d99a16)!important;color:#241300!important;border:1px solid #8b5d00!important;border-radius:10px!important;box-shadow:0 2px 0 #6c4300!important}
+@media(max-width:420px){header{gap:4px!important}#topKidsSwitch,#sevenAppsBtn,#menu,.language-controls,#language-toggle{width:43px!important;min-width:43px!important;max-width:43px!important;flex-basis:43px!important}}
+</style></head><body data-language="he"><header><div class="header-title"><h1 id="main-app-heading">תנ״ך לפי סיפורים</h1><span hidden="" id="position"></span></div><button aria-controls="sevenAppsOverlay" aria-expanded="false" aria-haspopup="dialog" id="sevenAppsBtn" title="7 אפליקציות התנ״ך / 7 Bible Apps" type="button"><span class="sevenAppsNumber">7</span><span class="sevenAppsWord">apps</span></button><button aria-haspopup="dialog" aria-label="פתח תפריט ספרים" id="menu" title="ספרים">🦉</button><div aria-label="שפה" class="language-controls" role="group"><button aria-label="החלפת שפה / Switch language" id="language-toggle" title="עברית / English"><svg aria-hidden="true" class="lang-flag-he" height="20" viewbox="0 0 60 40" width="29" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="40" width="60"></rect><path d="M0 5h60v5H0zm0 25h60v5H0z" fill="#0038b8"></path><path d="M30 12l8 14H22zM30 28l-8-14h16z" fill="none" stroke="#0038b8" stroke-width="1.8"></path></svg><svg aria-hidden="true" class="lang-flag-en" height="20" viewbox="0 0 60 40" width="29" xmlns="http://www.w3.org/2000/svg"><rect fill="#012169" height="40" width="60"></rect><path d="M0 0 60 40M60 0 0 40" stroke="#fff" stroke-width="9"></path><path d="M0 0 60 40M60 0 0 40" stroke="#c8102e" stroke-width="4"></path><path d="M30 0v40M0 20h60" stroke="#fff" stroke-width="13"></path><path d="M30 0v40M0 20h60" stroke="#c8102e" stroke-width="7"></path></svg></button></div></header><main aria-label="תמונות וסיכומי רעיונות" id="feed"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button aria-label="סגור תפריט" id="close-menu">✕</button></div><div class="books" id="books"></div><div hidden="" id="menu-chapters"></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
 const BASE='https://raw.githubusercontent.com/naftali24/BIBLE/main/';
@@ -548,45 +565,7 @@ if('serviceWorker' in navigator){
   window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js').catch(()=>{}));
 }
 </script>
-<script id="ideasInstallScript">
-(()=>{
- const btn=document.getElementById('ideasInstallBtn');
- let promptEvent=null;
- const installed=()=>window.matchMedia('(display-mode: standalone)').matches ||
-   window.navigator.standalone===true;
-
- const installDeadline=Date.now()+10000;
- setTimeout(()=>{btn.hidden=true;},10000);
- function refreshButton(){
-   btn.hidden = installed() || Date.now()>=installDeadline;
- }
- window.addEventListener('beforeinstallprompt',e=>{
-   e.preventDefault();
-   promptEvent=e;
-   refreshButton();
- });
- btn.addEventListener('click',async()=>{
-   if(installed()){ btn.hidden=true; return; }
-   if(promptEvent){
-     promptEvent.prompt();
-     try{await promptEvent.userChoice;}catch(e){}
-     promptEvent=null;
-     refreshButton();
-   }else{
-     alert('Chrome: פתח את התפריט ⋮ ובחר "התקנת אפליקציה" או "הוספה למסך הבית".\n\nChrome: open the ⋮ menu and choose Install app / Add to Home screen.');
-   }
- });
- window.addEventListener('appinstalled',()=>{
-   promptEvent=null;
-   btn.hidden=true;
- });
- document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshButton();});
- refreshButton();
- if('serviceWorker' in navigator){
-   window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));
- }
-})();
-</script><style>
+<style>
 
 
 
@@ -596,9 +575,6 @@ if('serviceWorker' in navigator){
 </style>
 <script id="single-screen-game-button">(()=>{const btn=document.createElement('button');btn.id='openIntegratedGame';btn.type='button';btn.textContent='🎮 משחק';document.body.appendChild(btn);})();</script>
 <style>
-
-
-
 </style><style id="stories-final-style">
 .summary .idea-heading-row .reading-level{font-size:16px!important;padding:7px 12px!important;min-height:34px!important}
 .caption .verse-tools{margin-inline-start:auto!important;direction:ltr!important}
@@ -1131,7 +1107,6 @@ feed.addEventListener('scroll',update,{passive:true});
 setInterval(update,250);
 update();
 })();</script>
-
 <style id="central-stories-style">
 #centralStoriesButton{height:43px;min-height:43px;padding:5px 12px;font-size:17px;white-space:nowrap;background:linear-gradient(#fff1ad,#d7a122);color:#271800;font-weight:900}
 #centralStoriesDialog{width:min(720px,96vw);height:min(780px,91dvh);max-height:91dvh;padding:14px;overflow:hidden;flex-direction:column;background:#100b05;color:#ffdf83;border:2px solid #d9a332}
@@ -1146,7 +1121,7 @@ update();
 #centralStoriesList small{display:block;font-size:13px;font-weight:400;opacity:.8;margin-top:4px}
 @media(max-width:420px){#centralStoriesButton{font-size:14px;padding:5px 8px}#centralStoriesDialog{padding:9px}#centralStoriesDialog h2{font-size:18px}}
 </style>
-<dialog id="centralStoriesDialog" aria-label="סיפורים מרכזיים"><div class="stories-head"><h2 id="centralStoriesHeading">סיפורים מרכזיים – בראשית</h2><button id="centralStoriesChildToggle" type="button" aria-pressed="false">לילדים</button><button id="centralStoriesClose" type="button">✕</button></div><div class="stories-chapters" id="centralStoriesChapters"></div><div id="centralStoriesList"></div></dialog>
+<dialog aria-label="סיפורים מרכזיים" id="centralStoriesDialog"><div class="stories-head"><h2 id="centralStoriesHeading">סיפורים מרכזיים – בראשית</h2><button aria-pressed="false" id="centralStoriesChildToggle" type="button">לילדים</button><button id="centralStoriesClose" type="button">✕</button></div><div class="stories-chapters" id="centralStoriesChapters"></div><div id="centralStoriesList"></div></dialog>
 <script id="central-stories-feature">
 (()=>{
  const button=document.createElement('button');button.id='centralStoriesButton';button.type='button';
@@ -1203,7 +1178,6 @@ update();
  labels();
 })();
 </script>
-
 <style id="github-three-level-quiz-style">
 #quizDifficulty{display:flex;gap:4px;align-items:center;flex-wrap:nowrap;margin-inline-start:5px}
 #quizDifficulty button{font-size:clamp(12px,1.6vw,17px);padding:6px 9px;min-width:0}
@@ -1221,7 +1195,7 @@ update();
 .inline-game-pins,.inline-game-question,.inline-game-completed,#storyGameScore{display:none!important}
 @media(max-width:650px){#quizDifficulty button{padding:5px 5px;font-size:12px}#githubQuizDialog{padding:12px}header{gap:3px!important}}
 </style>
-<dialog id="githubQuizDialog"><div class="quiz-header"><h2 id="githubQuizHeading">משחק תנ״ך</h2><button id="githubQuizClose" type="button">✕</button></div><div id="githubQuizProgress"></div><div id="githubQuizQuestion"></div><div id="githubQuizAnswers"></div><div id="githubQuizExplanation"></div><button id="githubQuizNext" type="button" hidden>השאלה הבאה ←</button></dialog>
+<dialog id="githubQuizDialog"><div class="quiz-header"><h2 id="githubQuizHeading">משחק תנ״ך</h2><button id="githubQuizClose" type="button">✕</button></div><div id="githubQuizProgress"></div><div id="githubQuizQuestion"></div><div id="githubQuizAnswers"></div><div id="githubQuizExplanation"></div><button hidden="" id="githubQuizNext" type="button">השאלה הבאה ←</button></dialog>
 <script id="github-three-level-quiz-controller">(()=>{
 'use strict';
 const btn=document.getElementById('openIntegratedGame'),modal=document.getElementById('githubQuizDialog');
@@ -1361,7 +1335,6 @@ languageObserver.observe(document.body,{attributes:true,attributeFilter:['data-l
 document.getElementById('language-toggle')?.addEventListener('click',()=>setTimeout(onLanguageChange,0));
 paintLevels();updateScore();
 })();</script>
-
 <style id="gpt-button-guide-style">
 #owlTopActions{position:fixed;z-index:2147483400;display:flex;align-items:center;gap:5px;direction:ltr;top:calc(10px + env(safe-area-inset-top,0px));left:65px}
 #owlOpenAi{height:43px;min-width:62px;padding:0 12px;border:2px solid #fff3b0;border-radius:12px;background:linear-gradient(#ffe994,#d39c1d);color:#2a1800;font:bold 18px Arial;cursor:pointer}
@@ -1372,8 +1345,8 @@ paintLevels();updateScore();
 #gptSideLabel{color:#ffe9a4;font:600 clamp(10px,2.2vw,14px)/1.2 Arial,sans-serif;max-width:min(48vw,260px);text-align:right;direction:rtl;text-shadow:0 1px 3px #000}
 body[data-language="en"] #gptSideLabel{direction:ltr;text-align:left}
 </style>
-<div id="owlTopActions"><button id="owlOpenAi" type="button" title="GPT">GPT</button></div>
-<div id="gptFirstGuide" role="status" aria-live="polite"><div id="gptGuideMessage"></div><div id="gptCountdown">7</div><button id="gptGuideOpen" type="button" hidden>פתח GPT עכשיו</button><button id="gptGuideCancel" type="button">ביטול</button></div>
+<div id="owlTopActions"><button id="owlOpenAi" title="GPT" type="button">GPT</button></div>
+<div aria-live="polite" id="gptFirstGuide" role="status"><div id="gptGuideMessage"></div><div id="gptCountdown">7</div><button hidden="" id="gptGuideOpen" type="button">פתח GPT עכשיו</button><button id="gptGuideCancel" type="button">ביטול</button></div>
 <script id="gpt-first-launch-script">
 (()=>{
  const button=document.getElementById('owlOpenAi'),guide=document.getElementById('gptFirstGuide');
@@ -1487,4 +1460,62 @@ body[data-language="en"] #gptSideLabel{direction:ltr;text-align:left}
   }
 }
 </style>
+<div aria-labelledby="sevenAppsTitle" aria-modal="true" hidden="" id="sevenAppsOverlay" role="dialog"><div id="sevenAppsBar"><span id="sevenAppsTitle">7 אפליקציות התנ״ך</span><button aria-label="סגור" id="sevenAppsClose" type="button">✕</button></div><nav aria-label="7 אפליקציות התנ״ך" id="sevenAppsLinks"></nav></div>
+<script id="seven-apps-from-tanakh-script">
+(function(){
+ const button=document.getElementById('sevenAppsBtn'),overlay=document.getElementById('sevenAppsOverlay'),close=document.getElementById('sevenAppsClose'),links=document.getElementById('sevenAppsLinks'),title=document.getElementById('sevenAppsTitle');
+ const items=[
+ ['התנ״ך','The Bible','tanakh.html'],
+ ['סיפורי התנ״ך · גם לילדים + טריוויה','Bible Stories · Trivia','tanakh%20by%20ideas.html'],
+ ['תנ״ך היסטורי','Historical Bible','historical_bible.html'],
+ ['תנ״ך פילוסופי','Philosophical Bible','Philosophical%20Bible.html'],
+ ['תנ״ך גיאוגרפי','Geographical Bible','geographical_bible.html'],
+ ['תנ״ך בתמונות','Bible in Pictures','apps/bible-pictures/iphone-android.html'],
+ ['תנ״ך לפי משרד החינוך','Bible by School Grade','tanakh_by%20israeli_ministry.html']
+ ];
+ function hide(){overlay.hidden=true;button.setAttribute('aria-expanded','false')}
+ function show(){
+  const nav=document.getElementById('navigation');if(nav?.open)nav.close();
+  const en=document.body.dataset.language==='en';title.textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';
+  links.replaceChildren();for(const [he,english,path] of items){const a=document.createElement('a');a.textContent=en?english:he;a.href='https://naftali24.github.io/BIBLE/'+path;links.appendChild(a)}
+  overlay.hidden=false;button.setAttribute('aria-expanded','true');close.focus();
+ }
+ button.addEventListener('click',()=>overlay.hidden?show():hide());
+ close.addEventListener('click',hide);
+ overlay.addEventListener('click',e=>{if(e.target===overlay)hide()});
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!overlay.hidden)hide()});
+ document.getElementById('menu')?.addEventListener('click',hide,{capture:true});
+})();
+</script>
+<style id="toolbar-overlap-repair-20261104">
+/* All toolbar controls participate in one flex row, without floating overlays. */
+html body > header{display:flex!important;direction:rtl!important;align-items:center!important;justify-content:flex-start!important;gap:clamp(3px,1vw,8px)!important;padding:5px 7px!important;min-height:57px!important;box-sizing:border-box!important;overflow:visible!important}
+html body > header #topKidsSwitch{order:0!important;margin:0!important}
+html body > header #owlTopActions{order:1!important;position:static!important;top:auto!important;left:auto!important;right:auto!important;bottom:auto!important;transform:none!important;z-index:auto!important;display:flex!important;flex:0 0 auto!important;margin:0!important;padding:0!important}
+html body > header #sevenAppsBtn{order:2!important}
+html body > header #menu{order:3!important}
+html body > header .language-controls{order:4!important;flex:0 0 auto!important;width:auto!important;min-width:0!important;max-width:none!important;margin:0!important}
+html body > header #topKidsSwitch,html body > header #sevenAppsBtn,html body > header #menu,html body > header #language-toggle,html body > header #owlOpenAi{height:clamp(43px,10vw,53px)!important;min-height:43px!important;max-height:53px!important;width:clamp(43px,11vw,55px)!important;min-width:43px!important;max-width:55px!important;flex:0 0 auto!important;box-sizing:border-box!important;padding:2px!important;border:1px solid #9b6d13!important;border-radius:11px!important;background:linear-gradient(#fff0a3,#d59a19)!important;color:#281900!important;box-shadow:inset 0 1px #fff6c1,0 3px 0 #7d5105!important;align-items:center!important;justify-content:center!important}
+html body > header #owlOpenAi{font-size:clamp(14px,3.8vw,19px)!important;display:flex!important}
+html body > header #language-toggle{display:flex!important;overflow:hidden!important;gap:0!important}
+html body > header #language-toggle svg{width:37px!important;height:26px!important;min-width:0!important;flex:0 0 auto!important}
+html body[data-language="he"] > header #language-toggle .lang-flag-he{display:none!important}
+html body[data-language="he"] > header #language-toggle .lang-flag-en{display:block!important}
+html body[data-language="en"] > header #language-toggle .lang-flag-en{display:none!important}
+html body[data-language="en"] > header #language-toggle .lang-flag-he{display:block!important}
+html body > header #sevenAppsBtn{display:flex!important;flex-direction:column!important}
+html body > header #menu{display:grid!important;place-items:center!important}
+@media(max-width:370px){html body > header{gap:3px!important;padding-inline:4px!important}html body > header #topKidsSwitch,html body > header #sevenAppsBtn,html body > header #menu,html body > header #language-toggle,html body > header #owlOpenAi{width:43px!important;min-width:43px!important;max-width:43px!important}}
+</style>
+<script id="toolbar-overlap-repair-script-20261104">
+(function(){
+ function repair(){
+  const header=document.querySelector('body > header'),gpt=document.getElementById('owlTopActions');
+  if(header&&gpt&&gpt.parentElement!==header)header.appendChild(gpt);
+  if(gpt){gpt.style.removeProperty('left');gpt.style.removeProperty('top');}
+ }
+ repair();document.addEventListener('DOMContentLoaded',repair);
+ window.addEventListener('load',repair);
+})();
+</script>
 </body></html>
