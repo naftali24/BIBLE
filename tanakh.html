@@ -1094,6 +1094,10 @@ body.introMode main{display:none!important}
 #ideasMenu h2{font-size:21px;color:#ffdf76;text-align:center;margin:4px 0 12px}
 #ideasMenu button{display:block;width:100%;margin:6px 0;text-align:right;padding:10px;background:linear-gradient(#ffe8a2,#d79a1b);color:#211300;font-size:17px;white-space:normal}
 #ideasMenu .ideasClose{text-align:center;background:#6a301c;color:white}
+#ideasMenu[dir="ltr"]{direction:ltr;text-align:left}
+#ideasMenu[dir="ltr"] button:not(.ideasClose){text-align:left;direction:ltr}
+#ideasMenu[dir="rtl"]{direction:rtl;text-align:right}
+#ideasMenu[dir="rtl"] button:not(.ideasClose){text-align:right;direction:rtl}
 </style>
 <style id="bold-black-verse-arrows-audio">
 /* Strong, embossed black up/down arrows on gold navigation keys. */
@@ -3172,6 +3176,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
    const menu=document.getElementById('ideasMenu');
    if(!menu.hidden){menu.hidden=true;return;}
    const ideas=data?.ideas||[];
+   menu.setAttribute('dir',language==='en'?'ltr':'rtl');
    const title=language==='en'?'Ideas in this chapter':'רעיונות בפרק זה';
    menu.replaceChildren();
    const heading=document.createElement('h2');heading.textContent=title;menu.appendChild(heading);
@@ -3209,14 +3214,14 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
    if(!start||!e.changedTouches.length)return;
    const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;
    start=null;
-   if(Math.abs(dy)>35&&Math.abs(dy)>Math.abs(dx)*1.15&&typeof navigateSingleVerse==='function')navigateSingleVerse(dy<0?1:-1);
+   if(Math.abs(dy)>35&&Math.abs(dy)>Math.abs(dx)*1.15&&typeof navigateSingleVerse==='function')navigateSingleVerse(dy<0?-1:1);
  },{passive:true});
  box.addEventListener('touchcancel',()=>{start=null;},{passive:true});
  box.addEventListener('wheel',e=>{
    if(e.target.closest(excluded)||e.ctrlKey)return;
    e.preventDefault();
    if(Math.abs(e.deltaY)<8||Date.now()-lastWheel<550)return;
-   lastWheel=Date.now();navigateSingleVerse(e.deltaY>0?1:-1);
+   lastWheel=Date.now();navigateSingleVerse(e.deltaY>0?-1:1);
  },{passive:false});
 })();
 </script>
