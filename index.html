@@ -147,10 +147,13 @@ function backToFirst(){const m=document.querySelector('main');if(m)m.scrollTo({t
 </script><script id="install-menu-logic">(function(){function refresh(){document.querySelectorAll('[data-install-id]').forEach(function(a){try{a.hidden=localStorage.getItem('bible-installed-'+a.dataset.installId)==='yes'}catch(e){}})}document.addEventListener('visibilitychange',function(){if(!document.hidden)refresh()});window.addEventListener('pageshow',refresh);refresh();})();</script><script id="install-index-functional">
 let bibleInstallPrompt=null;
 window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();bibleInstallPrompt=e;});
-window.addEventListener('appinstalled',function(){bibleInstallPrompt=null;});
+window.addEventListener('appinstalled',function(){bibleInstallPrompt=null;try{localStorage.setItem('bible-index-installed','yes')}catch(e){}});
 async function installBibleIndex(){
-  if(bibleInstallPrompt){const prompt=bibleInstallPrompt;bibleInstallPrompt=null;try{await prompt.prompt();await prompt.userChoice;}catch(e){}return;}
+  if(bibleInstallPrompt){const prompt=bibleInstallPrompt;bibleInstallPrompt=null;try{await prompt.prompt();const choice=await prompt.userChoice;if(choice&&choice.outcome==='accepted'){try{localStorage.setItem('bible-index-installed','yes')}catch(e){}}}catch(e){}return;}
   const box=document.getElementById('installIndexInstructions');
+  const installedMode=window.matchMedia('(display-mode: standalone)').matches||window.matchMedia('(display-mode: fullscreen)').matches||navigator.standalone===true;
+  let installedPreviously=false;try{installedPreviously=localStorage.getItem('bible-index-installed')==='yes'}catch(e){}
+  if(installedMode||installedPreviously){box.innerHTML='<p dir="rtl" style="font-size:22px;font-weight:bold;text-align:center">האייקון כבר מותקן</p><p dir="ltr" style="font-size:20px;font-weight:bold;text-align:center">The icon is already installed.</p>';document.getElementById('installIndexHelp').showModal();return;}
   const isWindows=/Windows/i.test(navigator.userAgent);
   const isIOS=/iPad|iPhone|iPod/i.test(navigator.userAgent);
   if(isWindows){box.innerHTML='<p>ב־Windows, פתח את <a href="https://naftali24.github.io/BIBLE/" target="_blank" rel="noopener" style="color:#ffda75">האינדקס באתר</a> בדפדפן Chrome או Edge.</p><p><b>Chrome:</b> שלוש נקודות ⋮ ← העברה, שמירה ושיתוף ← יצירת קיצור דרך.</p><p><b>Edge:</b> שלוש נקודות ⋯ ← אפליקציות ← התקן אתר זה כאפליקציה. אפשר ליצור קיצור דרך לשולחן העבודה.</p><p>הדפדפן חייב לבקש אישור; האתר אינו יכול ליצור קיצור דרך ישירות.</p>';}
