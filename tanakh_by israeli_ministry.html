@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>תנ״ך — עברית + English</title>
+<title>תנ״ך לפי משרד החינוך — עברית + English</title>
 <style>
 *{box-sizing:border-box}html,body{margin:0;height:100%;background:#120b04;color:#fff;font-family:Arial,sans-serif}body{height:100dvh;overflow:hidden;display:flex;flex-direction:column}
 header{background:#0d0803;padding:7px;border-bottom:1px solid #805b17;flex:0 0 auto}h1{margin:0 0 6px;text-align:center;color:#ffd95e;text-shadow:0 2px #6d3d00;font-size:28px}
@@ -322,6 +322,7 @@ body{
 .englishWord.wordSelected{background:#7dd3fc!important;color:#07111f!important;box-shadow:0 0 0 3px rgba(14,165,233,.45)!important}
 
 #langBtn svg{display:block;width:36px;height:24px;margin:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+#bookTitle{white-space:pre-wrap!important}
 </style><style>
 /* Consolidated final overrides */
 .missingEnglishAudio{background:#7d6262!important;color:white!important;opacity:.8}
@@ -618,7 +619,7 @@ body.lang-en #didYouKnowBox, body.lang-en #didYouKnowText{
 
 <style>
 /* Menu attention pulse until first press */
-@keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+@keyframes menuSizePulse{0%,100%{transform:scale(1)}50%{transform:scale(1)}}
 #chapterMenuBtn.menuAttention{animation:menuSizePulse .75s ease-in-out infinite;transform-origin:center}
 #reloadChapterBtn{flex:0 0 auto;display:block!important;font-size:24px!important;line-height:1;padding:3px 8px!important;min-width:38px!important;background:#ffd65c!important;color:#211400!important}
 #returnVerseBtn{display:none!important}
@@ -1076,35 +1077,238 @@ body.introMode main{display:none!important}
   object-fit:contain!important;object-position:center center!important;
 }
 </style>
-<style id="tanakh-gpt-style">#topControls #tanakhGPT{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;background:linear-gradient(#f9e7a0,#c88b17)!important;color:#201100!important;font-size:16px!important;font-weight:900!important}#tanakhGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:16px}#tanakhGPTBox{width:min(480px,96vw);background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;padding:22px;text-align:center;font-size:20px;line-height:1.5}#tanakhGPTBox button{margin:8px;padding:10px 15px}#tanakhGPTCount{font-size:36px;font-weight:900}</style><style id="grade-menu-css">
+<style id="tanakh-gpt-style">#topControls #tanakhGPT{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;background:linear-gradient(#f9e7a0,#c88b17)!important;color:#201100!important;font-size:16px!important;font-weight:900!important}#tanakhGPTGuide{position:fixed;inset:0;z-index:2147483000;background:#000b;display:none;align-items:center;justify-content:center;padding:16px}#tanakhGPTBox{width:min(480px,96vw);background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;padding:22px;text-align:center;font-size:20px;line-height:1.5}#tanakhGPTBox button{margin:8px;padding:10px 15px}#tanakhGPTCount{font-size:36px;font-weight:900}</style>
+<style id="single-verse-layout">
+#chapterMenuBtn.menuAttention{animation:none!important;transform:none!important}
+#main{overflow:hidden!important;scroll-behavior:auto!important;padding:5px 8px!important;touch-action:pan-y!important}
+#cards{height:100%;overflow:hidden!important}
+#cards>.card{display:none!important;margin:0 auto!important;max-height:100%!important;height:100%!important;overflow-y:auto!important;overscroll-behavior:contain!important}
+#cards>.card.singleVisible{display:block!important}
+#chapterStepControls{left:8px!important;right:8px!important;direction:rtl!important}
+#chapterStepControls button{width:48px!important;height:40px!important;font-size:31px!important;opacity:1!important}
+#chapterStepControls #verseNext{margin-right:auto!important}
+#chapterStepControls #versePrevious{margin-left:auto!important}
+#topControls>#ideasMenuBtn{position:static!important;z-index:auto!important;pointer-events:auto!important;font-size:25px!important;display:inline-flex!important;align-items:center!important;justify-content:center!important}
+#ideasMenu[hidden]{display:none!important}
+#ideasMenu{position:fixed;z-index:200000;inset:10% 5% auto;max-width:560px;max-height:75dvh;overflow:auto;margin:auto;padding:12px;background:#170f06;border:2px solid #e2ae35;border-radius:16px;box-shadow:0 10px 40px #000d;direction:rtl}
+#ideasMenu h2{font-size:21px;color:#ffdf76;text-align:center;margin:4px 0 12px}
+#ideasMenu button{display:block;width:100%;margin:6px 0;text-align:right;padding:10px;background:linear-gradient(#ffe8a2,#d79a1b);color:#211300;font-size:17px;white-space:normal}
+#ideasMenu .ideasClose{text-align:center;background:#6a301c;color:white}
+#ideasMenu[dir="ltr"]{direction:ltr;text-align:left}
+#ideasMenu[dir="ltr"] button:not(.ideasClose){text-align:left;direction:ltr}
+#ideasMenu[dir="rtl"]{direction:rtl;text-align:right}
+#ideasMenu[dir="rtl"] button:not(.ideasClose){text-align:right;direction:rtl}
+</style>
+<style id="bold-black-verse-arrows-audio">
+/* Strong, embossed black up/down arrows on gold navigation keys. */
+#chapterStepControls #versePrevious,#chapterStepControls #verseNext{
+  width:54px!important;height:46px!important;min-width:54px!important;
+  font-family:"Segoe UI Symbol",Arial,sans-serif!important;font-size:31px!important;font-weight:900!important;
+  color:#080808!important;-webkit-text-stroke:1.1px #080808!important;
+  text-shadow:1px 1px 0 #fff3ad,2px 3px 0 #966000,3px 4px 3px rgba(0,0,0,.55)!important;
+  background:linear-gradient(155deg,#fff2a4,#d99a16 65%,#a66a00)!important;
+  border:2px solid #fbe3a0!important;border-bottom:4px solid #785000!important;
+  box-shadow:inset 0 2px 2px #fff8b8,0 4px 7px #0009!important;
+  opacity:1!important;line-height:1!important;
+}
+#chapterStepControls #versePrevious:disabled,#chapterStepControls #verseNext:disabled{opacity:.35!important}
+.verseAudioBtn,.num .verseAudioBtn,body.lang-en .verseAudioBtn{
+  min-width:43px!important;height:40px!important;padding:0 7px!important;
+  font-size:29px!important;line-height:1!important;
+  align-items:center!important;justify-content:center!important;vertical-align:middle!important;
+}
+</style>
+<style id="final-verse-image-navigation-2026">
+/* Navigation at the bottom of the verse card, not in the image caption. */
+#cards>.card.singleVisible{position:relative!important;padding-bottom:62px!important;overflow-y:auto!important}
+#chapterStepControls{position:absolute!important;left:8px!important;right:8px!important;top:auto!important;bottom:6px!important;height:49px!important;direction:rtl!important;z-index:30!important;pointer-events:none!important}
+#chapterStepControls #versePrevious,#chapterStepControls #verseNext{width:55px!important;min-width:55px!important;height:45px!important;font-size:0!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;opacity:1!important;pointer-events:auto!important}
+#chapterStepControls button svg{width:43px;height:43px;display:block;filter:drop-shadow(1px 2px 1px #9a6c10)}
+#chapterStepControls button:disabled{opacity:.25!important}
+/* Give unused verse space to the picture, capped at 100 pixels. */
+body:not(.introMode) #imageSection{flex:0 0 var(--picture-verse-height,35dvh)!important;height:var(--picture-verse-height,35dvh)!important;max-height:none!important;transition:height .2s ease,flex-basis .2s ease}
+/* Vertical carousel effect on picture only; reverse on previous verse. */
+#imageBox{overflow:hidden!important}
+#img.verseImageSlide{animation:verseImageVertical .4s cubic-bezier(.2,.65,.25,1) both!important}
+@keyframes verseImageVertical{from{transform:translateY(var(--slide-start,42px));opacity:.45}to{transform:translateY(0);opacity:1}}
+</style>
+<style>body.introMode #bookTitle{white-space:pre-wrap!important}</style>
+<style id="separate-verse-arrows-and-picture-gestures">
+/* The verse ends above a distinct navigation row. */
+body:not(.introMode) #verseArrowRow{display:flex!important;position:relative!important;flex:0 0 57px!important;height:57px!important;align-items:center;justify-content:center;background:#120b04;border-top:1px solid #7c591b;z-index:20}
+body.introMode #verseArrowRow{display:none!important}
+#verseArrowRow #chapterStepControls{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;height:55px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;padding:0 10px!important;pointer-events:none!important}
+#verseArrowRow #chapterStepControls button{pointer-events:auto!important}
+#main,#cards{min-height:0!important}
+#cards>.card.singleVisible{height:100%!important;max-height:100%!important;overflow-y:auto!important;padding-bottom:10px!important;touch-action:pan-y!important;-webkit-overflow-scrolling:touch}
+#main{touch-action:pan-y!important;overflow:hidden!important}
+#imageBox{touch-action:pan-y!important}
+</style>
+<style id="image-fill-edge-to-edge-fix">
+/* Fill the entire picture container, with no letterboxing or image margins. */
+body:not(.introMode) #imageSection>#imageBox{width:100%!important;max-width:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:hidden!important}
+body:not(.introMode) #imageSection #img{display:block!important;width:100%!important;height:100%!important;min-width:100%!important;min-height:100%!important;object-fit:cover!important;object-position:center center!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important}
+</style>
+<style id="return-to-bible-index-style">
+#returnToBibleIndex{position:absolute!important;top:5px!important;left:7px!important;right:auto!important;z-index:110!important;width:38px!important;height:38px!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:3px!important;border:1px solid #ffe6a1!important;border-radius:9px!important;background:linear-gradient(#ffe994,#c78c17)!important;box-shadow:0 2px 5px #0008!important;color:#291800!important;text-decoration:none!important}
+#returnToBibleIndex svg{width:28px;height:28px;display:block;stroke:#291800;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+header h1{padding-inline:43px!important}
+@media(max-height:500px){#returnToBibleIndex{width:30px!important;height:30px!important}#returnToBibleIndex svg{width:23px;height:23px}}
+</style>
+<style id="index-seven-apps-row-style">
+/* Keep the scroll icon below the enlarged two-line label, outside the controls row. */
+header{position:relative!important}
+header #returnToBibleIndex{position:absolute!important;top:5px!important;left:7px!important;right:auto!important;z-index:110!important;width:54px!important;height:66px!important;min-width:54px!important;max-width:54px!important;min-height:66px!important;max-height:66px!important;padding:3px 2px!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:1px!important;box-sizing:border-box!important;overflow:hidden!important;text-decoration:none!important}
+header #returnToBibleIndex .indexSevenLabel{display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;line-height:.9!important;font-family:Arial,sans-serif!important;font-weight:1000!important;color:#241300!important;text-shadow:0 1px #fff4ae,0 0 1px #241300!important}
+header #returnToBibleIndex .indexSevenLabel span:first-child{font-size:23px!important;font-weight:1000!important}
+header #returnToBibleIndex .indexSevenLabel span:last-child{font-size:15px!important;font-weight:1000!important;letter-spacing:-.3px!important}
+header #returnToBibleIndex svg{display:block!important;width:27px!important;height:27px!important;flex:0 0 27px!important;stroke-width:2.2!important}
+header h1{padding-inline:62px!important}
+@media(max-height:500px){header #returnToBibleIndex{height:58px!important;min-height:58px!important;max-height:58px!important;width:49px!important;min-width:49px!important;max-width:49px!important}header #returnToBibleIndex .indexSevenLabel span:first-child{font-size:20px!important}header #returnToBibleIndex .indexSevenLabel span:last-child{font-size:13px!important}header #returnToBibleIndex svg{height:22px!important;width:24px!important;flex-basis:22px!important}}
+</style>
+<style id="index-button-compact-row-fix">
+/* Align index control with the other top-row buttons. */
+header #topControls > #returnToBibleIndex{
+  position:relative!important;top:auto!important;left:auto!important;right:auto!important;
+  width:40px!important;min-width:40px!important;max-width:40px!important;
+  height:34px!important;min-height:34px!important;max-height:34px!important;
+  flex:0 0 40px!important;padding:1px!important;margin:0!important;
+  display:flex!important;flex-direction:column!important;gap:0!important;
+  align-items:center!important;justify-content:center!important;
+  border-radius:9px!important;z-index:1!important;
+}
+header #topControls > #returnToBibleIndex .indexSevenLabel{line-height:.8!important;gap:0!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:first-child{font-size:13px!important;line-height:12px!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:last-child{font-size:10px!important;line-height:9px!important;letter-spacing:-.3px!important}
+header #topControls > #returnToBibleIndex svg{width:16px!important;height:12px!important;min-height:12px!important;flex:0 0 12px!important;stroke-width:2.5!important}
+header h1{padding-inline:0!important}
+</style>
+<style id="index-scroll-full-button-overlay">
+/* Scroll fills the whole compact button, translucent, with readable 7/apps on top. */
+header #topControls > #returnToBibleIndex{position:relative!important;isolation:isolate!important;overflow:hidden!important;background:linear-gradient(#ffe994,#c78c17)!important}
+header #topControls > #returnToBibleIndex svg{position:absolute!important;inset:1px!important;width:calc(100% - 2px)!important;height:calc(100% - 2px)!important;min-height:0!important;max-height:none!important;flex:none!important;opacity:.42!important;stroke:#4e3106!important;stroke-width:2.2!important;z-index:0!important;pointer-events:none!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel{position:relative!important;z-index:1!important;line-height:.9!important;text-shadow:0 1px 2px #ffe8a0!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:first-child{font-size:17px!important;line-height:16px!important}
+header #topControls > #returnToBibleIndex .indexSevenLabel span:last-child{font-size:11px!important;line-height:11px!important}
+</style>
+<style id="index-button-leftmost-fix">
+/* RTL flex row: last item is at the far left. */
+header #topControls > #returnToBibleIndex{order:999!important;margin-inline:0!important;}
+</style>
+
+<style id="full-width-top-toolbar-20261104">
+/* Spread the visible toolbar buttons evenly across the entire viewport. */
+header #topControls{display:flex!important;flex-flow:row nowrap!important;width:100%!important;max-width:100%!important;gap:clamp(2px,.6vw,8px)!important;justify-content:space-between!important;align-items:stretch!important;overflow:visible!important;}
+header #topControls > button:not(.hidden),
+header #topControls > a:not(.hidden),
+header #topControls > select:not(.hidden),
+header #topControls > #chapterMenuWrap{flex:1 1 0!important;width:0!important;min-width:0!important;max-width:none!important;box-sizing:border-box!important;margin:0!important;}
+header #topControls > #chapterMenuWrap{display:flex!important;align-items:stretch!important;}
+header #topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;min-width:0!important;max-width:none!important;flex:1!important;}
+header #topControls > #returnToBibleIndex,
+header #topControls > #tanakhGPT,
+header #topControls > #sequenceBtn,
+header #topControls > #ideasMenuBtn{width:0!important;min-width:0!important;max-width:none!important;flex:1 1 0!important;}
+header #topControls > .hidden,header #topControls > [hidden]{display:none!important;flex:none!important;}
+header #topControls > #wordTranslation{flex:0 0 auto!important;min-width:0!important;}
+header #topControls > button,header #topControls > a,header #topControls > select{padding-left:2px!important;padding-right:2px!important;white-space:nowrap!important;}
+@media(max-width:520px){header #topControls{gap:2px!important}header #topControls > button,header #topControls > a,header #topControls > select{font-size:clamp(10px,2.8vw,15px)!important;}header #topControls > #ideasMenuBtn{font-size:17px!important;}}
+</style>
+<style id="equal-toolbar-buttons-windows-1300">
+/* All visible toolbar controls occupy identical columns. */
+header #topControls{display:flex!important;flex-wrap:nowrap!important;width:100%!important;gap:clamp(2px,.5vw,7px)!important;justify-content:stretch!important;align-items:stretch!important}
+header #topControls > button:not(.hidden):not([hidden]),
+header #topControls > a:not(.hidden):not([hidden]),
+header #topControls > select:not(.hidden):not([hidden]),
+header #topControls > #chapterMenuWrap:not(.hidden):not([hidden]){
+  flex:1 1 0px!important;width:0!important;min-width:0!important;max-width:none!important;
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  box-sizing:border-box!important;margin:0!important;padding-inline:2px!important;
+}
+header #topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;height:100%!important;min-height:0!important;max-height:none!important;min-width:0!important;max-width:none!important;box-sizing:border-box!important}
+header #topControls > .hidden,header #topControls > [hidden]{display:none!important;flex:none!important}
+/* The word translation is not a toolbar button; keep it out of column sizing. */
+header #topControls > #wordTranslation{position:absolute!important;pointer-events:none!important;width:0!important;max-width:0!important;overflow:hidden!important;padding:0!important;margin:0!important}
+/* Windows/desktop: centered application, maximum width 1300px. */
+@media(min-width:901px){
+ html{background:#080502!important}
+ body{width:100%!important;max-width:1300px!important;margin-inline:auto!important;position:relative!important}
+ body #imageSection{left:50%!important;right:auto!important;width:100%!important;max-width:1300px!important;transform:translateX(-50%)!important}
+}
+@media(max-width:900px){body{width:100%!important;max-width:100%!important;margin:0!important}}
+</style>
+
+<style id="equal-all-toolbar-buttons-1200-final">
+/* Final override: even the language and restart controls share the same column width. */
+#topControls{display:flex!important;flex-flow:row nowrap!important;gap:clamp(2px,.5vw,7px)!important;align-items:stretch!important;width:100%!important;}
+#topControls > button:not(.hidden):not([hidden]),
+#topControls > a:not(.hidden):not([hidden]),
+#topControls > #chapterMenuWrap:not(.hidden):not([hidden]),
+#topControls > #langBtn:not(.hidden):not([hidden]),
+#topControls > #reloadChapterBtn:not(.hidden):not([hidden]){
+  flex:1 1 0px!important;flex-basis:0px!important;flex-grow:1!important;flex-shrink:1!important;
+  width:0!important;min-width:0!important;max-width:none!important;
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  margin:0!important;box-sizing:border-box!important;padding:0 2px!important;
+  display:inline-flex!important;align-items:center!important;justify-content:center!important;
+}
+#topControls > #chapterMenuWrap{display:flex!important;}
+#topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;min-width:0!important;max-width:none!important;height:100%!important;}
+#topControls > #langBtn svg{max-width:36px!important;max-height:24px!important;}
+#topControls > .hidden,#topControls > [hidden]{display:none!important;flex:none!important;}
+@media(min-width:901px){
+ html{background:#080502!important;}
+ body{width:100%!important;max-width:1200px!important;margin-inline:auto!important;position:relative!important;}
+ body #imageSection{width:100%!important;max-width:1200px!important;left:50%!important;right:auto!important;transform:translateX(-50%)!important;}
+}
+</style>
+
+<style id="internal-return-verse-toolbar-visibility-fix">
+/* The internal return-to-verse control is not a top-level navigation button. */
+header #topControls > #returnVerseBtn,
+header #topControls > #returnVerseBtn.hidden { display:none!important; flex:none!important; }
+</style>
+<style id="grade-menu-css">
 #topControls #gradeMenuBtn{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;font-size:14px!important;background:linear-gradient(#fff1a6,#d99a16)!important}
 #gradePanel[hidden]{display:none!important}#gradePanel{position:fixed;z-index:100000;inset:8px;margin:auto;width:min(560px,calc(100vw - 16px));height:fit-content;max-height:calc(100dvh - 16px);overflow-y:auto;background:#120b04;border:3px solid #d99a16;border-radius:16px;padding:12px;color:#ffe7a0;box-shadow:0 12px 35px #000d;text-align:center;direction:rtl}
 #gradePanel .gradeChapters{grid-template-columns:repeat(auto-fit,minmax(52px,1fr))}#gradePanel .gradeChapters button{font-size:21px;font-weight:900}#gradePanel h2{font-size:23px;margin:5px 0 14px;color:#ffe788}#gradePanel .gradeGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0}#gradePanel button{background:linear-gradient(#ffe788,#d99a16);color:#241300;font-size:17px;padding:9px 4px;min-width:0}#gradePanel .gradeClose{float:left;background:#a52e24;color:white}#gradePanel .gradeBack{background:#ddd;color:#222}#gradePanel .gradeNote{font-size:15px;line-height:1.45;color:#f5dba0}
-</style></head>
+</style>
+<style id="education-grade-final">#topControls #gradeMenuBtn{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;font-size:13px!important}#gradePanel{z-index:2147483500!important}</style>
+<style id="education-grade-label-emphasis">
+/* Larger bold Grades / כיתות label in both language modes */
+#topControls #gradeMenuBtn{font-size:17px!important;font-weight:900!important;letter-spacing:-.35px!important;text-shadow:0 1px 0 rgba(255,255,255,.35)!important;}
+</style>
+</head>
 <body class="introMode">
 <header>
-  <h1><span id="bookTitle">ספר דברים</span> <span id="chapterCounter">0/34</span></h1>
+
+
+  <h1><span id="bookTitle">התנ״ך     -     נפתלי וה AI</span> <span id="chapterCounter"></span></h1>
   <div id="setup" class="controls hidden"><input id="endpoint"><span id="status"></span></div>
   <div id="topControls" class="controls">
+      <a id="returnToBibleIndex" href="https://naftali24.github.io/BIBLE/" title="חזרה לאינדקס / Back to all apps" aria-label="חזרה לאינדקס / Back to all apps"><span class="indexSevenLabel" aria-hidden="true"><span>7</span><span>apps</span></span><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 8 Q10 4 16 9 Q22 4 28 8 L28 25 Q22 21 16 26 Q10 21 4 25 Z"/><path d="M16 9 V26 M7 12 Q11 10 13 13 M19 13 Q23 10 25 12 M7 17 Q11 15 13 18 M19 18 Q23 15 25 17"/><path d="M4 5 L2 7 L2 27 Q10 24 16 29 Q22 24 30 27 L30 7 L28 5"/></svg></a>
+
     <div id="chapterMenuWrap">
       <button id="chapterMenuBtn" type="button" title="ספר / פרק" aria-label="ספר / פרק" onclick="toggleChapterMenu()"><span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span></button>
       <div id="chapterMenu"></div>
     </div>
-    <button id="gradeMenuBtn" type="button" onclick="openGradeMenu()" title="תנ״ך לפי כיתות">כיתות</button>
+        <button id="gradeMenuBtn" type="button" onclick="openGradeMenu()" title="תנ״ך לפי כיתות">כיתות</button>
+        <button id="ideasMenuBtn" type="button" onclick="toggleIdeasMenu()" title="רעיונות הספר" aria-label="רעיונות הספר">📖</button>
     <button id="tanakhGPT" type="button" title="שאל את GPT על הפסוק" aria-label="שאל את GPT על הפסוק">GPT</button>
     <button id="reloadChapterBtn" type="button" onclick="reloadCurrentChapter()" title="עדכון נתוני הפרק בלי לצאת מהמקום" aria-label="עדכון נתוני הפרק בלי לצאת מהמקום">↻</button>
     <button id="returnVerseBtn" class="hidden" type="button" onclick="returnToSavedVerse()" title="חזור לפסוק השמור" aria-label="חזור לפסוק השמור">↩ פסוק 1</button>
     <select id="sel" class="hidden" onchange="loadChapter(Number(this.value))">
       <option value="">פרק</option>
     </select>
-    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
-    <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
 
-    <button id="stopBtn" onclick="toggleAudioMute()" title="השתק/הפעל אודיו" aria-label="השתק או הפעל אודיו"><span class="iconWithLabel"><span class="stopIcon" aria-hidden="true">🔇</span></span></button>
+
     <select id="speedSel" class="miniSpeed" onchange="setSpeed(this.value)" title="מהירות אודיו" aria-label="מהירות אודיו">
       <option value="0.6">0.6×</option><option value="0.7">0.7×</option><option value="0.8">0.8×</option>
       <option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option>
     </select>
+    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
+    <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
+
     <span id="wordTranslation" title="Word translation"></span>
   </div>
   <div id="dictionaryPanel" hidden><div id="basicMeaning" aria-live="polite"></div><div id="additionalMeaningsOnImage" hidden aria-live="polite"></div></div>
@@ -1114,9 +1318,10 @@ body.introMode main{display:none!important}
 <main id="main"><div id="empty" style="padding:12px 0 0">
     <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
   </div><div id="cards"></div></main>
+<div id="verseArrowRow" aria-label="דפדוף פסוקים"></div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
-  <div id="chapterStepControls"><button type="button" onclick="stepChapter(-1)" title="פרק קודם" aria-label="פרק קודם">−</button><button type="button" onclick="stepChapter(1)" title="פרק הבא" aria-label="פרק הבא">+</button></div>
+  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
     <div id="imageLoading">Loading...</div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
@@ -1365,6 +1570,12 @@ function saveReadingForPageRefresh(){
 window.addEventListener('pagehide',saveReadingForPageRefresh);
 let verseAtTop=0;
 function updateReadingHeading(index=verseAtTop){
+  if(document.body.classList.contains('introMode')){
+    bookTitle.textContent=language==='en'?'THE BIBLE     -     Naftali & AI':'התנ״ך     -     נפתלי וה AI';
+    chapterCounter.textContent='';
+    bookTitle.dir=language==='en'?'ltr':'rtl';
+    return;
+  }
   const book=loadedBook||currentBook;
   if(!book)return;
   const chapter=loadedChapter||current||1;
@@ -1372,8 +1583,8 @@ function updateReadingHeading(index=verseAtTop){
   const name=language==='en'?(book.nameEn||book.name):book.name;
   const total=book.chapters||'';
   const label=language==='en'
-    ? `${name} (${total}) Chapter ${chapter} Verse ${verse}`
-    : `${name}(${total}) פרק ${chapter} פסוק ${verse}`;
+    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse}`
+    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse}`;
   bookTitle.textContent=label;
   chapterCounter.textContent='';
   bookTitle.dir=language==='en'?'ltr':'rtl';
@@ -1553,30 +1764,7 @@ function stepOneVerse(direction){
   if(ix!==ideaNow){ideaNow=ix;displayIdeaImage(ix,(data?.ideas||[])[ix]);}
   updateDidYouKnowAvailability(next);
 }
-readingScroller.addEventListener('wheel',e=>{
-  if(e.ctrlKey)return;
-  e.preventDefault();
-  if(Math.abs(e.deltaY)>1)stepOneVerse(e.deltaY>0?1:-1);
-},{passive:false,capture:true});
-readingScroller.addEventListener('touchstart',e=>{
-  if(e.touches.length===1)oneVerseTouchStart={y:e.touches[0].clientY,x:e.touches[0].clientX};
-},{passive:true,capture:true});
-readingScroller.addEventListener('touchmove',e=>{
-  if(oneVerseTouchStart&&e.cancelable)e.preventDefault();
-},{passive:false,capture:true});
-readingScroller.addEventListener('touchend',e=>{
-  if(!oneVerseTouchStart)return;
-  const dy=e.changedTouches[0].clientY-oneVerseTouchStart.y;
-  const dx=e.changedTouches[0].clientX-oneVerseTouchStart.x;
-  oneVerseTouchStart=null;
-  if(Math.abs(dy)>28&&Math.abs(dy)>Math.abs(dx))stepOneVerse(dy<0?1:-1);
-},{passive:true,capture:true});
-readingScroller.addEventListener('keydown',e=>{
-  const keys={ArrowDown:1,PageDown:1,ArrowUp:-1,PageUp:-1};
-  if(keys[e.key] && !e.altKey&&!e.ctrlKey&&!e.metaKey){
-    e.preventDefault();stepOneVerse(keys[e.key]);
-  }
-}, {capture:true});
+// Verse gestures on the text panel disabled: scrolling is for text only.
 // readingScroller.addEventListener('wheel',markVerseScrollGesture,{passive:true});
 readingScroller.addEventListener('touchstart',()=>{verseFingerDown=true;markVerseScrollGesture();},{passive:true});
 readingScroller.addEventListener('touchmove',markVerseScrollGesture,{passive:true});
@@ -3027,7 +3215,525 @@ function close(){guide.style.display='none';}
 function launch(){try{navigator.clipboard?.writeText(prompt).catch(()=>{});}catch(e){}const url='https://chatgpt.com/?q='+encodeURIComponent(prompt);const win=window.open(url,'_blank');if(win){close();}else{message.textContent=en()?'Popup blocked. Allow popups and try again.':'הדפדפן חסם חלון חדש. אפשר חלונות קופצים ונסה שוב.';}}
 cancel.addEventListener('click',close);open.addEventListener('click',launch);
 btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load a chapter first.':'יש לטעון פרק תחילה.');return;}prompt=buildPrompt();message.textContent=en()?'GPT will open a question about the current verse. To return to this app, use the Recent Apps button (usually a square) at the bottom.':'ב־GPT תיפתח שאלה על הפסוק הנוכחי. לחזרה לאפליקציה הזאת השתמש בכפתור (בדרך כלל ריבוע) האפליקציות הפתוחות של הפלאפון למטה.';open.textContent=en()?'Open GPT':'פתח GPT';cancel.textContent=en()?'Cancel':'ביטול';guide.style.display='flex';});
-})();</script><div id="gradePanel" hidden role="dialog" aria-modal="true" aria-label="תנ״ך לפי כיתות"></div>
+})();</script>
+<div id="ideasMenu" hidden role="dialog" aria-label="רעיונות הספר"></div>
+<script id="single-verse-navigation">
+(function(){
+ let selectedVerse=0;
+ const pane=document.getElementById('main');
+ const originalRender=render,originalSetActive=setActive,originalShow=showVerseAtTop;
+ const picture=document.getElementById('img');
+ // Keep navigation alive when a language change rebuilds all verse cards.
+ const persistentArrows=document.getElementById('chapterStepControls');
+ let lastPictureVerse='', lastPictureChapter='', lastDirection=1, pictureTimer;
+ const arrowUp='<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 27 L24 14 L37 27 L31 33 L24 26 L17 33 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg>';
+ const arrowDown='<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 21 L24 34 L37 21 L31 15 L24 22 L17 15 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg>';
+ document.getElementById('versePrevious').innerHTML=arrowUp;
+ document.getElementById('verseNext').innerHTML=arrowDown;
+ function resizePictureForVerse(){
+   if(document.body.classList.contains('introMode'))return;
+   const section=document.getElementById('imageSection'),card=verseCards[selectedVerse],header=document.querySelector('header');
+   if(!card||!section||!header)return;
+   const vh=document.documentElement.clientHeight;
+   const base=Math.max(140,Math.min(430,vh*(matchMedia('(max-width:480px) and (orientation:portrait)').matches?.32:.35)));
+   const available=vh-header.getBoundingClientRect().height-base;
+   const content=[...card.children].filter(x=>x.id!=='chapterStepControls').reduce((sum,x)=>sum+x.getBoundingClientRect().height+8,0);
+   const spare=Math.max(0,available-content-80);
+   const extra=Math.min(100,spare);
+   section.style.setProperty('--picture-verse-height',(base+extra)+'px');
+ }
+ function animatePictureForVerse(){
+   const chapter=(loadedBook?.name||currentBook?.name||'')+'-'+(loadedChapter||current);
+   const key=chapter+'-'+selectedVerse;
+   if(lastPictureVerse===key)return;
+   lastDirection=lastPictureChapter===chapter ? (selectedVerse>Number(lastPictureVerse.split('-').pop())?1:-1) : lastDirection;
+   lastPictureVerse=key;lastPictureChapter=chapter;
+   clearTimeout(pictureTimer);
+   picture.classList.remove('verseImageSlide');
+   picture.style.setProperty('--slide-start',lastDirection>0?'42px':'-42px');
+   void picture.offsetWidth;
+   picture.classList.add('verseImageSlide');
+   pictureTimer=setTimeout(()=>picture.classList.remove('verseImageSlide'),420);
+ }
+ window.addEventListener('resize',()=>requestAnimationFrame(resizePictureForVerse));
+
+ function applySingle(i){
+   if(!verseCards.length)return;
+   selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
+   verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
+   const activeCard=verseCards[selectedVerse], arrows=persistentArrows;
+   if(arrows.parentElement!==document.getElementById('verseArrowRow')) document.getElementById('verseArrowRow').appendChild(arrows);
+   verseAtTop=selectedVerse;
+   pane.scrollTop=0;
+   updateReadingHeading(selectedVerse);
+   rememberReadingVerse(selectedVerse);
+   const prev=document.getElementById('versePrevious'),next=document.getElementById('verseNext');
+   prev.disabled=selectedVerse===0 && (loadedChapter||current)===1 && (loadedBook||currentBook)===BOOKS?.[0];
+   const last=selectedVerse===verseCards.length-1;
+   next.innerHTML=arrowDown;
+   next.title=last?(language==='en'?'Next chapter':'לפרק הבא'):(language==='en'?'Next verse':'פסוק הבא');
+   next.setAttribute('aria-label',next.title);
+   document.getElementById('ideasMenu').hidden=true;
+   requestAnimationFrame(()=>{resizePictureForVerse();animatePictureForVerse();});
+ }
+ render=function(){
+   // originalRender replaces card.innerHTML; detach the arrows before that happens.
+   // Arrows remain in their independent row, outside the verse box.
+   originalRender();
+   applySingle(Math.min(selectedVerse,verseCards.length-1));
+ };
+ setActive=function(i,scroll){originalSetActive(i,false);applySingle(i);};
+ showVerseAtTop=function(i){applySingle(i);};
+ getTopVisibleVerse=function(){return selectedVerse;};
+ stepOneVerse=function(dir){navigateSingleVerse(dir);};
+ window.navigateSingleVerse=function(dir){
+   if(!verseCards.length||document.body.classList.contains('introMode'))return;
+   const target=selectedVerse+dir;
+   if(target<0){
+     const b=loadedBook||currentBook,n=loadedChapter||current;
+     if(b&&n>1){closeImageOverlaysOnScroll();selectedVerse=99999;loadChapter(n-1,b,99999);}
+     else {const bi=BOOKS.indexOf(b);if(bi>0){const previousBook=BOOKS[bi-1];closeImageOverlaysOnScroll();selectedVerse=99999;loadChapter(previousBook.chapters,previousBook,99999);}}
+     return;
+   }
+   if(target>=verseCards.length){
+     const b=loadedBook||currentBook,n=loadedChapter||current;
+     if(b&&n<b.chapters){closeImageOverlaysOnScroll();selectedVerse=0;loadChapter(n+1,b,0);}
+     else {const bi=BOOKS.indexOf(b);if(bi>=0&&bi<BOOKS.length-1){closeImageOverlaysOnScroll();selectedVerse=0;loadChapter(1,BOOKS[bi+1],0);}}
+     return;
+   }
+   closeImageOverlaysOnScroll();
+   originalSetActive(target,false);
+   applySingle(target);
+   const ix=ideaForVerse(target+1);
+   if(ix!==ideaNow){ideaNow=ix;displayIdeaImage(ix,(data?.ideas||[])[ix]);}
+ };
+ window.toggleIdeasMenu=function(){
+   const menu=document.getElementById('ideasMenu');
+   if(!menu.hidden){menu.hidden=true;return;}
+   const ideas=data?.ideas||[];
+   menu.setAttribute('dir',language==='en'?'ltr':'rtl');
+   const title=language==='en'?'Ideas in this chapter':'רעיונות בפרק זה';
+   menu.replaceChildren();
+   const heading=document.createElement('h2');heading.textContent=title;menu.appendChild(heading);
+   const close=document.createElement('button');close.className='ideasClose';close.textContent='✕';close.onclick=()=>menu.hidden=true;menu.appendChild(close);
+   ideas.forEach((idea,i)=>{
+     const start=Number(idea.start_verse||idea.startVerse||1);
+     const end=Number(idea.end_verse||idea.endVerse||start);
+     const btn=document.createElement('button');
+     btn.textContent=(language==='en'?'Verses ':'פסוקים ')+start+'–'+end+' · '+(displayIdeaTitle(idea)||('רעיון '+(i+1)));
+     btn.onclick=()=>{menu.hidden=true;navigateToIdea(start-1);};menu.appendChild(btn);
+   });
+   if(!ideas.length){const p=document.createElement('p');p.textContent=language==='en'?'No ideas available for this chapter':'אין רעיונות זמינים לפרק זה';menu.appendChild(p);}
+   menu.hidden=false;
+ };
+ window.navigateToIdea=function(i){if(!verseCards.length)return;originalSetActive(i,false);applySingle(i);};
+ // Suppress all other manual verse scrolling and touch/wheel navigation.
+ // Wheel over the verse scrolls its text naturally; it never changes verse.
+ // Touch over the verse scrolls only the text; it never changes verse.
+ // Keyboard scrolling stays inside the verse box.
+ const origLoad=loadChapter;
+ loadChapter=async function(n,book,returnVerse){selectedVerse=Number.isInteger(returnVerse)?returnVerse:0;const result=await origLoad(n,book,returnVerse);applySingle(selectedVerse);return result;};
+ if(verseCards.length)applySingle(0);
+})();
+</script>
+<script id="picture-only-swipe-navigation">
+(function(){
+ const box=document.getElementById('imageBox');
+ let start=null, lastWheel=0;
+ const excluded='button,select,input,a,#englishLine,#hebrewLine,#didYouKnowBox';
+ box.addEventListener('touchstart',e=>{
+   if(e.touches.length!==1||e.target.closest(excluded)){start=null;return;}
+   start={x:e.touches[0].clientX,y:e.touches[0].clientY};
+ },{passive:true});
+ box.addEventListener('touchend',e=>{
+   if(!start||!e.changedTouches.length)return;
+   const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;
+   start=null;
+   if(Math.abs(dy)>35&&Math.abs(dy)>Math.abs(dx)*1.15&&typeof navigateSingleVerse==='function')navigateSingleVerse(dy<0?-1:1);
+ },{passive:true});
+ box.addEventListener('touchcancel',()=>{start=null;},{passive:true});
+ box.addEventListener('wheel',e=>{
+   if(e.target.closest(excluded)||e.ctrlKey)return;
+   e.preventDefault();
+   if(Math.abs(e.deltaY)<8||Date.now()-lastWheel<550)return;
+   lastWheel=Date.now();navigateSingleVerse(e.deltaY>0?-1:1);
+ },{passive:false});
+})();
+</script>
+
+<style id="continuous-audio-green">
+#topControls #sequenceBtn.continuousEnabled{background:linear-gradient(#a6ffc0,#1caa4d)!important;color:#062b12!important;box-shadow:inset 0 0 0 2px #d9ffe2,0 0 9px #35df74!important}
+</style>
+<script id="continuous-audio-image-navigation">
+(function(){
+  const btn=document.getElementById('sequenceBtn');
+  const player=document.getElementById('audio');
+  if(!btn||!player)return;
+  let continuous=false;
+  const originalPlay=window.playSequence;
+  const originalNavigate=window.navigateSingleVerse;
+  function refresh(){btn.classList.toggle('continuousEnabled',continuous);btn.setAttribute('aria-pressed',String(continuous));btn.title=continuous?'עצור שמיעה רציפה':'הפעל שמיעה רציפה';}
+  function playSelected(){
+    if(!continuous||!data)return;
+    const times=activeTimes();
+    const i=getTopVisibleVerse();
+    if(!times.length||!Number.isFinite(Number(times[i])))return;
+    if(language==='en'&&!(data.audio_en_url||data.english_audio_url))return;
+    clearClickedWordMode();stopTTS();stopEnglishTTS();
+    sequenceMode=true;sequenceLastVerse=i;sequenceStartTarget=null;sequenceFloorTime=sourceTime(Number(times[i]));
+    lockedVerse=-1;stopAtTime=null;audio.muted=userAudioMuted;
+    seekAndPlayAbsolute(sourceTime(Number(times[i])));
+  }
+  window.playSequence=function(){
+    if(continuous){continuous=false;sequenceMode=false;player.pause();refresh();updateSequenceButtonIcon();return;}
+    continuous=true;refresh();
+    originalPlay();
+    if(player.paused&&(!data||!activeTimes().length)){continuous=false;refresh();}
+  };
+  window.navigateSingleVerse=function(direction){
+    if(continuous){player.pause();sequenceMode=false;}
+    const beforeBook=loadedBook, beforeChapter=loadedChapter;
+    originalNavigate(direction);
+    if(!continuous)return;
+    if(loadedBook===beforeBook&&loadedChapter===beforeChapter)playSelected();
+    // On chapter boundaries loadChapter is asynchronous; handled below.
+  };
+  const originalLoad=window.loadChapter;
+  window.loadChapter=async function(...args){
+    const result=await originalLoad(...args);
+    if(continuous)playSelected();
+    return result;
+  };
+  refresh();
+})();
+</script>
+
+<style id="image-scroll-hint-style">
+#verseArrowRow #imageScrollHint{
+  position:absolute;left:65px;right:65px;top:0;bottom:0;
+  display:flex;align-items:center;justify-content:center;
+  color:#e5b843;font-family:Arial,sans-serif;font-weight:900;
+  font-size:clamp(17px,3.5vw,29px);line-height:1.12;text-align:center;
+  text-shadow:0 1px #fff0a0,0 3px #875100,0 5px 8px #000;
+  pointer-events:none;z-index:1;opacity:0;visibility:hidden;
+  transition:opacity .4s ease,visibility .4s ease;
+}
+#verseArrowRow #imageScrollHint.visible{opacity:1;visibility:visible}
+</style>
+<script id="image-scroll-hint-logic">
+(function(){
+  const row=document.getElementById('verseArrowRow');
+  if(!row)return;
+  const hint=document.createElement('div');
+  hint.id='imageScrollHint';hint.setAttribute('aria-live','polite');
+  row.appendChild(hint);
+  let shown=false, timer=null;
+  function updateLanguage(){
+    hint.textContent=(typeof language!=='undefined'&&language==='en')
+      ? 'You can also scroll on the image' : 'אפשר לגלול גם על התמונה';
+    hint.dir=(typeof language!=='undefined'&&language==='en')?'ltr':'rtl';
+  }
+  function check(){
+    updateLanguage();
+    if(shown||document.body.classList.contains('introMode')||!document.querySelector('#cards>.card'))return;
+    shown=true;
+    hint.classList.add('visible');
+    timer=setTimeout(()=>hint.classList.remove('visible'),7000);
+  }
+  const observer=new MutationObserver(check);
+  observer.observe(document.body,{attributes:true,attributeFilter:['class']});
+  const cards=document.getElementById('cards');
+  if(cards)observer.observe(cards,{childList:true});
+  const langBtn=document.getElementById('langBtn');
+  if(langBtn)langBtn.addEventListener('click',()=>queueMicrotask(updateLanguage));
+  check();
+})();
+</script>
+
+<style id="requested-toolbar-and-apps-menu">
+/* Speed selector sits immediately beside the speaker, temporarily. */
+#speedSel,#speedSel.miniSpeed{display:none!important}
+body > #speedSel.speedTenSeconds{display:block!important;position:fixed!important;z-index:214748300!important;width:56px!important;min-width:56px!important;max-width:56px!important;height:34px!important;min-height:34px!important;max-height:34px!important;padding:0 2px!important;font-size:14px!important;font-weight:900!important;background:linear-gradient(#ffe788,#d99a16)!important;border:1px solid #a67312!important;box-shadow:0 3px 9px #0009!important}
+#topControls #sequenceBtn{order:0!important}
+#topControls #ideasMenuBtn{display:inline-flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:0!important;padding:0!important;font-size:19px!important;line-height:18px!important}
+#ideasMenuBtn .storiesCaption{display:block;font-size:9px!important;font-weight:900!important;line-height:10px!important;white-space:nowrap}
+#appsIndexOverlay[hidden]{display:none!important}
+#appsIndexOverlay{position:fixed;inset:0;z-index:2147483640;background:#110a03;display:flex;flex-direction:column;border:3px solid #d6a332;box-sizing:border-box}
+#appsIndexBar{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;gap:8px;background:#241505;padding:7px 12px;color:#ffe28c;font-size:clamp(17px,3vw,25px);font-weight:900}
+#appsIndexClose{font-size:25px!important;min-width:44px!important;height:38px!important;background:linear-gradient(#ffe994,#d89b18)!important}
+#appsIndexFrame{width:100%;flex:1;min-height:0;border:0;background:#120b04}
+</style>
+<script id="requested-toolbar-and-apps-menu-script">
+(function(){
+ const top=document.getElementById('topControls');
+ const speaker=document.getElementById('sequenceBtn');
+ const speed=document.getElementById('speedSel');
+ const ideas=document.getElementById('ideasMenuBtn');
+ const indexBtn=document.getElementById('returnToBibleIndex');
+ if(top&&speed){
+   // Keep the original speed selector (and its onchange handler), but never in the toolbar.
+   document.body.appendChild(speed);
+   let shown=false, finished=false, timer=null, ticker=null, deadline=0;
+   const counter=document.createElement('span');
+   counter.id='speedSecondsRemaining';
+   counter.setAttribute('aria-label','שניות שנותרו');
+   const updateCounter=()=>{counter.textContent=String(Math.max(0,Math.ceil((deadline-Date.now())/1000)));};
+   const startClock=()=>{
+     clearTimeout(timer);clearInterval(ticker);
+     deadline=Date.now()+10000;
+     updateCounter();
+     ticker=setInterval(updateCounter,100);
+     timer=setTimeout(()=>{finished=true;hide();},10000);
+   };
+   const firstAudio=()=>document.querySelector('#cards > .card.singleVisible .num .verseAudioBtn');
+   const hide=()=>{
+     clearTimeout(timer);clearInterval(ticker);
+     speed.classList.remove('speedTenSeconds');
+     counter.remove();
+     document.body.appendChild(speed);
+   };
+   const attach=()=>{
+     if(!shown||finished)return;
+     const audioButton=firstAudio();
+     if(audioButton){
+       if(speed.previousElementSibling!==audioButton)audioButton.insertAdjacentElement('afterend',speed);
+       if(counter.previousElementSibling!==speed)speed.insertAdjacentElement('afterend',counter);
+     }
+   };
+   const check=()=>{
+     if(finished)return;
+     if(!shown){
+       if(document.body.classList.contains('introMode')||!firstAudio())return;
+       shown=true;
+       speed.classList.add('speedTenSeconds');
+       startClock();
+     }
+     attach();
+   };
+   // Any interaction with the speed selector renews its full 10-second window.
+   const renewSpeedWindow=()=>{
+     if(!shown||finished||!speed.classList.contains('speedTenSeconds'))return;
+     startClock();
+   };
+   speed.addEventListener('pointerdown',renewSpeedWindow);
+   speed.addEventListener('click',renewSpeedWindow);
+   speed.addEventListener('change',renewSpeedWindow);
+   const observer=new MutationObserver(check);
+   const cards=document.getElementById('cards');
+   if(cards)observer.observe(cards,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
+   observer.observe(document.body,{attributes:true,attributeFilter:['class']});
+   // The in-app restart (↻) refreshes the chapter without reloading the page.
+   // Start a fresh ten-second window after that restart renders its verses.
+   document.getElementById('reloadChapterBtn')?.addEventListener('click',()=>{
+     hide();
+     shown=false;
+     finished=false;
+     // A new chapter load can be asynchronous; the observer waits for the first verse.
+     // Do not start the timer until that verse is actually displayed.
+     if(!document.body.classList.contains('introMode') && firstAudio()){
+       requestAnimationFrame(check);
+     }
+   });
+   check();
+ }
+
+ if(ideas){
+   ideas.innerHTML='<span aria-hidden="true">📖</span><span class="storiesCaption"></span>';
+   const update=()=>{
+     const en=typeof language!=='undefined'&&language==='en';
+     ideas.querySelector('.storiesCaption').textContent=en?'Stories':'סיפורים';
+     ideas.title=en?'Stories':'סיפורים';
+     ideas.setAttribute('aria-label',ideas.title);
+   };
+   document.getElementById('langBtn')?.addEventListener('click',()=>setTimeout(update,0));
+   update();
+ }
+ if(indexBtn){
+   const overlay=document.createElement('div');overlay.id='appsIndexOverlay';overlay.hidden=true;
+   overlay.innerHTML='<div id="appsIndexBar"><span id="appsIndexTitle">7 אפליקציות התנ״ך</span><button id="appsIndexClose" type="button" aria-label="Close">✕</button></div><iframe id="appsIndexFrame" title="Bible apps index" loading="lazy"></iframe>';
+   document.body.appendChild(overlay);
+   const frame=overlay.querySelector('#appsIndexFrame');
+   const close=()=>{overlay.hidden=true;frame.removeAttribute('src')};
+   overlay.querySelector('#appsIndexClose').addEventListener('click',close);
+   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!overlay.hidden)close()});
+   indexBtn.addEventListener('click',e=>{
+     e.preventDefault();
+     const en=typeof language!=='undefined'&&language==='en';
+     overlay.querySelector('#appsIndexTitle').textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';
+     overlay.hidden=false;
+     frame.src='https://naftali24.github.io/BIBLE/';
+   });
+   frame.addEventListener('load',()=>{
+     try{
+       const url=frame.contentWindow.location.href;
+       const root='https://naftali24.github.io/BIBLE/';
+       if(url!==root&&url!==root+'index.html')window.location.assign(url);
+     }catch(_){/* The GitHub index remains visible in its embedded frame. */}
+   });
+ }
+})();
+</script>
+<style id="speed-structural-fix">
+#speedSel{position:fixed!important;display:none!important;z-index:214748300!important;}
+body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;min-width:56px!important;max-width:56px!important;height:34px!important;opacity:1!important;visibility:visible!important;}
+</style>
+<style id="speed-beside-verse-audio-final">
+/* The selector lives directly after the first verse speaker, including in fullscreen. */
+#speedSel{display:none!important}
+#cards .num #speedSel.speedTenSeconds{
+  display:inline-flex!important;position:static!important;
+  vertical-align:middle!important;margin-inline-start:5px!important;
+  width:56px!important;min-width:56px!important;max-width:56px!important;
+  height:30px!important;min-height:30px!important;max-height:30px!important;
+  padding:0 2px!important;font-size:14px!important;font-weight:900!important;
+  background:linear-gradient(#ffe788,#d99a16)!important;color:#241300!important;
+  border:1px solid #a67312!important;border-radius:6px!important;
+  opacity:1!important;visibility:visible!important;
+}
+</style>
+<style id="speed-countdown-style">
+#speedSecondsRemaining{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;
+ min-width:22px;height:25px;margin-inline-start:4px;padding:0 3px;border-radius:6px;
+ background:#2b1a06;border:1px solid #d5a52c;color:#ffe28a;
+ font:900 15px/1 Arial,sans-serif;direction:ltr;box-shadow:0 1px 4px #0008}
+</style>
+
+<style id="local-apps-menu-styles">
+#appsIndexFrame{display:none!important}
+#appsLocalMenu{overflow-y:auto;flex:1;min-height:0;padding:clamp(12px,3vw,28px);display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));align-content:start;gap:12px;direction:rtl;background:radial-gradient(ellipse at top,#4c3014,#150c05 75%)}
+#appsLocalMenu a{display:flex;align-items:center;justify-content:center;min-height:66px;padding:12px 10px;border-radius:14px;border:2px solid #c28c2d;background:linear-gradient(#f9dc83,#c58a19);color:#231300;text-align:center;font-size:clamp(17px,2.7vw,23px);font-weight:900;text-decoration:none;box-shadow:0 4px 12px #0008}
+#appsLocalMenu a:focus-visible{outline:3px solid white;outline-offset:3px}
+</style>
+<script id="local-apps-menu-and-owl-close-fix">
+(function(){
+ const owl=document.getElementById('chapterMenuBtn');
+ const apps=document.getElementById('returnToBibleIndex');
+ const overlay=document.getElementById('appsIndexOverlay');
+ if(!owl||!apps||!overlay)return;
+ const items=[
+ ['התנ״ך','The Bible','tanakh.html'],
+ ['סיפורי התנ״ך · גם לילדים + טריוויה','Bible Stories · Trivia','tanakh%20by%20ideas.html'],
+ ['תנ״ך היסטורי','Historical Bible','historical_bible.html'],
+ ['תנ״ך פילוסופי','Philosophical Bible','Philosophical%20Bible.html'],
+ ['תנ״ך גיאוגרפי','Geographical Bible','geographical_bible.html'],
+ ['תנ״ך בתמונות','Bible in Pictures','apps/bible-pictures/iphone-android.html'],
+ ['תנ״ך לפי משרד החינוך','Bible by School Grade','tanakh_by%20israeli_ministry.html']
+ ];
+ const local=document.createElement('nav');local.id='appsLocalMenu';local.setAttribute('aria-label','תפריט שבע אפליקציות התנ״ך');
+ overlay.appendChild(local);
+ function closeOtherMenus(){
+   const ideas=document.getElementById('ideasMenu');if(ideas)ideas.hidden=true;
+   document.getElementById('didYouKnowBox')?.classList.remove('open');
+   const dialog=document.getElementById('genesisAboutOverlay');if(dialog)dialog.hidden=true;
+   overlay.hidden=true;
+ }
+ owl.addEventListener('click',closeOtherMenus,{capture:true});
+ apps.addEventListener('click',function(e){
+   e.preventDefault();e.stopImmediatePropagation();
+   document.getElementById('chapterMenu')?.classList.remove('open','initialTransparent');
+   const ideas=document.getElementById('ideasMenu');if(ideas)ideas.hidden=true;
+   const en=typeof language!=='undefined'&&language==='en';
+   overlay.querySelector('#appsIndexTitle').textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';
+   local.replaceChildren();
+   for(const [he,english,path] of items){
+     const link=document.createElement('a');link.textContent=en?english:he;
+     link.href='https://naftali24.github.io/BIBLE/'+path;
+     local.appendChild(link);
+   }
+   overlay.hidden=false;
+ },true);
+})();
+</script>
+
+<style id="nov4-toolbar-apps-refinement">
+/* Uniform height for the entire top row, including 7 APPS and sequence audio. */
+#topControls > #returnToBibleIndex,
+#topControls > #sequenceBtn,
+#topControls > button:not(.hidden):not([hidden]),
+#topControls > #chapterMenuWrap{
+  height:38px!important;min-height:38px!important;max-height:38px!important;
+  align-self:stretch!important;box-sizing:border-box!important;
+}
+#topControls > #returnToBibleIndex{display:flex!important;align-items:center!important;justify-content:center!important;padding:0!important}
+#topControls > #sequenceBtn{display:flex!important;flex-direction:column!important;justify-content:center!important;align-items:center!important;gap:0!important;padding:1px 2px!important;line-height:1!important}
+#sequenceBtn .sequenceSpeaker{font-size:18px!important;line-height:18px!important}
+#sequenceBtn .sequenceCaption{font-size:12px!important;line-height:15px!important;font-weight:1000!important;color:#251000!important;text-shadow:0 1px 0 #fff4bb,0 2px 2px #a26b0d;letter-spacing:.2px}
+#topControls > #ideasMenuBtn{position:relative!important;isolation:isolate!important;overflow:hidden!important}
+#ideasMenuBtn .storiesBigIcon{position:absolute!important;inset:0!important;display:flex!important;align-items:center!important;justify-content:center!important;font-size:33px!important;line-height:1!important;opacity:.43!important;pointer-events:none!important;z-index:0!important}
+#ideasMenuBtn .storiesCaption{position:relative!important;z-index:1!important;font-size:12px!important;line-height:14px!important;font-weight:1000!important;text-shadow:0 1px 1px #fff4c2,0 2px 3px #684000!important}
+/* Compact single-column app chooser: its gold box ends at the last button. */
+#appsIndexOverlay{justify-content:center!important;align-items:center!important;background:#080401d9!important;border:0!important;padding:12px!important}
+#appsIndexBar,#appsLocalMenu{width:min(100%,460px)!important;box-sizing:border-box!important;flex:none!important}
+#appsIndexBar{border:2px solid #d6a332!important;border-bottom:0!important;border-radius:15px 15px 0 0!important;padding:5px 10px!important}
+#appsLocalMenu{display:flex!important;flex-direction:column!important;gap:6px!important;align-content:initial!important;min-height:0!important;max-height:calc(100dvh - 95px)!important;overflow-y:auto!important;padding:9px 12px 12px!important;border:2px solid #d6a332!important;border-top:0!important;border-radius:0 0 15px 15px!important;background:linear-gradient(145deg,#56310b,#211005)!important}
+#appsLocalMenu a{min-height:42px!important;flex:none!important;padding:6px 10px!important;font-size:clamp(16px,2.3vw,21px)!important;line-height:1.15!important;font-weight:1000!important;border-radius:10px!important;letter-spacing:.2px!important;text-shadow:0 1px 0 #fff2af,0 2px 0 #a97718,0 3px 2px #533004,0 4px 5px #0006!important;box-shadow:inset 0 1px 1px #fff3a5,0 3px 4px #0009!important}
+@media(max-height:520px){#appsLocalMenu a{min-height:33px!important;padding:3px 7px!important}#appsLocalMenu{gap:4px!important;padding:6px!important}}
+</style>
+<script id="nov4-toolbar-apps-refinement-js">
+(function(){
+ const sequence=document.getElementById('sequenceBtn');
+ const stories=document.getElementById('ideasMenuBtn');
+ const lang=document.getElementById('langBtn');
+ function updateSequence(){
+   if(!sequence)return;
+   const en=typeof language!=='undefined'&&language==='en';
+   const symbol=(typeof audio!=='undefined'&&audio&&!audio.paused)?'⏸':'🔊';
+   sequence.innerHTML='<span class="sequenceSpeaker" aria-hidden="true">'+symbol+'</span><span class="sequenceCaption">'+(en?'Sequence':'רצף')+'</span>';
+   sequence.title=en?'Play / pause continuous audio':'נגן רצף / השהה';
+   sequence.setAttribute('aria-label',sequence.title);
+ }
+ function updateStories(){
+   if(!stories)return;
+   const en=typeof language!=='undefined'&&language==='en';
+   stories.innerHTML='<span class="storiesBigIcon" aria-hidden="true">📖</span><span class="storiesCaption">'+(en?'Stories':'סיפורים')+'</span>';
+ }
+ // Existing code replaces the audio button text on playback. Keep the caption after updates.
+ if(sequence){
+   const observer=new MutationObserver(()=>{
+     const cap=sequence.querySelector('.sequenceCaption');
+     const en=typeof language!=='undefined'&&language==='en';
+     if(!cap||cap.textContent!==(en?'Sequence':'רצף'))updateSequence();
+   });
+   observer.observe(sequence,{childList:true,subtree:false});
+   updateSequence();
+ }
+ updateStories();
+ lang?.addEventListener('click',()=>setTimeout(()=>{updateSequence();updateStories()},0));
+})();
+</script>
+
+<style id="speed-selector-never-float-fix">
+/* Never display the speed selector when detached from the visible verse. */
+body > #speedSel.speedTenSeconds,
+body > #speedSel.miniSpeed.speedTenSeconds {display:none!important;position:static!important;}
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+  display:inline-flex!important;position:static!important;top:auto!important;right:auto!important;left:auto!important;bottom:auto!important;
+}
+</style>
+<style id="speed-language-switch-detached-guard">
+/* English-mode legacy rule must never resurrect a detached speed selector. */
+body.lang-en > #speedSel,
+body.lang-he > #speedSel,
+body > #speedSel,
+body.lang-en > #speedSel.speedTenSeconds,
+body.lang-he > #speedSel.speedTenSeconds,
+body > #speedSel.speedTenSeconds {
+  display:none!important;
+  position:static!important;
+  visibility:hidden!important;
+}
+/* Only the currently visible verse may display the control in either language. */
+body.lang-en #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+  display:inline-flex!important;
+  position:static!important;
+  visibility:visible!important;
+  inset:auto!important;
+}
+</style>
+
+<div id="gradePanel" hidden role="dialog" aria-modal="true" aria-label="תנ״ך לפי כיתות"></div>
 <script id="grade-menu-script">
 (function(){
  const panel=document.getElementById('gradePanel');
@@ -3077,4 +3783,5 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  updateGradeButton();
  window.openGradeMenu=()=>{updateGradeButton();const chapter=document.getElementById('chapterMenu');chapter.classList.remove('open');track=null;grade=null;panel.hidden=false;showTracks()};
 })();
-</script></body></html>
+</script>
+</body></html>
