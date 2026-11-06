@@ -234,25 +234,74 @@ body.mode-en #bookMenu.open>button{direction:ltr!important}
 #philosophyGPTBox{background:#160f07;color:#ffe5a0;border:2px solid #d9aa38;border-radius:18px;width:min(500px,96vw);padding:22px;text-align:center;font-size:clamp(18px,3vw,22px);line-height:1.5}
 #philosophyGPTBox button{margin:10px 4px;padding:9px 16px}
 @media(max-width:430px){#philosophyGPT{font-size:17px;padding:6px;min-height:43px}}
-</style><style id="strict-language-image-last-20261102">
-/* Show only the selected language in each card. */
-body.mode-he #content .card .english-meta-top,
-body.mode-he #content .card .english-below{display:none!important}
-body.mode-en #content .card > .meta:not(.english-meta-top),
+</style><style id="philosophy-user-nov5">
+/* The same seven-apps scroll icon as the Tanakh reader. */
+header .tools #sevenAppsBtn{position:relative;isolation:isolate;overflow:hidden;flex:0 0 44px;width:44px;height:43px;min-width:44px;min-height:43px;padding:0;background:linear-gradient(#ffe994,#c78c17)}
+#sevenAppsBtn .apps-scroll{position:absolute;inset:0;display:grid;place-items:center;font-size:37px;color:#68430e;opacity:.4;z-index:0}
+#sevenAppsBtn .apps-words{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:.85;color:#241300;text-shadow:0 1px 2px #ffe8a0}
+#sevenAppsBtn .apps-words b{font-size:18px}#sevenAppsBtn .apps-words small{font-size:11px;font-weight:900}
+.card .meta{font-size:clamp(15px,calc(2.6vw + 2px),18px)!important;font-weight:800;display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:39px}
+.card .hebrew-meta{direction:rtl;text-align:right}
+.card .english-meta-top{direction:ltr;text-align:left}
+.card .meta .quote-audio-overlay{position:static!important;transform:none!important;flex:0 0 38px;width:38px;height:35px;min-width:38px;min-height:35px;display:inline-grid;place-items:center;padding:3px!important;font-size:21px!important;opacity:1!important;line-height:1!important;border-radius:9px!important}
+.card .hebrew-meta .quote-audio-overlay{order:2;margin-right:auto}
+.card .english-meta-top .quote-audio-overlay{order:2;margin-left:auto}
+body.mode-he .card>.explain,body.mode-en .card .english-explain{color:#9edcff!important}
+#philosophyAppsOverlay[hidden]{display:none!important}
+#philosophyAppsOverlay{position:fixed;inset:0;z-index:2147482500;background:#080401e8;display:flex;align-items:center;justify-content:center;padding:10px}
+#philosophyAppsPanel{width:min(460px,100%);max-height:calc(100dvh - 20px);display:flex;flex-direction:column;background:linear-gradient(145deg,#56310b,#211005);border:2px solid #d6a332;border-radius:15px;overflow:hidden}
+#philosophyAppsTop{display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:#241505;color:#ffe28c;font-size:20px;font-weight:900}
+#philosophyAppsLinks{display:flex;flex-direction:column;gap:6px;padding:12px;overflow-y:auto}
+#philosophyAppsLinks a{display:flex;align-items:center;justify-content:center;min-height:42px;padding:7px;border:2px solid #c28c2d;border-radius:10px;background:linear-gradient(#f9dc83,#c58a19);color:#231300;text-decoration:none;text-align:center;font-size:clamp(16px,2.3vw,21px);font-weight:900}
+</style><style id="strict-language-content-separation">
+/* Only the selected language is visible; the shared picture remains in both. */
+body.mode-he #content .card > .english-below,
+body.mode-he #content .card > .english-meta-top{display:none!important}
+body.mode-en #content .card > .hebrew-meta,
 body.mode-en #content .card > .idea-heading:not(.en),
-body.mode-en #content .card > .quote:not(.english-quote),
+body.mode-en #content .card > .quote,
 body.mode-en #content .card > .explain{display:none!important}
-body.mode-en #content .card .english-meta-top{display:block!important}
-body.mode-en #content .card .english-below{display:block!important;border:0!important;margin:0!important;padding:0!important}
-body.mode-en #content .card{direction:ltr;text-align:left}
-body.mode-he #content .card{direction:rtl}
-/* Keep the photograph as the last element, anchored to the bottom. */
-#content .card.fitted-idea{display:flex!important;flex-direction:column!important;justify-content:flex-start!important}
-#content .card .quote-picture-wrap{order:99!important;margin-top:auto!important;flex-shrink:0!important;width:100%!important}
-#content .card .quote-picture-wrap img{display:block;width:100%!important;object-fit:contain!important}
-body.mode-he #content .card .quote-audio-overlay.en{display:none!important}
-body.mode-en #content .card .quote-audio-overlay.he{display:none!important}
-</style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="philosophyGPT" type="button" title="שאלה ל-GPT">GPT</button><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה"><span class="flag-pair"><span>🇬🇧</span><span>🇮🇱</span></span></button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><div id="philosophyGPTGuide" role="dialog" aria-modal="true"><div id="philosophyGPTBox"><div id="philosophyGPTMessage"></div><button id="philosophyGPTContinue" type="button">פתח GPT</button><button id="philosophyGPTCancel" type="button">ביטול</button></div></div><script>
+body.mode-en #content .card > .english-below{display:block!important;border-top:0!important;margin-top:5px!important;padding-top:0!important}
+body.mode-en #content .card > .english-meta-top{display:flex!important}
+body.mode-he #content .card > .hebrew-meta{display:flex!important}
+body.mode-he #content .card > .quote-picture-wrap,
+body.mode-en #content .card > .quote-picture-wrap{display:block!important}
+</style><style id="requested-counter-and-english-picture-20261105">
+/* Enlarge chapter/verse metadata by two pixels in both modes. */
+body.mode-he #content .card > .hebrew-meta,
+body.mode-en #content .card > .english-meta-top{font-size:clamp(17px,calc(2.6vw + 4px),20px)!important}
+/* English: move the image after all English text, at the bottom of the card. */
+body.mode-en #content .card{display:flex!important;flex-direction:column!important}
+body.mode-en #content .card > .english-meta-top{order:0}
+body.mode-en #content .card > .english-below{order:1}
+body.mode-en #content .card > .quote-picture-wrap{order:2;margin-top:10px!important}
+</style><style id="equal-owl-language-apps-nov6">
+header .tools #books,header .tools #lang,header .tools #sevenAppsBtn{
+ box-sizing:border-box!important;flex:0 0 56px!important;width:56px!important;
+ min-width:56px!important;max-width:56px!important;height:49px!important;
+ min-height:49px!important;max-height:49px!important;
+ padding:3px!important;align-self:center!important;display:inline-flex!important;
+ align-items:center!important;justify-content:center!important;
+}
+header .tools #sevenAppsBtn{position:relative!important;flex-direction:column!important}
+header .tools #lang{font-size:clamp(23px,3.6vw,32px)!important;line-height:1!important}
+header .tools #books{font-size:clamp(27px,4vw,37px)!important;line-height:1!important}
+@media(max-width:420px){header .tools #books,header .tools #lang,header .tools #sevenAppsBtn{
+ flex-basis:44px!important;width:44px!important;min-width:44px!important;max-width:44px!important;
+ height:43px!important;min-height:43px!important;max-height:43px!important;padding:1px!important;
+}}
+</style><style id="nov6-fullscreen-icons">
+/* Make the 7-apps artwork fill the entire owl-sized button. */
+header .tools #sevenAppsBtn{position:relative!important;box-sizing:border-box!important;flex:0 0 auto!important;width:var(--owl-button-width,56px)!important;height:var(--owl-button-height,49px)!important;min-width:0!important;min-height:0!important;max-width:none!important;padding:0!important;overflow:hidden!important}
+header .tools #sevenAppsBtn .apps-scroll{inset:0!important;font-size:calc(var(--owl-button-height,49px)*.98)!important;line-height:1!important;opacity:.65!important}
+header .tools #sevenAppsBtn .apps-words{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;justify-content:center!important;gap:0!important}
+header .tools #sevenAppsBtn .apps-words b{font-size:calc(var(--owl-button-height,49px)*.48)!important;line-height:1!important}
+header .tools #sevenAppsBtn .apps-words small{font-size:calc(var(--owl-button-height,49px)*.24)!important;line-height:1!important}
+</style><style id="seven-second-scroll-hint-style">
+.quote-picture-wrap .scroll-next-hint{position:absolute;z-index:8;top:7px;left:7px;right:7px;text-align:center;direction:rtl;color:#ffe08a;font-size:clamp(23px,4.8vw,35px);font-weight:800;line-height:1.22;text-shadow:0 2px 5px #000,0 0 9px #000;background:transparent;pointer-events:none;white-space:normal;opacity:1;transition:opacity .35s ease}
+body.mode-en .quote-picture-wrap .scroll-next-hint{direction:ltr;font-size:clamp(22px,4.3vw,32px)}
+.quote-picture-wrap .scroll-next-hint.hidden-hint{opacity:0;visibility:hidden}
+</style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="philosophyGPT" type="button" title="שאלה ל-GPT">GPT</button><button id="sevenAppsBtn" type="button" title="7 אפליקציות" aria-label="7 אפליקציות"><span class="apps-scroll">▤</span><span class="apps-words"><b>7</b><small>apps</small></span></button><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה">🇬🇧</button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><div id="philosophyGPTGuide" role="dialog" aria-modal="true"><div id="philosophyGPTBox"><div id="philosophyGPTMessage"></div><button id="philosophyGPTContinue" type="button">פתח GPT</button><button id="philosophyGPTCancel" type="button">ביטול</button></div></div><script>
 const ITEMS = [
   // קהלת — אפשר למחוק שורה שלמה של ציטוט
   // ===== קהלת =====
@@ -1331,6 +1380,17 @@ function bindTimedHighlights(item,range){
  while(x<n&&y<m){if(a[x]&&a[x]===b[y]){mapped.push({el:spans[x],s:Number(range[y].s),e:Number(range[y].e)});x++;y++;}else if(dp[x+1][y]>=dp[x][y+1])x++;else y++;}
  return mapped;
 }
+let scrollHintTimeout;
+function showSevenSecondScrollHint(){
+ clearTimeout(scrollHintTimeout);
+ document.querySelectorAll('.scroll-next-hint').forEach(el=>{el.textContent='';el.classList.add('hidden-hint')});
+ const card=document.getElementById('item-'+selected)||document.querySelector('#content .card');
+ const hint=card?.querySelector('.scroll-next-hint');
+ if(!hint)return;
+ hint.textContent=uiLanguage==='en'?'Next story = scroll down the page':'לסיפור הבא = לגלול את הדף למטה';
+ hint.classList.remove('hidden-hint');
+ scrollHintTimeout=setTimeout(()=>{hint.classList.add('hidden-hint')},7000);
+}
 function render(){
  const cont=$('content');cont.replaceChildren();let previous='';const filter="";
  ITEMS.forEach((item,i)=>{
@@ -1340,8 +1400,8 @@ function render(){
   if(item.book==='מיכה'&&ITEMS.some((prior,j)=>j<i&&prior.book==='מיכה'&&prior.chapter===item.chapter&&prior.verse===item.verse))return;
   if(item.topic!==previous){previous=item.topic}
   const card=text('article','card'+(selected===i?' active':''),'');card.id='item-'+i;
-  card.append(text('div','meta',(i+1)+'. · '+item.book+' '+item.ref));
-  card.append(text('div','meta english-meta-top',(i+1)+'. · '+({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles',נחום:'Nahum',איוב:'Job',חבקוק:'Habakkuk',צפניה:'Zephaniah',חגי:'Haggai',זכריה:'Zechariah',מלאכי:'Malachi',משלי:'Proverbs',איכה:'Lamentations',עזרא:'Ezra','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[item.book]||item.book)+' '+item.chapter+':'+item.verse));
+  const heMeta=text('div','meta hebrew-meta',item.book+' · '+item.verse+':'+item.chapter);card.append(heMeta);
+  const enMeta=text('div','meta english-meta-top',({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles',נחום:'Nahum',איוב:'Job',חבקוק:'Habakkuk',צפניה:'Zephaniah',חגי:'Haggai',זכריה:'Zechariah',מלאכי:'Malachi',משלי:'Proverbs',איכה:'Lamentations',עזרא:'Ezra','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[item.book]||item.book)+' '+item.chapter+':'+item.verse);card.append(enMeta);
   const q=text('div','quote','');const c=chapters[chapterKey(item)];
   // The canonical chapter verse is the sole source for displayed words.
   // Timed ReadAlong words can drift across verse boundaries and must NEVER
@@ -1352,16 +1412,17 @@ function render(){
   wrapCanonicalWords(q);
   card.append(text('div','idea-heading',shortIdea(item,false)),q,text('div','explain',item.explain));
   const picWrap=text('div','quote-picture-wrap','');
+  const hint=text('div','scroll-next-hint','');hint.setAttribute('aria-live','off');picWrap.append(hint);
   const pic=document.createElement('img');pic.className='quote-image';pic.alt='תמונה לציטוט '+(i+1);pic.loading='eager';pic.dataset.quoteIndex=i;pic.src=generatedPicture(item,i);picWrap.append(pic);
-  const hb=text('button','quote-audio-overlay he','▶');hb.type='button';hb.setAttribute('aria-label','השמע בעברית');hb.onclick=()=>play(i,'he');picWrap.append(hb);
-  const eb=text('button','quote-audio-overlay en','▶');eb.type='button';eb.setAttribute('aria-label','Listen in English');eb.onclick=()=>play(i,'en');
+  const hb=text('button','quote-audio-overlay he','🔊');hb.type='button';hb.setAttribute('aria-label','השמע בעברית');hb.onclick=()=>play(i,'he');heMeta.append(hb);
+  const eb=text('button','quote-audio-overlay en','🔊');eb.type='button';eb.setAttribute('aria-label','Listen in English');eb.onclick=()=>play(i,'en');
   card.append(picWrap);
   const english=text('section','english-below','');english.dir='ltr';
   const canonicalEnglish=c?.english?.[item.verse-1]?fixEndDot(c.english[item.verse-1]):item.quoteEn;
   english.append(text('div','idea-heading en',shortIdea(item,true)),text('div','quote english-quote',canonicalEnglish),text('div','explain english-explain',item.explainEn));
-  card.append(english);card.append(picWrap);picWrap.append(eb);
+  card.append(english);enMeta.append(eb);
   card.onclick=e=>{if(e.target.closest('button'))return;selected=i;updateSelected()};cont.append(card);
- });updateSelected(false);scheduleFitCards();queueMicrotask(refreshImagesAfterRender)
+ });updateSelected(false);scheduleFitCards();queueMicrotask(refreshImagesAfterRender);showSevenSecondScrollHint()
 }
 // Fit a full card to the available viewport height without clipping text.
 let fitQueued=false;
@@ -1558,7 +1619,7 @@ let touchStartY=null;
 function headerBottom(){return document.querySelector('header')?.getBoundingClientRect().bottom||0}
 function fitVisibleIdea(i){
  const card=document.getElementById('item-'+i);if(!card)return;
- const available=Math.max(180,window.innerHeight-headerBottom()-5);
+ const available=Math.max(180,(window.visualViewport?.height||window.innerHeight)-headerBottom()-5);
  document.querySelectorAll('#content .card.fitted-idea').forEach(el=>{
   el.classList.remove('fitted-idea');['--fit-text','--fit-picture','min-height','height','zoom','width'].forEach(k=>el.style.removeProperty(k));
  });
@@ -1594,7 +1655,7 @@ function playRandomOrganNote(){
   if(ctx.state==='suspended')ctx.resume().catch(()=>{});
   const notes=[261.63,293.66,329.63,349.23,392,440,493.88,523.25];
   const picked=[];
-  for(let n=0;n<3;n++){
+  for(let n=0;n<5;n++){
    const choices=notes.map((_,i)=>i).filter(i=>i!==previousOrganNote&&!picked.includes(i));
    const index=choices[Math.floor(Math.random()*choices.length)];
    picked.push(index);
@@ -1645,16 +1706,16 @@ function carouselStep(direction){
 }
 window.addEventListener('wheel',e=>{
  if(e.target.closest('#bookMenu,#ideasMenu'))return;
- e.preventDefault();if(Math.abs(e.deltaY)>3)carouselStep(Math.sign(e.deltaY));
+ e.preventDefault();if(Math.abs(e.deltaY)>3){stop();}if(Math.abs(e.deltaY)>3)carouselStep(-Math.sign(e.deltaY));
 },{passive:false});
 window.addEventListener('touchstart',e=>{if(e.target.closest('#bookMenu,#ideasMenu'))return;touchStartY=e.touches[0]?.clientY??null},{passive:true});
 window.addEventListener('touchmove',e=>{if(touchStartY!==null&&!e.target.closest('#bookMenu,#ideasMenu'))e.preventDefault()},{passive:false});
 window.addEventListener('touchend',e=>{
  if(touchStartY===null)return;const end=e.changedTouches[0]?.clientY??touchStartY;
- const delta=touchStartY-end;touchStartY=null;if(Math.abs(delta)>28)carouselStep(Math.sign(delta));
+ const delta=touchStartY-end;touchStartY=null;if(Math.abs(delta)>28){stop();carouselStep(-Math.sign(delta));}
 },{passive:true});
 window.addEventListener('touchcancel',()=>{touchStartY=null},{passive:true});
-window.addEventListener('keydown',e=>{if(['ArrowDown','PageDown','ArrowUp','PageUp'].includes(e.key)&&!e.target.closest('input,textarea,select')){e.preventDefault();carouselStep(['ArrowDown','PageDown'].includes(e.key)?1:-1)} });
+window.addEventListener('keydown',e=>{if(['ArrowDown','PageDown','ArrowUp','PageUp'].includes(e.key)&&!e.target.closest('input,textarea,select')){e.preventDefault();stop();carouselStep(['ArrowDown','PageDown'].includes(e.key)?-1:1)} });
 function alignCurrentAfterLanguageChange(){}
 // Keep the entire toolbar on screen even in mobile fullscreen mode.
 function sizeFixedHeader(){
@@ -1662,13 +1723,14 @@ function sizeFixedHeader(){
  if(!header)return;
  document.documentElement.style.setProperty('--fixed-header-height',header.offsetHeight+'px');
 }
-window.addEventListener('resize',()=>{sizeFixedHeader();const i=currentlyVisibleQuote();if(Number.isFinite(i))scrollQuoteToTop(i)},{passive:true});
+window.addEventListener('resize',()=>{sizeFixedHeader();scheduleFitCards();},{passive:true});
 if(window.ResizeObserver){new ResizeObserver(sizeFixedHeader).observe(document.querySelector('header'))}
 sizeFixedHeader();
 const topicTranslations={'החיים והזמן':'Life and Time','חוכמה, טיפשות ולימוד':'Wisdom, Folly and Learning','כסף, עבודה והצלחה':'Money, Work and Success','יחסים בין בני אדם':'Human Relationships','צדק, מוות ומשמעות החיים':'Justice, Death and the Meaning of Life'};
 let uiLanguage='he';
 function toggleInterfaceLanguage(){
- const keep=currentlyVisibleQuote();const currentFilter='';
+ // Do not align the new language to the old card's screen coordinates.
+ const currentFilter='';
  uiLanguage=uiLanguage==='he'?'en':'he';
  document.body.classList.toggle('mode-he',uiLanguage==='he');
  document.body.classList.toggle('mode-en',uiLanguage==='en');
@@ -1679,9 +1741,15 @@ function toggleInterfaceLanguage(){
  for(const [id,names] of Object.entries(allBookNames)){const button=$(id);if(button)button.textContent=names[uiLanguage==='en'?1:0];}
  $('bookMenu').dir=uiLanguage==='en'?'ltr':'rtl';
  $('stop').textContent=uiLanguage==='he'?'■ עצור':'■ Stop';
- $('deepReset').title=uiLanguage==='he'?'ריסט עמוק':'Deep reset'; $('deepReset').setAttribute('aria-label',$('deepReset').title); $('lang').textContent='🇬🇧 🇮🇱'; $('lang').title=uiLanguage==='he'?'החלף שפה':'Switch language';
+ $('deepReset').title=uiLanguage==='he'?'ריסט עמוק':'Deep reset'; $('deepReset').setAttribute('aria-label',$('deepReset').title); $('lang').textContent=uiLanguage==='he'?'🇬🇧':'🇮🇱'; $('lang').title=uiLanguage==='he'?'החלף שפה':'Switch language';
  refreshIdeaOptions(currentFilter);
- render();requestAnimationFrame(()=>scrollQuoteToTop(keep));
+ render();
+ // Fullscreen is managed from the original user gesture, before language rendering.
+ // Never toggle or re-request it during the language re-render.
+ // Do not programmatically scroll after a toolbar tap: Android Chrome reveals its bars.
+ if(typeof window.updateHeaderHeight==='function')window.updateHeaderHeight();
+ window.philosophyReturnToPageTop?.();
+ window.philosophyDelayedFullscreen?.();
 }
 function refreshIdeaOptions(){
  const menu=$('ideasMenu');menu.replaceChildren();
@@ -1689,22 +1757,20 @@ function refreshIdeaOptions(){
  items.forEach(({item,i})=>{
   const b=document.createElement('button');b.type='button';b.className='idea-menu-button';
   b.textContent=shortIdea(item,uiLanguage==='en');
-  b.onclick=(event)=>{tryFullscreen();event.preventDefault();event.stopPropagation();menu.hidden=true;$('bookMenu').classList.remove('open');selected=i;playRandomOrganNote();updateSelected(false);requestAnimationFrame(()=>scrollQuoteToTop(i));};
+  b.onclick=(event)=>{event.preventDefault();event.stopPropagation();menu.hidden=true;$('bookMenu').classList.remove('open');selected=i;playRandomOrganNote();updateSelected(false);requestAnimationFrame(()=>scrollQuoteToTop(i));};
   menu.append(b);
  });
  $('topicFilter').textContent=uiLanguage==='he'?'רעיונות ▾':'Ideas ▾';
 }
-$('topicFilter').onclick=(event)=>{event.stopPropagation();$('bookMenu').classList.remove('open');$('ideasMenu').hidden=!$('ideasMenu').hidden;tryFullscreen();};
-function tryFullscreen(){
- if(!document.fullscreenElement && document.documentElement.requestFullscreen){
-   try{const promise=document.documentElement.requestFullscreen({navigationUI:'hide'});if(promise&&promise.catch)promise.catch(()=>{});}catch(e){}
- }
-}
+$('topicFilter').onclick=(event)=>{event.stopPropagation();$('bookMenu').classList.remove('open');$('ideasMenu').hidden=!$('ideasMenu').hidden;};
+
 async function deepReset(event){
  if(event){event.preventDefault();event.stopPropagation();}
- tryFullscreen();
+ 
  const btn=$('deepReset');
  if(btn.disabled)return;
+ window.philosophyReturnToPageTop?.();
+ window.philosophyDelayedFullscreen?.();
  btn.disabled=true;
  const status=$('status');
  const visible=currentlyVisibleQuote();
@@ -1724,15 +1790,35 @@ async function deepReset(event){
    imageAssignments.clear(); usedImages.clear();
    // Force the image manifest to be reapplied even when the same book and verses are rendered.
    lastImageRenderKey='';
-   await switchBook(book);
+   // Keep the current page mounted while refreshing. switchBook() clears the page
+   // and scrolls the window to zero, which brings Android browser bars back.
+   const loaders={
+     'בראשית':loadGenesisPhilosophy,'שמות':loadExodusPhilosophy,
+     'ויקרא':loadLeviticusPhilosophy,'במדבר':loadNumbersPhilosophy,
+     'דברים':loadDeuteronomyPhilosophy,'יהושע':loadJoshuaPhilosophy,
+     'שופטים':loadJudgesPhilosophy,'שמואל א':loadFirstSamuelPhilosophy,
+     'שמואל ב':loadSecondSamuelPhilosophy,'מלכים א':loadFirstKingsPhilosophy,
+     'מלכים ב':loadSecondKingsPhilosophy,'ישעיהו':loadIsaiahPhilosophy,
+     'יחזקאל':loadEzekielPhilosophy,'הושע':loadHoseaPhilosophy,
+     'יואל':loadJoelPhilosophy,'עמוס':loadAmosPhilosophy,
+     'עובדיה':loadObadiahPhilosophy,'יונה':loadJonahPhilosophy,
+     'דניאל':loadDanielPhilosophy,'נחמיה':loadNehemiahPhilosophy,
+     'רות':loadRuthPhilosophy,
+     
+     'תהילים':loadPsalmsPhilosophy,'שיר השירים':loadSongPhilosophy
+   };
+   if(loaders[book]) await loaders[book]();
+   else await Promise.all([...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))].map(n=>loadChapter(n,book)));
+   render();
    await refreshAllImages();
    const indices=ITEMS.map((x,i)=>x.book===book?i:-1).filter(i=>i>=0);
    const index=indices[Math.min(position,indices.length-1)];
    if(index!==undefined){
      selected=index;
      updateSelected(false);
-     requestAnimationFrame(()=>requestAnimationFrame(()=>scrollQuoteToTop(index)));
+     // No forced window scrolling after reset.
    }
+   window.philosophyReturnToPageTop?.();
    status.textContent='הנתונים רועננו';
  }catch(e){
    status.textContent='שגיאה ברענון: '+(e?.message||e);
@@ -1742,7 +1828,7 @@ async function deepReset(event){
  }
 }
 $('deepReset').onclick=deepReset;
-$('books').onclick=(event)=>{event.stopPropagation();$('ideasMenu').hidden=true;$('bookMenu').classList.toggle('open');tryFullscreen();};
+$('books').onclick=(event)=>{event.stopPropagation();$('ideasMenu').hidden=true;$('bookMenu').classList.toggle('open');};
 async function switchBook(book){stop();if(['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','חבקוק','צפניה','חגי','זכריה','מלאכי','נחום','תהילים','שיר השירים'].includes(book)){activeBook=book;$('bookMenu').classList.remove('open');$('content').textContent='טוען רעיונות פילוסופיים מתוך פירושי '+book+' ב-GitHub…';try{await (book==='בראשית'?loadGenesisPhilosophy():book==='שמות'?loadExodusPhilosophy():book==='ויקרא'?loadLeviticusPhilosophy():book==='במדבר'?loadNumbersPhilosophy():book==='דברים'?loadDeuteronomyPhilosophy():book==='יהושע'?loadJoshuaPhilosophy():book==='שופטים'?loadJudgesPhilosophy():book==='שמואל א'?loadFirstSamuelPhilosophy():book==='שמואל ב'?loadSecondSamuelPhilosophy():book==='מלכים א'?loadFirstKingsPhilosophy():book==='מלכים ב'?loadSecondKingsPhilosophy():book==='ישעיהו'?loadIsaiahPhilosophy():book==='יחזקאל'?loadEzekielPhilosophy():book==='הושע'?loadHoseaPhilosophy():book==='יואל'?loadJoelPhilosophy():book==='עמוס'?loadAmosPhilosophy():book==='עובדיה'?loadObadiahPhilosophy():book==='יונה'?loadJonahPhilosophy():book==='איכה'?loadLamentationsPhilosophy():book==='עזרא'?loadEzraPhilosophy():book==='דניאל'?loadDanielPhilosophy():book==='נחמיה'?loadNehemiahPhilosophy():book==='רות'?loadRuthPhilosophy():book==='משלי'?loadProverbsPhilosophy():book==='דברי הימים א'?loadChron1Philosophy():book==='דברי הימים ב'?loadChron2Philosophy():book==='חבקוק'?loadHabakkukPhilosophy():book==='צפניה'?loadZephaniahPhilosophy():book==='חגי'?loadHaggaiPhilosophy():book==='זכריה'?loadZechariahPhilosophy():book==='מלאכי'?loadMalachiPhilosophy():book==='נחום'?loadNahumPhilosophy():book==='איוב'?loadJobPhilosophy():book==='ירמיהו'?loadJeremiahPhilosophy():book==='תהילים'?loadPsalmsPhilosophy():loadSongPhilosophy());
     const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];
     for(let j=0;j<nums.length;j+=5)await Promise.all(nums.slice(j,j+5).map(n=>loadChapter(n,book)));
@@ -1841,5 +1927,115 @@ function refreshImagesAfterRender(){
  button.addEventListener('click',prepare);
  proceed.addEventListener('click',launch);
  cancel.addEventListener('click',close);
+})();
+</script><div id="philosophyAppsOverlay" hidden><div id="philosophyAppsPanel"><div id="philosophyAppsTop"><span id="philosophyAppsTitle">7 אפליקציות התנ״ך</span><button type="button" id="philosophyAppsClose">✕</button></div><nav id="philosophyAppsLinks"></nav></div></div>
+<script id="philosophy-apps-and-fullscreen">
+(function(){
+const links=[['תנ״ך — לקרוא, להקשיב ולהבין','Tanakh Reader','tanakh.html'],['תנ״ך בתמונות','Bible Pictures','bible_pictures.html'],['סיפורי התנ״ך','Bible Stories','stories.html'],['תנ״ך פילוסופי','Philosophical Bible','philosophical_bible.html'],['תנ״ך היסטורי','Historical Bible','historical_bible.html'],['תנ״ך גיאוגרפי','Geographical Bible','geographical_bible.html'],['תנ״ך לפי משרד החינוך','Bible by School Grade','tanakh_by%20israeli_ministry.html']];
+const overlay=document.getElementById('philosophyAppsOverlay'),nav=document.getElementById('philosophyAppsLinks');
+const base='https://naftali24.github.io/BIBLE/';
+function show(){const en=document.body.classList.contains('mode-en');document.getElementById('philosophyAppsTitle').textContent=en?'7 Bible Apps':'7 אפליקציות התנ״ך';nav.replaceChildren();for(const [he,eng,url] of links){const a=document.createElement('a');a.href=base+url;a.textContent=en?eng:he;nav.append(a)}overlay.hidden=false}
+document.getElementById('sevenAppsBtn').addEventListener('click',()=>{show()});
+document.getElementById('philosophyAppsClose').onclick=()=>overlay.hidden=true;
+overlay.addEventListener('click',e=>{if(e.target===overlay)overlay.hidden=true});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')overlay.hidden=true});
+})();
+</script><script id="nov6-fullscreen-language-and-audio">
+(function(){
+ const owl=document.getElementById('books');
+ const apps=document.getElementById('sevenAppsBtn');
+ const lang=document.getElementById('lang');
+ function sizeButtons(){
+   if(!owl||!apps)return;
+   const r=owl.getBoundingClientRect();
+   if(r.width&&r.height){document.documentElement.style.setProperty('--owl-button-width',r.width+'px');document.documentElement.style.setProperty('--owl-button-height',r.height+'px');}
+ }
+ function fitViewport(){
+   document.documentElement.style.setProperty('--app-visible-height',(window.visualViewport?.height||window.innerHeight)+'px');
+   if(typeof window.updateHeaderHeight==='function')window.updateHeaderHeight();
+ }
+ // Language fullscreen is handled in the original language click handler, not
+ // by a second capture listener that competes with the re-render.
+ window.addEventListener('resize',()=>{fitViewport();sizeButtons();});
+ document.addEventListener('fullscreenchange',()=>{fitViewport();sizeButtons();});
+ window.visualViewport?.addEventListener('resize',fitViewport);
+ // Stop speech and media as soon as the user begins navigating by scroll/swipe.
+ function silence(){try{if(typeof stop==='function')stop();else{document.getElementById('player')?.pause();window.speechSynthesis?.cancel();}}catch(e){}}
+ window.addEventListener('wheel',e=>{if(!e.target.closest('#bookMenu,#ideasMenu')&&Math.abs(e.deltaY)>3)silence();},{capture:true,passive:true});
+ let y=null;
+ window.addEventListener('touchstart',e=>{if(!e.target.closest('#bookMenu,#ideasMenu'))y=e.touches[0]?.clientY??null;},{capture:true,passive:true});
+ window.addEventListener('touchmove',e=>{if(y!==null&&Math.abs((e.touches[0]?.clientY??y)-y)>12){silence();y=null;}},{capture:true,passive:true});
+ sizeButtons();fitViewport();
+})();
+</script><script id="stable-mobile-toolbar-no-viewport-forcing">
+(function(){
+  // Keep the fixed toolbar at the top; never impose a viewport-sized blank spacer.
+  function syncHeader(){
+    const header=document.querySelector('header');
+    if(!header)return;
+    document.documentElement.style.setProperty('--fixed-header-height',Math.ceil(header.getBoundingClientRect().height)+'px');
+  }
+  document.addEventListener('DOMContentLoaded',syncHeader);
+  window.addEventListener('resize',syncHeader,{passive:true});
+  syncHeader();
+})();
+</script>
+<style id="stable-mobile-toolbar-layout">
+  html{min-height:0!important;height:auto!important}
+  body{min-height:0!important;height:auto!important;max-height:none!important;position:static!important;inset:auto!important;overflow-y:auto!important}
+  header{position:fixed!important;top:0!important;left:0!important;right:0!important}
+  #content{min-height:0!important;height:auto!important;overflow:visible!important}
+</style><style id="temporary-fullscreen-next-to-audio">
+.card .meta .temporary-fullscreen-button{position:static!important;flex:0 0 38px;width:38px;height:35px;min-width:38px;min-height:35px;padding:3px!important;font-size:22px!important;line-height:1!important;border-radius:9px!important;display:inline-grid;place-items:center;order:1}
+</style><script id="temporary-fullscreen-after-language-reset">
+(function(){
+  let active=false;
+  let cardId=null;
+  function removeButtons(){document.querySelectorAll('.temporary-fullscreen-button').forEach(b=>b.remove());}
+  function installButton(){
+    if(!active)return;
+    const card=document.querySelector('#content .card.active')||document.querySelector('#content .card');
+    if(!card)return;
+    cardId=card.id;
+    removeButtons();
+    card.querySelectorAll(':scope > .meta').forEach(meta=>{
+      const button=document.createElement('button');
+      button.type='button';button.className='temporary-fullscreen-button';
+      button.textContent='⛶';button.title='מסך מלא';button.setAttribute('aria-label','מסך מלא');
+      button.addEventListener('click',function(e){
+        e.preventDefault();e.stopPropagation();
+        const root=document.documentElement;
+        if(!document.fullscreenElement){
+          const request=root.requestFullscreen||root.webkitRequestFullscreen;
+          if(request){try{const result=request.call(root);if(result&&result.catch)result.catch(()=>{});}catch(err){}}
+        }
+        active=false;removeButtons();
+      });
+      const audio=meta.querySelector('.quote-audio-overlay');
+      if(audio)audio.before(button);else meta.append(button);
+    });
+  }
+  function toTop(){window.scrollTo(0,0);document.documentElement.scrollTop=0;document.body.scrollTop=0;}
+  window.philosophyReturnToPageTop=toTop;
+  window.philosophyDelayedFullscreen=function(){
+    active=true;
+    setTimeout(installButton,0);
+  };
+  document.addEventListener('click',function(e){
+    if(e.target.closest('#lang,#deepReset')){
+      active=true;
+      setTimeout(installButton,0);
+      setTimeout(installButton,400);
+    }
+  });
+  const content=document.getElementById('content');
+  if(content){new MutationObserver(()=>{if(active && !content.querySelector('.temporary-fullscreen-button'))setTimeout(installButton,0);}).observe(content,{childList:true});}
+  window.addEventListener('scroll',function(){
+    if(!active||!cardId)return;
+    const card=document.getElementById(cardId);
+    if(!card)return;
+    const header=document.querySelector('header');
+    if(card.getBoundingClientRect().bottom < (header?.offsetHeight||0)+20){active=false;removeButtons();}
+  },{passive:true});
 })();
 </script></body></html>
