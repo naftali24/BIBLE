@@ -2,12 +2,13 @@
 (function(){
   'use strict';
   const originOK=location.hostname==='naftali24.github.io' && location.pathname.startsWith('/BIBLE/');
-  const root='/BIBLE/';
+  // A single short-lived entry permit is consumed by the first app opened.
   let allowed=false;
   try {
     const value=sessionStorage.getItem('naftali_bible_index_entry');
     const timestamp=Number(value);
-    allowed=Number.isFinite(timestamp) && timestamp>0 && Date.now()-timestamp<12*60*60*1000;
+    allowed=Number.isFinite(timestamp) && timestamp>0 && Date.now()-timestamp<2*60*1000;
+    sessionStorage.removeItem('naftali_bible_index_entry');
   } catch (_) {}
   if(!originOK || !allowed){
     location.replace('https://naftali24.github.io/BIBLE/');
