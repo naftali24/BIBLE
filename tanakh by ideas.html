@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html dir="rtl" lang="he"><head><script defer src="assets/js/bible-analytics.js?v=20261106"></script><script src="assets/js/b7-core-2026.min.js?v=20261106c"></script><meta name="author" content="Naftali Davidovitz &amp; AI"><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>תנ״ך לפי רעיונות | Bible by Ideas</title><style>
+<html dir="rtl" lang="he"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>תנ״ך לפי רעיונות | Bible by Ideas</title><style>
 *{box-sizing:border-box}html,body{margin:0;height:100%;font-family:Arial,sans-serif;background:#f6f2e8;color:#24302c}button,select{font:inherit}button{cursor:pointer;border:1px solid #cab985;border-radius:12px;background:#fffdf5;color:#24302c;padding:10px 16px}button:focus-visible,select:focus-visible{outline:3px solid #447caa;outline-offset:2px}header{height:68px;display:flex;align-items:center;justify-content:space-between;padding:8px 20px;gap:10px;background:#213c33;color:#fff;box-shadow:0 2px 12px #0002}header h1{font-size:18px;margin:0}#position{font-size:14px;color:#f0dfad}.header-title{display:grid;gap:5px}#feed{height:calc(100dvh - 68px);overflow-y:auto;scroll-snap-type:y proximity;overscroll-behavior-y:contain;scroll-behavior:smooth}.idea,.notice{scroll-snap-align:start;min-height:calc(100dvh - 68px);padding:22px 16px 32px;display:flex;align-items:center;flex-direction:column;justify-content:center;gap:14px}.caption{display:flex;justify-content:space-between;width:min(850px,100%);font-size:15px;color:#596459;gap:12px}.picture{width:min(850px,100%);max-height:52dvh;object-fit:contain;display:block;border-radius:16px;background:#e8e1d1}.summary{width:min(850px,100%);padding:6px 14px}.he{font-size:clamp(21px,2.6vw,28px);line-height:1.55;margin:4px 0 12px}.en{font-size:clamp(20px,2.5vw,27px);line-height:1.5;direction:ltr;text-align:left;margin:0;color:#48564e}.hint{font-size:14px;color:#647260}.chapter-label{font-weight:bold;color:#254e3d}.missing{background:#fff9e8;border-radius:12px;padding:20px;max-width:720px;line-height:1.65;font-size:19px}.next{padding:24px;text-align:center;background:#e7e0cc;min-height:130px;scroll-snap-align:start}.next p{margin:0 0 12px}.status{font-size:18px;margin:12px}dialog{width:min(850px,95vw);max-height:90dvh;border:0;border-radius:20px;padding:22px;color:#24302c;box-shadow:0 20px 100px #0004}dialog::backdrop{background:#17291ed0}.dialog-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}.dialog-head h2{margin:0}.books{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:7px}.books button.active{background:#234c3b;color:white}#chapters{display:grid;grid-template-columns:repeat(auto-fill,minmax(62px,1fr));gap:7px;margin-top:12px}#chapter-heading{margin:20px 0 8px}.chapter-button.current{outline:3px solid #b79337}footer{margin-top:20px;font-size:14px;color:#687368}.loader{padding:20px}.empty{min-height:75dvh}a{color:#216248}@media(max-width:600px){header{padding:8px 10px}header h1{font-size:16px}.idea{padding:12px 10px 24px;gap:10px}.picture{max-height:43dvh;border-radius:10px}.summary{padding:2px 6px}.he,.en{font-size:21px}.caption{font-size:13px}dialog{padding:15px}.books{grid-template-columns:repeat(3,1fr)}}@media(prefers-reduced-motion:reduce){#feed{scroll-behavior:auto}}
 
 /* Appearance matches the supplied Tanakh app. */
@@ -390,6 +390,12 @@ header .header-title{display:none!important}
 #language-toggle{width:49px!important;min-width:49px!important;max-width:49px!important;height:43px!important;min-height:43px!important;max-height:43px!important;padding:2px!important;display:flex!important;align-items:center!important;justify-content:center!important;border:1px solid #8b5d00!important;border-radius:10px!important;box-shadow:0 2px 0 #6c4300!important}
 #sevenAppsBtn,#menu,#language-toggle{background:linear-gradient(#ffe788,#d99a16)!important;color:#241300!important;border:1px solid #8b5d00!important;border-radius:10px!important;box-shadow:0 2px 0 #6c4300!important}
 @media(max-width:420px){header{gap:4px!important}#topKidsSwitch,#sevenAppsBtn,#menu,.language-controls,#language-toggle{width:43px!important;min-width:43px!important;max-width:43px!important;flex-basis:43px!important}}
+</style><style id="windows-1200-width-final-20261107">
+/* Windows / desktop: 1200px centered application, responsive below 1200px. */
+@media (min-width: 701px) and (pointer: fine) {
+  html body { width: min(1200px, 100vw) !important; max-width: 1200px !important; margin-left: auto !important; margin-right: auto !important; }
+  html body > header, html body > #feed, html body #storyImageDock, html body #storyImageDock .dock-photo { width: 100% !important; max-width: 100% !important; }
+}
 </style></head><body data-language="he"><header><div class="header-title"><h1 id="main-app-heading">תנ״ך לפי סיפורים</h1><span hidden="" id="position"></span></div><button aria-controls="sevenAppsOverlay" aria-expanded="false" aria-haspopup="dialog" id="sevenAppsBtn" title="7 אפליקציות התנ״ך / 7 Bible Apps" type="button"><span class="sevenAppsNumber">7</span><span class="sevenAppsWord">apps</span></button><button aria-haspopup="dialog" aria-label="פתח תפריט ספרים" id="menu" title="ספרים">🦉</button><div aria-label="שפה" class="language-controls" role="group"><button aria-label="החלפת שפה / Switch language" id="language-toggle" title="עברית / English"><svg aria-hidden="true" class="lang-flag-he" height="20" viewbox="0 0 60 40" width="29" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="40" width="60"></rect><path d="M0 5h60v5H0zm0 25h60v5H0z" fill="#0038b8"></path><path d="M30 12l8 14H22zM30 28l-8-14h16z" fill="none" stroke="#0038b8" stroke-width="1.8"></path></svg><svg aria-hidden="true" class="lang-flag-en" height="20" viewbox="0 0 60 40" width="29" xmlns="http://www.w3.org/2000/svg"><rect fill="#012169" height="40" width="60"></rect><path d="M0 0 60 40M60 0 0 40" stroke="#fff" stroke-width="9"></path><path d="M0 0 60 40M60 0 0 40" stroke="#c8102e" stroke-width="4"></path><path d="M30 0v40M0 20h60" stroke="#fff" stroke-width="13"></path><path d="M30 0v40M0 20h60" stroke="#c8102e" stroke-width="7"></path></svg></button></div></header><main aria-label="תמונות וסיכומי רעיונות" id="feed"></main><dialog id="navigation"><div class="dialog-head"><h2>כל התנ״ך</h2><button aria-label="סגור תפריט" id="close-menu">✕</button></div><div class="books" id="books"></div><div hidden="" id="menu-chapters"></div></dialog><script>
 'use strict';
 const BOOKS=[["בראשית", 50], ["שמות", 40], ["ויקרא", 27], ["במדבר", 36], ["דברים", 34], ["יהושע", 24], ["שופטים", 21], ["שמואל א", 31], ["שמואל ב", 24], ["מלכים א", 22], ["מלכים ב", 25], ["ישעיהו", 66], ["ירמיהו", 52], ["יחזקאל", 48], ["הושע", 14], ["יואל", 4], ["עמוס", 9], ["עובדיה", 1], ["יונה", 4], ["מיכה", 7], ["נחום", 3], ["חבקוק", 3], ["צפניה", 3], ["חגי", 2], ["זכריה", 14], ["מלאכי", 3], ["תהילים", 150], ["משלי", 31], ["איוב", 42], ["שיר השירים", 8], ["רות", 4], ["איכה", 5], ["קהלת", 12], ["אסתר", 10], ["דניאל", 12], ["עזרא", 10], ["נחמיה", 13], ["דברי הימים א", 29], ["דברי הימים ב", 36]];
@@ -573,7 +579,7 @@ if('serviceWorker' in navigator){
 
 @media(max-width:420px){#openIntegratedGame{font-size:13px;padding:3px 6px}}
 </style>
-<script id="single-screen-game-button">(()=>{const btn=document.createElement('button');btn.id='openIntegratedGame';btn.type='button';btn.textContent='🎮 משחק';document.body.appendChild(btn);})();</script>
+<script id="single-screen-game-button">(()=>{const btn=document.createElement('button');btn.id='openIntegratedGame';btn.type='button';btn.textContent='🎮 טרוויה';document.body.appendChild(btn);})();</script>
 <style>
 </style><style id="stories-final-style">
 .summary .idea-heading-row .reading-level{font-size:16px!important;padding:7px 12px!important;min-height:34px!important}
@@ -588,7 +594,7 @@ if('serviceWorker' in navigator){
  function refreshStoryLabels(){
  const en=document.body.dataset.language==='en';
  const title=document.getElementById('main-app-heading');if(title){const t=en?'Bible by Stories':'תנ״ך לפי סיפורים';if(title.textContent!==t)title.textContent=t;}
- const game=document.getElementById('openIntegratedGame');if(game){const t=en?'🎮 TO GAME':'🎮 למשחק';if(game.textContent!==t)game.textContent=t;}
+ const game=document.getElementById('openIntegratedGame');if(game){const t=en?'🎮 Trivia':'🎮 טרוויה';if(game.textContent!==t)game.textContent=t;}
  document.querySelectorAll('.reading-level').forEach(b=>b.textContent=b.getAttribute('aria-pressed')==='true'?(en?'For Kids':'לילדים'):(en?'For Adults':'למבוגרים'));
  document.querySelectorAll('.caption').forEach(c=>{
   const label=c.querySelector('.chapter-label');if(label&&en){const card=c.closest('.idea');const item=chapterList[Number(card?.dataset.index)];const names={'בראשית':'Genesis','שמות':'Exodus','ויקרא':'Leviticus','במדבר':'Numbers','דברים':'Deuteronomy'};if(item)label.textContent=(names[item.book]||item.book)+' · Chapter '+item.chapter;}
@@ -612,7 +618,7 @@ function refresh(){const en=document.body.dataset.language==='en';kids.textConte
 const oldLanguage=setLanguage;setLanguage=function(lang){oldLanguage(lang);refresh();};
 const oldReading=updateReadingLevel;updateReadingLevel=function(){oldReading();refresh();};
 new MutationObserver(()=>requestAnimationFrame(refresh)).observe(document.getElementById('feed'),{childList:true});
-document.addEventListener('click',e=>{if(e.target.closest('#menu-chapters .chapter-button'))document.documentElement.requestFullscreen?.().catch(()=>{});},true);
+// Fullscreen request removed: avoid Android origin/security banner.
 refresh();
 })();</script><style id="repaired-image-layout">
 :root{--dock-height:min(58dvh,650px)}
@@ -700,11 +706,7 @@ paint();
 }
 const chapter=document.getElementById('dockChapter');
 // The dock caption is controlled by its single update loop below; no competing MutationObserver.
-// Browsers generally reject fullscreen without a user gesture. Try once at 100ms;
-// then request it on the next deliberate tap if the browser blocked the first attempt.
-let tried=false;const enter=()=>{if(document.fullscreenElement||!document.documentElement.requestFullscreen)return;document.documentElement.requestFullscreen().catch(()=>{});};
-setTimeout(()=>{tried=true;enter();},100);
-document.addEventListener('pointerdown',function once(e){if(!tried||document.fullscreenElement)return;enter();document.removeEventListener('pointerdown',once,true);},true);
+// No forced fullscreen: fit to the available viewport.
 })();</script>
 <style id="story-corrections-verified">
 #storyImageDock .dock-photo img{opacity:1!important;transition:opacity .18s ease}
@@ -766,17 +768,7 @@ const labels=()=>{
 };
 new MutationObserver(labels).observe(document.body,{attributes:true,attributeFilter:['data-language']});
 labels();
-// Android Chrome forbids requestFullscreen without a user gesture.
-// Request on the earliest interaction, not only on chapter selection.
-const request=()=>{
- if(document.fullscreenElement || !document.documentElement.requestFullscreen)return;
- try{const result=document.documentElement.requestFullscreen({navigationUI:'hide'});result?.catch?.(()=>{});}catch(e){}
-};
-for(const type of ['pointerdown','touchend','keydown']){
- document.addEventListener(type,request,{capture:true,passive:true});
-}
-// Browsers allowing automatic fullscreen can enter on load; Android Chrome normally blocks this.
-setTimeout(request,100);
+// No forced fullscreen: prevents Android from displaying the site-origin banner.
 })();</script>
 <style id="audio-only-story-update">
 /* Keep only the audio control over the image. */
@@ -1570,4 +1562,130 @@ html body > header #menu{display:grid!important;place-items:center!important}
  }
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();</script>
-</body></html>
+
+<style id="instrument-name-overlay-style">
+/* Instrument identification shares the audio-control row, not the photo center. */
+#storyInstrumentName{position:absolute!important;top:8px!important;right:9px!important;left:auto!important;transform:none!important;z-index:215!important;pointer-events:none!important;max-width:calc(100% - 90px)!important;min-width:0!important;padding:3px 5px!important;display:flex!important;flex-direction:row!important;align-items:center!important;gap:7px!important;direction:rtl!important;color:#77d5ff!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;text-shadow:0 1px 3px #001a2d!important;font:900 clamp(19px,3vw,30px)/1.2 Arial,sans-serif!important;opacity:0;visibility:hidden;transition:opacity .15s ease,visibility .15s ease;white-space:nowrap!important}
+body[data-language="en"] #storyInstrumentName{right:auto!important;left:50%!important;direction:ltr!important;max-width:calc(50% - 8px)!important}
+#storyInstrumentName.instrument-visible{opacity:1;visibility:visible}
+#storyInstrumentName .instrument-icon{display:inline-flex!important;flex:0 0 auto!important;align-items:center!important;margin:0!important;filter:drop-shadow(0 1px 2px #001a2d)}
+#storyInstrumentName .instrument-icon svg{width:32px!important;height:32px!important;margin:0!important;color:#77d5ff!important}
+@media(max-width:550px){#storyInstrumentName{font-size:clamp(15px,4vw,21px)!important;gap:4px!important;max-width:calc(100% - 62px)!important}body[data-language="en"] #storyInstrumentName{left:42%!important;max-width:calc(58% - 5px)!important}#storyInstrumentName .instrument-icon svg{width:25px!important;height:25px!important}}
+/* Reliable SVG speaker instead of the old triangular play symbol. */
+#dockAudio{font-size:0!important;position:relative!important;display:inline-flex!important;align-items:center!important;justify-content:center!important}
+#dockAudio::after{content:"";display:block;width:25px;height:25px;background:center/contain no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23271500' stroke-width='2.3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M11 5 6 9H3v6h3l5 4V5Z'/%3E%3Cpath d='M15 9a5 5 0 0 1 0 6M18 6a9 9 0 0 1 0 12'/%3E%3C/svg%3E")}
+@media(prefers-reduced-motion:reduce){#storyInstrumentName{transition:none}}
+</style>
+<script id="instrument-scroll-once">(()=>{
+'use strict';
+const Audio=window.AudioContext||window.webkitAudioContext;
+let ctx, lastPlayed=0, nameTimer, previous=-1;
+// Ten deliberately contrasting synthesized sound families, not acoustic samples.
+const instruments=[
+ ['קסילופון','Xylophone','xylophone'],
+ ['נבל','Harp','harp'],
+ ['חליל','Flute','flute'],
+ ['חצוצרה','Trumpet','trumpet'],
+ ['כינור','Violin','violin'],
+ ['דידג׳רידו','Didgeridoo','didgeridoo'],
+ ['גונג','Gong','gong'],
+ ['תופי טבלה','Tabla Drums','tabla'],
+ ['תיבת נגינה','Music Box','musicbox'],
+ ['אורגן','Organ','organ'],
+ ['שקוהאצ׳י','Shakuhachi','shakuhachi'],
+ ['קלימבה','Kalimba','kalimba']
+];
+const scale=[196,220,246.94,293.66,329.63,392,440,493.88,587.33];
+function unlock(){if(!Audio)return;try{if(!ctx)ctx=new Audio();if(ctx.state==='suspended')ctx.resume().catch(()=>{});}catch(e){console.warn('Audio:',e)}}
+for(const e of ['pointerdown','touchstart','keydown'])document.addEventListener(e,unlock,{capture:true,passive:true});
+function overlay(){let el=document.getElementById('storyInstrumentName');if(el)return el;
+ const photo=document.querySelector('#storyImageDock .dock-photo');if(!photo)return null;
+ if(getComputedStyle(photo).position==='static')photo.style.position='relative';
+ el=document.createElement('div');el.id='storyInstrumentName';el.setAttribute('role','status');photo.appendChild(el);return el;}
+// Vector icons avoid missing-emoji squares on Windows and Android.
+function instrumentSvg(kind){
+ const shapes={
+ xylophone:'<path d="M7 12L55 30M9 24L57 42"/><path d="M12 9l-5 12m15-9-5 16m15-12-5 16m15-12-5 16m15-12-5 16"/><path d="M8 48l48-31"/>',
+ harp:'<path d="M18 52Q6 20 39 8Q57 20 50 52Z"/><path d="M22 18v33m7-37v38m7-41v41m7-39v39"/><path d="M15 53h41"/>',
+ flute:'<path d="M7 40L56 17"/><path d="M10 46L59 23"/><circle cx="23" cy="35" r="2"/><circle cx="33" cy="30" r="2"/><circle cx="43" cy="25" r="2"/><path d="M7 39l-3-6m53-17 3 6"/>',
+ trumpet:'<path d="M7 27h21l17-12v34L28 37H7Z"/><path d="M45 15q10 5 14 0v34q-6-5-14 0"/><path d="M14 37l-4 13h15l-4-13M20 21v-8m8 8v-8m8 8v-8"/>',
+ violin:'<path d="M33 8l-7 14q-17-7-18 9 1 9 10 10-3 15 11 15 13 0 11-15 11-1 11-11-2-16-18-8L26 8"/><path d="M30 16v36M36 16v36M20 31h23M49 8L14 57"/>',
+ didgeridoo:'<path d="M7 43Q30 37 57 15l4 9Q35 46 10 51Z"/><path d="M18 42l5 7m4-11 6 7m4-13 6 7m3-14 6 7"/>',
+ gong:'<circle cx="32" cy="31" r="21"/><circle cx="32" cy="31" r="13"/><circle cx="32" cy="31" r="4"/><path d="M10 55h44M11 8v47M53 8v47M11 8h42"/>',
+ tabla:'<ellipse cx="21" cy="18" rx="13" ry="6"/><path d="M8 18l4 33q9 7 18 0l4-33"/><ellipse cx="21" cy="18" rx="5" ry="2"/><ellipse cx="46" cy="25" rx="12" ry="6"/><path d="M34 25l4 26q8 6 16 0l4-26"/>',
+ musicbox:'<rect x="8" y="24" width="48" height="30" rx="4"/><path d="M8 34h48M24 24v-9l8-7 8 7v9"/><circle cx="32" cy="44" r="6"/><path d="M32 38v12m-6-6h12"/>',
+ organ:'<rect x="7" y="23" width="50" height="32" rx="3"/><path d="M12 31h40M12 39h40M17 31v23m9-23v23m9-23v23m9-23v23"/><path d="M15 23V9h6v14m6 0V5h6v18m6 0V11h6v12"/>',
+ shakuhachi:'<path d="M17 57L43 7l9 5-26 49Z"/><circle cx="31" cy="33" r="2"/><circle cx="36" cy="24" r="2"/><circle cx="41" cy="15" r="2"/>',
+ kalimba:'<path d="M13 24q19-10 38 0l-4 31H17Z"/><path d="M23 9v31m6-35v40m6-40v40m6-36v31"/><path d="M17 27h30"/>'
+ };
+ return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true" style="display:block;margin:0 auto 6px;max-width:100%;color:#ffe68d" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">'+(shapes[kind]||shapes.musicbox)+'</svg>';
+}
+function showName(inst){const el=overlay();if(!el)return;
+ const en=document.body.dataset.language==='en';el.replaceChildren(document.createTextNode(en?inst[1]:inst[0]));
+ const icon=document.createElement('span');icon.className='instrument-icon';icon.setAttribute('aria-hidden','true');icon.innerHTML=instrumentSvg(inst[2]);if(en)el.append(icon);else el.prepend(icon);
+ el.classList.add('instrument-visible');clearTimeout(nameTimer);nameTimer=setTimeout(()=>el.classList.remove('instrument-visible'),3000);
+}
+function tone(f,t,d,shape,attack,release,volume,out,filterHz){
+ const osc=ctx.createOscillator(),gain=ctx.createGain();osc.type=shape;osc.frequency.setValueAtTime(f,t);
+ gain.gain.setValueAtTime(.0001,t);gain.gain.exponentialRampToValueAtTime(volume,t+attack);
+ gain.gain.setValueAtTime(volume,t+Math.max(attack+.01,d-release));gain.gain.exponentialRampToValueAtTime(.0001,t+d);
+ if(filterHz){const lp=ctx.createBiquadFilter();lp.type='lowpass';lp.frequency.value=filterHz;osc.connect(lp);lp.connect(gain)}else osc.connect(gain);
+ gain.connect(out);osc.start(t);osc.stop(t+d+.02);
+}
+function strike(f,t,volume,out,ratios,d){
+ const gain=ctx.createGain();gain.gain.setValueAtTime(volume,t);gain.gain.exponentialRampToValueAtTime(.0001,t+d);gain.connect(out);
+ ratios.forEach(([r,v])=>{const osc=ctx.createOscillator(),g=ctx.createGain();osc.type='sine';osc.frequency.setValueAtTime(f*r,t);g.gain.value=v;osc.connect(g);g.connect(gain);osc.start(t);osc.stop(t+d+.02)});
+}
+function drum(t,out,i){
+ const f=[145,185,110,220,160][i],osc=ctx.createOscillator(),g=ctx.createGain();osc.type='sine';
+ osc.frequency.setValueAtTime(f*2.2,t);osc.frequency.exponentialRampToValueAtTime(f*.7,t+.19);
+ g.gain.setValueAtTime(.48,t);g.gain.exponentialRampToValueAtTime(.0001,t+.27);osc.connect(g);g.connect(out);osc.start(t);osc.stop(t+.3);
+ // A short noise tap adds a distinctly percussive attack.
+ const n=ctx.createBuffer(1,Math.round(ctx.sampleRate*.055),ctx.sampleRate),data=n.getChannelData(0);
+ for(let j=0;j<data.length;j++)data[j]=(Math.random()*2-1)*(1-j/data.length);
+ const src=ctx.createBufferSource(),ng=ctx.createGain();src.buffer=n;ng.gain.value=.11;src.connect(ng);ng.connect(out);src.start(t);
+}
+function note(kind,f,t,out,i){switch(kind){
+ case 'xylophone':strike(f*2,t,.42,out,[[1,1],[3.95,.19]],.38);break;
+ case 'harp':strike(f,t,.27,out,[[1,1],[2,.32],[3,.13]],1.35);break;
+ case 'flute':tone(f,t,.62,'sine',.095,.16,.24,out);break;
+ case 'trumpet':tone(f,t,.51,'sawtooth',.08,.10,.15,out,1350);break;
+ case 'violin':tone(f,t,.85,'sawtooth',.22,.22,.11,out,2500);break;
+ case 'didgeridoo':tone(f*.24,t,.86,'sawtooth',.06,.15,.22,out,450);tone(f*.48,t,.86,'sine',.06,.15,.11,out);break;
+ case 'gong':strike(f*.7,t,.20,out,[[1,1],[1.37,.58],[2.18,.37],[2.93,.20]],2.2);break;
+ case 'tabla':drum(t,out,i);break;
+ case 'musicbox':strike(f*2,t,.23,out,[[1,1],[2.5,.30],[4.05,.12]],1.8);break;
+ case 'organ':tone(f,t,.69,'square',.015,.07,.105,out,1100);tone(f*2,t,.69,'sine',.015,.07,.08,out);break;
+ case 'shakuhachi':tone(f*.75,t,.85,'sine',.17,.25,.24,out);break;
+ case 'kalimba':strike(f*1.5,t,.30,out,[[1,1],[2.7,.23],[5.4,.08]],.75);break;
+}}
+function play(){const now=performance.now();if(now-lastPlayed<450)return;lastPlayed=now;
+ let idx=Math.floor(Math.random()*instruments.length);if(idx===previous)idx=(idx+1+Math.floor(Math.random()*(instruments.length-1)))%instruments.length;previous=idx;
+ const inst=instruments[idx];showName(inst);unlock();if(!ctx)return;
+ const render=()=>{if(ctx.state!=='running')return;
+  try{const master=ctx.createGain();master.gain.value=.65;master.connect(ctx.destination);
+   const start=ctx.currentTime+.035;
+   for(let i=0;i<5;i++){const f=scale[Math.floor(Math.random()*scale.length)];note(inst[2],f,start+i*.40,master,i)}
+   setTimeout(()=>{try{master.disconnect()}catch(e){}},4500);
+  }catch(e){console.warn('Instrument:',e)}
+ };
+ if(ctx.state==='running')render();else ctx.resume().then(render).catch(()=>{});
+}
+function attach(){const nav=document.getElementById('storyArrows');if(!nav)return;
+ nav.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{if(!b.disabled)play();}));}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',attach,{once:true});else attach();
+})();</script>
+<script id="trivia-label-final">(()=>{const update=()=>{const b=document.getElementById('openIntegratedGame');if(b)b.textContent=document.body.dataset.language==='en'?'🎮 Trivia':'🎮 טרוויה';};update();new MutationObserver(update).observe(document.body,{attributes:true,attributeFilter:['data-language']});})();</script><style id="desktop-bottom-controls-inside-1200-20261107">
+/* Keep the floating story navigation inside the centered 1200px app. */
+@media (min-width: 701px) and (pointer: fine) {
+  html body #storyArrows {
+    left: 50% !important;
+    right: auto !important;
+    width: min(1200px, 100vw) !important;
+    max-width: 1200px !important;
+    transform: translateX(-50%) !important;
+    box-sizing: border-box !important;
+    padding-inline: 10px !important;
+  }
+}
+</style></body></html>
