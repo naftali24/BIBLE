@@ -1409,8 +1409,8 @@ function showSevenSecondScrollHint(){
  const card=document.getElementById('item-'+selected)||document.querySelector('#content .card');
  const hint=card?.querySelector('.scroll-next-hint');
  if(!hint)return;
- hint.textContent=uiLanguage==='en'?'Scroll on the image':'גלול על התמונה';
- hint.classList.remove('hidden-hint');
+ hint.textContent='';
+ hint.classList.add('hidden-hint');
  scrollHintTimeout=setTimeout(()=>{hint.classList.add('hidden-hint')},7000);
 }
 function render(){
@@ -1435,7 +1435,7 @@ function render(){
   card.append(text('div','idea-heading',shortIdea(item,false)),q,text('div','explain',item.explain));
   const picWrap=text('div','quote-picture-wrap','');
   // No scrolling caption overlay.
-  const pic=document.createElement('img');pic.className='quote-image';pic.alt='תמונה לציטוט '+(i+1);pic.loading='eager';pic.dataset.quoteIndex=i;pic.src=generatedPicture(item,i);picWrap.append(pic);
+  const pic=document.createElement('img');pic.className='quote-image';pic.alt='תמונה לציטוט '+(i+1);pic.loading=(i===selected?'eager':'lazy');pic.decoding='async';pic.dataset.quoteIndex=i;pic.src=generatedPicture(item,i);picWrap.append(pic);
   const hb=text('button','quote-audio-overlay he','🔊');hb.type='button';hb.setAttribute('aria-label','השמע בעברית');hb.onclick=()=>play(i,'he');heMeta.append(hb);
   const eb=text('button','quote-audio-overlay en','🔊');eb.type='button';eb.setAttribute('aria-label','Listen in English');eb.onclick=()=>play(i,'en');
   card.append(picWrap);
@@ -1791,8 +1791,9 @@ async function deepReset(event){
  stop();
  $('ideasMenu').hidden=true;
  $('bookMenu').classList.remove('open');
- status.style.display='block';
- status.textContent='מרענן נתונים ותמונות בלי לצאת מהאפליקציה…';
+ window.philosophyShowLoading?.();
+ status.style.display='none';
+ status.textContent='';
  try{
    // Never reload the document: on Android this can close the standalone app.
    // Reset in-memory chapter and image lookup caches only.
@@ -1821,7 +1822,7 @@ async function deepReset(event){
    if(loaders[book]) await loaders[book]();
    else await Promise.all([...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))].map(n=>loadChapter(n,book)));
    render();
-   await refreshAllImages();
+   void refreshAllImages();
    const indices=ITEMS.map((x,i)=>x.book===book?i:-1).filter(i=>i>=0);
    const index=indices[Math.min(position,indices.length-1)];
    if(index!==undefined){
@@ -1830,17 +1831,20 @@ async function deepReset(event){
      // No forced window scrolling after reset.
    }
    window.philosophyReturnToPageTop?.();
-   status.textContent='הנתונים רועננו';
+   window.philosophyFitScreen?.();
+   status.textContent='';
  }catch(e){
    status.textContent='שגיאה ברענון: '+(e?.message||e);
  }finally{
    btn.disabled=false;
-   setTimeout(()=>{if(status.textContent==='הנתונים רועננו')status.style.display='none';},1800);
+   window.philosophyFitScreen?.();
+   window.philosophyHideLoading?.();
+   status.style.display='none';
  }
 }
 $('deepReset').onclick=deepReset;
 $('books').onclick=(event)=>{event.stopPropagation();$('ideasMenu').hidden=true;$('bookMenu').classList.toggle('open');};
-async function switchBook(book){stop();if(['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','חבקוק','צפניה','חגי','זכריה','מלאכי','נחום','תהילים','שיר השירים'].includes(book)){activeBook=book;$('bookMenu').classList.remove('open');$('content').textContent='טוען רעיונות פילוסופיים מתוך פירושי '+book+' ב-GitHub…';try{await (book==='בראשית'?loadGenesisPhilosophy():book==='שמות'?loadExodusPhilosophy():book==='ויקרא'?loadLeviticusPhilosophy():book==='במדבר'?loadNumbersPhilosophy():book==='דברים'?loadDeuteronomyPhilosophy():book==='יהושע'?loadJoshuaPhilosophy():book==='שופטים'?loadJudgesPhilosophy():book==='שמואל א'?loadFirstSamuelPhilosophy():book==='שמואל ב'?loadSecondSamuelPhilosophy():book==='מלכים א'?loadFirstKingsPhilosophy():book==='מלכים ב'?loadSecondKingsPhilosophy():book==='ישעיהו'?loadIsaiahPhilosophy():book==='יחזקאל'?loadEzekielPhilosophy():book==='הושע'?loadHoseaPhilosophy():book==='יואל'?loadJoelPhilosophy():book==='עמוס'?loadAmosPhilosophy():book==='עובדיה'?loadObadiahPhilosophy():book==='יונה'?loadJonahPhilosophy():book==='איכה'?loadLamentationsPhilosophy():book==='עזרא'?loadEzraPhilosophy():book==='דניאל'?loadDanielPhilosophy():book==='נחמיה'?loadNehemiahPhilosophy():book==='רות'?loadRuthPhilosophy():book==='משלי'?loadProverbsPhilosophy():book==='דברי הימים א'?loadChron1Philosophy():book==='דברי הימים ב'?loadChron2Philosophy():book==='חבקוק'?loadHabakkukPhilosophy():book==='צפניה'?loadZephaniahPhilosophy():book==='חגי'?loadHaggaiPhilosophy():book==='זכריה'?loadZechariahPhilosophy():book==='מלאכי'?loadMalachiPhilosophy():book==='נחום'?loadNahumPhilosophy():book==='איוב'?loadJobPhilosophy():book==='ירמיהו'?loadJeremiahPhilosophy():book==='תהילים'?loadPsalmsPhilosophy():loadSongPhilosophy());
+async function switchBook(book){stop();if(['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','חבקוק','צפניה','חגי','זכריה','מלאכי','נחום','תהילים','שיר השירים'].includes(book)){activeBook=book;$('bookMenu').classList.remove('open');$('content').replaceChildren();try{await (book==='בראשית'?loadGenesisPhilosophy():book==='שמות'?loadExodusPhilosophy():book==='ויקרא'?loadLeviticusPhilosophy():book==='במדבר'?loadNumbersPhilosophy():book==='דברים'?loadDeuteronomyPhilosophy():book==='יהושע'?loadJoshuaPhilosophy():book==='שופטים'?loadJudgesPhilosophy():book==='שמואל א'?loadFirstSamuelPhilosophy():book==='שמואל ב'?loadSecondSamuelPhilosophy():book==='מלכים א'?loadFirstKingsPhilosophy():book==='מלכים ב'?loadSecondKingsPhilosophy():book==='ישעיהו'?loadIsaiahPhilosophy():book==='יחזקאל'?loadEzekielPhilosophy():book==='הושע'?loadHoseaPhilosophy():book==='יואל'?loadJoelPhilosophy():book==='עמוס'?loadAmosPhilosophy():book==='עובדיה'?loadObadiahPhilosophy():book==='יונה'?loadJonahPhilosophy():book==='איכה'?loadLamentationsPhilosophy():book==='עזרא'?loadEzraPhilosophy():book==='דניאל'?loadDanielPhilosophy():book==='נחמיה'?loadNehemiahPhilosophy():book==='רות'?loadRuthPhilosophy():book==='משלי'?loadProverbsPhilosophy():book==='דברי הימים א'?loadChron1Philosophy():book==='דברי הימים ב'?loadChron2Philosophy():book==='חבקוק'?loadHabakkukPhilosophy():book==='צפניה'?loadZephaniahPhilosophy():book==='חגי'?loadHaggaiPhilosophy():book==='זכריה'?loadZechariahPhilosophy():book==='מלאכי'?loadMalachiPhilosophy():book==='נחום'?loadNahumPhilosophy():book==='איוב'?loadJobPhilosophy():book==='ירמיהו'?loadJeremiahPhilosophy():book==='תהילים'?loadPsalmsPhilosophy():loadSongPhilosophy());
     const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];
     for(let j=0;j<nums.length;j+=5)await Promise.all(nums.slice(j,j+5).map(n=>loadChapter(n,book)));
     }catch(e){$('content').textContent='שגיאה בטעינת הפירושים: '+e.message;return}}if(book==='מיכה'||book==='קהלת'){const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];await Promise.all(nums.map(n=>loadChapter(n,book)));}activeBook=book;selected=ITEMS.findIndex(x=>x.book===book);$('bookMenu').classList.remove('open');$('ideasMenu').hidden=true;$('heading').textContent=uiLanguage==='he'?'רעיונות פילוסופיים — '+book:'Philosophical Ideas — '+({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[book]);refreshIdeaOptions();render();document.getElementById('content').scrollTo(0,0);if(!['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','תהילים','שיר השירים'].includes(book))Promise.all([...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))].map(n=>loadChapter(n,book))).then(()=>render());}
@@ -1879,7 +1883,7 @@ function showAwaitingBook(book){
 $('onlyBook').onclick=()=>switchBook('קהלת');$('micahBook').onclick=()=>switchBook('מיכה');$('estherBook').onclick=()=>switchBook('אסתר');$('genesisBook').onclick=()=>switchBook('בראשית');$('exodusBook').onclick=()=>switchBook('שמות');$('leviticusBook').onclick=()=>switchBook('ויקרא');$('deuteronomyBook').onclick=()=>switchBook('דברים');$('numbersBook').onclick=()=>switchBook('במדבר');$('judgesBook').onclick=()=>switchBook('שופטים');$('joshuaBook').onclick=()=>switchBook('יהושע');$('kings1Book').onclick=()=>switchBook('מלכים א');$('kings2Book').onclick=()=>switchBook('מלכים ב');$('samuel2Book').onclick=()=>switchBook('שמואל ב');$('samuel1Book').onclick=()=>switchBook('שמואל א');$('songBook').onclick=()=>switchBook('שיר השירים');$('psalmsBook').onclick=()=>switchBook('תהילים');$('isaiahBook').onclick=()=>switchBook('ישעיהו');$('ezekielBook').onclick=()=>switchBook('יחזקאל');$('hoseaBook').onclick=()=>switchBook('הושע');$('joelBook').onclick=()=>switchBook('יואל');$('amosBook').onclick=()=>switchBook('עמוס');$('obadiahBook').onclick=()=>switchBook('עובדיה');$('jonahBook').onclick=()=>switchBook('יונה');$('lamentationsBook').onclick=()=>switchBook('איכה');$('ezraBook').onclick=()=>switchBook('עזרא');$('danielBook').onclick=()=>switchBook('דניאל');$('nehemiahBook').onclick=()=>switchBook('נחמיה');$('ruthBook').onclick=()=>switchBook('רות');$('proverbsBook').onclick=()=>switchBook('משלי');$('chron1Book').onclick=()=>switchBook('דברי הימים א');$('chron2Book').onclick=()=>switchBook('דברי הימים ב');$('habakkukBook').onclick=()=>switchBook('חבקוק');$('zephaniahBook').onclick=()=>switchBook('צפניה');$('haggaiBook').onclick=()=>switchBook('חגי');$('zechariahBook').onclick=()=>switchBook('זכריה');$('malachiBook').onclick=()=>switchBook('מלאכי');$('jeremiahBook').onclick=()=>switchBook('ירמיהו');$('lang').style.display='';$('lang').onclick=toggleInterfaceLanguage;$('stop').onclick=stop;$('speed').onchange=()=>$('player').playbackRate=Number($('speed').value);$('picture').onerror=()=>{const i=selected; $('picture').onerror=null;$('picture').src=generatedPicture(ITEMS[i],i);$('hint').textContent='איור חלופי ייחודי לציטוט '+(i+1)};
 (async()=>{
   $('heading').textContent='רעיונות פילוסופיים — בראשית';
-  $('content').textContent='טוען את הרעיונות הפילוסופיים של בראשית…';
+  $('content').replaceChildren();
   let restore=null;
   try{if(location.hash.startsWith('#deep-return='))restore=JSON.parse(decodeURIComponent(location.hash.slice(13)));}catch(e){}
   await switchBook(restore?.book||'בראשית');
@@ -2028,6 +2032,21 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')overlay.hidden=true}
  window.addEventListener('orientationchange',sync,{passive:true});
  document.addEventListener('DOMContentLoaded',sync);
  requestAnimationFrame(sync);
+})();
+</script>
+
+<script id="restart-responsive-fit-only">
+(function(){
+ window.philosophyFitScreen=()=>{
+   const height=Math.round(window.visualViewport?.height||window.innerHeight);
+   document.documentElement.style.setProperty('--philosophy-screen-height',height+'px');
+   const header=document.querySelector('header');
+   document.documentElement.style.setProperty('--fixed-header-height',Math.ceil(header?.getBoundingClientRect().height||0)+'px');
+   if(typeof scheduleFitCards==='function')scheduleFitCards();
+ };
+ window.philosophyShowLoading=()=>{};
+ window.philosophyHideLoading=()=>{};
+ requestAnimationFrame(window.philosophyFitScreen);
 })();
 </script>
 </body></html>
