@@ -696,7 +696,7 @@ main#main{flex:1 1 auto!important;min-height:0!important;overflow-y:auto!importa
 <script>
 // Browser and Android car head units sometimes report a changing visual viewport.
 (function(){
- const setHeight=()=>document.documentElement.style.setProperty('--app-h',(window.visualViewport?.height||window.innerHeight)+'px');
+ const setHeight=()=>{const h=(window.visualViewport?.height||window.innerHeight)+'px';document.documentElement.style.setProperty('--app-h',h);document.documentElement.style.setProperty('--screen-height',h);}
  setHeight();window.addEventListener('resize',setHeight,{passive:true});
  window.visualViewport?.addEventListener('resize',setHeight,{passive:true});
 })();
@@ -1268,6 +1268,38 @@ header #topControls > #wordTranslation{position:absolute!important;pointer-event
 header #topControls > #returnVerseBtn,
 header #topControls > #returnVerseBtn.hidden { display:none!important; flex:none!important; }
 </style>
+
+<style id="android-no-forced-fullscreen-fit-20261107">
+/* Fit available Android viewport without requesting the Fullscreen API. */
+html,body{height:var(--screen-height,100dvh)!important;max-height:var(--screen-height,100dvh)!important;}
+body.introMode #imageSection{flex:1 1 0!important;min-height:0!important;height:auto!important;max-height:none!important;}
+body.introMode #imageSection>#imageBox{flex:1 1 0!important;min-height:0!important;height:auto!important;}
+body.introMode #imageSection #img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center!important;}
+</style>
+<style id="gold-language-button-in-arrow-row">
+/* Center the existing Hebrew/English overlay toggle between the navigation arrows. */
+#verseArrowRow{position:relative!important}
+#verseArrowRow > #hebrewOnImage,
+#verseArrowRow > #englishOnImage{
+  position:absolute!important;top:50%!important;left:50%!important;
+  right:auto!important;bottom:auto!important;
+  transform:translate(-50%,-50%)!important;
+  z-index:45!important;
+  width:auto!important;min-width:90px!important;height:40px!important;
+  padding:4px 12px!important;
+  background:linear-gradient(#ffe788,#d99a16)!important;
+  border:2px solid #fff0a0!important;border-radius:10px!important;
+  color:#241300!important;font-size:17px!important;font-weight:900!important;
+  opacity:1!important;cursor:pointer!important;
+}
+</style>
+<style id="language-overlay-hint-visibility-20261107">
+/* The language toggle is semi-transparent except while the image-scroll hint is visible. */
+#verseArrowRow > #hebrewOnImage,
+#verseArrowRow > #englishOnImage{opacity:.5!important;}
+#verseArrowRow:has(#imageScrollHint.visible) > #hebrewOnImage,
+#verseArrowRow:has(#imageScrollHint.visible) > #englishOnImage{visibility:hidden!important;pointer-events:none!important;}
+</style>
 <style id="grade-menu-css">
 #topControls #gradeMenuBtn{width:48px!important;min-width:48px!important;max-width:48px!important;flex:0 0 48px!important;font-size:14px!important;background:linear-gradient(#fff1a6,#d99a16)!important}
 #gradePanel[hidden]{display:none!important}#gradePanel{position:fixed;z-index:100000;inset:8px;margin:auto;width:min(560px,calc(100vw - 16px));height:fit-content;max-height:calc(100dvh - 16px);overflow-y:auto;background:#120b04;border:3px solid #d99a16;border-radius:16px;padding:12px;color:#ffe7a0;box-shadow:0 12px 35px #000d;text-align:center;direction:rtl}
@@ -1318,16 +1350,17 @@ header #topControls > #returnVerseBtn.hidden { display:none!important; flex:none
 <main id="main"><div id="empty" style="padding:12px 0 0">
     <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
   </div><div id="cards"></div></main>
-<div id="verseArrowRow" aria-label="דפדוף פסוקים"></div>
+<div id="verseArrowRow" aria-label="דפדוף פסוקים">
+  <button id="hebrewOnImage" type="button" onclick="toggleHebrewOverlay()">Hebrew</button>
+  <button id="englishOnImage" type="button" onclick="toggleEnglishOverlay()">English</button>
+</div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
   <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
-    <div id="imageLoading">Loading...</div>
+    <div id="imageLoading" aria-hidden="true"></div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
-    <button id="hebrewOnImage" onclick="toggleHebrewOverlay()">Hebrew</button>
     <div id="hebrewLine"></div>
-    <button id="englishOnImage" type="button" onclick="toggleEnglishOverlay()">English</button>
     <div id="englishLine"></div>
     <button id="didYouKnowBtn" type="button" aria-label="הידעת?">💡 הידעת?</button>
     <div id="didYouKnowBox" role="dialog" aria-live="polite" aria-label="הידעת?">
@@ -2699,17 +2732,7 @@ function speakTTSLine(i){
 function stopTTS(){
   if('speechSynthesis' in window)speechSynthesis.cancel();ttsMode=false;ttsBtn?.classList.remove('on');if(ttsBtn)ttsBtn.textContent='TTS';if(audio)audio.muted=userAudioMuted;
 }
-function enterFullscreenFromBooks(){
-  // Run synchronously in the book button's user gesture on Android Chrome.
-  if(document.fullscreenElement || document.webkitFullscreenElement) return;
-  try{
-    const root=document.documentElement;
-    if(root.requestFullscreen){
-      const result=root.requestFullscreen({navigationUI:'hide'});
-      if(result && typeof result.catch==='function') result.catch(()=>{});
-    }else if(root.webkitRequestFullscreen){root.webkitRequestFullscreen();}
-  }catch(e){}
-}
+function enterFullscreenFromBooks(){ /* No forced fullscreen: Android overlay avoided. */ }
 function toggleChapterMenu(){chapterMenuBtn.classList.remove('menuAttention');chapterMenu.classList.remove('initialTransparent');if(chapterMenu.classList.contains('open'))chapterMenu.classList.remove('open');else renderBookMenu()}
 document.addEventListener('click',e=>{
   const wrap=document.getElementById('chapterMenuWrap');
@@ -3158,35 +3181,6 @@ setTimeout(()=>{
     loadChapter(saved.chapter,book,Number.isInteger(saved.verse)?saved.verse:0);
   }catch(e){}
 },0);
-</script><script>
-// Full screen: activated by the first tap/click (required by Android/Chrome).
-(function(){
-  let entered=false;
-  async function goFullScreen(){
-    if(entered || document.fullscreenElement) return;
-    try{
-      const el=document.documentElement;
-      if(el.requestFullscreen){
-        try{ await el.requestFullscreen({navigationUI:'hide'}); }
-        catch(e){ await el.requestFullscreen(); }
-        entered=true;
-      }else if(el.webkitRequestFullscreen){
-        el.webkitRequestFullscreen();
-        entered=true;
-      }
-    }catch(e){}
-  }
-  // Avoid forcing fullscreen inside Chrome / WhatsApp's Android browser.
-  // The installed PWA keeps its existing fullscreen behavior.
-  const installedMode=window.matchMedia('(display-mode: standalone)').matches || window.matchMedia('(display-mode: fullscreen)').matches;
-  if(installedMode){
-    document.addEventListener('pointerdown',goFullScreen,{once:true,capture:true});
-    document.addEventListener('touchstart',goFullScreen,{once:true,capture:true,passive:true});
-    document.addEventListener('click',goFullScreen,{once:true,capture:true});
-  }
-  window.addEventListener('orientationchange',()=>{entered=!!document.fullscreenElement;});
-  document.addEventListener('fullscreenchange',()=>{entered=!!document.fullscreenElement;});
-})();
 </script>
 <script>
 /* Playback fix: removed legacy LRC auto-seek on loadedmetadata/play.
@@ -3214,7 +3208,7 @@ function buildPrompt(){const b=loadedBook||currentBook;const v=currentVerse();co
 function close(){guide.style.display='none';}
 function launch(){try{navigator.clipboard?.writeText(prompt).catch(()=>{});}catch(e){}const url='https://chatgpt.com/?q='+encodeURIComponent(prompt);const win=window.open(url,'_blank');if(win){close();}else{message.textContent=en()?'Popup blocked. Allow popups and try again.':'הדפדפן חסם חלון חדש. אפשר חלונות קופצים ונסה שוב.';}}
 cancel.addEventListener('click',close);open.addEventListener('click',launch);
-btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load a chapter first.':'יש לטעון פרק תחילה.');return;}prompt=buildPrompt();message.textContent=en()?'GPT will open a question about the current verse. To return to this app, use the Recent Apps button (usually a square) at the bottom.':'ב־GPT תיפתח שאלה על הפסוק הנוכחי. לחזרה לאפליקציה הזאת השתמש בכפתור (בדרך כלל ריבוע) האפליקציות הפתוחות של הפלאפון למטה.';open.textContent=en()?'Open GPT':'פתח GPT';cancel.textContent=en()?'Cancel':'ביטול';guide.style.display='flex';});
+btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load a chapter first.':'יש לטעון פרק תחילה.');return;}prompt=buildPrompt();message.textContent=en()?'GPT will open a question about the current verse. To return to this app, use the Recent Apps button (usually a square) at the bottom, or use the Back button (to the previous page).':'ב־GPT תיפתח שאלה על הפסוק הנוכחי. לחזרה לאפליקציה הזאת השתמש בכפתור (בדרך כלל ריבוע) האפליקציות הפתוחות של הפלאפון למטה, או בכפתור אחורה (לדף הקודם).';open.textContent=en()?'Open GPT':'פתח GPT';cancel.textContent=en()?'Cancel':'ביטול';guide.style.display='flex';});
 })();</script>
 <div id="ideasMenu" hidden role="dialog" aria-label="רעיונות הספר"></div>
 <script id="single-verse-navigation">
@@ -3732,7 +3726,6 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   inset:auto!important;
 }
 </style>
-
 <div id="gradePanel" hidden role="dialog" aria-modal="true" aria-label="תנ״ך לפי כיתות"></div>
 <script id="grade-menu-script">
 (function(){
