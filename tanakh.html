@@ -1276,6 +1276,30 @@ body.introMode #imageSection{flex:1 1 0!important;min-height:0!important;height:
 body.introMode #imageSection>#imageBox{flex:1 1 0!important;min-height:0!important;height:auto!important;}
 body.introMode #imageSection #img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center!important;}
 </style>
+<style id="gold-language-button-in-arrow-row">
+/* Center the existing Hebrew/English overlay toggle between the navigation arrows. */
+#verseArrowRow{position:relative!important}
+#verseArrowRow > #hebrewOnImage,
+#verseArrowRow > #englishOnImage{
+  position:absolute!important;top:50%!important;left:50%!important;
+  right:auto!important;bottom:auto!important;
+  transform:translate(-50%,-50%)!important;
+  z-index:45!important;
+  width:auto!important;min-width:90px!important;height:40px!important;
+  padding:4px 12px!important;
+  background:linear-gradient(#ffe788,#d99a16)!important;
+  border:2px solid #fff0a0!important;border-radius:10px!important;
+  color:#241300!important;font-size:17px!important;font-weight:900!important;
+  opacity:1!important;cursor:pointer!important;
+}
+</style>
+<style id="language-overlay-hint-visibility-20261107">
+/* The language toggle is semi-transparent except while the image-scroll hint is visible. */
+#verseArrowRow > #hebrewOnImage,
+#verseArrowRow > #englishOnImage{opacity:.5!important;}
+#verseArrowRow:has(#imageScrollHint.visible) > #hebrewOnImage,
+#verseArrowRow:has(#imageScrollHint.visible) > #englishOnImage{visibility:hidden!important;pointer-events:none!important;}
+</style>
 </head>
 <body class="introMode">
 <header>
@@ -1315,16 +1339,17 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 <main id="main"><div id="empty" style="padding:12px 0 0">
     <div style="color:#ffe58a;font-weight:800;margin:8px 0 10px">בחר ספר ופרק מהתפריט</div>
   </div><div id="cards"></div></main>
-<div id="verseArrowRow" aria-label="דפדוף פסוקים"></div>
+<div id="verseArrowRow" aria-label="דפדוף פסוקים">
+  <button id="hebrewOnImage" type="button" onclick="toggleHebrewOverlay()">Hebrew</button>
+  <button id="englishOnImage" type="button" onclick="toggleEnglishOverlay()">English</button>
+</div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
   <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
     <div id="imageLoading" aria-hidden="true"></div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
-    <button id="hebrewOnImage" onclick="toggleHebrewOverlay()">Hebrew</button>
     <div id="hebrewLine"></div>
-    <button id="englishOnImage" type="button" onclick="toggleEnglishOverlay()">English</button>
     <div id="englishLine"></div>
     <button id="didYouKnowBtn" type="button" aria-label="הידעת?">💡 הידעת?</button>
     <div id="didYouKnowBox" role="dialog" aria-live="polite" aria-label="הידעת?">
