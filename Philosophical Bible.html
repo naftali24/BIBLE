@@ -301,6 +301,15 @@ header .tools #sevenAppsBtn .apps-words small{font-size:calc(var(--owl-button-he
 .quote-picture-wrap .scroll-next-hint{position:absolute;z-index:8;top:7px;left:7px;right:7px;text-align:center;direction:rtl;color:#ffe08a;font-size:clamp(23px,4.8vw,35px);font-weight:800;line-height:1.22;text-shadow:0 2px 5px #000,0 0 9px #000;background:transparent;pointer-events:none;white-space:normal;opacity:1;transition:opacity .35s ease}
 body.mode-en .quote-picture-wrap .scroll-next-hint{direction:ltr;font-size:clamp(22px,4.3vw,32px)}
 .quote-picture-wrap .scroll-next-hint.hidden-hint{opacity:0;visibility:hidden}
+</style><style id="philosophical-idea-light-blue">#content .idea-heading,#content .idea-heading.en{color:#9edcff!important;text-decoration-color:#9edcff!important}</style><style id="audio-icon-counter-plus3-20261107">
+/* Slightly larger audio icon, preserving its button dimensions. */
+.card .meta .quote-audio-overlay{font-size:25px!important}
+/* Chapter and verse counter: +3px in Hebrew and English. */
+body.mode-he #content .card > .hebrew-meta,
+body.mode-en #content .card > .english-meta-top{font-size:clamp(20px,calc(2.6vw + 7px),23px)!important}
+</style><style id="all-ideas-fill-viewport-20261107">
+#content > .card{min-height:calc(100dvh - var(--fixed-header-height,112px) - 8px)!important;height:auto!important;box-sizing:border-box!important}
+#content > .card.fitted-idea{min-height:calc(100dvh - var(--fixed-header-height,112px) - 8px)!important;height:auto!important}
 </style></head><body class="mode-he"><header><h1 id="heading">קהלת — רעיונות פילוסופיים</h1><div class="tools"><button id="philosophyGPT" type="button" title="שאלה ל-GPT">GPT</button><button id="sevenAppsBtn" type="button" title="7 אפליקציות" aria-label="7 אפליקציות"><span class="apps-scroll">▤</span><span class="apps-words"><b>7</b><small>apps</small></span></button><button id="books" aria-label="ספרים" title="ספרים">🦉</button><div id="bookMenu"><button id="genesisBook" class="bookTorah">בראשית</button><button id="exodusBook" class="bookTorah">שמות</button><button id="leviticusBook" class="bookTorah">ויקרא</button><button id="numbersBook" class="bookTorah">במדבר</button><button id="deuteronomyBook" class="bookTorah">דברים</button><button id="joshuaBook" class="bookNeviim">יהושע</button><button id="judgesBook" class="bookNeviim">שופטים</button><button id="samuel1Book" class="bookNeviim">שמואל א</button><button id="samuel2Book" class="bookNeviim">שמואל ב</button><button id="kings1Book" class="bookNeviim">מלכים א</button><button id="kings2Book" class="bookNeviim">מלכים ב</button><button id="isaiahBook" class="bookNeviim">ישעיהו</button><button id="jeremiahBook" class="bookNeviim">ירמיהו</button><button id="ezekielBook" class="bookNeviim">יחזקאל</button><button id="hoseaBook" class="bookNeviim">הושע</button><button id="joelBook" class="bookNeviim">יואל</button><button id="amosBook" class="bookNeviim">עמוס</button><button id="obadiahBook" class="bookNeviim">עובדיה</button><button id="jonahBook" class="bookNeviim">יונה</button><button id="micahBook" class="bookNeviim">מיכה</button><button id="nahumBook" class="bookNeviim">נחום</button><button id="habakkukBook" class="bookNeviim">חבקוק</button><button id="zephaniahBook" class="bookNeviim">צפניה</button><button id="haggaiBook" class="bookNeviim">חגי</button><button id="zechariahBook" class="bookNeviim">זכריה</button><button id="malachiBook" class="bookNeviim">מלאכי</button><button id="chron1Book" class="bookKetuvim">דברי הימים א</button><button id="chron2Book" class="bookKetuvim">דברי הימים ב</button><button id="psalmsBook" class="bookKetuvim">תהילים</button><button id="jobBook" class="bookKetuvim">איוב</button><button id="proverbsBook" class="bookKetuvim">משלי</button><button id="ruthBook" class="bookKetuvim">רות</button><button id="songBook" class="bookKetuvim">שיר השירים</button><button id="onlyBook" class="bookKetuvim">קהלת</button><button id="lamentationsBook" class="bookKetuvim">איכה</button><button id="estherBook" class="bookKetuvim">אסתר</button><button id="danielBook" class="bookKetuvim">דניאל</button><button id="ezraBook" class="bookKetuvim">עזרא</button><button id="nehemiahBook" class="bookKetuvim">נחמיה</button></div><button id="lang" aria-label="החלף שפה" title="החלף שפה">🇬🇧</button><button id="topicFilter" type="button" aria-label="הצג רעיונות">רעיונות ▾</button><div id="ideasMenu" class="ideas-menu" hidden></div><button id="deepReset" type="button" title="ריסט עמוק">⟳</button><button id="stop" hidden>■ עצור</button><select id="speed" hidden><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div><div id="status" aria-live="polite" style="display:none"></div></header><main id="content"></main><section class="photo"><img id="picture" alt="תמונת הרעיון"><div id="hint" class="hint">תמונה תואמת לפסוק ממאגר GitHub</div></section><audio id="player" preload="none"></audio><div id="philosophyGPTGuide" role="dialog" aria-modal="true"><div id="philosophyGPTBox"><div id="philosophyGPTMessage"></div><button id="philosophyGPTContinue" type="button">פתח GPT</button><button id="philosophyGPTCancel" type="button">ביטול</button></div></div><script>
 const ITEMS = [
   // קהלת — אפשר למחוק שורה שלמה של ציטוט
@@ -1387,7 +1396,7 @@ function showSevenSecondScrollHint(){
  const card=document.getElementById('item-'+selected)||document.querySelector('#content .card');
  const hint=card?.querySelector('.scroll-next-hint');
  if(!hint)return;
- hint.textContent=uiLanguage==='en'?'Next story = scroll down the page':'לסיפור הבא = לגלול את הדף למטה';
+ hint.textContent=uiLanguage==='en'?'Scroll on the image':'גלול על התמונה';
  hint.classList.remove('hidden-hint');
  scrollHintTimeout=setTimeout(()=>{hint.classList.add('hidden-hint')},7000);
 }
@@ -1412,7 +1421,7 @@ function render(){
   wrapCanonicalWords(q);
   card.append(text('div','idea-heading',shortIdea(item,false)),q,text('div','explain',item.explain));
   const picWrap=text('div','quote-picture-wrap','');
-  const hint=text('div','scroll-next-hint','');hint.setAttribute('aria-live','off');picWrap.append(hint);
+  // No scrolling caption overlay.
   const pic=document.createElement('img');pic.className='quote-image';pic.alt='תמונה לציטוט '+(i+1);pic.loading='eager';pic.dataset.quoteIndex=i;pic.src=generatedPicture(item,i);picWrap.append(pic);
   const hb=text('button','quote-audio-overlay he','🔊');hb.type='button';hb.setAttribute('aria-label','השמע בעברית');hb.onclick=()=>play(i,'he');heMeta.append(hb);
   const eb=text('button','quote-audio-overlay en','🔊');eb.type='button';eb.setAttribute('aria-label','Listen in English');eb.onclick=()=>play(i,'en');
@@ -1431,11 +1440,19 @@ function scheduleFitCards(){
  requestAnimationFrame(()=>{fitQueued=false;fitCards()});
 }
 function fitCards(){
- // Images keep their natural aspect ratio: no artificial height or black letterboxing.
- document.querySelectorAll('.card').forEach(card=>{
-  card.style.zoom='1';card.style.minHeight='0';card.style.width='100%';card.style.maxWidth='100%';
-  const img=card.querySelector('.quote-image');
-  if(img){img.style.height='auto';img.style.maxHeight='none';img.style.objectFit='cover'}
+ // Every idea, in either language, fills the available viewport height.
+ // Longer ideas expand naturally rather than clipping text or pictures.
+ const viewport=window.visualViewport?.height||window.innerHeight;
+ const headerHeight=document.querySelector('header')?.getBoundingClientRect().height||0;
+ const available=Math.max(180,Math.ceil(document.getElementById('content')?.clientHeight||viewport-headerHeight));
+ document.querySelectorAll('#content > .card').forEach(card=>{
+   card.style.setProperty('zoom','1','important');
+   card.style.setProperty('width','100%','important');
+   card.style.setProperty('max-width','100%','important');
+   card.style.setProperty('min-height',available+'px','important');
+   card.style.setProperty('height','auto','important');
+   const img=card.querySelector('.quote-image');
+   if(img){img.style.height='auto';img.style.objectFit='contain'}
  });
 }
 window.addEventListener('resize',scheduleFitCards);
@@ -1618,34 +1635,20 @@ let carouselBusy=false;
 let touchStartY=null;
 function headerBottom(){return document.querySelector('header')?.getBoundingClientRect().bottom||0}
 function fitVisibleIdea(i){
- const card=document.getElementById('item-'+i);if(!card)return;
- const available=Math.max(180,(window.visualViewport?.height||window.innerHeight)-headerBottom()-5);
- document.querySelectorAll('#content .card.fitted-idea').forEach(el=>{
-  el.classList.remove('fitted-idea');['--fit-text','--fit-picture','min-height','height','zoom','width'].forEach(k=>el.style.removeProperty(k));
- });
- card.classList.add('fitted-idea');
- card.style.setProperty('width','100%','important');card.style.setProperty('zoom','1','important');
- card.style.setProperty('height',available+'px','important');card.style.setProperty('min-height',available+'px','important');
- card.style.setProperty('--fit-text','1');card.style.setProperty('--fit-picture','min(27dvh,340px)');
- for(let step=0;step<22&&card.scrollHeight>available+2;step++){
-  card.style.setProperty('--fit-text',String(Math.max(.43,1-(step+1)*.027)));
-  card.style.setProperty('--fit-picture',Math.max(55,Math.round(window.innerHeight*(.27-step*.011)))+'px');
- }
- // Exception for unusually long ideas: keep their text accessible.
- if(card.scrollHeight>available+3){card.style.setProperty('height','auto','important');card.style.setProperty('min-height',available+'px','important')}
+ // Do not shrink the remaining cards when navigating or changing language.
+ fitCards();
 }
 function scrollQuoteToTop(i){
  const card=document.getElementById('item-'+i);if(!card)return;
  clearTimeout(alignmentTimer);
- const target=Math.max(0,window.scrollY+card.getBoundingClientRect().top-headerBottom());
- window.scrollTo({top:target,behavior:'instant'});
+ const scroller=document.getElementById('content');
+ const target=Math.max(0,scroller.scrollTop+card.getBoundingClientRect().top-scroller.getBoundingClientRect().top);
+ scroller.scrollTo({top:target,behavior:'instant'});
 }
 function currentlyVisibleQuote(){return selected}
 function scheduleIdeaAlignment(){ /* Alignment is controlled only by carousel navigation. */ }
-// Three short, randomly selected piano-like notes at each verse/idea transition.
-// Synthesized locally with a percussive attack, decaying harmonics and a soft release.
+// Five slow, independently randomized violin-like notes; repeats are allowed.
 let organAudioContext=null;
-let previousOrganNote=-1;
 function playRandomOrganNote(){
  try{
   const AudioContextClass=window.AudioContext||window.webkitAudioContext;
@@ -1653,45 +1656,37 @@ function playRandomOrganNote(){
   if(!organAudioContext)organAudioContext=new AudioContextClass();
   const ctx=organAudioContext;
   if(ctx.state==='suspended')ctx.resume().catch(()=>{});
-  const notes=[261.63,293.66,329.63,349.23,392,440,493.88,523.25];
-  const picked=[];
-  for(let n=0;n<5;n++){
-   const choices=notes.map((_,i)=>i).filter(i=>i!==previousOrganNote&&!picked.includes(i));
-   const index=choices[Math.floor(Math.random()*choices.length)];
-   picked.push(index);
-   previousOrganNote=index;
-  }
-  const start=ctx.currentTime+0.015;
-  picked.forEach((index,n)=>{
-   const at=start+n*0.25;
-   const base=notes[index];
-   // Piano envelope: sharp hammer strike followed by natural exponential decay.
-   const envelope=ctx.createGain();
-   envelope.gain.setValueAtTime(0.0001,at);
-   envelope.gain.exponentialRampToValueAtTime(0.16,at+0.004);
-   envelope.gain.exponentialRampToValueAtTime(0.075,at+0.065);
-   envelope.gain.exponentialRampToValueAtTime(0.018,at+0.33);
-   envelope.gain.exponentialRampToValueAtTime(0.0001,at+0.72);
-   envelope.connect(ctx.destination);
-   const harmonics=[[1,1],[2,0.38],[3,0.17],[4,0.085],[5,0.035]];
-   let remaining=harmonics.length;
-   harmonics.forEach(([partial,level])=>{
-    const oscillator=ctx.createOscillator();
-    const partialGain=ctx.createGain();
-    oscillator.type='sine';
-    oscillator.frequency.value=base*partial*(1+0.00018*partial*partial);
-    partialGain.gain.value=level;
-    oscillator.connect(partialGain);
-    partialGain.connect(envelope);
-    oscillator.start(at);
-    oscillator.stop(at+0.73);
-    oscillator.onended=()=>{
-     oscillator.disconnect();partialGain.disconnect();
-     if(--remaining===0)envelope.disconnect();
-    };
+  const first=ctx.currentTime+0.025;
+  const notePool=[196,220,246.94,261.63,293.66,329.63,392,440];
+  const pitches=Array.from({length:5},()=>notePool[Math.floor(Math.random()*notePool.length)]);
+  const spacing=0.49, noteLength=0.46;
+  pitches.forEach((hz,i)=>{
+   const start=first+i*spacing, end=start+noteLength;
+   const master=ctx.createGain();
+   master.gain.setValueAtTime(0.0001,start);
+   master.gain.linearRampToValueAtTime(0.17,start+0.115);
+   master.gain.setValueAtTime(0.17,end-0.13);
+   master.gain.exponentialRampToValueAtTime(0.0001,end);
+   const filter=ctx.createBiquadFilter();
+   filter.type='lowpass';filter.frequency.value=2300;filter.Q.value=0.75;
+   filter.connect(master);master.connect(ctx.destination);
+   const vibrato=ctx.createOscillator(), vibratoDepth=ctx.createGain();
+   vibrato.type='sine';vibrato.frequency.value=5.3;vibratoDepth.gain.value=hz*0.007;
+   vibrato.connect(vibratoDepth);
+   const oscillators=[];
+   [[1,'sawtooth',0.46],[1.003,'sawtooth',0.23],[2,'triangle',0.13]].forEach(([mult,type,level])=>{
+    const osc=ctx.createOscillator(),gain=ctx.createGain();
+    osc.type=type;osc.frequency.value=hz*mult;gain.gain.value=level;
+    vibratoDepth.connect(osc.frequency);
+    osc.connect(gain);gain.connect(filter);
+    osc.start(start);osc.stop(end+0.015);oscillators.push(osc);
    });
+   vibrato.start(start);vibrato.stop(end+0.015);
+   oscillators[0].onended=()=>{
+    oscillators.forEach(o=>o.disconnect());vibrato.disconnect();vibratoDepth.disconnect();filter.disconnect();master.disconnect();
+   };
   });
- }catch(err){console.debug('Piano notes unavailable',err)}
+ }catch(err){console.debug('Violin sound unavailable',err)}
 }
 function carouselStep(direction){
  if(carouselBusy||document.getElementById('bookMenu')?.classList.contains('open')||!document.getElementById('ideasMenu')?.hidden)return;
@@ -1748,8 +1743,11 @@ function toggleInterfaceLanguage(){
  // Never toggle or re-request it during the language re-render.
  // Do not programmatically scroll after a toolbar tap: Android Chrome reveals its bars.
  if(typeof window.updateHeaderHeight==='function')window.updateHeaderHeight();
+ sizeFixedHeader();
+ scheduleFitCards();
+ requestAnimationFrame(()=>{sizeFixedHeader();fitVisibleIdea(selected);scheduleFitCards();requestAnimationFrame(()=>{sizeFixedHeader();fitVisibleIdea(selected);scheduleFitCards();});});
  window.philosophyReturnToPageTop?.();
- window.philosophyDelayedFullscreen?.();
+ 
 }
 function refreshIdeaOptions(){
  const menu=$('ideasMenu');menu.replaceChildren();
@@ -1770,7 +1768,7 @@ async function deepReset(event){
  const btn=$('deepReset');
  if(btn.disabled)return;
  window.philosophyReturnToPageTop?.();
- window.philosophyDelayedFullscreen?.();
+ 
  btn.disabled=true;
  const status=$('status');
  const visible=currentlyVisibleQuote();
@@ -1832,7 +1830,7 @@ $('books').onclick=(event)=>{event.stopPropagation();$('ideasMenu').hidden=true;
 async function switchBook(book){stop();if(['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','חבקוק','צפניה','חגי','זכריה','מלאכי','נחום','תהילים','שיר השירים'].includes(book)){activeBook=book;$('bookMenu').classList.remove('open');$('content').textContent='טוען רעיונות פילוסופיים מתוך פירושי '+book+' ב-GitHub…';try{await (book==='בראשית'?loadGenesisPhilosophy():book==='שמות'?loadExodusPhilosophy():book==='ויקרא'?loadLeviticusPhilosophy():book==='במדבר'?loadNumbersPhilosophy():book==='דברים'?loadDeuteronomyPhilosophy():book==='יהושע'?loadJoshuaPhilosophy():book==='שופטים'?loadJudgesPhilosophy():book==='שמואל א'?loadFirstSamuelPhilosophy():book==='שמואל ב'?loadSecondSamuelPhilosophy():book==='מלכים א'?loadFirstKingsPhilosophy():book==='מלכים ב'?loadSecondKingsPhilosophy():book==='ישעיהו'?loadIsaiahPhilosophy():book==='יחזקאל'?loadEzekielPhilosophy():book==='הושע'?loadHoseaPhilosophy():book==='יואל'?loadJoelPhilosophy():book==='עמוס'?loadAmosPhilosophy():book==='עובדיה'?loadObadiahPhilosophy():book==='יונה'?loadJonahPhilosophy():book==='איכה'?loadLamentationsPhilosophy():book==='עזרא'?loadEzraPhilosophy():book==='דניאל'?loadDanielPhilosophy():book==='נחמיה'?loadNehemiahPhilosophy():book==='רות'?loadRuthPhilosophy():book==='משלי'?loadProverbsPhilosophy():book==='דברי הימים א'?loadChron1Philosophy():book==='דברי הימים ב'?loadChron2Philosophy():book==='חבקוק'?loadHabakkukPhilosophy():book==='צפניה'?loadZephaniahPhilosophy():book==='חגי'?loadHaggaiPhilosophy():book==='זכריה'?loadZechariahPhilosophy():book==='מלאכי'?loadMalachiPhilosophy():book==='נחום'?loadNahumPhilosophy():book==='איוב'?loadJobPhilosophy():book==='ירמיהו'?loadJeremiahPhilosophy():book==='תהילים'?loadPsalmsPhilosophy():loadSongPhilosophy());
     const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];
     for(let j=0;j<nums.length;j+=5)await Promise.all(nums.slice(j,j+5).map(n=>loadChapter(n,book)));
-    }catch(e){$('content').textContent='שגיאה בטעינת הפירושים: '+e.message;return}}if(book==='מיכה'||book==='קהלת'){const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];await Promise.all(nums.map(n=>loadChapter(n,book)));}activeBook=book;selected=ITEMS.findIndex(x=>x.book===book);$('bookMenu').classList.remove('open');$('ideasMenu').hidden=true;$('heading').textContent=uiLanguage==='he'?'רעיונות פילוסופיים — '+book:'Philosophical Ideas — '+({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[book]);refreshIdeaOptions();render();window.scrollTo(0,0);if(!['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','תהילים','שיר השירים'].includes(book))Promise.all([...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))].map(n=>loadChapter(n,book))).then(()=>render());}
+    }catch(e){$('content').textContent='שגיאה בטעינת הפירושים: '+e.message;return}}if(book==='מיכה'||book==='קהלת'){const nums=[...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))];await Promise.all(nums.map(n=>loadChapter(n,book)));}activeBook=book;selected=ITEMS.findIndex(x=>x.book===book);$('bookMenu').classList.remove('open');$('ideasMenu').hidden=true;$('heading').textContent=uiLanguage==='he'?'רעיונות פילוסופיים — '+book:'Philosophical Ideas — '+({מיכה:'Micah',אסתר:'Esther',בראשית:'Genesis',שמות:'Exodus',ויקרא:'Leviticus',במדבר:'Numbers',יהושע:'Joshua','שמואל א':'First Samuel','שמואל ב':'Second Samuel','מלכים א':'First Kings','מלכים ב':'Second Kings',ישעיהו:'Isaiah',ירמיהו:'Jeremiah',יחזקאל:'Ezekiel',הושע:'Hosea',יואל:'Joel',עמוס:'Amos',עובדיה:'Obadiah',יונה:'Jonah',דניאל:'Daniel',נחמיה:'Nehemiah',רות:'Ruth','דברי הימים א':'First Chronicles','דברי הימים ב':'Second Chronicles','תהילים':'Psalms','שיר השירים':'Song of Songs',קהלת:'Ecclesiastes'}[book]);refreshIdeaOptions();render();document.getElementById('content').scrollTo(0,0);if(!['בראשית','שמות','ויקרא','במדבר','דברים','יהושע','שופטים','שמואל א','שמואל ב','מלכים א','מלכים ב','ישעיהו','ירמיהו','יחזקאל','הושע','יואל','עמוס','עובדיה','יונה','איכה','עזרא','דניאל','נחמיה','רות','משלי','דברי הימים א','דברי הימים ב','תהילים','שיר השירים'].includes(book))Promise.all([...new Set(ITEMS.filter(x=>x.book===book).map(x=>x.chapter))].map(n=>loadChapter(n,book))).then(()=>render());}
 
 // Navigate among ideas in the current book, using the idea visible on screen.
 function navigateIdea(direction){
@@ -1863,7 +1861,7 @@ function showAwaitingBook(book){
  const notice=document.createElement('div');notice.className='card';
  notice.style.cssText='text-align:center;font-size:clamp(20px,4vw,28px);line-height:1.6;padding:28px 14px';
  notice.textContent=uiLanguage==='he'?'ספר '+book+' נוסף לתפריט. עדיין לא הוכנו עבורו רעיונות פילוסופיים.':'This book has been added to the menu. Philosophical ideas have not been prepared yet.';
- $('content').append(notice);$('topicFilter').textContent=uiLanguage==='he'?'רעיונות ▾':'Ideas ▾';window.scrollTo(0,0);
+ $('content').append(notice);$('topicFilter').textContent=uiLanguage==='he'?'רעיונות ▾':'Ideas ▾';document.getElementById('content').scrollTo(0,0);
 }
 $('onlyBook').onclick=()=>switchBook('קהלת');$('micahBook').onclick=()=>switchBook('מיכה');$('estherBook').onclick=()=>switchBook('אסתר');$('genesisBook').onclick=()=>switchBook('בראשית');$('exodusBook').onclick=()=>switchBook('שמות');$('leviticusBook').onclick=()=>switchBook('ויקרא');$('deuteronomyBook').onclick=()=>switchBook('דברים');$('numbersBook').onclick=()=>switchBook('במדבר');$('judgesBook').onclick=()=>switchBook('שופטים');$('joshuaBook').onclick=()=>switchBook('יהושע');$('kings1Book').onclick=()=>switchBook('מלכים א');$('kings2Book').onclick=()=>switchBook('מלכים ב');$('samuel2Book').onclick=()=>switchBook('שמואל ב');$('samuel1Book').onclick=()=>switchBook('שמואל א');$('songBook').onclick=()=>switchBook('שיר השירים');$('psalmsBook').onclick=()=>switchBook('תהילים');$('isaiahBook').onclick=()=>switchBook('ישעיהו');$('ezekielBook').onclick=()=>switchBook('יחזקאל');$('hoseaBook').onclick=()=>switchBook('הושע');$('joelBook').onclick=()=>switchBook('יואל');$('amosBook').onclick=()=>switchBook('עמוס');$('obadiahBook').onclick=()=>switchBook('עובדיה');$('jonahBook').onclick=()=>switchBook('יונה');$('lamentationsBook').onclick=()=>switchBook('איכה');$('ezraBook').onclick=()=>switchBook('עזרא');$('danielBook').onclick=()=>switchBook('דניאל');$('nehemiahBook').onclick=()=>switchBook('נחמיה');$('ruthBook').onclick=()=>switchBook('רות');$('proverbsBook').onclick=()=>switchBook('משלי');$('chron1Book').onclick=()=>switchBook('דברי הימים א');$('chron2Book').onclick=()=>switchBook('דברי הימים ב');$('habakkukBook').onclick=()=>switchBook('חבקוק');$('zephaniahBook').onclick=()=>switchBook('צפניה');$('haggaiBook').onclick=()=>switchBook('חגי');$('zechariahBook').onclick=()=>switchBook('זכריה');$('malachiBook').onclick=()=>switchBook('מלאכי');$('jeremiahBook').onclick=()=>switchBook('ירמיהו');$('lang').style.display='';$('lang').onclick=toggleInterfaceLanguage;$('stop').onclick=stop;$('speed').onchange=()=>$('player').playbackRate=Number($('speed').value);$('picture').onerror=()=>{const i=selected; $('picture').onerror=null;$('picture').src=generatedPicture(ITEMS[i],i);$('hint').textContent='איור חלופי ייחודי לציטוט '+(i+1)};
 (async()=>{
@@ -1879,7 +1877,7 @@ $('onlyBook').onclick=()=>switchBook('קהלת');$('micahBook').onclick=()=>swit
     const index=indices[Math.min(Math.max(0,Number(restore.position)||0),indices.length-1)];
     if(index!==undefined){selected=index;updateSelected(false);requestAnimationFrame(()=>requestAnimationFrame(()=>scrollQuoteToTop(index)));}
     try{history.replaceState(null,'',location.pathname+location.search);}catch(e){}
-  }else window.scrollTo(0,0);
+  }else document.getElementById('content').scrollTo(0,0);
 })();
 
 // Image refresh is explicit and bounded. Never observe DOM changes here:
@@ -1981,61 +1979,42 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')overlay.hidden=true}
 })();
 </script>
 <style id="stable-mobile-toolbar-layout">
-  html{min-height:0!important;height:auto!important}
-  body{min-height:0!important;height:auto!important;max-height:none!important;position:static!important;inset:auto!important;overflow-y:auto!important}
-  header{position:fixed!important;top:0!important;left:0!important;right:0!important}
-  #content{min-height:0!important;height:auto!important;overflow:visible!important}
-</style><style id="temporary-fullscreen-next-to-audio">
-.card .meta .temporary-fullscreen-button{position:static!important;flex:0 0 38px;width:38px;height:35px;min-width:38px;min-height:35px;padding:3px!important;font-size:22px!important;line-height:1!important;border-radius:9px!important;display:inline-grid;place-items:center;order:1}
-</style><script id="temporary-fullscreen-after-language-reset">
+  /* Same viewport-bound page architecture as the Tanakh reader. */
+  html{height:100%!important;overflow:hidden!important}
+  body{position:fixed!important;inset:0!important;width:100%!important;
+    height:var(--philosophy-screen-height,100dvh)!important;
+    min-height:0!important;max-height:var(--philosophy-screen-height,100dvh)!important;
+    padding:0!important;margin:0!important;overflow:hidden!important;
+    display:flex!important;flex-direction:column!important}
+  header{position:relative!important;top:auto!important;left:auto!important;right:auto!important;
+    flex:0 0 auto!important;width:100%!important;z-index:100!important}
+  main#content{position:relative!important;flex:1 1 auto!important;min-height:0!important;
+    height:auto!important;max-height:none!important;overflow-y:auto!important;
+    overflow-x:hidden!important;overscroll-behavior:contain!important;
+    padding:0 8px 0!important;scroll-padding-top:0!important}
+  #content>.card,#content>.card.fitted-idea{
+    min-height:calc(var(--philosophy-screen-height,100dvh) - var(--fixed-header-height,112px))!important;
+    height:auto!important;scroll-margin-top:0!important;margin-top:0!important;
+    box-sizing:border-box!important}
+  #content>.card.fitted-idea{justify-content:space-between!important}
+  #content>.card .quote-picture-wrap img{object-fit:contain!important}
+  @media(min-width:700px){main#content{width:1000px!important;max-width:100%!important;margin-inline:auto!important}}
+</style>
+<script id="philosophy-viewport-like-tanakh">
 (function(){
-  let active=false;
-  let cardId=null;
-  function removeButtons(){document.querySelectorAll('.temporary-fullscreen-button').forEach(b=>b.remove());}
-  function installButton(){
-    if(!active)return;
-    const card=document.querySelector('#content .card.active')||document.querySelector('#content .card');
-    if(!card)return;
-    cardId=card.id;
-    removeButtons();
-    card.querySelectorAll(':scope > .meta').forEach(meta=>{
-      const button=document.createElement('button');
-      button.type='button';button.className='temporary-fullscreen-button';
-      button.textContent='⛶';button.title='מסך מלא';button.setAttribute('aria-label','מסך מלא');
-      button.addEventListener('click',function(e){
-        e.preventDefault();e.stopPropagation();
-        const root=document.documentElement;
-        if(!document.fullscreenElement){
-          const request=root.requestFullscreen||root.webkitRequestFullscreen;
-          if(request){try{const result=request.call(root);if(result&&result.catch)result.catch(()=>{});}catch(err){}}
-        }
-        active=false;removeButtons();
-      });
-      const audio=meta.querySelector('.quote-audio-overlay');
-      if(audio)audio.before(button);else meta.append(button);
-    });
-  }
-  function toTop(){window.scrollTo(0,0);document.documentElement.scrollTop=0;document.body.scrollTop=0;}
-  window.philosophyReturnToPageTop=toTop;
-  window.philosophyDelayedFullscreen=function(){
-    active=true;
-    setTimeout(installButton,0);
-  };
-  document.addEventListener('click',function(e){
-    if(e.target.closest('#lang,#deepReset')){
-      active=true;
-      setTimeout(installButton,0);
-      setTimeout(installButton,400);
-    }
-  });
-  const content=document.getElementById('content');
-  if(content){new MutationObserver(()=>{if(active && !content.querySelector('.temporary-fullscreen-button'))setTimeout(installButton,0);}).observe(content,{childList:true});}
-  window.addEventListener('scroll',function(){
-    if(!active||!cardId)return;
-    const card=document.getElementById(cardId);
-    if(!card)return;
-    const header=document.querySelector('header');
-    if(card.getBoundingClientRect().bottom < (header?.offsetHeight||0)+20){active=false;removeButtons();}
-  },{passive:true});
+ function sync(){
+   const height=window.visualViewport?.height||window.innerHeight;
+   const header=document.querySelector('header');
+   const headerHeight=Math.ceil(header?.getBoundingClientRect().height||0);
+   document.documentElement.style.setProperty('--philosophy-screen-height',Math.round(height)+'px');
+   document.documentElement.style.setProperty('--fixed-header-height',headerHeight+'px');
+   if(typeof scheduleFitCards==='function')scheduleFitCards();
+ }
+ window.addEventListener('resize',sync,{passive:true});
+ window.visualViewport?.addEventListener('resize',sync,{passive:true});
+ window.addEventListener('orientationchange',sync,{passive:true});
+ document.addEventListener('DOMContentLoaded',sync);
+ requestAnimationFrame(sync);
 })();
-</script></body></html>
+</script>
+</body></html>
