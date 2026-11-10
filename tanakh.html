@@ -3730,21 +3730,25 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 </style>
 <script>
 (function(){
-  const glosses={
-    'בראשית':'בתחילה','תהו':'שממה','ובהו':'ריקנות','תהום':'מים עמוקים',
-    'מרחפת':'נעה מעל','ויבדל':'הפריד','לרקיע':'למרחב השמים',
-    'רקיע':'מרחב השמים','מתחת':'למטה','מקוה':'מקום התכנסות',
-    'ותראה':'ונגלתה','דשא':'צמחייה','מזריע':'מפיק זרעים',
-    'למינהו':'לפי סוגו','מאורות':'גופי אור','למועדים':'לזמנים קבועים',
-    'ולימים':'ולספירת ימים','ולשנים':'ולספירת שנים','ממשלת':'שליטת',
-    'התנינם':'יצורי ים גדולים','שרץ':'יצורים רבים','ישרצו':'יתרבו',
-    'ועוף':'בעלי כנף','פרו':'התרבו','ורבו':'התרבו','נפש':'יצור חי',
-    'רמש':'בעל חיים זוחל','בצלמנו':'בדמותנו','כדמותנו':'בדומה לנו',
-    'ורדו':'וישלטו','וכבשה':'ושלטו בה','עשב':'צמח','זרע':'גרעינים',
-    'לכם':'בשבילכם','ולחית':'ולבעלי החיים','וירא':'ראה','והנה':'והרי'
-  };
+  // Word meanings live in a separate chapter file, not in this HTML.
+  let glosses={};
+  let glossesReady=false;
+  let glossesLoading=false;
+  async function loadGlosses(){
+    if(glossesReady||glossesLoading)return;
+    glossesLoading=true;
+    try{
+      const response=await fetch('בראשית/chapter_001/word_glosses.json',{cache:'no-store'});
+      if(!response.ok)throw new Error('Glosses HTTP '+response.status);
+      glosses=await response.json();
+      glossesReady=true;
+      normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
+      annotate();
+    }catch(err){console.warn('Genesis 1 word glosses unavailable:',err);}
+    finally{glossesLoading=false;}
+  }
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
-  const normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
+  let normalized={};
   // Keep existing blue glosses in place; if a new one overlaps, move only the new gloss left.
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
@@ -3774,6 +3778,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   }
   function annotate(){
     const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)===1&&typeof language!=='undefined'&&language==='he';
+    if(active&&!glossesReady)loadGlosses();
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
       if(!active){el.removeAttribute('data-genesis-gloss');return;}
       const meaning=normalized[clean(el.textContent)];
