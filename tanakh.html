@@ -3858,4 +3858,12 @@ header #topControls > #wordTranslation.show{
   else setup();
 })();
 </script>
+
+<!-- Keep verse-card backgrounds unchanged during swipe navigation -->
+<style>
+/* Active selection may change borders and text, but never the card background. */
+.card.active,body.lang-he .card.active,body.lang-en .card.active{
+  background:rgba(0,0,0,.34)!important;
+}
+</style>
 </body></html>
