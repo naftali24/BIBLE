@@ -3716,7 +3716,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 }
 </style>
 
-<!-- Genesis 1 experimental karaoke word glosses -->
+<!-- Genesis 1–50 karaoke word glosses; data in root word_glosses.json -->
 <style>
 /* Reserve vertical space for blue glosses so they never cover ordinary words on the preceding line. */
 body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-line-height,1.36)!important;padding-top:var(--genesis-gloss-top-padding,0px)!important;overflow:visible!important;}
@@ -3732,7 +3732,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 </style>
 <script>
 (function(){
-  // Word meanings live in a separate chapter file, not in this HTML.
+  // Chapter-specific word meanings live in the shared root word_glosses.json.
   let glosses={};
   let glossesReady=false;
   let glossesChapter=0;
@@ -3752,7 +3752,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       glossesReady=true;
       normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
       annotate();
-    }catch(err){console.warn('Genesis 1 word glosses unavailable:',err);}
+    }catch(err){console.warn('Genesis word glosses unavailable:',err);}
     finally{glossesLoading=false;}
   }
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
@@ -3785,7 +3785,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     }
   }
   function annotate(){
-    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&[1,2].includes(Number(loadedChapter))&&typeof language!=='undefined'&&language==='he';
+    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)>=1&&Number(loadedChapter)<=50&&typeof language!=='undefined'&&language==='he';
     if(active&&(!glossesReady||glossesChapter!==Number(loadedChapter))){
       glossesReady=false;
       loadGlosses();
