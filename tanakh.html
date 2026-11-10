@@ -3718,9 +3718,9 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 
 <!-- Genesis 1 experimental karaoke word glosses -->
 <style>
-/* Trial only: small light-blue gloss above a highlighted difficult word. */
-.karaokeWord.karaokeActive[data-genesis-gloss]{position:relative;isolation:isolate}
-.karaokeWord.karaokeActive[data-genesis-gloss]::before{
+/* Genesis 1: once a difficult word is highlighted, keep its light-blue gloss visible. */
+.karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
+.karaokeWord[data-genesis-gloss]::before{
   content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
   transform:translateX(50%);white-space:nowrap;direction:rtl;
   font:700 12px/1.25 Arial,sans-serif;color:#8bdcff;background:#142c42;
