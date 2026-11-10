@@ -3742,10 +3742,13 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     if(glossesLoading)return;
     glossesLoading=true;
     try{
-      const response=await fetch('word_glosses.json',{cache:'no-store'});
-      if(!response.ok)throw new Error('Glosses HTTP '+response.status);
-      const allGlosses=await response.json();
-      glosses=allGlosses?.genesis?.['1']||{};
+      if(!allGlosses){
+        const response=await fetch('word_glosses.json',{cache:'no-store'});
+        if(!response.ok)throw new Error('Glosses HTTP '+response.status);
+        allGlosses=await response.json();
+      }
+      glossesChapter=Number(loadedChapter);
+      glosses=allGlosses?.genesis?.[String(glossesChapter)]||{};
       glossesReady=true;
       normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
       annotate();
