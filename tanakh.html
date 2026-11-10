@@ -3815,12 +3815,20 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         const prior=index>0?lines[index-1]:null;
         // The gloss is approximately 19px tall, positioned directly above its word.
         const glossTop=rect.top-16;
-        if(prior)extra=Math.max(extra,prior.bottom+3-glossTop);
-        else topExtra=Math.max(topExtra,verse.getBoundingClientRect().top+3-glossTop);
+        if(prior){
+          // Word rectangles include line-box whitespace. Compare line baselines instead
+          // of their touching bounding boxes, which previously exaggerated spacing.
+          const lineDistance=rect.top-prior.top;
+          const availableGap=lineDistance-fontSize;
+          extra=Math.max(extra,18-availableGap);
+        }else{
+          // Do not add padding to the entire verse for a gloss on its first line.
+          topExtra=0;
+        }
       }
       const current=parseFloat(verse.style.getPropertyValue('--genesis-gloss-line-height'))||1.36;
-      const next=Math.min(2.15,Math.max(current,1.36+Math.max(0,extra)/fontSize));
-      if(next>current+0.02)verse.style.setProperty('--genesis-gloss-line-height',next.toFixed(2));
+      const next=Math.min(1.65,Math.max(1.36,1.36+Math.max(0,extra)/fontSize));
+      if(Math.abs(next-current)>0.02)verse.style.setProperty('--genesis-gloss-line-height',next.toFixed(2));
       const oldTop=parseFloat(verse.style.getPropertyValue('--genesis-gloss-top-padding'))||0;
       if(topExtra>oldTop+1)verse.style.setProperty('--genesis-gloss-top-padding',Math.ceil(topExtra)+'px');
     });
