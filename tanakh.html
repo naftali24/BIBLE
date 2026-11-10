@@ -3735,9 +3735,11 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   // Word meanings live in a separate chapter file, not in this HTML.
   let glosses={};
   let glossesReady=false;
+  let glossesChapter=0;
+  let allGlosses=null;
   let glossesLoading=false;
   async function loadGlosses(){
-    if(glossesReady||glossesLoading)return;
+    if(glossesLoading)return;
     glossesLoading=true;
     try{
       const response=await fetch('word_glosses.json',{cache:'no-store'});
@@ -3780,16 +3782,19 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     }
   }
   function annotate(){
-    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)===1&&typeof language!=='undefined'&&language==='he';
-    if(active&&!glossesReady)loadGlosses();
+    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&[1,2].includes(Number(loadedChapter))&&typeof language!=='undefined'&&language==='he';
+    if(active&&(!glossesReady||glossesChapter!==Number(loadedChapter))){
+      glossesReady=false;
+      loadGlosses();
+    }
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
-      if(!active){el.removeAttribute('data-genesis-gloss');return;}
+      if(!active||!glossesReady){el.removeAttribute('data-genesis-gloss');return;}
       const meaning=normalized[clean(el.textContent)];
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
     document.querySelectorAll('.verse').forEach(verse=>{
-      const hasGloss=active&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
+      const hasGloss=active&&glossesReady&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
       if(!hasGloss){
         // Never collapse spacing after the first gloss: karaoke temporarily clears
         // active-word classes and would otherwise make the lines jump repeatedly.
