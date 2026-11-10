@@ -3721,9 +3721,9 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 /* Genesis 1: once a difficult word is highlighted, keep its light-blue gloss visible. */
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
-  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
+  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% - 3px);right:50%;
   transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;
-  font:700 12px/1.25 Arial,sans-serif;color:#8bdcff;background:#142c42;
+  font:700 13px/1.25 Arial,sans-serif;color:#8bdcff;background:#142c42;
   padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
   box-shadow:0 1px 3px #0008;
 }
@@ -3753,7 +3753,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
     if(!measure)return;
-    measure.font='700 12px Arial';
+    measure.font='700 13px Arial';
     for(const verse of document.querySelectorAll('.card .verse')){
       const placed=[];
       for(const el of verse.querySelectorAll('.karaokeWord[data-genesis-gloss]')){
@@ -3762,7 +3762,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
         const label=el.getAttribute('data-genesis-gloss')||'';
         const width=measure.measureText(label).width+10;
         const center=(rect.left+rect.right)/2;
-        const top=rect.top-19;
+        const top=rect.top-15;
         let shift=0;
         // Earlier labels retain their location. Shift each later label left until clear.
         for(let attempts=0;attempts<placed.length+2;attempts++){
