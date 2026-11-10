@@ -1327,7 +1327,7 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
       <option value="0.6">0.6×</option><option value="0.7">0.7×</option><option value="0.8">0.8×</option>
       <option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option>
     </select>
-    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה">🔊</button>
+    <button id="sequenceBtn" onclick="playSequence()" title="נגן רצף / השהה" aria-label="נגן רצף / השהה" hidden style="display:none!important">🔊</button>
     <button id="langBtn" onclick="toggleLanguage()" title="English" aria-label="English"></button>
 
     <span id="wordTranslation" title="Word translation"></span>
@@ -3842,5 +3842,22 @@ header #topControls > #wordTranslation.show{
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',setup);
   else setup();
 })();
+</script>
+
+<!-- Translation visibility test: sequence hidden, translation in its original position -->
+<style>
+#sequenceBtn,#sequenceBtn.sequenceNearAudio,#sequenceBtn.sequenceNearAudio.sequenceSevenVisible{display:none!important;visibility:hidden!important}
+header #topControls > #wordTranslation{
+ position:static!important;display:inline-flex!important;visibility:visible!important;
+ width:auto!important;min-width:85px!important;max-width:min(40vw,260px)!important;
+ flex:0 1 auto!important;overflow:hidden!important;padding:3px 9px!important;
+ margin:0 3px!important;pointer-events:auto!important;white-space:nowrap!important;
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+ const tr=document.getElementById('wordTranslation');
+ if(tr && !tr.textContent.trim())tr.textContent='תרגום';
+});
 </script>
 </body></html>
