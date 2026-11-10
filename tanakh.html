@@ -3788,49 +3788,21 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       else el.removeAttribute('data-genesis-gloss');
     });
     document.querySelectorAll('.verse').forEach(verse=>{
-      const labels=active?[...verse.querySelectorAll('.karaokeWord[data-genesis-gloss]')]:[];
-      const needed=labels.length>0;
-      if(verse.classList.contains('genesisGlossSpacing')!==needed)verse.classList.toggle('genesisGlossSpacing',needed);
-      if(!needed){
+      const hasGloss=active&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
+      if(!hasGloss){
+        verse.classList.remove('genesisGlossSpacing');
         verse.style.removeProperty('--genesis-gloss-line-height');
         verse.style.removeProperty('--genesis-gloss-top-padding');
+        delete verse.dataset.glossSpacingApplied;
         return;
       }
-      // Start at normal spacing. Increase only if a blue gloss would touch the preceding text line.
-      const words=[...verse.querySelectorAll('.karaokeWord')];
-      const lines=[];
-      for(const word of words){
-        const box=word.getBoundingClientRect();
-        if(!box.width)continue;
-        let line=lines.find(l=>Math.abs(l.top-box.top)<5);
-        if(!line){line={top:box.top,bottom:box.bottom};lines.push(line);}
-        else line.bottom=Math.max(line.bottom,box.bottom);
-      }
-      lines.sort((a,b)=>a.top-b.top);
-      const fontSize=parseFloat(getComputedStyle(verse).fontSize)||30;
-      let extra=0,topExtra=0;
-      for(const el of labels){
-        const rect=el.getBoundingClientRect();
-        const index=lines.findIndex(l=>Math.abs(l.top-rect.top)<5);
-        const prior=index>0?lines[index-1]:null;
-        // The gloss is approximately 19px tall, positioned directly above its word.
-        const glossTop=rect.top-16;
-        if(prior){
-          // Word rectangles include line-box whitespace. Compare line baselines instead
-          // of their touching bounding boxes, which previously exaggerated spacing.
-          const lineDistance=rect.top-prior.top;
-          const availableGap=lineDistance-fontSize;
-          extra=Math.max(extra,18-availableGap);
-        }else{
-          // Do not add padding to the entire verse for a gloss on its first line.
-          topExtra=0;
-        }
-      }
-      const current=parseFloat(verse.style.getPropertyValue('--genesis-gloss-line-height'))||1.36;
-      const next=Math.min(1.65,Math.max(1.36,1.36+Math.max(0,extra)/fontSize));
-      if(Math.abs(next-current)>0.02)verse.style.setProperty('--genesis-gloss-line-height',next.toFixed(2));
-      const oldTop=parseFloat(verse.style.getPropertyValue('--genesis-gloss-top-padding'))||0;
-      if(topExtra>oldTop+1)verse.style.setProperty('--genesis-gloss-top-padding',Math.ceil(topExtra)+'px');
+      // Make exactly one spacing adjustment per verse, at its first blue gloss.
+      // Subsequent karaoke words must never cause another line-height change.
+      if(verse.dataset.glossSpacingApplied==='1')return;
+      verse.dataset.glossSpacingApplied='1';
+      verse.style.setProperty('--genesis-gloss-line-height','1.65');
+      verse.style.setProperty('--genesis-gloss-top-padding','0px');
+      verse.classList.add('genesisGlossSpacing');
     });
     if(active)placeGlosses();
   }
