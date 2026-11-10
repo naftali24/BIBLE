@@ -3740,9 +3740,10 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     if(glossesReady||glossesLoading)return;
     glossesLoading=true;
     try{
-      const response=await fetch('בראשית/chapter_001/word_glosses.json',{cache:'no-store'});
+      const response=await fetch('word_glosses.json',{cache:'no-store'});
       if(!response.ok)throw new Error('Glosses HTTP '+response.status);
-      glosses=await response.json();
+      const allGlosses=await response.json();
+      glosses=allGlosses?.genesis?.['1']||{};
       glossesReady=true;
       normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
       annotate();
