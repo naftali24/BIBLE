@@ -3715,4 +3715,50 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   inset:auto!important;
 }
 </style>
+
+<!-- Genesis 1 experimental karaoke word glosses -->
+<style>
+/* Trial only: small light-blue gloss above a highlighted difficult word. */
+.karaokeWord.karaokeActive[data-genesis-gloss]{position:relative;isolation:isolate}
+.karaokeWord.karaokeActive[data-genesis-gloss]::before{
+  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
+  transform:translateX(50%);white-space:nowrap;direction:rtl;
+  font:700 12px/1.25 Arial,sans-serif;color:#8bdcff;background:#142c42;
+  padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
+  box-shadow:0 1px 3px #0008;
+}
+</style>
+<script>
+(function(){
+  const glosses={
+    'בראשית':'בתחילה','תהו':'שממה','ובהו':'ריקנות','תהום':'מים עמוקים',
+    'מרחפת':'נעה מעל','ויבדל':'הפריד','לרקיע':'למרחב השמים',
+    'רקיע':'מרחב השמים','מתחת':'למטה','מקוה':'מקום התכנסות',
+    'ותראה':'ונגלתה','דשא':'צמחייה','מזריע':'מפיק זרעים',
+    'למינהו':'לפי סוגו','מאורות':'גופי אור','למועדים':'לזמנים קבועים',
+    'ולימים':'ולספירת ימים','ולשנים':'ולספירת שנים','ממשלת':'שליטת',
+    'התנינם':'יצורי ים גדולים','שרץ':'יצורים רבים','ישרצו':'יתרבו',
+    'ועוף':'בעלי כנף','פרו':'התרבו','ורבו':'התרבו','נפש':'יצור חי',
+    'רמש':'בעל חיים זוחל','בצלמנו':'בדמותנו','כדמותנו':'בדומה לנו',
+    'ורדו':'וישלטו','וכבשה':'ושלטו בה','עשב':'צמח','זרע':'גרעינים',
+    'לכם':'בשבילכם','ולחית':'ולבעלי החיים','וירא':'ראה','והנה':'והרי'
+  };
+  function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
+  const normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
+  function annotate(){
+    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)===1&&typeof language!=='undefined'&&language==='he';
+    document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
+      if(!active){el.removeAttribute('data-genesis-gloss');return;}
+      const meaning=normalized[clean(el.textContent)];
+      if(meaning)el.setAttribute('data-genesis-gloss',meaning);
+      else el.removeAttribute('data-genesis-gloss');
+    });
+  }
+  document.addEventListener('DOMContentLoaded',()=>{
+    const target=document.querySelector('main')||document.body;
+    new MutationObserver(annotate).observe(target,{subtree:true,attributes:true,attributeFilter:['class']});
+    annotate();
+  });
+})();
+</script>
 </body></html>
