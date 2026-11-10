@@ -3800,4 +3800,47 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   });
 })();
 </script>
+
+<!-- Restore word translation and temporarily show sequence beside first verse audio -->
+<style>
+header #topControls > #wordTranslation.show{
+  position:static!important;display:inline-flex!important;pointer-events:auto!important;
+  width:auto!important;min-width:85px!important;max-width:min(40vw,260px)!important;
+  overflow:hidden!important;padding:3px 9px!important;margin:0 3px!important;
+  flex:0 1 auto!important;white-space:nowrap!important;
+}
+#sequenceBtn.sequenceNearAudio{
+  display:none!important;width:34px!important;min-width:34px!important;
+  height:28px!important;min-height:28px!important;max-height:28px!important;
+  padding:0!important;margin-inline:4px!important;vertical-align:middle!important;
+  font-size:18px!important;
+}
+#sequenceBtn.sequenceNearAudio.sequenceSevenVisible{display:inline-flex!important}
+</style>
+<script>
+(function(){
+  const setup=()=>{
+    const btn=document.getElementById('sequenceBtn');
+    const cards=document.getElementById('cards');
+    if(!btn||!cards)return;
+    btn.classList.add('sequenceNearAudio');
+    let timer=null,lastAudio=null;
+    function place(){
+      const first=cards.querySelector('.card .verseAudioBtn');
+      if(!first){btn.classList.remove('sequenceSevenVisible');return;}
+      if(btn.parentNode!==first.parentNode)first.insertAdjacentElement('afterend',btn);
+      if(first!==lastAudio){
+        lastAudio=first;
+        btn.classList.add('sequenceSevenVisible');
+        if(timer)clearTimeout(timer);
+        timer=setTimeout(()=>btn.classList.remove('sequenceSevenVisible'),7000);
+      }
+    }
+    new MutationObserver(place).observe(cards,{childList:true,subtree:true});
+    place();
+  };
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',setup);
+  else setup();
+})();
+</script>
 </body></html>
