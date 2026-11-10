@@ -3790,10 +3790,9 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     document.querySelectorAll('.verse').forEach(verse=>{
       const hasGloss=active&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
       if(!hasGloss){
-        verse.classList.remove('genesisGlossSpacing');
-        verse.style.removeProperty('--genesis-gloss-line-height');
-        verse.style.removeProperty('--genesis-gloss-top-padding');
-        delete verse.dataset.glossSpacingApplied;
+        // Never collapse spacing after the first gloss: karaoke temporarily clears
+        // active-word classes and would otherwise make the lines jump repeatedly.
+        if(verse.dataset.glossSpacingApplied==='1')return;
         return;
       }
       // Make exactly one spacing adjustment per verse, at its first blue gloss.
@@ -3862,8 +3861,10 @@ header #topControls > #wordTranslation.show{
 <!-- Keep verse-card backgrounds unchanged during swipe navigation -->
 <style>
 /* Active selection may change borders and text, but never the card background. */
-.card.active,body.lang-he .card.active,body.lang-en .card.active{
-  background:rgba(0,0,0,.34)!important;
+.card, .card.active, body.lang-he .card, body.lang-he .card.active,
+body.lang-en .card, body.lang-en .card.active{
+  background:linear-gradient(135deg,rgba(170,105,0,.88),rgba(48,24,0,.96))!important;
+  transition-property:border-color,box-shadow!important;
 }
 </style>
 </body></html>
