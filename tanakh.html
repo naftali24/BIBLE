@@ -1228,7 +1228,7 @@ header #topControls > #chapterMenuWrap:not(.hidden):not([hidden]){
 header #topControls > #chapterMenuWrap > #chapterMenuBtn{width:100%!important;height:100%!important;min-height:0!important;max-height:none!important;min-width:0!important;max-width:none!important;box-sizing:border-box!important}
 header #topControls > .hidden,header #topControls > [hidden]{display:none!important;flex:none!important}
 /* The word translation is not a toolbar button; keep it out of column sizing. */
-header #topControls > #wordTranslation{position:absolute!important;pointer-events:none!important;width:0!important;max-width:0!important;overflow:hidden!important;padding:0!important;margin:0!important}
+header #topControls > #wordTranslation:not(.show){display:none!important}
 /* Windows/desktop: centered application, maximum width 1300px. */
 @media(min-width:901px){
  html{background:#080502!important}
