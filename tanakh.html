@@ -3722,7 +3722,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
   content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
-  transform:translateX(50%);white-space:nowrap;direction:rtl;
+  transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;
   font:700 12px/1.25 Arial,sans-serif;color:#8bdcff;background:#142c42;
   padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
   box-shadow:0 1px 3px #0008;
@@ -3745,6 +3745,33 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
   };
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
   const normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
+  // Keep existing blue glosses in place; if a new one overlaps, move only the new gloss left.
+  const measure=document.createElement('canvas').getContext('2d');
+  function placeGlosses(){
+    if(!measure)return;
+    measure.font='700 12px Arial';
+    for(const verse of document.querySelectorAll('.card .verse')){
+      const placed=[];
+      for(const el of verse.querySelectorAll('.karaokeWord[data-genesis-gloss]')){
+        const rect=el.getBoundingClientRect();
+        if(!rect.width)continue;
+        const label=el.getAttribute('data-genesis-gloss')||'';
+        const width=measure.measureText(label).width+10;
+        const center=(rect.left+rect.right)/2;
+        const top=rect.top-19;
+        let shift=0;
+        // Earlier labels retain their location. Shift each later label left until clear.
+        for(let attempts=0;attempts<placed.length+2;attempts++){
+          const left=center-width/2-shift, right=left+width;
+          const overlap=placed.find(p=>Math.abs(p.top-top)<17 && left<p.right+3 && right>p.left-3);
+          if(!overlap)break;
+          shift=Math.max(shift,center+width/2-overlap.left+4);
+        }
+        el.style.setProperty('--gloss-left-shift',shift+'px');
+        placed.push({left:center-width/2-shift,right:center+width/2-shift,top});
+      }
+    }
+  }
   function annotate(){
     const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)===1&&typeof language!=='undefined'&&language==='he';
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
@@ -3753,6 +3780,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
+    if(active)placeGlosses();
   }
   document.addEventListener('DOMContentLoaded',()=>{
     const target=document.querySelector('main')||document.body;
