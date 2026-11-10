@@ -3718,6 +3718,8 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 
 <!-- Genesis 1 experimental karaoke word glosses -->
 <style>
+/* Reserve vertical space for blue glosses so they never cover ordinary words on the preceding line. */
+.verse.genesisGlossSpacing{line-height:2.15 !important;padding-top:12px !important;}
 /* Genesis 1: once a difficult word is highlighted, keep its light-blue gloss visible. */
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
@@ -3784,6 +3786,10 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
       const meaning=normalized[clean(el.textContent)];
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
+    });
+    document.querySelectorAll('.verse').forEach(verse=>{
+      const needed=active&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
+      if(verse.classList.contains('genesisGlossSpacing')!==needed)verse.classList.toggle('genesisGlossSpacing',needed);
     });
     if(active)placeGlosses();
   }
