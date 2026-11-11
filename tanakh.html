@@ -3785,6 +3785,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     return meanings;
   }
   let normalized=new Map();
+  let excludedGlosses=new Set();
   let phraseLengths=[];
   const versePhrases=new WeakMap();
 
@@ -3796,6 +3797,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         const end=start+length;
         if(end>keys.length)continue;
         const key=keys.slice(start,end).join(' ');
+        if(excludedGlosses.has(key))continue;
         const meaning=normalized.get(key)??sharedGlosses.get(key);
         if(!meaning)continue;
         const phrase={words:words.slice(start,end),meaning};
@@ -3856,6 +3858,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     }
   }
   function lookupGloss(word){
+    if(excludedGlosses.has(word))return;
     const exact=normalized.get(word)??sharedGlosses.get(word);
     if(exact)return exact;
 
@@ -3908,6 +3911,9 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     const key=active&&allGlosses?book.id+':'+chapter:'';
     if(key!==glossesKey){
       normalized=key?chapterGlosses(book.id,chapter):new Map();
+      excludedGlosses=new Set(Object.entries(key?allGlosses[book.id]?.[chapter]||{}:{})
+        .filter(([,meaning])=>meaning===null)
+        .map(([word])=>word.split(/\s+/).map(clean).filter(Boolean).join(' ')));
       const lengths=new Set();
       if(key){
         for(const index of [normalized,sharedGlosses]){
