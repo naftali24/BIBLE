@@ -3865,9 +3865,13 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       while(label.children.length>lines.length)label.lastElementChild.remove();
       if(!lines.length)continue;
       const widest=lines.reduce((best,line)=>line.right-line.left>best.right-best.left?line:best);
-      const caption=label.caption||(label.caption=document.createElement('span'));
-      caption.className='karaokePhraseGlossCaption';
-      if(caption.textContent!==label.phrase.meaning)caption.textContent=label.phrase.meaning;
+      let caption=label.caption;
+      if(!caption){
+        caption=document.createElement('span');
+        caption.className='karaokePhraseGlossCaption';
+        caption.textContent=label.phrase.meaning;
+        label.caption=caption;
+      }
       lines.forEach((line,index)=>{
         let segment=label.children[index];
         if(!segment){
