@@ -3878,4 +3878,27 @@ body.lang-en .card, body.lang-en .card.active{
   transition-property:border-color,box-shadow!important;
 }
 </style>
+
+<!-- Audio toolbar visibility: hide both controls after the first verse-audio click; no countdown -->
+<style>
+#speedSecondsRemaining{display:none!important}
+body.audioControlsDismissed #speedSel,
+body.audioControlsDismissed #speedSel.speedTenSeconds,
+body.audioControlsDismissed #sequenceBtn,
+body.audioControlsDismissed #sequenceBtn.sequenceNearAudio.sequenceSevenVisible{display:none!important;visibility:hidden!important}
+</style>
+<script>
+(function(){
+  const cards=document.getElementById('cards');
+  if(!cards)return;
+  cards.addEventListener('click',function(event){
+    if(!event.target.closest('.verseAudioBtn'))return;
+    document.body.classList.add('audioControlsDismissed');
+    document.getElementById('speedSecondsRemaining')?.remove();
+    document.getElementById('speedSel')?.classList.remove('speedTenSeconds');
+    document.getElementById('sequenceBtn')?.classList.remove('sequenceSevenVisible');
+  },true);
+  document.getElementById('reloadChapterBtn')?.addEventListener('click',()=>document.body.classList.remove('audioControlsDismissed'));
+})();
+</script>
 </body></html>
