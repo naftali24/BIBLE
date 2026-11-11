@@ -1602,11 +1602,12 @@ function updateReadingHeading(index=verseAtTop){
   if(!book)return;
   const chapter=loadedChapter||current||1;
   const verse=Math.max(1,Math.min(verseCards.length||1,Number(index)+1));
+  const versesInChapter=verseCards.length||0;
   const name=language==='en'?(book.nameEn||book.name):book.name;
   const total=book.chapters||'';
   const label=language==='en'
-    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse}`
-    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse}`;
+    ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse} (${versesInChapter})`
+    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse} (${versesInChapter})`;
   bookTitle.textContent=label;
   chapterCounter.textContent='';
   bookTitle.dir=language==='en'?'ltr':'rtl';
@@ -3466,7 +3467,7 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
      deadline=Date.now()+10000;
      updateCounter();
      ticker=setInterval(updateCounter,100);
-     timer=setTimeout(()=>{finished=true;hide();},10000);
+     // Keep controls visible until the verse audio button is clicked.
    };
    const firstAudio=()=>document.querySelector('#cards > .card.singleVisible .num .verseAudioBtn');
    const hide=()=>{
@@ -3493,7 +3494,7 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
      }
      attach();
    };
-   // Any interaction with the speed selector renews its full 10-second window.
+   // The selector remains available until the verse speaker is clicked.
    const renewSpeedWindow=()=>{
      if(!shown||finished||!speed.classList.contains('speedTenSeconds'))return;
      startClock();
@@ -3501,6 +3502,7 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
    speed.addEventListener('pointerdown',renewSpeedWindow);
    speed.addEventListener('click',renewSpeedWindow);
    speed.addEventListener('change',renewSpeedWindow);
+   document.getElementById('cards')?.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){finished=true;hide();}},true);
    const observer=new MutationObserver(check);
    const cards=document.getElementById('cards');
    if(cards)observer.observe(cards,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
@@ -3855,9 +3857,10 @@ header #topControls > #wordTranslation.show{
         lastAudio=first;
         btn.classList.add('sequenceSevenVisible');
         if(timer)clearTimeout(timer);
-        timer=setTimeout(()=>btn.classList.remove('sequenceSevenVisible'),7000);
+        // Keep visible until the verse speaker is clicked.
       }
     }
+    cards.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){btn.classList.remove('sequenceSevenVisible');lastAudio=cards.querySelector('.card .verseAudioBtn');}},true);
     new MutationObserver(place).observe(cards,{childList:true,subtree:true});
     place();
   };
