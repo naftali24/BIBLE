@@ -7,7 +7,6 @@
   "english_translation": "KJV",
   "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/EXO/22-73c376cf6b94def9a3df91f47e6c4e38.mp3?version_id=1",
   "english": [
-    "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
     "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.",
     "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.",
     "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.",
@@ -36,7 +35,8 @@
     "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.",
     "Thou shalt not revile the gods, nor curse the ruler of thy people.",
     "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.",
-    "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
+    "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.",
+    "And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs."
   ],
   "ai_explanation": [
     "אם גנב נמצא בתוך פריצה לבית ונהרג בידי בעל הבית או אדם אחר, ההורג אינו אחראי למותו. זאת משום שהפורץ נחשב מי שעלול להרוג, ולכן הריגתו יכולה להיחשב הגנה עצמית.",
@@ -196,11 +196,6 @@
   ],
   "times_en": [
     {
-      "start": 2.88,
-      "end": 11.82,
-      "usfm": "EXO.22.1"
-    },
-    {
       "start": 11.82,
       "end": 19.42,
       "usfm": "EXO.22.2"
@@ -353,7 +348,6 @@
   ],
   "sync_anchor_en_word_index": 0,
   "times_en_end": [
-    13.76,
     19.9,
     32.28,
     41.1,
@@ -386,7 +380,6 @@
     281.04
   ],
   "times_en_usfm": [
-    "EXO.22.1",
     "EXO.22.2",
     "EXO.22.3",
     "EXO.22.4",
@@ -456,5 +449,6 @@
     "״מְלֵאָתְךָ וְדִמְעֲךָ לֹא תְאַחֵר. בְּכוֹר בָּנֶיךָ, תִּתֶּן לִי.״",
     "״כֵּן תַּעֲשֶׂה לְשֹׁרְךָ, לְצֹאנֶךָ: שִׁבְעַת יָמִים יִהְיֶה עִם אִמּוֹ בַּיּוֹם הַשְּׁמִינִי תִּתְּנוֹ לִי.״",
     "״וְאַנְשֵׁי קֹדֶשׁ, תִּהְיוּן לִי. וּבָשָׂר בַּשָּׂדֶה טְרֵפָה לֹא תֹאכֵלוּ לַכֶּלֶב תַּשְׁלִכוּן אֹתוֹ.״"
-  ]
+  ],
+  "english_verse_numbering": "KJV verse 2-31 corresponds to Hebrew Exodus 22:1-30; KJV verse 1 is Hebrew Exodus 21:37."
 }
