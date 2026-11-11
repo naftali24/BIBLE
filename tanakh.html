@@ -3775,6 +3775,18 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     return meanings;
   }
   let normalized=new Map();
+  function lookupGloss(word){
+    const exact=normalized.get(word)??sharedGlosses.get(word);
+    if(exact)return exact;
+
+    // Try attached conjunctions, particles, prepositions and the definite article.
+    const prefixes=word.match(/^ו?ש?[בכלמ]?ה?/)?.[0]||'';
+    for(let length=1;length<=prefixes.length&&word.length-length>=2;length++){
+      const base=word.slice(length);
+      const meaning=normalized.get(base)??sharedGlosses.get(base);
+      if(meaning)return meaning;
+    }
+  }
   // Keep existing blue glosses in place; if a new one overlaps, move only the new gloss left.
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
@@ -3817,7 +3829,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
       if(!key){el.removeAttribute('data-genesis-gloss');return;}
       const word=clean(el.textContent);
-      const meaning=normalized.get(word)??sharedGlosses.get(word);
+      const meaning=lookupGloss(word);
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
