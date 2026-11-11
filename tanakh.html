@@ -1309,9 +1309,9 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 /* The language toggle is semi-transparent except while the image-scroll hint is visible. */
 #verseArrowRow > #hebrewOnImage,
 #verseArrowRow > #englishOnImage{opacity:.5!important;}
-#verseArrowRow:has(#imageScrollHint.visible) > #hebrewOnImage,
-#verseArrowRow:has(#imageScrollHint.visible) > #englishOnImage,
-#verseArrowRow:has(#imageScrollHint.visible) #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
+#verseArrowRow.scrollHintVisible > #hebrewOnImage,
+#verseArrowRow.scrollHintVisible > #englishOnImage,
+#verseArrowRow.scrollHintVisible #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
 </style>
 </head>
 <body class="introMode">
@@ -3450,7 +3450,11 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
     if(shown||document.body.classList.contains('introMode')||!document.querySelector('#cards>.card'))return;
     shown=true;
     hint.classList.add('visible');
-    timer=setTimeout(()=>hint.classList.remove('visible'),7000);
+    row.classList.add('scrollHintVisible');
+    timer=setTimeout(()=>{
+      hint.classList.remove('visible');
+      row.classList.remove('scrollHintVisible');
+    },7000);
   }
   const observer=new MutationObserver(check);
   observer.observe(document.body,{attributes:true,attributeFilter:['class']});
