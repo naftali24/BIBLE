@@ -1142,7 +1142,6 @@ body.introMode #verseArrowRow{display:none!important}
 #verseArrowRow #chapterStepControls #verseNext{margin-right:0!important}
 #verseAudioDock{display:flex;align-items:center;margin-left:20px}
 #verseAudioDock:empty{margin-left:0}
-body.verseAudioStarting #verseArrowRow #verseAudioDock .verseAudioBtn{display:none!important}
 #cards .num{display:flex;align-items:center;gap:6px;direction:rtl}
 #cards .num.englishNum{direction:ltr}
 .verseHeadingAudioControls{
@@ -1315,7 +1314,7 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 #verseArrowRow.scrollHintVisible #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
 </style>
 </head>
-<body class="introMode verseAudioStarting">
+<body class="introMode">
 <header>
 
 
@@ -1359,7 +1358,7 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 </div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
-  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><div id="verseAudioDock"></div><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
+  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><div id="verseAudioDock" hidden style="display:none!important"></div><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
     <div id="imageLoading" aria-hidden="true"></div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
@@ -2294,6 +2293,13 @@ async function loadChapter(n,book=currentBook,returnVerse=null){
     chapterMenuBtn.innerHTML='<span class="iconWithLabel"><span class="menuIcon" aria-hidden="true">🦉</span><span class="iconLabel">תפריט</span></span>';
     // Do not reopen the selector after choosing a chapter.
     markChapterMenu(n);
+    if(document.body.classList.contains('introMode')){
+      const speakerDock=document.getElementById('verseAudioDock');
+      setTimeout(()=>{
+        speakerDock.hidden=false;
+        speakerDock.style.removeProperty('display');
+      },7000);
+    }
     document.body.classList.remove('introMode');
     imageSection.classList.remove('hidden');
     finishLoadProgress(true);
@@ -3441,7 +3447,6 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   hint.id='imageScrollHint';hint.setAttribute('aria-live','polite');
   row.appendChild(hint);
   let shown=false, timer=null;
-  let speakerTimerStarted=false;
   function updateLanguage(){
     hint.textContent=(typeof language!=='undefined'&&language==='en')
       ? 'You can also scroll on the image' : 'אפשר לגלול גם על התמונה';
@@ -3450,10 +3455,6 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   function check(){
     updateLanguage();
     if(document.body.classList.contains('introMode')||!document.querySelector('#cards>.card.singleVisible'))return;
-    if(!speakerTimerStarted){
-      speakerTimerStarted=true;
-      setTimeout(()=>document.body.classList.remove('verseAudioStarting'),7000);
-    }
     if(shown)return;
     shown=true;
     hint.classList.add('visible');
