@@ -1140,13 +1140,12 @@ body.introMode #verseArrowRow{display:none!important}
 #verseArrowRow #chapterStepControls{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;height:55px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;padding:0 10px!important;pointer-events:none!important}
 #verseArrowRow #chapterStepControls button{pointer-events:auto!important}
 #verseArrowRow #chapterStepControls #verseNext{margin-right:0!important}
-#verseAudioDock{display:flex;align-items:center;gap:4px;margin-left:5px}
+#verseAudioDock{display:flex;align-items:center;margin-left:10px}
 #verseAudioDock:empty{margin-left:0}
 #verseArrowRow #verseAudioDock .verseAudioBtn{
   display:inline-flex!important;flex:0 0 auto;width:43px!important;margin:0!important;
   padding:0!important;opacity:1!important;
 }
-#verseAudioDock #speedSel{pointer-events:auto!important}
 #main,#cards{min-height:0!important}
 #cards>.card.singleVisible{height:100%!important;max-height:100%!important;overflow-y:auto!important;padding-bottom:10px!important;touch-action:pan-y!important;-webkit-overflow-scrolling:touch}
 #main{touch-action:pan-y!important;overflow:hidden!important}
@@ -3501,11 +3500,8 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
    };
    const attach=()=>{
      if(!shown||finished)return;
-     const audioButton=firstAudio();
-     if(audioButton){
-       if(speed.previousElementSibling!==audioButton)audioButton.insertAdjacentElement('afterend',speed);
-       // Countdown intentionally removed.
-     }
+     const heading=cards.querySelector('.card.singleVisible .num');
+     if(firstAudio()&&heading&&speed.parentNode!==heading)heading.append(speed);
    };
    const check=()=>{
      if(finished)return;
@@ -3589,7 +3585,7 @@ body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;mi
 <style id="speed-beside-verse-audio-final">
 /* The selector lives directly after the first verse speaker, including in fullscreen. */
 #speedSel{display:none!important}
-#verseAudioDock #speedSel.speedTenSeconds{
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds{
   display:inline-flex!important;position:static!important;
   vertical-align:middle!important;margin-inline-start:5px!important;
   width:56px!important;min-width:56px!important;max-width:56px!important;
@@ -3715,7 +3711,7 @@ body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;mi
 /* Never display the speed selector when detached from the visible verse. */
 body > #speedSel.speedTenSeconds,
 body > #speedSel.miniSpeed.speedTenSeconds {display:none!important;position:static!important;}
-#verseAudioDock #speedSel.speedTenSeconds {
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
   display:inline-flex!important;position:static!important;top:auto!important;right:auto!important;left:auto!important;bottom:auto!important;
 }
 </style>
@@ -3732,9 +3728,9 @@ body > #speedSel.speedTenSeconds {
   visibility:hidden!important;
 }
 /* Only the currently visible verse may display the control in either language. */
-body.lang-en #verseAudioDock #speedSel.speedTenSeconds,
-body.lang-he #verseAudioDock #speedSel.speedTenSeconds,
-#verseAudioDock #speedSel.speedTenSeconds {
+body.lang-en #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
+#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
   display:inline-flex!important;
   position:static!important;
   visibility:visible!important;
@@ -3980,7 +3976,8 @@ header #topControls > #wordTranslation.show{
     function place(){
       const first=cards.querySelector('.card');
       if(!first||!dock.querySelector('.verseAudioBtn')){btn.classList.remove('sequenceSevenVisible');return;}
-      if(btn.parentNode!==dock)dock.append(btn);
+      const heading=cards.querySelector('.card.singleVisible .num');
+      if(heading&&btn.parentNode!==heading)heading.append(btn);
       if(first!==lastAudio){
         lastAudio=first;
         btn.classList.add('sequenceSevenVisible');
