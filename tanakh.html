@@ -2015,11 +2015,13 @@ function audioOffset(){
   return (Number.isFinite(x)&&x>=0&&x<=25)?x:0;
 }
 function englishTimingStart(i){
+  if(loadedBook?.id==='exodus'&&Number(loadedChapter)===21&&i===36)return Number(data?.english_verse37_timing?.start);
   const x=(Array.isArray(data?.times_en)?data.times_en:[])[i];
   if(x && typeof x==='object') return Number(x.start);
   return Number(x);
 }
 function englishTimingEnd(i){
+  if(loadedBook?.id==='exodus'&&Number(loadedChapter)===21&&i===36)return Number(data?.english_verse37_timing?.end);
   const x=(Array.isArray(data?.times_en)?data.times_en:[])[i];
   if(x && typeof x==='object' && Number.isFinite(Number(x.end))) return Number(x.end);
   const ends=Array.isArray(data?.times_en_end)?data.times_en_end:[];
@@ -3083,7 +3085,9 @@ document.addEventListener('click', async function(ev){
     const st=englishTimingStart(vi);
     let en=englishTimingEnd(vi);
     if(!Number.isFinite(st)) return;
-    const src=data?.audio_en_url||data?.english_audio_url||'';
+    const src=(loadedBook?.id==='exodus'&&Number(loadedChapter)===21&&vi===36)
+      ? data?.english_verse37_audio_url
+      : (data?.audio_en_url||data?.english_audio_url||'');
     if(!src) return;
     if(audio.src!==src){ audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
