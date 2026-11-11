@@ -3721,7 +3721,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 }
 </style>
 
-<!-- Genesis and Exodus karaoke word glosses; data in root word_glosses.json -->
+<!-- Karaoke word glosses for Genesis, Exodus and Leviticus -->
 <style>
 /* Reserve vertical space for blue glosses so they never cover ordinary words on the preceding line. */
 body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-line-height,1.36)!important;padding-top:var(--genesis-gloss-top-padding,0px)!important;overflow:visible!important;}
@@ -3784,7 +3784,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   function annotate(){
     const book=typeof loadedBook==='undefined'?null:loadedBook;
     const chapter=typeof loadedChapter==='undefined'?0:Number(loadedChapter);
-    const active=['genesis','exodus'].includes(book?.id)&&
+    const active=['genesis','exodus','leviticus'].includes(book?.id)&&
       chapter>=1&&chapter<=book.chapters&&
       typeof language!=='undefined'&&language==='he';
     if(active&&!allGlosses)loadGlosses();
