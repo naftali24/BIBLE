@@ -3721,7 +3721,7 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 }
 </style>
 
-<!-- Karaoke word glosses for Genesis, Exodus and Leviticus -->
+<!-- Hebrew karaoke word glosses -->
 <style>
 /* Reserve vertical space for blue glosses so they never cover ordinary words on the preceding line. */
 body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-line-height,1.36)!important;padding-top:var(--genesis-gloss-top-padding,0px)!important;overflow:visible!important;}
@@ -3739,6 +3739,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 (function(){
   // Chapter-specific word meanings live in the shared root word_glosses.json.
   let allGlosses=null;
+  const sharedGlosses=new Map();
   let glossesLoading=false;
   let glossesKey='';
   async function loadGlosses(){
@@ -3748,12 +3749,32 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       const response=await fetch('word_glosses.json',{cache:'no-store'});
       if(!response.ok)throw new Error('Glosses HTTP '+response.status);
       allGlosses=await response.json();
+      for(const chapters of Object.values(allGlosses)){
+        for(const words of Object.values(chapters))addGlosses(sharedGlosses,words);
+      }
       annotate();
     }catch(err){console.warn('Karaoke word glosses unavailable:',err);}
     finally{glossesLoading=false;}
   }
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
-  let normalized={};
+  function addGlosses(target,words){
+    for(const [word,meaning] of Object.entries(words||{})){
+      const key=clean(word);
+      if(key&&typeof meaning==='string'&&meaning.trim()&&!target.has(key)){
+        target.set(key,meaning);
+      }
+    }
+  }
+  function chapterGlosses(bookId,chapter){
+    const chapters=allGlosses[bookId]||{};
+    const meanings=new Map();
+    addGlosses(meanings,chapters[chapter]);
+    const nearby=Object.keys(chapters).map(Number).filter(n=>n!==chapter)
+      .sort((a,b)=>Math.abs(a-chapter)-Math.abs(b-chapter)||a-b);
+    for(const other of nearby)addGlosses(meanings,chapters[other]);
+    return meanings;
+  }
+  let normalized=new Map();
   // Keep existing blue glosses in place; if a new one overlaps, move only the new gloss left.
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
@@ -3784,19 +3805,19 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   function annotate(){
     const book=typeof loadedBook==='undefined'?null:loadedBook;
     const chapter=typeof loadedChapter==='undefined'?0:Number(loadedChapter);
-    const active=['genesis','exodus','leviticus'].includes(book?.id)&&
+    const active=!!book?.id&&
       chapter>=1&&chapter<=book.chapters&&
       typeof language!=='undefined'&&language==='he';
     if(active&&!allGlosses)loadGlosses();
     const key=active&&allGlosses?book.id+':'+chapter:'';
     if(key!==glossesKey){
-      const entries=key?allGlosses[book.id]?.[chapter]||{}:{};
-      normalized=Object.fromEntries(Object.entries(entries).map(([word,meaning])=>[clean(word),meaning]));
+      normalized=key?chapterGlosses(book.id,chapter):new Map();
       glossesKey=key;
     }
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
       if(!key){el.removeAttribute('data-genesis-gloss');return;}
-      const meaning=normalized[clean(el.textContent)];
+      const word=clean(el.textContent);
+      const meaning=normalized.get(word)??sharedGlosses.get(word);
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
