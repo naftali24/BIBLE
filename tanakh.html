@@ -3734,6 +3734,16 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
   box-shadow:0 1px 3px #0008;
 }
+.verse.genesisPhraseSpacing{position:relative}
+.karaokePhraseGloss{position:absolute;inset:0;pointer-events:none;z-index:21}
+.karaokePhraseGlossLine{
+  position:absolute;box-sizing:border-box;border-bottom:2px solid #8bdcff;
+}
+.karaokePhraseGlossLine.hasLabel{
+  background:#142c42;border-radius:4px 4px 0 0;box-shadow:0 1px 3px #0008;
+  color:#8bdcff;font:700 13px/1.25 Arial,sans-serif;text-align:center;
+  white-space:nowrap;padding:1px 4px;
+}
 </style>
 <script>
 (function(){
@@ -3759,7 +3769,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
   function addGlosses(target,words){
     for(const [word,meaning] of Object.entries(words||{})){
-      const key=clean(word);
+      const key=word.split(/\s+/).map(clean).filter(Boolean).join(' ');
       if(key&&typeof meaning==='string'&&meaning.trim()&&!target.has(key)){
         target.set(key,meaning);
       }
@@ -3775,6 +3785,76 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     return meanings;
   }
   let normalized=new Map();
+  let phraseLengths=[];
+  const versePhrases=new WeakMap();
+
+  function matchPhrases(words){
+    const matches=new Map();
+    const keys=words.map(word=>clean(word.textContent));
+    for(let start=0;start<keys.length;start++){
+      for(const length of phraseLengths){
+        const end=start+length;
+        if(end>keys.length)continue;
+        const key=keys.slice(start,end).join(' ');
+        const meaning=normalized.get(key)??sharedGlosses.get(key);
+        if(!meaning)continue;
+        const phrase={words:words.slice(start,end),meaning};
+        for(const word of phrase.words)matches.set(word,phrase);
+        start=end-1;
+        break;
+      }
+    }
+    return matches;
+  }
+  function phraseAt(verse,word){
+    let state=versePhrases.get(verse);
+    if(state?.key!==glossesKey||!state.matches.has(word)&&!state.words.has(word)){
+      const words=Array.from(verse.querySelectorAll('.karaokeWord'));
+      state={key:glossesKey,matches:matchPhrases(words),words:new Set(words)};
+      versePhrases.set(verse,state);
+    }
+    return state.matches.get(word);
+  }
+  function showPhrase(verse,phrase){
+    if(phrase.label)return;
+    const label=document.createElement('span');
+    label.className='karaokePhraseGloss';
+    verse.classList.add('genesisPhraseSpacing');
+    verse.append(label);
+    phrase.label=label;
+    label.phrase=phrase;
+  }
+  function positionPhrases(verse){
+    const origin=verse.getBoundingClientRect();
+    for(const label of verse.querySelectorAll('.karaokePhraseGloss')){
+      if(!label.phrase.words[0].isConnected){label.remove();continue;}
+      const lines=[];
+      for(const word of label.phrase.words){
+        for(const rect of word.getClientRects()){
+          if(!rect.width)continue;
+          const line=lines.find(line=>Math.abs(line.top-rect.top)<3);
+          if(line){
+            line.left=Math.min(line.left,rect.left);
+            line.right=Math.max(line.right,rect.right);
+          }else lines.push({top:rect.top,left:rect.left,right:rect.right});
+        }
+      }
+      while(label.children.length>lines.length)label.lastElementChild.remove();
+      lines.forEach((line,index)=>{
+        let segment=label.children[index];
+        if(!segment){
+          segment=document.createElement('span');
+          segment.className='karaokePhraseGlossLine'+(index===0?' hasLabel':'');
+          if(index===0)segment.textContent=label.phrase.meaning;
+          label.append(segment);
+        }
+        segment.style.left=(line.left-origin.left-verse.clientLeft+verse.scrollLeft)+'px';
+        segment.style.width=(line.right-line.left)+'px';
+        segment.style.top=(line.top-origin.top-verse.clientTop+verse.scrollTop)+'px';
+        segment.style.transform='translateY(calc(-100% + 3px))';
+      });
+    }
+  }
   function lookupGloss(word){
     const exact=normalized.get(word)??sharedGlosses.get(word);
     if(exact)return exact;
@@ -3793,7 +3873,11 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     if(!measure)return;
     measure.font='700 13px Arial';
     for(const verse of document.querySelectorAll('.card .verse')){
-      const placed=[];
+      positionPhrases(verse);
+      const placed=Array.from(verse.querySelectorAll('.karaokePhraseGlossLine'),segment=>{
+        const {left,right,top}=segment.getBoundingClientRect();
+        return {left,right,top};
+      });
       for(const el of verse.querySelectorAll('.karaokeWord[data-genesis-gloss]')){
         const rect=el.getBoundingClientRect();
         if(!rect.width)continue;
@@ -3824,17 +3908,31 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     const key=active&&allGlosses?book.id+':'+chapter:'';
     if(key!==glossesKey){
       normalized=key?chapterGlosses(book.id,chapter):new Map();
+      const lengths=new Set();
+      if(key){
+        for(const index of [normalized,sharedGlosses]){
+          for(const word of index.keys())if(word.includes(' '))lengths.add(word.split(' ').length);
+        }
+      }
+      phraseLengths=[...lengths].sort((a,b)=>b-a);
+      document.querySelectorAll('.karaokePhraseGloss').forEach(label=>label.remove());
       glossesKey=key;
     }
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
       if(!key){el.removeAttribute('data-genesis-gloss');return;}
-      const word=clean(el.textContent);
-      const meaning=lookupGloss(word);
+      const verse=el.closest('.verse');
+      const phrase=phraseLengths.length&&verse?phraseAt(verse,el):null;
+      if(phrase){
+        for(const word of phrase.words)word.removeAttribute('data-genesis-gloss');
+        showPhrase(verse,phrase);
+        return;
+      }
+      const meaning=lookupGloss(clean(el.textContent));
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
     document.querySelectorAll('.verse').forEach(verse=>{
-      const hasGloss=key&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
+      const hasGloss=key&&!!verse.querySelector('.karaokeWord[data-genesis-gloss],.karaokePhraseGloss');
       if(!hasGloss){
         // Never collapse spacing after the first gloss: karaoke temporarily clears
         // active-word classes and would otherwise make the lines jump repeatedly.
@@ -3854,6 +3952,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   document.addEventListener('DOMContentLoaded',()=>{
     const target=document.querySelector('main')||document.body;
     new MutationObserver(annotate).observe(target,{subtree:true,attributes:true,attributeFilter:['class']});
+    window.addEventListener('resize',annotate);
     annotate();
   });
 })();
