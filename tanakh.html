@@ -3716,11 +3716,11 @@ body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
 }
 </style>
 
-<!-- Genesis 1–50 karaoke word glosses; data in root word_glosses.json -->
+<!-- Genesis and Exodus karaoke word glosses; data in root word_glosses.json -->
 <style>
 /* Reserve vertical space for blue glosses so they never cover ordinary words on the preceding line. */
 body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-line-height,1.36)!important;padding-top:var(--genesis-gloss-top-padding,0px)!important;overflow:visible!important;}
-/* Genesis 1: once a difficult word is highlighted, keep its light-blue gloss visible. */
+/* Keep a difficult word's light-blue gloss visible once it is highlighted. */
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
   content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% - 3px);right:50%;
@@ -3733,26 +3733,18 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 <script>
 (function(){
   // Chapter-specific word meanings live in the shared root word_glosses.json.
-  let glosses={};
-  let glossesReady=false;
-  let glossesChapter=0;
   let allGlosses=null;
   let glossesLoading=false;
+  let glossesKey='';
   async function loadGlosses(){
     if(glossesLoading)return;
     glossesLoading=true;
     try{
-      if(!allGlosses){
-        const response=await fetch('word_glosses.json',{cache:'no-store'});
-        if(!response.ok)throw new Error('Glosses HTTP '+response.status);
-        allGlosses=await response.json();
-      }
-      glossesChapter=Number(loadedChapter);
-      glosses=allGlosses?.genesis?.[String(glossesChapter)]||{};
-      glossesReady=true;
-      normalized=Object.fromEntries(Object.entries(glosses).map(([k,v])=>[clean(k),v]));
+      const response=await fetch('word_glosses.json',{cache:'no-store'});
+      if(!response.ok)throw new Error('Glosses HTTP '+response.status);
+      allGlosses=await response.json();
       annotate();
-    }catch(err){console.warn('Genesis word glosses unavailable:',err);}
+    }catch(err){console.warn('Karaoke word glosses unavailable:',err);}
     finally{glossesLoading=false;}
   }
   function clean(s){return String(s||'').normalize('NFD').replace(/[\u0591-\u05C7]/g,'').replace(/[^\u05D0-\u05EA]/g,'');}
@@ -3785,19 +3777,26 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     }
   }
   function annotate(){
-    const active=typeof loadedBook!=='undefined'&&loadedBook?.id==='genesis'&&typeof loadedChapter!=='undefined'&&Number(loadedChapter)>=1&&Number(loadedChapter)<=50&&typeof language!=='undefined'&&language==='he';
-    if(active&&(!glossesReady||glossesChapter!==Number(loadedChapter))){
-      glossesReady=false;
-      loadGlosses();
+    const book=typeof loadedBook==='undefined'?null:loadedBook;
+    const chapter=typeof loadedChapter==='undefined'?0:Number(loadedChapter);
+    const active=['genesis','exodus'].includes(book?.id)&&
+      chapter>=1&&chapter<=book.chapters&&
+      typeof language!=='undefined'&&language==='he';
+    if(active&&!allGlosses)loadGlosses();
+    const key=active&&allGlosses?book.id+':'+chapter:'';
+    if(key!==glossesKey){
+      const entries=key?allGlosses[book.id]?.[chapter]||{}:{};
+      normalized=Object.fromEntries(Object.entries(entries).map(([word,meaning])=>[clean(word),meaning]));
+      glossesKey=key;
     }
     document.querySelectorAll('.karaokeWord.karaokeActive').forEach(el=>{
-      if(!active||!glossesReady){el.removeAttribute('data-genesis-gloss');return;}
+      if(!key){el.removeAttribute('data-genesis-gloss');return;}
       const meaning=normalized[clean(el.textContent)];
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
     document.querySelectorAll('.verse').forEach(verse=>{
-      const hasGloss=active&&glossesReady&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
+      const hasGloss=key&&!!verse.querySelector('.karaokeWord[data-genesis-gloss]');
       if(!hasGloss){
         // Never collapse spacing after the first gloss: karaoke temporarily clears
         // active-word classes and would otherwise make the lines jump repeatedly.
