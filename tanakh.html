@@ -3749,7 +3749,6 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 (function(){
   // Chapter-specific word meanings live in the shared root word_glosses.json.
   let allGlosses=null;
-  const sharedGlosses=new Map();
   let glossesLoading=false;
   let glossesKey='';
   async function loadGlosses(){
@@ -3759,10 +3758,6 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       const response=await fetch('word_glosses.json',{cache:'no-store'});
       if(!response.ok)throw new Error('Glosses HTTP '+response.status);
       allGlosses=await response.json();
-      for(const [bookId,chapters] of Object.entries(allGlosses)){
-        if(bookId==='_reviewedChapters')continue;
-        for(const words of Object.values(chapters))addGlosses(sharedGlosses,words);
-      }
       annotate();
     }catch(err){console.warn('Karaoke word glosses unavailable:',err);}
     finally{glossesLoading=false;}
@@ -3776,18 +3771,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       }
     }
   }
-  function chapterGlosses(bookId,chapter){
-    const chapters=allGlosses[bookId]||{};
-    const meanings=new Map();
-    addGlosses(meanings,chapters[chapter]);
-    const nearby=Object.keys(chapters).map(Number).filter(n=>n!==chapter)
-      .sort((a,b)=>Math.abs(a-chapter)-Math.abs(b-chapter)||a-b);
-    for(const other of nearby)addGlosses(meanings,chapters[other]);
-    return meanings;
-  }
   let normalized=new Map();
-  let reviewedChapter=false;
-  let excludedGlosses=new Set();
   let phraseLengths=[];
   const versePhrases=new WeakMap();
 
@@ -3799,8 +3783,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         const end=start+length;
         if(end>keys.length)continue;
         const key=keys.slice(start,end).join(' ');
-        if(excludedGlosses.has(key))continue;
-        const meaning=normalized.get(key)??(reviewedChapter?undefined:sharedGlosses.get(key));
+        const meaning=normalized.get(key);
         if(!meaning)continue;
         const phrase={words:words.slice(start,end),meaning};
         for(const word of phrase.words)matches.set(word,phrase);
@@ -3859,20 +3842,6 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       });
     }
   }
-  function lookupGloss(word){
-    if(excludedGlosses.has(word))return;
-    if(reviewedChapter)return normalized.get(word);
-    const exact=normalized.get(word)??sharedGlosses.get(word);
-    if(exact)return exact;
-
-    // Try attached conjunctions, particles, prepositions and the definite article.
-    const prefixes=word.match(/^ו?ש?[בכלמ]?ה?/)?.[0]||'';
-    for(let length=1;length<=prefixes.length&&word.length-length>=2;length++){
-      const base=word.slice(length);
-      const meaning=normalized.get(base)??sharedGlosses.get(base);
-      if(meaning)return meaning;
-    }
-  }
   // Keep existing blue glosses in place; if a new one overlaps, move only the new gloss left.
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
@@ -3913,20 +3882,10 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     if(active&&!allGlosses)loadGlosses();
     const key=active&&allGlosses?book.id+':'+chapter:'';
     if(key!==glossesKey){
-      reviewedChapter=!!key&&allGlosses._reviewedChapters?.[book.id]?.includes(chapter)===true;
       normalized=new Map();
-      if(reviewedChapter)addGlosses(normalized,allGlosses[book.id]?.[chapter]);
-      else if(key)normalized=chapterGlosses(book.id,chapter);
-      excludedGlosses=new Set(Object.entries(key?allGlosses[book.id]?.[chapter]||{}:{})
-        .filter(([,meaning])=>meaning===null)
-        .map(([word])=>word.split(/\s+/).map(clean).filter(Boolean).join(' ')));
-      const lengths=new Set();
-      if(key){
-        for(const index of reviewedChapter?[normalized]:[normalized,sharedGlosses]){
-          for(const word of index.keys())if(word.includes(' '))lengths.add(word.split(' ').length);
-        }
-      }
-      phraseLengths=[...lengths].sort((a,b)=>b-a);
+      if(key)addGlosses(normalized,allGlosses[book.id]?.[chapter]);
+      phraseLengths=[...new Set(Array.from(normalized.keys())
+        .filter(word=>word.includes(' ')).map(word=>word.split(' ').length))].sort((a,b)=>b-a);
       document.querySelectorAll('.karaokePhraseGloss').forEach(label=>label.remove());
       glossesKey=key;
     }
@@ -3939,7 +3898,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         showPhrase(verse,phrase);
         return;
       }
-      const meaning=lookupGloss(clean(el.textContent));
+      const meaning=normalized.get(clean(el.textContent));
       if(meaning)el.setAttribute('data-genesis-gloss',meaning);
       else el.removeAttribute('data-genesis-gloss');
     });
