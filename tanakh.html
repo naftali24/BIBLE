@@ -3759,7 +3759,8 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       const response=await fetch('word_glosses.json',{cache:'no-store'});
       if(!response.ok)throw new Error('Glosses HTTP '+response.status);
       allGlosses=await response.json();
-      for(const chapters of Object.values(allGlosses)){
+      for(const [bookId,chapters] of Object.entries(allGlosses)){
+        if(bookId==='_reviewedChapters')continue;
         for(const words of Object.values(chapters))addGlosses(sharedGlosses,words);
       }
       annotate();
@@ -3785,6 +3786,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     return meanings;
   }
   let normalized=new Map();
+  let reviewedChapter=false;
   let excludedGlosses=new Set();
   let phraseLengths=[];
   const versePhrases=new WeakMap();
@@ -3798,7 +3800,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         if(end>keys.length)continue;
         const key=keys.slice(start,end).join(' ');
         if(excludedGlosses.has(key))continue;
-        const meaning=normalized.get(key)??sharedGlosses.get(key);
+        const meaning=normalized.get(key)??(reviewedChapter?undefined:sharedGlosses.get(key));
         if(!meaning)continue;
         const phrase={words:words.slice(start,end),meaning};
         for(const word of phrase.words)matches.set(word,phrase);
@@ -3859,6 +3861,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   }
   function lookupGloss(word){
     if(excludedGlosses.has(word))return;
+    if(reviewedChapter)return normalized.get(word);
     const exact=normalized.get(word)??sharedGlosses.get(word);
     if(exact)return exact;
 
@@ -3910,13 +3913,16 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     if(active&&!allGlosses)loadGlosses();
     const key=active&&allGlosses?book.id+':'+chapter:'';
     if(key!==glossesKey){
-      normalized=key?chapterGlosses(book.id,chapter):new Map();
+      reviewedChapter=!!key&&allGlosses._reviewedChapters?.[book.id]?.includes(chapter)===true;
+      normalized=new Map();
+      if(reviewedChapter)addGlosses(normalized,allGlosses[book.id]?.[chapter]);
+      else if(key)normalized=chapterGlosses(book.id,chapter);
       excludedGlosses=new Set(Object.entries(key?allGlosses[book.id]?.[chapter]||{}:{})
         .filter(([,meaning])=>meaning===null)
         .map(([word])=>word.split(/\s+/).map(clean).filter(Boolean).join(' ')));
       const lengths=new Set();
       if(key){
-        for(const index of [normalized,sharedGlosses]){
+        for(const index of reviewedChapter?[normalized]:[normalized,sharedGlosses]){
           for(const word of index.keys())if(word.includes(' '))lengths.add(word.split(' ').length);
         }
       }
