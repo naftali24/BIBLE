@@ -1142,6 +1142,7 @@ body.introMode #verseArrowRow{display:none!important}
 #verseArrowRow #chapterStepControls #verseNext{margin-right:0!important}
 #verseAudioDock{display:flex;align-items:center;margin-left:20px}
 #verseAudioDock:empty{margin-left:0}
+body.verseAudioStarting #verseArrowRow #verseAudioDock .verseAudioBtn{display:none!important}
 #cards .num{display:flex;align-items:center;gap:6px;direction:rtl}
 #cards .num.englishNum{direction:ltr}
 .verseHeadingAudioControls{
@@ -1314,7 +1315,7 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 #verseArrowRow.scrollHintVisible #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
 </style>
 </head>
-<body class="introMode">
+<body class="introMode verseAudioStarting">
 <header>
 
 
@@ -3440,6 +3441,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   hint.id='imageScrollHint';hint.setAttribute('aria-live','polite');
   row.appendChild(hint);
   let shown=false, timer=null;
+  let speakerTimerStarted=false;
   function updateLanguage(){
     hint.textContent=(typeof language!=='undefined'&&language==='en')
       ? 'You can also scroll on the image' : 'אפשר לגלול גם על התמונה';
@@ -3447,7 +3449,12 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   }
   function check(){
     updateLanguage();
-    if(shown||document.body.classList.contains('introMode')||!document.querySelector('#cards>.card'))return;
+    if(document.body.classList.contains('introMode')||!document.querySelector('#cards>.card.singleVisible'))return;
+    if(!speakerTimerStarted){
+      speakerTimerStarted=true;
+      setTimeout(()=>document.body.classList.remove('verseAudioStarting'),7000);
+    }
+    if(shown)return;
     shown=true;
     hint.classList.add('visible');
     row.classList.add('scrollHintVisible');
