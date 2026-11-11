@@ -1139,6 +1139,14 @@ body:not(.introMode) #verseArrowRow{display:flex!important;position:relative!imp
 body.introMode #verseArrowRow{display:none!important}
 #verseArrowRow #chapterStepControls{position:relative!important;inset:auto!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;height:55px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;padding:0 10px!important;pointer-events:none!important}
 #verseArrowRow #chapterStepControls button{pointer-events:auto!important}
+#verseArrowRow #chapterStepControls #verseNext{margin-right:0!important}
+#verseAudioDock{display:flex;align-items:center;gap:4px;margin-left:5px}
+#verseAudioDock:empty{margin-left:0}
+#verseArrowRow #verseAudioDock .verseAudioBtn{
+  display:inline-flex!important;flex:0 0 auto;width:43px!important;margin:0!important;
+  padding:0!important;opacity:1!important;
+}
+#verseAudioDock #speedSel{pointer-events:auto!important}
 #main,#cards{min-height:0!important}
 #cards>.card.singleVisible{height:100%!important;max-height:100%!important;overflow-y:auto!important;padding-bottom:10px!important;touch-action:pan-y!important;-webkit-overflow-scrolling:touch}
 #main{touch-action:pan-y!important;overflow:hidden!important}
@@ -1345,7 +1353,7 @@ body.introMode #imageSection #img{width:100%!important;height:100%!important;obj
 </div>
 <section id="imageSection">
   <div id="cap">תנ״ך</div>
-  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
+  <div id="chapterStepControls"><button id="versePrevious" type="button" onclick="navigateSingleVerse(-1)" title="פסוק קודם" aria-label="פסוק קודם">⬆</button><div id="verseAudioDock"></div><button id="verseNext" type="button" onclick="navigateSingleVerse(1)" title="פסוק הבא" aria-label="פסוק הבא">⬇</button></div>
   <div id="imageBox">
     <div id="imageLoading" aria-hidden="true"></div>
     <img id="img" src="https://i.etsystatic.com/53815286/r/il/9d0b5b/7277717519/il_570xN.7277717519_s0js.jpg">
@@ -2888,8 +2896,8 @@ function cleanTranslationMarks(value){
   .replace(/\s+/g,' ').trim();
 }
 function scrollCardToTop(el){
-  const card=el?.closest?.('.card');if(!card)return;
-  const vi=verseCards.indexOf(card);
+  const card=el?.closest?.('.card');
+  const vi=card?verseCards.indexOf(card):Number(el?.dataset.vi);
   if(vi>=0)alignHighlightedVerse(vi,true);
 }
 
@@ -3250,6 +3258,16 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
    selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
    verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
    const activeCard=verseCards[selectedVerse], arrows=persistentArrows;
+   const dock=document.getElementById('verseAudioDock');
+   const docked=dock.querySelector('.verseAudioBtn');
+   if(docked&&docked.dataset.vi!==String(selectedVerse)){
+     const previousCard=verseCards[Number(docked.dataset.vi)];
+     const previousHeading=previousCard?.querySelector('.num');
+     if(previousHeading)previousHeading.append(docked);
+     else docked.remove();
+   }
+   const speaker=activeCard.querySelector('.verseAudioBtn');
+   if(speaker)dock.prepend(speaker);
    if(arrows.parentElement!==document.getElementById('verseArrowRow')) document.getElementById('verseArrowRow').appendChild(arrows);
    verseAtTop=selectedVerse;
    pane.scrollTop=0;
@@ -3267,6 +3285,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  render=function(){
    // originalRender replaces card.innerHTML; detach the arrows before that happens.
    // Arrows remain in their independent row, outside the verse box.
+   document.querySelector('#verseAudioDock .verseAudioBtn')?.remove();
    originalRender();
    applySingle(Math.min(selectedVerse,verseCards.length-1));
  };
@@ -3472,7 +3491,8 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
      // No countdown.
      // Keep controls visible until the verse audio button is clicked.
    };
-   const firstAudio=()=>document.querySelector('#cards > .card.singleVisible .num .verseAudioBtn');
+   const audioDock=document.getElementById('verseAudioDock');
+   const firstAudio=()=>audioDock.querySelector('.verseAudioBtn');
    const hide=()=>{
      clearTimeout(timer);clearInterval(ticker);
      speed.classList.remove('speedTenSeconds');
@@ -3505,11 +3525,12 @@ body > #speedSel.speedTenSeconds{display:block!important;position:fixed!importan
    speed.addEventListener('pointerdown',renewSpeedWindow);
    speed.addEventListener('click',renewSpeedWindow);
    speed.addEventListener('change',renewSpeedWindow);
-   document.getElementById('cards')?.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){finished=true;hide();}},true);
+   audioDock.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){finished=true;hide();}},true);
    const observer=new MutationObserver(check);
    const cards=document.getElementById('cards');
    if(cards)observer.observe(cards,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
    observer.observe(document.body,{attributes:true,attributeFilter:['class']});
+   observer.observe(audioDock,{childList:true});
    // The in-app restart (↻) refreshes the chapter without reloading the page.
    // Start a fresh ten-second window after that restart renders its verses.
    document.getElementById('reloadChapterBtn')?.addEventListener('click',()=>{
@@ -3568,7 +3589,7 @@ body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;mi
 <style id="speed-beside-verse-audio-final">
 /* The selector lives directly after the first verse speaker, including in fullscreen. */
 #speedSel{display:none!important}
-#cards .num #speedSel.speedTenSeconds{
+#verseAudioDock #speedSel.speedTenSeconds{
   display:inline-flex!important;position:static!important;
   vertical-align:middle!important;margin-inline-start:5px!important;
   width:56px!important;min-width:56px!important;max-width:56px!important;
@@ -3694,7 +3715,7 @@ body > #speedSel.speedTenSeconds{display:block!important;width:56px!important;mi
 /* Never display the speed selector when detached from the visible verse. */
 body > #speedSel.speedTenSeconds,
 body > #speedSel.miniSpeed.speedTenSeconds {display:none!important;position:static!important;}
-#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+#verseAudioDock #speedSel.speedTenSeconds {
   display:inline-flex!important;position:static!important;top:auto!important;right:auto!important;left:auto!important;bottom:auto!important;
 }
 </style>
@@ -3711,9 +3732,9 @@ body > #speedSel.speedTenSeconds {
   visibility:hidden!important;
 }
 /* Only the currently visible verse may display the control in either language. */
-body.lang-en #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
-body.lang-he #cards > .card.singleVisible .num #speedSel.speedTenSeconds,
-#cards > .card.singleVisible .num #speedSel.speedTenSeconds {
+body.lang-en #verseAudioDock #speedSel.speedTenSeconds,
+body.lang-he #verseAudioDock #speedSel.speedTenSeconds,
+#verseAudioDock #speedSel.speedTenSeconds {
   display:inline-flex!important;
   position:static!important;
   visibility:visible!important;
@@ -3952,13 +3973,14 @@ header #topControls > #wordTranslation.show{
   const setup=()=>{
     const btn=document.getElementById('sequenceBtn');
     const cards=document.getElementById('cards');
-    if(!btn||!cards)return;
+    const dock=document.getElementById('verseAudioDock');
+    if(!btn||!cards||!dock)return;
     btn.classList.add('sequenceNearAudio');
     let timer=null,lastAudio=null;
     function place(){
-      const first=cards.querySelector('.card .verseAudioBtn');
-      if(!first){btn.classList.remove('sequenceSevenVisible');return;}
-      if(btn.parentNode!==first.parentNode)first.insertAdjacentElement('afterend',btn);
+      const first=cards.querySelector('.card');
+      if(!first||!dock.querySelector('.verseAudioBtn')){btn.classList.remove('sequenceSevenVisible');return;}
+      if(btn.parentNode!==dock)dock.append(btn);
       if(first!==lastAudio){
         lastAudio=first;
         btn.classList.add('sequenceSevenVisible');
@@ -3966,8 +3988,10 @@ header #topControls > #wordTranslation.show{
         // Keep visible until the verse speaker is clicked.
       }
     }
-    cards.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){btn.classList.remove('sequenceSevenVisible');lastAudio=cards.querySelector('.card .verseAudioBtn');}},true);
-    new MutationObserver(place).observe(cards,{childList:true,subtree:true});
+    dock.addEventListener('click',e=>{if(e.target.closest('.verseAudioBtn')){btn.classList.remove('sequenceSevenVisible');lastAudio=cards.querySelector('.card');}},true);
+    const observer=new MutationObserver(place);
+    observer.observe(cards,{childList:true,subtree:true});
+    observer.observe(dock,{childList:true});
     place();
   };
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',setup);
