@@ -1620,7 +1620,7 @@ function updateReadingHeading(index=verseAtTop){
   const total=book.chapters||'';
   const label=language==='en'
     ? `${name} (${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chapter ${chapter} Verse ${verse} (${versesInChapter})`
-    : `${name}(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse} (${versesInChapter})`;
+    : `${name}\u00a0(${total})\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0פרק ${chapter} פסוק ${verse} (${versesInChapter})`;
   bookTitle.textContent=label;
   chapterCounter.textContent='';
   bookTitle.dir=language==='en'?'ltr':'rtl';
@@ -1643,7 +1643,6 @@ let manualScrollUntil=0;
 const mainScrollPane=document.getElementById('main');
 function noteManualScroll(){
   manualScrollUntil=Date.now()+1400;
-  if(audio.paused){verseCards.forEach(c=>c.classList.remove('active'));}
 }
 mainScrollPane.addEventListener('wheel',noteManualScroll,{passive:true});
 mainScrollPane.addEventListener('touchmove',noteManualScroll,{passive:true});
@@ -3268,7 +3267,11 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
  function applySingle(i){
    if(!verseCards.length)return;
    selectedVerse=Math.max(0,Math.min(verseCards.length-1,i));
-   verseCards.forEach((card,j)=>card.classList.toggle('singleVisible',j===selectedVerse));
+   verseCards.forEach((card,j)=>{
+     const visible=j===selectedVerse;
+     card.classList.toggle('singleVisible',visible);
+     card.classList.toggle('active',visible);
+   });
    const activeCard=verseCards[selectedVerse], arrows=persistentArrows;
    const dock=document.getElementById('verseAudioDock');
    const docked=dock.querySelector('.verseAudioBtn');
