@@ -3462,7 +3462,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
     timer=setTimeout(()=>{
       hint.classList.remove('visible');
       row.classList.remove('scrollHintVisible');
-    },7000);
+    },4000);
   }
   const observer=new MutationObserver(check);
   observer.observe(document.body,{attributes:true,attributeFilter:['class']});
