@@ -3790,7 +3790,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 /* Keep a difficult word's gloss visible once it is highlighted. */
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
-  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
+  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px + var(--gloss-lane, 0)*19px);right:50%;
   transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;
   font:700 13px/1.25 Arial,sans-serif;color:#fff;background:rgba(0,0,0,.67);
   padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
@@ -3940,20 +3940,36 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         const {left,right,top,bottom}=segment.getBoundingClientRect();
         return {left,right,top,bottom};
       });
-      for(const el of verse.querySelectorAll('.karaokeWord[data-genesis-gloss]')){
-        const rect=el.getBoundingClientRect();
-        if(!rect.width)continue;
-        const label=el.getAttribute('data-genesis-gloss')||'';
-        const width=measure.measureText(label).width+10;
-        const center=(rect.left+rect.right)/2;
-        const bottom=rect.top-2;
-        const top=bottom-18.25;
-        // Avoid the old cumulative left-shift, which detached captions from words.
-        // The word itself is the positioning anchor; overlaps are preferable
-        // to a caption appearing over an unrelated word.
-        el.style.setProperty('--gloss-left-shift','0px');
-        placed.push({left:center-width/2,right:center+width/2,top,bottom});
+      const wordItems=Array.from(verse.querySelectorAll('.karaokeWord[data-genesis-gloss]'))
+        .map(el=>{
+          const rect=el.getBoundingClientRect();
+          const label=el.getAttribute('data-genesis-gloss')||'';
+          const width=measure.measureText(label).width+10;
+          return {el,rect,width,center:(rect.left+rect.right)/2};
+        }).filter(item=>item.rect.width);
+      // Give neighboring captions independent lanes rather than letting them overlap.
+      // A caption stays centered on its own word; its lane changes only vertically.
+      const lineGroups=[];
+      for(const item of wordItems){
+        let group=lineGroups.find(g=>Math.abs(g.top-item.rect.top)<4);
+        if(!group){group={top:item.rect.top,items:[]};lineGroups.push(group);}
+        group.items.push(item);
       }
+      let maxLanes=1;
+      for(const group of lineGroups){
+        const lanes=[];
+        for(const item of group.items){
+          const left=item.center-item.width/2,right=item.center+item.width/2;
+          let lane=0;
+          while(lanes[lane]?.some(p=>left<p.right+3&&right>p.left-3))lane++;
+          (lanes[lane]??=[]).push({left,right});
+          item.el.style.setProperty('--gloss-lane',String(lane));
+          item.el.style.setProperty('--gloss-left-shift','0px');
+        }
+        maxLanes=Math.max(maxLanes,lanes.length);
+      }
+      const requiredHeight=Math.max(captionHeight, maxLanes*19);
+      if(reserveGlossSpace(verse,requiredHeight))positionPhrases(verse);
     }
   }
   function annotate(){
