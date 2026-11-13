@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>מהתחלה להיום — נפתלי וה־AI</title>
+<style>
+/* Shared visual rules from the Tanakh reader. */
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:#120b04;color:#fff;font-family:Arial,sans-serif}body{height:100dvh;overflow:hidden;display:flex;flex-direction:column}
+header{background:#0d0803;padding:7px;border-bottom:1px solid #805b17;flex:0 0 auto}h1{margin:0 0 6px;text-align:center;color:#ffd95e;text-shadow:0 2px #6d3d00;font-size:28px}
+.controls{display:flex;gap:7px;justify-content:center;align-items:center;flex-wrap:wrap}select,button,input{font-size:15px;font-weight:700;border:0;border-radius:10px;padding:8px 10px}select,button{background:linear-gradient(#ffe788,#d99a16);color:#241300}
+main{flex:1;min-height:0;overflow-y:auto;padding:8px 7px calc(36vh + 18px);scroll-behavior:smooth}.card{margin:8px auto;padding:11px 12px;border-radius:17px;border:1px solid rgba(255,214,79,.22);background:rgba(0,0,0,.34)}.card.active{background:linear-gradient(135deg,rgba(123,75,0,.58),rgba(20,10,0,.86));border-color:#ffe778;box-shadow:0 0 22px rgba(255,207,70,.38)}
+.num{color:#ffd85b;font-size:14px;font-weight:800}.verse{text-align:center;font-size:clamp(23px,4vw,35px);font-weight:900;line-height:1.34;color:#e5b843;text-shadow:0 1px #fff0a0,0 3px #875100,0 7px 10px #000}.active .verse{color:#fff3a9}.perush{text-align:center;margin-top:7px;padding-top:7px;border-top:1px solid rgba(255,255,255,.13);font-size:clamp(18px,3vw,25px);color:#ddd4c1}
+body{max-width:1200px;margin-inline:auto}
+header{padding:7px 9px}
+h1{font-size:clamp(20px,4.8vw,28px)}
+#topControls{display:flex;flex-wrap:wrap;gap:5px;align-items:center;justify-content:center}
+#wordTranslation{font-weight:900;display:inline-flex;align-items:center;justify-content:center;min-height:34px;max-width:min(40vw,260px);padding:3px 9px;border-radius:10px;background:linear-gradient(#ffe788,#d99a16);color:#241300;text-align:center;overflow-wrap:anywhere}
+.stationWord{cursor:pointer}
+.stationWord.selected{background:#fff0a3;color:#241300;border-radius:3px;text-shadow:none;font-weight:900;outline:2px solid #ffd455}
+body{--control-size:44px}
+#topControls button,#cap button{width:var(--control-size);height:var(--control-size);min-height:var(--control-size);padding:3px}
+#topControls .iconControl{display:grid;place-items:center;flex:none;font-size:30px;line-height:1}
+.iconControl svg{width:100%;height:100%}
+#speak .stopIcon,#speak[aria-pressed=true] .playIcon{display:none}
+#speak[aria-pressed=true] .stopIcon{display:block}
+button,select,summary{cursor:pointer}
+button,select{min-height:38px}
+button:disabled{opacity:.42;cursor:default}
+:focus-visible{outline:2px solid #fff2a4;outline-offset:2px}
+#sequence[aria-pressed=true]{background:linear-gradient(#9ff0aa,#2f9d4b)}
+#sequence[aria-pressed=true],#speak[aria-pressed=true]{box-shadow:inset 0 0 0 2px #fff0a3}
+#menuBtn{display:grid;place-items:center;flex:none;line-height:1}
+#menuBtn small{font-size:10px}
+main{padding:7px;overflow:hidden;display:flex;flex-direction:column}
+.card.active{width:100%;margin:0;flex:1;min-height:0;display:flex;flex-direction:column}
+.num{display:block;text-align:start;font-size:clamp(13px,3.8vw,19px)}
+#stationTimeRow{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:5px}
+#stationTime{min-width:0;text-align:center;color:#bfe7ff;font-size:clamp(16px,3.9vmin,22px);font-weight:700}
+#stationGpt{flex:none;display:inline-grid;place-items:center;width:52px;height:52px;padding:3px;border-radius:8px;background:linear-gradient(#ffe788,#d99a16);color:#241300;font-size:18px;font-weight:900;text-decoration:none}
+#stationHeading{display:flex;align-items:baseline;gap:8px}
+#stationNumber{flex:none;white-space:nowrap}
+#stationTitle{margin:0;min-width:0;flex:1;color:#bfe7ff;text-align:center;font-size:clamp(20px,5vw,35px)}
+#stationBoxes{display:grid;grid-template-rows:minmax(0,calc(50% + 9px)) minmax(0,1fr);flex:1;min-height:0;gap:5px;margin-top:6px}
+.stationBox{margin:0;padding:5px 8px;min-height:0;overflow:auto;overflow-wrap:anywhere;overscroll-behavior:contain;border:1px solid #8e661c;border-radius:9px;background:#160e08}
+.stationBox{font-size:clamp(21px,4vmin,39px)}
+[lang=en] .stationBox{font-size:clamp(20px,4.1vmin,39px)}
+#stationText{line-height:1.22}
+[lang=he] #stationText{font-size:clamp(20px,3.8vmin,37px)}
+#stationGlossary{color:#bfe7ff;line-height:1.25;text-align:start}
+#stationGlossary strong{color:#d6efff}
+[lang=en] #stationTimeRow{justify-content:flex-start}
+[lang=en] #stationTime,[lang=en] #stationTitle,[lang=en] #stationText{text-align:left}
+[lang=en] #stationText{font-family:"Segoe UI",Arial,Helvetica,sans-serif;font-weight:700;line-height:1.15;color:#fff7b5;text-shadow:0 1px #fff,0 3px #9a5b00,0 0 13px rgba(255,232,95,.85)}
+#status{display:block;text-align:center;font-size:13px;margin-top:5px}
+#status:empty{display:none}
+#imageSection{background:#080502;border-top:2px solid #8e661c;flex:0 0 35%;min-height:100px;display:flex;flex-direction:column}
+#cap{display:grid;grid-template-columns:var(--control-size) 1fr var(--control-size);align-items:center;gap:6px;padding:3px 8px;color:#ffe58a;background:#211207;font-weight:800;text-align:center}
+#cap button{display:grid;place-items:center;padding:0}
+#cap button svg{display:block;width:100%;height:100%}
+#imageBox{width:100%;flex:1;min-height:0;display:grid;place-items:center;background:#111;border:3px solid #8e661c;border-radius:12px;touch-action:none;color:#dbbd71;text-align:center;padding:10px;user-select:none}
+#imageBox img{width:100%;height:100%;min-height:0;object-fit:contain}
+dialog{width:min(460px,calc(100% - 24px));max-height:85dvh;overflow:auto;padding:12px;border:2px solid #d6a332;border-radius:15px;background:linear-gradient(145deg,#56310b,#211005);color:#ffe58a}
+dialog::backdrop{background:#080401d9}
+dialog h2{margin:4px 0 10px;text-align:center;font-size:20px}
+dialog button{width:100%;margin-top:6px;white-space:normal}
+dialog p{margin:6px;text-align:center}
+@media(max-height:480px){#imageSection{flex-basis:29%}.card{padding:5px 8px}header{padding:3px 8px}h1{margin-bottom:3px}}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<header>
+<h1 id="appTitle"></h1>
+<div id="topControls">
+<button type="button" id="menuBtn"><span aria-hidden="true">🦉</span><small id="menuLabel"></small></button>
+<button type="button" id="speak" class="iconControl" aria-pressed="false" aria-label="הקראה">
+<svg class="playIcon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M2 8h4l6-5v18l-6-5H2z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+<svg class="stopIcon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2" fill="currentColor"/></svg>
+</button>
+<button type="button" id="sequence" class="iconControl" aria-pressed="false" aria-label="רצף">
+<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10V8a3 3 0 0 1 3-3h14m-4-4 4 4-4 4m5 5v2a3 3 0 0 1-3 3H4m4-4-4 4 4 4" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</button>
+<button type="button" id="langBtn" class="iconControl" aria-label="תרגום לאנגלית">🇬🇧</button>
+<a id="stationGpt" target="_blank" rel="noopener noreferrer">GPT</a>
+<span id="wordTranslation" role="status" hidden></span>
+</div>
+<output id="status" aria-live="polite"></output>
+</header>
+<main>
+<article class="card active" aria-live="polite">
+<div id="stationHeading">
+<span id="stationNumber" class="num" dir="ltr"></span>
+<h2 id="stationTitle"></h2>
+</div>
+<div id="stationTimeRow"><span id="stationTime"></span></div>
+<div id="stationBoxes">
+<p id="stationText" class="verse stationBox"></p>
+<div id="stationGlossary" class="stationBox" role="region" tabindex="0"></div>
+</div>
+</article>
+</main>
+<section id="imageSection">
+<div id="cap">
+<button type="button" id="previous"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 27 L24 14 L37 27 L31 33 L24 26 L17 33 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg></button>
+<span id="timeLabel"></span>
+<button type="button" id="next"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M11 21 L24 34 L37 21 L31 15 L24 22 L17 15 Z" fill="#080808" stroke="#080808" stroke-width="4" stroke-linejoin="round"/></svg></button>
+</div>
+<div id="imageBox"><span id="imagePlaceholder"></span><img id="picture" hidden alt=""></div>
+</section>
+<dialog id="periodDialog" aria-labelledby="periodTitle">
+<h2 id="periodTitle"></h2>
+<div id="periodList"></div>
+<button type="button" id="closePeriods"></button>
+</dialog>
+<script>
+"use strict";
+
+async function startTimeline() {
+  const response = await fetch("./history-data.json", { cache: "no-cache" });
+  if (!response.ok) throw new Error("Could not load timeline data: " + response.status);
+  const { periods, stations } = await response.json();
+  if (!Array.isArray(periods) || !Array.isArray(stations) || stations.length === 0) {
+    throw new Error("Invalid timeline data");
+  }
+  const periodStarts = periods.map(period => {
+    if (!period.ready) return -1;
+    return period.startStation ? stations.findIndex(station => station.id === period.startStation) : 0;
+  });
+  const sectionStarts = periods.map(period => (period.ready ? period.sections ?? [] : [])
+    .map(id => stations.findIndex(station => station.id === id))
+    .filter(start => start >= 0));
+  const counterStarts = [...periodStarts.filter(start => start >= 0), ...sectionStarts.flat()];
+  const byId = id => document.getElementById(id);
+  const copy = {
+    he: {
+      title: "מהתחלה להיום — נפתלי וה־AI", menu: "זמנים", play: "הקראה", stop: "עצור",
+      sequence: "רצף", language: "תרגום לאנגלית", previous: "תחנה קודמת",
+      next: "תחנה הבאה", periods: "תפריט זמנים", close: "חזרה",
+      pending: "בהמשך", empty: "כאן יוצגו התמונות. אפשר לגלול למעבר בין התחנות.",
+      unavailable: "הדפדפן או המכשיר לא הצליח להפעיל הקראה בשפה זו.",
+      gpt: "בקש מ־ChatGPT להרחיב על התחנה",
+      gptPrompt: (station, time) => ["אני לומד על ההיסטוריה של היקום והחיים.", "התחנה: " + station.title, "זמן: " + time, "הטקסט בתחנה: " + station.text, "הרחב בעברית פשוטה על מה שמתואר בתחנה. הסבר איך יודעים זאת, והבחן בין ממצאים מבוססים לבין השערות ומועדים משוערים."].join("\n"),
+      times: ["ראשית היקום","הכוכבים והגלקסיות הראשונים","לפני כ־4.6 B שנה","כדור הארץ הקדום","ראשית החיים","חיים חד־תאיים וחמצן","תאים בעלי גרעין","מתא אחד לבעלי החיים הראשונים","מהים ליבשה","דינוזאורים, ציפורים ויונקים","ענף האדם"]
+    },
+    en: {
+      title: "Beginning to Today — Naftali & AI", menu: "Eras", play: "Read aloud", stop: "Stop",
+      sequence: "Continuous", language: "Switch to Hebrew", previous: "Previous station",
+      next: "Next station", periods: "Choose an era", close: "Back",
+      pending: "Coming later", empty: "Images will appear here. Scroll here to change stations.",
+      unavailable: "Your browser or device could not read aloud in this language.",
+      gpt: "Ask ChatGPT to expand on this station",
+      gptPrompt: (station, time) => ["I am learning about the history of the universe and life.", "Station: " + station.title, "Time: " + time, "Station text: " + station.text, "Expand on this station in plain English. Explain how we know what happened and distinguish established evidence from hypotheses and approximate dates."].join("\n"),
+      times: ["The early universe","The first stars and galaxies","About 4.6 B years ago","Early Earth","The origin of life","Single-celled life and oxygen","Cells with a nucleus","From one cell to the first animals","From sea to land","Dinosaurs, birds, and mammals","The human lineage"]
+    }
+  };
+  let language = "he";
+  let selectedWord;
+  const englishTranslations = new Map();
+  let translationRequest = 0;
+
+  function renderStationText(text) {
+    const container = byId("stationText");
+    const output = byId("wordTranslation");
+    ++translationRequest;
+    selectedWord = undefined;
+    output.hidden = true;
+    output.textContent = "";
+    container.replaceChildren(...text.split(/([\p{L}][\p{L}\p{M}'’״׳]*)/u).map((part, index) => {
+      if (index % 2 === 0) return document.createTextNode(part);
+      const word = document.createElement("span");
+      word.className = "stationWord";
+      word.textContent = part;
+      word.tabIndex = 0;
+      word.setAttribute("role", "button");
+      word.onclick = () => translateWord(word);
+      word.onkeydown = event => {
+        if (event.key !== "Enter" && event.key !== " ") return;
+        event.preventDefault();
+        event.stopPropagation();
+        translateWord(word);
+      };
+      return word;
+    }));
+  }
+
+  async function translateWord(element) {
+    selectedWord?.classList.remove("selected");
+    selectedWord = element;
+    element.classList.add("selected");
+    const word = element.textContent;
+    const request = ++translationRequest;
+    const source = language;
+    const target = source === "he" ? "en" : "he";
+    const output = byId("wordTranslation");
+    output.hidden = false;
+    output.textContent = "מתרגם…";
+    const key = word.toLowerCase();
+    if (source === "en" && englishTranslations.has(key)) {
+      output.textContent = englishTranslations.get(key);
+      return;
+    }
+    try {
+      const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" +
+        source + "&tl=" + target + "&dt=t&q=" + encodeURIComponent(word);
+      const response = await fetch(url);
+      if (!response.ok) throw new Error("Translation request failed");
+      const result = await response.json();
+      const translation = (result[0] || []).map(segment => segment[0] || "").join("").trim();
+      if (source === "en" && translation) englishTranslations.set(key, translation);
+      if (request === translationRequest) output.textContent = translation || "—";
+    } catch {
+      if (request === translationRequest) {
+        output.textContent = "שגיאת תרגום";
+      }
+    }
+  }
+  let current = 0;
+  let playback = "";
+  let playbackToken = 0;
+  let utterance;
+  const synth = window.speechSynthesis;
+
+  function renderPlayback() {
+    byId("speak").setAttribute("aria-label", playback ? copy[language].stop : copy[language].play);
+    byId("speak").setAttribute("aria-pressed", String(Boolean(playback)));
+    byId("sequence").setAttribute("aria-label", copy[language].sequence);
+    byId("sequence").setAttribute("aria-pressed", String(playback === "continuous"));
+  }
+
+  function renderStation() {
+    const entry = stations[current];
+    const station = entry[language];
+    const counterStart = Math.max(...counterStarts.filter(start => start <= current));
+    const counterEnd = Math.min(stations.length, ...counterStarts.filter(start => start > current));
+    byId("stationNumber").textContent = (current - counterStart + 1) + " / " + (counterEnd - counterStart);
+    const time = entry.time[language];
+    byId("stationTime").textContent = time;
+    const gpt = byId("stationGpt");
+    gpt.href = "https://chatgpt.com/?q=" + encodeURIComponent(copy[language].gptPrompt(station, time));
+    gpt.setAttribute("aria-label", copy[language].gpt);
+    gpt.title = copy[language].gpt;
+    byId("stationTitle").textContent = station.title;
+    renderStationText(station.text);
+    byId("stationText").scrollTop = 0;
+    const glossary = byId("stationGlossary");
+    glossary.setAttribute("aria-label", language === "he" ? "הסבר מילים קשות" : "Glossary");
+    const separator = station.glossary.indexOf(" — ");
+    const term = document.createElement("strong");
+    term.textContent = station.glossary.slice(0, separator);
+    glossary.replaceChildren(term, document.createTextNode(station.glossary.slice(separator)));
+    glossary.scrollTop = 0;
+    byId("timeLabel").textContent = copy[language].times[entry.timeGroup];
+    byId("previous").disabled = current === 0;
+    byId("next").disabled = current === stations.length - 1;
+    byId("picture").hidden = !entry.image;
+    byId("imagePlaceholder").hidden = Boolean(entry.image);
+    if (entry.image) {
+      byId("picture").src = entry.image;
+      byId("picture").alt = station.imageAlt || station.title;
+    } else {
+      byId("picture").removeAttribute("src");
+    }
+  }
+
+  function renderLanguage() {
+    const labels = copy[language];
+    document.documentElement.lang = language;
+    document.documentElement.dir = language === "he" ? "rtl" : "ltr";
+    document.title = labels.title;
+    byId("appTitle").textContent = labels.title;
+    byId("menuLabel").textContent = labels.menu;
+    byId("langBtn").textContent = language === "he" ? "🇬🇧" : "🇮🇱";
+    byId("langBtn").setAttribute("aria-label", labels.language);
+    byId("menuBtn").setAttribute("aria-label", labels.periods);
+    for (const id of ["previous", "next"]) byId(id).setAttribute("aria-label", labels[id]);
+    byId("imagePlaceholder").textContent = labels.empty;
+    byId("periodTitle").textContent = labels.periods;
+    byId("closePeriods").textContent = labels.close;
+    const menuEntries = periods.flatMap((period, index) => {
+      const entries = [{
+        label: period[language] + (period.ready ? "" : " · " + labels.pending),
+        start: periodStarts[index]
+      }];
+      for (const start of sectionStarts[index]) {
+        entries.push({ label: labels.times[stations[start].timeGroup], start });
+      }
+      return entries;
+    });
+    byId("periodList").replaceChildren(...menuEntries.map(({ label, start }) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = label;
+      button.disabled = start < 0;
+      button.addEventListener("click", () => {
+        byId("periodDialog").close();
+        goTo(start);
+      });
+      return button;
+    }));
+    renderStation();
+    renderPlayback();
+  }
+
+  function stopSpeech() {
+    playbackToken++;
+    playback = "";
+    synth?.cancel();
+    utterance = null;
+    renderPlayback();
+  }
+
+  function readStation(mode) {
+    stopSpeech();
+    byId("status").textContent = "";
+    if (!synth || !window.SpeechSynthesisUtterance) {
+      byId("status").textContent = copy[language].unavailable;
+      return;
+    }
+    const token = playbackToken;
+    const station = stations[current][language];
+    utterance = new SpeechSynthesisUtterance(station.title + ". " + station.text);
+    const locale = language === "he" ? "he-IL" : "en-US";
+    const voices = synth.getVoices();
+    const voice = voices.find(item => item.lang === locale) ||
+      voices.find(item => item.lang.split(/[-_]/)[0] === language);
+    if (voice) utterance.voice = voice;
+    utterance.lang = locale;
+    utterance.onend = () => {
+      if (token !== playbackToken) return;
+      if (mode === "continuous" && current + 1 < stations.length) {
+        current++;
+        renderStation();
+        readStation(mode);
+      } else {
+        stopSpeech();
+      }
+    };
+    utterance.onerror = () => {
+      if (token !== playbackToken) return;
+      stopSpeech();
+      byId("status").textContent = copy[language].unavailable;
+    };
+    playback = mode;
+    renderPlayback();
+    synth.speak(utterance);
+  }
+
+  function goTo(index) {
+    if (index < 0 || index >= stations.length || index === current) return;
+    const mode = playback;
+    stopSpeech();
+    byId("status").textContent = "";
+    current = index;
+    renderStation();
+    if (mode === "continuous") readStation(mode);
+  }
+
+  byId("speak").onclick = () => playback ? stopSpeech() : readStation("single");
+  byId("sequence").onclick = () => playback === "continuous" ? stopSpeech() : readStation("continuous");
+  byId("langBtn").onclick = () => {
+    const mode = playback;
+    stopSpeech();
+    byId("status").textContent = "";
+    language = language === "he" ? "en" : "he";
+    renderLanguage();
+    if (mode) readStation(mode);
+  };
+  byId("previous").onclick = () => goTo(current - 1);
+  byId("next").onclick = () => goTo(current + 1);
+  byId("menuBtn").onclick = () => byId("periodDialog").showModal();
+  byId("closePeriods").onclick = () => byId("periodDialog").close();
+  let lastWheel = -Infinity;
+  byId("imageBox").addEventListener("wheel", event => {
+    event.preventDefault();
+    if (!event.deltaY || event.timeStamp - lastWheel < 280) return;
+    lastWheel = event.timeStamp;
+    goTo(current - Math.sign(event.deltaY));
+  }, { passive: false });
+  let swipeStart = null;
+  byId("imageBox").addEventListener("touchstart", event => {
+    swipeStart = event.touches.length === 1 ? event.touches[0].clientY : null;
+  }, { passive: true });
+  byId("imageBox").addEventListener("touchend", event => {
+    if (swipeStart === null) return;
+    const delta = swipeStart - event.changedTouches[0].clientY;
+    swipeStart = null;
+    if (Math.abs(delta) >= 32) goTo(current - Math.sign(delta));
+  }, { passive: true });
+  byId("imageBox").addEventListener("touchcancel", () => { swipeStart = null; });
+  document.addEventListener("keydown", event => {
+    if (document.querySelector("dialog[open]") || event.target.closest("button,select,a")) return;
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      event.preventDefault();
+      goTo(current + (event.key === "ArrowDown" ? 1 : -1));
+    }
+  });
+  window.addEventListener("pagehide", () => synth?.cancel());
+  document.getElementById("status").textContent = "";
+  renderLanguage();
+}
+
+document.getElementById("appTitle").textContent = document.title;
+document.getElementById("status").textContent = "טוען את ציר הזמן…";
+startTimeline().catch(error => {
+  console.error(error);
+  document.getElementById("status").textContent = "לא ניתן לטעון את ציר הזמן. רענן את הדף ונסה שוב.";
+});
+</script>
+</body>
+</html>
