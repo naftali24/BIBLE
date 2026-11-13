@@ -212,13 +212,8 @@ main{height:100dvh!important;overflow-y:auto!important;scroll-snap-type:y mandat
 .cards>.card:first-child header .en-title{font-size:clamp(20px,3.8vw,44px)!important;line-height:1.16!important;max-width:100%!important;white-space:normal!important;text-wrap:balance!important;overflow-wrap:normal!important}
 @media(max-width:600px){.cards>.card:first-child header .en-title{font-size:clamp(19px,4.35vw,28px)!important}}
 </style><style>
-/* Keep the 7-apps button invisible until the entire index has loaded. */
-html:not(.index-ready) .seven-apps-large{visibility:hidden!important;opacity:0!important}
 html.opening-tanakh .seven-apps-large{visibility:hidden}
 </style>
-<script id="index-show-seven-apps-after-load">
-window.addEventListener('load',function(){window.setTimeout(function(){document.documentElement.classList.add('index-ready')},5000)},{once:true});
-</script>
 <script id="tanakh-opening-transition">
 document.addEventListener('click', function(event){
   const link = event.target.closest('a[href]');
