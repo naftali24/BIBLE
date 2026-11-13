@@ -217,7 +217,7 @@ html:not(.index-ready) .seven-apps-large{visibility:hidden!important;opacity:0!i
 html.opening-tanakh .seven-apps-large{visibility:hidden}
 </style>
 <script id="index-show-seven-apps-after-load">
-window.addEventListener('load',function(){document.documentElement.classList.add('index-ready')},{once:true});
+window.addEventListener('load',function(){window.setTimeout(function(){document.documentElement.classList.add('index-ready')},1000)},{once:true});
 </script>
 <script id="tanakh-opening-transition">
 document.addEventListener('click', function(event){
