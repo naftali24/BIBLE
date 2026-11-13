@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "book": "ezekiel",
+  "book_name": "Ezekiel",
+  "chapter": 47,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 5,
+      "title": "The Water Flowing from the Temple",
+      "easy": [
+        {
+          "answers": [
+            "From under the threshold of the house",
+            "From the great sea",
+            "From the desert"
+          ],
+          "correct": 0,
+          "explanation": "The waters issued from under the threshold of the house.",
+          "q": "From where did the waters issue?"
+        },
+        {
+          "answers": [
+            "Westward",
+            "Eastward",
+            "Northward"
+          ],
+          "correct": 1,
+          "explanation": "The waters flowed eastward from the house.",
+          "q": "In which direction did the waters flow?"
+        },
+        {
+          "answers": [
+            "They disappeared",
+            "They became salty",
+            "They became deeper and stronger"
+          ],
+          "correct": 2,
+          "explanation": "The waters increased from shallow water to a river that could not be crossed.",
+          "q": "What happened to the waters as they were measured?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "The waters were to the ankles",
+            "The waters were to the loins",
+            "The waters were deep enough to swim in"
+          ],
+          "correct": 0,
+          "explanation": "After the first thousand cubits, the waters were to the ankles.",
+          "q": "What was the first depth measured?"
+        },
+        {
+          "answers": [
+            "The water reached the knees",
+            "The water reached the ankles",
+            "The water reached the shoulders"
+          ],
+          "correct": 1,
+          "explanation": "The KJV says the first measured depth reached the ancles, or ankles.",
+          "q": "What does “the waters were to the ancles” mean?"
+        },
+        {
+          "answers": [
+            "The waters had risen and were too deep",
+            "The gate had been shut",
+            "The river had dried up"
+          ],
+          "correct": 0,
+          "explanation": "The waters had risen so that the river could not be passed over.",
+          "q": "Why could Ezekiel not pass over the river at the final measurement?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The waters flowed in a circle",
+            "The waters grew deeper in stages",
+            "The waters remained at the same depth"
+          ],
+          "correct": 1,
+          "explanation": "Each measurement revealed a greater depth, showing a gradual increase.",
+          "q": "What does the repeated measuring of a thousand cubits show?"
+        },
+        {
+          "answers": [
+            "The house was the source of the river",
+            "The waters came only from the sea",
+            "The river began in the desert"
+          ],
+          "correct": 0,
+          "explanation": "The waters originated beneath the house, making it the source of the flow.",
+          "q": "What can be inferred from the waters coming from under the threshold of the house?"
+        },
+        {
+          "answers": [
+            "Loins, ankles, then an uncrossable river",
+            "Ankles, knees, loins, then an uncrossable river",
+            "An uncrossable river, knees, then ankles"
+          ],
+          "correct": 1,
+          "explanation": "The passage gives the order as ankles, knees, loins, and finally a river too deep to cross.",
+          "type": "short_answer",
+          "q": "Which sequence correctly gives the increasing depths?"
+        }
+      ],
+      "idea": 1
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 6,
+      "end_verse": 12,
+      "title": "Healing the Dead Sea and Blessing Life",
+      "easy": [
+        {
+          "answers": [
+            "Very many trees",
+            "High walls",
+            "Many houses"
+          ],
+          "correct": 0,
+          "explanation": "There were very many trees on both sides of the river.",
+          "q": "What did Ezekiel see beside the river?"
+        },
+        {
+          "answers": [
+            "They would freeze",
+            "They would be healed",
+            "They would disappear"
+          ],
+          "correct": 1,
+          "explanation": "The waters entering the sea would be healed.",
+          "q": "What would happen to the waters when they reached the sea?"
+        },
+        {
+          "answers": [
+            "Build bridges",
+            "Plant vineyards",
+            "Spread forth nets"
+          ],
+          "correct": 2,
+          "explanation": "The passage says the fishers would spread forth nets.",
+          "q": "What would the fishers do along the river?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "Fish would multiply and living things would flourish",
+            "The trees would wither",
+            "The river would become dry"
+          ],
+          "correct": 0,
+          "explanation": "The healed waters would support a great multitude of fish and other living things.",
+          "q": "What would result when the waters came into the sea?"
+        },
+        {
+          "answers": [
+            "A place for fishermen to use their nets",
+            "A place for storing salt",
+            "A place for planting trees"
+          ],
+          "correct": 0,
+          "explanation": "The phrase refers to a place where fishers could spread their nets.",
+          "q": "What does “a place to spread forth nets” describe?"
+        },
+        {
+          "answers": [
+            "They bore fruit only once",
+            "Their leaves never grew",
+            "They bore fruit and leaves for medicine"
+          ],
+          "correct": 2,
+          "explanation": "Their fruit was for meat, and their leaves were for medicine.",
+          "q": "What was special about the trees beside the river?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The multitude of fish",
+            "The miry places and marishes that remained salty",
+            "The trees on both sides"
+          ],
+          "correct": 1,
+          "explanation": "The miry places and marishes were not healed and were given to salt.",
+          "q": "What detail contrasts with the blessing of life in the river?"
+        },
+        {
+          "answers": [
+            "The waters from the sanctuary sustain the trees",
+            "The trees dry up the river",
+            "The fruit prevents the fish from multiplying"
+          ],
+          "correct": 0,
+          "explanation": "The trees receive life-giving waters that issued out of the sanctuary.",
+          "q": "What is the relationship between the river waters and the trees?"
+        },
+        {
+          "answers": [
+            "The waters could not support life",
+            "The river became a source of abundance and life",
+            "The fish lived only in salty marshes"
+          ],
+          "correct": 1,
+          "explanation": "The fish and fishers show the abundance produced by the healed waters.",
+          "type": "short_answer",
+          "q": "What can be inferred from the many fishers and the exceeding many fish?"
+        }
+      ],
+      "idea": 2
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 13,
+      "end_verse": 20,
+      "title": "The Boundaries of the Future Land",
+      "easy": [
+        {
+          "answers": [
+            "The twelve tribes of Israel",
+            "Only the tribe of Judah",
+            "Only the priests"
+          ],
+          "correct": 0,
+          "explanation": "The land was to be inherited according to the twelve tribes of Israel.",
+          "q": "For whom was the land to be inherited?"
+        },
+        {
+          "answers": [
+            "Dan",
+            "Joseph",
+            "Levi"
+          ],
+          "correct": 1,
+          "explanation": "The Lord said that Joseph would have two portions.",
+          "q": "Which tribe was to receive two portions?"
+        },
+        {
+          "answers": [
+            "Only north and south",
+            "Only east",
+            "North, east, south, and west"
+          ],
+          "correct": 2,
+          "explanation": "The passage describes all four sides of the land.",
+          "q": "In which directions are the boundaries described?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "The great sea",
+            "The Jordan",
+            "Damascus"
+          ],
+          "correct": 0,
+          "explanation": "The great sea formed the west side.",
+          "q": "What was the western boundary of the land?"
+        },
+        {
+          "answers": [
+            "Joseph would receive two inheritances",
+            "Joseph would receive no land",
+            "Joseph would rule over the entire land"
+          ],
+          "correct": 0,
+          "explanation": "Joseph was assigned two portions in the inheritance.",
+          "q": "What does “Joseph shall have two portions” mean?"
+        },
+        {
+          "answers": [
+            "The great sea",
+            "Jordan",
+            "The Red sea"
+          ],
+          "correct": 1,
+          "explanation": "The eastern boundary was described from the land of Israel by Jordan toward the east sea.",
+          "q": "What body of water is mentioned in the eastern boundary?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "The boundary concerned only the coast",
+            "The eastern boundary extended into lands east of Jordan",
+            "The eastern boundary was not described"
+          ],
+          "correct": 1,
+          "explanation": "These places occur in the description of the eastern side, including territory beyond Jordan.",
+          "q": "What may be inferred from the mention of Hauran, Damascus, and Gilead on the east side?"
+        },
+        {
+          "answers": [
+            "To define the land on every side",
+            "To describe only the river’s course",
+            "To show that the land was not divided"
+          ],
+          "correct": 0,
+          "explanation": "The four directional descriptions establish the extent of the land.",
+          "q": "Why is it important that all four sides are described?"
+        },
+        {
+          "answers": [
+            "Joseph was excluded from the inheritance",
+            "Joseph received two portions",
+            "Joseph received the whole land"
+          ],
+          "correct": 1,
+          "explanation": "The passage specifically states that Joseph would have two portions.",
+          "type": "short_answer",
+          "q": "What was Joseph’s role in the division of the land?"
+        }
+      ],
+      "idea": 3
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 21,
+      "end_verse": 23,
+      "title": "Division of the Land and Inclusion of Resident Foreigners",
+      "easy": [
+        {
+          "answers": [
+            "The tribes of Israel",
+            "Only the kings",
+            "Only the fishers"
+          ],
+          "correct": 0,
+          "explanation": "The land was to be divided according to the tribes of Israel.",
+          "q": "Among whom was the land to be divided?"
+        },
+        {
+          "answers": [
+            "Strangers who sojourned among Israel",
+            "People who lived only by the sea",
+            "Only the priests"
+          ],
+          "correct": 0,
+          "explanation": "The strangers living among Israel would receive an inheritance.",
+          "q": "Who else would receive an inheritance?"
+        },
+        {
+          "answers": [
+            "In a tribe chosen from far away",
+            "In the tribe where he sojourned",
+            "In a separate tribe of his own"
+          ],
+          "correct": 1,
+          "explanation": "The stranger would receive an inheritance in the tribe where he lived.",
+          "q": "In which tribe would a stranger receive his inheritance?"
+        }
+      ],
+      "medium": [
+        {
+          "answers": [
+            "They were regarded as part of the community",
+            "They had to leave the land",
+            "They could not receive an inheritance"
+          ],
+          "correct": 0,
+          "explanation": "The passage gives them standing among the children of Israel and an inheritance.",
+          "q": "What is the significance of treating the strangers as born in the country among Israel?"
+        },
+        {
+          "answers": [
+            "Outside every tribe",
+            "Within the inheritance assigned among Israel’s tribes",
+            "Only beside the sea"
+          ],
+          "correct": 1,
+          "explanation": "The strangers were included within the tribal division of the land.",
+          "q": "What does “among the tribes of Israel” mean in this context?"
+        },
+        {
+          "answers": [
+            "The tribe in which he sojourned",
+            "The great sea",
+            "The number of fish in the river"
+          ],
+          "correct": 0,
+          "explanation": "The stranger received his inheritance in the tribe where he lived.",
+          "q": "What determined where a stranger received his inheritance?"
+        }
+      ],
+      "challenge": [
+        {
+          "answers": [
+            "They received an inheritance within the existing tribes",
+            "They received no inheritance",
+            "They received the entire land"
+          ],
+          "correct": 0,
+          "explanation": "They were included within the tribe among which they lived rather than separated into their own group.",
+          "q": "How did the treatment of the strangers differ from establishing a separate group?"
+        },
+        {
+          "answers": [
+            "He had settled and lived among the community",
+            "He was required to be a fisherman",
+            "He lived outside the land"
+          ],
+          "correct": 0,
+          "explanation": "The wording describes a resident foreigner whose family had become established among Israel.",
+          "q": "What can be inferred from the stranger begetting children among Israel?"
+        },
+        {
+          "answers": [
+            "Inheritance was given only according to ancestry",
+            "Resident strangers among Israel shared in the land",
+            "A person’s place of residence had no importance"
+          ],
+          "correct": 1,
+          "explanation": "The passage includes resident strangers in the inheritance according to the tribe where they lived.",
+          "type": "short_answer",
+          "q": "What principle emerges from including strangers in the tribal inheritance?"
+        }
+      ],
+      "idea": 4
+    }
+  ]
+}

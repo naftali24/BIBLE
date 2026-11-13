@@ -1,0 +1,436 @@
+{
+  "book": "Joshua",
+  "book_he": "יהושע",
+  "book_chapters": 24,
+  "chapter": 9,
+  "title": "יהושע פרק 9",
+  "audio_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0609.mp3?alt=media",
+  "audio_he_url": "https://firebasestorage.googleapis.com/v0/b/tanakh-read-along.appspot.com/o/t0609.mp3?alt=media",
+  "english_translation": "KJV",
+  "english_audio_source": "YouVersion — The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/JOS/9-fff7cc50287b1af2adb4489fe25212c3.mp3?version_id=1",
+  "verses": [
+    "וַיְהִי כִשְׁמֹעַ כָּל הַמְּלָכִים אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן בָּהָר וּבַשְּׁפֵלָה, וּבְכֹל חוֹף הַיָּם הַגָּדוֹל, אֶל מוּל, הַלְּבָנוֹן. הַחִתִּי, וְהָאֱמֹרִי, הַכְּנַעֲנִי הַפְּרִזִּי, הַחִוִּי וְהַיְבוּסִי.",
+    "וַיִּתְקַבְּצוּ יַחְדָּו, לְהִלָּחֵם עִם יְהוֹשֻׁעַ וְעִם יִשְׂרָאֵל. פֶּה, אֶחָד.",
+    "וְיֹשְׁבֵי גִבְעוֹן שָׁמְעוּ, אֵת אֲשֶׁר עָשָׂה יְהוֹשֻׁעַ לִירִיחוֹ. וְלָעָי.",
+    "וַיַּעֲשׂוּ גַם הֵמָּה בְּעָרְמָה, וַיֵּלְכוּ וַיִּצְטַיָּרוּ. וַיִּקְחוּ שַׂקִּים בָּלִים, לַחֲמוֹרֵיהֶם, וְנֹאדוֹת יַיִן בָּלִים, וּמְבֻקָּעִים וּמְצֹרָרִים.",
+    "וּנְעָלוֹת בָּלוֹת וּמְטֻלָּאוֹת בְּרַגְלֵיהֶם, וּשְׂלָמוֹת בָּלוֹת עֲלֵיהֶם. וְכֹל לֶחֶם צֵידָם, יָבֵשׁ הָיָה נִקֻּדִים.",
+    "וַיֵּלְכוּ אֶל יְהוֹשֻׁעַ אֶל הַמַּחֲנֶה הַגִּלְגָּל. וַיֹּאמְרוּ אֵלָיו וְאֶל אִישׁ יִשְׂרָאֵל.\"מֵאֶרֶץ רְחוֹקָה בָּאנוּ וְעַתָּה, כִּרְתוּ לָנוּ בְרִית.״",
+    "ויאמרו אִישׁ יִשְׂרָאֵל אֶל הַחִוִּי.\"אוּלַי בְּקִרְבִּי אַתָּה יוֹשֵׁב, וְאֵיךְ, אכרות לְךָ בְרִית.״",
+    "וַיֹּאמְרוּ אֶל יְהוֹשֻׁעַ.\"עֲבָדֶיךָ אֲנָחְנוּ\". וַיֹּאמֶר אֲלֵיהֶם יְהוֹשֻׁעַ.\"מִי אַתֶּם וּמֵאַיִן תָּבֹאוּ.״",
+    "וַיֹּאמְרוּ אֵלָיו.\"מֵאֶרֶץ רְחוֹקָה מְאֹד בָּאוּ עֲבָדֶיךָ, לְשֵׁם, יְהוָה אֱלֹהֶיךָ: כִּי שָׁמַעְנוּ שָׁמְעוֹ וְאֵת כָּל אֲשֶׁר עָשָׂה בְּמִצְרָיִם.״",
+    "״וְאֵת כָּל אֲשֶׁר עָשָׂה, לִשְׁנֵי מַלְכֵי הָאֱמֹרִי, אֲשֶׁר, בְּעֵבֶר הַיַּרְדֵּן. לְסִיחוֹן מֶלֶךְ חֶשְׁבּוֹן וּלְעוֹג מֶלֶךְ הַבָּשָׁן אֲשֶׁר בְּעַשְׁתָּרוֹת.״",
+    "״וַיֹּאמְרוּ אֵלֵינוּ זְקֵינֵינוּ וְכָל יֹשְׁבֵי אַרְצֵנוּ לֵאמֹר, קְחוּ בְיֶדְכֶם צֵידָה לַדֶּרֶךְ, וּלְכוּ, לִקְרָאתָם. וַאֲמַרְתֶּם אֲלֵיהֶם עַבְדֵיכֶם אֲנַחְנוּ וְעַתָּה כִּרְתוּ לָנוּ בְרִית.״",
+    "״זֶה לַחְמֵנוּ, חָם הִצְטַיַּדְנוּ אֹתוֹ מִבָּתֵּינוּ בְּיוֹם צֵאתֵנוּ, לָלֶכֶת אֲלֵיכֶם. וְעַתָּה הִנֵּה יָבֵשׁ, וְהָיָה נִקֻּדִים.״",
+    "״וְאֵלֶּה נֹאדוֹת הַיַּיִן אֲשֶׁר מִלֵּאנוּ חֲדָשִׁים, וְהִנֵּה הִתְבַּקָּעוּ. וְאֵלֶּה שַׂלְמוֹתֵינוּ וּנְעָלֵינוּ, בָּלוּ, מֵרֹב הַדֶּרֶךְ מְאֹד.״",
+    "וַיִּקְחוּ הָאֲנָשִׁים, מִצֵּידָם. וְאֶת פִּי יְהוָה, לֹא שָׁאָלוּ.",
+    "וַיַּעַשׂ לָהֶם יְהוֹשֻׁעַ שָׁלוֹם, וַיִּכְרֹת לָהֶם בְּרִית לְחַיּוֹתָם. וַיִּשָּׁבְעוּ לָהֶם, נְשִׂיאֵי הָעֵדָה.",
+    "וַיְהִי, מִקְצֵה שְׁלֹשֶׁת יָמִים, אַחֲרֵי, אֲשֶׁר כָּרְתוּ לָהֶם בְּרִית. וַיִּשְׁמְעוּ, כִּי קְרֹבִים הֵם אֵלָיו, וּבְקִרְבּוֹ, הֵם יֹשְׁבִים.",
+    "וַיִּסְעוּ בְנֵי יִשְׂרָאֵל, וַיָּבֹאוּ אֶל עָרֵיהֶם. בַּיּוֹם הַשְּׁלִישִׁי. וְעָרֵיהֶם גִּבְעוֹן וְהַכְּפִירָה, וּבְאֵרוֹת וְקִרְיַת יְעָרִים.",
+    "וְלֹא הִכּוּם, בְּנֵי יִשְׂרָאֵל, כִּי נִשְׁבְּעוּ לָהֶם נְשִׂיאֵי הָעֵדָה, בַּיהוָה אֱלֹהֵי יִשְׂרָאֵל. וַיִּלֹּנוּ כָל הָעֵדָה, עַל הַנְּשִׂיאִים.",
+    "וַיֹּאמְרוּ כָל הַנְּשִׂיאִים אֶל כָּל הָעֵדָה.\"אֲנַחְנוּ נִשְׁבַּעְנוּ לָהֶם בַּיהוָה אֱלֹהֵי יִשְׂרָאֵל. וְעַתָּה, לֹא נוּכַל לִנְגֹּעַ בָּהֶם.״",
+    "״זֹאת נַעֲשֶׂה לָהֶם, וְהַחֲיֵה אוֹתָם. וְלֹא יִהְיֶה עָלֵינוּ קֶצֶף עַל הַשְּׁבוּעָה אֲשֶׁר נִשְׁבַּעְנוּ לָהֶם.״",
+    "וַיֹּאמְרוּ אֲלֵיהֶם הַנְּשִׂיאִים.\"יִחְיוּ\". וַיִּהְיוּ חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם, לְכָל הָעֵדָה, כַּאֲשֶׁר דִּבְּרוּ לָהֶם, הַנְּשִׂיאִים.",
+    "וַיִּקְרָא לָהֶם יְהוֹשֻׁעַ וַיְדַבֵּר אֲלֵיהֶם לֵאמֹר.\"לָמָּה רִמִּיתֶם אֹתָנוּ לֵאמֹר רְחוֹקִים אֲנַחְנוּ מִכֶּם מְאֹד, וְאַתֶּם, בְּקִרְבֵּנוּ יֹשְׁבִים.״",
+    "״וְעַתָּה, אֲרוּרִים אַתֶּם. וְלֹא יִכָּרֵת מִכֶּם עֶבֶד וְחֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם. לְבֵית אֱלֹהָי.״",
+    "וַיַּעֲנוּ אֶת יְהוֹשֻׁעַ וַיֹּאמְרוּ.\"כִּי הֻגֵּד הֻגַּד לַעֲבָדֶיךָ אֵת אֲשֶׁר צִוָּה יְהוָה אֱלֹהֶיךָ אֶת מֹשֶׁה עַבְדּוֹ, לָתֵת לָכֶם אֶת כָּל הָאָרֶץ, וּלְהַשְׁמִיד אֶת כָּל יֹשְׁבֵי הָאָרֶץ מִפְּנֵיכֶם. וַנִּירָא מְאֹד לְנַפְשֹׁתֵינוּ מִפְּנֵיכֶם וַנַּעֲשֵׂה אֶת הַדָּבָר הַזֶּה.״",
+    "״וְעַתָּה, הִנְנוּ בְיָדֶךָ: כַּטּוֹב וְכַיָּשָׁר בְּעֵינֶיךָ לַעֲשׂוֹת לָנוּ עֲשֵׂה.״",
+    "וַיַּעַשׂ לָהֶם, כֵּן. וַיַּצֵּל אוֹתָם מִיַּד בְּנֵי יִשְׂרָאֵל, וְלֹא הֲרָגוּם.",
+    "וַיִּתְּנֵם יְהוֹשֻׁעַ בַּיּוֹם הַהוּא, חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם. לָעֵדָה. וּלְמִזְבַּח יְהוָה עַד הַיּוֹם הַזֶּה, אֶל הַמָּקוֹם אֲשֶׁר יִבְחָר."
+  ],
+  "english": [
+    "And it came to pass, when all the kings which\nwere on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard\nthereof;",
+    "That they gathered themselves together, to fight with Joshua and with Israel, with one accord.",
+    "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,",
+    "They did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;",
+    "And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry\nand mouldy.",
+    "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us.",
+    "And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?",
+    "And they said unto Joshua, We\nare thy servants. And Joshua said unto them, Who\nare ye? and from whence come ye?",
+    "And they said unto him, From a very far country thy servants are come because of the name of the LORD thy God: for we have heard the fame of him, and all that he did in Egypt,",
+    "And all that he did to the two kings of the Amorites, that\nwere\n beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which\nwas at Ashtaroth.",
+    "Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We\nare your servants: therefore now make ye a league with us.",
+    "This our bread we took hot\nfor our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:",
+    "And these bottles of wine, which we filled,\nwere new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.",
+    "And the men took of their victuals, and asked not\ncounsel\n at the mouth of the LORD.",
+    "And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them.",
+    "And it came to pass at the end of three days after they had made a league with them, that they heard that they\nwere their neighbours, and\nthat they dwelt among them.",
+    "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities\nwere Gibeon, and Chephirah, and Beeroth, and Kirjath-jearim.",
+    "And the children of Israel smote them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes.",
+    "But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them.",
+    "This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware unto them.",
+    "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them.",
+    "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We\nare very far from you; when ye dwell among us?",
+    "Now therefore ye\nare cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.",
+    "And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.",
+    "And now, behold, we\nare in thine hand: as it seemeth good and right unto thee to do unto us, do.",
+    "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.",
+    "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose."
+  ],
+  "steinsaltz": [
+    "וַיְהִי כִשְׁמֹעַ את המאורעות הללו כָּל הַמְּלָכִים אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן המערבי. כך נקראת כעת ארץ כנען ביחס לישראל, שהגיעו ממזרח לירדן. בָּהָר וּבַשְּׁפֵלָה וּבְכֹל חוֹף הַיָּם הַגָּדוֹל אֶל מוּל הַלְּבָנוֹן, בארץ כנען כולה, הם מלכי הַחִתִּי וְהָאֱמֹרִי, הַכְּנַעֲנִי, הַפְּרִזִּי, הַחִוִּי וְהַיְבוּסִי,",
+    "וַיִּתְקַבְּצוּ יַחְדָּו בעצה לְהִלָּחֵם עִם יְהוֹשֻׁעַ וְעִם יִשְׂרָאֵל, פֶּה אֶחָד.",
+    "ובתוך כך גם יֹשְׁבֵי גִבְעוֹן שָׁמְעוּ אֵת אֲשֶׁר עָשָׂה יְהוֹשֻׁעַ לִירִיחוֹ וְלָעָי,",
+    "וַיַּעֲשׂוּ גַם הֵמָּה פעולת התגוננות מתוכננת, אך לא כשאר המלכים שטיכסו עצה למלחמה. הגבעונים פעלו בְּעָרְמָה, וַיֵּלְכוּ וַיִּצְטַיָּרוּ, ציירו את עצמם, כלומר התחפשו והעמידו פנים, וַיִּקְחוּ שַׂקִּים בָּלִים, שנשחתו מרוב שימוש להניח על חֲמוֹרֵיהֶם, וְנֹאדוֹת, שקי עור ליַיִן בָּלִים וּמְבֻקָּעִים וּמְצֹרָרִים, סדוקים וקשורים מחדש שוב ושוב.",
+    "וּנְעָלוֹת, נעליים בָּלוֹת וּמְטֻלָּאוֹת בְּרַגְלֵיהֶם, וּשְׂלָמוֹת, שמָלות, כעין כותנות ארוכות בָּלוֹת עֲלֵיהֶם, וְכֹל לֶחֶם צֵידָם יָבֵשׁ הָיָה, נִקֻּדִים, פירורים. הם הביאו אִתם לחם יבש ומתפורר, או: כתמי עובש.",
+    "וַיֵּלְכוּ אֶל יְהוֹשֻׁעַ אֶל הַמַּחֲנֶה הַגִּלְגָּל, שבגלגל וַיֹּאמְרוּ אֵלָיו וְאֶל אִישׁ יִשְׂרָאֵל: מֵאֶרֶץ רְחוֹקָה בָּאנוּ, כפי שהנכם רואים. שמענו שאתם כוח חדש שהגיע לאזור, וְעַתָּה כִּרְתוּ לָנוּ בְרִית.",
+    "וַיֹּאמֶר אִישׁ יִשְׂרָאֵל באופן ספונטני אֶל הגבעונים, שנמנו עם העם הַחִוִּי: אוּלַי בְּקִרְבִּי אַתָּה יוֹשֵׁב, וְאֵיךְ אֶכְרָת לְךָ בְרִית?! העם בישראל פקפק באמינות הסיפור שבפי הגבעונים וחשש שמא הם בני האזור, ולא הגיעו ממרחק.",
+    "כאשר החווים ראו כי העם ממאן לקבל את דבריהם, הם פנו אל יהושע – וַיֹּאמְרוּ אֶל יְהוֹשֻׁעַ בכניעה: עֲבָדֶיךָ אֲנָחְנוּ, ודבר לנו אליך. וַיֹּאמֶר אֲלֵהֶם יְהוֹשֻׁעַ: מִי אַתֶּם, וּמֵאַיִן תָּבֹאוּ?",
+    "וַיֹּאמְרוּ אֵלָיו: מֵאֶרֶץ רְחוֹקָה מְאֹד שאינה באזור הזה בָּאוּ עֲבָדֶיךָ לְשֵׁם ה' אֱלֹהֶיךָ, כִּי שָׁמַעְנוּ שָׁמְעוֹ וְאֵת כָּל אֲשֶׁר עָשָׂה בְּמִצְרָיִם, שכן השמועה על מכות מצרים והמופתים שהתלוו ליציאה עוררה רעש גדול גם במקומות רחוקים.",
+    "וְאֵת כָּל אֲשֶׁר עָשָׂה לִשְׁנֵי מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן – לְסִיחוֹן מֶלֶךְ חֶשְׁבּוֹן וּלְעוֹג מֶלֶךְ הַבָּשָׁן אֲשֶׁר בְּעַשְׁתָּרוֹת.",
+    "וַיֹּאמְרוּ אֵלֵינוּ בעקבות השמועות הללו זְקֵינֵינוּ, מנהיגינו וְכָל יֹשְׁבֵי אַרְצֵנוּ לֵאמֹר: קְחוּ בְיֶדְכֶם צֵידָה לַדֶּרֶךְ וּלְכוּ לִקְרָאתָם, וַאֲמַרְתֶּם אֲלֵיהֶם: \"עַבְדֵיכֶם אֲנַחְנוּ, וְעַתָּה כִּרְתוּ לָנוּ בְרִית\". אמנם איננו נוגעים בדבר, אבל כיוון ששמענו את גדולתכם, ברצוננו לכרות עמכם ברית, שהרי אתם הגורם החדש, הגדול והמפואר המתחזק והולך. רצוננו להיות כפופים לפיקודכם ולגורלכם.",
+    "זֶה לַחְמֵנוּ שאתם רואים, חָם וטרי – הִצְטַיַּדְנוּ אֹתוֹ מִבָּתֵּינוּ בְּיוֹם צֵאתֵנוּ לָלֶכֶת אֲלֵיכֶם, וְעַתָּה הִנֵּה יָבֵשׁ וְהָיָה, ונהיה נִקֻּדִים, כי עבר עליו זמן רב;",
+    "וְאֵלֶּה נֹאדוֹת הַיַּיִן אֲשֶׁר מִלֵּאנוּ חֲדָשִׁים – וְהִנֵּה הִתְבַּקָּעוּ; וְאֵלֶּה שַׂלְמוֹתֵינוּ וּנְעָלֵינוּ – בָּלוּ מֵרֹב הַדֶּרֶךְ מְאֹד. כל זה מוכיח שבאנו ממרחק רב.",
+    "וַיִּקְחוּ הָאֲנָשִׁים מישראל שהיו במקום – לאו דווקא יהושע ושאר המנהיגים – מִצֵּידָם. התחילו לאכול עמם, נתנו להם מתנות, וקיבלו מהם מתנות, כדרך שנוהגים באורחים. בני ישראל לא היו מעוניינים בכיבוש העולם; דיים בכיבוש ארץ כנען. הם לא ראו פגם בהתיידדות עם אנשים שהגיעו מרחוק. אולם אֶת פִּי ה' לֹא שָׁאָלוּ.",
+    "וַיַּעַשׂ לָהֶם יְהוֹשֻׁעַ הסכם שָׁלוֹם, וַיִּכְרֹת לָהֶם בְּרִית, טקס מפואר, עמוק ורשמי יותר מהסכם, לְחַיּוֹתָם. בברית נכללה התחייבות לדאוג לשלומם. מן הסתם הגבעונים ביקשו הבטחה כלשהי. לכן הצטרפו גם הנשיאים – וַיִּשָּׁבְעוּ לָהֶם נְשִׂיאֵי הָעֵדָה שיקיימו את הברית.",
+    "וַיְהִי מִקְצֵה, כעבור שְׁלֹשֶׁת יָמִים אַחֲרֵי אֲשֶׁר כָּרְתוּ לָהֶם בְּרִית, וַיִּשְׁמְעוּ ישראל כִּי קְרֹבִים הֵם אֵלָיו, וּבְקִרְבּוֹ הֵם יֹשְׁבִים, הגבעונים ישבו מדרום להר עיבל, שאליו הגיעו ישראל –",
+    "וַיִּסְעוּ בְנֵי יִשְׂרָאֵל וַיָּבֹאוּ אֶל עָרֵיהֶם בַּיּוֹם הַשְּׁלִישִׁי. וְעָרֵיהֶם היו גִּבְעוֹן, שהייתה העיר הראשית באזור, וְהַכְּפִירָה וּבְאֵרוֹת וְקִרְיַת יְעָרִים, שהיו מקומות קטנים יותר. כאשר ישראל הגיעו אל הגבעונים, הם לא נתקלו בהתנגדות כלשהי. הגבעונים טענו שמתוקף היותם בעלי בריתם של ישראל הם מוגנים.",
+    "וְלמרות שישראל יכלו לתקוף את הערים, לֹא הִכּוּם בְּנֵי יִשְׂרָאֵל, כִּי נִשְׁבְּעוּ לָהֶם נְשִׂיאֵי הָעֵדָה בַּה' אֱלֹהֵי יִשְׂרָאֵל. וַיִּלֹּנוּ, התרעמו כָל הָעֵדָה עַל הַנְּשִׂיאִים: כיצד ויתרתם לחינם על זכויותינו ועל כוחנו?",
+    "וַיֹּאמְרוּ כָל הַנְּשִׂיאִים אֶל כָּל הָעֵדָה: אֲנַחְנוּ נִשְׁבַּעְנוּ לָהֶם בַּה' אֱלֹהֵי יִשְׂרָאֵל, וְעַתָּה לֹא נוּכַל לִנְגֹּעַ בָּהֶם לרעה.",
+    "זֹאת השבועה נַעֲשֶׂה, נקיים לָהֶם וְהַחֲיֵה, ונחיה אוֹתָם, וְלֹא יִהְיֶה עָלֵינוּ קֶצֶף, כעס של ה' עַל אודות הַשְּׁבוּעָה אֲשֶׁר נִשְׁבַּעְנוּ לָהֶם. אם נהרוג אותם, ה' יקצוף עלינו משום שנשבענו בשמו לשקר. ואף שבטעות נשבענו, יתחלל בכך שם שמים לעיני העמים.",
+    "וַיֹּאמְרוּ אֲלֵיהֶם הַנְּשִׂיאִים לאחר דין ודברים או מחשבה נוספת: יִחְיוּ, אבל אין לראות בהם שווים. עלינו להכניעם ולהשפילם. כתוצאה מכך – וַיִּהְיוּ הגבעונים חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם לְכָל הָעֵדָה, כַּאֲשֶׁר דִּבְּרוּ לָהֶם הַנְּשִׂיאִים. העוסקים במלאכות אלה הם האנשים העניים ביותר, שאינם מוצאים מקור פרנסה טוב יותר.",
+    "לאחר השיחה הפנימית בתוך ישראל – וַיִּקְרָא לָהֶם, לנציגי הגבעונים יְהוֹשֻׁעַ, וַיְדַבֵּר אֲלֵיהֶם לֵאמֹר: לָמָּה רִמִּיתֶם אֹתָנוּ לֵאמֹר \"רְחוֹקִים אֲנַחְנוּ מִכֶּם מְאֹד\", וְאילו האמת היא שאַתֶּם בְּקִרְבֵּנוּ יֹשְׁבִים?!",
+    "וְעַתָּה אֲרוּרִים אַתֶּם, שכן רימיתם את ישראל וגרמתם להם לנהוג שלא כראוי. וְעל כן לֹא יִכָּרֵת, ייפסק מִכֶּם עֶבֶד וְחֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם לְבֵית אֱלֹהָי. תיעשו משרתים. עבודה פשוטה זו, שהיא נטולת מיומנות מיוחדת ונצרכת לענייני הציבור, תוטל עליכם. כאשר יועמד בית ה' במקומו, תצטרכו לבצע את העבודה שאין עמה כבוד.",
+    "וַיַּעֲנוּ אֶת יְהוֹשֻׁעַ, וַיֹּאמְרוּ: כִּי הֻגֵּד הֻגַּד לַעֲבָדֶיךָ אֵת אֲשֶׁר צִוָּה ה' אֱלֹהֶיךָ אֶת מֹשֶׁה עַבְדּוֹ לָתֵת לָכֶם אֶת כָּל הָאָרֶץ וּלְהַשְׁמִיד אֶת כָּל יֹשְׁבֵי הָאָרֶץ מִפְּנֵיכֶם, וַנִּירָא, לפיכך פחדנו מְאֹד לְנַפְשֹׁתֵינוּ מִפְּנֵיכֶם, כי ידענו שלא נוכל להילחם בכם, וַנַּעֲשֵׂה אֶת הַדָּבָר הַזֶּה.",
+    "וְעַתָּה הִנְנוּ בְיָדֶךָ. כַּטּוֹב וְכַיָּשָׁר בְּעֵינֶיךָ לַעֲשׂוֹת לָנוּ עֲשֵׂה. ויתרנו על האפשרות לצאת לקרב אתכם, ונכנענו לפניכם. עתה חיינו תלויים בכם, ולא נותר לנו אלא להיסמך על הברית אתכם ועל חסדכם.",
+    "וַיַּעַשׂ לָהֶם יהושע כֵּן. בקרב בני ישראל הייתה מן הסתם מהומה גדולה, כאשר התברר שהמנהיגים רומו ושאבדה האפשרות לכבוש את כל הארץ מידי הכנענים. האשמה והזעם הופנו אל הגבעונים. וַיַּצֵּל אוֹתָם מִיַּד בְּנֵי יִשְׂרָאֵל, וְלֹא הֲרָגוּם.",
+    "וַיִּתְּנֵם יְהוֹשֻׁעַ בַּיּוֹם הַהוּא חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם לָעֵדָה וּלְמִזְבַּח ה' עַד הַיּוֹם הַזֶּה, והם ילכו בכל עת אֶל הַמָּקוֹם אֲשֶׁר יִבְחָר. הם אינם קבועים בהכרח במקום מסוים, אלא משמשים עבדי המזבח ומשרתי מתחם המקדש."
+  ],
+  "ai_explanation": [
+    "כאשר שמעו מלכי כנען על המאורעות, הם התאגדו למלחמה בישראל. \"עבר הירדן\" מתפרש כאן כעבר הירדן המערבי, כלומר ארץ כנען ביחס לישראל שהגיעו מן המזרח.",
+    "מלכי כנען התקבצו יחד בעצה אחת כדי להילחם ביהושע ובישראל.",
+    "גם יושבי גבעון שמעו על כיבוש יריחו והעי.",
+    "בניגוד למלכים שהתכוננו למלחמה, הגבעונים תכננו פעולת התגוננות בערמה. הם התחפשו לאנשים הבאים ממרחק רב, והכינו שקים ונאדות ישנים וסדוקים.",
+    "הגבעונים לבשו בגדים ונעליים בלויים, והציגו לחם יבש ומתפורר או מוכתם בעובש, כדי ליצור רושם שיצאו לדרך לפני זמן רב.",
+    "הם הגיעו למחנה ישראל בגלגל וביקשו מיהושע ומישראל לכרות עמם ברית, בטענה שבאו מארץ רחוקה.",
+    "איש ישראל פקפק בטענתם, משום שאולי הם יושבים בקרבת ישראל ולא בארץ רחוקה. לכן שאל כיצד אפשר לכרות עמם ברית.",
+    "הגבעונים פנו אל יהושע בכניעה והציגו את עצמם כעבדיו. יהושע שאל אותם מי הם ומניין באו.",
+    "הגבעונים טענו שבאו מארץ רחוקה מאוד, כדי לחסות בצלו של ה' אלוהי ישראל, לאחר ששמעו על אשר עשה במצרים.",
+    "הם הוסיפו ששמעו על אשר עשה ה' לשני מלכי האמורי שבעבר הירדן: סיחון מלך חשבון ועוג מלך הבשן.",
+    "לדבריהם, זקניהם וכל יושבי ארצם ציוו עליהם לקחת צידה, לצאת לקראת ישראל, להציג את עצמם כעבדים ולבקש ברית. הם ביקשו להיות כפופים לכוח החדש והמתחזק.",
+    "הם הציגו את הלחם ואמרו שהיה טרי ביום צאתם, אך התייבש והתפורר במשך הדרך.",
+    "הם הראו את נאדות היין, השמלות והנעליים, וטענו שהתבקעו ונבלו מרוב הדרך. בכך ביקשו להוכיח שבאו ממרחק רב.",
+    "אנשי ישראל לקחו מן הצידה של הגבעונים ואף נהגו עמם כאורחים, אך לא שאלו את פי ה'.",
+    "יהושע עשה עם הגבעונים הסכם שלום וכרת עמם ברית להחיותם. נשיאי העדה נשבעו לקיים את הברית ולדאוג לשלומם.",
+    "כעבור שלושה ימים התברר לישראל שהגבעונים קרובים אליהם ויושבים בקרב הארץ.",
+    "ישראל הגיעו אל ערי הגבעונים ביום השלישי: גבעון, הכפירה, בארות וקריית יערים. הגבעונים לא התנגדו, משום שטענו שהברית מגינה עליהם.",
+    "ישראל לא היכו את הגבעונים בגלל שבועת הנשיאים בה' אלוהי ישראל. העם התרעם על הנשיאים על שוויתרו על האפשרות לכבוש את הערים.",
+    "הנשיאים השיבו שהם נשבעו בה', ולכן אינם יכולים לפגוע בגבעונים לרעה.",
+    "הנשיאים החליטו לקיים את השבועה ולהחיות את הגבעונים, כדי שלא יחול עליהם כעס ה' בשל שבועה שנשבעו בשמו.",
+    "הגבעונים נשארו בחיים, אך נעשו חוטבי עצים ושואבי מים לכל העדה, כפי שקבעו הנשיאים.",
+    "יהושע קרא לנציגי הגבעונים ושאל מדוע רימו את ישראל בטענה שהם רחוקים, אף שבפועל ישבו בקרב הארץ.",
+    "יהושע קבע שהם ארורים, ולכן לא ייפסק מהם מעמד של עבדים וחוטבי עצים ושואבי מים לבית אלוהי ישראל.",
+    "הגבעונים השיבו שהם ידעו שה' ציווה באמצעות משה לתת לישראל את הארץ ולהשמיד את יושביה. מפני פחדם לחייהם הם עשו את המעשה הזה.",
+    "הם הודו שהם נתונים ביד יהושע וביקשו שיעשה להם את הטוב והישר בעיניו, לאחר שנכנעו ותלו את חייהם בברית ובחסד.",
+    "יהושע קיים את ההסדר והציל אותם מיד ישראל, כך שלא הרגו אותם.",
+    "באותו יום קבע יהושע שהגבעונים יהיו חוטבי עצים ושואבי מים לעדה ולמזבח ה', עד ימיו של המסופר. שירותם יהיה במקום אשר יבחר ה', ולא בהכרח במקום קבוע."
+  ],
+  "ai_explanation_en": [
+    "When the kings of Canaan heard about the events, they united against Israel. \"Across the Jordan\" is understood here as the western side of the Jordan, namely Canaan in relation to Israel, which had come from the east.",
+    "The kings of Canaan gathered in agreement to fight Joshua and Israel.",
+    "The inhabitants of Gibeon also heard about the capture of Jericho and Ai.",
+    "Unlike the kings, who prepared for war, the Gibeonites planned a defensive deception. They disguised themselves as people arriving from a distant land and prepared old, cracked sacks and wineskins.",
+    "The Gibeonites wore worn-out clothes and shoes and displayed dry, crumbling or mold-spotted bread, creating the impression that they had begun their journey long before.",
+    "They came to the Israelite camp at Gilgal and asked Joshua and Israel to make a covenant with them, claiming that they had come from a distant land.",
+    "An Israelite man doubted their claim, since they might actually live near Israel rather than in a distant land. He therefore asked how a covenant could be made with them.",
+    "The Gibeonites submitted to Joshua and presented themselves as his servants. Joshua asked who they were and where they had come from.",
+    "The Gibeonites claimed that they had come from a very distant land in order to seek protection under the God of Israel, after hearing what He had done in Egypt.",
+    "They added that they had heard what God had done to the two Amorite kings east of the Jordan: Sihon king of Heshbon and Og king of Bashan.",
+    "According to them, their elders and all the inhabitants of their land had told them to take provisions, go toward Israel, present themselves as servants, and request a covenant. They wanted to submit to the new and growing power.",
+    "They displayed the bread and said that it had been fresh when they left, but had dried out and crumbled during the journey.",
+    "They showed the wineskins, clothes, and shoes, claiming that they had cracked and worn out because of the very long journey. In this way they sought to prove that they had come from far away.",
+    "The Israelite men took food from the Gibeonites and treated them as guests, but they did not inquire of the Lord.",
+    "Joshua made peace with the Gibeonites and made a covenant with them to keep them alive. The leaders of the community swore to uphold the covenant and protect them.",
+    "After three days, Israel discovered that the Gibeonites were nearby and living within the land.",
+    "On the third day Israel reached the Gibeonite cities: Gibeon, Chephirah, Beeroth, and Kiriath-jearim. The Gibeonites did not resist, because they claimed that the covenant protected them.",
+    "Israel did not strike the Gibeonites because of the leaders' oath by the Lord, the God of Israel. The people complained that the leaders had given up the opportunity to conquer the cities.",
+    "The leaders replied that they had sworn by the Lord and therefore could not harm the Gibeonites.",
+    "The leaders decided to keep the oath and let the Gibeonites live, so that divine anger would not come upon them because of an oath sworn in God's name.",
+    "The Gibeonites were allowed to live, but they became woodcutters and water carriers for the whole community, as the leaders had decreed.",
+    "Joshua summoned the Gibeonite representatives and asked why they had deceived Israel by claiming to be far away when they actually lived among them.",
+    "Joshua declared that they were accursed, and therefore a status of servitude would never cease among them; they would be woodcutters and water carriers for the house of Israel's God.",
+    "The Gibeonites replied that they knew that the Lord had commanded Moses to give Israel the land and destroy its inhabitants. Out of fear for their lives, they had done this.",
+    "They acknowledged that they were in Joshua's hands and asked him to do whatever he considered good and right, since they had surrendered and placed their lives in the covenant and his mercy.",
+    "Joshua carried out the arrangement and rescued them from the Israelites, so that they were not killed.",
+    "On that day Joshua assigned the Gibeonites to be woodcutters and water carriers for the community and for the altar of the Lord, for the period described in the passage. Their service would be at the place chosen by the Lord, not necessarily at one fixed location."
+  ],
+  "perush": [
+    "כאשר שמעו מלכי כנען על המאורעות, הם התאגדו למלחמה בישראל. \"עבר הירדן\" מתפרש כאן כעבר הירדן המערבי, כלומר ארץ כנען ביחס לישראל שהגיעו מן המזרח.",
+    "מלכי כנען התקבצו יחד בעצה אחת כדי להילחם ביהושע ובישראל.",
+    "גם יושבי גבעון שמעו על כיבוש יריחו והעי.",
+    "בניגוד למלכים שהתכוננו למלחמה, הגבעונים תכננו פעולת התגוננות בערמה. הם התחפשו לאנשים הבאים ממרחק רב, והכינו שקים ונאדות ישנים וסדוקים.",
+    "הגבעונים לבשו בגדים ונעליים בלויים, והציגו לחם יבש ומתפורר או מוכתם בעובש, כדי ליצור רושם שיצאו לדרך לפני זמן רב.",
+    "הם הגיעו למחנה ישראל בגלגל וביקשו מיהושע ומישראל לכרות עמם ברית, בטענה שבאו מארץ רחוקה.",
+    "איש ישראל פקפק בטענתם, משום שאולי הם יושבים בקרבת ישראל ולא בארץ רחוקה. לכן שאל כיצד אפשר לכרות עמם ברית.",
+    "הגבעונים פנו אל יהושע בכניעה והציגו את עצמם כעבדיו. יהושע שאל אותם מי הם ומניין באו.",
+    "הגבעונים טענו שבאו מארץ רחוקה מאוד, כדי לחסות בצלו של ה' אלוהי ישראל, לאחר ששמעו על אשר עשה במצרים.",
+    "הם הוסיפו ששמעו על אשר עשה ה' לשני מלכי האמורי שבעבר הירדן: סיחון מלך חשבון ועוג מלך הבשן.",
+    "לדבריהם, זקניהם וכל יושבי ארצם ציוו עליהם לקחת צידה, לצאת לקראת ישראל, להציג את עצמם כעבדים ולבקש ברית. הם ביקשו להיות כפופים לכוח החדש והמתחזק.",
+    "הם הציגו את הלחם ואמרו שהיה טרי ביום צאתם, אך התייבש והתפורר במשך הדרך.",
+    "הם הראו את נאדות היין, השמלות והנעליים, וטענו שהתבקעו ונבלו מרוב הדרך. בכך ביקשו להוכיח שבאו ממרחק רב.",
+    "אנשי ישראל לקחו מן הצידה של הגבעונים ואף נהגו עמם כאורחים, אך לא שאלו את פי ה'.",
+    "יהושע עשה עם הגבעונים הסכם שלום וכרת עמם ברית להחיותם. נשיאי העדה נשבעו לקיים את הברית ולדאוג לשלומם.",
+    "כעבור שלושה ימים התברר לישראל שהגבעונים קרובים אליהם ויושבים בקרב הארץ.",
+    "ישראל הגיעו אל ערי הגבעונים ביום השלישי: גבעון, הכפירה, בארות וקריית יערים. הגבעונים לא התנגדו, משום שטענו שהברית מגינה עליהם.",
+    "ישראל לא היכו את הגבעונים בגלל שבועת הנשיאים בה' אלוהי ישראל. העם התרעם על הנשיאים על שוויתרו על האפשרות לכבוש את הערים.",
+    "הנשיאים השיבו שהם נשבעו בה', ולכן אינם יכולים לפגוע בגבעונים לרעה.",
+    "הנשיאים החליטו לקיים את השבועה ולהחיות את הגבעונים, כדי שלא יחול עליהם כעס ה' בשל שבועה שנשבעו בשמו.",
+    "הגבעונים נשארו בחיים, אך נעשו חוטבי עצים ושואבי מים לכל העדה, כפי שקבעו הנשיאים.",
+    "יהושע קרא לנציגי הגבעונים ושאל מדוע רימו את ישראל בטענה שהם רחוקים, אף שבפועל ישבו בקרב הארץ.",
+    "יהושע קבע שהם ארורים, ולכן לא ייפסק מהם מעמד של עבדים וחוטבי עצים ושואבי מים לבית אלוהי ישראל.",
+    "הגבעונים השיבו שהם ידעו שה' ציווה באמצעות משה לתת לישראל את הארץ ולהשמיד את יושביה. מפני פחדם לחייהם הם עשו את המעשה הזה.",
+    "הם הודו שהם נתונים ביד יהושע וביקשו שיעשה להם את הטוב והישר בעיניו, לאחר שנכנעו ותלו את חייהם בברית ובחסד.",
+    "יהושע קיים את ההסדר והציל אותם מיד ישראל, כך שלא הרגו אותם.",
+    "באותו יום קבע יהושע שהגבעונים יהיו חוטבי עצים ושואבי מים לעדה ולמזבח ה', עד ימיו של המסופר. שירותם יהיה במקום אשר יבחר ה', ולא בהכרח במקום קבוע."
+  ],
+  "perush_source": "Steinsaltz commentary from Sefaria; GPT explains the supplied commentary and is not an independent commentary.",
+  "ideas": [
+    {
+      "title": "מַלְכֵי כְּנַעַן וְהַגִּבְעוֹנִים נֶעֱרָכִים",
+      "title_en": "The Canaanite Kings and the Gibeonites Prepare",
+      "start_verse": 1,
+      "end_verse": 6,
+      "summary": "מלכי כנען מתאחדים כדי להילחם בישראל, ואילו הגבעונים בוחרים בתכסיס: הם מתחפשים לנוסעים מארץ רחוקה ומגיעים למחנה ישראל בגלגל כדי לבקש ברית.",
+      "summary_en": "The Canaanite kings unite to fight Israel, while the Gibeonites choose deception: they disguise themselves as travelers from a distant land and come to the Israelite camp at Gilgal to request a covenant.",
+      "image_prompt": "A biblical-era camp at Gilgal: Israelite leaders facing weary travelers in worn clothes, with cracked wineskins, old sacks, worn shoes, and dry bread visible. No text, historically restrained, cinematic illustration."
+    },
+    {
+      "title": "טַעֲנַת הַגִּבְעוֹנִים עַל אֶרֶץ רְחוֹקָה",
+      "title_en": "The Gibeonites Claim to Come from Afar",
+      "start_verse": 7,
+      "end_verse": 13,
+      "summary": "ישראל חושדים שהגבעונים הם תושבי האזור, אך הגבעונים מציגים את עצמם כעבדים ומספרים ששמעו על נפלאות ה' ועל ניצחונות ישראל. הם משתמשים במזון, בבגדים ובנאדות הבלויים כהוכחה כביכול למסע ארוך.",
+      "summary_en": "Israel suspects that the Gibeonites are local inhabitants, but the Gibeonites present themselves as servants and say they have heard of the Lord's wonders and Israel's victories. They use their worn food, clothes, shoes, and wineskins as supposed evidence of a long journey.",
+      "image_prompt": "Close view of Gibeonite envoys presenting crumbling bread, cracked wineskins, worn garments, and damaged sandals before Joshua and Israelite representatives. No text, biblical illustration, restrained details."
+    },
+    {
+      "title": "כְּרִיתַת הַבְּרִית לְלֹא שְׁאֵלְת ה'",
+      "title_en": "The Covenant Made Without Consulting the Lord",
+      "start_verse": 14,
+      "end_verse": 15,
+      "summary": "אנשי ישראל מקבלים את דברי הגבעונים ונוהגים בהם כאורחים, אך אינם שואלים את פי ה'. יהושע כורת עמם ברית להחיותם, ונשיאי העדה נשבעים לקיים אותה.",
+      "summary_en": "The Israelites accept the Gibeonites' account and treat them as guests, but they do not inquire of the Lord. Joshua makes a covenant with them to keep them alive, and the leaders swear to uphold it.",
+      "image_prompt": "Joshua and the leaders of Israel making a solemn covenant with the Gibeonite envoys at the Gilgal camp, with provisions nearby. No text, biblical-era scene, dignified and historically restrained."
+    },
+    {
+      "title": "גִּילּוּי הַתַּרְמִית וּשְׁמִירַת הַשְּׁבוּעָה",
+      "title_en": "The Deception Is Discovered and the Oath Is Kept",
+      "start_verse": 16,
+      "end_verse": 21,
+      "summary": "כעבור שלושה ימים מתברר שהגבעונים קרובים ושעריהם הם גבעון, הכפירה, בארות וקריית יערים. אף שהעם מתרעם, הנשיאים מסרבים לפגוע בהם בגלל השבועה שנשבעו בה', ומטילים עליהם עבודות של חטיבת עצים ושאיבת מים.",
+      "summary_en": "After three days it becomes clear that the Gibeonites are nearby and that their cities are Gibeon, Chephirah, Beeroth, and Kiriath-jearim. Although the people complain, the leaders refuse to harm them because of their oath by the Lord, assigning them woodcutting and water-carrying duties.",
+      "image_prompt": "Israelites arriving before nearby fortified towns while leaders explain the binding oath to a dissatisfied crowd; Gibeonite representatives stand safely nearby. No text, biblical illustration, restrained and non-sensational."
+    },
+    {
+      "title": "חֲקִירַת הַגִּבְעוֹנִים וְהֶסֵדֶר הַשֵּׁירוּת",
+      "title_en": "Joshua Questions the Gibeonites and Sets Their Service",
+      "start_verse": 22,
+      "end_verse": 27,
+      "summary": "יהושע confronts the Gibeonite representatives about their deception. הם מודים שפעלו מתוך פחד מפני הציווי להשמיד את יושבי הארץ, ויהושע משאירם בחיים ומייעד אותם לחוטבי עצים ולשואבי מים לעדה ולמזבח ה'.",
+      "summary_en": "Joshua confronts the Gibeonite representatives about their deception. They admit that they acted out of fear of the command to destroy the inhabitants of the land, and Joshua spares them and assigns them to serve as woodcutters and water carriers for the community and the Lord's altar.",
+      "image_prompt": "Joshua addressing subdued Gibeonite representatives before the Israelite community, with woodcutting tools and water jars suggesting their assigned service. No text, biblical-era illustration, solemn and restrained."
+    }
+  ],
+  "times": [],
+  "times_he": [],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 18.96,
+      "usfm": "JOS.9.1"
+    },
+    {
+      "start": 18.96,
+      "end": 24.38,
+      "usfm": "JOS.9.2"
+    },
+    {
+      "start": 24.38,
+      "end": 30.54,
+      "usfm": "JOS.9.3"
+    },
+    {
+      "start": 30.54,
+      "end": 40.38,
+      "usfm": "JOS.9.4"
+    },
+    {
+      "start": 40.38,
+      "end": 48.62,
+      "usfm": "JOS.9.5"
+    },
+    {
+      "start": 48.62,
+      "end": 59.82,
+      "usfm": "JOS.9.6"
+    },
+    {
+      "start": 59.82,
+      "end": 66.7,
+      "usfm": "JOS.9.7"
+    },
+    {
+      "start": 66.7,
+      "end": 75.6,
+      "usfm": "JOS.9.8"
+    },
+    {
+      "start": 75.6,
+      "end": 86.54,
+      "usfm": "JOS.9.9"
+    },
+    {
+      "start": 86.54,
+      "end": 97.44,
+      "usfm": "JOS.9.10"
+    },
+    {
+      "start": 97.44,
+      "end": 109.48,
+      "usfm": "JOS.9.11"
+    },
+    {
+      "start": 109.48,
+      "end": 118.98,
+      "usfm": "JOS.9.12"
+    },
+    {
+      "start": 118.98,
+      "end": 128.36,
+      "usfm": "JOS.9.13"
+    },
+    {
+      "start": 128.36,
+      "end": 133.26,
+      "usfm": "JOS.9.14"
+    },
+    {
+      "start": 133.26,
+      "end": 140.34,
+      "usfm": "JOS.9.15"
+    },
+    {
+      "start": 140.34,
+      "end": 148.3,
+      "usfm": "JOS.9.16"
+    },
+    {
+      "start": 148.3,
+      "end": 158.8,
+      "usfm": "JOS.9.17"
+    },
+    {
+      "start": 158.8,
+      "end": 169,
+      "usfm": "JOS.9.18"
+    },
+    {
+      "start": 169,
+      "end": 177.3,
+      "usfm": "JOS.9.19"
+    },
+    {
+      "start": 177.3,
+      "end": 185.86,
+      "usfm": "JOS.9.20"
+    },
+    {
+      "start": 185.86,
+      "end": 196.66,
+      "usfm": "JOS.9.21"
+    },
+    {
+      "start": 196.66,
+      "end": 205.66,
+      "usfm": "JOS.9.22"
+    },
+    {
+      "start": 205.66,
+      "end": 214.1,
+      "usfm": "JOS.9.23"
+    },
+    {
+      "start": 214.1,
+      "end": 230.1,
+      "usfm": "JOS.9.24"
+    },
+    {
+      "start": 230.1,
+      "end": 236.46,
+      "usfm": "JOS.9.25"
+    },
+    {
+      "start": 236.46,
+      "end": 245.16,
+      "usfm": "JOS.9.26"
+    },
+    {
+      "start": 245.16,
+      "end": 263.36,
+      "usfm": "JOS.9.27"
+    }
+  ],
+  "times_en_source": "YouVersion KJV version_id=1",
+  "times_en_end": [
+    18.96,
+    24.38,
+    30.54,
+    40.38,
+    48.62,
+    59.82,
+    66.7,
+    75.6,
+    86.54,
+    97.44,
+    109.48,
+    118.98,
+    128.36,
+    133.26,
+    140.34,
+    148.3,
+    158.8,
+    169,
+    177.3,
+    185.86,
+    196.66,
+    205.66,
+    214.1,
+    230.1,
+    236.46,
+    245.16,
+    263.36
+  ],
+  "times_en_usfm": [
+    "JOS.9.1",
+    "JOS.9.2",
+    "JOS.9.3",
+    "JOS.9.4",
+    "JOS.9.5",
+    "JOS.9.6",
+    "JOS.9.7",
+    "JOS.9.8",
+    "JOS.9.9",
+    "JOS.9.10",
+    "JOS.9.11",
+    "JOS.9.12",
+    "JOS.9.13",
+    "JOS.9.14",
+    "JOS.9.15",
+    "JOS.9.16",
+    "JOS.9.17",
+    "JOS.9.18",
+    "JOS.9.19",
+    "JOS.9.20",
+    "JOS.9.21",
+    "JOS.9.22",
+    "JOS.9.23",
+    "JOS.9.24",
+    "JOS.9.25",
+    "JOS.9.26",
+    "JOS.9.27"
+  ],
+  "english_text_source": "KJV",
+  "audio_start_offset": 0,
+  "sync_rule": "Hebrew word timing from Tanakh ReadAlong; English verse timing from YouVersion KJV."
+}

@@ -1,0 +1,524 @@
+{
+  "book": "Leviticus",
+  "book_he": "ויקרא",
+  "book_chapters": 27,
+  "chapter": 27,
+  "title": "ויקרא פרק 27",
+  "english_translation": "KJV",
+  "audio_en_url": "https://audio-bible-cdn.youversionapi.com/8/32k/LEV/27-47c322406f103d6b211a0d1db6df896c.mp3?version_id=1",
+  "english": [
+    "And the Lord spake unto Moses, saying,",
+    "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation.",
+    "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
+    "And if it be a female, then thy estimation shall be thirty shekels.",
+    "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
+    "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver.",
+    "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
+    "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
+    "And if it be a beast, whereof men bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy.",
+    "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
+    "And if it be any unclean beast, of which they do not offer a sacrifice unto the Lord, then he shall present the beast before the priest:",
+    "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.",
+    "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation.",
+    "And when a man shall sanctify his house to be holy unto the Lord, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
+    "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his.",
+    "And if a man shall sanctify unto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.",
+    "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
+    "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
+    "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him.",
+    "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
+    "But the field, when it goeth out in the jubile, shall be holy unto the Lord, as a field devoted; the possession thereof shall be the priest's.",
+    "And if a man sanctify unto the Lord a field which he hath bought, which is not of the fields of his possession;",
+    "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the Lord.",
+    "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong.",
+    "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
+    "Only the firstling of the beasts, which should be the Lord's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the Lord's.",
+    "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
+    "Notwithstanding no devoted thing, that a man shall devote unto the Lord of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the Lord.",
+    "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death.",
+    "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the Lord's: it is holy unto the Lord.",
+    "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof.",
+    "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the Lord.",
+    "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
+    "These are the commandments, which the Lord commanded Moses for the children of Israel in mount Sinai."
+  ],
+  "ai_explanation": [
+    "ה' דיבר אל משה כדי למסור לו את הדברים.",
+    "אדם שנודר במפורש לתת לה' את ערכו של אדם כלשהו מתחייב בנדר של ערך נפשות.",
+    "ערכו של זכר מגיל עשרים ועד גיל שישים, לעניין הקדשה, הוא חמישים שקל כסף בשקל הקודש.",
+    "ערכה של נקבה בטווח גיל זה הוא שלושים שקל, שכן זהו גיל שבו האדם נחשב במיטב שנותיו.",
+    "מגיל חמש ועד גיל עשרים, ערכו של זכר הוא עשרים שקלים, ושל נקבה – עשרה שקלים.",
+    "מגיל חודש ועד גיל חמש, ערכו של זכר הוא חמישה שקלים, ושל נקבה – שלושה שקלים.",
+    "מגיל שישים ומעלה, ערכו של זכר הוא חמישה עשר שקלים, ושל נקבה – עשרה שקלים.",
+    "אם הנודר עני ואינו יכול לשלם את הערך, הוא מתייצב לפני הכהן. הכהן מעריך אותו לפי יכולתו של הנודר ומשיג לו הנחה.",
+    "אם אדם נודר בהמה הראויה להקרבה לקרבן, כל בהמה שייתן לה' תהיה קודש, והקדושה תחול על גוף הבהמה.",
+    "יש להקריב את הבהמה שהוקדשה עצמה, ואסור להחליף אותה או להמיר בהמה טובה ברעה או רעה בטובה. אם בכל זאת נעשתה המרה, גם הבהמה המקורית וגם בהמת התמורה נשארות בקדושה.",
+    "אם אדם מקדיש בהמה טמאה, או בהמה שאינה ראויה לקרבן מסיבה אחרת, כגון בעלת מום, עליו להעמיד אותה לפני הכהן.",
+    "הכהן מעריך את שווי הבהמה, בין אם היא טובה ובין אם היא רעה, והערכתו מתקבלת כקביעה סופית.",
+    "אם בעל הבהמה הטמאה רוצה לקנות אותה בחזרה מרשות ההקדש, עליו להוסיף חמישית על הערך שנקבע לה בתחילה.",
+    "כאשר אדם מקדיש את ביתו לה', הכהן מעריך את הבית, והערך שקבע הכהן מחייב.",
+    "אם המקדיש רוצה לפדות את ביתו, עליו להוסיף חמישית על הערך שנקבע לו. לאחר התשלום הבית נעשה שלו.",
+    "כאשר אדם מקדיש שדה אחוזה, ערך השדה נקבע לפי כמות הזרע הדרושה לזריעתו ולפי מספר השנים עד היובל. זרע חֹמֶר שעורים, שטח המכונה בלשון חכמים 'בית כור' ושגודלו כיום כ־18 דונם, ערכו חמישים שקל כסף.",
+    "אם השדה הוקדש מיד לאחר שנת היובל, כשהוא עומד לרשות המקדיש למשך הזמן המרבי, הערך שנקבע לו עומד במלואו.",
+    "אם השדה הוקדש לאחר היובל, הכהן מחשב את ערכו לפי מספר השנים שנותרו עד שנת היובל, ולכן מפחיתים מן הערך הכולל את חלקן של השנים שכבר עברו.",
+    "אם המקדיש רוצה לפדות את השדה, עליו להוסיף חמישית על הערך שנקבע לו. בעלים מקוריים משלמים תוספת זו, בניגוד לאדם זר הקונה את ההקדש שמשלם את המחיר שנקבע בלבד.",
+    "אם הבעלים אינם פודים את השדה במשך כל מחזור היובל, או אם גזבר ההקדש מכר אותו לאדם אחר, הבעלים הראשונים אינם יכולים לפדותו עוד, והקשר ההיסטורי שלהם לשדה מתבטל.",
+    "ביובל השדה יוצא מרשות הקונה, כמו כל שדה אחר, אך מכיוון שהוקדש הוא נעשה קודש לה' ודינו כשדה חרם. אחוזתו תהיה לכהן.",
+    "אם אדם מקדיש שדה שקנה מאדם אחר, אין לו עליו בעלות גמורה אלא לכל היותר זכות שימוש עד חמישים שנה.",
+    "הכהן מחשב את ערך השדה לפי מספר השנים שנותרו עד היובל. המקדיש משלם את הערך באותו יום, ואז השדה חוזר לרשותו והתשלום נעשה קודש לה'.",
+    "ביובל השדה חוזר למוכר, שהוא בעל אחוזת הארץ, מפני שאין אדם יכול להקדיש דבר שאינו שלו. בדרך כלל השדות חוזרים לבעליהם ביובל, חוץ משדה אחוזה שהוקדש ולא נגאל.",
+    "תשלומי הערכים נעשים לפי שקל הקודש. שקל הקודש שווה לעשרים גרה; הגרה היא יחידת כסף קטנה, והמעה הייתה יחידת כסף בסיסית: עשר מעות היו שוות לשקל רגיל ועשרים מעות לשקל הקודש.",
+    "בכור זכר שנולד לבהמה שייך לה', ולכן האדם אינו יכול להקדיש אותו. בין אם הוא שור ובין אם הוא שה, הוא מיועד להיות קרבן.",
+    "אם הבכור נולד בבהמה טמאה, שאינה ראויה לקרבן, הבעלים יכולים לפדות אותו לפי ערכו ולהוסיף חמישית. אם אינם פודים אותו, אפשר למכור אותו ולהעביר את הכסף להקדש; למעשה דין זה נאמר בבכור בהמה טמאה, ובעיקר בחמור, שנפדה בשה או בשוויו.",
+    "בניגוד להקדשות שאפשר לפדות או למכור, דבר שהוחרם לה' מכל רכושו של אדם אינו נמכר ואינו נפדה. הדבר יכול להיות אדם, בהמה או שדה שבבעלותו הגמורה, והוא נחשב קודש קודשים לה'.",
+    "חרם מן האדם, כגון שבוי מלחמה שהוחרם או אדם שנגזר עליו מוות, אינו נפדה אלא מומת. יש גם חרם של שטח או עיר, ובמקרים כאלה הכול נאסר בכל הנאה או שימוש ארצי ואי אפשר לפדותו או למכרו.",
+    "עשירית מתבואת הארץ ומפירות העץ, כגון חיטה, שעורה, יין ושמן, שייכת לה' ונחשבת קודש. אין להשתמש בה כפירות רגילים, אלא יש לאכלה בטהרה סמוך לבית המקדש.",
+    "אם אדם רוצה לקנות בחזרה את המעשר ולהשתמש בפירות כפירות רגילים, עליו להוסיף חמישית מערכם, כמו בקניית קודשים מרשות ההקדש.",
+    "כל הבקר והצאן שנולדים במשך השנה עוברים ונמנים תחת שבט הרועה. הבהמה העשירית שנמנית מסומנת ונעשית קודש לה'.",
+    "אסור לברור את הבהמות לפי טיבן ואסור להמיר את בהמת המעשר. העשירית היא קדושה, תוקרב לה' ובשרה ייאכל על ידי הבעלים לפי דיני הקרבן; אם בכל זאת ימירו אותה, גם היא וגם התמורה יהיו קודש, ואי אפשר לפדות את המעשר.",
+    "אלה המצוות שה' ציווה את משה למסור לבני ישראל בהר סיני."
+  ],
+  "ai_explanation_en": [
+    "The verse introduces the Lord’s instruction to Moses.",
+    "A person who explicitly vows to dedicate the value of someone to the Lord must fulfill the vow according to the prescribed valuation.",
+    "For a male between twenty and sixty years old, the valuation is fifty sanctuary shekels of silver.",
+    "For a female in this age range, the valuation is thirty shekels, since this is considered a person’s prime period of life.",
+    "For a male between five and twenty years old, the valuation is twenty shekels; for a female, it is ten shekels.",
+    "For a male from one month through five years old, the valuation is five silver shekels; for a female, it is three shekels.",
+    "For someone aged sixty or older, the valuation is fifteen shekels for a male and ten shekels for a female.",
+    "If the person making the vow is too poor to pay the standard valuation, he must appear before the priest. The priest assesses the payment according to the person’s means and grants an appropriate reduction.",
+    "If someone vows an animal that is fit to be offered as a sacrifice, the animal itself becomes holy.",
+    "Such an animal must be offered itself and may not be exchanged for another, whether the substitute is better or worse. If an exchange is nevertheless made, both the original animal and the substitute become holy.",
+    "If someone dedicates an unclean animal—or another animal unsuitable for sacrifice, such as one with a defect—the animal must be brought before the priest.",
+    "The priest assesses the animal’s value, whether it is good or defective, and his valuation is final.",
+    "If the owner of an impure animal dedicated it and then wants to redeem it from the Temple treasury, he must add one-fifth to its original assessed value.",
+    "If a person dedicates his house to the Lord, the priest assesses its value, whether it is considered good or poor, and that assessment determines its status.",
+    "If the person who dedicated the house redeems it, he must add one-fifth to the assessed amount; then the house becomes his again.",
+    "If someone dedicates part of his inherited field, its value is calculated according to the amount of seed needed to sow it. A field requiring a homer of barley seed—about 18 modern dunams—is valued at fifty silver shekels, since the dedication applies for a limited number of years.",
+    "If the field is dedicated immediately after the Jubilee, when the full period remains, its full stated value applies.",
+    "If the field is dedicated after the Jubilee, the priest calculates its value according to the years remaining until the next Jubilee, reducing the assessment for the years that have already passed.",
+    "If the person who dedicated the field redeems it, he must add one-fifth to its assessed value. In general, the original owner pays this additional fifth, while another buyer pays only the assessed price.",
+    "If the original owner does not redeem the field during the Jubilee cycle, or if the Temple treasurer sells it to someone else, the original owner can no longer redeem it and loses his historical connection to it.",
+    "At the Jubilee, the field leaves the buyer’s possession like other fields, but because it was dedicated, it is holy to the Lord and becomes the priest’s possession, like a devoted field.",
+    "A field that a person bought from someone else, rather than inherited, is not fully his property; he has at most the right to use it until the Jubilee, for up to fifty years.",
+    "The priest calculates the value according to the years remaining until the Jubilee, and the redeemer pays that amount at the time of redemption. The field then returns to the redeemer, while the payment becomes holy to the Lord.",
+    "At the Jubilee, the field returns to the person from whom it was bought, the original landholder, because he owns the land and the buyer cannot dedicate what is not fully his. In general, fields return to their owners at the Jubilee, except an inherited field that was dedicated and not redeemed.",
+    "All valuation payments mentioned here must use the sanctuary shekel. This shekel equals twenty gerahs—twenty small silver units—and is twice the size of the ordinary shekel, which equals ten such units.",
+    "A male firstborn animal cannot be separately consecrated by its owner, because it already belongs to the Lord. Whether it is an ox or a sheep, it is designated as an offering.",
+    "If the firstborn is an unclean animal, its owner may redeem it for its assessed value plus one-fifth, as with other redemptions. If it is not redeemed, it is sold at that value; in practice, this law applies to a firstborn donkey, which may be redeemed with a lamb or for its monetary value.",
+    "Unlike ordinary consecrated property, anything placed under a cherem—whether a person, animal, or wholly owned field—may neither be sold nor redeemed. Such a thing is considered most holy to the Lord.",
+    "A person placed under cherem, such as a captured enemy or someone sentenced to death for political or legal reasons, cannot be redeemed and must be put to death. The same principle can apply to a territory or city, which cannot be sold, redeemed, or used for ordinary purposes.",
+    "A tenth of the produce of the land, including grain and produce from trees such as wine and oil, belongs to the Lord and is holy. It must not be treated like ordinary produce but eaten near the Temple in a state of ritual purity.",
+    "If someone wishes to redeem his tithe and use the produce as ordinary food, he must add one-fifth to its value. This is the same additional payment required when redeeming consecrated property.",
+    "Every tenth animal born among the cattle and flocks is counted as it passes under the shepherd’s staff. When the tenth animal is reached, the shepherd marks it as holy to the Lord.",
+    "The animals must not be selected according to whether they are good or bad, and the tenth animal may not be exchanged. If it is exchanged anyway, both the original animal and its substitute become holy, and the tithe cannot be redeemed.",
+    "This verse concludes by identifying these laws as the commandments that the Lord gave Moses for the Israelites at Mount Sinai."
+  ],
+  "ideas": [
+    {
+      "title": "נָדְרֵי עֵרֶךְ לִפְנֵי ה׳",
+      "title_en": "Vows of Valuation Before God",
+      "start_verse": 1,
+      "end_verse": 2,
+      "summary": "ה׳ מצווה את משה ללמד את בני ישראל על נדרים שבהם אדם מקדיש את ערכו לה׳.",
+      "summary_en": "God commands Moses to teach Israel about vows dedicating a person’s value to Him.",
+      "image_prompt": "Moses standing before the Israelites in an ancient Near Eastern camp, conveying a solemn divine command, reverent atmosphere, desert landscape, biblical setting, respectful, landscape composition, no written text, no modern objects"
+    },
+    {
+      "title": "עֶרְכֵי אָדָם לְפִי גִּיל וּמִין",
+      "title_en": "Human Valuations by Age and Sex",
+      "start_verse": 3,
+      "end_verse": 7,
+      "summary": "נקבעים ערכים שונים לזכר ולנקבה לפי קבוצות גיל, מילדות ועד זקנה.",
+      "summary_en": "Different valuations are assigned to males and females according to age, from infancy through old age.",
+      "image_prompt": "Ancient Israelite priest reviewing people of different ages before the sanctuary, families, children, adults, and elders arranged respectfully, bronze and silver elements, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "הַעֲרָכַת מִי שֶׁאֵין יָדוֹ מַשֶּׂגַת",
+      "title_en": "Valuation for Those Unable to Pay",
+      "start_verse": 8,
+      "end_verse": 8,
+      "summary": "כאשר הנודר עני, הכהן מעריך את הנדר לפי יכולתו הכלכלית.",
+      "summary_en": "When the person making the vow is poor, the priest adjusts the valuation according to his means.",
+      "image_prompt": "Compassionate ancient priest speaking with a poor Israelite family near the sanctuary, humble clothing and simple belongings, atmosphere of justice and mercy, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "הַקְדָּשַׁת בְּהֵמוֹת וּפִדְיוֹנָן",
+      "title_en": "Dedicating and Redeeming Animals",
+      "start_verse": 9,
+      "end_verse": 13,
+      "summary": "בהמה הראויה לקרבן נעשית קודש ואסור להחליפה; בהמה טמאה מוערכת וניתן לפדותה בתוספת חמישית.",
+      "summary_en": "A suitable sacrificial animal becomes holy and may not be exchanged; an unclean animal is valued and may be redeemed with an added fifth.",
+      "image_prompt": "Ancient Israelite worshipper presenting a healthy sheep and ox to a priest, with another non-sacrificial animal nearby, sanctuary courtyard, respectful ritual atmosphere, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "הַקְדָּשַׁת הַבַּיִת לָהּ׳",
+      "title_en": "Dedicating a House to God",
+      "start_verse": 14,
+      "end_verse": 15,
+      "summary": "בית שהוקדש לה׳ מוערך בידי הכהן, ופדיונו אפשרי בתוספת חמישית.",
+      "summary_en": "A house dedicated to God is valued by the priest and may be redeemed by adding one-fifth.",
+      "image_prompt": "Ancient Israelite stone house being formally dedicated before a priest, family standing respectfully nearby, courtyard and sacred sanctuary in the background, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "הַקְדָּשַׁת שָׂדֶה הָאֲחוּזָּה וּשְׁנַת הַיּוֹבֵל",
+      "title_en": "Dedicating Inherited Fields and Jubilee",
+      "start_verse": 16,
+      "end_verse": 21,
+      "summary": "ערך שדה אחוזה נקבע לפי היבול ולפי הזמן שנותר עד היובל; אי־פדיון גורם לשדה לעבור לכהנים.",
+      "summary_en": "An inherited field is valued by its produce and the years remaining until Jubilee; if not redeemed, it becomes the priests’ possession.",
+      "image_prompt": "Wide ancient Israelite barley field beside a village, priest calculating a donation while farmers look on, distant hills and a symbolic cycle of seasons, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "שְׂדֵה מַקְנֶה וּמִידַּת הַשֶּׁקֶל",
+      "title_en": "Purchased Fields and Sacred Shekels",
+      "start_verse": 22,
+      "end_verse": 25,
+      "summary": "שדה שנקנה ואינו שדה אחוזה מוערך עד שנת היובל, וכל הערכים נמדדים בשקל הקודש.",
+      "summary_en": "A purchased field is valued until Jubilee, and all valuations are measured using the sacred shekel.",
+      "image_prompt": "Ancient priest weighing silver pieces on a balance beside a cultivated field, farmer and witnesses present, rural Israelite landscape, solemn and orderly biblical setting, no written text, no modern objects"
+    },
+    {
+      "title": "בְּכוּר וּבְהֵמָה טְמֵאָה",
+      "title_en": "Firstborn and Unclean Animals",
+      "start_verse": 26,
+      "end_verse": 27,
+      "summary": "בכור בהמה שייך לה׳ מלכתחילה ואינו מוקדש מחדש; בהמה טמאה ניתנת לפדיון או למכירה לפי הערך שנקבע.",
+      "summary_en": "A firstborn animal already belongs to God and cannot be dedicated again; an unclean animal may be redeemed or sold according to its valuation.",
+      "image_prompt": "Ancient Israelite herders with a firstborn ox and sheep near a priest, alongside an unclean animal set apart for valuation, pastoral hills, respectful biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "חֵרֶם מוּחְלָט לָהּ׳",
+      "title_en": "Things Devoted Entirely to God",
+      "start_verse": 28,
+      "end_verse": 29,
+      "summary": "דבר שהוחרם לה׳ נעשה קודש קודשים ואינו נמכר או נגאל; חרם מן האדם אינו נפדה.",
+      "summary_en": "Whatever is devoted entirely to God becomes most holy and cannot be sold or redeemed; a human being placed under the ban cannot be redeemed.",
+      "image_prompt": "Priests solemnly setting apart dedicated possessions within a sacred sanctuary area, worshippers standing at a respectful distance, strong sense of final consecration without violence, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "מֵעֶשֶׂר הָאָרֶץ לָהּ׳",
+      "title_en": "The Tithe of the Land",
+      "start_verse": 30,
+      "end_verse": 30,
+      "summary": "מעשר התבואה ופירות העצים שייך לה׳ ונחשב קודש.",
+      "summary_en": "A tenth of the land’s produce and fruit belongs to God and is holy.",
+      "image_prompt": "Ancient Israelite farmer presenting baskets of grain and fruit to a priest at the sanctuary, abundant fields and trees in the background, grateful reverent atmosphere, biblical ancient Near Eastern setting, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "פִּדְיוֹן הַמְּעֲשֵׂר",
+      "title_en": "Redeeming the Tithe",
+      "start_verse": 31,
+      "end_verse": 31,
+      "summary": "מי שפודה את מעשרו מוסיף עליו חמישית.",
+      "summary_en": "Whoever redeems his tithe must add one fifth.",
+      "image_prompt": "An ancient Israelite man redeeming a tithe of produce, presenting a basket and additional portion before a sacred priestly setting, biblical ancient Near Eastern atmosphere, respectful, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "מֵעֲשֶׂר הַבֹּקֶר וְהַצֹּאן",
+      "title_en": "Tithe of Herds and Flocks",
+      "start_verse": 32,
+      "end_verse": 33,
+      "summary": "כל עשירי מן הבקר והצאן העובר תחת השבט קדוש לה׳, ואין לבחור או להחליף אותו; ואם הוחלף, גם התמורה תהיה קודש.",
+      "summary_en": "Every tenth animal passing under the staff is holy to the Lord; it may not be selected or exchanged, and any substitute is also holy.",
+      "image_prompt": "An ancient shepherd counting cattle and sheep as they pass one by one beneath a staff, the tenth animal set apart in a sacred courtyard, biblical ancient Near Eastern setting, respectful, landscape, no written text, no modern objects"
+    },
+    {
+      "title": "סִיּוּם מִצְווֹת וִיִקְרָא",
+      "title_en": "Conclusion of Leviticus Commands",
+      "start_verse": 34,
+      "end_verse": 34,
+      "summary": "הפסוק מסכם את המצוות שציווה ה׳ את משה לבני ישראל בהר סיני.",
+      "summary_en": "The verse concludes the commandments that the Lord gave Moses for the Israelites at Mount Sinai.",
+      "image_prompt": "Moses standing before the Israelites at the foot of Mount Sinai, conveying divine commandments in a solemn gathering, dramatic mountain landscape, biblical ancient Near Eastern setting, respectful, landscape, no written text, no modern objects"
+    }
+  ],
+  "times_en": [
+    {
+      "start": 2.88,
+      "end": 5.34,
+      "usfm": "LEV.27.1"
+    },
+    {
+      "start": 5.34,
+      "end": 15.16,
+      "usfm": "LEV.27.2"
+    },
+    {
+      "start": 15.16,
+      "end": 25.5,
+      "usfm": "LEV.27.3"
+    },
+    {
+      "start": 25.5,
+      "end": 30.38,
+      "usfm": "LEV.27.4"
+    },
+    {
+      "start": 30.38,
+      "end": 39.34,
+      "usfm": "LEV.27.5"
+    },
+    {
+      "start": 39.34,
+      "end": 51.3,
+      "usfm": "LEV.27.6"
+    },
+    {
+      "start": 51.3,
+      "end": 61.86,
+      "usfm": "LEV.27.7"
+    },
+    {
+      "start": 61.86,
+      "end": 73.48,
+      "usfm": "LEV.27.8"
+    },
+    {
+      "start": 73.48,
+      "end": 81.88,
+      "usfm": "LEV.27.9"
+    },
+    {
+      "start": 81.88,
+      "end": 93.98,
+      "usfm": "LEV.27.10"
+    },
+    {
+      "start": 93.98,
+      "end": 102.44,
+      "usfm": "LEV.27.11"
+    },
+    {
+      "start": 102.44,
+      "end": 109.74,
+      "usfm": "LEV.27.12"
+    },
+    {
+      "start": 109.74,
+      "end": 116.24,
+      "usfm": "LEV.27.13"
+    },
+    {
+      "start": 116.24,
+      "end": 126.82,
+      "usfm": "LEV.27.14"
+    },
+    {
+      "start": 126.82,
+      "end": 135.82,
+      "usfm": "LEV.27.15"
+    },
+    {
+      "start": 135.82,
+      "end": 147.88,
+      "usfm": "LEV.27.16"
+    },
+    {
+      "start": 147.88,
+      "end": 153.28,
+      "usfm": "LEV.27.17"
+    },
+    {
+      "start": 153.28,
+      "end": 166.2,
+      "usfm": "LEV.27.18"
+    },
+    {
+      "start": 166.2,
+      "end": 178.14,
+      "usfm": "LEV.27.19"
+    },
+    {
+      "start": 178.14,
+      "end": 185.4,
+      "usfm": "LEV.27.20"
+    },
+    {
+      "start": 185.4,
+      "end": 194.62,
+      "usfm": "LEV.27.21"
+    },
+    {
+      "start": 194.62,
+      "end": 200.6,
+      "usfm": "LEV.27.22"
+    },
+    {
+      "start": 200.6,
+      "end": 211.36,
+      "usfm": "LEV.27.23"
+    },
+    {
+      "start": 211.36,
+      "end": 220.42,
+      "usfm": "LEV.27.24"
+    },
+    {
+      "start": 220.42,
+      "end": 226.72,
+      "usfm": "LEV.27.25"
+    },
+    {
+      "start": 226.72,
+      "end": 236.46,
+      "usfm": "LEV.27.26"
+    },
+    {
+      "start": 236.46,
+      "end": 249.74,
+      "usfm": "LEV.27.27"
+    },
+    {
+      "start": 249.74,
+      "end": 265.24,
+      "usfm": "LEV.27.28"
+    },
+    {
+      "start": 265.24,
+      "end": 272.22,
+      "usfm": "LEV.27.29"
+    },
+    {
+      "start": 272.22,
+      "end": 281.72,
+      "usfm": "LEV.27.30"
+    },
+    {
+      "start": 281.72,
+      "end": 287.98,
+      "usfm": "LEV.27.31"
+    },
+    {
+      "start": 287.98,
+      "end": 296.38,
+      "usfm": "LEV.27.32"
+    },
+    {
+      "start": 296.38,
+      "end": 308.56,
+      "usfm": "LEV.27.33"
+    },
+    {
+      "start": 308.56,
+      "end": 322.6,
+      "usfm": "LEV.27.34"
+    }
+  ],
+  "sync_anchor_en_word_index": 0,
+  "english_audio_source": "The Listener’s Bible®: KJV Edition",
+  "english_audio_version_id": 1,
+  "english_audio_id": 1804,
+  "times_en_source": "YouVersion BSB verse timing",
+  "times_en_end": [
+    6.26,
+    14.2,
+    25.04,
+    29.88,
+    40.46,
+    52.2,
+    61.8,
+    73.64,
+    81.72,
+    94.1,
+    103.94,
+    110.96,
+    117.22,
+    129.68,
+    138,
+    151.48,
+    158.04,
+    170.72,
+    180.2,
+    188.24,
+    197.72,
+    204.62,
+    215.18,
+    222.6,
+    229.22,
+    240.24,
+    253.48,
+    267.52,
+    273.82,
+    283.72,
+    289.36,
+    297.24,
+    311.4,
+    318.48
+  ],
+  "times_en_usfm": [
+    "LEV.27.1",
+    "LEV.27.2",
+    "LEV.27.3",
+    "LEV.27.4",
+    "LEV.27.5",
+    "LEV.27.6",
+    "LEV.27.7",
+    "LEV.27.8",
+    "LEV.27.9",
+    "LEV.27.10",
+    "LEV.27.11",
+    "LEV.27.12",
+    "LEV.27.13",
+    "LEV.27.14",
+    "LEV.27.15",
+    "LEV.27.16",
+    "LEV.27.17",
+    "LEV.27.18",
+    "LEV.27.19",
+    "LEV.27.20",
+    "LEV.27.21",
+    "LEV.27.22",
+    "LEV.27.23",
+    "LEV.27.24",
+    "LEV.27.25",
+    "LEV.27.26",
+    "LEV.27.27",
+    "LEV.27.28",
+    "LEV.27.29",
+    "LEV.27.30",
+    "LEV.27.31",
+    "LEV.27.32",
+    "LEV.27.33",
+    "LEV.27.34"
+  ],
+  "english_text_source": "restored from pre-BSB backup",
+  "audio_start_offset": 4.02,
+  "timings_offset_applied": true,
+  "verses": [
+    "וַיְדַבֵּר יְהוָה, אֶל מֹשֶׁה לֵּאמֹר.",
+    "״דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם, אִישׁ, כִּי יַפְלִא נֶדֶר. בְּעֶרְכְּךָ נְפָשֹׁת, לַיהוָה.״",
+    "״וְהָיָה עֶרְכְּךָ, הַזָּכָר, מִבֶּן עֶשְׂרִים שָׁנָה, וְעַד בֶּן שִׁשִּׁים שָׁנָה: וְהָיָה עֶרְכְּךָ חֲמִשִּׁים שֶׁקֶל כֶּסֶף. בְּשֶׁקֶל הַקֹּדֶשׁ.״",
+    "״וְאִם נְקֵבָה הִוא. וְהָיָה עֶרְכְּךָ, שְׁלֹשִׁים שָׁקֶל.״",
+    "״וְאִם מִבֶּן חָמֵשׁ שָׁנִים, וְעַד בֶּן עֶשְׂרִים שָׁנָה. וְהָיָה עֶרְכְּךָ הַזָּכָר עֶשְׂרִים שְׁקָלִים. וְלַנְּקֵבָה, עֲשֶׂרֶת שְׁקָלִים.״",
+    "״וְאִם מִבֶּן חֹדֶשׁ, וְעַד בֶּן חָמֵשׁ שָׁנִים. וְהָיָה עֶרְכְּךָ הַזָּכָר חֲמִשָּׁה שְׁקָלִים כָּסֶף. וְלַנְּקֵבָה עֶרְכְּךָ, שְׁלֹשֶׁת שְׁקָלִים כָּסֶף.״",
+    "״וְאִם מִבֶּן שִׁשִּׁים שָׁנָה וָמַעְלָה, אִם זָכָר. וְהָיָה עֶרְכְּךָ חֲמִשָּׁה עָשָׂר שָׁקֶל. וְלַנְּקֵבָה, עֲשָׂרָה שְׁקָלִים.״",
+    "״וְאִם מָךְ הוּא, מֵעֶרְכֶּךָ. וְהֶעֱמִידוֹ לִפְנֵי הַכֹּהֵן, וְהֶעֱרִיךְ אֹתוֹ הַכֹּהֵן: עַל פִּי אֲשֶׁר תַּשִּׂיג יַד הַנֹּדֵר. יַעֲרִיכֶנּוּ, הַכֹּהֵן.״",
+    "״וְאִם בְּהֵמָה. אֲשֶׁר יַקְרִיבוּ מִמֶּנָּה קָרְבָּן, לַיהוָה: כֹּל אֲשֶׁר יִתֵּן מִמֶּנּוּ לַיהוָה יִהְיֶה קֹּדֶשׁ.״",
+    "״לֹא יַחֲלִיפֶנּוּ, וְלֹא יָמִיר אֹתוֹ טוֹב בְּרָע. אוֹ רַע בְּטוֹב. וְאִם הָמֵר יָמִיר בְּהֵמָה בִּבְהֵמָה וְהָיָה הוּא וּתְמוּרָתוֹ יִהְיֶה קֹּדֶשׁ.״",
+    "״וְאִם, כָּל בְּהֵמָה טְמֵאָה, אֲשֶׁר לֹא יַקְרִיבוּ מִמֶּנָּה קָרְבָּן לַיהוָה. וְהֶעֱמִיד אֶת הַבְּהֵמָה, לִפְנֵי הַכֹּהֵן.״",
+    "״וְהֶעֱרִיךְ הַכֹּהֵן אֹתָהּ, בֵּין טוֹב וּבֵין רָע: כְּעֶרְכְּךָ הַכֹּהֵן כֵּן יִהְיֶה.״",
+    "״וְאִם גָּאֹל יִגְאָלֶנָּה. וְיָסַף חֲמִישִׁתוֹ, עַל עֶרְכֶּךָ.״",
+    "״וְאִישׁ, כִּי יַקְדִּשׁ אֶת בֵּיתוֹ קֹדֶשׁ לַיהוָה. וְהֶעֱרִיכוֹ הַכֹּהֵן, בֵּין טוֹב וּבֵין רָע: כַּאֲשֶׁר יַעֲרִיךְ אֹתוֹ הַכֹּהֵן כֵּן יָקוּם.״",
+    "״וְאִם הַמַּקְדִּישׁ. יִגְאַל, אֶת בֵּיתוֹ: וְיָסַף חֲמִישִׁית כֶּסֶף עֶרְכְּךָ עָלָיו. וְהָיָה לוֹ.״",
+    "״וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ, יַקְדִּישׁ אִישׁ לַיהוָה. וְהָיָה עֶרְכְּךָ, לְפִי זַרְעוֹ: זֶרַע חֹמֶר שְׂעֹרִים בַּחֲמִשִּׁים שֶׁקֶל כָּסֶף.״",
+    "״אִם מִשְּׁנַת הַיֹּבֵל יַקְדִּישׁ שָׂדֵהוּ. כְּעֶרְכְּךָ, יָקוּם.״",
+    "״וְאִם אַחַר הַיֹּבֵל, יַקְדִּישׁ שָׂדֵהוּ. וְחִשַּׁב לוֹ הַכֹּהֵן אֶת הַכֶּסֶף עַל פִּי הַשָּׁנִים הַנּוֹתָרֹת עַד שְׁנַת הַיֹּבֵל. וְנִגְרַע, מֵעֶרְכֶּךָ.״",
+    "״וְאִם גָּאֹל יִגְאַל אֶת הַשָּׂדֶה, הַמַּקְדִּישׁ אֹתוֹ: וְיָסַף חֲמִשִׁית כֶּסֶף עֶרְכְּךָ עָלָיו. וְקָם לוֹ.״",
+    "״וְאִם לֹא יִגְאַל אֶת הַשָּׂדֶה וְאִם מָכַר אֶת הַשָּׂדֶה לְאִישׁ אַחֵר. לֹא יִגָּאֵל, עוֹד.״",
+    "״וְהָיָה הַשָּׂדֶה בְּצֵאתוֹ בַיֹּבֵל, קֹדֶשׁ לַיהוָה. כִּשְׂדֵה הַחֵרֶם: לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ.״",
+    "״וְאִם אֶת שְׂדֵה מִקְנָתוֹ, אֲשֶׁר, לֹא מִשְּׂדֵה אֲחֻזָּתוֹ. יַקְדִּישׁ, לַיהוָה.״",
+    "״וְחִשַּׁב לוֹ הַכֹּהֵן, אֵת מִכְסַת הָעֶרְכְּךָ עַד, שְׁנַת הַיֹּבֵל. וְנָתַן אֶת הָעֶרְכְּךָ בַּיּוֹם הַהוּא, קֹדֶשׁ לַיהוָה.״",
+    "״בִּשְׁנַת הַיּוֹבֵל יָשׁוּב הַשָּׂדֶה לַאֲשֶׁר קָנָהוּ מֵאִתּוֹ. לַאֲשֶׁר לוֹ, אֲחֻזַּת הָאָרֶץ.״",
+    "״וְכָל עֶרְכְּךָ. יִהְיֶה, בְּשֶׁקֶל הַקֹּדֶשׁ: עֶשְׂרִים גֵּרָה יִהְיֶה הַשָּׁקֶל.״",
+    "״אַךְ בְּכוֹר אֲשֶׁר יְבֻכַּר לַיהוָה, בִּבְהֵמָה. לֹא יַקְדִּישׁ אִישׁ, אֹתוֹ: אִם שׁוֹר אִם שֶׂה לַיהוָה הוּא.״",
+    "״וְאִם בַּבְּהֵמָה הַטְּמֵאָה וּפָדָה בְעֶרְכֶּךָ וְיָסַף חֲמִשִׁתוֹ עָלָיו. וְאִם לֹא יִגָּאֵל, וְנִמְכַּר בְּעֶרְכֶּךָ.״",
+    "״אַךְ כָּל חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ לַיהוָה מִכָּל אֲשֶׁר לוֹ, מֵאָדָם וּבְהֵמָה וּמִשְּׂדֵה אֲחֻזָּתוֹ. לֹא יִמָּכֵר, וְלֹא יִגָּאֵל: כָּל חֵרֶם קֹדֶשׁ קָדָשִׁים הוּא לַיהוָה.״",
+    "״כָּל חֵרֶם, אֲשֶׁר יָחֳרַם מִן הָאָדָם. לֹא יִפָּדֶה: מוֹת יוּמָת.״",
+    "״וְכָל מַעְשַׂר הָאָרֶץ מִזֶּרַע הָאָרֶץ, מִפְּרִי הָעֵץ. לַיהוָה, הוּא: קֹדֶשׁ לַיהוָה.״",
+    "״וְאִם גָּאֹל יִגְאַל אִישׁ מִמַּעַשְׂרוֹ. חֲמִשִׁיתוֹ, יֹסֵף עָלָיו.״",
+    "״וְכָל מַעְשַׂר בָּקָר וָצֹאן כֹּל אֲשֶׁר יַעֲבֹר תַּחַת הַשָּׁבֶט. הָעֲשִׂירִי, יִהְיֶה קֹּדֶשׁ לַיהוָה.״",
+    "״לֹא יְבַקֵּר בֵּין טוֹב לָרַע, וְלֹא יְמִירֶנּוּ. וְאִם הָמֵר יְמִירֶנּוּ וְהָיָה הוּא וּתְמוּרָתוֹ יִהְיֶה קֹּדֶשׁ לֹא יִגָּאֵל.״",
+    "אֵלֶּה הַמִּצְו‍ֹת, אֲשֶׁר צִוָּה יְהוָה אֶת מֹשֶׁה. אֶל בְּנֵי יִשְׂרָאֵל: בְּהַר, סִינָי."
+  ]
+}

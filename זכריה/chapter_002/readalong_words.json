@@ -1,0 +1,958 @@
+{
+  "words": [
+    {
+      "position": 0,
+      "hebrew": "וָאֶשָּׂא אֶת עֵינַי, וָאֵרֶא; וְהִנֵּה, אַרְבַּע קְרָנוֹת. וָאֹמַר, אֶל הַמַּלְאָךְ הַדֹּבֵר בִּי,מָה אֵלֶּה; וַיֹּאמֶר אֵלַי,אֵלֶּה הַקְּרָנוֹת אֲשֶׁר זֵרוּ אֶת יְהוּדָה, אֶת יִשְׂרָאֵל וִירוּשָׁלִָם. וַיַּרְאֵנִי יְהוָה, אַרְבָּעָה חָרָשִׁים. וָאֹמַר, מָה אֵלֶּה בָאִים לַעֲשׂוֹת; וַיֹּאמֶר לֵאמֹר, אֵלֶּה הַקְּרָנוֹת אֲשֶׁר זֵרוּ אֶת יְהוּדָה כְּפִי אִישׁ לֹא נָשָׂא רֹאשׁוֹ, וַיָּבֹאוּ אֵלֶּה לְהַחֲרִיד אֹתָם, לְיַדּוֹת אֶת קַרְנוֹת הַגּוֹיִם הַנֹּשְׂאִים קֶרֶן אֶל אֶרֶץ יְהוּדָה לְזָרוֹתָהּ. וָאֶשָּׂא",
+      "start": 1.63,
+      "end": 2.46
+    },
+    {
+      "position": 1,
+      "hebrew": "עֵינַי",
+      "start": 2.46,
+      "end": 2.99
+    },
+    {
+      "position": 2,
+      "hebrew": "וָאֵרֶא,",
+      "start": 2.99,
+      "end": 3.73
+    },
+    {
+      "position": 3,
+      "hebrew": "וְהִנֵּה ",
+      "start": 4.42,
+      "end": 5.1
+    },
+    {
+      "position": 4,
+      "hebrew": "אִישׁ;",
+      "start": 5.1,
+      "end": 5.56
+    },
+    {
+      "position": 5,
+      "hebrew": "וּבְיָדוֹ,",
+      "start": 6.1,
+      "end": 6.84
+    },
+    {
+      "position": 6,
+      "hebrew": "חֶבֶל",
+      "start": 7.01,
+      "end": 7.59
+    },
+    {
+      "position": 7,
+      "hebrew": "מִדָּה׃",
+      "start": 7.59,
+      "end": 8.24
+    },
+    {
+      "position": 8,
+      "hebrew": "וָאֹמַר,",
+      "start": 8.77,
+      "end": 9.43
+    },
+    {
+      "position": 9,
+      "hebrew": "אָנָה",
+      "start": 9.88,
+      "end": 10.56
+    },
+    {
+      "position": 10,
+      "hebrew": "אַתָּה",
+      "start": 10.7,
+      "end": 11.22
+    },
+    {
+      "position": 11,
+      "hebrew": "הֹלֵךְ;",
+      "start": 11.22,
+      "end": 11.6
+    },
+    {
+      "position": 12,
+      "hebrew": "וַיֹּאמֶר",
+      "start": 12.44,
+      "end": 12.73
+    },
+    {
+      "position": 13,
+      "hebrew": "אֵלַי,",
+      "start": 12.73,
+      "end": 13.48
+    },
+    {
+      "position": 14,
+      "hebrew": "לָמֹד",
+      "start": 14.21,
+      "end": 14.81
+    },
+    {
+      "position": 15,
+      "hebrew": "אֶת ",
+      "start": 14.81,
+      "end": 15.16
+    },
+    {
+      "position": 16,
+      "hebrew": "יְרוּשָׁלִַם,",
+      "start": 15.16,
+      "end": 16.15
+    },
+    {
+      "position": 17,
+      "hebrew": "לִרְאוֹת",
+      "start": 16.46,
+      "end": 17.25
+    },
+    {
+      "position": 18,
+      "hebrew": "כַּמָּה ",
+      "start": 17.63,
+      "end": 18.42
+    },
+    {
+      "position": 19,
+      "hebrew": "רָחְבָּהּ,",
+      "start": 18.42,
+      "end": 19.2
+    },
+    {
+      "position": 20,
+      "hebrew": "וְכַמָּה",
+      "start": 19.2,
+      "end": 20.24
+    },
+    {
+      "position": 21,
+      "hebrew": "אָרְכָּהּ׃",
+      "start": 20.27,
+      "end": 20.72
+    },
+    {
+      "position": 22,
+      "hebrew": "וְהִנֵּה,",
+      "start": 21.59,
+      "end": 22.16
+    },
+    {
+      "position": 23,
+      "hebrew": "הַמַּלְאָךְ",
+      "start": 22.16,
+      "end": 22.75
+    },
+    {
+      "position": 24,
+      "hebrew": "הַדֹּבֵר",
+      "start": 22.75,
+      "end": 23.6
+    },
+    {
+      "position": 25,
+      "hebrew": "בִּי,",
+      "start": 23.6,
+      "end": 23.9
+    },
+    {
+      "position": 26,
+      "hebrew": "יֹצֵא;",
+      "start": 24.13,
+      "end": 24.73
+    },
+    {
+      "position": 27,
+      "hebrew": "וּמַלְאָךְ",
+      "start": 25.19,
+      "end": 25.79
+    },
+    {
+      "position": 28,
+      "hebrew": "אַחֵר,",
+      "start": 25.91,
+      "end": 26.55
+    },
+    {
+      "position": 29,
+      "hebrew": "יֹצֵא",
+      "start": 26.8,
+      "end": 27.29
+    },
+    {
+      "position": 30,
+      "hebrew": "לִקְרָאתוֹ׃",
+      "start": 27.29,
+      "end": 28.1
+    },
+    {
+      "position": 31,
+      "hebrew": "וַיֹּאמֶר",
+      "start": 28.57,
+      "end": 29.25
+    },
+    {
+      "position": 32,
+      "hebrew": "אֵלָו,",
+      "start": 29.31,
+      "end": 29.72
+    },
+    {
+      "position": 33,
+      "hebrew": "רֻץ",
+      "start": 29.94,
+      "end": 30.29
+    },
+    {
+      "position": 34,
+      "hebrew": "דַּבֵּר",
+      "start": 31.06,
+      "end": 31.79
+    },
+    {
+      "position": 35,
+      "hebrew": "אֶל ",
+      "start": 31.79,
+      "end": 31.95
+    },
+    {
+      "position": 36,
+      "hebrew": "הַנַּעַר",
+      "start": 31.95,
+      "end": 32.58
+    },
+    {
+      "position": 37,
+      "hebrew": "הַלָּז,",
+      "start": 32.58,
+      "end": 33.05
+    },
+    {
+      "position": 38,
+      "hebrew": "לֵאמֹר:",
+      "start": 33.05,
+      "end": 33.56
+    },
+    {
+      "position": 39,
+      "hebrew": "פְּרָזוֹת",
+      "start": 34.31,
+      "end": 34.99
+    },
+    {
+      "position": 40,
+      "hebrew": "תֵּשֵׁב",
+      "start": 35.06,
+      "end": 35.63
+    },
+    {
+      "position": 41,
+      "hebrew": "יְרוּשָׁלִַם,",
+      "start": 35.63,
+      "end": 36.54
+    },
+    {
+      "position": 42,
+      "hebrew": "מֵרֹב",
+      "start": 36.88,
+      "end": 37.6
+    },
+    {
+      "position": 43,
+      "hebrew": "אָדָם",
+      "start": 37.63,
+      "end": 38.2
+    },
+    {
+      "position": 44,
+      "hebrew": "וּבְהֵמָה",
+      "start": 38.31,
+      "end": 39.14
+    },
+    {
+      "position": 45,
+      "hebrew": "בְּתוֹכָהּ׃",
+      "start": 39.14,
+      "end": 39.7
+    },
+    {
+      "position": 46,
+      "hebrew": "וַאֲנִי",
+      "start": 40.68,
+      "end": 41.25
+    },
+    {
+      "position": 47,
+      "hebrew": "אֶהְיֶה ",
+      "start": 41.25,
+      "end": 41.93
+    },
+    {
+      "position": 48,
+      "hebrew": "לָּהּ",
+      "start": 41.93,
+      "end": 42.24
+    },
+    {
+      "position": 49,
+      "hebrew": "נְאֻם ",
+      "start": 42.24,
+      "end": 43.4
+    },
+    {
+      "position": 50,
+      "hebrew": "יְהוָה,",
+      "start": 44.26,
+      "end": 44.54
+    },
+    {
+      "position": 51,
+      "hebrew": "חוֹמַת",
+      "start": 44.54,
+      "end": 45.03
+    },
+    {
+      "position": 52,
+      "hebrew": "אֵשׁ",
+      "start": 45.03,
+      "end": 45.29
+    },
+    {
+      "position": 53,
+      "hebrew": "סָבִיב;",
+      "start": 45.29,
+      "end": 45.76
+    },
+    {
+      "position": 54,
+      "hebrew": "וּלְכָבוֹד,",
+      "start": 46.29,
+      "end": 47.13
+    },
+    {
+      "position": 55,
+      "hebrew": "אֶהְיֶה",
+      "start": 47.25,
+      "end": 47.84
+    },
+    {
+      "position": 56,
+      "hebrew": "בְתוֹכָהּ׃",
+      "start": 47.84,
+      "end": 48.49
+    },
+    {
+      "position": 57,
+      "hebrew": "הוֹי",
+      "start": 51.53,
+      "end": 51.95
+    },
+    {
+      "position": 58,
+      "hebrew": "הוֹי,",
+      "start": 51.95,
+      "end": 52.4
+    },
+    {
+      "position": 59,
+      "hebrew": "וְנֻסוּ",
+      "start": 52.85,
+      "end": 53.63
+    },
+    {
+      "position": 60,
+      "hebrew": "מֵאֶרֶץ",
+      "start": 53.63,
+      "end": 54.29
+    },
+    {
+      "position": 61,
+      "hebrew": "צָפוֹן,",
+      "start": 54.29,
+      "end": 54.83
+    },
+    {
+      "position": 62,
+      "hebrew": "נְאֻם ",
+      "start": 55.06,
+      "end": 55.66
+    },
+    {
+      "position": 63,
+      "hebrew": "יְהוָה:",
+      "start": 55.66,
+      "end": 56.28
+    },
+    {
+      "position": 64,
+      "hebrew": "כִּי",
+      "start": 56.89,
+      "end": 57.12
+    },
+    {
+      "position": 65,
+      "hebrew": "כְּאַרְבַּע",
+      "start": 57.12,
+      "end": 57.85
+    },
+    {
+      "position": 66,
+      "hebrew": "רוּחוֹת",
+      "start": 57.88,
+      "end": 58.31
+    },
+    {
+      "position": 67,
+      "hebrew": "הַשָּׁמַיִם,",
+      "start": 58.34,
+      "end": 59.4
+    },
+    {
+      "position": 68,
+      "hebrew": "פֵּרַשְׂתִּי",
+      "start": 59.75,
+      "end": 60.83
+    },
+    {
+      "position": 69,
+      "hebrew": "אֶתְכֶם,",
+      "start": 60.83,
+      "end": 61.22
+    },
+    {
+      "position": 70,
+      "hebrew": "נְאֻם ",
+      "start": 61.22,
+      "end": 62.25
+    },
+    {
+      "position": 71,
+      "hebrew": "יְהוָה׃",
+      "start": 63,
+      "end": 63.66
+    },
+    {
+      "position": 72,
+      "hebrew": "הוֹי",
+      "start": 63.66,
+      "end": 63.75
+    },
+    {
+      "position": 73,
+      "hebrew": "צִיּוֹן,",
+      "start": 63.75,
+      "end": 64.2
+    },
+    {
+      "position": 74,
+      "hebrew": "הִמָּלְטִי,",
+      "start": 64.2,
+      "end": 65.31
+    },
+    {
+      "position": 75,
+      "hebrew": "יוֹשֶׁבֶת,",
+      "start": 65.72,
+      "end": 66.66
+    },
+    {
+      "position": 76,
+      "hebrew": "בַּת ",
+      "start": 66.74,
+      "end": 67.01
+    },
+    {
+      "position": 77,
+      "hebrew": "בָּבֶל׃",
+      "start": 67.1,
+      "end": 67.68
+    },
+    {
+      "position": 78,
+      "hebrew": "כִּי",
+      "start": 68.4,
+      "end": 68.56
+    },
+    {
+      "position": 79,
+      "hebrew": "כֹה",
+      "start": 68.56,
+      "end": 68.75
+    },
+    {
+      "position": 80,
+      "hebrew": "אָמַר,",
+      "start": 68.78,
+      "end": 69.24
+    },
+    {
+      "position": 81,
+      "hebrew": "יְהוָה",
+      "start": 69.24,
+      "end": 69.89
+    },
+    {
+      "position": 82,
+      "hebrew": "צְבָאוֹת,",
+      "start": 69.89,
+      "end": 70.44
+    },
+    {
+      "position": 83,
+      "hebrew": "אַחַר",
+      "start": 71.34,
+      "end": 71.77
+    },
+    {
+      "position": 84,
+      "hebrew": "כָּבוֹד,",
+      "start": 71.77,
+      "end": 72.29
+    },
+    {
+      "position": 85,
+      "hebrew": "שְׁלָחַנִי",
+      "start": 72.29,
+      "end": 73.14
+    },
+    {
+      "position": 86,
+      "hebrew": "אֶל ",
+      "start": 73.14,
+      "end": 73.61
+    },
+    {
+      "position": 87,
+      "hebrew": "הַגּוֹיִם",
+      "start": 73.61,
+      "end": 74.12
+    },
+    {
+      "position": 88,
+      "hebrew": "הַשֹּׁלְלִים",
+      "start": 74.41,
+      "end": 75.32
+    },
+    {
+      "position": 89,
+      "hebrew": "אֶתְכֶם:",
+      "start": 75.32,
+      "end": 75.82
+    },
+    {
+      "position": 90,
+      "hebrew": "כִּי",
+      "start": 76.46,
+      "end": 76.61
+    },
+    {
+      "position": 91,
+      "hebrew": "הַנֹּגֵעַ",
+      "start": 76.61,
+      "end": 77.84
+    },
+    {
+      "position": 92,
+      "hebrew": "בָּכֶם,",
+      "start": 77.87,
+      "end": 78.45
+    },
+    {
+      "position": 93,
+      "hebrew": "נֹגֵעַ",
+      "start": 78.9,
+      "end": 79.89
+    },
+    {
+      "position": 94,
+      "hebrew": "בְּבָבַת",
+      "start": 79.92,
+      "end": 80.68
+    },
+    {
+      "position": 95,
+      "hebrew": "עֵינוֹ׃",
+      "start": 80.68,
+      "end": 81.18
+    },
+    {
+      "position": 96,
+      "hebrew": "כִּי",
+      "start": 82.2,
+      "end": 82.33
+    },
+    {
+      "position": 97,
+      "hebrew": "הִנְנִי",
+      "start": 82.33,
+      "end": 82.78
+    },
+    {
+      "position": 98,
+      "hebrew": "מֵנִיף",
+      "start": 82.78,
+      "end": 83.18
+    },
+    {
+      "position": 99,
+      "hebrew": "אֶת ",
+      "start": 83.18,
+      "end": 83.48
+    },
+    {
+      "position": 100,
+      "hebrew": "יָדִי,",
+      "start": 83.48,
+      "end": 83.95
+    },
+    {
+      "position": 101,
+      "hebrew": "עֲלֵיהֶם,",
+      "start": 83.95,
+      "end": 84.58
+    },
+    {
+      "position": 102,
+      "hebrew": "וְהָיוּ",
+      "start": 85.03,
+      "end": 85.61
+    },
+    {
+      "position": 103,
+      "hebrew": "שָׁלָל,",
+      "start": 85.61,
+      "end": 86.1
+    },
+    {
+      "position": 104,
+      "hebrew": "לְעַבְדֵיהֶם;",
+      "start": 86.1,
+      "end": 87.15
+    },
+    {
+      "position": 105,
+      "hebrew": "וִידַעְתֶּם,",
+      "start": 87.62,
+      "end": 88.56
+    },
+    {
+      "position": 106,
+      "hebrew": "כִּי ",
+      "start": 88.91,
+      "end": 89.15
+    },
+    {
+      "position": 107,
+      "hebrew": "יְהוָה",
+      "start": 89.15,
+      "end": 90.01
+    },
+    {
+      "position": 108,
+      "hebrew": "צְבָאוֹת",
+      "start": 90.01,
+      "end": 90.6
+    },
+    {
+      "position": 109,
+      "hebrew": "שְׁלָחָנִי׃",
+      "start": 90.6,
+      "end": 91.47
+    },
+    {
+      "position": 110,
+      "hebrew": "רָנִּי",
+      "start": 92.34,
+      "end": 93.01
+    },
+    {
+      "position": 111,
+      "hebrew": "וְשִׂמְחִי,",
+      "start": 93.01,
+      "end": 93.77
+    },
+    {
+      "position": 112,
+      "hebrew": "בַּת ",
+      "start": 93.77,
+      "end": 94.26
+    },
+    {
+      "position": 113,
+      "hebrew": "צִיּוֹן,",
+      "start": 94.26,
+      "end": 94.88
+    },
+    {
+      "position": 114,
+      "hebrew": "כִּי",
+      "start": 95.46,
+      "end": 95.83
+    },
+    {
+      "position": 115,
+      "hebrew": "הִנְנִי ",
+      "start": 95.83,
+      "end": 96.29
+    },
+    {
+      "position": 116,
+      "hebrew": "בָא",
+      "start": 96.29,
+      "end": 96.83
+    },
+    {
+      "position": 117,
+      "hebrew": "וְשָׁכַנְתִּי",
+      "start": 97.17,
+      "end": 98.15
+    },
+    {
+      "position": 118,
+      "hebrew": "בְתוֹכֵךְ,",
+      "start": 98.15,
+      "end": 98.81
+    },
+    {
+      "position": 119,
+      "hebrew": "נְאֻם ",
+      "start": 98.94,
+      "end": 99.58
+    },
+    {
+      "position": 120,
+      "hebrew": "יְהוָה׃",
+      "start": 99.58,
+      "end": 100.25
+    },
+    {
+      "position": 121,
+      "hebrew": "וְנִלְווּ",
+      "start": 101.24,
+      "end": 101.9
+    },
+    {
+      "position": 122,
+      "hebrew": "גוֹיִם",
+      "start": 101.9,
+      "end": 102.3
+    },
+    {
+      "position": 123,
+      "hebrew": "רַבִּים",
+      "start": 102.3,
+      "end": 102.89
+    },
+    {
+      "position": 124,
+      "hebrew": "אֶל ",
+      "start": 102.89,
+      "end": 103.01
+    },
+    {
+      "position": 125,
+      "hebrew": "יְהוָה",
+      "start": 103.01,
+      "end": 103.68
+    },
+    {
+      "position": 126,
+      "hebrew": "בַּיּוֹם",
+      "start": 103.83,
+      "end": 104.51
+    },
+    {
+      "position": 127,
+      "hebrew": "הַהוּא,",
+      "start": 104.55,
+      "end": 105.09
+    },
+    {
+      "position": 128,
+      "hebrew": "וְהָיוּ",
+      "start": 105.38,
+      "end": 106.2
+    },
+    {
+      "position": 129,
+      "hebrew": "לִי",
+      "start": 106.2,
+      "end": 106.42
+    },
+    {
+      "position": 130,
+      "hebrew": "לְעָם;",
+      "start": 106.42,
+      "end": 106.98
+    },
+    {
+      "position": 131,
+      "hebrew": "וְשָׁכַנְתִּי",
+      "start": 107.49,
+      "end": 108.39
+    },
+    {
+      "position": 132,
+      "hebrew": "בְתוֹכֵךְ,",
+      "start": 108.39,
+      "end": 109.06
+    },
+    {
+      "position": 133,
+      "hebrew": "וְיָדַעַתְּ,",
+      "start": 109.59,
+      "end": 110.42
+    },
+    {
+      "position": 134,
+      "hebrew": "כִּי ",
+      "start": 111.13,
+      "end": 111.41
+    },
+    {
+      "position": 135,
+      "hebrew": "יְהוָה",
+      "start": 111.41,
+      "end": 112.29
+    },
+    {
+      "position": 136,
+      "hebrew": "צְבָאוֹת",
+      "start": 112.29,
+      "end": 112.82
+    },
+    {
+      "position": 137,
+      "hebrew": "שְׁלָחַנִי",
+      "start": 112.82,
+      "end": 113.59
+    },
+    {
+      "position": 138,
+      "hebrew": "אֵלָיִךְ׃",
+      "start": 113.59,
+      "end": 114.19
+    },
+    {
+      "position": 139,
+      "hebrew": "וְנָחַל",
+      "start": 115.16,
+      "end": 115.77
+    },
+    {
+      "position": 140,
+      "hebrew": "יְהוָה",
+      "start": 115.77,
+      "end": 116.4
+    },
+    {
+      "position": 141,
+      "hebrew": "אֶת ",
+      "start": 116.4,
+      "end": 116.45
+    },
+    {
+      "position": 142,
+      "hebrew": "יְהוּדָה",
+      "start": 116.45,
+      "end": 117.44
+    },
+    {
+      "position": 143,
+      "hebrew": "חֶלְקוֹ,",
+      "start": 117.53,
+      "end": 118.19
+    },
+    {
+      "position": 144,
+      "hebrew": "עַל",
+      "start": 118.4,
+      "end": 118.77
+    },
+    {
+      "position": 145,
+      "hebrew": "אַדְמַת",
+      "start": 118.8,
+      "end": 119.31
+    },
+    {
+      "position": 146,
+      "hebrew": "הַקֹּדֶשׁ;",
+      "start": 119.34,
+      "end": 120.22
+    },
+    {
+      "position": 147,
+      "hebrew": "וּבָחַר",
+      "start": 120.61,
+      "end": 121.08
+    },
+    {
+      "position": 148,
+      "hebrew": "עוֹד,",
+      "start": 121.08,
+      "end": 121.81
+    },
+    {
+      "position": 149,
+      "hebrew": "בִּירוּשָׁלִָם׃",
+      "start": 121.81,
+      "end": 122.75
+    },
+    {
+      "position": 150,
+      "hebrew": "הַס",
+      "start": 123.26,
+      "end": 123.82
+    },
+    {
+      "position": 151,
+      "hebrew": "כָּל ",
+      "start": 123.88,
+      "end": 124.17
+    },
+    {
+      "position": 152,
+      "hebrew": "בָּשָׂר,",
+      "start": 124.17,
+      "end": 124.81
+    },
+    {
+      "position": 153,
+      "hebrew": "מִפְּנֵי",
+      "start": 125.01,
+      "end": 125.69
+    },
+    {
+      "position": 154,
+      "hebrew": "יְהוָה,",
+      "start": 125.69,
+      "end": 126.48
+    },
+    {
+      "position": 155,
+      "hebrew": "כִּי",
+      "start": 126.83,
+      "end": 127.09
+    },
+    {
+      "position": 156,
+      "hebrew": "נֵעוֹר,",
+      "start": 127.09,
+      "end": 127.78
+    },
+    {
+      "position": 157,
+      "hebrew": "מִמְּעוֹן",
+      "start": 127.94,
+      "end": 128.7
+    },
+    {
+      "position": 158,
+      "hebrew": "קָדְשׁוֹ׃",
+      "start": 128.7,
+      "end": 129.28
+    }
+  ]
+}

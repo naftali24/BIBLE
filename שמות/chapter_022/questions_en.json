@@ -1,0 +1,1348 @@
+{
+  "book": "Exodus",
+  "book_he": "שמות",
+  "chapter": 22,
+  "question_count": 90,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start_verse": 1,
+      "end_verse": 3,
+      "title": "Laws Concerning Theft",
+      "easy": [
+        {
+          "question": "Where is the thief found in the first verse?",
+          "answers": [
+            "Breaking in",
+            "In the marketplace",
+            "In court"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “If a thief be found breaking up.”"
+        },
+        {
+          "question": "What is said when “the sun is risen upon him”?",
+          "answers": [
+            "He may be killed",
+            "There shall be blood shed for him",
+            "No payment is required"
+          ],
+          "correct": 1,
+          "explanation": "When the sun has risen, the verse says there shall be blood shed for him, meaning the one who kills him is liable."
+        },
+        {
+          "question": "How much must the thief pay if the stolen item is found in his possession?",
+          "answers": [
+            "Three times as much",
+            "Only the stolen item",
+            "Double"
+          ],
+          "correct": 2,
+          "explanation": "The verse says, “He shall restore double.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the main difference between a thief found breaking in and one found after sunrise?",
+          "answers": [
+            "At night the killer is not liable, but after sunrise the killer is liable",
+            "At night the thief pays, but after sunrise he is free",
+            "There is no difference"
+          ],
+          "correct": 0,
+          "explanation": "The verses distinguish between a possible immediate danger during a nighttime break-in and a daytime situation in which killing the thief makes the killer liable."
+        },
+        {
+          "question": "What does “there shall be blood shed for him” mean in this context?",
+          "answers": [
+            "He has a great deal of money",
+            "The person responsible for killing him is liable",
+            "He must pay for the theft"
+          ],
+          "correct": 1,
+          "explanation": "In the daytime context, the phrase means that killing the thief is considered the responsibility of the killer, not an act of protection from immediate danger."
+        },
+        {
+          "question": "What happens if the thief cannot pay his debt?",
+          "answers": [
+            "He is released",
+            "The stolen item is given to him",
+            "He is sold because of his theft"
+          ],
+          "correct": 2,
+          "explanation": "The verse says, “If he have nothing, then he shall be sold for his theft.”"
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from the difference between night and day in the law concerning killing a thief?",
+          "answers": [
+            "The law considers the immediate danger to the homeowner",
+            "Stealing is forbidden only during the day",
+            "A thief is not responsible for his actions at night"
+          ],
+          "correct": 0,
+          "explanation": "The distinction between breaking in and sunrise shows that the law considers whether the thief may be perceived as an immediate danger."
+        },
+        {
+          "question": "What does the phrase “whether it be ox, or ass, or sheep” emphasize?",
+          "answers": [
+            "Only stealing an ox counts as theft",
+            "The law applies to different kinds of animals",
+            "The thief must return three animals"
+          ],
+          "correct": 1,
+          "explanation": "The verse lists several animals to show that the obligation applies to theft involving different kinds of livestock."
+        },
+        {
+          "question": "What detail in the third verse determines when double payment is required?",
+          "answers": [
+            "When the theft occurred during the day",
+            "When the thief was caught breaking in",
+            "When the stolen item is found in his possession"
+          ],
+          "correct": 2,
+          "explanation": "The verse says that if the theft is found in his hand, he must restore double."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from the difference between night and day in the law concerning killing a thief?",
+          "answers": [
+            "The law considers the immediate danger to the homeowner",
+            "Stealing is forbidden only during the day",
+            "A thief is not responsible for his actions at night"
+          ],
+          "correct": 0,
+          "explanation": "The distinction between breaking in and sunrise shows that the law considers whether the thief may be perceived as an immediate danger."
+        },
+        {
+          "question": "What does the phrase “whether it be ox, or ass, or sheep” emphasize?",
+          "answers": [
+            "Only stealing an ox counts as theft",
+            "The law applies to different kinds of animals",
+            "The thief must return three animals"
+          ],
+          "correct": 1,
+          "explanation": "The verse lists several animals to show that the obligation applies to theft involving different kinds of livestock."
+        },
+        {
+          "question": "What detail in the third verse determines when double payment is required?",
+          "answers": [
+            "When the theft occurred during the day",
+            "When the thief was caught breaking in",
+            "When the stolen item is found in his possession"
+          ],
+          "correct": 2,
+          "explanation": "The verse says that if the theft is found in his hand, he must restore double."
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "start_verse": 4,
+      "end_verse": 5,
+      "title": "Damage to Fields and Fire",
+      "easy": [
+        {
+          "question": "What happened when a man let his animal into another person’s field?",
+          "answers": [
+            "The animal ate or damaged the other person’s field",
+            "The animal immediately returned home",
+            "The man sold the animal"
+          ],
+          "correct": 0,
+          "explanation": "The verse describes an animal feeding in another man’s field and damaging it."
+        },
+        {
+          "question": "What must a person pay if he causes his animal to damage another person’s field or vineyard?",
+          "answers": [
+            "Only a small part of the crop",
+            "The best of his own field or vineyard",
+            "Nothing"
+          ],
+          "correct": 1,
+          "explanation": "The verse says he must make restitution from the best of his own field and vineyard."
+        },
+        {
+          "question": "Who must pay when a fire breaks out and spreads, causing damage?",
+          "answers": [
+            "The owner of the damaged field",
+            "The person who found the fire",
+            "The person who kindled the fire"
+          ],
+          "correct": 2,
+          "explanation": "The verse says, “He that kindled the fire shall surely make restitution.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What does “the best” mean in “the best of his own field and vineyard”?",
+          "answers": [
+            "The finest and highest-quality portion",
+            "The most distant portion",
+            "The smallest portion"
+          ],
+          "correct": 0,
+          "explanation": "In the context of compensation, “the best” means the finest produce, so the person who caused the damage must pay from his best."
+        },
+        {
+          "question": "What is the order of events described in verse 5?",
+          "answers": [
+            "The field is plowed, and then a fire starts",
+            "A fire breaks out, catches in thorns, and consumes the crops",
+            "The crops are eaten, and only afterward a fire is lit"
+          ],
+          "correct": 1,
+          "explanation": "The verse first describes a fire breaking out, then catching in thorns, and finally consuming the stacks, standing grain, or field."
+        },
+        {
+          "question": "What do the two cases in these verses have in common?",
+          "answers": [
+            "Someone else’s property is damaged, and the person responsible must pay",
+            "Only animals are damaged in both cases",
+            "No one is responsible for either kind of damage"
+          ],
+          "correct": 0,
+          "explanation": "In the first case the damage is caused by an animal, and in the second by fire; in both cases there is responsibility and compensation."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What detail in verse 5 shows that responsibility applies even when the fire spreads beyond where it was lit?",
+          "answers": [
+            "The fire breaks out and catches in thorns",
+            "The verse mentions a field",
+            "The verse mentions stacks of grain"
+          ],
+          "correct": 0,
+          "explanation": "The words “If fire break out” describe fire leaving its original place and causing damage elsewhere; the person who lit it must still pay."
+        },
+        {
+          "question": "Why must the person who caused the damage pay from the best of his field or vineyard?",
+          "answers": [
+            "Because the damage occurred at night",
+            "So the injured person receives valuable compensation for what was lost",
+            "Because raising animals is forbidden"
+          ],
+          "correct": 1,
+          "explanation": "Requiring payment from the best ensures that the compensation is valuable rather than the worst produce available."
+        },
+        {
+          "question": "What is the main difference between the causes of damage in verses 4 and 5?",
+          "answers": [
+            "In verse 4 the damage is caused by an animal, and in verse 5 by fire",
+            "In verse 4 the damage is caused by a person, and in verse 5 by water",
+            "Verse 4 contains no damage, but verse 5 does"
+          ],
+          "correct": 0,
+          "explanation": "Verse 4 concerns an animal feeding in another person’s field, while verse 5 concerns fire spreading and consuming crops or a field."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What detail in verse 5 shows that responsibility applies even when the fire spreads beyond where it was lit?",
+          "answers": [
+            "The fire breaks out and catches in thorns",
+            "The verse mentions a field",
+            "The verse mentions stacks of grain"
+          ],
+          "correct": 0,
+          "explanation": "The words “If fire break out” describe fire leaving its original place and causing damage elsewhere; the person who lit it must still pay."
+        },
+        {
+          "question": "Why must the person who caused the damage pay from the best of his field or vineyard?",
+          "answers": [
+            "Because the damage occurred at night",
+            "So the injured person receives valuable compensation for what was lost",
+            "Because raising animals is forbidden"
+          ],
+          "correct": 1,
+          "explanation": "Requiring payment from the best ensures that the compensation is valuable rather than the worst produce available."
+        },
+        {
+          "question": "What is the main difference between the causes of damage in verses 4 and 5?",
+          "answers": [
+            "In verse 4 the damage is caused by an animal, and in verse 5 by fire",
+            "In verse 4 the damage is caused by a person, and in verse 5 by water",
+            "Verse 4 contains no damage, but verse 5 does"
+          ],
+          "correct": 0,
+          "explanation": "Verse 4 concerns an animal feeding in another person’s field, while verse 5 concerns fire spreading and consuming crops or a field."
+        }
+      ]
+    },
+    {
+      "paragraph": 3,
+      "start_verse": 6,
+      "end_verse": 8,
+      "title": "Safekeeping Property and Judgment",
+      "easy": [
+        {
+          "question": "What did the man entrust to his neighbor?",
+          "answers": [
+            "Money or goods",
+            "An ox or donkey",
+            "A garment or shoes"
+          ],
+          "correct": 0,
+          "explanation": "The verse says that a man delivered money or goods to his neighbor to keep."
+        },
+        {
+          "question": "What must the thief pay if he is found?",
+          "answers": [
+            "Once as much",
+            "Double",
+            "Triple"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “Let him pay double.”"
+        },
+        {
+          "question": "Who is brought before the judges when the thief is not found?",
+          "answers": [
+            "The thief",
+            "The keeper",
+            "The master of the house"
+          ],
+          "correct": 2,
+          "explanation": "When the thief is not found, the master of the house is brought before the judges."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why are both parties brought before the judges?",
+          "answers": [
+            "To determine who is at fault",
+            "To divide the property",
+            "To find the thief"
+          ],
+          "correct": 0,
+          "explanation": "When the thief is not found and there is a dispute, the judges determine whether the owner of the house took his neighbor’s property."
+        },
+        {
+          "question": "What does “put his hand” mean in “whether he have put his hand unto his neighbour’s goods”?",
+          "answers": [
+            "Sent a letter",
+            "Took or misused the property",
+            "Sent someone else"
+          ],
+          "correct": 1,
+          "explanation": "The context shows that “put his hand” means taking or using another person’s property improperly."
+        },
+        {
+          "question": "What happens after the judges condemn one of the parties?",
+          "answers": [
+            "He pays once as much",
+            "He receives the lost item",
+            "He pays double to his neighbor"
+          ],
+          "correct": 2,
+          "explanation": "The verse says that the person whom the judges condemn must pay double to his neighbor."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What situation is described when property is stolen but the thief is not found?",
+          "answers": [
+            "The owner of the house is examined to see whether he took the property",
+            "The keeper must immediately pay double",
+            "The property is divided between the two men"
+          ],
+          "correct": 0,
+          "explanation": "In this situation, the owner of the house is brought before the judges to determine whether he took his neighbor’s property."
+        },
+        {
+          "question": "What can be inferred from the repeated mention of paying “double”?",
+          "answers": [
+            "Every loss always requires double payment",
+            "Theft or condemnation carries increased responsibility",
+            "Only the owner of the house pays double"
+          ],
+          "correct": 1,
+          "explanation": "Double payment is required when the thief is found or when one of the parties is condemned, expressing special responsibility for theft."
+        },
+        {
+          "question": "Why does the verse mention different kinds of property, such as an ox, donkey, sheep, garment, or lost item?",
+          "answers": [
+            "To teach that only animals matter",
+            "To describe property belonging only to the sanctuary",
+            "To extend the law to different cases involving property and lost goods"
+          ],
+          "correct": 2,
+          "explanation": "The list emphasizes that the law applies to many kinds of property, not only money or goods."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What situation is described when property is stolen but the thief is not found?",
+          "answers": [
+            "The owner of the house is examined to see whether he took the property",
+            "The keeper must immediately pay double",
+            "The property is divided between the two men"
+          ],
+          "correct": 0,
+          "explanation": "In this situation, the owner of the house is brought before the judges to determine whether he took his neighbor’s property."
+        },
+        {
+          "question": "What can be inferred from the repeated mention of paying “double”?",
+          "answers": [
+            "Every loss always requires double payment",
+            "Theft or condemnation carries increased responsibility",
+            "Only the owner of the house pays double"
+          ],
+          "correct": 1,
+          "explanation": "Double payment is required when the thief is found or when one of the parties is condemned, expressing special responsibility for theft."
+        },
+        {
+          "question": "Why does the verse mention different kinds of property, such as an ox, donkey, sheep, garment, or lost item?",
+          "answers": [
+            "To teach that only animals matter",
+            "To describe property belonging only to the sanctuary",
+            "To extend the law to different cases involving property and lost goods"
+          ],
+          "correct": 2,
+          "explanation": "The list emphasizes that the law applies to many kinds of property, not only money or goods."
+        }
+      ]
+    },
+    {
+      "paragraph": 4,
+      "start_verse": 9,
+      "end_verse": 12,
+      "title": "Keeping Animals",
+      "easy": [
+        {
+          "question": "Which animals are mentioned at the beginning of the passage?",
+          "answers": [
+            "A donkey, an ox, and a sheep",
+            "A camel, goat, and horse",
+            "A lion, bear, and leopard"
+          ],
+          "correct": 0,
+          "explanation": "The verse mentions a donkey, ox, and sheep entrusted to someone for safekeeping."
+        },
+        {
+          "question": "What must the keeper do if the animal is torn by a wild beast?",
+          "answers": [
+            "Pay the owner immediately",
+            "Bring evidence of the attack",
+            "Take another animal"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “Let him bring it for witness,” meaning the keeper must provide evidence that it was torn."
+        },
+        {
+          "question": "What happens if the animal is stolen from the keeper?",
+          "answers": [
+            "The owner pays the keeper",
+            "Neither person pays",
+            "The keeper pays the owner"
+          ],
+          "correct": 2,
+          "explanation": "The verse says, “If it be stolen from him, he shall make restitution unto the owner.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why is an oath required when the animal dies, is injured, or is driven away and no one sees what happened?",
+          "answers": [
+            "So the keeper can testify that he did not take the property",
+            "So the owner can take another animal",
+            "To prove that the animal was healthy"
+          ],
+          "correct": 0,
+          "explanation": "When no witness saw what happened, the keeper swears that he did not take or misuse his neighbor’s property."
+        },
+        {
+          "question": "What does “driven away” mean in the context of “it die, or be hurt, or driven away”?",
+          "answers": [
+            "Sold in the marketplace",
+            "Taken away by force or carried off",
+            "Born while under the keeper’s care"
+          ],
+          "correct": 1,
+          "explanation": "The context places it alongside death and injury, so it refers to the animal being taken or carried away by others."
+        },
+        {
+          "question": "What is the difference between an animal that is stolen and one that is torn by a wild beast?",
+          "answers": [
+            "For theft the keeper pays, but for an attack he brings evidence and does not pay",
+            "For theft there is no responsibility, but for an attack the keeper always pays",
+            "In both cases the keeper swears and pays"
+          ],
+          "correct": 0,
+          "explanation": "For an animal stolen from the keeper, he must pay; for an animal torn by a wild beast, evidence of the attack is sufficient."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Which situation describes a case in which the keeper does not pay after proving his claim?",
+          "answers": [
+            "The animal is stolen and no thief is found",
+            "The animal is torn and the keeper brings evidence",
+            "The animal disappears and the keeper remains silent"
+          ],
+          "correct": 1,
+          "explanation": "The verse makes a special provision for an animal torn by a wild beast: if the keeper brings evidence, he is not required to pay."
+        },
+        {
+          "question": "What can be inferred from “he shall not make it good” after the oath?",
+          "answers": [
+            "The keeper receives payment from the owner",
+            "The owner must swear in the keeper’s place",
+            "The owner accepts the keeper’s oath and does not demand payment"
+          ],
+          "correct": 2,
+          "explanation": "If the keeper swears that he did not take his neighbor’s property, the owner accepts the oath and the keeper is not liable."
+        },
+        {
+          "question": "What order of responsibility emerges from these verses?",
+          "answers": [
+            "The keeper always pays for every loss",
+            "The keeper pays for theft but is exempt when suitable evidence or an oath establishes his innocence",
+            "The owner always pays when an animal is lost"
+          ],
+          "correct": 1,
+          "explanation": "The verses distinguish theft, for which the keeper pays, from cases in which an oath or evidence shows that he was not at fault."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which situation describes a case in which the keeper does not pay after proving his claim?",
+          "answers": [
+            "The animal is stolen and no thief is found",
+            "The animal is torn and the keeper brings evidence",
+            "The animal disappears and the keeper remains silent"
+          ],
+          "correct": 1,
+          "explanation": "The verse makes a special provision for an animal torn by a wild beast: if the keeper brings evidence, he is not required to pay."
+        },
+        {
+          "question": "What can be inferred from “he shall not make it good” after the oath?",
+          "answers": [
+            "The keeper receives payment from the owner",
+            "The owner must swear in the keeper’s place",
+            "The owner accepts the keeper’s oath and does not demand payment"
+          ],
+          "correct": 2,
+          "explanation": "If the keeper swears that he did not take his neighbor’s property, the owner accepts the oath and the keeper is not liable."
+        },
+        {
+          "question": "What order of responsibility emerges from these verses?",
+          "answers": [
+            "The keeper always pays for every loss",
+            "The keeper pays for theft but is exempt when suitable evidence or an oath establishes his innocence",
+            "The owner always pays when an animal is lost"
+          ],
+          "correct": 1,
+          "explanation": "The verses distinguish theft, for which the keeper pays, from cases in which an oath or evidence shows that he was not at fault."
+        }
+      ]
+    },
+    {
+      "paragraph": 5,
+      "start_verse": 13,
+      "end_verse": 14,
+      "title": "Borrowing and Hiring",
+      "easy": [
+        {
+          "question": "From whom did the man borrow the item?",
+          "answers": [
+            "From his neighbor",
+            "From his king",
+            "From his brother"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “If a man borrow ought of his neighbour.”"
+        },
+        {
+          "question": "What happened to the borrowed item?",
+          "answers": [
+            "It was stolen",
+            "It was injured or died",
+            "It was sold"
+          ],
+          "correct": 1,
+          "explanation": "The verse describes an item that was injured or died."
+        },
+        {
+          "question": "What must the borrower do when the owner is not with the item?",
+          "answers": [
+            "Return a different item",
+            "Ask only for forgiveness",
+            "Pay for it"
+          ],
+          "correct": 2,
+          "explanation": "When the owner is not with it, the verse says the borrower must make it good."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the main difference between the two situations described in the verses?",
+          "answers": [
+            "Whether the owner is with the item",
+            "Whether the item is large or small",
+            "Whether the borrower is rich or poor"
+          ],
+          "correct": 0,
+          "explanation": "The obligation depends on whether the owner was with the item when it was injured or died."
+        },
+        {
+          "question": "What is the rule when the owner is with the item?",
+          "answers": [
+            "The borrower pays double",
+            "The borrower does not pay",
+            "The borrower must buy a new item"
+          ],
+          "correct": 1,
+          "explanation": "The verse explicitly says that if the owner is with it, the borrower does not have to make it good."
+        },
+        {
+          "question": "What does “if it be an hired thing, it came for his hire” indicate?",
+          "answers": [
+            "The item was rented for payment",
+            "The item was stolen",
+            "The item was given as a gift"
+          ],
+          "correct": 0,
+          "explanation": "The phrase describes an item obtained in exchange for payment and distinguishes hiring from borrowing."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What detail determines whether the borrower must pay if the item is injured or dies?",
+          "answers": [
+            "How long he used it",
+            "Whether the owner was with it",
+            "Who found the item"
+          ],
+          "correct": 1,
+          "explanation": "The verses distinguish between the owner being absent, when payment is required, and being present, when it is not."
+        },
+        {
+          "question": "What can be understood from the phrase “it came for his hire”?",
+          "answers": [
+            "The item was immediately returned to its owner",
+            "The borrower received payment for using it",
+            "The rental payment is connected to responsibility for the item"
+          ],
+          "correct": 2,
+          "explanation": "The phrase connects the hired item with the payment made for its use and presents a different rule from an unpaid loan."
+        },
+        {
+          "question": "What precise conclusion follows from comparing the verses?",
+          "answers": [
+            "The verses distinguish borrowing from hiring and the owner’s presence from his absence",
+            "All damage to a borrowed item always frees the borrower from payment",
+            "Only the death of a borrowed item requires payment, not injury"
+          ],
+          "correct": 0,
+          "explanation": "The verses mention both injury and death and distinguish the rules according to the owner’s presence and whether the item was hired."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What detail determines whether the borrower must pay if the item is injured or dies?",
+          "answers": [
+            "How long he used it",
+            "Whether the owner was with it",
+            "Who found the item"
+          ],
+          "correct": 1,
+          "explanation": "The verses distinguish between the owner being absent, when payment is required, and being present, when it is not."
+        },
+        {
+          "question": "What can be understood from the phrase “it came for his hire”?",
+          "answers": [
+            "The item was immediately returned to its owner",
+            "The borrower received payment for using it",
+            "The rental payment is connected to responsibility for the item"
+          ],
+          "correct": 2,
+          "explanation": "The phrase connects the hired item with the payment made for its use and presents a different rule from an unpaid loan."
+        },
+        {
+          "question": "What precise conclusion follows from comparing the verses?",
+          "answers": [
+            "The verses distinguish borrowing from hiring and the owner’s presence from his absence",
+            "All damage to a borrowed item always frees the borrower from payment",
+            "Only the death of a borrowed item requires payment, not injury"
+          ],
+          "correct": 0,
+          "explanation": "The verses mention both injury and death and distinguish the rules according to the owner’s presence and whether the item was hired."
+        }
+      ]
+    },
+    {
+      "paragraph": 6,
+      "start_verse": 15,
+      "end_verse": 16,
+      "title": "Seduction and Marriage",
+      "easy": [
+        {
+          "question": "What did the man do according to the verse?",
+          "answers": [
+            "He enticed an unbetrothed virgin and lay with her",
+            "He divorced his wife",
+            "He stole money from her father"
+          ],
+          "correct": 0,
+          "explanation": "The verse describes a man enticing a virgin who was not betrothed and lying with her."
+        },
+        {
+          "question": "What must the man do after lying with the virgin?",
+          "answers": [
+            "Leave the city",
+            "Marry her",
+            "Give her to his brother"
+          ],
+          "correct": 1,
+          "explanation": "The verse says he must surely endow her to be his wife."
+        },
+        {
+          "question": "What happens if the virgin’s father refuses to give her to the man?",
+          "answers": [
+            "The man pays nothing",
+            "The virgin is punished",
+            "The man pays money to her father"
+          ],
+          "correct": 2,
+          "explanation": "If the father refuses, the man must pay money according to the dowry of virgins."
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why does the verse specify that the virgin was not betrothed?",
+          "answers": [
+            "To clarify that she was not engaged to another man",
+            "To say that she was married",
+            "To indicate that she was older"
+          ],
+          "correct": 0,
+          "explanation": "The verse limits the case to a virgin who was not betrothed."
+        },
+        {
+          "question": "What happens in the situation described by “If a man entice a maid”?",
+          "answers": [
+            "He blesses her",
+            "He persuades or seduces her",
+            "He guards her"
+          ],
+          "correct": 1,
+          "explanation": "In this context, the phrase describes a man persuading or seducing the young woman."
+        },
+        {
+          "question": "What order of events is described in the verses?",
+          "answers": [
+            "First the father refuses, and then the man seduces the virgin",
+            "First the man seduces and lies with the virgin, and then the outcome is determined",
+            "First the man pays, and then he asks the father’s permission"
+          ],
+          "correct": 2,
+          "explanation": "The first verse describes the seduction and intercourse, and the second describes what happens if the father refuses."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "Which detail limits the case to a virgin who was not married or betrothed?",
+          "answers": [
+            "The phrase “that is not betrothed”",
+            "The phrase “he shall pay money”",
+            "The phrase “the dowry of virgins”"
+          ],
+          "correct": 0,
+          "explanation": "The phrase “that is not betrothed” explicitly states that she was not engaged."
+        },
+        {
+          "question": "What can be inferred from the possibility that the father might refuse to give his daughter to the man?",
+          "answers": [
+            "The father had the right to consent to or refuse the marriage",
+            "The father was forbidden to become involved",
+            "The man had to marry her regardless of the father’s opinion"
+          ],
+          "correct": 0,
+          "explanation": "The verse explicitly considers the father’s refusal, showing that his decision was significant."
+        },
+        {
+          "question": "What does payment “according to the dowry of virgins” mean?",
+          "answers": [
+            "Payment equal to the price of a slave",
+            "Payment corresponding to the customary marriage payment for a virgin",
+            "A gift given by the virgin to the man"
+          ],
+          "correct": 1,
+          "explanation": "The phrase indicates a customary marriage payment for a virgin."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which detail limits the case to a virgin who was not married or betrothed?",
+          "answers": [
+            "The phrase “that is not betrothed”",
+            "The phrase “he shall pay money”",
+            "The phrase “the dowry of virgins”"
+          ],
+          "correct": 0,
+          "explanation": "The phrase “that is not betrothed” explicitly states that she was not engaged."
+        },
+        {
+          "question": "What can be inferred from the possibility that the father might refuse to give his daughter to the man?",
+          "answers": [
+            "The father had the right to consent to or refuse the marriage",
+            "The father was forbidden to become involved",
+            "The man had to marry her regardless of the father’s opinion"
+          ],
+          "correct": 0,
+          "explanation": "The verse explicitly considers the father’s refusal, showing that his decision was significant."
+        },
+        {
+          "question": "What does payment “according to the dowry of virgins” mean?",
+          "answers": [
+            "Payment equal to the price of a slave",
+            "Payment corresponding to the customary marriage payment for a virgin",
+            "A gift given by the virgin to the man"
+          ],
+          "correct": 1,
+          "explanation": "The phrase indicates a customary marriage payment for a virgin."
+        }
+      ]
+    },
+    {
+      "paragraph": 7,
+      "start_verse": 17,
+      "end_verse": 20,
+      "title": "Serious Prohibitions and Faithfulness",
+      "easy": [
+        {
+          "question": "What is said about a witch in verse 17?",
+          "answers": [
+            "She must not be allowed to live",
+            "She must be given a gift",
+            "She must be sent to Egypt"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Thou shalt not suffer a witch to live.”"
+        },
+        {
+          "question": "What is the punishment for anyone who lies with an animal?",
+          "answers": [
+            "Imprisonment",
+            "Death",
+            "A monetary fine"
+          ],
+          "correct": 1,
+          "explanation": "The verse says that such a person shall surely be put to death."
+        },
+        {
+          "question": "How are the Israelites commanded to treat a stranger?",
+          "answers": [
+            "Drive him away",
+            "Tax him",
+            "Neither vex nor oppress him"
+          ],
+          "correct": 2,
+          "explanation": "The verse commands, “Thou shalt neither vex a stranger, nor oppress him.”"
+        }
+      ],
+      "medium": [
+        {
+          "question": "Why does the verse mention that the Israelites were strangers in Egypt?",
+          "answers": [
+            "To remind them to understand the stranger’s situation",
+            "To command them to return to Egypt",
+            "To explain how to worship idols"
+          ],
+          "correct": 0,
+          "explanation": "Israel’s experience as strangers in Egypt should help them avoid mistreating strangers living among them."
+        },
+        {
+          "question": "What is the order of topics in verses 17–20?",
+          "answers": [
+            "Stranger, witch, animal, sacrifices",
+            "Witch, lying with an animal, sacrifices, stranger",
+            "Sacrifices, stranger, witch, animal"
+          ],
+          "correct": 1,
+          "explanation": "The verses first address a witch, then lying with an animal, sacrifice to other gods, and finally treatment of the stranger."
+        },
+        {
+          "question": "What does the command “Thou shalt neither vex a stranger” require?",
+          "answers": [
+            "Offer a sacrifice",
+            "Do not mistreat or harm him",
+            "Kill him"
+          ],
+          "correct": 1,
+          "explanation": "In context, the command forbids treating a stranger harshly or oppressively."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from “save unto the Lord only”?",
+          "answers": [
+            "Sacrifice is permitted only to the Lord",
+            "Sacrifice is permitted to every god",
+            "All sacrifices are forbidden"
+          ],
+          "correct": 0,
+          "explanation": "The verse permits sacrifice only to the Lord and forbids sacrificing to any other god."
+        },
+        {
+          "question": "Who is meant by the term “stranger” in verse 20?",
+          "answers": [
+            "A priest serving at the sanctuary",
+            "A foreigner living among the people",
+            "An Egyptian living in Egypt"
+          ],
+          "correct": 1,
+          "explanation": "A stranger is a foreigner living among the Israelites, whom the Torah commands them not to mistreat or oppress."
+        },
+        {
+          "question": "Which commandment in these verses is given an explicit reason?",
+          "answers": [
+            "The prohibition against witchcraft",
+            "The prohibition against lying with an animal",
+            "The prohibition against mistreating a stranger"
+          ],
+          "correct": 2,
+          "explanation": "Only the command concerning the stranger is explicitly explained: “For ye were strangers in the land of Egypt.”"
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from “save unto the Lord only”?",
+          "answers": [
+            "Sacrifice is permitted only to the Lord",
+            "Sacrifice is permitted to every god",
+            "All sacrifices are forbidden"
+          ],
+          "correct": 0,
+          "explanation": "The verse permits sacrifice only to the Lord and forbids sacrificing to any other god."
+        },
+        {
+          "question": "Who is meant by the term “stranger” in verse 20?",
+          "answers": [
+            "A priest serving at the sanctuary",
+            "A foreigner living among the people",
+            "An Egyptian living in Egypt"
+          ],
+          "correct": 1,
+          "explanation": "A stranger is a foreigner living among the Israelites, whom the Torah commands them not to mistreat or oppress."
+        },
+        {
+          "question": "Which commandment in these verses is given an explicit reason?",
+          "answers": [
+            "The prohibition against witchcraft",
+            "The prohibition against lying with an animal",
+            "The prohibition against mistreating a stranger"
+          ],
+          "correct": 2,
+          "explanation": "Only the command concerning the stranger is explicitly explained: “For ye were strangers in the land of Egypt.”"
+        }
+      ]
+    },
+    {
+      "paragraph": 8,
+      "start_verse": 21,
+      "end_verse": 23,
+      "title": "Protecting the Vulnerable",
+      "easy": [
+        {
+          "question": "Whom does the verse command the people not to afflict?",
+          "answers": [
+            "A widow or fatherless child",
+            "A king or priest",
+            "A soldier or merchant"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Ye shall not afflict any widow, or fatherless child.”"
+        },
+        {
+          "question": "What does the Lord say He will do when the widow or fatherless child cries to Him?",
+          "answers": [
+            "Ignore the cry",
+            "Hear the cry",
+            "Send them elsewhere"
+          ],
+          "correct": 1,
+          "explanation": "The Lord says, “I will surely hear their cry.”"
+        },
+        {
+          "question": "What will happen to the wives and children of those who afflict the widow and fatherless child?",
+          "answers": [
+            "They will become wealthy",
+            "They will leave the land",
+            "Their wives will become widows and their children fatherless"
+          ],
+          "correct": 2,
+          "explanation": "The verse describes a punishment in which the oppressors’ wives become widows and their children fatherless."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the order of events described in these verses?",
+          "answers": [
+            "Someone afflicts the widow or fatherless child, they cry, and the Lord hears and punishes",
+            "The Lord punishes first, then the widow is afflicted and remains silent",
+            "The widow becomes wealthy, the child goes to war, and the Lord ignores them"
+          ],
+          "correct": 0,
+          "explanation": "The passage first forbids affliction, then describes the cry to the Lord, His hearing, and finally the punishment."
+        },
+        {
+          "question": "What does “afflict” mean in “Ye shall not afflict any widow, or fatherless child”?",
+          "answers": [
+            "Do not bless",
+            "Do not oppress or harm",
+            "Do not invite to a feast"
+          ],
+          "correct": 1,
+          "explanation": "Here, “afflict” means to oppress or harm the widow and fatherless child."
+        },
+        {
+          "question": "Why is the punishment especially connected to the families of the offenders?",
+          "answers": [
+            "Because their families requested the punishment",
+            "Because the offenders were soldiers",
+            "Because they made others vulnerable and will experience a similar condition"
+          ],
+          "correct": 2,
+          "explanation": "Those who afflict widows and fatherless children cause others to suffer loss and vulnerability, so their own families will experience a similar state."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What does the repeated wording “If ye afflict them in any wise” emphasize?",
+          "answers": [
+            "The seriousness of the prohibition and the certainty of punishment",
+            "That affliction is permitted only once",
+            "That the offender must ask permission"
+          ],
+          "correct": 0,
+          "explanation": "The repeated wording strengthens the warning and emphasizes that such mistreatment is very serious."
+        },
+        {
+          "question": "What can be learned from the statement that the Lord will hear the cry of the widow or fatherless child?",
+          "answers": [
+            "Only the cry of many people matters",
+            "Even the cry of one vulnerable person matters before the Lord",
+            "The Lord hears only people of high status"
+          ],
+          "correct": 1,
+          "explanation": "The verse emphasizes that the Lord hears even the cry of one weak and vulnerable person, not only the cry of a large group."
+        },
+        {
+          "question": "What principle of measure for measure appears at the end of the passage?",
+          "answers": [
+            "Those who harm the poor will receive gifts",
+            "Those who cry will not be punished",
+            "Those who make others widows and fatherless will see their own families in a similar condition"
+          ],
+          "correct": 2,
+          "explanation": "The punishment reflects the offense: those who harm widows and fatherless children will cause their own families to experience a similar loss."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does the repeated wording “If ye afflict them in any wise” emphasize?",
+          "answers": [
+            "The seriousness of the prohibition and the certainty of punishment",
+            "That affliction is permitted only once",
+            "That the offender must ask permission"
+          ],
+          "correct": 0,
+          "explanation": "The repeated wording strengthens the warning and emphasizes that such mistreatment is very serious."
+        },
+        {
+          "question": "What can be learned from the statement that the Lord will hear the cry of the widow or fatherless child?",
+          "answers": [
+            "Only the cry of many people matters",
+            "Even the cry of one vulnerable person matters before the Lord",
+            "The Lord hears only people of high status"
+          ],
+          "correct": 1,
+          "explanation": "The verse emphasizes that the Lord hears even the cry of one weak and vulnerable person, not only the cry of a large group."
+        },
+        {
+          "question": "What principle of measure for measure appears at the end of the passage?",
+          "answers": [
+            "Those who harm the poor will receive gifts",
+            "Those who cry will not be punished",
+            "Those who make others widows and fatherless will see their own families in a similar condition"
+          ],
+          "correct": 2,
+          "explanation": "The punishment reflects the offense: those who harm widows and fatherless children will cause their own families to experience a similar loss."
+        }
+      ]
+    },
+    {
+      "paragraph": 9,
+      "start_verse": 24,
+      "end_verse": 26,
+      "title": "Loans to the Poor and Pledges",
+      "easy": [
+        {
+          "question": "What must not be charged to a poor person when lending him money?",
+          "answers": [
+            "Usury",
+            "A gift",
+            "A garment"
+          ],
+          "correct": 0,
+          "explanation": "The verse forbids treating the poor person as an usurer or charging interest."
+        },
+        {
+          "question": "By when must a poor person’s garment taken as a pledge be returned?",
+          "answers": [
+            "By morning",
+            "By sunset",
+            "At the end of the year"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “Thou shalt deliver it unto him by that the sun goeth down.”"
+        },
+        {
+          "question": "Why is it important to return the poor person’s garment?",
+          "answers": [
+            "Because it is expensive",
+            "Because it belongs to his neighbor",
+            "Because it covers his body at night"
+          ],
+          "correct": 2,
+          "explanation": "The garment is his covering and clothing for his skin, in which he sleeps at night."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What behavior is required of a lender to a poor person?",
+          "answers": [
+            "Avoid exploiting him or charging interest",
+            "Demand a large pledge",
+            "Charge high interest"
+          ],
+          "correct": 0,
+          "explanation": "The verse permits lending but forbids treating the poor person as a creditor who charges interest."
+        },
+        {
+          "question": "What does “usury” mean in “neither shalt thou lay upon him usury”?",
+          "answers": [
+            "Physical punishment",
+            "An added charge on the loan",
+            "A garment taken as a pledge"
+          ],
+          "correct": 1,
+          "explanation": "In the context of lending money, usury is an additional payment or interest demanded from the borrower."
+        },
+        {
+          "question": "What is the connection between taking the garment as a pledge and returning it before night?",
+          "answers": [
+            "The garment is meant only for festivals",
+            "It is forbidden to take any garment from anyone",
+            "The poor person needs it for covering himself and sleeping"
+          ],
+          "correct": 2,
+          "explanation": "The verse explains that the garment is the poor person’s covering, so it must be returned before night."
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What moral conclusion follows from the Lord’s promise to hear the cry of the poor?",
+          "answers": [
+            "The lender must treat the poor person compassionately",
+            "It is permissible to ignore the poor person’s cry",
+            "Only the rich may receive loans"
+          ],
+          "correct": 0,
+          "explanation": "The Lord presents Himself as gracious and attentive to the poor person’s cry, so people must show mercy rather than exploit him."
+        },
+        {
+          "question": "What does “it” refer to in “it is his covering only, it is his raiment for his skin”?",
+          "answers": [
+            "The sun",
+            "The poor person’s garment",
+            "The loan"
+          ],
+          "correct": 1,
+          "explanation": "The repeated word refers to the garment taken as a pledge and describes its essential purpose."
+        },
+        {
+          "question": "What can be inferred from the command to return the garment by sunset?",
+          "answers": [
+            "The garment could never be used as a pledge",
+            "The loan was given only during the day",
+            "The garment also served as nighttime covering"
+          ],
+          "correct": 2,
+          "explanation": "Returning the garment before sunset is connected to the poor person’s need to use it for covering himself at night."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What moral conclusion follows from the Lord’s promise to hear the cry of the poor?",
+          "answers": [
+            "The lender must treat the poor person compassionately",
+            "It is permissible to ignore the poor person’s cry",
+            "Only the rich may receive loans"
+          ],
+          "correct": 0,
+          "explanation": "The Lord presents Himself as gracious and attentive to the poor person’s cry, so people must show mercy rather than exploit him."
+        },
+        {
+          "question": "What does “it” refer to in “it is his covering only, it is his raiment for his skin”?",
+          "answers": [
+            "The sun",
+            "The poor person’s garment",
+            "The loan"
+          ],
+          "correct": 1,
+          "explanation": "The repeated word refers to the garment taken as a pledge and describes its essential purpose."
+        },
+        {
+          "question": "What can be inferred from the command to return the garment by sunset?",
+          "answers": [
+            "The garment could never be used as a pledge",
+            "The loan was given only during the day",
+            "The garment also served as nighttime covering"
+          ],
+          "correct": 2,
+          "explanation": "Returning the garment before sunset is connected to the poor person’s need to use it for covering himself at night."
+        }
+      ]
+    },
+    {
+      "paragraph": 10,
+      "start_verse": 27,
+      "end_verse": 30,
+      "title": "Honor, Firstborns, and Holiness",
+      "easy": [
+        {
+          "question": "Whom must not be reviled according to the verse?",
+          "answers": [
+            "God",
+            "One’s neighbor",
+            "An enemy"
+          ],
+          "correct": 0,
+          "explanation": "The verse says, “Thou shalt not revile the gods,” referring here to God."
+        },
+        {
+          "question": "To whom must the firstborn son be given?",
+          "answers": [
+            "To his father",
+            "To the Lord",
+            "To the king"
+          ],
+          "correct": 1,
+          "explanation": "The verse says, “The firstborn of thy sons shalt thou give unto me,” meaning the Lord."
+        },
+        {
+          "question": "How many days must the firstborn animal remain with its mother before being given?",
+          "answers": [
+            "Three days",
+            "Seven days",
+            "Ten days"
+          ],
+          "correct": 1,
+          "explanation": "The verse says it shall be with its mother seven days and be given on the eighth day."
+        }
+      ],
+      "medium": [
+        {
+          "question": "What do the prohibitions at the beginning of the passage have in common?",
+          "answers": [
+            "One must not revile God or curse the ruler",
+            "One must not eat meat or grain",
+            "One must not work for seven days"
+          ],
+          "correct": 0,
+          "explanation": "The passage forbids reviling God and cursing the ruler, protecting their honor in speech."
+        },
+        {
+          "question": "What does “thou shalt not delay to offer” require?",
+          "answers": [
+            "Do not lose the produce",
+            "Do not postpone or hold back the offering",
+            "Do not gather it"
+          ],
+          "correct": 1,
+          "explanation": "In the context of offering the first produce, the command means not to postpone or delay giving it."
+        },
+        {
+          "question": "What command is given alongside the command not to delay offering the first produce?",
+          "answers": [
+            "Keep all the produce for yourself",
+            "Wait a month before giving it",
+            "Give the firstborn of your sons to the Lord"
+          ],
+          "correct": 2,
+          "explanation": "The same verse says, “The firstborn of thy sons shalt thou give unto me.”"
+        }
+      ],
+      "challenge": [
+        {
+          "question": "What can be inferred from connecting “holy men” with the prohibition against eating torn meat?",
+          "answers": [
+            "Holiness is also expressed through eating practices",
+            "Only priests must follow holiness laws",
+            "Holiness means avoiding all work"
+          ],
+          "correct": 0,
+          "explanation": "The passage connects being holy with following rules about food and the treatment of meat torn by animals."
+        },
+        {
+          "question": "What should be done with the flesh of an animal torn in the field?",
+          "answers": [
+            "Cook it immediately",
+            "Throw it to the dogs",
+            "Give it to the firstborn"
+          ],
+          "correct": 1,
+          "explanation": "The verse forbids eating the flesh and commands, “Unto the dog shall ye cast it.”"
+        },
+        {
+          "question": "What is the precise difference between the firstborn animal and the firstborn son in this passage?",
+          "answers": [
+            "Only the firstborn son is connected with the Lord",
+            "Only the firstborn animal is given after seven days",
+            "Only the firstborn son remains with its mother"
+          ],
+          "correct": 1,
+          "explanation": "The animal is specifically kept with its mother for seven days and given on the eighth; no such waiting period is stated here for sons."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What can be inferred from connecting “holy men” with the prohibition against eating torn meat?",
+          "answers": [
+            "Holiness is also expressed through eating practices",
+            "Only priests must follow holiness laws",
+            "Holiness means avoiding all work"
+          ],
+          "correct": 0,
+          "explanation": "The passage connects being holy with following rules about food and the treatment of meat torn by animals."
+        },
+        {
+          "question": "What should be done with the flesh of an animal torn in the field?",
+          "answers": [
+            "Cook it immediately",
+            "Throw it to the dogs",
+            "Give it to the firstborn"
+          ],
+          "correct": 1,
+          "explanation": "The verse forbids eating the flesh and commands, “Unto the dog shall ye cast it.”"
+        },
+        {
+          "question": "What is the precise difference between the firstborn animal and the firstborn son in this passage?",
+          "answers": [
+            "Only the firstborn son is connected with the Lord",
+            "Only the firstborn animal is given after seven days",
+            "Only the firstborn son remains with its mother"
+          ],
+          "correct": 1,
+          "explanation": "The animal is specifically kept with its mother for seven days and given on the eighth; no such waiting period is stated here for sons."
+        }
+      ]
+    }
+  ]
+}
