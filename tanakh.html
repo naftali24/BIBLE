@@ -3775,7 +3775,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 .verse.genesisPhraseSpacing{position:relative}
 .karaokePhraseGloss{position:absolute;inset:0;pointer-events:none;z-index:21}
 .karaokePhraseGlossCaption{
-  position:absolute;box-sizing:border-box;width:max-content;
+  position:absolute;box-sizing:border-box;width:max-content;max-width:calc(100% - 8px);
   background:rgba(0,0,0,.67);border-radius:4px;box-shadow:0 1px 3px #0008;
   color:#fff;font:700 13px/1.25 Arial,sans-serif;text-align:center;
   white-space:normal;overflow-wrap:anywhere;padding:1px 4px;
@@ -3831,7 +3831,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   }
   function phraseAt(verse,word){
     let state=versePhrases.get(verse);
-    if(state?.key!==glossesKey||!state.matches.has(word)&&!state.words.has(word)){
+    if(!state||state.key!==glossesKey||!state.words.has(word)){
       const words=Array.from(verse.querySelectorAll('.karaokeWord'));
       state={key:glossesKey,matches:matchPhrases(words),words:new Set(words)};
       versePhrases.set(verse,state);
@@ -3873,13 +3873,15 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         label.caption=caption;
         label.append(caption);
       }
-      caption.style.maxWidth=verse.clientWidth+'px';
-      caption.style.minWidth=(widest.right-widest.left)+'px';
-      const left=widest.left-origin.left-verse.clientLeft+verse.scrollLeft;
-      const width=caption.offsetWidth;
-      const centered=left+(widest.right-widest.left-width)/2;
-      const bounded=Math.min(Math.max(centered,verse.scrollLeft),verse.scrollLeft+verse.clientWidth-width);
-      caption.style.left=(bounded-verse.scrollLeft)+'px';
+      // Keep the caption inside its verse and centered above the actual phrase.
+      // Never force the caption wider than the verse (long phrases may wrap).
+      const available=Math.max(1,verse.clientWidth-8);
+      caption.style.maxWidth=available+'px';
+      caption.style.minWidth=Math.min(available,widest.right-widest.left)+'px';
+      const width=Math.min(caption.offsetWidth,available);
+      const center=(widest.left+widest.right)/2-origin.left-verse.clientLeft;
+      const bounded=Math.max(4,Math.min(center-width/2,verse.clientWidth-width-4));
+      caption.style.left=bounded+'px';
       const height=caption.getBoundingClientRect().height;
       caption.style.top=(widest.top-origin.top-verse.clientTop+verse.scrollTop-height-2)+'px';
       captionHeight=Math.max(captionHeight,height);
