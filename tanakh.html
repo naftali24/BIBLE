@@ -3073,6 +3073,7 @@ function stopVerseButtonPlayback(){
     verseButtonEl.textContent='🔊';
   }
   verseButtonEl = null;
+  lockedVerse=-1; stopAtTime=null;
   try { audio.pause(); } catch(e) {}
   document.querySelectorAll('.karaokeWord.karaokeActive')
     .forEach(x=>x.classList.remove('karaokeActive'));
@@ -3172,6 +3173,20 @@ document.addEventListener('click', async function(ev){
     const p=audio.play();
     if(p&&p.catch)await p.catch(()=>{});
   }catch(err){}
+},true);
+
+// Global English verse-button completion: independent of karaoke/word handlers.
+audio.addEventListener('timeupdate',function(){
+  if(language!=='en'||!verseButtonEl||audio.paused)return;
+  const vi=Number(verseButtonEl.dataset.vi);
+  if(!Number.isInteger(vi)||vi<0)return;
+  const end=englishTimingEnd(vi);
+  if(Number.isFinite(end)&&audio.currentTime>=sourceTime(end)-0.04){
+    stopVerseButtonPlayback();
+  }
+},true);
+audio.addEventListener('ended',function(){
+  if(verseButtonEl)stopVerseButtonPlayback();
 },true);
 
 audio.addEventListener('timeupdate',function(){
