@@ -2567,7 +2567,7 @@ function playOneVerse(i){
   setActive(i,true);
   seekAndPlayAbsolute(target);
 }
-function stopAudio(){sequenceMode=false;sequenceLastVerse=-1;sequenceStartTarget=null;sequenceFloorTime=null;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null}
+function stopAudio(){++absoluteSeekSerial;sequenceMode=false;sequenceLastVerse=-1;sequenceStartTarget=null;sequenceFloorTime=null;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null;updateSequenceButtonIcon()}
 function toggleAudioMute(){
   userAudioMuted=!userAudioMuted;
   audio.muted=userAudioMuted;
@@ -2695,6 +2695,9 @@ audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&locked
 
 function updateSequenceButtonIcon(){const b=document.getElementById("sequenceBtn");if(!b)return;b.textContent=audio.paused?"🔊":"⏸";b.classList.toggle("audioPlaying",!audio.paused);b.title=audio.paused?"נגן רצף":"השהה נגינה";}
 audio.addEventListener("play",updateSequenceButtonIcon);audio.addEventListener("pause",updateSequenceButtonIcon);audio.addEventListener("ended",updateSequenceButtonIcon);
+// At the final synchronized verse, stop playback even when the MP3 has a trailing tail.
+audio.addEventListener("timeupdate",()=>{if(!data||audio.paused||language!=="en"||!sequenceMode)return;const count=Array.isArray(data.english)?data.english.length:0;if(!count)return;const end=englishTimingEnd(count-1);if(Number.isFinite(end)&&audio.currentTime>=sourceTime(end)-0.05){stopAudio();}});
+audio.addEventListener("ended",()=>{sequenceMode=false;lockedVerse=-1;stopAtTime=null;updateSequenceButtonIcon();});
 function playSequence(){
   // A second press pauses any currently playing chapter/verse/word audio.
   if(!audio.paused){audio.pause();updateSequenceButtonIcon();return;}
