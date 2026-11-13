@@ -3879,7 +3879,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
       const width=caption.offsetWidth;
       const centered=left+(widest.right-widest.left-width)/2;
       const bounded=Math.min(Math.max(centered,verse.scrollLeft),verse.scrollLeft+verse.clientWidth-width);
-      caption.style.left=(bounded-left)+'px';
+      caption.style.left=(bounded-verse.scrollLeft)+'px';
       const height=caption.getBoundingClientRect().height;
       caption.style.top=(widest.top-origin.top-verse.clientTop+verse.scrollTop-height-2)+'px';
       captionHeight=Math.max(captionHeight,height);
@@ -3902,7 +3902,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
     verse.style.setProperty('--genesis-gloss-top-padding',topPadding);
     return true;
   }
-  // Keep existing glosses in place; shift a later gloss left if it overlaps.
+  // Anchor each small gloss to its own word, even when the line wraps.
   const measure=document.createElement('canvas').getContext('2d');
   function placeGlosses(){
     if(!measure)return;
@@ -3922,16 +3922,11 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         const center=(rect.left+rect.right)/2;
         const bottom=rect.top-2;
         const top=bottom-18.25;
-        let shift=0;
-        // Earlier labels retain their location. Shift each later label left until clear.
-        for(let attempts=0;attempts<placed.length+2;attempts++){
-          const left=center-width/2-shift, right=left+width;
-          const overlap=placed.find(p=>top<p.bottom && bottom>p.top && left<p.right+3 && right>p.left-3);
-          if(!overlap)break;
-          shift=Math.max(shift,center+width/2-overlap.left+4);
-        }
-        el.style.setProperty('--gloss-left-shift',shift+'px');
-        placed.push({left:center-width/2-shift,right:center+width/2-shift,top,bottom});
+        // Avoid the old cumulative left-shift, which detached captions from words.
+        // The word itself is the positioning anchor; overlaps are preferable
+        // to a caption appearing over an unrelated word.
+        el.style.setProperty('--gloss-left-shift','0px');
+        placed.push({left:center-width/2,right:center+width/2,top,bottom});
       }
     }
   }
