@@ -2567,7 +2567,7 @@ function playOneVerse(i){
   setActive(i,true);
   seekAndPlayAbsolute(target);
 }
-function stopAudio(){++absoluteSeekSerial;sequenceMode=false;sequenceLastVerse=-1;sequenceStartTarget=null;sequenceFloorTime=null;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null;updateSequenceButtonIcon()}
+function stopAudio(){++absoluteSeekSerial;sequenceMode=false;sequenceLastVerse=-1;sequenceStartTarget=null;sequenceFloorTime=null;audio.pause();audio.muted=userAudioMuted;lockedVerse=-1;stopAtTime=null;if(typeof verseButtonEl!=='undefined'&&verseButtonEl){verseButtonEl.classList.remove('playing');verseButtonEl.textContent='🔊';verseButtonEl=null;}if(typeof verseButtonStopAt!=='undefined')verseButtonStopAt=null;updateSequenceButtonIcon()}
 function toggleAudioMute(){
   userAudioMuted=!userAudioMuted;
   audio.muted=userAudioMuted;
@@ -2691,7 +2691,7 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);if(language==='en' && typeof stopVerseButtonPlayback==='function' && verseButtonEl)stopVerseButtonPlayback();lockedVerse=-1;stopAtTime=null;return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
 
 function updateSequenceButtonIcon(){const b=document.getElementById("sequenceBtn");if(!b)return;b.textContent=audio.paused?"🔊":"⏸";b.classList.toggle("audioPlaying",!audio.paused);b.title=audio.paused?"נגן רצף":"השהה נגינה";}
 audio.addEventListener("play",updateSequenceButtonIcon);audio.addEventListener("pause",updateSequenceButtonIcon);audio.addEventListener("ended",updateSequenceButtonIcon);
@@ -3183,7 +3183,7 @@ audio.addEventListener('timeupdate',function(){
 },true);
 
 audio.addEventListener('ended',function(){
-  if(verseButtonStopAt!=null) stopVerseButtonPlayback();
+  if(verseButtonEl!=null) stopVerseButtonPlayback();
 });
 
 
