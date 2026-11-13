@@ -3441,6 +3441,10 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   transition:opacity .4s ease,visibility .4s ease;
 }
 #verseArrowRow #imageScrollHint.visible{opacity:1;visibility:visible}
+/* Show the audio icon only after the initial scroll instruction disappears. */
+#verseArrowRow.scrollHintPending #verseAudioDock .verseAudioBtn,
+#verseArrowRow.scrollHintVisible #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
+
 </style>
 <script id="image-scroll-hint-logic">
 (function(){
@@ -3450,6 +3454,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   hint.id='imageScrollHint';hint.setAttribute('aria-live','polite');
   row.appendChild(hint);
   let shown=false, timer=null;
+  row.classList.add('scrollHintPending');
   function updateLanguage(){
     hint.textContent=(typeof language!=='undefined'&&language==='en')
       ? 'You can also scroll on the image' : 'אפשר לגלול גם על התמונה';
@@ -3462,6 +3467,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
     shown=true;
     hint.classList.add('visible');
     row.classList.add('scrollHintVisible');
+    row.classList.remove('scrollHintPending');
     timer=setTimeout(()=>{
       hint.classList.remove('visible');
       row.classList.remove('scrollHintVisible');
