@@ -4176,26 +4176,39 @@ html body.lang-en.audioControlsDismissed #sequenceBtn{display:none!important;vis
 </script>
 
 <style id="gloss-dismiss-on-tap-style">
-/* Hide only the selected definition, leaving the verse and other definitions intact. */
+/* A definition is clickable; clicking its word restores it. */
+.karaokeWord[data-genesis-gloss]::before{pointer-events:auto!important;cursor:pointer!important}
 .karaokeWord[data-genesis-gloss].glossDismissed::before{content:none!important;display:none!important}
+.karaokePhraseGloss{pointer-events:none!important}
+.karaokePhraseGlossCaption{pointer-events:auto!important;cursor:pointer!important}
 .karaokePhraseGloss.glossDismissed{display:none!important}
 </style>
 <script id="gloss-dismiss-on-tap-script">
 (function(){
   document.addEventListener('click',function(event){
-    const word=event.target.closest('.karaokeWord');
+    const caption=event.target.closest('.karaokePhraseGlossCaption');
+    if(caption){
+      const label=caption.closest('.karaokePhraseGloss');
+      if(label){label.classList.add('glossDismissed');event.preventDefault();event.stopImmediatePropagation();}
+      return;
+    }
+    const word=event.target.closest('.karaokeWord[data-genesis-gloss]');
     if(!word)return;
-    if(word.hasAttribute('data-genesis-gloss')){
+    const wordRect=word.getBoundingClientRect();
+    // The ::before definition sits above the word. A tap there hides it;
+    // a tap on the actual verse word always shows it again.
+    const tappedDefinition=event.clientY < wordRect.top - 1 && !word.classList.contains('glossDismissed');
+    if(tappedDefinition){
       word.classList.add('glossDismissed');
       word.classList.remove('glossRaised');
+      event.preventDefault();event.stopImmediatePropagation();
+    }else{
+      word.classList.remove('glossDismissed');
+      const verse=word.closest('.verse');
+      verse?.querySelectorAll('.karaokePhraseGloss.glossDismissed').forEach(function(label){
+        if(label.phrase?.words?.includes(word))label.classList.remove('glossDismissed');
+      });
     }
-    const verse=word.closest('.verse');
-    if(!verse)return;
-    verse.querySelectorAll('.karaokePhraseGloss').forEach(function(label){
-      if(label.phrase && label.phrase.words && label.phrase.words.includes(word)){
-        label.classList.add('glossDismissed');
-      }
-    });
   },true);
 })();
 </script>
