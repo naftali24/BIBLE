@@ -4174,4 +4174,29 @@ html body.lang-en.audioControlsDismissed #sequenceBtn{display:none!important;vis
   },true);
 })();
 </script>
+
+<style id="gloss-dismiss-on-tap-style">
+/* Hide only the selected definition, leaving the verse and other definitions intact. */
+.karaokeWord[data-genesis-gloss].glossDismissed::before{content:none!important;display:none!important}
+.karaokePhraseGloss.glossDismissed{display:none!important}
+</style>
+<script id="gloss-dismiss-on-tap-script">
+(function(){
+  document.addEventListener('click',function(event){
+    const word=event.target.closest('.karaokeWord');
+    if(!word)return;
+    if(word.hasAttribute('data-genesis-gloss')){
+      word.classList.add('glossDismissed');
+      word.classList.remove('glossRaised');
+    }
+    const verse=word.closest('.verse');
+    if(!verse)return;
+    verse.querySelectorAll('.karaokePhraseGloss').forEach(function(label){
+      if(label.phrase && label.phrase.words && label.phrase.words.includes(word)){
+        label.classList.add('glossDismissed');
+      }
+    });
+  },true);
+})();
+</script>
 </body></html>
