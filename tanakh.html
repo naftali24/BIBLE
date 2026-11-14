@@ -3821,8 +3821,8 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
 /* Keep a difficult word's gloss visible once it is highlighted. */
 .karaokeWord[data-genesis-gloss]{position:relative;isolation:isolate}
 .karaokeWord[data-genesis-gloss]::before{
-  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px);right:50%;
-  transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;
+  content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px + var(--gloss-lane, 0) * 20px);right:50%;
+  transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;max-width:calc(100vw - 14px);
   font:700 13px/1.25 Arial,sans-serif;color:#fff;background:rgba(0,0,0,.67);
   padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
   box-shadow:0 1px 3px #0008;
@@ -3978,29 +3978,36 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
           const width=measure.measureText(label).width+10;
           return {el,rect,width,center:(rect.left+rect.right)/2};
         }).filter(item=>item.rect.width);
-      // Keep captions on one horizontal line. Shift an overlapping caption
-      // to the left, rather than stacking it above its neighbor.
+      // Lay out captions inside the viewport; prevent collisions by using
+      // additional vertical lanes when the current row has no free space.
       const lineGroups=[];
       for(const item of wordItems){
         let group=lineGroups.find(g=>Math.abs(g.top-item.rect.top)<4);
         if(!group){group={top:item.rect.top,items:[]};lineGroups.push(group);}
         group.items.push(item);
       }
+      const verseRect=verse.getBoundingClientRect();
+      const leftBound=Math.max(7,verseRect.left+5);
+      const rightBound=Math.min(window.innerWidth-7,verseRect.right-5);
+      const gap=7;
       for(const group of lineGroups){
-        // Right-to-left order: the caption on the left moves farther left.
         group.items.sort((a,b)=>b.center-a.center);
-        let previousLeft=Infinity;
+        const lanes=[];
         for(const item of group.items){
-          const desiredRight=item.center+item.width/2;
-          const right=Math.min(desiredRight,previousLeft-4);
-          let shift=Math.max(0,desiredRight-right);
-          // Keep the entire gloss inside the visible screen, including RTL left edge.
-          const minLeft=Math.max(5,verse.getBoundingClientRect().left+3);
-          const leftAfterShift=desiredRight-shift-item.width;
-          if(leftAfterShift<minLeft)shift=Math.max(0,desiredRight-item.width-minLeft);
-          item.el.style.setProperty('--gloss-left-shift',shift+'px');
-          item.el.style.setProperty('--gloss-lane','0');
-          previousLeft=right-item.width;
+          const width=Math.min(item.width,Math.max(30,rightBound-leftBound));
+          const desiredLeft=item.center-width/2;
+          let best=null;
+          for(let lane=0;lane<12;lane++){
+            const nextRight=lanes[lane]===undefined?rightBound:lanes[lane]-gap;
+            const left=Math.min(Math.max(desiredLeft,leftBound),rightBound-width,nextRight-width);
+            if(left>=leftBound-0.1){best={lane,left};break;}
+          }
+          if(!best)best={lane:lanes.length,left:leftBound};
+          lanes[best.lane]=best.left;
+          // Positive shift moves left, negative shift moves right.
+          const shift=desiredLeft-best.left;
+          item.el.style.setProperty('--gloss-left-shift',shift.toFixed(2)+'px');
+          item.el.style.setProperty('--gloss-lane',String(best.lane));
         }
       }
     }
