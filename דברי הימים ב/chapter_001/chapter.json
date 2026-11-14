@@ -171,6 +171,11 @@
   ],
   "times": [],
   "times_he": [],
+  "english_audio_tail": {
+    "url": "https://audio-bible-cdn.youversionapi.com/8/32k/2CH/2-f6f2b747696bc9374f4ad8de0d180628.mp3?version_id=1",
+    "at": 204.12,
+    "start": 2.88
+  },
   "times_en": [
     {
       "start": 4.6,
@@ -256,6 +261,11 @@
       "start": 181.98,
       "end": 204.12,
       "usfm": "2CH.1.17"
+    },
+    {
+      "start": 204.12,
+      "end": 210.58,
+      "usfm": "2CH.2.1"
     }
   ],
   "times_en_source": "YouVersion KJV version_id=1",
@@ -276,7 +286,8 @@
     161.94,
     173.08,
     181.98,
-    204.12
+    204.12,
+    210.58
   ],
   "times_en_usfm": [
     "2CH.1.1",
@@ -295,7 +306,8 @@
     "2CH.1.14",
     "2CH.1.15",
     "2CH.1.16",
-    "2CH.1.17"
+    "2CH.1.17",
+    "2CH.2.1"
   ],
   "english_text_source": "KJV",
   "audio_start_offset": 0,

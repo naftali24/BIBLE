@@ -2056,8 +2056,13 @@ function sourceTime(t){
   const base=activeAudioOffset()+Number(t||0);
   return Math.max(0,base);
 }
+// Some chapters end with a verse recorded at the start of the next English track.
+function englishTailOffset(){
+  const tail=data?.english_audio_tail;
+  return language==='en'&&tail&&audio.src===tail.url ? tail.at-tail.start : 0;
+}
 function chapterTimeFromAudio(){
-  return Math.max(0,audio.currentTime-activeAudioOffset());
+  return Math.max(0,audio.currentTime-activeAudioOffset()+englishTailOffset());
 }
 
 // Seek only after the MP3 is ready. Some Android/Chrome versions ignore
@@ -2065,7 +2070,19 @@ function chapterTimeFromAudio(){
 let absoluteSeekSerial=0;
 function seekAndPlayAbsolute(seconds){
   const serial=++absoluteSeekSerial;
-  const target=Math.max(0,Number(seconds)||0);
+  let target=Math.max(0,Number(seconds)||0);
+  const tail=language==='en'?data?.english_audio_tail:null;
+  if(tail){
+    const useTail=target>=tail.at;
+    const src=useTail?tail.url:data.audio_en_url;
+    if(useTail)target-=tail.at-tail.start;
+    if(audio.src!==src){
+      const playbackRate=audio.playbackRate;
+      audio.src=src;
+      audio.load();
+      audio.playbackRate=playbackRate;
+    }
+  }
   const doPlay=()=>{
     if(serial!==absoluteSeekSerial)return;
     // Stop the old position before seeking, so no audio can leak from before
@@ -2691,13 +2708,27 @@ function currentAudioVerse(){
 }
 // Stop a single-verse playback exactly at the next time tag in both languages.
 // No extra seconds are added after the Hebrew or English tag.
-audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&audio.currentTime>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-0.02);setActive(lockedVerse,false);if(language==='en' && typeof stopVerseButtonPlayback==='function' && verseButtonEl)stopVerseButtonPlayback();lockedVerse=-1;stopAtTime=null;return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
+audio.addEventListener('timeupdate',()=>{if(!data)return;if(audio.paused&&lockedVerse<0)return;if(typeof clickedWordStopAt!=='undefined'&&clickedWordStopAt!=null)return;updateWordKaraoke();if(typeof verseButtonStopAt!=='undefined'&&verseButtonStopAt!=null)return;if(sequenceMode&&sequenceStartTarget!==null)sequenceStartTarget=null;if(lockedVerse>=0){const extraEndSeconds=(language==='en'?0:1.5);const verseStop=stopAtTime!==null?sourceTime(stopAtTime)+extraEndSeconds:null;if(verseStop!==null&&chapterTimeFromAudio()+activeAudioOffset()>=verseStop-0.04){audio.pause();audio.currentTime=Math.max(0,verseStop-englishTailOffset()-0.02);setActive(lockedVerse,false);if(language==='en' && typeof stopVerseButtonPlayback==='function' && verseButtonEl)stopVerseButtonPlayback();lockedVerse=-1;stopAtTime=null;return}setActive(lockedVerse,false);return}if(!sequenceMode)return;const seqVerse=currentAudioVerse();if(seqVerse!==sequenceLastVerse){sequenceLastVerse=seqVerse;lastReadingVerse=seqVerse;lastSyncedVerse=seqVerse;setActive(seqVerse,false);}else{setActive(seqVerse,false);}});
 
 function updateSequenceButtonIcon(){const b=document.getElementById("sequenceBtn");if(!b)return;b.textContent=audio.paused?"🔊":"⏸";b.classList.toggle("audioPlaying",!audio.paused);b.title=audio.paused?"נגן רצף":"השהה נגינה";}
 audio.addEventListener("play",updateSequenceButtonIcon);audio.addEventListener("pause",updateSequenceButtonIcon);audio.addEventListener("ended",updateSequenceButtonIcon);
 // At the final synchronized verse, stop playback even when the MP3 has a trailing tail.
-audio.addEventListener("timeupdate",()=>{if(!data||audio.paused||language!=="en"||!sequenceMode)return;const count=Array.isArray(data.english)?data.english.length:0;if(!count)return;const end=englishTimingEnd(count-1);if(Number.isFinite(end)&&audio.currentTime>=sourceTime(end)-0.05){stopAudio();}});
-audio.addEventListener("ended",()=>{sequenceMode=false;lockedVerse=-1;stopAtTime=null;updateSequenceButtonIcon();});
+function playEnglishTail(){
+  const tail=data?.english_audio_tail;
+  if(language!=='en'||!sequenceMode||!tail||audio.src===tail.url)return false;
+  if(!audio.ended&&audio.currentTime<tail.at-0.05)return false;
+  seekAndPlayAbsolute(tail.at);
+  return true;
+}
+audio.addEventListener('timeupdate',()=>{
+  if(!data||audio.paused||language!=='en'||!sequenceMode)return;
+  if(playEnglishTail())return;
+  const count=Array.isArray(data.english)?data.english.length:0;
+  if(!count)return;
+  const end=englishTimingEnd(count-1);
+  if(Number.isFinite(end)&&chapterTimeFromAudio()>=end-0.05)stopAudio();
+});
+audio.addEventListener("ended",()=>{if(playEnglishTail())return;sequenceMode=false;lockedVerse=-1;stopAtTime=null;updateSequenceButtonIcon();});
 function playSequence(){
   // A second press pauses any currently playing chapter/verse/word audio.
   if(!audio.paused){audio.pause();updateSequenceButtonIcon();return;}
@@ -3112,7 +3143,7 @@ document.addEventListener('click', async function(ev){
       ? data?.english_verse37_audio_url
       : (data?.audio_en_url||data?.english_audio_url||'');
     if(!src) return;
-    if(audio.src!==src){ audio.src=src; audio.load(); }
+    if(!data.english_audio_tail&&audio.src!==src){ audio.src=src; audio.load(); }
     audio.playbackRate=Number(speedSel.value||1);
     rememberReadingVerse(vi);
     setActive(vi,false);
@@ -3181,7 +3212,7 @@ audio.addEventListener('timeupdate',function(){
   const vi=Number(verseButtonEl.dataset.vi);
   if(!Number.isInteger(vi)||vi<0)return;
   const end=englishTimingEnd(vi);
-  if(Number.isFinite(end)&&audio.currentTime>=sourceTime(end)-0.04){
+  if(Number.isFinite(end)&&chapterTimeFromAudio()>=end-0.04){
     stopVerseButtonPlayback();
   }
 },true);
