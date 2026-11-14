@@ -3490,8 +3490,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   transition:none;
 }
 #verseArrowRow #imageScrollHint.visible{opacity:1;visibility:visible}
-/* Show the audio icon only after the initial scroll instruction disappears. */
-#verseArrowRow.scrollHintPending #verseAudioDock .verseAudioBtn,
+/* Audio and bottom language button appear together when the scroll hint disappears. */
 #verseArrowRow.scrollHintVisible #verseAudioDock .verseAudioBtn{visibility:hidden!important;pointer-events:none!important;}
 
 </style>
@@ -3824,7 +3823,7 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
   content:attr(data-genesis-gloss);position:absolute;bottom:calc(100% + 2px + var(--gloss-lane, 0) * 20px);right:50%;
   transform:translateX(calc(50% - var(--gloss-left-shift, 0px)));white-space:nowrap;direction:rtl;max-width:calc(100vw - 14px);
   font:700 13px/1.25 Arial,sans-serif;color:#fff;background:rgba(0,0,0,.67);
-  padding:1px 4px;border-radius:4px;z-index:20;pointer-events:none;
+  padding:1px 5px;border-radius:4px;z-index:20;pointer-events:none;
   box-shadow:0 1px 3px #0008;
 }
 .verse.genesisPhraseSpacing{position:relative}
