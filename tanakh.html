@@ -3487,7 +3487,7 @@ btn.addEventListener('click',()=>{if(!verseCards.length){alert(en()?'Please load
   font-size:clamp(17px,3.5vw,29px);line-height:1.12;text-align:center;
   text-shadow:0 1px #fff0a0,0 3px #875100,0 5px 8px #000;
   pointer-events:none;z-index:1;opacity:0;visibility:hidden;
-  transition:opacity .4s ease,visibility .4s ease;
+  transition:none;
 }
 #verseArrowRow #imageScrollHint.visible{opacity:1;visibility:visible}
 /* Show the audio icon only after the initial scroll instruction disappears. */
@@ -3993,7 +3993,11 @@ body.lang-he .card .verse.genesisGlossSpacing{line-height:var(--genesis-gloss-li
         for(const item of group.items){
           const desiredRight=item.center+item.width/2;
           const right=Math.min(desiredRight,previousLeft-4);
-          const shift=Math.max(0,desiredRight-right);
+          let shift=Math.max(0,desiredRight-right);
+          // Keep the entire gloss inside the visible screen, including RTL left edge.
+          const minLeft=Math.max(5,verse.getBoundingClientRect().left+3);
+          const leftAfterShift=desiredRight-shift-item.width;
+          if(leftAfterShift<minLeft)shift=Math.max(0,desiredRight-item.width-minLeft);
           item.el.style.setProperty('--gloss-left-shift',shift+'px');
           item.el.style.setProperty('--gloss-lane','0');
           previousLeft=right-item.width;
@@ -4141,6 +4145,27 @@ html body.lang-en.audioControlsDismissed #sequenceBtn{display:none!important;vis
     dismissed=false;
     document.body.classList.remove('audioControlsDismissed');
   });
+})();
+</script>
+
+<style id="gloss-click-and-audio-sync-fix">
+/* No fade delay: audio appears in the same frame as the scroll instruction disappears. */
+#verseArrowRow #imageScrollHint{transition:none!important}
+/* Allow a selected gloss to rise above neighboring glosses. */
+.karaokeWord[data-genesis-gloss]{cursor:pointer!important}
+.karaokeWord[data-genesis-gloss].glossRaised{z-index:200!important;isolation:isolate!important}
+.karaokeWord[data-genesis-gloss].glossRaised::before{z-index:201!important;background:rgba(4,27,56,.96)!important;box-shadow:0 2px 9px #000!important}
+</style>
+<script id="gloss-click-raise-fix">
+(function(){
+  document.addEventListener('pointerdown',function(e){
+    const word=e.target.closest('.karaokeWord[data-genesis-gloss]');
+    if(!word)return;
+    const verse=word.closest('.verse');
+    if(!verse)return;
+    verse.querySelectorAll('.glossRaised').forEach(el=>el.classList.remove('glossRaised'));
+    word.classList.add('glossRaised');
+  },true);
 })();
 </script>
 </body></html>
